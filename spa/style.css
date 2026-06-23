@@ -365,7 +365,7 @@ body.no-gloss .para { padding-bottom: 32px; }
     height: 10px;
     border-radius: 2px;
 }
-.vocab-head .legend .l-core::before { background: var(--ink); }
+.vocab-head .legend .l-core::before { background: var(--accent); }
 .vocab-head .legend .l-out::before { background: var(--warm); }
 
 .vocab-grid {
@@ -385,6 +385,7 @@ body.no-gloss .para { padding-bottom: 32px; }
     box-shadow: 0 3px 12px rgba(0,80,200,0.07);
     transform: translateY(-1px);
 }
+.card.core { border-left: 3px solid #0066ff; }
 .card.outline { border-left: 3px solid #e87a40; }
 .card-top {
     display: flex;
@@ -675,6 +676,7 @@ footer {
     .para-num { color: #000 !important; }
     .w { color: #0055bb !important; background: none !important; font-weight: 600 !important; cursor: text; padding: 0; }
     .card { background: #fff !important; border: 1px solid #ccc !important; box-shadow: none !important; transform: none !important; break-inside: avoid; page-break-inside: avoid; }
+    .card.core { border-left: 3px solid #0066ff !important; }
     .card.outline { border-left: 3px solid #e87a40 !important; }
     .card:hover { box-shadow: none !important; transform: none !important; }
     .extra.col { background: #f5f5f5 !important; color: #333 !important; }
