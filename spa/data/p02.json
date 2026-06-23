@@ -91,7 +91,7 @@
     },
     {
       "word": "year",
-      "type": "core",
+      "type": "outline",
       "ctx": "年",
       "phonetic": "[jɪə(r)]",
       "defs": [
@@ -117,7 +117,7 @@
     },
     {
       "word": "their",
-      "type": "core",
+      "type": "outline",
       "ctx": "他们的",
       "phonetic": "[ðeə(r)]",
       "defs": [
@@ -143,7 +143,7 @@
     },
     {
       "word": "family",
-      "type": "core",
+      "type": "outline",
       "ctx": "家人",
       "phonetic": "[ˈfæməli]",
       "defs": [
@@ -169,7 +169,7 @@
     },
     {
       "word": "make",
-      "type": "core",
+      "type": "outline",
       "ctx": "做",
       "phonetic": "[meɪk]",
       "defs": [
@@ -195,7 +195,7 @@
     },
     {
       "word": "decision",
-      "type": "core",
+      "type": "outline",
       "ctx": "决定",
       "phonetic": "[dɪˈsɪʒn]",
       "defs": [
@@ -221,7 +221,7 @@
     },
     {
       "word": "about",
-      "type": "core",
+      "type": "outline",
       "ctx": "关于",
       "phonetic": "[əˈbaʊt]",
       "defs": [
@@ -255,7 +255,7 @@
     },
     {
       "word": "where",
-      "type": "core",
+      "type": "outline",
       "ctx": "哪里",
       "phonetic": "[weə(r)]",
       "defs": [
@@ -289,7 +289,7 @@
     },
     {
       "word": "college",
-      "type": "core",
+      "type": "outline",
       "ctx": "大学",
       "phonetic": "[ˈkɒlɪdʒ]",
       "defs": [
@@ -315,7 +315,7 @@
     },
     {
       "word": "often",
-      "type": "core",
+      "type": "outline",
       "ctx": "经常",
       "phonetic": "[ˈɒfn]",
       "defs": [
@@ -367,7 +367,7 @@
     },
     {
       "word": "system",
-      "type": "core",
+      "type": "outline",
       "ctx": "系统",
       "phonetic": "[ˈsɪstəm]",
       "defs": [
@@ -393,7 +393,7 @@
     },
     {
       "word": "help",
-      "type": "core",
+      "type": "outline",
       "ctx": "帮助",
       "phonetic": "[help]",
       "defs": [
@@ -419,7 +419,7 @@
     },
     {
       "word": "however",
-      "type": "core",
+      "type": "outline",
       "ctx": "然而",
       "phonetic": "[haʊˈevə(r)]",
       "defs": [
@@ -445,7 +445,7 @@
     },
     {
       "word": "ignore",
-      "type": "core",
+      "type": "outline",
       "ctx": "忽略",
       "phonetic": "[ɪɡˈnɔː(r)]",
       "defs": [
@@ -471,7 +471,7 @@
     },
     {
       "word": "critical",
-      "type": "core",
+      "type": "outline",
       "ctx": "关键的",
       "phonetic": "[ˈkrɪtɪkl]",
       "defs": [
@@ -497,7 +497,7 @@
     },
     {
       "word": "factor",
-      "type": "core",
+      "type": "outline",
       "ctx": "因素",
       "phonetic": "[ˈfæktə(r)]",
       "defs": [
@@ -535,7 +535,7 @@
     },
     {
       "word": "talk",
-      "type": "core",
+      "type": "outline",
       "ctx": "交谈",
       "phonetic": "[tɔːk]",
       "defs": [
@@ -607,7 +607,7 @@
     },
     {
       "word": "education",
-      "type": "core",
+      "type": "outline",
       "ctx": "教育",
       "phonetic": "[ˌedʒuˈkeɪʃn]",
       "defs": [
@@ -685,7 +685,7 @@
     },
     {
       "word": "even",
-      "type": "core",
+      "type": "outline",
       "ctx": "甚至",
       "phonetic": "[ˈiːvn]",
       "defs": [
@@ -731,7 +731,7 @@
     },
     {
       "word": "more",
-      "type": "core",
+      "type": "outline",
       "ctx": "更",
       "phonetic": "[mɔː(r)]",
       "defs": [
@@ -829,7 +829,7 @@
     },
     {
       "word": "score",
-      "type": "core",
+      "type": "outline",
       "ctx": "得分",
       "phonetic": "[skɔː(r)]",
       "defs": [
@@ -875,7 +875,7 @@
     },
     {
       "word": "than",
-      "type": "core",
+      "type": "outline",
       "ctx": "比",
       "phonetic": "[ðən; ðæn]",
       "defs": [
@@ -901,7 +901,7 @@
     },
     {
       "word": "fact",
-      "type": "core",
+      "type": "outline",
       "ctx": "事实",
       "phonetic": "[fækt]",
       "defs": [
@@ -927,7 +927,7 @@
     },
     {
       "word": "shift",
-      "type": "core",
+      "type": "outline",
       "ctx": "转移",
       "phonetic": "[ʃɪft]",
       "defs": [
@@ -973,7 +973,7 @@
     },
     {
       "word": "emphasis",
-      "type": "core",
+      "type": "outline",
       "ctx": "重点",
       "phonetic": "[ˈemfəsɪs]",
       "defs": [
@@ -1025,7 +1025,7 @@
     },
     {
       "word": "link",
-      "type": "core",
+      "type": "outline",
       "ctx": "联系",
       "phonetic": "[lɪŋk]",
       "defs": [
@@ -1071,7 +1071,7 @@
     },
     {
       "word": "between",
-      "type": "core",
+      "type": "outline",
       "ctx": "之间",
       "phonetic": "[bɪˈtwiːn]",
       "defs": [
@@ -1143,7 +1143,7 @@
     },
     {
       "word": "wide",
-      "type": "core",
+      "type": "outline",
       "ctx": "广泛的",
       "phonetic": "[waɪd]",
       "defs": [
@@ -1169,7 +1169,7 @@
     },
     {
       "word": "low",
-      "type": "core",
+      "type": "outline",
       "ctx": "低的",
       "phonetic": "[ləʊ]",
       "defs": [
@@ -1203,7 +1203,7 @@
     },
     {
       "word": "place",
-      "type": "core",
+      "type": "outline",
       "ctx": "赋予",
       "phonetic": "[pleɪs]",
       "defs": [
@@ -1275,7 +1275,7 @@
     },
     {
       "word": "view",
-      "type": "core",
+      "type": "outline",
       "ctx": "视为",
       "phonetic": "[vjuː]",
       "defs": [
@@ -1309,7 +1309,7 @@
     },
     {
       "word": "increase",
-      "type": "core",
+      "type": "outline",
       "ctx": "增加",
       "phonetic": "[ɪnˈkriːs] / [ˈɪŋkriːs]",
       "defs": [
@@ -1395,7 +1395,7 @@
     },
     {
       "word": "therefore",
-      "type": "core",
+      "type": "outline",
       "ctx": "因此",
       "phonetic": "[ˈðeəfɔː(r)]",
       "defs": [
@@ -1421,7 +1421,7 @@
     },
     {
       "word": "highly",
-      "type": "core",
+      "type": "outline",
       "ctx": "高度",
       "phonetic": "[ˈhaɪli]",
       "defs": [
@@ -1499,7 +1499,7 @@
     },
     {
       "word": "salary",
-      "type": "core",
+      "type": "outline",
       "ctx": "工资",
       "phonetic": "[ˈsæləri]",
       "defs": [
@@ -1525,7 +1525,7 @@
     },
     {
       "word": "result",
-      "type": "core",
+      "type": "outline",
       "ctx": "结果",
       "phonetic": "[rɪˈzʌlt]",
       "defs": [
@@ -1563,7 +1563,7 @@
     },
     {
       "word": "continue",
-      "type": "core",
+      "type": "outline",
       "ctx": "继续",
       "phonetic": "[kənˈtɪnjuː]",
       "defs": [
@@ -1589,7 +1589,7 @@
     },
     {
       "word": "traditional",
-      "type": "core",
+      "type": "outline",
       "ctx": "传统的",
       "phonetic": "[trəˈdɪʃənl]",
       "defs": [
@@ -1615,7 +1615,7 @@
     },
     {
       "word": "lecture",
-      "type": "core",
+      "type": "outline",
       "ctx": "授课",
       "phonetic": "[ˈlektʃə(r)]",
       "defs": [
@@ -1653,7 +1653,7 @@
     },
     {
       "word": "lead",
-      "type": "core",
+      "type": "outline",
       "ctx": "导致",
       "phonetic": "[liːd]",
       "defs": [
@@ -1687,7 +1687,7 @@
     },
     {
       "word": "nevertheless",
-      "type": "core",
+      "type": "outline",
       "ctx": "然而",
       "phonetic": "[ˌnevəðəˈles]",
       "defs": [
@@ -1713,7 +1713,7 @@
     },
     {
       "word": "much",
-      "type": "core",
+      "type": "outline",
       "ctx": "多",
       "phonetic": "[mʌtʃ]",
       "defs": [
@@ -1747,7 +1747,7 @@
     },
     {
       "word": "reward",
-      "type": "core",
+      "type": "outline",
       "ctx": "回报",
       "phonetic": "[rɪˈwɔːd]",
       "defs": [
@@ -1793,7 +1793,7 @@
     },
     {
       "word": "resource",
-      "type": "core",
+      "type": "outline",
       "ctx": "资源",
       "phonetic": "[rɪˈsɔːs]",
       "defs": [
@@ -1831,7 +1831,7 @@
     },
     {
       "word": "long",
-      "type": "core",
+      "type": "outline",
       "ctx": "长远",
       "phonetic": "[lɒŋ]",
       "defs": [
@@ -1873,7 +1873,7 @@
     },
     {
       "word": "organization",
-      "type": "core",
+      "type": "outline",
       "ctx": "机构",
       "phonetic": "[ˌɔːɡənaɪˈzeɪʃn]",
       "defs": [
@@ -1899,7 +1899,7 @@
     },
     {
       "word": "work",
-      "type": "core",
+      "type": "outline",
       "ctx": "努力",
       "phonetic": "[wɜːk]",
       "defs": [
@@ -1945,7 +1945,7 @@
     },
     {
       "word": "core",
-      "type": "core",
+      "type": "outline",
       "ctx": "核心",
       "phonetic": "[kɔː(r)]",
       "defs": [
@@ -1979,7 +1979,7 @@
     },
     {
       "word": "part",
-      "type": "core",
+      "type": "outline",
       "ctx": "部分",
       "phonetic": "[pɑːt]",
       "defs": [
@@ -2025,7 +2025,7 @@
     },
     {
       "word": "mission",
-      "type": "core",
+      "type": "outline",
       "ctx": "使命",
       "phonetic": "[ˈmɪʃn]",
       "defs": [
@@ -2063,7 +2063,7 @@
     },
     {
       "word": "should",
-      "type": "core",
+      "type": "outline",
       "ctx": "应该",
       "phonetic": "[ʃʊd; ʃəd]",
       "defs": [
@@ -2089,7 +2089,7 @@
     },
     {
       "word": "strong",
-      "type": "core",
+      "type": "outline",
       "ctx": "认真",
       "phonetic": "[strɒŋ]",
       "defs": [
@@ -2141,7 +2141,7 @@
     },
     {
       "word": "though",
-      "type": "core",
+      "type": "outline",
       "ctx": "尽管",
       "phonetic": "[ðəʊ]",
       "defs": [
@@ -2179,7 +2179,7 @@
     },
     {
       "word": "may",
-      "type": "core",
+      "type": "outline",
       "ctx": "可能",
       "phonetic": "[meɪ]",
       "defs": [
