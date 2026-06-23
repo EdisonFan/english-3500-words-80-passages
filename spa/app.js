@@ -128,8 +128,15 @@ function renderPassageContent(id, data) {
         '</div></div></div>';
     
     // 2. 正文
+    var unitTitle = '';
+    for (var i = 0; i < UNITS.length; i++) {
+        if (id >= UNITS[i].start && id <= UNITS[i].end) {
+            unitTitle = UNITS[i].title;
+            break;
+        }
+    }
     html += '<div class="wrap"><article class="article">' +
-        '<div class="section-tag">English · 单词下方带上下文释义</div>';
+        '<div class="section-tag">English · ' + (unitTitle || '') + '</div>';
     
     data.paragraphs.forEach(function(p) {
         html += '<div class="para"><div class="para-num">' + p.num + '</div>' +
