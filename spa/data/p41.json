@@ -1,0 +1,1649 @@
+{
+  "id": 41,
+  "stats": {
+    "words": 325,
+    "core": 49
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "{Dogs greet} each other nose-first, as it were— {sniffing} each other from {fore} to {aft} .People are not quite so open about the process of sniffing each other out.But the {size} of the {perfume industry} suggests {scent} is important in human {relations} , too.There is also {evidence} that human {beings} can {infer} kinship ( (亲戚关系) ), {deduce} emotional states and even {detect} disease {via} the sense of smell.",
+      "cn": "可以说， 狗 会先用鼻子互相 打招呼 ——从 前 到 后 地把对方 闻 一遍。而人类在相互了解彼此的过程中可不会这么直白。不过， 香水产业 的 规模 却表明， 气味 在人际 关系 中也很重要。还有 证据 表明， 人类 可以 通过 嗅觉 推断 亲缘关系， 推测 情绪状态，甚至 检测 出疾病。"
+    },
+    {
+      "num": "02",
+      "en": "Now, researchers from the Weizmann {Institute} of Science in Israel have gone a step further.They think they have shown, {admittedly} in a {fairly} small {sample} of individuals, that friends actually smell {alike} .They have also shown that this is probably the case from the beginning, with people picking friends at least {partly} on the {basis} of body odor ( (气味) ), rather than the body odors of people who become friends {subsequently} converging ( (趋同) ).",
+      "cn": "现在，以色列魏茨曼科学 研究院 的研究者已经又向前迈进了一步。他们认为自己的研究已经说明，能做朋友的人确实闻起来 很像 —— 当然 ，研究的 样本 仅包括 相当 少数的个体。他们还证明，这种情况很可能从一开始就是如此。也就是说，至少 在一定程度上 ，人们是 根据 气味来挑选朋友的，而不是在朋友关系建立 之后 ，气味才逐渐趋同。"
+    },
+    {
+      "num": "03",
+      "en": "They started their research by testing the odors of 20 {pairs} of same-sex friends who were not in a {romantic} relationship.They did this using an {electronic nose} and also two groups of specially employed human “smellers”.The e-nose employed a set of {gas sensors} to {assess T-shirts worn} by participants.One group of human smellers were given pairs of these shirts and asked to {rate} how similar they smelt.Those in the other group were asked to rate the odors of individual T-shirts on five {subjective dimensions} : {pleasantness} , {intensity} , {attractiveness} , {competence} and warmth.All three approaches {yielded} the same result.The T-shirts of friends smelt more similar to each other than the T-shirts of {strangers} .Friends, in other words, do {indeed} smell alike.",
+      "cn": "他们首先对20 对 处于非 恋爱 关系的同性朋友身上的气味进行了测试。他们使用了一个 电子鼻 ，以及两组专门雇用的人类“嗅探员”来进行测试。电子鼻使用一组 气体传感器 来 评估 参与者 穿 过的 T恤衫 。一组人类“嗅探员”拿到成对的T恤衫，并按要求 评定 它们的气味相似程度。另一组人则被要求通过五个 主观维度 对单件T恤衫的气味进行评分，包括 愉悦度 、 浓烈程度 、 吸引力 、 能力 和温暖感。这三种测试方法都 得出 了相同的结果。与 陌生人 的T恤衫相比，朋友的T恤衫闻起来更相似。换句话说，朋友之间 确实 有类似的气味。"
+    },
+    {
+      "num": "04",
+      "en": "Why scent might play a role in forming friendships remains obscure.Other qualities related to being friends, including age, appearance, education, {religion} and race, are either immediately obvious or rapidly become so.But while some individuals have strong and {noticeable} body odor, many—at least since the use of {soap} has become {widespread} —do not.It is {present} .But it is {subconscious} .",
+      "cn": "气味为何可以在友谊的形成过程中发挥作用仍不得而知。与成为朋友相关的其他特质，包括年龄、外貌、受教育程度、 宗教信仰 和种族，要么是一目了然，要么很快就能知晓。然而，尽管有些人有强烈而 明显的 体味，但许多人——至少自从 肥皂广泛 使用以来——并非如此。体味是 存在的 ，不过它是 潜意识的 。 5NoOncib/NjiX02BpMIzP4m+378Hw1xTRxUdPaP/PFjKUFq4K2G7tp6ZLYoCE601yW1W39VMdLmovFdSHs4nVQ=="
+    }
+  ],
+  "vocab": [
+    {
+      "word": "dog",
+      "type": "outline",
+      "ctx": "狗",
+      "phonetic": "[dɒɡ]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "狗"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "dog",
+          "phonetic": "[dɒɡ]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "狗"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "greet",
+      "type": "outline",
+      "ctx": "向……问好（或打招呼），迎接",
+      "phonetic": "[ɡriːt]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "向……问好（或打招呼），迎接"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "greet",
+          "phonetic": "[ɡriːt]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "向……问好（或打招呼），迎接"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "sniff",
+      "type": "core",
+      "ctx": "用力吸",
+      "phonetic": "[snɪf]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "用力吸；嗅，闻"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "sniff sb./sth.out嗅出；觉察出"
+        }
+      ],
+      "words": [
+        {
+          "word": "sniff",
+          "phonetic": "[snɪf]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "用力吸；嗅，闻"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "sniff sb./sth.out嗅出；觉察出"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fore",
+      "type": "core",
+      "ctx": "在（或向）船头",
+      "phonetic": "[fɔː(r)]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "在（或向）船头；在（或向）机尾"
+        },
+        {
+          "pos": "n.",
+          "meaning": "前面部分"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "前部的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "fore",
+          "phonetic": "[fɔː(r)]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "在（或向）船头；在（或向）机尾"
+            },
+            {
+              "pos": "n.",
+              "meaning": "前面部分"
+            },
+            {
+              "pos": "adj.",
+              "meaning": "前部的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "aft",
+      "type": "core",
+      "ctx": "在（或向）船尾",
+      "phonetic": "[ɑːft]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "在（或向）船尾；在（或向）机尾"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "尾部的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "aft",
+          "phonetic": "[ɑːft]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "在（或向）船尾；在（或向）机尾"
+            },
+            {
+              "pos": "adj.",
+              "meaning": "尾部的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "size",
+      "type": "outline",
+      "ctx": "大小，尺寸，尺码",
+      "phonetic": "[saɪz]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "大小，尺寸，尺码；规模"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "size",
+          "phonetic": "[saɪz]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "大小，尺寸，尺码；规模"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "perfume",
+      "type": "core",
+      "ctx": "香味",
+      "phonetic": "[ˈpɜːfjuːm]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "香味；香水"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "perfume",
+          "phonetic": "[ˈpɜːfjuːm]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "香味；香水"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "industry",
+      "type": "outline",
+      "ctx": "工业",
+      "phonetic": "[ˈɪndəstri]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "工业；行业；勤劳"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "industry",
+          "phonetic": "[ˈɪndəstri]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "工业；行业；勤劳"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "scent",
+      "type": "core",
+      "ctx": "气味",
+      "phonetic": "[sent]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "气味；香味"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "scent",
+          "phonetic": "[sent]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "气味；香味"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "relation",
+      "type": "core",
+      "ctx": "关系",
+      "phonetic": "[rɪˈleɪʃn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "关系；亲属"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "relation",
+          "phonetic": "[rɪˈleɪʃn]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "关系；亲属"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "evidence",
+      "type": "outline",
+      "ctx": "证据，证明",
+      "phonetic": "[ˈevɪdəns]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "证据，证明"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：e（出）+vid（看见）+ence（表名词）→眼见为实→证据"
+        },
+        {
+          "type": "ex",
+          "label": "例",
+          "text": "According to a review of evidence in a medical journal, runners live three years longer than non-runners.根据一份医学期刊上对相关证据的述评，跑步者比不跑步的人寿命要长三年。"
+        }
+      ],
+      "words": [
+        {
+          "word": "evidence",
+          "phonetic": "[ˈevɪdəns]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "证据，证明"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：e（出）+vid（看见）+ence（表名词）→眼见为实→证据"
+            },
+            {
+              "type": "ex",
+              "label": "例",
+              "text": "According to a review of evidence in a medical journal, runners live three years longer than non-runners.根据一份医学期刊上对相关证据的述评，跑步者比不跑步的人寿命要长三年。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "being",
+      "type": "outline",
+      "ctx": "生物",
+      "phonetic": "[ˈbiːɪŋ]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "生物；存在"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "human being人"
+        }
+      ],
+      "words": [
+        {
+          "word": "being",
+          "phonetic": "[ˈbiːɪŋ]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "生物；存在"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "human being人"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "infer",
+      "type": "outline",
+      "ctx": "（inferred, inferred, inferring）推论，推断",
+      "phonetic": "[ɪnˈfɜː(r)]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "（inferred, inferred, inferring）推论，推断"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "联想记忆：推断（infer）出其中的暗示（imply）"
+        }
+      ],
+      "words": [
+        {
+          "word": "infer",
+          "phonetic": "[ɪnˈfɜː(r)]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "（inferred, inferred, inferring）推论，推断"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "联想记忆：推断（infer）出其中的暗示（imply）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deduce",
+      "type": "core",
+      "ctx": "推论，推断",
+      "phonetic": "[dɪˈdjuːs]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "推论，推断；演绎"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "deduce",
+          "phonetic": "[dɪˈdjuːs]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "推论，推断；演绎"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "detect",
+      "type": "outline",
+      "ctx": "发现，察觉",
+      "phonetic": "[dɪˈtekt]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "发现，察觉；侦察出"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：de（去掉）+tect（遮盖）→去除遮盖→发现，察觉"
+        }
+      ],
+      "words": [
+        {
+          "word": "detect",
+          "phonetic": "[dɪˈtekt]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "发现，察觉；侦察出"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：de（去掉）+tect（遮盖）→去除遮盖→发现，察觉"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "via",
+      "type": "core",
+      "ctx": "经，经由，通过",
+      "phonetic": "[ˈvaɪə]",
+      "defs": [
+        {
+          "pos": "prep.",
+          "meaning": "经，经由，通过"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "via",
+          "phonetic": "[ˈvaɪə]",
+          "defs": [
+            {
+              "pos": "prep.",
+              "meaning": "经，经由，通过"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "institute",
+      "type": "outline",
+      "ctx": "协会，研究所",
+      "phonetic": "[ˈɪnstɪtjuːt]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "协会，研究所"
+        },
+        {
+          "pos": "vt.",
+          "meaning": "建立，制定"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：in+stitute（建立）→建立"
+        },
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "research institute研究所"
+        }
+      ],
+      "words": [
+        {
+          "word": "institute",
+          "phonetic": "[ˈɪnstɪtjuːt]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "协会，研究所"
+            },
+            {
+              "pos": "vt.",
+              "meaning": "建立，制定"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：in+stitute（建立）→建立"
+            },
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "research institute研究所"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "admittedly",
+      "type": "core",
+      "ctx": "诚然，无可否认",
+      "phonetic": "[ədˈmɪtɪdli]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "诚然，无可否认"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "admittedly",
+          "phonetic": "[ədˈmɪtɪdli]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "诚然，无可否认"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "fairly",
+      "type": "core",
+      "ctx": "相当",
+      "phonetic": "[ˈfeəli]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "相当；还算；公正地"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "fairly",
+          "phonetic": "[ˈfeəli]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "相当；还算；公正地"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "sample",
+      "type": "outline",
+      "ctx": "样本，样品",
+      "phonetic": "[ˈsɑːmpl]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "样本，样品"
+        },
+        {
+          "pos": "vt.",
+          "meaning": "采样；尝试；品尝"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "联想记忆：制作样品（sample）不简单（simple）"
+        },
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "sample size样本量，样本大小"
+        }
+      ],
+      "words": [
+        {
+          "word": "sample",
+          "phonetic": "[ˈsɑːmpl]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "样本，样品"
+            },
+            {
+              "pos": "vt.",
+              "meaning": "采样；尝试；品尝"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "联想记忆：制作样品（sample）不简单（simple）"
+            },
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "sample size样本量，样本大小"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "alike",
+      "type": "core",
+      "ctx": "相像的",
+      "phonetic": "[əˈlaɪk]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "相像的"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "很相似地；同样地"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "alike",
+          "phonetic": "[əˈlaɪk]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "相像的"
+            },
+            {
+              "pos": "adv.",
+              "meaning": "很相似地；同样地"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "partly",
+      "type": "core",
+      "ctx": "部分地，一定程度上",
+      "phonetic": "[ˈpɑːtli]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "部分地，一定程度上"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "partly",
+          "phonetic": "[ˈpɑːtli]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "部分地，一定程度上"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "basis",
+      "type": "outline",
+      "ctx": "（复数bases）基础",
+      "phonetic": "[ˈbeɪsɪs]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "（复数bases）基础；依据；原因"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "on the basis of以……为由，基于，根据"
+        }
+      ],
+      "words": [
+        {
+          "word": "basis",
+          "phonetic": "[ˈbeɪsɪs]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "（复数bases）基础；依据；原因"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "on the basis of以……为由，基于，根据"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "subsequently",
+      "type": "core",
+      "ctx": "后来，之后，随后",
+      "phonetic": "[ˈsʌbsɪkwəntli]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "后来，之后，随后"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "subsequently",
+          "phonetic": "[ˈsʌbsɪkwəntli]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "后来，之后，随后"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "pair",
+      "type": "outline",
+      "ctx": "一双，一对",
+      "phonetic": "[peə(r)]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "一双，一对"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "用",
+          "text": "a pair of+复数名词作主语时，谓语动词与pair保持一致，用单数第三人称形式。"
+        }
+      ],
+      "words": [
+        {
+          "word": "pair",
+          "phonetic": "[peə(r)]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "一双，一对"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "用",
+              "text": "a pair of+复数名词作主语时，谓语动词与pair保持一致，用单数第三人称形式。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "romantic",
+      "type": "outline",
+      "ctx": "浪漫主义的",
+      "phonetic": "[rəʊˈmæntɪk]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "浪漫主义的；浪漫的，爱情的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "浪漫的人；浪漫主义作家"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "发音记忆：“罗曼蒂克”→浪漫的"
+        },
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "romantic poet浪漫主义诗人"
+        }
+      ],
+      "words": [
+        {
+          "word": "romantic",
+          "phonetic": "[rəʊˈmæntɪk]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "浪漫主义的；浪漫的，爱情的"
+            },
+            {
+              "pos": "n.",
+              "meaning": "浪漫的人；浪漫主义作家"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "发音记忆：“罗曼蒂克”→浪漫的"
+            },
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "romantic poet浪漫主义诗人"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "electronic",
+      "type": "outline",
+      "ctx": "电子的",
+      "phonetic": "[ɪˌlekˈtrɒnɪk]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "电子的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "electronic",
+          "phonetic": "[ɪˌlekˈtrɒnɪk]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "电子的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "nose",
+      "type": "outline",
+      "ctx": "鼻子",
+      "phonetic": "[nəʊz]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "鼻子；嗅觉"
+        },
+        {
+          "pos": "vi.",
+          "meaning": "（用鼻子）嗅"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "nose",
+          "phonetic": "[nəʊz]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "鼻子；嗅觉"
+            },
+            {
+              "pos": "vi.",
+              "meaning": "（用鼻子）嗅"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "gas",
+      "type": "outline",
+      "ctx": "天然气",
+      "phonetic": "[ɡæs]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "天然气；气体；汽油"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "greenhouse gas温室气体"
+        }
+      ],
+      "words": [
+        {
+          "word": "gas",
+          "phonetic": "[ɡæs]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "天然气；气体；汽油"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "greenhouse gas温室气体"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sensor",
+      "type": "core",
+      "ctx": "传感器",
+      "phonetic": "[ˈsensə(r)]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "传感器"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "sensor",
+          "phonetic": "[ˈsensə(r)]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "传感器"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "assess",
+      "type": "outline",
+      "ctx": "估算",
+      "phonetic": "[əˈses]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "估算；评估，评定"
+        }
+      ],
+      "extras": [
+        {
+          "type": "ex",
+          "label": "例",
+          "text": "Once there, Lenoue was assessed and later taken to a hospital.一到那里，丽诺尔就被评估了伤势，随后被送往医院。"
+        }
+      ],
+      "words": [
+        {
+          "word": "assess",
+          "phonetic": "[əˈses]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "估算；评估，评定"
+            }
+          ],
+          "extras": [
+            {
+              "type": "ex",
+              "label": "例",
+              "text": "Once there, Lenoue was assessed and later taken to a hospital.一到那里，丽诺尔就被评估了伤势，随后被送往医院。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "T-shirt",
+      "type": "outline",
+      "ctx": "T恤衫",
+      "phonetic": "[ˈti ʃɜːt]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "T恤衫"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "T-shirt",
+          "phonetic": "[ˈti ʃɜːt]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "T恤衫"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "wear",
+      "type": "outline",
+      "ctx": "（wore, worn, wearing）穿，戴",
+      "phonetic": "[weə(r)]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "（wore, worn, wearing）穿，戴；留，蓄"
+        },
+        {
+          "pos": "vi.",
+          "meaning": "磨损，用旧"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "wear",
+          "phonetic": "[weə(r)]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "（wore, worn, wearing）穿，戴；留，蓄"
+            },
+            {
+              "pos": "vi.",
+              "meaning": "磨损，用旧"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "rate",
+      "type": "outline",
+      "ctx": "评价",
+      "phonetic": "[reɪt]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "评价；划分等级"
+        },
+        {
+          "pos": "n.",
+          "meaning": "[C]比率；费用；价格；速度"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "rate",
+          "phonetic": "[reɪt]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "评价；划分等级"
+            },
+            {
+              "pos": "n.",
+              "meaning": "[C]比率；费用；价格；速度"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "subjective",
+      "type": "outline",
+      "ctx": "主观的",
+      "phonetic": "[səbˈdʒektɪv]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "主观的"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "联想记忆：事实是客观的（objective），感情是主观的（subjective）"
+        }
+      ],
+      "words": [
+        {
+          "word": "subjective",
+          "phonetic": "[səbˈdʒektɪv]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "主观的"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "联想记忆：事实是客观的（objective），感情是主观的（subjective）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dimension",
+      "type": "outline",
+      "ctx": "尺寸",
+      "phonetic": "[daɪˈmenʃn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "尺寸；范围；方面"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：di+mens（测量）+ion→有关测量的→尺寸"
+        }
+      ],
+      "words": [
+        {
+          "word": "dimension",
+          "phonetic": "[daɪˈmenʃn]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "尺寸；范围；方面"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：di+mens（测量）+ion→有关测量的→尺寸"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pleasantness",
+      "type": "core",
+      "ctx": "愉快",
+      "phonetic": "[ˈplezntnəs]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "愉快；亲切友好"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "pleasantness",
+          "phonetic": "[ˈplezntnəs]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "愉快；亲切友好"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "intensity",
+      "type": "core",
+      "ctx": "强烈，紧张",
+      "phonetic": "[ɪnˈtensəti]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "强烈，紧张；强度"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "intensity",
+          "phonetic": "[ɪnˈtensəti]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "强烈，紧张；强度"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "attractiveness",
+      "type": "core",
+      "ctx": "吸引力",
+      "phonetic": "[əˈtræktɪvnəs]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "吸引力"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "attractiveness",
+          "phonetic": "[əˈtræktɪvnəs]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "吸引力"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "competence",
+      "type": "outline",
+      "ctx": "能力",
+      "phonetic": "[ˈkɒmpɪtəns]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "能力"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "联想记忆：在竞争（compete）中，有能力（competence）的人才能胜出"
+        }
+      ],
+      "words": [
+        {
+          "word": "competence",
+          "phonetic": "[ˈkɒmpɪtəns]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "能力"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "联想记忆：在竞争（compete）中，有能力（competence）的人才能胜出"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "yield",
+      "type": "core",
+      "ctx": "出产（作物）",
+      "phonetic": "[jiːld]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "出产（作物）；产生（收益等）"
+        },
+        {
+          "pos": "vi.",
+          "meaning": "屈服"
+        },
+        {
+          "pos": "n.",
+          "meaning": "产量"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "yield",
+          "phonetic": "[jiːld]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "出产（作物）；产生（收益等）"
+            },
+            {
+              "pos": "vi.",
+              "meaning": "屈服"
+            },
+            {
+              "pos": "n.",
+              "meaning": "产量"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "stranger",
+      "type": "outline",
+      "ctx": "陌生人",
+      "phonetic": "[ˈstreɪndʒə(r)]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "陌生人；外地人，新来者"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "stranger",
+          "phonetic": "[ˈstreɪndʒə(r)]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "陌生人；外地人，新来者"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "indeed",
+      "type": "outline",
+      "ctx": "确实，实在",
+      "phonetic": "[ɪnˈdiːd]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "确实，实在"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "indeed",
+          "phonetic": "[ɪnˈdiːd]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "确实，实在"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "religion",
+      "type": "core",
+      "ctx": "宗教，宗教信仰",
+      "phonetic": "[rɪˈlɪdʒən]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "宗教，宗教信仰"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "religion",
+          "phonetic": "[rɪˈlɪdʒən]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "宗教，宗教信仰"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "noticeable",
+      "type": "core",
+      "ctx": "显而易见的",
+      "phonetic": "[ˈnəʊtɪsəbl]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "显而易见的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "noticeable",
+          "phonetic": "[ˈnəʊtɪsəbl]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "显而易见的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "soap",
+      "type": "core",
+      "ctx": "肥皂",
+      "phonetic": "[səʊp]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "肥皂"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "soap",
+          "phonetic": "[səʊp]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "肥皂"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "widespread",
+      "type": "outline",
+      "ctx": "分布广的，普遍的，广泛的",
+      "phonetic": "[ˈwaɪdspred]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "分布广的，普遍的，广泛的"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "合成词：wide（宽广的）+spread（传播，分布）→分布广的"
+        }
+      ],
+      "words": [
+        {
+          "word": "widespread",
+          "phonetic": "[ˈwaɪdspred]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "分布广的，普遍的，广泛的"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "合成词：wide（宽广的）+spread（传播，分布）→分布广的"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "present",
+      "type": "outline",
+      "ctx": "当前的",
+      "phonetic": "[ˈpreznt]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "当前的；在场的；存在的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "礼物"
+        },
+        {
+          "pos": "vt.",
+          "meaning": "授予；提交；显示"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "present",
+          "phonetic": "[ˈpreznt]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "当前的；在场的；存在的"
+            },
+            {
+              "pos": "n.",
+              "meaning": "礼物"
+            },
+            {
+              "pos": "vt.",
+              "meaning": "授予；提交；显示"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "subconscious",
+      "type": "core",
+      "ctx": "下意识的，潜意识的",
+      "phonetic": "[ˌsʌbˈkɒnʃəs]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "下意识的，潜意识的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "subconscious",
+          "phonetic": "[ˌsʌbˈkɒnʃəs]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "下意识的，潜意识的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    }
+  ]
+}

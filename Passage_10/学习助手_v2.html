@@ -1,0 +1,1057 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Passage 10 · v2</title>
+<style>
+
+:root {
+    --font-display: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", "PingFang SC", sans-serif;
+    --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", "PingFang SC", sans-serif;
+    --font-cn: "Microsoft YaHei", "PingFang SC", "Hiragino Sans GB", sans-serif;
+    --font-mono: "Cascadia Code", "Consolas", "Courier New", monospace;
+    --bg: #ffffff;
+    --bg-soft: #fafafa;
+    --bg-card: #f5f5f7;
+    --ink: #0a0a0a;
+    --ink-2: #1f1f1f;
+    --ink-3: #525252;
+    --ink-4: #a3a3a3;
+    --line: #e5e5e7;
+    --line-2: #d4d4d8;
+    --accent: #0066ff;
+    --accent-soft: #e0ecff;
+    --accent-deep: #0044cc;
+    --warm: #ff6b35;
+    --warm-soft: #fff0eb;
+    --good: #00a86b;
+    --good-soft: #e6f7f0;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+
+body {
+    font-family: var(--font-sans);
+    background: var(--bg);
+    color: var(--ink);
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+}
+
+.wrap {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 0 32px;
+}
+
+/* === 顶部导航条 === */
+.topbar {
+    position: sticky;
+    top: 0;
+    background: rgba(255,255,255,0.85);
+    backdrop-filter: saturate(180%) blur(20px);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    border-bottom: 1px solid var(--line);
+    z-index: 100;
+}
+
+.topbar-inner {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 14px 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 13px;
+}
+
+.topbar-left {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-family: var(--font-mono);
+    color: var(--ink-3);
+    letter-spacing: 0.5px;
+}
+
+.topbar-left .dot {
+    width: 8px;
+    height: 8px;
+    background: var(--accent);
+    border-radius: 50%;
+    box-shadow: 0 0 0 3px var(--accent-soft);
+}
+
+.topbar-right {
+    display: flex;
+    gap: 20px;
+    color: var(--ink-4);
+    font-size: 12px;
+    font-family: var(--font-mono);
+}
+
+.topbar-right span b {
+    color: var(--ink);
+    font-weight: 600;
+}
+
+/* === 中文注释开关 === */
+.gloss-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--bg-card);
+    border: 1px solid var(--line);
+    border-radius: 20px;
+    padding: 5px 12px 5px 10px;
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--ink-3);
+    cursor: pointer;
+    transition: all 0.15s ease;
+    user-select: none;
+}
+
+.gloss-toggle:hover {
+    border-color: var(--accent-soft);
+    background: #fff;
+}
+
+.gloss-toggle .g-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--accent);
+    transition: background 0.15s ease;
+}
+
+.gloss-toggle.off .g-dot {
+    background: var(--ink-4);
+}
+
+/* 关闭注释时，隐藏所有 .w-g，并把段落底部 padding 收回 */
+body.no-gloss .w-g {
+    display: none !important;
+}
+body.no-gloss .para { padding-bottom: 32px; }
+
+/* === 正文 === */
+.article {
+    padding: 40px 0 48px;
+}
+
+.section-tag {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    letter-spacing: 2px;
+    color: var(--ink-4);
+    text-transform: uppercase;
+    margin-bottom: 32px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.section-tag::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--line);
+}
+
+.para {
+    margin-bottom: 40px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid var(--line);
+}
+
+.para:last-child {
+    border-bottom: none;
+}
+
+.para-num {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--accent);
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin-bottom: 12px;
+}
+
+.eng {
+    font-family: var(--font-sans);
+    font-size: 17px;
+    line-height: 52px;
+    color: var(--ink);
+    margin-bottom: 0;
+    font-weight: 400;
+}
+
+/* === 高亮词 + 下方注释（2.0 核心） === */
+.wn {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    vertical-align: baseline;
+    line-height: 30px;
+}
+
+.w {
+    color: var(--accent-deep);
+    font-weight: 600;
+    cursor: pointer;
+    background: linear-gradient(180deg, transparent 55%, var(--accent-soft) 55%);
+    transition: all 0.15s ease;
+    padding: 0 2px;
+    border-radius: 2px;
+}
+
+/* 大纲词用暖橙色，与核心词蓝色区分 */
+.w.outline {
+    color: #c05020;
+    background: linear-gradient(180deg, transparent 55%, #fff2ed 55%);
+}
+
+.w.outline:hover {
+    background: #e87a40;
+    color: #fff;
+}
+
+.w:hover {
+    background: var(--accent);
+    color: #fff;
+}
+
+.w:active {
+    transform: scale(0.97);
+}
+
+@keyframes pulse {
+    0% { box-shadow: 0 0 0 0 rgba(0,102,255,0.4); }
+    70% { box-shadow: 0 0 0 6px rgba(0,102,255,0); }
+    100% { box-shadow: 0 0 0 0 rgba(0,102,255,0); }
+}
+
+.w.pulsed {
+    animation: pulse 0.35s ease-out;
+}
+
+/* 下方紧贴的上下文释义 — 绝对定位，行高撑开空间 */
+.w-g {
+    height: 0;
+    overflow: visible;
+    white-space: nowrap;
+    font-family: var(--font-cn);
+    font-size: 10.5px;
+    line-height: 1.25;
+    color: #707070;
+    text-align: center;
+    pointer-events: none;
+    user-select: none;
+    margin-top: 2px;
+}
+
+/* 词与词之间需要正常空格分隔：通过 wn 之间的空白实现 */
+
+/* === 词表 === */
+.vocab {
+    padding: 64px 0 80px;
+    border-top: 1px solid var(--line);
+}
+
+.vocab-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 40px;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.vocab-head h2 {
+    font-family: var(--font-display);
+    font-size: 36px;
+    font-weight: 600;
+    letter-spacing: -1px;
+    color: var(--ink);
+}
+
+.vocab-head h2 em {
+    font-style: normal;
+    color: var(--accent);
+}
+
+.vocab-head .legend {
+    display: flex;
+    gap: 16px;
+    font-size: 12px;
+    color: var(--ink-4);
+    font-family: var(--font-mono);
+}
+
+.vocab-head .legend span {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.vocab-head .legend span::before {
+    content: '';
+    width: 10px;
+    height: 10px;
+    border-radius: 2px;
+}
+
+.vocab-head .legend .l-core::before { background: var(--ink); }
+.vocab-head .legend .l-out::before { background: var(--warm); }
+
+.vocab-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 10px;
+}
+
+.card {
+    background: #fff;
+    border: 1px solid #e8eaed;
+    border-radius: 8px;
+    padding: 14px 16px 12px;
+    transition: all 0.18s ease;
+}
+
+.card:hover {
+    border-color: #c0d0f0;
+    box-shadow: 0 3px 12px rgba(0,80,200,0.07);
+    transform: translateY(-1px);
+}
+
+.card.outline {
+    border-left: 3px solid #e87a40;
+}
+
+.card-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 4px;
+    gap: 8px;
+}
+
+.card-word {
+    font-size: 17px;
+    font-weight: 600;
+    color: #1a1a1a;
+    letter-spacing: -0.2px;
+}
+
+.card-word .star {
+    color: #e87a40;
+    font-size: 12px;
+    font-weight: 400;
+    margin-left: 3px;
+}
+
+.card-phon {
+    font-size: 11px;
+    color: #999;
+    font-family: var(--font-mono);
+}
+
+.card-def {
+    font-size: 13px;
+    color: #555;
+    line-height: 1.55;
+}
+
+.card-def .pos {
+    font-size: 10px;
+    color: #888;
+    font-weight: 500;
+    margin-right: 4px;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    font-family: var(--font-mono);
+}
+
+.card-extras {
+    margin-top: 7px;
+    padding-top: 7px;
+    border-top: 1px dashed #eee;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.extra {
+    font-size: 11.5px;
+    line-height: 1.55;
+    padding: 3px 7px;
+    border-radius: 3px;
+    font-family: var(--font-cn);
+}
+
+.extra.col { color: #666; background: #f5f6f7; }
+.extra.mem { color: #1a7a44; background: #edf7ef; }
+.extra.ex { color: #0055bb; background: #f0f6ff; font-style: italic; }
+
+.extra .tag {
+    font-size: 9px;
+    font-weight: 600;
+    margin-right: 4px;
+    opacity: 0.5;
+}
+
+/* === 译文区（2.0：所有中文翻译集中到页面最后） === */
+.translation {
+    padding: 56px 0 64px;
+    border-top: 1px solid var(--line);
+    background: var(--bg-soft);
+    margin: 0 -32px;
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+.translation-inner {
+    max-width: 880px;
+    margin: 0 auto;
+}
+
+.translation-head {
+    margin-bottom: 28px;
+}
+
+.translation-head .label {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    letter-spacing: 2px;
+    color: var(--ink-4);
+    text-transform: uppercase;
+    margin-bottom: 8px;
+}
+
+.translation-head h2 {
+    font-family: var(--font-display);
+    font-size: 32px;
+    font-weight: 600;
+    letter-spacing: -1px;
+    color: var(--ink);
+}
+
+.translation-head h2 em {
+    font-style: normal;
+    color: var(--accent);
+}
+
+.t-para {
+    margin-bottom: 20px;
+    padding: 14px 18px;
+    background: #fff;
+    border-radius: 8px;
+    border: 1px solid var(--line);
+}
+
+.t-para-num {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    color: var(--accent);
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 6px;
+}
+
+.t-para p {
+    font-family: var(--font-cn);
+    font-size: 14px;
+    line-height: 1.85;
+    color: var(--ink-2);
+}
+
+.t-para p u {
+    color: var(--accent);
+    font-weight: 500;
+    text-decoration: none;
+    background: var(--accent-soft);
+    padding: 1px 4px;
+    border-radius: 3px;
+}
+
+/* === 弹窗 === */
+.modal-bg {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(10,10,10,0.4);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    z-index: 1000;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+}
+
+.modal-bg.active { display: flex; }
+
+@keyframes rise {
+    from { transform: translateY(16px) scale(0.98); opacity: 0; }
+    to { transform: translateY(0) scale(1); opacity: 1; }
+}
+
+.modal {
+    background: var(--bg);
+    border-radius: 16px;
+    padding: 32px;
+    max-width: 400px;
+    width: 100%;
+    box-shadow: 0 24px 60px rgba(0,0,0,0.2);
+    animation: rise 0.25s cubic-bezier(0.16,1,0.3,1);
+    position: relative;
+}
+
+.modal-close {
+    position: absolute;
+    top: 16px; right: 16px;
+    background: var(--bg-card);
+    border: none;
+    color: var(--ink-3);
+    cursor: pointer;
+    width: 32px; height: 32px;
+    border-radius: 8px;
+    font-size: 16px;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.15s;
+    font-family: var(--font-sans);
+}
+
+.modal-close:hover {
+    background: var(--ink);
+    color: #fff;
+}
+
+.modal-eyebrow {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    letter-spacing: 2px;
+    color: var(--accent);
+    text-transform: uppercase;
+    margin-bottom: 8px;
+}
+
+.modal-word {
+    font-family: var(--font-display);
+    font-size: 36px;
+    font-weight: 700;
+    color: var(--ink);
+    letter-spacing: -1px;
+    line-height: 1;
+    margin-bottom: 6px;
+}
+
+.modal-phon {
+    font-family: var(--font-mono);
+    font-size: 13px;
+    color: var(--ink-3);
+    margin-bottom: 20px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid var(--line);
+}
+
+.modal-defs {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.modal-def {
+    display: flex;
+    gap: 10px;
+    align-items: baseline;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.modal-def .pos {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    color: var(--accent);
+    background: var(--accent-soft);
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    min-width: 40px;
+    text-align: center;
+    flex-shrink: 0;
+}
+
+.modal-def .meaning {
+    color: var(--ink);
+    font-family: var(--font-cn);
+}
+
+.modal-extras {
+    margin-top: 16px;
+    padding-top: 16px;
+    border-top: 1px solid var(--line);
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.modal-extra {
+    font-size: 12.5px;
+    line-height: 1.7;
+    padding: 8px 12px;
+    border-radius: 8px;
+    font-family: var(--font-cn);
+}
+
+.modal-extra.col { background: var(--bg-card); color: var(--ink-2); }
+.modal-extra.mem { background: var(--good-soft); color: var(--good); }
+.modal-extra.ex { background: var(--accent-soft); color: var(--accent-deep); font-style: italic; font-family: var(--font-sans); }
+
+.modal-extra .tag {
+    font-family: var(--font-mono);
+    font-size: 9px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-right: 6px;
+    font-style: normal;
+}
+
+.modal-extra.col .tag { color: var(--ink-4); }
+.modal-extra.mem .tag { color: var(--good); }
+.modal-extra.ex .tag { color: var(--accent); }
+
+/* === 页脚 === */
+footer {
+    padding: 32px 0 48px;
+    border-top: 1px solid var(--line);
+    text-align: center;
+    font-size: 12px;
+    color: var(--ink-4);
+    font-family: var(--font-mono);
+    letter-spacing: 1px;
+}
+
+/* === 响应式 === */
+@media (max-width: 768px) {
+    .wrap { padding: 0 20px; }
+    .topbar-inner { padding: 12px 20px; }
+    .topbar-right { gap: 12px; font-size: 11px; }
+    .article { padding: 28px 0 32px; }
+    .eng { font-size: 15.5px; line-height: 44px; }
+    .vocab { padding: 40px 0 56px; }
+    .vocab-head h2 { font-size: 28px; }
+    .vocab-grid { grid-template-columns: 1fr; }
+    .modal { padding: 24px 20px; }
+    .modal-word { font-size: 28px; }
+    .translation { margin: 0 -20px; padding-left: 20px; padding-right: 20px; }
+    .translation-head h2 { font-size: 26px; }
+}
+
+@media (max-width: 480px) {
+    .topbar-right span:nth-child(3) { display: none; }
+    .gloss-toggle .g-label { display: none; }
+    .gloss-toggle { padding: 5px 8px; }
+}
+
+/* === 打印样式 === */
+@media print {
+    @page {
+        size: A4;
+        margin: 18mm 16mm 16mm 16mm;
+    }
+
+    .topbar,
+    .modal-bg,
+    .modal-bg.active,
+    footer,
+    .vocab-head .legend {
+        display: none !important;
+    }
+
+    html, body {
+        background: #fff !important;
+        color: #000 !important;
+        font-size: 10.5pt;
+        line-height: 1.5;
+    }
+
+    .wrap {
+        max-width: 100% !important;
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+
+    .article,
+    .vocab,
+    .translation {
+        padding: 0 !important;
+        margin: 0 !important;
+        background: #fff !important;
+    }
+
+    .para-num {
+        color: #000 !important;
+    }
+
+    .w {
+        color: #0055bb !important;
+        background: none !important;
+        font-weight: 600 !important;
+        cursor: text;
+        padding: 0;
+    }
+
+    /* 打印时词下方注释保留，但用更小字号省墨 */
+    .w-g {
+        color: #555 !important;
+        font-size: 8pt !important;
+    }
+
+    .card {
+        background: #fff !important;
+        border: 1px solid #ccc !important;
+        box-shadow: none !important;
+        transform: none !important;
+        break-inside: avoid;
+        page-break-inside: avoid;
+    }
+
+    .card.outline {
+        border-left: 3px solid #e87a40 !important;
+    }
+
+    .card:hover {
+        box-shadow: none !important;
+        transform: none !important;
+    }
+
+    .extra.col { background: #f5f5f5 !important; color: #333 !important; }
+    .extra.mem { background: #f5f5f5 !important; color: #1a5a30 !important; }
+    .extra.ex { background: #f5f5f5 !important; color: #004080 !important; }
+
+    .t-para {
+        background: #fff !important;
+        border: 1px solid #ccc !important;
+        break-inside: avoid;
+        page-break-inside: avoid;
+    }
+
+    .vocab-head,
+    .translation-head {
+        break-after: avoid;
+        page-break-after: avoid;
+    }
+
+    h1, h2, h3 {
+        break-after: avoid;
+        page-break-after: avoid;
+    }
+
+    a, a:visited {
+        color: #000 !important;
+        text-decoration: none !important;
+    }
+}
+
+
+/* 无词表匹配的高亮词样式 */
+.w-no-gloss {
+    color: var(--accent-deep);
+    font-weight: 600;
+    background: linear-gradient(180deg, transparent 55%, var(--accent-soft) 55%);
+    padding: 0 2px;
+    border-radius: 2px;
+}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+    <div class="topbar-inner">
+        <div class="topbar-left">
+            <span class="dot"></span>
+            <span>PASSAGE 10 / 80 · v2</span>
+        </div>
+        <div class="topbar-right">
+            <span class="gloss-toggle" id="glossToggle" title="显示/隐藏英文词下方中文注释">
+                <span class="g-dot"></span>
+                <span class="g-label">中文释义</span>
+            </span>
+            <span>Words <b>424</b></span>
+            <span>Core <b>56</b></span>
+        </div>
+    </div>
+</div>
+
+<div class="wrap">
+
+<article class="article">
+    <div class="section-tag">English · 单词下方带上下文释义</div>
+
+    <div class="para"><div class="para-num">01</div><p class="eng">Staring at the <span class="w" data-key="bookcase">bookcases</span>in my study, <span class="w" data-key="packed">packed</span>with so many great books that had <span class="w" data-key="remain">remained</span> <span class="w" data-key="unread">unread</span> , I <span class="w" data-key="hear">heard</span>a <span class="w" data-key="loud">loud</span>voice in my head—“ <span class="w" data-key="shame">Shame</span>on you! How can you leave these <span class="w" data-key="masterpiece">masterpieces</span>unread?” </p></div>
+
+    <div class="para"><div class="para-num">02</div><p class="eng">The first book I picked up was &lt;i&gt; Montaigne's Essays &lt;/i&gt; .To my <span class="w" data-key="surprise">surprise</span>I discovered in the margins ( &lt;b&gt; 页边空白 &lt;/b&gt; ) what clearly was my own <span class="w" data-key="fade">faded</span> <span class="w" data-key="handwriting">handwriting</span> .So I was actually reading it again, but what I was rereading seemed <span class="w" data-key="entirely">entirely</span>new.I also found <span class="w" data-key="sentence">sentences</span> <span class="w" data-key="underline">underlined</span> .Only this time I wondered: Why did I underline this sentence? It's the next one that is important! </p></div>
+
+    <div class="para"><div class="para-num">03</div><p class="eng">Clearly, my way of reading the text had shifted, and I <span class="w" data-key="myself">myself</span>had changed over the years.This raised the larger question of rereading.It comes in many <span class="w" data-key="form">forms</span>.There's <span class="w" data-key="voluntary">voluntary</span>rereading, the result of a <span class="w" data-key="willful">willful</span>decision to <span class="w" data-key="revisit">revisit</span>a book one has <span class="w" data-key="admire">admired</span>, or a book that has left one with some <span class="w" data-key="unanswered">unanswered</span>questions.This kind of planned revisit could also be for <span class="w" data-key="confirm">confirming</span>certain details in the text, or for checking on the <span class="w" data-key="move">moves</span>of a given character.A devoted teacher might also <span class="w" data-key="wish">wish</span>to <span class="w" data-key="refresh">refresh</span>his <span class="w" data-key="closeness">closeness</span>to a work, and thus avoid teaching through the same <span class="w" data-key="old">old</span>written notes with soporific ( &lt;b&gt; 让人瞌睡的 &lt;/b&gt; ) effects. </p></div>
+
+    <div class="para"><div class="para-num">04</div><p class="eng"><span class="w" data-key="contrarily">Contrarily</span>, there's involuntary rereading.The original reading was <span class="w" data-key="either">either</span>forgotten or so <span class="w" data-key="totally">totally</span>absorbed that the new chance <span class="w" data-key="encounter">encounter</span>with the text produced surprise and <span class="w" data-key="astonishment">astonishment</span>.My <span class="w" data-key="reaction">reaction</span>to the <span class="w" data-key="renewed">renewed</span>reading no longer <span class="w" data-key="correspond">corresponded</span>to the original experience, and I was no longer sure that I recognized myself as the same reader. </p></div>
+
+    <div class="para"><div class="para-num">05</div><p class="eng">Then there are what one might call subconscious ( &lt;b&gt; 潜意识的 &lt;/b&gt; ) rereadings, those that <span class="w" data-key="occur">occur</span> <span class="w" data-key="without">without</span> the <span class="w" data-key="specific">specific</span>act of reading, much as the <span class="w" data-key="memory">memory</span>of a <span class="w" data-key="tune">tune</span>can keep coming back to the mind without its actually being heard again.This form of remembered <span class="w" data-key="contact">contact</span>with a book can <span class="w" data-key="accompany">accompany</span>us <span class="w" data-key="during">during</span>a <span class="w" data-key="lifetime">lifetime</span>and continue to <span class="w" data-key="strengthen">strengthen</span>and <span class="w" data-key="shape">shape</span>us.Much in the same <span class="w" data-key="manner">manner</span>, we may over the years recite to ourselves poems learned by heart long ago, which have become part of our self-recognition. </p></div>
+
+    <div class="para"><div class="para-num">06</div><p class="eng">All of these ways of reading are <span class="w" data-key="valuable">valuable</span>.Renewed contact with a novel or a poem can <span class="w" data-key="activate">activate</span>the <span class="w" data-key="search">search</span>for a better <span class="w" data-key="knowledge">knowledge</span>of the self.The new reading, a form of revision, <span class="w" data-key="uncover">uncovers</span>the change in us.The <span class="w" data-key="newness">newness</span>is not in the text.It is we who have <span class="w" data-key="evolve">evolved</span>.In the process of rereading, our <span class="w" data-key="outlook">outlook</span>has also been significantly changed.Rereading makes it possible for us to see the world around us, ourselves included, in a new <span class="w" data-key="light">light</span>. </p></div>
+</article>
+
+<section class="vocab">
+    <div class="vocab-head">
+        <h2>核心<em>词表</em></h2>
+        <div class="legend">
+            <span class="l-core">核心词</span>
+            <span class="l-out">大纲词 *</span>
+        </div>
+    </div>
+
+    <div class="vocab-grid">
+        <div class="card"><div class="card-top"><span class="card-word">bookcase</span><span class="card-phon">[ˈbʊkkeɪs]</span></div><div class="card-def"><span class="pos">n.</span>书架；书柜</div></div>
+        <div class="card"><div class="card-top"><span class="card-word">packed</span><span class="card-phon">[pækt]</span></div><div class="card-def"><span class="pos">adj.</span>异常拥挤的；有大量……的；收拾好行李</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">remain<span class="star">*</span></span><span class="card-phon">[rɪˈmeɪn]</span></div><div class="card-def"><span class="pos">vi.</span>仍然是，保持不变；剩余，遗留</div></div>
+        <div class="card"><div class="card-top"><span class="card-word">unread</span><span class="card-phon">[ˌʌnˈred]</span></div><div class="card-def"><span class="pos">adj.</span>未读的，未阅的</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">hear<span class="star">*</span></span><span class="card-phon">[hɪə(r)]</span></div><div class="card-def"><span class="pos">v.</span>（heard, heard, hearing）听见；听说</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">loud<span class="star">*</span></span><span class="card-phon">[laʊd]</span></div><div class="card-def"><span class="pos">adj.</span>/ <span class="pos">adv.</span>大声的/地，喧闹的/地</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">shame<span class="star">*</span></span><span class="card-phon">[ʃeɪm]</span></div><div class="card-def"><span class="pos">n.</span>羞愧，惭愧；[sing.]令人惋惜的事，让人遗憾的事</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>shame on you, him, etc.真丢脸</div></div></div>
+        <div class="card"><div class="card-top"><span class="card-word">masterpiece</span><span class="card-phon">[ˈmɑːstəpiːs]</span></div><div class="card-def"><span class="pos">n.</span>杰作</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">surprise<span class="star">*</span></span><span class="card-phon">[səˈpraɪz]</span></div><div class="card-def"><span class="pos">n.</span>惊奇，惊讶；令人惊奇的事物 <span class="pos">vt.</span>使惊奇</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>to one's surprise令某人惊讶的是</div></div></div>
+        <div class="card"><div class="card-top"><span class="card-word">fade</span><span class="card-phon">[feɪd]</span></div><div class="card-def"><span class="pos">v.</span>（使）褪色；衰退，衰落；逐渐消逝</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">handwriting<span class="star">*</span></span><span class="card-phon">[ˈhændraɪtɪŋ]</span></div><div class="card-def"><span class="pos">n.</span>书法，笔迹；书写</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">entirely<span class="star">*</span></span><span class="card-phon">[ɪnˈtaɪəli]</span></div><div class="card-def"><span class="pos">adv.</span>完全地，彻底地</div><div class="card-extras"><div class="extra mem"><span class="tag">记</span>词根记忆：en（全部）+tir（拉）+e+ly（……地）→全部拉进去，不遗留在外→完全地</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">sentence<span class="star">*</span></span><span class="card-phon">[ˈsentəns]</span></div><div class="card-def"><span class="pos">n.</span>句子；判决，宣判 <span class="pos">vt.</span>宣判，判决</div></div>
+        <div class="card"><div class="card-top"><span class="card-word">underline</span><span class="card-phon">[ˌʌndəˈlaɪn]</span></div><div class="card-def"><span class="pos">vt.</span>在……下面画线；强调，使突出</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">myself<span class="star">*</span></span><span class="card-phon">[maɪˈself]</span></div><div class="card-def"><span class="pos">pron.</span>我自己；我亲自</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">form<span class="star">*</span></span><span class="card-phon">[fɔːm]</span></div><div class="card-def"><span class="pos">n.</span>形式；表格；结构 <span class="pos">v.</span>（使）形成；组建</div></div>
+        <div class="card"><div class="card-top"><span class="card-word">voluntary</span><span class="card-phon">[ˈvɒləntri]</span></div><div class="card-def"><span class="pos">adj.</span>自愿的</div></div>
+        <div class="card"><div class="card-top"><span class="card-word">willful</span><span class="card-phon">[ˈwɪlfl]</span></div><div class="card-def"><span class="pos">adj.</span>故意的；任性的</div></div>
+        <div class="card"><div class="card-top"><span class="card-word">revisit</span><span class="card-phon">[ˌriːˈvɪzɪt]</span></div><div class="card-def"><span class="pos">vt.</span>再访，重游；重提</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">admire<span class="star">*</span></span><span class="card-phon">[ədˈmaɪə(r)]</span></div><div class="card-def"><span class="pos">vt.</span>钦佩，羡慕，欣赏</div></div>
+        <div class="card"><div class="card-top"><span class="card-word">unanswered</span><span class="card-phon">[ʌnˈɑːnsəd]</span></div><div class="card-def"><span class="pos">adj.</span>未回答的，未解答的；未回复的</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">confirm<span class="star">*</span></span><span class="card-phon">[kənˈfɜːm]</span></div><div class="card-def"><span class="pos">vt.</span>证实，证明，确认；使确信；批准</div><div class="card-extras"><div class="extra mem"><span class="tag">记</span>词根记忆：con（表加强）+firm（坚定）→坚定地证实→证实</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">move<span class="star">*</span></span><span class="card-phon">[muːv]</span></div><div class="card-def"><span class="pos">n.</span>行动；移动；搬家 <span class="pos">v.</span>移动；搬动；搬家</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>move on (to sth.) 开始做（别的事）；换话题move out搬出去</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">wish<span class="star">*</span></span><span class="card-phon">[wɪʃ]</span></div><div class="card-def"><span class="pos">v.</span>祝愿；希望，想要 <span class="pos">n.</span>愿望，希望；希望的事</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">refresh<span class="star">*</span></span><span class="card-phon">[rɪˈfreʃ]</span></div><div class="card-def"><span class="pos">v.</span>（使）精神振作；（使）更新</div><div class="card-extras"><div class="extra mem"><span class="tag">记</span>词根记忆：re（重新）+fresh（新鲜）→（使）更新</div><div class="extra ex"><span class="tag">例</span>Being in nature  refreshes  us.在大自然中，我们会感到神清气爽。</div></div></div>
+        <div class="card"><div class="card-top"><span class="card-word">closeness</span><span class="card-phon">[ˈkləʊsnəs]</span></div><div class="card-def"><span class="pos">n.</span>（时间或空间上）接近，邻近</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">old<span class="star">*</span></span><span class="card-phon">[əʊld]</span></div><div class="card-def"><span class="pos">adj.</span>老的；旧的</div></div>
+        <div class="card"><div class="card-top"><span class="card-word">contrarily</span><span class="card-phon">[kənˈtreərɪli]</span></div><div class="card-def"><span class="pos">adv.</span>相反地</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">either<span class="star">*</span></span><span class="card-phon">[ˈaɪðə(r); ˈiːðə(r)]</span></div><div class="card-def"><span class="pos">det.</span>/ <span class="pos">pron.</span>（两者中的）任何一个 <span class="pos">adv.</span>（用于否定词组后）也</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>either...or...（对两事物的选择）要么……要么，或者……或者</div></div></div>
+        <div class="card"><div class="card-top"><span class="card-word">totally</span><span class="card-phon">[ˈtəʊtəli]</span></div><div class="card-def"><span class="pos">adv.</span>全部地，完全地</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">encounter<span class="star">*</span></span><span class="card-phon">[ɪnˈkaʊntə(r)]</span></div><div class="card-def"><span class="pos">n.</span>相遇，邂逅 <span class="pos">vt.</span>遭遇；偶然碰到</div><div class="card-extras"><div class="extra mem"><span class="tag">记</span>词根记忆：en（使……）+counter（相反）→使从两个相反的方向来→相遇</div><div class="extra col"><span class="tag">搭</span>a chance encounter偶然相遇have an encounter with sth.遭遇某事</div></div></div>
+        <div class="card"><div class="card-top"><span class="card-word">astonishment</span><span class="card-phon">[əˈstɒnɪʃmənt]</span></div><div class="card-def"><span class="pos">n.</span>惊讶，惊异</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">reaction<span class="star">*</span></span><span class="card-phon">[riˈækʃn]</span></div><div class="card-def"><span class="pos">n.</span>反应；化学反应</div></div>
+        <div class="card"><div class="card-top"><span class="card-word">renewed</span><span class="card-phon">[rɪˈnjuːd]</span></div><div class="card-def"><span class="pos">adj.</span>再次发生的；再次兴起的；更新的</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">correspond<span class="star">*</span></span><span class="card-phon">[ˌkɒrəˈspɒnd]</span></div><div class="card-def"><span class="pos">vi.</span>通信；相一致，相符合；类似于，相当于</div><div class="card-extras"><div class="extra mem"><span class="tag">记</span>词根记忆：cor（共同）+respond（作出反应）→作出相同的反应→相一致</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">occur<span class="star">*</span></span><span class="card-phon">[əˈkɜː(r)]</span></div><div class="card-def"><span class="pos">vi.</span>（occurred, occurred, occurring）发生，出现；存在于</div><div class="card-extras"><div class="extra mem"><span class="tag">记</span>词根记忆：oc（表加强）+cur（跑；发生）→发生，出现</div><div class="extra col"><span class="tag">搭</span>occur to sb.某人想到</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">without<span class="star">*</span></span><span class="card-phon">[wɪˈðaʊt]</span></div><div class="card-def"><span class="pos">prep.</span>/ <span class="pos">adv.</span>没有</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">specific<span class="star">*</span></span><span class="card-phon">[spəˈsɪfɪk]</span></div><div class="card-def"><span class="pos">adj.</span>特定的；明确的，具体的</div><div class="card-extras"><div class="extra mem"><span class="tag">记</span>词根记忆：spec（种类）+ific（产生……的）→分门别类的→明确的</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">memory<span class="star">*</span></span><span class="card-phon">[ˈmeməri]</span></div><div class="card-def"><span class="pos">n.</span>回忆，记忆</div><div class="card-extras"><div class="extra mem"><span class="tag">记</span>词根记忆：memor（记忆）+y（表名词）→记忆</div><div class="extra col"><span class="tag">搭</span>in memory of纪念</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">tune<span class="star">*</span></span><span class="card-phon">[tjuːn]</span></div><div class="card-def"><span class="pos">n.</span>曲调，调子</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">contact<span class="star">*</span></span><span class="card-phon">[ˈkɒntækt]</span></div><div class="card-def"><span class="pos">n.</span>联络；联系；接触，触摸 <span class="pos">vt.</span>联络；联系</div><div class="card-extras"><div class="extra mem"><span class="tag">记</span>词根记忆：con（表加强）+tact（接触）→接触，触摸</div><div class="extra col"><span class="tag">搭</span>in contact with接触；与……有联系</div><div class="extra ex"><span class="tag">例</span>Long-lasting friendships share the characteristic that both sides equally  contact  and share with one another.长久的友谊有一个特点：双方同等程度地联系彼此以及相互之间进行分享。</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">accompany<span class="star">*</span></span><span class="card-phon">[əˈkʌmpəni]</span></div><div class="card-def"><span class="pos">vt.</span>陪伴；伴随；为……伴奏</div><div class="card-extras"><div class="extra mem"><span class="tag">记</span>词根记忆：ac（表加强）+company（伙伴）→陪伴</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">during<span class="star">*</span></span><span class="card-phon">[ˈdjʊərɪŋ]</span></div><div class="card-def"><span class="pos">prep.</span>在……期间，在……过程中</div></div>
+        <div class="card"><div class="card-top"><span class="card-word">lifetime</span><span class="card-phon">[ˈlaɪftaɪm]</span></div><div class="card-def"><span class="pos">n.</span>一生，终身，有生之年</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">strengthen<span class="star">*</span></span><span class="card-phon">[ˈstreŋθn]</span></div><div class="card-def"><span class="pos">v.</span>（使）变强；加强，增强</div><div class="card-extras"><div class="extra mem"><span class="tag">记</span>词根记忆：strength（力量）+en（使……）→使有力量→加强，增强</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">shape<span class="star">*</span></span><span class="card-phon">[ʃeɪp]</span></div><div class="card-def"><span class="pos">n.</span>形状，外形 <span class="pos">vt.</span>使成形；塑造</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>get in shape变得健康有活力</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">manner<span class="star">*</span></span><span class="card-phon">[ˈmænə(r)]</span></div><div class="card-def"><span class="pos">n.</span>方式；态度；举止；[pl.]礼貌，规矩</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">valuable<span class="star">*</span></span><span class="card-phon">[ˈvæljuəbl]</span></div><div class="card-def"><span class="pos">adj.</span>很有用的，很重要的；很值钱的，贵重的</div></div>
+        <div class="card"><div class="card-top"><span class="card-word">activate</span><span class="card-phon">[ˈæktɪveɪt]</span></div><div class="card-def"><span class="pos">vt.</span>使活动，激活</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">search<span class="star">*</span></span><span class="card-phon">[sɜːtʃ]</span></div><div class="card-def"><span class="pos">n.</span>/ <span class="pos">v.</span>搜寻，搜查</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">knowledge<span class="star">*</span></span><span class="card-phon">[ˈnɒlɪdʒ]</span></div><div class="card-def"><span class="pos">n.</span>[U]知识，学问；知晓，了解</div></div>
+        <div class="card"><div class="card-top"><span class="card-word">uncover</span><span class="card-phon">[ʌnˈkʌvə(r)]</span></div><div class="card-def"><span class="pos">vt.</span>揭露，发现；揭开……的盖子</div></div>
+        <div class="card"><div class="card-top"><span class="card-word">newness</span><span class="card-phon">[ˈnjuːnəs]</span></div><div class="card-def"><span class="pos">n.</span>新近；新鲜；新奇；崭新</div></div>
+        <div class="card"><div class="card-top"><span class="card-word">evolve</span><span class="card-phon">[iˈvɒlv]</span></div><div class="card-def"><span class="pos">v.</span>（使）逐渐形成，逐步发展；进化</div></div>
+        <div class="card"><div class="card-top"><span class="card-word">outlook</span><span class="card-phon">[ˈaʊtlʊk]</span></div><div class="card-def"><span class="pos">n.</span>观点，看法；展望，前景</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">light<span class="star">*</span></span><span class="card-phon">[laɪt]</span></div><div class="card-def"><span class="pos">n.</span>光；灯；灯光；眼神 <span class="pos">vt.</span>（lit, lit, lighting）点燃；照亮 <span class="pos">adj.</span>明亮的；轻的；浅色的</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>in a good (bad/favorable, etc.) light从好（或坏、有利等）的角度</div></div></div>
+    </div>
+</section>
+
+</div><!-- /.wrap -->
+
+<section class="translation"><div class="translation-inner">
+        <div class="translation-head"><div class="label">Reference · 译文参考</div><h2>中文<em>译文</em></h2></div>
+        <div class="t-para"><div class="t-para-num">PARAGRAPH 01</div><p>我凝视着书房里的 <u> 书柜 </u> ，里面 <u> 摆满 </u> 了许多 <u> 还未读过 </u> 的好书，我 <u> 听到 </u> 脑海中有一个 <u> 响亮的 </u> 声音——“真 <u> 丢脸 </u> ！你怎么能把这些 <u> 杰作 </u> 搁置在一旁不读呢？”</p></div>
+        <div class="t-para"><div class="t-para-num">PARAGRAPH 02</div><p>我拿起的第一本书是《蒙田随笔》。令我 <u> 惊讶 </u> 的是，我在页边空白处发现了显然是我自己的 <u> 褪色的笔迹 </u> 。所以我实际上是在重读这本书，但重读的内容似乎是 <u> 全 </u> 新的。我还发现了一些 <u> 画线的句子 </u> 。不过这次我感到疑惑：我为什么要给这句话画线呢？明明下一句话才重要！</p></div>
+        <div class="t-para"><div class="t-para-num">PARAGRAPH 03</div><p>显然，我阅读文本的方式发生了变化，而 <u> 我自己 </u> 这些年也变了。这让我想到了关于重读的更重要的问题。重读有多种 <u> 形式 </u> 。一种是 <u> 主动 </u> 重读，是 <u> 有意 </u> 决定 <u> 重读 </u> 一本自己 <u> 欣赏 </u> 的书，或是一本给自己留下 <u> 悬而未决的 </u> 问题的书。这种有计划的重读也可能是为了 <u> 确认 </u> 文中的某些细节，或者是为了核实某个人物的 <u> 行动 </u> 轨迹。一位负责敬业的老师也可能 <u> 希望重新找回 </u> 与某部作品的 <u> 亲近感 </u> ，从而避免照着那些令人昏昏欲睡的 <u> 老旧 </u> 笔记来授课。</p></div>
+        <div class="t-para"><div class="t-para-num">PARAGRAPH 04</div><p><u> 相反地 </u> ，也有非自愿重读。初次阅读的内容 <u> 要么 </u> 已被遗忘，要么被 <u> 彻底 </u> 吸收，以至于再次 <u> 偶然遇到 </u> 这段文字时，会产生惊讶和 <u> 诧异 </u> 的感觉。我 <u> 重 </u> 读的 <u> 反应 </u> 不再与初次阅读时的体验 <u> 相符 </u> ，我甚至不再确定自己是否还是当初那个读者。</p></div>
+        <div class="t-para"><div class="t-para-num">PARAGRAPH 05</div><p>还有一种重读可能被称为“潜意识的重读”，这种重读并 <u> 不 </u> 通过 <u> 具体的 </u> 阅读行为来 <u> 实现 </u> ，非常像对一段 <u> 曲调 </u> 的 <u> 记忆 </u> 不断在脑海中回响，而实际上并没有再听到这首曲子一样。这种与书的记忆式 <u> 接触 </u> 会 <u> 伴随 </u> 我们 <u> 一生 </u> ，并持续地 <u> 塑造 </u> 我们，让我们得到 <u> 提升 </u> 。同 <u> 样 </u> ，我们也可以长年累月背诵很久以前就熟记的诗歌，这些诗歌已经成为我们自我认知的一部分。</p></div>
+        <div class="t-para"><div class="t-para-num">PARAGRAPH 06</div><p>所有这些阅读方式都是 <u> 有价值的 </u> 。重新与一部小说或一首诗歌接触，能够 <u> 激发 </u> 我们去 <u> 探索 </u> 自我，对自己有更深入的 <u> 了解 </u> 。这种新的阅读，作为一种重温的方式， <u> 揭示 </u> 了我们自身的变化。 <u> 新意 </u> 并不在于文本本身，而在于我们自身的 <u> 成长 </u> 。在重读的过程中，我们的 <u> 观念 </u> 也发生了明显变化。重读使我们能够以新的 <u> 视角 </u> 看待周围的世界，包括我们自己。</p></div>
+        </div></section>
+
+<footer>
+    PASSAGE 10 · v2 · END
+</footer>
+
+<div class="modal-bg" id="modal">
+    <div class="modal">
+        <button class="modal-close" id="modalClose">✕</button>
+        <div id="modalContent"></div>
+    </div>
+</div>
+
+<script>
+/* === 中文注释开关 === */
+var glossToggle = document.getElementById('glossToggle');
+var glossOn = true;
+try {
+    var saved = localStorage.getItem('p10_gloss');
+    if (saved === 'off') glossOn = false;
+} catch(e) {}
+
+function applyGloss() {
+    if (glossOn) {
+        document.body.classList.remove('no-gloss');
+        glossToggle.classList.remove('off');
+        glossToggle.querySelector('.g-label').textContent = '中文释义';
+    } else {
+        document.body.classList.add('no-gloss');
+        glossToggle.classList.add('off');
+        glossToggle.querySelector('.g-label').textContent = '已隐藏';
+    }
+}
+glossToggle.addEventListener('click', function() {
+    glossOn = !glossOn;
+    try { localStorage.setItem('p10_gloss', glossOn ? 'on' : 'off'); } catch(e) {}
+    applyGloss();
+});
+applyGloss();
+
+var dict = {
+    "bookcase":{ctx:"书架",type:"core",words:[{word:"bookcase",phonetic:"[ˈbʊkkeɪs]",defs:[{pos:"n.",meaning:"书架；书柜"}]}]},
+    "packed":{ctx:"异常拥挤的",type:"core",words:[{word:"packed",phonetic:"[pækt]",defs:[{pos:"adj.",meaning:"异常拥挤的；有大量……的；收拾好行李"}]}]},
+    "remain":{ctx:"仍然是",type:"outline",words:[{word:"remain",phonetic:"[rɪˈmeɪn]",defs:[{pos:"vi.",meaning:"仍然是，保持不变；剩余，遗留"}]}]},
+    "unread":{ctx:"未读的",type:"core",words:[{word:"unread",phonetic:"[ˌʌnˈred]",defs:[{pos:"adj.",meaning:"未读的，未阅的"}]}]},
+    "hear":{ctx:"（heard",type:"outline",words:[{word:"hear",phonetic:"[hɪə(r)]",defs:[{pos:"v.",meaning:"（heard, heard, hearing）听见；听说"}]}]},
+    "loud":{ctx:"/",type:"outline",words:[{word:"loud",phonetic:"[laʊd]",defs:[{pos:"adj.",meaning:"/"},{pos:"adv.",meaning:"大声的/地，喧闹的/地"}]}]},
+    "shame":{ctx:"羞愧",type:"outline",words:[{word:"shame",phonetic:"[ʃeɪm]",defs:[{pos:"n.",meaning:"羞愧，惭愧；[sing.]令人惋惜的事，让人遗憾的事"}],extras:[{type:"col",label:"搭",text:"shame on you, him, etc.真丢脸"}]}]},
+    "masterpiece":{ctx:"杰作",type:"core",words:[{word:"masterpiece",phonetic:"[ˈmɑːstəpiːs]",defs:[{pos:"n.",meaning:"杰作"}]}]},
+    "surprise":{ctx:"惊奇",type:"outline",words:[{word:"surprise",phonetic:"[səˈpraɪz]",defs:[{pos:"n.",meaning:"惊奇，惊讶；令人惊奇的事物"},{pos:"vt.",meaning:"使惊奇"}],extras:[{type:"col",label:"搭",text:"to one's surprise令某人惊讶的是"}]}]},
+    "fade":{ctx:"（使）褪色",type:"core",words:[{word:"fade",phonetic:"[feɪd]",defs:[{pos:"v.",meaning:"（使）褪色；衰退，衰落；逐渐消逝"}]}]},
+    "handwriting":{ctx:"书法",type:"outline",words:[{word:"handwriting",phonetic:"[ˈhændraɪtɪŋ]",defs:[{pos:"n.",meaning:"书法，笔迹；书写"}]}]},
+    "entirely":{ctx:"完全地",type:"outline",words:[{word:"entirely",phonetic:"[ɪnˈtaɪəli]",defs:[{pos:"adv.",meaning:"完全地，彻底地"}],extras:[{type:"mem",label:"记",text:"词根记忆：en（全部）+tir（拉）+e+ly（……地）→全部拉进去，不遗留在外→完全地"}]}]},
+    "sentence":{ctx:"句子",type:"outline",words:[{word:"sentence",phonetic:"[ˈsentəns]",defs:[{pos:"n.",meaning:"句子；判决，宣判"},{pos:"vt.",meaning:"宣判，判决"}]}]},
+    "underline":{ctx:"在……下面画线",type:"core",words:[{word:"underline",phonetic:"[ˌʌndəˈlaɪn]",defs:[{pos:"vt.",meaning:"在……下面画线；强调，使突出"}]}]},
+    "myself":{ctx:"我自己",type:"outline",words:[{word:"myself",phonetic:"[maɪˈself]",defs:[{pos:"pron.",meaning:"我自己；我亲自"}]}]},
+    "form":{ctx:"形式",type:"outline",words:[{word:"form",phonetic:"[fɔːm]",defs:[{pos:"n.",meaning:"形式；表格；结构"},{pos:"v.",meaning:"（使）形成；组建"}]}]},
+    "voluntary":{ctx:"自愿的",type:"core",words:[{word:"voluntary",phonetic:"[ˈvɒləntri]",defs:[{pos:"adj.",meaning:"自愿的"}]}]},
+    "willful":{ctx:"故意的",type:"core",words:[{word:"willful",phonetic:"[ˈwɪlfl]",defs:[{pos:"adj.",meaning:"故意的；任性的"}]}]},
+    "revisit":{ctx:"再访",type:"core",words:[{word:"revisit",phonetic:"[ˌriːˈvɪzɪt]",defs:[{pos:"vt.",meaning:"再访，重游；重提"}]}]},
+    "admire":{ctx:"钦佩",type:"outline",words:[{word:"admire",phonetic:"[ədˈmaɪə(r)]",defs:[{pos:"vt.",meaning:"钦佩，羡慕，欣赏"}]}]},
+    "unanswered":{ctx:"未回答的",type:"core",words:[{word:"unanswered",phonetic:"[ʌnˈɑːnsəd]",defs:[{pos:"adj.",meaning:"未回答的，未解答的；未回复的"}]}]},
+    "confirm":{ctx:"证实",type:"outline",words:[{word:"confirm",phonetic:"[kənˈfɜːm]",defs:[{pos:"vt.",meaning:"证实，证明，确认；使确信；批准"}],extras:[{type:"mem",label:"记",text:"词根记忆：con（表加强）+firm（坚定）→坚定地证实→证实"}]}]},
+    "move":{ctx:"行动",type:"outline",words:[{word:"move",phonetic:"[muːv]",defs:[{pos:"n.",meaning:"行动；移动；搬家"},{pos:"v.",meaning:"移动；搬动；搬家"}],extras:[{type:"col",label:"搭",text:"move on (to sth.) 开始做（别的事）；换话题move out搬出去"}]}]},
+    "wish":{ctx:"祝愿",type:"outline",words:[{word:"wish",phonetic:"[wɪʃ]",defs:[{pos:"v.",meaning:"祝愿；希望，想要"},{pos:"n.",meaning:"愿望，希望；希望的事"}]}]},
+    "refresh":{ctx:"（使）精神振作",type:"outline",words:[{word:"refresh",phonetic:"[rɪˈfreʃ]",defs:[{pos:"v.",meaning:"（使）精神振作；（使）更新"}],extras:[{type:"mem",label:"记",text:"词根记忆：re（重新）+fresh（新鲜）→（使）更新"},{type:"ex",label:"例",text:"Being in nature  refreshes  us.在大自然中，我们会感到神清气爽。"}]}]},
+    "closeness":{ctx:"（时间或空间上）接近",type:"core",words:[{word:"closeness",phonetic:"[ˈkləʊsnəs]",defs:[{pos:"n.",meaning:"（时间或空间上）接近，邻近"}]}]},
+    "old":{ctx:"老的",type:"outline",words:[{word:"old",phonetic:"[əʊld]",defs:[{pos:"adj.",meaning:"老的；旧的"}]}]},
+    "contrarily":{ctx:"相反地",type:"core",words:[{word:"contrarily",phonetic:"[kənˈtreərɪli]",defs:[{pos:"adv.",meaning:"相反地"}]}]},
+    "either":{ctx:"/",type:"outline",words:[{word:"either",phonetic:"[ˈaɪðə(r); ˈiːðə(r)]",defs:[{pos:"det.",meaning:"/"},{pos:"pron.",meaning:"（两者中的）任何一个"},{pos:"adv.",meaning:"（用于否定词组后）也"}],extras:[{type:"col",label:"搭",text:"either...or...（对两事物的选择）要么……要么，或者……或者"}]}]},
+    "totally":{ctx:"全部地",type:"core",words:[{word:"totally",phonetic:"[ˈtəʊtəli]",defs:[{pos:"adv.",meaning:"全部地，完全地"}]}]},
+    "encounter":{ctx:"相遇",type:"outline",words:[{word:"encounter",phonetic:"[ɪnˈkaʊntə(r)]",defs:[{pos:"n.",meaning:"相遇，邂逅"},{pos:"vt.",meaning:"遭遇；偶然碰到"}],extras:[{type:"mem",label:"记",text:"词根记忆：en（使……）+counter（相反）→使从两个相反的方向来→相遇"},{type:"col",label:"搭",text:"a chance encounter偶然相遇have an encounter with sth.遭遇某事"}]}]},
+    "astonishment":{ctx:"惊讶",type:"core",words:[{word:"astonishment",phonetic:"[əˈstɒnɪʃmənt]",defs:[{pos:"n.",meaning:"惊讶，惊异"}]}]},
+    "reaction":{ctx:"反应",type:"outline",words:[{word:"reaction",phonetic:"[riˈækʃn]",defs:[{pos:"n.",meaning:"反应；化学反应"}]}]},
+    "renewed":{ctx:"再次发生的",type:"core",words:[{word:"renewed",phonetic:"[rɪˈnjuːd]",defs:[{pos:"adj.",meaning:"再次发生的；再次兴起的；更新的"}]}]},
+    "correspond":{ctx:"通信",type:"outline",words:[{word:"correspond",phonetic:"[ˌkɒrəˈspɒnd]",defs:[{pos:"vi.",meaning:"通信；相一致，相符合；类似于，相当于"}],extras:[{type:"mem",label:"记",text:"词根记忆：cor（共同）+respond（作出反应）→作出相同的反应→相一致"}]}]},
+    "occur":{ctx:"（occurred",type:"outline",words:[{word:"occur",phonetic:"[əˈkɜː(r)]",defs:[{pos:"vi.",meaning:"（occurred, occurred, occurring）发生，出现；存在于"}],extras:[{type:"mem",label:"记",text:"词根记忆：oc（表加强）+cur（跑；发生）→发生，出现"},{type:"col",label:"搭",text:"occur to sb.某人想到"}]}]},
+    "without":{ctx:"/",type:"outline",words:[{word:"without",phonetic:"[wɪˈðaʊt]",defs:[{pos:"prep.",meaning:"/"},{pos:"adv.",meaning:"没有"}]}]},
+    "specific":{ctx:"特定的",type:"outline",words:[{word:"specific",phonetic:"[spəˈsɪfɪk]",defs:[{pos:"adj.",meaning:"特定的；明确的，具体的"}],extras:[{type:"mem",label:"记",text:"词根记忆：spec（种类）+ific（产生……的）→分门别类的→明确的"}]}]},
+    "memory":{ctx:"回忆",type:"outline",words:[{word:"memory",phonetic:"[ˈmeməri]",defs:[{pos:"n.",meaning:"回忆，记忆"}],extras:[{type:"mem",label:"记",text:"词根记忆：memor（记忆）+y（表名词）→记忆"},{type:"col",label:"搭",text:"in memory of纪念"}]}]},
+    "tune":{ctx:"曲调",type:"outline",words:[{word:"tune",phonetic:"[tjuːn]",defs:[{pos:"n.",meaning:"曲调，调子"}]}]},
+    "contact":{ctx:"联络",type:"outline",words:[{word:"contact",phonetic:"[ˈkɒntækt]",defs:[{pos:"n.",meaning:"联络；联系；接触，触摸"},{pos:"vt.",meaning:"联络；联系"}],extras:[{type:"mem",label:"记",text:"词根记忆：con（表加强）+tact（接触）→接触，触摸"},{type:"col",label:"搭",text:"in contact with接触；与……有联系"},{type:"ex",label:"例",text:"Long-lasting friendships share the characteristic that both sides equally  contact  and share with one another.长久的友谊有一个特点：双方同等程度地联系彼此以及相互之间进行分享。"}]}]},
+    "accompany":{ctx:"陪伴",type:"outline",words:[{word:"accompany",phonetic:"[əˈkʌmpəni]",defs:[{pos:"vt.",meaning:"陪伴；伴随；为……伴奏"}],extras:[{type:"mem",label:"记",text:"词根记忆：ac（表加强）+company（伙伴）→陪伴"}]}]},
+    "during":{ctx:"在……期间",type:"outline",words:[{word:"during",phonetic:"[ˈdjʊərɪŋ]",defs:[{pos:"prep.",meaning:"在……期间，在……过程中"}]}]},
+    "lifetime":{ctx:"一生",type:"core",words:[{word:"lifetime",phonetic:"[ˈlaɪftaɪm]",defs:[{pos:"n.",meaning:"一生，终身，有生之年"}]}]},
+    "strengthen":{ctx:"（使）变强",type:"outline",words:[{word:"strengthen",phonetic:"[ˈstreŋθn]",defs:[{pos:"v.",meaning:"（使）变强；加强，增强"}],extras:[{type:"mem",label:"记",text:"词根记忆：strength（力量）+en（使……）→使有力量→加强，增强"}]}]},
+    "shape":{ctx:"形状",type:"outline",words:[{word:"shape",phonetic:"[ʃeɪp]",defs:[{pos:"n.",meaning:"形状，外形"},{pos:"vt.",meaning:"使成形；塑造"}],extras:[{type:"col",label:"搭",text:"get in shape变得健康有活力"}]}]},
+    "manner":{ctx:"方式",type:"outline",words:[{word:"manner",phonetic:"[ˈmænə(r)]",defs:[{pos:"n.",meaning:"方式；态度；举止；[pl.]礼貌，规矩"}]}]},
+    "valuable":{ctx:"很有用的",type:"outline",words:[{word:"valuable",phonetic:"[ˈvæljuəbl]",defs:[{pos:"adj.",meaning:"很有用的，很重要的；很值钱的，贵重的"}]}]},
+    "activate":{ctx:"使活动",type:"core",words:[{word:"activate",phonetic:"[ˈæktɪveɪt]",defs:[{pos:"vt.",meaning:"使活动，激活"}]}]},
+    "search":{ctx:"/",type:"outline",words:[{word:"search",phonetic:"[sɜːtʃ]",defs:[{pos:"n.",meaning:"/"},{pos:"v.",meaning:"搜寻，搜查"}]}]},
+    "knowledge":{ctx:"[U]知识",type:"outline",words:[{word:"knowledge",phonetic:"[ˈnɒlɪdʒ]",defs:[{pos:"n.",meaning:"[U]知识，学问；知晓，了解"}]}]},
+    "uncover":{ctx:"揭露",type:"core",words:[{word:"uncover",phonetic:"[ʌnˈkʌvə(r)]",defs:[{pos:"vt.",meaning:"揭露，发现；揭开……的盖子"}]}]},
+    "newness":{ctx:"新近",type:"core",words:[{word:"newness",phonetic:"[ˈnjuːnəs]",defs:[{pos:"n.",meaning:"新近；新鲜；新奇；崭新"}]}]},
+    "evolve":{ctx:"（使）逐渐形成",type:"core",words:[{word:"evolve",phonetic:"[iˈvɒlv]",defs:[{pos:"v.",meaning:"（使）逐渐形成，逐步发展；进化"}]}]},
+    "outlook":{ctx:"观点",type:"core",words:[{word:"outlook",phonetic:"[ˈaʊtlʊk]",defs:[{pos:"n.",meaning:"观点，看法；展望，前景"}]}]},
+    "light":{ctx:"光",type:"outline",words:[{word:"light",phonetic:"[laɪt]",defs:[{pos:"n.",meaning:"光；灯；灯光；眼神"},{pos:"vt.",meaning:"（lit, lit, lighting）点燃；照亮"},{pos:"adj.",meaning:"明亮的；轻的；浅色的"}],extras:[{type:"col",label:"搭",text:"in a good (bad/favorable, etc.) light从好（或坏、有利等）的角度"}]}]}
+};
+
+var modal = document.getElementById('modal');
+var modalContent = document.getElementById('modalContent');
+var modalClose = document.getElementById('modalClose');
+
+/* === 2.0 核心：为每个高亮词动态包裹下方注释 === */
+document.querySelectorAll('.w').forEach(function(el) {
+    var key = el.getAttribute('data-key');
+    var entry = dict[key];
+    if (!entry || !entry.ctx) return;
+
+    /* 大纲词加橙色样式 */
+    if (entry.type === 'outline') el.classList.add('outline');
+
+    var wrapper = document.createElement('span');
+    wrapper.className = 'wn';
+    el.parentNode.insertBefore(wrapper, el);
+    wrapper.appendChild(el);
+
+    var g = document.createElement('span');
+    g.className = 'w-g';
+    g.textContent = entry.ctx;
+    wrapper.appendChild(g);
+
+    /* 点击事件保留在 .w 上 */
+    el.addEventListener('click', function(e) {
+        e.stopPropagation();
+        this.classList.remove('pulsed');
+        void this.offsetWidth;
+        this.classList.add('pulsed');
+        showModal(this.getAttribute('data-key'));
+    });
+});
+
+function showModal(key) {
+    var entry = dict[key];
+    if (!entry) return;
+    var html = '<div class="modal-eyebrow">Vocabulary</div>';
+    entry.words.forEach(function(w, idx) {
+        if (idx > 0) html += '<hr style="border:none;border-top:1px solid #e5e5e7;margin:14px 0;">';
+        html += '<div class="modal-word">' + w.word + '</div>';
+        html += '<div class="modal-phon">' + w.phonetic + '</div>';
+        html += '<div class="modal-defs">';
+        w.defs.forEach(function(d) {
+            html += '<div class="modal-def"><span class="pos">' + d.pos + '</span><span class="meaning">' + d.meaning + '</span></div>';
+        });
+        html += '</div>';
+        if (w.extras) {
+            html += '<div class="modal-extras">';
+            w.extras.forEach(function(x) {
+                html += '<div class="modal-extra ' + x.type + '"><span class="tag">' + x.label + '</span>' + x.text + '</div>';
+            });
+            html += '</div>';
+        }
+    });
+    modalContent.innerHTML = html;
+    modal.classList.add('active');
+}
+
+function hideModal() { modal.classList.remove('active'); }
+
+modalClose.addEventListener('click', hideModal);
+modal.addEventListener('click', function(e) { if (e.target === modal) hideModal(); });
+document.addEventListener('keydown', function(e) { if (e.key === 'Escape') hideModal(); });
+</script>
+</script>
+</body>
+</html>

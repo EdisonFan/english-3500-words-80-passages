@@ -1,0 +1,1242 @@
+{
+  "id": 58,
+  "stats": {
+    "words": 353,
+    "core": 37
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "Goffin's cockatoos, {native} to Australasia, are a kind of small {parrot} that has a white body with hints of yellow and {orange} .They {mimic} sounds and {dance} to music, which often {amuses} their owners.The cockatoos have been shown to have similar shape-recognition abilities to a human two-year-old.Though not known to use tools in the {wild} , the {birds} have proved {skillful} at tool use while being kept in {cages} .In a recent experiment, cockatoos were presented with a box with a {nut} inside it.The clear front of the box had a“ {keyhole} ”in a {geometric} shape, and the birds were given five differently {shaped} “keys” to choose from. {Inserting} the {correct} “key” would let out the nut.",
+      "cn": "戈芬凤头鹦鹉 原产 于澳大拉西亚，是一种小型 鹦鹉 ，身体呈白色，有少量黄色和 橙色 羽毛点缀。它们会 模仿 声音，还能随着音乐 起舞 ，常常 逗乐 它们的主人。经验证，凤头鹦鹉的形状识别能力与人类两岁的儿童相近。尽管人们不知道这种 鸟 在 野外 会使用工具，但它们被关在 笼子 里时却已证明自己在使用工具方面很 熟练 。在最近的一项实验中，研究人员给凤头鹦鹉展示了一个装有 坚果 的盒子。盒子透明的正面有一个 几何 形状的“ 钥匙孔 ”，研究人员给这些鸟儿五把不同 形状 的“钥匙”供它们选择。 插入正确的 “钥匙”就能让坚果掉出来。"
+    },
+    {
+      "num": "02",
+      "en": "In humans, babies can put a round shape in a round hole from around one year of age.They are quite {gifted} in their {vision} and can make {subtle discriminations} between different shapes.But it will be another year before they are able to do the same with less symmetrical (（对称的）) shapes.This ability to recognize that a shape will need to be turned in a specific direction to fit within the {boundary} of the puzzle is called an “allocentric frame of reference”.It is linked to understanding {geometry} .Developing this skill helps in activities like reading a {map} or navigating new environments.In the experiment, Goffin's cockatoos were able to select the right tool for the job, in most cases, by visual {recognition} alone.Where trial-and-error was used, the cockatoos did better than {monkeys} in similar tests.This {indicates} that Goffin's cockatoos do indeed {possess} an allocentric frame of reference when moving {objects} in space, {implying} that these birds have cognitive abilities {comparable} to those of two-year-old babies.The {comparison} has {astonished} researchers who had underestimated the {extent} to which animal intelligence can develop.",
+      "cn": "对于人类来说，婴儿从一岁左右起就能把圆形放入圆孔中。他们在 视觉 方面极具 天赋 ，能够对不同的形状做出 细微的区分 。但要再过一年，他们才能对不太对称的形状做到同样的操作。这种认识到一个形状需要朝特定方向转动才能与拼图的 边界 相契合的能力被称为“异我中心参照系”。它与理解 几何图形 相关。培养这种能力有助于看 地图 或在新环境中辨别方向等活动。在实验中，戈芬凤头鹦鹉在大多数情况下仅通过视觉 识别 就能选取合适的工具。在使用“试错法”的情况下，凤头鹦鹉在类似测试中的表现要优于 猴子 。这 表明 ，在空间中移动 物体 时，戈芬凤头鹦鹉确实 拥有 异我中心参照系，这 意味着 ，这种鸟类具有与两岁婴儿 相当 的认知能力。这一 对比 结果让研究人员感到 震惊 ，因为他们此前低估了动物智力发展的 程度 。"
+    },
+    {
+      "num": "03",
+      "en": "The next step, according to the researchers, is to try and work out whether the cockatoos rely entirely on visual {clues} , or also use a sense of touch in making their shape {selections} .Findings of future studies should represent significant {progress} in the field of animal cognition and may lead to {innovations} in how we appreciate animal minds.",
+      "cn": "据研究人员所述，下一步是尝试弄清楚凤头鹦鹉在 选择 形状时是完全依赖视觉 线索 ，还是也会运用触觉。未来研究的结果有望在动物认知领域取得重大 进展 ，并且可能会促使我们以 全新方式 去理解动物的思维。 5NoOncib/NjiX02BpMIzP4m+378Hw1xTRxUdPaP/PFjKUFq4K2G7tp6ZLYoCE601yW1W39VMdLmovFdSHs4nVQ=="
+    }
+  ],
+  "vocab": [
+    {
+      "word": "native",
+      "type": "outline",
+      "ctx": "本土的，本国的",
+      "phonetic": "[ˈneɪtɪv]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "本土的，本国的"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "the native language母语"
+        }
+      ],
+      "words": [
+        {
+          "word": "native",
+          "phonetic": "[ˈneɪtɪv]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "本土的，本国的"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "the native language母语"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "parrot",
+      "type": "core",
+      "ctx": "鹦鹉",
+      "phonetic": "[ˈpærət]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "鹦鹉"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "parrot",
+          "phonetic": "[ˈpærət]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "鹦鹉"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "orange",
+      "type": "outline",
+      "ctx": "橙子，柑橘",
+      "phonetic": "[ˈɒrɪndʒ]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "橙子，柑橘；橙汁；橙红色"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "橙红色的，橘黄色的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "orange",
+          "phonetic": "[ˈɒrɪndʒ]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "橙子，柑橘；橙汁；橙红色"
+            },
+            {
+              "pos": "adj.",
+              "meaning": "橙红色的，橘黄色的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "mimic",
+      "type": "core",
+      "ctx": "（mimicked, mimicked, mimicking）模仿",
+      "phonetic": "[ˈmɪmɪk]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "（mimicked, mimicked, mimicking）模仿"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "mimic",
+          "phonetic": "[ˈmɪmɪk]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "（mimicked, mimicked, mimicking）模仿"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "dance",
+      "type": "outline",
+      "ctx": "舞蹈",
+      "phonetic": "[dɑːns]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "舞蹈；舞曲；舞会"
+        },
+        {
+          "pos": "v.",
+          "meaning": "跳舞"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "dance",
+          "phonetic": "[dɑːns]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "舞蹈；舞曲；舞会"
+            },
+            {
+              "pos": "v.",
+              "meaning": "跳舞"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "amuse",
+      "type": "outline",
+      "ctx": "使快乐，逗乐",
+      "phonetic": "[əˈmjuːz]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "使快乐，逗乐"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：a（表加强）+mus（娱乐）+e→逗乐"
+        }
+      ],
+      "words": [
+        {
+          "word": "amuse",
+          "phonetic": "[əˈmjuːz]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "使快乐，逗乐"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：a（表加强）+mus（娱乐）+e→逗乐"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "wild",
+      "type": "outline",
+      "ctx": "野生的",
+      "phonetic": "[waɪld]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "野生的；荒凉的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "自然环境；野生状态；偏远地区"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "wild",
+          "phonetic": "[waɪld]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "野生的；荒凉的"
+            },
+            {
+              "pos": "n.",
+              "meaning": "自然环境；野生状态；偏远地区"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "bird",
+      "type": "outline",
+      "ctx": "鸟",
+      "phonetic": "[bɜːd]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "鸟；禽"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "拓",
+          "text": "nest*（ n. 巢，窝）"
+        }
+      ],
+      "words": [
+        {
+          "word": "bird",
+          "phonetic": "[bɜːd]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "鸟；禽"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "拓",
+              "text": "nest*（ n. 巢，窝）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "skillful",
+      "type": "core",
+      "ctx": "熟练的",
+      "phonetic": "[ˈskɪlfl]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "熟练的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "skillful",
+          "phonetic": "[ˈskɪlfl]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "熟练的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "cage",
+      "type": "outline",
+      "ctx": "笼子",
+      "phonetic": "[keɪdʒ]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "笼子"
+        },
+        {
+          "pos": "vt.",
+          "meaning": "把（动物）关在笼中"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "cage",
+          "phonetic": "[keɪdʒ]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "笼子"
+            },
+            {
+              "pos": "vt.",
+              "meaning": "把（动物）关在笼中"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "nut",
+      "type": "core",
+      "ctx": "坚果",
+      "phonetic": "[nʌt]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "坚果"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "nut",
+          "phonetic": "[nʌt]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "坚果"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "keyhole",
+      "type": "core",
+      "ctx": "钥匙孔",
+      "phonetic": "[ˈkiːhəʊl]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "钥匙孔"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "keyhole",
+          "phonetic": "[ˈkiːhəʊl]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "钥匙孔"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "geometric",
+      "type": "core",
+      "ctx": "几何（学）的",
+      "phonetic": "[ˌdʒiːəˈmetrɪk]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "几何（学）的；几何图形的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "geometric",
+          "phonetic": "[ˌdʒiːəˈmetrɪk]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "几何（学）的；几何图形的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "shaped",
+      "type": "core",
+      "ctx": "具有（或呈）……形状的",
+      "phonetic": "[ʃeɪpt]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "具有（或呈）……形状的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "shaped",
+          "phonetic": "[ʃeɪpt]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "具有（或呈）……形状的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "insert",
+      "type": "core",
+      "ctx": "插入",
+      "phonetic": "[ɪnˈsɜːt]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "插入；嵌入；（在文章中）添加"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "insert",
+          "phonetic": "[ɪnˈsɜːt]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "插入；嵌入；（在文章中）添加"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "correct",
+      "type": "outline",
+      "ctx": "正确的",
+      "phonetic": "[kəˈrekt]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "正确的；恰当的"
+        },
+        {
+          "pos": "vt.",
+          "meaning": "改正，纠正"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "correct",
+          "phonetic": "[kəˈrekt]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "正确的；恰当的"
+            },
+            {
+              "pos": "vt.",
+              "meaning": "改正，纠正"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "gifted",
+      "type": "outline",
+      "ctx": "有天赋的，有才华的",
+      "phonetic": "[ˈɡɪftɪd]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "有天赋的，有才华的"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "来自gift（ n. 天赋，才华）"
+        }
+      ],
+      "words": [
+        {
+          "word": "gifted",
+          "phonetic": "[ˈɡɪftɪd]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "有天赋的，有才华的"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "来自gift（ n. 天赋，才华）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "vision",
+      "type": "outline",
+      "ctx": "想象",
+      "phonetic": "[ˈvɪʒn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "想象；视力；远见卓识"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：vis（看）+ion→视力"
+        }
+      ],
+      "words": [
+        {
+          "word": "vision",
+          "phonetic": "[ˈvɪʒn]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "想象；视力；远见卓识"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：vis（看）+ion→视力"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "subtle",
+      "type": "core",
+      "ctx": "不易察觉的，微妙的",
+      "phonetic": "[ˈsʌtl]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "不易察觉的，微妙的；机智的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "subtle",
+          "phonetic": "[ˈsʌtl]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "不易察觉的，微妙的；机智的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "discrimination",
+      "type": "outline",
+      "ctx": "歧视，偏袒",
+      "phonetic": "[dɪˌskrɪmɪˈneɪʃn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "歧视，偏袒；区别，辨别"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：dis（表加强）+crimin（区别）+ation（表名词）→区别"
+        }
+      ],
+      "words": [
+        {
+          "word": "discrimination",
+          "phonetic": "[dɪˌskrɪmɪˈneɪʃn]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "歧视，偏袒；区别，辨别"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：dis（表加强）+crimin（区别）+ation（表名词）→区别"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "boundary",
+      "type": "outline",
+      "ctx": "边界",
+      "phonetic": "[ˈbaʊndri]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "边界；分界线"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "national boundaries国界"
+        }
+      ],
+      "words": [
+        {
+          "word": "boundary",
+          "phonetic": "[ˈbaʊndri]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "边界；分界线"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "national boundaries国界"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "geometry",
+      "type": "outline",
+      "ctx": "几何学",
+      "phonetic": "[dʒiˈɒmətri]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "几何学"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：geo（地，地球）+metry（测量）→测量地表的有关学科→几何学"
+        }
+      ],
+      "words": [
+        {
+          "word": "geometry",
+          "phonetic": "[dʒiˈɒmətri]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "几何学"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：geo（地，地球）+metry（测量）→测量地表的有关学科→几何学"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "map",
+      "type": "outline",
+      "ctx": "地图",
+      "phonetic": "[mæp]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "地图"
+        },
+        {
+          "pos": "vt.",
+          "meaning": "（mapped, mapped, mapping）绘制……的地图"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "map",
+          "phonetic": "[mæp]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "地图"
+            },
+            {
+              "pos": "vt.",
+              "meaning": "（mapped, mapped, mapping）绘制……的地图"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "recognition",
+      "type": "outline",
+      "ctx": "认出，识别",
+      "phonetic": "[ˌrekəɡˈnɪʃn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "认出，识别；认可，承认"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：re（一再）+cogni（知道）+tion（表名词）→认出"
+        }
+      ],
+      "words": [
+        {
+          "word": "recognition",
+          "phonetic": "[ˌrekəɡˈnɪʃn]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "认出，识别；认可，承认"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：re（一再）+cogni（知道）+tion（表名词）→认出"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "monkey",
+      "type": "outline",
+      "ctx": "猴子",
+      "phonetic": "[ˈmʌŋki]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "猴子"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "monkey",
+          "phonetic": "[ˈmʌŋki]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "猴子"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "indicate",
+      "type": "outline",
+      "ctx": "表明",
+      "phonetic": "[ˈɪndɪkeɪt]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "表明；暗示；指示，指出"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：in+dic（说）+ate（表动词）→说出→表明"
+        }
+      ],
+      "words": [
+        {
+          "word": "indicate",
+          "phonetic": "[ˈɪndɪkeɪt]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "表明；暗示；指示，指出"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：in+dic（说）+ate（表动词）→说出→表明"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "possess",
+      "type": "core",
+      "ctx": "拥有",
+      "phonetic": "[pəˈzes]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "拥有；具备（特质）"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "possess",
+          "phonetic": "[pəˈzes]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "拥有；具备（特质）"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "object",
+      "type": "outline",
+      "ctx": "物体",
+      "phonetic": "[ˈɒbdʒɪkt]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "物体；目标；宾语"
+        },
+        {
+          "pos": "v.",
+          "meaning": "反对"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "object to sb./sth.不同意，不赞同，反对"
+        }
+      ],
+      "words": [
+        {
+          "word": "object",
+          "phonetic": "[ˈɒbdʒɪkt]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "物体；目标；宾语"
+            },
+            {
+              "pos": "v.",
+              "meaning": "反对"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "object to sb./sth.不同意，不赞同，反对"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "imply",
+      "type": "outline",
+      "ctx": "（implied, implied, implying）暗示，意指",
+      "phonetic": "[ɪmˈplaɪ]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "（implied, implied, implying）暗示，意指"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：im（进入）+ply（重叠）→重叠表达→暗示，意指"
+        }
+      ],
+      "words": [
+        {
+          "word": "imply",
+          "phonetic": "[ɪmˈplaɪ]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "（implied, implied, implying）暗示，意指"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：im（进入）+ply（重叠）→重叠表达→暗示，意指"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "comparable",
+      "type": "core",
+      "ctx": "可比较的，类似的，（数量、重要性等）相当的",
+      "phonetic": "[ˈkɒmpərəbl]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "可比较的，类似的，（数量、重要性等）相当的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "comparable",
+          "phonetic": "[ˈkɒmpərəbl]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "可比较的，类似的，（数量、重要性等）相当的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "comparison",
+      "type": "outline",
+      "ctx": "比较，对比",
+      "phonetic": "[kəmˈpærɪsn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "比较，对比"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "comparison",
+          "phonetic": "[kəmˈpærɪsn]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "比较，对比"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "astonish",
+      "type": "outline",
+      "ctx": "使惊讶，使吃惊",
+      "phonetic": "[əˈstɒnɪʃ]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "使惊讶，使吃惊"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "astonish",
+          "phonetic": "[əˈstɒnɪʃ]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "使惊讶，使吃惊"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "extent",
+      "type": "outline",
+      "ctx": "程度",
+      "phonetic": "[ɪkˈstent]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "程度；大小，面积，范围"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：ex（出）+tent（伸展）→伸展出的距离→大小，面积，范围"
+        },
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "to...extent到……程度，在……程度"
+        }
+      ],
+      "words": [
+        {
+          "word": "extent",
+          "phonetic": "[ɪkˈstent]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "程度；大小，面积，范围"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：ex（出）+tent（伸展）→伸展出的距离→大小，面积，范围"
+            },
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "to...extent到……程度，在……程度"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "clue",
+      "type": "outline",
+      "ctx": "线索",
+      "phonetic": "[kluː]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "线索；提示"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "联想记忆：警方从一瓶蓝色（blue）胶水（glue）中找到了线索（clue）"
+        }
+      ],
+      "words": [
+        {
+          "word": "clue",
+          "phonetic": "[kluː]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "线索；提示"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "联想记忆：警方从一瓶蓝色（blue）胶水（glue）中找到了线索（clue）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "selection",
+      "type": "core",
+      "ctx": "选择",
+      "phonetic": "[sɪˈlekʃn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "选择"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "selection",
+          "phonetic": "[sɪˈlekʃn]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "选择"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "progress",
+      "type": "outline",
+      "ctx": "进步，进展",
+      "phonetic": "[ˈprəʊɡres]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "进步，进展；前进"
+        },
+        {
+          "pos": "vi.",
+          "meaning": "进步，改进，进展；前进"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "progress",
+          "phonetic": "[ˈprəʊɡres]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "进步，进展；前进"
+            },
+            {
+              "pos": "vi.",
+              "meaning": "进步，改进，进展；前进"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "innovation",
+      "type": "outline",
+      "ctx": "[C]新方法，新事物",
+      "phonetic": "[ˌɪnəˈveɪʃn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "[C]新方法，新事物；[U]创新"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：in（进入）+nov（新的）+ation（表名词）→创新"
+        }
+      ],
+      "words": [
+        {
+          "word": "innovation",
+          "phonetic": "[ˌɪnəˈveɪʃn]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "[C]新方法，新事物；[U]创新"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：in（进入）+nov（新的）+ation（表名词）→创新"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

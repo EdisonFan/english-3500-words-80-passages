@@ -1,0 +1,2207 @@
+{
+  "id": 2,
+  "stats": {
+    "words": 298,
+    "core": 69
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "It's a {joyful} yet {stressful} time of {year} in the United States for students and {their} {family} as they {make} {decision} {about} {where} to attend {college}. Families {often} turn to {ranking} {system} to {help} make a decision. {however}, the rankings {ignore} a {critical} {factor}: the quality of teaching.",
+      "cn": ""
+    },
+    {
+      "num": "02",
+      "en": "When I {talk} to families as a {scholar} of higher {education}, they're often {surprised} that teaching {excellence} is not counted in rankings. They're {even} {more} surprised at how teaching is {undervalue} by universities.",
+      "cn": ""
+    },
+    {
+      "num": "03",
+      "en": "{emerging} research suggests that courses in lower-ranked universities, on average, {score} higher on teaching {than} courses in higher-ranked universities. In {fact}, universities often {shift} {emphasis} from teaching to other ranking factors. The absence of teaching excellence from the rankings is {surprising} given the {link} {between} high-quality teaching and student success. Quality teaching is one of the most important {predictor} of a {wide} range of college outcomes.",
+      "cn": ""
+    },
+    {
+      "num": "04",
+      "en": "Rankings, however, are only one reason why a {low} value is {place} on teaching in higher education. {administrator} often don't {view} teaching excellence as a way to {increase} {enrollment} or {funding}. {therefore}, it's not {highly} valued in hiring or {promotion}. Research shows that the more time {instructor} spend on teaching, the lower their {salary}. What is the {result}? Many instructors {continue} to teach using {traditional} {lecture}, which {lead} to lower success rates.",
+      "cn": ""
+    },
+    {
+      "num": "05",
+      "en": "Quality teaching has been an important reputation-building factor. {nevertheless}, not {much} will change until schools with high-quality teaching are {reward} with more {resource}, higher rankings and increased enrollments. In the {long} term, universities, {organization} that rank schools, and others should {work} together to make teaching a valued, {core} {part} of the {mission}.",
+      "cn": ""
+    },
+    {
+      "num": "06",
+      "en": "What {should} students and their families do? They should give {strong} {consideration} to universities where high-quality teaching is valued, even {though} the schools {may} be ranked lower.",
+      "cn": ""
+    }
+  ],
+  "vocab": [
+    {
+      "word": "joyful",
+      "type": "core",
+      "ctx": "高兴的",
+      "phonetic": "[ˈdʒɔɪfl]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "高兴的，快乐，令人愉快的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "joyful",
+          "phonetic": "[ˈdʒɔɪfl]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "高兴的，快乐，令人愉快的"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "stressful",
+      "type": "core",
+      "ctx": "紧张的",
+      "phonetic": "[ˈstresfl]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "压力重的，紧张的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "stressful",
+          "phonetic": "[ˈstresfl]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "压力重的，紧张的"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "type": "core",
+      "ctx": "年",
+      "phonetic": "[jɪə(r)]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "年，年份"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "year",
+          "phonetic": "[jɪə(r)]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "年，年份"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "their",
+      "type": "core",
+      "ctx": "他们的",
+      "phonetic": "[ðeə(r)]",
+      "defs": [
+        {
+          "pos": "det.",
+          "meaning": "他（她、它）们的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "their",
+          "phonetic": "[ðeə(r)]",
+          "defs": [
+            {
+              "pos": "det.",
+              "meaning": "他（她、它）们的"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "family",
+      "type": "core",
+      "ctx": "家人",
+      "phonetic": "[ˈfæməli]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "家；家人"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "family",
+          "phonetic": "[ˈfæməli]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "家；家人"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "make",
+      "type": "core",
+      "ctx": "做",
+      "phonetic": "[meɪk]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "（made, made, making）制造；做；使成为"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "make",
+          "phonetic": "[meɪk]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "（made, made, making）制造；做；使成为"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "decision",
+      "type": "core",
+      "ctx": "决定",
+      "phonetic": "[dɪˈsɪʒn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "决定；决议"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "decision",
+          "phonetic": "[dɪˈsɪʒn]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "决定；决议"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "about",
+      "type": "core",
+      "ctx": "关于",
+      "phonetic": "[əˈbaʊt]",
+      "defs": [
+        {
+          "pos": "prep.",
+          "meaning": "关于；在附近"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "大约；到处"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "about",
+          "phonetic": "[əˈbaʊt]",
+          "defs": [
+            {
+              "pos": "prep.",
+              "meaning": "关于；在附近"
+            },
+            {
+              "pos": "adv.",
+              "meaning": "大约；到处"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "where",
+      "type": "core",
+      "ctx": "哪里",
+      "phonetic": "[weə(r)]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "在哪里；在那里"
+        },
+        {
+          "pos": "conj.",
+          "meaning": "（在）……的地方；（在）……情况下"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "where",
+          "phonetic": "[weə(r)]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "在哪里；在那里"
+            },
+            {
+              "pos": "conj.",
+              "meaning": "（在）……的地方；（在）……情况下"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "college",
+      "type": "core",
+      "ctx": "大学",
+      "phonetic": "[ˈkɒlɪdʒ]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "大学，学院"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "college",
+          "phonetic": "[ˈkɒlɪdʒ]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "大学，学院"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "often",
+      "type": "core",
+      "ctx": "经常",
+      "phonetic": "[ˈɒfn]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "经常地"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "often",
+          "phonetic": "[ˈɒfn]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "经常地"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "ranking",
+      "type": "core",
+      "ctx": "排名",
+      "phonetic": "[ˈræŋkɪŋ]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "地位；排名"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "ranking",
+          "phonetic": "[ˈræŋkɪŋ]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "地位；排名"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "system",
+      "type": "core",
+      "ctx": "系统",
+      "phonetic": "[ˈsɪstəm]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "体系，系统"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "system",
+          "phonetic": "[ˈsɪstəm]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "体系，系统"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "help",
+      "type": "core",
+      "ctx": "帮助",
+      "phonetic": "[help]",
+      "defs": [
+        {
+          "pos": "n./v.",
+          "meaning": "帮助"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "help",
+          "phonetic": "[help]",
+          "defs": [
+            {
+              "pos": "n./v.",
+              "meaning": "帮助"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "however",
+      "type": "core",
+      "ctx": "然而",
+      "phonetic": "[haʊˈevə(r)]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "然而；无论如何"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "however",
+          "phonetic": "[haʊˈevə(r)]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "然而；无论如何"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "ignore",
+      "type": "core",
+      "ctx": "忽略",
+      "phonetic": "[ɪɡˈnɔː(r)]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "不理睬，忽视"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "ignore",
+          "phonetic": "[ɪɡˈnɔː(r)]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "不理睬，忽视"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "critical",
+      "type": "core",
+      "ctx": "关键的",
+      "phonetic": "[ˈkrɪtɪkl]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "极重要的，关键的；批评的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "critical",
+          "phonetic": "[ˈkrɪtɪkl]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "极重要的，关键的；批评的"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "factor",
+      "type": "core",
+      "ctx": "因素",
+      "phonetic": "[ˈfæktə(r)]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "因素，要素"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "联想记忆：fact（事实，论据）+or→重要论据→要素"
+        }
+      ],
+      "words": [
+        {
+          "word": "factor",
+          "phonetic": "[ˈfæktə(r)]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "因素，要素"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "联想记忆：fact（事实，论据）+or→重要论据→要素"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "talk",
+      "type": "core",
+      "ctx": "交谈",
+      "phonetic": "[tɔːk]",
+      "defs": [
+        {
+          "pos": "vi.",
+          "meaning": "谈话；谈论"
+        },
+        {
+          "pos": "n.",
+          "meaning": "谈话；演讲；节目"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "talk show 脱口秀"
+        }
+      ],
+      "words": [
+        {
+          "word": "talk",
+          "phonetic": "[tɔːk]",
+          "defs": [
+            {
+              "pos": "vi.",
+              "meaning": "谈话；谈论"
+            },
+            {
+              "pos": "n.",
+              "meaning": "谈话；演讲；节目"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "talk show 脱口秀"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "scholar",
+      "type": "core",
+      "ctx": "学者",
+      "phonetic": "[ˈskɒlə(r)]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "学者；奖学金获得者"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "scholar",
+          "phonetic": "[ˈskɒlə(r)]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "学者；奖学金获得者"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "education",
+      "type": "core",
+      "ctx": "教育",
+      "phonetic": "[ˌedʒuˈkeɪʃn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "教育；培养"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "education",
+          "phonetic": "[ˌedʒuˈkeɪʃn]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "教育；培养"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "surprised",
+      "type": "core",
+      "ctx": "惊讶的",
+      "phonetic": "[səˈpraɪzd]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "惊奇的，惊讶的，感觉意外的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "surprised",
+          "phonetic": "[səˈpraɪzd]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "惊奇的，惊讶的，感觉意外的"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "excellence",
+      "type": "core",
+      "ctx": "优异",
+      "phonetic": "[ˈeksələns]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "优秀，杰出，卓越"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "excellence",
+          "phonetic": "[ˈeksələns]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "优秀，杰出，卓越"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "even",
+      "type": "core",
+      "ctx": "甚至",
+      "phonetic": "[ˈiːvn]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "甚至"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "平坦的；均等的"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "even if/though 即使，尽管"
+        }
+      ],
+      "words": [
+        {
+          "word": "even",
+          "phonetic": "[ˈiːvn]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "甚至"
+            },
+            {
+              "pos": "adj.",
+              "meaning": "平坦的；均等的"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "even if/though 即使，尽管"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "more",
+      "type": "core",
+      "ctx": "更",
+      "phonetic": "[mɔː(r)]",
+      "defs": [
+        {
+          "pos": "det./pron.",
+          "meaning": "更多的，更大的"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "更"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "more or less 几乎，差不多 | more and more 越来越多"
+        }
+      ],
+      "words": [
+        {
+          "word": "more",
+          "phonetic": "[mɔː(r)]",
+          "defs": [
+            {
+              "pos": "det./pron.",
+              "meaning": "更多的，更大的"
+            },
+            {
+              "pos": "adv.",
+              "meaning": "更"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "more or less 几乎，差不多 | more and more 越来越多"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "undervalue",
+      "type": "core",
+      "ctx": "轻视",
+      "phonetic": "[ˌʌndəˈvæljuː]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "低估，轻视"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "undervalue",
+          "phonetic": "[ˌʌndəˈvæljuː]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "低估，轻视"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "emerging",
+      "type": "core",
+      "ctx": "新兴的",
+      "phonetic": "[ɪˈmɜːdʒɪŋ]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "新兴的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "emerging",
+          "phonetic": "[ɪˈmɜːdʒɪŋ]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "新兴的"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "score",
+      "type": "core",
+      "ctx": "得分",
+      "phonetic": "[skɔː(r)]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "得分"
+        },
+        {
+          "pos": "n.",
+          "meaning": "得分，分数；二十，约二十个"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "scores of 很多"
+        }
+      ],
+      "words": [
+        {
+          "word": "score",
+          "phonetic": "[skɔː(r)]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "得分"
+            },
+            {
+              "pos": "n.",
+              "meaning": "得分，分数；二十，约二十个"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "scores of 很多"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "than",
+      "type": "core",
+      "ctx": "比",
+      "phonetic": "[ðən; ðæn]",
+      "defs": [
+        {
+          "pos": "prep./conj.",
+          "meaning": "比"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "than",
+          "phonetic": "[ðən; ðæn]",
+          "defs": [
+            {
+              "pos": "prep./conj.",
+              "meaning": "比"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "fact",
+      "type": "core",
+      "ctx": "事实",
+      "phonetic": "[fækt]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "事实，真相；现实"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "fact",
+          "phonetic": "[fækt]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "事实，真相；现实"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "shift",
+      "type": "core",
+      "ctx": "转移",
+      "phonetic": "[ʃɪft]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "移动，转移；改变，转变"
+        },
+        {
+          "pos": "n.",
+          "meaning": "转换，转变；轮班"
+        }
+      ],
+      "extras": [
+        {
+          "type": "ex",
+          "label": "例",
+          "text": "It's better to leave your listeners wishing for more than shifting restlessly in their seats. 最好让你的听众希望能听到更多内容，而不是坐立不安地等待你的演讲结束。"
+        }
+      ],
+      "words": [
+        {
+          "word": "shift",
+          "phonetic": "[ʃɪft]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "移动，转移；改变，转变"
+            },
+            {
+              "pos": "n.",
+              "meaning": "转换，转变；轮班"
+            }
+          ],
+          "extras": [
+            {
+              "type": "ex",
+              "label": "例",
+              "text": "It's better to leave your listeners wishing for more than shifting restlessly in their seats. 最好让你的听众希望能听到更多内容，而不是坐立不安地等待你的演讲结束。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emphasis",
+      "type": "core",
+      "ctx": "重点",
+      "phonetic": "[ˈemfəsɪs]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "强调；重视，重要性；重读"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "emphasis",
+          "phonetic": "[ˈemfəsɪs]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "强调；重视，重要性；重读"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "surprising",
+      "type": "core",
+      "ctx": "令人惊讶的",
+      "phonetic": "[səˈpraɪzɪŋ]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "令人吃惊的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "surprising",
+          "phonetic": "[səˈpraɪzɪŋ]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "令人吃惊的"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "link",
+      "type": "core",
+      "ctx": "联系",
+      "phonetic": "[lɪŋk]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "联系；关系；链接"
+        },
+        {
+          "pos": "vt.",
+          "meaning": "连接；联系"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "the link between smoking and lung cancer 吸烟和肺癌之间的联系"
+        }
+      ],
+      "words": [
+        {
+          "word": "link",
+          "phonetic": "[lɪŋk]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "联系；关系；链接"
+            },
+            {
+              "pos": "vt.",
+              "meaning": "连接；联系"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "the link between smoking and lung cancer 吸烟和肺癌之间的联系"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "between",
+      "type": "core",
+      "ctx": "之间",
+      "phonetic": "[bɪˈtwiːn]",
+      "defs": [
+        {
+          "pos": "prep.",
+          "meaning": "在（两者）之间；在……中间"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "介于……之间"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "in between 在中间"
+        }
+      ],
+      "words": [
+        {
+          "word": "between",
+          "phonetic": "[bɪˈtwiːn]",
+          "defs": [
+            {
+              "pos": "prep.",
+              "meaning": "在（两者）之间；在……中间"
+            },
+            {
+              "pos": "adv.",
+              "meaning": "介于……之间"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "in between 在中间"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "predictor",
+      "type": "core",
+      "ctx": "预测（因素）",
+      "phonetic": "[prɪˈdɪktə(r)]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "预测器；预示物"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "predictor",
+          "phonetic": "[prɪˈdɪktə(r)]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "预测器；预示物"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "wide",
+      "type": "core",
+      "ctx": "广泛的",
+      "phonetic": "[waɪd]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "宽的；宽阔的；广泛的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "wide",
+          "phonetic": "[waɪd]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "宽的；宽阔的；广泛的"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "low",
+      "type": "core",
+      "ctx": "低的",
+      "phonetic": "[ləʊ]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "低的；矮的；低于通常数量的"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "低；低声地"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "low",
+          "phonetic": "[ləʊ]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "低的；矮的；低于通常数量的"
+            },
+            {
+              "pos": "adv.",
+              "meaning": "低；低声地"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "place",
+      "type": "core",
+      "ctx": "赋予",
+      "phonetic": "[pleɪs]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "地方，处所"
+        },
+        {
+          "pos": "vt.",
+          "meaning": "放置，安置"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "in the first place 首先 | take place 发生，举行"
+        }
+      ],
+      "words": [
+        {
+          "word": "place",
+          "phonetic": "[pleɪs]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "地方，处所"
+            },
+            {
+              "pos": "vt.",
+              "meaning": "放置，安置"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "in the first place 首先 | take place 发生，举行"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "administrator",
+      "type": "core",
+      "ctx": "管理者",
+      "phonetic": "[ədˈmɪnɪstreɪtə(r)]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "管理人员，行政人员"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "administrator",
+          "phonetic": "[ədˈmɪnɪstreɪtə(r)]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "管理人员，行政人员"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "view",
+      "type": "core",
+      "ctx": "视为",
+      "phonetic": "[vjuː]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "看法；景色"
+        },
+        {
+          "pos": "vt.",
+          "meaning": "把……视为；看，观看"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "view",
+          "phonetic": "[vjuː]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "看法；景色"
+            },
+            {
+              "pos": "vt.",
+              "meaning": "把……视为；看，观看"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "increase",
+      "type": "core",
+      "ctx": "增加",
+      "phonetic": "[ɪnˈkriːs] / [ˈɪŋkriːs]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "（使）增加，增长"
+        },
+        {
+          "pos": "n.",
+          "meaning": "[C, U] 增加，增长"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "increase",
+          "phonetic": "[ɪnˈkriːs] / [ˈɪŋkriːs]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "（使）增加，增长"
+            },
+            {
+              "pos": "n.",
+              "meaning": "[C, U] 增加，增长"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "enrollment",
+      "type": "core",
+      "ctx": "入学率",
+      "phonetic": "[ɪnˈrəʊlmənt]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "入学，注册，登记（人数）"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "enrollment",
+          "phonetic": "[ɪnˈrəʊlmənt]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "入学，注册，登记（人数）"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "funding",
+      "type": "core",
+      "ctx": "经费",
+      "phonetic": "[ˈfʌndɪŋ]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "基金；资金"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "funding",
+          "phonetic": "[ˈfʌndɪŋ]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "基金；资金"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "therefore",
+      "type": "core",
+      "ctx": "因此",
+      "phonetic": "[ˈðeəfɔː(r)]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "因此，所以"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "therefore",
+          "phonetic": "[ˈðeəfɔː(r)]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "因此，所以"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "highly",
+      "type": "core",
+      "ctx": "高度",
+      "phonetic": "[ˈhaɪli]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "很，非常；高标准地；非常赞许地"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "highly",
+          "phonetic": "[ˈhaɪli]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "很，非常；高标准地；非常赞许地"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "promotion",
+      "type": "core",
+      "ctx": "晋升",
+      "phonetic": "[prəˈməʊʃn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "促进；升级；晋升；促销活动"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "promotion",
+          "phonetic": "[prəˈməʊʃn]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "促进；升级；晋升；促销活动"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "instructor",
+      "type": "core",
+      "ctx": "教师",
+      "phonetic": "[ɪnˈstrʌktə(r)]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "教练；教师"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "instructor",
+          "phonetic": "[ɪnˈstrʌktə(r)]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "教练；教师"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "salary",
+      "type": "core",
+      "ctx": "工资",
+      "phonetic": "[ˈsæləri]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "工资，薪水"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "salary",
+          "phonetic": "[ˈsæləri]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "工资，薪水"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "result",
+      "type": "core",
+      "ctx": "结果",
+      "phonetic": "[rɪˈzʌlt]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "结果；成效；后果"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "as a result of 由于"
+        }
+      ],
+      "words": [
+        {
+          "word": "result",
+          "phonetic": "[rɪˈzʌlt]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "结果；成效；后果"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "as a result of 由于"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "continue",
+      "type": "core",
+      "ctx": "继续",
+      "phonetic": "[kənˈtɪnjuː]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "（使）延伸；（使）继续"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "continue",
+          "phonetic": "[kənˈtɪnjuː]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "（使）延伸；（使）继续"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "traditional",
+      "type": "core",
+      "ctx": "传统的",
+      "phonetic": "[trəˈdɪʃənl]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "传统的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "traditional",
+          "phonetic": "[trəˈdɪʃənl]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "传统的"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "lecture",
+      "type": "core",
+      "ctx": "授课",
+      "phonetic": "[ˈlektʃə(r)]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "[C] 讲课，演讲"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：lect（讲）+ure（表名词）→讲课"
+        }
+      ],
+      "words": [
+        {
+          "word": "lecture",
+          "phonetic": "[ˈlektʃə(r)]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "[C] 讲课，演讲"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：lect（讲）+ure（表名词）→讲课"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lead",
+      "type": "core",
+      "ctx": "导致",
+      "phonetic": "[liːd]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "（led, led, leading）带路；引领；导致"
+        },
+        {
+          "pos": "n.",
+          "meaning": "领先；榜样"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "lead",
+          "phonetic": "[liːd]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "（led, led, leading）带路；引领；导致"
+            },
+            {
+              "pos": "n.",
+              "meaning": "领先；榜样"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "nevertheless",
+      "type": "core",
+      "ctx": "然而",
+      "phonetic": "[ˌnevəðəˈles]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "然而，不过"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "nevertheless",
+          "phonetic": "[ˌnevəðəˈles]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "然而，不过"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "much",
+      "type": "core",
+      "ctx": "多",
+      "phonetic": "[mʌtʃ]",
+      "defs": [
+        {
+          "pos": "det./pron.",
+          "meaning": "许多，大量"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "很，非常"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "much",
+          "phonetic": "[mʌtʃ]",
+          "defs": [
+            {
+              "pos": "det./pron.",
+              "meaning": "许多，大量"
+            },
+            {
+              "pos": "adv.",
+              "meaning": "很，非常"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "reward",
+      "type": "core",
+      "ctx": "回报",
+      "phonetic": "[rɪˈwɔːd]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "奖励；给以报酬；回报"
+        },
+        {
+          "pos": "n.",
+          "meaning": "奖励；回报；赏金"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "联想记忆：急冲向前（forward），领取奖赏（reward）"
+        }
+      ],
+      "words": [
+        {
+          "word": "reward",
+          "phonetic": "[rɪˈwɔːd]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "奖励；给以报酬；回报"
+            },
+            {
+              "pos": "n.",
+              "meaning": "奖励；回报；赏金"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "联想记忆：急冲向前（forward），领取奖赏（reward）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "resource",
+      "type": "core",
+      "ctx": "资源",
+      "phonetic": "[rɪˈsɔːs]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "资源；财力"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "natural resources 自然资源"
+        }
+      ],
+      "words": [
+        {
+          "word": "resource",
+          "phonetic": "[rɪˈsɔːs]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "资源；财力"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "natural resources 自然资源"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "long",
+      "type": "core",
+      "ctx": "长远",
+      "phonetic": "[lɒŋ]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "长的；长期的"
+        },
+        {
+          "pos": "v.",
+          "meaning": "渴望"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "长期地；很久地"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "long",
+          "phonetic": "[lɒŋ]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "长的；长期的"
+            },
+            {
+              "pos": "v.",
+              "meaning": "渴望"
+            },
+            {
+              "pos": "adv.",
+              "meaning": "长期地；很久地"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "organization",
+      "type": "core",
+      "ctx": "机构",
+      "phonetic": "[ˌɔːɡənaɪˈzeɪʃn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "组织，团体，机构；组织工作"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "organization",
+          "phonetic": "[ˌɔːɡənaɪˈzeɪʃn]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "组织，团体，机构；组织工作"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "work",
+      "type": "core",
+      "ctx": "努力",
+      "phonetic": "[wɜːk]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "工作；从事；运作；奏效"
+        },
+        {
+          "pos": "n.",
+          "meaning": "[U]工作；[C]著作"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "work on sth. 努力改善某事物 | work out 做运动；成功地发展；计算"
+        }
+      ],
+      "words": [
+        {
+          "word": "work",
+          "phonetic": "[wɜːk]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "工作；从事；运作；奏效"
+            },
+            {
+              "pos": "n.",
+              "meaning": "[U]工作；[C]著作"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "work on sth. 努力改善某事物 | work out 做运动；成功地发展；计算"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "core",
+      "type": "core",
+      "ctx": "核心",
+      "phonetic": "[kɔː(r)]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "最重要的，核心的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "果实的心，核；核心，要点"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "core",
+          "phonetic": "[kɔː(r)]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "最重要的，核心的"
+            },
+            {
+              "pos": "n.",
+              "meaning": "果实的心，核；核心，要点"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "part",
+      "type": "core",
+      "ctx": "部分",
+      "phonetic": "[pɑːt]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "部分；角色"
+        },
+        {
+          "pos": "v.",
+          "meaning": "分离，分别"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "take part in 参加"
+        }
+      ],
+      "words": [
+        {
+          "word": "part",
+          "phonetic": "[pɑːt]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "部分；角色"
+            },
+            {
+              "pos": "v.",
+              "meaning": "分离，分别"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "take part in 参加"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mission",
+      "type": "core",
+      "ctx": "使命",
+      "phonetic": "[ˈmɪʃn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "任务；职责；使命"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "mission in life 人生使命"
+        }
+      ],
+      "words": [
+        {
+          "word": "mission",
+          "phonetic": "[ˈmɪʃn]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "任务；职责；使命"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "mission in life 人生使命"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "should",
+      "type": "core",
+      "ctx": "应该",
+      "phonetic": "[ʃʊd; ʃəd]",
+      "defs": [
+        {
+          "pos": "modal v.",
+          "meaning": "应当，应该"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "should",
+          "phonetic": "[ʃʊd; ʃəd]",
+          "defs": [
+            {
+              "pos": "modal v.",
+              "meaning": "应当，应该"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "strong",
+      "type": "core",
+      "ctx": "认真",
+      "phonetic": "[strɒŋ]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "强壮的；强的；强烈的；坚决的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "strong",
+          "phonetic": "[strɒŋ]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "强壮的；强的；强烈的；坚决的"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "consideration",
+      "type": "core",
+      "ctx": "考虑",
+      "phonetic": "[kənˌsɪdəˈreɪʃn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "仔细考虑；必须考虑的事；考虑周到"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "consideration",
+          "phonetic": "[kənˌsɪdəˈreɪʃn]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "仔细考虑；必须考虑的事；考虑周到"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "though",
+      "type": "core",
+      "ctx": "尽管",
+      "phonetic": "[ðəʊ]",
+      "defs": [
+        {
+          "pos": "conj./adv.",
+          "meaning": "虽然，尽管"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "even though 尽管 | as though 好像"
+        }
+      ],
+      "words": [
+        {
+          "word": "though",
+          "phonetic": "[ðəʊ]",
+          "defs": [
+            {
+              "pos": "conj./adv.",
+              "meaning": "虽然，尽管"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "even though 尽管 | as though 好像"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "may",
+      "type": "core",
+      "ctx": "可能",
+      "phonetic": "[meɪ]",
+      "defs": [
+        {
+          "pos": "modal v.",
+          "meaning": "可以；也许，可能"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "may",
+          "phonetic": "[meɪ]",
+          "defs": [
+            {
+              "pos": "modal v.",
+              "meaning": "可以；也许，可能"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    }
+  ]
+}

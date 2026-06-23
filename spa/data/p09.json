@@ -1,0 +1,1563 @@
+{
+  "id": 9,
+  "stats": {
+    "words": 311,
+    "core": 45
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "In the {past}few years, {online}learning has become a {significant}part of the {university}and college experience.A {survey}found that 29 percent of college students {register}for online courses.But are all online courses created {equal}? How can you be sure that digital learning is {right}for you? If you take an online course, what can you do to ensure the best {possible}grade?",
+      "cn": "在 <u> 过去的 </u> 几年里， <u> 在线 </u> 学习已经成为 <u> 大学 </u> 和学院生活的 <u> 重要 </u> 组成部分。一项 <u> 调查 </u> 发现，29%的大学生 <u> 注册 </u> 了在线课程。但是所有在线课程都 <u> 一样 </u> 吗？你如何确定数字化学习 <u> 适合 </u> 你呢？如果你选择了一门在线课程，你能做些什么来确保尽 <u> 可能 </u> 好的成绩呢？"
+    },
+    {
+      "num": "02",
+      "en": "We {interview}students and professors to get their {advice}about online courses.The most {obvious} {advantage} of online learning is that you can study {anywhere}and {anytime}.But that doesn't mean there aren't {deadline}.“I think a point that many people {lose} {sight} of is how easy it can be to {fall}behind schedule,”says {graduate}student Amanda Bindman.Before choosing to study online, consider whether you're a self-motivated learner and if the {material}seems {interesting}enough to {keep}you going.",
+      "cn": "我们 <u> 采访 </u> 了学生和教授们，以了解他们对在线课程的 <u> 建议 </u> 。在线学习最 <u> 明显的优势 </u> 在于你可以 <u> 随时随地 </u> 学习，但这并不意味着没有 <u> 截止日期 </u> 。 <u> 研究生 </u> 阿曼达·宾德曼说：“我认为很多人都 <u> 忽略 </u> 了一点，那就是学习进度很容易 <u> 落 </u> 后。”在选择在线学习之前，请想想你是否是一个自主学习者，以及学习 <u> 材料 </u> 看起来是否足够 <u> 有趣 </u> ，能 <u> 使 </u> 你 <u> 坚持 </u> 学下去。"
+    },
+    {
+      "num": "03",
+      "en": "The tip that comes up most often is {simple}: build online courses into your {weekly}schedule, just like what you would do with in-person courses.Professor Alex Davidson teaches the same course in person and online.He noted that his online students usually {end}up with lower grades.It is so easy to let an online course {slide}, but your grades will {suffer}as a result.Be sure to schedule set times to watch your lectures, read materials and {contribute}to online {discussion} {board} .",
+      "cn": "最常被提及的建议很 <u> 简单 </u> ：将在线课程纳入你 <u> 每周的 </u> 日程中，就像你在面授课程中所做的那样。亚历克斯·戴维森教授同时教线下和线上课程。他指出，自己线上课程的学生 <u> 最后 </u> 的成绩通常较差。 <u> 放任 </u> 一门在线课程 <u> 不管 </u> 是很容易的，但结果是你的成绩会 <u> 退步 </u> 。一定要安排固定的时间来观看课程视频、阅读相关资料以及 <u> 参与 </u> 线上 <u> 讨论区 </u> 的交流。"
+    },
+    {
+      "num": "04",
+      "en": "The {chief} {complaint} about online courses is that they {lack}human {interaction}.A social {connection}is often a big part of learning.There are things you can do to {ease}this {problem}.Jessica Pink, an {undergraduate}student, {suggest}taking online courses with a {friend}, so you can {motivate}each other to stay on {track}.You can also find students on the class discussion board to {organize}a study group, or schedule in-person {meeting}with your professor to discuss course concepts.",
+      "cn": "人们对在线课程的 <u> 主要抱怨 </u> 是其 <u> 缺乏 </u> 人际 <u> 互动 </u> 。社交 <u> 联系 </u> 往往是学习中的一个重要组成部分。你可以做一些事情来 <u> 缓解 </u> 这个 <u> 问题 </u> 。 <u> 本科生 </u> 杰西卡·平克 <u> 建议 </u> 与 <u> 朋友 </u> 一起参加在线课程，这样可以互相 <u> 激励 </u> ，保持学习 <u> 进度 </u> 。你还可以在课堂讨论区找到学生 <u> 组织 </u> 一个学习小组，或安排与教授面对面的 <u> 会议 </u> 来讨论课程概念。"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "past",
+      "type": "outline",
+      "ctx": "过去的",
+      "phonetic": "[pɑːst]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "过去的；最近的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "过去，往事"
+        },
+        {
+          "pos": "prep.",
+          "meaning": "经过；晚于"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "past",
+          "phonetic": "[pɑːst]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "过去的；最近的"
+            },
+            {
+              "pos": "n.",
+              "meaning": "过去，往事"
+            },
+            {
+              "pos": "prep.",
+              "meaning": "经过；晚于"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "online",
+      "type": "outline",
+      "ctx": "在线的",
+      "phonetic": "[ˌɒnˈlaɪn]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "在线的"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "在线地"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "online",
+          "phonetic": "[ˌɒnˈlaɪn]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "在线的"
+            },
+            {
+              "pos": "adv.",
+              "meaning": "在线地"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "significant",
+      "type": "outline",
+      "ctx": "相当数量的",
+      "phonetic": "[sɪɡˈnɪfɪkənt]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "相当数量的；重要的，意义重大的"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：sign（标记）+i+fic（做）+ant（……的）→值得做出标记的→重要的"
+        }
+      ],
+      "words": [
+        {
+          "word": "significant",
+          "phonetic": "[sɪɡˈnɪfɪkənt]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "相当数量的；重要的，意义重大的"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：sign（标记）+i+fic（做）+ant（……的）→值得做出标记的→重要的"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "university",
+      "type": "outline",
+      "ctx": "大学",
+      "phonetic": "[ˌjuːnɪˈvɜːsəti]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "大学"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "university",
+          "phonetic": "[ˌjuːnɪˈvɜːsəti]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "大学"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "survey",
+      "type": "outline",
+      "ctx": "调查",
+      "phonetic": "[ˈsɜːveɪ]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "调查；勘测"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "survey",
+          "phonetic": "[ˈsɜːveɪ]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "调查；勘测"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "register",
+      "type": "outline",
+      "ctx": "记录",
+      "phonetic": "[ˈredʒɪstə(r)]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "记录，登记簿"
+        },
+        {
+          "pos": "v.",
+          "meaning": "登记，注册"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "a register of births and deaths出生和死亡记录"
+        },
+        {
+          "type": "ex",
+          "label": "例",
+          "text": "Some people  register  a list of things they want or need for their new home at a local store or stores.一些人会在一家或多家本地商店登记他们想要或需要的新家物品清单。"
+        }
+      ],
+      "words": [
+        {
+          "word": "register",
+          "phonetic": "[ˈredʒɪstə(r)]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "记录，登记簿"
+            },
+            {
+              "pos": "v.",
+              "meaning": "登记，注册"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "a register of births and deaths出生和死亡记录"
+            },
+            {
+              "type": "ex",
+              "label": "例",
+              "text": "Some people  register  a list of things they want or need for their new home at a local store or stores.一些人会在一家或多家本地商店登记他们想要或需要的新家物品清单。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "equal",
+      "type": "outline",
+      "ctx": "平等的",
+      "phonetic": "[ˈiːkwəl]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "平等的；相等的，相同的"
+        },
+        {
+          "pos": "vt.",
+          "meaning": "等于，比得上"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：equ（平等，相等）+al（……的）→平等的，相等的"
+        },
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "equal to...等于……；与……平等"
+        }
+      ],
+      "words": [
+        {
+          "word": "equal",
+          "phonetic": "[ˈiːkwəl]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "平等的；相等的，相同的"
+            },
+            {
+              "pos": "vt.",
+              "meaning": "等于，比得上"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：equ（平等，相等）+al（……的）→平等的，相等的"
+            },
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "equal to...等于……；与……平等"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "right",
+      "type": "outline",
+      "ctx": "正确的",
+      "phonetic": "[raɪt]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "正确的；右边的"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "向右；正确地；正好"
+        },
+        {
+          "pos": "n.",
+          "meaning": "权利；右边"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "right",
+          "phonetic": "[raɪt]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "正确的；右边的"
+            },
+            {
+              "pos": "adv.",
+              "meaning": "向右；正确地；正好"
+            },
+            {
+              "pos": "n.",
+              "meaning": "权利；右边"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "possible",
+      "type": "outline",
+      "ctx": "可能的",
+      "phonetic": "[ˈpɒsəbl]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "可能的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "possible",
+          "phonetic": "[ˈpɒsəbl]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "可能的"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "interview",
+      "type": "outline",
+      "ctx": "/",
+      "phonetic": "[ˈɪntəvjuː]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "/"
+        },
+        {
+          "pos": "v.",
+          "meaning": "采访；会见；面试"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "interview",
+          "phonetic": "[ˈɪntəvjuː]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "/"
+            },
+            {
+              "pos": "v.",
+              "meaning": "采访；会见；面试"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "advice",
+      "type": "outline",
+      "ctx": "忠告",
+      "phonetic": "[ədˈvaɪs]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "忠告，劝告，建议"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "advice",
+          "phonetic": "[ədˈvaɪs]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "忠告，劝告，建议"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "obvious",
+      "type": "core",
+      "ctx": "明显的",
+      "phonetic": "[ˈɒbviəs]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "明显的，显而易见的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "obvious",
+          "phonetic": "[ˈɒbviəs]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "明显的，显而易见的"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "advantage",
+      "type": "outline",
+      "ctx": "优点",
+      "phonetic": "[ədˈvɑːntɪdʒ]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "优点；有利条件，优势"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "advantage",
+          "phonetic": "[ədˈvɑːntɪdʒ]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "优点；有利条件，优势"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "anywhere",
+      "type": "outline",
+      "ctx": "在任何地方",
+      "phonetic": "[ˈeniweə(r)]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "在任何地方"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "anywhere",
+          "phonetic": "[ˈeniweə(r)]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "在任何地方"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "anytime",
+      "type": "core",
+      "ctx": "在任何时候",
+      "phonetic": "[ˈenitaɪm]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "在任何时候；随便什么时候"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "anytime",
+          "phonetic": "[ˈenitaɪm]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "在任何时候；随便什么时候"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "deadline",
+      "type": "outline",
+      "ctx": "最后期限",
+      "phonetic": "[ˈdedlaɪn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "最后期限，截止日期"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "联想记忆：dead（死）+line（线）→死期→最后期限"
+        }
+      ],
+      "words": [
+        {
+          "word": "deadline",
+          "phonetic": "[ˈdedlaɪn]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "最后期限，截止日期"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "联想记忆：dead（死）+line（线）→死期→最后期限"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "lose",
+      "type": "outline",
+      "ctx": "（lost",
+      "phonetic": "[luːz]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "（lost, lost, losing）失去；丢失；输掉"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "lose out (on sth.) 得不到（需要或觉得应有的东西）"
+        }
+      ],
+      "words": [
+        {
+          "word": "lose",
+          "phonetic": "[luːz]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "（lost, lost, losing）失去；丢失；输掉"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "lose out (on sth.) 得不到（需要或觉得应有的东西）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sight",
+      "type": "outline",
+      "ctx": "视力",
+      "phonetic": "[saɪt]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "视力；视野；看见的事物；风景"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "lose sight of忽略；见不着"
+        }
+      ],
+      "words": [
+        {
+          "word": "sight",
+          "phonetic": "[saɪt]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "视力；视野；看见的事物；风景"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "lose sight of忽略；见不着"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "fall",
+      "type": "outline",
+      "ctx": "（fell",
+      "phonetic": "[fɔːl]",
+      "defs": [
+        {
+          "pos": "vi.",
+          "meaning": "（fell, fallen, falling）落（下）；跌倒"
+        },
+        {
+          "pos": "n.",
+          "meaning": "秋天；落下；跌倒"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "fall behind落后"
+        }
+      ],
+      "words": [
+        {
+          "word": "fall",
+          "phonetic": "[fɔːl]",
+          "defs": [
+            {
+              "pos": "vi.",
+              "meaning": "（fell, fallen, falling）落（下）；跌倒"
+            },
+            {
+              "pos": "n.",
+              "meaning": "秋天；落下；跌倒"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "fall behind落后"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "graduate",
+      "type": "outline",
+      "ctx": "（大学）毕业生",
+      "phonetic": "[ˈɡrædʒuət]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "（大学）毕业生"
+        },
+        {
+          "pos": "vi.",
+          "meaning": "毕业"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "graduate student研究生"
+        }
+      ],
+      "words": [
+        {
+          "word": "graduate",
+          "phonetic": "[ˈɡrædʒuət]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "（大学）毕业生"
+            },
+            {
+              "pos": "vi.",
+              "meaning": "毕业"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "graduate student研究生"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "material",
+      "type": "outline",
+      "ctx": "材料",
+      "phonetic": "[məˈtɪəriəl]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "材料，原料；物质"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "material",
+          "phonetic": "[məˈtɪəriəl]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "材料，原料；物质"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "interesting",
+      "type": "outline",
+      "ctx": "有趣的",
+      "phonetic": "[ˈɪntrəstɪŋ; ˈɪntrestɪŋ]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "有趣的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "interesting",
+          "phonetic": "[ˈɪntrəstɪŋ; ˈɪntrestɪŋ]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "有趣的"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "keep",
+      "type": "outline",
+      "ctx": "（kept",
+      "phonetic": "[kiːp]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "（kept, kept, keeping）（使）保持；保留；继续；存放"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "keep going继续；维持下去"
+        }
+      ],
+      "words": [
+        {
+          "word": "keep",
+          "phonetic": "[kiːp]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "（kept, kept, keeping）（使）保持；保留；继续；存放"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "keep going继续；维持下去"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "simple",
+      "type": "outline",
+      "ctx": "简单的",
+      "phonetic": "[ˈsɪmpl]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "简单的；简易的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "simple",
+          "phonetic": "[ˈsɪmpl]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "简单的；简易的"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "weekly",
+      "type": "outline",
+      "ctx": "每周的",
+      "phonetic": "[ˈwiːkli]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "每周的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "weekly",
+          "phonetic": "[ˈwiːkli]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "每周的"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "end",
+      "type": "outline",
+      "ctx": "（使）结束",
+      "phonetic": "[end]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "（使）结束，终止"
+        },
+        {
+          "pos": "n.",
+          "meaning": "终点；结束"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "end up最终成为；到头来come to an end结束"
+        }
+      ],
+      "words": [
+        {
+          "word": "end",
+          "phonetic": "[end]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "（使）结束，终止"
+            },
+            {
+              "pos": "n.",
+              "meaning": "终点；结束"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "end up最终成为；到头来come to an end结束"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "slide",
+      "type": "outline",
+      "ctx": "（slid",
+      "phonetic": "[slaɪd]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "（slid, slid, sliding）（使）滑行，滑动；衰落，逐渐陷入"
+        },
+        {
+          "pos": "n.",
+          "meaning": "幻灯片；滑梯"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "let sth.slide对某事放任不管"
+        }
+      ],
+      "words": [
+        {
+          "word": "slide",
+          "phonetic": "[slaɪd]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "（slid, slid, sliding）（使）滑行，滑动；衰落，逐渐陷入"
+            },
+            {
+              "pos": "n.",
+              "meaning": "幻灯片；滑梯"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "let sth.slide对某事放任不管"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "suffer",
+      "type": "outline",
+      "ctx": "（因疾病、痛苦、悲伤等）",
+      "phonetic": "[ˈsʌfə(r)]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "（因疾病、痛苦、悲伤等）受苦；遭受；变差，变糟"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "suffer",
+          "phonetic": "[ˈsʌfə(r)]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "（因疾病、痛苦、悲伤等）受苦；遭受；变差，变糟"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "contribute",
+      "type": "core",
+      "ctx": "捐献",
+      "phonetic": "[kənˈtrɪbjuːt]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "捐献，捐赠；做贡献；促成；发表意见"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "contribute to有助于；导致contribute to the discussion参与讨论"
+        }
+      ],
+      "words": [
+        {
+          "word": "contribute",
+          "phonetic": "[kənˈtrɪbjuːt]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "捐献，捐赠；做贡献；促成；发表意见"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "contribute to有助于；导致contribute to the discussion参与讨论"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "discussion",
+      "type": "outline",
+      "ctx": "讨论",
+      "phonetic": "[dɪˈskʌʃn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "讨论，谈论"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "discussion",
+          "phonetic": "[dɪˈskʌʃn]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "讨论，谈论"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "type": "outline",
+      "ctx": "板",
+      "phonetic": "[bɔːd]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "板，木板；黑板，布告栏；委员会；在线交流区"
+        },
+        {
+          "pos": "v.",
+          "meaning": "上（船、火车、飞机）"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "across the board全体；整体on board在船上（或飞机上、火车上）"
+        }
+      ],
+      "words": [
+        {
+          "word": "board",
+          "phonetic": "[bɔːd]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "板，木板；黑板，布告栏；委员会；在线交流区"
+            },
+            {
+              "pos": "v.",
+              "meaning": "上（船、火车、飞机）"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "across the board全体；整体on board在船上（或飞机上、火车上）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chief",
+      "type": "outline",
+      "ctx": "主要的",
+      "phonetic": "[tʃiːf]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "主要的，首要的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "领导"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "chief",
+          "phonetic": "[tʃiːf]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "主要的，首要的"
+            },
+            {
+              "pos": "n.",
+              "meaning": "领导"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "complaint",
+      "type": "core",
+      "ctx": "抱怨",
+      "phonetic": "[kəmˈpleɪnt]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "抱怨，埋怨；投诉"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "complaint",
+          "phonetic": "[kəmˈpleɪnt]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "抱怨，埋怨；投诉"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "lack",
+      "type": "outline",
+      "ctx": "/",
+      "phonetic": "[læk]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "/"
+        },
+        {
+          "pos": "vt.",
+          "meaning": "缺乏，缺少"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "lack",
+          "phonetic": "[læk]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "/"
+            },
+            {
+              "pos": "vt.",
+              "meaning": "缺乏，缺少"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "interaction",
+      "type": "outline",
+      "ctx": "相互作用",
+      "phonetic": "[ˌɪntərˈækʃn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "相互作用，相互影响；交流"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：inter（在……之间，相互）+act（行动）+ion（表名词）→相互作用"
+        }
+      ],
+      "words": [
+        {
+          "word": "interaction",
+          "phonetic": "[ˌɪntərˈækʃn]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "相互作用，相互影响；交流"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：inter（在……之间，相互）+act（行动）+ion（表名词）→相互作用"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "connection",
+      "type": "core",
+      "ctx": "联系",
+      "phonetic": "[kəˈnekʃn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "联系；连接；有社交或业务关系的人（或机构）"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "connection",
+          "phonetic": "[kəˈnekʃn]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "联系；连接；有社交或业务关系的人（或机构）"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "ease",
+      "type": "outline",
+      "ctx": "安逸",
+      "phonetic": "[iːz]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "安逸；舒适"
+        },
+        {
+          "pos": "vt.",
+          "meaning": "减轻（痛苦；忧虑）"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "at ease舒适；自在"
+        }
+      ],
+      "words": [
+        {
+          "word": "ease",
+          "phonetic": "[iːz]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "安逸；舒适"
+            },
+            {
+              "pos": "vt.",
+              "meaning": "减轻（痛苦；忧虑）"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "at ease舒适；自在"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "problem",
+      "type": "outline",
+      "ctx": "问题",
+      "phonetic": "[ˈprɒbləm]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "问题，难题"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "problem",
+          "phonetic": "[ˈprɒbləm]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "问题，难题"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "undergraduate",
+      "type": "core",
+      "ctx": "大学本科生",
+      "phonetic": "[ˌʌndəˈɡrædʒuət]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "大学本科生"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "undergraduate",
+          "phonetic": "[ˌʌndəˈɡrædʒuət]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "大学本科生"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "suggest",
+      "type": "outline",
+      "ctx": "建议",
+      "phonetic": "[səˈdʒest]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "建议；提出；暗示；显示"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "suggest",
+          "phonetic": "[səˈdʒest]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "建议；提出；暗示；显示"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "friend",
+      "type": "outline",
+      "ctx": "朋友",
+      "phonetic": "[frend]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "朋友"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "friend",
+          "phonetic": "[frend]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "朋友"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "motivate",
+      "type": "outline",
+      "ctx": "使有动机",
+      "phonetic": "[ˈməʊtɪveɪt]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "使有动机；激发；激励"
+        }
+      ],
+      "extras": [
+        {
+          "type": "ex",
+          "label": "例",
+          "text": "You should reassess your goals, and  motivate  yourself to set a fresh goal.你应该重新评估你的目标，并激励自己设定一个新的目标。"
+        }
+      ],
+      "words": [
+        {
+          "word": "motivate",
+          "phonetic": "[ˈməʊtɪveɪt]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "使有动机；激发；激励"
+            }
+          ],
+          "extras": [
+            {
+              "type": "ex",
+              "label": "例",
+              "text": "You should reassess your goals, and  motivate  yourself to set a fresh goal.你应该重新评估你的目标，并激励自己设定一个新的目标。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "track",
+      "type": "outline",
+      "ctx": "小道",
+      "phonetic": "[træk]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "小道；足迹；轨道；跑道；路线，方向"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "联想记忆：走在小路（track）上要小心陷阱（trap）"
+        },
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "track and field田径；田径赛keep track of与……保持联系stay on track稳步前进"
+        }
+      ],
+      "words": [
+        {
+          "word": "track",
+          "phonetic": "[træk]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "小道；足迹；轨道；跑道；路线，方向"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "联想记忆：走在小路（track）上要小心陷阱（trap）"
+            },
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "track and field田径；田径赛keep track of与……保持联系stay on track稳步前进"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "organize",
+      "type": "core",
+      "ctx": "组织",
+      "phonetic": "[ˈɔːɡənaɪz]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "组织，筹划，安排"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "organize",
+          "phonetic": "[ˈɔːɡənaɪz]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "组织，筹划，安排"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    },
+    {
+      "word": "meeting",
+      "type": "outline",
+      "ctx": "会议",
+      "phonetic": "[ˈmiːtɪŋ]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "会议，集会；会面；运动会"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "meeting",
+          "phonetic": "[ˈmiːtɪŋ]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "会议，集会；会面；运动会"
+            }
+          ],
+          "extras": null
+        }
+      ]
+    }
+  ]
+}

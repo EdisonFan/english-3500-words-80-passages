@@ -1,0 +1,1621 @@
+{
+  "id": 27,
+  "stats": {
+    "words": 305,
+    "core": 47
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "Living in Iowa ( (爱荷华州) ) and trying to become a {photographer} {specializing} in {landscape} can be quite a challenge, {mainly} because the {corn} state lacks {geographical variation} .",
+      "cn": "住在爱荷华州，并努力成为一名 专门拍摄风景 的 摄影师 ，可谓是一个不小的挑战， 主要 是因为这个 玉米 之州缺乏 地理上的多样性 。"
+    },
+    {
+      "num": "02",
+      "en": "Although landscapes in the Midwest {tend} to be quite similar, either {farm} fields or highways, sometimes I find {distinctive} character in the {hills} or {lakes} .To make some of my landscape shots, I have traveled up to four hours away to {shoot} within a 10-minute time frame.I tend to travel with a {few} of my friends to state {parks} or to the {countryside} to go on adventures and take {photos along} the way.",
+      "cn": "虽然中西部的风景 往往 颇为相似，要么是 农 田，要么是公路，但有时我也能在 山丘 或 湖泊 中发现 独特的 景致。为了拍摄一些风景照，我曾驱车长达四个小时，只为在10分钟的时间范围内进行 拍摄 。我通常会和 几个 朋友一起前往州立 公园 或 乡村 探险， 沿 途拍 照 。"
+    },
+    {
+      "num": "03",
+      "en": "Being at the right place at the right time is {decisive} in any style of {photography} .I often leave early to {seek} the right {destinations} so I can set up early to avoid missing the moment I am {attempting} to {photograph} .I have missed plenty of {beautiful sunsets} / {sunrises due to} being on the {spot} only five minutes before the {best} moment.",
+      "cn": "在恰当的时机出现在恰当的地方，对于任何 摄影 风格而言都 至关重要 。我常常早早出发， 寻找 合适的 目的地 ，以便我能够提前准备好，避免错过我 想要拍摄 的瞬间。我曾 因为 仅在 最佳 时刻前五分钟才抵达 现场 ，而错过了很多 美丽的日落 或 日出 。"
+    },
+    {
+      "num": "04",
+      "en": "One time my friends and I drove three hours to {Devil} 's Lake, Wisconsin, to {climb} the {purple} quartz ( (石英) ) {rock} around the lake.After we found a crazy-looking {road} that hung over a {bunch} of rocks, we decided to photograph the {scene} at sunset.The position {enabled us} to look over the lake with the sunset in the {background} .We {managed} to leave this spot to climb higher because of the {spare} time until sunset.However, we did not mark the {route} so we ended up almost missing the sunset entirely. {Once} we found the place, it was stressful getting lights and {cameras} set up in the {limited} time.Still, looking back on the photos, they are some of my best shots though they could have been so much better if I had been prepared and managed my time {wisely} .",
+      "cn": "有一次，我和朋友们驱车三个小时前往威斯康星州的 魔鬼 湖， 攀爬 湖边的 紫色 石英 岩 。我们发现了一条看起来相当奇特，悬在一 堆 岩石上方的 道路 后，便决定在日落时分拍摄这个 场景 。这个位置 让我们能 以日落为 背景 俯瞰湖面。由于离日落还有 多余的 时间，我们 设法 离开此地，往更高的地方攀爬。然而，我们没有标记 路线 ，结果差点完全错过了日落。 当 我们找到这个地方 时 ，在 有限的 时间内架设灯光和 相机 让人倍感压力。尽管如此，回顾这些照片，它们仍然是我最好的一些作品，尽管如果我能准备得更充分，更能 明智地 安排我的时间，本可以拍得更好。 5NoOncib/NjiX02BpMIzP+Fxyt/ox+WDCb+dhfH7KaYaJ4u5RsVmLondVmcHiLum9J1BQErGzJvzqa5GEIz4ZA=="
+    }
+  ],
+  "vocab": [
+    {
+      "word": "photographer",
+      "type": "outline",
+      "ctx": "摄影师",
+      "phonetic": "[fəˈtɒɡrəfə(r)]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "摄影师"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：photo（照片）+graph（写）+er（人）→摄影师"
+        }
+      ],
+      "words": [
+        {
+          "word": "photographer",
+          "phonetic": "[fəˈtɒɡrəfə(r)]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "摄影师"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：photo（照片）+graph（写）+er（人）→摄影师"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "specialize",
+      "type": "core",
+      "ctx": "专攻，专门研究（或从事）",
+      "phonetic": "[ˈspeʃəlaɪz]",
+      "defs": [
+        {
+          "pos": "vi.",
+          "meaning": "专攻，专门研究（或从事）"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "specialize",
+          "phonetic": "[ˈspeʃəlaɪz]",
+          "defs": [
+            {
+              "pos": "vi.",
+              "meaning": "专攻，专门研究（或从事）"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "landscape",
+      "type": "outline",
+      "ctx": "风景",
+      "phonetic": "[ˈlændskeɪp]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "风景；风景画"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：land（陆地）+scape（外部景观）→风景"
+        },
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "Chinese landscape painting中国山水画"
+        }
+      ],
+      "words": [
+        {
+          "word": "landscape",
+          "phonetic": "[ˈlændskeɪp]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "风景；风景画"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：land（陆地）+scape（外部景观）→风景"
+            },
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "Chinese landscape painting中国山水画"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mainly",
+      "type": "core",
+      "ctx": "主要地，首要地",
+      "phonetic": "[ˈmeɪnli]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "主要地，首要地；大部分，大多"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "mainly",
+          "phonetic": "[ˈmeɪnli]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "主要地，首要地；大部分，大多"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "corn",
+      "type": "outline",
+      "ctx": "玉米",
+      "phonetic": "[kɔːn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "玉米；谷物"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "corn",
+          "phonetic": "[kɔːn]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "玉米；谷物"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "geographical",
+      "type": "core",
+      "ctx": "地理（学）的",
+      "phonetic": "[ˌdʒiːəˈɡræfɪkl]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "地理（学）的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "geographical",
+          "phonetic": "[ˌdʒiːəˈɡræfɪkl]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "地理（学）的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "variation",
+      "type": "outline",
+      "ctx": "变化",
+      "phonetic": "[ˌveəriˈeɪʃn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "变化；变种"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "来自vary（ v. 变化；各不相同）"
+        },
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "regional variation地区性差异"
+        }
+      ],
+      "words": [
+        {
+          "word": "variation",
+          "phonetic": "[ˌveəriˈeɪʃn]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "变化；变种"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "来自vary（ v. 变化；各不相同）"
+            },
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "regional variation地区性差异"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "tend",
+      "type": "outline",
+      "ctx": "趋向",
+      "phonetic": "[tend]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "趋向；往往会；照料"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "联想记忆：ten（十）+d→没有十全十美，只能趋向完美→趋向"
+        },
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "tend to do sth.倾向于做某事，往往会做某事"
+        }
+      ],
+      "words": [
+        {
+          "word": "tend",
+          "phonetic": "[tend]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "趋向；往往会；照料"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "联想记忆：ten（十）+d→没有十全十美，只能趋向完美→趋向"
+            },
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "tend to do sth.倾向于做某事，往往会做某事"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "farm",
+      "type": "outline",
+      "ctx": "农场",
+      "phonetic": "[fɑːm]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "农场；养殖场"
+        },
+        {
+          "pos": "v.",
+          "meaning": "务农；耕作"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "farm",
+          "phonetic": "[fɑːm]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "农场；养殖场"
+            },
+            {
+              "pos": "v.",
+              "meaning": "务农；耕作"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "distinctive",
+      "type": "core",
+      "ctx": "与众不同的",
+      "phonetic": "[dɪˈstɪŋktɪv]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "与众不同的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "distinctive",
+          "phonetic": "[dɪˈstɪŋktɪv]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "与众不同的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "hill",
+      "type": "outline",
+      "ctx": "小山，山丘",
+      "phonetic": "[hɪl]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "小山，山丘；斜坡"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "hill",
+          "phonetic": "[hɪl]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "小山，山丘；斜坡"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "lake",
+      "type": "outline",
+      "ctx": "湖",
+      "phonetic": "[leɪk]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "湖"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "lake",
+          "phonetic": "[leɪk]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "湖"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "shoot",
+      "type": "outline",
+      "ctx": "（shot, shot, shooting）射击",
+      "phonetic": "[ʃuːt]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "（shot, shot, shooting）射击；摄影"
+        },
+        {
+          "pos": "n.",
+          "meaning": "嫩枝；摄影"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "shoot",
+          "phonetic": "[ʃuːt]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "（shot, shot, shooting）射击；摄影"
+            },
+            {
+              "pos": "n.",
+              "meaning": "嫩枝；摄影"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "few",
+      "type": "outline",
+      "ctx": "/",
+      "phonetic": "[fjuː]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "/"
+        },
+        {
+          "pos": "det.",
+          "meaning": "不多，很少；有些，几个"
+        },
+        {
+          "pos": "pro",
+          "meaning": ""
+        },
+        {
+          "pos": "n.",
+          "meaning": "很少人（或事物、地方）；有些（人、事物、地方），一些"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "quite a few相当多，不少"
+        }
+      ],
+      "words": [
+        {
+          "word": "few",
+          "phonetic": "[fjuː]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "/"
+            },
+            {
+              "pos": "det.",
+              "meaning": "不多，很少；有些，几个"
+            },
+            {
+              "pos": "pro",
+              "meaning": ""
+            },
+            {
+              "pos": "n.",
+              "meaning": "很少人（或事物、地方）；有些（人、事物、地方），一些"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "quite a few相当多，不少"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "park",
+      "type": "outline",
+      "ctx": "公园",
+      "phonetic": "[pɑːk]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "公园；停车场"
+        },
+        {
+          "pos": "vt.",
+          "meaning": "停放（汽车）"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "park",
+          "phonetic": "[pɑːk]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "公园；停车场"
+            },
+            {
+              "pos": "vt.",
+              "meaning": "停放（汽车）"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "countryside",
+      "type": "outline",
+      "ctx": "乡下，农村",
+      "phonetic": "[ˈkʌntrisaɪd]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "乡下，农村"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "countryside",
+          "phonetic": "[ˈkʌntrisaɪd]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "乡下，农村"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "photo",
+      "type": "outline",
+      "ctx": "（=photograph）照片",
+      "phonetic": "[ˈfəʊtəʊ]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "（=photograph）照片"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "photo",
+          "phonetic": "[ˈfəʊtəʊ]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "（=photograph）照片"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "along",
+      "type": "outline",
+      "ctx": "向前",
+      "phonetic": "[əˈlɒŋ]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "向前；一起"
+        },
+        {
+          "pos": "prep.",
+          "meaning": "沿着，顺着；靠着……边"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "along",
+          "phonetic": "[əˈlɒŋ]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "向前；一起"
+            },
+            {
+              "pos": "prep.",
+              "meaning": "沿着，顺着；靠着……边"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "decisive",
+      "type": "core",
+      "ctx": "决定性的",
+      "phonetic": "[dɪˈsaɪsɪv]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "决定性的；坚定的，果断的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "decisive",
+          "phonetic": "[dɪˈsaɪsɪv]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "决定性的；坚定的，果断的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "photography",
+      "type": "core",
+      "ctx": "摄影，照相术",
+      "phonetic": "[fəˈtɒɡrəfi]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "摄影，照相术"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "photography",
+          "phonetic": "[fəˈtɒɡrəfi]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "摄影，照相术"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "seek",
+      "type": "outline",
+      "ctx": "（sought, sought, seeking）试图",
+      "phonetic": "[siːk]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "（sought, sought, seeking）试图；寻找；寻求"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "seek sth.out挑选出，物色"
+        }
+      ],
+      "words": [
+        {
+          "word": "seek",
+          "phonetic": "[siːk]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "（sought, sought, seeking）试图；寻找；寻求"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "seek sth.out挑选出，物色"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "destination",
+      "type": "outline",
+      "ctx": "目的地",
+      "phonetic": "[ˌdestɪˈneɪʃn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "目的地"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "destination",
+          "phonetic": "[ˌdestɪˈneɪʃn]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "目的地"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "attempt",
+      "type": "outline",
+      "ctx": "/",
+      "phonetic": "[əˈtempt]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "/"
+        },
+        {
+          "pos": "n.",
+          "meaning": "试图，尝试"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：at（表加强）+tempt（尝试）→试图，尝试"
+        },
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "attempt to do sth.试图做某事"
+        },
+        {
+          "type": "ex",
+          "label": "例",
+          "text": "Our insisting it's merely a window has kept them from attempting millions of requests to open the door.我们坚持说这只是一扇窗户，才阻止了他们无数次要求开门的尝试。"
+        }
+      ],
+      "words": [
+        {
+          "word": "attempt",
+          "phonetic": "[əˈtempt]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "/"
+            },
+            {
+              "pos": "n.",
+              "meaning": "试图，尝试"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：at（表加强）+tempt（尝试）→试图，尝试"
+            },
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "attempt to do sth.试图做某事"
+            },
+            {
+              "type": "ex",
+              "label": "例",
+              "text": "Our insisting it's merely a window has kept them from attempting millions of requests to open the door.我们坚持说这只是一扇窗户，才阻止了他们无数次要求开门的尝试。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "photograph",
+      "type": "core",
+      "ctx": "照片",
+      "phonetic": "[ˈfəʊtəɡrɑːf]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "照片"
+        },
+        {
+          "pos": "vt.",
+          "meaning": "拍照，照相"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "photograph",
+          "phonetic": "[ˈfəʊtəɡrɑːf]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "照片"
+            },
+            {
+              "pos": "vt.",
+              "meaning": "拍照，照相"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "beautiful",
+      "type": "outline",
+      "ctx": "美丽的",
+      "phonetic": "[ˈbjuːtɪfl; ˈbjuːtəfʊl]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "美丽的；出色的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "beautiful",
+          "phonetic": "[ˈbjuːtɪfl; ˈbjuːtəfʊl]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "美丽的；出色的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "sunset",
+      "type": "core",
+      "ctx": "日落",
+      "phonetic": "[ˈsʌnset]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "日落；傍晚；晚霞"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "sunset",
+          "phonetic": "[ˈsʌnset]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "日落；傍晚；晚霞"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "sunrise",
+      "type": "core",
+      "ctx": "日出",
+      "phonetic": "[ˈsʌnraɪz]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "日出；朝霞"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "sunrise",
+          "phonetic": "[ˈsʌnraɪz]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "日出；朝霞"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "due to",
+      "type": "outline",
+      "ctx": "因为，由于",
+      "phonetic": "",
+      "defs": [
+        {
+          "pos": "",
+          "meaning": "因为，由于"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "due to",
+          "phonetic": "",
+          "defs": [
+            {
+              "pos": "",
+              "meaning": "因为，由于"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "spot",
+      "type": "outline",
+      "ctx": "斑点，污点",
+      "phonetic": "[spɒt]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "斑点，污点；场所；地点"
+        },
+        {
+          "pos": "vt.",
+          "meaning": "（spotted, spotted, spotting）发现"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "on the spot当场；在现场，在原地"
+        },
+        {
+          "type": "ex",
+          "label": "例",
+          "text": "Nicolo spotted two paintings he thought would look nice above his dining room table.尼科洛发现了两幅画，他觉得挂在餐厅的餐桌上方会看起来不错。"
+        }
+      ],
+      "words": [
+        {
+          "word": "spot",
+          "phonetic": "[spɒt]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "斑点，污点；场所；地点"
+            },
+            {
+              "pos": "vt.",
+              "meaning": "（spotted, spotted, spotting）发现"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "on the spot当场；在现场，在原地"
+            },
+            {
+              "type": "ex",
+              "label": "例",
+              "text": "Nicolo spotted two paintings he thought would look nice above his dining room table.尼科洛发现了两幅画，他觉得挂在餐厅的餐桌上方会看起来不错。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "best",
+      "type": "outline",
+      "ctx": "最好的",
+      "phonetic": "[best]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "最好的"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "最"
+        },
+        {
+          "pos": "n.",
+          "meaning": "最好的事物（或人）；最高标准"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "best",
+          "phonetic": "[best]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "最好的"
+            },
+            {
+              "pos": "adv.",
+              "meaning": "最"
+            },
+            {
+              "pos": "n.",
+              "meaning": "最好的事物（或人）；最高标准"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "devil",
+      "type": "core",
+      "ctx": "魔鬼，恶魔",
+      "phonetic": "[ˈdevl]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "魔鬼，恶魔；家伙，人"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "devil",
+          "phonetic": "[ˈdevl]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "魔鬼，恶魔；家伙，人"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "climb",
+      "type": "outline",
+      "ctx": "爬，攀登",
+      "phonetic": "[klaɪm]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "爬，攀登"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "climb",
+          "phonetic": "[klaɪm]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "爬，攀登"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "purple",
+      "type": "outline",
+      "ctx": "紫色的",
+      "phonetic": "[ˈpɜːpl]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "紫色的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "紫色"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "purple",
+          "phonetic": "[ˈpɜːpl]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "紫色的"
+            },
+            {
+              "pos": "n.",
+              "meaning": "紫色"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "rock",
+      "type": "outline",
+      "ctx": "岩石",
+      "phonetic": "[rɒk]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "岩石；摇滚乐"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "rock",
+          "phonetic": "[rɒk]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "岩石；摇滚乐"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "road",
+      "type": "outline",
+      "ctx": "路，道路",
+      "phonetic": "[rəʊd]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "路，道路；途径"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "down the road今后；在将来"
+        }
+      ],
+      "words": [
+        {
+          "word": "road",
+          "phonetic": "[rəʊd]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "路，道路；途径"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "down the road今后；在将来"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bunch",
+      "type": "outline",
+      "ctx": "串，束",
+      "phonetic": "[bʌntʃ]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "串，束；大量，大批"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "a bunch of一束，一串；一大堆"
+        }
+      ],
+      "words": [
+        {
+          "word": "bunch",
+          "phonetic": "[bʌntʃ]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "串，束；大量，大批"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "a bunch of一束，一串；一大堆"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "scene",
+      "type": "outline",
+      "ctx": "（戏剧、电影等的）一场",
+      "phonetic": "[siːn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "（戏剧、电影等的）一场；地点，现场；场景；场面；景色"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "联想记忆：等到风景（scene）都看（seen）透"
+        },
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "behind the scenes在后台；秘密地"
+        }
+      ],
+      "words": [
+        {
+          "word": "scene",
+          "phonetic": "[siːn]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "（戏剧、电影等的）一场；地点，现场；场景；场面；景色"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "联想记忆：等到风景（scene）都看（seen）透"
+            },
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "behind the scenes在后台；秘密地"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "enable",
+      "type": "outline",
+      "ctx": "使能够，使可能",
+      "phonetic": "[ɪˈneɪbl]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "使能够，使可能"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：en（使……）+able（能够）→使能够"
+        }
+      ],
+      "words": [
+        {
+          "word": "enable",
+          "phonetic": "[ɪˈneɪbl]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "使能够，使可能"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：en（使……）+able（能够）→使能够"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "us",
+      "type": "outline",
+      "ctx": "（we的宾格）我们",
+      "phonetic": "[əs; ʌs]",
+      "defs": [
+        {
+          "pos": "pron.",
+          "meaning": "（we的宾格）我们"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "us",
+          "phonetic": "[əs; ʌs]",
+          "defs": [
+            {
+              "pos": "pron.",
+              "meaning": "（we的宾格）我们"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "background",
+      "type": "outline",
+      "ctx": "背景",
+      "phonetic": "[ˈbækɡraʊnd]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "背景"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "background",
+          "phonetic": "[ˈbækɡraʊnd]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "背景"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "manage",
+      "type": "outline",
+      "ctx": "勉力完成",
+      "phonetic": "[ˈmænɪdʒ]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "勉力完成；能解决（问题），应付（困难局面等）；明智地利用（金钱、时间等）"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "manage",
+          "phonetic": "[ˈmænɪdʒ]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "勉力完成；能解决（问题），应付（困难局面等）；明智地利用（金钱、时间等）"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "spare",
+      "type": "outline",
+      "ctx": "空闲的",
+      "phonetic": "[speə(r)]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "空闲的；多余的"
+        },
+        {
+          "pos": "vt.",
+          "meaning": "抽出，匀出"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "spare",
+          "phonetic": "[speə(r)]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "空闲的；多余的"
+            },
+            {
+              "pos": "vt.",
+              "meaning": "抽出，匀出"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "type": "outline",
+      "ctx": "路线",
+      "phonetic": "[ruːt]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "路线；途径"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "联想记忆：日常事务（routine）就是按常规路线（route）走"
+        },
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "a change of route路线的改变the best route最佳路线"
+        }
+      ],
+      "words": [
+        {
+          "word": "route",
+          "phonetic": "[ruːt]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "路线；途径"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "联想记忆：日常事务（routine）就是按常规路线（route）走"
+            },
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "a change of route路线的改变the best route最佳路线"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "once",
+      "type": "outline",
+      "ctx": "一次",
+      "phonetic": "[wʌns]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "一次；曾经"
+        },
+        {
+          "pos": "conj.",
+          "meaning": "一旦，当……时"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "at once立刻，马上；同时all at once突然；同时"
+        }
+      ],
+      "words": [
+        {
+          "word": "once",
+          "phonetic": "[wʌns]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "一次；曾经"
+            },
+            {
+              "pos": "conj.",
+              "meaning": "一旦，当……时"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "at once立刻，马上；同时all at once突然；同时"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "camera",
+      "type": "outline",
+      "ctx": "照相机，摄像机",
+      "phonetic": "[ˈkæmərə]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "照相机，摄像机"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "camera",
+          "phonetic": "[ˈkæmərə]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "照相机，摄像机"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "limited",
+      "type": "outline",
+      "ctx": "有限的",
+      "phonetic": "[ˈlɪmɪtɪd]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "有限的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "limited",
+          "phonetic": "[ˈlɪmɪtɪd]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "有限的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "wisely",
+      "type": "core",
+      "ctx": "明智地",
+      "phonetic": "[ˈwaɪzli]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "明智地"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "wisely",
+          "phonetic": "[ˈwaɪzli]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "明智地"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    }
+  ]
+}

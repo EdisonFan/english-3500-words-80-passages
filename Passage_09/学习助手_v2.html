@@ -1,0 +1,1029 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Passage 9 · v2</title>
+<style>
+
+:root {
+    --font-display: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", "PingFang SC", sans-serif;
+    --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", "PingFang SC", sans-serif;
+    --font-cn: "Microsoft YaHei", "PingFang SC", "Hiragino Sans GB", sans-serif;
+    --font-mono: "Cascadia Code", "Consolas", "Courier New", monospace;
+    --bg: #ffffff;
+    --bg-soft: #fafafa;
+    --bg-card: #f5f5f7;
+    --ink: #0a0a0a;
+    --ink-2: #1f1f1f;
+    --ink-3: #525252;
+    --ink-4: #a3a3a3;
+    --line: #e5e5e7;
+    --line-2: #d4d4d8;
+    --accent: #0066ff;
+    --accent-soft: #e0ecff;
+    --accent-deep: #0044cc;
+    --warm: #ff6b35;
+    --warm-soft: #fff0eb;
+    --good: #00a86b;
+    --good-soft: #e6f7f0;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+
+body {
+    font-family: var(--font-sans);
+    background: var(--bg);
+    color: var(--ink);
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+}
+
+.wrap {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 0 32px;
+}
+
+/* === 顶部导航条 === */
+.topbar {
+    position: sticky;
+    top: 0;
+    background: rgba(255,255,255,0.85);
+    backdrop-filter: saturate(180%) blur(20px);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    border-bottom: 1px solid var(--line);
+    z-index: 100;
+}
+
+.topbar-inner {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 14px 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 13px;
+}
+
+.topbar-left {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-family: var(--font-mono);
+    color: var(--ink-3);
+    letter-spacing: 0.5px;
+}
+
+.topbar-left .dot {
+    width: 8px;
+    height: 8px;
+    background: var(--accent);
+    border-radius: 50%;
+    box-shadow: 0 0 0 3px var(--accent-soft);
+}
+
+.topbar-right {
+    display: flex;
+    gap: 20px;
+    color: var(--ink-4);
+    font-size: 12px;
+    font-family: var(--font-mono);
+}
+
+.topbar-right span b {
+    color: var(--ink);
+    font-weight: 600;
+}
+
+/* === 中文注释开关 === */
+.gloss-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--bg-card);
+    border: 1px solid var(--line);
+    border-radius: 20px;
+    padding: 5px 12px 5px 10px;
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--ink-3);
+    cursor: pointer;
+    transition: all 0.15s ease;
+    user-select: none;
+}
+
+.gloss-toggle:hover {
+    border-color: var(--accent-soft);
+    background: #fff;
+}
+
+.gloss-toggle .g-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--accent);
+    transition: background 0.15s ease;
+}
+
+.gloss-toggle.off .g-dot {
+    background: var(--ink-4);
+}
+
+/* 关闭注释时，隐藏所有 .w-g，并把段落底部 padding 收回 */
+body.no-gloss .w-g {
+    display: none !important;
+}
+body.no-gloss .para { padding-bottom: 32px; }
+
+/* === 正文 === */
+.article {
+    padding: 40px 0 48px;
+}
+
+.section-tag {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    letter-spacing: 2px;
+    color: var(--ink-4);
+    text-transform: uppercase;
+    margin-bottom: 32px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.section-tag::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--line);
+}
+
+.para {
+    margin-bottom: 40px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid var(--line);
+}
+
+.para:last-child {
+    border-bottom: none;
+}
+
+.para-num {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--accent);
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin-bottom: 12px;
+}
+
+.eng {
+    font-family: var(--font-sans);
+    font-size: 17px;
+    line-height: 52px;
+    color: var(--ink);
+    margin-bottom: 0;
+    font-weight: 400;
+}
+
+/* === 高亮词 + 下方注释（2.0 核心） === */
+.wn {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    vertical-align: baseline;
+    line-height: 30px;
+}
+
+.w {
+    color: var(--accent-deep);
+    font-weight: 600;
+    cursor: pointer;
+    background: linear-gradient(180deg, transparent 55%, var(--accent-soft) 55%);
+    transition: all 0.15s ease;
+    padding: 0 2px;
+    border-radius: 2px;
+}
+
+/* 大纲词用暖橙色，与核心词蓝色区分 */
+.w.outline {
+    color: #c05020;
+    background: linear-gradient(180deg, transparent 55%, #fff2ed 55%);
+}
+
+.w.outline:hover {
+    background: #e87a40;
+    color: #fff;
+}
+
+.w:hover {
+    background: var(--accent);
+    color: #fff;
+}
+
+.w:active {
+    transform: scale(0.97);
+}
+
+@keyframes pulse {
+    0% { box-shadow: 0 0 0 0 rgba(0,102,255,0.4); }
+    70% { box-shadow: 0 0 0 6px rgba(0,102,255,0); }
+    100% { box-shadow: 0 0 0 0 rgba(0,102,255,0); }
+}
+
+.w.pulsed {
+    animation: pulse 0.35s ease-out;
+}
+
+/* 下方紧贴的上下文释义 — 绝对定位，行高撑开空间 */
+.w-g {
+    height: 0;
+    overflow: visible;
+    white-space: nowrap;
+    font-family: var(--font-cn);
+    font-size: 10.5px;
+    line-height: 1.25;
+    color: #707070;
+    text-align: center;
+    pointer-events: none;
+    user-select: none;
+    margin-top: 2px;
+}
+
+/* 词与词之间需要正常空格分隔：通过 wn 之间的空白实现 */
+
+/* === 词表 === */
+.vocab {
+    padding: 64px 0 80px;
+    border-top: 1px solid var(--line);
+}
+
+.vocab-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 40px;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.vocab-head h2 {
+    font-family: var(--font-display);
+    font-size: 36px;
+    font-weight: 600;
+    letter-spacing: -1px;
+    color: var(--ink);
+}
+
+.vocab-head h2 em {
+    font-style: normal;
+    color: var(--accent);
+}
+
+.vocab-head .legend {
+    display: flex;
+    gap: 16px;
+    font-size: 12px;
+    color: var(--ink-4);
+    font-family: var(--font-mono);
+}
+
+.vocab-head .legend span {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.vocab-head .legend span::before {
+    content: '';
+    width: 10px;
+    height: 10px;
+    border-radius: 2px;
+}
+
+.vocab-head .legend .l-core::before { background: var(--ink); }
+.vocab-head .legend .l-out::before { background: var(--warm); }
+
+.vocab-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 10px;
+}
+
+.card {
+    background: #fff;
+    border: 1px solid #e8eaed;
+    border-radius: 8px;
+    padding: 14px 16px 12px;
+    transition: all 0.18s ease;
+}
+
+.card:hover {
+    border-color: #c0d0f0;
+    box-shadow: 0 3px 12px rgba(0,80,200,0.07);
+    transform: translateY(-1px);
+}
+
+.card.outline {
+    border-left: 3px solid #e87a40;
+}
+
+.card-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 4px;
+    gap: 8px;
+}
+
+.card-word {
+    font-size: 17px;
+    font-weight: 600;
+    color: #1a1a1a;
+    letter-spacing: -0.2px;
+}
+
+.card-word .star {
+    color: #e87a40;
+    font-size: 12px;
+    font-weight: 400;
+    margin-left: 3px;
+}
+
+.card-phon {
+    font-size: 11px;
+    color: #999;
+    font-family: var(--font-mono);
+}
+
+.card-def {
+    font-size: 13px;
+    color: #555;
+    line-height: 1.55;
+}
+
+.card-def .pos {
+    font-size: 10px;
+    color: #888;
+    font-weight: 500;
+    margin-right: 4px;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    font-family: var(--font-mono);
+}
+
+.card-extras {
+    margin-top: 7px;
+    padding-top: 7px;
+    border-top: 1px dashed #eee;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.extra {
+    font-size: 11.5px;
+    line-height: 1.55;
+    padding: 3px 7px;
+    border-radius: 3px;
+    font-family: var(--font-cn);
+}
+
+.extra.col { color: #666; background: #f5f6f7; }
+.extra.mem { color: #1a7a44; background: #edf7ef; }
+.extra.ex { color: #0055bb; background: #f0f6ff; font-style: italic; }
+
+.extra .tag {
+    font-size: 9px;
+    font-weight: 600;
+    margin-right: 4px;
+    opacity: 0.5;
+}
+
+/* === 译文区（2.0：所有中文翻译集中到页面最后） === */
+.translation {
+    padding: 56px 0 64px;
+    border-top: 1px solid var(--line);
+    background: var(--bg-soft);
+    margin: 0 -32px;
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+.translation-inner {
+    max-width: 880px;
+    margin: 0 auto;
+}
+
+.translation-head {
+    margin-bottom: 28px;
+}
+
+.translation-head .label {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    letter-spacing: 2px;
+    color: var(--ink-4);
+    text-transform: uppercase;
+    margin-bottom: 8px;
+}
+
+.translation-head h2 {
+    font-family: var(--font-display);
+    font-size: 32px;
+    font-weight: 600;
+    letter-spacing: -1px;
+    color: var(--ink);
+}
+
+.translation-head h2 em {
+    font-style: normal;
+    color: var(--accent);
+}
+
+.t-para {
+    margin-bottom: 20px;
+    padding: 14px 18px;
+    background: #fff;
+    border-radius: 8px;
+    border: 1px solid var(--line);
+}
+
+.t-para-num {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    color: var(--accent);
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 6px;
+}
+
+.t-para p {
+    font-family: var(--font-cn);
+    font-size: 14px;
+    line-height: 1.85;
+    color: var(--ink-2);
+}
+
+.t-para p u {
+    color: var(--accent);
+    font-weight: 500;
+    text-decoration: none;
+    background: var(--accent-soft);
+    padding: 1px 4px;
+    border-radius: 3px;
+}
+
+/* === 弹窗 === */
+.modal-bg {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(10,10,10,0.4);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    z-index: 1000;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+}
+
+.modal-bg.active { display: flex; }
+
+@keyframes rise {
+    from { transform: translateY(16px) scale(0.98); opacity: 0; }
+    to { transform: translateY(0) scale(1); opacity: 1; }
+}
+
+.modal {
+    background: var(--bg);
+    border-radius: 16px;
+    padding: 32px;
+    max-width: 400px;
+    width: 100%;
+    box-shadow: 0 24px 60px rgba(0,0,0,0.2);
+    animation: rise 0.25s cubic-bezier(0.16,1,0.3,1);
+    position: relative;
+}
+
+.modal-close {
+    position: absolute;
+    top: 16px; right: 16px;
+    background: var(--bg-card);
+    border: none;
+    color: var(--ink-3);
+    cursor: pointer;
+    width: 32px; height: 32px;
+    border-radius: 8px;
+    font-size: 16px;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.15s;
+    font-family: var(--font-sans);
+}
+
+.modal-close:hover {
+    background: var(--ink);
+    color: #fff;
+}
+
+.modal-eyebrow {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    letter-spacing: 2px;
+    color: var(--accent);
+    text-transform: uppercase;
+    margin-bottom: 8px;
+}
+
+.modal-word {
+    font-family: var(--font-display);
+    font-size: 36px;
+    font-weight: 700;
+    color: var(--ink);
+    letter-spacing: -1px;
+    line-height: 1;
+    margin-bottom: 6px;
+}
+
+.modal-phon {
+    font-family: var(--font-mono);
+    font-size: 13px;
+    color: var(--ink-3);
+    margin-bottom: 20px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid var(--line);
+}
+
+.modal-defs {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.modal-def {
+    display: flex;
+    gap: 10px;
+    align-items: baseline;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.modal-def .pos {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    color: var(--accent);
+    background: var(--accent-soft);
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    min-width: 40px;
+    text-align: center;
+    flex-shrink: 0;
+}
+
+.modal-def .meaning {
+    color: var(--ink);
+    font-family: var(--font-cn);
+}
+
+.modal-extras {
+    margin-top: 16px;
+    padding-top: 16px;
+    border-top: 1px solid var(--line);
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.modal-extra {
+    font-size: 12.5px;
+    line-height: 1.7;
+    padding: 8px 12px;
+    border-radius: 8px;
+    font-family: var(--font-cn);
+}
+
+.modal-extra.col { background: var(--bg-card); color: var(--ink-2); }
+.modal-extra.mem { background: var(--good-soft); color: var(--good); }
+.modal-extra.ex { background: var(--accent-soft); color: var(--accent-deep); font-style: italic; font-family: var(--font-sans); }
+
+.modal-extra .tag {
+    font-family: var(--font-mono);
+    font-size: 9px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-right: 6px;
+    font-style: normal;
+}
+
+.modal-extra.col .tag { color: var(--ink-4); }
+.modal-extra.mem .tag { color: var(--good); }
+.modal-extra.ex .tag { color: var(--accent); }
+
+/* === 页脚 === */
+footer {
+    padding: 32px 0 48px;
+    border-top: 1px solid var(--line);
+    text-align: center;
+    font-size: 12px;
+    color: var(--ink-4);
+    font-family: var(--font-mono);
+    letter-spacing: 1px;
+}
+
+/* === 响应式 === */
+@media (max-width: 768px) {
+    .wrap { padding: 0 20px; }
+    .topbar-inner { padding: 12px 20px; }
+    .topbar-right { gap: 12px; font-size: 11px; }
+    .article { padding: 28px 0 32px; }
+    .eng { font-size: 15.5px; line-height: 44px; }
+    .vocab { padding: 40px 0 56px; }
+    .vocab-head h2 { font-size: 28px; }
+    .vocab-grid { grid-template-columns: 1fr; }
+    .modal { padding: 24px 20px; }
+    .modal-word { font-size: 28px; }
+    .translation { margin: 0 -20px; padding-left: 20px; padding-right: 20px; }
+    .translation-head h2 { font-size: 26px; }
+}
+
+@media (max-width: 480px) {
+    .topbar-right span:nth-child(3) { display: none; }
+    .gloss-toggle .g-label { display: none; }
+    .gloss-toggle { padding: 5px 8px; }
+}
+
+/* === 打印样式 === */
+@media print {
+    @page {
+        size: A4;
+        margin: 18mm 16mm 16mm 16mm;
+    }
+
+    .topbar,
+    .modal-bg,
+    .modal-bg.active,
+    footer,
+    .vocab-head .legend {
+        display: none !important;
+    }
+
+    html, body {
+        background: #fff !important;
+        color: #000 !important;
+        font-size: 10.5pt;
+        line-height: 1.5;
+    }
+
+    .wrap {
+        max-width: 100% !important;
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+
+    .article,
+    .vocab,
+    .translation {
+        padding: 0 !important;
+        margin: 0 !important;
+        background: #fff !important;
+    }
+
+    .para-num {
+        color: #000 !important;
+    }
+
+    .w {
+        color: #0055bb !important;
+        background: none !important;
+        font-weight: 600 !important;
+        cursor: text;
+        padding: 0;
+    }
+
+    /* 打印时词下方注释保留，但用更小字号省墨 */
+    .w-g {
+        color: #555 !important;
+        font-size: 8pt !important;
+    }
+
+    .card {
+        background: #fff !important;
+        border: 1px solid #ccc !important;
+        box-shadow: none !important;
+        transform: none !important;
+        break-inside: avoid;
+        page-break-inside: avoid;
+    }
+
+    .card.outline {
+        border-left: 3px solid #e87a40 !important;
+    }
+
+    .card:hover {
+        box-shadow: none !important;
+        transform: none !important;
+    }
+
+    .extra.col { background: #f5f5f5 !important; color: #333 !important; }
+    .extra.mem { background: #f5f5f5 !important; color: #1a5a30 !important; }
+    .extra.ex { background: #f5f5f5 !important; color: #004080 !important; }
+
+    .t-para {
+        background: #fff !important;
+        border: 1px solid #ccc !important;
+        break-inside: avoid;
+        page-break-inside: avoid;
+    }
+
+    .vocab-head,
+    .translation-head {
+        break-after: avoid;
+        page-break-after: avoid;
+    }
+
+    h1, h2, h3 {
+        break-after: avoid;
+        page-break-after: avoid;
+    }
+
+    a, a:visited {
+        color: #000 !important;
+        text-decoration: none !important;
+    }
+}
+
+
+/* 无词表匹配的高亮词样式 */
+.w-no-gloss {
+    color: var(--accent-deep);
+    font-weight: 600;
+    background: linear-gradient(180deg, transparent 55%, var(--accent-soft) 55%);
+    padding: 0 2px;
+    border-radius: 2px;
+}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+    <div class="topbar-inner">
+        <div class="topbar-left">
+            <span class="dot"></span>
+            <span>PASSAGE 09 / 80 · v2</span>
+        </div>
+        <div class="topbar-right">
+            <span class="gloss-toggle" id="glossToggle" title="显示/隐藏英文词下方中文注释">
+                <span class="g-dot"></span>
+                <span class="g-label">中文释义</span>
+            </span>
+            <span>Words <b>311</b></span>
+            <span>Core <b>45</b></span>
+        </div>
+    </div>
+</div>
+
+<div class="wrap">
+
+<article class="article">
+    <div class="section-tag">English · 单词下方带上下文释义</div>
+
+    <div class="para"><div class="para-num">01</div><p class="eng">In the <span class="w" data-key="past">past</span>few years, <span class="w" data-key="online">online</span>learning has become a <span class="w" data-key="significant">significant</span>part of the <span class="w" data-key="university">university</span>and college experience.A <span class="w" data-key="survey">survey</span>found that 29 percent of college students <span class="w" data-key="register">registered</span>for online courses.But are all online courses created <span class="w" data-key="equal">equal</span>? How can you be sure that digital learning is <span class="w" data-key="right">right</span>for you? If you take an online course, what can you do to ensure the best <span class="w" data-key="possible">possible</span>grade? </p></div>
+
+    <div class="para"><div class="para-num">02</div><p class="eng">We <span class="w" data-key="interview">interviewed</span>students and professors to get their <span class="w" data-key="advice">advice</span>about online courses.The most <span class="w" data-key="obvious">obvious</span> <span class="w" data-key="advantage">advantage</span> of online learning is that you can study <span class="w" data-key="anywhere">anywhere</span>and <span class="w" data-key="anytime">anytime</span>.But that doesn't mean there aren't <span class="w" data-key="deadline">deadlines</span>.“I think a point that many people <span class="w" data-key="lose">lose</span> <span class="w" data-key="sight">sight</span> of is how easy it can be to <span class="w" data-key="fall">fall</span>behind schedule,”says <span class="w" data-key="graduate">graduate</span>student Amanda Bindman.Before choosing to study online, consider whether you're a self-motivated learner and if the <span class="w" data-key="material">material</span>seems <span class="w" data-key="interesting">interesting</span>enough to <span class="w" data-key="keep">keep</span>you going. </p></div>
+
+    <div class="para"><div class="para-num">03</div><p class="eng">The tip that comes up most often is <span class="w" data-key="simple">simple</span>: build online courses into your <span class="w" data-key="weekly">weekly</span>schedule, just like what you would do with in-person courses.Professor Alex Davidson teaches the same course in person and online.He noted that his online students usually <span class="w" data-key="end">end</span>up with lower grades.It is so easy to let an online course <span class="w" data-key="slide">slide</span>, but your grades will <span class="w" data-key="suffer">suffer</span>as a result.Be sure to schedule set times to watch your lectures, read materials and <span class="w" data-key="contribute">contribute</span>to online <span class="w" data-key="discussion">discussion</span> <span class="w" data-key="board">boards</span> . </p></div>
+
+    <div class="para"><div class="para-num">04</div><p class="eng">The <span class="w" data-key="chief">chief</span> <span class="w" data-key="complaint">complaint</span> about online courses is that they <span class="w" data-key="lack">lack</span>human <span class="w" data-key="interaction">interaction</span>.A social <span class="w" data-key="connection">connection</span>is often a big part of learning.There are things you can do to <span class="w" data-key="ease">ease</span>this <span class="w" data-key="problem">problem</span>.Jessica Pink, an <span class="w" data-key="undergraduate">undergraduate</span>student, <span class="w" data-key="suggest">suggests</span>taking online courses with a <span class="w" data-key="friend">friend</span>, so you can <span class="w" data-key="motivate">motivate</span>each other to stay on <span class="w" data-key="track">track</span>.You can also find students on the class discussion board to <span class="w" data-key="organize">organize</span>a study group, or schedule in-person <span class="w" data-key="meeting">meetings</span>with your professor to discuss course concepts. </p></div>
+</article>
+
+<section class="vocab">
+    <div class="vocab-head">
+        <h2>核心<em>词表</em></h2>
+        <div class="legend">
+            <span class="l-core">核心词</span>
+            <span class="l-out">大纲词 *</span>
+        </div>
+    </div>
+
+    <div class="vocab-grid">
+        <div class="card outline"><div class="card-top"><span class="card-word">past<span class="star">*</span></span><span class="card-phon">[pɑːst]</span></div><div class="card-def"><span class="pos">adj.</span>过去的；最近的 <span class="pos">n.</span>过去，往事 <span class="pos">prep.</span>经过；晚于</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">online<span class="star">*</span></span><span class="card-phon">[ˌɒnˈlaɪn]</span></div><div class="card-def"><span class="pos">adj.</span>在线的 <span class="pos">adv.</span>在线地</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">significant<span class="star">*</span></span><span class="card-phon">[sɪɡˈnɪfɪkənt]</span></div><div class="card-def"><span class="pos">adj.</span>相当数量的；重要的，意义重大的</div><div class="card-extras"><div class="extra mem"><span class="tag">记</span>词根记忆：sign（标记）+i+fic（做）+ant（……的）→值得做出标记的→重要的</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">university<span class="star">*</span></span><span class="card-phon">[ˌjuːnɪˈvɜːsəti]</span></div><div class="card-def"><span class="pos">n.</span>大学</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">survey<span class="star">*</span></span><span class="card-phon">[ˈsɜːveɪ]</span></div><div class="card-def"><span class="pos">n.</span>调查；勘测</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">register<span class="star">*</span></span><span class="card-phon">[ˈredʒɪstə(r)]</span></div><div class="card-def"><span class="pos">n.</span>记录，登记簿 <span class="pos">v.</span>登记，注册</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>a register of births and deaths出生和死亡记录</div><div class="extra ex"><span class="tag">例</span>Some people  register  a list of things they want or need for their new home at a local store or stores.一些人会在一家或多家本地商店登记他们想要或需要的新家物品清单。</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">equal<span class="star">*</span></span><span class="card-phon">[ˈiːkwəl]</span></div><div class="card-def"><span class="pos">adj.</span>平等的；相等的，相同的 <span class="pos">vt.</span>等于，比得上</div><div class="card-extras"><div class="extra mem"><span class="tag">记</span>词根记忆：equ（平等，相等）+al（……的）→平等的，相等的</div><div class="extra col"><span class="tag">搭</span>equal to...等于……；与……平等</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">right<span class="star">*</span></span><span class="card-phon">[raɪt]</span></div><div class="card-def"><span class="pos">adj.</span>正确的；右边的 <span class="pos">adv.</span>向右；正确地；正好 <span class="pos">n.</span>权利；右边</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">possible<span class="star">*</span></span><span class="card-phon">[ˈpɒsəbl]</span></div><div class="card-def"><span class="pos">adj.</span>可能的</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">interview<span class="star">*</span></span><span class="card-phon">[ˈɪntəvjuː]</span></div><div class="card-def"><span class="pos">n.</span>/ <span class="pos">v.</span>采访；会见；面试</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">advice<span class="star">*</span></span><span class="card-phon">[ədˈvaɪs]</span></div><div class="card-def"><span class="pos">n.</span>忠告，劝告，建议</div></div>
+        <div class="card"><div class="card-top"><span class="card-word">obvious</span><span class="card-phon">[ˈɒbviəs]</span></div><div class="card-def"><span class="pos">adj.</span>明显的，显而易见的</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">advantage<span class="star">*</span></span><span class="card-phon">[ədˈvɑːntɪdʒ]</span></div><div class="card-def"><span class="pos">n.</span>优点；有利条件，优势</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">anywhere<span class="star">*</span></span><span class="card-phon">[ˈeniweə(r)]</span></div><div class="card-def"><span class="pos">adv.</span>在任何地方</div></div>
+        <div class="card"><div class="card-top"><span class="card-word">anytime</span><span class="card-phon">[ˈenitaɪm]</span></div><div class="card-def"><span class="pos">adv.</span>在任何时候；随便什么时候</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">deadline<span class="star">*</span></span><span class="card-phon">[ˈdedlaɪn]</span></div><div class="card-def"><span class="pos">n.</span>最后期限，截止日期</div><div class="card-extras"><div class="extra mem"><span class="tag">记</span>联想记忆：dead（死）+line（线）→死期→最后期限</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">lose<span class="star">*</span></span><span class="card-phon">[luːz]</span></div><div class="card-def"><span class="pos">v.</span>（lost, lost, losing）失去；丢失；输掉</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>lose out (on sth.) 得不到（需要或觉得应有的东西）</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">sight<span class="star">*</span></span><span class="card-phon">[saɪt]</span></div><div class="card-def"><span class="pos">n.</span>视力；视野；看见的事物；风景</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>lose sight of忽略；见不着</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">fall<span class="star">*</span></span><span class="card-phon">[fɔːl]</span></div><div class="card-def"><span class="pos">vi.</span>（fell, fallen, falling）落（下）；跌倒 <span class="pos">n.</span>秋天；落下；跌倒</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>fall behind落后</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">graduate<span class="star">*</span></span><span class="card-phon">[ˈɡrædʒuət]</span></div><div class="card-def"><span class="pos">n.</span>（大学）毕业生 <span class="pos">vi.</span>毕业</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>graduate student研究生</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">material<span class="star">*</span></span><span class="card-phon">[məˈtɪəriəl]</span></div><div class="card-def"><span class="pos">n.</span>材料，原料；物质</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">interesting<span class="star">*</span></span><span class="card-phon">[ˈɪntrəstɪŋ; ˈɪntrestɪŋ]</span></div><div class="card-def"><span class="pos">adj.</span>有趣的</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">keep<span class="star">*</span></span><span class="card-phon">[kiːp]</span></div><div class="card-def"><span class="pos">v.</span>（kept, kept, keeping）（使）保持；保留；继续；存放</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>keep going继续；维持下去</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">simple<span class="star">*</span></span><span class="card-phon">[ˈsɪmpl]</span></div><div class="card-def"><span class="pos">adj.</span>简单的；简易的</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">weekly<span class="star">*</span></span><span class="card-phon">[ˈwiːkli]</span></div><div class="card-def"><span class="pos">adj.</span>每周的</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">end<span class="star">*</span></span><span class="card-phon">[end]</span></div><div class="card-def"><span class="pos">v.</span>（使）结束，终止 <span class="pos">n.</span>终点；结束</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>end up最终成为；到头来come to an end结束</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">slide<span class="star">*</span></span><span class="card-phon">[slaɪd]</span></div><div class="card-def"><span class="pos">v.</span>（slid, slid, sliding）（使）滑行，滑动；衰落，逐渐陷入 <span class="pos">n.</span>幻灯片；滑梯</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>let sth.slide对某事放任不管</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">suffer<span class="star">*</span></span><span class="card-phon">[ˈsʌfə(r)]</span></div><div class="card-def"><span class="pos">v.</span>（因疾病、痛苦、悲伤等）受苦；遭受；变差，变糟</div></div>
+        <div class="card"><div class="card-top"><span class="card-word">contribute</span><span class="card-phon">[kənˈtrɪbjuːt]</span></div><div class="card-def"><span class="pos">v.</span>捐献，捐赠；做贡献；促成；发表意见</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>contribute to有助于；导致contribute to the discussion参与讨论</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">discussion<span class="star">*</span></span><span class="card-phon">[dɪˈskʌʃn]</span></div><div class="card-def"><span class="pos">n.</span>讨论，谈论</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">board<span class="star">*</span></span><span class="card-phon">[bɔːd]</span></div><div class="card-def"><span class="pos">n.</span>板，木板；黑板，布告栏；委员会；在线交流区 <span class="pos">v.</span>上（船、火车、飞机）</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>across the board全体；整体on board在船上（或飞机上、火车上）</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">chief<span class="star">*</span></span><span class="card-phon">[tʃiːf]</span></div><div class="card-def"><span class="pos">adj.</span>主要的，首要的 <span class="pos">n.</span>领导</div></div>
+        <div class="card"><div class="card-top"><span class="card-word">complaint</span><span class="card-phon">[kəmˈpleɪnt]</span></div><div class="card-def"><span class="pos">n.</span>抱怨，埋怨；投诉</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">lack<span class="star">*</span></span><span class="card-phon">[læk]</span></div><div class="card-def"><span class="pos">n.</span>/ <span class="pos">vt.</span>缺乏，缺少</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">interaction<span class="star">*</span></span><span class="card-phon">[ˌɪntərˈækʃn]</span></div><div class="card-def"><span class="pos">n.</span>相互作用，相互影响；交流</div><div class="card-extras"><div class="extra mem"><span class="tag">记</span>词根记忆：inter（在……之间，相互）+act（行动）+ion（表名词）→相互作用</div></div></div>
+        <div class="card"><div class="card-top"><span class="card-word">connection</span><span class="card-phon">[kəˈnekʃn]</span></div><div class="card-def"><span class="pos">n.</span>联系；连接；有社交或业务关系的人（或机构）</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">ease<span class="star">*</span></span><span class="card-phon">[iːz]</span></div><div class="card-def"><span class="pos">n.</span>安逸；舒适 <span class="pos">vt.</span>减轻（痛苦；忧虑）</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>at ease舒适；自在</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">problem<span class="star">*</span></span><span class="card-phon">[ˈprɒbləm]</span></div><div class="card-def"><span class="pos">n.</span>问题，难题</div></div>
+        <div class="card"><div class="card-top"><span class="card-word">undergraduate</span><span class="card-phon">[ˌʌndəˈɡrædʒuət]</span></div><div class="card-def"><span class="pos">n.</span>大学本科生</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">suggest<span class="star">*</span></span><span class="card-phon">[səˈdʒest]</span></div><div class="card-def"><span class="pos">vt.</span>建议；提出；暗示；显示</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">friend<span class="star">*</span></span><span class="card-phon">[frend]</span></div><div class="card-def"><span class="pos">n.</span>朋友</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">motivate<span class="star">*</span></span><span class="card-phon">[ˈməʊtɪveɪt]</span></div><div class="card-def"><span class="pos">vt.</span>使有动机；激发；激励</div><div class="card-extras"><div class="extra ex"><span class="tag">例</span>You should reassess your goals, and  motivate  yourself to set a fresh goal.你应该重新评估你的目标，并激励自己设定一个新的目标。</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">track<span class="star">*</span></span><span class="card-phon">[træk]</span></div><div class="card-def"><span class="pos">n.</span>小道；足迹；轨道；跑道；路线，方向</div><div class="card-extras"><div class="extra mem"><span class="tag">记</span>联想记忆：走在小路（track）上要小心陷阱（trap）</div><div class="extra col"><span class="tag">搭</span>track and field田径；田径赛keep track of与……保持联系stay on track稳步前进</div></div></div>
+        <div class="card"><div class="card-top"><span class="card-word">organize</span><span class="card-phon">[ˈɔːɡənaɪz]</span></div><div class="card-def"><span class="pos">vt.</span>组织，筹划，安排</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">meeting<span class="star">*</span></span><span class="card-phon">[ˈmiːtɪŋ]</span></div><div class="card-def"><span class="pos">n.</span>会议，集会；会面；运动会</div></div>
+    </div>
+</section>
+
+</div><!-- /.wrap -->
+
+<section class="translation"><div class="translation-inner">
+        <div class="translation-head"><div class="label">Reference · 译文参考</div><h2>中文<em>译文</em></h2></div>
+        <div class="t-para"><div class="t-para-num">PARAGRAPH 01</div><p>在 <u> 过去的 </u> 几年里， <u> 在线 </u> 学习已经成为 <u> 大学 </u> 和学院生活的 <u> 重要 </u> 组成部分。一项 <u> 调查 </u> 发现，29%的大学生 <u> 注册 </u> 了在线课程。但是所有在线课程都 <u> 一样 </u> 吗？你如何确定数字化学习 <u> 适合 </u> 你呢？如果你选择了一门在线课程，你能做些什么来确保尽 <u> 可能 </u> 好的成绩呢？</p></div>
+        <div class="t-para"><div class="t-para-num">PARAGRAPH 02</div><p>我们 <u> 采访 </u> 了学生和教授们，以了解他们对在线课程的 <u> 建议 </u> 。在线学习最 <u> 明显的优势 </u> 在于你可以 <u> 随时随地 </u> 学习，但这并不意味着没有 <u> 截止日期 </u> 。 <u> 研究生 </u> 阿曼达·宾德曼说：“我认为很多人都 <u> 忽略 </u> 了一点，那就是学习进度很容易 <u> 落 </u> 后。”在选择在线学习之前，请想想你是否是一个自主学习者，以及学习 <u> 材料 </u> 看起来是否足够 <u> 有趣 </u> ，能 <u> 使 </u> 你 <u> 坚持 </u> 学下去。</p></div>
+        <div class="t-para"><div class="t-para-num">PARAGRAPH 03</div><p>最常被提及的建议很 <u> 简单 </u> ：将在线课程纳入你 <u> 每周的 </u> 日程中，就像你在面授课程中所做的那样。亚历克斯·戴维森教授同时教线下和线上课程。他指出，自己线上课程的学生 <u> 最后 </u> 的成绩通常较差。 <u> 放任 </u> 一门在线课程 <u> 不管 </u> 是很容易的，但结果是你的成绩会 <u> 退步 </u> 。一定要安排固定的时间来观看课程视频、阅读相关资料以及 <u> 参与 </u> 线上 <u> 讨论区 </u> 的交流。</p></div>
+        <div class="t-para"><div class="t-para-num">PARAGRAPH 04</div><p>人们对在线课程的 <u> 主要抱怨 </u> 是其 <u> 缺乏 </u> 人际 <u> 互动 </u> 。社交 <u> 联系 </u> 往往是学习中的一个重要组成部分。你可以做一些事情来 <u> 缓解 </u> 这个 <u> 问题 </u> 。 <u> 本科生 </u> 杰西卡·平克 <u> 建议 </u> 与 <u> 朋友 </u> 一起参加在线课程，这样可以互相 <u> 激励 </u> ，保持学习 <u> 进度 </u> 。你还可以在课堂讨论区找到学生 <u> 组织 </u> 一个学习小组，或安排与教授面对面的 <u> 会议 </u> 来讨论课程概念。</p></div>
+        </div></section>
+
+<footer>
+    PASSAGE 09 · v2 · END
+</footer>
+
+<div class="modal-bg" id="modal">
+    <div class="modal">
+        <button class="modal-close" id="modalClose">✕</button>
+        <div id="modalContent"></div>
+    </div>
+</div>
+
+<script>
+/* === 中文注释开关 === */
+var glossToggle = document.getElementById('glossToggle');
+var glossOn = true;
+try {
+    var saved = localStorage.getItem('p09_gloss');
+    if (saved === 'off') glossOn = false;
+} catch(e) {}
+
+function applyGloss() {
+    if (glossOn) {
+        document.body.classList.remove('no-gloss');
+        glossToggle.classList.remove('off');
+        glossToggle.querySelector('.g-label').textContent = '中文释义';
+    } else {
+        document.body.classList.add('no-gloss');
+        glossToggle.classList.add('off');
+        glossToggle.querySelector('.g-label').textContent = '已隐藏';
+    }
+}
+glossToggle.addEventListener('click', function() {
+    glossOn = !glossOn;
+    try { localStorage.setItem('p09_gloss', glossOn ? 'on' : 'off'); } catch(e) {}
+    applyGloss();
+});
+applyGloss();
+
+var dict = {
+    "past":{ctx:"过去的",type:"outline",words:[{word:"past",phonetic:"[pɑːst]",defs:[{pos:"adj.",meaning:"过去的；最近的"},{pos:"n.",meaning:"过去，往事"},{pos:"prep.",meaning:"经过；晚于"}]}]},
+    "online":{ctx:"在线的",type:"outline",words:[{word:"online",phonetic:"[ˌɒnˈlaɪn]",defs:[{pos:"adj.",meaning:"在线的"},{pos:"adv.",meaning:"在线地"}]}]},
+    "significant":{ctx:"相当数量的",type:"outline",words:[{word:"significant",phonetic:"[sɪɡˈnɪfɪkənt]",defs:[{pos:"adj.",meaning:"相当数量的；重要的，意义重大的"}],extras:[{type:"mem",label:"记",text:"词根记忆：sign（标记）+i+fic（做）+ant（……的）→值得做出标记的→重要的"}]}]},
+    "university":{ctx:"大学",type:"outline",words:[{word:"university",phonetic:"[ˌjuːnɪˈvɜːsəti]",defs:[{pos:"n.",meaning:"大学"}]}]},
+    "survey":{ctx:"调查",type:"outline",words:[{word:"survey",phonetic:"[ˈsɜːveɪ]",defs:[{pos:"n.",meaning:"调查；勘测"}]}]},
+    "register":{ctx:"记录",type:"outline",words:[{word:"register",phonetic:"[ˈredʒɪstə(r)]",defs:[{pos:"n.",meaning:"记录，登记簿"},{pos:"v.",meaning:"登记，注册"}],extras:[{type:"col",label:"搭",text:"a register of births and deaths出生和死亡记录"},{type:"ex",label:"例",text:"Some people  register  a list of things they want or need for their new home at a local store or stores.一些人会在一家或多家本地商店登记他们想要或需要的新家物品清单。"}]}]},
+    "equal":{ctx:"平等的",type:"outline",words:[{word:"equal",phonetic:"[ˈiːkwəl]",defs:[{pos:"adj.",meaning:"平等的；相等的，相同的"},{pos:"vt.",meaning:"等于，比得上"}],extras:[{type:"mem",label:"记",text:"词根记忆：equ（平等，相等）+al（……的）→平等的，相等的"},{type:"col",label:"搭",text:"equal to...等于……；与……平等"}]}]},
+    "right":{ctx:"正确的",type:"outline",words:[{word:"right",phonetic:"[raɪt]",defs:[{pos:"adj.",meaning:"正确的；右边的"},{pos:"adv.",meaning:"向右；正确地；正好"},{pos:"n.",meaning:"权利；右边"}]}]},
+    "possible":{ctx:"可能的",type:"outline",words:[{word:"possible",phonetic:"[ˈpɒsəbl]",defs:[{pos:"adj.",meaning:"可能的"}]}]},
+    "interview":{ctx:"/",type:"outline",words:[{word:"interview",phonetic:"[ˈɪntəvjuː]",defs:[{pos:"n.",meaning:"/"},{pos:"v.",meaning:"采访；会见；面试"}]}]},
+    "advice":{ctx:"忠告",type:"outline",words:[{word:"advice",phonetic:"[ədˈvaɪs]",defs:[{pos:"n.",meaning:"忠告，劝告，建议"}]}]},
+    "obvious":{ctx:"明显的",type:"core",words:[{word:"obvious",phonetic:"[ˈɒbviəs]",defs:[{pos:"adj.",meaning:"明显的，显而易见的"}]}]},
+    "advantage":{ctx:"优点",type:"outline",words:[{word:"advantage",phonetic:"[ədˈvɑːntɪdʒ]",defs:[{pos:"n.",meaning:"优点；有利条件，优势"}]}]},
+    "anywhere":{ctx:"在任何地方",type:"outline",words:[{word:"anywhere",phonetic:"[ˈeniweə(r)]",defs:[{pos:"adv.",meaning:"在任何地方"}]}]},
+    "anytime":{ctx:"在任何时候",type:"core",words:[{word:"anytime",phonetic:"[ˈenitaɪm]",defs:[{pos:"adv.",meaning:"在任何时候；随便什么时候"}]}]},
+    "deadline":{ctx:"最后期限",type:"outline",words:[{word:"deadline",phonetic:"[ˈdedlaɪn]",defs:[{pos:"n.",meaning:"最后期限，截止日期"}],extras:[{type:"mem",label:"记",text:"联想记忆：dead（死）+line（线）→死期→最后期限"}]}]},
+    "lose":{ctx:"（lost",type:"outline",words:[{word:"lose",phonetic:"[luːz]",defs:[{pos:"v.",meaning:"（lost, lost, losing）失去；丢失；输掉"}],extras:[{type:"col",label:"搭",text:"lose out (on sth.) 得不到（需要或觉得应有的东西）"}]}]},
+    "sight":{ctx:"视力",type:"outline",words:[{word:"sight",phonetic:"[saɪt]",defs:[{pos:"n.",meaning:"视力；视野；看见的事物；风景"}],extras:[{type:"col",label:"搭",text:"lose sight of忽略；见不着"}]}]},
+    "fall":{ctx:"（fell",type:"outline",words:[{word:"fall",phonetic:"[fɔːl]",defs:[{pos:"vi.",meaning:"（fell, fallen, falling）落（下）；跌倒"},{pos:"n.",meaning:"秋天；落下；跌倒"}],extras:[{type:"col",label:"搭",text:"fall behind落后"}]}]},
+    "graduate":{ctx:"（大学）毕业生",type:"outline",words:[{word:"graduate",phonetic:"[ˈɡrædʒuət]",defs:[{pos:"n.",meaning:"（大学）毕业生"},{pos:"vi.",meaning:"毕业"}],extras:[{type:"col",label:"搭",text:"graduate student研究生"}]}]},
+    "material":{ctx:"材料",type:"outline",words:[{word:"material",phonetic:"[məˈtɪəriəl]",defs:[{pos:"n.",meaning:"材料，原料；物质"}]}]},
+    "interesting":{ctx:"有趣的",type:"outline",words:[{word:"interesting",phonetic:"[ˈɪntrəstɪŋ; ˈɪntrestɪŋ]",defs:[{pos:"adj.",meaning:"有趣的"}]}]},
+    "keep":{ctx:"（kept",type:"outline",words:[{word:"keep",phonetic:"[kiːp]",defs:[{pos:"v.",meaning:"（kept, kept, keeping）（使）保持；保留；继续；存放"}],extras:[{type:"col",label:"搭",text:"keep going继续；维持下去"}]}]},
+    "simple":{ctx:"简单的",type:"outline",words:[{word:"simple",phonetic:"[ˈsɪmpl]",defs:[{pos:"adj.",meaning:"简单的；简易的"}]}]},
+    "weekly":{ctx:"每周的",type:"outline",words:[{word:"weekly",phonetic:"[ˈwiːkli]",defs:[{pos:"adj.",meaning:"每周的"}]}]},
+    "end":{ctx:"（使）结束",type:"outline",words:[{word:"end",phonetic:"[end]",defs:[{pos:"v.",meaning:"（使）结束，终止"},{pos:"n.",meaning:"终点；结束"}],extras:[{type:"col",label:"搭",text:"end up最终成为；到头来come to an end结束"}]}]},
+    "slide":{ctx:"（slid",type:"outline",words:[{word:"slide",phonetic:"[slaɪd]",defs:[{pos:"v.",meaning:"（slid, slid, sliding）（使）滑行，滑动；衰落，逐渐陷入"},{pos:"n.",meaning:"幻灯片；滑梯"}],extras:[{type:"col",label:"搭",text:"let sth.slide对某事放任不管"}]}]},
+    "suffer":{ctx:"（因疾病、痛苦、悲伤等）",type:"outline",words:[{word:"suffer",phonetic:"[ˈsʌfə(r)]",defs:[{pos:"v.",meaning:"（因疾病、痛苦、悲伤等）受苦；遭受；变差，变糟"}]}]},
+    "contribute":{ctx:"捐献",type:"core",words:[{word:"contribute",phonetic:"[kənˈtrɪbjuːt]",defs:[{pos:"v.",meaning:"捐献，捐赠；做贡献；促成；发表意见"}],extras:[{type:"col",label:"搭",text:"contribute to有助于；导致contribute to the discussion参与讨论"}]}]},
+    "discussion":{ctx:"讨论",type:"outline",words:[{word:"discussion",phonetic:"[dɪˈskʌʃn]",defs:[{pos:"n.",meaning:"讨论，谈论"}]}]},
+    "board":{ctx:"板",type:"outline",words:[{word:"board",phonetic:"[bɔːd]",defs:[{pos:"n.",meaning:"板，木板；黑板，布告栏；委员会；在线交流区"},{pos:"v.",meaning:"上（船、火车、飞机）"}],extras:[{type:"col",label:"搭",text:"across the board全体；整体on board在船上（或飞机上、火车上）"}]}]},
+    "chief":{ctx:"主要的",type:"outline",words:[{word:"chief",phonetic:"[tʃiːf]",defs:[{pos:"adj.",meaning:"主要的，首要的"},{pos:"n.",meaning:"领导"}]}]},
+    "complaint":{ctx:"抱怨",type:"core",words:[{word:"complaint",phonetic:"[kəmˈpleɪnt]",defs:[{pos:"n.",meaning:"抱怨，埋怨；投诉"}]}]},
+    "lack":{ctx:"/",type:"outline",words:[{word:"lack",phonetic:"[læk]",defs:[{pos:"n.",meaning:"/"},{pos:"vt.",meaning:"缺乏，缺少"}]}]},
+    "interaction":{ctx:"相互作用",type:"outline",words:[{word:"interaction",phonetic:"[ˌɪntərˈækʃn]",defs:[{pos:"n.",meaning:"相互作用，相互影响；交流"}],extras:[{type:"mem",label:"记",text:"词根记忆：inter（在……之间，相互）+act（行动）+ion（表名词）→相互作用"}]}]},
+    "connection":{ctx:"联系",type:"core",words:[{word:"connection",phonetic:"[kəˈnekʃn]",defs:[{pos:"n.",meaning:"联系；连接；有社交或业务关系的人（或机构）"}]}]},
+    "ease":{ctx:"安逸",type:"outline",words:[{word:"ease",phonetic:"[iːz]",defs:[{pos:"n.",meaning:"安逸；舒适"},{pos:"vt.",meaning:"减轻（痛苦；忧虑）"}],extras:[{type:"col",label:"搭",text:"at ease舒适；自在"}]}]},
+    "problem":{ctx:"问题",type:"outline",words:[{word:"problem",phonetic:"[ˈprɒbləm]",defs:[{pos:"n.",meaning:"问题，难题"}]}]},
+    "undergraduate":{ctx:"大学本科生",type:"core",words:[{word:"undergraduate",phonetic:"[ˌʌndəˈɡrædʒuət]",defs:[{pos:"n.",meaning:"大学本科生"}]}]},
+    "suggest":{ctx:"建议",type:"outline",words:[{word:"suggest",phonetic:"[səˈdʒest]",defs:[{pos:"vt.",meaning:"建议；提出；暗示；显示"}]}]},
+    "friend":{ctx:"朋友",type:"outline",words:[{word:"friend",phonetic:"[frend]",defs:[{pos:"n.",meaning:"朋友"}]}]},
+    "motivate":{ctx:"使有动机",type:"outline",words:[{word:"motivate",phonetic:"[ˈməʊtɪveɪt]",defs:[{pos:"vt.",meaning:"使有动机；激发；激励"}],extras:[{type:"ex",label:"例",text:"You should reassess your goals, and  motivate  yourself to set a fresh goal.你应该重新评估你的目标，并激励自己设定一个新的目标。"}]}]},
+    "track":{ctx:"小道",type:"outline",words:[{word:"track",phonetic:"[træk]",defs:[{pos:"n.",meaning:"小道；足迹；轨道；跑道；路线，方向"}],extras:[{type:"mem",label:"记",text:"联想记忆：走在小路（track）上要小心陷阱（trap）"},{type:"col",label:"搭",text:"track and field田径；田径赛keep track of与……保持联系stay on track稳步前进"}]}]},
+    "organize":{ctx:"组织",type:"core",words:[{word:"organize",phonetic:"[ˈɔːɡənaɪz]",defs:[{pos:"vt.",meaning:"组织，筹划，安排"}]}]},
+    "meeting":{ctx:"会议",type:"outline",words:[{word:"meeting",phonetic:"[ˈmiːtɪŋ]",defs:[{pos:"n.",meaning:"会议，集会；会面；运动会"}]}]}
+};
+
+var modal = document.getElementById('modal');
+var modalContent = document.getElementById('modalContent');
+var modalClose = document.getElementById('modalClose');
+
+/* === 2.0 核心：为每个高亮词动态包裹下方注释 === */
+document.querySelectorAll('.w').forEach(function(el) {
+    var key = el.getAttribute('data-key');
+    var entry = dict[key];
+    if (!entry || !entry.ctx) return;
+
+    /* 大纲词加橙色样式 */
+    if (entry.type === 'outline') el.classList.add('outline');
+
+    var wrapper = document.createElement('span');
+    wrapper.className = 'wn';
+    el.parentNode.insertBefore(wrapper, el);
+    wrapper.appendChild(el);
+
+    var g = document.createElement('span');
+    g.className = 'w-g';
+    g.textContent = entry.ctx;
+    wrapper.appendChild(g);
+
+    /* 点击事件保留在 .w 上 */
+    el.addEventListener('click', function(e) {
+        e.stopPropagation();
+        this.classList.remove('pulsed');
+        void this.offsetWidth;
+        this.classList.add('pulsed');
+        showModal(this.getAttribute('data-key'));
+    });
+});
+
+function showModal(key) {
+    var entry = dict[key];
+    if (!entry) return;
+    var html = '<div class="modal-eyebrow">Vocabulary</div>';
+    entry.words.forEach(function(w, idx) {
+        if (idx > 0) html += '<hr style="border:none;border-top:1px solid #e5e5e7;margin:14px 0;">';
+        html += '<div class="modal-word">' + w.word + '</div>';
+        html += '<div class="modal-phon">' + w.phonetic + '</div>';
+        html += '<div class="modal-defs">';
+        w.defs.forEach(function(d) {
+            html += '<div class="modal-def"><span class="pos">' + d.pos + '</span><span class="meaning">' + d.meaning + '</span></div>';
+        });
+        html += '</div>';
+        if (w.extras) {
+            html += '<div class="modal-extras">';
+            w.extras.forEach(function(x) {
+                html += '<div class="modal-extra ' + x.type + '"><span class="tag">' + x.label + '</span>' + x.text + '</div>';
+            });
+            html += '</div>';
+        }
+    });
+    modalContent.innerHTML = html;
+    modal.classList.add('active');
+}
+
+function hideModal() { modal.classList.remove('active'); }
+
+modalClose.addEventListener('click', hideModal);
+modal.addEventListener('click', function(e) { if (e.target === modal) hideModal(); });
+document.addEventListener('keydown', function(e) { if (e.key === 'Escape') hideModal(); });
+</script>
+</script>
+</body>
+</html>

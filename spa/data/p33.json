@@ -1,0 +1,1380 @@
+{
+  "id": 33,
+  "stats": {
+    "words": 378,
+    "core": 45
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "Race {walking} shares many fitness benefits with running, research shows, while most likely contributing to fewer injuries.It does, however, have its own problem.",
+      "cn": "研究表明，竞 走 与跑步一样，对健康有很多好处，而且竞走导致身体受伤的几率可能会更低。不过，竞走也有其自身的问题。"
+    },
+    {
+      "num": "02",
+      "en": "Race {walkers} are highly trained {athletes} . {Tournaments} take place year-round ( (全年的) ), from {January} through {December} .Enthusiasts from various {nationalities} participate, competing for gold and {silver medals} .The colorful {flags} waving in the wind create a lively setting for the intense races.The longest track and field {event} at the Summer {Olympics} is the 50-kilometer race {walk} , which is about five {miles} longer than the marathon.The sport's rules require that a race walker's {knees} stay straight through most of the {leg swing} and one foot remain in contact with the ground at all times.Therefore, we see athletes waddle ( (蹒跚行走) ) like {ducks} , kicking up {dust} along the track.Athletes must {negotiate} the fine line between maximum speed and maintaining {proper} formIt's this unique form that makes race walking such an {attractive} activity, however, says Jaclyn Norberg, an {assistant} professor of exercise science at Salem State University in Salem, Mass.",
+      "cn": "竞走 运动员 都是 训练有素的 运动员。 锦标赛 全年都有，从 一月 到 十二月 。来自不同 国家 的爱好者都会参加比赛，争夺金 银奖牌 。五颜六色的 旗帜 迎风招展，为激烈的比赛营造出热闹的氛围。夏季 奥运会 上最长的田径 项目 是50公里竞 走 ，比马拉松长大约五 英里 。这项运动的规则要求运动员在 摆动腿 的大部分时间里 膝盖 要保持伸直，并且一只脚始终与地面接触。因此，我们会看到运动员像 鸭子 一样蹒跚前行，在赛道上扬起 尘土 。运动员必须 处理 好最大速度和保持 正确 姿势之间的微妙平衡。不过，马萨诸塞州塞勒姆州立大学运动科学 助理 教授雅克琳·诺伯格说，正是这种独特的姿势让竞走成为一项极具 吸引力的 活动。"
+    },
+    {
+      "num": "03",
+      "en": "Like running, race walking is {physically demanding} , she says.According to most {calculations} , race walkers moving at a {pace} of six miles per hour will burn about 800 {calories} per hour, which is {approximately twice} as many as they would burn walking, although fewer than running, which would probably burn about 1,000 or more calories per hour.",
+      "cn": "她说，和跑步一样，竞走对 体力 的 要求很高 。根据大多数的 计算 结果，以每小时六英里的 速度 竞走的人每小时会消耗大约800 卡路里 的热量，这 大约 是普通行走时消耗热量的 两倍 ，不过比跑步时消耗的热量少，跑步每小时可能会消耗大约1000卡路里或更多的热量。"
+    },
+    {
+      "num": "04",
+      "en": "However, race walking does not {pound} the body as much as running does, Dr.Norberg says.According to her research, {runners} hit the ground with as much as four times their body weight per step, while race walkers, who do not leave the ground, create only about 1.4 times their body weight with each step.",
+      "cn": "但是，诺伯格博士说，竞走对身体的 冲击 不像跑步那么大。根据她的研究， 跑步者 每跑一步对地面的冲击力能达到自身体重的四倍，而竞走者无需离开地面，每一步对地面的冲击力仅为自身体重的1.4倍左右。"
+    },
+    {
+      "num": "05",
+      "en": "As a result, she says, some of the injuries {associated} with running, such as runner's knee, are {uncommon among} race walkers.It seems that there's no need for race walkers to {envy} runners' freedom of movement.But the sport's unique form does place {considerable} stress on the {ankles} and {hips} , so people with a history of such injuries might want to be {cautious} in taking up the sport.In fact, {anyone} wishing to try race walking should probably first {consult} a {coach} or {experienced racer} to learn proper technique, she says.It requires some practice.",
+      "cn": "因此，她说，与跑步 有关的 一些损伤，如膝关节疼痛，在竞走者 中 并 不常见 。看来，竞走者无需 羡慕 跑步者的动作自由了。但这项运动的独特姿势确实会给 脚踝 和 臀部 带来 相当大的 压力，所以有此类伤病史的人在从事这项运动时可能要 谨慎 。她说，事实上， 任何 想尝试竞走的 人 都应该先 咨询教练 或 有经验的参赛者 ，学习正确的技巧。这需要一定的练习。"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "walking",
+      "type": "core",
+      "ctx": "行走，步行，散步",
+      "phonetic": "[ˈwɔːkɪŋ]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "行走，步行，散步"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "race walking竞走"
+        }
+      ],
+      "words": [
+        {
+          "word": "walking",
+          "phonetic": "[ˈwɔːkɪŋ]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "行走，步行，散步"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "race walking竞走"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "walker",
+      "type": "core",
+      "ctx": "步行者，散步的人",
+      "phonetic": "[ˈwɔːkə(r)]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "步行者，散步的人"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "race walker竞走运动员"
+        }
+      ],
+      "words": [
+        {
+          "word": "walker",
+          "phonetic": "[ˈwɔːkə(r)]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "步行者，散步的人"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "race walker竞走运动员"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "athlete",
+      "type": "outline",
+      "ctx": "运动员",
+      "phonetic": "[ˈæθliːt]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "运动员"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "athlete",
+          "phonetic": "[ˈæθliːt]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "运动员"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "tournament",
+      "type": "outline",
+      "ctx": "锦标赛",
+      "phonetic": "[ˈtʊənəmənt; ˈtɔːnəmənt; ˈtəːnəmənt]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "锦标赛"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：tourna（转）+ment→转着轮流比赛→锦标赛"
+        }
+      ],
+      "words": [
+        {
+          "word": "tournament",
+          "phonetic": "[ˈtʊənəmənt; ˈtɔːnəmənt; ˈtəːnəmənt]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "锦标赛"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：tourna（转）+ment→转着轮流比赛→锦标赛"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "January",
+      "type": "outline",
+      "ctx": "一月",
+      "phonetic": "[ˈdʒænjuəri]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "一月"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "拓",
+          "text": "February*（ n. 二月）"
+        }
+      ],
+      "words": [
+        {
+          "word": "January",
+          "phonetic": "[ˈdʒænjuəri]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "一月"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "拓",
+              "text": "February*（ n. 二月）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "December",
+      "type": "outline",
+      "ctx": "十二月",
+      "phonetic": "[dɪˈsembə(r)]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "十二月"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "December",
+          "phonetic": "[dɪˈsembə(r)]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "十二月"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "nationality",
+      "type": "outline",
+      "ctx": "国籍",
+      "phonetic": "[ˌnæʃəˈnæləti]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "国籍；民族"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "nationality",
+          "phonetic": "[ˌnæʃəˈnæləti]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "国籍；民族"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "silver",
+      "type": "outline",
+      "ctx": "银",
+      "phonetic": "[ˈsɪlvə(r)]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "银；银器"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "silver",
+          "phonetic": "[ˈsɪlvə(r)]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "银；银器"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "medal",
+      "type": "outline",
+      "ctx": "奖牌，奖章",
+      "phonetic": "[ˈmedl]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "奖牌，奖章"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "medal",
+          "phonetic": "[ˈmedl]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "奖牌，奖章"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "flag",
+      "type": "outline",
+      "ctx": "旗，旗帜",
+      "phonetic": "[flæɡ]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "旗，旗帜"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "flag",
+          "phonetic": "[flæɡ]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "旗，旗帜"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "event",
+      "type": "outline",
+      "ctx": "重要事件，大事",
+      "phonetic": "[ɪˈvent]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "重要事件，大事；比赛项目"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "event",
+          "phonetic": "[ɪˈvent]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "重要事件，大事；比赛项目"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "Olympics",
+      "type": "outline",
+      "ctx": "奥运会",
+      "phonetic": "[əˈlɪmpɪks]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "奥运会"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "Olympics",
+          "phonetic": "[əˈlɪmpɪks]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "奥运会"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "walk",
+      "type": "outline",
+      "ctx": "散步，行走",
+      "phonetic": "[wɔːk]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "散步，行走"
+        },
+        {
+          "pos": "v.",
+          "meaning": "走路"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "walk",
+          "phonetic": "[wɔːk]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "散步，行走"
+            },
+            {
+              "pos": "v.",
+              "meaning": "走路"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "mile",
+      "type": "outline",
+      "ctx": "（=1609米）英里",
+      "phonetic": "[maɪl]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "（=1609米）英里"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "mile",
+          "phonetic": "[maɪl]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "（=1609米）英里"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "knee",
+      "type": "outline",
+      "ctx": "膝盖",
+      "phonetic": "[niː]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "膝盖"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "knee",
+          "phonetic": "[niː]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "膝盖"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "leg",
+      "type": "outline",
+      "ctx": "腿，腿部",
+      "phonetic": "[leɡ]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "腿，腿部；（桌、椅等的）腿；（建筑物的）支柱"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "leg",
+          "phonetic": "[leɡ]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "腿，腿部；（桌、椅等的）腿；（建筑物的）支柱"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "swing",
+      "type": "outline",
+      "ctx": "（swung, swung, swinging）（使）摆动，摇荡",
+      "phonetic": "[swɪŋ]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "（swung, swung, swinging）（使）摆动，摇荡"
+        },
+        {
+          "pos": "n.",
+          "meaning": "摆动；秋千"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "联想记忆：摆动（swing）翅膀（wing）"
+        }
+      ],
+      "words": [
+        {
+          "word": "swing",
+          "phonetic": "[swɪŋ]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "（swung, swung, swinging）（使）摆动，摇荡"
+            },
+            {
+              "pos": "n.",
+              "meaning": "摆动；秋千"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "联想记忆：摆动（swing）翅膀（wing）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "duck",
+      "type": "outline",
+      "ctx": "[C]鸭子",
+      "phonetic": "[dʌk]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "[C]鸭子；[U]鸭肉"
+        },
+        {
+          "pos": "vt.",
+          "meaning": "躲避"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "duck into a subway躲进地铁"
+        }
+      ],
+      "words": [
+        {
+          "word": "duck",
+          "phonetic": "[dʌk]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "[C]鸭子；[U]鸭肉"
+            },
+            {
+              "pos": "vt.",
+              "meaning": "躲避"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "duck into a subway躲进地铁"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dust",
+      "type": "outline",
+      "ctx": "[U]灰尘，尘土",
+      "phonetic": "[dʌst]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "[U]灰尘，尘土"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "dust",
+          "phonetic": "[dʌst]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "[U]灰尘，尘土"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "negotiate",
+      "type": "outline",
+      "ctx": "谈判，协商",
+      "phonetic": "[nɪˈɡəʊʃieɪt]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "谈判，协商；解决（难题）"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "negotiate",
+          "phonetic": "[nɪˈɡəʊʃieɪt]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "谈判，协商；解决（难题）"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "proper",
+      "type": "outline",
+      "ctx": "正确的，恰当的",
+      "phonetic": "[ˈprɒpə(r)]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "正确的，恰当的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "proper",
+          "phonetic": "[ˈprɒpə(r)]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "正确的，恰当的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "attractive",
+      "type": "core",
+      "ctx": "迷人的，有吸引力的",
+      "phonetic": "[əˈtræktɪv]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "迷人的，有吸引力的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "attractive",
+          "phonetic": "[əˈtræktɪv]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "迷人的，有吸引力的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "assistant",
+      "type": "outline",
+      "ctx": "助理的",
+      "phonetic": "[əˈsɪstənt]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "助理的；副的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "助手；助理；助教"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "assistant",
+          "phonetic": "[əˈsɪstənt]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "助理的；副的"
+            },
+            {
+              "pos": "n.",
+              "meaning": "助手；助理；助教"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "physically",
+      "type": "core",
+      "ctx": "身体上",
+      "phonetic": "[ˈfɪzɪkli]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "身体上；根本上"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "physically",
+          "phonetic": "[ˈfɪzɪkli]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "身体上；根本上"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "demanding",
+      "type": "core",
+      "ctx": "要求高的，费力的",
+      "phonetic": "[dɪˈmɑːndɪŋ]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "要求高的，费力的；苛求的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "demanding",
+          "phonetic": "[dɪˈmɑːndɪŋ]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "要求高的，费力的；苛求的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "calculation",
+      "type": "core",
+      "ctx": "计算",
+      "phonetic": "[ˌkælkjuˈleɪʃn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "计算"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "calculation",
+          "phonetic": "[ˌkælkjuˈleɪʃn]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "计算"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "pace",
+      "type": "outline",
+      "ctx": "速度，步速",
+      "phonetic": "[peɪs]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "速度，步速；步伐，节奏"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "联想记忆：跳舞不是赛跑（race），要跟上节奏（pace）"
+        },
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "keep pace (with sb./sth.)（与……）并驾齐驱，（与）步调一致"
+        }
+      ],
+      "words": [
+        {
+          "word": "pace",
+          "phonetic": "[peɪs]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "速度，步速；步伐，节奏"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "联想记忆：跳舞不是赛跑（race），要跟上节奏（pace）"
+            },
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "keep pace (with sb./sth.)（与……）并驾齐驱，（与）步调一致"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "calorie",
+      "type": "outline",
+      "ctx": "大卡",
+      "phonetic": "[ˈkæləri]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "大卡；卡路里"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "发音记忆：\"卡路里\""
+        }
+      ],
+      "words": [
+        {
+          "word": "calorie",
+          "phonetic": "[ˈkæləri]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "大卡；卡路里"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "发音记忆：\"卡路里\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "approximately",
+      "type": "core",
+      "ctx": "大概，大约",
+      "phonetic": "[əˈprɒksɪmətli]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "大概，大约"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "approximately",
+          "phonetic": "[əˈprɒksɪmətli]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "大概，大约"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "twice",
+      "type": "outline",
+      "ctx": "两次",
+      "phonetic": "[twaɪs]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "两次；两倍"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "twice",
+          "phonetic": "[twaɪs]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "两次；两倍"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "pound",
+      "type": "outline",
+      "ctx": "连续重击，猛打",
+      "phonetic": "[paʊnd]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "连续重击，猛打；咚咚地走；（心脏）狂跳"
+        },
+        {
+          "pos": "n.",
+          "meaning": "磅；英镑"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "pound",
+          "phonetic": "[paʊnd]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "连续重击，猛打；咚咚地走；（心脏）狂跳"
+            },
+            {
+              "pos": "n.",
+              "meaning": "磅；英镑"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "runner",
+      "type": "core",
+      "ctx": "跑步者",
+      "phonetic": "[ˈrʌnə(r)]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "跑步者"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "runner",
+          "phonetic": "[ˈrʌnə(r)]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "跑步者"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "associated",
+      "type": "core",
+      "ctx": "有关联的，相关的",
+      "phonetic": "[əˈsəʊsieɪtɪd; əˈsəʊʃieɪtɪd]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "有关联的，相关的；有联系的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "associated",
+          "phonetic": "[əˈsəʊsieɪtɪd; əˈsəʊʃieɪtɪd]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "有关联的，相关的；有联系的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "uncommon",
+      "type": "core",
+      "ctx": "不常见的",
+      "phonetic": "[ʌnˈkɒmən]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "不常见的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "uncommon",
+          "phonetic": "[ʌnˈkɒmən]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "不常见的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "among",
+      "type": "outline",
+      "ctx": "在……之中，在……之间",
+      "phonetic": "[əˈmʌŋ]",
+      "defs": [
+        {
+          "pos": "prep.",
+          "meaning": "在……之中，在……之间"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "among",
+          "phonetic": "[əˈmʌŋ]",
+          "defs": [
+            {
+              "pos": "prep.",
+              "meaning": "在……之中，在……之间"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "envy",
+      "type": "outline",
+      "ctx": "/",
+      "phonetic": "[ˈenvi]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "/"
+        },
+        {
+          "pos": "vt.",
+          "meaning": "（envied, envied, envying）嫉妒，羡慕"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "envy",
+          "phonetic": "[ˈenvi]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "/"
+            },
+            {
+              "pos": "vt.",
+              "meaning": "（envied, envied, envying）嫉妒，羡慕"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "considerable",
+      "type": "core",
+      "ctx": "相当大（或多、重要）的",
+      "phonetic": "[kənˈsɪdərəbl]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "相当大（或多、重要）的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "considerable",
+          "phonetic": "[kənˈsɪdərəbl]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "相当大（或多、重要）的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "ankle",
+      "type": "outline",
+      "ctx": "脚踝",
+      "phonetic": "[ˈæŋkl]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "脚踝"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "ankle",
+          "phonetic": "[ˈæŋkl]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "脚踝"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "hip",
+      "type": "core",
+      "ctx": "臀部，髋部",
+      "phonetic": "[hɪp]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "臀部，髋部"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "拓",
+          "text": "waist*（ n. 腰部，腰围）"
+        }
+      ],
+      "words": [
+        {
+          "word": "hip",
+          "phonetic": "[hɪp]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "臀部，髋部"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "拓",
+              "text": "waist*（ n. 腰部，腰围）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cautious",
+      "type": "core",
+      "ctx": "小心的，谨慎的",
+      "phonetic": "[ˈkɔːʃəs]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "小心的，谨慎的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "cautious",
+          "phonetic": "[ˈkɔːʃəs]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "小心的，谨慎的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "anyone",
+      "type": "outline",
+      "ctx": "任何人",
+      "phonetic": "[ˈeniwʌn]",
+      "defs": [
+        {
+          "pos": "pron.",
+          "meaning": "任何人"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "anyone",
+          "phonetic": "[ˈeniwʌn]",
+          "defs": [
+            {
+              "pos": "pron.",
+              "meaning": "任何人"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "consult",
+      "type": "core",
+      "ctx": "咨询，请教",
+      "phonetic": "[kənˈsʌlt]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "咨询，请教；商议，商量；查询"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "consult",
+          "phonetic": "[kənˈsʌlt]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "咨询，请教；商议，商量；查询"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "coach",
+      "type": "outline",
+      "ctx": "教练",
+      "phonetic": "[kəʊtʃ]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "教练；四轮马车；长途汽车"
+        },
+        {
+          "pos": "vt.",
+          "meaning": "指导，训练；辅导"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "coach",
+          "phonetic": "[kəʊtʃ]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "教练；四轮马车；长途汽车"
+            },
+            {
+              "pos": "vt.",
+              "meaning": "指导，训练；辅导"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "experienced",
+      "type": "core",
+      "ctx": "有经验的，熟练的",
+      "phonetic": "[ɪkˈspɪəriənst]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "有经验的，熟练的；有阅历的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "experienced",
+          "phonetic": "[ɪkˈspɪəriənst]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "有经验的，熟练的；有阅历的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "racer",
+      "type": "core",
+      "ctx": "参赛的人（或动物）",
+      "phonetic": "[ˈreɪsə(r)]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "参赛的人（或动物）；赛车；赛艇"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "racer",
+          "phonetic": "[ˈreɪsə(r)]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "参赛的人（或动物）；赛车；赛艇"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    }
+  ]
+}

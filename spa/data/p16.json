@@ -1,0 +1,1393 @@
+{
+  "id": 16,
+  "stats": {
+    "words": 339,
+    "core": 44
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "My name is Alice.Early last year, I was troubled by an {anxiety} that crippled ( (削弱) ) my {ability} to do anything.I felt like a {storm cloud hung} over me.For almost a year I struggled on, {constantly} staring at this {wall} that faced me.My perfectionist ( (完美主义者) ) {tendencies} were the main {root} of this: I wanted to be {perfect} at whatever I did, which {obviously} in life is not possible, but it {consumed} me.",
+      "cn": "我的名字叫爱丽丝。去年年初，我被 焦虑 所困扰，这种焦虑削弱了我做任何事情的 能力 。我感觉自己就像被一片 暴风雨云笼罩 着。将近一年的时间里，我一直在努力挣扎， 不停地 注视着这堵横亘在我面前的 墙 。我的完美主义 倾向 是这一切的主要 根源 ：我希望自己做任何事都能 尽善尽美 ，这在现实中 显然 是不可能的，但这种想法 消磨 着我。"
+    },
+    {
+      "num": "02",
+      "en": "One day, I {attended} a presentation by {wildlife conservationist} Grant Brown at my high school.His presentation not only {awed} and {inspired} me, but also helped an {inner} desire to make a difference in the world {emerge} .I joined a pre-presentation {dinner} with him and that smaller {setting} allowed me to {slowly} build up my {courage} to speak one-on-one with him—an idea that had seemed {completely impossible} .This first contact was where my story began.",
+      "cn": "有一天，我在我的高中 参加 了一场 野生动物保护主义者 格兰特·布朗的演讲。他的演讲不仅 让 我 惊叹 ，使我受到 鼓舞 ，还使我 内 心 浮现 出想要改变世界的愿望。我和他一起参加了演讲前的 晚宴 ，在那个相对较小的 场合 里，我得以 慢慢 鼓起 勇气 ，与他进行了一对一的交谈——这在之前似乎是 完全不可能的 事情。而这第一次的接触就是我的故事开始的地方。"
+    },
+    {
+      "num": "03",
+      "en": "A month later, Brown invited me to attend the World {Youth} Wildlife {Conference} .Looking back, I now see that this would be the first in a {series} of {timely} opportunities that my old self would have let pass, but that this new and more confident Alice {enthusiastically seized} .Shortly after I {received} his {invitation} , {applications} to join the Youth for Nature and the Youth for {Planet} groups were sent around through my high school.I decided to {commit} to completing the applications, and soon I was a part of a growing global {team} of young people working to {protect} nature.Each of these new steps continued to grow my confidence.",
+      "cn": "一个月后，布朗邀请我参加世界 青年 野生动物 大会 。如今回想起来，我意识到，这将是一 系列 我 及时 抓住的机会中的第一个，过去的我可能会错过这些机会，但这个新的、更自信的爱丽丝却 满怀热情地抓住 了它们。在我 收到 他的 邀请 后不久，加入“青年护自然”和“青年护 地球 ”团体的 申请 就在我的高中传开了。我决定 努力 完成这些申请，不久，我就成为一个由年轻人组成的、致力于 保护 自然，且日益壮大的全球性 团队 中的一员。每迈出这样新的一步，我的信心都在不断增强。"
+    },
+    {
+      "num": "04",
+      "en": "I am writing this just six months since my journey began, and I've realized that my {biggest obstacle} this whole time was myself.It was that {voice} in the back of my head telling me that one phrase that has stopped so many people from reaching their {potential} : I can't.They say good things come to those who wait; I say: {grab} every opportunity with everything you have and be impatient.After all, nature does not require our patience, but our {action} .",
+      "cn": "我写下这些文字时，距离我的旅程开始只过去了六个月，我意识到一直以来我 最大的障碍 就是我自己。是我脑海深处的 声音 告诉我那句话，正是这句话阻止了许多人发挥他们的 潜力 ：我做不到。人们常说，好事多磨；而我说，竭尽全力 抓住 每一个机会，并且要迫不及待。毕竟，大自然需要的不是我们的耐心，而是我们的 行动 。 MKqjwFu4arM4cgPc+LiB66EBg/AaE0u6XBr6IpfU5EiRRdX6Ad+uTD+Kdly4W5UG"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "anxiety",
+      "type": "outline",
+      "ctx": "[U]焦虑，忧虑",
+      "phonetic": "[æŋˈzaɪəti]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "[U]焦虑，忧虑；[C]担心，害怕"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "anxiety",
+          "phonetic": "[æŋˈzaɪəti]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "[U]焦虑，忧虑；[C]担心，害怕"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "ability",
+      "type": "outline",
+      "ctx": "能力",
+      "phonetic": "[əˈbɪləti]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "能力；才能"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "ability",
+          "phonetic": "[əˈbɪləti]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "能力；才能"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "type": "outline",
+      "ctx": "暴风雨",
+      "phonetic": "[stɔːm]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "暴风雨"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "storm",
+          "phonetic": "[stɔːm]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "暴风雨"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "cloud",
+      "type": "outline",
+      "ctx": "云",
+      "phonetic": "[klaʊd]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "云；云状物"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "cloud",
+          "phonetic": "[klaʊd]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "云；云状物"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "hang",
+      "type": "outline",
+      "ctx": "（hung, hung, hanging）悬挂，吊着",
+      "phonetic": "[hæŋ]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "（hung, hung, hanging）悬挂，吊着；垂下；悬浮；（被）绞死"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "hang up on sb.突然挂断某人的电话"
+        }
+      ],
+      "words": [
+        {
+          "word": "hang",
+          "phonetic": "[hæŋ]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "（hung, hung, hanging）悬挂，吊着；垂下；悬浮；（被）绞死"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "hang up on sb.突然挂断某人的电话"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "constantly",
+      "type": "core",
+      "ctx": "始终，一直",
+      "phonetic": "[ˈkɒnstəntli]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "始终，一直"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "constantly",
+          "phonetic": "[ˈkɒnstəntli]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "始终，一直"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "wall",
+      "type": "outline",
+      "ctx": "墙",
+      "phonetic": "[wɔːl]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "墙；围墙"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "wall",
+          "phonetic": "[wɔːl]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "墙；围墙"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "tendency",
+      "type": "outline",
+      "ctx": "[C]倾向，趋势",
+      "phonetic": "[ˈtendənsi]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "[C]倾向，趋势"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：tend（伸展）+ency（表名词）→向……伸展→倾向，趋势"
+        }
+      ],
+      "words": [
+        {
+          "word": "tendency",
+          "phonetic": "[ˈtendənsi]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "[C]倾向，趋势"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：tend（伸展）+ency（表名词）→向……伸展→倾向，趋势"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "root",
+      "type": "outline",
+      "ctx": "根",
+      "phonetic": "[ruːt]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "根；根源，起源"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "root",
+          "phonetic": "[ruːt]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "根；根源，起源"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "perfect",
+      "type": "outline",
+      "ctx": "完美的，极好的",
+      "phonetic": "[ˈpɜːfɪkt]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "完美的，极好的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "perfect",
+          "phonetic": "[ˈpɜːfɪkt]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "完美的，极好的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "obviously",
+      "type": "outline",
+      "ctx": "显然，明显地，显而易见地",
+      "phonetic": "[ˈɒbviəsli]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "显然，明显地，显而易见地"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "obviously",
+          "phonetic": "[ˈɒbviəsli]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "显然，明显地，显而易见地"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "consume",
+      "type": "outline",
+      "ctx": "消耗",
+      "phonetic": "[kənˈsjuːm]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "消耗；消费"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：con（表加强）+sum（取）+e→全部取走→消耗；消费"
+        }
+      ],
+      "words": [
+        {
+          "word": "consume",
+          "phonetic": "[kənˈsjuːm]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "消耗；消费"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：con（表加强）+sum（取）+e→全部取走→消耗；消费"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "attend",
+      "type": "outline",
+      "ctx": "出席，参加",
+      "phonetic": "[əˈtend]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "出席，参加；上（学）；注意，专心"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "attend",
+          "phonetic": "[əˈtend]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "出席，参加；上（学）；注意，专心"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "wildlife",
+      "type": "core",
+      "ctx": "野生动物",
+      "phonetic": "[ˈwaɪldlaɪf]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "野生动物；野生生物"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "wildlife",
+          "phonetic": "[ˈwaɪldlaɪf]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "野生动物；野生生物"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "conservationist",
+      "type": "core",
+      "ctx": "自然环境保护主义者",
+      "phonetic": "[ˌkɒnsəˈveɪʃənɪst]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "自然环境保护主义者"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "conservationist",
+          "phonetic": "[ˌkɒnsəˈveɪʃənɪst]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "自然环境保护主义者"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "awe",
+      "type": "core",
+      "ctx": "使敬畏，使惊叹",
+      "phonetic": "[ɔː]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "使敬畏，使惊叹"
+        },
+        {
+          "pos": "n.",
+          "meaning": "敬畏，惊叹"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "be in awe of对……敬畏"
+        }
+      ],
+      "words": [
+        {
+          "word": "awe",
+          "phonetic": "[ɔː]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "使敬畏，使惊叹"
+            },
+            {
+              "pos": "n.",
+              "meaning": "敬畏，惊叹"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "be in awe of对……敬畏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inspire",
+      "type": "outline",
+      "ctx": "鼓舞，激励",
+      "phonetic": "[ɪnˈspaɪə(r)]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "鼓舞，激励；给……灵感；使产生（感觉或情感）"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：in（使……）+spir（呼吸）+e →使……呼吸澎湃→鼓舞，激励"
+        },
+        {
+          "type": "ex",
+          "label": "例",
+          "text": "The Space and Aviation Center offers programs designed to challenge and inspire with hands-on tasks and lots of fun.航天航空中心提供的课程旨在用实践任务和无穷的乐趣来提出挑战，激励学员。"
+        }
+      ],
+      "words": [
+        {
+          "word": "inspire",
+          "phonetic": "[ɪnˈspaɪə(r)]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "鼓舞，激励；给……灵感；使产生（感觉或情感）"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：in（使……）+spir（呼吸）+e →使……呼吸澎湃→鼓舞，激励"
+            },
+            {
+              "type": "ex",
+              "label": "例",
+              "text": "The Space and Aviation Center offers programs designed to challenge and inspire with hands-on tasks and lots of fun.航天航空中心提供的课程旨在用实践任务和无穷的乐趣来提出挑战，激励学员。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "inner",
+      "type": "outline",
+      "ctx": "内部的，里面的",
+      "phonetic": "[ˈɪnə(r)]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "内部的，里面的"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "联想记忆：in（在……里面）+ner→内部的"
+        }
+      ],
+      "words": [
+        {
+          "word": "inner",
+          "phonetic": "[ˈɪnə(r)]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "内部的，里面的"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "联想记忆：in（在……里面）+ner→内部的"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "emerge",
+      "type": "outline",
+      "ctx": "出现，浮现",
+      "phonetic": "[ɪˈmɜːdʒ]",
+      "defs": [
+        {
+          "pos": "vi.",
+          "meaning": "出现，浮现；显露，暴露"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：e（出）+merg（沉）+e→水落石出→出现，浮现"
+        }
+      ],
+      "words": [
+        {
+          "word": "emerge",
+          "phonetic": "[ɪˈmɜːdʒ]",
+          "defs": [
+            {
+              "pos": "vi.",
+              "meaning": "出现，浮现；显露，暴露"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：e（出）+merg（沉）+e→水落石出→出现，浮现"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "dinner",
+      "type": "outline",
+      "ctx": "正餐，晚餐",
+      "phonetic": "[ˈdɪnə(r)]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "正餐，晚餐"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "dinner",
+          "phonetic": "[ˈdɪnə(r)]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "正餐，晚餐"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "setting",
+      "type": "outline",
+      "ctx": "背景，环境",
+      "phonetic": "[ˈsetɪŋ]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "背景，环境"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "来自set（ vt. 放，置）"
+        }
+      ],
+      "words": [
+        {
+          "word": "setting",
+          "phonetic": "[ˈsetɪŋ]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "背景，环境"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "来自set（ vt. 放，置）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "slowly",
+      "type": "core",
+      "ctx": "慢速地，缓慢地，迟缓地",
+      "phonetic": "[ˈsləʊli]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "慢速地，缓慢地，迟缓地"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "slowly",
+          "phonetic": "[ˈsləʊli]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "慢速地，缓慢地，迟缓地"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "courage",
+      "type": "outline",
+      "ctx": "[U]勇气，胆略",
+      "phonetic": "[ˈkʌrɪdʒ]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "[U]勇气，胆略"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "courage",
+          "phonetic": "[ˈkʌrɪdʒ]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "[U]勇气，胆略"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "completely",
+      "type": "core",
+      "ctx": "彻底地，完全地，完整地",
+      "phonetic": "[kəmˈpliːtli]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "彻底地，完全地，完整地"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "completely",
+          "phonetic": "[kəmˈpliːtli]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "彻底地，完全地，完整地"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "impossible",
+      "type": "outline",
+      "ctx": "不可能的",
+      "phonetic": "[ɪmˈpɒsəbl]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "不可能的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "impossible",
+          "phonetic": "[ɪmˈpɒsəbl]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "不可能的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "youth",
+      "type": "outline",
+      "ctx": "青春",
+      "phonetic": "[juːθ]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "青春；青年"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "youth",
+          "phonetic": "[juːθ]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "青春；青年"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "conference",
+      "type": "outline",
+      "ctx": "会议",
+      "phonetic": "[ˈkɒnfərəns]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "会议"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：con（共同）+fer（带来）+ence（表名词）→带来问题和观点一起讨论→会议"
+        },
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "a conference room一间会议室"
+        }
+      ],
+      "words": [
+        {
+          "word": "conference",
+          "phonetic": "[ˈkɒnfərəns]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "会议"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：con（共同）+fer（带来）+ence（表名词）→带来问题和观点一起讨论→会议"
+            },
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "a conference room一间会议室"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "series",
+      "type": "outline",
+      "ctx": "连续，一系列",
+      "phonetic": "[ˈsɪəriːz]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "连续，一系列；系列节目"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "a series of一系列TV series电视连续剧"
+        }
+      ],
+      "words": [
+        {
+          "word": "series",
+          "phonetic": "[ˈsɪəriːz]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "连续，一系列；系列节目"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "a series of一系列TV series电视连续剧"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "timely",
+      "type": "core",
+      "ctx": "及时的，适时的",
+      "phonetic": "[ˈtaɪmli]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "及时的，适时的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "timely",
+          "phonetic": "[ˈtaɪmli]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "及时的，适时的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "enthusiastically",
+      "type": "core",
+      "ctx": "热情地，激动地",
+      "phonetic": "[ɪnˌθjuːziˈæstɪkli]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "热情地，激动地"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "enthusiastically",
+          "phonetic": "[ɪnˌθjuːziˈæstɪkli]",
+          "defs": [
+            {
+              "pos": "adv.",
+              "meaning": "热情地，激动地"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "seize",
+      "type": "core",
+      "ctx": "抓住（时机等）",
+      "phonetic": "[siːz]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "抓住（时机等）"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "seize",
+          "phonetic": "[siːz]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "抓住（时机等）"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "receive",
+      "type": "outline",
+      "ctx": "收到，得到",
+      "phonetic": "[rɪˈsiːv]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "收到，得到；接待"
+        }
+      ],
+      "extras": [
+        {
+          "type": "col",
+          "label": "拓",
+          "text": "receipt*（ n. 收据；收到，接收）；receptionist*（ n. 接待员）"
+        }
+      ],
+      "words": [
+        {
+          "word": "receive",
+          "phonetic": "[rɪˈsiːv]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "收到，得到；接待"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "拓",
+              "text": "receipt*（ n. 收据；收到，接收）；receptionist*（ n. 接待员）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "invitation",
+      "type": "core",
+      "ctx": "邀请",
+      "phonetic": "[ˌɪnvɪˈteɪʃn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "邀请；请帖"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "invitation",
+          "phonetic": "[ˌɪnvɪˈteɪʃn]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "邀请；请帖"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "application",
+      "type": "outline",
+      "ctx": "申请",
+      "phonetic": "[ˌæplɪˈkeɪʃn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "申请；申请书"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "application",
+          "phonetic": "[ˌæplɪˈkeɪʃn]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "申请；申请书"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "planet",
+      "type": "outline",
+      "ctx": "行星",
+      "phonetic": "[ˈplænɪt]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "行星；地球"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "planet",
+          "phonetic": "[ˈplænɪt]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "行星；地球"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "commit",
+      "type": "outline",
+      "ctx": "（committed, committed, committing）犯（错误），干（坏事）",
+      "phonetic": "[kəˈmɪt]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "（committed, committed, committing）犯（错误），干（坏事）；使（自己）致力于"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "commit",
+          "phonetic": "[kəˈmɪt]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "（committed, committed, committing）犯（错误），干（坏事）；使（自己）致力于"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "team",
+      "type": "outline",
+      "ctx": "队，组",
+      "phonetic": "[tiːm]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "队，组"
+        },
+        {
+          "pos": "v.",
+          "meaning": "（使）合作"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "team",
+          "phonetic": "[tiːm]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "队，组"
+            },
+            {
+              "pos": "v.",
+              "meaning": "（使）合作"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "protect",
+      "type": "outline",
+      "ctx": "保护",
+      "phonetic": "[prəˈtekt]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "保护"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "protect",
+          "phonetic": "[prəˈtekt]",
+          "defs": [
+            {
+              "pos": "vt.",
+              "meaning": "保护"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "big",
+      "type": "outline",
+      "ctx": "大的",
+      "phonetic": "[bɪɡ]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "大的；重大的；年龄较大的"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "big",
+          "phonetic": "[bɪɡ]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "大的；重大的；年龄较大的"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "obstacle",
+      "type": "core",
+      "ctx": "障碍",
+      "phonetic": "[ˈɒbstəkl]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "障碍；障碍物"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "obstacle",
+          "phonetic": "[ˈɒbstəkl]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "障碍；障碍物"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "voice",
+      "type": "outline",
+      "ctx": "嗓音，说话声",
+      "phonetic": "[vɔɪs]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "嗓音，说话声；发言权；意见，心声"
+        },
+        {
+          "pos": "vt.",
+          "meaning": "表达"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "voice",
+          "phonetic": "[vɔɪs]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "嗓音，说话声；发言权；意见，心声"
+            },
+            {
+              "pos": "vt.",
+              "meaning": "表达"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "word": "potential",
+      "type": "outline",
+      "ctx": "潜在的，可能的",
+      "phonetic": "[pəˈtenʃl]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "潜在的，可能的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "[U]可能性；潜力"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "词根记忆：pot（能力）+ent+ial→有能力→潜力"
+        },
+        {
+          "type": "col",
+          "label": "搭",
+          "text": "a potential danger潜在的危险"
+        }
+      ],
+      "words": [
+        {
+          "word": "potential",
+          "phonetic": "[pəˈtenʃl]",
+          "defs": [
+            {
+              "pos": "adj.",
+              "meaning": "潜在的，可能的"
+            },
+            {
+              "pos": "n.",
+              "meaning": "[U]可能性；潜力"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "词根记忆：pot（能力）+ent+ial→有能力→潜力"
+            },
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "a potential danger潜在的危险"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "grab",
+      "type": "outline",
+      "ctx": "（grabbed, grabbed, grabbing）抓住",
+      "phonetic": "[ɡræb]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "（grabbed, grabbed, grabbing）抓住"
+        }
+      ],
+      "extras": [
+        {
+          "type": "mem",
+          "label": "记",
+          "text": "联想记忆：螃蟹（crab）用钳子抓（grab）东西"
+        }
+      ],
+      "words": [
+        {
+          "word": "grab",
+          "phonetic": "[ɡræb]",
+          "defs": [
+            {
+              "pos": "v.",
+              "meaning": "（grabbed, grabbed, grabbing）抓住"
+            }
+          ],
+          "extras": [
+            {
+              "type": "mem",
+              "label": "记",
+              "text": "联想记忆：螃蟹（crab）用钳子抓（grab）东西"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "action",
+      "type": "outline",
+      "ctx": "行动",
+      "phonetic": "[ˈækʃn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "行动"
+        }
+      ],
+      "extras": [],
+      "words": [
+        {
+          "word": "action",
+          "phonetic": "[ˈækʃn]",
+          "defs": [
+            {
+              "pos": "n.",
+              "meaning": "行动"
+            }
+          ],
+          "extras": []
+        }
+      ]
+    }
+  ]
+}

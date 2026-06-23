@@ -1,0 +1,1040 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Passage 4 · v2</title>
+<style>
+
+:root {
+    --font-display: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", "PingFang SC", sans-serif;
+    --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", "PingFang SC", sans-serif;
+    --font-cn: "Microsoft YaHei", "PingFang SC", "Hiragino Sans GB", sans-serif;
+    --font-mono: "Cascadia Code", "Consolas", "Courier New", monospace;
+    --bg: #ffffff;
+    --bg-soft: #fafafa;
+    --bg-card: #f5f5f7;
+    --ink: #0a0a0a;
+    --ink-2: #1f1f1f;
+    --ink-3: #525252;
+    --ink-4: #a3a3a3;
+    --line: #e5e5e7;
+    --line-2: #d4d4d8;
+    --accent: #0066ff;
+    --accent-soft: #e0ecff;
+    --accent-deep: #0044cc;
+    --warm: #ff6b35;
+    --warm-soft: #fff0eb;
+    --good: #00a86b;
+    --good-soft: #e6f7f0;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+
+body {
+    font-family: var(--font-sans);
+    background: var(--bg);
+    color: var(--ink);
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+}
+
+.wrap {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 0 32px;
+}
+
+/* === 顶部导航条 === */
+.topbar {
+    position: sticky;
+    top: 0;
+    background: rgba(255,255,255,0.85);
+    backdrop-filter: saturate(180%) blur(20px);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    border-bottom: 1px solid var(--line);
+    z-index: 100;
+}
+
+.topbar-inner {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 14px 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 13px;
+}
+
+.topbar-left {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-family: var(--font-mono);
+    color: var(--ink-3);
+    letter-spacing: 0.5px;
+}
+
+.topbar-left .dot {
+    width: 8px;
+    height: 8px;
+    background: var(--accent);
+    border-radius: 50%;
+    box-shadow: 0 0 0 3px var(--accent-soft);
+}
+
+.topbar-right {
+    display: flex;
+    gap: 20px;
+    color: var(--ink-4);
+    font-size: 12px;
+    font-family: var(--font-mono);
+}
+
+.topbar-right span b {
+    color: var(--ink);
+    font-weight: 600;
+}
+
+/* === 中文注释开关 === */
+.gloss-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--bg-card);
+    border: 1px solid var(--line);
+    border-radius: 20px;
+    padding: 5px 12px 5px 10px;
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--ink-3);
+    cursor: pointer;
+    transition: all 0.15s ease;
+    user-select: none;
+}
+
+.gloss-toggle:hover {
+    border-color: var(--accent-soft);
+    background: #fff;
+}
+
+.gloss-toggle .g-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--accent);
+    transition: background 0.15s ease;
+}
+
+.gloss-toggle.off .g-dot {
+    background: var(--ink-4);
+}
+
+/* 关闭注释时，隐藏所有 .w-g，并把段落底部 padding 收回 */
+body.no-gloss .w-g {
+    display: none !important;
+}
+body.no-gloss .para { padding-bottom: 32px; }
+
+/* === 正文 === */
+.article {
+    padding: 40px 0 48px;
+}
+
+.section-tag {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    letter-spacing: 2px;
+    color: var(--ink-4);
+    text-transform: uppercase;
+    margin-bottom: 32px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.section-tag::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--line);
+}
+
+.para {
+    margin-bottom: 40px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid var(--line);
+}
+
+.para:last-child {
+    border-bottom: none;
+}
+
+.para-num {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--accent);
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin-bottom: 12px;
+}
+
+.eng {
+    font-family: var(--font-sans);
+    font-size: 17px;
+    line-height: 52px;
+    color: var(--ink);
+    margin-bottom: 0;
+    font-weight: 400;
+}
+
+/* === 高亮词 + 下方注释（2.0 核心） === */
+.wn {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    vertical-align: baseline;
+    line-height: 30px;
+}
+
+.w {
+    color: var(--accent-deep);
+    font-weight: 600;
+    cursor: pointer;
+    background: linear-gradient(180deg, transparent 55%, var(--accent-soft) 55%);
+    transition: all 0.15s ease;
+    padding: 0 2px;
+    border-radius: 2px;
+}
+
+/* 大纲词用暖橙色，与核心词蓝色区分 */
+.w.outline {
+    color: #c05020;
+    background: linear-gradient(180deg, transparent 55%, #fff2ed 55%);
+}
+
+.w.outline:hover {
+    background: #e87a40;
+    color: #fff;
+}
+
+.w:hover {
+    background: var(--accent);
+    color: #fff;
+}
+
+.w:active {
+    transform: scale(0.97);
+}
+
+@keyframes pulse {
+    0% { box-shadow: 0 0 0 0 rgba(0,102,255,0.4); }
+    70% { box-shadow: 0 0 0 6px rgba(0,102,255,0); }
+    100% { box-shadow: 0 0 0 0 rgba(0,102,255,0); }
+}
+
+.w.pulsed {
+    animation: pulse 0.35s ease-out;
+}
+
+/* 下方紧贴的上下文释义 — 绝对定位，行高撑开空间 */
+.w-g {
+    height: 0;
+    overflow: visible;
+    white-space: nowrap;
+    font-family: var(--font-cn);
+    font-size: 10.5px;
+    line-height: 1.25;
+    color: #707070;
+    text-align: center;
+    pointer-events: none;
+    user-select: none;
+    margin-top: 2px;
+}
+
+/* 词与词之间需要正常空格分隔：通过 wn 之间的空白实现 */
+
+/* === 词表 === */
+.vocab {
+    padding: 64px 0 80px;
+    border-top: 1px solid var(--line);
+}
+
+.vocab-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 40px;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.vocab-head h2 {
+    font-family: var(--font-display);
+    font-size: 36px;
+    font-weight: 600;
+    letter-spacing: -1px;
+    color: var(--ink);
+}
+
+.vocab-head h2 em {
+    font-style: normal;
+    color: var(--accent);
+}
+
+.vocab-head .legend {
+    display: flex;
+    gap: 16px;
+    font-size: 12px;
+    color: var(--ink-4);
+    font-family: var(--font-mono);
+}
+
+.vocab-head .legend span {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.vocab-head .legend span::before {
+    content: '';
+    width: 10px;
+    height: 10px;
+    border-radius: 2px;
+}
+
+.vocab-head .legend .l-core::before { background: var(--ink); }
+.vocab-head .legend .l-out::before { background: var(--warm); }
+
+.vocab-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 10px;
+}
+
+.card {
+    background: #fff;
+    border: 1px solid #e8eaed;
+    border-radius: 8px;
+    padding: 14px 16px 12px;
+    transition: all 0.18s ease;
+}
+
+.card:hover {
+    border-color: #c0d0f0;
+    box-shadow: 0 3px 12px rgba(0,80,200,0.07);
+    transform: translateY(-1px);
+}
+
+.card.outline {
+    border-left: 3px solid #e87a40;
+}
+
+.card-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 4px;
+    gap: 8px;
+}
+
+.card-word {
+    font-size: 17px;
+    font-weight: 600;
+    color: #1a1a1a;
+    letter-spacing: -0.2px;
+}
+
+.card-word .star {
+    color: #e87a40;
+    font-size: 12px;
+    font-weight: 400;
+    margin-left: 3px;
+}
+
+.card-phon {
+    font-size: 11px;
+    color: #999;
+    font-family: var(--font-mono);
+}
+
+.card-def {
+    font-size: 13px;
+    color: #555;
+    line-height: 1.55;
+}
+
+.card-def .pos {
+    font-size: 10px;
+    color: #888;
+    font-weight: 500;
+    margin-right: 4px;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    font-family: var(--font-mono);
+}
+
+.card-extras {
+    margin-top: 7px;
+    padding-top: 7px;
+    border-top: 1px dashed #eee;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.extra {
+    font-size: 11.5px;
+    line-height: 1.55;
+    padding: 3px 7px;
+    border-radius: 3px;
+    font-family: var(--font-cn);
+}
+
+.extra.col { color: #666; background: #f5f6f7; }
+.extra.mem { color: #1a7a44; background: #edf7ef; }
+.extra.ex { color: #0055bb; background: #f0f6ff; font-style: italic; }
+
+.extra .tag {
+    font-size: 9px;
+    font-weight: 600;
+    margin-right: 4px;
+    opacity: 0.5;
+}
+
+/* === 译文区（2.0：所有中文翻译集中到页面最后） === */
+.translation {
+    padding: 56px 0 64px;
+    border-top: 1px solid var(--line);
+    background: var(--bg-soft);
+    margin: 0 -32px;
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+.translation-inner {
+    max-width: 880px;
+    margin: 0 auto;
+}
+
+.translation-head {
+    margin-bottom: 28px;
+}
+
+.translation-head .label {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    letter-spacing: 2px;
+    color: var(--ink-4);
+    text-transform: uppercase;
+    margin-bottom: 8px;
+}
+
+.translation-head h2 {
+    font-family: var(--font-display);
+    font-size: 32px;
+    font-weight: 600;
+    letter-spacing: -1px;
+    color: var(--ink);
+}
+
+.translation-head h2 em {
+    font-style: normal;
+    color: var(--accent);
+}
+
+.t-para {
+    margin-bottom: 20px;
+    padding: 14px 18px;
+    background: #fff;
+    border-radius: 8px;
+    border: 1px solid var(--line);
+}
+
+.t-para-num {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    color: var(--accent);
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 6px;
+}
+
+.t-para p {
+    font-family: var(--font-cn);
+    font-size: 14px;
+    line-height: 1.85;
+    color: var(--ink-2);
+}
+
+.t-para p u {
+    color: var(--accent);
+    font-weight: 500;
+    text-decoration: none;
+    background: var(--accent-soft);
+    padding: 1px 4px;
+    border-radius: 3px;
+}
+
+/* === 弹窗 === */
+.modal-bg {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(10,10,10,0.4);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    z-index: 1000;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+}
+
+.modal-bg.active { display: flex; }
+
+@keyframes rise {
+    from { transform: translateY(16px) scale(0.98); opacity: 0; }
+    to { transform: translateY(0) scale(1); opacity: 1; }
+}
+
+.modal {
+    background: var(--bg);
+    border-radius: 16px;
+    padding: 32px;
+    max-width: 400px;
+    width: 100%;
+    box-shadow: 0 24px 60px rgba(0,0,0,0.2);
+    animation: rise 0.25s cubic-bezier(0.16,1,0.3,1);
+    position: relative;
+}
+
+.modal-close {
+    position: absolute;
+    top: 16px; right: 16px;
+    background: var(--bg-card);
+    border: none;
+    color: var(--ink-3);
+    cursor: pointer;
+    width: 32px; height: 32px;
+    border-radius: 8px;
+    font-size: 16px;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.15s;
+    font-family: var(--font-sans);
+}
+
+.modal-close:hover {
+    background: var(--ink);
+    color: #fff;
+}
+
+.modal-eyebrow {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    letter-spacing: 2px;
+    color: var(--accent);
+    text-transform: uppercase;
+    margin-bottom: 8px;
+}
+
+.modal-word {
+    font-family: var(--font-display);
+    font-size: 36px;
+    font-weight: 700;
+    color: var(--ink);
+    letter-spacing: -1px;
+    line-height: 1;
+    margin-bottom: 6px;
+}
+
+.modal-phon {
+    font-family: var(--font-mono);
+    font-size: 13px;
+    color: var(--ink-3);
+    margin-bottom: 20px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid var(--line);
+}
+
+.modal-defs {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.modal-def {
+    display: flex;
+    gap: 10px;
+    align-items: baseline;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.modal-def .pos {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    color: var(--accent);
+    background: var(--accent-soft);
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    min-width: 40px;
+    text-align: center;
+    flex-shrink: 0;
+}
+
+.modal-def .meaning {
+    color: var(--ink);
+    font-family: var(--font-cn);
+}
+
+.modal-extras {
+    margin-top: 16px;
+    padding-top: 16px;
+    border-top: 1px solid var(--line);
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.modal-extra {
+    font-size: 12.5px;
+    line-height: 1.7;
+    padding: 8px 12px;
+    border-radius: 8px;
+    font-family: var(--font-cn);
+}
+
+.modal-extra.col { background: var(--bg-card); color: var(--ink-2); }
+.modal-extra.mem { background: var(--good-soft); color: var(--good); }
+.modal-extra.ex { background: var(--accent-soft); color: var(--accent-deep); font-style: italic; font-family: var(--font-sans); }
+
+.modal-extra .tag {
+    font-family: var(--font-mono);
+    font-size: 9px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-right: 6px;
+    font-style: normal;
+}
+
+.modal-extra.col .tag { color: var(--ink-4); }
+.modal-extra.mem .tag { color: var(--good); }
+.modal-extra.ex .tag { color: var(--accent); }
+
+/* === 页脚 === */
+footer {
+    padding: 32px 0 48px;
+    border-top: 1px solid var(--line);
+    text-align: center;
+    font-size: 12px;
+    color: var(--ink-4);
+    font-family: var(--font-mono);
+    letter-spacing: 1px;
+}
+
+/* === 响应式 === */
+@media (max-width: 768px) {
+    .wrap { padding: 0 20px; }
+    .topbar-inner { padding: 12px 20px; }
+    .topbar-right { gap: 12px; font-size: 11px; }
+    .article { padding: 28px 0 32px; }
+    .eng { font-size: 15.5px; line-height: 44px; }
+    .vocab { padding: 40px 0 56px; }
+    .vocab-head h2 { font-size: 28px; }
+    .vocab-grid { grid-template-columns: 1fr; }
+    .modal { padding: 24px 20px; }
+    .modal-word { font-size: 28px; }
+    .translation { margin: 0 -20px; padding-left: 20px; padding-right: 20px; }
+    .translation-head h2 { font-size: 26px; }
+}
+
+@media (max-width: 480px) {
+    .topbar-right span:nth-child(3) { display: none; }
+    .gloss-toggle .g-label { display: none; }
+    .gloss-toggle { padding: 5px 8px; }
+}
+
+/* === 打印样式 === */
+@media print {
+    @page {
+        size: A4;
+        margin: 18mm 16mm 16mm 16mm;
+    }
+
+    .topbar,
+    .modal-bg,
+    .modal-bg.active,
+    footer,
+    .vocab-head .legend {
+        display: none !important;
+    }
+
+    html, body {
+        background: #fff !important;
+        color: #000 !important;
+        font-size: 10.5pt;
+        line-height: 1.5;
+    }
+
+    .wrap {
+        max-width: 100% !important;
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+
+    .article,
+    .vocab,
+    .translation {
+        padding: 0 !important;
+        margin: 0 !important;
+        background: #fff !important;
+    }
+
+    .para-num {
+        color: #000 !important;
+    }
+
+    .w {
+        color: #0055bb !important;
+        background: none !important;
+        font-weight: 600 !important;
+        cursor: text;
+        padding: 0;
+    }
+
+    /* 打印时词下方注释保留，但用更小字号省墨 */
+    .w-g {
+        color: #555 !important;
+        font-size: 8pt !important;
+    }
+
+    .card {
+        background: #fff !important;
+        border: 1px solid #ccc !important;
+        box-shadow: none !important;
+        transform: none !important;
+        break-inside: avoid;
+        page-break-inside: avoid;
+    }
+
+    .card.outline {
+        border-left: 3px solid #e87a40 !important;
+    }
+
+    .card:hover {
+        box-shadow: none !important;
+        transform: none !important;
+    }
+
+    .extra.col { background: #f5f5f5 !important; color: #333 !important; }
+    .extra.mem { background: #f5f5f5 !important; color: #1a5a30 !important; }
+    .extra.ex { background: #f5f5f5 !important; color: #004080 !important; }
+
+    .t-para {
+        background: #fff !important;
+        border: 1px solid #ccc !important;
+        break-inside: avoid;
+        page-break-inside: avoid;
+    }
+
+    .vocab-head,
+    .translation-head {
+        break-after: avoid;
+        page-break-after: avoid;
+    }
+
+    h1, h2, h3 {
+        break-after: avoid;
+        page-break-after: avoid;
+    }
+
+    a, a:visited {
+        color: #000 !important;
+        text-decoration: none !important;
+    }
+}
+
+
+/* 无词表匹配的高亮词样式 */
+.w-no-gloss {
+    color: var(--accent-deep);
+    font-weight: 600;
+    background: linear-gradient(180deg, transparent 55%, var(--accent-soft) 55%);
+    padding: 0 2px;
+    border-radius: 2px;
+}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+    <div class="topbar-inner">
+        <div class="topbar-left">
+            <span class="dot"></span>
+            <span>PASSAGE 04 / 80 · v2</span>
+        </div>
+        <div class="topbar-right">
+            <span class="gloss-toggle" id="glossToggle" title="显示/隐藏英文词下方中文注释">
+                <span class="g-dot"></span>
+                <span class="g-label">中文释义</span>
+            </span>
+            <span>Words <b>346</b></span>
+            <span>Core <b>49</b></span>
+        </div>
+    </div>
+</div>
+
+<div class="wrap">
+
+<article class="article">
+    <div class="section-tag">English · 单词下方带上下文释义</div>
+
+    <div class="para"><div class="para-num">01</div><p class="eng">"I didn't like the <span class="w" data-key="ending">ending</span>,"I said to my favorite college <span class="w" data-key="professor">professor</span>.It was my <span class="w" data-key="junior">junior</span>year of undergraduate <span class="w" data-key="study">study</span>, and I was doing an <span class="w" data-key="independent">independent</span>study on Victorian <span class="w" data-key="literature">literature</span>.I had <span class="w" data-key="just">just</span> <span class="w" data-key="finish">finished</span> <span class="w" data-key="read">reading</span> &lt;i&gt;The Mill on the Floss&lt;/i&gt; by George Eliot, and I was <span class="w" data-key="heartbroken">heartbroken</span>by the ending.Prof.Gracie, with all his patience, asked me to <span class="w" data-key="think">think</span>about it beyond whether I <span class="w" data-key="like">liked</span>it or not.He suggested I think about the <span class="w" data-key="difference">difference</span>between endings that I wanted for the <span class="w" data-key="character">characters</span>and endings that were right for the characters, endings that satisfied the story even if they didn't have a <span class="w" data-key="traditionally">traditionally</span>positive outcome.Of course, I would have <span class="w" data-key="favor">favored</span>a <span class="w" data-key="different">different</span>ending for Tom and Maggie Tulliver, but the ending they got did make the most <span class="w" data-key="sense">sense</span>for them. </p></div>
+
+    <div class="para"><div class="para-num">02</div><p class="eng">This was an <span class="w" data-key="aha">aha</span>moment for me, and I never thought about endings the <span class="w" data-key="same">same</span>way <span class="w" data-key="again">again</span>.From then on, if I wanted to read an ending guaranteed to be happy, I'd <span class="w" data-key="pick">pick</span>up a <span class="w" data-key="romance">romance</span> <span class="w" data-key="novel">novel</span> .If I wanted an ending I couldn't <span class="w" data-key="guess">guess</span>, I'd pick up a <span class="w" data-key="mystery">mystery</span>.For an ending where I <span class="w" data-key="kind">kind</span>of knew what was going to happen, I'd choose <span class="w" data-key="historical">historical</span> <span class="w" data-key="fiction">fiction</span> .Choosing what to read <span class="w-no-gloss">became</span>easier. </p></div>
+
+    <div class="para"><div class="para-num">03</div><p class="eng">But <span class="w" data-key="write">writing</span>endings—that's <span class="w" data-key="hard">hard</span>.It's hard for <span class="w" data-key="writer">writers</span> <span class="w" data-key="because">because</span> endings <span class="w" data-key="carry">carry</span>so much <span class="w" data-key="weight">weight</span>with readers.You have to <span class="w" data-key="balance">balance</span> <span class="w" data-key="create">creating</span> an ending that's <span class="w" data-key="unpredictable">unpredictable</span>, yet doesn't seem to come from <span class="w" data-key="nowhere">nowhere</span>, one that fits what's right for the characters. </p></div>
+
+    <div class="para"><div class="para-num">04</div><p class="eng">That's why this <span class="w" data-key="issue">issue</span>of &lt;i&gt;Writers Digest&lt;/i&gt; aims to help you <span class="w" data-key="figure">figure</span>out how to write the best ending for whatever kind of writing you're doing.If it's short stories, Peter Mountford <span class="w" data-key="break">breaks</span>down six techniques you can try to see which one helps you <span class="w" data-key="stick">stick</span>the <span class="w" data-key="landing">landing</span>.Elizabeth Sims analyzes the final chapters of five <span class="w" data-key="great">great</span>novels to see what key points they include and how you can <span class="w" data-key="adapt">adapt</span>them for your work. </p></div>
+
+    <div class="para"><div class="para-num">05</div><p class="eng">This issue won't tell you what your ending should be—that's <span class="w" data-key="up">up</span>to you and the story you're telling—but it might <span class="w" data-key="provide">provide</span>what you need to get there. </p></div>
+</article>
+
+<section class="vocab">
+    <div class="vocab-head">
+        <h2>核心<em>词表</em></h2>
+        <div class="legend">
+            <span class="l-core">核心词</span>
+            <span class="l-out">大纲词 *</span>
+        </div>
+    </div>
+
+    <div class="vocab-grid">
+        <div class="card"><div class="card-top"><span class="card-word">ending</span><span class="card-phon">[ˈendɪŋ]</span></div><div class="card-def"><span class="pos">n.</span>结尾；结局；结束；词尾</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">professor<span class="star">*</span></span><span class="card-phon">[prəˈfesə(r)]</span></div><div class="card-def"><span class="pos">n.</span>教授</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">junior<span class="star">*</span></span><span class="card-phon">[ˈdʒuːniə(r)]</span></div><div class="card-def"><span class="pos">adj.</span>初级的；年少的 <span class="pos">n.</span>（中学或大学的）三年级学生</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">study<span class="star">*</span></span><span class="card-phon">[ˈstʌdi]</span></div><div class="card-def"><span class="pos">v.</span>学习；研究 <span class="pos">n.</span>学习；研究；书房</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">independent<span class="star">*</span></span><span class="card-phon">[ˌɪndɪˈpendənt]</span></div><div class="card-def"><span class="pos">adj.</span>独立的；有主见的</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">literature<span class="star">*</span></span><span class="card-phon">[ˈlɪtrətʃə(r)]</span></div><div class="card-def"><span class="pos">n.</span>文学</div><div class="card-extras"><div class="extra mem"><span class="tag">记</span>词根记忆：liter（文字）+ature（表名词）→文学</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">just<span class="star">*</span></span><span class="card-phon">[dʒʌst]</span></div><div class="card-def"><span class="pos">adv.</span>刚才；只是，仅 <span class="pos">adj.</span>公正的</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">finish<span class="star">*</span></span><span class="card-phon">[ˈfɪnɪʃ]</span></div><div class="card-def"><span class="pos">v.</span>结束；做完</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">read<span class="star">*</span></span><span class="card-phon">[riːd]</span></div><div class="card-def"><span class="pos">v.</span>（read, read, reading）读，阅读；理解；读到</div></div>
+        <div class="card"><div class="card-top"><span class="card-word">heartbroken</span><span class="card-phon">[ˈhɑːtbrəʊkən]</span></div><div class="card-def"><span class="pos">adj.</span>极为悲伤的，心碎的</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">think<span class="star">*</span></span><span class="card-phon">[θɪŋk]</span></div><div class="card-def"><span class="pos">v.</span>（thought, thought, thinking）想；认为；考虑</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">like<span class="star">*</span></span><span class="card-phon">[laɪk]</span></div><div class="card-def"><span class="pos">vt.</span>喜欢；想；要 <span class="pos">n.</span>爱好 <span class="pos">prep.</span>像</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">difference<span class="star">*</span></span><span class="card-phon">[ˈdɪfrəns]</span></div><div class="card-def"><span class="pos">n.</span>不同</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">character<span class="star">*</span></span><span class="card-phon">[ˈkærəktə(r)]</span></div><div class="card-def"><span class="pos">n.</span>字符；人物，角色；特点，特征</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>a Chinese character一个汉字</div></div></div>
+        <div class="card"><div class="card-top"><span class="card-word">traditionally</span><span class="card-phon">[trəˈdɪʃənəli]</span></div><div class="card-def"><span class="pos">adv.</span>传统上</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">favor<span class="star">*</span></span><span class="card-phon">[ˈfeɪvə(r)]</span></div><div class="card-def"><span class="pos">n.</span>恩惠；好感；帮助 <span class="pos">vt.</span>较喜欢，更喜欢；有利于</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>in favor of...支持…… in one's favor对某人有利do sb.a favor帮某人的忙，答应某人的请求</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">different<span class="star">*</span></span><span class="card-phon">[ˈdɪfrənt]</span></div><div class="card-def"><span class="pos">adj.</span>不同的，有差异的</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">sense<span class="star">*</span></span><span class="card-phon">[sens]</span></div><div class="card-def"><span class="pos">n.</span>感觉，意识；意义</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>make sense有意义，合乎情理sense of humor幽默感</div></div></div>
+        <div class="card"><div class="card-top"><span class="card-word">aha</span><span class="card-phon">[ɑːˈhɑː]</span></div><div class="card-def"><span class="pos">int.</span>（表示了解或发现某事物的喜悦）啊哈</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>aha moment"恍然大悟"的时刻</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">same<span class="star">*</span></span><span class="card-phon">[seɪm]</span></div><div class="card-def"><span class="pos">n.</span>同样的事（或物） <span class="pos">adj.</span>同样的</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">again<span class="star">*</span></span><span class="card-phon">[əˈɡen; əˈɡeɪn]</span></div><div class="card-def"><span class="pos">adv.</span>再一次</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">pick<span class="star">*</span></span><span class="card-phon">[pɪk]</span></div><div class="card-def"><span class="pos">vt.</span>挑选；采摘；摘掉</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>pick sth.up拿起；学会pick sb.up（开车）接人pick out挑选出</div></div></div>
+        <div class="card"><div class="card-top"><span class="card-word">romance</span><span class="card-phon">[rəʊˈmæns;ˈrəʊmæns]</span></div><div class="card-def"><span class="pos">n.</span>爱情；浪漫氛围；浪漫史；爱情故事</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">novel<span class="star">*</span></span><span class="card-phon">[ˈnɒvl]</span></div><div class="card-def"><span class="pos">n.</span>（长篇）小说 <span class="pos">adj.</span>新颖的</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">guess<span class="star">*</span></span><span class="card-phon">[ɡes]</span></div><div class="card-def"><span class="pos">v.</span>猜，猜测；认为</div></div>
+        <div class="card"><div class="card-top"><span class="card-word">mystery</span><span class="card-phon">[ˈmɪstri]</span></div><div class="card-def"><span class="pos">n.</span>神秘；神秘的人（或事）；悬疑（推理）故事</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">kind<span class="star">*</span></span><span class="card-phon">[kaɪnd]</span></div><div class="card-def"><span class="pos">n.</span>[C]种；类 <span class="pos">adj.</span>善良的，和蔼的</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>kind of稍微；有点儿</div></div></div>
+        <div class="card"><div class="card-top"><span class="card-word">historical</span><span class="card-phon">[hɪˈstɒrɪkl]</span></div><div class="card-def"><span class="pos">adj.</span>历史的，有关历史的</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">fiction<span class="star">*</span></span><span class="card-phon">[ˈfɪkʃn]</span></div><div class="card-def"><span class="pos">n.</span>小说；虚构的事，杜撰的事</div><div class="card-extras"><div class="extra mem"><span class="tag">记</span>词根记忆：fict（做）+ion→造出的故事→小说</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">become<span class="star">*</span></span><span class="card-phon">[bɪˈkʌm]</span></div><div class="card-def"><span class="pos">v.</span>（became, become, becoming）变得；成为</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">write<span class="star">*</span></span><span class="card-phon">[raɪt]</span></div><div class="card-def"><span class="pos">v.</span>（wrote, written, writing）写</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">hard<span class="star">*</span></span><span class="card-phon">[hɑːd]</span></div><div class="card-def"><span class="pos">adj.</span>坚硬的；困难的；努力的；辛苦的 <span class="pos">adv.</span>努力地</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">writer<span class="star">*</span></span><span class="card-phon">[ˈraɪtə(r)]</span></div><div class="card-def"><span class="pos">n.</span>作家，作者</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">because<span class="star">*</span></span><span class="card-phon">[bɪˈkɒz]</span></div><div class="card-def"><span class="pos">conj.</span>因为</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">carry<span class="star">*</span></span><span class="card-phon">[ˈkæri]</span></div><div class="card-def"><span class="pos">v.</span>（carried, carried, carrying）携带；搬运；背；承载，承受</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>carry out实施；完成（任务）</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">weight<span class="star">*</span></span><span class="card-phon">[weɪt]</span></div><div class="card-def"><span class="pos">n.</span>重量，分量；重要性，影响力</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>lose weight减肥put on weight长胖，增加体重</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">balance<span class="star">*</span></span><span class="card-phon">[ˈbæləns]</span></div><div class="card-def"><span class="pos">n.</span>平衡 <span class="pos">v.</span>（使）平衡；权衡</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">create<span class="star">*</span></span><span class="card-phon">[kriˈeɪt]</span></div><div class="card-def"><span class="pos">vt.</span>创造；造成</div></div>
+        <div class="card"><div class="card-top"><span class="card-word">unpredictable</span><span class="card-phon">[ˌʌnprɪˈdɪktəbl]</span></div><div class="card-def"><span class="pos">adj.</span>不可预测的；（人）善变的</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">nowhere<span class="star">*</span></span><span class="card-phon">[ˈnəʊweə(r)]</span></div><div class="card-def"><span class="pos">adv.</span>任何地方都不；无处</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">issue<span class="star">*</span></span><span class="card-phon">[ˈɪʃuː]</span></div><div class="card-def"><span class="pos">n.</span>议题；问题；一期；期号 <span class="pos">vt.</span>发行；发布；出版</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>issue shares发行股票</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">figure<span class="star">*</span></span><span class="card-phon">[ˈfɪɡə(r)]</span></div><div class="card-def"><span class="pos">n.</span>数字；人物；画像；身材 <span class="pos">v.</span>认为；计算</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>figure out计算出；弄明白</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">break<span class="star">*</span></span><span class="card-phon">[breɪk]</span></div><div class="card-def"><span class="pos">v.</span>（broke, broken, breaking）打破；撕开 <span class="pos">n.</span>间歇；休息</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>break down出故障，坏掉；划分部分（以便分析） break off中止，中断break in破门而入</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">stick<span class="star">*</span></span><span class="card-phon">[stɪk]</span></div><div class="card-def"><span class="pos">v.</span>（stuck, stuck, sticking）黏住；坚持 <span class="pos">n.</span>木棒，木棍</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>stick to sth.坚持；维持stick with sth.持续；坚持stick the landing稳稳降落</div></div></div>
+        <div class="card"><div class="card-top"><span class="card-word">landing</span><span class="card-phon">[ˈlændɪŋ]</span></div><div class="card-def"><span class="pos">n.</span>降落；着陆</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">great<span class="star">*</span></span><span class="card-phon">[ɡreɪt]</span></div><div class="card-def"><span class="pos">adj.</span>大的；伟大的；重要的；显著的</div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">adapt<span class="star">*</span></span><span class="card-phon">[əˈdæpt]</span></div><div class="card-def"><span class="pos">v.</span>（使）适应；改编</div><div class="card-extras"><div class="extra mem"><span class="tag">记</span>词根记忆：ad（表加强）+apt（适应）→（使）适应</div><div class="extra col"><span class="tag">搭</span>adapt to...适应……</div><div class="extra ex"><span class="tag">例</span>People in Ethiopian highlands have adapted to living at high altitudes.在埃塞俄比亚高地居住的人们已经适应了高海拔地区的生活。</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">up<span class="star">*</span></span><span class="card-phon">[ʌp]</span></div><div class="card-def"><span class="pos">adv.</span>向上；在上面 <span class="pos">adj.</span>向上的 <span class="pos">n.</span>上升 <span class="pos">prep.</span>向，在（较高位置）</div><div class="card-extras"><div class="extra col"><span class="tag">搭</span>be up to sb.是某人的职责（或责任）；由某人决定up to多达ups and downs起伏，兴衰</div></div></div>
+        <div class="card outline"><div class="card-top"><span class="card-word">provide<span class="star">*</span></span><span class="card-phon">[prəˈvaɪd]</span></div><div class="card-def"><span class="pos">vt.</span>提供</div></div>
+    </div>
+</section>
+
+</div><!-- /.wrap -->
+
+<section class="translation"><div class="translation-inner">
+        <div class="translation-head"><div class="label">Reference · 译文参考</div><h2>中文<em>译文</em></h2></div>
+        <div class="t-para"><div class="t-para-num">PARAGRAPH 01</div><p>我对我最喜欢的大学<u>教授</u>说："我不喜欢这个<u>结局</u>。"那是我本科<u>三年级</u>的时候，我正在做一项关于维多利亚<u>文学</u>的<u>独立研究</u>。我<u>刚刚读完</u>乔治·艾略特的《弗洛斯河上的磨坊》，结局令我<u>心碎</u>。格雷西教授非常有耐心，让我不要仅从自己<u>喜欢</u>与否的角度出发，而要深入<u>思考</u>这个问题。他建议我思考一下，我想要的<u>人物</u>结局与适合这些人物的结局之间有什么<u>不同</u>，想想即使没有<u>传统意义上</u>的好结果，也能让故事完整自洽的结局。当然，我<u>更希望</u>汤姆和玛吉·塔利弗有个<u>不一样的</u>结局，但书中的结局对他们来说确实是最<u>合理</u>的。</p></div>
+        <div class="t-para"><div class="t-para-num">PARAGRAPH 02</div><p>那一刻，我<u>恍然大悟</u>，之后<u>再</u>也没有以<u>同样的</u>方式看待过结局。从那以后，如果我想读一个肯定会幸福的结局，我就会<u>选择</u><u>爱情小说</u>。如果我想读一个无法<u>预测</u>的结局，那我会选一本<u>悬疑小说</u>。如果是想读一个我<u>大致</u>知道会发生什么的结局，我会选择<u>历史小说</u>。选择阅读内容<u>变得</u>更容易了。</p></div>
+        <div class="t-para"><div class="t-para-num">PARAGRAPH 03</div><p>但是，要<u>写</u>出结局——那可是很<u>难的</u>。对<u>作家</u>来说很不容易，<u>因为</u>结局对读者来说<u>承载</u>了很重的<u>分量</u>。你必须做到<u>平衡</u>，<u>创作出</u>一个既<u>出人意料</u>又非<u>无</u>中生有的结局，一个符合人物设定的结局。</p></div>
+        <div class="t-para"><div class="t-para-num">PARAGRAPH 04</div><p>这就是为什么本<u>期</u>《作家文摘》旨在帮助你<u>弄清楚</u>，无论你正在进行何种类型的写作，该如何写出最好的结局。如果是短篇小说，彼得·蒙福德为你<u>分解</u>出了六种技巧，你可以尝试看看哪一种能帮助你<u>顺利完成</u>写作。伊丽莎白·西姆斯分析了五部<u>优秀小说</u>的最终章，阐述了它们包含的关键点以及你如何将这些关键点<u>应用</u>到自己的作品中。</p></div>
+        <div class="t-para"><div class="t-para-num">PARAGRAPH 05</div><p>本期内容不会告诉你结局应该是什么——这<u>取决于</u>你和你所讲述的故事——但它可能会为你<u>提供</u>通往那个结局所需要的东西。</p></div>
+        </div></section>
+
+<footer>
+    PASSAGE 04 · v2 · END
+</footer>
+
+<div class="modal-bg" id="modal">
+    <div class="modal">
+        <button class="modal-close" id="modalClose">✕</button>
+        <div id="modalContent"></div>
+    </div>
+</div>
+
+<script>
+/* === 中文注释开关 === */
+var glossToggle = document.getElementById('glossToggle');
+var glossOn = true;
+try {
+    var saved = localStorage.getItem('p04_gloss');
+    if (saved === 'off') glossOn = false;
+} catch(e) {}
+
+function applyGloss() {
+    if (glossOn) {
+        document.body.classList.remove('no-gloss');
+        glossToggle.classList.remove('off');
+        glossToggle.querySelector('.g-label').textContent = '中文释义';
+    } else {
+        document.body.classList.add('no-gloss');
+        glossToggle.classList.add('off');
+        glossToggle.querySelector('.g-label').textContent = '已隐藏';
+    }
+}
+glossToggle.addEventListener('click', function() {
+    glossOn = !glossOn;
+    try { localStorage.setItem('p04_gloss', glossOn ? 'on' : 'off'); } catch(e) {}
+    applyGloss();
+});
+applyGloss();
+
+var dict = {
+    "ending":{ctx:"结尾",type:"core",words:[{word:"ending",phonetic:"[ˈendɪŋ]",defs:[{pos:"n.",meaning:"结尾；结局；结束；词尾"}]}]},
+    "professor":{ctx:"教授",type:"outline",words:[{word:"professor",phonetic:"[prəˈfesə(r)]",defs:[{pos:"n.",meaning:"教授"}]}]},
+    "junior":{ctx:"初级的",type:"outline",words:[{word:"junior",phonetic:"[ˈdʒuːniə(r)]",defs:[{pos:"adj.",meaning:"初级的；年少的"},{pos:"n.",meaning:"（中学或大学的）三年级学生"}]}]},
+    "study":{ctx:"学习",type:"outline",words:[{word:"study",phonetic:"[ˈstʌdi]",defs:[{pos:"v.",meaning:"学习；研究"},{pos:"n.",meaning:"学习；研究；书房"}]}]},
+    "independent":{ctx:"独立的",type:"outline",words:[{word:"independent",phonetic:"[ˌɪndɪˈpendənt]",defs:[{pos:"adj.",meaning:"独立的；有主见的"}]}]},
+    "literature":{ctx:"文学",type:"outline",words:[{word:"literature",phonetic:"[ˈlɪtrətʃə(r)]",defs:[{pos:"n.",meaning:"文学"}],extras:[{type:"mem",label:"记",text:"词根记忆：liter（文字）+ature（表名词）→文学"}]}]},
+    "just":{ctx:"刚才",type:"outline",words:[{word:"just",phonetic:"[dʒʌst]",defs:[{pos:"adv.",meaning:"刚才；只是，仅"},{pos:"adj.",meaning:"公正的"}]}]},
+    "finish":{ctx:"结束",type:"outline",words:[{word:"finish",phonetic:"[ˈfɪnɪʃ]",defs:[{pos:"v.",meaning:"结束；做完"}]}]},
+    "read":{ctx:"（read",type:"outline",words:[{word:"read",phonetic:"[riːd]",defs:[{pos:"v.",meaning:"（read, read, reading）读，阅读；理解；读到"}]}]},
+    "heartbroken":{ctx:"极为悲伤的",type:"core",words:[{word:"heartbroken",phonetic:"[ˈhɑːtbrəʊkən]",defs:[{pos:"adj.",meaning:"极为悲伤的，心碎的"}]}]},
+    "think":{ctx:"（thought",type:"outline",words:[{word:"think",phonetic:"[θɪŋk]",defs:[{pos:"v.",meaning:"（thought, thought, thinking）想；认为；考虑"}]}]},
+    "like":{ctx:"喜欢",type:"outline",words:[{word:"like",phonetic:"[laɪk]",defs:[{pos:"vt.",meaning:"喜欢；想；要"},{pos:"n.",meaning:"爱好"},{pos:"prep.",meaning:"像"}]}]},
+    "difference":{ctx:"不同",type:"outline",words:[{word:"difference",phonetic:"[ˈdɪfrəns]",defs:[{pos:"n.",meaning:"不同"}]}]},
+    "character":{ctx:"字符",type:"outline",words:[{word:"character",phonetic:"[ˈkærəktə(r)]",defs:[{pos:"n.",meaning:"字符；人物，角色；特点，特征"}],extras:[{type:"col",label:"搭",text:"a Chinese character一个汉字"}]}]},
+    "traditionally":{ctx:"传统上",type:"core",words:[{word:"traditionally",phonetic:"[trəˈdɪʃənəli]",defs:[{pos:"adv.",meaning:"传统上"}]}]},
+    "favor":{ctx:"恩惠",type:"outline",words:[{word:"favor",phonetic:"[ˈfeɪvə(r)]",defs:[{pos:"n.",meaning:"恩惠；好感；帮助"},{pos:"vt.",meaning:"较喜欢，更喜欢；有利于"}],extras:[{type:"col",label:"搭",text:"in favor of...支持…… in one's favor对某人有利do sb.a favor帮某人的忙，答应某人的请求"}]}]},
+    "different":{ctx:"不同的",type:"outline",words:[{word:"different",phonetic:"[ˈdɪfrənt]",defs:[{pos:"adj.",meaning:"不同的，有差异的"}]}]},
+    "sense":{ctx:"感觉",type:"outline",words:[{word:"sense",phonetic:"[sens]",defs:[{pos:"n.",meaning:"感觉，意识；意义"}],extras:[{type:"col",label:"搭",text:"make sense有意义，合乎情理sense of humor幽默感"}]}]},
+    "aha":{ctx:"（表示了解或发现某事物的",type:"core",words:[{word:"aha",phonetic:"[ɑːˈhɑː]",defs:[{pos:"int.",meaning:"（表示了解或发现某事物的喜悦）啊哈"}],extras:[{type:"col",label:"搭",text:"aha moment\"恍然大悟\"的时刻"}]}]},
+    "same":{ctx:"同样的事（或物）",type:"outline",words:[{word:"same",phonetic:"[seɪm]",defs:[{pos:"n.",meaning:"同样的事（或物）"},{pos:"adj.",meaning:"同样的"}]}]},
+    "again":{ctx:"再一次",type:"outline",words:[{word:"again",phonetic:"[əˈɡen; əˈɡeɪn]",defs:[{pos:"adv.",meaning:"再一次"}]}]},
+    "pick":{ctx:"挑选",type:"outline",words:[{word:"pick",phonetic:"[pɪk]",defs:[{pos:"vt.",meaning:"挑选；采摘；摘掉"}],extras:[{type:"col",label:"搭",text:"pick sth.up拿起；学会pick sb.up（开车）接人pick out挑选出"}]}]},
+    "romance":{ctx:"爱情",type:"core",words:[{word:"romance",phonetic:"[rəʊˈmæns;ˈrəʊmæns]",defs:[{pos:"n.",meaning:"爱情；浪漫氛围；浪漫史；爱情故事"}]}]},
+    "novel":{ctx:"（长篇）小说",type:"outline",words:[{word:"novel",phonetic:"[ˈnɒvl]",defs:[{pos:"n.",meaning:"（长篇）小说"},{pos:"adj.",meaning:"新颖的"}]}]},
+    "guess":{ctx:"猜",type:"outline",words:[{word:"guess",phonetic:"[ɡes]",defs:[{pos:"v.",meaning:"猜，猜测；认为"}]}]},
+    "mystery":{ctx:"神秘",type:"core",words:[{word:"mystery",phonetic:"[ˈmɪstri]",defs:[{pos:"n.",meaning:"神秘；神秘的人（或事）；悬疑（推理）故事"}]}]},
+    "kind":{ctx:"[C]种",type:"outline",words:[{word:"kind",phonetic:"[kaɪnd]",defs:[{pos:"n.",meaning:"[C]种；类"},{pos:"adj.",meaning:"善良的，和蔼的"}],extras:[{type:"col",label:"搭",text:"kind of稍微；有点儿"}]}]},
+    "historical":{ctx:"历史的",type:"core",words:[{word:"historical",phonetic:"[hɪˈstɒrɪkl]",defs:[{pos:"adj.",meaning:"历史的，有关历史的"}]}]},
+    "fiction":{ctx:"小说",type:"outline",words:[{word:"fiction",phonetic:"[ˈfɪkʃn]",defs:[{pos:"n.",meaning:"小说；虚构的事，杜撰的事"}],extras:[{type:"mem",label:"记",text:"词根记忆：fict（做）+ion→造出的故事→小说"}]}]},
+    "become":{ctx:"（became",type:"outline",words:[{word:"become",phonetic:"[bɪˈkʌm]",defs:[{pos:"v.",meaning:"（became, become, becoming）变得；成为"}]}]},
+    "write":{ctx:"（wrote",type:"outline",words:[{word:"write",phonetic:"[raɪt]",defs:[{pos:"v.",meaning:"（wrote, written, writing）写"}]}]},
+    "hard":{ctx:"坚硬的",type:"outline",words:[{word:"hard",phonetic:"[hɑːd]",defs:[{pos:"adj.",meaning:"坚硬的；困难的；努力的；辛苦的"},{pos:"adv.",meaning:"努力地"}]}]},
+    "writer":{ctx:"作家",type:"outline",words:[{word:"writer",phonetic:"[ˈraɪtə(r)]",defs:[{pos:"n.",meaning:"作家，作者"}]}]},
+    "because":{ctx:"因为",type:"outline",words:[{word:"because",phonetic:"[bɪˈkɒz]",defs:[{pos:"conj.",meaning:"因为"}]}]},
+    "carry":{ctx:"（carried",type:"outline",words:[{word:"carry",phonetic:"[ˈkæri]",defs:[{pos:"v.",meaning:"（carried, carried, carrying）携带；搬运；背；承载，承受"}],extras:[{type:"col",label:"搭",text:"carry out实施；完成（任务）"}]}]},
+    "weight":{ctx:"重量",type:"outline",words:[{word:"weight",phonetic:"[weɪt]",defs:[{pos:"n.",meaning:"重量，分量；重要性，影响力"}],extras:[{type:"col",label:"搭",text:"lose weight减肥put on weight长胖，增加体重"}]}]},
+    "balance":{ctx:"平衡",type:"outline",words:[{word:"balance",phonetic:"[ˈbæləns]",defs:[{pos:"n.",meaning:"平衡"},{pos:"v.",meaning:"（使）平衡；权衡"}]}]},
+    "create":{ctx:"创造",type:"outline",words:[{word:"create",phonetic:"[kriˈeɪt]",defs:[{pos:"vt.",meaning:"创造；造成"}]}]},
+    "unpredictable":{ctx:"不可预测的",type:"core",words:[{word:"unpredictable",phonetic:"[ˌʌnprɪˈdɪktəbl]",defs:[{pos:"adj.",meaning:"不可预测的；（人）善变的"}]}]},
+    "nowhere":{ctx:"任何地方都不",type:"outline",words:[{word:"nowhere",phonetic:"[ˈnəʊweə(r)]",defs:[{pos:"adv.",meaning:"任何地方都不；无处"}]}]},
+    "issue":{ctx:"议题",type:"outline",words:[{word:"issue",phonetic:"[ˈɪʃuː]",defs:[{pos:"n.",meaning:"议题；问题；一期；期号"},{pos:"vt.",meaning:"发行；发布；出版"}],extras:[{type:"col",label:"搭",text:"issue shares发行股票"}]}]},
+    "figure":{ctx:"数字",type:"outline",words:[{word:"figure",phonetic:"[ˈfɪɡə(r)]",defs:[{pos:"n.",meaning:"数字；人物；画像；身材"},{pos:"v.",meaning:"认为；计算"}],extras:[{type:"col",label:"搭",text:"figure out计算出；弄明白"}]}]},
+    "break":{ctx:"（broke",type:"outline",words:[{word:"break",phonetic:"[breɪk]",defs:[{pos:"v.",meaning:"（broke, broken, breaking）打破；撕开"},{pos:"n.",meaning:"间歇；休息"}],extras:[{type:"col",label:"搭",text:"break down出故障，坏掉；划分部分（以便分析） break off中止，中断break in破门而入"}]}]},
+    "stick":{ctx:"（stuck",type:"outline",words:[{word:"stick",phonetic:"[stɪk]",defs:[{pos:"v.",meaning:"（stuck, stuck, sticking）黏住；坚持"},{pos:"n.",meaning:"木棒，木棍"}],extras:[{type:"col",label:"搭",text:"stick to sth.坚持；维持stick with sth.持续；坚持stick the landing稳稳降落"}]}]},
+    "landing":{ctx:"降落",type:"core",words:[{word:"landing",phonetic:"[ˈlændɪŋ]",defs:[{pos:"n.",meaning:"降落；着陆"}]}]},
+    "great":{ctx:"大的",type:"outline",words:[{word:"great",phonetic:"[ɡreɪt]",defs:[{pos:"adj.",meaning:"大的；伟大的；重要的；显著的"}]}]},
+    "adapt":{ctx:"（使）适应",type:"outline",words:[{word:"adapt",phonetic:"[əˈdæpt]",defs:[{pos:"v.",meaning:"（使）适应；改编"}],extras:[{type:"mem",label:"记",text:"词根记忆：ad（表加强）+apt（适应）→（使）适应"},{type:"col",label:"搭",text:"adapt to...适应……"},{type:"ex",label:"例",text:"People in Ethiopian highlands have adapted to living at high altitudes.在埃塞俄比亚高地居住的人们已经适应了高海拔地区的生活。"}]}]},
+    "up":{ctx:"向上",type:"outline",words:[{word:"up",phonetic:"[ʌp]",defs:[{pos:"adv.",meaning:"向上；在上面"},{pos:"adj.",meaning:"向上的"},{pos:"n.",meaning:"上升"},{pos:"prep.",meaning:"向，在（较高位置）"}],extras:[{type:"col",label:"搭",text:"be up to sb.是某人的职责（或责任）；由某人决定up to多达ups and downs起伏，兴衰"}]}]},
+    "provide":{ctx:"提供",type:"outline",words:[{word:"provide",phonetic:"[prəˈvaɪd]",defs:[{pos:"vt.",meaning:"提供"}]}]}
+};
+
+var modal = document.getElementById('modal');
+var modalContent = document.getElementById('modalContent');
+var modalClose = document.getElementById('modalClose');
+
+/* === 2.0 核心：为每个高亮词动态包裹下方注释 === */
+document.querySelectorAll('.w').forEach(function(el) {
+    var key = el.getAttribute('data-key');
+    var entry = dict[key];
+    if (!entry || !entry.ctx) return;
+
+    /* 大纲词加橙色样式 */
+    if (entry.type === 'outline') el.classList.add('outline');
+
+    var wrapper = document.createElement('span');
+    wrapper.className = 'wn';
+    el.parentNode.insertBefore(wrapper, el);
+    wrapper.appendChild(el);
+
+    var g = document.createElement('span');
+    g.className = 'w-g';
+    g.textContent = entry.ctx;
+    wrapper.appendChild(g);
+
+    /* 点击事件保留在 .w 上 */
+    el.addEventListener('click', function(e) {
+        e.stopPropagation();
+        this.classList.remove('pulsed');
+        void this.offsetWidth;
+        this.classList.add('pulsed');
+        showModal(this.getAttribute('data-key'));
+    });
+});
+
+function showModal(key) {
+    var entry = dict[key];
+    if (!entry) return;
+    var html = '<div class="modal-eyebrow">Vocabulary</div>';
+    entry.words.forEach(function(w, idx) {
+        if (idx > 0) html += '<hr style="border:none;border-top:1px solid #e5e5e7;margin:14px 0;">';
+        html += '<div class="modal-word">' + w.word + '</div>';
+        html += '<div class="modal-phon">' + w.phonetic + '</div>';
+        html += '<div class="modal-defs">';
+        w.defs.forEach(function(d) {
+            html += '<div class="modal-def"><span class="pos">' + d.pos + '</span><span class="meaning">' + d.meaning + '</span></div>';
+        });
+        html += '</div>';
+        if (w.extras) {
+            html += '<div class="modal-extras">';
+            w.extras.forEach(function(x) {
+                html += '<div class="modal-extra ' + x.type + '"><span class="tag">' + x.label + '</span>' + x.text + '</div>';
+            });
+            html += '</div>';
+        }
+    });
+    modalContent.innerHTML = html;
+    modal.classList.add('active');
+}
+
+function hideModal() { modal.classList.remove('active'); }
+
+modalClose.addEventListener('click', hideModal);
+modal.addEventListener('click', function(e) { if (e.target === modal) hideModal(); });
+document.addEventListener('keydown', function(e) { if (e.key === 'Escape') hideModal(); });
+</script>
+</script>
+</body>
+</html>
