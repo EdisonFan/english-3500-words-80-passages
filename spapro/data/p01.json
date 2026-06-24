@@ -1,0 +1,1140 @@
+{
+  "id": 1,
+  "stats": {
+    "words": 273,
+    "core": 64
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "Turning {soil}, {pull} {weed} , and harvesting {cabbage} {sound} like {tough} work for {middle} and high school {kid}.And at {first} it is, says Abby Jaramillo, who with another teacher {found} {urban} Sprouts, a school {garden} {program} at four low-income schools.The program {aim} to help students develop science skills, {environmental} {awareness} , and healthy {lifestyle}.",
+      "cn": "对于 <u> 初中 </u> 和高中的 <u> 孩子 </u> 们来说，翻 <u> 土 </u> 、 <u> 拔草 </u> 、收割 <u> 卷心菜听起来 </u> 都像是 <u> 艰苦的 </u> 工作。艾比·哈拉米约说，起 <u> 初 </u> 确实是这样的。她和另一位老师一起 <u> 创办 </u> 了“ <u> 城市 </u> 新芽”项目，这是一个在四所低收入学校中开展的学校 <u> 菜园项目 </u> 。该项目 <u> 旨在 </u> 帮助学生培养科学技能、 <u> 环保意识 </u> 和健康的 <u> 生活方式 </u> 。"
+    },
+    {
+      "num": "02",
+      "en": "Jaramillo's students live in {neighborhood} where {fresh} {food} and {green} space are not {easy} to {find} and fast food {restaurant} {outnumber} {grocery} stores.\"The kids {literally} {come} to school with {bag} of {snack} and large {bottle} of {soft} {drink} ,\"she says.\"They come to us thinking {vegetable} are {awful}, {dirt} is awful, {insect} are awful.\"Though some are {initially} {scared} of the insects and turned off by the dirt, most are {eager} to try {something} {new} .",
+      "cn": "在哈拉米约的学生们居住的 <u> 街区 </u> 不 <u> 容易见到新鲜食物 </u> 和 <u> 绿 </u> 地，快 <u> 餐店比杂货店 </u> 还 <u> 多 </u> 。她说：“孩子们 <u> 真的 </u> 是带着 <u> 很多零食 </u> 和大 <u> 瓶 </u> 的 <u> 软饮料来 </u> 学校的。他们来时认为 <u> 蔬菜 </u> 很 <u> 糟糕 </u> ， <u> 泥土 </u> 很糟糕， <u> 昆虫 </u> 也很糟糕。”虽然有些孩子 <u> 一开始害怕 </u> 昆虫，也不喜欢泥土，但大多数孩子都 <u> 渴望 </u> 尝试 <u> 新事物 </u> 。"
+    },
+    {
+      "num": "03",
+      "en": "Urban Sprouts' classes, at two middle schools and two high schools, include hands-on {experiment} {such} as soil testing, flower-and-seed {dissection}, tastings of fresh or dried {produce}, and work in the garden. {several} times a year, students {cook} the vegetables they grow, and they occasionally make {salad} for their {entire} schools.",
+      "cn": "“城市新芽”的课程在两所初中和两所高中开设，内容包括一些动手 <u> 实验 </u> ， <u> 比如 </u> 土壤测试、花卉与种子 <u> 解剖 </u> 、新鲜或风干 <u> 农产品 </u> 的品尝，以及在菜园里劳作。每年有 <u> 几 </u> 次，学生们会 <u> 烹饪 </u> 自己种植的蔬菜，有时还会为 <u> 全 </u> 校师生做 <u> 沙拉 </u> 。"
+    },
+    {
+      "num": "04",
+      "en": "Program evaluations show that kids eat more vegetables as a result of the classes.\"We have students who say they went {home} and talked to their {parent} and now they're eating {differently},\"Jaramillo says.",
+      "cn": "项目评估显示，上过这些课后，孩子们吃的蔬菜更多了。哈拉米约说：“有些学生说，他们回 <u> 家 </u> 后与 <u> 父母 </u> 聊起了这些，现在一家人的饮食都 <u> 不一样 </u> 了。”"
+    },
+    {
+      "num": "05",
+      "en": "She adds that the program's benefits go {beyond} {nutrition} .Some students get so {interested} in gardening that they bring home {seed} to start their own vegetable gardens. {besides}, working in the garden {seem} to have a calming {effect} on Jaramillo's special education students, {many} of whom have {emotional} control issues.\"They get outside,\"she says,\"and they {feel} {successful} .\"",
+      "cn": "她补充说，这个项目的好处 <u> 不仅仅 </u> 体现在 <u> 营养 </u> 方面。有些学生对园艺产生了浓厚的 <u> 兴趣 </u> ，甚至会把 <u> 种子 </u> 带回家，开辟自己的菜园。 <u> 此外 </u> ，在菜园里劳作 <u> 似乎 </u> 对哈拉米约所教的特殊教育学生起到了镇静 <u> 作用 </u> ——他们中的 <u> 许多 </u> 人都存在 <u> 情绪 </u> 控制方面的问题。她说：“他们走到户外， <u> 体会到成功的 </u> 感觉。”"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "soil",
+      "type": "outline",
+      "ctx": "土壤",
+      "phonetic": "[sɔɪl]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "土壤"
+        }
+      ],
+      "lemma": "soil",
+      "kind": "word"
+    },
+    {
+      "word": "pull",
+      "type": "outline",
+      "ctx": "拔",
+      "phonetic": "[pʊl]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "拉，拖；拔出",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "pull in进站停靠pull out驶离路边，驶出pull over向路边停靠pull away开动"
+              ]
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "meaning": "[C] 拉，拽；引力"
+        }
+      ],
+      "lemma": "pull",
+      "kind": "word"
+    },
+    {
+      "word": "weed",
+      "type": "outline",
+      "ctx": "野草",
+      "phonetic": "[wiːd]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "野草，杂草"
+        }
+      ],
+      "lemma": "weed",
+      "kind": "word"
+    },
+    {
+      "word": "cabbage",
+      "type": "outline",
+      "ctx": "卷心菜",
+      "phonetic": "[ˈkæbɪdʒ]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "卷心菜，洋白菜"
+        }
+      ],
+      "lemma": "cabbage",
+      "kind": "word"
+    },
+    {
+      "word": "sound",
+      "type": "outline",
+      "ctx": "听起来",
+      "phonetic": "[saʊnd]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "（使）发出声音；听起来"
+        },
+        {
+          "pos": "n.",
+          "meaning": "声音"
+        }
+      ],
+      "lemma": "sound",
+      "kind": "word"
+    },
+    {
+      "word": "tough",
+      "type": "outline",
+      "ctx": "艰苦的",
+      "phonetic": "[tʌf]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "结实的，健壮的；艰苦的；棘手的",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "a tough childhood苦难的童年"
+              ]
+            }
+          ]
+        }
+      ],
+      "lemma": "tough",
+      "kind": "word"
+    },
+    {
+      "word": "middle",
+      "type": "outline",
+      "ctx": "初中",
+      "phonetic": "[ˈmɪdl]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "中间"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "中部的；中间的；中级的"
+        }
+      ],
+      "lemma": "middle",
+      "kind": "word"
+    },
+    {
+      "word": "kid",
+      "type": "outline",
+      "ctx": "小孩",
+      "phonetic": "[kɪd]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "小孩"
+        },
+        {
+          "pos": "v.",
+          "meaning": "戏弄，（与……）开玩笑；欺骗"
+        }
+      ],
+      "lemma": "kid",
+      "kind": "word"
+    },
+    {
+      "word": "first",
+      "type": "outline",
+      "ctx": "起初",
+      "phonetic": "[fɜːst]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "第一，首先",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "at first起初，起先"
+              ]
+            }
+          ]
+        },
+        {
+          "pos": "det.",
+          "meaning": "/"
+        },
+        {
+          "pos": "ordinal num.",
+          "meaning": "第一的；首要的"
+        }
+      ],
+      "lemma": "first",
+      "kind": "word"
+    },
+    {
+      "word": "found",
+      "type": "outline",
+      "ctx": "创办",
+      "phonetic": "[faʊnd]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "（founded, founded, founding）成立，建立"
+        }
+      ],
+      "lemma": "found",
+      "kind": "word"
+    },
+    {
+      "word": "urban",
+      "type": "outline",
+      "ctx": "城市的",
+      "phonetic": "[ˈɜːbən]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "城市的，都市的",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "the urban population城市人口"
+              ]
+            }
+          ]
+        }
+      ],
+      "lemma": "urban",
+      "kind": "word",
+      "memory": [
+        "词根记忆：urb（城市）+an（……的）→城市的"
+      ]
+    },
+    {
+      "word": "garden",
+      "type": "outline",
+      "ctx": "菜园",
+      "phonetic": "[ˈɡɑːdn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "花园，果园，菜园"
+        },
+        {
+          "pos": "v.",
+          "meaning": "做园艺工作；种植花木"
+        }
+      ],
+      "lemma": "garden",
+      "kind": "word"
+    },
+    {
+      "word": "program",
+      "type": "outline",
+      "ctx": "项目",
+      "phonetic": "[ˈprəʊɡræm]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "计划，方案；节目；程序；编码指令"
+        },
+        {
+          "pos": "v.",
+          "meaning": "规划，安排；编写程序"
+        }
+      ],
+      "lemma": "program",
+      "kind": "word"
+    },
+    {
+      "word": "aim",
+      "type": "outline",
+      "ctx": "旨在",
+      "phonetic": "[eɪm]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "计划；瞄准；针对",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "aim to do...打算做…… aim (sth.) at...瞄准；以……为目标"
+              ]
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "meaning": "目的"
+        }
+      ],
+      "lemma": "aim",
+      "kind": "word"
+    },
+    {
+      "word": "environmental",
+      "type": "core",
+      "ctx": "自然环境的",
+      "phonetic": "[ɪnˌvaɪrənˈmentl]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "自然环境的，有关环境的，环保的"
+        }
+      ],
+      "lemma": "environmental",
+      "kind": "word"
+    },
+    {
+      "word": "awareness",
+      "type": "core",
+      "ctx": "意识",
+      "phonetic": "[əˈweənəs]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "认识，意识"
+        }
+      ],
+      "lemma": "awareness",
+      "kind": "word"
+    },
+    {
+      "word": "lifestyle",
+      "type": "core",
+      "ctx": "生活方式",
+      "phonetic": "[ˈlaɪfstaɪl]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "生活方式"
+        }
+      ],
+      "lemma": "lifestyle",
+      "kind": "word"
+    },
+    {
+      "word": "neighborhood",
+      "type": "outline",
+      "ctx": "街区",
+      "phonetic": "[ˈneɪbəhʊd]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "街区；某街区（或城区）的居民"
+        }
+      ],
+      "lemma": "neighborhood",
+      "kind": "word"
+    },
+    {
+      "word": "fresh",
+      "type": "outline",
+      "ctx": "新鲜的",
+      "phonetic": "[freʃ]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "新鲜的；不熟练的"
+        }
+      ],
+      "lemma": "fresh",
+      "kind": "word"
+    },
+    {
+      "word": "food",
+      "type": "outline",
+      "ctx": "食物",
+      "phonetic": "[fuːd]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "食物，食品",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "junk food垃圾食品fast food快餐食物；速食"
+              ]
+            }
+          ]
+        }
+      ],
+      "lemma": "food",
+      "kind": "word"
+    },
+    {
+      "word": "green",
+      "type": "outline",
+      "ctx": "绿色的",
+      "phonetic": "[ɡriːn]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "绿色的；生的；缺乏经验的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "绿色；[pl.]绿色蔬菜"
+        }
+      ],
+      "lemma": "green",
+      "kind": "word"
+    },
+    {
+      "word": "easy",
+      "type": "outline",
+      "ctx": "容易的",
+      "phonetic": "[ˈiːzi]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "容易的；舒适的；随和的"
+        }
+      ],
+      "lemma": "easy",
+      "kind": "word"
+    },
+    {
+      "word": "find",
+      "type": "outline",
+      "ctx": "找到",
+      "phonetic": "[faɪnd]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "（found, found, finding）找到，发现；感到"
+        }
+      ],
+      "lemma": "find",
+      "kind": "word"
+    },
+    {
+      "word": "restaurant",
+      "type": "outline",
+      "ctx": "餐馆",
+      "phonetic": "[ˈrestrɒnt]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "餐馆，饭店"
+        }
+      ],
+      "lemma": "restaurant",
+      "kind": "word"
+    },
+    {
+      "word": "outnumber",
+      "type": "core",
+      "ctx": "在数量上胜过……",
+      "phonetic": "[ˌaʊtˈnʌmbə(r)]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "在数量上胜过……，比……多"
+        }
+      ],
+      "lemma": "outnumber",
+      "kind": "word"
+    },
+    {
+      "word": "grocery",
+      "type": "outline",
+      "ctx": "食品杂货店",
+      "phonetic": "[ˈɡrəʊsəri]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "食品杂货店"
+        }
+      ],
+      "lemma": "grocery",
+      "kind": "word"
+    },
+    {
+      "word": "literally",
+      "type": "outline",
+      "ctx": "真的",
+      "phonetic": "[ˈlɪtərəli]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "简直；确实地；按照字面地"
+        }
+      ],
+      "lemma": "literally",
+      "kind": "word"
+    },
+    {
+      "word": "come",
+      "type": "outline",
+      "ctx": "来",
+      "phonetic": "[kʌm]",
+      "defs": [
+        {
+          "pos": "vi.",
+          "meaning": "（came, come, coming）来；达到；产生（于）；发生；可提供",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "come on上场；加油，加把劲when it comes to sth.当涉及某事时come down崩塌；落下；降落；降低"
+              ]
+            }
+          ]
+        }
+      ],
+      "lemma": "come",
+      "kind": "word"
+    },
+    {
+      "word": "bag",
+      "type": "outline",
+      "ctx": "[C]袋",
+      "phonetic": "[bæɡ]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "[C]袋；手提包，旅行袋；[U, pl.] (bags of sth.) 大量，很多"
+        },
+        {
+          "pos": "v.",
+          "meaning": "把……装进袋子"
+        }
+      ],
+      "lemma": "bag",
+      "kind": "word"
+    },
+    {
+      "word": "snack",
+      "type": "outline",
+      "ctx": "零食",
+      "phonetic": "[snæk]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "小吃，快餐"
+        }
+      ],
+      "lemma": "snack",
+      "kind": "word"
+    },
+    {
+      "word": "bottle",
+      "type": "outline",
+      "ctx": "瓶子",
+      "phonetic": "[ˈbɒtl]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "瓶子"
+        }
+      ],
+      "lemma": "bottle",
+      "kind": "word"
+    },
+    {
+      "word": "soft",
+      "type": "outline",
+      "ctx": "软的",
+      "phonetic": "[sɒft]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "轻的；软的；柔滑的；（声音）轻柔的；（颜色、光线等）柔和的"
+        }
+      ],
+      "lemma": "soft",
+      "kind": "word"
+    },
+    {
+      "word": "drink",
+      "type": "outline",
+      "ctx": "饮料",
+      "phonetic": "[drɪŋk]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "（drank, drunk, drinking）喝，饮"
+        },
+        {
+          "pos": "n.",
+          "meaning": "饮酒；饮料"
+        }
+      ],
+      "lemma": "drink",
+      "kind": "word"
+    },
+    {
+      "word": "vegetable",
+      "type": "outline",
+      "ctx": "蔬菜",
+      "phonetic": "[ˈvedʒtəbl]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "蔬菜"
+        }
+      ],
+      "lemma": "vegetable",
+      "kind": "word"
+    },
+    {
+      "word": "awful",
+      "type": "outline",
+      "ctx": "糟糕的",
+      "phonetic": "[ˈɔːfl]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "糟糕的，很坏的；很多的；可怕的"
+        }
+      ],
+      "lemma": "awful",
+      "kind": "word"
+    },
+    {
+      "word": "dirt",
+      "type": "core",
+      "ctx": "泥土",
+      "phonetic": "[dɜːt]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "污物，尘土；泥土"
+        }
+      ],
+      "lemma": "dirt",
+      "kind": "word"
+    },
+    {
+      "word": "insect",
+      "type": "outline",
+      "ctx": "昆虫",
+      "phonetic": "[ˈɪnsekt]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "昆虫"
+        }
+      ],
+      "lemma": "insect",
+      "kind": "word"
+    },
+    {
+      "word": "initially",
+      "type": "core",
+      "ctx": "一开始",
+      "phonetic": "[ɪˈnɪʃəli]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "开头，最初"
+        }
+      ],
+      "lemma": "initially",
+      "kind": "word"
+    },
+    {
+      "word": "scared",
+      "type": "core",
+      "ctx": "害怕的",
+      "phonetic": "[skeəd]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "害怕的，恐惧的"
+        }
+      ],
+      "lemma": "scared",
+      "kind": "word"
+    },
+    {
+      "word": "eager",
+      "type": "outline",
+      "ctx": "渴望的",
+      "phonetic": "[ˈiːɡə(r)]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "渴望的，热切的",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "be/feel eager to do sth.渴望做某事"
+              ]
+            }
+          ]
+        }
+      ],
+      "lemma": "eager",
+      "kind": "word"
+    },
+    {
+      "word": "something",
+      "type": "outline",
+      "ctx": "某事",
+      "phonetic": "[ˈsʌmθɪŋ]",
+      "defs": [
+        {
+          "pos": "pron.",
+          "meaning": "某事；某物"
+        }
+      ],
+      "lemma": "something",
+      "kind": "word"
+    },
+    {
+      "word": "new",
+      "type": "outline",
+      "ctx": "新的",
+      "phonetic": "[njuː]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "新的"
+        }
+      ],
+      "lemma": "new",
+      "kind": "word"
+    },
+    {
+      "word": "experiment",
+      "type": "outline",
+      "ctx": "实验",
+      "phonetic": "[ɪkˈsperɪmənt]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "实验",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "do experiments做实验"
+              ]
+            }
+          ]
+        }
+      ],
+      "lemma": "experiment",
+      "kind": "word"
+    },
+    {
+      "word": "such",
+      "type": "outline",
+      "ctx": "例如",
+      "phonetic": "[sʌtʃ]",
+      "defs": [
+        {
+          "pos": "det.",
+          "meaning": "/",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "such as例如"
+              ]
+            }
+          ]
+        },
+        {
+          "pos": "pron.",
+          "meaning": "这样的，那样的；非常"
+        }
+      ],
+      "lemma": "such",
+      "kind": "word"
+    },
+    {
+      "word": "dissection",
+      "type": "core",
+      "ctx": "解剖",
+      "phonetic": "[dɪˈsekʃn; daɪˈsekʃn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "解剖；剖析"
+        }
+      ],
+      "lemma": "dissection",
+      "kind": "word"
+    },
+    {
+      "word": "produce",
+      "type": "outline",
+      "ctx": "农产品",
+      "phonetic": "[prəˈdjuːs]",
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "生产；制造；出产"
+        },
+        {
+          "pos": "n.",
+          "meaning": "[U]农产品"
+        }
+      ],
+      "lemma": "produce",
+      "kind": "word"
+    },
+    {
+      "word": "several",
+      "type": "outline",
+      "ctx": "几次",
+      "phonetic": "[ˈsevrəl]",
+      "defs": [
+        {
+          "pos": "det.",
+          "meaning": "/"
+        },
+        {
+          "pos": "pron.",
+          "meaning": "几个，若干"
+        }
+      ],
+      "lemma": "several",
+      "kind": "word"
+    },
+    {
+      "word": "cook",
+      "type": "outline",
+      "ctx": "烹调",
+      "phonetic": "[kʊk]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "烹调，煮，烧"
+        },
+        {
+          "pos": "n.",
+          "meaning": "厨师"
+        }
+      ],
+      "lemma": "cook",
+      "kind": "word"
+    },
+    {
+      "word": "salad",
+      "type": "outline",
+      "ctx": "沙拉",
+      "phonetic": "[ˈsæləd]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "沙拉，凉拌菜"
+        }
+      ],
+      "lemma": "salad",
+      "kind": "word"
+    },
+    {
+      "word": "entire",
+      "type": "core",
+      "ctx": "整个的",
+      "phonetic": "[ɪnˈtaɪə(r)]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "整个的，全部的"
+        }
+      ],
+      "lemma": "entire",
+      "kind": "word"
+    },
+    {
+      "word": "home",
+      "type": "outline",
+      "ctx": "家",
+      "phonetic": "[həʊm]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "家乡；家",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "care home疗养院"
+              ]
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "meaning": "到家，在家"
+        }
+      ],
+      "lemma": "home",
+      "kind": "word"
+    },
+    {
+      "word": "parent",
+      "type": "outline",
+      "ctx": "父母",
+      "phonetic": "[ˈpeərənt]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "父亲（或母亲）；母公司"
+        }
+      ],
+      "lemma": "parent",
+      "kind": "word"
+    },
+    {
+      "word": "differently",
+      "type": "core",
+      "ctx": "不一样",
+      "phonetic": "[ˈdɪfrəntli]",
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "不同地"
+        }
+      ],
+      "lemma": "differently",
+      "kind": "word"
+    },
+    {
+      "word": "beyond",
+      "type": "outline",
+      "ctx": "超过",
+      "phonetic": "[bɪˈjɒnd]",
+      "defs": [
+        {
+          "pos": "prep.",
+          "meaning": "超过；（表示位置）在……的那边",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "go beyond超出；胜过"
+              ]
+            }
+          ]
+        }
+      ],
+      "lemma": "beyond",
+      "kind": "word"
+    },
+    {
+      "word": "nutrition",
+      "type": "outline",
+      "ctx": "营养",
+      "phonetic": "[njuˈtrɪʃn]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "营养"
+        }
+      ],
+      "lemma": "nutrition",
+      "kind": "word",
+      "memory": [
+        "词根记忆：nutri（滋养）+tion（表名词）→营养"
+      ]
+    },
+    {
+      "word": "interested",
+      "type": "core",
+      "ctx": "感兴趣的",
+      "phonetic": "[ˈɪntrəstɪd; ˈɪntrestɪd]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "感兴趣的，关心的，表现出兴趣的"
+        }
+      ],
+      "lemma": "interested",
+      "kind": "word"
+    },
+    {
+      "word": "seed",
+      "type": "outline",
+      "ctx": "种子",
+      "phonetic": "[siːd]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "种子",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "go/run to seed花谢结籽；变得懒散颓废"
+              ]
+            }
+          ]
+        }
+      ],
+      "lemma": "seed",
+      "kind": "word"
+    },
+    {
+      "word": "besides",
+      "type": "core",
+      "ctx": "此外",
+      "phonetic": "[bɪˈsaɪdz]",
+      "defs": [
+        {
+          "pos": "prep.",
+          "meaning": "除……以外（还）"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "此外；再说"
+        }
+      ],
+      "lemma": "besides",
+      "kind": "word"
+    },
+    {
+      "word": "seem",
+      "type": "outline",
+      "ctx": "似乎",
+      "phonetic": "[siːm]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "似乎，好像"
+        }
+      ],
+      "lemma": "seem",
+      "kind": "word"
+    },
+    {
+      "word": "effect",
+      "type": "outline",
+      "ctx": "作用",
+      "phonetic": "[ɪˈfekt]",
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "效果，作用，影响",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "side effect副作用"
+              ]
+            }
+          ]
+        }
+      ],
+      "lemma": "effect",
+      "kind": "word"
+    },
+    {
+      "word": "many",
+      "type": "outline",
+      "ctx": "许多",
+      "phonetic": "[ˈmeni]",
+      "defs": [
+        {
+          "pos": "det.",
+          "meaning": "/"
+        },
+        {
+          "pos": "pron.",
+          "meaning": "许多"
+        }
+      ],
+      "lemma": "many",
+      "kind": "word"
+    },
+    {
+      "word": "emotional",
+      "type": "core",
+      "ctx": "情绪的",
+      "phonetic": "[ɪˈməʊʃənl]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "感情的，情绪的"
+        }
+      ],
+      "lemma": "emotional",
+      "kind": "word"
+    },
+    {
+      "word": "feel",
+      "type": "outline",
+      "ctx": "体会到",
+      "phonetic": "[fiːl]",
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "（felt, felt, feeling）觉得，体会到；意识到；触摸；认为；寻找；摸起来"
+        }
+      ],
+      "lemma": "feel",
+      "kind": "word"
+    },
+    {
+      "word": "successful",
+      "type": "outline",
+      "ctx": "成功的",
+      "phonetic": "[səkˈsesfl]",
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "成功的，有成就的"
+        }
+      ],
+      "lemma": "successful",
+      "kind": "word"
+    }
+  ]
+}

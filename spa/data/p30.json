@@ -12,12 +12,12 @@
     },
     {
       "num": "02",
-      "en": "I experienced this when I started {switching} to a {zero waste} lifestyle {five} years ago, as I was living with my parents, and I continue to experience this with my {husband} , as {he refuses} to be completely zero waste like me.I've learned a few things along the way though, which I hope you'll find encouraging if you're doing your best to figure out how you can make the change in a not-always-supportive {household} .",
+      "en": "I experienced this when I started {switching} to a {zero} {waste} lifestyle {five} years ago, as I was living with my parents, and I continue to experience this with my {husband} , as {he} {refuses} to be completely zero waste like me.I've learned a few things along the way though, which I hope you'll find encouraging if you're doing your best to figure out how you can make the change in a not-always-supportive {household} .",
       "cn": "五 年前，当我开始 转向零废弃 的生活方式时，就经历过这种情况，当时我和父母住在一起。现在，我和 丈夫 一起生活时也依然会遇到这种情况，因为 他拒绝 像我一样完全过零废弃生活。不过，一路走来，我也学到了一些东西。如果你正在竭尽全力思考如何在一个并不总是支持你的 家庭 中做出改变，我希望这些经验能给你带来鼓舞。"
     },
     {
       "num": "03",
-      "en": "Zero waste was a {radical} lifestyle {movement} a few years back.I learned that the {stuff} we {accumulate} daily, from {plastic packaging} to single-use ( (供一次使用的) ) items, contributes significantly to environmental problems.I remember showing my parents a {video} of Bea Johnson, sharing how cool I thought it would be to buy groceries with {jars} , and have so little {trash} ! A few days later, I came back with my first jars of zero waste groceries, and my {dad commented} on how {silly} it was for me to carry jars {everywhere} .It came off as a bit {discouraging} , yet {reasonable} , considering he was a fan of packaged {beer} .",
+      "en": "Zero waste was a {radical} lifestyle {movement} a few years back.I learned that the {stuff} we {accumulate} daily, from {plastic} {packaging} to single-use ( (供一次使用的) ) items, contributes significantly to environmental problems.I remember showing my parents a {video} of Bea Johnson, sharing how cool I thought it would be to buy groceries with {jars} , and have so little {trash} ! A few days later, I came back with my first jars of zero waste groceries, and my {dad} {commented} on how {silly} it was for me to carry jars {everywhere} .It came off as a bit {discouraging} , yet {reasonable} , considering he was a fan of packaged {beer} .",
       "cn": "几年前，\"零废弃\"曾是一场 激进的 生活方式 运动 。我了解到，我们每天 积攒 起来的 东西 ，从 塑料包装 到一次性用品，都是造成环境问题的重要原因。我记得我给父母看了一段比阿·约翰逊的 视频 ，分享了我觉得用 罐子 买食品杂货，然后几乎不产生什么 垃圾 ，这样的生活方式有多酷！几天后，我带着我的第一批零废弃杂货罐子回家，我 爸爸 却 评论 说，我带着罐子 到处 走真是太 傻 了。这让我有点 泄气 ，但考虑到他是瓶装 啤酒 的爱好者，这也在 情理之中 。"
     },
     {
@@ -27,15 +27,23 @@
     },
     {
       "num": "05",
-      "en": "If you feel {desperate} to avoid waste, remember that change takes time.As you make your lifestyle changes, you may find yourself wanting to {speak} up for yourself if others comment on what you're doing, which can turn {itself} into a whole household {debate} .If you have individuals in your family {who} are not on board, your words probably won't {do} much.Sometimes it feels like talking to a {brick} wall and can often leave you feeling more discouraged.",
+      "en": "If you feel {desperate} to avoid waste, remember that change takes time.As you make your lifestyle changes, you may find yourself wanting to {speak up} for yourself if others comment on what you're doing, which can turn {itself} into a whole household {debate} .If you have individuals in your family {who} are not on board, your words probably won't {do} much.Sometimes it feels like talking to a {brick} wall and can often leave you feeling more discouraged.",
       "cn": "如果你 迫切希望 避免废弃物，记住改变是需要时间的。在你改变自己的生活方式时，如果别人对你所做的事情评头论足，你可能会想为自己 辩解 ，而这可能会演变为整个家庭的 争论 。如果家里有 人 不认同你，你的话可能 起 不了太大作用。有时感觉就像在对牛弹琴（对着一堵 砖 墙说话），这往往会让你感到更加气馁。 5NoOncib/NjiX02BpMIzP+Fxyt/ox+WDCb+dhfH7KaYaJ4u5RsVmLondVmcHiLum9J1BQErGzJvzqa5GEIz4ZA=="
     }
   ],
   "vocab": [
     {
       "word": "roommate",
+      "lemma": "roommate",
+      "kind": "word",
       "type": "core",
       "ctx": "室友",
+      "forms": [
+        {
+          "surface": "roommates",
+          "tag": "plural"
+        }
+      ],
       "phonetic": "[ˈruːmmeɪt]",
       "defs": [
         {
@@ -146,6 +154,12 @@
       "word": "switch",
       "type": "outline",
       "ctx": "改变",
+      "forms": [
+        {
+          "surface": "switching",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[swɪtʃ]",
       "defs": [
         {
@@ -338,6 +352,12 @@
       "word": "refuse",
       "type": "outline",
       "ctx": "拒绝",
+      "forms": [
+        {
+          "surface": "refuses",
+          "tag": "third_person"
+        }
+      ],
       "phonetic": "[rɪˈfjuːz]",
       "defs": [
         {
@@ -642,6 +662,12 @@
       "word": "jar",
       "type": "core",
       "ctx": "罐子，坛子",
+      "forms": [
+        {
+          "surface": "jars",
+          "tag": "plural"
+        }
+      ],
       "phonetic": "[dʒɑː(r)]",
       "defs": [
         {
@@ -720,6 +746,12 @@
       "word": "comment",
       "type": "outline",
       "ctx": "评论",
+      "forms": [
+        {
+          "surface": "commented",
+          "tag": "past"
+        }
+      ],
       "phonetic": "[ˈkɒment]",
       "defs": [
         {
@@ -918,6 +950,12 @@
       "word": "reduce",
       "type": "outline",
       "ctx": "减少",
+      "forms": [
+        {
+          "surface": "reducing",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[rɪˈdjuːs]",
       "defs": [
         {
@@ -982,6 +1020,12 @@
       "word": "remove",
       "type": "outline",
       "ctx": "摘下，脱掉",
+      "forms": [
+        {
+          "surface": "removing",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[rɪˈmuːv]",
       "defs": [
         {
@@ -1066,6 +1110,12 @@
       "word": "toothbrush",
       "type": "core",
       "ctx": "牙刷",
+      "forms": [
+        {
+          "surface": "toothbrushes",
+          "tag": "plural"
+        }
+      ],
       "phonetic": "[ˈtuːθbrʌʃ]",
       "defs": [
         {
@@ -1194,6 +1244,12 @@
       "word": "recycle",
       "type": "outline",
       "ctx": "回收利用",
+      "forms": [
+        {
+          "surface": "recycled",
+          "tag": "past_participle"
+        }
+      ],
       "phonetic": "[ˌriːˈsaɪkl]",
       "defs": [
         {
@@ -1268,6 +1324,12 @@
       "word": "portion",
       "type": "core",
       "ctx": "部分",
+      "forms": [
+        {
+          "surface": "portioned",
+          "tag": "past"
+        }
+      ],
       "phonetic": "[ˈpɔːʃn]",
       "defs": [
         {
@@ -1386,6 +1448,12 @@
       "word": "biscuit",
       "type": "outline",
       "ctx": "饼干",
+      "forms": [
+        {
+          "surface": "biscuits",
+          "tag": "plural"
+        }
+      ],
       "phonetic": "[ˈbɪskɪt]",
       "defs": [
         {
@@ -1457,24 +1525,61 @@
       ]
     },
     {
-      "word": "speak",
+      "word": "speak up",
+      "lemma": "speak up",
+      "kind": "phrase",
       "type": "outline",
-      "ctx": "（spoke, spoken, speaking）说，讲",
-      "phonetic": "[spiːk]",
+      "ctx": "为自己发声，明确表态",
+      "forms": [
+        {
+          "surface": "speak up",
+          "tag": "base"
+        },
+        {
+          "surface": "spoke up",
+          "tag": "past"
+        },
+        {
+          "surface": "spoken up",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "speaking up",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[spiːk ʌp]",
       "defs": [
         {
-          "pos": "v.",
-          "meaning": "（spoke, spoken, speaking）说，讲；谈话；发言"
+          "pos": "phr.v.",
+          "meaning": "大声说；明确表态；为……辩护"
         }
       ],
       "extras": [
         {
           "type": "col",
           "label": "搭",
-          "text": "speak up (for sb./sth.) 明确表态，辩护"
+          "text": "speak up for sb./sth. 为某人/某事发声，辩护"
         }
       ],
       "words": [
+        {
+          "word": "speak up",
+          "phonetic": "[spiːk ʌp]",
+          "defs": [
+            {
+              "pos": "phr.v.",
+              "meaning": "大声说；明确表态；为……辩护"
+            }
+          ],
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "text": "speak up for sb./sth. 为某人/某事发声，辩护"
+            }
+          ]
+        },
         {
           "word": "speak",
           "phonetic": "[spiːk]",
@@ -1484,13 +1589,7 @@
               "meaning": "（spoke, spoken, speaking）说，讲；谈话；发言"
             }
           ],
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "text": "speak up (for sb./sth.) 明确表态，辩护"
-            }
-          ]
+          "extras": []
         }
       ]
     },
@@ -1595,7 +1694,7 @@
     {
       "word": "do",
       "type": "outline",
-      "ctx": "（did, done, doing）做",
+      "ctx": "起作用，产生效果",
       "phonetic": "[duː]",
       "defs": [
         {

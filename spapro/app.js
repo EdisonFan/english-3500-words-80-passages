@@ -3,26 +3,11 @@ var app = document.getElementById('app');
 var modalBg = document.getElementById('modalBg');
 var modalContent = document.getElementById('modalContent');
 var modalClose = document.getElementById('modalClose');
-var TOTAL = 80;  // 当前篇目数
+var TOTAL = 2;  // spapro 当前已迁移 Passage 1-2
 
 /* === 16 个单元划分 === */
 var UNITS = [
-    { num: 1,  title: '校园生活',           start: 1,  end: 5  },
-    { num: 2,  title: '教育与学习',         start: 6,  end: 10 },
-    { num: 3,  title: '个人成长',           start: 11, end: 15 },
-    { num: 4,  title: '自我管理',           start: 16, end: 20 },
-    { num: 5,  title: '兴趣爱好',           start: 21, end: 25 },
-    { num: 6,  title: '日常生活',           start: 26, end: 30 },
-    { num: 7,  title: '健康生活',           start: 31, end: 35 },
-    { num: 8,  title: '思维方式',           start: 36, end: 39 },
-    { num: 9,  title: '社会交往',           start: 40, end: 45 },
-    { num: 10, title: '工作与职业',         start: 46, end: 50 },
-    { num: 11, title: '社会现象',           start: 51, end: 55 },
-    { num: 12, title: '动物世界',           start: 56, end: 60 },
-    { num: 13, title: '自然生态与环境保护', start: 61, end: 65 },
-    { num: 14, title: '文学与艺术',         start: 66, end: 70 },
-    { num: 15, title: '历史与文化',         start: 71, end: 75 },
-    { num: 16, title: '科学与技术',         start: 76, end: 80 }
+    { num: 1, title: '校园生活', start: 1, end: 2 }
 ];
 
 /* === 中文注释开关（全局） === */
@@ -49,7 +34,10 @@ function applyGloss() {
 /* === HTML 转义 === */
 function esc(text) {
     if (!text) return '';
-    return text.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;');
+    return String(text)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;');
 }
 
 /* === 路由 === */
@@ -234,25 +222,55 @@ function renderVocabCard(v) {
     var outlineClass = v.type === 'outline' ? ' outline' : '';
     var star = v.type === 'outline' ? '<span class="star">*</span>' : '';
     
-    var defsHtml = '';
-    v.defs.forEach(function(d) {
-        if (d.pos) defsHtml += '<span class="pos">' + esc(d.pos) + '</span>';
-        defsHtml += esc(d.meaning) + ' ';
-    });
-    
-    var extrasHtml = '';
-    if (v.extras && v.extras.length) {
-        extrasHtml = '<div class="card-extras">';
-        v.extras.forEach(function(x) {
-            extrasHtml += '<div class="extra ' + x.type + '"><span class="tag">' + esc(x.label) + '</span>' + esc(x.text) + '</div>';
-        });
-        extrasHtml += '</div>';
-    }
+    var memoryHtml = renderMemory(v.memory, 'card');
+    var defsHtml = renderDefs(v.defs || [], 'card');
     
     return '<div class="card' + outlineClass + '">' +
         '<div class="card-top"><span class="card-word">' + esc(v.word) + star + '</span>' +
         '<span class="card-phon">' + esc(v.phonetic) + '</span></div>' +
-        '<div class="card-def">' + defsHtml.trim() + '</div>' + extrasHtml + '</div>';
+        memoryHtml + '<div class="card-def">' + defsHtml + '</div></div>';
+}
+
+function renderMemory(memory, scope) {
+    if (!memory || !memory.length) return '';
+    var cls = scope === 'modal' ? 'modal-extras' : 'card-extras';
+    var itemCls = scope === 'modal' ? 'modal-extra mem' : 'extra mem';
+    var html = '<div class="' + cls + '">';
+    memory.forEach(function(text) {
+        html += '<div class="' + itemCls + '"><span class="tag">记</span>' + esc(text) + '</div>';
+    });
+    html += '</div>';
+    return html;
+}
+
+function renderDefs(defs, scope) {
+    var html = '';
+    defs.forEach(function(d) {
+        if (scope === 'modal') {
+            html += '<div class="modal-def"><span class="pos">' + esc(d.pos) + '</span><span class="meaning">' + esc(d.meaning) + '</span></div>';
+            html += renderDefExtras(d.extras || [], 'modal');
+        } else {
+            if (d.pos) html += '<span class="pos">' + esc(d.pos) + '</span>';
+            html += esc(d.meaning) + ' ';
+            html += renderDefExtras(d.extras || [], 'card');
+        }
+    });
+    return html.trim();
+}
+
+function renderDefExtras(extras, scope) {
+    if (!extras || !extras.length) return '';
+    var cls = scope === 'modal' ? 'modal-extras' : 'card-extras';
+    var itemBase = scope === 'modal' ? 'modal-extra ' : 'extra ';
+    var html = '<div class="' + cls + '">';
+    extras.forEach(function(x) {
+        var items = x.items || [];
+        items.forEach(function(item) {
+            html += '<div class="' + itemBase + esc(x.type) + '"><span class="tag">' + esc(x.label) + '</span>' + esc(item) + '</div>';
+        });
+    });
+    html += '</div>';
+    return html;
 }
 
 /* === 高亮词点击 → 弹窗（事件委托） === */
@@ -274,41 +292,10 @@ function showModal(key) {
     if (!entry) return;
     
     var html = '<div class="modal-eyebrow">Vocabulary</div>';
-    if (entry.words) {
-        entry.words.forEach(function(w, idx) {
-            if (idx > 0) html += '<hr style="border:none;border-top:1px solid #e5e5e7;margin:14px 0;">';
-            html += '<div class="modal-word">' + esc(w.word) + '</div>';
-            html += '<div class="modal-phon">' + esc(w.phonetic) + '</div>';
-            html += '<div class="modal-defs">';
-            w.defs.forEach(function(d) {
-                html += '<div class="modal-def"><span class="pos">' + esc(d.pos) + '</span><span class="meaning">' + esc(d.meaning) + '</span></div>';
-            });
-            html += '</div>';
-            if (w.extras) {
-                html += '<div class="modal-extras">';
-                w.extras.forEach(function(x) {
-                    html += '<div class="modal-extra ' + x.type + '"><span class="tag">' + esc(x.label) + '</span>' + esc(x.text) + '</div>';
-                });
-                html += '</div>';
-            }
-        });
-    } else {
-        // 简化结构：直接用顶层字段
-        html += '<div class="modal-word">' + esc(entry.word) + '</div>';
-        html += '<div class="modal-phon">' + esc(entry.phonetic) + '</div>';
-        html += '<div class="modal-defs">';
-        entry.defs.forEach(function(d) {
-            html += '<div class="modal-def"><span class="pos">' + esc(d.pos) + '</span><span class="meaning">' + esc(d.meaning) + '</span></div>';
-        });
-        html += '</div>';
-        if (entry.extras) {
-            html += '<div class="modal-extras">';
-            entry.extras.forEach(function(x) {
-                html += '<div class="modal-extra ' + x.type + '"><span class="tag">' + esc(x.label) + '</span>' + esc(x.text) + '</div>';
-            });
-            html += '</div>';
-        }
-    }
+    html += '<div class="modal-word">' + esc(entry.word) + '</div>';
+    html += '<div class="modal-phon">' + esc(entry.phonetic) + '</div>';
+    html += renderMemory(entry.memory, 'modal');
+    html += '<div class="modal-defs">' + renderDefs(entry.defs || [], 'modal') + '</div>';
     
     modalContent.innerHTML = html;
     modalBg.classList.add('active');
