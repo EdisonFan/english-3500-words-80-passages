@@ -423,7 +423,14 @@ function renderDictModal(data) {
         html += '<div class="modal-dict-empty">未找到该词的释义</div>';
     }
 
-    html += '<div class="modal-dict-source">释义来源：有道词典</div>';
+    // 释义来源动态显示
+    var sourceMap = {
+        baidu: '百度翻译',
+        youdao: '有道词典',
+        none: '—'
+    };
+    var sourceName = sourceMap[data.source] || '词典';
+    html += '<div class="modal-dict-source">释义来源：' + esc(sourceName) + '</div>';
 
     modalContent.innerHTML = html;
     modalBg.classList.add('active');
