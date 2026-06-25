@@ -46,6 +46,27 @@ function applyGloss() {
     }
 }
 
+/* === 段落中文译文开关（全局，默认隐藏） === */
+var transOn = false;
+try {
+    var savedT = localStorage.getItem('spa_trans');
+    if (savedT === 'on') transOn = true;
+} catch(e) {}
+
+function applyTrans() {
+    var toggle = document.getElementById('transToggle');
+    if (!toggle) return;
+    if (transOn) {
+        document.body.classList.add('show-trans');
+        toggle.classList.remove('off');
+        toggle.querySelector('.t-label').textContent = '中文译文';
+    } else {
+        document.body.classList.remove('show-trans');
+        toggle.classList.add('off');
+        toggle.querySelector('.t-label').textContent = '译文隐藏';
+    }
+}
+
 /* === HTML 转义 === */
 function esc(text) {
     if (!text) return '';
@@ -124,6 +145,8 @@ function renderPassageContent(id, data) {
         '<div class="topbar-right">' +
         '<span class="gloss-toggle" id="glossToggle" title="显示/隐藏英文词下方中文注释">' +
         '<span class="g-dot"></span><span class="g-label">中文释义</span></span>' +
+        '<span class="trans-toggle" id="transToggle" title="显示/隐藏段落中文翻译">' +
+        '<span class="t-dot"></span><span class="t-label">中文译文</span></span>' +
         '<span>Words <b>' + (data.stats.words || '') + '</b></span>' +
         '<span>Core <b>' + (data.stats.core || '') + '</b></span>' +
         '<button class="nav-btn" onclick="goPrev(' + id + ')" ' + (id <= 1 ? 'disabled' : '') + '>← 上一篇</button>' +
@@ -143,7 +166,9 @@ function renderPassageContent(id, data) {
     
     data.paragraphs.forEach(function(p) {
         html += '<div class="para"><div class="para-num">' + p.num + '</div>' +
-                '<p class="eng">' + highlightWords(p.en, data.vocab) + '</p></div>';
+                '<p class="eng">' + highlightWords(p.en, data.vocab) + '</p>' +
+                (p.cn ? '<p class="cn">' + p.cn + '</p>' : '') +
+                '</div>';
     });
     
     html += '</article>';
@@ -160,32 +185,25 @@ function renderPassageContent(id, data) {
     
     html += '</div></section></div>';
     
-    // 4. 译文
-    html += '<section class="translation"><div class="translation-inner">' +
-        '<div class="translation-head"><div class="label">Translation</div>' +
-        '<h2>中文<em>译文</em></h2></div>';
-    
-    data.paragraphs.forEach(function(p) {
-        if (p.cn) {
-            html += '<div class="t-para"><div class="t-para-num">PARAGRAPH ' + p.num + '</div>' +
-                    '<p>' + p.cn + '</p></div>';
-        }
-    });
-    
-    html += '</div></section>';
-    
-    // 5. 页脚
+    // 4. 页脚
     html += '<footer>PASSAGE ' + num + ' · END</footer>';
     
     app.innerHTML = html;
     applyGloss();
+    applyTrans();
     window.scrollTo(0, 0);
-    
+
     // 绑定开关
     document.getElementById('glossToggle').addEventListener('click', function() {
         glossOn = !glossOn;
         try { localStorage.setItem('spa_gloss', glossOn ? 'on' : 'off'); } catch(e) {}
         applyGloss();
+    });
+
+    document.getElementById('transToggle').addEventListener('click', function() {
+        transOn = !transOn;
+        try { localStorage.setItem('spa_trans', transOn ? 'on' : 'off'); } catch(e) {}
+        applyTrans();
     });
     
     // 绑定高亮词点击（事件委托）
