@@ -22,15 +22,17 @@
 }
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
-html { scroll-behavior: smooth; }
-
+html { scroll-behavior: smooth; overflow-x: clip; }
 body {
     font-family: var(--font-sans);
     background: var(--bg);
     color: var(--ink);
     line-height: 1.7;
     -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
 }
+/* 兜底：宽元素不撑出视口 */
+img, pre, table { max-width: 100%; }
 
 .wrap {
     max-width: 880px;
@@ -679,12 +681,16 @@ footer {
     .vocab { padding: 40px 0 56px; }
     .vocab-head h2 { font-size: 28px; }
     .vocab-grid { grid-template-columns: 1fr; }
-    .modal { padding: 24px 20px; }
+    .modal { padding: 24px 20px; max-width: calc(100vw - 32px); }
     .modal-word { font-size: 28px; }
     .translation { margin: 0 -20px; padding-left: 20px; padding-right: 20px; }
     .translation-head h2 { font-size: 26px; }
     .home { padding: 48px 20px 80px; }
     .home-head h1 { font-size: 32px; }
+    /* 单词下方注释允许换行，避免长注释撑出横向滚动条 */
+    .w-g { white-space: normal; word-break: break-word; }
+    /* 顶部导航在窄屏避免溢出 */
+    .topbar-inner { flex-wrap: wrap; gap: 8px; }
 }
 @media (max-width: 480px) {
     .topbar-right span:nth-child(3) { display: none; }
