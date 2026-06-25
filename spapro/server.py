@@ -3,8 +3,10 @@
 
 - 静态文件：直接从当前目录提供（index.html / app.js / style.css / data/*.json）
 - 词典代理：GET /api/dict?q=<word>
-    优先调用百度翻译 API（需在 dict_config.py 配置凭证）
-    百度失败或未配置时，回退到有道词典 suggest API
+    主源：dictionaryapi.dev（英英，提供音标/发音/词性/例句/同反义词）
+    辅源：有道 suggest（中文释义）
+    兜底：百度翻译（中文释义，需在 dict_config.py 配置凭证）
+    多源聚合后输出统一结构，对齐 spapro/data 的 vocab 结构
     所有响应附加 CORS 头
 """
 import http.server
@@ -63,73 +65,194 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                 self._send_json(200, _dict_cache[word])
                 return
 
-        result = None
-        # 1. 优先用百度翻译 API
-        if BAIDU_APPID and BAIDU_SECRET:
-            result = self._query_baidu(word)
-
-        # 2. 百度失败/未命中/未配置 → 回退到有道词典
-        need_fallback = (result is None) or (result and not result.get('found'))
-        if need_fallback:
-            youdao_result = self._query_youdao(word)
-            if youdao_result and youdao_result.get('found'):
-                result = youdao_result
-            elif result is None:
-                # 百度完全异常时，用有道的错误信息兜底
-                result = youdao_result or {
-                    'word': word, 'found': False, 'entry': word,
-                    'explain': '', 'source': 'none', 'error': '所有词典源均不可用',
-                }
+        result = self._aggregate(word)
 
         with _cache_lock:
             _dict_cache[word] = result
         self._send_json(200, result)
 
-    def _query_baidu(self, word):
-        """调用百度翻译 API，返回统一结构或 None（异常时）"""
-        import random
-        salt = str(random.randint(10000, 99999))
-        sign_str = BAIDU_APPID + word + salt + BAIDU_SECRET
-        sign = hashlib.md5(sign_str.encode('utf-8')).hexdigest()
-        params = {
-            'q': word,
-            'from': 'en',
-            'to': 'zh',
-            'appid': BAIDU_APPID,
-            'salt': salt,
-            'sign': sign,
+    def _aggregate(self, word):
+        """聚合多源数据，输出统一结构"""
+        result = {
+            'word': word,
+            'found': False,
+            'phonetic': '',
+            'audio_uk': '',
+            'audio_us': '',
+            'defs': [],          # [{pos, meaning(中文), en_definitions:[{definition, example}]}]
+            'synonyms': [],
+            'antonyms': [],
+            'sources': [],
         }
-        url = 'https://fanyi-api.baidu.com/api/trans/vip/translate?' + urllib.parse.urlencode(params)
+
+        # 1. dictionaryapi.dev：音标、发音、词性、英文释义、例句、同反义词
+        en_data = self._query_dictionaryapi(word)
+        if en_data:
+            result['sources'].append('dictionaryapi.dev')
+            result['found'] = True
+            # 音标：优先取有 text 的
+            phonetics = en_data.get('phonetics') or []
+            for p in phonetics:
+                if p.get('text') and not result['phonetic']:
+                    result['phonetic'] = p['text']
+            # 发音：按 URL 后缀区分英式/美式
+            for p in phonetics:
+                audio = p.get('audio') or ''
+                if not audio:
+                    continue
+                low = audio.lower()
+                if '-uk' in low and not result['audio_uk']:
+                    result['audio_uk'] = audio
+                elif '-us' in low and not result['audio_us']:
+                    result['audio_us'] = audio
+                elif 'au' in low or 'australian' in low:
+                    # 澳音补位：如果英式美式都缺，澳音当英式兜底
+                    if not result['audio_uk']:
+                        result['audio_uk'] = audio
+            # 词性 + 英文释义 + 例句
+            for m in en_data.get('meanings') or []:
+                pos = m.get('partOfSpeech') or ''
+                en_definitions = []
+                for d in m.get('definitions') or []:
+                    en_definitions.append({
+                        'definition': d.get('definition') or '',
+                        'example': d.get('example') or '',
+                    })
+                result['defs'].append({
+                    'pos': pos,
+                    'meaning': '',  # 中文释义留给有道填
+                    'en_definitions': en_definitions,
+                })
+            # 同反义词（取首个 meaning 的）
+            meanings = en_data.get('meanings') or []
+            if meanings:
+                result['synonyms'] = list(meanings[0].get('synonyms') or [])[:8]
+                result['antonyms'] = list(meanings[0].get('antonyms') or [])[:8]
+
+        # 2. 有道 suggest：中文释义（含词性）
+        youdao_data = self._query_youdao(word)
+        if youdao_data and youdao_data.get('found'):
+            result['sources'].append('youdao')
+            result['found'] = True
+            explain = youdao_data.get('explain', '')
+            if explain:
+                # 解析"n. 苹果；vt. 放弃..."格式，按词性分配到 defs
+                parsed_defs = self._parse_youdao_explain(explain)
+                if parsed_defs:
+                    # 如果 dictionaryapi.dev 已有词性结构，合并中文释义
+                    if result['defs']:
+                        self._merge_chinese_meanings(result['defs'], parsed_defs)
+                    else:
+                        for pd in parsed_defs:
+                            result['defs'].append({
+                                'pos': pd['pos'],
+                                'meaning': pd['meaning'],
+                                'en_definitions': [],
+                            })
+                else:
+                    # 解析失败，整体塞到第一个义项
+                    if result['defs']:
+                        result['defs'][0]['meaning'] = explain
+                    else:
+                        result['defs'].append({'pos': '', 'meaning': explain, 'en_definitions': []})
+
+        # 3. 百度翻译兜底：如果前面都没拿到中文释义
+        has_chinese = any(d.get('meaning') for d in result['defs'])
+        if not has_chinese and BAIDU_APPID and BAIDU_SECRET:
+            baidu_data = self._query_baidu(word)
+            if baidu_data and baidu_data.get('found'):
+                result['sources'].append('baidu')
+                result['found'] = True
+                baidu_meaning = baidu_data.get('explain', '')
+                if result['defs']:
+                    result['defs'][0]['meaning'] = baidu_meaning
+                else:
+                    result['defs'].append({'pos': '', 'meaning': baidu_meaning, 'en_definitions': []})
+
+        return result
+
+    def _parse_youdao_explain(self, explain):
+        """解析有道 explain 字段，如 'n. 苹果；vt. 放弃...'，返回 [{pos, meaning}]"""
+        if not explain:
+            return []
+        import re
+        # 按词性标记切分：词性标记形如 "n." "v." "adj." "adv." "vt." "vi." "prep." "conj." "pron." "num." "art." "int." 等
+        pattern = re.compile(r'((?:n|v|vi|vt|aux|adj|adv|prep|conj|pron|num|art|int|abbr)\.\s*)')
+        parts = pattern.split(explain)
+        # parts 形如 ['', 'n. ', '苹果；', 'vt. ', '放弃...']
+        defs = []
+        i = 1
+        while i < len(parts):
+            pos = (parts[i] or '').strip()
+            meaning = (parts[i + 1] or '').strip() if i + 1 < len(parts) else ''
+            if pos or meaning:
+                defs.append({'pos': pos, 'meaning': meaning})
+            i += 2
+        # 处理开头无词性的部分
+        if not defs and explain.strip():
+            defs.append({'pos': '', 'meaning': explain.strip()})
+        return defs
+
+    def _merge_chinese_meanings(self, defs, parsed_defs):
+        """把有道的中文释义合并到 dictionaryapi.dev 的词性结构里"""
+        # 按 pos 建索引（dictionaryapi.dev 用 noun/verb 等，有道用 n./v. 等，需归一化）
+        pos_map = {
+            'noun': 'n.', 'verb': 'v.', 'adjective': 'adj.', 'adverb': 'adv.',
+            'pronoun': 'pron.', 'preposition': 'prep.', 'conjunction': 'conj.',
+            'interjection': 'int.', 'determiner': 'det.', 'numeral': 'num.',
+            'vi.': 'vi.', 'vt.': 'vt.', 'aux.': 'aux.', 'abbr.': 'abbr.',
+        }
+        # 给 defs 加 normalized pos
+        for d in defs:
+            d['_norm_pos'] = pos_map.get(d.get('pos', '').lower(), d.get('pos', ''))
+
+        for pd in parsed_defs:
+            target = None
+            # 精确匹配
+            for d in defs:
+                if d.get('_norm_pos') == pd['pos']:
+                    target = d
+                    break
+            # 模糊匹配：n. 匹配 noun；v. 匹配 verb/vi./vt.
+            if not target:
+                for d in defs:
+                    np = d.get('_norm_pos', '')
+                    pp = pd['pos']
+                    if (pp == 'n.' and np in ('n.',)) or \
+                       (pp in ('v.', 'vt.', 'vi.') and np in ('v.', 'vt.', 'vi.')) or \
+                       (pp == 'adj.' and np == 'adj.') or \
+                       (pp == 'adv.' and np == 'adv.'):
+                        target = d
+                        break
+            if target:
+                # 合并：如果 target 已有中文，追加；否则填入
+                if target.get('meaning'):
+                    target['meaning'] += '；' + pd['meaning']
+                else:
+                    target['meaning'] = pd['meaning']
+            else:
+                # 没匹配上，作为新义项加入
+                defs.append({'pos': pd['pos'], 'meaning': pd['meaning'], 'en_definitions': []})
+
+        # 清理临时字段
+        for d in defs:
+            d.pop('_norm_pos', None)
+
+    def _query_dictionaryapi(self, word):
+        """调用 dictionaryapi.dev，返回首个 entry 或 None"""
+        url = f'https://api.dictionaryapi.dev/api/v2/entries/en/{urllib.parse.quote(word)}'
         try:
             req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (compatible; SpaDictProxy/1.0)'})
             with urllib.request.urlopen(req, timeout=8) as resp:
                 data = json.loads(resp.read().decode('utf-8'))
-            # 百度错误响应：{"error_code": "54001", "error_msg": "Invalid Sign"}
-            if 'error_code' in data:
-                return {
-                    'word': word, 'found': False, 'entry': word, 'explain': '',
-                    'source': 'baidu', 'error': f"百度错误 {data.get('error_code')}: {data.get('error_msg', '')}",
-                }
-            trans_result = data.get('trans_result') or []
-            if not trans_result:
-                return {
-                    'word': word, 'found': False, 'entry': word, 'explain': '',
-                    'source': 'baidu',
-                }
-            # 合并多段译文（单词查询通常只有一段）
-            meanings = '；'.join(item.get('dst', '') for item in trans_result if item.get('dst'))
-            return {
-                'word': word,
-                'found': bool(meanings),
-                'entry': word,
-                'explain': meanings,
-                'source': 'baidu',
-            }
-        except Exception as e:
+            if isinstance(data, list) and data:
+                return data[0]
+            return None
+        except Exception:
             return None
 
     def _query_youdao(self, word):
-        """调用有道词典 suggest API，返回统一结构或 None（异常时）"""
+        """调用有道词典 suggest API"""
         encoded = urllib.parse.quote(word)
         url = f'https://dict.youdao.com/suggest?q={encoded}&num=1&doctype=json'
         try:
@@ -146,12 +269,33 @@ class Handler(http.server.SimpleHTTPRequestHandler):
             entries = (youdao.get('data') or {}).get('entries') or []
             entry = entries[0] if entries else {}
             return {
-                'word': word,
                 'found': bool(entry),
                 'entry': entry.get('entry', word),
                 'explain': entry.get('explain', ''),
-                'source': 'youdao',
             }
+        except Exception:
+            return None
+
+    def _query_baidu(self, word):
+        """调用百度翻译 API"""
+        import random
+        salt = str(random.randint(10000, 99999))
+        sign_str = BAIDU_APPID + word + salt + BAIDU_SECRET
+        sign = hashlib.md5(sign_str.encode('utf-8')).hexdigest()
+        params = {
+            'q': word, 'from': 'en', 'to': 'zh',
+            'appid': BAIDU_APPID, 'salt': salt, 'sign': sign,
+        }
+        url = 'https://fanyi-api.baidu.com/api/trans/vip/translate?' + urllib.parse.urlencode(params)
+        try:
+            req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (compatible; SpaDictProxy/1.0)'})
+            with urllib.request.urlopen(req, timeout=8) as resp:
+                data = json.loads(resp.read().decode('utf-8'))
+            if 'error_code' in data:
+                return None
+            trans_result = data.get('trans_result') or []
+            meanings = '；'.join(item.get('dst', '') for item in trans_result if item.get('dst'))
+            return {'found': bool(meanings), 'explain': meanings}
         except Exception:
             return None
 
@@ -171,7 +315,7 @@ class ThreadingServer(socketserver.ThreadingMixIn, socketserver.TCPServer):
 
 if __name__ == '__main__':
     with ThreadingServer(('0.0.0.0', PORT), Handler) as httpd:
-        baidu_status = '已配置' if (BAIDU_APPID and BAIDU_SECRET) else '未配置（仅用有道）'
+        baidu_status = '已配置' if (BAIDU_APPID and BAIDU_SECRET) else '未配置'
         print(f'spapro 服务启动: http://localhost:{PORT}  (词典代理: /api/dict?q=<word>)')
-        print(f'  百度翻译 API: {baidu_status}')
+        print(f'  数据源: dictionaryapi.dev + 有道词典 + 百度翻译({baidu_status})')
         httpd.serve_forever()

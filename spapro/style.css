@@ -396,6 +396,96 @@ body.no-gloss .para { padding-bottom: 32px; }
     text-align: right;
 }
 
+/* === 词典弹窗：音标 + 发音按钮 === */
+.modal-phon-row {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 20px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid var(--line);
+}
+.modal-phon-text {
+    font-family: var(--font-mono);
+    font-size: 14px;
+    color: var(--ink-3);
+    margin-right: 4px;
+}
+.audio-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    background: var(--accent-soft);
+    border: 1px solid var(--accent-soft);
+    color: var(--accent-deep);
+    font-family: var(--font-mono);
+    font-size: 11px;
+    font-weight: 600;
+    padding: 4px 10px;
+    border-radius: 14px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+    line-height: 1.4;
+    -webkit-tap-highlight-color: transparent;
+}
+.audio-btn:hover { background: var(--accent); border-color: var(--accent); color: #fff; }
+.audio-btn:active { transform: scale(0.95); }
+.audio-btn.playing {
+    background: var(--accent);
+    color: #fff;
+    animation: audioPulse 0.6s ease-out;
+}
+@keyframes audioPulse {
+    0% { box-shadow: 0 0 0 0 rgba(0,102,255,0.4); }
+    100% { box-shadow: 0 0 0 8px rgba(0,102,255,0); }
+}
+.audio-icon { font-size: 13px; }
+
+/* === 词典弹窗：英文例句 === */
+.modal-example {
+    margin: 6px 0 6px 50px;
+    padding: 8px 12px;
+    background: var(--bg-card);
+    border-left: 2px solid var(--ink-4);
+    border-radius: 0 6px 6px 0;
+    font-size: 12.5px;
+    line-height: 1.6;
+    color: var(--ink-3);
+    font-style: italic;
+    font-family: var(--font-sans);
+}
+.modal-def .meaning.en-only {
+    color: var(--ink-3);
+    font-style: italic;
+    font-family: var(--font-sans);
+    font-size: 13px;
+}
+
+/* === 词典弹窗：同反义词 === */
+.modal-syn-group {
+    margin-top: 12px;
+    padding: 8px 12px;
+    background: var(--bg-card);
+    border-radius: 8px;
+    font-size: 12.5px;
+    line-height: 1.7;
+    font-family: var(--font-cn);
+}
+.modal-syn-group .syn-label {
+    display: inline-block;
+    font-family: var(--font-mono);
+    font-size: 10px;
+    font-weight: 600;
+    color: var(--ink-4);
+    margin-right: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+.modal-syn-group .syn-list {
+    color: var(--ink-2);
+}
+
 /* === 词表 === */
 .vocab {
     padding: 64px 0 80px;

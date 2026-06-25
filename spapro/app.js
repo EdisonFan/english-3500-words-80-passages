@@ -412,28 +412,104 @@ function renderDictModal(data) {
     if (data.loading) {
         html += '<div class="modal-word">' + esc(data.word) + '</div>';
         html += '<div class="modal-dict-loading"><span class="dict-spinner"></span>查询中…</div>';
-    } else if (data.error) {
-        html += '<div class="modal-word">' + esc(data.word) + '</div>';
-        html += '<div class="modal-dict-error">查询失败：' + esc(data.error) + '</div>';
-    } else if (data.found && data.explain) {
-        html += '<div class="modal-word">' + esc(data.entry || data.word) + '</div>';
-        html += '<div class="modal-dict-explain">' + esc(data.explain) + '</div>';
-    } else {
-        html += '<div class="modal-word">' + esc(data.word) + '</div>';
-        html += '<div class="modal-dict-empty">未找到该词的释义</div>';
+        modalContent.innerHTML = html;
+        modalBg.classList.add('active');
+        return;
     }
 
-    // 释义来源动态显示
-    var sourceMap = {
-        baidu: '百度翻译',
-        youdao: '有道词典',
-        none: '—'
-    };
-    var sourceName = sourceMap[data.source] || '词典';
-    html += '<div class="modal-dict-source">释义来源：' + esc(sourceName) + '</div>';
+    if (data.error) {
+        html += '<div class="modal-word">' + esc(data.word) + '</div>';
+        html += '<div class="modal-dict-error">查询失败：' + esc(data.error) + '</div>';
+        modalContent.innerHTML = html;
+        modalBg.classList.add('active');
+        return;
+    }
+
+    if (!data.found) {
+        html += '<div class="modal-word">' + esc(data.word) + '</div>';
+        html += '<div class="modal-dict-empty">未找到该词的释义</div>';
+        modalContent.innerHTML = html;
+        modalBg.classList.add('active');
+        return;
+    }
+
+    // 单词
+    html += '<div class="modal-word">' + esc(data.word) + '</div>';
+
+    // 音标 + 发音按钮
+    var phoneticLine = '';
+    if (data.phonetic) phoneticLine += '<span class="modal-phon-text">' + esc(data.phonetic) + '</span>';
+    if (data.audio_uk) phoneticLine += '<button class="audio-btn" onclick="playAudio(this, \'' + esc(data.audio_uk) + '\')" data-src="' + esc(data.audio_uk) + '"><span class="audio-icon">🔊</span>UK</button>';
+    if (data.audio_us) phoneticLine += '<button class="audio-btn" onclick="playAudio(this, \'' + esc(data.audio_us) + '\')" data-src="' + esc(data.audio_us) + '"><span class="audio-icon">🔊</span>US</button>';
+    if (phoneticLine) {
+        html += '<div class="modal-phon-row">' + phoneticLine + '</div>';
+    }
+
+    // 释义（词性分区）
+    if (data.defs && data.defs.length) {
+        html += '<div class="modal-defs">';
+        data.defs.forEach(function(d) {
+            html += '<div class="modal-def">';
+            var pos = d.pos || '';
+            if (pos) html += '<span class="pos">' + esc(pos) + '</span>';
+            if (d.meaning) {
+                html += '<span class="meaning">' + esc(d.meaning) + '</span>';
+            } else if (d.en_definitions && d.en_definitions.length) {
+                // 没中文释义时显示英文释义
+                var enTexts = d.en_definitions.map(function(ed) { return ed.definition; }).join('; ');
+                html += '<span class="meaning en-only">' + esc(enTexts) + '</span>';
+            }
+            html += '</div>';
+            // 英文例句
+            if (d.en_definitions) {
+                d.en_definitions.forEach(function(ed) {
+                    if (ed.example) {
+                        html += '<div class="modal-example">' + esc(ed.example) + '</div>';
+                    }
+                });
+            }
+        });
+        html += '</div>';
+    }
+
+    // 同义词
+    if (data.synonyms && data.synonyms.length) {
+        html += '<div class="modal-syn-group"><span class="syn-label">同义词</span>';
+        html += '<span class="syn-list">' + esc(data.synonyms.join(', ')) + '</span></div>';
+    }
+
+    // 反义词
+    if (data.antonyms && data.antonyms.length) {
+        html += '<div class="modal-syn-group"><span class="syn-label">反义词</span>';
+        html += '<span class="syn-list">' + esc(data.antonyms.join(', ')) + '</span></div>';
+    }
+
+    // 数据源
+    if (data.sources && data.sources.length) {
+        var sourceLabels = {
+            'dictionaryapi.dev': 'dictionaryapi.dev',
+            'youdao': '有道词典',
+            'baidu': '百度翻译'
+        };
+        var labels = data.sources.map(function(s) { return sourceLabels[s] || s; });
+        html += '<div class="modal-dict-source">数据来源：' + esc(labels.join(' + ')) + '</div>';
+    }
 
     modalContent.innerHTML = html;
     modalBg.classList.add('active');
+}
+
+/* 播放发音音频 */
+function playAudio(btn, src) {
+    // 阻止冒泡，避免触发弹窗关闭
+    if (event) event.stopPropagation();
+    try {
+        var audio = new Audio(src);
+        audio.play().catch(function() {});
+        // 点击动画
+        btn.classList.add('playing');
+        setTimeout(function() { btn.classList.remove('playing'); }, 600);
+    } catch(e) {}
 }
 
 var TAG_LABEL = {
