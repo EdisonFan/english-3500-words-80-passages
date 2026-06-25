@@ -192,12 +192,12 @@ function renderPassageContent(id, data) {
     app.addEventListener('click', handleWordClick);
 }
 
-/* === 高亮词渲染：把 {word} 标记转为 .wn 结构 === */
+/* === 高亮词渲染：把 {word} 标记转为 .wn 结构，其余普通单词也做成可点击 === */
 function highlightWords(enText, vocab) {
     // 按 {word} 分割
     var parts = enText.split(/(\{[^}]+\})/g);
     var html = '';
-    
+
     parts.forEach(function(part) {
         var m = part.match(/^\{([^}]+)\}$/);
         if (m) {
@@ -206,17 +206,48 @@ function highlightWords(enText, vocab) {
             if (entry) {
                 var outlineClass = entry.type === 'outline' ? ' outline' : '';
                 var ctxHtml = entry.ctx ? '<span class="w-g">' + esc(entry.ctx) + '</span>' : '';
-                html += '<span class="wn"><span class="w' + outlineClass + '" data-key="' + esc(key) + '">' + 
+                html += '<span class="wn"><span class="w' + outlineClass + '" data-key="' + esc(key) + '">' +
                         esc(entry.display || key) + '</span>' + ctxHtml + '</span>';
             } else {
-                html += '<span class="w-no-gloss">' + esc(key) + '</span>';
+                // 标记了但 vocab 未命中：也做成可点击，走词典 API
+                html += makeRawWordSpan(key);
             }
         } else {
-            html += esc(part);
+            // 纯文本：把每个英文单词都做成可点击
+            html += tokenizeAndWrap(part);
         }
     });
-    
+
     return html;
+}
+
+/* 把纯文本按"英文单词 / 非单词"切分，单词包成可点击 span */
+function tokenizeAndWrap(text) {
+    if (!text) return '';
+    var html = '';
+    var re = /([A-Za-z][A-Za-z']*)/g;
+    var lastIdx = 0;
+    var match;
+    while ((match = re.exec(text)) !== null) {
+        if (match.index > lastIdx) {
+            html += esc(text.slice(lastIdx, match.index));
+        }
+        html += makeRawWordSpan(match[1]);
+        lastIdx = re.lastIndex;
+    }
+    if (lastIdx < text.length) {
+        html += esc(text.slice(lastIdx));
+    }
+    return html;
+}
+
+/* 生成一个可点击的普通单词 span（走词典 API） */
+function makeRawWordSpan(word) {
+    // 去掉首尾单引号（如 students' ）
+    var display = String(word).replace(/^'+|'+$/g, '');
+    if (!display) return esc(word);
+    var query = display.toLowerCase();
+    return '<span class="w-raw" data-word="' + esc(query) + '">' + esc(display) + '</span>';
 }
 
 function findVocab(key, vocab) {
@@ -329,14 +360,73 @@ function renderDefExtras(extras, scope) {
 
 /* === 高亮词点击 → 弹窗（事件委托） === */
 function handleWordClick(e) {
+    // 1. vocab 高亮词：走本地词条弹窗
     var target = e.target.closest('.w');
-    if (!target) return;
-    
-    e.stopPropagation();
-    target.classList.remove('pulsed');
-    void target.offsetWidth;
-    target.classList.add('pulsed');
-    showModal(target.getAttribute('data-key'));
+    if (target) {
+        e.stopPropagation();
+        target.classList.remove('pulsed');
+        void target.offsetWidth;
+        target.classList.add('pulsed');
+        showModal(target.getAttribute('data-key'));
+        return;
+    }
+    // 2. 普通单词：走词典 API 查询
+    target = e.target.closest('.w-raw');
+    if (target) {
+        e.stopPropagation();
+        showDictModal(target.getAttribute('data-word'));
+        return;
+    }
+}
+
+/* === 词典 API 查询（非 vocab 单词） === */
+var _dictCache = {};
+
+function showDictModal(word) {
+    word = String(word || '').toLowerCase().trim();
+    if (!word) return;
+
+    // 先查内存缓存
+    if (_dictCache[word]) {
+        renderDictModal(_dictCache[word]);
+        return;
+    }
+
+    // 显示 loading
+    renderDictModal({ word: word, loading: true });
+
+    fetch('/api/dict?q=' + encodeURIComponent(word))
+        .then(function(r) { return r.json(); })
+        .then(function(data) {
+            _dictCache[word] = data;
+            renderDictModal(data);
+        })
+        .catch(function(err) {
+            renderDictModal({ word: word, error: String(err.message || err) });
+        });
+}
+
+function renderDictModal(data) {
+    var html = '<div class="modal-eyebrow">Dictionary</div>';
+
+    if (data.loading) {
+        html += '<div class="modal-word">' + esc(data.word) + '</div>';
+        html += '<div class="modal-dict-loading"><span class="dict-spinner"></span>查询中…</div>';
+    } else if (data.error) {
+        html += '<div class="modal-word">' + esc(data.word) + '</div>';
+        html += '<div class="modal-dict-error">查询失败：' + esc(data.error) + '</div>';
+    } else if (data.found && data.explain) {
+        html += '<div class="modal-word">' + esc(data.entry || data.word) + '</div>';
+        html += '<div class="modal-dict-explain">' + esc(data.explain) + '</div>';
+    } else {
+        html += '<div class="modal-word">' + esc(data.word) + '</div>';
+        html += '<div class="modal-dict-empty">未找到该词的释义</div>';
+    }
+
+    html += '<div class="modal-dict-source">释义来源：有道词典</div>';
+
+    modalContent.innerHTML = html;
+    modalBg.classList.add('active');
 }
 
 var TAG_LABEL = {

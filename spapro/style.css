@@ -328,6 +328,74 @@ body.no-gloss .para { padding-bottom: 32px; }
     border-radius: 2px;
 }
 
+/* === 普通可点击单词（走词典 API） === */
+.w-raw {
+    color: var(--ink);
+    cursor: pointer;
+    border-bottom: 1px dotted var(--ink-4);
+    transition: all 0.15s ease;
+    border-radius: 1px;
+}
+.w-raw:hover {
+    color: var(--accent);
+    border-bottom-color: var(--accent);
+    background: var(--accent-soft);
+}
+.w-raw:active { transform: scale(0.97); }
+
+/* === 词典弹窗内容 === */
+.modal-dict-loading {
+    padding: 24px 0;
+    text-align: center;
+    color: var(--ink-3);
+    font-size: 14px;
+    font-family: var(--font-cn);
+}
+.dict-spinner {
+    display: inline-block;
+    width: 14px; height: 14px;
+    border: 2px solid var(--line-2);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    margin-right: 8px;
+    vertical-align: -2px;
+    animation: spin 0.7s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.modal-dict-error {
+    padding: 16px 0;
+    color: var(--warm);
+    font-size: 13px;
+    font-family: var(--font-cn);
+    line-height: 1.6;
+}
+.modal-dict-empty {
+    padding: 16px 0;
+    color: var(--ink-4);
+    font-size: 13px;
+    font-family: var(--font-cn);
+}
+.modal-dict-explain {
+    margin-top: 4px;
+    padding: 14px 16px;
+    background: var(--bg-card);
+    border-radius: 8px;
+    font-size: 14px;
+    line-height: 1.8;
+    color: var(--ink-2);
+    font-family: var(--font-cn);
+}
+.modal-dict-source {
+    margin-top: 16px;
+    padding-top: 12px;
+    border-top: 1px solid var(--line);
+    font-size: 10px;
+    color: var(--ink-4);
+    font-family: var(--font-mono);
+    text-align: right;
+}
+
 /* === 词表 === */
 .vocab {
     padding: 64px 0 80px;
