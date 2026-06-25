@@ -34,1444 +34,288 @@
   "vocab": [
     {
       "word": "wealthy",
-      "lemma": "wealthy",
-      "kind": "word",
       "type": "core",
-      "ctx": "富有的",
-      "forms": [],
-      "phonetic": "[ˈwelθi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "富有的"
-        }
-      ]
+      "ctx": "富有的"
     },
     {
       "word": "settlement",
-      "lemma": "settlement",
-      "kind": "word",
       "type": "core",
-      "ctx": "解决",
-      "forms": [],
-      "phonetic": "[ˈsetlmənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "解决；协议；定居点"
-        }
-      ]
+      "ctx": "解决"
     },
     {
       "word": "rocky",
-      "lemma": "rocky",
-      "kind": "word",
       "type": "core",
-      "ctx": "岩石的，多岩石的",
-      "forms": [],
-      "phonetic": "[ˈrɒki]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "岩石的，多岩石的；不稳定的"
-        }
-      ]
+      "ctx": "岩石的，多岩石的"
     },
     {
       "word": "mountain",
-      "lemma": "mountain",
-      "kind": "word",
       "type": "outline",
-      "ctx": "高山",
-      "forms": [
-        {
-          "surface": "mountains",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈmaʊntən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "高山",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "mount*[ v. 登上；逐步增加 n. （M-）山，峰]"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "高山"
     },
     {
       "word": "remote",
-      "lemma": "remote",
-      "kind": "word",
       "type": "outline",
-      "ctx": "遥远的",
-      "forms": [],
-      "phonetic": "[rɪˈməʊt]",
-      "memory": [
-        "词根记忆：re（一再）+mote（移动）→一再移动，越挪越远→遥远的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "遥远的；偏僻的；远程的",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "All our projects aim to promote the development of poor and remote communities.我们所有的项目都旨在促进贫困和偏远社区的发展。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "遥远的"
     },
     {
       "word": "schoolhouse",
-      "lemma": "schoolhouse",
-      "kind": "word",
       "type": "core",
-      "ctx": "校舍",
-      "forms": [],
-      "phonetic": "[ˈskuːlhaʊs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "校舍；教师住房"
-        }
-      ]
+      "ctx": "校舍"
     },
     {
       "word": "blackboard",
-      "lemma": "blackboard",
-      "kind": "word",
       "type": "outline",
-      "ctx": "黑板",
-      "forms": [],
-      "phonetic": "[ˈblækbɔːd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "黑板"
-        }
-      ]
+      "ctx": "黑板"
     },
     {
       "word": "marry",
-      "lemma": "marry",
-      "kind": "word",
       "type": "outline",
-      "ctx": "结婚",
-      "forms": [
-        {
-          "surface": "marries",
-          "tag": "third_person"
-        },
-        {
-          "surface": "married",
-          "tag": "past"
-        },
-        {
-          "surface": "married",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "marrying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈmæri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（和……）结婚",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "bride*（ n. 新娘）；kiss*（ n. 吻 v. 亲吻）；wedding*（ n. 婚礼）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "结婚"
     },
     {
       "word": "party",
-      "lemma": "party",
-      "kind": "word",
       "type": "outline",
-      "ctx": "聚会，派对",
-      "forms": [
-        {
-          "surface": "parties",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈpɑːti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "聚会，派对；当事人，一方；政党"
-        }
-      ]
+      "ctx": "聚会，派对"
     },
     {
       "word": "silk",
-      "lemma": "silk",
-      "kind": "word",
       "type": "outline",
-      "ctx": "丝，丝绸",
-      "forms": [],
-      "phonetic": "[sɪlk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "丝，丝绸；丝线"
-        }
-      ]
+      "ctx": "丝，丝绸"
     },
     {
       "word": "buffet",
-      "lemma": "buffet",
-      "kind": "word",
       "type": "outline",
-      "ctx": "自助餐",
-      "forms": [
-        {
-          "surface": "buffets",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈbʊfeɪ; ˈbʌfeɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "自助餐",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a buffet party一场自助餐派对"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "自助餐"
     },
     {
       "word": "estate",
-      "lemma": "estate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "土地，地产",
-      "forms": [],
-      "phonetic": "[ɪˈsteɪt]",
-      "memory": [
-        "词根记忆：e（表加强）+stat（站立）+e →站在那里静止不动的东西→不动产→土地，地产"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "土地，地产；庄园；住宅区；遗产"
-        }
-      ]
+      "ctx": "土地，地产"
     },
     {
       "word": "instruct",
-      "lemma": "instruct",
-      "kind": "word",
       "type": "core",
-      "ctx": "指示",
-      "forms": [
-        {
-          "surface": "instructs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "instructed",
-          "tag": "past"
-        },
-        {
-          "surface": "instructed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "instructing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪnˈstrʌkt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "指示；教导；通知"
-        }
-      ]
+      "ctx": "指示"
     },
     {
       "word": "whose",
-      "lemma": "whose",
-      "kind": "word",
       "type": "outline",
-      "ctx": "他们的",
-      "forms": [],
-      "phonetic": "[huːz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "pron.",
-          "meaning": "/"
-        },
-        {
-          "pos": "det.",
-          "meaning": "（用于问句）谁的；（特指）那个人的"
-        }
-      ]
+      "ctx": "他们的"
     },
     {
       "word": "shoe",
-      "lemma": "shoe",
-      "kind": "word",
       "type": "outline",
-      "ctx": "鞋",
-      "forms": [
-        {
-          "surface": "shoes",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ʃuː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "鞋"
-        }
-      ]
+      "ctx": "鞋"
     },
     {
       "word": "string",
-      "lemma": "string",
-      "kind": "word",
       "type": "outline",
-      "ctx": "细绳，线，带",
-      "forms": [],
-      "phonetic": "[strɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "细绳，线，带"
-        }
-      ]
+      "ctx": "细绳，线，带"
     },
     {
       "word": "dot",
-      "lemma": "dot",
-      "kind": "word",
       "type": "core",
-      "ctx": "点，圆点",
-      "forms": [
-        {
-          "surface": "dots",
-          "tag": "third_person"
-        },
-        {
-          "surface": "dotted",
-          "tag": "past"
-        },
-        {
-          "surface": "dotted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "dotting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɒt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "点，圆点"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "遍布；布满，点缀"
-        }
-      ]
+      "ctx": "点，圆点"
     },
     {
       "word": "mine",
-      "lemma": "mine",
-      "kind": "word",
       "type": "outline",
-      "ctx": "矿井，矿",
-      "forms": [
-        {
-          "surface": "mines",
-          "tag": "plural"
-        },
-        {
-          "surface": "mines",
-          "tag": "third_person"
-        },
-        {
-          "surface": "mined",
-          "tag": "past"
-        },
-        {
-          "surface": "mined",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "mining",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[maɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "矿井，矿；地雷"
-        },
-        {
-          "pos": "v.",
-          "meaning": "开采，采矿"
-        },
-        {
-          "pos": "pron.",
-          "meaning": "我的"
-        }
-      ]
+      "ctx": "矿井，矿"
     },
     {
       "word": "goat",
-      "lemma": "goat",
-      "kind": "word",
       "type": "outline",
-      "ctx": "山羊",
-      "forms": [
-        {
-          "surface": "goats",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ɡəʊt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "山羊"
-        }
-      ]
+      "ctx": "山羊"
     },
     {
       "word": "daunt",
-      "lemma": "daunt",
-      "kind": "word",
       "type": "core",
-      "ctx": "使胆怯",
-      "forms": [
-        {
-          "surface": "daunts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "daunted",
-          "tag": "past"
-        },
-        {
-          "surface": "daunted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "daunting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɔːnt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "使胆怯；使失去信心"
-        }
-      ]
+      "ctx": "使胆怯"
     },
     {
       "word": "unexpected",
-      "lemma": "unexpected",
-      "kind": "word",
       "type": "core",
-      "ctx": "意外的，想不到的",
-      "forms": [],
-      "phonetic": "[ˌʌnɪkˈspektɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "意外的，想不到的"
-        }
-      ]
+      "ctx": "意外的，想不到的"
     },
     {
       "word": "granddaughter",
-      "lemma": "granddaughter",
-      "kind": "word",
       "type": "outline",
-      "ctx": "孙女，外孙女",
-      "forms": [],
-      "phonetic": "[ˈɡrændɔːtə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "孙女，外孙女",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "grandson*（ n. 孙子，外孙）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "孙女，外孙女"
     },
     {
       "word": "undertake",
-      "lemma": "undertake",
-      "kind": "word",
       "type": "core",
-      "ctx": "承担，从事",
-      "forms": [
-        {
-          "surface": "undertakes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "undertook",
-          "tag": "past"
-        },
-        {
-          "surface": "undertaken",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "undertaking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌʌndəˈteɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "承担，从事；承诺，答应"
-        }
-      ]
+      "ctx": "承担，从事"
     },
     {
       "word": "privacy",
-      "lemma": "privacy",
-      "kind": "word",
       "type": "core",
-      "ctx": "隐私，私密",
-      "forms": [],
-      "phonetic": "[ˈprɪvəsi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "隐私，私密"
-        }
-      ]
+      "ctx": "隐私，私密"
     },
     {
       "word": "bath",
-      "lemma": "bath",
-      "kind": "word",
       "type": "outline",
-      "ctx": "洗澡",
-      "forms": [
-        {
-          "surface": "baths",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[bɑːθ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "洗澡；浴室；澡盆"
-        }
-      ]
+      "ctx": "洗澡"
     },
     {
       "word": "quilt",
-      "lemma": "quilt",
-      "kind": "word",
       "type": "core",
-      "ctx": "床罩",
-      "forms": [],
-      "phonetic": "[kwɪlt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "床罩；被子"
-        }
-      ]
+      "ctx": "床罩"
     },
     {
       "word": "wake",
-      "lemma": "wake",
-      "kind": "word",
       "type": "outline",
-      "ctx": "醒来，叫醒",
-      "forms": [
-        {
-          "surface": "wakes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "woke",
-          "tag": "past"
-        },
-        {
-          "surface": "woken",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "waking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[weɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "醒来，叫醒"
-        }
-      ]
+      "ctx": "醒来，叫醒"
     },
     {
       "word": "quit",
-      "lemma": "quit",
-      "kind": "word",
       "type": "outline",
-      "ctx": "离开，停止",
-      "forms": [
-        {
-          "surface": "quits",
-          "tag": "third_person"
-        },
-        {
-          "surface": "quit",
-          "tag": "past"
-        },
-        {
-          "surface": "quit",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "quitting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kwɪt]",
-      "memory": [
-        "联想记忆：我是该安静（quiet）地离开（quit），还是勇敢地留下来"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "离开（工作职位、学校等）；搬离；停止",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "resign*（ v. 辞去，辞职）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "离开，停止"
     },
     {
       "word": "weep",
-      "lemma": "weep",
-      "kind": "word",
       "type": "outline",
-      "ctx": "哭泣，流泪",
-      "forms": [
-        {
-          "surface": "weeps",
-          "tag": "third_person"
-        },
-        {
-          "surface": "wept",
-          "tag": "past"
-        },
-        {
-          "surface": "wept",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "weeping",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[wiːp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "哭泣，流泪"
-        },
-        {
-          "pos": "n.",
-          "meaning": "哭泣，流泪"
-        }
-      ]
+      "ctx": "哭泣，流泪"
     },
     {
       "word": "mud",
-      "lemma": "mud",
-      "kind": "word",
       "type": "outline",
-      "ctx": "泥，淤泥，泥浆",
-      "forms": [],
-      "phonetic": "[mʌd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "泥，淤泥，泥浆"
-        }
-      ]
+      "ctx": "泥，淤泥，泥浆"
     },
     {
       "word": "sew",
-      "lemma": "sew",
-      "kind": "word",
       "type": "outline",
-      "ctx": "缝制，缝纫",
-      "forms": [
-        {
-          "surface": "sews",
-          "tag": "third_person"
-        },
-        {
-          "surface": "sewed",
-          "tag": "past"
-        },
-        {
-          "surface": "sewn",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "sewing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[səʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "缝制，缝纫"
-        }
-      ]
+      "ctx": "缝制，缝纫"
     },
     {
       "word": "mend",
-      "lemma": "mend",
-      "kind": "word",
       "type": "core",
-      "ctx": "修理，修补",
-      "forms": [
-        {
-          "surface": "mends",
-          "tag": "third_person"
-        },
-        {
-          "surface": "mended",
-          "tag": "past"
-        },
-        {
-          "surface": "mended",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "mending",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[mend]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "修理，修补"
-        }
-      ]
+      "ctx": "修理，修补"
     },
     {
       "word": "tear",
-      "lemma": "tear",
-      "kind": "word",
       "type": "core",
-      "ctx": "扯破，撕开",
-      "forms": [
-        {
-          "surface": "tears",
-          "tag": "third_person"
-        },
-        {
-          "surface": "tore",
-          "tag": "past"
-        },
-        {
-          "surface": "torn",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "tearing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[teə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "扯破，撕开"
-        },
-        {
-          "pos": "n.",
-          "meaning": "眼泪"
-        }
-      ]
+      "ctx": "扯破，撕开"
     },
     {
       "word": "shirt",
-      "lemma": "shirt",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（尤指男士）衬衫",
-      "forms": [],
-      "phonetic": "[ʃɜːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（尤指男士）衬衫"
-        }
-      ]
+      "ctx": "（尤指男士）衬衫"
     },
     {
       "word": "shorts",
-      "lemma": "shorts",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[pl.]短裤",
-      "forms": [],
-      "phonetic": "[ʃɔːts]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[pl.]短裤"
-        }
-      ]
+      "ctx": "[pl.]短裤"
     },
     {
       "word": "brother",
-      "lemma": "brother",
-      "kind": "word",
       "type": "outline",
-      "ctx": "兄弟",
-      "forms": [
-        {
-          "surface": "brothers",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈbrʌðə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "兄弟"
-        }
-      ]
+      "ctx": "兄弟"
     },
     {
       "word": "pity",
-      "lemma": "pity",
-      "kind": "word",
       "type": "outline",
-      "ctx": "怜悯，同情",
-      "forms": [],
-      "phonetic": "[ˈpɪti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "怜悯，同情；[sing.]憾事"
-        }
-      ]
+      "ctx": "怜悯，同情"
     },
     {
       "word": "determination",
-      "lemma": "determination",
-      "kind": "word",
       "type": "core",
-      "ctx": "决心，坚定",
-      "forms": [],
-      "phonetic": "[dɪˌtɜːmɪˈneɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "决心，坚定；决定，确定"
-        }
-      ]
+      "ctx": "决心，坚定"
     },
     {
       "word": "feminism",
-      "lemma": "feminism",
-      "kind": "word",
       "type": "core",
-      "ctx": "女权主义",
-      "forms": [],
-      "phonetic": "[ˈfemənɪzəm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "女权主义"
-        }
-      ]
+      "ctx": "女权主义"
     },
     {
       "word": "educated",
-      "lemma": "educated",
-      "kind": "word",
       "type": "core",
-      "ctx": "受过……教育（或训练）的",
-      "forms": [],
-      "phonetic": "[ˈedʒukeɪtɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "受过……教育（或训练）的；有教养的"
-        }
-      ]
+      "ctx": "受过……教育（或训练）的"
     },
     {
       "word": "wife",
-      "lemma": "wife",
-      "kind": "word",
       "type": "outline",
-      "ctx": "妻子",
-      "forms": [],
-      "phonetic": "[waɪf]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "妻子"
-        }
-      ]
+      "ctx": "妻子"
     },
     {
       "word": "witness",
-      "lemma": "witness",
-      "kind": "word",
       "type": "outline",
-      "ctx": "目击",
-      "forms": [
-        {
-          "surface": "witnesses",
-          "tag": "third_person"
-        },
-        {
-          "surface": "witnessed",
-          "tag": "past"
-        },
-        {
-          "surface": "witnessed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "witnessing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈwɪtnəs]",
-      "memory": [
-        "词根记忆：wit（知道，了解）+ness（表名词）→知道情况→目击；见证"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "目击；见证"
-        },
-        {
-          "pos": "n.",
-          "meaning": "证人；目击者"
-        }
-      ]
+      "ctx": "目击"
     },
     {
       "word": "hair-raising",
-      "lemma": "hair-raising",
-      "kind": "word",
       "type": "core",
-      "ctx": "令人毛骨悚然的",
-      "forms": [],
-      "phonetic": "[ˈheə reɪzɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "令人毛骨悚然的；惊险的"
-        }
-      ]
+      "ctx": "令人毛骨悚然的"
     },
     {
       "word": "section",
-      "lemma": "section",
-      "kind": "word",
       "type": "outline",
-      "ctx": "节，款，项，段",
-      "forms": [],
-      "phonetic": "[ˈsekʃn]",
-      "memory": [
-        "词根记忆：sect（切割）+ion→部分"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "节，款，项，段；部分；部门"
-        }
-      ]
+      "ctx": "节，款，项，段"
     },
     {
       "word": "railroad",
-      "lemma": "railroad",
-      "kind": "word",
       "type": "core",
-      "ctx": "（=railway）铁路",
-      "forms": [
-        {
-          "surface": "railroads",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈreɪlrəʊd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（=railway）铁路"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "强迫，迫使（某人仓促行事）"
-        }
-      ]
+      "ctx": "（=railway）铁路"
     },
     {
       "word": "drill",
-      "lemma": "drill",
-      "kind": "word",
       "type": "outline",
-      "ctx": "钻（孔）",
-      "forms": [
-        {
-          "surface": "drills",
-          "tag": "third_person"
-        },
-        {
-          "surface": "drilled",
-          "tag": "past"
-        },
-        {
-          "surface": "drilled",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "drilling",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[drɪl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "钻（孔）；反复训练",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "drill a hole in the ice在冰上钻个孔"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "钻头；（反复的）训练"
-        }
-      ]
+      "ctx": "钻（孔）"
     },
     {
       "word": "blinding",
-      "lemma": "blinding",
-      "kind": "word",
       "type": "core",
-      "ctx": "刺眼的，使人视线模糊的",
-      "forms": [],
-      "phonetic": "[ˈblaɪndɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "刺眼的，使人视线模糊的；绝妙的"
-        }
-      ]
+      "ctx": "刺眼的，使人视线模糊的"
     },
     {
       "word": "snowstorm",
-      "lemma": "snowstorm",
-      "kind": "word",
       "type": "core",
-      "ctx": "暴风雪",
-      "forms": [
-        {
-          "surface": "snowstorms",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈsnəʊstɔːm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "暴风雪"
-        }
-      ]
+      "ctx": "暴风雪"
     },
     {
       "word": "storyteller",
-      "lemma": "storyteller",
-      "kind": "word",
       "type": "core",
-      "ctx": "讲故事的人",
-      "forms": [],
-      "phonetic": "[ˈstɔːritelə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "讲故事的人"
-        }
-      ]
+      "ctx": "讲故事的人"
     },
     {
       "word": "sweep",
-      "lemma": "sweep",
-      "kind": "word",
       "type": "outline",
-      "ctx": "打扫",
-      "forms": [
-        {
-          "surface": "sweeps",
-          "tag": "third_person"
-        },
-        {
-          "surface": "swept",
-          "tag": "past"
-        },
-        {
-          "surface": "swept",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "sweeping",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[swiːp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "打扫；席卷，横扫",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "sweep sth.away彻底消除"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "清扫；（道路、河流、海岸等）一长段；广泛性，广博的范围，广度"
-        }
-      ]
+      "ctx": "打扫"
     },
     {
       "word": "land",
-      "lemma": "land",
-      "kind": "word",
       "type": "outline",
-      "ctx": "土地",
-      "forms": [
-        {
-          "surface": "lands",
-          "tag": "third_person"
-        },
-        {
-          "surface": "landed",
-          "tag": "past"
-        },
-        {
-          "surface": "landed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "landing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[lænd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "土地；陆地"
-        },
-        {
-          "pos": "v.",
-          "meaning": "登陆；（使）降落"
-        }
-      ]
+      "ctx": "土地"
     },
     {
       "word": "horse",
-      "lemma": "horse",
-      "kind": "word",
       "type": "outline",
-      "ctx": "马",
-      "forms": [],
-      "phonetic": "[hɔːs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "马"
-        }
-      ]
+      "ctx": "马"
     },
     {
       "word": "shed",
-      "lemma": "shed",
-      "kind": "word",
       "type": "core",
-      "ctx": "去除",
-      "forms": [
-        {
-          "surface": "sheds",
-          "tag": "third_person"
-        },
-        {
-          "surface": "shed",
-          "tag": "past"
-        },
-        {
-          "surface": "shed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "shedding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ʃed]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "去除；使落下；流（泪）；把光洒在……上"
-        },
-        {
-          "pos": "n.",
-          "meaning": "棚；厂房"
-        }
-      ]
+      "ctx": "去除"
     },
     {
       "word": "glow",
-      "lemma": "glow",
-      "kind": "word",
       "type": "core",
-      "ctx": "暗淡的光",
-      "forms": [
-        {
-          "surface": "glows",
-          "tag": "third_person"
-        },
-        {
-          "surface": "glowed",
-          "tag": "past"
-        },
-        {
-          "surface": "glowed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "glowing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɡləʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "暗淡的光；容光焕发；金色；喜悦"
-        },
-        {
-          "pos": "vi.",
-          "meaning": "发出暗淡的光；喜形于色"
-        }
-      ]
+      "ctx": "暗淡的光"
     },
     {
       "word": "moon",
-      "lemma": "moon",
-      "kind": "word",
       "type": "outline",
-      "ctx": "月球",
-      "forms": [],
-      "phonetic": "[muːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "月球；月亮；卫星",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "lunar*（ adj. 月亮的；月球的）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "月球"
     },
     {
       "word": "mouse",
-      "lemma": "mouse",
-      "kind": "word",
       "type": "outline",
-      "ctx": "鼠；鼠标",
-      "forms": [
-        {
-          "surface": "mice",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[maʊs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（pl.mice）鼠；胆小的人；鼠标"
-        }
-      ]
+      "ctx": "鼠；鼠标"
     },
     {
       "word": "vary",
-      "lemma": "vary",
-      "kind": "word",
       "type": "outline",
-      "ctx": "不同",
-      "forms": [
-        {
-          "surface": "varies",
-          "tag": "third_person"
-        },
-        {
-          "surface": "varied",
-          "tag": "past"
-        },
-        {
-          "surface": "varied",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "varying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈveəri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "不同；变化",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "The qualities of time vary with how you measure it.时间的性质随你衡量时间的方式而变化。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "不同"
     }
   ]
 }

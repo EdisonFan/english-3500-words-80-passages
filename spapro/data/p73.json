@@ -24,1002 +24,213 @@
   "vocab": [
     {
       "word": "document",
-      "lemma": "document",
-      "kind": "word",
       "type": "outline",
-      "ctx": "文件，文献",
-      "forms": [
-        {
-          "surface": "documents",
-          "tag": "plural"
-        },
-        {
-          "surface": "documents",
-          "tag": "third_person"
-        },
-        {
-          "surface": "documented",
-          "tag": "past"
-        },
-        {
-          "surface": "documented",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "documenting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈdɒkjumənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "文件，文献",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a business document商务文件"
-              ]
-            },
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "license*（ n. 执照，许可证）"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "记载，记录"
-        }
-      ]
+      "ctx": "文件，文献"
     },
     {
       "word": "custom",
-      "lemma": "custom",
-      "kind": "word",
       "type": "outline",
-      "ctx": "习惯，习俗",
-      "forms": [
-        {
-          "surface": "customs",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈkʌstəm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "习惯，习俗"
-        }
-      ]
+      "ctx": "习惯，习俗"
     },
     {
       "word": "artifact",
-      "lemma": "artifact",
-      "kind": "word",
       "type": "core",
-      "ctx": "人工制品",
-      "forms": [
-        {
-          "surface": "artifacts",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈɑːtɪfækt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "人工制品；工艺品"
-        }
-      ]
+      "ctx": "人工制品"
     },
     {
       "word": "oral",
-      "lemma": "oral",
-      "kind": "word",
       "type": "core",
-      "ctx": "口头的，口述的",
-      "forms": [],
-      "phonetic": "[ˈɔːrəl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "口头的，口述的"
-        }
-      ]
+      "ctx": "口头的，口述的"
     },
     {
       "word": "song",
-      "lemma": "song",
-      "kind": "word",
       "type": "outline",
-      "ctx": "歌，歌曲",
-      "forms": [
-        {
-          "surface": "songs",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[sɒŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "歌，歌曲；（鸟的）鸣啭"
-        }
-      ]
+      "ctx": "歌，歌曲"
     },
     {
       "word": "rural",
-      "lemma": "rural",
-      "kind": "word",
       "type": "outline",
-      "ctx": "农村的，乡村的",
-      "forms": [],
-      "phonetic": "[ˈrʊərəl]",
-      "memory": [
-        "词根记忆：rur（乡村）+al（……的）→乡村的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "农村的，乡村的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "rural area农村地区"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "农村的，乡村的"
     },
     {
       "word": "government",
-      "lemma": "government",
-      "kind": "word",
       "type": "outline",
-      "ctx": "政府",
-      "forms": [],
-      "phonetic": "[ˈɡʌvənmənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "政府；统治"
-        }
-      ]
+      "ctx": "政府"
     },
     {
       "word": "policy",
-      "lemma": "policy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "政策",
-      "forms": [
-        {
-          "surface": "policies",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈpɒləsi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "政策；原则"
-        }
-      ]
+      "ctx": "政策"
     },
     {
       "word": "war",
-      "lemma": "war",
-      "kind": "word",
       "type": "outline",
-      "ctx": "战争",
-      "forms": [
-        {
-          "surface": "wars",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[wɔː(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "战争；斗争，竞争"
-        }
-      ]
+      "ctx": "战争"
     },
     {
       "word": "conflict",
-      "lemma": "conflict",
-      "kind": "word",
       "type": "outline",
-      "ctx": "斗争，冲突",
-      "forms": [
-        {
-          "surface": "conflicts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "conflicted",
-          "tag": "past"
-        },
-        {
-          "surface": "conflicted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "conflicting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈkɒnflɪkt]",
-      "memory": [
-        "词根记忆：con（共同）+flict（打击）→共同打→斗争，冲突"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "斗争，冲突",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "an armed conflict武装冲突"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vi.",
-          "meaning": "冲突，抵触"
-        }
-      ]
+      "ctx": "斗争，冲突"
     },
     {
       "word": "bay",
-      "lemma": "bay",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（海或湖的）湾",
-      "forms": [],
-      "phonetic": "[beɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（海或湖的）湾；分隔间"
-        }
-      ]
+      "ctx": "（海或湖的）湾"
     },
     {
       "word": "captain",
-      "lemma": "captain",
-      "kind": "word",
       "type": "outline",
-      "ctx": "船长",
-      "forms": [],
-      "phonetic": "[ˈkæptɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "船长；（海军）上校；队长"
-        }
-      ]
+      "ctx": "船长"
     },
     {
       "word": "voyage",
-      "lemma": "voyage",
-      "kind": "word",
       "type": "core",
-      "ctx": "航行，航海",
-      "forms": [],
-      "phonetic": "[ˈvɔɪɪdʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "航行，航海；旅行"
-        }
-      ]
+      "ctx": "航行，航海"
     },
     {
       "word": "Australian",
-      "lemma": "Australian",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "澳大利亚的",
-      "forms": [
-        {
-          "surface": "Australians",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ɒˈstreɪliən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "澳大利亚的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "澳大利亚人"
-        }
-      ]
+      "ctx": "澳大利亚的"
     },
     {
       "word": "English",
-      "lemma": "English",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "英语",
-      "forms": [],
-      "phonetic": "[ˈɪŋɡlɪʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "英语；英格兰人"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "英格兰的；英格兰人的；英语的"
-        }
-      ]
+      "ctx": "英语"
     },
     {
       "word": "military",
-      "lemma": "military",
-      "kind": "word",
       "type": "outline",
-      "ctx": "军事的",
-      "forms": [],
-      "phonetic": "[ˈmɪlətri]",
-      "memory": [
-        "词根记忆：milit（战斗）+ary（……的）→战斗相关的→军事的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "军事的；军队的；军用的"
-        }
-      ]
+      "ctx": "军事的"
     },
     {
       "word": "leader",
-      "lemma": "leader",
-      "kind": "word",
       "type": "outline",
-      "ctx": "领导者",
-      "forms": [],
-      "phonetic": "[ˈliːdə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "领导者；领袖；处于领先地位的人（或物）"
-        }
-      ]
+      "ctx": "领导者"
     },
     {
       "word": "horrible",
-      "lemma": "horrible",
-      "kind": "word",
       "type": "outline",
-      "ctx": "令人震惊的，恐怖的",
-      "forms": [],
-      "phonetic": "[ˈhɒrəbl]",
-      "memory": [
-        "词根记忆：horr（害怕）+ible（……的）→令人害怕的→恐怖的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "令人震惊的，恐怖的"
-        }
-      ]
+      "ctx": "令人震惊的，恐怖的"
     },
     {
       "word": "wooden",
-      "lemma": "wooden",
-      "kind": "word",
       "type": "core",
-      "ctx": "木制的",
-      "forms": [],
-      "phonetic": "[ˈwʊdn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "木制的"
-        }
-      ]
+      "ctx": "木制的"
     },
     {
       "word": "soldier",
-      "lemma": "soldier",
-      "kind": "word",
       "type": "outline",
-      "ctx": "士兵，军人",
-      "forms": [],
-      "phonetic": "[ˈsəʊldʒə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "士兵，军人"
-        }
-      ]
+      "ctx": "士兵，军人"
     },
     {
       "word": "gunfire",
-      "lemma": "gunfire",
-      "kind": "word",
       "type": "core",
-      "ctx": "炮火，炮火声",
-      "forms": [],
-      "phonetic": "[ˈɡʌnfaɪə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "炮火，炮火声",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "gun*（ n. 枪支）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "炮火，炮火声"
     },
     {
       "word": "reconstruct",
-      "lemma": "reconstruct",
-      "kind": "word",
       "type": "core",
-      "ctx": "修复",
-      "forms": [
-        {
-          "surface": "reconstructs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "reconstructed",
-          "tag": "past"
-        },
-        {
-          "surface": "reconstructed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "reconstructing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌriːkənˈstrʌkt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "修复；重建；使重现"
-        }
-      ]
+      "ctx": "修复"
     },
     {
       "word": "question",
-      "lemma": "question",
-      "kind": "word",
       "type": "outline",
-      "ctx": "询问",
-      "forms": [
-        {
-          "surface": "questions",
-          "tag": "third_person"
-        },
-        {
-          "surface": "questioned",
-          "tag": "past"
-        },
-        {
-          "surface": "questioned",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "questioning",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈkwestʃən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "询问；质疑"
-        },
-        {
-          "pos": "n.",
-          "meaning": "问题"
-        }
-      ]
+      "ctx": "询问"
     },
     {
       "word": "strictly",
-      "lemma": "strictly",
-      "kind": "word",
       "type": "core",
-      "ctx": "严格地",
-      "forms": [],
-      "phonetic": "[ˈstrɪktli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "严格地；绝对地；仅限于"
-        }
-      ]
+      "ctx": "严格地"
     },
     {
       "word": "furthermore",
-      "lemma": "furthermore",
-      "kind": "word",
       "type": "core",
-      "ctx": "而且，此外",
-      "forms": [],
-      "phonetic": "[ˌfɜːðəˈmɔː(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "而且，此外"
-        }
-      ]
+      "ctx": "而且，此外"
     },
     {
       "word": "disaster",
-      "lemma": "disaster",
-      "kind": "word",
       "type": "outline",
-      "ctx": "灾难，祸患",
-      "forms": [
-        {
-          "surface": "disasters",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[dɪˈzɑːstə(r)]",
-      "memory": [
-        "词根记忆：dis（不）+aster（星星）→古代人认为星位不正可能预示灾难→灾难"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "灾难，祸患",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a natural disaster自然灾害"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "灾难，祸患"
     },
     {
       "word": "earthquake",
-      "lemma": "earthquake",
-      "kind": "word",
       "type": "outline",
-      "ctx": "地震",
-      "forms": [
-        {
-          "surface": "earthquakes",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈɜːθkweɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "地震"
-        }
-      ]
+      "ctx": "地震"
     },
     {
       "word": "flood",
-      "lemma": "flood",
-      "kind": "word",
       "type": "outline",
-      "ctx": "洪水",
-      "forms": [
-        {
-          "surface": "floods",
-          "tag": "plural"
-        },
-        {
-          "surface": "floods",
-          "tag": "third_person"
-        },
-        {
-          "surface": "flooded",
-          "tag": "past"
-        },
-        {
-          "surface": "flooded",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "flooding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[flʌd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "洪水",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "typhoon*（ n. 台风）"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "v.",
-          "meaning": "（被）淹没，泛滥；大量涌入"
-        }
-      ]
+      "ctx": "洪水"
     },
     {
       "word": "destroy",
-      "lemma": "destroy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "破坏，毁坏",
-      "forms": [
-        {
-          "surface": "destroys",
-          "tag": "third_person"
-        },
-        {
-          "surface": "destroyed",
-          "tag": "past"
-        },
-        {
-          "surface": "destroyed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "destroying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɪˈstrɔɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "破坏，毁坏",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "destroy forests破坏森林destroy trust破坏信任"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "破坏，毁坏"
     },
     {
       "word": "miscomprehension",
-      "lemma": "miscomprehension",
-      "kind": "word",
       "type": "core",
-      "ctx": "误解",
-      "forms": [],
-      "phonetic": "[ˌmɪskɒmprɪˈhenʃən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "误解；误读"
-        }
-      ]
+      "ctx": "误解"
     },
     {
       "word": "victory",
-      "lemma": "victory",
-      "kind": "word",
       "type": "outline",
-      "ctx": "胜利",
-      "forms": [
-        {
-          "surface": "victories",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈvɪktəri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "胜利"
-        }
-      ]
+      "ctx": "胜利"
     },
     {
       "word": "accidentally",
-      "lemma": "accidentally",
-      "kind": "word",
       "type": "core",
-      "ctx": "偶然地，意外地",
-      "forms": [],
-      "phonetic": "[ˌæksɪˈdentəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "偶然地，意外地"
-        }
-      ]
+      "ctx": "偶然地，意外地"
     },
     {
       "word": "victor",
-      "lemma": "victor",
-      "kind": "word",
       "type": "core",
-      "ctx": "胜利者",
-      "forms": [
-        {
-          "surface": "victors",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈvɪktə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "胜利者"
-        }
-      ]
+      "ctx": "胜利者"
     },
     {
       "word": "winning",
-      "lemma": "winning",
-      "kind": "word",
       "type": "core",
-      "ctx": "获胜的",
-      "forms": [],
-      "phonetic": "[ˈwɪnɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "获胜的；动人的"
-        }
-      ]
+      "ctx": "获胜的"
     },
     {
       "word": "nation",
-      "lemma": "nation",
-      "kind": "word",
       "type": "outline",
-      "ctx": "民族",
-      "forms": [],
-      "phonetic": "[ˈneɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "民族；国家"
-        }
-      ]
+      "ctx": "民族"
     },
     {
       "word": "justify",
-      "lemma": "justify",
-      "kind": "word",
       "type": "outline",
-      "ctx": "证明……是正当的",
-      "forms": [
-        {
-          "surface": "justifies",
-          "tag": "third_person"
-        },
-        {
-          "surface": "justified",
-          "tag": "past"
-        },
-        {
-          "surface": "justified",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "justifying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈdʒʌstɪfaɪ]",
-      "memory": [
-        "词根记忆：just（正当的）+ify（使……）→证明……是正当的"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "证明……是正当的；为……辩解"
-        }
-      ]
+      "ctx": "证明……是正当的"
     },
     {
       "word": "forget",
-      "lemma": "forget",
-      "kind": "word",
       "type": "outline",
-      "ctx": "忘记，忘掉",
-      "forms": [
-        {
-          "surface": "forgets",
-          "tag": "third_person"
-        },
-        {
-          "surface": "forgot",
-          "tag": "past"
-        },
-        {
-          "surface": "forgotten",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "forgetting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[fəˈɡet]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "忘记，忘掉"
-        }
-      ]
+      "ctx": "忘记，忘掉"
     },
     {
       "word": "defeat",
-      "lemma": "defeat",
-      "kind": "word",
       "type": "outline",
-      "ctx": "击败",
-      "forms": [
-        {
-          "surface": "defeats",
-          "tag": "third_person"
-        },
-        {
-          "surface": "defeated",
-          "tag": "past"
-        },
-        {
-          "surface": "defeated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "defeating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɪˈfiːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "/"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "击败；战胜"
-        }
-      ]
+      "ctx": "击败"
     },
     {
       "word": "minority",
-      "lemma": "minority",
-      "kind": "word",
       "type": "outline",
-      "ctx": "少数",
-      "forms": [],
-      "phonetic": "[maɪˈnɒrəti]",
-      "memory": [
-        "词根记忆：minor（较小的）+ity（表名词）→少数"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "少数；少数民族"
-        }
-      ]
+      "ctx": "少数"
     },
     {
       "word": "powerfully",
-      "lemma": "powerfully",
-      "kind": "word",
       "type": "core",
-      "ctx": "强大地",
-      "forms": [],
-      "phonetic": "[ˈpaʊəfəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "强大地；有力地"
-        }
-      ]
+      "ctx": "强大地"
     },
     {
       "word": "first-hand",
-      "lemma": "first-hand",
-      "kind": "word",
       "type": "core",
-      "ctx": "第一手的",
-      "forms": [],
-      "phonetic": "[ˌfɜːst ˈhænd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "第一手的；直接的"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "直接地"
-        }
-      ]
+      "ctx": "第一手的"
     },
     {
       "word": "dialogue",
-      "lemma": "dialogue",
-      "kind": "word",
       "type": "outline",
-      "ctx": "对话",
-      "forms": [],
-      "phonetic": "[ˈdaɪəlɒɡ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "对话"
-        }
-      ]
+      "ctx": "对话"
     }
   ]
 }

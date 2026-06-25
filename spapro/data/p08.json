@@ -34,1219 +34,248 @@
   "vocab": [
     {
       "word": "speller",
-      "lemma": "speller",
-      "kind": "word",
       "type": "core",
-      "ctx": "拼写能力强（或差）的人",
-      "forms": [],
-      "phonetic": "[ˈspelə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "拼写能力强（或差）的人"
-        }
-      ]
+      "ctx": "拼写能力强（或差）的人"
     },
     {
       "word": "publish",
-      "lemma": "publish",
-      "kind": "word",
       "type": "outline",
-      "ctx": "出版",
-      "forms": [
-        {
-          "surface": "publishes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "published",
-          "tag": "past"
-        },
-        {
-          "surface": "published",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "publishing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈpʌblɪʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "出版，发行；发表"
-        }
-      ]
+      "ctx": "出版"
     },
     {
       "word": "vital",
-      "lemma": "vital",
-      "kind": "word",
       "type": "outline",
-      "ctx": "至关重要的",
-      "forms": [],
-      "phonetic": "[ˈvaɪtl]",
-      "memory": [
-        "词根记忆：vit（生命）+al（……的）→事关生命的→生死攸关的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "至关重要的；生死攸关的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a vital injury致命伤"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "至关重要的"
     },
     {
       "word": "professionally",
-      "lemma": "professionally",
-      "kind": "word",
       "type": "core",
-      "ctx": "老练地",
-      "forms": [],
-      "phonetic": "[prəˈfeʃənəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "老练地，内行地；在工作上，在职业上"
-        }
-      ]
+      "ctx": "老练地"
     },
     {
       "word": "mean",
-      "lemma": "mean",
-      "kind": "word",
       "type": "outline",
-      "ctx": "意味着",
-      "forms": [
-        {
-          "surface": "means",
-          "tag": "third_person"
-        },
-        {
-          "surface": "meant",
-          "tag": "past"
-        },
-        {
-          "surface": "meant",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "meaning",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[miːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "意味着；意思是；打算"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "吝啬的"
-        }
-      ]
+      "ctx": "意味着"
     },
     {
       "word": "grammar",
-      "lemma": "grammar",
-      "kind": "word",
       "type": "outline",
-      "ctx": "语法",
-      "forms": [],
-      "phonetic": "[ˈɡræmə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "语法"
-        }
-      ]
+      "ctx": "语法"
     },
     {
       "word": "spelling",
-      "lemma": "spelling",
-      "kind": "word",
       "type": "core",
-      "ctx": "拼写",
-      "forms": [],
-      "phonetic": "[ˈspelɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "拼写，拼读"
-        }
-      ]
+      "ctx": "拼写"
     },
     {
       "word": "editor",
-      "lemma": "editor",
-      "kind": "word",
       "type": "outline",
-      "ctx": "编辑",
-      "forms": [],
-      "phonetic": "[ˈedɪtə(r)]",
-      "memory": [
-        "来自edit（  vt.  编辑）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "编辑"
-        }
-      ]
+      "ctx": "编辑"
     },
     {
       "word": "spell",
-      "lemma": "spell",
-      "kind": "word",
       "type": "outline",
-      "ctx": "拼写",
-      "forms": [
-        {
-          "surface": "spells",
-          "tag": "third_person"
-        },
-        {
-          "surface": "spelt",
-          "tag": "past"
-        },
-        {
-          "surface": "spelt",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "spelling",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[spel]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "拼写；拼出；拼作",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "spell out解释明白；拼写"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "拼写"
     },
     {
       "word": "correctly",
-      "lemma": "correctly",
-      "kind": "word",
       "type": "core",
-      "ctx": "正确地",
-      "forms": [],
-      "phonetic": "[kəˈrektli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "正确地；得体地"
-        }
-      ]
+      "ctx": "正确地"
     },
     {
       "word": "reference",
-      "lemma": "reference",
-      "kind": "word",
       "type": "outline",
-      "ctx": "提及",
-      "forms": [],
-      "phonetic": "[ˈrefrəns]",
-      "memory": [
-        "来自refer（  vi.  提及）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "提及，涉及；参考",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a reference book一本参考书"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "提及"
     },
     {
       "word": "desk",
-      "lemma": "desk",
-      "kind": "word",
       "type": "outline",
-      "ctx": "书桌",
-      "forms": [],
-      "phonetic": "[desk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "书桌，办公桌"
-        }
-      ]
+      "ctx": "书桌"
     },
     {
       "word": "dictionary",
-      "lemma": "dictionary",
-      "kind": "word",
       "type": "outline",
-      "ctx": "词典",
-      "forms": [],
-      "phonetic": "[ˈdɪkʃənri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "词典，字典"
-        }
-      ]
+      "ctx": "词典"
     },
     {
       "word": "laptop",
-      "lemma": "laptop",
-      "kind": "word",
       "type": "outline",
-      "ctx": "笔记本电脑",
-      "forms": [],
-      "phonetic": "[ˈlæptɒp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "笔记本电脑"
-        }
-      ]
+      "ctx": "笔记本电脑"
     },
     {
       "word": "account",
-      "lemma": "account",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[C] 账目",
-      "forms": [
-        {
-          "surface": "accounts",
-          "tag": "plural"
-        },
-        {
-          "surface": "accounts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "accounted",
-          "tag": "past"
-        },
-        {
-          "surface": "accounted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "accounting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈkaʊnt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[C] 账目；账户；描述；说明",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "take account of考虑到，顾及account for占；导致；做出解释"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "v.",
-          "meaning": "认为是"
-        }
-      ]
+      "ctx": "[C] 账目"
     },
     {
       "word": "context",
-      "lemma": "context",
-      "kind": "word",
       "type": "outline",
-      "ctx": "背景",
-      "forms": [],
-      "phonetic": "[ˈkɒntekst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "背景，环境；上下文，语境"
-        }
-      ]
+      "ctx": "背景"
     },
     {
       "word": "plenty",
-      "lemma": "plenty",
-      "kind": "word",
       "type": "outline",
-      "ctx": "充足",
-      "forms": [],
-      "phonetic": "[ˈplenti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "充足，大量",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "plenty of大量的，充足的"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "充足"
     },
     {
       "word": "cover",
-      "lemma": "cover",
-      "kind": "word",
       "type": "outline",
-      "ctx": "盖子",
-      "forms": [
-        {
-          "surface": "covers",
-          "tag": "plural"
-        },
-        {
-          "surface": "covers",
-          "tag": "third_person"
-        },
-        {
-          "surface": "covered",
-          "tag": "past"
-        },
-        {
-          "surface": "covered",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "covering",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈkʌvə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "盖子；罩；封面",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "wrap*（  vt.  包，裹；围，缠绕）"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "覆盖；掩盖；包括；报道"
-        }
-      ]
+      "ctx": "盖子"
     },
     {
       "word": "leaf",
-      "lemma": "leaf",
-      "kind": "word",
       "type": "outline",
-      "ctx": "叶",
-      "forms": [
-        {
-          "surface": "leaves",
-          "tag": "plural"
-        },
-        {
-          "surface": "leafs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "leafed",
-          "tag": "past"
-        },
-        {
-          "surface": "leafed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "leafing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[liːf]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "叶，叶子；（书刊的）张，页",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "leaf through翻阅"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "v.",
-          "meaning": "翻阅"
-        }
-      ]
+      "ctx": "叶"
     },
     {
       "word": "finger",
-      "lemma": "finger",
-      "kind": "word",
       "type": "outline",
-      "ctx": "手指",
-      "forms": [],
-      "phonetic": "[ˈfɪŋɡə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "手指"
-        }
-      ]
+      "ctx": "手指"
     },
     {
       "word": "precise",
-      "lemma": "precise",
-      "kind": "word",
       "type": "core",
-      "ctx": "精确的",
-      "forms": [],
-      "phonetic": "[prɪˈsaɪs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "精确的，准确的"
-        }
-      ]
+      "ctx": "精确的"
     },
     {
       "word": "thus",
-      "lemma": "thus",
-      "kind": "word",
       "type": "outline",
-      "ctx": "这样",
-      "forms": [],
-      "phonetic": "[ðʌs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "这样；因而"
-        }
-      ]
+      "ctx": "这样"
     },
     {
       "word": "differentiate",
-      "lemma": "differentiate",
-      "kind": "word",
       "type": "core",
-      "ctx": "区分",
-      "forms": [
-        {
-          "surface": "differentiates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "differentiated",
-          "tag": "past"
-        },
-        {
-          "surface": "differentiated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "differentiating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌdɪfəˈrenʃieɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "区分；使不同"
-        },
-        {
-          "pos": "vi.",
-          "meaning": "区分；差别对待"
-        }
-      ]
+      "ctx": "区分"
     },
     {
       "word": "similar",
-      "lemma": "similar",
-      "kind": "word",
       "type": "outline",
-      "ctx": "相似的",
-      "forms": [],
-      "phonetic": "[ˈsɪmələ(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "相似的，相像的"
-        }
-      ]
+      "ctx": "相似的"
     },
     {
       "word": "but",
-      "lemma": "but",
-      "kind": "word",
       "type": "outline",
-      "ctx": "但是",
-      "forms": [],
-      "phonetic": "[bʌt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "conj.",
-          "meaning": "但是"
-        },
-        {
-          "pos": "prep.",
-          "meaning": "除了，除……外"
-        }
-      ]
+      "ctx": "但是"
     },
     {
       "word": "identical",
-      "lemma": "identical",
-      "kind": "word",
       "type": "outline",
-      "ctx": "完全相同的",
-      "forms": [],
-      "phonetic": "[aɪˈdentɪkl]",
-      "memory": [
-        "词根记忆：ident（同样的）+ical（表形容词）→完全相同的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "完全相同的，同一的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "identical genes完全相同的基因"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "完全相同的"
     },
     {
       "word": "show",
-      "lemma": "show",
-      "kind": "word",
       "type": "outline",
-      "ctx": "给……看",
-      "forms": [
-        {
-          "surface": "shows",
-          "tag": "third_person"
-        },
-        {
-          "surface": "showed",
-          "tag": "past"
-        },
-        {
-          "surface": "shown",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "showing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ʃəʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "给……看；显示；带，领；表现",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "show up出现；露面show off炫耀"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "演出；节目；展览（会）"
-        }
-      ]
+      "ctx": "给……看"
     },
     {
       "word": "pronounce",
-      "lemma": "pronounce",
-      "kind": "word",
       "type": "outline",
-      "ctx": "发音",
-      "forms": [
-        {
-          "surface": "pronounces",
-          "tag": "third_person"
-        },
-        {
-          "surface": "pronounced",
-          "tag": "past"
-        },
-        {
-          "surface": "pronounced",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "pronouncing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[prəˈnaʊns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "发音"
-        }
-      ]
+      "ctx": "发音"
     },
     {
       "word": "addition",
-      "lemma": "addition",
-      "kind": "word",
       "type": "outline",
-      "ctx": "增加",
-      "forms": [],
-      "phonetic": "[əˈdɪʃn]",
-      "memory": [
-        "词根记忆：add（加）+ition（表名词）→增加"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "增加；加法",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "in addition另外in addition to除……之外"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "增加"
     },
     {
       "word": "ago",
-      "lemma": "ago",
-      "kind": "word",
       "type": "outline",
-      "ctx": "以前",
-      "forms": [],
-      "phonetic": "[əˈɡəʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "以前"
-        }
-      ]
+      "ctx": "以前"
     },
     {
       "word": "bookshop",
-      "lemma": "bookshop",
-      "kind": "word",
       "type": "core",
-      "ctx": "书店",
-      "forms": [],
-      "phonetic": "[ˈbʊkʃɒp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "书店"
-        }
-      ]
+      "ctx": "书店"
     },
     {
       "word": "sale",
-      "lemma": "sale",
-      "kind": "word",
       "type": "outline",
-      "ctx": "卖",
-      "forms": [],
-      "phonetic": "[seɪl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "卖，出售；特价促销",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "on sale正在出售；减价出售for sale待售"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "卖"
     },
     {
       "word": "penny",
-      "lemma": "penny",
-      "kind": "word",
       "type": "core",
-      "ctx": "便士",
-      "forms": [
-        {
-          "surface": "pence",
-          "tag": "plural"
-        },
-        {
-          "surface": "pennies",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈpeni]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（复数形式pence或pennies）便士"
-        }
-      ]
+      "ctx": "便士"
     },
     {
       "word": "around",
-      "lemma": "around",
-      "kind": "word",
       "type": "outline",
-      "ctx": "在周围",
-      "forms": [],
-      "phonetic": "[əˈraʊnd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "在周围；在附近；大约"
-        },
-        {
-          "pos": "prep.",
-          "meaning": "在……周围；绕着"
-        }
-      ]
+      "ctx": "在周围"
     },
     {
       "word": "plus",
-      "lemma": "plus",
-      "kind": "word",
       "type": "outline",
-      "ctx": "加",
-      "forms": [],
-      "phonetic": "[plʌs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "prep.",
-          "meaning": "加，加上"
-        }
-      ]
+      "ctx": "加"
     },
     {
       "word": "combination",
-      "lemma": "combination",
-      "kind": "word",
       "type": "core",
-      "ctx": "结合（体）",
-      "forms": [],
-      "phonetic": "[ˌkɒmbɪˈneɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "结合（体），联合（体）"
-        }
-      ]
+      "ctx": "结合（体）"
     },
     {
       "word": "phrase",
-      "lemma": "phrase",
-      "kind": "word",
       "type": "outline",
-      "ctx": "短语",
-      "forms": [],
-      "phonetic": "[freɪz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "短语，习惯用语"
-        }
-      ]
+      "ctx": "短语"
     },
     {
       "word": "check",
-      "lemma": "check",
-      "kind": "word",
       "type": "outline",
-      "ctx": "检查",
-      "forms": [
-        {
-          "surface": "checks",
-          "tag": "third_person"
-        },
-        {
-          "surface": "checked",
-          "tag": "past"
-        },
-        {
-          "surface": "checked",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "checking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[tʃek]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "检查；查看；核实；控制"
-        },
-        {
-          "pos": "n.",
-          "meaning": "检查；调查"
-        }
-      ]
+      "ctx": "检查"
     },
     {
       "word": "origin",
-      "lemma": "origin",
-      "kind": "word",
       "type": "outline",
-      "ctx": "起源",
-      "forms": [],
-      "phonetic": "[ˈɒrɪdʒɪn]",
-      "memory": [
-        "词根记忆：orig（开始）+in→（生命）开始→起源；由来"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "起源；由来"
-        }
-      ]
+      "ctx": "起源"
     },
     {
       "word": "look",
-      "lemma": "look",
-      "kind": "word",
       "type": "outline",
-      "ctx": "看",
-      "forms": [],
-      "phonetic": "[lʊk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "看",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "take a close look at仔细观察look back on sth.回忆；回顾look after照料；照顾look forward to盼望look out for sb./yourself只考虑某人/自己的利益look sth.up查阅，查检"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vi.",
-          "meaning": "看；看起来；注意"
-        }
-      ]
+      "ctx": "看"
     },
     {
       "word": "example",
-      "lemma": "example",
-      "kind": "word",
       "type": "outline",
-      "ctx": "例子",
-      "forms": [],
-      "phonetic": "[ɪɡˈzɑːmpl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "例子；榜样"
-        }
-      ]
+      "ctx": "例子"
     },
     {
       "word": "usage",
-      "lemma": "usage",
-      "kind": "word",
       "type": "core",
-      "ctx": "使用",
-      "forms": [],
-      "phonetic": "[ˈjuːsɪdʒ; ˈjuːzɪdʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "使用；（词语）惯用法"
-        }
-      ]
+      "ctx": "使用"
     },
     {
       "word": "influential",
-      "lemma": "influential",
-      "kind": "word",
       "type": "outline",
-      "ctx": "有影响的",
-      "forms": [],
-      "phonetic": "[ˌɪnfluˈenʃl]",
-      "memory": [
-        "来自influence（  n.  /  vt.  影响）"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "有影响的",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "The tests show that the social environment is extremely  influential  when we're making decisions.测试表明，当我们做决定时，社会环境是极具影响力的。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "有影响的"
     },
     {
       "word": "dull",
-      "lemma": "dull",
-      "kind": "word",
       "type": "core",
-      "ctx": "单调无味的",
-      "forms": [],
-      "phonetic": "[dʌl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "单调无味的；阴暗的；迟钝的"
-        }
-      ]
+      "ctx": "单调无味的"
     },
     {
       "word": "illustrate",
-      "lemma": "illustrate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "说明",
-      "forms": [
-        {
-          "surface": "illustrates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "illustrated",
-          "tag": "past"
-        },
-        {
-          "surface": "illustrated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "illustrating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈɪləstreɪt]",
-      "memory": [
-        "词根记忆：il（表加强）+lustr（光，照亮）+ate（使……）→让光亮照进（模糊的事物）内部→（用例子、图表等）说明"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "（用例子、图表等）说明"
-        }
-      ]
+      "ctx": "说明"
     },
     {
       "word": "pleasure",
-      "lemma": "pleasure",
-      "kind": "word",
       "type": "outline",
-      "ctx": "高兴",
-      "forms": [],
-      "phonetic": "[ˈpleʒə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "高兴，愉快；乐事，快事"
-        }
-      ]
+      "ctx": "高兴"
     },
     {
       "word": "cast",
-      "lemma": "cast",
-      "kind": "word",
       "type": "outline",
-      "ctx": "浏览",
-      "forms": [
-        {
-          "surface": "casts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "cast",
-          "tag": "past"
-        },
-        {
-          "surface": "cast",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "casting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kɑːst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "向……投以（视线、笑容等）；扔，抛；投射",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "cast one's eye over快速浏览"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "浏览"
     },
     {
       "word": "rewarding",
-      "lemma": "rewarding",
-      "kind": "word",
       "type": "core",
-      "ctx": "有益的",
-      "forms": [],
-      "phonetic": "[rɪˈwɔːrdɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "有益的；值得做的；报酬高的；令人有所收获的"
-        }
-      ]
+      "ctx": "有益的"
     },
     {
       "word": "experience",
-      "lemma": "experience",
-      "kind": "word",
       "type": "outline",
-      "ctx": "经历",
-      "forms": [
-        {
-          "surface": "experiences",
-          "tag": "plural"
-        },
-        {
-          "surface": "experiences",
-          "tag": "third_person"
-        },
-        {
-          "surface": "experienced",
-          "tag": "past"
-        },
-        {
-          "surface": "experienced",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "experiencing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪkˈspɪəriəns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "经历；体验"
-        },
-        {
-          "pos": "n.",
-          "meaning": "[U] 经验；阅历；[C]（一次）经历，体验"
-        }
-      ]
+      "ctx": "经历"
     }
   ]
 }

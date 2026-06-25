@@ -39,1002 +39,198 @@
   "vocab": [
     {
       "word": "politician",
-      "lemma": "politician",
-      "kind": "word",
       "type": "outline",
-      "ctx": "政治家",
-      "forms": [
-        {
-          "surface": "politicians",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˌpɒləˈtɪʃn]",
-      "memory": [
-        "词根记忆：polit（政治）+ician（表人）→搞政治的人→政治家"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "政治家"
-        }
-      ]
+      "ctx": "政治家"
     },
     {
       "word": "logical",
-      "lemma": "logical",
-      "kind": "word",
       "type": "outline",
-      "ctx": "符合逻辑的",
-      "forms": [],
-      "phonetic": "[ˈlɒdʒɪkl]",
-      "memory": [
-        "词根记忆：log（说话）+ical（……的）→符合逻辑的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "符合逻辑的；合乎情理的"
-        }
-      ]
+      "ctx": "符合逻辑的"
     },
     {
       "word": "average",
-      "lemma": "average",
-      "kind": "word",
       "type": "outline",
-      "ctx": "平均的",
-      "forms": [
-        {
-          "surface": "averages",
-          "tag": "plural"
-        },
-        {
-          "surface": "averages",
-          "tag": "third_person"
-        },
-        {
-          "surface": "averaged",
-          "tag": "past"
-        },
-        {
-          "surface": "averaged",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "averaging",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈævərɪdʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "平均的；普通的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "on average平均average out平均数为"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "平均数"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "平均为；计算出……的平均数"
-        }
-      ]
+      "ctx": "平均的"
     },
     {
       "word": "March",
-      "lemma": "March",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "三月",
-      "forms": [],
-      "phonetic": "[mɑːtʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "三月",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "march*（ v. 齐步走，行进；前进）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "三月"
     },
     {
       "word": "statistician",
-      "lemma": "statistician",
-      "kind": "word",
       "type": "core",
-      "ctx": "统计学家，统计员",
-      "forms": [],
-      "phonetic": "[ˌstætɪˈstɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "统计学家，统计员"
-        }
-      ]
+      "ctx": "统计学家，统计员"
     },
     {
       "word": "conduct",
-      "lemma": "conduct",
-      "kind": "word",
       "type": "outline",
-      "ctx": "引导",
-      "forms": [
-        {
-          "surface": "conducts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "conducted",
-          "tag": "past"
-        },
-        {
-          "surface": "conducted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "conducting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kənˈdʌkt]",
-      "memory": [
-        "词根记忆：con（表加强）+duct（引导）→引导；组织"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "引导；组织；进行；指挥；举止",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "conduct an experiment进行试验"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "行为，举止"
-        }
-      ]
+      "ctx": "引导"
     },
     {
       "word": "fancy",
-      "lemma": "fancy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "花哨的",
-      "forms": [],
-      "phonetic": "[ˈfænsi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "花哨的；精致的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a fancy dress ball一场化装舞会"
-              ]
-            },
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Hi, Linda, fancy seeing you here.嗨，琳达，真想不到能在这里见到你。"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "想象；爱好"
-        },
-        {
-          "pos": "v.",
-          "meaning": "想要；真想不到"
-        }
-      ]
+      "ctx": "花哨的"
     },
     {
       "word": "capitalize",
-      "lemma": "capitalize",
-      "kind": "word",
       "type": "core",
-      "ctx": "用大写字母书写",
-      "forms": [
-        {
-          "surface": "capitalizes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "capitalized",
-          "tag": "past"
-        },
-        {
-          "surface": "capitalized",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "capitalizing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈkæpɪtəlaɪz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "用大写字母书写；为……提供运营资本（或资金）",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "capitalize on/upon（充分）利用"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "用大写字母书写"
     },
     {
       "word": "distribution",
-      "lemma": "distribution",
-      "kind": "word",
       "type": "outline",
-      "ctx": "分发，分送",
-      "forms": [],
-      "phonetic": "[ˌdɪstrɪˈbjuːʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "分发，分送；分配，分布"
-        }
-      ]
+      "ctx": "分发，分送"
     },
     {
       "word": "overestimate",
-      "lemma": "overestimate",
-      "kind": "word",
       "type": "core",
-      "ctx": "高估",
-      "forms": [
-        {
-          "surface": "overestimates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "overestimated",
-          "tag": "past"
-        },
-        {
-          "surface": "overestimated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "overestimating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌəʊvərˈestɪmeɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "高估"
-        },
-        {
-          "pos": "n.",
-          "meaning": "过高的估计"
-        }
-      ]
+      "ctx": "高估"
     },
     {
       "word": "underestimate",
-      "lemma": "underestimate",
-      "kind": "word",
       "type": "core",
-      "ctx": "低估",
-      "forms": [
-        {
-          "surface": "underestimates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "underestimated",
-          "tag": "past"
-        },
-        {
-          "surface": "underestimated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "underestimating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌʌndərˈestɪmeɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "低估；轻视"
-        },
-        {
-          "pos": "n.",
-          "meaning": "低估"
-        }
-      ]
+      "ctx": "低估"
     },
     {
       "word": "cancel",
-      "lemma": "cancel",
-      "kind": "word",
       "type": "outline",
-      "ctx": "取消",
-      "forms": [
-        {
-          "surface": "cancels",
-          "tag": "third_person"
-        },
-        {
-          "surface": "cancelled",
-          "tag": "past"
-        },
-        {
-          "surface": "cancelled",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "canceled",
-          "tag": "past"
-        },
-        {
-          "surface": "canceled",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "cancelling",
-          "tag": "ing"
-        },
-        {
-          "surface": "canceling",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈkænsl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "取消",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "cancel out抵消"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "取消"
     },
     {
       "word": "technical",
-      "lemma": "technical",
-      "kind": "word",
       "type": "core",
-      "ctx": "技术的，工艺的",
-      "forms": [],
-      "phonetic": "[ˈteknɪkl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "技术的，工艺的"
-        }
-      ]
+      "ctx": "技术的，工艺的"
     },
     {
       "word": "term",
-      "lemma": "term",
-      "kind": "word",
       "type": "outline",
-      "ctx": "学期",
-      "forms": [
-        {
-          "surface": "terms",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[tɜːm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "学期；词语，术语；条款"
-        }
-      ]
+      "ctx": "学期"
     },
     {
       "word": "lion",
-      "lemma": "lion",
-      "kind": "word",
       "type": "outline",
-      "ctx": "狮子",
-      "forms": [
-        {
-          "surface": "lions",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈlaɪən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "狮子"
-        }
-      ]
+      "ctx": "狮子"
     },
     {
       "word": "sheep",
-      "lemma": "sheep",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（绵）羊",
-      "forms": [],
-      "phonetic": "[ʃiːp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（绵）羊"
-        }
-      ]
+      "ctx": "（绵）羊"
     },
     {
       "word": "correlate",
-      "lemma": "correlate",
-      "kind": "word",
       "type": "core",
-      "ctx": "使……相互关联",
-      "forms": [
-        {
-          "surface": "correlates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "correlated",
-          "tag": "past"
-        },
-        {
-          "surface": "correlated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "correlating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈkɒrəleɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "使……相互关联"
-        }
-      ]
+      "ctx": "使……相互关联"
     },
     {
       "word": "dependent",
-      "lemma": "dependent",
-      "kind": "word",
       "type": "core",
-      "ctx": "依靠的，依赖的",
-      "forms": [],
-      "phonetic": "[dɪˈpendənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "依靠的，依赖的；取决于"
-        }
-      ]
+      "ctx": "依靠的，依赖的"
     },
     {
       "word": "accuracy",
-      "lemma": "accuracy",
-      "kind": "word",
       "type": "core",
-      "ctx": "准确性",
-      "forms": [],
-      "phonetic": "[ˈækjərəsi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "准确性"
-        }
-      ]
+      "ctx": "准确性"
     },
     {
       "word": "classic",
-      "lemma": "classic",
-      "kind": "word",
       "type": "outline",
-      "ctx": "经典的，一流的",
-      "forms": [],
-      "phonetic": "[ˈklæsɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "经典的，一流的"
-        }
-      ]
+      "ctx": "经典的，一流的"
     },
     {
       "word": "phenomenon",
-      "lemma": "phenomenon",
-      "kind": "word",
       "type": "outline",
-      "ctx": "现象",
-      "forms": [
-        {
-          "surface": "phenomena",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[fəˈnɒmɪnən]",
-      "memory": [
-        "词根记忆：phen（显示）+omen（预兆）+on→显示预兆→现象"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（pl.phenomena）现象",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "physical phenomenon物理现象social phenomenon社会现象"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "现象"
     },
     {
       "word": "obtain",
-      "lemma": "obtain",
-      "kind": "word",
       "type": "outline",
-      "ctx": "获得，得到",
-      "forms": [
-        {
-          "surface": "obtains",
-          "tag": "third_person"
-        },
-        {
-          "surface": "obtained",
-          "tag": "past"
-        },
-        {
-          "surface": "obtained",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "obtaining",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əbˈteɪn]",
-      "memory": [
-        "词根记忆：ob（表加强）+tain（拿住）→拿住了→获得"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "获得，得到"
-        }
-      ]
+      "ctx": "获得，得到"
     },
     {
       "word": "follow-up",
-      "lemma": "follow-up",
-      "kind": "word",
       "type": "core",
-      "ctx": "后续事物",
-      "forms": [],
-      "phonetic": "[ˈfɒləʊ ʌp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "后续事物；后续行动"
-        }
-      ]
+      "ctx": "后续事物"
     },
     {
       "word": "member",
-      "lemma": "member",
-      "kind": "word",
       "type": "outline",
-      "ctx": "成员，会员",
-      "forms": [
-        {
-          "surface": "members",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈmembə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "成员，会员"
-        }
-      ]
+      "ctx": "成员，会员"
     },
     {
       "word": "confident",
-      "lemma": "confident",
-      "kind": "word",
       "type": "core",
-      "ctx": "自信的，确信的",
-      "forms": [],
-      "phonetic": "[ˈkɒnfɪdənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "自信的，确信的"
-        }
-      ]
+      "ctx": "自信的，确信的"
     },
     {
       "word": "majority",
-      "lemma": "majority",
-      "kind": "word",
       "type": "outline",
-      "ctx": "大多数，大部分",
-      "forms": [],
-      "phonetic": "[məˈdʒɒrəti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "大多数，大部分"
-        }
-      ]
+      "ctx": "大多数，大部分"
     },
     {
       "word": "dominant",
-      "lemma": "dominant",
-      "kind": "word",
       "type": "core",
-      "ctx": "占优势的，显著的",
-      "forms": [],
-      "phonetic": "[ˈdɒmɪnənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "占优势的，显著的"
-        }
-      ]
+      "ctx": "占优势的，显著的"
     },
     {
       "word": "reason",
-      "lemma": "reason",
-      "kind": "word",
       "type": "outline",
-      "ctx": "理由，原因",
-      "forms": [
-        {
-          "surface": "reasons",
-          "tag": "plural"
-        },
-        {
-          "surface": "reasons",
-          "tag": "third_person"
-        },
-        {
-          "surface": "reasoned",
-          "tag": "past"
-        },
-        {
-          "surface": "reasoned",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "reasoning",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈriːzn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "理由，原因"
-        },
-        {
-          "pos": "v.",
-          "meaning": "推理，推断"
-        }
-      ]
+      "ctx": "理由，原因"
     },
     {
       "word": "somehow",
-      "lemma": "somehow",
-      "kind": "word",
       "type": "outline",
-      "ctx": "以某种方式",
-      "forms": [],
-      "phonetic": "[ˈsʌmhaʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "以某种方式；不知为什么，不知怎么地"
-        }
-      ]
+      "ctx": "以某种方式"
     },
     {
       "word": "reasoning",
-      "lemma": "reasoning",
-      "kind": "word",
       "type": "core",
-      "ctx": "推理，推论",
-      "forms": [],
-      "phonetic": "[ˈriːzənɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "推理，推论"
-        }
-      ]
+      "ctx": "推理，推论"
     },
     {
       "word": "implication",
-      "lemma": "implication",
-      "kind": "word",
       "type": "core",
-      "ctx": "暗指",
-      "forms": [
-        {
-          "surface": "implications",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˌɪmplɪˈkeɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "暗指；卷入；[常pl.]可能的影响"
-        }
-      ]
+      "ctx": "暗指"
     },
     {
       "word": "decision-making",
-      "lemma": "decision-making",
-      "kind": "word",
       "type": "core",
-      "ctx": "决策",
-      "forms": [],
-      "phonetic": "[dɪˈsɪʒn meɪkɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "决策"
-        }
-      ]
+      "ctx": "决策"
     },
     {
       "word": "enormous",
-      "lemma": "enormous",
-      "kind": "word",
       "type": "outline",
-      "ctx": "巨大的，庞大的",
-      "forms": [],
-      "phonetic": "[ɪˈnɔːməs]",
-      "memory": [
-        "词根记忆：e（出）+norm（规则）+ous（……的）→超出规则的→巨大的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "巨大的，庞大的"
-        }
-      ]
+      "ctx": "巨大的，庞大的"
     },
     {
       "word": "institution",
-      "lemma": "institution",
-      "kind": "word",
       "type": "outline",
-      "ctx": "公共机构",
-      "forms": [
-        {
-          "surface": "institutions",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˌɪnstɪˈtjuːʃn]",
-      "memory": [
-        "词根记忆：in（使……）+stitut（建立）+ion（表名词）→协会"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "公共机构；协会",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a financial institution一家金融机构"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "公共机构"
     },
     {
       "word": "predict",
-      "lemma": "predict",
-      "kind": "word",
       "type": "outline",
-      "ctx": "预言，预报",
-      "forms": [
-        {
-          "surface": "predicts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "predicted",
-          "tag": "past"
-        },
-        {
-          "surface": "predicted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "predicting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[prɪˈdɪkt]",
-      "memory": [
-        "词根记忆：pre（预先）+dict（说）→预言，预报"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "预言，预报"
-        }
-      ]
+      "ctx": "预言，预报"
     },
     {
       "word": "vote",
-      "lemma": "vote",
-      "kind": "word",
       "type": "outline",
-      "ctx": "选举，投票",
-      "forms": [
-        {
-          "surface": "votes",
-          "tag": "plural"
-        },
-        {
-          "surface": "votes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "voted",
-          "tag": "past"
-        },
-        {
-          "surface": "voted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "voting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[vəʊt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "选举，投票"
-        }
-      ]
+      "ctx": "选举，投票"
     },
     {
       "word": "permanent",
-      "lemma": "permanent",
-      "kind": "word",
       "type": "outline",
-      "ctx": "永久的，持久的",
-      "forms": [],
-      "phonetic": "[ˈpɜːmənənt]",
-      "memory": [
-        "词根记忆：per（自始至终）+man（手）+ent（具……性质的）→一直靠双手养活自己的→永久的，持久的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "永久的，持久的"
-        }
-      ]
+      "ctx": "永久的，持久的"
     },
     {
       "word": "election",
-      "lemma": "election",
-      "kind": "word",
       "type": "outline",
-      "ctx": "选举",
-      "forms": [],
-      "phonetic": "[ɪˈlekʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "选举；当选"
-        }
-      ]
+      "ctx": "选举"
     },
     {
       "word": "honest",
-      "lemma": "honest",
-      "kind": "word",
       "type": "outline",
-      "ctx": "诚实的，正直的",
-      "forms": [],
-      "phonetic": "[ˈɒnɪst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "诚实的，正直的"
-        }
-      ]
+      "ctx": "诚实的，正直的"
     }
   ]
 }

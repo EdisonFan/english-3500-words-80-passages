@@ -34,1095 +34,223 @@
   "vocab": [
     {
       "word": "broadcast",
-      "lemma": "broadcast",
-      "kind": "word",
       "type": "outline",
-      "ctx": "播放，广播",
-      "forms": [
-        {
-          "surface": "broadcasts",
-          "tag": "plural"
-        },
-        {
-          "surface": "broadcasts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "broadcast",
-          "tag": "past"
-        },
-        {
-          "surface": "broadcast",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "broadcasting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈbrɔːdkɑːst]",
-      "memory": [
-        "联想记忆：broad（宽，广）+cast（投，射）→传播的范围很广→广播；传播"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "播放，广播；散布，传播"
-        },
-        {
-          "pos": "n.",
-          "meaning": "（无线电、电视）节目；播送"
-        }
-      ]
+      "ctx": "播放，广播"
     },
     {
       "word": "possession",
-      "lemma": "possession",
-      "kind": "word",
       "type": "outline",
-      "ctx": "拥有",
-      "forms": [],
-      "phonetic": "[pəˈzeʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "拥有；[pl.]财产，所有物",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "in possession of拥有in the possession of（某物）为（某人）所有"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "拥有"
     },
     {
       "word": "convenience",
-      "lemma": "convenience",
-      "kind": "word",
       "type": "core",
-      "ctx": "[U]方便，便利",
-      "forms": [],
-      "phonetic": "[kənˈviːniəns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]方便，便利；[C]便利的设施或用具"
-        }
-      ]
+      "ctx": "[U]方便，便利"
     },
     {
       "word": "reply",
-      "lemma": "reply",
-      "kind": "word",
       "type": "outline",
-      "ctx": "回复",
-      "forms": [
-        {
-          "surface": "replies",
-          "tag": "plural"
-        },
-        {
-          "surface": "replies",
-          "tag": "third_person"
-        },
-        {
-          "surface": "replied",
-          "tag": "past"
-        },
-        {
-          "surface": "replied",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "replying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rɪˈplaɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "/"
-        },
-        {
-          "pos": "vi.",
-          "meaning": "（replied, replied, replying）回答，答复"
-        }
-      ]
+      "ctx": "回复"
     },
     {
       "word": "servant",
-      "lemma": "servant",
-      "kind": "word",
       "type": "outline",
-      "ctx": "仆人，用人",
-      "forms": [
-        {
-          "surface": "servants",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈsɜːvənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "仆人，用人"
-        }
-      ]
+      "ctx": "仆人，用人"
     },
     {
       "word": "device",
-      "lemma": "device",
-      "kind": "word",
       "type": "outline",
-      "ctx": "装置，设备",
-      "forms": [
-        {
-          "surface": "devices",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[dɪˈvaɪs]",
-      "memory": [
-        "词根记忆：de（表加强）+vice（代替）→代替人力的东西→设备"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "装置，设备；方法",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "video and sound devices影音设备"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "装置，设备"
     },
     {
       "word": "minimalism",
-      "lemma": "minimalism",
-      "kind": "word",
       "type": "core",
-      "ctx": "简约风格，极简主义，极简派艺术",
-      "forms": [],
-      "phonetic": "[ˈmɪnɪməlɪzəm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "简约风格，极简主义，极简派艺术",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "digital minimalism数字极简主义"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "简约风格，极简主义，极简派艺术"
     },
     {
       "word": "detailed",
-      "lemma": "detailed",
-      "kind": "word",
       "type": "core",
-      "ctx": "详细的，细致的",
-      "forms": [],
-      "phonetic": "[ˈdiːteɪld]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "详细的，细致的"
-        }
-      ]
+      "ctx": "详细的，细致的"
     },
     {
       "word": "why",
-      "lemma": "why",
-      "kind": "word",
       "type": "outline",
-      "ctx": "为什么",
-      "forms": [],
-      "phonetic": "[waɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "为什么"
-        }
-      ]
+      "ctx": "为什么"
     },
     {
       "word": "then",
-      "lemma": "then",
-      "kind": "word",
       "type": "outline",
-      "ctx": "当时，那时",
-      "forms": [],
-      "phonetic": "[ðen]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "当时，那时；然后；那么"
-        }
-      ]
+      "ctx": "当时，那时"
     },
     {
       "word": "foundation",
-      "lemma": "foundation",
-      "kind": "word",
       "type": "outline",
-      "ctx": "基础，根据",
-      "forms": [
-        {
-          "surface": "foundations",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[faʊnˈdeɪʃn]",
-      "memory": [
-        "词根记忆：found（基础）+ation（表状态）→基础"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "基础，根据；基金会；创建，创办；[pl.] 地基"
-        }
-      ]
+      "ctx": "基础，根据"
     },
     {
       "word": "examination",
-      "lemma": "examination",
-      "kind": "word",
       "type": "core",
-      "ctx": "（=exam）考试，测试",
-      "forms": [],
-      "phonetic": "[ɪɡˌzæmɪˈneɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（=exam）考试，测试；检查；审查，调查"
-        }
-      ]
+      "ctx": "（=exam）考试，测试"
     },
     {
       "word": "increasingly",
-      "lemma": "increasingly",
-      "kind": "word",
       "type": "core",
-      "ctx": "日益，越来越多地",
-      "forms": [],
-      "phonetic": "[ɪnˈkriːsɪŋli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "日益，越来越多地"
-        }
-      ]
+      "ctx": "日益，越来越多地"
     },
     {
       "word": "conclude",
-      "lemma": "conclude",
-      "kind": "word",
       "type": "outline",
-      "ctx": "推断出，得出结论",
-      "forms": [
-        {
-          "surface": "concludes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "concluded",
-          "tag": "past"
-        },
-        {
-          "surface": "concluded",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "concluding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kənˈkluːd]",
-      "memory": [
-        "词根记忆：con（共同）+clud（关闭）+e→全部关闭→结束"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "推断出，得出结论；（使）结束，终止",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "The evening concluded with dinner and speeches.这个夜晚以晚宴和演讲告一段落。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "推断出，得出结论"
     },
     {
       "word": "introduce",
-      "lemma": "introduce",
-      "kind": "word",
       "type": "outline",
-      "ctx": "介绍",
-      "forms": [
-        {
-          "surface": "introduces",
-          "tag": "third_person"
-        },
-        {
-          "surface": "introduced",
-          "tag": "past"
-        },
-        {
-          "surface": "introduced",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "introducing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌɪn trəˈdjuːs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "介绍；引进",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "introduction*（ n. 介绍；引进；引言）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "介绍"
     },
     {
       "word": "method",
-      "lemma": "method",
-      "kind": "word",
       "type": "outline",
-      "ctx": "方法，办法",
-      "forms": [],
-      "phonetic": "[ˈmeθəd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "方法，办法"
-        }
-      ]
+      "ctx": "方法，办法"
     },
     {
       "word": "declutter",
-      "lemma": "declutter",
-      "kind": "word",
       "type": "core",
-      "ctx": "清除，清理（多余物品）",
-      "forms": [],
-      "phonetic": "[diːˈklʌtə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "清除，清理（多余物品）"
-        }
-      ]
+      "ctx": "清除，清理（多余物品）"
     },
     {
       "word": "parcel",
-      "lemma": "parcel",
-      "kind": "word",
       "type": "outline",
-      "ctx": "包裹",
-      "forms": [],
-      "phonetic": "[ˈpɑːsl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "包裹"
-        }
-      ]
+      "ctx": "包裹"
     },
     {
       "word": "dependency",
-      "lemma": "dependency",
-      "kind": "word",
       "type": "core",
-      "ctx": "依赖",
-      "forms": [
-        {
-          "surface": "dependencies",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[dɪˈpendən si]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "依赖"
-        }
-      ]
+      "ctx": "依赖"
     },
     {
       "word": "storage",
-      "lemma": "storage",
-      "kind": "word",
       "type": "core",
-      "ctx": "[U]贮藏",
-      "forms": [],
-      "phonetic": "[ˈstɔːrɪdʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]贮藏；存储（方式）"
-        }
-      ]
+      "ctx": "[U]贮藏"
     },
     {
       "word": "delete",
-      "lemma": "delete",
-      "kind": "word",
       "type": "outline",
-      "ctx": "删除",
-      "forms": [
-        {
-          "surface": "deletes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "deleted",
-          "tag": "past"
-        },
-        {
-          "surface": "deleted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "deleting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɪˈliːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "删除"
-        }
-      ]
+      "ctx": "删除"
     },
     {
       "word": "file",
-      "lemma": "file",
-      "kind": "word",
       "type": "outline",
-      "ctx": "文件，档案",
-      "forms": [
-        {
-          "surface": "files",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[faɪl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "文件，档案"
-        }
-      ]
+      "ctx": "文件，档案"
     },
     {
       "word": "optional",
-      "lemma": "optional",
-      "kind": "word",
       "type": "core",
-      "ctx": "可选择的",
-      "forms": [],
-      "phonetic": "[ˈɒpʃənl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "可选择的；选修的"
-        }
-      ]
+      "ctx": "可选择的"
     },
     {
       "word": "activity",
-      "lemma": "activity",
-      "kind": "word",
       "type": "outline",
-      "ctx": "活动",
-      "forms": [
-        {
-          "surface": "activities",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ækˈtɪvəti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "活动"
-        }
-      ]
+      "ctx": "活动"
     },
     {
       "word": "empty",
-      "lemma": "empty",
-      "kind": "word",
       "type": "outline",
-      "ctx": "空的",
-      "forms": [
-        {
-          "surface": "empties",
-          "tag": "plural"
-        },
-        {
-          "surface": "empties",
-          "tag": "third_person"
-        },
-        {
-          "surface": "emptied",
-          "tag": "past"
-        },
-        {
-          "surface": "emptied",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "emptying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈempti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "空的；空洞的；空虚的"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "（emptied, emptied, emptying）倒空"
-        }
-      ]
+      "ctx": "空的"
     },
     {
       "word": "carefully",
-      "lemma": "carefully",
-      "kind": "word",
       "type": "core",
-      "ctx": "小心地，仔细地，认真地",
-      "forms": [],
-      "phonetic": "[ˈkeəfəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "小心地，仔细地，认真地"
-        }
-      ]
+      "ctx": "小心地，仔细地，认真地"
     },
     {
       "word": "massive",
-      "lemma": "massive",
-      "kind": "word",
       "type": "outline",
-      "ctx": "大的",
-      "forms": [],
-      "phonetic": "[ˈmæsɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "大的；大块的；大量的；大规模的"
-        }
-      ]
+      "ctx": "大的"
     },
     {
       "word": "guide",
-      "lemma": "guide",
-      "kind": "word",
       "type": "outline",
-      "ctx": "指导",
-      "forms": [
-        {
-          "surface": "guides",
-          "tag": "plural"
-        },
-        {
-          "surface": "guides",
-          "tag": "third_person"
-        },
-        {
-          "surface": "guided",
-          "tag": "past"
-        },
-        {
-          "surface": "guided",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "guiding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɡaɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "指导；指引"
-        },
-        {
-          "pos": "n.",
-          "meaning": "向导，导游；指南"
-        }
-      ]
+      "ctx": "指导"
     },
     {
       "word": "agree",
-      "lemma": "agree",
-      "kind": "word",
       "type": "outline",
-      "ctx": "同意",
-      "forms": [
-        {
-          "surface": "agrees",
-          "tag": "third_person"
-        },
-        {
-          "surface": "agreed",
-          "tag": "past"
-        },
-        {
-          "surface": "agreed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "agreeing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈɡriː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "同意；应允"
-        }
-      ]
+      "ctx": "同意"
     },
     {
       "word": "participant",
-      "lemma": "participant",
-      "kind": "word",
       "type": "core",
-      "ctx": "参与者，参加者",
-      "forms": [
-        {
-          "surface": "participants",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[pɑːˈtɪsɪpənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "参与者，参加者"
-        }
-      ]
+      "ctx": "参与者，参加者"
     },
     {
       "word": "strategy",
-      "lemma": "strategy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "策略",
-      "forms": [
-        {
-          "surface": "strategies",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈstrætədʒi]",
-      "memory": [
-        "联想记忆：str（看作strange，奇怪的）+ate（吃）+gy→用奇怪的方法吃掉对手→策略"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "策略；策划；战略"
-        }
-      ]
+      "ctx": "策略"
     },
     {
       "word": "sustainable",
-      "lemma": "sustainable",
-      "kind": "word",
       "type": "core",
-      "ctx": "不破坏生态平衡的，可持续的",
-      "forms": [],
-      "phonetic": "[səˈsteɪnəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "不破坏生态平衡的，可持续的"
-        }
-      ]
+      "ctx": "不破坏生态平衡的，可持续的"
     },
     {
       "word": "necessity",
-      "lemma": "necessity",
-      "kind": "word",
       "type": "core",
-      "ctx": "[U]必要，需要",
-      "forms": [],
-      "phonetic": "[nəˈsesəti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]必要，需要；[C]必需品；必然性"
-        }
-      ]
+      "ctx": "[U]必要，需要"
     },
     {
       "word": "high-quality",
-      "lemma": "high-quality",
-      "kind": "word",
       "type": "core",
-      "ctx": "优质的",
-      "forms": [],
-      "phonetic": "[ˌhaɪ ˈkwɒləti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "优质的"
-        }
-      ]
+      "ctx": "优质的"
     },
     {
       "word": "leisure",
-      "lemma": "leisure",
-      "kind": "word",
       "type": "outline",
-      "ctx": "休闲",
-      "forms": [],
-      "phonetic": "[ˈleʒə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "休闲；闲暇，空闲",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "the leisure industry休闲产业"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "休闲"
     },
     {
       "word": "replace",
-      "lemma": "replace",
-      "kind": "word",
       "type": "outline",
-      "ctx": "取代，代替",
-      "forms": [
-        {
-          "surface": "replaces",
-          "tag": "third_person"
-        },
-        {
-          "surface": "replaced",
-          "tag": "past"
-        },
-        {
-          "surface": "replaced",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "replacing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rɪˈpleɪs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "取代，代替；（用……）替代",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "replace A with B用B代替A"
-              ]
-            },
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Nervousness and fear were replaced with joy.紧张和恐惧被喜悦所取代。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "取代，代替"
     },
     {
       "word": "most",
-      "lemma": "most",
-      "kind": "word",
       "type": "outline",
-      "ctx": "大多数",
-      "forms": [],
-      "phonetic": "[məʊst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "det.",
-          "meaning": "/",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "make the most of充分利用at (the) most至多，不超过"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "pron.",
-          "meaning": "最多，最大；大多数"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "最；最大，最多；极其"
-        }
-      ]
+      "ctx": "大多数"
     },
     {
       "word": "mindless",
-      "lemma": "mindless",
-      "kind": "word",
       "type": "core",
-      "ctx": "没头脑的，盲目的",
-      "forms": [],
-      "phonetic": "[ˈmaɪndləs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "没头脑的，盲目的；无需动脑筋的，机械的"
-        }
-      ]
+      "ctx": "没头脑的，盲目的"
     },
     {
       "word": "collection",
-      "lemma": "collection",
-      "kind": "word",
       "type": "outline",
-      "ctx": "收集物",
-      "forms": [],
-      "phonetic": "[kəˈlekʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "收集物；收藏品；作品集；一批物品；一群人"
-        }
-      ]
+      "ctx": "收集物"
     },
     {
       "word": "design",
-      "lemma": "design",
-      "kind": "word",
       "type": "outline",
-      "ctx": "设计",
-      "forms": [
-        {
-          "surface": "designs",
-          "tag": "plural"
-        },
-        {
-          "surface": "designs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "designed",
-          "tag": "past"
-        },
-        {
-          "surface": "designed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "designing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɪˈzaɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "设计；制订；筹划"
-        },
-        {
-          "pos": "n.",
-          "meaning": "设计；设计图样；意图，目的"
-        }
-      ]
+      "ctx": "设计"
     },
     {
       "word": "toolbox",
-      "lemma": "toolbox",
-      "kind": "word",
       "type": "core",
-      "ctx": "工具箱",
-      "forms": [],
-      "phonetic": "[ˈtuːlbɒks]",
-      "memory": [
-        "合成词：tool（工具）+box（箱子）→工具箱"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "工具箱"
-        }
-      ]
+      "ctx": "工具箱"
     },
     {
       "word": "aid",
-      "lemma": "aid",
-      "kind": "word",
       "type": "outline",
-      "ctx": "援助，帮助",
-      "forms": [
-        {
-          "surface": "aids",
-          "tag": "plural"
-        },
-        {
-          "surface": "aids",
-          "tag": "third_person"
-        },
-        {
-          "surface": "aided",
-          "tag": "past"
-        },
-        {
-          "surface": "aided",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "aiding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[eɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "援助，帮助；辅助设备"
-        },
-        {
-          "pos": "v.",
-          "meaning": "帮助，援助"
-        }
-      ]
+      "ctx": "援助，帮助"
     },
     {
       "word": "effort",
-      "lemma": "effort",
-      "kind": "word",
       "type": "outline",
-      "ctx": "努力，费力的事",
-      "forms": [
-        {
-          "surface": "efforts",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈefət]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "努力，费力的事；艰难的尝试，试图",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "make an effort to do sth.努力做某事"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "努力，费力的事"
     },
     {
       "word": "minimalist",
-      "lemma": "minimalist",
-      "kind": "word",
       "type": "core",
-      "ctx": "极简抽象派艺术家，简约主义者",
-      "forms": [],
-      "phonetic": "[ˈmɪnɪməlɪst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "极简抽象派艺术家，简约主义者"
-        }
-      ]
+      "ctx": "极简抽象派艺术家，简约主义者"
     }
   ]
 }

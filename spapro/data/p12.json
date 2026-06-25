@@ -34,1073 +34,248 @@
   "vocab": [
     {
       "word": "genius",
-      "lemma": "genius",
-      "kind": "word",
       "type": "outline",
-      "ctx": "天才",
-      "forms": [],
-      "phonetic": "[ˈdʒiːniəs]",
-      "memory": [
-        "词根记忆：geni（出生）+us（表名词）→天生（就有才）→天才"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "天才",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "musical genius音乐天才"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "天才"
     },
     {
       "word": "greatly",
-      "lemma": "greatly",
-      "kind": "word",
       "type": "core",
-      "ctx": "非常，极大地",
-      "forms": [],
-      "phonetic": "[ˈɡreɪtli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "非常，极大地"
-        }
-      ]
+      "ctx": "非常，极大地"
     },
     {
       "word": "humankind",
-      "lemma": "humankind",
-      "kind": "word",
       "type": "core",
-      "ctx": "人类",
-      "forms": [],
-      "phonetic": "[ˌhjuːmənˈkaɪnd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "人类"
-        }
-      ]
+      "ctx": "人类"
     },
     {
       "word": "century",
-      "lemma": "century",
-      "kind": "word",
       "type": "outline",
-      "ctx": "世纪，百年",
-      "forms": [
-        {
-          "surface": "centuries",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈsentʃəri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "世纪，百年"
-        }
-      ]
+      "ctx": "世纪，百年"
     },
     {
       "word": "clearly",
-      "lemma": "clearly",
-      "kind": "word",
       "type": "core",
-      "ctx": "清楚地，清晰地",
-      "forms": [],
-      "phonetic": "[ˈklɪəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "清楚地，清晰地；明显地"
-        }
-      ]
+      "ctx": "清楚地，清晰地"
     },
     {
       "word": "face",
-      "lemma": "face",
-      "kind": "word",
       "type": "outline",
-      "ctx": "脸",
-      "forms": [
-        {
-          "surface": "faces",
-          "tag": "plural"
-        },
-        {
-          "surface": "faces",
-          "tag": "third_person"
-        },
-        {
-          "surface": "faced",
-          "tag": "past"
-        },
-        {
-          "surface": "faced",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "facing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[feɪs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "脸；面部表情；表面"
-        },
-        {
-          "pos": "v.",
-          "meaning": "面对，面向；面临；正视"
-        }
-      ]
+      "ctx": "脸"
     },
     {
       "word": "almost",
-      "lemma": "almost",
-      "kind": "word",
       "type": "outline",
-      "ctx": "几乎，差不多",
-      "forms": [],
-      "phonetic": "[ˈɔːlməʊst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "几乎，差不多"
-        }
-      ]
+      "ctx": "几乎，差不多"
     },
     {
       "word": "international",
-      "lemma": "international",
-      "kind": "word",
       "type": "outline",
-      "ctx": "国际的",
-      "forms": [],
-      "phonetic": "[ˌɪntəˈnæʃnəl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "国际的"
-        }
-      ]
+      "ctx": "国际的"
     },
     {
       "word": "symbol",
-      "lemma": "symbol",
-      "kind": "word",
       "type": "outline",
-      "ctx": "符号，象征",
-      "forms": [],
-      "phonetic": "[ˈsɪmbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "符号，象征"
-        }
-      ]
+      "ctx": "符号，象征"
     },
     {
       "word": "man",
-      "lemma": "man",
-      "kind": "word",
       "type": "outline",
-      "ctx": "男人",
-      "forms": [],
-      "phonetic": "[mæn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "男人；（不论性别的）人；人类"
-        }
-      ]
+      "ctx": "男人"
     },
     {
       "word": "nature",
-      "lemma": "nature",
-      "kind": "word",
       "type": "outline",
-      "ctx": "自然",
-      "forms": [],
-      "phonetic": "[ˈneɪtʃə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "自然；天性；本质"
-        }
-      ]
+      "ctx": "自然"
     },
     {
       "word": "intelligent",
-      "lemma": "intelligent",
-      "kind": "word",
       "type": "outline",
-      "ctx": "聪明的，有智慧的",
-      "forms": [],
-      "phonetic": "[ɪnˈtelɪdʒənt]",
-      "memory": [
-        "词根记忆：intel（在……之间）+lig（选择）+ent（表形容词）→会从中选择的→聪明的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "聪明的，有智慧的",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Being emotionally intelligent does not necessarily make one a moral person.情商高并不一定能使一个人有道德。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "聪明的，有智慧的"
     },
     {
       "word": "rest",
-      "lemma": "rest",
-      "kind": "word",
       "type": "outline",
-      "ctx": "休息",
-      "forms": [
-        {
-          "surface": "rests",
-          "tag": "third_person"
-        },
-        {
-          "surface": "rested",
-          "tag": "past"
-        },
-        {
-          "surface": "rested",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "resting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rest]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "休息时间；剩余部分；其余人；其他事物"
-        },
-        {
-          "pos": "v.",
-          "meaning": "休息"
-        }
-      ]
+      "ctx": "休息"
     },
     {
       "word": "science",
-      "lemma": "science",
-      "kind": "word",
       "type": "outline",
-      "ctx": "科学",
-      "forms": [
-        {
-          "surface": "sciences",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈsaɪəns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "科学"
-        }
-      ]
+      "ctx": "科学"
     },
     {
       "word": "art",
-      "lemma": "art",
-      "kind": "word",
       "type": "outline",
-      "ctx": "美术，艺术",
-      "forms": [
-        {
-          "surface": "arts",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ɑːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "美术，艺术；艺术作品；[pl.]文科"
-        }
-      ]
+      "ctx": "美术，艺术"
     },
     {
       "word": "white",
-      "lemma": "white",
-      "kind": "word",
       "type": "outline",
-      "ctx": "白色的",
-      "forms": [],
-      "phonetic": "[waɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "白色的；白种人的，白人的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "白色"
-        }
-      ]
+      "ctx": "白色的"
     },
     {
       "word": "racial",
-      "lemma": "racial",
-      "kind": "word",
       "type": "outline",
-      "ctx": "种族的",
-      "forms": [],
-      "phonetic": "[ˈreɪʃl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "种族的"
-        }
-      ]
+      "ctx": "种族的"
     },
     {
       "word": "perhaps",
-      "lemma": "perhaps",
-      "kind": "word",
       "type": "outline",
-      "ctx": "可能，或许",
-      "forms": [],
-      "phonetic": "[pəˈhæps]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "可能，或许"
-        }
-      ]
+      "ctx": "可能，或许"
     },
     {
       "word": "standard",
-      "lemma": "standard",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[C, U]标准，规范",
-      "forms": [
-        {
-          "surface": "standards",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈstændəd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[C, U]标准，规范"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "标准的，通常的"
-        }
-      ]
+      "ctx": "[C, U]标准，规范"
     },
     {
       "word": "admission",
-      "lemma": "admission",
-      "kind": "word",
       "type": "core",
-      "ctx": "准许进入",
-      "forms": [],
-      "phonetic": "[ədˈmɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "准许进入；承认；入场费，门票费"
-        }
-      ]
+      "ctx": "准许进入"
     },
     {
       "word": "contribution",
-      "lemma": "contribution",
-      "kind": "word",
       "type": "outline",
-      "ctx": "贡献",
-      "forms": [
-        {
-          "surface": "contributions",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˌkɒntrɪˈbjuːʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "贡献；捐款"
-        }
-      ]
+      "ctx": "贡献"
     },
     {
       "word": "people",
-      "lemma": "people",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[pl.]人",
-      "forms": [],
-      "phonetic": "[ˈpiːpl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[pl.]人；人们；[C]人民，国民；民族，种族"
-        }
-      ]
+      "ctx": "[pl.]人"
     },
     {
       "word": "color",
-      "lemma": "color",
-      "kind": "word",
       "type": "outline",
-      "ctx": "颜色",
-      "forms": [
-        {
-          "surface": "colors",
-          "tag": "plural"
-        },
-        {
-          "surface": "colors",
-          "tag": "third_person"
-        },
-        {
-          "surface": "colored",
-          "tag": "past"
-        },
-        {
-          "surface": "colored",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "coloring",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈkʌlə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "颜色；颜料；肤色",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "water color水彩；水彩画"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "v.",
-          "meaning": "给……着色；（因尴尬而）脸红"
-        }
-      ]
+      "ctx": "颜色"
     },
     {
       "word": "unacknowledged",
-      "lemma": "unacknowledged",
-      "kind": "word",
       "type": "core",
-      "ctx": "未被承认的",
-      "forms": [],
-      "phonetic": "[ˌʌnəkˈnɒlɪdʒd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "未被承认的；未被注意的"
-        }
-      ]
+      "ctx": "未被承认的"
     },
     {
       "word": "reject",
-      "lemma": "reject",
-      "kind": "word",
       "type": "outline",
-      "ctx": "拒绝接受",
-      "forms": [
-        {
-          "surface": "rejects",
-          "tag": "third_person"
-        },
-        {
-          "surface": "rejected",
-          "tag": "past"
-        },
-        {
-          "surface": "rejected",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "rejecting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rɪˈdʒekt]",
-      "memory": [
-        "词根记忆：re（回）+ject（扔）→扔回来→拒绝"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "拒绝接受；排斥"
-        }
-      ]
+      "ctx": "拒绝接受"
     },
     {
       "word": "radium",
-      "lemma": "radium",
-      "kind": "word",
       "type": "outline",
-      "ctx": "镭",
-      "forms": [],
-      "phonetic": "[ˈreɪdiəm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "镭"
-        }
-      ]
+      "ctx": "镭"
     },
     {
       "word": "radiation",
-      "lemma": "radiation",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U, C]辐射，放射线",
-      "forms": [],
-      "phonetic": "[ˌreɪdiˈeɪʃn]",
-      "memory": [
-        "词根记忆：radi（光线）+ation（表状态）→光线呈放射状→放射线"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U, C]辐射，放射线"
-        }
-      ]
+      "ctx": "[U, C]辐射，放射线"
     },
     {
       "word": "sir",
-      "lemma": "sir",
-      "kind": "word",
       "type": "outline",
-      "ctx": "先生",
-      "forms": [],
-      "phonetic": "[sɜː(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "先生；老师"
-        }
-      ]
+      "ctx": "先生"
     },
     {
       "word": "madam",
-      "lemma": "madam",
-      "kind": "word",
       "type": "outline",
-      "ctx": "女士，夫人",
-      "forms": [],
-      "phonetic": "[ˈmædəm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "女士，夫人"
-        }
-      ]
+      "ctx": "女士，夫人"
     },
     {
       "word": "recently",
-      "lemma": "recently",
-      "kind": "word",
       "type": "outline",
-      "ctx": "最近，新近",
-      "forms": [],
-      "phonetic": "[ˈriːsntli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "最近，新近"
-        }
-      ]
+      "ctx": "最近，新近"
     },
     {
       "word": "girl",
-      "lemma": "girl",
-      "kind": "word",
       "type": "outline",
-      "ctx": "姑娘，女孩",
-      "forms": [
-        {
-          "surface": "girls",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ɡɜːl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "姑娘，女孩；女儿"
-        }
-      ]
+      "ctx": "姑娘，女孩"
     },
     {
       "word": "boy",
-      "lemma": "boy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "男孩",
-      "forms": [
-        {
-          "surface": "boys",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[bɔɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "男孩；儿子",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "guy*（ n. 男人，小伙子，家伙）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "男孩"
     },
     {
       "word": "gender",
-      "lemma": "gender",
-      "kind": "word",
       "type": "outline",
-      "ctx": "性别",
-      "forms": [],
-      "phonetic": "[ˈdʒendə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "性别"
-        }
-      ]
+      "ctx": "性别"
     },
     {
       "word": "smart",
-      "lemma": "smart",
-      "kind": "word",
       "type": "outline",
-      "ctx": "聪明的",
-      "forms": [],
-      "phonetic": "[smɑːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "聪明的；整洁而漂亮的；智能的"
-        }
-      ]
+      "ctx": "聪明的"
     },
     {
       "word": "thinker",
-      "lemma": "thinker",
-      "kind": "word",
       "type": "core",
-      "ctx": "思想家",
-      "forms": [
-        {
-          "surface": "thinkers",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈθɪŋkə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "思想家；思想……的人"
-        }
-      ]
+      "ctx": "思想家"
     },
     {
       "word": "answer",
-      "lemma": "answer",
-      "kind": "word",
       "type": "outline",
-      "ctx": "答案",
-      "forms": [
-        {
-          "surface": "answers",
-          "tag": "plural"
-        },
-        {
-          "surface": "answers",
-          "tag": "third_person"
-        },
-        {
-          "surface": "answered",
-          "tag": "past"
-        },
-        {
-          "surface": "answered",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "answering",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈɑːnsə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "答案"
-        },
-        {
-          "pos": "v.",
-          "meaning": "回答；接电话"
-        }
-      ]
+      "ctx": "答案"
     },
     {
       "word": "news",
-      "lemma": "news",
-      "kind": "word",
       "type": "outline",
-      "ctx": "新闻，消息",
-      "forms": [],
-      "phonetic": "[njuːz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "新闻，消息"
-        }
-      ]
+      "ctx": "新闻，消息"
     },
     {
       "word": "wired",
-      "lemma": "wired",
-      "kind": "word",
       "type": "core",
-      "ctx": "联网的，连线的",
-      "forms": [],
-      "phonetic": "[ˈwaɪəd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "联网的，连线的"
-        }
-      ]
+      "ctx": "联网的，连线的"
     },
     {
       "word": "constant",
-      "lemma": "constant",
-      "kind": "word",
       "type": "outline",
-      "ctx": "不断的",
-      "forms": [],
-      "phonetic": "[ˈkɒnstənt]",
-      "memory": [
-        "词根记忆：con（表加强）+stant（站，立）→一直站着→不断的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "不断的；不变的，固定的"
-        }
-      ]
+      "ctx": "不断的"
     },
     {
       "word": "global",
-      "lemma": "global",
-      "kind": "word",
       "type": "outline",
-      "ctx": "全球的，全世界的",
-      "forms": [],
-      "phonetic": "[ˈɡləʊbl]",
-      "memory": [
-        "来自globe（ n. 地球，世界）"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "全球的，全世界的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "global warming全球变暖"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "全球的，全世界的"
     },
     {
       "word": "communication",
-      "lemma": "communication",
-      "kind": "word",
       "type": "outline",
-      "ctx": "交流，传递",
-      "forms": [],
-      "phonetic": "[kəˌmjuːnɪˈkeɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "交流，传递；通信"
-        }
-      ]
+      "ctx": "交流，传递"
     },
     {
       "word": "position",
-      "lemma": "position",
-      "kind": "word",
       "type": "outline",
-      "ctx": "位置",
-      "forms": [
-        {
-          "surface": "positions",
-          "tag": "plural"
-        },
-        {
-          "surface": "positions",
-          "tag": "third_person"
-        },
-        {
-          "surface": "positioned",
-          "tag": "past"
-        },
-        {
-          "surface": "positioned",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "positioning",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[pəˈzɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "位置；职位",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "be positioned to处于（有利位置或某种情境）；处于能够……的状况"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vi.",
-          "meaning": "安置，使处于"
-        }
-      ]
+      "ctx": "位置"
     },
     {
       "word": "sex",
-      "lemma": "sex",
-      "kind": "word",
       "type": "outline",
-      "ctx": "性别",
-      "forms": [],
-      "phonetic": "[seks]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "性别；性"
-        }
-      ]
+      "ctx": "性别"
     },
     {
       "word": "race",
-      "lemma": "race",
-      "kind": "word",
       "type": "outline",
-      "ctx": "种族",
-      "forms": [
-        {
-          "surface": "races",
-          "tag": "plural"
-        },
-        {
-          "surface": "races",
-          "tag": "third_person"
-        },
-        {
-          "surface": "raced",
-          "tag": "past"
-        },
-        {
-          "surface": "raced",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "racing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[reɪs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "种族；比赛",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "relay*（ n. 接力赛；接替的人）"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "v.",
-          "meaning": "参加比赛；（和……）比赛"
-        }
-      ]
+      "ctx": "种族"
     },
     {
       "word": "appearance",
-      "lemma": "appearance",
-      "kind": "word",
       "type": "core",
-      "ctx": "出现，露面",
-      "forms": [],
-      "phonetic": "[əˈpɪərəns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "出现，露面；容貌，外表"
-        }
-      ]
+      "ctx": "出现，露面"
     },
     {
       "word": "intelligence",
-      "lemma": "intelligence",
-      "kind": "word",
       "type": "core",
-      "ctx": "智力",
-      "forms": [],
-      "phonetic": "[ɪnˈtelɪdʒəns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "智力；理解力"
-        }
-      ]
+      "ctx": "智力"
     },
     {
       "word": "creativity",
-      "lemma": "creativity",
-      "kind": "word",
       "type": "core",
-      "ctx": "创造力，独创性",
-      "forms": [],
-      "phonetic": "[ˌkriːeɪˈtɪvəti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "创造力，独创性；创意"
-        }
-      ]
+      "ctx": "创造力，独创性"
     },
     {
       "word": "perseverance",
-      "lemma": "perseverance",
-      "kind": "word",
       "type": "core",
-      "ctx": "坚持不懈",
-      "forms": [],
-      "phonetic": "[ˌpɜːsəˈvɪərəns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "坚持不懈"
-        }
-      ]
+      "ctx": "坚持不懈"
     },
     {
       "word": "fortune",
-      "lemma": "fortune",
-      "kind": "word",
       "type": "core",
-      "ctx": "财产",
-      "forms": [],
-      "phonetic": "[ˈfɔːtʃuːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "财产；运气"
-        }
-      ]
+      "ctx": "财产"
     }
   ]
 }

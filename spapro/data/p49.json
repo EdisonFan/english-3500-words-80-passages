@@ -39,946 +39,203 @@
   "vocab": [
     {
       "word": "gather",
-      "lemma": "gather",
-      "kind": "word",
       "type": "outline",
-      "ctx": "聚集",
-      "forms": [
-        {
-          "surface": "gathers",
-          "tag": "third_person"
-        },
-        {
-          "surface": "gathered",
-          "tag": "past"
-        },
-        {
-          "surface": "gathered",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "gathering",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈɡæðə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "聚集；收集；采集",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "gather together聚在一起"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "聚集"
     },
     {
       "word": "talented",
-      "lemma": "talented",
-      "kind": "word",
       "type": "core",
-      "ctx": "有才能的，有才干的",
-      "forms": [],
-      "phonetic": "[ˈtæləntɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "有才能的，有才干的"
-        }
-      ]
+      "ctx": "有才能的，有才干的"
     },
     {
       "word": "owner",
-      "lemma": "owner",
-      "kind": "word",
       "type": "core",
-      "ctx": "物主，所有人",
-      "forms": [
-        {
-          "surface": "owners",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈəʊnə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "物主，所有人"
-        }
-      ]
+      "ctx": "物主，所有人"
     },
     {
       "word": "dollar",
-      "lemma": "dollar",
-      "kind": "word",
       "type": "outline",
-      "ctx": "美元",
-      "forms": [
-        {
-          "surface": "dollars",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈdɒlə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "美元",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "cent*（ n. 美分）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "美元"
     },
     {
       "word": "trade",
-      "lemma": "trade",
-      "kind": "word",
       "type": "outline",
-      "ctx": "贸易",
-      "forms": [
-        {
-          "surface": "trades",
-          "tag": "plural"
-        },
-        {
-          "surface": "trades",
-          "tag": "third_person"
-        },
-        {
-          "surface": "traded",
-          "tag": "past"
-        },
-        {
-          "surface": "traded",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "trading",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[treɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "贸易"
-        },
-        {
-          "pos": "v.",
-          "meaning": "做买卖；互相交换；交易"
-        }
-      ]
+      "ctx": "贸易"
     },
     {
       "word": "top",
-      "lemma": "top",
-      "kind": "word",
       "type": "outline",
-      "ctx": "顶部",
-      "forms": [],
-      "phonetic": "[tɒp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "顶部；（物体的）上面"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "最高的；很好的，极棒的"
-        }
-      ]
+      "ctx": "顶部"
     },
     {
       "word": "qualify",
-      "lemma": "qualify",
-      "kind": "word",
       "type": "outline",
-      "ctx": "取得资格（或学历）",
-      "forms": [
-        {
-          "surface": "qualifies",
-          "tag": "third_person"
-        },
-        {
-          "surface": "qualified",
-          "tag": "past"
-        },
-        {
-          "surface": "qualified",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "qualifying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈkwɒlɪfaɪ]",
-      "memory": [
-        "词根记忆：qual（质量）+ify（使……）→质量过关→使合格"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "取得资格（或学历）；使具有资格，使合格"
-        }
-      ]
+      "ctx": "取得资格（或学历）"
     },
     {
       "word": "cap",
-      "lemma": "cap",
-      "kind": "word",
       "type": "outline",
-      "ctx": "帽子",
-      "forms": [],
-      "phonetic": "[kæp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "帽子；（可用或可借资金的）最高限额"
-        }
-      ]
+      "ctx": "帽子"
     },
     {
       "word": "hire",
-      "lemma": "hire",
-      "kind": "word",
       "type": "outline",
-      "ctx": "雇用",
-      "forms": [
-        {
-          "surface": "hires",
-          "tag": "third_person"
-        },
-        {
-          "surface": "hired",
-          "tag": "past"
-        },
-        {
-          "surface": "hired",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "hiring",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈhaɪə(r)]",
-      "memory": [
-        "联想记忆：电线（wire）短路，引发火灾（fire），解雇（hire）相关责任人"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "雇用；租用；临时聘用"
-        }
-      ]
+      "ctx": "雇用"
     },
     {
       "word": "football",
-      "lemma": "football",
-      "kind": "word",
       "type": "outline",
-      "ctx": "足球",
-      "forms": [],
-      "phonetic": "[ˈfʊtbɔːl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "足球；橄榄球"
-        }
-      ]
+      "ctx": "足球"
     },
     {
       "word": "basketball",
-      "lemma": "basketball",
-      "kind": "word",
       "type": "outline",
-      "ctx": "篮球",
-      "forms": [],
-      "phonetic": "[ˈbɑːskɪtbɔːl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "篮球"
-        }
-      ]
+      "ctx": "篮球"
     },
     {
       "word": "baseball",
-      "lemma": "baseball",
-      "kind": "word",
       "type": "outline",
-      "ctx": "棒球",
-      "forms": [],
-      "phonetic": "[ˈbeɪsbɔːl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "棒球"
-        }
-      ]
+      "ctx": "棒球"
     },
     {
       "word": "mixed",
-      "lemma": "mixed",
-      "kind": "word",
       "type": "core",
-      "ctx": "混合的",
-      "forms": [],
-      "phonetic": "[mɪkst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "混合的；矛盾复杂的"
-        }
-      ]
+      "ctx": "混合的"
     },
     {
       "word": "above",
-      "lemma": "above",
-      "kind": "word",
       "type": "outline",
-      "ctx": "在……上方",
-      "forms": [],
-      "phonetic": "[əˈbʌv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "prep.",
-          "meaning": "在……上方；多于"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "上面的，上述的；上文的"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "在上面"
-        }
-      ]
+      "ctx": "在……上方"
     },
     {
       "word": "decline",
-      "lemma": "decline",
-      "kind": "word",
       "type": "outline",
-      "ctx": "下降",
-      "forms": [
-        {
-          "surface": "declines",
-          "tag": "third_person"
-        },
-        {
-          "surface": "declined",
-          "tag": "past"
-        },
-        {
-          "surface": "declined",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "declining",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɪˈklaɪn]",
-      "memory": [
-        "词根记忆：de（向下）+cline（倾斜）→向下倾斜→下降；衰落"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "下降；衰落；谢绝",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "As the economy was in decline , some people in the town had lost their jobs.由于经济衰退，镇上有些人失去了工作。"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "下降；衰落"
-        }
-      ]
+      "ctx": "下降"
     },
     {
       "word": "interestingly",
-      "lemma": "interestingly",
-      "kind": "word",
       "type": "core",
-      "ctx": "有趣地",
-      "forms": [],
-      "phonetic": "[ˈɪntrəstɪŋli; ˈɪntrestɪŋli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "有趣地"
-        }
-      ]
+      "ctx": "有趣地"
     },
     {
       "word": "trend",
-      "lemma": "trend",
-      "kind": "word",
       "type": "outline",
-      "ctx": "倾向，趋势",
-      "forms": [],
-      "phonetic": "[trend]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "倾向，趋势；时尚"
-        }
-      ]
+      "ctx": "倾向，趋势"
     },
     {
       "word": "evident",
-      "lemma": "evident",
-      "kind": "word",
       "type": "core",
-      "ctx": "明显的，显然的",
-      "forms": [],
-      "phonetic": "[ˈevɪdənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "明显的，显然的"
-        }
-      ]
+      "ctx": "明显的，显然的"
     },
     {
       "word": "interdependence",
-      "lemma": "interdependence",
-      "kind": "word",
       "type": "core",
-      "ctx": "互相依赖",
-      "forms": [],
-      "phonetic": "[ˌɪntədɪˈpendəns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "互相依赖"
-        }
-      ]
+      "ctx": "互相依赖"
     },
     {
       "word": "distinguish",
-      "lemma": "distinguish",
-      "kind": "word",
       "type": "outline",
-      "ctx": "区分，辨别",
-      "forms": [
-        {
-          "surface": "distinguishes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "distinguished",
-          "tag": "past"
-        },
-        {
-          "surface": "distinguished",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "distinguishing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɪˈstɪŋɡwɪʃ]",
-      "memory": [
-        "词根记忆：di(s)（分开）+stingu（刺）+ish→将刺挑出来→区分"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "区分，辨别",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Dogs may indeed be able to distinguish between happy and angry human faces, according to a new study.根据一项新的研究，狗也许确实能够区分快乐的和愤怒的人脸。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "区分，辨别"
     },
     {
       "word": "teammate",
-      "lemma": "teammate",
-      "kind": "word",
       "type": "core",
-      "ctx": "队友",
-      "forms": [
-        {
-          "surface": "teammates",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈtiːmmeɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "队友"
-        }
-      ]
+      "ctx": "队友"
     },
     {
       "word": "chemistry",
-      "lemma": "chemistry",
-      "kind": "word",
       "type": "outline",
-      "ctx": "化学",
-      "forms": [],
-      "phonetic": "[ˈkemɪstri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "化学；（两人间的）理解和吸引，默契"
-        }
-      ]
+      "ctx": "化学"
     },
     {
       "word": "aboard",
-      "lemma": "aboard",
-      "kind": "word",
       "type": "outline",
-      "ctx": "在队中",
-      "forms": [],
-      "phonetic": "[əˈbɔːd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "prep.",
-          "meaning": "/"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "在（船、飞机、火车等）上；上（船、飞机、火车等）"
-        }
-      ]
+      "ctx": "在队中"
     },
     {
       "word": "star",
-      "lemma": "star",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（恒）星",
-      "forms": [
-        {
-          "surface": "stars",
-          "tag": "plural"
-        },
-        {
-          "surface": "stars",
-          "tag": "third_person"
-        },
-        {
-          "surface": "starred",
-          "tag": "past"
-        },
-        {
-          "surface": "starred",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "starring",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[stɑː(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（恒）星；星形物；明星"
-        },
-        {
-          "pos": "vi.",
-          "meaning": "主演，担任主角"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "由……主演"
-        }
-      ]
+      "ctx": "（恒）星"
     },
     {
       "word": "deserve",
-      "lemma": "deserve",
-      "kind": "word",
       "type": "outline",
-      "ctx": "应受，值得",
-      "forms": [
-        {
-          "surface": "deserves",
-          "tag": "third_person"
-        },
-        {
-          "surface": "deserved",
-          "tag": "past"
-        },
-        {
-          "surface": "deserved",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "deserving",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɪˈzɜːv]",
-      "memory": [
-        "联想记忆：de+serve（服务）→提供了服务的人应该得到相应的待遇→应受"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "应受，值得"
-        }
-      ]
+      "ctx": "应受，值得"
     },
     {
       "word": "season",
-      "lemma": "season",
-      "kind": "word",
       "type": "outline",
-      "ctx": "季节",
-      "forms": [],
-      "phonetic": "[ˈsiːzn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "季节；赛季"
-        }
-      ]
+      "ctx": "季节"
     },
     {
       "word": "shot",
-      "lemma": "shot",
-      "kind": "word",
       "type": "core",
-      "ctx": "射击",
-      "forms": [],
-      "phonetic": "[ʃɒt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "射击；枪声；镜头；尝试；射门；投篮"
-        }
-      ]
+      "ctx": "射击"
     },
     {
       "word": "apparently",
-      "lemma": "apparently",
-      "kind": "word",
       "type": "outline",
-      "ctx": "看来，显然",
-      "forms": [],
-      "phonetic": "[əˈpærəntli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "看来，显然"
-        }
-      ]
+      "ctx": "看来，显然"
     },
     {
       "word": "basic",
-      "lemma": "basic",
-      "kind": "word",
       "type": "outline",
-      "ctx": "基本的",
-      "forms": [],
-      "phonetic": "[ˈbeɪsɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "基本的；初级的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "[pl.]基本因素；基本需要"
-        }
-      ]
+      "ctx": "基本的"
     },
     {
       "word": "sportsmanship",
-      "lemma": "sportsmanship",
-      "kind": "word",
       "type": "core",
-      "ctx": "运动员风范，体育精神",
-      "forms": [],
-      "phonetic": "[ˈspɔːtsmənʃɪp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "运动员风范，体育精神"
-        }
-      ]
+      "ctx": "运动员风范，体育精神"
     },
     {
       "word": "league",
-      "lemma": "league",
-      "kind": "word",
       "type": "outline",
-      "ctx": "联盟，社团",
-      "forms": [],
-      "phonetic": "[liːɡ]",
-      "memory": [
-        "联想记忆：联盟（league）成员都是同事（colleague）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "联盟，社团"
-        }
-      ]
+      "ctx": "联盟，社团"
     },
     {
       "word": "rope",
-      "lemma": "rope",
-      "kind": "word",
       "type": "outline",
-      "ctx": "缆绳，绳索",
-      "forms": [],
-      "phonetic": "[rəʊp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "缆绳，绳索"
-        }
-      ]
+      "ctx": "缆绳，绳索"
     },
     {
       "word": "uniform",
-      "lemma": "uniform",
-      "kind": "word",
       "type": "outline",
-      "ctx": "制服",
-      "forms": [],
-      "phonetic": "[ˈjuːnɪfɔːm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "制服"
-        }
-      ]
+      "ctx": "制服"
     },
     {
       "word": "visible",
-      "lemma": "visible",
-      "kind": "word",
       "type": "outline",
-      "ctx": "看得见的",
-      "forms": [],
-      "phonetic": "[ˈvɪzəbl]",
-      "memory": [
-        "词根记忆：vis（看）+ible（可……的）→看得见的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "看得见的；明显的"
-        }
-      ]
+      "ctx": "看得见的"
     },
     {
       "word": "commercial",
-      "lemma": "commercial",
-      "kind": "word",
       "type": "outline",
-      "ctx": "商业的，贸易的",
-      "forms": [],
-      "phonetic": "[kəˈmɜːʃl]",
-      "memory": [
-        "词根记忆：com（共同）+merc（商业的）+ial（……的）→商业的，贸易的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "商业的，贸易的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a commercial company一家贸易公司"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "商业的，贸易的"
     },
     {
       "word": "fan",
-      "lemma": "fan",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（电影、运动等的）迷",
-      "forms": [
-        {
-          "surface": "fans",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[fæn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（电影、运动等的）迷；风扇"
-        }
-      ]
+      "ctx": "（电影、运动等的）迷"
     },
     {
       "word": "contract",
-      "lemma": "contract",
-      "kind": "word",
       "type": "outline",
-      "ctx": "合同，合约",
-      "forms": [
-        {
-          "surface": "contracts",
-          "tag": "plural"
-        },
-        {
-          "surface": "contracts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "contracted",
-          "tag": "past"
-        },
-        {
-          "surface": "contracted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "contracting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈkɒntrækt]",
-      "memory": [
-        "词根记忆：con（共同）+tract（拉）→将双方拉到一起签合同→合同"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "合同，合约",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "cancel the contract取消合同"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "v.",
-          "meaning": "（使）收缩；感染（疾病）；与……订立合同（或契约）"
-        }
-      ]
+      "ctx": "合同，合约"
     },
     {
       "word": "complex",
-      "lemma": "complex",
-      "kind": "word",
       "type": "outline",
-      "ctx": "复杂的",
-      "forms": [],
-      "phonetic": "[ˈkɒmpleks]",
-      "memory": [
-        "词根记忆：com+plex（重叠，交叉）→重叠交叉的→复杂的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "复杂的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "建筑群"
-        }
-      ]
+      "ctx": "复杂的"
     },
     {
       "word": "recipe",
-      "lemma": "recipe",
-      "kind": "word",
       "type": "outline",
-      "ctx": "食谱，烹饪法",
-      "forms": [],
-      "phonetic": "[ˈresəpi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "食谱，烹饪法；方法，诀窍"
-        }
-      ]
+      "ctx": "食谱，烹饪法"
     },
     {
       "word": "A-team",
-      "lemma": "A-team",
-      "kind": "proper_noun",
       "type": "core",
-      "ctx": "最佳运动队",
-      "forms": [],
-      "phonetic": "[ˈeɪ tiːm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "最佳运动队；精英小组"
-        }
-      ]
+      "ctx": "最佳运动队"
     }
   ]
 }

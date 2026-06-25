@@ -29,1084 +29,208 @@
   "vocab": [
     {
       "word": "scare",
-      "lemma": "scare",
-      "kind": "word",
       "type": "outline",
-      "ctx": "惊吓，使害怕",
-      "forms": [
-        {
-          "surface": "scares",
-          "tag": "third_person"
-        },
-        {
-          "surface": "scared",
-          "tag": "past"
-        },
-        {
-          "surface": "scared",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "scaring",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[skeə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "惊吓，使害怕",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "scare...away/off把……吓跑"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "v.",
-          "meaning": "受惊吓，害怕"
-        }
-      ]
+      "ctx": "惊吓，使害怕"
     },
     {
       "word": "shelter",
-      "lemma": "shelter",
-      "kind": "word",
       "type": "outline",
-      "ctx": "居所，住处",
-      "forms": [],
-      "phonetic": "[ˈʃeltə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "居所，住处；遮蔽，避难；遮蔽物，避难处",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a shelter for the homeless无家可归者的收容所"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "居所，住处"
     },
     {
       "word": "announce",
-      "lemma": "announce",
-      "kind": "word",
       "type": "outline",
-      "ctx": "宣布，宣告",
-      "forms": [
-        {
-          "surface": "announces",
-          "tag": "third_person"
-        },
-        {
-          "surface": "announced",
-          "tag": "past"
-        },
-        {
-          "surface": "announced",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "announcing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈnaʊns]",
-      "memory": [
-        "词根记忆：an（表加强）+nounce（讲话，说出）→大声说出来→宣布，宣告"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "宣布，宣告；宣称；作为……的迹象，显示"
-        }
-      ]
+      "ctx": "宣布，宣告"
     },
     {
       "word": "elephant",
-      "lemma": "elephant",
-      "kind": "word",
       "type": "outline",
-      "ctx": "象",
-      "forms": [
-        {
-          "surface": "Elephants",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈelɪfənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "象"
-        }
-      ]
+      "ctx": "象"
     },
     {
       "word": "frequency",
-      "lemma": "frequency",
-      "kind": "word",
       "type": "outline",
-      "ctx": "频繁",
-      "forms": [],
-      "phonetic": "[ˈfriːkwənsi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "频繁；频率；发生率"
-        }
-      ]
+      "ctx": "频繁"
     },
     {
       "word": "danger",
-      "lemma": "danger",
-      "kind": "word",
       "type": "outline",
-      "ctx": "危险",
-      "forms": [],
-      "phonetic": "[ˈdeɪndʒə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "危险",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "in danger处于危险之中out of danger脱离危险"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "危险"
     },
     {
       "word": "sing",
-      "lemma": "sing",
-      "kind": "word",
       "type": "outline",
-      "ctx": "唱（歌），演唱",
-      "forms": [
-        {
-          "surface": "sings",
-          "tag": "third_person"
-        },
-        {
-          "surface": "sang",
-          "tag": "past"
-        },
-        {
-          "surface": "sung",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "singing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[sɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "唱（歌），演唱",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "chorus*（ n. 合唱团；合唱曲）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "唱（歌），演唱"
     },
     {
       "word": "convince",
-      "lemma": "convince",
-      "kind": "word",
       "type": "outline",
-      "ctx": "使确信，使信服",
-      "forms": [
-        {
-          "surface": "convinces",
-          "tag": "third_person"
-        },
-        {
-          "surface": "convinced",
-          "tag": "past"
-        },
-        {
-          "surface": "convinced",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "convincing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kənˈvɪns]",
-      "memory": [
-        "词根记忆：con（表加强）+vince（征服）→彻底征服对方→使信服"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "使确信，使信服"
-        }
-      ]
+      "ctx": "使确信，使信服"
     },
     {
       "word": "female",
-      "lemma": "female",
-      "kind": "word",
       "type": "outline",
-      "ctx": "女性的",
-      "forms": [],
-      "phonetic": "[ˈfiːmeɪl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "女性的；雌的；雌性的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a female student女学生"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "女性；雌性生物"
-        }
-      ]
+      "ctx": "女性的"
     },
     {
       "word": "suitable",
-      "lemma": "suitable",
-      "kind": "word",
       "type": "outline",
-      "ctx": "合适的，适宜的",
-      "forms": [],
-      "phonetic": "[ˈsuːtəbl; ˈsjuːtəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "合适的，适宜的"
-        }
-      ]
+      "ctx": "合适的，适宜的"
     },
     {
       "word": "partner",
-      "lemma": "partner",
-      "kind": "word",
       "type": "outline",
-      "ctx": "配偶",
-      "forms": [],
-      "phonetic": "[ˈpɑːtnə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "配偶；搭档，同伴"
-        }
-      ]
+      "ctx": "配偶"
     },
     {
       "word": "cat",
-      "lemma": "cat",
-      "kind": "word",
       "type": "outline",
-      "ctx": "猫",
-      "forms": [
-        {
-          "surface": "cats",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[kæt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "猫；猫科动物"
-        }
-      ]
+      "ctx": "猫"
     },
     {
       "word": "meow",
-      "lemma": "meow",
-      "kind": "word",
       "type": "core",
-      "ctx": "喵喵的叫声",
-      "forms": [
-        {
-          "surface": "meows",
-          "tag": "plural"
-        },
-        {
-          "surface": "meows",
-          "tag": "third_person"
-        },
-        {
-          "surface": "meowed",
-          "tag": "past"
-        },
-        {
-          "surface": "meowed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "meowing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[miˈaʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "喵喵的叫声"
-        },
-        {
-          "pos": "vi.",
-          "meaning": "喵喵叫"
-        }
-      ]
+      "ctx": "喵喵的叫声"
     },
     {
       "word": "interpret",
-      "lemma": "interpret",
-      "kind": "word",
       "type": "outline",
-      "ctx": "解释，诠释",
-      "forms": [
-        {
-          "surface": "interprets",
-          "tag": "third_person"
-        },
-        {
-          "surface": "interpreted",
-          "tag": "past"
-        },
-        {
-          "surface": "interpreted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "interpreting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪnˈtɜːprɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "解释，诠释"
-        },
-        {
-          "pos": "v.",
-          "meaning": "口译"
-        }
-      ]
+      "ctx": "解释，诠释"
     },
     {
       "word": "pet",
-      "lemma": "pet",
-      "kind": "word",
       "type": "outline",
-      "ctx": "宠物",
-      "forms": [],
-      "phonetic": "[pet]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "宠物"
-        }
-      ]
+      "ctx": "宠物"
     },
     {
       "word": "bowl",
-      "lemma": "bowl",
-      "kind": "word",
       "type": "outline",
-      "ctx": "碗",
-      "forms": [],
-      "phonetic": "[bəʊl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "碗"
-        }
-      ]
+      "ctx": "碗"
     },
     {
       "word": "threaten",
-      "lemma": "threaten",
-      "kind": "word",
       "type": "outline",
-      "ctx": "威胁",
-      "forms": [
-        {
-          "surface": "threatens",
-          "tag": "third_person"
-        },
-        {
-          "surface": "threatened",
-          "tag": "past"
-        },
-        {
-          "surface": "threatened",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "threatening",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈθretn]",
-      "memory": [
-        "词根记忆：threat（威胁）+en（表动词）→威胁"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "威胁",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "threaten to do sth.威胁要做某事"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "威胁"
     },
     {
       "word": "hiss",
-      "lemma": "hiss",
-      "kind": "word",
       "type": "core",
-      "ctx": "嘶嘶声",
-      "forms": [
-        {
-          "surface": "hisses",
-          "tag": "third_person"
-        },
-        {
-          "surface": "hissed",
-          "tag": "past"
-        },
-        {
-          "surface": "hissed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "hissing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[hɪs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "嘶嘶声；嘘声"
-        },
-        {
-          "pos": "v.",
-          "meaning": "发嘶嘶声；发嘘声，喝倒彩"
-        }
-      ]
+      "ctx": "嘶嘶声"
     },
     {
       "word": "warning",
-      "lemma": "warning",
-      "kind": "word",
       "type": "outline",
-      "ctx": "警告",
-      "forms": [],
-      "phonetic": "[ˈwɔːnɪŋ]",
-      "memory": [
-        "词根记忆：warn（警告）+ing（表名词，行为）→警告"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "警告"
-        }
-      ]
+      "ctx": "警告"
     },
     {
       "word": "secure",
-      "lemma": "secure",
-      "kind": "word",
       "type": "outline",
-      "ctx": "安全的",
-      "forms": [],
-      "phonetic": "[sɪˈkjʊə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "安全的；安心的；可靠的"
-        }
-      ]
+      "ctx": "安全的"
     },
     {
       "word": "affection",
-      "lemma": "affection",
-      "kind": "word",
       "type": "core",
-      "ctx": "喜爱，关爱",
-      "forms": [],
-      "phonetic": "[əˈfekʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "喜爱，关爱"
-        }
-      ]
+      "ctx": "喜爱，关爱"
     },
     {
       "word": "stretch",
-      "lemma": "stretch",
-      "kind": "word",
       "type": "outline",
-      "ctx": "伸展",
-      "forms": [
-        {
-          "surface": "stretches",
-          "tag": "third_person"
-        },
-        {
-          "surface": "stretched",
-          "tag": "past"
-        },
-        {
-          "surface": "stretched",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "stretching",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[stretʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "伸展；伸长；拉长；延伸",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "As always, you should stretch at least ten minutes before each run to prevent injuries.与往常一样，每次跑步前你都应该先做至少十分钟的拉伸运动，以防止受伤。"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "一段时间；伸展"
-        }
-      ]
+      "ctx": "伸展"
     },
     {
       "word": "feed",
-      "lemma": "feed",
-      "kind": "word",
       "type": "outline",
-      "ctx": "喂养",
-      "forms": [
-        {
-          "surface": "feeds",
-          "tag": "third_person"
-        },
-        {
-          "surface": "fed",
-          "tag": "past"
-        },
-        {
-          "surface": "fed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "feeding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[fiːd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "喂养；为……提供食物"
-        }
-      ]
+      "ctx": "喂养"
     },
     {
       "word": "heighten",
-      "lemma": "heighten",
-      "kind": "word",
       "type": "core",
-      "ctx": "（使）提高，加强，加剧",
-      "forms": [
-        {
-          "surface": "heightens",
-          "tag": "third_person"
-        },
-        {
-          "surface": "heightened",
-          "tag": "past"
-        },
-        {
-          "surface": "heightened",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "heightening",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈhaɪtn]",
-      "memory": [
-        "来自height（ n. 高，高度）"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）提高，加强，加剧"
-        }
-      ]
+      "ctx": "（使）提高，加强，加剧"
     },
     {
       "word": "impressive",
-      "lemma": "impressive",
-      "kind": "word",
       "type": "core",
-      "ctx": "给人深刻印象的，令人赞叹的",
-      "forms": [],
-      "phonetic": "[ɪmˈpresɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "给人深刻印象的，令人赞叹的"
-        }
-      ]
+      "ctx": "给人深刻印象的，令人赞叹的"
     },
     {
       "word": "hunt",
-      "lemma": "hunt",
-      "kind": "word",
       "type": "outline",
-      "ctx": "捕猎",
-      "forms": [
-        {
-          "surface": "hunts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "hunted",
-          "tag": "past"
-        },
-        {
-          "surface": "hunted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "hunting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[hʌnt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "/"
-        },
-        {
-          "pos": "n.",
-          "meaning": "搜寻，寻找；打猎"
-        }
-      ]
+      "ctx": "捕猎"
     },
     {
       "word": "area",
-      "lemma": "area",
-      "kind": "word",
       "type": "outline",
-      "ctx": "地区，区域",
-      "forms": [
-        {
-          "surface": "areas",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈeəriə]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "地区，区域；面积；方面"
-        }
-      ]
+      "ctx": "地区，区域"
     },
     {
       "word": "territory",
-      "lemma": "territory",
-      "kind": "word",
       "type": "outline",
-      "ctx": "领土，版图",
-      "forms": [],
-      "phonetic": "[ˈterɪtɔːri]",
-      "memory": [
-        "词根记忆：terr（地）+it+ory（地点）→领土"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "领土，版图；领域"
-        }
-      ]
+      "ctx": "领土，版图"
     },
     {
       "word": "familiar",
-      "lemma": "familiar",
-      "kind": "word",
       "type": "outline",
-      "ctx": "熟悉的",
-      "forms": [],
-      "phonetic": "[fəˈmɪliə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "熟悉的"
-        }
-      ]
+      "ctx": "熟悉的"
     },
     {
       "word": "clothes",
-      "lemma": "clothes",
-      "kind": "word",
       "type": "outline",
-      "ctx": "衣服，服装",
-      "forms": [],
-      "phonetic": "[kləʊðz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "衣服，服装"
-        }
-      ]
+      "ctx": "衣服，服装"
     },
     {
       "word": "store",
-      "lemma": "store",
-      "kind": "word",
       "type": "outline",
-      "ctx": "商店",
-      "forms": [
-        {
-          "surface": "stores",
-          "tag": "plural"
-        },
-        {
-          "surface": "stores",
-          "tag": "third_person"
-        },
-        {
-          "surface": "stored",
-          "tag": "past"
-        },
-        {
-          "surface": "stored",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "storing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[stɔː(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "商店；贮存物；仓库",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "out of store缺货，售完"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "贮存，保存；存储"
-        }
-      ]
+      "ctx": "商店"
     },
     {
       "word": "attach",
-      "lemma": "attach",
-      "kind": "word",
       "type": "outline",
-      "ctx": "系上，贴上，附上",
-      "forms": [
-        {
-          "surface": "attaches",
-          "tag": "third_person"
-        },
-        {
-          "surface": "attached",
-          "tag": "past"
-        },
-        {
-          "surface": "attached",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "attaching",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈtætʃ]",
-      "memory": [
-        "词根记忆：at（表加强）+tach（钉）→牢牢钉上→系上，贴上"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "系上，贴上，附上",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "attach importance to sth.重视某事物"
-              ]
-            },
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Status is the honor or respect attached to a person's position in society.地位是一个人在社会中所处的位置被赋予的荣誉或尊重。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "系上，贴上，附上"
     },
     {
       "word": "advertisement",
-      "lemma": "advertisement",
-      "kind": "word",
       "type": "outline",
-      "ctx": "广告",
-      "forms": [],
-      "phonetic": "[ədˈvɜːtɪsmənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "广告"
-        }
-      ]
+      "ctx": "广告"
     },
     {
       "word": "fetch",
-      "lemma": "fetch",
-      "kind": "word",
       "type": "outline",
-      "ctx": "去取（某物）",
-      "forms": [
-        {
-          "surface": "fetches",
-          "tag": "third_person"
-        },
-        {
-          "surface": "fetched",
-          "tag": "past"
-        },
-        {
-          "surface": "fetched",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "fetching",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[fetʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "去取（某物）；去接（某人）"
-        }
-      ]
+      "ctx": "去取（某物）"
     },
     {
       "word": "notch",
-      "lemma": "notch",
-      "kind": "word",
       "type": "core",
-      "ctx": "等级，档次",
-      "forms": [],
-      "phonetic": "[nɒtʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "等级，档次"
-        }
-      ]
+      "ctx": "等级，档次"
     },
     {
       "word": "alongside",
-      "lemma": "alongside",
-      "kind": "word",
       "type": "outline",
-      "ctx": "在……旁边",
-      "forms": [],
-      "phonetic": "[əˌlɒŋˈsaɪd]",
-      "memory": [
-        "合成词：along（沿着）+side（边）→沿着"
-      ],
-      "defs": [
-        {
-          "pos": "prep.",
-          "meaning": "在……旁边；沿着……的边"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "在旁边；沿着"
-        }
-      ]
+      "ctx": "在……旁边"
     },
     {
       "word": "gift",
-      "lemma": "gift",
-      "kind": "word",
       "type": "outline",
-      "ctx": "礼物",
-      "forms": [],
-      "phonetic": "[ɡɪft]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "礼物；赠品；天赋，才能"
-        }
-      ]
+      "ctx": "礼物"
     },
     {
       "word": "authority",
-      "lemma": "authority",
-      "kind": "word",
       "type": "outline",
-      "ctx": "权威",
-      "forms": [],
-      "phonetic": "[ɔːˈθɒrəti]",
-      "memory": [
-        "词根记忆：author（特权）+ity→权威"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "权威；当局"
-        }
-      ]
+      "ctx": "权威"
     },
     {
       "word": "adorable",
-      "lemma": "adorable",
-      "kind": "word",
       "type": "outline",
-      "ctx": "可爱的，讨人喜欢的",
-      "forms": [],
-      "phonetic": "[əˈdɔːrəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "可爱的，讨人喜欢的"
-        }
-      ]
+      "ctx": "可爱的，讨人喜欢的"
     },
     {
       "word": "hunter",
-      "lemma": "hunter",
-      "kind": "word",
       "type": "core",
-      "ctx": "猎人",
-      "forms": [
-        {
-          "surface": "hunters",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈhʌntə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "猎人"
-        }
-      ]
+      "ctx": "猎人"
     },
     {
       "word": "altogether",
-      "lemma": "altogether",
-      "kind": "word",
       "type": "outline",
-      "ctx": "全部",
-      "forms": [],
-      "phonetic": "[ˌɔːltəˈɡeðə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "全部；总共；总之"
-        }
-      ]
+      "ctx": "全部"
     }
   ]
 }

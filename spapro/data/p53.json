@@ -39,1297 +39,268 @@
   "vocab": [
     {
       "word": "mindful",
-      "lemma": "mindful",
-      "kind": "word",
       "type": "core",
-      "ctx": "留意的，想着的",
-      "forms": [],
-      "phonetic": "[ˈmaɪndfl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "留意的，想着的"
-        }
-      ]
+      "ctx": "留意的，想着的"
     },
     {
       "word": "nice",
-      "lemma": "nice",
-      "kind": "word",
       "type": "outline",
-      "ctx": "好的",
-      "forms": [],
-      "phonetic": "[naɪs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "好的；令人愉快的；宜人的；友好的"
-        }
-      ]
+      "ctx": "好的"
     },
     {
       "word": "round",
-      "lemma": "round",
-      "kind": "word",
       "type": "outline",
-      "ctx": "搭配",
-      "forms": [
-        {
-          "surface": "rounds",
-          "tag": "plural"
-        },
-        {
-          "surface": "rounds",
-          "tag": "third_person"
-        },
-        {
-          "surface": "rounded",
-          "tag": "past"
-        },
-        {
-          "surface": "rounded",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "rounding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[raʊnd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "/",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "round out使完整，使圆满"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "prep.",
-          "meaning": "环绕"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "圆的，球形的"
-        },
-        {
-          "pos": "v.",
-          "meaning": "绕行；（使）成圆形"
-        }
-      ]
+      "ctx": "搭配"
     },
     {
       "word": "roast",
-      "lemma": "roast",
-      "kind": "word",
       "type": "outline",
-      "ctx": "烤（肉等）",
-      "forms": [
-        {
-          "surface": "roasts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "roasted",
-          "tag": "past"
-        },
-        {
-          "surface": "roasted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "roasting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rəʊst]",
-      "memory": [
-        "联想记忆：在海滨（coast）烤肉（roast）非常有趣"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "烤（肉等）"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "烤的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "烤肉"
-        }
-      ]
+      "ctx": "烤（肉等）"
     },
     {
       "word": "chicken",
-      "lemma": "chicken",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[C]鸡",
-      "forms": [],
-      "phonetic": "[ˈtʃɪkɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[C]鸡；[U]鸡肉",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "turkey*（ n. 火鸡；火鸡肉）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "[C]鸡"
     },
     {
       "word": "freezer",
-      "lemma": "freezer",
-      "kind": "word",
       "type": "core",
-      "ctx": "冷冻柜，冰柜",
-      "forms": [],
-      "phonetic": "[ˈfriːzə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "冷冻柜，冰柜"
-        }
-      ]
+      "ctx": "冷冻柜，冰柜"
     },
     {
       "word": "worse",
-      "lemma": "worse",
-      "kind": "word",
       "type": "outline",
-      "ctx": "更糟",
-      "forms": [],
-      "phonetic": "[wɜːs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "/"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "更差（的）；更严重（的）"
-        }
-      ]
+      "ctx": "更糟"
     },
     {
       "word": "greedy",
-      "lemma": "greedy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "贪婪的",
-      "forms": [],
-      "phonetic": "[ˈɡriːdi]",
-      "memory": [
-        "联想记忆：绿色的（green）吸血鬼很贪婪（greedy）"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "贪婪的"
-        }
-      ]
+      "ctx": "贪婪的"
     },
     {
       "word": "unthinkingly",
-      "lemma": "unthinkingly",
-      "kind": "word",
       "type": "core",
-      "ctx": "",
-      "forms": [],
-      "phonetic": "[ʌnˈθɪŋkɪŋli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "ad",
-          "meaning": ""
-        },
-        {
-          "pos": "v.",
-          "meaning": "轻率地；不假思索地"
-        }
-      ]
+      "ctx": ""
     },
     {
       "word": "way",
-      "lemma": "way",
-      "kind": "word",
       "type": "outline",
-      "ctx": "道路",
-      "forms": [],
-      "phonetic": "[weɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "道路；方法；作风",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "all the way一路上，自始至终by the way顺便提一下"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "adv.",
-          "meaning": "远远地，大量"
-        }
-      ]
+      "ctx": "道路"
     },
     {
       "word": "cheek",
-      "lemma": "cheek",
-      "kind": "word",
       "type": "outline",
-      "ctx": "面颊，脸颊",
-      "forms": [
-        {
-          "surface": "cheeks",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[tʃiːk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "面颊，脸颊"
-        }
-      ]
+      "ctx": "面颊，脸颊"
     },
     {
       "word": "nearly",
-      "lemma": "nearly",
-      "kind": "word",
       "type": "outline",
-      "ctx": "将近，差不多，几乎",
-      "forms": [],
-      "phonetic": "[ˈnɪəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "将近，差不多，几乎"
-        }
-      ]
+      "ctx": "将近，差不多，几乎"
     },
     {
       "word": "grain",
-      "lemma": "grain",
-      "kind": "word",
       "type": "outline",
-      "ctx": "谷物",
-      "forms": [],
-      "phonetic": "[ɡreɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "谷物；细粒；一点儿",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "go against the grain违反常理，不合常情"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "谷物"
     },
     {
       "word": "choke",
-      "lemma": "choke",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（使）窒息，哽咽",
-      "forms": [
-        {
-          "surface": "chokes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "choked",
-          "tag": "past"
-        },
-        {
-          "surface": "choked",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "choking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[tʃəʊk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）窒息，哽咽；塞满"
-        },
-        {
-          "pos": "n.",
-          "meaning": "窒息，哽咽（声）"
-        }
-      ]
+      "ctx": "（使）窒息，哽咽"
     },
     {
       "word": "perfectly",
-      "lemma": "perfectly",
-      "kind": "word",
       "type": "core",
-      "ctx": "完全地，非常",
-      "forms": [],
-      "phonetic": "[ˈpɜːfɪktli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "完全地，非常；完美地，圆满地"
-        }
-      ]
+      "ctx": "完全地，非常"
     },
     {
       "word": "ugly",
-      "lemma": "ugly",
-      "kind": "word",
       "type": "outline",
-      "ctx": "丑陋的，难看的",
-      "forms": [],
-      "phonetic": "[ˈʌɡli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "丑陋的，难看的"
-        }
-      ]
+      "ctx": "丑陋的，难看的"
     },
     {
       "word": "eatable",
-      "lemma": "eatable",
-      "kind": "word",
       "type": "core",
-      "ctx": "可吃的，可食用的",
-      "forms": [],
-      "phonetic": "[ˈiːtəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "可吃的，可食用的"
-        }
-      ]
+      "ctx": "可吃的，可食用的"
     },
     {
       "word": "pear",
-      "lemma": "pear",
-      "kind": "word",
       "type": "outline",
-      "ctx": "梨",
-      "forms": [
-        {
-          "surface": "pears",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[peə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "梨"
-        }
-      ]
+      "ctx": "梨"
     },
     {
       "word": "grocer",
-      "lemma": "grocer",
-      "kind": "word",
       "type": "core",
-      "ctx": "食品杂货商",
-      "forms": [
-        {
-          "surface": "grocer's",
-          "tag": "alias"
-        },
-        {
-          "surface": "grocers",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈɡrəʊsə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "食品杂货商；（grocer's）食品杂货店"
-        }
-      ]
+      "ctx": "食品杂货商"
     },
     {
       "word": "uneaten",
-      "lemma": "uneaten",
-      "kind": "word",
       "type": "core",
-      "ctx": "未吃的",
-      "forms": [],
-      "phonetic": "[ʌnˈiːtn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "未吃的；吃剩的"
-        }
-      ]
+      "ctx": "未吃的"
     },
     {
       "word": "dish",
-      "lemma": "dish",
-      "kind": "word",
       "type": "outline",
-      "ctx": "一道菜，菜肴",
-      "forms": [
-        {
-          "surface": "dishes",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[dɪʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "一道菜，菜肴；碟，盘；[pl.]（待清洗的）餐具",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "side dish配菜"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "一道菜，菜肴"
     },
     {
       "word": "garbage",
-      "lemma": "garbage",
-      "kind": "word",
       "type": "outline",
-      "ctx": "垃圾",
-      "forms": [],
-      "phonetic": "[ˈɡɑːbɪdʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "垃圾",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a garbage truck一辆垃圾车"
-              ]
-            },
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Cao and Wu also collected garbage along the road, in order to promote environmental protection.曹先生和吴先生还沿路收集垃圾，以促进环境保护。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "垃圾"
     },
     {
       "word": "can",
-      "lemma": "can",
-      "kind": "word",
       "type": "outline",
-      "ctx": "",
-      "forms": [
-        {
-          "surface": "cans",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[kæn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "modal",
-          "meaning": ""
-        },
-        {
-          "pos": "v.",
-          "meaning": "可能；能够，可以"
-        },
-        {
-          "pos": "n.",
-          "meaning": "罐头；罐"
-        }
-      ]
+      "ctx": ""
     },
     {
       "word": "suspend",
-      "lemma": "suspend",
-      "kind": "word",
       "type": "outline",
-      "ctx": "暂停，终止",
-      "forms": [
-        {
-          "surface": "suspends",
-          "tag": "third_person"
-        },
-        {
-          "surface": "suspended",
-          "tag": "past"
-        },
-        {
-          "surface": "suspended",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "suspending",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[səˈspend]",
-      "memory": [
-        "词根记忆：sus（下面）+pend（悬挂）→悬挂在下面→吊，悬"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "暂停，终止；吊，悬；延缓，推迟"
-        }
-      ]
+      "ctx": "暂停，终止"
     },
     {
       "word": "pork",
-      "lemma": "pork",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U]猪肉",
-      "forms": [],
-      "phonetic": "[pɔːk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]猪肉"
-        }
-      ]
+      "ctx": "[U]猪肉"
     },
     {
       "word": "beef",
-      "lemma": "beef",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U]牛肉",
-      "forms": [],
-      "phonetic": "[biːf]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]牛肉"
-        }
-      ]
+      "ctx": "[U]牛肉"
     },
     {
       "word": "no",
-      "lemma": "no",
-      "kind": "word",
       "type": "outline",
-      "ctx": "没有，无",
-      "forms": [],
-      "phonetic": "[nəʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "det.",
-          "meaning": "没有，无；不准，禁止"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "不"
-        }
-      ]
+      "ctx": "没有，无"
     },
     {
       "word": "fuel",
-      "lemma": "fuel",
-      "kind": "word",
       "type": "outline",
-      "ctx": "燃料",
-      "forms": [],
-      "phonetic": "[ˈfjuːəl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "燃料"
-        }
-      ]
+      "ctx": "燃料"
     },
     {
       "word": "goods",
-      "lemma": "goods",
-      "kind": "word",
       "type": "outline",
-      "ctx": "商品，货物",
-      "forms": [],
-      "phonetic": "[ɡʊdz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "商品，货物",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "name-brand goods名牌商品"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "商品，货物"
     },
     {
       "word": "petrol",
-      "lemma": "petrol",
-      "kind": "word",
       "type": "outline",
-      "ctx": "汽油",
-      "forms": [],
-      "phonetic": "[ˈpetrəl]",
-      "memory": [
-        "发音记忆：“派车”→汽车有油（petrol）才能派出→汽油"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "汽油"
-        }
-      ]
+      "ctx": "汽油"
     },
     {
       "word": "producer",
-      "lemma": "producer",
-      "kind": "word",
       "type": "core",
-      "ctx": "生产商，制造商",
-      "forms": [],
-      "phonetic": "[prəˈdjuːsə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "生产商，制造商；（电影的）制片人"
-        }
-      ]
+      "ctx": "生产商，制造商"
     },
     {
       "word": "greenhouse",
-      "lemma": "greenhouse",
-      "kind": "word",
       "type": "outline",
-      "ctx": "温室",
-      "forms": [],
-      "phonetic": "[ˈɡriːnhaʊs]",
-      "memory": [
-        "合成词：green（绿色）+house（房子）→满是绿色的房子→温室"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "温室"
-        }
-      ]
+      "ctx": "温室"
     },
     {
       "word": "understand",
-      "lemma": "understand",
-      "kind": "word",
       "type": "outline",
-      "ctx": "理解，领会",
-      "forms": [
-        {
-          "surface": "understands",
-          "tag": "third_person"
-        },
-        {
-          "surface": "understood",
-          "tag": "past"
-        },
-        {
-          "surface": "understood",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "understanding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌʌndəˈstænd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "理解，领会；了解，认识到"
-        }
-      ]
+      "ctx": "理解，领会"
     },
     {
       "word": "refrigerator",
-      "lemma": "refrigerator",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（=fridge）冰箱",
-      "forms": [],
-      "phonetic": "[rɪˈfrɪdʒəreɪtə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（=fridge）冰箱"
-        }
-      ]
+      "ctx": "（=fridge）冰箱"
     },
     {
       "word": "him",
-      "lemma": "him",
-      "kind": "word",
       "type": "outline",
-      "ctx": "他",
-      "forms": [],
-      "phonetic": "[hɪm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "pron.",
-          "meaning": "他"
-        }
-      ]
+      "ctx": "他"
     },
     {
       "word": "twelve",
-      "lemma": "twelve",
-      "kind": "word",
       "type": "outline",
-      "ctx": "十二",
-      "forms": [],
-      "phonetic": "[twelv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "num.",
-          "meaning": "十二",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "twelfth*（ ordinal num. 第十二）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "十二"
     },
     {
       "word": "donate",
-      "lemma": "donate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "捐赠，赠送",
-      "forms": [
-        {
-          "surface": "donated",
-          "tag": "past"
-        }
-      ],
-      "phonetic": "[dəʊˈneɪt]",
-      "memory": [
-        "词根记忆：don（给予）+ate（表动词）→给出去→捐赠，赠送"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "捐赠，赠送"
-        }
-      ]
+      "ctx": "捐赠，赠送"
     },
     {
       "word": "strawberry",
-      "lemma": "strawberry",
-      "kind": "word",
       "type": "outline",
-      "ctx": "草莓",
-      "forms": [
-        {
-          "surface": "strawberries",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈstrɔːbəri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "草莓"
-        }
-      ]
+      "ctx": "草莓"
     },
     {
       "word": "near",
-      "lemma": "near",
-      "kind": "word",
       "type": "outline",
-      "ctx": "在……附近",
-      "forms": [
-        {
-          "surface": "nearing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[nɪə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "prep.",
-          "meaning": "在……附近；临近；大约；濒临"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "近的"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "在附近；不久之后"
-        },
-        {
-          "pos": "v.",
-          "meaning": "接近，临近"
-        }
-      ]
+      "ctx": "在……附近"
     },
     {
       "word": "CEO",
-      "lemma": "CEO",
-      "kind": "proper_noun",
       "type": "core",
-      "ctx": "总裁，首席执行官",
-      "forms": [],
-      "phonetic": "[ˌsiː iː ˈəʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "总裁，首席执行官"
-        }
-      ]
+      "ctx": "总裁，首席执行官"
     },
     {
       "word": "central",
-      "lemma": "central",
-      "kind": "word",
       "type": "outline",
-      "ctx": "最重要的，主要的",
-      "forms": [],
-      "phonetic": "[ˈsentrəl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "最重要的，主要的；在中心的，中央的"
-        }
-      ]
+      "ctx": "最重要的，主要的"
     },
     {
       "word": "kitchen",
-      "lemma": "kitchen",
-      "kind": "word",
       "type": "outline",
-      "ctx": "厨房",
-      "forms": [],
-      "phonetic": "[ˈkɪtʃɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "厨房"
-        }
-      ]
+      "ctx": "厨房"
     },
     {
       "word": "recover",
-      "lemma": "recover",
-      "kind": "word",
       "type": "outline",
-      "ctx": "痊愈",
-      "forms": [
-        {
-          "surface": "recovers",
-          "tag": "third_person"
-        },
-        {
-          "surface": "recovered",
-          "tag": "past"
-        },
-        {
-          "surface": "recovered",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "recovering",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rɪˈkʌvə(r)]",
-      "memory": [
-        "词根记忆：re（重新）+cover（包括）→重新获得"
-      ],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "痊愈；恢复"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "找回，找到；重新获得"
-        }
-      ]
+      "ctx": "痊愈"
     },
     {
       "word": "donation",
-      "lemma": "donation",
-      "kind": "word",
       "type": "core",
-      "ctx": "捐赠物",
-      "forms": [
-        {
-          "surface": "donations",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[dəʊˈneɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "捐赠物；捐赠"
-        }
-      ]
+      "ctx": "捐赠物"
     },
     {
       "word": "collect",
-      "lemma": "collect",
-      "kind": "word",
       "type": "outline",
-      "ctx": "收集，采集",
-      "forms": [
-        {
-          "surface": "collects",
-          "tag": "third_person"
-        },
-        {
-          "surface": "collected",
-          "tag": "past"
-        },
-        {
-          "surface": "collected",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "collecting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kəˈlekt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "收集，采集；搜集",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "stamp*（ n. 邮票）"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "v.",
-          "meaning": "聚集；积聚"
-        }
-      ]
+      "ctx": "收集，采集"
     },
     {
       "word": "wash",
-      "lemma": "wash",
-      "kind": "word",
       "type": "outline",
-      "ctx": "洗涤",
-      "forms": [
-        {
-          "surface": "washes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "washed",
-          "tag": "past"
-        },
-        {
-          "surface": "washed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "washing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[wɒʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "洗涤；冲刷"
-        },
-        {
-          "pos": "n.",
-          "meaning": "洗涤，清洗"
-        }
-      ]
+      "ctx": "洗涤"
     },
     {
       "word": "freeze",
-      "lemma": "freeze",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（使）结冰",
-      "forms": [
-        {
-          "surface": "freezes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "froze",
-          "tag": "past"
-        },
-        {
-          "surface": "frozen",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "freezing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[friːz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）结冰；（使）冻住；极冷；冷藏；惊呆"
-        }
-      ]
+      "ctx": "（使）结冰"
     },
     {
       "word": "Japan",
-      "lemma": "Japan",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "日本",
-      "forms": [],
-      "phonetic": "[dʒəˈpæn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "日本",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "Japanese*（ n. 日本人 adj. 日本的；日本人的；日语的）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "日本"
     },
     {
       "word": "Canada",
-      "lemma": "Canada",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "加拿大",
-      "forms": [],
-      "phonetic": "[ˈkænədə]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "加拿大",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "Canadian*（ n. 加拿大人 adj. 加拿大的；加拿大人的）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "加拿大"
     },
     {
       "word": "pub",
-      "lemma": "pub",
-      "kind": "word",
       "type": "outline",
-      "ctx": "酒馆，酒吧",
-      "forms": [
-        {
-          "surface": "pubs",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[pʌb]",
-      "memory": [
-        "联想记忆：酒吧（pub）是公共（public）场所"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "酒馆，酒吧"
-        }
-      ]
+      "ctx": "酒馆，酒吧"
     },
     {
       "word": "minister",
-      "lemma": "minister",
-      "kind": "word",
       "type": "outline",
-      "ctx": "部长",
-      "forms": [
-        {
-          "surface": "ministers",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈmɪnɪstə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "部长；牧师",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "the Prime Minister首相the Foreign Minister外交部部长"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "部长"
     },
     {
       "word": "tax",
-      "lemma": "tax",
-      "kind": "word",
       "type": "outline",
-      "ctx": "税，税款",
-      "forms": [
-        {
-          "surface": "taxes",
-          "tag": "plural"
-        },
-        {
-          "surface": "taxes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "taxed",
-          "tag": "past"
-        },
-        {
-          "surface": "taxed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "taxing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[tæks]",
-      "memory": [
-        "联想记忆：开着出租车（taxi）去缴税（tax）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "税，税款"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "对……征税"
-        }
-      ]
+      "ctx": "税，税款"
     },
     {
       "word": "shopping",
-      "lemma": "shopping",
-      "kind": "word",
       "type": "core",
-      "ctx": "买东西，购物",
-      "forms": [],
-      "phonetic": "[ˈʃɒpɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "买东西，购物"
-        }
-      ]
+      "ctx": "买东西，购物"
     }
   ]
 }

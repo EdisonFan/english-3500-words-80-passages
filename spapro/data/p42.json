@@ -44,1147 +44,218 @@
   "vocab": [
     {
       "word": "elderly",
-      "lemma": "elderly",
-      "kind": "word",
       "type": "outline",
-      "ctx": "较老的，年长的",
-      "forms": [],
-      "phonetic": "[ˈeldəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "较老的，年长的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "elder*（ adj. 年长的 n. 长辈）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "较老的，年长的"
     },
     {
       "word": "resident",
-      "lemma": "resident",
-      "kind": "word",
       "type": "outline",
-      "ctx": "居民，定居者",
-      "forms": [
-        {
-          "surface": "residents",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈrezɪdənt]",
-      "memory": [
-        "联想记忆：resi（看作rest，休息）+d+ent（表人、物）→居民，定居者"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "居民，定居者"
-        }
-      ]
+      "ctx": "居民，定居者"
     },
     {
       "word": "care",
-      "lemma": "care",
-      "kind": "word",
       "type": "outline",
-      "ctx": "照料，看护",
-      "forms": [
-        {
-          "surface": "cares",
-          "tag": "third_person"
-        },
-        {
-          "surface": "cared",
-          "tag": "past"
-        },
-        {
-          "surface": "cared",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "caring",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[keə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "照料，看护；小心",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "take care of照顾，照料take care当心care about关心，在乎"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "v.",
-          "meaning": "关注，在意；关心"
-        }
-      ]
+      "ctx": "照料，看护"
     },
     {
       "word": "Britain",
-      "lemma": "Britain",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "英国",
-      "forms": [],
-      "phonetic": "[ˈbrɪtn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "英国"
-        }
-      ]
+      "ctx": "英国"
     },
     {
       "word": "hen",
-      "lemma": "hen",
-      "kind": "word",
       "type": "outline",
-      "ctx": "母鸡",
-      "forms": [
-        {
-          "surface": "hens",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[hen]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "母鸡"
-        }
-      ]
+      "ctx": "母鸡"
     },
     {
       "word": "lonely",
-      "lemma": "lonely",
-      "kind": "word",
       "type": "outline",
-      "ctx": "孤独的，寂寞的",
-      "forms": [],
-      "phonetic": "[ˈləʊnli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "孤独的，寂寞的"
-        }
-      ]
+      "ctx": "孤独的，寂寞的"
     },
     {
       "word": "initiative",
-      "lemma": "initiative",
-      "kind": "word",
       "type": "outline",
-      "ctx": "主动性",
-      "forms": [],
-      "phonetic": "[ɪˈnɪʃətɪv]",
-      "memory": [
-        "来自initial（ adj. 开始的，最初的）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "主动性；倡议，新方案；主动权"
-        }
-      ]
+      "ctx": "主动性"
     },
     {
       "word": "applaud",
-      "lemma": "applaud",
-      "kind": "word",
       "type": "outline",
-      "ctx": "鼓掌",
-      "forms": [
-        {
-          "surface": "applauds",
-          "tag": "third_person"
-        },
-        {
-          "surface": "applauded",
-          "tag": "past"
-        },
-        {
-          "surface": "applauded",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "applauding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈplɔːd]",
-      "memory": [
-        "词根记忆：ap（表加强）+plaud（鼓掌）→鼓掌"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "鼓掌；称赞"
-        }
-      ]
+      "ctx": "鼓掌"
     },
     {
       "word": "cure",
-      "lemma": "cure",
-      "kind": "word",
       "type": "outline",
-      "ctx": "药物，疗法",
-      "forms": [
-        {
-          "surface": "cures",
-          "tag": "plural"
-        },
-        {
-          "surface": "cures",
-          "tag": "third_person"
-        },
-        {
-          "surface": "cured",
-          "tag": "past"
-        },
-        {
-          "surface": "cured",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "curing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kjʊə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "药物，疗法；治疗；措施"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "治愈，治好"
-        }
-      ]
+      "ctx": "药物，疗法"
     },
     {
       "word": "charity",
-      "lemma": "charity",
-      "kind": "word",
       "type": "outline",
-      "ctx": "慈善（事业）",
-      "forms": [],
-      "phonetic": "[ˈtʃærəti]",
-      "memory": [
-        "词根记忆：char（可爱的）+ity（表名词）→做慈善的人是可爱的→慈善（事业）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "慈善（事业）；慈善机构",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "charity donation慈善捐款"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "慈善（事业）"
     },
     {
       "word": "senior",
-      "lemma": "senior",
-      "kind": "word",
       "type": "outline",
-      "ctx": "年长的，资深的",
-      "forms": [],
-      "phonetic": "[ˈsiːniə(r)]",
-      "memory": [
-        "词根记忆：sen（老的，年长的）+ior→年长的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "年长的，资深的；高年级的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "senior citizen老年人senior lecturer高级讲师"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "上级，长辈；最高年级的学生"
-        }
-      ]
+      "ctx": "年长的，资深的"
     },
     {
       "word": "citizen",
-      "lemma": "citizen",
-      "kind": "word",
       "type": "outline",
-      "ctx": "公民",
-      "forms": [
-        {
-          "surface": "citizens",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈsɪtɪzn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "公民；市民，居民"
-        }
-      ]
+      "ctx": "公民"
     },
     {
       "word": "dementia",
-      "lemma": "dementia",
-      "kind": "word",
       "type": "core",
-      "ctx": "痴呆，精神错乱",
-      "forms": [],
-      "phonetic": "[dɪˈmenʃə]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "痴呆，精神错乱"
-        }
-      ]
+      "ctx": "痴呆，精神错乱"
     },
     {
       "word": "illness",
-      "lemma": "illness",
-      "kind": "word",
       "type": "outline",
-      "ctx": "病，疾病",
-      "forms": [],
-      "phonetic": "[ˈɪlnəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "病，疾病"
-        }
-      ]
+      "ctx": "病，疾病"
     },
     {
       "word": "report",
-      "lemma": "report",
-      "kind": "word",
       "type": "outline",
-      "ctx": "报告",
-      "forms": [
-        {
-          "surface": "reports",
-          "tag": "plural"
-        },
-        {
-          "surface": "reports",
-          "tag": "third_person"
-        },
-        {
-          "surface": "reported",
-          "tag": "past"
-        },
-        {
-          "surface": "reported",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "reporting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rɪˈpɔːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "/"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "报道；报告"
-        }
-      ]
+      "ctx": "报告"
     },
     {
       "word": "housework",
-      "lemma": "housework",
-      "kind": "word",
       "type": "outline",
-      "ctx": "家务劳动，家务事",
-      "forms": [],
-      "phonetic": "[ˈhaʊswɜːk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "家务劳动，家务事"
-        }
-      ]
+      "ctx": "家务劳动，家务事"
     },
     {
       "word": "withdraw",
-      "lemma": "withdraw",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（使）撤回",
-      "forms": [
-        {
-          "surface": "withdraws",
-          "tag": "third_person"
-        },
-        {
-          "surface": "withdrew",
-          "tag": "past"
-        },
-        {
-          "surface": "withdrawn",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "withdrawing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[wɪðˈdrɔː]",
-      "memory": [
-        "词根记忆：with（向后）+draw（拉）→拉回，收回→撤回"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）撤回；（使）退出；（脱离）社会，不与人交往；（从银行）取（钱）"
-        }
-      ]
+      "ctx": "（使）撤回"
     },
     {
       "word": "especially",
-      "lemma": "especially",
-      "kind": "word",
       "type": "outline",
-      "ctx": "特别，尤其",
-      "forms": [],
-      "phonetic": "[ɪˈspeʃəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "特别，尤其"
-        }
-      ]
+      "ctx": "特别，尤其"
     },
     {
       "word": "abroad",
-      "lemma": "abroad",
-      "kind": "word",
       "type": "outline",
-      "ctx": "到国外，在国外",
-      "forms": [],
-      "phonetic": "[əˈbrɔːd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "到国外，在国外"
-        }
-      ]
+      "ctx": "到国外，在国外"
     },
     {
       "word": "wheelchair",
-      "lemma": "wheelchair",
-      "kind": "word",
       "type": "core",
-      "ctx": "轮椅",
-      "forms": [],
-      "phonetic": "[ˈwiːltʃeə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "轮椅"
-        }
-      ]
+      "ctx": "轮椅"
     },
     {
       "word": "stomachache",
-      "lemma": "stomachache",
-      "kind": "word",
       "type": "outline",
-      "ctx": "胃痛，腹痛",
-      "forms": [],
-      "phonetic": "[ˈstʌməkeɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "胃痛，腹痛"
-        }
-      ]
+      "ctx": "胃痛，腹痛"
     },
     {
       "word": "ache",
-      "lemma": "ache",
-      "kind": "word",
       "type": "outline",
-      "ctx": "疼痛",
-      "forms": [
-        {
-          "surface": "aches",
-          "tag": "plural"
-        },
-        {
-          "surface": "aches",
-          "tag": "third_person"
-        },
-        {
-          "surface": "ached",
-          "tag": "past"
-        },
-        {
-          "surface": "ached",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "aching",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[eɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "/"
-        },
-        {
-          "pos": "n.",
-          "meaning": "疼痛"
-        }
-      ]
+      "ctx": "疼痛"
     },
     {
       "word": "sorry",
-      "lemma": "sorry",
-      "kind": "word",
       "type": "outline",
-      "ctx": "抱歉的",
-      "forms": [],
-      "phonetic": "[ˈsɒri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "抱歉的；遗憾的；难过的"
-        },
-        {
-          "pos": "int.",
-          "meaning": "对不起"
-        }
-      ]
+      "ctx": "抱歉的"
     },
     {
       "word": "owe",
-      "lemma": "owe",
-      "kind": "word",
       "type": "outline",
-      "ctx": "欠（人情、债等）",
-      "forms": [
-        {
-          "surface": "owes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "owed",
-          "tag": "past"
-        },
-        {
-          "surface": "owed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "owing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "欠（人情、债等）；归功于；感激",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "owe sb.an apology for sth.因某事欠某人一个道歉owe sth.to sb./sth.应该把某事归功于某人/某物"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "欠（人情、债等）"
     },
     {
       "word": "cycle",
-      "lemma": "cycle",
-      "kind": "word",
       "type": "outline",
-      "ctx": "周期",
-      "forms": [
-        {
-          "surface": "cycles",
-          "tag": "plural"
-        },
-        {
-          "surface": "cycles",
-          "tag": "third_person"
-        },
-        {
-          "surface": "cycled",
-          "tag": "past"
-        },
-        {
-          "surface": "cycled",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "cycling",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈsaɪkl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "周期；循环",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a wave cycle波动周期"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vi.",
-          "meaning": "骑自行车；循环"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "使循环"
-        }
-      ]
+      "ctx": "周期"
     },
     {
       "word": "watch",
-      "lemma": "watch",
-      "kind": "word",
       "type": "outline",
-      "ctx": "观察，观看",
-      "forms": [
-        {
-          "surface": "watches",
-          "tag": "plural"
-        },
-        {
-          "surface": "watches",
-          "tag": "third_person"
-        },
-        {
-          "surface": "watched",
-          "tag": "past"
-        },
-        {
-          "surface": "watched",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "watching",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[wɒtʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "观察，观看；当心"
-        },
-        {
-          "pos": "n.",
-          "meaning": "手表"
-        }
-      ]
+      "ctx": "观察，观看"
     },
     {
       "word": "pride",
-      "lemma": "pride",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U]自豪，骄傲",
-      "forms": [
-        {
-          "surface": "prides",
-          "tag": "third_person"
-        },
-        {
-          "surface": "prided",
-          "tag": "past"
-        },
-        {
-          "surface": "prided",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "priding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[praɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]自豪，骄傲"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "以……而自豪"
-        }
-      ]
+      "ctx": "[U]自豪，骄傲"
     },
     {
       "word": "dignity",
-      "lemma": "dignity",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U]尊严，庄严",
-      "forms": [],
-      "phonetic": "[ˈdɪɡnəti]",
-      "memory": [
-        "词根记忆：dign（有价值的；高贵的）+ity（表名词）→高贵"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]尊严，庄严；高贵"
-        }
-      ]
+      "ctx": "[U]尊严，庄严"
     },
     {
       "word": "grateful",
-      "lemma": "grateful",
-      "kind": "word",
       "type": "outline",
-      "ctx": "感激的，感谢的",
-      "forms": [],
-      "phonetic": "[ˈɡreɪtfl]",
-      "memory": [
-        "词根记忆：grat（令人高兴的）+e+ful（……的）→感激的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "感激的，感谢的"
-        }
-      ]
+      "ctx": "感激的，感谢的"
     },
     {
       "word": "north",
-      "lemma": "north",
-      "kind": "word",
       "type": "outline",
-      "ctx": "北方",
-      "forms": [],
-      "phonetic": "[nɔːθ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "北方；北部"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "北方的；北部的"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "向北"
-        }
-      ]
+      "ctx": "北方"
     },
     {
       "word": "welfare",
-      "lemma": "welfare",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U]福利",
-      "forms": [],
-      "phonetic": "[ˈwelfeə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]福利；幸福"
-        }
-      ]
+      "ctx": "[U]福利"
     },
     {
       "word": "fund",
-      "lemma": "fund",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[C]基金，专款",
-      "forms": [
-        {
-          "surface": "funds",
-          "tag": "plural"
-        },
-        {
-          "surface": "funds",
-          "tag": "third_person"
-        },
-        {
-          "surface": "funded",
-          "tag": "past"
-        },
-        {
-          "surface": "funded",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "funding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[fʌnd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[C]基金，专款；[pl.]资金，现款",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "allocate funds拨款"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "资助；为……提供资金"
-        }
-      ]
+      "ctx": "[C]基金，专款"
     },
     {
       "word": "financial",
-      "lemma": "financial",
-      "kind": "word",
       "type": "outline",
-      "ctx": "金融的，财务的，财政的",
-      "forms": [],
-      "phonetic": "[faɪˈnænʃl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "金融的，财务的，财政的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "financial report财经报道"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "金融的，财务的，财政的"
     },
     {
       "word": "roll",
-      "lemma": "roll",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（使）滚动",
-      "forms": [
-        {
-          "surface": "rolls",
-          "tag": "plural"
-        },
-        {
-          "surface": "rolls",
-          "tag": "third_person"
-        },
-        {
-          "surface": "rolled",
-          "tag": "past"
-        },
-        {
-          "surface": "rolled",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "rolling",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rəʊl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）滚动；（使）原地转圈",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "roll sth.out将……轧平；正式推出，开展"
-              ]
-            },
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "The wind picked up and thunder rolled .狂风大作，雷声滚滚。"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "卷，卷轴；翻滚"
-        }
-      ]
+      "ctx": "（使）滚动"
     },
     {
       "word": "manager",
-      "lemma": "manager",
-      "kind": "word",
       "type": "outline",
-      "ctx": "经理，经营者",
-      "forms": [],
-      "phonetic": "[ˈmænɪdʒə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "经理，经营者"
-        }
-      ]
+      "ctx": "经理，经营者"
     },
     {
       "word": "street",
-      "lemma": "street",
-      "kind": "word",
       "type": "outline",
-      "ctx": "街道",
-      "forms": [],
-      "phonetic": "[striːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "街道"
-        }
-      ]
+      "ctx": "街道"
     },
     {
       "word": "embark",
-      "lemma": "embark",
-      "kind": "word",
       "type": "core",
-      "ctx": "上船",
-      "forms": [],
-      "phonetic": "[ɪmˈbɑːk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "上船",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "embark on sth.从事，着手，开始"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "上船"
     },
     {
       "word": "welcome",
-      "lemma": "welcome",
-      "kind": "word",
       "type": "outline",
-      "ctx": "欢迎",
-      "forms": [],
-      "phonetic": "[ˈwelkəm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "欢迎"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "受欢迎的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "欢迎"
-        }
-      ]
+      "ctx": "欢迎"
     },
     {
       "word": "session",
-      "lemma": "session",
-      "kind": "word",
       "type": "outline",
-      "ctx": "会议",
-      "forms": [
-        {
-          "surface": "sessions",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈseʃn]",
-      "memory": [
-        "词根记忆：sess（坐）+ion（表名词）→大家坐在一起讨论→会议；开庭"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "会议；开庭；一段时间，一场，一节",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "in session正在开会；正在开庭"
-              ]
-            },
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "We will be holding a free taster session on 23rd May, at 10 am, to demonstrate a variety of effective and active exercises.我们将于5月23日上午10点举行一次免费的体验课，展示各种有效而积极的运动。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "会议"
     },
     {
       "word": "here",
-      "lemma": "here",
-      "kind": "word",
       "type": "outline",
-      "ctx": "在这里",
-      "forms": [],
-      "phonetic": "[hɪə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "在这里"
-        },
-        {
-          "pos": "int.",
-          "meaning": "嘿（用于引起注意）"
-        }
-      ]
+      "ctx": "在这里"
     },
     {
       "word": "director",
-      "lemma": "director",
-      "kind": "word",
       "type": "outline",
-      "ctx": "经理，董事",
-      "forms": [],
-      "phonetic": "[dəˈrektə(r); dɪˈrektə(r);",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "经理，董事；负责人，主任；导演"
-        }
-      ]
+      "ctx": "经理，董事"
     },
     {
       "word": "pathway",
-      "lemma": "pathway",
-      "kind": "word",
       "type": "core",
-      "ctx": "（=path）途径",
-      "forms": [
-        {
-          "surface": "pathways",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈpɑːθweɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（=path）途径；小路，小径"
-        }
-      ]
+      "ctx": "（=path）途径"
     },
     {
       "word": "glad",
-      "lemma": "glad",
-      "kind": "word",
       "type": "outline",
-      "ctx": "高兴的，乐意的",
-      "forms": [],
-      "phonetic": "[ɡlæd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "高兴的，乐意的"
-        }
-      ]
+      "ctx": "高兴的，乐意的"
     }
   ]
 }

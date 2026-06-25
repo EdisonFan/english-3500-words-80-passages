@@ -54,922 +54,208 @@
   "vocab": [
     {
       "word": "nowadays",
-      "lemma": "nowadays",
-      "kind": "word",
       "type": "outline",
-      "ctx": "现在，如今",
-      "forms": [],
-      "phonetic": "[ˈnaʊədeɪz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "现在，如今"
-        }
-      ]
+      "ctx": "现在，如今"
     },
     {
       "word": "soccer",
-      "lemma": "soccer",
-      "kind": "word",
       "type": "outline",
-      "ctx": "足球",
-      "forms": [],
-      "phonetic": "[ˈsɒkə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "足球"
-        }
-      ]
+      "ctx": "足球"
     },
     {
       "word": "cause",
-      "lemma": "cause",
-      "kind": "word",
       "type": "outline",
-      "ctx": "原因，起因",
-      "forms": [
-        {
-          "surface": "causes",
-          "tag": "plural"
-        },
-        {
-          "surface": "causes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "caused",
-          "tag": "past"
-        },
-        {
-          "surface": "caused",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "causing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kɔːz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "原因，起因"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "促使，引起"
-        }
-      ]
+      "ctx": "原因，起因"
     },
     {
       "word": "busy",
-      "lemma": "busy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "忙碌的",
-      "forms": [],
-      "phonetic": "[ˈbɪzi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "忙碌的"
-        }
-      ]
+      "ctx": "忙碌的"
     },
     {
       "word": "real",
-      "lemma": "real",
-      "kind": "word",
       "type": "outline",
-      "ctx": "真的",
-      "forms": [],
-      "phonetic": "[ˈriːəl; rɪəl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "真的；真实的；真正的"
-        }
-      ]
+      "ctx": "真的"
     },
     {
       "word": "stadium",
-      "lemma": "stadium",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（露天）体育场",
-      "forms": [],
-      "phonetic": "[ˈsteɪdiəm]",
-      "memory": [
-        "词根记忆：stad（站）+ium（场所）→站着看比赛的地方→（露天）体育场"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（露天）体育场"
-        }
-      ]
+      "ctx": "（露天）体育场"
     },
     {
       "word": "yard",
-      "lemma": "yard",
-      "kind": "word",
       "type": "outline",
-      "ctx": "院子",
-      "forms": [],
-      "phonetic": "[jɑːd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "院子；（某种用途的）场地；（长度单位）码"
-        }
-      ]
+      "ctx": "院子"
     },
     {
       "word": "square",
-      "lemma": "square",
-      "kind": "word",
       "type": "outline",
-      "ctx": "广场",
-      "forms": [],
-      "phonetic": "[skweə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "广场；正方形"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "平方的；正方形的"
-        }
-      ]
+      "ctx": "广场"
     },
     {
       "word": "game",
-      "lemma": "game",
-      "kind": "word",
       "type": "outline",
-      "ctx": "游戏",
-      "forms": [],
-      "phonetic": "[ɡeɪm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "游戏；运动；比赛（项目）"
-        }
-      ]
+      "ctx": "游戏"
     },
     {
       "word": "sport",
-      "lemma": "sport",
-      "kind": "word",
       "type": "outline",
-      "ctx": "运动",
-      "forms": [],
-      "phonetic": "[spɔːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "运动；[pl.]运动会"
-        }
-      ]
+      "ctx": "运动"
     },
     {
       "word": "teamwork",
-      "lemma": "teamwork",
-      "kind": "word",
       "type": "core",
-      "ctx": "团队协作，配合",
-      "forms": [],
-      "phonetic": "[ˈtiːmwɜːk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "团队协作，配合"
-        }
-      ]
+      "ctx": "团队协作，配合"
     },
     {
       "word": "package",
-      "lemma": "package",
-      "kind": "word",
       "type": "outline",
-      "ctx": "包，盒，包装好的东西",
-      "forms": [],
-      "phonetic": "[ˈpækɪdʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "包，盒，包装好的东西；包裹；一揽子提议"
-        }
-      ]
+      "ctx": "包，盒，包装好的东西"
     },
     {
       "word": "player",
-      "lemma": "player",
-      "kind": "word",
       "type": "outline",
-      "ctx": "运动员，参赛选手",
-      "forms": [
-        {
-          "surface": "players",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈpleɪə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "运动员，参赛选手；表演者；播放机"
-        }
-      ]
+      "ctx": "运动员，参赛选手"
     },
     {
       "word": "strict",
-      "lemma": "strict",
-      "kind": "word",
       "type": "outline",
-      "ctx": "严格的",
-      "forms": [],
-      "phonetic": "[strɪkt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "严格的；严密的"
-        }
-      ]
+      "ctx": "严格的"
     },
     {
       "word": "talent",
-      "lemma": "talent",
-      "kind": "word",
       "type": "outline",
-      "ctx": "天才，才能",
-      "forms": [
-        {
-          "surface": "talents",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈtælənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "天才，才能"
-        }
-      ]
+      "ctx": "天才，才能"
     },
     {
       "word": "order",
-      "lemma": "order",
-      "kind": "word",
       "type": "outline",
-      "ctx": "顺序",
-      "forms": [
-        {
-          "surface": "orders",
-          "tag": "plural"
-        },
-        {
-          "surface": "orders",
-          "tag": "third_person"
-        },
-        {
-          "surface": "ordered",
-          "tag": "past"
-        },
-        {
-          "surface": "ordered",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "ordering",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈɔːdə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "顺序；秩序；命令"
-        },
-        {
-          "pos": "v.",
-          "meaning": "命令；点菜；订购"
-        }
-      ]
+      "ctx": "顺序"
     },
     {
       "word": "there",
-      "lemma": "there",
-      "kind": "word",
       "type": "outline",
-      "ctx": "在那里",
-      "forms": [],
-      "phonetic": "[ðeə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "在那里"
-        },
-        {
-          "pos": "int.",
-          "meaning": "你瞧"
-        }
-      ]
+      "ctx": "在那里"
     },
     {
       "word": "empathy",
-      "lemma": "empathy",
-      "kind": "word",
       "type": "core",
-      "ctx": "同感，共鸣，同感能力",
-      "forms": [],
-      "phonetic": "[ˈempəθi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "同感，共鸣，同感能力",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "sympathy*（ n. 同情；赞同）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "同感，共鸣，同感能力"
     },
     {
       "word": "motor",
-      "lemma": "motor",
-      "kind": "word",
       "type": "outline",
-      "ctx": "发动机",
-      "forms": [],
-      "phonetic": "[ˈməʊtə(r)]",
-      "memory": [
-        "词根记忆：mot（移动）+or（表物）→能让车移动→发动机"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "发动机；汽车"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "机动车的，汽车的；肌肉运动的"
-        }
-      ]
+      "ctx": "发动机"
     },
     {
       "word": "fun",
-      "lemma": "fun",
-      "kind": "word",
       "type": "outline",
-      "ctx": "乐趣，娱乐",
-      "forms": [],
-      "phonetic": "[fʌn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "乐趣，娱乐"
-        }
-      ]
+      "ctx": "乐趣，娱乐"
     },
     {
       "word": "smartphone",
-      "lemma": "smartphone",
-      "kind": "word",
       "type": "core",
-      "ctx": "智能手机",
-      "forms": [
-        {
-          "surface": "smartphones",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈsmɑːtfəʊn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "智能手机"
-        }
-      ]
+      "ctx": "智能手机"
     },
     {
       "word": "outdoors",
-      "lemma": "outdoors",
-      "kind": "word",
       "type": "core",
-      "ctx": "在户外，在野外",
-      "forms": [],
-      "phonetic": "[ˌaʊtˈdɔːz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "在户外，在野外"
-        },
-        {
-          "pos": "n.",
-          "meaning": "野外，郊外"
-        }
-      ]
+      "ctx": "在户外，在野外"
     },
     {
       "word": "excellent",
-      "lemma": "excellent",
-      "kind": "word",
       "type": "outline",
-      "ctx": "极好的，优秀的",
-      "forms": [],
-      "phonetic": "[ˈeksələnt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "极好的，优秀的"
-        }
-      ]
+      "ctx": "极好的，优秀的"
     },
     {
       "word": "PE",
-      "lemma": "PE",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "（=physical education）体育课",
-      "forms": [],
-      "phonetic": "[ˌpiː ˈiː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（=physical education）体育课"
-        }
-      ]
+      "ctx": "（=physical education）体育课"
     },
     {
       "word": "court",
-      "lemma": "court",
-      "kind": "word",
       "type": "outline",
-      "ctx": "法庭，法院",
-      "forms": [],
-      "phonetic": "[kɔːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "法庭，法院；球场",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "football courts足球场go to court上法庭；起诉"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "法庭，法院"
     },
     {
       "word": "physical",
-      "lemma": "physical",
-      "kind": "word",
       "type": "core",
-      "ctx": "身体的",
-      "forms": [],
-      "phonetic": "[ˈfɪzɪkl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "身体的；物理的；客观存在的"
-        }
-      ]
+      "ctx": "身体的"
     },
     {
       "word": "performance",
-      "lemma": "performance",
-      "kind": "word",
       "type": "outline",
-      "ctx": "演出",
-      "forms": [],
-      "phonetic": "[pəˈfɔːməns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "演出；履行；工作情况，业绩，表现",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "In baseball, the performance of individual players is less dependent on teammates.在棒球运动中，单个球员的表现较少依赖队友。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "演出"
     },
     {
       "word": "concentration",
-      "lemma": "concentration",
-      "kind": "word",
       "type": "core",
-      "ctx": "集中",
-      "forms": [],
-      "phonetic": "[ˌkɒnsnˈtreɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "集中；专注；关注，重视"
-        }
-      ]
+      "ctx": "集中"
     },
     {
       "word": "solve",
-      "lemma": "solve",
-      "kind": "word",
       "type": "outline",
-      "ctx": "解决",
-      "forms": [
-        {
-          "surface": "solves",
-          "tag": "third_person"
-        },
-        {
-          "surface": "solved",
-          "tag": "past"
-        },
-        {
-          "surface": "solved",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "solving",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[sɒlv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "解决；解答"
-        }
-      ]
+      "ctx": "解决"
     },
     {
       "word": "physics",
-      "lemma": "physics",
-      "kind": "word",
       "type": "outline",
-      "ctx": "物理（学）",
-      "forms": [],
-      "phonetic": "[ˈfɪzɪks]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "物理（学）"
-        }
-      ]
+      "ctx": "物理（学）"
     },
     {
       "word": "recommend",
-      "lemma": "recommend",
-      "kind": "word",
       "type": "outline",
-      "ctx": "推荐",
-      "forms": [
-        {
-          "surface": "recommends",
-          "tag": "third_person"
-        },
-        {
-          "surface": "recommended",
-          "tag": "past"
-        },
-        {
-          "surface": "recommended",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "recommending",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌrekəˈmend]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "推荐；建议"
-        }
-      ]
+      "ctx": "推荐"
     },
     {
       "word": "win",
-      "lemma": "win",
-      "kind": "word",
       "type": "outline",
-      "ctx": "赢得",
-      "forms": [
-        {
-          "surface": "wins",
-          "tag": "third_person"
-        },
-        {
-          "surface": "won",
-          "tag": "past"
-        },
-        {
-          "surface": "won",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "winning",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[wɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "赢得；赢，获胜"
-        }
-      ]
+      "ctx": "赢得"
     },
     {
       "word": "kick",
-      "lemma": "kick",
-      "kind": "word",
       "type": "outline",
-      "ctx": "踢",
-      "forms": [
-        {
-          "surface": "kicks",
-          "tag": "third_person"
-        },
-        {
-          "surface": "kicked",
-          "tag": "past"
-        },
-        {
-          "surface": "kicked",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "kicking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "/"
-        },
-        {
-          "pos": "n.",
-          "meaning": "踢"
-        }
-      ]
+      "ctx": "踢"
     },
     {
       "word": "opponent",
-      "lemma": "opponent",
-      "kind": "word",
       "type": "outline",
-      "ctx": "对手",
-      "forms": [],
-      "phonetic": "[əˈpəʊnənt]",
-      "memory": [
-        "词根记忆：op（相反）+pon（位置）+ent（表人）→立场不同的人→对手"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "对手；敌人"
-        }
-      ]
+      "ctx": "对手"
     },
     {
       "word": "tackle",
-      "lemma": "tackle",
-      "kind": "word",
       "type": "outline",
-      "ctx": "对付，处理",
-      "forms": [
-        {
-          "surface": "tackles",
-          "tag": "plural"
-        },
-        {
-          "surface": "tackles",
-          "tag": "third_person"
-        },
-        {
-          "surface": "tackled",
-          "tag": "past"
-        },
-        {
-          "surface": "tackled",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "tackling",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈtækl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "对付，处理；（足球运动或曲棍球运动中）抢断"
-        }
-      ]
+      "ctx": "对付，处理"
     },
     {
       "word": "usually",
-      "lemma": "usually",
-      "kind": "word",
       "type": "outline",
-      "ctx": "通常",
-      "forms": [],
-      "phonetic": "[ˈjuːʒuəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "通常"
-        }
-      ]
+      "ctx": "通常"
     },
     {
       "word": "outgoing",
-      "lemma": "outgoing",
-      "kind": "word",
       "type": "outline",
-      "ctx": "好交际的，外向的",
-      "forms": [],
-      "phonetic": "[ˈaʊtɡəʊɪŋ]",
-      "memory": [
-        "合成词：out（出去）+going（去）→爱出去的→好交际的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "好交际的，外向的"
-        }
-      ]
+      "ctx": "好交际的，外向的"
     },
     {
       "word": "panic",
-      "lemma": "panic",
-      "kind": "word",
       "type": "outline",
-      "ctx": "惊恐，惊慌失措",
-      "forms": [
-        {
-          "surface": "panics",
-          "tag": "third_person"
-        },
-        {
-          "surface": "panicked",
-          "tag": "past"
-        },
-        {
-          "surface": "panicked",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "panicking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈpænɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）惊恐，惊慌失措"
-        },
-        {
-          "pos": "n.",
-          "meaning": "惊慌，恐慌"
-        }
-      ]
+      "ctx": "惊恐，惊慌失措"
     },
     {
       "word": "negative",
-      "lemma": "negative",
-      "kind": "word",
       "type": "outline",
-      "ctx": "消极的",
-      "forms": [],
-      "phonetic": "[ˈneɡətɪv]",
-      "memory": [
-        "词根记忆：neg（否定）+ative（……的）→否定的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "消极的；否定的；有害的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "否定"
-        }
-      ]
+      "ctx": "消极的"
     },
     {
       "word": "abuse",
-      "lemma": "abuse",
-      "kind": "word",
       "type": "outline",
-      "ctx": "滥用",
-      "forms": [
-        {
-          "surface": "abuses",
-          "tag": "plural"
-        },
-        {
-          "surface": "abuses",
-          "tag": "third_person"
-        },
-        {
-          "surface": "abused",
-          "tag": "past"
-        },
-        {
-          "surface": "abused",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "abusing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈbjuːz]",
-      "memory": [
-        "词根记忆：ab（相反）+use（使用）→反着用→滥用"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "滥用；妄用；虐待；辱骂"
-        },
-        {
-          "pos": "n.",
-          "meaning": "滥用；虐待；辱骂"
-        }
-      ]
+      "ctx": "滥用"
     },
     {
       "word": "alcohol",
-      "lemma": "alcohol",
-      "kind": "word",
       "type": "outline",
-      "ctx": "酒精",
-      "forms": [],
-      "phonetic": "[ˈælkəhɒl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "酒精；酒"
-        }
-      ]
+      "ctx": "酒精"
     }
   ]
 }

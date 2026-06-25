@@ -44,1145 +44,273 @@
   "vocab": [
     {
       "word": "basically",
-      "lemma": "basically",
-      "kind": "word",
       "type": "core",
-      "ctx": "基本上",
-      "forms": [],
-      "phonetic": "[ˈbeɪsɪkli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "基本上；从根本上说"
-        }
-      ]
+      "ctx": "基本上"
     },
     {
       "word": "satisfied",
-      "lemma": "satisfied",
-      "kind": "word",
       "type": "core",
-      "ctx": "满意的，满足的",
-      "forms": [],
-      "phonetic": "[ˈsætɪsfaɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "满意的，满足的"
-        }
-      ]
+      "ctx": "满意的，满足的"
     },
     {
       "word": "meal",
-      "lemma": "meal",
-      "kind": "word",
       "type": "outline",
-      "ctx": "一顿饭",
-      "forms": [],
-      "phonetic": "[miːl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "一顿饭；一餐所吃的食物"
-        }
-      ]
+      "ctx": "一顿饭"
     },
     {
       "word": "less",
-      "lemma": "less",
-      "kind": "word",
       "type": "outline",
-      "ctx": "更少",
-      "forms": [],
-      "phonetic": "[les]",
-      "memory": [
-        "less and less越来越少"
-      ],
-      "defs": [
-        {
-          "pos": "det.",
-          "meaning": "/"
-        },
-        {
-          "pos": "pron.",
-          "meaning": "更少的，较少的"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "更少"
-        }
-      ]
+      "ctx": "更少"
     },
     {
       "word": "goodbye",
-      "lemma": "goodbye",
-      "kind": "word",
       "type": "outline",
-      "ctx": "再见",
-      "forms": [],
-      "phonetic": "[ˌɡʊdˈbaɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "int.",
-          "meaning": "再见"
-        },
-        {
-          "pos": "n.",
-          "meaning": "告别，辞别"
-        }
-      ]
+      "ctx": "再见"
     },
     {
       "word": "ice-cream",
-      "lemma": "ice-cream",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（=ice cream）冰激凌",
-      "forms": [],
-      "phonetic": "[ˌaɪs ˈkriːm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（=ice cream）冰激凌"
-        }
-      ]
+      "ctx": "（=ice cream）冰激凌"
     },
     {
       "word": "chocolate",
-      "lemma": "chocolate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "巧克力",
-      "forms": [],
-      "phonetic": "[ˈtʃɒklət]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "巧克力；巧克力色，深褐色"
-        }
-      ]
+      "ctx": "巧克力"
     },
     {
       "word": "bacon",
-      "lemma": "bacon",
-      "kind": "word",
       "type": "outline",
-      "ctx": "培根，咸猪肉",
-      "forms": [],
-      "phonetic": "[ˈbeɪkən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "培根，咸猪肉"
-        }
-      ]
+      "ctx": "培根，咸猪肉"
     },
     {
       "word": "nutritious",
-      "lemma": "nutritious",
-      "kind": "word",
       "type": "core",
-      "ctx": "有营养的，营养丰富的",
-      "forms": [],
-      "phonetic": "[njuˈtrɪʃəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "有营养的，营养丰富的"
-        }
-      ]
+      "ctx": "有营养的，营养丰富的"
     },
     {
       "word": "swallow",
-      "lemma": "swallow",
-      "kind": "word",
       "type": "core",
-      "ctx": "吞下，咽下",
-      "forms": [
-        {
-          "surface": "swallows",
-          "tag": "plural"
-        },
-        {
-          "surface": "swallows",
-          "tag": "third_person"
-        },
-        {
-          "surface": "swallowed",
-          "tag": "past"
-        },
-        {
-          "surface": "swallowed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "swallowing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈswɒləʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "吞下，咽下"
-        },
-        {
-          "pos": "n.",
-          "meaning": "燕子"
-        }
-      ]
+      "ctx": "吞下，咽下"
     },
     {
       "word": "brain",
-      "lemma": "brain",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[C]脑",
-      "forms": [],
-      "phonetic": "[breɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[C]脑；[U]智力，脑力"
-        }
-      ]
+      "ctx": "[C]脑"
     },
     {
       "word": "cease",
-      "lemma": "cease",
-      "kind": "word",
       "type": "outline",
-      "ctx": "停止，终止",
-      "forms": [
-        {
-          "surface": "ceases",
-          "tag": "third_person"
-        },
-        {
-          "surface": "ceased",
-          "tag": "past"
-        },
-        {
-          "surface": "ceased",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "ceasing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[siːs]",
-      "memory": [
-        "联想记忆：c+ease（安逸，安心）→生于忧患，死于安乐→（使）停止，终止"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）停止，终止"
-        }
-      ]
+      "ctx": "停止，终止"
     },
     {
       "word": "tofu",
-      "lemma": "tofu",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（=bean curd）豆腐",
-      "forms": [],
-      "phonetic": "[ˈtəʊfuː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（=bean curd）豆腐"
-        }
-      ]
+      "ctx": "（=bean curd）豆腐"
     },
     {
       "word": "bean",
-      "lemma": "bean",
-      "kind": "word",
       "type": "outline",
-      "ctx": "豆",
-      "forms": [
-        {
-          "surface": "beans",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[biːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "豆"
-        }
-      ]
+      "ctx": "豆"
     },
     {
       "word": "egg",
-      "lemma": "egg",
-      "kind": "word",
       "type": "outline",
-      "ctx": "蛋",
-      "forms": [
-        {
-          "surface": "eggs",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[eɡ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "蛋；卵"
-        }
-      ]
+      "ctx": "蛋"
     },
     {
       "word": "excessive",
-      "lemma": "excessive",
-      "kind": "word",
       "type": "core",
-      "ctx": "过多的，过度的",
-      "forms": [],
-      "phonetic": "[ɪkˈsesɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "过多的，过度的"
-        }
-      ]
+      "ctx": "过多的，过度的"
     },
     {
       "word": "tomato",
-      "lemma": "tomato",
-      "kind": "word",
       "type": "outline",
-      "ctx": "西红柿",
-      "forms": [
-        {
-          "surface": "tomatoes",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[təˈmɑːtəʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "西红柿",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "potato*（ n. 土豆，马铃薯）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "西红柿"
     },
     {
       "word": "onion",
-      "lemma": "onion",
-      "kind": "word",
       "type": "outline",
-      "ctx": "洋葱，葱头",
-      "forms": [
-        {
-          "surface": "onions",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈʌnjən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "洋葱，葱头"
-        }
-      ]
+      "ctx": "洋葱，葱头"
     },
     {
       "word": "garlic",
-      "lemma": "garlic",
-      "kind": "word",
       "type": "outline",
-      "ctx": "大蒜",
-      "forms": [],
-      "phonetic": "[ˈɡɑːlɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "大蒜"
-        }
-      ]
+      "ctx": "大蒜"
     },
     {
       "word": "fry",
-      "lemma": "fry",
-      "kind": "word",
       "type": "outline",
-      "ctx": "油炸，油煎",
-      "forms": [
-        {
-          "surface": "fries",
-          "tag": "third_person"
-        },
-        {
-          "surface": "fried",
-          "tag": "past"
-        },
-        {
-          "surface": "fried",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "frying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[fraɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "油炸，油煎"
-        }
-      ]
+      "ctx": "油炸，油煎"
     },
     {
       "word": "boil",
-      "lemma": "boil",
-      "kind": "word",
       "type": "outline",
-      "ctx": "沸腾，烧开",
-      "forms": [
-        {
-          "surface": "boils",
-          "tag": "third_person"
-        },
-        {
-          "surface": "boiled",
-          "tag": "past"
-        },
-        {
-          "surface": "boiled",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "boiling",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[bɔɪl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "沸腾，烧开；煮",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "boiling water沸水boiled water开水"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "沸腾，烧开"
     },
     {
       "word": "whenever",
-      "lemma": "whenever",
-      "kind": "word",
       "type": "outline",
-      "ctx": "无论何时",
-      "forms": [],
-      "phonetic": "[wenˈevə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "conj.",
-          "meaning": "无论何时"
-        }
-      ]
+      "ctx": "无论何时"
     },
     {
       "word": "TV",
-      "lemma": "TV",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "（全写为television）电视，电视机",
-      "forms": [],
-      "phonetic": "[ˌtiː ˈviː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（全写为television）电视，电视机"
-        }
-      ]
+      "ctx": "（全写为television）电视，电视机"
     },
     {
       "word": "computer",
-      "lemma": "computer",
-      "kind": "word",
       "type": "outline",
-      "ctx": "计算机，电脑",
-      "forms": [],
-      "phonetic": "[kəmˈpjuːtə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "计算机，电脑"
-        }
-      ]
+      "ctx": "计算机，电脑"
     },
     {
       "word": "overeat",
-      "lemma": "overeat",
-      "kind": "word",
       "type": "core",
-      "ctx": "吃得过量，吃撑了",
-      "forms": [
-        {
-          "surface": "overeats",
-          "tag": "third_person"
-        },
-        {
-          "surface": "overate",
-          "tag": "past"
-        },
-        {
-          "surface": "overeaten",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "overeating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌəʊvərˈiːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "吃得过量，吃撑了"
-        }
-      ]
+      "ctx": "吃得过量，吃撑了"
     },
     {
       "word": "careful",
-      "lemma": "careful",
-      "kind": "word",
       "type": "outline",
-      "ctx": "小心的，仔细的",
-      "forms": [],
-      "phonetic": "[ˈkeəfl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "小心的，仔细的"
-        }
-      ]
+      "ctx": "小心的，仔细的"
     },
     {
       "word": "challenging",
-      "lemma": "challenging",
-      "kind": "word",
       "type": "core",
-      "ctx": "有挑战性的",
-      "forms": [],
-      "phonetic": "[ˈtʃælɪndʒɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "有挑战性的；不赞同的"
-        }
-      ]
+      "ctx": "有挑战性的"
     },
     {
       "word": "unhealthy",
-      "lemma": "unhealthy",
-      "kind": "word",
       "type": "core",
-      "ctx": "不健康的",
-      "forms": [],
-      "phonetic": "[ʌnˈhelθi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "不健康的；对身体有害的"
-        }
-      ]
+      "ctx": "不健康的"
     },
     {
       "word": "ready",
-      "lemma": "ready",
-      "kind": "word",
       "type": "outline",
-      "ctx": "准备好的",
-      "forms": [],
-      "phonetic": "[ˈredi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "准备好的；方便使用的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "at the ready随时可用"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "准备好的"
     },
     {
       "word": "surround",
-      "lemma": "surround",
-      "kind": "word",
       "type": "outline",
-      "ctx": "围绕，包围",
-      "forms": [
-        {
-          "surface": "surrounds",
-          "tag": "third_person"
-        },
-        {
-          "surface": "surrounded",
-          "tag": "past"
-        },
-        {
-          "surface": "surrounded",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "surrounding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[səˈraʊnd]",
-      "memory": [
-        "联想记忆：sur+round（圆）→形成一个圆→围绕"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "围绕，包围",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Now we live in a world surrounded by the \"can't do\" attitudes.现在我们生活在一个被\"做不到\"的态度包围的世界里。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "围绕，包围"
     },
     {
       "word": "butter",
-      "lemma": "butter",
-      "kind": "word",
       "type": "outline",
-      "ctx": "黄油",
-      "forms": [],
-      "phonetic": "[ˈbʌtə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "黄油"
-        }
-      ]
+      "ctx": "黄油"
     },
     {
       "word": "cream",
-      "lemma": "cream",
-      "kind": "word",
       "type": "outline",
-      "ctx": "奶油",
-      "forms": [],
-      "phonetic": "[kriːm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "奶油；润肤霜",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "an ice cream一份冰激凌"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "奶油"
     },
     {
       "word": "salty",
-      "lemma": "salty",
-      "kind": "word",
       "type": "outline",
-      "ctx": "咸的，含盐的",
-      "forms": [],
-      "phonetic": "[ˈsɔːlti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "咸的，含盐的"
-        }
-      ]
+      "ctx": "咸的，含盐的"
     },
     {
       "word": "barbecue",
-      "lemma": "barbecue",
-      "kind": "word",
       "type": "outline",
-      "ctx": "户外烧烤",
-      "forms": [],
-      "phonetic": "[ˈbɑːbɪkjuː]",
-      "memory": [
-        "发音记忆：就是我们常说的\"巴比Q\""
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "户外烧烤"
-        }
-      ]
+      "ctx": "户外烧烤"
     },
     {
       "word": "steak",
-      "lemma": "steak",
-      "kind": "word",
       "type": "outline",
-      "ctx": "牛排",
-      "forms": [],
-      "phonetic": "[steɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "牛排"
-        }
-      ]
+      "ctx": "牛排"
     },
     {
       "word": "candy",
-      "lemma": "candy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "糖果",
-      "forms": [],
-      "phonetic": "[ˈkændi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "糖果"
-        }
-      ]
+      "ctx": "糖果"
     },
     {
       "word": "sausage",
-      "lemma": "sausage",
-      "kind": "word",
       "type": "outline",
-      "ctx": "香肠，腊肠",
-      "forms": [],
-      "phonetic": "[ˈsɒsɪdʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "香肠，腊肠"
-        }
-      ]
+      "ctx": "香肠，腊肠"
     },
     {
       "word": "watermelon",
-      "lemma": "watermelon",
-      "kind": "word",
       "type": "outline",
-      "ctx": "西瓜",
-      "forms": [],
-      "phonetic": "[ˈwɔːtəmelən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "西瓜"
-        }
-      ]
+      "ctx": "西瓜"
     },
     {
       "word": "lemon",
-      "lemma": "lemon",
-      "kind": "word",
       "type": "outline",
-      "ctx": "柠檬",
-      "forms": [],
-      "phonetic": "[ˈlemən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "柠檬；柠檬汁"
-        }
-      ]
+      "ctx": "柠檬"
     },
     {
       "word": "eating",
-      "lemma": "eating",
-      "kind": "word",
       "type": "core",
-      "ctx": "吃，饮食",
-      "forms": [],
-      "phonetic": "[ˈiːtɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "吃，饮食"
-        }
-      ]
+      "ctx": "吃，饮食"
     },
     {
       "word": "satisfy",
-      "lemma": "satisfy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "满足，使满意",
-      "forms": [
-        {
-          "surface": "satisfies",
-          "tag": "third_person"
-        },
-        {
-          "surface": "satisfied",
-          "tag": "past"
-        },
-        {
-          "surface": "satisfied",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "satisfying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈsætɪsfaɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "满足，使满意"
-        }
-      ]
+      "ctx": "满足，使满意"
     },
     {
       "word": "hunger",
-      "lemma": "hunger",
-      "kind": "word",
       "type": "core",
-      "ctx": "饥饿",
-      "forms": [
-        {
-          "surface": "hungers",
-          "tag": "plural"
-        },
-        {
-          "surface": "hungers",
-          "tag": "third_person"
-        },
-        {
-          "surface": "hungered",
-          "tag": "past"
-        },
-        {
-          "surface": "hungered",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "hungering",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈhʌŋɡə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "饥饿；渴望"
-        },
-        {
-          "pos": "vi.",
-          "meaning": "渴望得到"
-        }
-      ]
+      "ctx": "饥饿"
     },
     {
       "word": "unpleasant",
-      "lemma": "unpleasant",
-      "kind": "word",
       "type": "core",
-      "ctx": "令人不快的",
-      "forms": [],
-      "phonetic": "[ʌnˈpleznt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "令人不快的；不和蔼的"
-        }
-      ]
+      "ctx": "令人不快的"
     },
     {
       "word": "emotion",
-      "lemma": "emotion",
-      "kind": "word",
       "type": "outline",
-      "ctx": "情感",
-      "forms": [
-        {
-          "surface": "emotions",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ɪˈməʊʃn]",
-      "memory": [
-        "词根记忆：e（出）+mot（移动）+ion（表名词）→流露出来的东西→感情"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "情感；情绪；感情"
-        }
-      ]
+      "ctx": "情感"
     },
     {
       "word": "sadness",
-      "lemma": "sadness",
-      "kind": "word",
       "type": "core",
-      "ctx": "悲哀，忧伤",
-      "forms": [],
-      "phonetic": "[ˈsædnəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "悲哀，忧伤"
-        }
-      ]
+      "ctx": "悲哀，忧伤"
     },
     {
       "word": "loneliness",
-      "lemma": "loneliness",
-      "kind": "word",
       "type": "core",
-      "ctx": "孤独，孤寂，寂寞",
-      "forms": [],
-      "phonetic": "[ˈləʊnlɪnəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "孤独，孤寂，寂寞"
-        }
-      ]
+      "ctx": "孤独，孤寂，寂寞"
     },
     {
       "word": "boredom",
-      "lemma": "boredom",
-      "kind": "word",
       "type": "core",
-      "ctx": "厌烦",
-      "forms": [],
-      "phonetic": "[ˈbɔːdəm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "厌烦；无聊"
-        }
-      ]
+      "ctx": "厌烦"
     },
     {
       "word": "regain",
-      "lemma": "regain",
-      "kind": "word",
       "type": "core",
-      "ctx": "重新获得，恢复",
-      "forms": [
-        {
-          "surface": "regains",
-          "tag": "third_person"
-        },
-        {
-          "surface": "regained",
-          "tag": "past"
-        },
-        {
-          "surface": "regained",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "regaining",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rɪˈɡeɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "重新获得，恢复；返回"
-        }
-      ]
+      "ctx": "重新获得，恢复"
     },
     {
       "word": "breakfast",
-      "lemma": "breakfast",
-      "kind": "word",
       "type": "outline",
-      "ctx": "早餐",
-      "forms": [],
-      "phonetic": "[ˈbrekfəst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "早餐"
-        }
-      ]
+      "ctx": "早餐"
     },
     {
       "word": "fourteen",
-      "lemma": "fourteen",
-      "kind": "word",
       "type": "outline",
-      "ctx": "十四",
-      "forms": [],
-      "phonetic": "[ˌfɔːˈtiːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "num.",
-          "meaning": "十四"
-        }
-      ]
+      "ctx": "十四"
     },
     {
       "word": "sixteen",
-      "lemma": "sixteen",
-      "kind": "word",
       "type": "outline",
-      "ctx": "十六",
-      "forms": [],
-      "phonetic": "[ˌsɪksˈtiːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "num.",
-          "meaning": "十六"
-        }
-      ]
+      "ctx": "十六"
     },
     {
       "word": "active",
-      "lemma": "active",
-      "kind": "word",
       "type": "outline",
-      "ctx": "积极的，主动的",
-      "forms": [],
-      "phonetic": "[ˈæktɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "积极的，主动的"
-        }
-      ]
+      "ctx": "积极的，主动的"
     },
     {
       "word": "digestive",
-      "lemma": "digestive",
-      "kind": "word",
       "type": "core",
-      "ctx": "消化的，和消化有关的",
-      "forms": [],
-      "phonetic": "[daɪˈdʒestɪv; dɪˈdʒestɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "消化的，和消化有关的"
-        }
-      ]
+      "ctx": "消化的，和消化有关的"
     },
     {
       "word": "regulate",
-      "lemma": "regulate",
-      "kind": "word",
       "type": "core",
-      "ctx": "管理，控制",
-      "forms": [
-        {
-          "surface": "regulates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "regulated",
-          "tag": "past"
-        },
-        {
-          "surface": "regulated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "regulating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈreɡjuleɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "管理，控制；调节"
-        }
-      ]
+      "ctx": "管理，控制"
     }
   ]
 }

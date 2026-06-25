@@ -39,1095 +39,218 @@
   "vocab": [
     {
       "word": "world",
-      "lemma": "world",
-      "kind": "word",
       "type": "outline",
-      "ctx": "世界",
-      "forms": [],
-      "phonetic": "[wɜːld]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "世界；按性质（或职业等）划分的类别；界；生活圈子"
-        }
-      ]
+      "ctx": "世界"
     },
     {
       "word": "adjustment",
-      "lemma": "adjustment",
-      "kind": "word",
       "type": "core",
-      "ctx": "适应",
-      "forms": [],
-      "phonetic": "[əˈdʒʌstmənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "调整，调节；适应"
-        }
-      ]
+      "ctx": "适应"
     },
     {
       "word": "young",
-      "lemma": "young",
-      "kind": "word",
       "type": "outline",
-      "ctx": "年轻的",
-      "forms": [],
-      "phonetic": "[jʌŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "年轻的；年轻人的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "年轻人；幼崽；幼兽"
-        }
-      ]
+      "ctx": "年轻的"
     },
     {
       "word": "adult",
-      "lemma": "adult",
-      "kind": "word",
       "type": "outline",
-      "ctx": "成年人",
-      "forms": [],
-      "phonetic": "[ˈædʌlt; əˈdʌlt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "成年人"
-        }
-      ]
+      "ctx": "成年人"
     },
     {
       "word": "key",
-      "lemma": "key",
-      "kind": "word",
       "type": "outline",
-      "ctx": "关键的",
-      "forms": [],
-      "phonetic": "[kiː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "关键的；最重要的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "[C] 钥匙；答案；键；关键（常与to连用）"
-        }
-      ]
+      "ctx": "关键的"
     },
     {
       "word": "set",
-      "lemma": "set",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（一）套",
-      "forms": [
-        {
-          "surface": "sets",
-          "tag": "third_person"
-        },
-        {
-          "surface": "set",
-          "tag": "past"
-        },
-        {
-          "surface": "set",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "setting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[set]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "设置；树立；摆放",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "set up建立，建造set out/off出发"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vi.",
-          "meaning": "日落"
-        },
-        {
-          "pos": "n.",
-          "meaning": "一套；设备"
-        }
-      ]
+      "ctx": "（一）套"
     },
     {
       "word": "persistence",
-      "lemma": "persistence",
-      "kind": "word",
       "type": "core",
-      "ctx": "坚持",
-      "forms": [],
-      "phonetic": "[pəˈsɪstəns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "坚持；锲而不舍"
-        }
-      ]
+      "ctx": "坚持"
     },
     {
       "word": "researcher",
-      "lemma": "researcher",
-      "kind": "word",
       "type": "core",
-      "ctx": "研究人员",
-      "forms": [],
-      "phonetic": "[rɪˈsɜːtʃə(r); ˈriːsɜːtʃə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "研究人员"
-        }
-      ]
+      "ctx": "研究人员"
     },
     {
       "word": "heavily",
-      "lemma": "heavily",
-      "kind": "word",
       "type": "core",
-      "ctx": "在很大程度上",
-      "forms": [],
-      "phonetic": "[ˈhevɪli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "在很大程度上；大量地"
-        }
-      ]
+      "ctx": "在很大程度上"
     },
     {
       "word": "influence",
-      "lemma": "influence",
-      "kind": "word",
       "type": "outline",
-      "ctx": "影响",
-      "forms": [
-        {
-          "surface": "influences",
-          "tag": "plural"
-        },
-        {
-          "surface": "influences",
-          "tag": "third_person"
-        },
-        {
-          "surface": "influenced",
-          "tag": "past"
-        },
-        {
-          "surface": "influenced",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "influencing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈɪnfluəns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "/"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "影响"
-        }
-      ]
+      "ctx": "影响"
     },
     {
       "word": "father",
-      "lemma": "father",
-      "kind": "word",
       "type": "outline",
-      "ctx": "父亲",
-      "forms": [],
-      "phonetic": "[ˈfɑːðə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "父亲；先辈"
-        }
-      ]
+      "ctx": "父亲"
     },
     {
       "word": "unique",
-      "lemma": "unique",
-      "kind": "word",
       "type": "outline",
-      "ctx": "独特的",
-      "forms": [],
-      "phonetic": "[juˈniːk]",
-      "memory": [
-        "词根记忆：uni（单一）+que（……的）→唯一的；独特的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "唯一的；独特的"
-        }
-      ]
+      "ctx": "独特的"
     },
     {
       "word": "adolescent",
-      "lemma": "adolescent",
-      "kind": "word",
       "type": "core",
-      "ctx": "青春期的",
-      "forms": [],
-      "phonetic": "[ˌædəˈlesnt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[C] 青少年"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "青春期的"
-        }
-      ]
+      "ctx": "青春期的"
     },
     {
       "word": "these",
-      "lemma": "these",
-      "kind": "word",
       "type": "outline",
-      "ctx": "这些",
-      "forms": [],
-      "phonetic": "[ðiːz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "det.",
-          "meaning": "/"
-        },
-        {
-          "pos": "pron.",
-          "meaning": "这些"
-        }
-      ]
+      "ctx": "这些"
     },
     {
       "word": "over",
-      "lemma": "over",
-      "kind": "word",
       "type": "outline",
-      "ctx": "在……期间",
-      "forms": [],
-      "phonetic": "[ˈəʊvə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "prep.",
-          "meaning": "在……之上；超过；在……期间"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "穿过；结束；以上"
-        }
-      ]
+      "ctx": "在……期间"
     },
     {
       "word": "gain",
-      "lemma": "gain",
-      "kind": "word",
       "type": "outline",
-      "ctx": "收获",
-      "forms": [
-        {
-          "surface": "gains",
-          "tag": "plural"
-        },
-        {
-          "surface": "gains",
-          "tag": "third_person"
-        },
-        {
-          "surface": "gained",
-          "tag": "past"
-        },
-        {
-          "surface": "gained",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "gaining",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɡeɪn]",
-      "memory": [
-        "联想记忆：及时雨（rain）给庄稼带来好收成（gain）"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "获得",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "gain experience获得经验"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "收获"
-        }
-      ]
+      "ctx": "收获"
     },
     {
       "word": "relatively",
-      "lemma": "relatively",
-      "kind": "word",
       "type": "core",
-      "ctx": "相对地",
-      "forms": [],
-      "phonetic": "[ˈrelətɪvli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "相当程度上；相当地；相对地"
-        }
-      ]
+      "ctx": "相对地"
     },
     {
       "word": "stress",
-      "lemma": "stress",
-      "kind": "word",
       "type": "outline",
-      "ctx": "强调",
-      "forms": [
-        {
-          "surface": "stresses",
-          "tag": "plural"
-        },
-        {
-          "surface": "stresses",
-          "tag": "third_person"
-        },
-        {
-          "surface": "stressed",
-          "tag": "past"
-        },
-        {
-          "surface": "stressed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "stressing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[stres]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "压力"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "强调"
-        }
-      ]
+      "ctx": "强调"
     },
     {
       "word": "prove",
-      "lemma": "prove",
-      "kind": "word",
       "type": "outline",
-      "ctx": "证明",
-      "forms": [
-        {
-          "surface": "proves",
-          "tag": "third_person"
-        },
-        {
-          "surface": "proved",
-          "tag": "past"
-        },
-        {
-          "surface": "proved",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "proving",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[pruːv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "证明"
-        },
-        {
-          "pos": "vi.",
-          "meaning": "证明是，结果是"
-        }
-      ]
+      "ctx": "证明"
     },
     {
       "word": "life",
-      "lemma": "life",
-      "kind": "word",
       "type": "outline",
-      "ctx": "人生",
-      "forms": [],
-      "phonetic": "[laɪf]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "生命；生活；人生；一生；生活经历"
-        }
-      ]
+      "ctx": "人生"
     },
     {
       "word": "determine",
-      "lemma": "determine",
-      "kind": "word",
       "type": "outline",
-      "ctx": "断定",
-      "forms": [
-        {
-          "surface": "determines",
-          "tag": "third_person"
-        },
-        {
-          "surface": "determined",
-          "tag": "past"
-        },
-        {
-          "surface": "determined",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "determining",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɪˈtɜːmɪn]",
-      "memory": [
-        "词根记忆：de+termin（边界）+e→决定各自的边界→确定；决定"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "确定；决定；查明；决心"
-        }
-      ]
+      "ctx": "断定"
     },
     {
       "word": "need",
-      "lemma": "need",
-      "kind": "word",
       "type": "outline",
-      "ctx": "需要",
-      "forms": [
-        {
-          "surface": "needs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "needed",
-          "tag": "past"
-        },
-        {
-          "surface": "needed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "needing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[niːd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "需要"
-        },
-        {
-          "pos": "modal v.",
-          "meaning": "必须"
-        },
-        {
-          "pos": "n.",
-          "meaning": "需要，需求"
-        }
-      ]
+      "ctx": "需要"
     },
     {
       "word": "practice",
-      "lemma": "practice",
-      "kind": "word",
       "type": "outline",
-      "ctx": "实践",
-      "forms": [
-        {
-          "surface": "practices",
-          "tag": "plural"
-        },
-        {
-          "surface": "practices",
-          "tag": "third_person"
-        },
-        {
-          "surface": "practiced",
-          "tag": "past"
-        },
-        {
-          "surface": "practiced",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "practicing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈpræktɪs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "练习；训练；遵循；经常做"
-        },
-        {
-          "pos": "n.",
-          "meaning": "实践；惯例；训练"
-        }
-      ]
+      "ctx": "实践"
     },
     {
       "word": "authoritative",
-      "lemma": "authoritative",
-      "kind": "word",
       "type": "core",
-      "ctx": "权威的",
-      "forms": [],
-      "phonetic": "[ɔːˈθɒrətətɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "有权威性的；专断的，命令式的"
-        }
-      ]
+      "ctx": "权威的"
     },
     {
       "word": "style",
-      "lemma": "style",
-      "kind": "word",
       "type": "outline",
-      "ctx": "方式",
-      "forms": [],
-      "phonetic": "[staɪl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "风格；方式；款式"
-        }
-      ]
+      "ctx": "方式"
     },
     {
       "word": "authoritarian",
-      "lemma": "authoritarian",
-      "kind": "word",
       "type": "core",
-      "ctx": "专断的",
-      "forms": [],
-      "phonetic": "[ɔːˌθɒrɪˈteəriən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "专制的，独裁的"
-        }
-      ]
+      "ctx": "专断的"
     },
     {
       "word": "rigid",
-      "lemma": "rigid",
-      "kind": "word",
       "type": "outline",
-      "ctx": "死板的",
-      "forms": [],
-      "phonetic": "[ˈrɪdʒɪd]",
-      "memory": [
-        "词根记忆：rig（要求）+id→不断要求→严格的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "死板的，僵硬的；（人）固执的，僵化的；（法律、规则等）严格的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "rigid discipline严格的纪律"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "死板的"
     },
     {
       "word": "love",
-      "lemma": "love",
-      "kind": "word",
       "type": "outline",
-      "ctx": "爱",
-      "forms": [
-        {
-          "surface": "loves",
-          "tag": "third_person"
-        },
-        {
-          "surface": "loved",
-          "tag": "past"
-        },
-        {
-          "surface": "loved",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "loving",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[lʌv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "爱；热爱；爱情；爱好"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "爱；很喜欢"
-        }
-      ]
+      "ctx": "爱"
     },
     {
       "word": "behind",
-      "lemma": "behind",
-      "kind": "word",
       "type": "outline",
-      "ctx": "背后",
-      "forms": [],
-      "phonetic": "[bɪˈhaɪnd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "prep.",
-          "meaning": "在……后面；落后于"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "在后面；向后"
-        }
-      ]
+      "ctx": "背后"
     },
     {
       "word": "appropriate",
-      "lemma": "appropriate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "适当的",
-      "forms": [],
-      "phonetic": "[əˈprəʊpriət]",
-      "memory": [
-        "词根记忆：ap（表加强）+propri（恰当的）+ate→适当的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "适当的"
-        }
-      ]
+      "ctx": "适当的"
     },
     {
       "word": "level",
-      "lemma": "level",
-      "kind": "word",
       "type": "outline",
-      "ctx": "程度",
-      "forms": [],
-      "phonetic": "[ˈlevl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "水平；程度；级别"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "平坦的"
-        }
-      ]
+      "ctx": "程度"
     },
     {
       "word": "autonomy",
-      "lemma": "autonomy",
-      "kind": "word",
       "type": "core",
-      "ctx": "自主权",
-      "forms": [],
-      "phonetic": "[ɔːˈtɒnəmi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "自治，自治权；自主，自主权"
-        }
-      ]
+      "ctx": "自主权"
     },
     {
       "word": "exhibit",
-      "lemma": "exhibit",
-      "kind": "word",
       "type": "core",
-      "ctx": "表现",
-      "forms": [
-        {
-          "surface": "exhibits",
-          "tag": "plural"
-        },
-        {
-          "surface": "exhibits",
-          "tag": "third_person"
-        },
-        {
-          "surface": "exhibited",
-          "tag": "past"
-        },
-        {
-          "surface": "exhibited",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "exhibiting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪɡˈzɪbɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "显示，表现；陈列，展览"
-        },
-        {
-          "pos": "n.",
-          "meaning": "展览品"
-        }
-      ]
+      "ctx": "表现"
     },
     {
       "word": "raise",
-      "lemma": "raise",
-      "kind": "word",
       "type": "outline",
-      "ctx": "养育",
-      "forms": [
-        {
-          "surface": "raises",
-          "tag": "third_person"
-        },
-        {
-          "surface": "raised",
-          "tag": "past"
-        },
-        {
-          "surface": "raised",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "raising",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[reɪz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "举起；提高；饲养，养育"
-        }
-      ]
+      "ctx": "养育"
     },
     {
       "word": "significantly",
-      "lemma": "significantly",
-      "kind": "word",
       "type": "core",
-      "ctx": "显著地",
-      "forms": [],
-      "phonetic": "[sɪɡˈnɪfɪkəntli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "显著地，明显地"
-        }
-      ]
+      "ctx": "显著地"
     },
     {
       "word": "outcome",
-      "lemma": "outcome",
-      "kind": "word",
       "type": "outline",
-      "ctx": "成绩",
-      "forms": [],
-      "phonetic": "[ˈaʊtkʌm]",
-      "memory": [
-        "来自词组come out（结果是）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "结果；成果"
-        }
-      ]
+      "ctx": "成绩"
     },
     {
       "word": "particular",
-      "lemma": "particular",
-      "kind": "word",
       "type": "outline",
-      "ctx": "特别的",
-      "forms": [],
-      "phonetic": "[pəˈtɪkjələ(r)]",
-      "memory": [
-        "词根记忆：part（部分）+icular（属于……的）→专指的；特别的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "专指的；格外的，特别的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "in particular尤其，特别"
-              ]
-            },
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "This method of timekeeping is novel in its  particulars  .这种计时方法在细节上是新颖的。"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "[常pl.] 详情；细节"
-        }
-      ]
+      "ctx": "特别的"
     },
     {
       "word": "examine",
-      "lemma": "examine",
-      "kind": "word",
       "type": "outline",
-      "ctx": "调查",
-      "forms": [
-        {
-          "surface": "examines",
-          "tag": "third_person"
-        },
-        {
-          "surface": "examined",
-          "tag": "past"
-        },
-        {
-          "surface": "examined",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "examining",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪɡˈzæmɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "检查；审查，调查；考，测验",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "examine the audio system检查音响系统"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "调查"
     },
     {
       "word": "live",
-      "lemma": "live",
-      "kind": "word",
       "type": "outline",
-      "ctx": "生活",
-      "forms": [
-        {
-          "surface": "lives",
-          "tag": "third_person"
-        },
-        {
-          "surface": "lived",
-          "tag": "past"
-        },
-        {
-          "surface": "lived",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "living",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[lɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "生活；生存；过日子；居住",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "live out sth.实践（以前想要做的事）；度过余生live on继续活着"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "adj.",
-          "meaning": "活的；直播的"
-        }
-      ]
+      "ctx": "生活"
     },
     {
       "word": "yet",
-      "lemma": "yet",
-      "kind": "word",
       "type": "outline",
-      "ctx": "然而",
-      "forms": [],
-      "phonetic": "[jet]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "到目前为止；还；仍然"
-        },
-        {
-          "pos": "conj.",
-          "meaning": "然而"
-        }
-      ]
+      "ctx": "然而"
     },
     {
       "word": "single",
-      "lemma": "single",
-      "kind": "word",
       "type": "outline",
-      "ctx": "单亲的",
-      "forms": [],
-      "phonetic": "[ˈsɪŋɡl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "单一的，单个的"
-        }
-      ]
+      "ctx": "单亲的"
     },
     {
       "word": "avenue",
-      "lemma": "avenue",
-      "kind": "word",
       "type": "core",
-      "ctx": "途径",
-      "forms": [],
-      "phonetic": "[ˈævənjuː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "大街；林荫道；途径，手段"
-        }
-      ]
+      "ctx": "途径"
     },
     {
       "word": "future",
-      "lemma": "future",
-      "kind": "word",
       "type": "outline",
-      "ctx": "未来",
-      "forms": [],
-      "phonetic": "[ˈfjuːtʃə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "将来"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "将来的；未来的"
-        }
-      ]
+      "ctx": "未来"
     }
   ]
 }

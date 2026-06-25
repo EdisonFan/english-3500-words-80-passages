@@ -34,1009 +34,218 @@
   "vocab": [
     {
       "word": "guarantee",
-      "lemma": "guarantee",
-      "kind": "word",
       "type": "outline",
-      "ctx": "保证，担保",
-      "forms": [
-        {
-          "surface": "guarantees",
-          "tag": "third_person"
-        },
-        {
-          "surface": "guaranteed",
-          "tag": "past"
-        },
-        {
-          "surface": "guaranteed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "guaranteeing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌɡærənˈtiː]",
-      "memory": [
-        "联想记忆：guar（看作guard，保卫）+antee→保证"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "保证，担保"
-        },
-        {
-          "pos": "n.",
-          "meaning": "保证，担保；保修单"
-        }
-      ]
+      "ctx": "保证，担保"
     },
     {
       "word": "safety",
-      "lemma": "safety",
-      "kind": "word",
       "type": "outline",
-      "ctx": "安全",
-      "forms": [],
-      "phonetic": "[ˈseɪfti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "安全；安全性；安全处所"
-        }
-      ]
+      "ctx": "安全"
     },
     {
       "word": "reliability",
-      "lemma": "reliability",
-      "kind": "word",
       "type": "core",
-      "ctx": "可靠性",
-      "forms": [],
-      "phonetic": "[rɪˌlaɪəˈbɪləti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "可靠性"
-        }
-      ]
+      "ctx": "可靠性"
     },
     {
       "word": "railway",
-      "lemma": "railway",
-      "kind": "word",
       "type": "outline",
-      "ctx": "铁道，铁路",
-      "forms": [
-        {
-          "surface": "railways",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈreɪlweɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "铁道，铁路"
-        }
-      ]
+      "ctx": "铁道，铁路"
     },
     {
       "word": "operator",
-      "lemma": "operator",
-      "kind": "word",
       "type": "outline",
-      "ctx": "操作人员",
-      "forms": [
-        {
-          "surface": "operators",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈɒpəreɪtə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "操作人员；接线员；（某企业的）经营者"
-        }
-      ]
+      "ctx": "操作人员"
     },
     {
       "word": "billion",
-      "lemma": "billion",
-      "kind": "word",
       "type": "outline",
-      "ctx": "十亿",
-      "forms": [
-        {
-          "surface": "billions",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈbɪljən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "num.",
-          "meaning": "十亿",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "billions of数十亿"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "十亿"
     },
     {
       "word": "euro",
-      "lemma": "euro",
-      "kind": "word",
       "type": "core",
-      "ctx": "欧元",
-      "forms": [
-        {
-          "surface": "euros",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈjʊərəʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "欧元"
-        }
-      ]
+      "ctx": "欧元"
     },
     {
       "word": "rail",
-      "lemma": "rail",
-      "kind": "word",
       "type": "core",
-      "ctx": "栏杆",
-      "forms": [],
-      "phonetic": "[reɪl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "栏杆；横杆；轨道；铁路"
-        },
-        {
-          "pos": "v.",
-          "meaning": "责骂；抱怨"
-        }
-      ]
+      "ctx": "栏杆"
     },
     {
       "word": "worldwide",
-      "lemma": "worldwide",
-      "kind": "word",
       "type": "core",
-      "ctx": "世界各地的",
-      "forms": [],
-      "phonetic": "[ˈwɜːldwaɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "世界各地的"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "在全世界"
-        }
-      ]
+      "ctx": "世界各地的"
     },
     {
       "word": "high-tension",
-      "lemma": "high-tension",
-      "kind": "word",
       "type": "core",
-      "ctx": "高（电）压的",
-      "forms": [],
-      "phonetic": "[ˌhaɪ ˈtenʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "高（电）压的"
-        }
-      ]
+      "ctx": "高（电）压的"
     },
     {
       "word": "electrical",
-      "lemma": "electrical",
-      "kind": "word",
       "type": "core",
-      "ctx": "电的",
-      "forms": [],
-      "phonetic": "[ɪˈlektrɪkl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "电的；用电的；发电的"
-        }
-      ]
+      "ctx": "电的"
     },
     {
       "word": "inspect",
-      "lemma": "inspect",
-      "kind": "word",
       "type": "core",
-      "ctx": "检查",
-      "forms": [
-        {
-          "surface": "inspects",
-          "tag": "third_person"
-        },
-        {
-          "surface": "inspected",
-          "tag": "past"
-        },
-        {
-          "surface": "inspected",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "inspecting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪnˈspekt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "检查；审视"
-        }
-      ]
+      "ctx": "检查"
     },
     {
       "word": "regularly",
-      "lemma": "regularly",
-      "kind": "word",
       "type": "core",
-      "ctx": "有规律地",
-      "forms": [],
-      "phonetic": "[ˈreɡjələli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "有规律地；经常；均匀地"
-        }
-      ]
+      "ctx": "有规律地"
     },
     {
       "word": "operation",
-      "lemma": "operation",
-      "kind": "word",
       "type": "outline",
-      "ctx": "手术",
-      "forms": [
-        {
-          "surface": "operations",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˌɒpəˈreɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "手术；行动；公司；运转；运算"
-        }
-      ]
+      "ctx": "手术"
     },
     {
       "word": "saving",
-      "lemma": "saving",
-      "kind": "word",
       "type": "outline",
-      "ctx": "节省，节约",
-      "forms": [
-        {
-          "surface": "savings",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈseɪvɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "节省，节约；[pl.]储蓄金，存款"
-        }
-      ]
+      "ctx": "节省，节约"
     },
     {
       "word": "maintenance",
-      "lemma": "maintenance",
-      "kind": "word",
       "type": "core",
-      "ctx": "维护",
-      "forms": [],
-      "phonetic": "[ˈmeɪntənəns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "维护；维持"
-        }
-      ]
+      "ctx": "维护"
     },
     {
       "word": "protection",
-      "lemma": "protection",
-      "kind": "word",
       "type": "core",
-      "ctx": "保护，防卫",
-      "forms": [],
-      "phonetic": "[prəˈtekʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "保护，防卫"
-        }
-      ]
+      "ctx": "保护，防卫"
     },
     {
       "word": "personnel",
-      "lemma": "personnel",
-      "kind": "word",
       "type": "core",
-      "ctx": "人员，职员",
-      "forms": [],
-      "phonetic": "[ˌpɜːsəˈnel]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "人员，职员"
-        }
-      ]
+      "ctx": "人员，职员"
     },
     {
       "word": "calculate",
-      "lemma": "calculate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "计算",
-      "forms": [
-        {
-          "surface": "calculates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "calculated",
-          "tag": "past"
-        },
-        {
-          "surface": "calculated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "calculating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈkælkjuleɪt]",
-      "memory": [
-        "词根记忆：calcul（计算）+ate（做）→计算"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "计算；推测，估计",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Biologists calculate that there are about 20,000~25,000 polar bears worldwide.生物学家计算出全世界大约有2万到2.5万只北极熊。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "计算"
     },
     {
       "word": "repair",
-      "lemma": "repair",
-      "kind": "word",
       "type": "outline",
-      "ctx": "修理",
-      "forms": [
-        {
-          "surface": "repairs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "repaired",
-          "tag": "past"
-        },
-        {
-          "surface": "repaired",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "repairing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rɪˈpeə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "修理；修补；整修"
-        },
-        {
-          "pos": "n.",
-          "meaning": "修理，修补"
-        }
-      ]
+      "ctx": "修理"
     },
     {
       "word": "desert",
-      "lemma": "desert",
-      "kind": "word",
       "type": "outline",
-      "ctx": "抛弃，遗弃",
-      "forms": [
-        {
-          "surface": "deserts",
-          "tag": "plural"
-        },
-        {
-          "surface": "deserts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "deserted",
-          "tag": "past"
-        },
-        {
-          "surface": "deserted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "deserting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɪˈzɜːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "抛弃，遗弃"
-        },
-        {
-          "pos": "n.",
-          "meaning": "沙漠"
-        }
-      ]
+      "ctx": "抛弃，遗弃"
     },
     {
       "word": "snowy",
-      "lemma": "snowy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "下雪多的",
-      "forms": [],
-      "phonetic": "[ˈsnəʊi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "下雪多的；雪白的"
-        }
-      ]
+      "ctx": "下雪多的"
     },
     {
       "word": "assist",
-      "lemma": "assist",
-      "kind": "word",
       "type": "core",
-      "ctx": "帮助，协助",
-      "forms": [
-        {
-          "surface": "assists",
-          "tag": "third_person"
-        },
-        {
-          "surface": "assisted",
-          "tag": "past"
-        },
-        {
-          "surface": "assisted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "assisting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈsɪst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "帮助，协助"
-        }
-      ]
+      "ctx": "帮助，协助"
     },
     {
       "word": "crew",
-      "lemma": "crew",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（轮船、飞机等上面的）全体工作人员",
-      "forms": [],
-      "phonetic": "[kruː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（轮船、飞机等上面的）全体工作人员；专业团队"
-        }
-      ]
+      "ctx": "（轮船、飞机等上面的）全体工作人员"
     },
     {
       "word": "official",
-      "lemma": "official",
-      "kind": "word",
       "type": "outline",
-      "ctx": "官员",
-      "forms": [
-        {
-          "surface": "officials",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[əˈfɪʃl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "官员；高级职员",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "He passed the official exam.他通过了正式考试。"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "adj.",
-          "meaning": "官方的；正式的；公务的"
-        }
-      ]
+      "ctx": "官员"
     },
     {
       "word": "defense",
-      "lemma": "defense",
-      "kind": "word",
       "type": "outline",
-      "ctx": "防御",
-      "forms": [],
-      "phonetic": "[dɪˈfens]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "防御；保护；保卫"
-        }
-      ]
+      "ctx": "防御"
     },
     {
       "word": "fault",
-      "lemma": "fault",
-      "kind": "word",
       "type": "outline",
-      "ctx": "故障",
-      "forms": [
-        {
-          "surface": "faults",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[fɔːlt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "故障；过错；缺点",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "at fault有责任；有错find fault with...挑……的错；对……吹毛求疵"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "故障"
     },
     {
       "word": "alert",
-      "lemma": "alert",
-      "kind": "word",
       "type": "core",
-      "ctx": "警觉的",
-      "forms": [
-        {
-          "surface": "alerts",
-          "tag": "plural"
-        },
-        {
-          "surface": "alerts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "alerted",
-          "tag": "past"
-        },
-        {
-          "surface": "alerted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "alerting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈlɜːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "警觉的；机敏的"
-        },
-        {
-          "pos": "v.",
-          "meaning": "使警觉；使意识到"
-        },
-        {
-          "pos": "n.",
-          "meaning": "警戒；警报"
-        }
-      ]
+      "ctx": "警觉的"
     },
     {
       "word": "kangaroo",
-      "lemma": "kangaroo",
-      "kind": "word",
       "type": "outline",
-      "ctx": "袋鼠",
-      "forms": [
-        {
-          "surface": "kangaroos",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˌkæŋɡəˈruː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "袋鼠"
-        }
-      ]
+      "ctx": "袋鼠"
     },
     {
       "word": "volcano",
-      "lemma": "volcano",
-      "kind": "word",
       "type": "outline",
-      "ctx": "火山",
-      "forms": [
-        {
-          "surface": "volcanoes",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[vɒlˈkeɪnəʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "火山"
-        }
-      ]
+      "ctx": "火山"
     },
     {
       "word": "village",
-      "lemma": "village",
-      "kind": "word",
       "type": "outline",
-      "ctx": "村庄，村",
-      "forms": [
-        {
-          "surface": "villages",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈvɪlɪdʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "村庄，村"
-        }
-      ]
+      "ctx": "村庄，村"
     },
     {
       "word": "erupt",
-      "lemma": "erupt",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（火山）爆发",
-      "forms": [
-        {
-          "surface": "erupts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "erupted",
-          "tag": "past"
-        },
-        {
-          "surface": "erupted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "erupting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪˈrʌpt]",
-      "memory": [
-        "词根记忆：e（出）+rupt（断）→断裂后喷出→爆发"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（火山）爆发；（岩浆、烟等）喷出"
-        }
-      ]
+      "ctx": "（火山）爆发"
     },
     {
       "word": "engineer",
-      "lemma": "engineer",
-      "kind": "word",
       "type": "outline",
-      "ctx": "设计制造",
-      "forms": [
-        {
-          "surface": "engineers",
-          "tag": "plural"
-        },
-        {
-          "surface": "engineers",
-          "tag": "third_person"
-        },
-        {
-          "surface": "engineered",
-          "tag": "past"
-        },
-        {
-          "surface": "engineered",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "engineering",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌendʒɪˈnɪə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "设计制造"
-        },
-        {
-          "pos": "n.",
-          "meaning": "工程师；技师"
-        }
-      ]
+      "ctx": "设计制造"
     },
     {
       "word": "autonomously",
-      "lemma": "autonomously",
-      "kind": "word",
       "type": "core",
-      "ctx": "自治地",
-      "forms": [],
-      "phonetic": "[ɔːˈtɒnəməsli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "自治地；独立自主地"
-        }
-      ]
+      "ctx": "自治地"
     },
     {
       "word": "advanced",
-      "lemma": "advanced",
-      "kind": "word",
       "type": "core",
-      "ctx": "先进的",
-      "forms": [],
-      "phonetic": "[ədˈvɑːnst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "先进的；高级的；（发展）晚期的"
-        }
-      ]
+      "ctx": "先进的"
     },
     {
       "word": "co-pilot",
-      "lemma": "co-pilot",
-      "kind": "word",
       "type": "core",
-      "ctx": "（飞机的）副驾驶员",
-      "forms": [],
-      "phonetic": "[ˈkəʊ paɪlət]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（飞机的）副驾驶员"
-        }
-      ]
+      "ctx": "（飞机的）副驾驶员"
     },
     {
       "word": "react",
-      "lemma": "react",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（对……）作出反应，回应",
-      "forms": [],
-      "phonetic": "[riˈækt]",
-      "memory": [
-        "词根记忆：re（回）+act（行动）→回应"
-      ],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "（对……）作出反应，回应；起化学反应",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "react to...对……作出反应"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "（对……）作出反应，回应"
     },
     {
       "word": "ambulance",
-      "lemma": "ambulance",
-      "kind": "word",
       "type": "outline",
-      "ctx": "救护车",
-      "forms": [],
-      "phonetic": "[ˈæmbjələns]",
-      "memory": [
-        "词根记忆：ambul（行走）+ance（表性质）→可到处行走的医院→救护车"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "救护车"
-        }
-      ]
+      "ctx": "救护车"
     },
     {
       "word": "volume",
-      "lemma": "volume",
-      "kind": "word",
       "type": "outline",
-      "ctx": "量",
-      "forms": [],
-      "phonetic": "[ˈvɒljuːm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "量；一册；容积；音量"
-        }
-      ]
+      "ctx": "量"
     },
     {
       "word": "division",
-      "lemma": "division",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（机构的）部门",
-      "forms": [],
-      "phonetic": "[dɪˈvɪʒn]",
-      "memory": [
-        "词根记忆：divis（分割）+ion（表名词）→分开"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（机构的）部门；除法；分开；分界线"
-        }
-      ]
+      "ctx": "（机构的）部门"
     },
     {
       "word": "insurance",
-      "lemma": "insurance",
-      "kind": "word",
       "type": "outline",
-      "ctx": "保险",
-      "forms": [],
-      "phonetic": "[ɪnˈʃʊərəns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "保险；保险业；保险费"
-        }
-      ]
+      "ctx": "保险"
     },
     {
       "word": "consultation",
-      "lemma": "consultation",
-      "kind": "word",
       "type": "outline",
-      "ctx": "咨询",
-      "forms": [],
-      "phonetic": "[ˌkɒnslˈteɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "咨询；商讨；咨询会；查阅"
-        }
-      ]
+      "ctx": "咨询"
     },
     {
       "word": "lawyer",
-      "lemma": "lawyer",
-      "kind": "word",
       "type": "outline",
-      "ctx": "律师",
-      "forms": [
-        {
-          "surface": "lawyers",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈlɔːjə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "律师"
-        }
-      ]
+      "ctx": "律师"
     }
   ]
 }

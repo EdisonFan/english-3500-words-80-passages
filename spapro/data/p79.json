@@ -34,1109 +34,223 @@
   "vocab": [
     {
       "word": "solar",
-      "lemma": "solar",
-      "kind": "word",
       "type": "outline",
-      "ctx": "太阳的",
-      "forms": [],
-      "phonetic": "[ˈsəʊlə(r)]",
-      "memory": [
-        "词根记忆：sol（太阳）+ar（……的）→太阳的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "太阳的；太阳能的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "solar system太阳系solar power太阳能"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "太阳的"
     },
     {
       "word": "panel",
-      "lemma": "panel",
-      "kind": "word",
       "type": "outline",
-      "ctx": "专家咨询组",
-      "forms": [
-        {
-          "surface": "panels",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈpænl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "专家咨询组；（汽车或其他机械的）控制板，仪表盘"
-        }
-      ]
+      "ctx": "专家咨询组"
     },
     {
       "word": "county",
-      "lemma": "county",
-      "kind": "word",
       "type": "outline",
-      "ctx": "县",
-      "forms": [],
-      "phonetic": "[ˈkaʊnti]",
-      "memory": [
-        "联想记忆：这几个县（county）都是农村（country）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "县；郡"
-        }
-      ]
+      "ctx": "县"
     },
     {
       "word": "overseas",
-      "lemma": "overseas",
-      "kind": "word",
       "type": "outline",
-      "ctx": "在国外，在海外",
-      "forms": [],
-      "phonetic": "[ˌəʊvəˈsiːz]",
-      "memory": [
-        "合成词：over（在……的另一边）+seas（海）→在海外"
-      ],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "在国外，在海外"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "海外的，外国的"
-        }
-      ]
+      "ctx": "在国外，在海外"
     },
     {
       "word": "Europe",
-      "lemma": "Europe",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "欧洲",
-      "forms": [],
-      "phonetic": "[ˈjʊərəp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "欧洲"
-        }
-      ]
+      "ctx": "欧洲"
     },
     {
       "word": "America",
-      "lemma": "America",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "美国",
-      "forms": [],
-      "phonetic": "[əˈmerɪkə]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "美国；美洲",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "American*（ n. 美国人）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "美国"
     },
     {
       "word": "agenda",
-      "lemma": "agenda",
-      "kind": "word",
       "type": "outline",
-      "ctx": "议程表，议事日程",
-      "forms": [],
-      "phonetic": "[əˈdʒendə]",
-      "memory": [
-        "词根记忆：ag（做）+enda（表名词）→做的事情列出来→议程表"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "议程表，议事日程"
-        }
-      ]
+      "ctx": "议程表，议事日程"
     },
     {
       "word": "investment",
-      "lemma": "investment",
-      "kind": "word",
       "type": "outline",
-      "ctx": "投资",
-      "forms": [],
-      "phonetic": "[ɪnˈvestmənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "投资；（时间、精力的）投入"
-        }
-      ]
+      "ctx": "投资"
     },
     {
       "word": "suburb",
-      "lemma": "suburb",
-      "kind": "word",
       "type": "outline",
-      "ctx": "城外",
-      "forms": [
-        {
-          "surface": "suburbs",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈsʌbɜːb]",
-      "memory": [
-        "词根记忆：sub（接近）+urb（城市）→靠近城市的地方→城外"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "城外；郊区"
-        }
-      ]
+      "ctx": "城外"
     },
     {
       "word": "percentage",
-      "lemma": "percentage",
-      "kind": "word",
       "type": "outline",
-      "ctx": "百分率",
-      "forms": [],
-      "phonetic": "[pəˈsentɪdʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "百分率；百分比"
-        }
-      ]
+      "ctx": "百分率"
     },
     {
       "word": "occupy",
-      "lemma": "occupy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "占用（空间、面积、时间等）",
-      "forms": [
-        {
-          "surface": "occupies",
-          "tag": "third_person"
-        },
-        {
-          "surface": "occupied",
-          "tag": "past"
-        },
-        {
-          "surface": "occupied",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "occupying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈɒkjupaɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "占用（空间、面积、时间等）；使忙于（做某事）"
-        }
-      ]
+      "ctx": "占用（空间、面积、时间等）"
     },
     {
       "word": "damage",
-      "lemma": "damage",
-      "kind": "word",
       "type": "outline",
-      "ctx": "破坏",
-      "forms": [
-        {
-          "surface": "damages",
-          "tag": "third_person"
-        },
-        {
-          "surface": "damaged",
-          "tag": "past"
-        },
-        {
-          "surface": "damaged",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "damaging",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈdæmɪdʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "/",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "do damage to...对……造成损害、伤害"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "（有形的）损坏，破坏，损失；损害"
-        }
-      ]
+      "ctx": "破坏"
     },
     {
       "word": "coverage",
-      "lemma": "coverage",
-      "kind": "word",
       "type": "outline",
-      "ctx": "新闻报道",
-      "forms": [],
-      "phonetic": "[ˈkʌvərɪdʒ]",
-      "memory": [
-        "词根记忆：cover（覆盖）+age（表名词）→覆盖范围"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "新闻报道；覆盖范围"
-        }
-      ]
+      "ctx": "新闻报道"
     },
     {
       "word": "developer",
-      "lemma": "developer",
-      "kind": "word",
       "type": "core",
-      "ctx": "（房地产）开发商",
-      "forms": [
-        {
-          "surface": "developers",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[dɪˈveləpə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（房地产）开发商；（新产品的）开发者"
-        }
-      ]
+      "ctx": "（房地产）开发商"
     },
     {
       "word": "cheaply",
-      "lemma": "cheaply",
-      "kind": "word",
       "type": "core",
-      "ctx": "便宜地，廉价地，低廉地",
-      "forms": [],
-      "phonetic": "[tʃiːpli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "便宜地，廉价地，低廉地"
-        }
-      ]
+      "ctx": "便宜地，廉价地，低廉地"
     },
     {
       "word": "abandon",
-      "lemma": "abandon",
-      "kind": "word",
       "type": "outline",
-      "ctx": "放弃",
-      "forms": [
-        {
-          "surface": "abandons",
-          "tag": "third_person"
-        },
-        {
-          "surface": "abandoned",
-          "tag": "past"
-        },
-        {
-          "surface": "abandoned",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "abandoning",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈbændən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "放弃；舍弃；抛弃"
-        }
-      ]
+      "ctx": "放弃"
     },
     {
       "word": "stone",
-      "lemma": "stone",
-      "kind": "word",
       "type": "outline",
-      "ctx": "石头",
-      "forms": [
-        {
-          "surface": "stones",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[stəʊn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "石头；石块，石子"
-        }
-      ]
+      "ctx": "石头"
     },
     {
       "word": "farming",
-      "lemma": "farming",
-      "kind": "word",
       "type": "core",
-      "ctx": "务农，种植（业），养殖（业）",
-      "forms": [],
-      "phonetic": "[ˈfɑːmɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "务农，种植（业），养殖（业）"
-        }
-      ]
+      "ctx": "务农，种植（业），养殖（业）"
     },
     {
       "word": "criticize",
-      "lemma": "criticize",
-      "kind": "word",
       "type": "outline",
-      "ctx": "指责，批评",
-      "forms": [
-        {
-          "surface": "criticizes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "criticized",
-          "tag": "past"
-        },
-        {
-          "surface": "criticized",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "criticizing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈkrɪtɪsaɪz]",
-      "memory": [
-        "词根记忆：crit（判断）+ic（表人）+ize（表动词）→判断是非→批评"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "指责，批评；评论，评判"
-        }
-      ]
+      "ctx": "指责，批评"
     },
     {
       "word": "station",
-      "lemma": "station",
-      "kind": "word",
       "type": "outline",
-      "ctx": "火车站",
-      "forms": [
-        {
-          "surface": "stations",
-          "tag": "plural"
-        },
-        {
-          "surface": "stations",
-          "tag": "third_person"
-        },
-        {
-          "surface": "stationed",
-          "tag": "past"
-        },
-        {
-          "surface": "stationed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "stationing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈsteɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "火车站；站，所，局；电台，电视台；岗位"
-        },
-        {
-          "pos": "v.",
-          "meaning": "派驻；安置到"
-        }
-      ]
+      "ctx": "火车站"
     },
     {
       "word": "destroyer",
-      "lemma": "destroyer",
-      "kind": "word",
       "type": "core",
-      "ctx": "破坏者",
-      "forms": [
-        {
-          "surface": "destroyers",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[dɪˈstrɔɪə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "破坏者；驱逐舰"
-        }
-      ]
+      "ctx": "破坏者"
     },
     {
       "word": "crop",
-      "lemma": "crop",
-      "kind": "word",
       "type": "outline",
-      "ctx": "庄稼",
-      "forms": [
-        {
-          "surface": "crops",
-          "tag": "plural"
-        },
-        {
-          "surface": "crops",
-          "tag": "third_person"
-        },
-        {
-          "surface": "cropped",
-          "tag": "past"
-        },
-        {
-          "surface": "cropped",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "cropping",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[krɒp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "庄稼；作物；（谷物、水果等一季的）收成"
-        },
-        {
-          "pos": "v.",
-          "meaning": "种地，种庄稼"
-        }
-      ]
+      "ctx": "庄稼"
     },
     {
       "word": "crash",
-      "lemma": "crash",
-      "kind": "word",
       "type": "outline",
-      "ctx": "崩溃",
-      "forms": [
-        {
-          "surface": "crashes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "crashed",
-          "tag": "past"
-        },
-        {
-          "surface": "crashed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "crashing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kræʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "崩溃；碰撞；破裂声；倒闭"
-        },
-        {
-          "pos": "v.",
-          "meaning": "碰撞；倒闭；崩溃；（比赛中）溃败"
-        }
-      ]
+      "ctx": "崩溃"
     },
     {
       "word": "innovative",
-      "lemma": "innovative",
-      "kind": "word",
       "type": "core",
-      "ctx": "创新的",
-      "forms": [],
-      "phonetic": "[ˈɪnəveɪtɪv;ˈɪnəvətɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "创新的；革新的"
-        }
-      ]
+      "ctx": "创新的"
     },
     {
       "word": "preparation",
-      "lemma": "preparation",
-      "kind": "word",
       "type": "core",
-      "ctx": "准备，预备",
-      "forms": [],
-      "phonetic": "[ˌprepəˈreɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "准备，预备；[pl.]准备工作"
-        }
-      ]
+      "ctx": "准备，预备"
     },
     {
       "word": "protector",
-      "lemma": "protector",
-      "kind": "word",
       "type": "core",
-      "ctx": "保护人（或组织、装置等）",
-      "forms": [
-        {
-          "surface": "protectors",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[prəˈtektə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "保护人（或组织、装置等）"
-        }
-      ]
+      "ctx": "保护人（或组织、装置等）"
     },
     {
       "word": "agricultural",
-      "lemma": "agricultural",
-      "kind": "word",
       "type": "core",
-      "ctx": "农业的，与农业相关的",
-      "forms": [],
-      "phonetic": "[ˌæɡrɪˈkʌltʃərəl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "农业的，与农业相关的；农用的"
-        }
-      ]
+      "ctx": "农业的，与农业相关的"
     },
     {
       "word": "investigate",
-      "lemma": "investigate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "调查",
-      "forms": [
-        {
-          "surface": "investigates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "investigated",
-          "tag": "past"
-        },
-        {
-          "surface": "investigated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "investigating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪnˈvestɪɡeɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "调查；研究"
-        }
-      ]
+      "ctx": "调查"
     },
     {
       "word": "establish",
-      "lemma": "establish",
-      "kind": "word",
       "type": "outline",
-      "ctx": "建立，创立",
-      "forms": [
-        {
-          "surface": "establishes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "established",
-          "tag": "past"
-        },
-        {
-          "surface": "established",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "establishing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪˈstæblɪʃ]",
-      "memory": [
-        "联想记忆：e+st（站立）+abl（看作able，可……的）+ish（使……）→使……站起来→建立"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "建立，创立；确立；确定",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "establish reputation建立名望"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "建立，创立"
     },
     {
       "word": "operate",
-      "lemma": "operate",
-      "kind": "word",
       "type": "core",
-      "ctx": "运转，工作",
-      "forms": [
-        {
-          "surface": "operates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "operated",
-          "tag": "past"
-        },
-        {
-          "surface": "operated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "operating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈɒpəreɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "运转，工作；经营，营业；动手术"
-        }
-      ]
+      "ctx": "运转，工作"
     },
     {
       "word": "hatch",
-      "lemma": "hatch",
-      "kind": "word",
       "type": "outline",
-      "ctx": "孵出，出壳",
-      "forms": [
-        {
-          "surface": "hatches",
-          "tag": "third_person"
-        },
-        {
-          "surface": "hatched",
-          "tag": "past"
-        },
-        {
-          "surface": "hatched",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "hatching",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[hætʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "孵出，出壳；孵化；策划"
-        },
-        {
-          "pos": "n.",
-          "meaning": "舱口"
-        }
-      ]
+      "ctx": "孵出，出壳"
     },
     {
       "word": "habitat",
-      "lemma": "habitat",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（动植物的）生活环境，栖息地",
-      "forms": [],
-      "phonetic": "[ˈhæbɪtæt]",
-      "memory": [
-        "词根记忆：habit（居住）+at（地方）→居住之地→栖息地"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（动植物的）生活环境，栖息地",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "natural habitat自然栖息地"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "（动植物的）生活环境，栖息地"
     },
     {
       "word": "herb",
-      "lemma": "herb",
-      "kind": "word",
       "type": "outline",
-      "ctx": "药草，香草",
-      "forms": [
-        {
-          "surface": "herbs",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[hɜːb]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "药草，香草；草本植物"
-        }
-      ]
+      "ctx": "药草，香草"
     },
     {
       "word": "pesticide",
-      "lemma": "pesticide",
-      "kind": "word",
       "type": "core",
-      "ctx": "杀虫剂",
-      "forms": [],
-      "phonetic": "[ˈpestɪsaɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "杀虫剂；除害药物"
-        }
-      ]
+      "ctx": "杀虫剂"
     },
     {
       "word": "US",
-      "lemma": "US",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "（全写为United States）美国",
-      "forms": [],
-      "phonetic": "[ˌjuːˈes]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "abbr.",
-          "meaning": "（全写为United States）美国"
-        }
-      ]
+      "ctx": "（全写为United States）美国"
     },
     {
       "word": "conservation",
-      "lemma": "conservation",
-      "kind": "word",
       "type": "outline",
-      "ctx": "保护",
-      "forms": [],
-      "phonetic": "[ˌkɒnsəˈveɪʃn]",
-      "memory": [
-        "词根记忆：con（表加强）+serv（保持）+ation→保持原有风俗习惯不被破坏→保护"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "保护；保存；保持"
-        }
-      ]
+      "ctx": "保护"
     },
     {
       "word": "administration",
-      "lemma": "administration",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（企业、学校等的）管理",
-      "forms": [
-        {
-          "surface": "administrations",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ədˌmɪnɪˈstreɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（企业、学校等的）管理；执行；管理部门",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "business administration工商管理"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "（企业、学校等的）管理"
     },
     {
       "word": "guideline",
-      "lemma": "guideline",
-      "kind": "word",
       "type": "outline",
-      "ctx": "指导方针，准则",
-      "forms": [
-        {
-          "surface": "guidelines",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈɡaɪdlaɪn]",
-      "memory": [
-        "合成词：guide（指导）+line（线路）→指导方针"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "指导方针，准则；参考"
-        }
-      ]
+      "ctx": "指导方针，准则"
     },
     {
       "word": "enterprise",
-      "lemma": "enterprise",
-      "kind": "word",
       "type": "outline",
-      "ctx": "企业单位，公司，事业单位",
-      "forms": [
-        {
-          "surface": "enterprises",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈentəpraɪz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "企业单位，公司，事业单位；进取心，创新精神"
-        }
-      ]
+      "ctx": "企业单位，公司，事业单位"
     },
     {
       "word": "sponsor",
-      "lemma": "sponsor",
-      "kind": "word",
       "type": "outline",
-      "ctx": "赞助者，赞助商",
-      "forms": [
-        {
-          "surface": "sponsors",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈspɒnsə(r)]",
-      "memory": [
-        "词根记忆：spons（允诺，约定）+or（表人）→允诺做某事的人→主办者"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "赞助者，赞助商；（培训或教育的）资助者；发起人，倡导者"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "赞助；主办；资助；为慈善活动捐资"
-        }
-      ]
+      "ctx": "赞助者，赞助商"
     },
     {
       "word": "ecology",
-      "lemma": "ecology",
-      "kind": "word",
       "type": "outline",
-      "ctx": "生态",
-      "forms": [],
-      "phonetic": "[iˈkɒlədʒi]",
-      "memory": [
-        "词根记忆：eco（生态）+logy（学科）→生态学"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "生态；生态学"
-        }
-      ]
+      "ctx": "生态"
     },
     {
       "word": "network",
-      "lemma": "network",
-      "kind": "word",
       "type": "outline",
-      "ctx": "网络",
-      "forms": [
-        {
-          "surface": "networks",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈnetwɜːk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "网络；网状系统；关系网；人际网",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "net*（ n. 网；网状物）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "网络"
     },
     {
       "word": "isolate",
-      "lemma": "isolate",
-      "kind": "word",
       "type": "core",
-      "ctx": "（使）隔离，孤立",
-      "forms": [
-        {
-          "surface": "isolates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "isolated",
-          "tag": "past"
-        },
-        {
-          "surface": "isolated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "isolating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈaɪsəleɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "（使）隔离，孤立"
-        }
-      ]
+      "ctx": "（使）隔离，孤立"
     },
     {
       "word": "Pacific",
-      "lemma": "Pacific",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "太平洋",
-      "forms": [],
-      "phonetic": "[pəˈsɪfɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "太平洋",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "Atlantic*（ adj. 大西洋的 n. 大西洋）"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "adj.",
-          "meaning": "太平洋的"
-        }
-      ]
+      "ctx": "太平洋"
     }
   ]
 }

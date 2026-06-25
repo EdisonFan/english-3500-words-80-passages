@@ -29,940 +29,233 @@
   "vocab": [
     {
       "word": "mad",
-      "lemma": "mad",
-      "kind": "word",
       "type": "outline",
-      "ctx": "疯的",
-      "forms": [],
-      "phonetic": "[mæd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "疯的；生气的；疯狂的，激动的"
-        }
-      ]
+      "ctx": "疯的"
     },
     {
       "word": "stupid",
-      "lemma": "stupid",
-      "kind": "word",
       "type": "outline",
-      "ctx": "愚蠢的，笨的",
-      "forms": [],
-      "phonetic": "[ˈstjuːpɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "愚蠢的，笨的"
-        }
-      ]
+      "ctx": "愚蠢的，笨的"
     },
     {
       "word": "midnight",
-      "lemma": "midnight",
-      "kind": "word",
       "type": "outline",
-      "ctx": "半夜，午夜",
-      "forms": [],
-      "phonetic": "[ˈmɪdnaɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "半夜，午夜"
-        }
-      ]
+      "ctx": "半夜，午夜"
     },
     {
       "word": "cruel",
-      "lemma": "cruel",
-      "kind": "word",
       "type": "outline",
-      "ctx": "残忍的，残酷的，残暴的",
-      "forms": [],
-      "phonetic": "[ˈkruːəl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "残忍的，残酷的，残暴的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "be cruel to sb.对某人残忍"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "残忍的，残酷的，残暴的"
     },
     {
       "word": "liberty",
-      "lemma": "liberty",
-      "kind": "word",
       "type": "outline",
-      "ctx": "自由",
-      "forms": [],
-      "phonetic": "[ˈlɪbəti]",
-      "memory": [
-        "联想记忆：在图书馆（library）内享受阅览自由（liberty）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "自由"
-        }
-      ]
+      "ctx": "自由"
     },
     {
       "word": "wealth",
-      "lemma": "wealth",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U]财富",
-      "forms": [],
-      "phonetic": "[welθ]",
-      "memory": [
-        "联想记忆：健康（health）胜过财富（wealth）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]财富"
-        }
-      ]
+      "ctx": "[U]财富"
     },
     {
       "word": "translate",
-      "lemma": "translate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "翻译",
-      "forms": [
-        {
-          "surface": "translates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "translated",
-          "tag": "past"
-        },
-        {
-          "surface": "translated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "translating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[trænzˈleɪt; trænsˈleɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "翻译；（使）转变"
-        }
-      ]
+      "ctx": "翻译"
     },
     {
       "word": "made-up",
-      "lemma": "made-up",
-      "kind": "word",
       "type": "core",
-      "ctx": "化妆的",
-      "forms": [],
-      "phonetic": "[ˈmeɪd ʌp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "化妆的；编造的"
-        }
-      ]
+      "ctx": "化妆的"
     },
     {
       "word": "moderately",
-      "lemma": "moderately",
-      "kind": "word",
       "type": "core",
-      "ctx": "一般地，勉强地",
-      "forms": [],
-      "phonetic": "[ˈmɒdərətli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "一般地，勉强地；适度，适量"
-        }
-      ]
+      "ctx": "一般地，勉强地"
     },
     {
       "word": "beforehand",
-      "lemma": "beforehand",
-      "kind": "word",
       "type": "core",
-      "ctx": "预先，事先",
-      "forms": [],
-      "phonetic": "[bɪˈfɔːhænd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "预先，事先"
-        }
-      ]
+      "ctx": "预先，事先"
     },
     {
       "word": "error",
-      "lemma": "error",
-      "kind": "word",
       "type": "outline",
-      "ctx": "错误",
-      "forms": [
-        {
-          "surface": "errors",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈerə(r)]",
-      "memory": [
-        "词根记忆：err（错误）+or→错误"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "错误"
-        }
-      ]
+      "ctx": "错误"
     },
     {
       "word": "extensively",
-      "lemma": "extensively",
-      "kind": "word",
       "type": "core",
-      "ctx": "广泛地",
-      "forms": [],
-      "phonetic": "[ɪkˈstensɪvli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "广泛地"
-        }
-      ]
+      "ctx": "广泛地"
     },
     {
       "word": "high",
-      "lemma": "high",
-      "kind": "word",
       "type": "outline",
-      "ctx": "高的",
-      "forms": [],
-      "phonetic": "[haɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "高的；海拔很高的"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "高，在高处"
-        }
-      ]
+      "ctx": "高的"
     },
     {
       "word": "attached",
-      "lemma": "attached",
-      "kind": "word",
       "type": "core",
-      "ctx": "非常喜欢……的",
-      "forms": [],
-      "phonetic": "[əˈtætʃt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "非常喜欢……的；从属于……的"
-        }
-      ]
+      "ctx": "非常喜欢……的"
     },
     {
       "word": "domain",
-      "lemma": "domain",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（知识、活动等）领域，范围",
-      "forms": [
-        {
-          "surface": "domains",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[dəˈmeɪn]",
-      "memory": [
-        "词根记忆：dom（统治）+ain（表物）→统治的地方→领土"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（知识、活动等）领域，范围；领土"
-        }
-      ]
+      "ctx": "（知识、活动等）领域，范围"
     },
     {
       "word": "politics",
-      "lemma": "politics",
-      "kind": "word",
       "type": "outline",
-      "ctx": "政治，政治学",
-      "forms": [],
-      "phonetic": "[ˈpɒlətɪks]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "政治，政治学；政纲，政见"
-        }
-      ]
+      "ctx": "政治，政治学"
     },
     {
       "word": "conscientiousness",
-      "lemma": "conscientiousness",
-      "kind": "word",
       "type": "core",
-      "ctx": "认真，尽心尽责",
-      "forms": [],
-      "phonetic": "[ˌkɒnʃiˈenʃəsnəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "认真，尽心尽责"
-        }
-      ]
+      "ctx": "认真，尽心尽责"
     },
     {
       "word": "emergency",
-      "lemma": "emergency",
-      "kind": "word",
       "type": "outline",
-      "ctx": "紧急情况（或状态）",
-      "forms": [],
-      "phonetic": "[iˈmɜːdʒənsi]",
-      "memory": [
-        "联想记忆：紧急情况（emergency）出现（emerge）了"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "紧急情况（或状态）",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "an emergency measure一项紧急措施"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "紧急情况（或状态）"
     },
     {
       "word": "pay",
-      "lemma": "pay",
-      "kind": "word",
       "type": "outline",
-      "ctx": "付钱",
-      "forms": [
-        {
-          "surface": "pays",
-          "tag": "third_person"
-        },
-        {
-          "surface": "paid",
-          "tag": "past"
-        },
-        {
-          "surface": "paid",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "paying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[peɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "付钱；偿还；受益，划算；（与名词连用）进行，给予",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "pay the bill买单pay for付款；偿还 pay attention to注意"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "[U]工资"
-        }
-      ]
+      "ctx": "付钱"
     },
     {
       "word": "perfectionist",
-      "lemma": "perfectionist",
-      "kind": "word",
       "type": "core",
-      "ctx": "完美主义者",
-      "forms": [],
-      "phonetic": "[pəˈfekʃənɪst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "完美主义者"
-        }
-      ]
+      "ctx": "完美主义者"
     },
     {
       "word": "secretary",
-      "lemma": "secretary",
-      "kind": "word",
       "type": "outline",
-      "ctx": "秘书",
-      "forms": [],
-      "phonetic": "[ˈsekrətri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "秘书"
-        }
-      ]
+      "ctx": "秘书"
     },
     {
       "word": "police",
-      "lemma": "police",
-      "kind": "word",
       "type": "outline",
-      "ctx": "警方",
-      "forms": [],
-      "phonetic": "[pəˈliːs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "警方；警察"
-        }
-      ]
+      "ctx": "警方"
     },
     {
       "word": "officer",
-      "lemma": "officer",
-      "kind": "word",
       "type": "outline",
-      "ctx": "军官",
-      "forms": [],
-      "phonetic": "[ˈɒfɪsə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "军官",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "police officer警察"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "军官"
     },
     {
       "word": "chair",
-      "lemma": "chair",
-      "kind": "word",
       "type": "outline",
-      "ctx": "椅子",
-      "forms": [
-        {
-          "surface": "chairs",
-          "tag": "plural"
-        },
-        {
-          "surface": "chairs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "chaired",
-          "tag": "past"
-        },
-        {
-          "surface": "chaired",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "chairing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[tʃeə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "椅子；主席"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "担任主席；主持"
-        }
-      ]
+      "ctx": "椅子"
     },
     {
       "word": "bank",
-      "lemma": "bank",
-      "kind": "word",
       "type": "outline",
-      "ctx": "银行",
-      "forms": [],
-      "phonetic": "[bæŋk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "银行；（河等的）岸"
-        }
-      ]
+      "ctx": "银行"
     },
     {
       "word": "clerk",
-      "lemma": "clerk",
-      "kind": "word",
       "type": "outline",
-      "ctx": "书记员",
-      "forms": [],
-      "phonetic": "[klɑːk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "书记员；职员",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a bank clerk一个银行职员"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "书记员"
     },
     {
       "word": "lunch",
-      "lemma": "lunch",
-      "kind": "word",
       "type": "outline",
-      "ctx": "午餐",
-      "forms": [],
-      "phonetic": "[lʌntʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "午餐"
-        }
-      ]
+      "ctx": "午餐"
     },
     {
       "word": "go-getter",
-      "lemma": "go-getter",
-      "kind": "word",
       "type": "core",
-      "ctx": "积极能干的人，志在必得者",
-      "forms": [],
-      "phonetic": "[ˈɡəʊ ɡetə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "积极能干的人，志在必得者"
-        }
-      ]
+      "ctx": "积极能干的人，志在必得者"
     },
     {
       "word": "colleague",
-      "lemma": "colleague",
-      "kind": "word",
       "type": "core",
-      "ctx": "同事",
-      "forms": [
-        {
-          "surface": "colleagues",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈkɒliːɡ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "同事"
-        }
-      ]
+      "ctx": "同事"
     },
     {
       "word": "relaxed",
-      "lemma": "relaxed",
-      "kind": "word",
       "type": "core",
-      "ctx": "放松的，镇定的",
-      "forms": [],
-      "phonetic": "[rɪˈlækst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "放松的，镇定的；自在的"
-        }
-      ]
+      "ctx": "放松的，镇定的"
     },
     {
       "word": "corner",
-      "lemma": "corner",
-      "kind": "word",
       "type": "outline",
-      "ctx": "角",
-      "forms": [],
-      "phonetic": "[ˈkɔːnə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "角；角落；拐角"
-        }
-      ]
+      "ctx": "角"
     },
     {
       "word": "ours",
-      "lemma": "ours",
-      "kind": "word",
       "type": "outline",
-      "ctx": "我们的",
-      "forms": [],
-      "phonetic": "[ɑːz; ˈaʊəz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "pron.",
-          "meaning": "我们的"
-        }
-      ]
+      "ctx": "我们的"
     },
     {
       "word": "shock",
-      "lemma": "shock",
-      "kind": "word",
       "type": "outline",
-      "ctx": "使震惊",
-      "forms": [
-        {
-          "surface": "shocks",
-          "tag": "plural"
-        },
-        {
-          "surface": "shocks",
-          "tag": "third_person"
-        },
-        {
-          "surface": "shocked",
-          "tag": "past"
-        },
-        {
-          "surface": "shocked",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "shocking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ʃɒk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "使震惊"
-        },
-        {
-          "pos": "n.",
-          "meaning": "震动，冲击"
-        }
-      ]
+      "ctx": "使震惊"
     },
     {
       "word": "wage",
-      "lemma": "wage",
-      "kind": "word",
       "type": "outline",
-      "ctx": "工资，报酬",
-      "forms": [],
-      "phonetic": "[weɪdʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "工资，报酬"
-        }
-      ]
+      "ctx": "工资，报酬"
     },
     {
       "word": "committee",
-      "lemma": "committee",
-      "kind": "word",
       "type": "outline",
-      "ctx": "委员会",
-      "forms": [],
-      "phonetic": "[kəˈmɪti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "委员会"
-        }
-      ]
+      "ctx": "委员会"
     },
     {
       "word": "lift",
-      "lemma": "lift",
-      "kind": "word",
       "type": "outline",
-      "ctx": "举起",
-      "forms": [
-        {
-          "surface": "lifts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "lifted",
-          "tag": "past"
-        },
-        {
-          "surface": "lifted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "lifting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[lɪft]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "举起；移开；高兴起来，使愉快；消散"
-        }
-      ]
+      "ctx": "举起"
     },
     {
       "word": "mood",
-      "lemma": "mood",
-      "kind": "word",
       "type": "outline",
-      "ctx": "心情，情绪",
-      "forms": [],
-      "phonetic": "[muːd]",
-      "memory": [
-        "联想记忆：心情（mood）不好也不能暴饮暴食（food）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "心情，情绪；坏心境",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "in a good mood心情好"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "心情，情绪"
     },
     {
       "word": "innocent",
-      "lemma": "innocent",
-      "kind": "word",
       "type": "outline",
-      "ctx": "清白的",
-      "forms": [],
-      "phonetic": "[ˈɪnəsnt]",
-      "memory": [
-        "词根记忆：in（无）+noc（伤害）+ent（……的）→没有伤害别人→无辜的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "清白的；无辜的；天真的"
-        }
-      ]
+      "ctx": "清白的"
     },
     {
       "word": "slice",
-      "lemma": "slice",
-      "kind": "word",
       "type": "outline",
-      "ctx": "片，薄片",
-      "forms": [],
-      "phonetic": "[slaɪs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "片，薄片",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Jenna found the bread and put two slices into the egg mixture.詹娜找到面包，然后把两片面包放进蛋液里。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "片，薄片"
     },
     {
       "word": "pancake",
-      "lemma": "pancake",
-      "kind": "word",
       "type": "outline",
-      "ctx": "薄煎饼",
-      "forms": [],
-      "phonetic": "[ˈpænkeɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "薄煎饼"
-        }
-      ]
+      "ctx": "薄煎饼"
     },
     {
       "word": "lovely",
-      "lemma": "lovely",
-      "kind": "word",
       "type": "outline",
-      "ctx": "美丽的，迷人的",
-      "forms": [],
-      "phonetic": "[ˈlʌvli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "美丽的，迷人的；令人愉快的，极好的；可爱的"
-        }
-      ]
+      "ctx": "美丽的，迷人的"
     },
     {
       "word": "Friday",
-      "lemma": "Friday",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "星期五",
-      "forms": [],
-      "phonetic": "[ˈfraɪdeɪ; ˈfraɪdi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "星期五"
-        }
-      ]
+      "ctx": "星期五"
     },
     {
       "word": "seemingly",
-      "lemma": "seemingly",
-      "kind": "word",
       "type": "core",
-      "ctx": "表面上，看上去",
-      "forms": [],
-      "phonetic": "[ˈsiːmɪŋli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "表面上，看上去"
-        }
-      ]
+      "ctx": "表面上，看上去"
     },
     {
       "word": "unrelated",
-      "lemma": "unrelated",
-      "kind": "word",
       "type": "core",
-      "ctx": "不相关的",
-      "forms": [],
-      "phonetic": "[ˌʌnrɪˈleɪtɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "不相关的；无亲缘关系的"
-        }
-      ]
+      "ctx": "不相关的"
     },
     {
       "word": "productivity",
-      "lemma": "productivity",
-      "kind": "word",
       "type": "core",
-      "ctx": "生产力，生产率",
-      "forms": [],
-      "phonetic": "[ˌprɒdʌkˈtɪvəti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "生产力，生产率"
-        }
-      ]
+      "ctx": "生产力，生产率"
     },
     {
       "word": "satisfaction",
-      "lemma": "satisfaction",
-      "kind": "word",
       "type": "outline",
-      "ctx": "满意",
-      "forms": [],
-      "phonetic": "[ˌsætɪsˈfækʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "满意"
-        }
-      ]
+      "ctx": "满意"
     }
   ]
 }

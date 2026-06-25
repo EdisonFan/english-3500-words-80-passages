@@ -302,81 +302,29 @@ function findVocab(key, vocab) {
     return null;
 }
 
-/* === 词表卡片渲染 === */
+/* === 词表卡片渲染（精简版：仅显示 word/type/ctx） === */
 function renderVocabCard(v) {
     var outlineClass = v.type === 'outline' ? ' outline' : '';
     var star = v.type === 'outline' ? '<span class="star">*</span>' : '';
-    
-    var memoryHtml = renderMemory(v.memory, 'card');
-    var defsHtml = renderDefs(v.defs || [], 'card');
+    var ctxHtml = v.ctx ? '<span class="card-ctx">' + esc(v.ctx) + '</span>' : '';
     
     return '<div class="card' + outlineClass + '">' +
-        '<div class="card-top"><span class="card-word">' + esc(v.word) + star + '</span>' +
-        '<span class="card-phon">' + esc(v.phonetic) + '</span></div>' +
-        memoryHtml + '<div class="card-def">' + defsHtml + '</div></div>';
+        '<div class="card-top"><span class="card-word">' + esc(v.word) + star + '</span></div>' +
+        ctxHtml + '</div>';
 }
 
-function renderMemory(memory, scope) {
-    if (!memory || !memory.length) return '';
-    var cls = scope === 'modal' ? 'modal-extras' : 'card-extras';
-    var itemCls = scope === 'modal' ? 'modal-extra mem' : 'extra mem';
-    var html = '<div class="' + cls + '">';
-    memory.forEach(function(text) {
-        html += '<div class="' + itemCls + '"><span class="tag">记</span>' + esc(text) + '</div>';
-    });
-    html += '</div>';
-    return html;
-}
-
-function renderDefs(defs, scope) {
-    var html = '';
-    defs.forEach(function(d) {
-        if (scope === 'modal') {
-            html += '<div class="modal-def"><span class="pos">' + esc(d.pos) + '</span><span class="meaning">' + esc(d.meaning) + '</span></div>';
-            html += renderDefExtras(d.extras || [], 'modal');
-        } else {
-            if (d.pos) html += '<span class="pos">' + esc(d.pos) + '</span>';
-            html += esc(d.meaning) + ' ';
-            html += renderDefExtras(d.extras || [], 'card');
-        }
-    });
-    return html.trim();
-}
-
-function renderDefExtras(extras, scope) {
-    if (!extras || !extras.length) return '';
-    var cls = scope === 'modal' ? 'modal-extras' : 'card-extras';
-    var itemBase = scope === 'modal' ? 'modal-extra ' : 'extra ';
-    var html = '<div class="' + cls + '">';
-    extras.forEach(function(x) {
-        var items = x.items || [];
-        items.forEach(function(item) {
-            html += '<div class="' + itemBase + esc(x.type) + '"><span class="tag">' + esc(x.label) + '</span>' + esc(item) + '</div>';
-        });
-    });
-    html += '</div>';
-    return html;
-}
-
-/* === 高亮词点击 → 弹窗（事件委托） === */
+/* === 单词点击 → 统一弹窗（事件委托） === */
 function handleWordClick(e) {
-    // 1. vocab 高亮词：走本地词条弹窗
-    var target = e.target.closest('.w');
-    if (target) {
-        e.stopPropagation();
-        target.classList.remove('pulsed');
-        void target.offsetWidth;
-        target.classList.add('pulsed');
-        showModal(target.getAttribute('data-key'));
-        return;
-    }
-    // 2. 普通单词：走词典 API 查询
-    target = e.target.closest('.w-raw');
-    if (target) {
-        e.stopPropagation();
-        showDictModal(target.getAttribute('data-word'));
-        return;
-    }
+    var target = e.target.closest('.w, .w-raw');
+    if (!target) return;
+    e.stopPropagation();
+    // 脉冲动画
+    target.classList.remove('pulsed');
+    void target.offsetWidth;
+    target.classList.add('pulsed');
+    // 获取单词：.w 用 data-key，.w-raw 用 data-word
+    var word = target.getAttribute('data-key') || target.getAttribute('data-word');
+    if (word) showDictModal(word);
 }
 
 /* === 词典 API 查询（非 vocab 单词） === */
@@ -542,36 +490,7 @@ var TAG_LABEL = {
     alias: '别名'
 };
 
-function renderForms(forms) {
-    if (!forms || !forms.length) return '';
-    var html = '<div class="modal-forms">';
-    forms.forEach(function(f) {
-        html += '<span class="modal-form">';
-        html += '<span class="form-surface">' + esc(f.surface) + '</span>';
-        html += '<span class="form-tag">' + esc(TAG_LABEL[f.tag] || f.tag) + '</span>';
-        html += '</span>';
-    });
-    html += '</div>';
-    return html;
-}
-
-function showModal(key) {
-    // 需要当前篇目的 vocab 数据，从全局缓存取
-    if (!window._currentVocab) return;
-    var entry = findVocab(key, window._currentVocab);
-    if (!entry) return;
-    
-    var html = '<div class="modal-eyebrow">Vocabulary</div>';
-    html += '<div class="modal-word">' + esc(entry.word) + '</div>';
-    html += '<div class="modal-phon">' + esc(entry.phonetic) + '</div>';
-    html += renderForms(entry.forms || []);
-    html += renderMemory(entry.memory, 'modal');
-    html += '<div class="modal-defs">' + renderDefs(entry.defs || [], 'modal') + '</div>';
-    
-    modalContent.innerHTML = html;
-    modalBg.classList.add('active');
-}
-
+/* === 弹窗关闭 === */
 modalClose.addEventListener('click', function() { modalBg.classList.remove('active'); });
 modalBg.addEventListener('click', function(e) {
     if (e.target === modalBg) modalBg.classList.remove('active');

@@ -39,1012 +39,213 @@
   "vocab": [
     {
       "word": "data",
-      "lemma": "data",
-      "kind": "word",
       "type": "outline",
-      "ctx": "数据，资料",
-      "forms": [
-        {
-          "surface": "datum",
-          "tag": "alias"
-        }
-      ],
-      "phonetic": "[ˈdeɪtə; ˈdɑːtə]",
-      "memory": [
-        "联想记忆：数据（data）每日（date）更新（update）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "数据，资料（单数 datum）"
-        }
-      ]
+      "ctx": "数据，资料"
     },
     {
       "word": "e.g.",
-      "lemma": "e.g.",
-      "kind": "word",
       "type": "core",
-      "ctx": "例如",
-      "forms": [],
-      "phonetic": "[ˌiː ˈdʒiː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "abbr.",
-          "meaning": "例如"
-        }
-      ]
+      "ctx": "例如"
     },
     {
       "word": "pollute",
-      "lemma": "pollute",
-      "kind": "word",
       "type": "outline",
-      "ctx": "污染",
-      "forms": [
-        {
-          "surface": "pollutes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "polluted",
-          "tag": "past"
-        },
-        {
-          "surface": "polluted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "polluting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[pəˈluːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "污染"
-        }
-      ]
+      "ctx": "污染"
     },
     {
       "word": "assumption",
-      "lemma": "assumption",
-      "kind": "word",
       "type": "outline",
-      "ctx": "假设，假定",
-      "forms": [
-        {
-          "surface": "assumptions",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[əˈsʌmpʃn]",
-      "memory": [
-        "词根记忆：as（表加强）+sumpt（拿）+ion→假设有人拿走了→假设"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "假设，假定",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Try to understand what's actually happening instead of acting on the assumption you've made.试着去理解实际发生的情况，而不是按照你做出的假设去行动。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "假设，假定"
     },
     {
       "word": "incorrect",
-      "lemma": "incorrect",
-      "kind": "word",
       "type": "core",
-      "ctx": "不正确的，不真实的",
-      "forms": [],
-      "phonetic": "[ˌɪnkəˈrekt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "不正确的，不真实的；不合规矩的"
-        }
-      ]
+      "ctx": "不正确的，不真实的"
     },
     {
       "word": "unless",
-      "lemma": "unless",
-      "kind": "word",
       "type": "outline",
-      "ctx": "如果不，除非",
-      "forms": [],
-      "phonetic": "[ənˈles]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "conj.",
-          "meaning": "如果不，除非"
-        }
-      ]
+      "ctx": "如果不，除非"
     },
     {
       "word": "wander",
-      "lemma": "wander",
-      "kind": "word",
       "type": "outline",
-      "ctx": "游荡，漫步，徘徊",
-      "forms": [
-        {
-          "surface": "wanders",
-          "tag": "third_person"
-        },
-        {
-          "surface": "wandered",
-          "tag": "past"
-        },
-        {
-          "surface": "wandered",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "wandering",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈwɒndə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "游荡，漫步，徘徊"
-        }
-      ]
+      "ctx": "游荡，漫步，徘徊"
     },
     {
       "word": "valley",
-      "lemma": "valley",
-      "kind": "word",
       "type": "outline",
-      "ctx": "山谷，溪谷",
-      "forms": [
-        {
-          "surface": "valleys",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈvæli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "山谷，溪谷",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a spacious valley一个宽阔的山谷"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "山谷，溪谷"
     },
     {
       "word": "disappear",
-      "lemma": "disappear",
-      "kind": "word",
       "type": "core",
-      "ctx": "消失",
-      "forms": [
-        {
-          "surface": "disappears",
-          "tag": "third_person"
-        },
-        {
-          "surface": "disappeared",
-          "tag": "past"
-        },
-        {
-          "surface": "disappeared",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "disappearing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌdɪsəˈpɪə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "消失"
-        }
-      ]
+      "ctx": "消失"
     },
     {
       "word": "frozen",
-      "lemma": "frozen",
-      "kind": "word",
       "type": "core",
-      "ctx": "冷冻的",
-      "forms": [],
-      "phonetic": "[ˈfrəʊzn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "冷冻的；冻僵；结冰的"
-        }
-      ]
+      "ctx": "冷冻的"
     },
     {
       "word": "treeless",
-      "lemma": "treeless",
-      "kind": "word",
       "type": "core",
-      "ctx": "无树木的",
-      "forms": [],
-      "phonetic": "[ˈtriːləs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "无树木的"
-        }
-      ]
+      "ctx": "无树木的"
     },
     {
       "word": "snow",
-      "lemma": "snow",
-      "kind": "word",
       "type": "outline",
-      "ctx": "雪，雪花",
-      "forms": [
-        {
-          "surface": "snows",
-          "tag": "third_person"
-        },
-        {
-          "surface": "snowed",
-          "tag": "past"
-        },
-        {
-          "surface": "snowed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "snowing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[snəʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "雪，雪花",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "frost*（ n. 霜；霜冻）"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vi.",
-          "meaning": "下雪"
-        }
-      ]
+      "ctx": "雪，雪花"
     },
     {
       "word": "ice",
-      "lemma": "ice",
-      "kind": "word",
       "type": "outline",
-      "ctx": "冰，冰块",
-      "forms": [],
-      "phonetic": "[aɪs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "冰，冰块"
-        }
-      ]
+      "ctx": "冰，冰块"
     },
     {
       "word": "mass",
-      "lemma": "mass",
-      "kind": "word",
       "type": "outline",
-      "ctx": "团，块",
-      "forms": [],
-      "phonetic": "[mæs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "团，块；许多，大量；[pl.]群众",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "mass media大众传媒"
-              ]
-            },
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Most newspapers had little in them that would appeal to a mass audience.大多数报纸里几乎没有能吸引广大读者的内容。"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "adj.",
-          "meaning": "大批的，数量极多的"
-        }
-      ]
+      "ctx": "团，块"
     },
     {
       "word": "underground",
-      "lemma": "underground",
-      "kind": "word",
       "type": "outline",
-      "ctx": "地下的",
-      "forms": [],
-      "phonetic": "[ˈʌndəɡraʊnd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "地下的；秘密的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "〈英〉地铁"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "在地下；隐蔽地"
-        }
-      ]
+      "ctx": "地下的"
     },
     {
       "word": "progressive",
-      "lemma": "progressive",
-      "kind": "word",
       "type": "core",
-      "ctx": "进步的",
-      "forms": [],
-      "phonetic": "[prəˈɡresɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "进步的；逐步的；（动词）进行时的"
-        }
-      ]
+      "ctx": "进步的"
     },
     {
       "word": "polar",
-      "lemma": "polar",
-      "kind": "word",
       "type": "outline",
-      "ctx": "极地的",
-      "forms": [],
-      "phonetic": "[ˈpəʊlə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "极地的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "polar bear北极熊"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "极地的"
     },
     {
       "word": "age-old",
-      "lemma": "age-old",
-      "kind": "word",
       "type": "core",
-      "ctx": "古老的，已存在很久的",
-      "forms": [],
-      "phonetic": "[ˌeɪdʒ ˈəʊld]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "古老的，已存在很久的"
-        }
-      ]
+      "ctx": "古老的，已存在很久的"
     },
     {
       "word": "label",
-      "lemma": "label",
-      "kind": "word",
       "type": "outline",
-      "ctx": "贴标签于",
-      "forms": [
-        {
-          "surface": "labels",
-          "tag": "plural"
-        },
-        {
-          "surface": "labels",
-          "tag": "third_person"
-        },
-        {
-          "surface": "labeled",
-          "tag": "past"
-        },
-        {
-          "surface": "labeled",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "labeling",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈleɪbl]",
-      "memory": [
-        "联想记忆：lab（实验室）+el→实验室里的试剂瓶上贴有标签→标签"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "贴标签于；把……称为",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "The wine was cloudy, in a funny old bottle with no label on it.那酒是浑浊的，装在一个古怪的旧瓶子里，上面没有标签。"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "标签，标记"
-        }
-      ]
+      "ctx": "贴标签于"
     },
     {
       "word": "disastrous",
-      "lemma": "disastrous",
-      "kind": "word",
       "type": "core",
-      "ctx": "灾难性的，极糟糕的",
-      "forms": [],
-      "phonetic": "[dɪˈzɑːstrəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "灾难性的，极糟糕的"
-        }
-      ]
+      "ctx": "灾难性的，极糟糕的"
     },
     {
       "word": "mineral",
-      "lemma": "mineral",
-      "kind": "word",
       "type": "outline",
-      "ctx": "矿物，矿物质",
-      "forms": [
-        {
-          "surface": "minerals",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈmɪnərəl]",
-      "memory": [
-        "词根记忆：mine（矿）+ral→矿物质"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "矿物，矿物质",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "mineral water矿泉水"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "矿物，矿物质"
     },
     {
       "word": "capsule",
-      "lemma": "capsule",
-      "kind": "word",
       "type": "outline",
-      "ctx": "胶囊",
-      "forms": [
-        {
-          "surface": "capsules",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈkæpsjuːl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "胶囊；太空舱"
-        }
-      ]
+      "ctx": "胶囊"
     },
     {
       "word": "liquid",
-      "lemma": "liquid",
-      "kind": "word",
       "type": "outline",
-      "ctx": "液体",
-      "forms": [],
-      "phonetic": "[ˈlɪkwɪd]",
-      "memory": [
-        "词根记忆：liqu（液体）+id→液体的"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "液体"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "液体的，液态的；清澈的"
-        }
-      ]
+      "ctx": "液体"
     },
     {
       "word": "readily",
-      "lemma": "readily",
-      "kind": "word",
       "type": "core",
-      "ctx": "乐意地",
-      "forms": [],
-      "phonetic": "[ˈredɪli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "乐意地；轻而易举地，便利地"
-        }
-      ]
+      "ctx": "乐意地"
     },
     {
       "word": "collapse",
-      "lemma": "collapse",
-      "kind": "word",
       "type": "outline",
-      "ctx": "坍塌",
-      "forms": [
-        {
-          "surface": "collapses",
-          "tag": "plural"
-        },
-        {
-          "surface": "collapses",
-          "tag": "third_person"
-        },
-        {
-          "surface": "collapsed",
-          "tag": "past"
-        },
-        {
-          "surface": "collapsed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "collapsing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kəˈlæps]",
-      "memory": [
-        "词根记忆：col（表加强）+laps（滑倒）+e→突然滑倒→倒塌；崩溃"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "/"
-        },
-        {
-          "pos": "vi.",
-          "meaning": "倒塌，坍塌；突然失败；崩溃；昏倒"
-        }
-      ]
+      "ctx": "坍塌"
     },
     {
       "word": "pour",
-      "lemma": "pour",
-      "kind": "word",
       "type": "outline",
-      "ctx": "倒（液体等）",
-      "forms": [
-        {
-          "surface": "pours",
-          "tag": "third_person"
-        },
-        {
-          "surface": "poured",
-          "tag": "past"
-        },
-        {
-          "surface": "poured",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "pouring",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[pɔː(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "倒（液体等）"
-        },
-        {
-          "pos": "vi.",
-          "meaning": "涌流，倾泻；（人或信息）大量涌至"
-        }
-      ]
+      "ctx": "倒（液体等）"
     },
     {
       "word": "basin",
-      "lemma": "basin",
-      "kind": "word",
       "type": "outline",
-      "ctx": "盆",
-      "forms": [
-        {
-          "surface": "basins",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈbeɪsn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "盆；流域；盆地",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "the Amazon Basin亚马孙河流域"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "盆"
     },
     {
       "word": "liberation",
-      "lemma": "liberation",
-      "kind": "word",
       "type": "outline",
-      "ctx": "解放",
-      "forms": [],
-      "phonetic": "[ˌlɪbəˈreɪʃn]",
-      "memory": [
-        "词根记忆：liber（自由）+ation（表名词）→使……自由→解放"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "解放"
-        }
-      ]
+      "ctx": "解放"
     },
     {
       "word": "release",
-      "lemma": "release",
-      "kind": "word",
       "type": "outline",
-      "ctx": "释放，松开",
-      "forms": [
-        {
-          "surface": "releases",
-          "tag": "third_person"
-        },
-        {
-          "surface": "released",
-          "tag": "past"
-        },
-        {
-          "surface": "released",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "releasing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rɪˈliːs]",
-      "memory": [
-        "词根记忆：re（重新）+leas（松）+e→释放"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "释放，松开；发行"
-        }
-      ]
+      "ctx": "释放，松开"
     },
     {
       "word": "probable",
-      "lemma": "probable",
-      "kind": "word",
       "type": "core",
-      "ctx": "可能的",
-      "forms": [],
-      "phonetic": "[ˈprɒbəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "可能的"
-        }
-      ]
+      "ctx": "可能的"
     },
     {
       "word": "model",
-      "lemma": "model",
-      "kind": "word",
       "type": "outline",
-      "ctx": "模型",
-      "forms": [
-        {
-          "surface": "models",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈmɒdl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "模型；样式，型；模特儿；模范"
-        }
-      ]
+      "ctx": "模型"
     },
     {
       "word": "rainfall",
-      "lemma": "rainfall",
-      "kind": "word",
       "type": "core",
-      "ctx": "下雨",
-      "forms": [],
-      "phonetic": "[ˈreɪnfɔːl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "下雨；降雨量"
-        }
-      ]
+      "ctx": "下雨"
     },
     {
       "word": "autumn",
-      "lemma": "autumn",
-      "kind": "word",
       "type": "outline",
-      "ctx": "秋，秋季",
-      "forms": [],
-      "phonetic": "[ˈɔːtəm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "秋，秋季"
-        }
-      ]
+      "ctx": "秋，秋季"
     },
     {
       "word": "none",
-      "lemma": "none",
-      "kind": "word",
       "type": "outline",
-      "ctx": "无任何事物或人",
-      "forms": [],
-      "phonetic": "[nʌn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "pron.",
-          "meaning": "无任何事物或人"
-        }
-      ]
+      "ctx": "无任何事物或人"
     },
     {
       "word": "existing",
-      "lemma": "existing",
-      "kind": "word",
       "type": "core",
-      "ctx": "现存的，现行的",
-      "forms": [],
-      "phonetic": "[ɪɡˈzɪstɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "现存的，现行的"
-        }
-      ]
+      "ctx": "现存的，现行的"
     },
     {
       "word": "statistic",
-      "lemma": "statistic",
-      "kind": "word",
       "type": "outline",
-      "ctx": "统计数字，统计资料",
-      "forms": [
-        {
-          "surface": "statistics",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[stəˈtɪstɪk]",
-      "memory": [
-        "联想记忆：stat（看作state，状态；国家）+is（是）+tic→描述国家所处状态的数据→统计数字"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（pl.statistics）统计数字，统计资料；统计学"
-        }
-      ]
+      "ctx": "统计数字，统计资料"
     },
     {
       "word": "observation",
-      "lemma": "observation",
-      "kind": "word",
       "type": "core",
-      "ctx": "观察",
-      "forms": [],
-      "phonetic": "[ˌɒbzəˈveɪʃn]",
-      "memory": [
-        "来自observe（ vt. 观察；遵守）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "观察；监视"
-        }
-      ]
+      "ctx": "观察"
     },
     {
       "word": "detective",
-      "lemma": "detective",
-      "kind": "word",
       "type": "outline",
-      "ctx": "侦探",
-      "forms": [],
-      "phonetic": "[dɪˈtektɪv]",
-      "memory": [
-        "词根记忆：detect（发现，察觉）+ive（有……倾向的人）→侦探"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "侦探"
-        }
-      ]
+      "ctx": "侦探"
     },
     {
       "word": "crime",
-      "lemma": "crime",
-      "kind": "word",
       "type": "outline",
-      "ctx": "犯罪活动，不法行为",
-      "forms": [],
-      "phonetic": "[kraɪm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "犯罪活动，不法行为；罪，罪行"
-        }
-      ]
+      "ctx": "犯罪活动，不法行为"
     },
     {
       "word": "cell",
-      "lemma": "cell",
-      "kind": "word",
       "type": "outline",
-      "ctx": "细胞",
-      "forms": [],
-      "phonetic": "[sel]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "细胞；单间牢房",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "cancer cells癌细胞"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "细胞"
     },
     {
       "word": "microscope",
-      "lemma": "microscope",
-      "kind": "word",
       "type": "outline",
-      "ctx": "显微镜",
-      "forms": [],
-      "phonetic": "[ˈmaɪkrəskəʊp]",
-      "memory": [
-        "词根记忆：micro（微）+scope（看）→用来看微小的东西→显微镜"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "显微镜",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "telescope*（ n. 望远镜）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "显微镜"
     },
     {
       "word": "cave",
-      "lemma": "cave",
-      "kind": "word",
       "type": "outline",
-      "ctx": "山洞，洞穴",
-      "forms": [],
-      "phonetic": "[keɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "山洞，洞穴"
-        }
-      ]
+      "ctx": "山洞，洞穴"
     }
   ]
 }

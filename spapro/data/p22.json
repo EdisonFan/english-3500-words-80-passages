@@ -29,1204 +29,243 @@
   "vocab": [
     {
       "word": "essay",
-      "lemma": "essay",
-      "kind": "word",
       "type": "outline",
-      "ctx": "短文，文章",
-      "forms": [],
-      "phonetic": "[ˈeseɪ]",
-      "memory": [
-        "联想记忆：es（看作is，是）+say（说）→光说不写非文章→文章"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "短文，文章；小品文"
-        }
-      ]
+      "ctx": "短文，文章"
     },
     {
       "word": "three",
-      "lemma": "three",
-      "kind": "word",
       "type": "outline",
-      "ctx": "三",
-      "forms": [],
-      "phonetic": "[θriː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "num.",
-          "meaning": "三"
-        }
-      ]
+      "ctx": "三"
     },
     {
       "word": "kit",
-      "lemma": "kit",
-      "kind": "word",
       "type": "outline",
-      "ctx": "成套工具，成套设备",
-      "forms": [],
-      "phonetic": "[kɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "成套工具，成套设备；配套元件"
-        }
-      ]
+      "ctx": "成套工具，成套设备"
     },
     {
       "word": "nonstop",
-      "lemma": "nonstop",
-      "kind": "word",
       "type": "core",
-      "ctx": "直达的，不停的",
-      "forms": [],
-      "phonetic": "[ˌnɒnˈstɒp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "直达的，不停的"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "不停地，不间断地"
-        }
-      ]
+      "ctx": "直达的，不停的"
     },
     {
       "word": "pen",
-      "lemma": "pen",
-      "kind": "word",
       "type": "outline",
-      "ctx": "钢笔",
-      "forms": [],
-      "phonetic": "[pen]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "钢笔"
-        }
-      ]
+      "ctx": "钢笔"
     },
     {
       "word": "ten",
-      "lemma": "ten",
-      "kind": "word",
       "type": "outline",
-      "ctx": "十",
-      "forms": [],
-      "phonetic": "[ten]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "num.",
-          "meaning": "十",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "tenth*（ ordinal num. 第十）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "十"
     },
     {
       "word": "leave",
-      "lemma": "leave",
-      "kind": "word",
       "type": "outline",
-      "ctx": "离开",
-      "forms": [
-        {
-          "surface": "leaves",
-          "tag": "third_person"
-        },
-        {
-          "surface": "left",
-          "tag": "past"
-        },
-        {
-          "surface": "left",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "leaving",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[liːv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "离开；留下；遗忘；让……处于（某种状态、某地等）",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "leave alone不管，不理会"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "离开"
     },
     {
       "word": "spy",
-      "lemma": "spy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "密探，间谍",
-      "forms": [],
-      "phonetic": "[spaɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "密探，间谍"
-        },
-        {
-          "pos": "vi.",
-          "meaning": "从事间谍活动；秘密监视"
-        }
-      ]
+      "ctx": "密探，间谍"
     },
     {
       "word": "vanish",
-      "lemma": "vanish",
-      "kind": "word",
       "type": "core",
-      "ctx": "突然消失",
-      "forms": [
-        {
-          "surface": "vanishes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "vanished",
-          "tag": "past"
-        },
-        {
-          "surface": "vanished",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "vanishing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈvænɪʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "突然消失；绝迹"
-        }
-      ]
+      "ctx": "突然消失"
     },
     {
       "word": "loose",
-      "lemma": "loose",
-      "kind": "word",
       "type": "outline",
-      "ctx": "松散的",
-      "forms": [],
-      "phonetic": "[luːs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "松散的；宽松的；零散的"
-        }
-      ]
+      "ctx": "松散的"
     },
     {
       "word": "free",
-      "lemma": "free",
-      "kind": "word",
       "type": "outline",
-      "ctx": "自由的",
-      "forms": [
-        {
-          "surface": "frees",
-          "tag": "third_person"
-        },
-        {
-          "surface": "freed",
-          "tag": "past"
-        },
-        {
-          "surface": "freed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "freeing",
-          "tag": "ing"
-        },
-        {
-          "surface": "freer",
-          "tag": "comparative"
-        },
-        {
-          "surface": "freest",
-          "tag": "superlative"
-        }
-      ],
-      "phonetic": "[friː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "自由的；空闲的；免费的"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "释放，使自由；使摆脱"
-        }
-      ]
+      "ctx": "自由的"
     },
     {
       "word": "fluent",
-      "lemma": "fluent",
-      "kind": "word",
       "type": "outline",
-      "ctx": "流利的，流畅的",
-      "forms": [],
-      "phonetic": "[ˈfluːənt]",
-      "memory": [
-        "词根记忆：flu（流动）+ent（……的）→自然流露的→流畅的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "流利的，流畅的"
-        }
-      ]
+      "ctx": "流利的，流畅的"
     },
     {
       "word": "wave",
-      "lemma": "wave",
-      "kind": "word",
       "type": "outline",
-      "ctx": "挥手",
-      "forms": [
-        {
-          "surface": "waves",
-          "tag": "plural"
-        },
-        {
-          "surface": "waves",
-          "tag": "third_person"
-        },
-        {
-          "surface": "waved",
-          "tag": "past"
-        },
-        {
-          "surface": "waved",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "waving",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[weɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "挥手；摇动；飘动"
-        },
-        {
-          "pos": "n.",
-          "meaning": "波；波浪；（活动、行为的）爆发，浪潮"
-        }
-      ]
+      "ctx": "挥手"
     },
     {
       "word": "drag",
-      "lemma": "drag",
-      "kind": "word",
       "type": "outline",
-      "ctx": "拖，拽",
-      "forms": [
-        {
-          "surface": "drags",
-          "tag": "third_person"
-        },
-        {
-          "surface": "dragged",
-          "tag": "past"
-        },
-        {
-          "surface": "dragged",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "dragging",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dræɡ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "拖，拽"
-        }
-      ]
+      "ctx": "拖，拽"
     },
     {
       "word": "literary",
-      "lemma": "literary",
-      "kind": "word",
       "type": "outline",
-      "ctx": "文学的",
-      "forms": [],
-      "phonetic": "[ˈlɪtərəri]",
-      "memory": [
-        "词根记忆：liter（文字）+ary（……的）→与文字有关的→文学的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "文学的"
-        }
-      ]
+      "ctx": "文学的"
     },
     {
       "word": "weapon",
-      "lemma": "weapon",
-      "kind": "word",
       "type": "outline",
-      "ctx": "武器，兵器",
-      "forms": [],
-      "phonetic": "[ˈwepən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "武器，兵器；凶器",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "hold a weapon持有武器"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "武器，兵器"
     },
     {
       "word": "draw",
-      "lemma": "draw",
-      "kind": "word",
       "type": "outline",
-      "ctx": "画",
-      "forms": [
-        {
-          "surface": "draws",
-          "tag": "third_person"
-        },
-        {
-          "surface": "drew",
-          "tag": "past"
-        },
-        {
-          "surface": "drawn",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "drawing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[drɔː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "画；拖，拉；吸引；提取",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "draw on/upon sth.凭借，利用，动用draw sb.in使卷入，使参与draw up起草，拟定"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "画"
     },
     {
       "word": "draft",
-      "lemma": "draft",
-      "kind": "word",
       "type": "outline",
-      "ctx": "起草",
-      "forms": [
-        {
-          "surface": "drafts",
-          "tag": "plural"
-        },
-        {
-          "surface": "drafts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "drafted",
-          "tag": "past"
-        },
-        {
-          "surface": "drafted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "drafting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[drɑːft]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "起草"
-        },
-        {
-          "pos": "n.",
-          "meaning": "草稿"
-        }
-      ]
+      "ctx": "起草"
     },
     {
       "word": "rapidly",
-      "lemma": "rapidly",
-      "kind": "word",
       "type": "core",
-      "ctx": "迅速地",
-      "forms": [],
-      "phonetic": "[ˈræpɪdli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "迅速地"
-        }
-      ]
+      "ctx": "迅速地"
     },
     {
       "word": "polish",
-      "lemma": "polish",
-      "kind": "word",
       "type": "outline",
-      "ctx": "擦亮",
-      "forms": [
-        {
-          "surface": "polishes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "polished",
-          "tag": "past"
-        },
-        {
-          "surface": "polished",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "polishing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈpɒlɪʃ]",
-      "memory": [
-        "词根记忆：pol（光滑）+ish（使）→使光滑→擦亮，磨光"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "擦亮，磨光；润色"
-        }
-      ]
+      "ctx": "擦亮"
     },
     {
       "word": "save",
-      "lemma": "save",
-      "kind": "word",
       "type": "outline",
-      "ctx": "储蓄",
-      "forms": [
-        {
-          "surface": "saves",
-          "tag": "third_person"
-        },
-        {
-          "surface": "saved",
-          "tag": "past"
-        },
-        {
-          "surface": "saved",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "saving",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[seɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "储蓄，攒钱；救；节约；保存；避免"
-        }
-      ]
+      "ctx": "储蓄"
     },
     {
       "word": "headache",
-      "lemma": "headache",
-      "kind": "word",
       "type": "outline",
-      "ctx": "头疼",
-      "forms": [
-        {
-          "surface": "headaches",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈhedeɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "头疼；令人头痛的人（或事），麻烦"
-        }
-      ]
+      "ctx": "头疼"
     },
     {
       "word": "wastepaper",
-      "lemma": "wastepaper",
-      "kind": "word",
       "type": "core",
-      "ctx": "废纸",
-      "forms": [],
-      "phonetic": "[ˌweɪstˈpeɪpə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "废纸"
-        }
-      ]
+      "ctx": "废纸"
     },
     {
       "word": "basket",
-      "lemma": "basket",
-      "kind": "word",
       "type": "outline",
-      "ctx": "篮，篓，筐",
-      "forms": [],
-      "phonetic": "[ˈbɑːskɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "篮，篓，筐"
-        }
-      ]
+      "ctx": "篮，篓，筐"
     },
     {
       "word": "full",
-      "lemma": "full",
-      "kind": "word",
       "type": "outline",
-      "ctx": "满的",
-      "forms": [],
-      "phonetic": "[fʊl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "满的；吃饱了的；完全的"
-        }
-      ]
+      "ctx": "满的"
     },
     {
       "word": "path",
-      "lemma": "path",
-      "kind": "word",
       "type": "outline",
-      "ctx": "小路，小径",
-      "forms": [],
-      "phonetic": "[pɑːθ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "小路，小径；路线；途径"
-        }
-      ]
+      "ctx": "小路，小径"
     },
     {
       "word": "cut",
-      "lemma": "cut",
-      "kind": "word",
       "type": "outline",
-      "ctx": "切，剪",
-      "forms": [
-        {
-          "surface": "cuts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "cut",
-          "tag": "past"
-        },
-        {
-          "surface": "cut",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "cutting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kʌt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "切，剪，削，割；削减；删节",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "scissors*（ n. 剪刀，剪子）"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "伤口；削减；理发"
-        }
-      ]
+      "ctx": "切，剪"
     },
     {
       "word": "jungle",
-      "lemma": "jungle",
-      "kind": "word",
       "type": "outline",
-      "ctx": "丛林，密林",
-      "forms": [],
-      "phonetic": "[ˈdʒʌŋɡl]",
-      "memory": [
-        "发音记忆：\"长高\"→树木参天→丛林"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "丛林，密林"
-        }
-      ]
+      "ctx": "丛林，密林"
     },
     {
       "word": "knife",
-      "lemma": "knife",
-      "kind": "word",
       "type": "outline",
-      "ctx": "刀",
-      "forms": [],
-      "phonetic": "[naɪf]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "刀"
-        }
-      ]
+      "ctx": "刀"
     },
     {
       "word": "exploration",
-      "lemma": "exploration",
-      "kind": "word",
       "type": "core",
-      "ctx": "勘探，探索",
-      "forms": [],
-      "phonetic": "[ˌekspləˈreɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "勘探，探索；研究，探究"
-        }
-      ]
+      "ctx": "勘探，探索"
     },
     {
       "word": "highway",
-      "lemma": "highway",
-      "kind": "word",
       "type": "core",
-      "ctx": "公路，干道",
-      "forms": [],
-      "phonetic": "[ˈhaɪweɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "公路，干道"
-        }
-      ]
+      "ctx": "公路，干道"
     },
     {
       "word": "friction",
-      "lemma": "friction",
-      "kind": "word",
       "type": "outline",
-      "ctx": "摩擦",
-      "forms": [],
-      "phonetic": "[ˈfrɪkʃn]",
-      "memory": [
-        "联想记忆：润滑油的功能（function）是减小摩擦力（friction）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "摩擦；摩擦力；冲突，不和"
-        }
-      ]
+      "ctx": "摩擦"
     },
     {
       "word": "copy",
-      "lemma": "copy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "复印件",
-      "forms": [
-        {
-          "surface": "copies",
-          "tag": "plural"
-        },
-        {
-          "surface": "copies",
-          "tag": "third_person"
-        },
-        {
-          "surface": "copied",
-          "tag": "past"
-        },
-        {
-          "surface": "copied",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "copying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈkɒpi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "复印件，复制品；一本（份、册……）；原稿，稿件"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "复制；复印"
-        }
-      ]
+      "ctx": "复印件"
     },
     {
       "word": "space",
-      "lemma": "space",
-      "kind": "word",
       "type": "outline",
-      "ctx": "空地",
-      "forms": [],
-      "phonetic": "[speɪs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "空地；空间；太空；空白"
-        }
-      ]
+      "ctx": "空地"
     },
     {
       "word": "revision",
-      "lemma": "revision",
-      "kind": "word",
       "type": "core",
-      "ctx": "复习，温习",
-      "forms": [],
-      "phonetic": "[rɪˈvɪʒn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "复习，温习；修订"
-        }
-      ]
+      "ctx": "复习，温习"
     },
     {
       "word": "revise",
-      "lemma": "revise",
-      "kind": "word",
       "type": "outline",
-      "ctx": "温习",
-      "forms": [
-        {
-          "surface": "revises",
-          "tag": "third_person"
-        },
-        {
-          "surface": "revised",
-          "tag": "past"
-        },
-        {
-          "surface": "revised",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "revising",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rɪˈvaɪz]",
-      "memory": [
-        "词根记忆：re（一再)+vis（看）+e→一看再看→温习，复习"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "温习，复习；改变；修改，修订"
-        }
-      ]
+      "ctx": "温习"
     },
     {
       "word": "cross",
-      "lemma": "cross",
-      "kind": "word",
       "type": "outline",
-      "ctx": "十字形记号",
-      "forms": [
-        {
-          "surface": "crosses",
-          "tag": "plural"
-        },
-        {
-          "surface": "crosses",
-          "tag": "third_person"
-        },
-        {
-          "surface": "crossed",
-          "tag": "past"
-        },
-        {
-          "surface": "crossed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "crossing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[krɒs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "十字形记号；十字架",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "cross out画掉，删掉"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "越过，穿过；使交叉；画横线于"
-        }
-      ]
+      "ctx": "十字形记号"
     },
     {
       "word": "blank",
-      "lemma": "blank",
-      "kind": "word",
       "type": "outline",
-      "ctx": "空的",
-      "forms": [],
-      "phonetic": "[blæŋk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "空的；茫然的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a blank tape一盒空白磁带"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "空格；空白；空白处"
-        }
-      ]
+      "ctx": "空的"
     },
     {
       "word": "eraser",
-      "lemma": "eraser",
-      "kind": "word",
       "type": "outline",
-      "ctx": "橡皮",
-      "forms": [],
-      "phonetic": "[ɪˈreɪzə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "橡皮"
-        }
-      ]
+      "ctx": "橡皮"
     },
     {
       "word": "glue",
-      "lemma": "glue",
-      "kind": "word",
       "type": "outline",
-      "ctx": "胶",
-      "forms": [],
-      "phonetic": "[ɡluː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "胶；胶水"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "粘合，粘贴"
-        }
-      ]
+      "ctx": "胶"
     },
     {
       "word": "tape",
-      "lemma": "tape",
-      "kind": "word",
       "type": "outline",
-      "ctx": "胶带",
-      "forms": [],
-      "phonetic": "[teɪp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "胶带；磁带；录像带；带子",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "disk*（ n. 磁盘）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "胶带"
     },
     {
       "word": "tailor",
-      "lemma": "tailor",
-      "kind": "word",
       "type": "outline",
-      "ctx": "裁缝",
-      "forms": [],
-      "phonetic": "[ˈteɪlə(r)]",
-      "memory": [
-        "联想记忆：裁缝（tailor）给水手（sailor）做新制服"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "裁缝"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "订做"
-        }
-      ]
+      "ctx": "裁缝"
     },
     {
       "word": "messy",
-      "lemma": "messy",
-      "kind": "word",
       "type": "core",
-      "ctx": "肮脏的，凌乱的",
-      "forms": [],
-      "phonetic": "[ˈmesi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "肮脏的，凌乱的；混乱的"
-        }
-      ]
+      "ctx": "肮脏的，凌乱的"
     },
     {
       "word": "anymore",
-      "lemma": "anymore",
-      "kind": "word",
       "type": "core",
-      "ctx": "再也（不），（不）再",
-      "forms": [],
-      "phonetic": "[ˌeniˈmɔː(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "再也（不），（不）再"
-        }
-      ]
+      "ctx": "再也（不），（不）再"
     },
     {
       "word": "enter",
-      "lemma": "enter",
-      "kind": "word",
       "type": "outline",
-      "ctx": "进入",
-      "forms": [
-        {
-          "surface": "enters",
-          "tag": "third_person"
-        },
-        {
-          "surface": "entered",
-          "tag": "past"
-        },
-        {
-          "surface": "entered",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "entering",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈentə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "进入；登记；输入"
-        }
-      ]
+      "ctx": "进入"
     },
     {
       "word": "processor",
-      "lemma": "processor",
-      "kind": "word",
       "type": "core",
-      "ctx": "加工机（或工人）",
-      "forms": [],
-      "phonetic": "[ˈprəʊsesə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "加工机（或工人）；处理器"
-        }
-      ]
+      "ctx": "加工机（或工人）"
     },
     {
       "word": "invite",
-      "lemma": "invite",
-      "kind": "word",
       "type": "outline",
-      "ctx": "邀请",
-      "forms": [
-        {
-          "surface": "invites",
-          "tag": "third_person"
-        },
-        {
-          "surface": "invited",
-          "tag": "past"
-        },
-        {
-          "surface": "invited",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "inviting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪnˈvaɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "邀请；招致"
-        }
-      ]
+      "ctx": "邀请"
     },
     {
       "word": "weigh",
-      "lemma": "weigh",
-      "kind": "word",
       "type": "outline",
-      "ctx": "称重量",
-      "forms": [
-        {
-          "surface": "weighs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "weighed",
-          "tag": "past"
-        },
-        {
-          "surface": "weighed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "weighing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[weɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "称重量；有……重，重；认真考虑，斟酌"
-        }
-      ]
+      "ctx": "称重量"
     }
   ]
 }

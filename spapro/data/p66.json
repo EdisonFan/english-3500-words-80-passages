@@ -39,1138 +39,223 @@
   "vocab": [
     {
       "word": "Chinese",
-      "lemma": "Chinese",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "中国人",
-      "forms": [],
-      "phonetic": "[ˌtʃaɪˈniːz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "中国人；汉语"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "中国的"
-        }
-      ]
+      "ctx": "中国人"
     },
     {
       "word": "hometown",
-      "lemma": "hometown",
-      "kind": "word",
       "type": "outline",
-      "ctx": "家乡",
-      "forms": [],
-      "phonetic": "[ˈhəʊmtaʊn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "家乡"
-        }
-      ]
+      "ctx": "家乡"
     },
     {
       "word": "brilliant",
-      "lemma": "brilliant",
-      "kind": "word",
       "type": "outline",
-      "ctx": "绝妙的",
-      "forms": [],
-      "phonetic": "[ˈbrɪliənt]",
-      "memory": [
-        "词根记忆：brilli（发光）+ant（……的）→发光的→鲜艳的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "绝妙的；杰出的；很成功的；技艺高的；鲜艳的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a brilliant color一抹亮丽的色彩a brilliant scientist一位才华横溢的科学家"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "绝妙的"
     },
     {
       "word": "playwright",
-      "lemma": "playwright",
-      "kind": "word",
       "type": "core",
-      "ctx": "剧作家",
-      "forms": [
-        {
-          "surface": "playwrights",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈpleɪraɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "剧作家"
-        }
-      ]
+      "ctx": "剧作家"
     },
     {
       "word": "contemporary",
-      "lemma": "contemporary",
-      "kind": "word",
       "type": "outline",
-      "ctx": "当代的",
-      "forms": [
-        {
-          "surface": "contemporaries",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[kənˈtemprəri]",
-      "memory": [
-        "词根记忆：con（共同）+tempor（时间）+ary（……的）→同一时代的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "当代的；同一时代的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "同代人，同龄人"
-        }
-      ]
+      "ctx": "当代的"
     },
     {
       "word": "dynasty",
-      "lemma": "dynasty",
-      "kind": "word",
       "type": "outline",
-      "ctx": "朝代，王朝",
-      "forms": [],
-      "phonetic": "[ˈdɪnəsti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "朝代，王朝；朝，代"
-        }
-      ]
+      "ctx": "朝代，王朝"
     },
     {
       "word": "England",
-      "lemma": "England",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "英格兰，英国",
-      "forms": [],
-      "phonetic": "[ˈɪŋɡlənd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "英格兰，英国",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "UK*（ n. 英国）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "英格兰，英国"
     },
     {
       "word": "meet",
-      "lemma": "meet",
-      "kind": "word",
       "type": "outline",
-      "ctx": "遇见，相逢",
-      "forms": [
-        {
-          "surface": "meets",
-          "tag": "third_person"
-        },
-        {
-          "surface": "met",
-          "tag": "past"
-        },
-        {
-          "surface": "met",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "meeting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[miːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "遇见，相逢；开会；满足"
-        },
-        {
-          "pos": "n.",
-          "meaning": "运动会"
-        }
-      ]
+      "ctx": "遇见，相逢"
     },
     {
       "word": "theme",
-      "lemma": "theme",
-      "kind": "word",
       "type": "outline",
-      "ctx": "主题",
-      "forms": [
-        {
-          "surface": "themes",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[θiːm]",
-      "memory": [
-        "联想记忆：the+me→就是我→我就是主题→主题"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "主题"
-        }
-      ]
+      "ctx": "主题"
     },
     {
       "word": "fantastic",
-      "lemma": "fantastic",
-      "kind": "word",
       "type": "outline",
-      "ctx": "极好的，了不起的",
-      "forms": [],
-      "phonetic": "[fænˈtæstɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "极好的，了不起的；很大的；怪诞的"
-        }
-      ]
+      "ctx": "极好的，了不起的"
     },
     {
       "word": "birthplace",
-      "lemma": "birthplace",
-      "kind": "word",
       "type": "core",
-      "ctx": "出生地",
-      "forms": [],
-      "phonetic": "[ˈbɜːθpleɪs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "出生地；发源地"
-        }
-      ]
+      "ctx": "出生地"
     },
     {
       "word": "trust",
-      "lemma": "trust",
-      "kind": "word",
       "type": "outline",
-      "ctx": "相信，信任",
-      "forms": [
-        {
-          "surface": "trusts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "trusted",
-          "tag": "past"
-        },
-        {
-          "surface": "trusted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "trusting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[trʌst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "相信，信任"
-        },
-        {
-          "pos": "n.",
-          "meaning": "信赖，信任；委托，信托"
-        }
-      ]
+      "ctx": "相信，信任"
     },
     {
       "word": "concern",
-      "lemma": "concern",
-      "kind": "word",
       "type": "outline",
-      "ctx": "担心，忧虑",
-      "forms": [
-        {
-          "surface": "concerns",
-          "tag": "plural"
-        },
-        {
-          "surface": "concerns",
-          "tag": "third_person"
-        },
-        {
-          "surface": "concerned",
-          "tag": "past"
-        },
-        {
-          "surface": "concerned",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "concerning",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kənˈsɜːn]",
-      "memory": [
-        "词根记忆：con（表加强）+cern（搞清）→一定要搞清楚→担心"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "担心，忧虑；关爱",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "be concerned with...与……有关，涉及"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "涉及；使担心"
-        }
-      ]
+      "ctx": "担心，忧虑"
     },
     {
       "word": "happen",
-      "lemma": "happen",
-      "kind": "word",
       "type": "outline",
-      "ctx": "发生，出现",
-      "forms": [
-        {
-          "surface": "happens",
-          "tag": "third_person"
-        },
-        {
-          "surface": "happened",
-          "tag": "past"
-        },
-        {
-          "surface": "happened",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "happening",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈhæpən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "发生，出现；碰巧，恰好",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "anything can/might happen什么事都可能发生as it happens/happened碰巧的是，恰好"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "发生，出现"
     },
     {
       "word": "play",
-      "lemma": "play",
-      "kind": "word",
       "type": "outline",
-      "ctx": "玩耍，游戏",
-      "forms": [
-        {
-          "surface": "plays",
-          "tag": "third_person"
-        },
-        {
-          "surface": "played",
-          "tag": "past"
-        },
-        {
-          "surface": "played",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "playing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[pleɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "玩耍，游戏；参加比赛；（为玩耍）假扮；播放；扮演"
-        },
-        {
-          "pos": "n.",
-          "meaning": "玩耍；戏剧，剧本；比赛"
-        }
-      ]
+      "ctx": "玩耍，游戏"
     },
     {
       "word": "pavilion",
-      "lemma": "pavilion",
-      "kind": "word",
       "type": "core",
-      "ctx": "临时建筑物",
-      "forms": [],
-      "phonetic": "[pəˈvɪliən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "临时建筑物；看台；大型文体馆；（公园中的）亭，阁"
-        }
-      ]
+      "ctx": "临时建筑物"
     },
     {
       "word": "dramatic",
-      "lemma": "dramatic",
-      "kind": "word",
       "type": "outline",
-      "ctx": "激动人心的",
-      "forms": [],
-      "phonetic": "[drəˈmætɪk]",
-      "memory": [
-        "词根记忆：drama（戏剧）+tic（有……性质的）→戏剧性的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "激动人心的；突然的；巨大的；戏剧的；戏剧性的",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "There has been a dramatic rise in the number of extreme weather events over the past 20 years.过去20年来，极端天气事件的数量激增。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "激动人心的"
     },
     {
       "word": "theater",
-      "lemma": "theater",
-      "kind": "word",
       "type": "outline",
-      "ctx": "戏院，剧场",
-      "forms": [],
-      "phonetic": "[ˈθɪətə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "戏院，剧场；戏剧"
-        }
-      ]
+      "ctx": "戏院，剧场"
     },
     {
       "word": "impress",
-      "lemma": "impress",
-      "kind": "word",
       "type": "outline",
-      "ctx": "给（人）好的印象，使钦佩",
-      "forms": [
-        {
-          "surface": "impresses",
-          "tag": "third_person"
-        },
-        {
-          "surface": "impressed",
-          "tag": "past"
-        },
-        {
-          "surface": "impressed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "impressing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪmˈpres]",
-      "memory": [
-        "词根记忆：im（使……）+press（压）→压进脑子里→使铭记"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "给（人）好的印象，使钦佩；使铭记"
-        }
-      ]
+      "ctx": "给（人）好的印象，使钦佩"
     },
     {
       "word": "audience",
-      "lemma": "audience",
-      "kind": "word",
       "type": "outline",
-      "ctx": "观众，听众",
-      "forms": [
-        {
-          "surface": "audiences",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈɔːdiəns]",
-      "memory": [
-        "词根记忆：audi（听）+ence→听的人→观众，听众"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "观众，听众"
-        }
-      ]
+      "ctx": "观众，听众"
     },
     {
       "word": "globe",
-      "lemma": "globe",
-      "kind": "word",
       "type": "outline",
-      "ctx": "地球，全球，世界",
-      "forms": [],
-      "phonetic": "[ɡləʊb]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "地球，全球，世界；地球仪；球体"
-        }
-      ]
+      "ctx": "地球，全球，世界"
     },
     {
       "word": "statue",
-      "lemma": "statue",
-      "kind": "word",
       "type": "outline",
-      "ctx": "雕像，塑像",
-      "forms": [],
-      "phonetic": "[ˈstætʃuː]",
-      "memory": [
-        "词根记忆：stat（站）+ue→站着的雕像→雕像"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "雕像，塑像",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "the Statue of Liberty（美国纽约港的）自由女神像"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "雕像，塑像"
     },
     {
       "word": "honor",
-      "lemma": "honor",
-      "kind": "word",
       "type": "outline",
-      "ctx": "尊敬",
-      "forms": [
-        {
-          "surface": "honors",
-          "tag": "third_person"
-        },
-        {
-          "surface": "honored",
-          "tag": "past"
-        },
-        {
-          "surface": "honored",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "honoring",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈɒnə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "尊敬；给……以荣誉",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "have the honor of (doing) sth.得到某殊荣，有幸做某事"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "尊重；荣幸，幸运；荣誉，名誉"
-        }
-      ]
+      "ctx": "尊敬"
     },
     {
       "word": "appreciation",
-      "lemma": "appreciation",
-      "kind": "word",
       "type": "core",
-      "ctx": "欣赏",
-      "forms": [],
-      "phonetic": "[əˌpriːʃiˈeɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "欣赏；感激"
-        }
-      ]
+      "ctx": "欣赏"
     },
     {
       "word": "tourist",
-      "lemma": "tourist",
-      "kind": "word",
       "type": "outline",
-      "ctx": "旅游者，游客",
-      "forms": [
-        {
-          "surface": "tourists",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈtʊərɪst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "旅游者，游客",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "passenger*（ n. 乘客，旅客）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "旅游者，游客"
     },
     {
       "word": "venue",
-      "lemma": "venue",
-      "kind": "word",
       "type": "outline",
-      "ctx": "聚会地点（如音乐厅、体育比赛场馆、会场）",
-      "forms": [],
-      "phonetic": "[ˈvenjuː]",
-      "memory": [
-        "词根记忆：ven（来）+ue→大家都来的地方→聚会地点"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "聚会地点（如音乐厅、体育比赛场馆、会场）"
-        }
-      ]
+      "ctx": "聚会地点（如音乐厅、体育比赛场馆、会场）"
     },
     {
       "word": "town",
-      "lemma": "town",
-      "kind": "word",
       "type": "outline",
-      "ctx": "镇，市镇",
-      "forms": [],
-      "phonetic": "[taʊn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "镇，市镇；城镇；（城镇的）商业区"
-        }
-      ]
+      "ctx": "镇，市镇"
     },
     {
       "word": "visibility",
-      "lemma": "visibility",
-      "kind": "word",
       "type": "core",
-      "ctx": "可见度，可见性",
-      "forms": [],
-      "phonetic": "[ˌvɪzəˈbɪləti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "可见度，可见性"
-        }
-      ]
+      "ctx": "可见度，可见性"
     },
     {
       "word": "nearby",
-      "lemma": "nearby",
-      "kind": "word",
       "type": "outline",
-      "ctx": "附近的",
-      "forms": [],
-      "phonetic": "[ˌnɪəˈbaɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "附近的"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "在附近"
-        }
-      ]
+      "ctx": "附近的"
     },
     {
       "word": "gallery",
-      "lemma": "gallery",
-      "kind": "word",
       "type": "outline",
-      "ctx": "画廊，美术品陈列室",
-      "forms": [
-        {
-          "surface": "galleries",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈɡæləri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "画廊，美术品陈列室"
-        }
-      ]
+      "ctx": "画廊，美术品陈列室"
     },
     {
       "word": "display",
-      "lemma": "display",
-      "kind": "word",
       "type": "outline",
-      "ctx": "展示，陈列",
-      "forms": [
-        {
-          "surface": "displays",
-          "tag": "third_person"
-        },
-        {
-          "surface": "displayed",
-          "tag": "past"
-        },
-        {
-          "surface": "displayed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "displaying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɪˈspleɪ]",
-      "memory": [
-        "联想记忆：dis（分开）+play（表演）→分别表演→展示；表演"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "展示，陈列；显露，表现",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Often, only a small part of a museum's collection is on display .通常，博物馆的藏品只有一小部分展出。"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "展览，陈列；表演"
-        }
-      ]
+      "ctx": "展示，陈列"
     },
     {
       "word": "visitor",
-      "lemma": "visitor",
-      "kind": "word",
       "type": "outline",
-      "ctx": "访问者，参观者，游客",
-      "forms": [
-        {
-          "surface": "visitors",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈvɪzɪtə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "访问者，参观者，游客"
-        }
-      ]
+      "ctx": "访问者，参观者，游客"
     },
     {
       "word": "recall",
-      "lemma": "recall",
-      "kind": "word",
       "type": "outline",
-      "ctx": "回忆起，记起",
-      "forms": [
-        {
-          "surface": "recalls",
-          "tag": "third_person"
-        },
-        {
-          "surface": "recalled",
-          "tag": "past"
-        },
-        {
-          "surface": "recalled",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "recalling",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rɪˈkɔːl]",
-      "memory": [
-        "联想记忆：re（重新）+call（叫）→回忆起"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "回忆起，记起；召回，收回"
-        }
-      ]
+      "ctx": "回忆起，记起"
     },
     {
       "word": "opera",
-      "lemma": "opera",
-      "kind": "word",
       "type": "outline",
-      "ctx": "歌剧",
-      "forms": [],
-      "phonetic": "[ˈɒprə]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "歌剧；歌剧院"
-        }
-      ]
+      "ctx": "歌剧"
     },
     {
       "word": "actor",
-      "lemma": "actor",
-      "kind": "word",
       "type": "outline",
-      "ctx": "演员",
-      "forms": [
-        {
-          "surface": "actors",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈæktə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "演员"
-        }
-      ]
+      "ctx": "演员"
     },
     {
       "word": "actress",
-      "lemma": "actress",
-      "kind": "word",
       "type": "outline",
-      "ctx": "女演员",
-      "forms": [
-        {
-          "surface": "actresses",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈæktrəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "女演员"
-        }
-      ]
+      "ctx": "女演员"
     },
     {
       "word": "exciting",
-      "lemma": "exciting",
-      "kind": "word",
       "type": "outline",
-      "ctx": "令人激动的，使人兴奋的",
-      "forms": [],
-      "phonetic": "[ɪkˈsaɪtɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "令人激动的，使人兴奋的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "excited*（ adj. 兴奋的，激动的）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "令人激动的，使人兴奋的"
     },
     {
       "word": "arrangement",
-      "lemma": "arrangement",
-      "kind": "word",
       "type": "outline",
-      "ctx": "安排",
-      "forms": [
-        {
-          "surface": "arrangements",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[əˈreɪndʒmənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "安排；整理，布置"
-        }
-      ]
+      "ctx": "安排"
     },
     {
       "word": "highlight",
-      "lemma": "highlight",
-      "kind": "word",
       "type": "outline",
-      "ctx": "最精彩的部分",
-      "forms": [
-        {
-          "surface": "highlights",
-          "tag": "plural"
-        },
-        {
-          "surface": "highlights",
-          "tag": "third_person"
-        },
-        {
-          "surface": "highlighted",
-          "tag": "past"
-        },
-        {
-          "surface": "highlighted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "highlighting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈhaɪlaɪt]",
-      "memory": [
-        "合成词：high（高的）+light（明亮的）→高亮的部分→最精彩的部分"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "最精彩的部分"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "突出，强调"
-        }
-      ]
+      "ctx": "最精彩的部分"
     },
     {
       "word": "mutual",
-      "lemma": "mutual",
-      "kind": "word",
       "type": "core",
-      "ctx": "相互的，彼此的",
-      "forms": [],
-      "phonetic": "[ˈmjuːtʃuəl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "相互的，彼此的；共同的"
-        }
-      ]
+      "ctx": "相互的，彼此的"
     },
     {
       "word": "enhance",
-      "lemma": "enhance",
-      "kind": "word",
       "type": "outline",
-      "ctx": "增强，提高",
-      "forms": [
-        {
-          "surface": "enhances",
-          "tag": "third_person"
-        },
-        {
-          "surface": "enhanced",
-          "tag": "past"
-        },
-        {
-          "surface": "enhanced",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "enhancing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪnˈhɑːns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "增强，提高",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "enhance one's reputation提高声誉"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "增强，提高"
     },
     {
       "word": "harmonious",
-      "lemma": "harmonious",
-      "kind": "word",
       "type": "outline",
-      "ctx": "和谐的，和睦的",
-      "forms": [],
-      "phonetic": "[hɑːˈməʊniəs]",
-      "memory": [
-        "来自harmony（ n. 和谐；和睦）"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "和谐的，和睦的"
-        }
-      ]
+      "ctx": "和谐的，和睦的"
     },
     {
       "word": "cooperate",
-      "lemma": "cooperate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "合作，协作",
-      "forms": [
-        {
-          "surface": "cooperates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "cooperated",
-          "tag": "past"
-        },
-        {
-          "surface": "cooperated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "cooperating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kəʊˈɒpəreɪt]",
-      "memory": [
-        "词根记忆：co（共同）+oper（工作）+ate（做）→一起工作→合作，协作"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "合作，协作；配合"
-        }
-      ]
+      "ctx": "合作，协作"
     },
     {
       "word": "expansion",
-      "lemma": "expansion",
-      "kind": "word",
       "type": "outline",
-      "ctx": "扩张，扩展，扩大，发展",
-      "forms": [],
-      "phonetic": "[ɪkˈspænʃn]",
-      "memory": [
-        "来自expand（ v. 扩大；发展）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "扩张，扩展，扩大，发展"
-        }
-      ]
+      "ctx": "扩张，扩展，扩大，发展"
     }
   ]
 }

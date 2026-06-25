@@ -29,1359 +29,278 @@
   "vocab": [
     {
       "word": "originally",
-      "lemma": "originally",
-      "kind": "word",
       "type": "core",
-      "ctx": "原来，起初",
-      "forms": [],
-      "phonetic": "[əˈrɪdʒənəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "原来，起初"
-        }
-      ]
+      "ctx": "原来，起初"
     },
     {
       "word": "forever",
-      "lemma": "forever",
-      "kind": "word",
       "type": "outline",
-      "ctx": "永远地，永恒地",
-      "forms": [],
-      "phonetic": "[fərˈevə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "永远地，永恒地"
-        }
-      ]
+      "ctx": "永远地，永恒地"
     },
     {
       "word": "nursery",
-      "lemma": "nursery",
-      "kind": "word",
       "type": "core",
-      "ctx": "托儿所",
-      "forms": [],
-      "phonetic": "[ˈnɜːsəri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "托儿所"
-        }
-      ]
+      "ctx": "托儿所"
     },
     {
       "word": "sugary",
-      "lemma": "sugary",
-      "kind": "word",
       "type": "core",
-      "ctx": "含糖的，甜的",
-      "forms": [],
-      "phonetic": "[ˈʃʊɡəri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "含糖的，甜的"
-        }
-      ]
+      "ctx": "含糖的，甜的"
     },
     {
       "word": "deliver",
-      "lemma": "deliver",
-      "kind": "word",
       "type": "outline",
-      "ctx": "递送，传送",
-      "forms": [
-        {
-          "surface": "delivers",
-          "tag": "third_person"
-        },
-        {
-          "surface": "delivered",
-          "tag": "past"
-        },
-        {
-          "surface": "delivered",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "delivering",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɪˈlɪvə(r)]",
-      "memory": [
-        "词根记忆：de（向下）+liver（释放）→向下放→递送"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "递送，传送；交付，移交；发表，宣布",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "deliver...to sb.把……交给某人"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "递送，传送"
     },
     {
       "word": "exit",
-      "lemma": "exit",
-      "kind": "word",
       "type": "outline",
-      "ctx": "出口",
-      "forms": [
-        {
-          "surface": "exits",
-          "tag": "plural"
-        },
-        {
-          "surface": "exits",
-          "tag": "third_person"
-        },
-        {
-          "surface": "exited",
-          "tag": "past"
-        },
-        {
-          "surface": "exited",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "exiting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈeksɪt]",
-      "memory": [
-        "词根记忆：ex（向外）+it（走）→出去，离开"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "出口"
-        },
-        {
-          "pos": "v.",
-          "meaning": "出去，离开"
-        }
-      ]
+      "ctx": "出口"
     },
     {
       "word": "fold",
-      "lemma": "fold",
-      "kind": "word",
       "type": "outline",
-      "ctx": "折叠",
-      "forms": [
-        {
-          "surface": "folds",
-          "tag": "third_person"
-        },
-        {
-          "surface": "folded",
-          "tag": "past"
-        },
-        {
-          "surface": "folded",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "folding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[fəʊld]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "折叠；包，裹；屈服，抵挡不住",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "fold up折叠起来"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "折叠"
     },
     {
       "word": "resistance",
-      "lemma": "resistance",
-      "kind": "word",
       "type": "outline",
-      "ctx": "反抗，抵制",
-      "forms": [],
-      "phonetic": "[rɪˈzɪstəns]",
-      "memory": [
-        "词根记忆：re（反）+sist（站）+ance（表名词）→站在对面→反抗"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "反抗，抵制；抵抗力"
-        }
-      ]
+      "ctx": "反抗，抵制"
     },
     {
       "word": "inquire",
-      "lemma": "inquire",
-      "kind": "word",
       "type": "outline",
-      "ctx": "询问",
-      "forms": [
-        {
-          "surface": "inquires",
-          "tag": "third_person"
-        },
-        {
-          "surface": "inquired",
-          "tag": "past"
-        },
-        {
-          "surface": "inquired",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "inquiring",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪnˈkwaɪə(r)]",
-      "memory": [
-        "词根记忆：in（向内）+quir（问询，寻求）+e→询问"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（=enquire）询问"
-        }
-      ]
+      "ctx": "询问"
     },
     {
       "word": "postpone",
-      "lemma": "postpone",
-      "kind": "word",
       "type": "outline",
-      "ctx": "推迟，延期",
-      "forms": [
-        {
-          "surface": "postpones",
-          "tag": "third_person"
-        },
-        {
-          "surface": "postponed",
-          "tag": "past"
-        },
-        {
-          "surface": "postponed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "postponing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[pəˈspəʊn]",
-      "memory": [
-        "词根记忆：post（后）+pone（放）→向后放→推迟，延期"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "推迟，延期"
-        }
-      ]
+      "ctx": "推迟，延期"
     },
     {
       "word": "version",
-      "lemma": "version",
-      "kind": "word",
       "type": "outline",
-      "ctx": "变体",
-      "forms": [],
-      "phonetic": "[ˈvɜːʃn]",
-      "memory": [
-        "词根记忆：vers（转）+ion→变体"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "变体；版本"
-        }
-      ]
+      "ctx": "变体"
     },
     {
       "word": "tablet",
-      "lemma": "tablet",
-      "kind": "word",
       "type": "outline",
-      "ctx": "药片",
-      "forms": [
-        {
-          "surface": "tablets",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈtæblət]",
-      "memory": [
-        "联想记忆：药片（tablet）就放在桌子（table）上"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "药片；牌，碑；平板电脑"
-        }
-      ]
+      "ctx": "药片"
     },
     {
       "word": "delivery",
-      "lemma": "delivery",
-      "kind": "word",
       "type": "core",
-      "ctx": "传送，递送",
-      "forms": [],
-      "phonetic": "[dɪˈlɪvəri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "传送，递送；分娩；演讲方式"
-        }
-      ]
+      "ctx": "传送，递送"
     },
     {
       "word": "preschooler",
-      "lemma": "preschooler",
-      "kind": "word",
       "type": "core",
-      "ctx": "学龄前儿童",
-      "forms": [
-        {
-          "surface": "preschoolers",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈpriːˌskuːlər]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "学龄前儿童"
-        }
-      ]
+      "ctx": "学龄前儿童"
     },
     {
       "word": "wrestle",
-      "lemma": "wrestle",
-      "kind": "word",
       "type": "outline",
-      "ctx": "摔跤",
-      "forms": [
-        {
-          "surface": "wrestles",
-          "tag": "third_person"
-        },
-        {
-          "surface": "wrestled",
-          "tag": "past"
-        },
-        {
-          "surface": "wrestled",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "wrestling",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈresl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "摔跤；全力解决"
-        }
-      ]
+      "ctx": "摔跤"
     },
     {
       "word": "flavor",
-      "lemma": "flavor",
-      "kind": "word",
       "type": "outline",
-      "ctx": "味道",
-      "forms": [
-        {
-          "surface": "flavors",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈfleɪvə(r)]",
-      "memory": [
-        "联想记忆：我最喜爱（favor）这种食物的味道（flavor）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "味道；特点，特色"
-        }
-      ]
+      "ctx": "味道"
     },
     {
       "word": "apple",
-      "lemma": "apple",
-      "kind": "word",
       "type": "outline",
-      "ctx": "苹果",
-      "forms": [
-        {
-          "surface": "apples",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈæpl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "苹果"
-        }
-      ]
+      "ctx": "苹果"
     },
     {
       "word": "grape",
-      "lemma": "grape",
-      "kind": "word",
       "type": "outline",
-      "ctx": "葡萄",
-      "forms": [
-        {
-          "surface": "grapes",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ɡreɪp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "葡萄"
-        }
-      ]
+      "ctx": "葡萄"
     },
     {
       "word": "poison",
-      "lemma": "poison",
-      "kind": "word",
       "type": "outline",
-      "ctx": "毒药",
-      "forms": [
-        {
-          "surface": "poisons",
-          "tag": "third_person"
-        },
-        {
-          "surface": "poisoned",
-          "tag": "past"
-        },
-        {
-          "surface": "poisoned",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "poisoning",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈpɔɪzn]",
-      "memory": [
-        "联想记忆：毒害（poison）别人，被送进监狱（prison）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "毒药"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "毒害，下毒"
-        }
-      ]
+      "ctx": "毒药"
     },
     {
       "word": "ancestor",
-      "lemma": "ancestor",
-      "kind": "word",
       "type": "outline",
-      "ctx": "祖宗，祖先",
-      "forms": [
-        {
-          "surface": "ancestors",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈænsestə(r)]",
-      "memory": [
-        "词根记忆：an（表加强）+cest（行走）+or（表人）→走了很久的人→祖宗，祖先"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "祖宗，祖先"
-        }
-      ]
+      "ctx": "祖宗，祖先"
     },
     {
       "word": "fat",
-      "lemma": "fat",
-      "kind": "word",
       "type": "outline",
-      "ctx": "肥胖的",
-      "forms": [
-        {
-          "surface": "Fats",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[fæt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "肥胖的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "脂肪，肥肉"
-        }
-      ]
+      "ctx": "肥胖的"
     },
     {
       "word": "death",
-      "lemma": "death",
-      "kind": "word",
       "type": "outline",
-      "ctx": "死，死亡",
-      "forms": [],
-      "phonetic": "[deθ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "死，死亡；破灭"
-        }
-      ]
+      "ctx": "死，死亡"
     },
     {
       "word": "mechanism",
-      "lemma": "mechanism",
-      "kind": "word",
       "type": "core",
-      "ctx": "机械装置",
-      "forms": [],
-      "phonetic": "[ˈmekənɪzəm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "机械装置；机制，方法"
-        }
-      ]
+      "ctx": "机械装置"
     },
     {
       "word": "reshape",
-      "lemma": "reshape",
-      "kind": "word",
       "type": "core",
-      "ctx": "改变",
-      "forms": [
-        {
-          "surface": "reshapes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "reshaped",
-          "tag": "past"
-        },
-        {
-          "surface": "reshaped",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "reshaping",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌriːˈʃeɪp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "改变；重塑"
-        }
-      ]
+      "ctx": "改变"
     },
     {
       "word": "dessert",
-      "lemma": "dessert",
-      "kind": "word",
       "type": "outline",
-      "ctx": "甜点",
-      "forms": [
-        {
-          "surface": "desserts",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[dɪˈzɜːt]",
-      "memory": [
-        "联想记忆：在沙漠（desert）中吃不到美味的甜点（dessert）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "甜点",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "pudding*（ n. 布丁；甜点）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "甜点"
     },
     {
       "word": "delicious",
-      "lemma": "delicious",
-      "kind": "word",
       "type": "outline",
-      "ctx": "美味的",
-      "forms": [],
-      "phonetic": "[dɪˈlɪʃəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "美味的"
-        }
-      ]
+      "ctx": "美味的"
     },
     {
       "word": "lamb",
-      "lemma": "lamb",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[C]羔羊",
-      "forms": [
-        {
-          "surface": "lambs",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[læm]",
-      "memory": [
-        "联想记忆：烤箱的灯（lamp）灭了，羔羊肉（lamb）烤好了"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[C]羔羊；[U]羔羊肉"
-        }
-      ]
+      "ctx": "[C]羔羊"
     },
     {
       "word": "dramatically",
-      "lemma": "dramatically",
-      "kind": "word",
       "type": "core",
-      "ctx": "戏剧性地",
-      "forms": [],
-      "phonetic": "[drəˈmætɪkli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "ad.",
-          "meaning": "戏剧性地；显著地"
-        }
-      ]
+      "ctx": "戏剧性地"
     },
     {
       "word": "cost",
-      "lemma": "cost",
-      "kind": "word",
       "type": "outline",
-      "ctx": "成本",
-      "forms": [
-        {
-          "surface": "costs",
-          "tag": "plural"
-        },
-        {
-          "surface": "costs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "cost",
-          "tag": "past"
-        },
-        {
-          "surface": "cost",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "costing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kɒst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "成本；费用；代价"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "价钱为；使丧失；使付出（代价）"
-        }
-      ]
+      "ctx": "成本"
     },
     {
       "word": "involved",
-      "lemma": "involved",
-      "kind": "word",
       "type": "core",
-      "ctx": "参与的，涉及的",
-      "forms": [],
-      "phonetic": "[ɪnˈvɒlvd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "参与的，涉及的；专心于……的"
-        }
-      ]
+      "ctx": "参与的，涉及的"
     },
     {
       "word": "thousand",
-      "lemma": "thousand",
-      "kind": "word",
       "type": "outline",
-      "ctx": "一千，一千个",
-      "forms": [
-        {
-          "surface": "thousands",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈθaʊznd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "num.",
-          "meaning": "一千，一千个"
-        }
-      ]
+      "ctx": "一千，一千个"
     },
     {
       "word": "mismatch",
-      "lemma": "mismatch",
-      "kind": "word",
       "type": "core",
-      "ctx": "错配，搭配不当",
-      "forms": [],
-      "phonetic": "[ˌmɪsˈmætʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "错配，搭配不当"
-        }
-      ]
+      "ctx": "错配，搭配不当"
     },
     {
       "word": "resist",
-      "lemma": "resist",
-      "kind": "word",
       "type": "core",
-      "ctx": "抵制",
-      "forms": [
-        {
-          "surface": "resists",
-          "tag": "third_person"
-        },
-        {
-          "surface": "resisted",
-          "tag": "past"
-        },
-        {
-          "surface": "resisted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "resisting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rɪˈzɪst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "抵制；反抗；忍住"
-        }
-      ]
+      "ctx": "抵制"
     },
     {
       "word": "tempting",
-      "lemma": "tempting",
-      "kind": "word",
       "type": "core",
-      "ctx": "吸引人的，诱人的",
-      "forms": [],
-      "phonetic": "[ˈtemptɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "吸引人的，诱人的"
-        }
-      ]
+      "ctx": "吸引人的，诱人的"
     },
     {
       "word": "formative",
-      "lemma": "formative",
-      "kind": "word",
       "type": "core",
-      "ctx": "有持续重大影响的，形成的（时期、经历）",
-      "forms": [],
-      "phonetic": "[ˈfɔːmətɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "有持续重大影响的，形成的（时期、经历）"
-        }
-      ]
+      "ctx": "有持续重大影响的，形成的（时期、经历）"
     },
     {
       "word": "environment",
-      "lemma": "environment",
-      "kind": "word",
       "type": "outline",
-      "ctx": "环境",
-      "forms": [],
-      "phonetic": "[ɪnˈvaɪrənmənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "环境"
-        }
-      ]
+      "ctx": "环境"
     },
     {
       "word": "species",
-      "lemma": "species",
-      "kind": "word",
       "type": "outline",
-      "ctx": "种，物种",
-      "forms": [],
-      "phonetic": "[ˈspiːʃiːz]",
-      "memory": [
-        "词根记忆：speci（种类）+es→物种"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "种，物种",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "endangered species濒危物种"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "种，物种"
     },
     {
       "word": "prize",
-      "lemma": "prize",
-      "kind": "word",
       "type": "outline",
-      "ctx": "奖，奖赏",
-      "forms": [
-        {
-          "surface": "prizes",
-          "tag": "plural"
-        },
-        {
-          "surface": "prizes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "prized",
-          "tag": "past"
-        },
-        {
-          "surface": "prized",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "prizing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[praɪz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "奖，奖赏"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "珍视，高度重视"
-        }
-      ]
+      "ctx": "奖，奖赏"
     },
     {
       "word": "connectivity",
-      "lemma": "connectivity",
-      "kind": "word",
       "type": "core",
-      "ctx": "连接（度）",
-      "forms": [],
-      "phonetic": "[kəˌnekˈtɪvəti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "连接（度）"
-        }
-      ]
+      "ctx": "连接（度）"
     },
     {
       "word": "ceaselessly",
-      "lemma": "ceaselessly",
-      "kind": "word",
       "type": "core",
-      "ctx": "不停地，不断地",
-      "forms": [],
-      "phonetic": "[ˈsiːsləsli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "不停地，不断地"
-        }
-      ]
+      "ctx": "不停地，不断地"
     },
     {
       "word": "keyboard",
-      "lemma": "keyboard",
-      "kind": "word",
       "type": "outline",
-      "ctx": "键盘",
-      "forms": [],
-      "phonetic": "[ˈkiːbɔːd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "键盘"
-        }
-      ]
+      "ctx": "键盘"
     },
     {
       "word": "download",
-      "lemma": "download",
-      "kind": "word",
       "type": "outline",
-      "ctx": "下载",
-      "forms": [
-        {
-          "surface": "downloads",
-          "tag": "third_person"
-        },
-        {
-          "surface": "downloaded",
-          "tag": "past"
-        },
-        {
-          "surface": "downloaded",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "downloading",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌdaʊnˈləʊd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "下载"
-        },
-        {
-          "pos": "n.",
-          "meaning": "已下载的数据资料"
-        }
-      ]
+      "ctx": "下载"
     },
     {
       "word": "surf",
-      "lemma": "surf",
-      "kind": "word",
       "type": "outline",
-      "ctx": "冲浪",
-      "forms": [
-        {
-          "surface": "surfs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "surfed",
-          "tag": "past"
-        },
-        {
-          "surface": "surfed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "surfing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[sɜːf]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "冲浪"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "（互联网上）浏览"
-        }
-      ]
+      "ctx": "冲浪"
     },
     {
       "word": "subscribe",
-      "lemma": "subscribe",
-      "kind": "word",
       "type": "outline",
-      "ctx": "订阅",
-      "forms": [
-        {
-          "surface": "subscribes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "subscribed",
-          "tag": "past"
-        },
-        {
-          "surface": "subscribed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "subscribing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[səbˈskraɪb]",
-      "memory": [
-        "词根记忆：sub（下面）+scribe（写）→在下面写上名字→订阅"
-      ],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "订阅；定期（向慈善机构）捐款"
-        }
-      ]
+      "ctx": "订阅"
     },
     {
       "word": "mail",
-      "lemma": "mail",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U]邮政",
-      "forms": [
-        {
-          "surface": "mails",
-          "tag": "third_person"
-        },
-        {
-          "surface": "mailed",
-          "tag": "past"
-        },
-        {
-          "surface": "mailed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "mailing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[meɪl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]邮政；邮件，信件"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "邮寄；用电子邮件传送"
-        }
-      ]
+      "ctx": "[U]邮政"
     },
     {
       "word": "guard",
-      "lemma": "guard",
-      "kind": "word",
       "type": "outline",
-      "ctx": "保卫",
-      "forms": [
-        {
-          "surface": "guards",
-          "tag": "plural"
-        },
-        {
-          "surface": "guards",
-          "tag": "third_person"
-        },
-        {
-          "surface": "guarded",
-          "tag": "past"
-        },
-        {
-          "surface": "guarded",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "guarding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɡɑːd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "保卫；看守"
-        },
-        {
-          "pos": "n.",
-          "meaning": "[C]卫兵；[U]保护，看守"
-        }
-      ]
+      "ctx": "保卫"
     },
     {
       "word": "cloudy",
-      "lemma": "cloudy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "多云的，阴天的",
-      "forms": [],
-      "phonetic": "[ˈklaʊdi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "多云的，阴天的"
-        }
-      ]
+      "ctx": "多云的，阴天的"
     },
     {
       "word": "thoughtful",
-      "lemma": "thoughtful",
-      "kind": "word",
       "type": "core",
-      "ctx": "关切的，体贴的",
-      "forms": [],
-      "phonetic": "[ˈθɔːtfl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "关切的，体贴的；深思的"
-        }
-      ]
+      "ctx": "关切的，体贴的"
     },
     {
       "word": "caloric",
-      "lemma": "caloric",
-      "kind": "word",
       "type": "core",
-      "ctx": "热量的",
-      "forms": [],
-      "phonetic": "[kəˈlɒrɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "热量的"
-        }
-      ]
+      "ctx": "热量的"
     },
     {
       "word": "consumption",
-      "lemma": "consumption",
-      "kind": "word",
       "type": "outline",
-      "ctx": "消耗（量）",
-      "forms": [],
-      "phonetic": "[kənˈsʌmpʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "消耗（量）；消费"
-        }
-      ]
+      "ctx": "消耗（量）"
     },
     {
       "word": "swim",
-      "lemma": "swim",
-      "kind": "word",
       "type": "outline",
-      "ctx": "游泳，游",
-      "forms": [
-        {
-          "surface": "swims",
-          "tag": "third_person"
-        },
-        {
-          "surface": "swam",
-          "tag": "past"
-        },
-        {
-          "surface": "swum",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "swimming",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[swɪm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "游泳，游"
-        }
-      ]
+      "ctx": "游泳，游"
     },
     {
       "word": "soup",
-      "lemma": "soup",
-      "kind": "word",
       "type": "outline",
-      "ctx": "汤",
-      "forms": [],
-      "phonetic": "[suːp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "汤"
-        }
-      ]
+      "ctx": "汤"
     },
     {
       "word": "temptation",
-      "lemma": "temptation",
-      "kind": "word",
       "type": "core",
-      "ctx": "诱惑",
-      "forms": [],
-      "phonetic": "[tempˈteɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "诱惑；煽诱人的事物"
-        }
-      ]
+      "ctx": "诱惑"
     },
     {
       "word": "junk",
-      "lemma": "junk",
-      "kind": "word",
       "type": "core",
-      "ctx": "无用的东西，无价值的东西",
-      "forms": [
-        {
-          "surface": "junks",
-          "tag": "third_person"
-        },
-        {
-          "surface": "junked",
-          "tag": "past"
-        },
-        {
-          "surface": "junked",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "junking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dʒʌŋk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "无用的东西，无价值的东西；（=junk food）垃圾食品"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "丢弃，废弃"
-        }
-      ]
+      "ctx": "无用的东西，无价值的东西"
     },
     {
       "word": "effectively",
-      "lemma": "effectively",
-      "kind": "word",
       "type": "core",
-      "ctx": "有效地",
-      "forms": [],
-      "phonetic": "[ɪˈfektɪvli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "有效地；实际上"
-        }
-      ]
+      "ctx": "有效地"
     }
   ]
 }

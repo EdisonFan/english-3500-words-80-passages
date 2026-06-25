@@ -59,1438 +59,293 @@
   "vocab": [
     {
       "word": "riddle",
-      "lemma": "riddle",
-      "kind": "word",
       "type": "outline",
-      "ctx": "谜，谜语",
-      "forms": [],
-      "phonetic": "[ˈrɪdl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "谜，谜语；神秘事件，无法解释的情况"
-        }
-      ]
+      "ctx": "谜，谜语"
     },
     {
       "word": "traffic",
-      "lemma": "traffic",
-      "kind": "word",
       "type": "outline",
-      "ctx": "交通",
-      "forms": [],
-      "phonetic": "[ˈtræfɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "交通"
-        }
-      ]
+      "ctx": "交通"
     },
     {
       "word": "jam",
-      "lemma": "jam",
-      "kind": "word",
       "type": "outline",
-      "ctx": "堵塞",
-      "forms": [
-        {
-          "surface": "jams",
-          "tag": "plural"
-        },
-        {
-          "surface": "jams",
-          "tag": "third_person"
-        },
-        {
-          "surface": "jammed",
-          "tag": "past"
-        },
-        {
-          "surface": "jammed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "jamming",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dʒæm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "堵塞；塞入，塞进",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "traffic jam交通拥堵"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "阻塞；果酱"
-        }
-      ]
+      "ctx": "堵塞"
     },
     {
       "word": "line",
-      "lemma": "line",
-      "kind": "word",
       "type": "outline",
-      "ctx": "直线",
-      "forms": [
-        {
-          "surface": "lines",
-          "tag": "plural"
-        },
-        {
-          "surface": "lines",
-          "tag": "third_person"
-        },
-        {
-          "surface": "lined",
-          "tag": "past"
-        },
-        {
-          "surface": "lined",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "lining",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[laɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "直线；排；队列"
-        },
-        {
-          "pos": "v.",
-          "meaning": "（使）成行"
-        }
-      ]
+      "ctx": "直线"
     },
     {
       "word": "wait",
-      "lemma": "wait",
-      "kind": "word",
       "type": "outline",
-      "ctx": "等待",
-      "forms": [
-        {
-          "surface": "waits",
-          "tag": "third_person"
-        },
-        {
-          "surface": "waited",
-          "tag": "past"
-        },
-        {
-          "surface": "waited",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "waiting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[weɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "等待"
-        },
-        {
-          "pos": "n.",
-          "meaning": "等待，等候"
-        }
-      ]
+      "ctx": "等待"
     },
     {
       "word": "vacation",
-      "lemma": "vacation",
-      "kind": "word",
       "type": "outline",
-      "ctx": "假期，休假",
-      "forms": [],
-      "phonetic": "[vəˈkeɪʃn; veɪˈkeɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "假期，休假"
-        }
-      ]
+      "ctx": "假期，休假"
     },
     {
       "word": "common",
-      "lemma": "common",
-      "kind": "word",
       "type": "outline",
-      "ctx": "普通的",
-      "forms": [],
-      "phonetic": "[ˈkɒmən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "普通的；公共的；共有的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "have...in common有共同点common sense常识"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "普通的"
     },
     {
       "word": "situation",
-      "lemma": "situation",
-      "kind": "word",
       "type": "outline",
-      "ctx": "形势，情况",
-      "forms": [
-        {
-          "surface": "situations",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˌsɪtʃuˈeɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "形势，情况"
-        }
-      ]
+      "ctx": "形势，情况"
     },
     {
       "word": "extra",
-      "lemma": "extra",
-      "kind": "word",
       "type": "outline",
-      "ctx": "额外的，外加的，多加的",
-      "forms": [],
-      "phonetic": "[ˈekstrə]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "额外的，外加的，多加的"
-        }
-      ]
+      "ctx": "额外的，外加的，多加的"
     },
     {
       "word": "patience",
-      "lemma": "patience",
-      "kind": "word",
       "type": "outline",
-      "ctx": "耐心",
-      "forms": [],
-      "phonetic": "[ˈpeɪʃns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "耐心；毅力"
-        }
-      ]
+      "ctx": "耐心"
     },
     {
       "word": "digital",
-      "lemma": "digital",
-      "kind": "word",
       "type": "outline",
-      "ctx": "数字的，数码的",
-      "forms": [],
-      "phonetic": "[ˈdɪdʒɪtl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "数字的，数码的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "digital life数字生活"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "数字的，数码的"
     },
     {
       "word": "immediately",
-      "lemma": "immediately",
-      "kind": "word",
       "type": "outline",
-      "ctx": "立即",
-      "forms": [],
-      "phonetic": "[ɪˈmiːdiətli]",
-      "memory": [
-        "词根记忆：im（无）+medi（中间）+ate+ly（表副词）→没有间隔，十分迅速→立即"
-      ],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "立即"
-        }
-      ]
+      "ctx": "立即"
     },
     {
       "word": "fingertip",
-      "lemma": "fingertip",
-      "kind": "word",
       "type": "core",
-      "ctx": "指尖",
-      "forms": [
-        {
-          "surface": "fingertips",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈfɪŋɡətɪp]",
-      "memory": [
-        "合成词：finger（手指）+tip（尖端）→指尖"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "指尖"
-        }
-      ]
+      "ctx": "指尖"
     },
     {
       "word": "whole",
-      "lemma": "whole",
-      "kind": "word",
       "type": "outline",
-      "ctx": "全部的，所有的",
-      "forms": [],
-      "phonetic": "[həʊl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "全部的，所有的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a whole lot大量，许多"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "全部的，所有的"
     },
     {
       "word": "sculpture",
-      "lemma": "sculpture",
-      "kind": "word",
       "type": "outline",
-      "ctx": "雕像",
-      "forms": [],
-      "phonetic": "[ˈskʌlptʃə(r)]",
-      "memory": [
-        "词根记忆：sculpt（雕塑）+ure（表名词）→雕像；雕刻术"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "雕像；雕刻术"
-        }
-      ]
+      "ctx": "雕像"
     },
     {
       "word": "essence",
-      "lemma": "essence",
-      "kind": "word",
       "type": "core",
-      "ctx": "本质，精髓",
-      "forms": [],
-      "phonetic": "[ˈesns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "本质，精髓",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "in essence本质上，基本上"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "本质，精髓"
     },
     {
       "word": "trick",
-      "lemma": "trick",
-      "kind": "word",
       "type": "outline",
-      "ctx": "诡计，把戏",
-      "forms": [
-        {
-          "surface": "tricks",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[trɪk]",
-      "memory": [
-        "联想记忆：万圣节前夕，孩子们喜欢玩一种叫treat or trick（不给糖就捣乱）的游戏"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "诡计，把戏；诀窍，技巧"
-        }
-      ]
+      "ctx": "诡计，把戏"
     },
     {
       "word": "tidy",
-      "lemma": "tidy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "整洁的",
-      "forms": [
-        {
-          "surface": "tidies",
-          "tag": "third_person"
-        },
-        {
-          "surface": "tidied",
-          "tag": "past"
-        },
-        {
-          "surface": "tidied",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "tidying",
-          "tag": "ing"
-        },
-        {
-          "surface": "tidier",
-          "tag": "comparative"
-        },
-        {
-          "surface": "tidiest",
-          "tag": "superlative"
-        }
-      ],
-      "phonetic": "[ˈtaɪdi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "整洁的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "tidy up收拾妥，整理好"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "v.",
-          "meaning": "（使）整洁"
-        }
-      ]
+      "ctx": "整洁的"
     },
     {
       "word": "airport",
-      "lemma": "airport",
-      "kind": "word",
       "type": "outline",
-      "ctx": "机场",
-      "forms": [],
-      "phonetic": "[ˈeəpɔːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "机场"
-        }
-      ]
+      "ctx": "机场"
     },
     {
       "word": "wallet",
-      "lemma": "wallet",
-      "kind": "word",
       "type": "outline",
-      "ctx": "钱包，皮夹子",
-      "forms": [],
-      "phonetic": "[ˈwɒlɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "钱包，皮夹子"
-        }
-      ]
+      "ctx": "钱包，皮夹子"
     },
     {
       "word": "cash",
-      "lemma": "cash",
-      "kind": "word",
       "type": "outline",
-      "ctx": "现金",
-      "forms": [
-        {
-          "surface": "cashes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "cashed",
-          "tag": "past"
-        },
-        {
-          "surface": "cashed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "cashing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kæʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]现金，现钞"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "兑现"
-        }
-      ]
+      "ctx": "现金"
     },
     {
       "word": "passport",
-      "lemma": "passport",
-      "kind": "word",
       "type": "outline",
-      "ctx": "护照",
-      "forms": [],
-      "phonetic": "[ˈpɑːspɔːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "护照"
-        }
-      ]
+      "ctx": "护照"
     },
     {
       "word": "card",
-      "lemma": "card",
-      "kind": "word",
       "type": "outline",
-      "ctx": "卡，卡片",
-      "forms": [],
-      "phonetic": "[kɑːd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "卡，卡片；纸牌"
-        }
-      ]
+      "ctx": "卡，卡片"
     },
     {
       "word": "gratitude",
-      "lemma": "gratitude",
-      "kind": "word",
       "type": "core",
-      "ctx": "感激，感谢",
-      "forms": [],
-      "phonetic": "[ˈɡrætɪtjuːd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "感激，感谢"
-        }
-      ]
+      "ctx": "感激，感谢"
     },
     {
       "word": "noon",
-      "lemma": "noon",
-      "kind": "word",
       "type": "outline",
-      "ctx": "正午，中午",
-      "forms": [],
-      "phonetic": "[nuːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "正午，中午"
-        }
-      ]
+      "ctx": "正午，中午"
     },
     {
       "word": "candle",
-      "lemma": "candle",
-      "kind": "word",
       "type": "outline",
-      "ctx": "蜡烛",
-      "forms": [],
-      "phonetic": "[ˈkændl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "蜡烛"
-        }
-      ]
+      "ctx": "蜡烛"
     },
     {
       "word": "foster",
-      "lemma": "foster",
-      "kind": "word",
       "type": "core",
-      "ctx": "培养",
-      "forms": [
-        {
-          "surface": "fosters",
-          "tag": "third_person"
-        },
-        {
-          "surface": "fostered",
-          "tag": "past"
-        },
-        {
-          "surface": "fostered",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "fostering",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈfɒstə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "促进，培养；抚育"
-        }
-      ]
+      "ctx": "培养"
     },
     {
       "word": "thankful",
-      "lemma": "thankful",
-      "kind": "word",
       "type": "core",
-      "ctx": "感谢的，感激的",
-      "forms": [],
-      "phonetic": "[ˈθæŋkfl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "感谢的，感激的"
-        }
-      ]
+      "ctx": "感谢的，感激的"
     },
     {
       "word": "thank",
-      "lemma": "thank",
-      "kind": "word",
       "type": "outline",
-      "ctx": "谢谢",
-      "forms": [
-        {
-          "surface": "thanks",
-          "tag": "third_person"
-        },
-        {
-          "surface": "thanked",
-          "tag": "past"
-        },
-        {
-          "surface": "thanked",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "thanking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[θæŋk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "谢谢；道谢",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "thank you谢谢thank goodness谢天谢地thanks to归功于"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "谢谢"
     },
     {
       "word": "host",
-      "lemma": "host",
-      "kind": "word",
       "type": "outline",
-      "ctx": "主人",
-      "forms": [
-        {
-          "surface": "hosts",
-          "tag": "plural"
-        },
-        {
-          "surface": "hosts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "hosted",
-          "tag": "past"
-        },
-        {
-          "surface": "hosted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "hosting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[həʊst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "主人；东道主；节目主持人"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "主持；主办；做东"
-        }
-      ]
+      "ctx": "主人"
     },
     {
       "word": "optimistic",
-      "lemma": "optimistic",
-      "kind": "word",
       "type": "outline",
-      "ctx": "乐观的",
-      "forms": [],
-      "phonetic": "[ˌɒptɪˈmɪstɪk]",
-      "memory": [
-        "词根记忆：optim（最好）+istic（……的）→什么都往最好处想的→乐观的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "乐观的"
-        }
-      ]
+      "ctx": "乐观的"
     },
     {
       "word": "instant",
-      "lemma": "instant",
-      "kind": "word",
       "type": "outline",
-      "ctx": "立即的",
-      "forms": [],
-      "phonetic": "[ˈɪnstənt]",
-      "memory": [
-        "词根记忆：in（不）+stant（站立）→站不住了，立刻就要倒了→立即的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "立即的；速食的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "instant noodles方便面"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "瞬间"
-        }
-      ]
+      "ctx": "立即的"
     },
     {
       "word": "option",
-      "lemma": "option",
-      "kind": "word",
       "type": "outline",
-      "ctx": "选择，选择权，可选择的事物",
-      "forms": [],
-      "phonetic": "[ˈɒpʃn]",
-      "memory": [
-        "词根记忆：opt（选择）+ion（表名词）→选择，选择权"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "选择，选择权，可选择的事物；选修课；选项"
-        }
-      ]
+      "ctx": "选择，选择权，可选择的事物"
     },
     {
       "word": "psychology",
-      "lemma": "psychology",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U]心理学",
-      "forms": [],
-      "phonetic": "[saɪˈkɒlədʒi]",
-      "memory": [
-        "词根记忆：psycho（心灵，精神）+logy（学科）→心理学"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]心理学；心理",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "social psychology社会心理学clinical psychology临床心理学"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "[U]心理学"
     },
     {
       "word": "actually",
-      "lemma": "actually",
-      "kind": "word",
       "type": "outline",
-      "ctx": "实际上，事实上",
-      "forms": [],
-      "phonetic": "[ˈæktʃuəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "实际上，事实上；真实地"
-        }
-      ]
+      "ctx": "实际上，事实上"
     },
     {
       "word": "task",
-      "lemma": "task",
-      "kind": "word",
       "type": "outline",
-      "ctx": "任务",
-      "forms": [
-        {
-          "surface": "tasks",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[tɑːsk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "任务；作业"
-        }
-      ]
+      "ctx": "任务"
     },
     {
       "word": "until",
-      "lemma": "until",
-      "kind": "word",
       "type": "outline",
-      "ctx": "直到",
-      "forms": [],
-      "phonetic": "[ənˈtɪl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "prep.",
-          "meaning": "/"
-        },
-        {
-          "pos": "conj.",
-          "meaning": "直到……为止，到……时"
-        }
-      ]
+      "ctx": "直到"
     },
     {
       "word": "weekend",
-      "lemma": "weekend",
-      "kind": "word",
       "type": "outline",
-      "ctx": "周末",
-      "forms": [],
-      "phonetic": "[ˌwiːkˈend]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "周末",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "weekday*（ n. 工作日）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "周末"
     },
     {
       "word": "cake",
-      "lemma": "cake",
-      "kind": "word",
       "type": "outline",
-      "ctx": "蛋糕",
-      "forms": [],
-      "phonetic": "[keɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "蛋糕；饼状食物"
-        }
-      ]
+      "ctx": "蛋糕"
     },
     {
       "word": "brochure",
-      "lemma": "brochure",
-      "kind": "word",
       "type": "outline",
-      "ctx": "小册子",
-      "forms": [],
-      "phonetic": "[ˈbrəʊʃə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "小册子",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a holiday brochure度假指南"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "小册子"
     },
     {
       "word": "bus",
-      "lemma": "bus",
-      "kind": "word",
       "type": "outline",
-      "ctx": "公共汽车",
-      "forms": [],
-      "phonetic": "[bʌs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "公共汽车",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "taxi*（ n. 出租汽车）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "公共汽车"
     },
     {
       "word": "start",
-      "lemma": "start",
-      "kind": "word",
       "type": "outline",
-      "ctx": "开始",
-      "forms": [
-        {
-          "surface": "starts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "started",
-          "tag": "past"
-        },
-        {
-          "surface": "started",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "starting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[stɑːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "开始，着手；出发，动身；（使）发生；开办；启动",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "start out开始从事；起先打算start off动身；一开始是"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "开始；开端"
-        }
-      ]
+      "ctx": "开始"
     },
     {
       "word": "apply",
-      "lemma": "apply",
-      "kind": "word",
       "type": "outline",
-      "ctx": "申请",
-      "forms": [
-        {
-          "surface": "applies",
-          "tag": "third_person"
-        },
-        {
-          "surface": "applied",
-          "tag": "past"
-        },
-        {
-          "surface": "applied",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "applying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈplaɪ]",
-      "memory": [
-        "词根记忆：ap（表加强）+ply（重叠）→多次重叠，反复使用→应用"
-      ],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "申请",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "apply for申请apply oneself to致力于"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "应用；涂，敷"
-        }
-      ]
+      "ctx": "申请"
     },
     {
       "word": "annoying",
-      "lemma": "annoying",
-      "kind": "word",
       "type": "core",
-      "ctx": "烦人的",
-      "forms": [],
-      "phonetic": "[əˈnɔɪɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "烦人的"
-        }
-      ]
+      "ctx": "烦人的"
     },
     {
       "word": "occasion",
-      "lemma": "occasion",
-      "kind": "word",
       "type": "outline",
-      "ctx": "时刻，时机",
-      "forms": [
-        {
-          "surface": "occasions",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[əˈkeɪʒn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "时刻，时机；场合",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "on occasion(s) 有时，间或"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "时刻，时机"
     },
     {
       "word": "accept",
-      "lemma": "accept",
-      "kind": "word",
       "type": "outline",
-      "ctx": "接受",
-      "forms": [
-        {
-          "surface": "accepts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "accepted",
-          "tag": "past"
-        },
-        {
-          "surface": "accepted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "accepting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əkˈsept]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "接受；同意，认可"
-        }
-      ]
+      "ctx": "接受"
     },
     {
       "word": "uncomfortable",
-      "lemma": "uncomfortable",
-      "kind": "word",
       "type": "core",
-      "ctx": "令人不舒服的",
-      "forms": [],
-      "phonetic": "[ʌnˈkʌmftəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "令人不舒服的；不安的，感到难受的"
-        }
-      ]
+      "ctx": "令人不舒服的"
     },
     {
       "word": "belief",
-      "lemma": "belief",
-      "kind": "word",
       "type": "outline",
-      "ctx": "信条，信念，信仰",
-      "forms": [],
-      "phonetic": "[bɪˈliːf]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "信条，信念，信仰；信任，相信"
-        }
-      ]
+      "ctx": "信条，信念，信仰"
     },
     {
       "word": "comfortable",
-      "lemma": "comfortable",
-      "kind": "word",
       "type": "outline",
-      "ctx": "舒服的",
-      "forms": [],
-      "phonetic": "[ˈkʌmftəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "舒服的；自在的"
-        }
-      ]
+      "ctx": "舒服的"
     },
     {
       "word": "state",
-      "lemma": "state",
-      "kind": "word",
       "type": "outline",
-      "ctx": "状态",
-      "forms": [
-        {
-          "surface": "states",
-          "tag": "plural"
-        },
-        {
-          "surface": "states",
-          "tag": "third_person"
-        },
-        {
-          "surface": "stated",
-          "tag": "past"
-        },
-        {
-          "surface": "stated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "stating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[steɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "状态；国家；州"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "宣称"
-        }
-      ]
+      "ctx": "状态"
     },
     {
       "word": "tolerate",
-      "lemma": "tolerate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "容忍",
-      "forms": [
-        {
-          "surface": "tolerates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "tolerated",
-          "tag": "past"
-        },
-        {
-          "surface": "tolerated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "tolerating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈtɒləreɪt]",
-      "memory": [
-        "词根记忆：toler（容忍）+ate→忍受，容忍"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "忍受，容忍",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "No editor is likely to tolerate a writer who does not take the trouble to spell words correctly.没有哪个编辑会容忍一个不愿意花心思拼写正确单词的作者。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "容忍"
     },
     {
       "word": "comfort",
-      "lemma": "comfort",
-      "kind": "word",
       "type": "outline",
-      "ctx": "安慰",
-      "forms": [
-        {
-          "surface": "comforts",
-          "tag": "plural"
-        },
-        {
-          "surface": "comforts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "comforted",
-          "tag": "past"
-        },
-        {
-          "surface": "comforted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "comforting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈkʌmfət]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "安慰"
-        },
-        {
-          "pos": "n.",
-          "meaning": "[U]安慰；舒适，安逸"
-        }
-      ]
+      "ctx": "安慰"
     },
     {
       "word": "zone",
-      "lemma": "zone",
-      "kind": "word",
       "type": "outline",
-      "ctx": "地区",
-      "forms": [],
-      "phonetic": "[zəʊn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "地区；区域"
-        }
-      ]
+      "ctx": "地区"
     },
     {
       "word": "impatient",
-      "lemma": "impatient",
-      "kind": "word",
       "type": "core",
-      "ctx": "不耐烦的",
-      "forms": [],
-      "phonetic": "[ɪmˈpeɪʃnt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "不耐烦的；急于"
-        }
-      ]
+      "ctx": "不耐烦的"
     },
     {
       "word": "merely",
-      "lemma": "merely",
-      "kind": "word",
       "type": "outline",
-      "ctx": "仅仅，只不过",
-      "forms": [],
-      "phonetic": "[ˈmɪəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "仅仅，只不过"
-        }
-      ]
+      "ctx": "仅仅，只不过"
     },
     {
       "word": "intolerable",
-      "lemma": "intolerable",
-      "kind": "word",
       "type": "core",
-      "ctx": "无法忍受的，不能容忍的",
-      "forms": [],
-      "phonetic": "[ɪnˈtɒlərəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "无法忍受的，不能容忍的"
-        }
-      ]
+      "ctx": "无法忍受的，不能容忍的"
     },
     {
       "word": "gradually",
-      "lemma": "gradually",
-      "kind": "word",
       "type": "outline",
-      "ctx": "逐渐地，逐步地",
-      "forms": [],
-      "phonetic": "[ˈɡrædʒuəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "逐渐地，逐步地"
-        }
-      ]
+      "ctx": "逐渐地，逐步地"
     },
     {
       "word": "patient",
-      "lemma": "patient",
-      "kind": "word",
       "type": "outline",
-      "ctx": "病人",
-      "forms": [],
-      "phonetic": "[ˈpeɪʃnt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "病人"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "耐心的"
-        }
-      ]
+      "ctx": "病人"
     }
   ]
 }

@@ -34,906 +34,183 @@
   "vocab": [
     {
       "word": "impression",
-      "lemma": "impression",
-      "kind": "word",
       "type": "outline",
-      "ctx": "印象，感想",
-      "forms": [],
-      "phonetic": "[ɪmˈpreʃn]",
-      "memory": [
-        "词根记忆：im（进入）+press（挤压）+ion（表名词）→压到头脑中→印象"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "印象，感想"
-        }
-      ]
+      "ctx": "印象，感想"
     },
     {
       "word": "clever",
-      "lemma": "clever",
-      "kind": "word",
       "type": "outline",
-      "ctx": "聪明的，伶俐的",
-      "forms": [],
-      "phonetic": "[ˈklevə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "聪明的，伶俐的"
-        }
-      ]
+      "ctx": "聪明的，伶俐的"
     },
     {
       "word": "tell",
-      "lemma": "tell",
-      "kind": "word",
       "type": "outline",
-      "ctx": "告诉",
-      "forms": [
-        {
-          "surface": "tells",
-          "tag": "third_person"
-        },
-        {
-          "surface": "told",
-          "tag": "past"
-        },
-        {
-          "surface": "told",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "telling",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[tel]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "告诉；说明；表达；知道，看出；分辨，区分"
-        }
-      ]
+      "ctx": "告诉"
     },
     {
       "word": "content",
-      "lemma": "content",
-      "kind": "word",
       "type": "outline",
-      "ctx": "满意的",
-      "forms": [],
-      "phonetic": "[kənˈtent]",
-      "memory": [
-        "词根记忆：con+tent（伸展）→全身舒展→满意的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "满意的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "be content with...对……满意be content to do...乐于做……"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "内容；含量；目录"
-        }
-      ]
+      "ctx": "满意的"
     },
     {
       "word": "annoyed",
-      "lemma": "annoyed",
-      "kind": "word",
       "type": "core",
-      "ctx": "生气的，恼怒的",
-      "forms": [],
-      "phonetic": "[əˈnɔɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "生气的，恼怒的"
-        }
-      ]
+      "ctx": "生气的，恼怒的"
     },
     {
       "word": "bark",
-      "lemma": "bark",
-      "kind": "word",
       "type": "outline",
-      "ctx": "狗叫",
-      "forms": [
-        {
-          "surface": "barks",
-          "tag": "third_person"
-        },
-        {
-          "surface": "barked",
-          "tag": "past"
-        },
-        {
-          "surface": "barked",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "barking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[bɑːk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "狗叫；厉声说话"
-        },
-        {
-          "pos": "n.",
-          "meaning": "狗叫声；树皮"
-        }
-      ]
+      "ctx": "狗叫"
     },
     {
       "word": "anger",
-      "lemma": "anger",
-      "kind": "word",
       "type": "outline",
-      "ctx": "愤怒",
-      "forms": [],
-      "phonetic": "[ˈæŋɡə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "愤怒",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "be filled with anger满腔怒火in anger愤怒地"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "愤怒"
     },
     {
       "word": "tail",
-      "lemma": "tail",
-      "kind": "word",
       "type": "outline",
-      "ctx": "尾巴",
-      "forms": [
-        {
-          "surface": "tails",
-          "tag": "plural"
-        },
-        {
-          "surface": "tails",
-          "tag": "third_person"
-        },
-        {
-          "surface": "tailed",
-          "tag": "past"
-        },
-        {
-          "surface": "tailed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "tailing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[teɪl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "尾巴；后部；末尾部分"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "跟踪，尾随"
-        }
-      ]
+      "ctx": "尾巴"
     },
     {
       "word": "angry",
-      "lemma": "angry",
-      "kind": "word",
       "type": "outline",
-      "ctx": "生气的，愤怒的",
-      "forms": [],
-      "phonetic": "[ˈæŋɡri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "生气的，愤怒的"
-        }
-      ]
+      "ctx": "生气的，愤怒的"
     },
     {
       "word": "claim",
-      "lemma": "claim",
-      "kind": "word",
       "type": "outline",
-      "ctx": "宣称，声称",
-      "forms": [
-        {
-          "surface": "claims",
-          "tag": "third_person"
-        },
-        {
-          "surface": "claimed",
-          "tag": "past"
-        },
-        {
-          "surface": "claimed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "claiming",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kleɪm]",
-      "memory": [
-        "词根记忆：本身为词根，表示“呼喊”，引申为“宣称”"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "宣称，声称；要求，索取"
-        },
-        {
-          "pos": "n.",
-          "meaning": "宣称，声明；索赔"
-        }
-      ]
+      "ctx": "宣称，声称"
     },
     {
       "word": "son",
-      "lemma": "son",
-      "kind": "word",
       "type": "outline",
-      "ctx": "儿子",
-      "forms": [],
-      "phonetic": "[sʌn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "儿子；孩子"
-        }
-      ]
+      "ctx": "儿子"
     },
     {
       "word": "laboratory",
-      "lemma": "laboratory",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（=lab）实验室",
-      "forms": [],
-      "phonetic": "[ləˈbɒrətri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（=lab）实验室"
-        }
-      ]
+      "ctx": "（=lab）实验室"
     },
     {
       "word": "image",
-      "lemma": "image",
-      "kind": "word",
       "type": "outline",
-      "ctx": "图像，映像",
-      "forms": [
-        {
-          "surface": "images",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈɪmɪdʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "图像，映像；画像；形象；比喻"
-        }
-      ]
+      "ctx": "图像，映像"
     },
     {
       "word": "phase",
-      "lemma": "phase",
-      "kind": "word",
       "type": "outline",
-      "ctx": "阶段，时期",
-      "forms": [],
-      "phonetic": "[feɪz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "阶段，时期"
-        }
-      ]
+      "ctx": "阶段，时期"
     },
     {
       "word": "upper",
-      "lemma": "upper",
-      "kind": "word",
       "type": "outline",
-      "ctx": "较高的",
-      "forms": [],
-      "phonetic": "[ˈʌpə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "较高的；上面的"
-        }
-      ]
+      "ctx": "较高的"
     },
     {
       "word": "lower",
-      "lemma": "lower",
-      "kind": "word",
       "type": "outline",
-      "ctx": "较低的",
-      "forms": [
-        {
-          "surface": "lowers",
-          "tag": "third_person"
-        },
-        {
-          "surface": "lowered",
-          "tag": "past"
-        },
-        {
-          "surface": "lowered",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "lowering",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈləʊə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "较低的；下面的"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "放下，降低；减少"
-        }
-      ]
+      "ctx": "较低的"
     },
     {
       "word": "afterward",
-      "lemma": "afterward",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（=afterwards）后来，以后",
-      "forms": [],
-      "phonetic": "[ˈɑːftəwəd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "（=afterwards）后来，以后"
-        }
-      ]
+      "ctx": "（=afterwards）后来，以后"
     },
     {
       "word": "facial",
-      "lemma": "facial",
-      "kind": "word",
       "type": "core",
-      "ctx": "面部的",
-      "forms": [],
-      "phonetic": "[ˈfeɪʃl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "面部的"
-        }
-      ]
+      "ctx": "面部的"
     },
     {
       "word": "expression",
-      "lemma": "expression",
-      "kind": "word",
       "type": "core",
-      "ctx": "表情",
-      "forms": [
-        {
-          "surface": "expressions",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ɪkˈspreʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "表情；表达，表示；措辞"
-        }
-      ]
+      "ctx": "表情"
     },
     {
       "word": "pleasant",
-      "lemma": "pleasant",
-      "kind": "word",
       "type": "outline",
-      "ctx": "令人愉快的，宜人的",
-      "forms": [],
-      "phonetic": "[ˈpleznt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "令人愉快的，宜人的；友好的，和善的"
-        }
-      ]
+      "ctx": "令人愉快的，宜人的"
     },
     {
       "word": "press",
-      "lemma": "press",
-      "kind": "word",
       "type": "outline",
-      "ctx": "压，按",
-      "forms": [
-        {
-          "surface": "presses",
-          "tag": "third_person"
-        },
-        {
-          "surface": "pressed",
-          "tag": "past"
-        },
-        {
-          "surface": "pressed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "pressing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[pres]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "压，按"
-        },
-        {
-          "pos": "n.",
-          "meaning": "压，按；新闻界；出版社"
-        }
-      ]
+      "ctx": "压，按"
     },
     {
       "word": "insight",
-      "lemma": "insight",
-      "kind": "word",
       "type": "outline",
-      "ctx": "洞察力",
-      "forms": [
-        {
-          "surface": "insights",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈɪnsaɪt]",
-      "memory": [
-        "联想记忆：in（进入）+sight（眼光）→眼光深入→洞察力"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "洞察力；了解",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "have an insight into sth.对……有深入了解"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "洞察力"
     },
     {
       "word": "testing",
-      "lemma": "testing",
-      "kind": "word",
       "type": "core",
-      "ctx": "试验，测试",
-      "forms": [],
-      "phonetic": "[ˈtestɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "试验，测试"
-        }
-      ]
+      "ctx": "试验，测试"
     },
     {
       "word": "rule",
-      "lemma": "rule",
-      "kind": "word",
       "type": "outline",
-      "ctx": "规则",
-      "forms": [
-        {
-          "surface": "rules",
-          "tag": "plural"
-        },
-        {
-          "surface": "rules",
-          "tag": "third_person"
-        },
-        {
-          "surface": "ruled",
-          "tag": "past"
-        },
-        {
-          "surface": "ruled",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "ruling",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ruːl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "规则；统治",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "rule sb./sth.out把……排除在外，认为……不适合；防止……发生"
-              ]
-            },
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "ruler*（ n. 尺子；统治者）"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "v.",
-          "meaning": "统治；支配"
-        }
-      ]
+      "ctx": "规则"
     },
     {
       "word": "cue",
-      "lemma": "cue",
-      "kind": "word",
       "type": "core",
-      "ctx": "暗示，提示",
-      "forms": [
-        {
-          "surface": "cues",
-          "tag": "plural"
-        },
-        {
-          "surface": "cues",
-          "tag": "third_person"
-        },
-        {
-          "surface": "cued",
-          "tag": "past"
-        },
-        {
-          "surface": "cued",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "cuing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kjuː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "暗示，提示"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "给（某人）暗示（或提示）"
-        }
-      ]
+      "ctx": "暗示，提示"
     },
     {
       "word": "tooth",
-      "lemma": "tooth",
-      "kind": "word",
       "type": "outline",
-      "ctx": "牙齿",
-      "forms": [],
-      "phonetic": "[tuːθ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "牙齿"
-        }
-      ]
+      "ctx": "牙齿"
     },
     {
       "word": "author",
-      "lemma": "author",
-      "kind": "word",
       "type": "outline",
-      "ctx": "著者，作者",
-      "forms": [],
-      "phonetic": "[ˈɔːθə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "著者，作者"
-        }
-      ]
+      "ctx": "著者，作者"
     },
     {
       "word": "mouth",
-      "lemma": "mouth",
-      "kind": "word",
       "type": "outline",
-      "ctx": "嘴，口",
-      "forms": [],
-      "phonetic": "[maʊθ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "嘴，口"
-        }
-      ]
+      "ctx": "嘴，口"
     },
     {
       "word": "confidently",
-      "lemma": "confidently",
-      "kind": "word",
       "type": "core",
-      "ctx": "自信地",
-      "forms": [],
-      "phonetic": "[ˈkɒnfɪdəntli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "自信地"
-        }
-      ]
+      "ctx": "自信地"
     },
     {
       "word": "reliable",
-      "lemma": "reliable",
-      "kind": "word",
       "type": "outline",
-      "ctx": "可靠的，可信赖的",
-      "forms": [],
-      "phonetic": "[rɪˈlaɪəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "可靠的，可信赖的",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Some students don't have a reliable car, while others have to share vehicles with parents who work six days a week.一些学生没有一辆性能可靠的汽车，而另一些学生不得不与每周工作六天的父母共用一辆汽车。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "可靠的，可信赖的"
     },
     {
       "word": "lie",
-      "lemma": "lie",
-      "kind": "word",
       "type": "outline",
-      "ctx": "谎言",
-      "forms": [
-        {
-          "surface": "lies",
-          "tag": "plural"
-        },
-        {
-          "surface": "lies",
-          "tag": "third_person"
-        },
-        {
-          "surface": "lay",
-          "tag": "past"
-        },
-        {
-          "surface": "lain",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "lied",
-          "tag": "past"
-        },
-        {
-          "surface": "lied",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "lying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[laɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "谎言",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "lie in在于"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vi.",
-          "meaning": "平躺，平卧；平放；位于"
-        },
-        {
-          "pos": "vi.",
-          "meaning": "说谎"
-        }
-      ]
+      "ctx": "谎言"
     },
     {
       "word": "living",
-      "lemma": "living",
-      "kind": "word",
       "type": "outline",
-      "ctx": "活的，活着的",
-      "forms": [],
-      "phonetic": "[ˈlɪvɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "活的，活着的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "生计；生活方式"
-        }
-      ]
+      "ctx": "活的，活着的"
     },
     {
       "word": "exposure",
-      "lemma": "exposure",
-      "kind": "word",
       "type": "outline",
-      "ctx": "面临，遭受",
-      "forms": [],
-      "phonetic": "[ɪkˈspəʊʒə(r)]",
-      "memory": [
-        "词根记忆：ex（出）+pos（放）+ure（表名词）→放出来→暴露"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "面临，遭受；揭露；暴露，显露",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "exposure to...暴露于……，面临……"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "面临，遭受"
     },
     {
       "word": "adaptation",
-      "lemma": "adaptation",
-      "kind": "word",
       "type": "outline",
-      "ctx": "适应",
-      "forms": [],
-      "phonetic": "[ˌædæpˈteɪʃn]",
-      "memory": [
-        "来自adapt [ v. （使）适应；改编]"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "适应；改编本"
-        }
-      ]
+      "ctx": "适应"
     },
     {
       "word": "army",
-      "lemma": "army",
-      "kind": "word",
       "type": "outline",
-      "ctx": "军队",
-      "forms": [],
-      "phonetic": "[ˈɑːmi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "军队",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "navy*（ n. 海军）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "军队"
     },
     {
       "word": "policeman",
-      "lemma": "policeman",
-      "kind": "word",
       "type": "outline",
-      "ctx": "警察",
-      "forms": [],
-      "phonetic": "[pəˈliːsmən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "警察"
-        }
-      ]
+      "ctx": "警察"
     }
   ]
 }

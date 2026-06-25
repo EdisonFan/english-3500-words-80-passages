@@ -64,982 +64,213 @@
   "vocab": [
     {
       "word": "friendship",
-      "lemma": "friendship",
-      "kind": "word",
       "type": "outline",
-      "ctx": "友谊",
-      "forms": [],
-      "phonetic": "[ˈfrendʃɪp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "友谊"
-        }
-      ]
+      "ctx": "友谊"
     },
     {
       "word": "attention",
-      "lemma": "attention",
-      "kind": "word",
       "type": "outline",
-      "ctx": "注意",
-      "forms": [],
-      "phonetic": "[əˈtenʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "注意；关心"
-        }
-      ]
+      "ctx": "注意"
     },
     {
       "word": "sustain",
-      "lemma": "sustain",
-      "kind": "word",
       "type": "outline",
-      "ctx": "保持",
-      "forms": [
-        {
-          "surface": "sustains",
-          "tag": "third_person"
-        },
-        {
-          "surface": "sustained",
-          "tag": "past"
-        },
-        {
-          "surface": "sustained",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "sustaining",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[səˈsteɪn]",
-      "memory": [
-        "词根记忆：sus（下面）+tain（保持）→保持"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "保持；维持（生命等）；支撑；遭受"
-        }
-      ]
+      "ctx": "保持"
     },
     {
       "word": "long-distance",
-      "lemma": "long-distance",
-      "kind": "word",
       "type": "core",
-      "ctx": "长途的，长距离的",
-      "forms": [],
-      "phonetic": "[ˌlɒŋ ˈdɪstəns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "长途的，长距离的"
-        }
-      ]
+      "ctx": "长途的，长距离的"
     },
     {
       "word": "long-lasting",
-      "lemma": "long-lasting",
-      "kind": "word",
       "type": "core",
-      "ctx": "（可）持久的，长期的",
-      "forms": [],
-      "phonetic": "[ˌlɒŋ ˈlɑːstɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "（可）持久的，长期的"
-        }
-      ]
+      "ctx": "（可）持久的，长期的"
     },
     {
       "word": "squeeze",
-      "lemma": "squeeze",
-      "kind": "word",
       "type": "core",
-      "ctx": "压（出）",
-      "forms": [
-        {
-          "surface": "squeezes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "squeezed",
-          "tag": "past"
-        },
-        {
-          "surface": "squeezed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "squeezing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[skwiːz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "压（出）；榨出；挤（出）；捏"
-        },
-        {
-          "pos": "n.",
-          "meaning": "挤压，捏"
-        }
-      ]
+      "ctx": "压（出）"
     },
     {
       "word": "appointment",
-      "lemma": "appointment",
-      "kind": "word",
       "type": "outline",
-      "ctx": "约会",
-      "forms": [
-        {
-          "surface": "appointments",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[əˈpɔɪntmənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "约会；预约",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "make an appointment约会；预约"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "约会"
     },
     {
       "word": "merry",
-      "lemma": "merry",
-      "kind": "word",
       "type": "outline",
-      "ctx": "欢乐的，愉快的",
-      "forms": [],
-      "phonetic": "[ˈmeri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "欢乐的，愉快的"
-        }
-      ]
+      "ctx": "欢乐的，愉快的"
     },
     {
       "word": "communicate",
-      "lemma": "communicate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "沟通",
-      "forms": [
-        {
-          "surface": "communicates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "communicated",
-          "tag": "past"
-        },
-        {
-          "surface": "communicated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "communicating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kəˈmjuːnɪkeɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "沟通；传递；传播"
-        }
-      ]
+      "ctx": "沟通"
     },
     {
       "word": "means",
-      "lemma": "means",
-      "kind": "word",
       "type": "outline",
-      "ctx": "方法，手段，工具",
-      "forms": [],
-      "phonetic": "[miːnz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "方法，手段，工具"
-        }
-      ]
+      "ctx": "方法，手段，工具"
     },
     {
       "word": "compensate",
-      "lemma": "compensate",
-      "kind": "word",
       "type": "core",
-      "ctx": "补偿",
-      "forms": [
-        {
-          "surface": "compensates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "compensated",
-          "tag": "past"
-        },
-        {
-          "surface": "compensated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "compensating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈkɒmpenseɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "补偿；赔偿"
-        }
-      ]
+      "ctx": "补偿"
     },
     {
       "word": "letter",
-      "lemma": "letter",
-      "kind": "word",
       "type": "outline",
-      "ctx": "信",
-      "forms": [
-        {
-          "surface": "letters",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈletə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "信；字母"
-        }
-      ]
+      "ctx": "信"
     },
     {
       "word": "alternative",
-      "lemma": "alternative",
-      "kind": "word",
       "type": "outline",
-      "ctx": "可供选择的事物",
-      "forms": [
-        {
-          "surface": "alternatives",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ɔːlˈtɜːnətɪv]",
-      "memory": [
-        "联想记忆：alter（改变）+native（本土的）→寻找其他可供选择的事物，以改变本土的事物→可供选择的事物"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "可供选择的事物"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "可供替代的"
-        }
-      ]
+      "ctx": "可供选择的事物"
     },
     {
       "word": "consistent",
-      "lemma": "consistent",
-      "kind": "word",
       "type": "outline",
-      "ctx": "一致的，连贯的",
-      "forms": [],
-      "phonetic": "[kənˈsɪstənt]",
-      "memory": [
-        "词根记忆：con（共同）+sist（站立）+ent（……的）→站到一起的→一致的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "一致的，连贯的",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Remember, even world champion athletes practice their skills on a consistent basis.记住，即使是世界冠军运动员也要持续练习他们的技术。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "一致的，连贯的"
     },
     {
       "word": "written",
-      "lemma": "written",
-      "kind": "word",
       "type": "core",
-      "ctx": "书面的，笔头的",
-      "forms": [],
-      "phonetic": "[ˈrɪtn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "书面的，笔头的"
-        }
-      ]
+      "ctx": "书面的，笔头的"
     },
     {
       "word": "chat",
-      "lemma": "chat",
-      "kind": "word",
       "type": "outline",
-      "ctx": "聊天",
-      "forms": [
-        {
-          "surface": "chats",
-          "tag": "plural"
-        },
-        {
-          "surface": "chats",
-          "tag": "third_person"
-        },
-        {
-          "surface": "chatted",
-          "tag": "past"
-        },
-        {
-          "surface": "chatted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "chatting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[tʃæt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "/"
-        },
-        {
-          "pos": "v.",
-          "meaning": "聊天，闲谈"
-        }
-      ]
+      "ctx": "聊天"
     },
     {
       "word": "sensitive",
-      "lemma": "sensitive",
-      "kind": "word",
       "type": "outline",
-      "ctx": "敏感的",
-      "forms": [],
-      "phonetic": "[ˈsensətɪv]",
-      "memory": [
-        "词根记忆：sens（感觉）+itive（……的）→有感觉的→敏感的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "敏感的；体贴的；灵敏的"
-        }
-      ]
+      "ctx": "敏感的"
     },
     {
       "word": "additional",
-      "lemma": "additional",
-      "kind": "word",
       "type": "core",
-      "ctx": "附加的，额外的",
-      "forms": [],
-      "phonetic": "[əˈdɪʃənl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "附加的，额外的"
-        }
-      ]
+      "ctx": "附加的，额外的"
     },
     {
       "word": "demand",
-      "lemma": "demand",
-      "kind": "word",
       "type": "outline",
-      "ctx": "需求",
-      "forms": [
-        {
-          "surface": "demands",
-          "tag": "plural"
-        },
-        {
-          "surface": "demands",
-          "tag": "third_person"
-        },
-        {
-          "surface": "demanded",
-          "tag": "past"
-        },
-        {
-          "surface": "demanded",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "demanding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɪˈmɑːnd]",
-      "memory": [
-        "词根记忆：de（表加强）+mand（命令）→要求"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "/",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "in demand需求大"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "要求，需要"
-        }
-      ]
+      "ctx": "需求"
     },
     {
       "word": "Germany",
-      "lemma": "Germany",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "德国",
-      "forms": [],
-      "phonetic": "[ˈdʒɜːməni]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "德国"
-        }
-      ]
+      "ctx": "德国"
     },
     {
       "word": "scholarship",
-      "lemma": "scholarship",
-      "kind": "word",
       "type": "outline",
-      "ctx": "奖学金",
-      "forms": [],
-      "phonetic": "[ˈskɒləʃɪp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "奖学金；学问"
-        }
-      ]
+      "ctx": "奖学金"
     },
     {
       "word": "Australia",
-      "lemma": "Australia",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "澳大利亚",
-      "forms": [],
-      "phonetic": "[ɒˈstreɪliə]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "澳大利亚"
-        }
-      ]
+      "ctx": "澳大利亚"
     },
     {
       "word": "abandoned",
-      "lemma": "abandoned",
-      "kind": "word",
       "type": "core",
-      "ctx": "被抛弃的",
-      "forms": [],
-      "phonetic": "[əˈbændənd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "被抛弃的"
-        }
-      ]
+      "ctx": "被抛弃的"
     },
     {
       "word": "sincerely",
-      "lemma": "sincerely",
-      "kind": "word",
       "type": "outline",
-      "ctx": "真诚地",
-      "forms": [],
-      "phonetic": "[sɪnˈsɪəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "真诚地"
-        }
-      ]
+      "ctx": "真诚地"
     },
     {
       "word": "anniversary",
-      "lemma": "anniversary",
-      "kind": "word",
       "type": "core",
-      "ctx": "周年纪念日",
-      "forms": [
-        {
-          "surface": "anniversaries",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˌænɪˈvɜːsəri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "周年纪念日"
-        }
-      ]
+      "ctx": "周年纪念日"
     },
     {
       "word": "birthday",
-      "lemma": "birthday",
-      "kind": "word",
       "type": "outline",
-      "ctx": "生日",
-      "forms": [
-        {
-          "surface": "birthdays",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈbɜːθdeɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "生日"
-        }
-      ]
+      "ctx": "生日"
     },
     {
       "word": "software",
-      "lemma": "software",
-      "kind": "word",
       "type": "outline",
-      "ctx": "软件",
-      "forms": [],
-      "phonetic": "[ˈsɒftweə(r)]",
-      "memory": [
-        "合成词：soft（软的）+ware（器件）→软件"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "软件",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "common software常用软件"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "软件"
     },
     {
       "word": "Wi-Fi",
-      "lemma": "Wi-Fi",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "无线上网系统",
-      "forms": [],
-      "phonetic": "[ˈwaɪ faɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "abbr.",
-          "meaning": "无线上网系统"
-        }
-      ]
+      "ctx": "无线上网系统"
     },
     {
       "word": "day-to-day",
-      "lemma": "day-to-day",
-      "kind": "word",
       "type": "core",
-      "ctx": "每天的",
-      "forms": [],
-      "phonetic": "[ˌdeɪ tə ˈdeɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "每天的；日常工作的"
-        }
-      ]
+      "ctx": "每天的"
     },
     {
       "word": "simply",
-      "lemma": "simply",
-      "kind": "word",
       "type": "core",
-      "ctx": "简单地",
-      "forms": [],
-      "phonetic": "[ˈsɪmpli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "简单地；只，仅仅"
-        }
-      ]
+      "ctx": "简单地"
     },
     {
       "word": "diary",
-      "lemma": "diary",
-      "kind": "word",
       "type": "outline",
-      "ctx": "日记簿，日记",
-      "forms": [],
-      "phonetic": "[ˈdaɪəri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "日记簿，日记"
-        }
-      ]
+      "ctx": "日记簿，日记"
     },
     {
       "word": "slip",
-      "lemma": "slip",
-      "kind": "word",
       "type": "outline",
-      "ctx": "溜（进/走）",
-      "forms": [
-        {
-          "surface": "slips",
-          "tag": "plural"
-        },
-        {
-          "surface": "slips",
-          "tag": "third_person"
-        },
-        {
-          "surface": "slipped",
-          "tag": "past"
-        },
-        {
-          "surface": "slipped",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "slipping",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[slɪp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "溜（进/走）；滑落；滑倒",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "slip by（时间）悄然流逝；（机会等）被错过"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "纸片；差错；滑倒"
-        }
-      ]
+      "ctx": "溜（进/走）"
     },
     {
       "word": "postcard",
-      "lemma": "postcard",
-      "kind": "word",
       "type": "outline",
-      "ctx": "明信片",
-      "forms": [
-        {
-          "surface": "postcards",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈpəʊstkɑːd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "明信片"
-        }
-      ]
+      "ctx": "明信片"
     },
     {
       "word": "Christmas",
-      "lemma": "Christmas",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "圣诞节",
-      "forms": [],
-      "phonetic": "[ˈkrɪsməs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "圣诞节"
-        }
-      ]
+      "ctx": "圣诞节"
     },
     {
       "word": "rely",
-      "lemma": "rely",
-      "kind": "word",
       "type": "outline",
-      "ctx": "依赖，依靠",
-      "forms": [
-        {
-          "surface": "relies",
-          "tag": "third_person"
-        },
-        {
-          "surface": "relied",
-          "tag": "past"
-        },
-        {
-          "surface": "relied",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "relying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rɪˈlaɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "依赖，依靠；信任",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "rely on依赖；信赖"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "依赖，依靠"
     },
     {
       "word": "close",
-      "lemma": "close",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（在空间、时间上）接近",
-      "forms": [],
-      "phonetic": "[kləʊs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "（在空间、时间上）接近；近的；亲密的"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "近，靠近"
-        },
-        {
-          "pos": "v.",
-          "meaning": "关，关闭"
-        }
-      ]
+      "ctx": "（在空间、时间上）接近"
     },
     {
       "word": "conscious",
-      "lemma": "conscious",
-      "kind": "word",
       "type": "core",
-      "ctx": "意识到的",
-      "forms": [],
-      "phonetic": "[ˈkɒnʃəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "意识到的；神志清醒的，有意识的；有意的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "conscious of (doing) sth.意识到的"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "意识到的"
     },
     {
       "word": "continent",
-      "lemma": "continent",
-      "kind": "word",
       "type": "outline",
-      "ctx": "大陆，大洲",
-      "forms": [
-        {
-          "surface": "continents",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈkɒntɪnənt]",
-      "memory": [
-        "词根记忆：con（表加强）+tin（持，握）+ent→持有的一块未分割的土地→大陆，大洲"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "大陆，大洲"
-        }
-      ]
+      "ctx": "大陆，大洲"
     },
     {
       "word": "renew",
-      "lemma": "renew",
-      "kind": "word",
       "type": "core",
-      "ctx": "重新开始",
-      "forms": [
-        {
-          "surface": "renews",
-          "tag": "third_person"
-        },
-        {
-          "surface": "renewed",
-          "tag": "past"
-        },
-        {
-          "surface": "renewed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "renewing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rɪˈnjuː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "重新开始；更新；延长有效期"
-        }
-      ]
+      "ctx": "重新开始"
     },
     {
       "word": "face-to-face",
-      "lemma": "face-to-face",
-      "kind": "word",
       "type": "core",
-      "ctx": "面对面的",
-      "forms": [],
-      "phonetic": "[ˌfeɪs tə ˈfeɪs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "面对面的"
-        }
-      ]
+      "ctx": "面对面的"
     },
     {
       "word": "café",
-      "lemma": "café",
-      "kind": "word",
       "type": "outline",
-      "ctx": "咖啡馆，小餐馆",
-      "forms": [],
-      "phonetic": "[ˈkæfeɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "咖啡馆，小餐馆"
-        }
-      ]
+      "ctx": "咖啡馆，小餐馆"
     },
     {
       "word": "bakery",
-      "lemma": "bakery",
-      "kind": "word",
       "type": "outline",
-      "ctx": "面包店",
-      "forms": [],
-      "phonetic": "[ˈbeɪkəri]",
-      "memory": [
-        "词根记忆：bake（烘烤）+ry→面包店"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "面包店"
-        }
-      ]
+      "ctx": "面包店"
     }
   ]
 }

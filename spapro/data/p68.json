@@ -34,1152 +34,223 @@
   "vocab": [
     {
       "word": "fundamental",
-      "lemma": "fundamental",
-      "kind": "word",
       "type": "outline",
-      "ctx": "基础的，基本的",
-      "forms": [],
-      "phonetic": "[ˌfʌndəˈmentl]",
-      "memory": [
-        "词根记忆：fund（基础）+a+ment（表名词）+al（……的）→基础的，基本的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "基础的，基本的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a fundamental law一项根本法则；一条基本定律"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "基础的，基本的"
     },
     {
       "word": "grasp",
-      "lemma": "grasp",
-      "kind": "word",
       "type": "outline",
-      "ctx": "抓紧",
-      "forms": [
-        {
-          "surface": "grasps",
-          "tag": "third_person"
-        },
-        {
-          "surface": "grasped",
-          "tag": "past"
-        },
-        {
-          "surface": "grasped",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "grasping",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɡrɑːsp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "抓紧；理解，领会"
-        },
-        {
-          "pos": "n.",
-          "meaning": "紧握；理解"
-        }
-      ]
+      "ctx": "抓紧"
     },
     {
       "word": "preference",
-      "lemma": "preference",
-      "kind": "word",
       "type": "outline",
-      "ctx": "喜爱，偏爱",
-      "forms": [],
-      "phonetic": "[ˈprefrəns]",
-      "memory": [
-        "词根记忆：prefer（更喜欢）+ence（表名词）→偏爱"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "喜爱，偏爱；偏爱的事物"
-        }
-      ]
+      "ctx": "喜爱，偏爱"
     },
     {
       "word": "professional",
-      "lemma": "professional",
-      "kind": "word",
       "type": "outline",
-      "ctx": "专业的，职业的",
-      "forms": [],
-      "phonetic": "[prəˈfeʃənl]",
-      "memory": [
-        "词根记忆：pro（前）+fess（说）+ion（表名词）+al（……的）→在前面说的→专业的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "专业的，职业的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "professional knowledge专业知识"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "专业的，职业的"
     },
     {
       "word": "bright",
-      "lemma": "bright",
-      "kind": "word",
       "type": "outline",
-      "ctx": "明亮的",
-      "forms": [],
-      "phonetic": "[braɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "明亮的；聪明的；鲜艳的"
-        }
-      ]
+      "ctx": "明亮的"
     },
     {
       "word": "yellow",
-      "lemma": "yellow",
-      "kind": "word",
       "type": "outline",
-      "ctx": "黄色的",
-      "forms": [],
-      "phonetic": "[ˈjeləʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "黄色的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "黄色"
-        }
-      ]
+      "ctx": "黄色的"
     },
     {
       "word": "accent",
-      "lemma": "accent",
-      "kind": "word",
       "type": "outline",
-      "ctx": "口音，腔调",
-      "forms": [
-        {
-          "surface": "accents",
-          "tag": "plural"
-        },
-        {
-          "surface": "accents",
-          "tag": "third_person"
-        },
-        {
-          "surface": "accented",
-          "tag": "past"
-        },
-        {
-          "surface": "accented",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "accenting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈæksənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "口音，腔调；着重点，强调",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "accent wall重点墙，装饰墙"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "强调，突出"
-        }
-      ]
+      "ctx": "口音，腔调"
     },
     {
       "word": "lively",
-      "lemma": "lively",
-      "kind": "word",
       "type": "outline",
-      "ctx": "活泼的",
-      "forms": [
-        {
-          "surface": "livelier",
-          "tag": "comparative"
-        },
-        {
-          "surface": "liveliest",
-          "tag": "superlative"
-        }
-      ],
-      "phonetic": "[ˈlaɪvli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "活泼的；充满生气的；热闹的"
-        }
-      ]
+      "ctx": "活泼的"
     },
     {
       "word": "blue",
-      "lemma": "blue",
-      "kind": "word",
       "type": "outline",
-      "ctx": "蓝色的",
-      "forms": [],
-      "phonetic": "[bluː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "蓝色的；忧郁的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "蓝色"
-        }
-      ]
+      "ctx": "蓝色的"
     },
     {
       "word": "elegant",
-      "lemma": "elegant",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（人）文雅的",
-      "forms": [],
-      "phonetic": "[ˈelɪɡənt]",
-      "memory": [
-        "词根记忆：e（出）+leg（选择）+ant→精心选出的→文雅的；雅致的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "（人）文雅的；（物）雅致的，精美的"
-        }
-      ]
+      "ctx": "（人）文雅的"
     },
     {
       "word": "designer",
-      "lemma": "designer",
-      "kind": "word",
       "type": "core",
-      "ctx": "设计者",
-      "forms": [
-        {
-          "surface": "designers",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[dɪˈzaɪnə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "设计者"
-        }
-      ]
+      "ctx": "设计者"
     },
     {
       "word": "confused",
-      "lemma": "confused",
-      "kind": "word",
       "type": "outline",
-      "ctx": "困惑的，糊涂的",
-      "forms": [],
-      "phonetic": "[kənˈfjuːzd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "困惑的，糊涂的；混乱的，难懂的"
-        }
-      ]
+      "ctx": "困惑的，糊涂的"
     },
     {
       "word": "shade",
-      "lemma": "shade",
-      "kind": "word",
       "type": "outline",
-      "ctx": "阴凉处，树荫处",
-      "forms": [
-        {
-          "surface": "shades",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ʃeɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "阴凉处，树荫处；色调；阴影部分"
-        }
-      ]
+      "ctx": "阴凉处，树荫处"
     },
     {
       "word": "mix",
-      "lemma": "mix",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（使）混合，掺和",
-      "forms": [
-        {
-          "surface": "mixes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "mixed",
-          "tag": "past"
-        },
-        {
-          "surface": "mixed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "mixing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[mɪks]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）混合，掺和"
-        },
-        {
-          "pos": "n.",
-          "meaning": "混合，混杂"
-        }
-      ]
+      "ctx": "（使）混合，掺和"
     },
     {
       "word": "difficulty",
-      "lemma": "difficulty",
-      "kind": "word",
       "type": "outline",
-      "ctx": "困难",
-      "forms": [],
-      "phonetic": "[ˈdɪfɪkəlti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "困难；难题；费劲；艰难",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "have difficulty (in) doing sth.做某事有困难without difficulty容易地，毫不费力地"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "困难"
     },
     {
       "word": "taste",
-      "lemma": "taste",
-      "kind": "word",
       "type": "outline",
-      "ctx": "味道",
-      "forms": [
-        {
-          "surface": "tastes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "tasted",
-          "tag": "past"
-        },
-        {
-          "surface": "tasted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "tasting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[teɪst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "味道；味觉；尝；鉴赏力"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "品尝；尝出……的味道；吃起来"
-        }
-      ]
+      "ctx": "味道"
     },
     {
       "word": "complement",
-      "lemma": "complement",
-      "kind": "word",
       "type": "core",
-      "ctx": "补充，使完美，衬托",
-      "forms": [
-        {
-          "surface": "complements",
-          "tag": "third_person"
-        },
-        {
-          "surface": "complemented",
-          "tag": "past"
-        },
-        {
-          "surface": "complemented",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "complementing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈkɒmplɪment]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "补充，使完美，衬托"
-        },
-        {
-          "pos": "n.",
-          "meaning": "补充物；补足语"
-        }
-      ]
+      "ctx": "补充，使完美，衬托"
     },
     {
       "word": "component",
-      "lemma": "component",
-      "kind": "word",
       "type": "outline",
-      "ctx": "成分，组成部分",
-      "forms": [
-        {
-          "surface": "components",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[kəmˈpəʊnənt]",
-      "memory": [
-        "词根记忆：com（共同）+pon（放）+ent（表物）→放到一起的东西→成分，组成部分"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "成分，组成部分"
-        }
-      ]
+      "ctx": "成分，组成部分"
     },
     {
       "word": "unsuitable",
-      "lemma": "unsuitable",
-      "kind": "word",
       "type": "core",
-      "ctx": "不适当的",
-      "forms": [],
-      "phonetic": "[ʌnˈsuːtəbl; ʌnˈsjuːtəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "不适当的"
-        }
-      ]
+      "ctx": "不适当的"
     },
     {
       "word": "disturb",
-      "lemma": "disturb",
-      "kind": "word",
       "type": "outline",
-      "ctx": "打扰",
-      "forms": [
-        {
-          "surface": "disturbs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "disturbed",
-          "tag": "past"
-        },
-        {
-          "surface": "disturbed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "disturbing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɪˈstɜːb]",
-      "memory": [
-        "词根记忆：dis（分散）+turb（搅动）→搅动开→扰乱"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "打扰；使不安；扰乱"
-        }
-      ]
+      "ctx": "打扰"
     },
     {
       "word": "medium",
-      "lemma": "medium",
-      "kind": "word",
       "type": "outline",
-      "ctx": "中等的",
-      "forms": [
-        {
-          "surface": "media",
-          "tag": "plural"
-        },
-        {
-          "surface": "mediums",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈmiːdiəm]",
-      "memory": [
-        "词根记忆：med（中间）+ium→媒介"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "中等的；中号的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "（pl.media/mediums）媒介；手段，方法"
-        }
-      ]
+      "ctx": "中等的"
     },
     {
       "word": "throw",
-      "lemma": "throw",
-      "kind": "word",
       "type": "outline",
-      "ctx": "投，掷，扔",
-      "forms": [
-        {
-          "surface": "throws",
-          "tag": "third_person"
-        },
-        {
-          "surface": "threw",
-          "tag": "past"
-        },
-        {
-          "surface": "thrown",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "throwing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[θrəʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "投，掷，扔"
-        },
-        {
-          "pos": "n.",
-          "meaning": "（沙发等的）套，罩"
-        }
-      ]
+      "ctx": "投，掷，扔"
     },
     {
       "word": "pillow",
-      "lemma": "pillow",
-      "kind": "word",
       "type": "core",
-      "ctx": "枕头",
-      "forms": [
-        {
-          "surface": "pillows",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈpɪləʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "枕头",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "throw pillow抱枕"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "枕头"
     },
     {
       "word": "mirror",
-      "lemma": "mirror",
-      "kind": "word",
       "type": "outline",
-      "ctx": "镜子",
-      "forms": [
-        {
-          "surface": "mirrors",
-          "tag": "plural"
-        },
-        {
-          "surface": "mirrors",
-          "tag": "third_person"
-        },
-        {
-          "surface": "mirrored",
-          "tag": "past"
-        },
-        {
-          "surface": "mirrored",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "mirroring",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈmɪrə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "镜子"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "反映；反射"
-        }
-      ]
+      "ctx": "镜子"
     },
     {
       "word": "decorate",
-      "lemma": "decorate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "装饰",
-      "forms": [
-        {
-          "surface": "decorates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "decorated",
-          "tag": "past"
-        },
-        {
-          "surface": "decorated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "decorating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈdekəreɪt]",
-      "memory": [
-        "词根记忆：decor（装饰）+ate（表动词）→装饰"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "装饰；点缀",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Employees were shown to be 15% more productive when their workplaces were decorated with houseplants.研究表明，当办公场所摆放了室内植物进行装饰时，员工的工作效率可提高15％。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "装饰"
     },
     {
       "word": "fabric",
-      "lemma": "fabric",
-      "kind": "word",
       "type": "outline",
-      "ctx": "织物，布料",
-      "forms": [],
-      "phonetic": "[ˈfæbrɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "织物，布料；结构，构造",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "the fabric of society社会结构"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "织物，布料"
     },
     {
       "word": "metal",
-      "lemma": "metal",
-      "kind": "word",
       "type": "outline",
-      "ctx": "金属",
-      "forms": [],
-      "phonetic": "[ˈmetl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "金属"
-        }
-      ]
+      "ctx": "金属"
     },
     {
       "word": "sofa",
-      "lemma": "sofa",
-      "kind": "word",
       "type": "outline",
-      "ctx": "长沙发",
-      "forms": [],
-      "phonetic": "[ˈsəʊfə]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "长沙发"
-        }
-      ]
+      "ctx": "长沙发"
     },
     {
       "word": "changeable",
-      "lemma": "changeable",
-      "kind": "word",
       "type": "core",
-      "ctx": "易变的，变化无常的",
-      "forms": [],
-      "phonetic": "[ˈtʃeɪndʒəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "易变的，变化无常的"
-        }
-      ]
+      "ctx": "易变的，变化无常的"
     },
     {
       "word": "curtain",
-      "lemma": "curtain",
-      "kind": "word",
       "type": "outline",
-      "ctx": "窗帘",
-      "forms": [
-        {
-          "surface": "curtains",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈkɜːtn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "窗帘；（舞台上的）幕"
-        }
-      ]
+      "ctx": "窗帘"
     },
     {
       "word": "carpet",
-      "lemma": "carpet",
-      "kind": "word",
       "type": "outline",
-      "ctx": "地毯",
-      "forms": [
-        {
-          "surface": "carpets",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈkɑːpɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "地毯"
-        }
-      ]
+      "ctx": "地毯"
     },
     {
       "word": "bookshelf",
-      "lemma": "bookshelf",
-      "kind": "word",
       "type": "core",
-      "ctx": "书架",
-      "forms": [],
-      "phonetic": "[ˈbʊkʃelf]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "书架"
-        }
-      ]
+      "ctx": "书架"
     },
     {
       "word": "powerful",
-      "lemma": "powerful",
-      "kind": "word",
       "type": "core",
-      "ctx": "强有力的，很有效的",
-      "forms": [],
-      "phonetic": "[ˈpaʊəfl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "强有力的，很有效的；有影响力的"
-        }
-      ]
+      "ctx": "强有力的，很有效的"
     },
     {
       "word": "contrast",
-      "lemma": "contrast",
-      "kind": "word",
       "type": "outline",
-      "ctx": "明显的差异，对比，对照",
-      "forms": [
-        {
-          "surface": "contrasts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "contrasted",
-          "tag": "past"
-        },
-        {
-          "surface": "contrasted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "contrasting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈkɒntrɑːst]",
-      "memory": [
-        "词根记忆：contra（相反）+st（站）→相对而站进行比较→对比"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "明显的差异，对比，对照"
-        },
-        {
-          "pos": "v.",
-          "meaning": "对比；形成对比"
-        }
-      ]
+      "ctx": "明显的差异，对比，对照"
     },
     {
       "word": "dynamic",
-      "lemma": "dynamic",
-      "kind": "word",
       "type": "outline",
-      "ctx": "充满活力的，精力充沛的",
-      "forms": [],
-      "phonetic": "[daɪˈnæmɪk]",
-      "memory": [
-        "词根记忆：dynam（力量）+ic（……的）→充满活力的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "充满活力的，精力充沛的；动力的；动态的"
-        }
-      ]
+      "ctx": "充满活力的，精力充沛的"
     },
     {
       "word": "integrate",
-      "lemma": "integrate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（使）成为一体，（使）合并",
-      "forms": [
-        {
-          "surface": "integrates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "integrated",
-          "tag": "past"
-        },
-        {
-          "surface": "integrated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "integrating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈɪntɪɡreɪt]",
-      "memory": [
-        "词根记忆：integr（完整）+ate（使）→使完整→（使）成为一体"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）成为一体，（使）合并"
-        }
-      ]
+      "ctx": "（使）成为一体，（使）合并"
     },
     {
       "word": "ceiling",
-      "lemma": "ceiling",
-      "kind": "word",
       "type": "outline",
-      "ctx": "天花板，顶棚",
-      "forms": [
-        {
-          "surface": "ceilings",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈsiːlɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "天花板，顶棚；最高限度"
-        }
-      ]
+      "ctx": "天花板，顶棚"
     },
     {
       "word": "comprise",
-      "lemma": "comprise",
-      "kind": "word",
       "type": "outline",
-      "ctx": "包含，包括",
-      "forms": [
-        {
-          "surface": "comprises",
-          "tag": "third_person"
-        },
-        {
-          "surface": "comprised",
-          "tag": "past"
-        },
-        {
-          "surface": "comprised",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "comprising",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kəmˈpraɪz]",
-      "memory": [
-        "词根记忆：com（一起）+prise（抓住，拿住）→一起抓住，全部拿住→包含，包括"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "包含，包括；组成，构成"
-        }
-      ]
+      "ctx": "包含，包括"
     },
     {
       "word": "dominate",
-      "lemma": "dominate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "支配，影响，控制",
-      "forms": [
-        {
-          "surface": "dominates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "dominated",
-          "tag": "past"
-        },
-        {
-          "surface": "dominated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "dominating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈdɒmɪneɪt]",
-      "memory": [
-        "词根记忆：domin（主人）+ate（做）→做主人→支配，控制"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "支配，影响，控制；高耸于",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "The Shard now dominates the London skyline.现在，碎片大厦高耸于伦敦的天际线之上。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "支配，影响，控制"
     },
     {
       "word": "surrounding",
-      "lemma": "surrounding",
-      "kind": "word",
       "type": "outline",
-      "ctx": "周围的",
-      "forms": [],
-      "phonetic": "[səˈraʊndɪŋ]",
-      "memory": [
-        "来自surround（ vt. 包围，围绕）"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "周围的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "[pl.]环境"
-        }
-      ]
+      "ctx": "周围的"
     },
     {
       "word": "wallpaper",
-      "lemma": "wallpaper",
-      "kind": "word",
       "type": "core",
-      "ctx": "壁纸，墙纸",
-      "forms": [],
-      "phonetic": "[ˈwɔːlpeɪpə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "壁纸，墙纸"
-        }
-      ]
+      "ctx": "壁纸，墙纸"
     },
     {
       "word": "relative",
-      "lemma": "relative",
-      "kind": "word",
       "type": "outline",
-      "ctx": "亲属，亲戚",
-      "forms": [],
-      "phonetic": "[ˈrelətɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "亲属，亲戚"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "相对的；相比较而言的；关于……的"
-        }
-      ]
+      "ctx": "亲属，亲戚"
     },
     {
       "word": "architect",
-      "lemma": "architect",
-      "kind": "word",
       "type": "outline",
-      "ctx": "建筑师",
-      "forms": [],
-      "phonetic": "[ˈɑːkɪtekt]",
-      "memory": [
-        "词根记忆：archi（弓）+tect（遮蔽）→弓形遮蔽物的制造者→建筑师"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "建筑师；设计师"
-        }
-      ]
+      "ctx": "建筑师"
     },
     {
       "word": "construction",
-      "lemma": "construction",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U]建筑，施工，建造",
-      "forms": [],
-      "phonetic": "[kənˈstrʌkʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]建筑，施工，建造；[C]建筑物",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "the construction industry建筑业be under construction修建中"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "[U]建筑，施工，建造"
     }
   ]
 }

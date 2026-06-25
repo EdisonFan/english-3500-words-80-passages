@@ -54,1105 +54,238 @@
   "vocab": [
     {
       "word": "civilization",
-      "lemma": "civilization",
-      "kind": "word",
       "type": "outline",
-      "ctx": "文明社会",
-      "forms": [],
-      "phonetic": "[ˌsɪvəlaɪˈzeɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "文明社会；文明"
-        }
-      ]
+      "ctx": "文明社会"
     },
     {
       "word": "settle",
-      "lemma": "settle",
-      "kind": "word",
       "type": "outline",
-      "ctx": "定居",
-      "forms": [
-        {
-          "surface": "settles",
-          "tag": "third_person"
-        },
-        {
-          "surface": "settled",
-          "tag": "past"
-        },
-        {
-          "surface": "settled",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "settling",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈsetl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "定居；解决（问题）"
-        }
-      ]
+      "ctx": "定居"
     },
     {
       "word": "normal",
-      "lemma": "normal",
-      "kind": "word",
       "type": "outline",
-      "ctx": "正常的",
-      "forms": [],
-      "phonetic": "[ˈnɔːml]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "正常的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "[U]常态，通常标准"
-        }
-      ]
+      "ctx": "正常的"
     },
     {
       "word": "pioneer",
-      "lemma": "pioneer",
-      "kind": "word",
       "type": "outline",
-      "ctx": "先锋，先驱",
-      "forms": [
-        {
-          "surface": "pioneers",
-          "tag": "plural"
-        },
-        {
-          "surface": "pioneers",
-          "tag": "third_person"
-        },
-        {
-          "surface": "pioneered",
-          "tag": "past"
-        },
-        {
-          "surface": "pioneered",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "pioneering",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌpaɪəˈnɪə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "先锋，先驱；拓荒者"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "当开拓者，倡导"
-        }
-      ]
+      "ctx": "先锋，先驱"
     },
     {
       "word": "cozy",
-      "lemma": "cozy",
-      "kind": "word",
       "type": "core",
-      "ctx": "暖和舒服的，舒适的",
-      "forms": [],
-      "phonetic": "[ˈkəʊzi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "暖和舒服的，舒适的"
-        }
-      ]
+      "ctx": "暖和舒服的，舒适的"
     },
     {
       "word": "blanket",
-      "lemma": "blanket",
-      "kind": "word",
       "type": "outline",
-      "ctx": "毛毯，毯子",
-      "forms": [],
-      "phonetic": "[ˈblæŋkɪt]",
-      "memory": [
-        "词根记忆：blank（白）+et→白色（织物）→毯子"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "毛毯，毯子",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a piece of blanket一条毯子"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "毛毯，毯子"
     },
     {
       "word": "restrict",
-      "lemma": "restrict",
-      "kind": "word",
       "type": "outline",
-      "ctx": "限制，约束",
-      "forms": [
-        {
-          "surface": "restricts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "restricted",
-          "tag": "past"
-        },
-        {
-          "surface": "restricted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "restricting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rɪˈstrɪkt]",
-      "memory": [
-        "词根记忆：re（一再）+strict（严格的）→一再对其严格→限制，约束"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "限制，约束",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "restrict...to...把……限制于……"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "限制，约束"
     },
     {
       "word": "motion",
-      "lemma": "motion",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U]运动",
-      "forms": [
-        {
-          "surface": "motions",
-          "tag": "plural"
-        },
-        {
-          "surface": "motions",
-          "tag": "third_person"
-        },
-        {
-          "surface": "motioned",
-          "tag": "past"
-        },
-        {
-          "surface": "motioned",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "motioning",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈməʊʃn]",
-      "memory": [
-        "词根记忆：mot（移动）+ion→运动"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]运动；[C]动作；提议"
-        },
-        {
-          "pos": "v.",
-          "meaning": "示意"
-        }
-      ]
+      "ctx": "[U]运动"
     },
     {
       "word": "willingness",
-      "lemma": "willingness",
-      "kind": "word",
       "type": "core",
-      "ctx": "乐意，意愿",
-      "forms": [],
-      "phonetic": "[ˈwɪlɪŋnəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "乐意，意愿"
-        }
-      ]
+      "ctx": "乐意，意愿"
     },
     {
       "word": "trial",
-      "lemma": "trial",
-      "kind": "word",
       "type": "outline",
-      "ctx": "审讯，审判",
-      "forms": [
-        {
-          "surface": "trials",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈtraɪəl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "审讯，审判；试验，试用；考验",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Trial and error leads to the finding of truth.试错会发现真理。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "审讯，审判"
     },
     {
       "word": "gentleman",
-      "lemma": "gentleman",
-      "kind": "word",
       "type": "outline",
-      "ctx": "有教养的人",
-      "forms": [],
-      "phonetic": "[ˈdʒentlmən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "有教养的人；先生；绅士"
-        }
-      ]
+      "ctx": "有教养的人"
     },
     {
       "word": "lady",
-      "lemma": "lady",
-      "kind": "word",
       "type": "outline",
-      "ctx": "女士，小姐",
-      "forms": [],
-      "phonetic": "[ˈleɪdi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "女士，小姐；淑女"
-        }
-      ]
+      "ctx": "女士，小姐"
     },
     {
       "word": "badminton",
-      "lemma": "badminton",
-      "kind": "word",
       "type": "outline",
-      "ctx": "羽毛球",
-      "forms": [],
-      "phonetic": "[ˈbædmɪntən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "羽毛球"
-        }
-      ]
+      "ctx": "羽毛球"
     },
     {
       "word": "champion",
-      "lemma": "champion",
-      "kind": "word",
       "type": "outline",
-      "ctx": "冠军，优胜者",
-      "forms": [],
-      "phonetic": "[ˈtʃæmpiən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "冠军，优胜者"
-        }
-      ]
+      "ctx": "冠军，优胜者"
     },
     {
       "word": "following",
-      "lemma": "following",
-      "kind": "word",
       "type": "core",
-      "ctx": "接着的",
-      "forms": [],
-      "phonetic": "[ˈfɒləʊɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "接着的；下列的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "追随者；下列，如下"
-        }
-      ]
+      "ctx": "接着的"
     },
     {
       "word": "limit",
-      "lemma": "limit",
-      "kind": "word",
       "type": "outline",
-      "ctx": "限制，限定",
-      "forms": [
-        {
-          "surface": "limits",
-          "tag": "plural"
-        },
-        {
-          "surface": "limits",
-          "tag": "third_person"
-        },
-        {
-          "surface": "limited",
-          "tag": "past"
-        },
-        {
-          "surface": "limited",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "limiting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈlɪmɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "限制，限定",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "be limited to仅限于"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "限制；界线；极限"
-        }
-      ]
+      "ctx": "限制，限定"
     },
     {
       "word": "distant",
-      "lemma": "distant",
-      "kind": "word",
       "type": "outline",
-      "ctx": "远的，遥远的",
-      "forms": [],
-      "phonetic": "[ˈdɪstənt]",
-      "memory": [
-        "词根记忆：di(s)（分开）+stant（站）→分开站的→远的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "远的，遥远的"
-        }
-      ]
+      "ctx": "远的，遥远的"
     },
     {
       "word": "continuously",
-      "lemma": "continuously",
-      "kind": "word",
       "type": "core",
-      "ctx": "不断地，连续地",
-      "forms": [],
-      "phonetic": "[kənˈtɪnjuəsli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "不断地，连续地"
-        }
-      ]
+      "ctx": "不断地，连续地"
     },
     {
       "word": "dizzy",
-      "lemma": "dizzy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "头晕目眩的",
-      "forms": [],
-      "phonetic": "[ˈdɪzi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "头晕目眩的"
-        }
-      ]
+      "ctx": "头晕目眩的"
     },
     {
       "word": "price",
-      "lemma": "price",
-      "kind": "word",
       "type": "outline",
-      "ctx": "价格",
-      "forms": [
-        {
-          "surface": "prices",
-          "tag": "plural"
-        },
-        {
-          "surface": "prices",
-          "tag": "third_person"
-        },
-        {
-          "surface": "priced",
-          "tag": "past"
-        },
-        {
-          "surface": "priced",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "pricing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[praɪs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "价格；代价"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "给……定价"
-        }
-      ]
+      "ctx": "价格"
     },
     {
       "word": "treasure",
-      "lemma": "treasure",
-      "kind": "word",
       "type": "outline",
-      "ctx": "金银财宝，财富",
-      "forms": [],
-      "phonetic": "[ˈtreʒə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "金银财宝，财富"
-        }
-      ]
+      "ctx": "金银财宝，财富"
     },
     {
       "word": "salesman",
-      "lemma": "salesman",
-      "kind": "word",
       "type": "outline",
-      "ctx": "售货员，推销员",
-      "forms": [],
-      "phonetic": "[ˈseɪlzmən]",
-      "memory": [
-        "合成词：sales（销售）+man（人）→售货员"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "售货员，推销员"
-        }
-      ]
+      "ctx": "售货员，推销员"
     },
     {
       "word": "personally",
-      "lemma": "personally",
-      "kind": "word",
       "type": "core",
-      "ctx": "就本人而言",
-      "forms": [],
-      "phonetic": "[ˈpɜːsənəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "就本人而言；本人；当面地"
-        }
-      ]
+      "ctx": "就本人而言"
     },
     {
       "word": "phone",
-      "lemma": "phone",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（=telephone）打电话",
-      "forms": [
-        {
-          "surface": "phones",
-          "tag": "third_person"
-        },
-        {
-          "surface": "phoned",
-          "tag": "past"
-        },
-        {
-          "surface": "phoned",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "phoning",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[fəʊn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（=telephone）打电话"
-        },
-        {
-          "pos": "n.",
-          "meaning": "电话，电话机"
-        }
-      ]
+      "ctx": "（=telephone）打电话"
     },
     {
       "word": "frightened",
-      "lemma": "frightened",
-      "kind": "word",
       "type": "outline",
-      "ctx": "受惊的，害怕的",
-      "forms": [],
-      "phonetic": "[ˈfraɪtnd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "受惊的，害怕的",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "When the gorillas and I frightened each other, I was just glad to find them alive.当我和大猩猩们把彼此都吓了一跳的时候，我只是很高兴发现它们还活着。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "受惊的，害怕的"
     },
     {
       "word": "disappointed",
-      "lemma": "disappointed",
-      "kind": "word",
       "type": "outline",
-      "ctx": "失望的",
-      "forms": [],
-      "phonetic": "[ˌdɪsəˈpɔɪntɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "失望的"
-        }
-      ]
+      "ctx": "失望的"
     },
     {
       "word": "grand",
-      "lemma": "grand",
-      "kind": "word",
       "type": "outline",
-      "ctx": "宏伟的",
-      "forms": [],
-      "phonetic": "[ɡrænd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "宏伟的；壮丽的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "grand openinw隆重开业"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "宏伟的"
     },
     {
       "word": "tower",
-      "lemma": "tower",
-      "kind": "word",
       "type": "outline",
-      "ctx": "塔，塔楼",
-      "forms": [],
-      "phonetic": "[ˈtaʊə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "塔，塔楼"
-        }
-      ]
+      "ctx": "塔，塔楼"
     },
     {
       "word": "astronomer",
-      "lemma": "astronomer",
-      "kind": "word",
       "type": "outline",
-      "ctx": "天文学家",
-      "forms": [],
-      "phonetic": "[əˈstrɒnəmə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "天文学家"
-        }
-      ]
+      "ctx": "天文学家"
     },
     {
       "word": "career",
-      "lemma": "career",
-      "kind": "word",
       "type": "outline",
-      "ctx": "生涯",
-      "forms": [],
-      "phonetic": "[kəˈrɪə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "生涯；事业，职业",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "scientific career科学事业"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "生涯"
     },
     {
       "word": "relieve",
-      "lemma": "relieve",
-      "kind": "word",
       "type": "core",
-      "ctx": "减轻，缓和",
-      "forms": [
-        {
-          "surface": "relieves",
-          "tag": "third_person"
-        },
-        {
-          "surface": "relieved",
-          "tag": "past"
-        },
-        {
-          "surface": "relieved",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "relieving",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rɪˈliːv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "减轻，缓和；缓解"
-        }
-      ]
+      "ctx": "减轻，缓和"
     },
     {
       "word": "German",
-      "lemma": "German",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "德国的",
-      "forms": [],
-      "phonetic": "[ˈdʒɜːmən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "德国的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "德国人；德语"
-        }
-      ]
+      "ctx": "德国的"
     },
     {
       "word": "Russian",
-      "lemma": "Russian",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "俄罗斯的",
-      "forms": [],
-      "phonetic": "[ˈrʌʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "俄罗斯的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "Russia*（ n. 俄罗斯）"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "俄罗斯人；俄语"
-        }
-      ]
+      "ctx": "俄罗斯的"
     },
     {
       "word": "guitar",
-      "lemma": "guitar",
-      "kind": "word",
       "type": "outline",
-      "ctx": "吉他",
-      "forms": [],
-      "phonetic": "[ɡɪˈtɑː(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "吉他"
-        }
-      ]
+      "ctx": "吉他"
     },
     {
       "word": "apart",
-      "lemma": "apart",
-      "kind": "word",
       "type": "outline",
-      "ctx": "相隔",
-      "forms": [],
-      "phonetic": "[əˈpɑːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "相隔；分离",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "apart from除……以外"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "相隔"
     },
     {
       "word": "income",
-      "lemma": "income",
-      "kind": "word",
       "type": "outline",
-      "ctx": "收入",
-      "forms": [],
-      "phonetic": "[ˈɪnkʌm]",
-      "memory": [
-        "联想记忆：in（进入）+come（来）→进来的东西→收入"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "收入"
-        }
-      ]
+      "ctx": "收入"
     },
     {
       "word": "aside",
-      "lemma": "aside",
-      "kind": "word",
       "type": "outline",
-      "ctx": "在旁边",
-      "forms": [],
-      "phonetic": "[əˈsaɪd]",
-      "memory": [
-        "词根记忆：a（在……）+side（旁边）→在旁边"
-      ],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "在旁边",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "set aside省出，留出；把……放到一旁"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "在旁边"
     },
     {
       "word": "nine",
-      "lemma": "nine",
-      "kind": "word",
       "type": "outline",
-      "ctx": "九",
-      "forms": [],
-      "phonetic": "[naɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "num.",
-          "meaning": "九"
-        }
-      ]
+      "ctx": "九"
     },
     {
       "word": "gym",
-      "lemma": "gym",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（=gymnasium）体育馆，健身房",
-      "forms": [],
-      "phonetic": "[dʒɪm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（=gymnasium）体育馆，健身房"
-        }
-      ]
+      "ctx": "（=gymnasium）体育馆，健身房"
     },
     {
       "word": "regular",
-      "lemma": "regular",
-      "kind": "word",
       "type": "outline",
-      "ctx": "规则的，有规律的",
-      "forms": [],
-      "phonetic": "[ˈreɡjələ(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "规则的，有规律的；经常的；常去某地的；均匀的；固定的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "the train's regular schedule火车的常规时刻表"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "规则的，有规律的"
     },
     {
       "word": "better",
-      "lemma": "better",
-      "kind": "word",
       "type": "outline",
-      "ctx": "更好的",
-      "forms": [],
-      "phonetic": "[ˈbetə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "更好的；（病况、心情）有好转的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "for better or worse不论好坏，不管怎样"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "adv.",
-          "meaning": "更，更好地"
-        }
-      ]
+      "ctx": "更好的"
     },
     {
       "word": "traveler",
-      "lemma": "traveler",
-      "kind": "word",
       "type": "core",
-      "ctx": "旅行者",
-      "forms": [
-        {
-          "surface": "travelers",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈtrævələ(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "旅行者"
-        }
-      ]
+      "ctx": "旅行者"
     },
     {
       "word": "connect",
-      "lemma": "connect",
-      "kind": "word",
       "type": "outline",
-      "ctx": "连接",
-      "forms": [
-        {
-          "surface": "connects",
-          "tag": "third_person"
-        },
-        {
-          "surface": "connected",
-          "tag": "past"
-        },
-        {
-          "surface": "connected",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "connecting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kəˈnekt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "连接；把……联系起来"
-        }
-      ]
+      "ctx": "连接"
     },
     {
       "word": "service",
-      "lemma": "service",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U]服务",
-      "forms": [],
-      "phonetic": "[ˈsɜːvɪs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]服务；[C]公共服务系统；维修"
-        }
-      ]
+      "ctx": "[U]服务"
     },
     {
       "word": "staff",
-      "lemma": "staff",
-      "kind": "word",
       "type": "outline",
-      "ctx": "全体职员",
-      "forms": [],
-      "phonetic": "[stɑːf]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "全体职员",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "the staff of a school学校的教职员工"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "全体职员"
     },
     {
       "word": "ticket",
-      "lemma": "ticket",
-      "kind": "word",
       "type": "outline",
-      "ctx": "票，入场券",
-      "forms": [],
-      "phonetic": "[ˈtɪkɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "票，入场券；罚款单"
-        }
-      ]
+      "ctx": "票，入场券"
     },
     {
       "word": "flight",
-      "lemma": "flight",
-      "kind": "word",
       "type": "outline",
-      "ctx": "飞行",
-      "forms": [],
-      "phonetic": "[flaɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "飞行；航班；楼梯的一段"
-        }
-      ]
+      "ctx": "飞行"
     }
   ]
 }

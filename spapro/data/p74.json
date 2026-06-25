@@ -34,929 +34,223 @@
   "vocab": [
     {
       "word": "crazy",
-      "lemma": "crazy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "疯狂的",
-      "forms": [],
-      "phonetic": "[ˈkreɪzi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "疯狂的"
-        }
-      ]
+      "ctx": "疯狂的"
     },
     {
       "word": "shortly",
-      "lemma": "shortly",
-      "kind": "word",
       "type": "core",
-      "ctx": "不多时，不久",
-      "forms": [],
-      "phonetic": "[ˈʃɔːtli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "不多时，不久；马上"
-        }
-      ]
+      "ctx": "不多时，不久"
     },
     {
       "word": "rabbit",
-      "lemma": "rabbit",
-      "kind": "word",
       "type": "outline",
-      "ctx": "兔子",
-      "forms": [],
-      "phonetic": "[ˈræbɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "兔子"
-        }
-      ]
+      "ctx": "兔子"
     },
     {
       "word": "defensive",
-      "lemma": "defensive",
-      "kind": "word",
       "type": "core",
-      "ctx": "百般辩解的",
-      "forms": [],
-      "phonetic": "[dɪˈfensɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "百般辩解的；防御的；自卫的"
-        }
-      ]
+      "ctx": "百般辩解的"
     },
     {
       "word": "coworker",
-      "lemma": "coworker",
-      "kind": "word",
       "type": "core",
-      "ctx": "同事",
-      "forms": [
-        {
-          "surface": "coworkers",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈkəʊwɜːkə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "同事"
-        }
-      ]
+      "ctx": "同事"
     },
     {
       "word": "occasionally",
-      "lemma": "occasionally",
-      "kind": "word",
       "type": "core",
-      "ctx": "偶尔",
-      "forms": [],
-      "phonetic": "[əˈkeɪʒnəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "偶尔"
-        }
-      ]
+      "ctx": "偶尔"
     },
     {
       "word": "laugh",
-      "lemma": "laugh",
-      "kind": "word",
       "type": "outline",
-      "ctx": "笑",
-      "forms": [
-        {
-          "surface": "laughs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "laughed",
-          "tag": "past"
-        },
-        {
-          "surface": "laughed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "laughing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[lɑːf]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "笑；嘲笑",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "laugh at嘲笑"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "笑声；引人发笑的人或事"
-        }
-      ]
+      "ctx": "笑"
     },
     {
       "word": "unusual",
-      "lemma": "unusual",
-      "kind": "word",
       "type": "outline",
-      "ctx": "不寻常的",
-      "forms": [],
-      "phonetic": "[ʌnˈjuːʒuəl; ʌnˈjuːʒəl]",
-      "memory": [
-        "词根记忆：un（不）+usual（寻常的）→不寻常的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "不寻常的；独特的"
-        }
-      ]
+      "ctx": "不寻常的"
     },
     {
       "word": "certain",
-      "lemma": "certain",
-      "kind": "word",
       "type": "outline",
-      "ctx": "确信，确定，无疑",
-      "forms": [],
-      "phonetic": "[ˈsɜːtn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "确信，确定，无疑"
-        },
-        {
-          "pos": "pron.",
-          "meaning": "某些"
-        }
-      ]
+      "ctx": "确信，确定，无疑"
     },
     {
       "word": "growing",
-      "lemma": "growing",
-      "kind": "word",
       "type": "core",
-      "ctx": "增加的，增长的，增强的",
-      "forms": [],
-      "phonetic": "[ˈɡrəʊɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "增加的，增长的，增强的"
-        }
-      ]
+      "ctx": "增加的，增长的，增强的"
     },
     {
       "word": "holistic",
-      "lemma": "holistic",
-      "kind": "word",
       "type": "core",
-      "ctx": "整体的",
-      "forms": [],
-      "phonetic": "[həˈlɪstɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "整体的；全面的"
-        }
-      ]
+      "ctx": "整体的"
     },
     {
       "word": "treatment",
-      "lemma": "treatment",
-      "kind": "word",
       "type": "outline",
-      "ctx": "对待，待遇",
-      "forms": [
-        {
-          "surface": "treatments",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈtriːtmənt]",
-      "memory": [
-        "来自treat（ vt. 对待；治疗）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "对待，待遇；治疗，疗法；处理",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "under treatment在治疗中"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "对待，待遇"
     },
     {
       "word": "herbal",
-      "lemma": "herbal",
-      "kind": "word",
       "type": "core",
-      "ctx": "药草的",
-      "forms": [],
-      "phonetic": "[ˈhɜːbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "药草的；香草的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "草药志"
-        }
-      ]
+      "ctx": "药草的"
     },
     {
       "word": "conventional",
-      "lemma": "conventional",
-      "kind": "word",
       "type": "outline",
-      "ctx": "依照惯例的",
-      "forms": [],
-      "phonetic": "[kənˈvenʃənl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "依照惯例的；传统的；常规的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a conventional design传统样式"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "依照惯例的"
     },
     {
       "word": "terrible",
-      "lemma": "terrible",
-      "kind": "word",
       "type": "outline",
-      "ctx": "可怕的",
-      "forms": [],
-      "phonetic": "[ˈterəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "可怕的；非常严重的；劣质的"
-        }
-      ]
+      "ctx": "可怕的"
     },
     {
       "word": "drug",
-      "lemma": "drug",
-      "kind": "word",
       "type": "outline",
-      "ctx": "药，药物",
-      "forms": [
-        {
-          "surface": "drugs",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[drʌɡ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "药，药物；毒品",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a drug store药店take drugs服药；吸毒"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "药，药物"
     },
     {
       "word": "relief",
-      "lemma": "relief",
-      "kind": "word",
       "type": "outline",
-      "ctx": "宽慰，轻松，解脱",
-      "forms": [],
-      "phonetic": "[rɪˈliːf]",
-      "memory": [
-        "联想记忆：信仰（belief）可以使人的心灵得到宽慰（relief）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "宽慰，轻松，解脱；减轻，消除，缓和"
-        }
-      ]
+      "ctx": "宽慰，轻松，解脱"
     },
     {
       "word": "ancient",
-      "lemma": "ancient",
-      "kind": "word",
       "type": "outline",
-      "ctx": "古代的",
-      "forms": [],
-      "phonetic": "[ˈeɪnʃənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "古代的；古老的"
-        }
-      ]
+      "ctx": "古代的"
     },
     {
       "word": "comprehensive",
-      "lemma": "comprehensive",
-      "kind": "word",
       "type": "outline",
-      "ctx": "全面的",
-      "forms": [],
-      "phonetic": "[ˌkɒmprɪˈhensɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "全面的；详尽的；综合的"
-        }
-      ]
+      "ctx": "全面的"
     },
     {
       "word": "domestic",
-      "lemma": "domestic",
-      "kind": "word",
       "type": "outline",
-      "ctx": "国内的",
-      "forms": [],
-      "phonetic": "[dəˈmestɪk]",
-      "memory": [
-        "词根记忆：dom（房屋）+estic（……的）→房子里的→家庭的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "国内的；家庭的；家用的；家养的"
-        }
-      ]
+      "ctx": "国内的"
     },
     {
       "word": "cattle",
-      "lemma": "cattle",
-      "kind": "word",
       "type": "outline",
-      "ctx": "牛",
-      "forms": [],
-      "phonetic": "[ˈkætl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "牛"
-        }
-      ]
+      "ctx": "牛"
     },
     {
       "word": "pig",
-      "lemma": "pig",
-      "kind": "word",
       "type": "outline",
-      "ctx": "猪",
-      "forms": [
-        {
-          "surface": "pigs",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[pɪɡ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "猪"
-        }
-      ]
+      "ctx": "猪"
     },
     {
       "word": "couple",
-      "lemma": "couple",
-      "kind": "word",
       "type": "outline",
-      "ctx": "两个",
-      "forms": [],
-      "phonetic": "[ˈkʌpl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "两个；几个；夫妻；（人）一对",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a couple of两个；几个"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "两个"
     },
     {
       "word": "sick",
-      "lemma": "sick",
-      "kind": "word",
       "type": "outline",
-      "ctx": "生病的",
-      "forms": [],
-      "phonetic": "[sɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "生病的；恶心的"
-        }
-      ]
+      "ctx": "生病的"
     },
     {
       "word": "representative",
-      "lemma": "representative",
-      "kind": "word",
       "type": "outline",
-      "ctx": "代表",
-      "forms": [],
-      "phonetic": "[ˌreprɪˈzentətɪv]",
-      "memory": [
-        "词根记忆：represent（代表）+ative（表形容词）→有代表性的"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "代表",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "behalf*（ n. 代表）"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "adj.",
-          "meaning": "典型的，有代表性的"
-        }
-      ]
+      "ctx": "代表"
     },
     {
       "word": "clinic",
-      "lemma": "clinic",
-      "kind": "word",
       "type": "outline",
-      "ctx": "诊所",
-      "forms": [],
-      "phonetic": "[ˈklɪnɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "诊所"
-        }
-      ]
+      "ctx": "诊所"
     },
     {
       "word": "surgeon",
-      "lemma": "surgeon",
-      "kind": "word",
       "type": "outline",
-      "ctx": "外科医生",
-      "forms": [
-        {
-          "surface": "surgeons",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈsɜːdʒən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "外科医生"
-        }
-      ]
+      "ctx": "外科医生"
     },
     {
       "word": "inspection",
-      "lemma": "inspection",
-      "kind": "word",
       "type": "outline",
-      "ctx": "检查",
-      "forms": [],
-      "phonetic": "[ɪnˈspekʃn]",
-      "memory": [
-        "来自inspect（ vt. 检查；视察）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "检查；视察"
-        }
-      ]
+      "ctx": "检查"
     },
     {
       "word": "needle",
-      "lemma": "needle",
-      "kind": "word",
       "type": "outline",
-      "ctx": "针",
-      "forms": [
-        {
-          "surface": "needles",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈniːdl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "针；注射针，针头；指针"
-        }
-      ]
+      "ctx": "针"
     },
     {
       "word": "pill",
-      "lemma": "pill",
-      "kind": "word",
       "type": "outline",
-      "ctx": "药丸，药片",
-      "forms": [
-        {
-          "surface": "pills",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[pɪl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "药丸，药片"
-        }
-      ]
+      "ctx": "药丸，药片"
     },
     {
       "word": "neat",
-      "lemma": "neat",
-      "kind": "word",
       "type": "outline",
-      "ctx": "整洁的",
-      "forms": [],
-      "phonetic": "[niːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "整洁的；有条理的；小巧优雅的；简洁的",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "These pieces can be folded into a neat little pack and fastened on your belt.这些零件可以被折叠起来，放进一个整洁的小包，系在你的腰带上。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "整洁的"
     },
     {
       "word": "humble",
-      "lemma": "humble",
-      "kind": "word",
       "type": "outline",
-      "ctx": "谦逊的",
-      "forms": [
-        {
-          "surface": "humbles",
-          "tag": "third_person"
-        },
-        {
-          "surface": "humbled",
-          "tag": "past"
-        },
-        {
-          "surface": "humbled",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "humbling",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈhʌmbl]",
-      "memory": [
-        "词根记忆：hum（地）+ble→接近地的→低下的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "谦逊的；（级别或地位）低下的；没有特别之处的",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "The artist was finally humbled by the greatest artist on earth, Mother Nature.这位艺术家最终被地球上最伟大的艺术家——大自然——所折服。"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "v.",
-          "meaning": "贬低；使感到卑微；使谦逊"
-        }
-      ]
+      "ctx": "谦逊的"
     },
     {
       "word": "cow",
-      "lemma": "cow",
-      "kind": "word",
       "type": "outline",
-      "ctx": "母牛，奶牛",
-      "forms": [],
-      "phonetic": "[kaʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "母牛，奶牛"
-        }
-      ]
+      "ctx": "母牛，奶牛"
     },
     {
       "word": "stomach",
-      "lemma": "stomach",
-      "kind": "word",
       "type": "outline",
-      "ctx": "胃",
-      "forms": [],
-      "phonetic": "[ˈstʌmək]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "胃；腹部"
-        }
-      ]
+      "ctx": "胃"
     },
     {
       "word": "attack",
-      "lemma": "attack",
-      "kind": "word",
       "type": "outline",
-      "ctx": "袭击，攻击",
-      "forms": [
-        {
-          "surface": "attacks",
-          "tag": "third_person"
-        },
-        {
-          "surface": "attacked",
-          "tag": "past"
-        },
-        {
-          "surface": "attacked",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "attacking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈtæk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "袭击，攻击；（疾病的）发作，侵袭"
-        },
-        {
-          "pos": "v.",
-          "meaning": "袭击，攻击"
-        }
-      ]
+      "ctx": "袭击，攻击"
     },
     {
       "word": "alive",
-      "lemma": "alive",
-      "kind": "word",
       "type": "outline",
-      "ctx": "活着的",
-      "forms": [],
-      "phonetic": "[əˈlaɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "活着的；存在的；有生气的，有活力的"
-        }
-      ]
+      "ctx": "活着的"
     },
     {
       "word": "joint",
-      "lemma": "joint",
-      "kind": "word",
       "type": "outline",
-      "ctx": "共同的",
-      "forms": [],
-      "phonetic": "[dʒɔɪnt]",
-      "memory": [
-        "联想记忆：join（结合）+t→联合的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "共同的；联合的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a joint venture合资企业"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "关节；连接处"
-        }
-      ]
+      "ctx": "共同的"
     },
     {
       "word": "stair",
-      "lemma": "stair",
-      "kind": "word",
       "type": "outline",
-      "ctx": "楼梯",
-      "forms": [
-        {
-          "surface": "stairs",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[steə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "楼梯"
-        }
-      ]
+      "ctx": "楼梯"
     },
     {
       "word": "teenager",
-      "lemma": "teenager",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（13～19岁的）青少年",
-      "forms": [],
-      "phonetic": "[ˈtiːneɪdʒə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（13～19岁的）青少年"
-        }
-      ]
+      "ctx": "（13～19岁的）青少年"
     },
     {
       "word": "deer",
-      "lemma": "deer",
-      "kind": "word",
       "type": "outline",
-      "ctx": "鹿（单复数同形）",
-      "forms": [],
-      "phonetic": "[dɪə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "鹿（单复数同形）"
-        }
-      ]
+      "ctx": "鹿（单复数同形）"
     },
     {
       "word": "odd",
-      "lemma": "odd",
-      "kind": "word",
       "type": "outline",
-      "ctx": "奇怪的",
-      "forms": [],
-      "phonetic": "[ɒd]",
-      "memory": [
-        "联想记忆：奇奇（odd）相加（add）为偶"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "奇怪的；偶尔发生的；奇数的；单只的"
-        }
-      ]
+      "ctx": "奇怪的"
     },
     {
       "word": "infection",
-      "lemma": "infection",
-      "kind": "word",
       "type": "outline",
-      "ctx": "传染，感染",
-      "forms": [],
-      "phonetic": "[ɪnˈfekʃn]",
-      "memory": [
-        "来自infect（ vt. 传染，感染）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "传染，感染；传染病"
-        }
-      ]
+      "ctx": "传染，感染"
     },
     {
       "word": "indication",
-      "lemma": "indication",
-      "kind": "word",
       "type": "core",
-      "ctx": "表明",
-      "forms": [],
-      "phonetic": "[ˌɪndɪˈkeɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "表明；迹象；显示；象征"
-        }
-      ]
+      "ctx": "表明"
     },
     {
       "word": "membership",
-      "lemma": "membership",
-      "kind": "word",
       "type": "outline",
-      "ctx": "会员身份，成员资格",
-      "forms": [],
-      "phonetic": "[ˈmembəʃɪp]",
-      "memory": [
-        "来自member（ n. 会员，成员）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "会员身份，成员资格；会员人数"
-        }
-      ]
+      "ctx": "会员身份，成员资格"
     }
   ]
 }

@@ -29,994 +29,218 @@
   "vocab": [
     {
       "word": "breath",
-      "lemma": "breath",
-      "kind": "word",
       "type": "outline",
-      "ctx": "呼吸",
-      "forms": [
-        {
-          "surface": "breathing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[breθ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "呼吸；一次吸入的空气",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "take a breath吸气；停下来休息hold one's breath屏住呼吸out of breath（运动后）喘不上气"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "呼吸"
     },
     {
       "word": "camping",
-      "lemma": "camping",
-      "kind": "word",
       "type": "core",
-      "ctx": "野营度假",
-      "forms": [],
-      "phonetic": "[ˈkæmpɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "野营度假",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "go camping去露营"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "野营度假"
     },
     {
       "word": "clean",
-      "lemma": "clean",
-      "kind": "word",
       "type": "outline",
-      "ctx": "干净的",
-      "forms": [
-        {
-          "surface": "cleans",
-          "tag": "third_person"
-        },
-        {
-          "surface": "cleaned",
-          "tag": "past"
-        },
-        {
-          "surface": "cleaned",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "cleaning",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kliːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "干净的；无污染的"
-        },
-        {
-          "pos": "v.",
-          "meaning": "打扫，使……干净；清洁"
-        }
-      ]
+      "ctx": "干净的"
     },
     {
       "word": "lung",
-      "lemma": "lung",
-      "kind": "word",
       "type": "outline",
-      "ctx": "肺",
-      "forms": [
-        {
-          "surface": "lungs",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[lʌŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "肺"
-        }
-      ]
+      "ctx": "肺"
     },
     {
       "word": "flu",
-      "lemma": "flu",
-      "kind": "word",
       "type": "outline",
-      "ctx": "流行性感冒，流感",
-      "forms": [],
-      "phonetic": "[fluː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "流行性感冒，流感"
-        }
-      ]
+      "ctx": "流行性感冒，流感"
     },
     {
       "word": "cough",
-      "lemma": "cough",
-      "kind": "word",
       "type": "outline",
-      "ctx": "咳嗽",
-      "forms": [
-        {
-          "surface": "coughs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "coughed",
-          "tag": "past"
-        },
-        {
-          "surface": "coughed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "coughing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kɒf]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "/"
-        },
-        {
-          "pos": "v.",
-          "meaning": "咳嗽"
-        }
-      ]
+      "ctx": "咳嗽"
     },
     {
       "word": "breathe",
-      "lemma": "breathe",
-      "kind": "word",
       "type": "outline",
-      "ctx": "呼吸",
-      "forms": [
-        {
-          "surface": "breathes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "breathed",
-          "tag": "past"
-        },
-        {
-          "surface": "breathed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "breathing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[briːð]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "呼吸",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "breathe in吸入breathe out呼出"
-              ]
-            },
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Most of us volunteers breathe a sigh of relief when the season comes to a close.当这个赛季结束时，我们大多数志愿者都松了一口气。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "呼吸"
     },
     {
       "word": "smog",
-      "lemma": "smog",
-      "kind": "word",
       "type": "outline",
-      "ctx": "烟雾",
-      "forms": [],
-      "phonetic": "[smɒɡ]",
-      "memory": [
-        "合成词：由smoke（烟）的首部和fog（雾）的尾部组合而成→ smog（烟雾）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "烟雾"
-        }
-      ]
+      "ctx": "烟雾"
     },
     {
       "word": "life-giving",
-      "lemma": "life-giving",
-      "kind": "word",
       "type": "core",
-      "ctx": "赋予生命的，维持生命的",
-      "forms": [],
-      "phonetic": "[ˈlaɪf ɡɪvɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "赋予生命的，维持生命的"
-        }
-      ]
+      "ctx": "赋予生命的，维持生命的"
     },
     {
       "word": "energize",
-      "lemma": "energize",
-      "kind": "word",
       "type": "core",
-      "ctx": "使充满活力，使精力充沛",
-      "forms": [
-        {
-          "surface": "energizes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "energized",
-          "tag": "past"
-        },
-        {
-          "surface": "energized",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "energizing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈenədʒaɪz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "使充满活力，使精力充沛"
-        }
-      ]
+      "ctx": "使充满活力，使精力充沛"
     },
     {
       "word": "door",
-      "lemma": "door",
-      "kind": "word",
       "type": "outline",
-      "ctx": "门",
-      "forms": [
-        {
-          "surface": "doors",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[dɔː(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "门；门口",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "gate*（ n. 大门）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "门"
     },
     {
       "word": "bike",
-      "lemma": "bike",
-      "kind": "word",
       "type": "outline",
-      "ctx": "自行车",
-      "forms": [],
-      "phonetic": "[baɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "自行车"
-        }
-      ]
+      "ctx": "自行车"
     },
     {
       "word": "hike",
-      "lemma": "hike",
-      "kind": "word",
       "type": "outline",
-      "ctx": "远足，徒步旅行",
-      "forms": [
-        {
-          "surface": "hikes",
-          "tag": "plural"
-        },
-        {
-          "surface": "hikes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "hiked",
-          "tag": "past"
-        },
-        {
-          "surface": "hiked",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "hiking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[haɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "远足，徒步旅行"
-        },
-        {
-          "pos": "v.",
-          "meaning": "去……远足，做徒步旅行"
-        }
-      ]
+      "ctx": "远足，徒步旅行"
     },
     {
       "word": "muscle",
-      "lemma": "muscle",
-      "kind": "word",
       "type": "outline",
-      "ctx": "肌肉",
-      "forms": [
-        {
-          "surface": "muscles",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈmʌsl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "肌肉"
-        }
-      ]
+      "ctx": "肌肉"
     },
     {
       "word": "natural",
-      "lemma": "natural",
-      "kind": "word",
       "type": "outline",
-      "ctx": "自然的，天然的",
-      "forms": [],
-      "phonetic": "[ˈnætʃrəl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "自然的，天然的；天生的"
-        }
-      ]
+      "ctx": "自然的，天然的"
     },
     {
       "word": "fountain",
-      "lemma": "fountain",
-      "kind": "word",
       "type": "outline",
-      "ctx": "喷泉",
-      "forms": [],
-      "phonetic": "[ˈfaʊntən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "喷泉；源泉"
-        }
-      ]
+      "ctx": "喷泉"
     },
     {
       "word": "rainbow",
-      "lemma": "rainbow",
-      "kind": "word",
       "type": "outline",
-      "ctx": "彩虹",
-      "forms": [],
-      "phonetic": "[ˈreɪnbəʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "彩虹"
-        }
-      ]
+      "ctx": "彩虹"
     },
     {
       "word": "windy",
-      "lemma": "windy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "有风的，多风的",
-      "forms": [],
-      "phonetic": "[ˈwɪndi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "有风的，多风的"
-        }
-      ]
+      "ctx": "有风的，多风的"
     },
     {
       "word": "weather",
-      "lemma": "weather",
-      "kind": "word",
       "type": "outline",
-      "ctx": "天气",
-      "forms": [],
-      "phonetic": "[ˈweðə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "天气"
-        }
-      ]
+      "ctx": "天气"
     },
     {
       "word": "recovery",
-      "lemma": "recovery",
-      "kind": "word",
       "type": "core",
-      "ctx": "恢复，痊愈",
-      "forms": [],
-      "phonetic": "[rɪˈkʌvəri]",
-      "memory": [
-        "来自recover（ vi. 恢复 vt. 找回）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "恢复，痊愈；复苏；收回"
-        }
-      ]
+      "ctx": "恢复，痊愈"
     },
     {
       "word": "grass",
-      "lemma": "grass",
-      "kind": "word",
       "type": "outline",
-      "ctx": "草，牧草",
-      "forms": [],
-      "phonetic": "[ɡrɑːs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "草，牧草；草地，草坪，草场"
-        }
-      ]
+      "ctx": "草，牧草"
     },
     {
       "word": "greenery",
-      "lemma": "greenery",
-      "kind": "word",
       "type": "core",
-      "ctx": "青枝绿叶，绿色植物",
-      "forms": [],
-      "phonetic": "[ˈɡriːnəri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "青枝绿叶，绿色植物"
-        }
-      ]
+      "ctx": "青枝绿叶，绿色植物"
     },
     {
       "word": "hospital",
-      "lemma": "hospital",
-      "kind": "word",
       "type": "outline",
-      "ctx": "医院",
-      "forms": [],
-      "phonetic": "[ˈhɒspɪtl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "医院",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "ward*（ n. 病房）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "医院"
     },
     {
       "word": "branch",
-      "lemma": "branch",
-      "kind": "word",
       "type": "outline",
-      "ctx": "树枝",
-      "forms": [
-        {
-          "surface": "branches",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[brɑːntʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "树枝；分支，分部；分公司"
-        }
-      ]
+      "ctx": "树枝"
     },
     {
       "word": "window",
-      "lemma": "window",
-      "kind": "word",
       "type": "outline",
-      "ctx": "窗户，窗口",
-      "forms": [],
-      "phonetic": "[ˈwɪndəʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "窗户，窗口"
-        }
-      ]
+      "ctx": "窗户，窗口"
     },
     {
       "word": "fast",
-      "lemma": "fast",
-      "kind": "word",
       "type": "outline",
-      "ctx": "快的，迅速的，敏捷的",
-      "forms": [],
-      "phonetic": "[fɑːst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "快的，迅速的，敏捷的"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "快地；迅速地"
-        }
-      ]
+      "ctx": "快的，迅速的，敏捷的"
     },
     {
       "word": "building",
-      "lemma": "building",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[C]建筑物，房子",
-      "forms": [
-        {
-          "surface": "buildings",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈbɪldɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[C]建筑物，房子；[U]建筑"
-        }
-      ]
+      "ctx": "[C]建筑物，房子"
     },
     {
       "word": "sky",
-      "lemma": "sky",
-      "kind": "word",
       "type": "outline",
-      "ctx": "天，天空",
-      "forms": [],
-      "phonetic": "[skaɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "天，天空"
-        }
-      ]
+      "ctx": "天，天空"
     },
     {
       "word": "eagle",
-      "lemma": "eagle",
-      "kind": "word",
       "type": "outline",
-      "ctx": "鹰",
-      "forms": [],
-      "phonetic": "[ˈiːɡl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "鹰"
-        }
-      ]
+      "ctx": "鹰"
     },
     {
       "word": "peace",
-      "lemma": "peace",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U]和平",
-      "forms": [],
-      "phonetic": "[piːs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]和平；平静，宁静"
-        }
-      ]
+      "ctx": "[U]和平"
     },
     {
       "word": "sunlight",
-      "lemma": "sunlight",
-      "kind": "word",
       "type": "core",
-      "ctx": "阳光，日光",
-      "forms": [],
-      "phonetic": "[ˈsʌnlaɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "阳光，日光"
-        }
-      ]
+      "ctx": "阳光，日光"
     },
     {
       "word": "ray",
-      "lemma": "ray",
-      "kind": "word",
       "type": "outline",
-      "ctx": "光线",
-      "forms": [
-        {
-          "surface": "rays",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[reɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "光线",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "X-ray*（ n. X射线，X光）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "光线"
     },
     {
       "word": "hurt",
-      "lemma": "hurt",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（使）疼痛，受伤",
-      "forms": [
-        {
-          "surface": "hurts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "hurt",
-          "tag": "past"
-        },
-        {
-          "surface": "hurt",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "hurting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[hɜːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）疼痛，受伤；感到疼痛；使烦恼"
-        }
-      ]
+      "ctx": "（使）疼痛，受伤"
     },
     {
       "word": "skin",
-      "lemma": "skin",
-      "kind": "word",
       "type": "outline",
-      "ctx": "皮，皮肤",
-      "forms": [],
-      "phonetic": "[skɪn]",
-      "memory": [
-        "联想记忆：滑雪（ski）时摔倒，划伤了皮肤（skin）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "皮，皮肤；兽皮；果皮，外皮；（尤指冷却时形成的）薄层"
-        }
-      ]
+      "ctx": "皮，皮肤"
     },
     {
       "word": "vitamin",
-      "lemma": "vitamin",
-      "kind": "word",
       "type": "core",
-      "ctx": "维生素",
-      "forms": [],
-      "phonetic": "[ˈvɪtəmɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "维生素"
-        }
-      ]
+      "ctx": "维生素"
     },
     {
       "word": "bone",
-      "lemma": "bone",
-      "kind": "word",
       "type": "outline",
-      "ctx": "骨头",
-      "forms": [
-        {
-          "surface": "bones",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[bəʊn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "骨头"
-        }
-      ]
+      "ctx": "骨头"
     },
     {
       "word": "cancer",
-      "lemma": "cancer",
-      "kind": "word",
       "type": "outline",
-      "ctx": "癌，癌症",
-      "forms": [],
-      "phonetic": "[ˈkænsə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "癌，癌症"
-        }
-      ]
+      "ctx": "癌，癌症"
     },
     {
       "word": "sunscreen",
-      "lemma": "sunscreen",
-      "kind": "word",
       "type": "core",
-      "ctx": "防晒霜",
-      "forms": [],
-      "phonetic": "[ˈsʌnskriːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "防晒霜"
-        }
-      ]
+      "ctx": "防晒霜"
     },
     {
       "word": "head",
-      "lemma": "head",
-      "kind": "word",
       "type": "outline",
-      "ctx": "头",
-      "forms": [
-        {
-          "surface": "heads",
-          "tag": "third_person"
-        },
-        {
-          "surface": "headed",
-          "tag": "past"
-        },
-        {
-          "surface": "headed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "heading",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[hed]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "头；头脑",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "head for出发去，前往"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vi.",
-          "meaning": "朝（某方向）行进"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "排在前头"
-        }
-      ]
+      "ctx": "头"
     },
     {
       "word": "fifteen",
-      "lemma": "fifteen",
-      "kind": "word",
       "type": "outline",
-      "ctx": "十五",
-      "forms": [],
-      "phonetic": "[ˌfɪfˈtiːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "num.",
-          "meaning": "十五"
-        }
-      ]
+      "ctx": "十五"
     },
     {
       "word": "absorb",
-      "lemma": "absorb",
-      "kind": "word",
       "type": "outline",
-      "ctx": "吸收",
-      "forms": [
-        {
-          "surface": "absorbs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "absorbed",
-          "tag": "past"
-        },
-        {
-          "surface": "absorbed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "absorbing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əbˈzɔːb; əbˈsɔːb]",
-      "memory": [
-        "词根记忆：ab（表加强）+sorb（吸收）→吸收"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "吸收；吸引全部注意力；理解"
-        }
-      ]
+      "ctx": "吸收"
     },
     {
       "word": "cheer",
-      "lemma": "cheer",
-      "kind": "word",
       "type": "outline",
-      "ctx": "欢呼，喝彩",
-      "forms": [
-        {
-          "surface": "cheers",
-          "tag": "third_person"
-        },
-        {
-          "surface": "cheered",
-          "tag": "past"
-        },
-        {
-          "surface": "cheered",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "cheering",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[tʃɪə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "欢呼，喝彩；欢乐（或幸福）的气氛"
-        },
-        {
-          "pos": "v.",
-          "meaning": "欢呼，喝彩；鼓励，鼓舞"
-        }
-      ]
+      "ctx": "欢呼，喝彩"
     },
     {
       "word": "sorrow",
-      "lemma": "sorrow",
-      "kind": "word",
       "type": "outline",
-      "ctx": "悲伤，悲痛",
-      "forms": [],
-      "phonetic": "[ˈsɒrəʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "悲伤，悲痛"
-        }
-      ]
+      "ctx": "悲伤，悲痛"
     }
   ]
 }

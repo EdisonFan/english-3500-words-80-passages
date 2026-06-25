@@ -39,1246 +39,263 @@
   "vocab": [
     {
       "word": "Asia",
-      "lemma": "Asia",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "亚洲",
-      "forms": [],
-      "phonetic": "[ˈeɪʒə]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "亚洲",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "Asian*（ n. 亚洲人 adj. 亚洲的）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "亚洲"
     },
     {
       "word": "platform",
-      "lemma": "platform",
-      "kind": "word",
       "type": "outline",
-      "ctx": "站台",
-      "forms": [
-        {
-          "surface": "platforms",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈplætfɔːm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "站台；讲台；平台"
-        }
-      ]
+      "ctx": "站台"
     },
     {
       "word": "user",
-      "lemma": "user",
-      "kind": "word",
       "type": "core",
-      "ctx": "使用者",
-      "forms": [
-        {
-          "surface": "users",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈjuːzə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "使用者"
-        }
-      ]
+      "ctx": "使用者"
     },
     {
       "word": "hundred",
-      "lemma": "hundred",
-      "kind": "word",
       "type": "outline",
-      "ctx": "一百，百",
-      "forms": [
-        {
-          "surface": "hundreds",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈhʌndrəd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "num.",
-          "meaning": "一百，百",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "hundreds of许多，大量"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "一百，百"
     },
     {
       "word": "market",
-      "lemma": "market",
-      "kind": "word",
       "type": "outline",
-      "ctx": "市场",
-      "forms": [],
-      "phonetic": "[ˈmɑːkɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "市场"
-        }
-      ]
+      "ctx": "市场"
     },
     {
       "word": "differ",
-      "lemma": "differ",
-      "kind": "word",
       "type": "outline",
-      "ctx": "相异，有区别",
-      "forms": [
-        {
-          "surface": "differs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "differed",
-          "tag": "past"
-        },
-        {
-          "surface": "differed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "differing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈdɪfə(r)]",
-      "memory": [
-        "词根记忆：dif（分开）+fer（带来）→分别带来→有区别"
-      ],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "相异，有区别",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "differ with sb.about/on/over sth.与某人持不同看法differ from...和……不同"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "相异，有区别"
     },
     {
       "word": "Internet",
-      "lemma": "Internet",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "互联网",
-      "forms": [],
-      "phonetic": "[ˈɪntənet]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "互联网"
-        }
-      ]
+      "ctx": "互联网"
     },
     {
       "word": "height",
-      "lemma": "height",
-      "kind": "word",
       "type": "outline",
-      "ctx": "高，高度",
-      "forms": [],
-      "phonetic": "[haɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "高，高度"
-        }
-      ]
+      "ctx": "高，高度"
     },
     {
       "word": "mobile phone",
-      "lemma": "mobile phone",
-      "kind": "phrase",
       "type": "outline",
-      "ctx": "移动电话，手机",
-      "forms": [],
-      "phonetic": "[ˌməʊbaɪl ˈfəʊn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "移动电话，手机"
-        }
-      ]
+      "ctx": "移动电话，手机"
     },
     {
       "word": "spread",
-      "lemma": "spread",
-      "kind": "word",
       "type": "outline",
-      "ctx": "展开",
-      "forms": [
-        {
-          "surface": "spreads",
-          "tag": "third_person"
-        },
-        {
-          "surface": "spread",
-          "tag": "past"
-        },
-        {
-          "surface": "spread",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "spreading",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[spred]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "展开；伸开；传播；蔓延",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "spread out展开"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "传播，蔓延"
-        }
-      ]
+      "ctx": "展开"
     },
     {
       "word": "globally",
-      "lemma": "globally",
-      "kind": "word",
       "type": "core",
-      "ctx": "全球地",
-      "forms": [],
-      "phonetic": "[ˈɡləʊbəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "全球地"
-        }
-      ]
+      "ctx": "全球地"
     },
     {
       "word": "decent",
-      "lemma": "decent",
-      "kind": "word",
       "type": "outline",
-      "ctx": "像样的，相当不错的",
-      "forms": [],
-      "phonetic": "[ˈdiːsnt]",
-      "memory": [
-        "联想记忆：最近的（recent）表现非常得体（decent）"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "像样的，相当不错的；正派的，合乎礼仪的；得体的，适当的；"
-        }
-      ]
+      "ctx": "像样的，相当不错的"
     },
     {
       "word": "percent",
-      "lemma": "percent",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（=per cent）百分之……",
-      "forms": [],
-      "phonetic": "[pəˈsent]",
-      "memory": [
-        "词根记忆：per（每）+cent（百）→每个一百里有多少→百分之……"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（=per cent）百分之……",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Pupils at about 90 percent of British secondary schools wear uniforms.在英国约90%的中学里，学生都穿校服。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "（=per cent）百分之……"
     },
     {
       "word": "employee",
-      "lemma": "employee",
-      "kind": "word",
       "type": "core",
-      "ctx": "受雇者，雇员，雇工",
-      "forms": [
-        {
-          "surface": "employees",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ɪmˈplɔɪiː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "受雇者，雇员，雇工"
-        }
-      ]
+      "ctx": "受雇者，雇员，雇工"
     },
     {
       "word": "customer",
-      "lemma": "customer",
-      "kind": "word",
       "type": "outline",
-      "ctx": "顾客",
-      "forms": [],
-      "phonetic": "[ˈkʌstəmə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "顾客",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "guest*（ n. 客人）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "顾客"
     },
     {
       "word": "update",
-      "lemma": "update",
-      "kind": "word",
       "type": "outline",
-      "ctx": "使现代化，更新",
-      "forms": [
-        {
-          "surface": "updates",
-          "tag": "plural"
-        },
-        {
-          "surface": "updates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "updated",
-          "tag": "past"
-        },
-        {
-          "surface": "updated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "updating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌʌpˈdeɪt]",
-      "memory": [
-        "词根记忆：up（向上）+date（日期）→日期不断向前推→更新"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "使现代化，更新"
-        },
-        {
-          "pos": "n.",
-          "meaning": "更新；最新消息"
-        }
-      ]
+      "ctx": "使现代化，更新"
     },
     {
       "word": "internal",
-      "lemma": "internal",
-      "kind": "word",
       "type": "outline",
-      "ctx": "体内的",
-      "forms": [],
-      "phonetic": "[ɪnˈtɜːnl]",
-      "memory": [
-        "词根记忆：inter（在……之间）+nal→在其中的→内部的；国内的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "体内的；内部的；国内的；内心的"
-        }
-      ]
+      "ctx": "体内的"
     },
     {
       "word": "client",
-      "lemma": "client",
-      "kind": "word",
       "type": "outline",
-      "ctx": "委托人，当事人",
-      "forms": [
-        {
-          "surface": "clients",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈklaɪənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "委托人，当事人；客户，顾客"
-        }
-      ]
+      "ctx": "委托人，当事人"
     },
     {
       "word": "hide",
-      "lemma": "hide",
-      "kind": "word",
       "type": "outline",
-      "ctx": "藏",
-      "forms": [
-        {
-          "surface": "hides",
-          "tag": "third_person"
-        },
-        {
-          "surface": "hid",
-          "tag": "past"
-        },
-        {
-          "surface": "hidden",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "hiding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[haɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "藏；躲避"
-        }
-      ]
+      "ctx": "藏"
     },
     {
       "word": "profile",
-      "lemma": "profile",
-      "kind": "word",
       "type": "outline",
-      "ctx": "面部的侧影，侧面轮廓",
-      "forms": [
-        {
-          "surface": "profiles",
-          "tag": "plural"
-        },
-        {
-          "surface": "profiles",
-          "tag": "third_person"
-        },
-        {
-          "surface": "profiled",
-          "tag": "past"
-        },
-        {
-          "surface": "profiled",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "profiling",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈprəʊfaɪl]",
-      "memory": [
-        "联想记忆：pro（很多）+file（文件）→很多文件是关于人物简介的→简介"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "面部的侧影，侧面轮廓；简介，概述"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "概述，写简介"
-        }
-      ]
+      "ctx": "面部的侧影，侧面轮廓"
     },
     {
       "word": "pale",
-      "lemma": "pale",
-      "kind": "word",
       "type": "outline",
-      "ctx": "苍白的，灰白的",
-      "forms": [],
-      "phonetic": "[peɪl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "苍白的，灰白的；暗淡的"
-        }
-      ]
+      "ctx": "苍白的，灰白的"
     },
     {
       "word": "thin",
-      "lemma": "thin",
-      "kind": "word",
       "type": "outline",
-      "ctx": "薄的",
-      "forms": [],
-      "phonetic": "[θɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "薄的；细的；瘦的；冷淡的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "thick*（ adj. 厚的；稠的；密的）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "薄的"
     },
     {
       "word": "tone",
-      "lemma": "tone",
-      "kind": "word",
       "type": "outline",
-      "ctx": "语气，口吻，腔调",
-      "forms": [],
-      "phonetic": "[təʊn]",
-      "memory": [
-        "联想记忆：谁说嘴里含一颗小石子（stone）可以调整语气（tone）？"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "语气，口吻，腔调"
-        }
-      ]
+      "ctx": "语气，口吻，腔调"
     },
     {
       "word": "dismiss",
-      "lemma": "dismiss",
-      "kind": "word",
       "type": "outline",
-      "ctx": "解雇",
-      "forms": [
-        {
-          "surface": "dismisses",
-          "tag": "third_person"
-        },
-        {
-          "surface": "dismissed",
-          "tag": "past"
-        },
-        {
-          "surface": "dismissed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "dismissing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɪsˈmɪs]",
-      "memory": [
-        "词根记忆：dis（表加强）+miss（送，放出）→不断把人送出→解雇；解散"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "解雇；解散；不予考虑（或理会）"
-        }
-      ]
+      "ctx": "解雇"
     },
     {
       "word": "superb",
-      "lemma": "superb",
-      "kind": "word",
       "type": "outline",
-      "ctx": "卓越的，杰出的，极好的",
-      "forms": [],
-      "phonetic": "[suːˈpɜːb]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "卓越的，杰出的，极好的"
-        }
-      ]
+      "ctx": "卓越的，杰出的，极好的"
     },
     {
       "word": "convenient",
-      "lemma": "convenient",
-      "kind": "word",
       "type": "outline",
-      "ctx": "便利的，方便的",
-      "forms": [],
-      "phonetic": "[kənˈviːniənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "便利的，方便的"
-        }
-      ]
+      "ctx": "便利的，方便的"
     },
     {
       "word": "handbag",
-      "lemma": "handbag",
-      "kind": "word",
       "type": "outline",
-      "ctx": "女用手提包",
-      "forms": [],
-      "phonetic": "[ˈhændbæɡ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "女用手提包",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "schoolbag*（ n. 书包）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "女用手提包"
     },
     {
       "word": "panda",
-      "lemma": "panda",
-      "kind": "word",
       "type": "outline",
-      "ctx": "熊猫",
-      "forms": [],
-      "phonetic": "[ˈpændə]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "熊猫"
-        }
-      ]
+      "ctx": "熊猫"
     },
     {
       "word": "conversational",
-      "lemma": "conversational",
-      "kind": "word",
       "type": "core",
-      "ctx": "非正式的，口语的",
-      "forms": [],
-      "phonetic": "[ˌkɒnvəˈseɪʃənl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "非正式的，口语的；交谈的，谈话的"
-        }
-      ]
+      "ctx": "非正式的，口语的"
     },
     {
       "word": "encourage",
-      "lemma": "encourage",
-      "kind": "word",
       "type": "outline",
-      "ctx": "鼓励，激励",
-      "forms": [
-        {
-          "surface": "encourages",
-          "tag": "third_person"
-        },
-        {
-          "surface": "encouraged",
-          "tag": "past"
-        },
-        {
-          "surface": "encouraged",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "encouraging",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪnˈkʌrɪdʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "鼓励，激励"
-        }
-      ]
+      "ctx": "鼓励，激励"
     },
     {
       "word": "seventy",
-      "lemma": "seventy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "七十",
-      "forms": [],
-      "phonetic": "[ˈsevnti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "num.",
-          "meaning": "七十"
-        }
-      ]
+      "ctx": "七十"
     },
     {
       "word": "border",
-      "lemma": "border",
-      "kind": "word",
       "type": "outline",
-      "ctx": "边缘",
-      "forms": [
-        {
-          "surface": "borders",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈbɔːdə(r)]",
-      "memory": [
-        "词根记忆：bord（边）+er→边境"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "边缘；边境，国界"
-        }
-      ]
+      "ctx": "边缘"
     },
     {
       "word": "visually",
-      "lemma": "visually",
-      "kind": "word",
       "type": "core",
-      "ctx": "视觉上地",
-      "forms": [],
-      "phonetic": "[ˈvɪʒuəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "视觉上地"
-        }
-      ]
+      "ctx": "视觉上地"
     },
     {
       "word": "tool",
-      "lemma": "tool",
-      "kind": "word",
       "type": "outline",
-      "ctx": "工具",
-      "forms": [
-        {
-          "surface": "tools",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[tuːl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "工具；方法，手段"
-        }
-      ]
+      "ctx": "工具"
     },
     {
       "word": "learning",
-      "lemma": "learning",
-      "kind": "word",
       "type": "core",
-      "ctx": "学习",
-      "forms": [],
-      "phonetic": "[ˈlɜːnɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "学习；学问，知识"
-        }
-      ]
+      "ctx": "学习"
     },
     {
       "word": "pessimistic",
-      "lemma": "pessimistic",
-      "kind": "word",
       "type": "outline",
-      "ctx": "悲观（主义）的",
-      "forms": [],
-      "phonetic": "[ˌpesɪˈmɪstɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "悲观（主义）的"
-        }
-      ]
+      "ctx": "悲观（主义）的"
     },
     {
       "word": "quick",
-      "lemma": "quick",
-      "kind": "word",
       "type": "outline",
-      "ctx": "快的，迅速的",
-      "forms": [],
-      "phonetic": "[kwɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "快的，迅速的"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "快，迅速地"
-        }
-      ]
+      "ctx": "快的，迅速的"
     },
     {
       "word": "resolve",
-      "lemma": "resolve",
-      "kind": "word",
       "type": "outline",
-      "ctx": "决心，决定",
-      "forms": [
-        {
-          "surface": "resolves",
-          "tag": "third_person"
-        },
-        {
-          "surface": "resolved",
-          "tag": "past"
-        },
-        {
-          "surface": "resolved",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "resolving",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rɪˈzɒlv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "决心，决定；解决"
-        }
-      ]
+      "ctx": "决心，决定"
     },
     {
       "word": "approve",
-      "lemma": "approve",
-      "kind": "word",
       "type": "outline",
-      "ctx": "批准，通过",
-      "forms": [
-        {
-          "surface": "approves",
-          "tag": "third_person"
-        },
-        {
-          "surface": "approved",
-          "tag": "past"
-        },
-        {
-          "surface": "approved",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "approving",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈpruːv]",
-      "memory": [
-        "词根记忆：ap（表加强）+prove（证明）→加大证明力度才会得到批准→批准"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "批准，通过"
-        },
-        {
-          "pos": "vi.",
-          "meaning": "赞成；满意"
-        }
-      ]
+      "ctx": "批准，通过"
     },
     {
       "word": "proposal",
-      "lemma": "proposal",
-      "kind": "word",
       "type": "outline",
-      "ctx": "提议，建议",
-      "forms": [],
-      "phonetic": "[prəˈpəʊzl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "提议，建议；求婚"
-        }
-      ]
+      "ctx": "提议，建议"
     },
     {
       "word": "suggestion",
-      "lemma": "suggestion",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[C] 建议",
-      "forms": [],
-      "phonetic": "[səˈdʒestʃən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[C] 建议"
-        }
-      ]
+      "ctx": "[C] 建议"
     },
     {
       "word": "arrow",
-      "lemma": "arrow",
-      "kind": "word",
       "type": "outline",
-      "ctx": "箭，箭状物",
-      "forms": [],
-      "phonetic": "[ˈærəʊ]",
-      "memory": [
-        "词根记忆：ar（弧，弓）+row（排，行）→弓箭一排排齐发才威力无比→箭"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "箭，箭状物；箭头符号"
-        }
-      ]
+      "ctx": "箭，箭状物"
     },
     {
       "word": "outline",
-      "lemma": "outline",
-      "kind": "word",
       "type": "outline",
-      "ctx": "轮廓",
-      "forms": [
-        {
-          "surface": "outlines",
-          "tag": "plural"
-        },
-        {
-          "surface": "outlines",
-          "tag": "third_person"
-        },
-        {
-          "surface": "outlined",
-          "tag": "past"
-        },
-        {
-          "surface": "outlined",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "outlining",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈaʊtlaɪn]",
-      "memory": [
-        "合成词：out（出来）+line（线条）→画出线条→轮廓"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "轮廓；略图；概述"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "描绘……的轮廓；概述"
-        }
-      ]
+      "ctx": "轮廓"
     },
     {
       "word": "ruin",
-      "lemma": "ruin",
-      "kind": "word",
       "type": "outline",
-      "ctx": "毁坏，破坏",
-      "forms": [
-        {
-          "surface": "ruins",
-          "tag": "plural"
-        },
-        {
-          "surface": "ruins",
-          "tag": "third_person"
-        },
-        {
-          "surface": "ruined",
-          "tag": "past"
-        },
-        {
-          "surface": "ruined",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "ruining",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈruːɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "毁坏，破坏；毁灭"
-        },
-        {
-          "pos": "n.",
-          "meaning": "[pl.]废墟；遗迹"
-        }
-      ]
+      "ctx": "毁坏，破坏"
     },
     {
       "word": "formal",
-      "lemma": "formal",
-      "kind": "word",
       "type": "outline",
-      "ctx": "正式的",
-      "forms": [],
-      "phonetic": "[ˈfɔːml]",
-      "memory": [
-        "词根记忆：form（形式）+al（……的）→正式的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "正式的；正规的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "formal suits正式西装"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "正式的"
     },
     {
       "word": "unfriendly",
-      "lemma": "unfriendly",
-      "kind": "word",
       "type": "core",
-      "ctx": "不友好的，冷漠的",
-      "forms": [],
-      "phonetic": "[ʌnˈfrendli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "不友好的，冷漠的"
-        }
-      ]
+      "ctx": "不友好的，冷漠的"
     },
     {
       "word": "soften",
-      "lemma": "soften",
-      "kind": "word",
       "type": "core",
-      "ctx": "（使）变软",
-      "forms": [
-        {
-          "surface": "softens",
-          "tag": "third_person"
-        },
-        {
-          "surface": "softened",
-          "tag": "past"
-        },
-        {
-          "surface": "softened",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "softening",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈsɒfn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）变软；（使）柔和；（使）态度缓和；减轻"
-        }
-      ]
+      "ctx": "（使）变软"
     },
     {
       "word": "workplace",
-      "lemma": "workplace",
-      "kind": "word",
       "type": "core",
-      "ctx": "工作场所，工作地点",
-      "forms": [],
-      "phonetic": "[ˈwɜːkpleɪs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "工作场所，工作地点"
-        }
-      ]
+      "ctx": "工作场所，工作地点"
     },
     {
       "word": "depress",
-      "lemma": "depress",
-      "kind": "word",
       "type": "outline",
-      "ctx": "使沮丧，使意志消沉",
-      "forms": [
-        {
-          "surface": "depresses",
-          "tag": "third_person"
-        },
-        {
-          "surface": "depressed",
-          "tag": "past"
-        },
-        {
-          "surface": "depressed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "depressing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɪˈpres]",
-      "memory": [
-        "词根记忆：de（向下）+press（压）→向下压→使意志消沉"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "使沮丧，使意志消沉；降低，减少"
-        }
-      ]
+      "ctx": "使沮丧，使意志消沉"
     },
     {
       "word": "corporate",
-      "lemma": "corporate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "公司的",
-      "forms": [],
-      "phonetic": "[ˈkɔːpərət]",
-      "memory": [
-        "词根记忆：corpor（团体）+ate（……的）→全体的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "公司的；全体的"
-        }
-      ]
+      "ctx": "公司的"
     },
     {
       "word": "business",
-      "lemma": "business",
-      "kind": "word",
       "type": "outline",
-      "ctx": "商业，生意",
-      "forms": [],
-      "phonetic": "[ˈbɪznəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "商业，生意；职责；企业，公司"
-        }
-      ]
+      "ctx": "商业，生意"
     },
     {
       "word": "culture",
-      "lemma": "culture",
-      "kind": "word",
       "type": "outline",
-      "ctx": "文化",
-      "forms": [],
-      "phonetic": "[ˈkʌltʃə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "文化"
-        }
-      ]
+      "ctx": "文化"
     }
   ]
 }

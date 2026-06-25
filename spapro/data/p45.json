@@ -39,1166 +39,278 @@
   "vocab": [
     {
       "word": "rosy",
-      "lemma": "rosy",
-      "kind": "word",
       "type": "core",
-      "ctx": "（面色）红润的",
-      "forms": [],
-      "phonetic": "[ˈrəʊzi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "（面色）红润的；美好的"
-        }
-      ]
+      "ctx": "（面色）红润的"
     },
     {
       "word": "doll",
-      "lemma": "doll",
-      "kind": "word",
       "type": "core",
-      "ctx": "玩偶，玩具娃娃",
-      "forms": [
-        {
-          "surface": "dolls",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[dɒl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "玩偶，玩具娃娃"
-        }
-      ]
+      "ctx": "玩偶，玩具娃娃"
     },
     {
       "word": "joke",
-      "lemma": "joke",
-      "kind": "word",
       "type": "outline",
-      "ctx": "笑话",
-      "forms": [
-        {
-          "surface": "jokes",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[dʒəʊk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "笑话"
-        }
-      ]
+      "ctx": "笑话"
     },
     {
       "word": "status",
-      "lemma": "status",
-      "kind": "word",
       "type": "core",
-      "ctx": "身份，地位",
-      "forms": [],
-      "phonetic": "[ˈsteɪtəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "身份，地位"
-        }
-      ]
+      "ctx": "身份，地位"
     },
     {
       "word": "queen",
-      "lemma": "queen",
-      "kind": "word",
       "type": "outline",
-      "ctx": "女王，王后",
-      "forms": [],
-      "phonetic": "[kwiːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "女王，王后"
-        }
-      ]
+      "ctx": "女王，王后"
     },
     {
       "word": "playground",
-      "lemma": "playground",
-      "kind": "word",
       "type": "outline",
-      "ctx": "操场，运动场",
-      "forms": [],
-      "phonetic": "[ˈpleɪɡraʊnd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "操场，运动场；游乐场"
-        }
-      ]
+      "ctx": "操场，运动场"
     },
     {
       "word": "tween",
-      "lemma": "tween",
-      "kind": "word",
       "type": "core",
-      "ctx": "10至12岁之间的少年",
-      "forms": [
-        {
-          "surface": "tweens",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[twiːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "10至12岁之间的少年"
-        }
-      ]
+      "ctx": "10至12岁之间的少年"
     },
     {
       "word": "teen",
-      "lemma": "teen",
-      "kind": "word",
       "type": "core",
-      "ctx": "十几岁（指13至19岁），青少年",
-      "forms": [
-        {
-          "surface": "teens",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈtiːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "十几岁（指13至19岁），青少年"
-        }
-      ]
+      "ctx": "十几岁（指13至19岁），青少年"
     },
     {
       "word": "purse",
-      "lemma": "purse",
-      "kind": "word",
       "type": "outline",
-      "ctx": "钱包，女士手袋",
-      "forms": [
-        {
-          "surface": "purses",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[pɜːs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "钱包，女士手袋"
-        }
-      ]
+      "ctx": "钱包，女士手袋"
     },
     {
       "word": "hair",
-      "lemma": "hair",
-      "kind": "word",
       "type": "outline",
-      "ctx": "头发，毛发",
-      "forms": [],
-      "phonetic": "[heə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "头发，毛发"
-        }
-      ]
+      "ctx": "头发，毛发"
     },
     {
       "word": "October",
-      "lemma": "October",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "十月",
-      "forms": [],
-      "phonetic": "[ɒkˈtəʊbə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "十月"
-        }
-      ]
+      "ctx": "十月"
     },
     {
       "word": "ninth",
-      "lemma": "ninth",
-      "kind": "word",
       "type": "outline",
-      "ctx": "",
-      "forms": [],
-      "phonetic": "[naɪnθ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "ordinal",
-          "meaning": ""
-        },
-        {
-          "pos": "num.",
-          "meaning": "第九"
-        },
-        {
-          "pos": "n.",
-          "meaning": "九分之一"
-        }
-      ]
+      "ctx": ""
     },
     {
       "word": "rise",
-      "lemma": "rise",
-      "kind": "word",
       "type": "outline",
-      "ctx": "上升",
-      "forms": [
-        {
-          "surface": "rises",
-          "tag": "third_person"
-        },
-        {
-          "surface": "rose",
-          "tag": "past"
-        },
-        {
-          "surface": "risen",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "rising",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[raɪz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "上升；起立；升起"
-        },
-        {
-          "pos": "n.",
-          "meaning": "增加，提高；上升"
-        }
-      ]
+      "ctx": "上升"
     },
     {
       "word": "rank",
-      "lemma": "rank",
-      "kind": "word",
       "type": "outline",
-      "ctx": "地位，级别",
-      "forms": [
-        {
-          "surface": "ranks",
-          "tag": "plural"
-        },
-        {
-          "surface": "ranks",
-          "tag": "third_person"
-        },
-        {
-          "surface": "ranked",
-          "tag": "past"
-        },
-        {
-          "surface": "ranked",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "ranking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ræŋk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "地位，级别；等级；军衔"
-        },
-        {
-          "pos": "v.",
-          "meaning": "给……排等级；给……排名"
-        }
-      ]
+      "ctx": "地位，级别"
     },
     {
       "word": "friendly",
-      "lemma": "friendly",
-      "kind": "word",
       "type": "outline",
-      "ctx": "友好的",
-      "forms": [],
-      "phonetic": "[ˈfrendli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "友好的"
-        }
-      ]
+      "ctx": "友好的"
     },
     {
       "word": "smoke",
-      "lemma": "smoke",
-      "kind": "word",
       "type": "outline",
-      "ctx": "冒烟",
-      "forms": [
-        {
-          "surface": "smokes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "smoked",
-          "tag": "past"
-        },
-        {
-          "surface": "smoked",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "smoking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[sməʊk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "冒烟；吸烟",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "fire*（ n. 火；火灾 v. 开火）"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "烟"
-        }
-      ]
+      "ctx": "冒烟"
     },
     {
       "word": "cigarette",
-      "lemma": "cigarette",
-      "kind": "word",
       "type": "outline",
-      "ctx": "香烟",
-      "forms": [
-        {
-          "surface": "cigarettes",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˌsɪɡəˈret]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "香烟",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a pack of cigarettes一包香烟"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "香烟"
     },
     {
       "word": "whom",
-      "lemma": "whom",
-      "kind": "word",
       "type": "outline",
-      "ctx": "谁",
-      "forms": [],
-      "phonetic": "[huːm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "pron.",
-          "meaning": "谁"
-        }
-      ]
+      "ctx": "谁"
     },
     {
       "word": "popularity",
-      "lemma": "popularity",
-      "kind": "word",
       "type": "core",
-      "ctx": "受欢迎，流行，普及",
-      "forms": [],
-      "phonetic": "[ˌpɒpjuˈlærəti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "受欢迎，流行，普及"
-        }
-      ]
+      "ctx": "受欢迎，流行，普及"
     },
     {
       "word": "clinical",
-      "lemma": "clinical",
-      "kind": "word",
       "type": "core",
-      "ctx": "临床的，临床诊断的",
-      "forms": [],
-      "phonetic": "[ˈklɪnɪkl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "临床的，临床诊断的"
-        }
-      ]
+      "ctx": "临床的，临床诊断的"
     },
     {
       "word": "popular",
-      "lemma": "popular",
-      "kind": "word",
       "type": "outline",
-      "ctx": "流行的，受欢迎的",
-      "forms": [],
-      "phonetic": "[ˈpɒpjələ(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "流行的，受欢迎的；大众的"
-        }
-      ]
+      "ctx": "流行的，受欢迎的"
     },
     {
       "word": "category",
-      "lemma": "category",
-      "kind": "word",
       "type": "outline",
-      "ctx": "种类",
-      "forms": [
-        {
-          "surface": "categories",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈkætəɡəri]",
-      "memory": [
-        "词根记忆：cate（下面）+gor（聚集）+y→同一种类的事物聚集在同一名称下面→种类"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "种类"
-        }
-      ]
+      "ctx": "种类"
     },
     {
       "word": "likable",
-      "lemma": "likable",
-      "kind": "word",
       "type": "core",
-      "ctx": "可爱的，讨人喜欢的",
-      "forms": [],
-      "phonetic": "[ˈlaɪkəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "可爱的，讨人喜欢的"
-        }
-      ]
+      "ctx": "可爱的，讨人喜欢的"
     },
     {
       "word": "seeker",
-      "lemma": "seeker",
-      "kind": "word",
       "type": "core",
-      "ctx": "寻找者，追求者",
-      "forms": [
-        {
-          "surface": "seekers",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈsiːkə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "寻找者，追求者"
-        }
-      ]
+      "ctx": "寻找者，追求者"
     },
     {
       "word": "schoolyard",
-      "lemma": "schoolyard",
-      "kind": "word",
       "type": "core",
-      "ctx": "校园",
-      "forms": [],
-      "phonetic": "[ˈskuːljɑːd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "校园；露天操场"
-        }
-      ]
+      "ctx": "校园"
     },
     {
       "word": "jump-start",
-      "lemma": "jump-start",
-      "kind": "word",
       "type": "core",
-      "ctx": "快速重新启动",
-      "forms": [],
-      "phonetic": "[ˈdʒʌmp stɑːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "快速重新启动"
-        }
-      ]
+      "ctx": "快速重新启动"
     },
     {
       "word": "tap",
-      "lemma": "tap",
-      "kind": "word",
       "type": "core",
-      "ctx": "轻拍",
-      "forms": [
-        {
-          "surface": "taps",
-          "tag": "plural"
-        },
-        {
-          "surface": "taps",
-          "tag": "third_person"
-        },
-        {
-          "surface": "tapped",
-          "tag": "past"
-        },
-        {
-          "surface": "tapped",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "tapping",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[tæp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "轻拍；轻轻叩击；利用，发掘"
-        },
-        {
-          "pos": "n.",
-          "meaning": "（水）龙头"
-        }
-      ]
+      "ctx": "轻拍"
     },
     {
       "word": "employ",
-      "lemma": "employ",
-      "kind": "word",
       "type": "outline",
-      "ctx": "雇用",
-      "forms": [
-        {
-          "surface": "employs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "employed",
-          "tag": "past"
-        },
-        {
-          "surface": "employed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "employing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪmˈplɔɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "雇用；使用"
-        }
-      ]
+      "ctx": "雇用"
     },
     {
       "word": "April",
-      "lemma": "April",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "四月",
-      "forms": [],
-      "phonetic": "[ˈeɪprəl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "四月"
-        }
-      ]
+      "ctx": "四月"
     },
     {
       "word": "hi",
-      "lemma": "hi",
-      "kind": "word",
       "type": "outline",
-      "ctx": "喂，嗨",
-      "forms": [],
-      "phonetic": "[haɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "int.",
-          "meaning": "喂，嗨"
-        }
-      ]
+      "ctx": "喂，嗨"
     },
     {
       "word": "canteen",
-      "lemma": "canteen",
-      "kind": "word",
       "type": "outline",
-      "ctx": "餐厅，食堂",
-      "forms": [],
-      "phonetic": "[kænˈtiːn]",
-      "memory": [
-        "联想记忆：can（能）+tee（看作tea，茶）+n →能喝茶、聊天的地方→餐厅"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "餐厅，食堂"
-        }
-      ]
+      "ctx": "餐厅，食堂"
     },
     {
       "word": "comedy",
-      "lemma": "comedy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "喜剧",
-      "forms": [],
-      "phonetic": "[ˈkɒmədi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "喜剧",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a comedy writer喜剧作家"
-              ]
-            },
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "comic*（ adj. 喜剧的 n. 连环画杂志）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "喜剧"
     },
     {
       "word": "cinema",
-      "lemma": "cinema",
-      "kind": "word",
       "type": "outline",
-      "ctx": "电影院",
-      "forms": [],
-      "phonetic": "[ˈsɪnəmə]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "电影院"
-        }
-      ]
+      "ctx": "电影院"
     },
     {
       "word": "adolescence",
-      "lemma": "adolescence",
-      "kind": "word",
       "type": "core",
-      "ctx": "青春期",
-      "forms": [],
-      "phonetic": "[ˌædəˈlesns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "青春期"
-        }
-      ]
+      "ctx": "青春期"
     },
     {
       "word": "born",
-      "lemma": "born",
-      "kind": "word",
       "type": "outline",
-      "ctx": "天生的",
-      "forms": [],
-      "phonetic": "[bɔːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "天生的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "birth*（ n. 分娩，出生）"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "（仅用于被动语态，不用by）出生；出现"
-        }
-      ]
+      "ctx": "天生的"
     },
     {
       "word": "dishonorable",
-      "lemma": "dishonorable",
-      "kind": "word",
       "type": "core",
-      "ctx": "不光彩的，可耻的",
-      "forms": [],
-      "phonetic": "[dɪsˈɒnərəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "不光彩的，可耻的"
-        }
-      ]
+      "ctx": "不光彩的，可耻的"
     },
     {
       "word": "tobacco",
-      "lemma": "tobacco",
-      "kind": "word",
       "type": "outline",
-      "ctx": "烟叶，烟草",
-      "forms": [],
-      "phonetic": "[təˈbækəʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "烟叶，烟草"
-        }
-      ]
+      "ctx": "烟叶，烟草"
     },
     {
       "word": "skirt",
-      "lemma": "skirt",
-      "kind": "word",
       "type": "outline",
-      "ctx": "裙子",
-      "forms": [],
-      "phonetic": "[skɜːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "裙子"
-        }
-      ]
+      "ctx": "裙子"
     },
     {
       "word": "trousers",
-      "lemma": "trousers",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[pl.]裤子，长裤",
-      "forms": [],
-      "phonetic": "[ˈtraʊzəz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[pl.]裤子，长裤"
-        }
-      ]
+      "ctx": "[pl.]裤子，长裤"
     },
     {
       "word": "president",
-      "lemma": "president",
-      "kind": "word",
       "type": "outline",
-      "ctx": "总统，国家主席",
-      "forms": [],
-      "phonetic": "[ˈprezɪdənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "总统，国家主席；院长，主席；董事长"
-        }
-      ]
+      "ctx": "总统，国家主席"
     },
     {
       "word": "chairman",
-      "lemma": "chairman",
-      "kind": "word",
       "type": "outline",
-      "ctx": "主席",
-      "forms": [],
-      "phonetic": "[ˈtʃeəmən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "主席；董事长"
-        }
-      ]
+      "ctx": "主席"
     },
     {
       "word": "enviable",
-      "lemma": "enviable",
-      "kind": "word",
       "type": "core",
-      "ctx": "值得羡慕的",
-      "forms": [],
-      "phonetic": "[ˈenviəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "值得羡慕的"
-        }
-      ]
+      "ctx": "值得羡慕的"
     },
     {
       "word": "consequence",
-      "lemma": "consequence",
-      "kind": "word",
       "type": "outline",
-      "ctx": "结果，后果",
-      "forms": [
-        {
-          "surface": "consequences",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈkɒnsɪkwəns]",
-      "memory": [
-        "词根记忆：con+sequ（跟随）+ence→跟随其后→结果，后果"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "结果，后果"
-        }
-      ]
+      "ctx": "结果，后果"
     },
     {
       "word": "engage",
-      "lemma": "engage",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（使）从事，参与",
-      "forms": [
-        {
-          "surface": "engages",
-          "tag": "third_person"
-        },
-        {
-          "surface": "engaged",
-          "tag": "past"
-        },
-        {
-          "surface": "engaged",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "engaging",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪnˈɡeɪdʒ]",
-      "memory": [
-        "词根记忆：en（使……）+gage（承诺）→承诺参与→参与"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）从事，参与；吸引（注意力、兴趣）"
-        }
-      ]
+      "ctx": "（使）从事，参与"
     },
     {
       "word": "aggressive",
-      "lemma": "aggressive",
-      "kind": "word",
       "type": "core",
-      "ctx": "侵略的，富于攻击性的",
-      "forms": [],
-      "phonetic": "[əˈɡresɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "侵略的，富于攻击性的"
-        }
-      ]
+      "ctx": "侵略的，富于攻击性的"
     },
     {
       "word": "opposite",
-      "lemma": "opposite",
-      "kind": "word",
       "type": "outline",
-      "ctx": "相反的",
-      "forms": [],
-      "phonetic": "[ˈɒpəzɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "相反的；对面的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "反面；对立面；对立的人（或物）"
-        }
-      ]
+      "ctx": "相反的"
     },
     {
       "word": "fifty",
-      "lemma": "fifty",
-      "kind": "word",
       "type": "outline",
-      "ctx": "五十",
-      "forms": [],
-      "phonetic": "[ˈfɪfti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "num.",
-          "meaning": "五十"
-        }
-      ]
+      "ctx": "五十"
     },
     {
       "word": "neighbor",
-      "lemma": "neighbor",
-      "kind": "word",
       "type": "outline",
-      "ctx": "邻居",
-      "forms": [
-        {
-          "surface": "neighbors",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈneɪbə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "邻居；邻近的人"
-        }
-      ]
+      "ctx": "邻居"
     },
     {
       "word": "date",
-      "lemma": "date",
-      "kind": "word",
       "type": "outline",
-      "ctx": "日期",
-      "forms": [
-        {
-          "surface": "dates",
-          "tag": "plural"
-        },
-        {
-          "surface": "dates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "dated",
-          "tag": "past"
-        },
-        {
-          "surface": "dated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "dating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[deɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "日期；约会；约会对象",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "play date玩伴聚会"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "v.",
-          "meaning": "约会；注明日期"
-        }
-      ]
+      "ctx": "日期"
     },
     {
       "word": "openness",
-      "lemma": "openness",
-      "kind": "word",
       "type": "core",
-      "ctx": "诚实，坦率",
-      "forms": [],
-      "phonetic": "[ˈəʊpənnəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "诚实，坦率；开阔，开放；开明"
-        }
-      ]
+      "ctx": "诚实，坦率"
     },
     {
       "word": "rugby",
-      "lemma": "rugby",
-      "kind": "word",
       "type": "outline",
-      "ctx": "英式橄榄球运动",
-      "forms": [],
-      "phonetic": "[ˈrʌɡbi]",
-      "memory": [
-        "联想记忆：地毯（rug）上有一只镶了红宝石（ruby）的橄榄球（rugby）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "英式橄榄球运动"
-        }
-      ]
+      "ctx": "英式橄榄球运动"
     },
     {
       "word": "zoo",
-      "lemma": "zoo",
-      "kind": "word",
       "type": "outline",
-      "ctx": "动物园",
-      "forms": [],
-      "phonetic": "[zuː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "动物园"
-        }
-      ]
+      "ctx": "动物园"
     },
     {
       "word": "his",
-      "lemma": "his",
-      "kind": "word",
       "type": "outline",
-      "ctx": "他的",
-      "forms": [],
-      "phonetic": "[hɪz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "det.",
-          "meaning": "/"
-        },
-        {
-          "pos": "pron.",
-          "meaning": "他的"
-        }
-      ]
+      "ctx": "他的"
     },
     {
       "word": "conclusion",
-      "lemma": "conclusion",
-      "kind": "word",
       "type": "outline",
-      "ctx": "结论",
-      "forms": [],
-      "phonetic": "[kənˈkluːʒn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "结论；结束"
-        }
-      ]
+      "ctx": "结论"
     },
     {
       "word": "somebody",
-      "lemma": "somebody",
-      "kind": "word",
       "type": "outline",
-      "ctx": "某人",
-      "forms": [],
-      "phonetic": "[ˈsʌmbədi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "pron.",
-          "meaning": "某人；重要人物"
-        }
-      ]
+      "ctx": "某人"
     }
   ]
 }

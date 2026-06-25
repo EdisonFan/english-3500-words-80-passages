@@ -34,1022 +34,228 @@
   "vocab": [
     {
       "word": "walking",
-      "lemma": "walking",
-      "kind": "word",
       "type": "core",
-      "ctx": "行走，步行，散步",
-      "forms": [],
-      "phonetic": "[ˈwɔːkɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "行走，步行，散步",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "race walking竞走"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "行走，步行，散步"
     },
     {
       "word": "walker",
-      "lemma": "walker",
-      "kind": "word",
       "type": "core",
-      "ctx": "步行者，散步的人",
-      "forms": [
-        {
-          "surface": "walkers",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈwɔːkə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "步行者，散步的人",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "race walker竞走运动员"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "步行者，散步的人"
     },
     {
       "word": "athlete",
-      "lemma": "athlete",
-      "kind": "word",
       "type": "outline",
-      "ctx": "运动员",
-      "forms": [
-        {
-          "surface": "athletes",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈæθliːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "运动员"
-        }
-      ]
+      "ctx": "运动员"
     },
     {
       "word": "tournament",
-      "lemma": "tournament",
-      "kind": "word",
       "type": "outline",
-      "ctx": "锦标赛",
-      "forms": [
-        {
-          "surface": "Tournaments",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈtʊənəmənt; ˈtɔːnəmənt; ˈtəːnəmənt]",
-      "memory": [
-        "词根记忆：tourna（转）+ment→转着轮流比赛→锦标赛"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "锦标赛"
-        }
-      ]
+      "ctx": "锦标赛"
     },
     {
       "word": "January",
-      "lemma": "January",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "一月",
-      "forms": [],
-      "phonetic": "[ˈdʒænjuəri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "一月",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "February*（ n. 二月）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "一月"
     },
     {
       "word": "December",
-      "lemma": "December",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "十二月",
-      "forms": [],
-      "phonetic": "[dɪˈsembə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "十二月"
-        }
-      ]
+      "ctx": "十二月"
     },
     {
       "word": "nationality",
-      "lemma": "nationality",
-      "kind": "word",
       "type": "outline",
-      "ctx": "国籍",
-      "forms": [
-        {
-          "surface": "nationalities",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˌnæʃəˈnæləti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "国籍；民族"
-        }
-      ]
+      "ctx": "国籍"
     },
     {
       "word": "silver",
-      "lemma": "silver",
-      "kind": "word",
       "type": "outline",
-      "ctx": "银",
-      "forms": [],
-      "phonetic": "[ˈsɪlvə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "银；银器"
-        }
-      ]
+      "ctx": "银"
     },
     {
       "word": "medal",
-      "lemma": "medal",
-      "kind": "word",
       "type": "outline",
-      "ctx": "奖牌，奖章",
-      "forms": [
-        {
-          "surface": "medals",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈmedl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "奖牌，奖章"
-        }
-      ]
+      "ctx": "奖牌，奖章"
     },
     {
       "word": "flag",
-      "lemma": "flag",
-      "kind": "word",
       "type": "outline",
-      "ctx": "旗，旗帜",
-      "forms": [
-        {
-          "surface": "flags",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[flæɡ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "旗，旗帜"
-        }
-      ]
+      "ctx": "旗，旗帜"
     },
     {
       "word": "event",
-      "lemma": "event",
-      "kind": "word",
       "type": "outline",
-      "ctx": "重要事件，大事",
-      "forms": [],
-      "phonetic": "[ɪˈvent]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "重要事件，大事；比赛项目"
-        }
-      ]
+      "ctx": "重要事件，大事"
     },
     {
       "word": "Olympics",
-      "lemma": "Olympics",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "奥运会",
-      "forms": [],
-      "phonetic": "[əˈlɪmpɪks]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "奥运会"
-        }
-      ]
+      "ctx": "奥运会"
     },
     {
       "word": "walk",
-      "lemma": "walk",
-      "kind": "word",
       "type": "outline",
-      "ctx": "散步，行走",
-      "forms": [
-        {
-          "surface": "walks",
-          "tag": "plural"
-        },
-        {
-          "surface": "walks",
-          "tag": "third_person"
-        },
-        {
-          "surface": "walked",
-          "tag": "past"
-        },
-        {
-          "surface": "walked",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "walking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[wɔːk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "散步，行走"
-        },
-        {
-          "pos": "v.",
-          "meaning": "走路"
-        }
-      ]
+      "ctx": "散步，行走"
     },
     {
       "word": "mile",
-      "lemma": "mile",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（=1609米）英里",
-      "forms": [
-        {
-          "surface": "miles",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[maɪl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（=1609米）英里"
-        }
-      ]
+      "ctx": "（=1609米）英里"
     },
     {
       "word": "knee",
-      "lemma": "knee",
-      "kind": "word",
       "type": "outline",
-      "ctx": "膝盖",
-      "forms": [
-        {
-          "surface": "knees",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[niː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "膝盖"
-        }
-      ]
+      "ctx": "膝盖"
     },
     {
       "word": "leg",
-      "lemma": "leg",
-      "kind": "word",
       "type": "outline",
-      "ctx": "腿，腿部",
-      "forms": [],
-      "phonetic": "[leɡ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "腿，腿部；（桌、椅等的）腿；（建筑物的）支柱"
-        }
-      ]
+      "ctx": "腿，腿部"
     },
     {
       "word": "swing",
-      "lemma": "swing",
-      "kind": "word",
       "type": "outline",
-      "ctx": "摆动，摇荡",
-      "forms": [
-        {
-          "surface": "swings",
-          "tag": "plural"
-        },
-        {
-          "surface": "swings",
-          "tag": "third_person"
-        },
-        {
-          "surface": "swung",
-          "tag": "past"
-        },
-        {
-          "surface": "swung",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "swinging",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[swɪŋ]",
-      "memory": [
-        "联想记忆：摆动（swing）翅膀（wing）"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）摆动，摇荡"
-        },
-        {
-          "pos": "n.",
-          "meaning": "摆动；秋千"
-        }
-      ]
+      "ctx": "摆动，摇荡"
     },
     {
       "word": "duck",
-      "lemma": "duck",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[C]鸭子",
-      "forms": [
-        {
-          "surface": "ducks",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[dʌk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[C]鸭子；[U]鸭肉",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "duck into a subway躲进地铁"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "躲避"
-        }
-      ]
+      "ctx": "[C]鸭子"
     },
     {
       "word": "dust",
-      "lemma": "dust",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U]灰尘，尘土",
-      "forms": [],
-      "phonetic": "[dʌst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]灰尘，尘土"
-        }
-      ]
+      "ctx": "[U]灰尘，尘土"
     },
     {
       "word": "negotiate",
-      "lemma": "negotiate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "谈判，协商",
-      "forms": [
-        {
-          "surface": "negotiates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "negotiated",
-          "tag": "past"
-        },
-        {
-          "surface": "negotiated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "negotiating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[nɪˈɡəʊʃieɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "谈判，协商；解决（难题）"
-        }
-      ]
+      "ctx": "谈判，协商"
     },
     {
       "word": "proper",
-      "lemma": "proper",
-      "kind": "word",
       "type": "outline",
-      "ctx": "正确的，恰当的",
-      "forms": [],
-      "phonetic": "[ˈprɒpə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "正确的，恰当的"
-        }
-      ]
+      "ctx": "正确的，恰当的"
     },
     {
       "word": "attractive",
-      "lemma": "attractive",
-      "kind": "word",
       "type": "core",
-      "ctx": "迷人的，有吸引力的",
-      "forms": [],
-      "phonetic": "[əˈtræktɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "迷人的，有吸引力的"
-        }
-      ]
+      "ctx": "迷人的，有吸引力的"
     },
     {
       "word": "assistant",
-      "lemma": "assistant",
-      "kind": "word",
       "type": "outline",
-      "ctx": "助理的",
-      "forms": [],
-      "phonetic": "[əˈsɪstənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "助理的；副的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "助手；助理；助教"
-        }
-      ]
+      "ctx": "助理的"
     },
     {
       "word": "physically",
-      "lemma": "physically",
-      "kind": "word",
       "type": "core",
-      "ctx": "身体上",
-      "forms": [],
-      "phonetic": "[ˈfɪzɪkli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "身体上；根本上"
-        }
-      ]
+      "ctx": "身体上"
     },
     {
       "word": "demanding",
-      "lemma": "demanding",
-      "kind": "word",
       "type": "core",
-      "ctx": "要求高的，费力的",
-      "forms": [],
-      "phonetic": "[dɪˈmɑːndɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "要求高的，费力的；苛求的"
-        }
-      ]
+      "ctx": "要求高的，费力的"
     },
     {
       "word": "calculation",
-      "lemma": "calculation",
-      "kind": "word",
       "type": "core",
-      "ctx": "计算",
-      "forms": [
-        {
-          "surface": "calculations",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˌkælkjuˈleɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "计算"
-        }
-      ]
+      "ctx": "计算"
     },
     {
       "word": "pace",
-      "lemma": "pace",
-      "kind": "word",
       "type": "outline",
-      "ctx": "速度，步速",
-      "forms": [],
-      "phonetic": "[peɪs]",
-      "memory": [
-        "联想记忆：跳舞不是赛跑（race），要跟上节奏（pace）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "速度，步速；步伐，节奏",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "keep pace (with sb./sth.)（与……）并驾齐驱，（与）步调一致"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "速度，步速"
     },
     {
       "word": "calorie",
-      "lemma": "calorie",
-      "kind": "word",
       "type": "outline",
-      "ctx": "大卡",
-      "forms": [
-        {
-          "surface": "calories",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈkæləri]",
-      "memory": [
-        "发音记忆：\"卡路里\""
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "大卡；卡路里"
-        }
-      ]
+      "ctx": "大卡"
     },
     {
       "word": "approximately",
-      "lemma": "approximately",
-      "kind": "word",
       "type": "core",
-      "ctx": "大概，大约",
-      "forms": [],
-      "phonetic": "[əˈprɒksɪmətli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "大概，大约"
-        }
-      ]
+      "ctx": "大概，大约"
     },
     {
       "word": "twice",
-      "lemma": "twice",
-      "kind": "word",
       "type": "outline",
-      "ctx": "两次",
-      "forms": [],
-      "phonetic": "[twaɪs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "两次；两倍"
-        }
-      ]
+      "ctx": "两次"
     },
     {
       "word": "pound",
-      "lemma": "pound",
-      "kind": "word",
       "type": "outline",
-      "ctx": "连续重击，猛打",
-      "forms": [
-        {
-          "surface": "pounds",
-          "tag": "plural"
-        },
-        {
-          "surface": "pounds",
-          "tag": "third_person"
-        },
-        {
-          "surface": "pounded",
-          "tag": "past"
-        },
-        {
-          "surface": "pounded",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "pounding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[paʊnd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "连续重击，猛打；咚咚地走；（心脏）狂跳"
-        },
-        {
-          "pos": "n.",
-          "meaning": "磅；英镑"
-        }
-      ]
+      "ctx": "连续重击，猛打"
     },
     {
       "word": "runner",
-      "lemma": "runner",
-      "kind": "word",
       "type": "core",
-      "ctx": "跑步者",
-      "forms": [
-        {
-          "surface": "runners",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈrʌnə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "跑步者"
-        }
-      ]
+      "ctx": "跑步者"
     },
     {
       "word": "associated",
-      "lemma": "associated",
-      "kind": "word",
       "type": "core",
-      "ctx": "有关联的，相关的",
-      "forms": [],
-      "phonetic": "[əˈsəʊsieɪtɪd; əˈsəʊʃieɪtɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "有关联的，相关的；有联系的"
-        }
-      ]
+      "ctx": "有关联的，相关的"
     },
     {
       "word": "uncommon",
-      "lemma": "uncommon",
-      "kind": "word",
       "type": "core",
-      "ctx": "不常见的",
-      "forms": [],
-      "phonetic": "[ʌnˈkɒmən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "不常见的"
-        }
-      ]
+      "ctx": "不常见的"
     },
     {
       "word": "among",
-      "lemma": "among",
-      "kind": "word",
       "type": "outline",
-      "ctx": "在……之中，在……之间",
-      "forms": [],
-      "phonetic": "[əˈmʌŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "prep.",
-          "meaning": "在……之中，在……之间"
-        }
-      ]
+      "ctx": "在……之中，在……之间"
     },
     {
       "word": "envy",
-      "lemma": "envy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "羡慕",
-      "forms": [
-        {
-          "surface": "envies",
-          "tag": "plural"
-        },
-        {
-          "surface": "envies",
-          "tag": "third_person"
-        },
-        {
-          "surface": "envied",
-          "tag": "past"
-        },
-        {
-          "surface": "envied",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "envying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈenvi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "/"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "（envied, envied, envying）嫉妒，羡慕"
-        }
-      ]
+      "ctx": "羡慕"
     },
     {
       "word": "considerable",
-      "lemma": "considerable",
-      "kind": "word",
       "type": "core",
-      "ctx": "相当大（或多、重要）的",
-      "forms": [],
-      "phonetic": "[kənˈsɪdərəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "相当大（或多、重要）的"
-        }
-      ]
+      "ctx": "相当大（或多、重要）的"
     },
     {
       "word": "ankle",
-      "lemma": "ankle",
-      "kind": "word",
       "type": "outline",
-      "ctx": "脚踝",
-      "forms": [
-        {
-          "surface": "ankles",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈæŋkl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "脚踝"
-        }
-      ]
+      "ctx": "脚踝"
     },
     {
       "word": "hip",
-      "lemma": "hip",
-      "kind": "word",
       "type": "core",
-      "ctx": "臀部，髋部",
-      "forms": [
-        {
-          "surface": "hips",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[hɪp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "臀部，髋部",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "waist*（ n. 腰部，腰围）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "臀部，髋部"
     },
     {
       "word": "cautious",
-      "lemma": "cautious",
-      "kind": "word",
       "type": "core",
-      "ctx": "小心的，谨慎的",
-      "forms": [],
-      "phonetic": "[ˈkɔːʃəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "小心的，谨慎的"
-        }
-      ]
+      "ctx": "小心的，谨慎的"
     },
     {
       "word": "anyone",
-      "lemma": "anyone",
-      "kind": "word",
       "type": "outline",
-      "ctx": "任何人",
-      "forms": [],
-      "phonetic": "[ˈeniwʌn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "pron.",
-          "meaning": "任何人"
-        }
-      ]
+      "ctx": "任何人"
     },
     {
       "word": "consult",
-      "lemma": "consult",
-      "kind": "word",
       "type": "core",
-      "ctx": "咨询，请教",
-      "forms": [
-        {
-          "surface": "consults",
-          "tag": "third_person"
-        },
-        {
-          "surface": "consulted",
-          "tag": "past"
-        },
-        {
-          "surface": "consulted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "consulting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kənˈsʌlt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "咨询，请教；商议，商量；查询"
-        }
-      ]
+      "ctx": "咨询，请教"
     },
     {
       "word": "coach",
-      "lemma": "coach",
-      "kind": "word",
       "type": "outline",
-      "ctx": "教练",
-      "forms": [
-        {
-          "surface": "coaches",
-          "tag": "plural"
-        },
-        {
-          "surface": "coaches",
-          "tag": "third_person"
-        },
-        {
-          "surface": "coached",
-          "tag": "past"
-        },
-        {
-          "surface": "coached",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "coaching",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kəʊtʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "教练；四轮马车；长途汽车"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "指导，训练；辅导"
-        }
-      ]
+      "ctx": "教练"
     },
     {
       "word": "experienced",
-      "lemma": "experienced",
-      "kind": "word",
       "type": "core",
-      "ctx": "有经验的，熟练的",
-      "forms": [],
-      "phonetic": "[ɪkˈspɪəriənst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "有经验的，熟练的；有阅历的"
-        }
-      ]
+      "ctx": "有经验的，熟练的"
     },
     {
       "word": "racer",
-      "lemma": "racer",
-      "kind": "word",
       "type": "core",
-      "ctx": "参赛的人（或动物）",
-      "forms": [],
-      "phonetic": "[ˈreɪsə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "参赛的人（或动物）；赛车；赛艇"
-        }
-      ]
+      "ctx": "参赛的人（或动物）"
     }
   ]
 }

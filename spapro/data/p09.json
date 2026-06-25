@@ -29,1243 +29,228 @@
   "vocab": [
     {
       "word": "past",
-      "lemma": "past",
-      "kind": "word",
       "type": "outline",
-      "ctx": "过去的",
-      "forms": [],
-      "phonetic": "[pɑːst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "过去的；最近的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "过去，往事"
-        },
-        {
-          "pos": "prep.",
-          "meaning": "经过；晚于"
-        }
-      ]
+      "ctx": "过去的"
     },
     {
       "word": "online",
-      "lemma": "online",
-      "kind": "word",
       "type": "outline",
-      "ctx": "在线的",
-      "forms": [],
-      "phonetic": "[ˌɒnˈlaɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "在线的"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "在线地"
-        }
-      ]
+      "ctx": "在线的"
     },
     {
       "word": "significant",
-      "lemma": "significant",
-      "kind": "word",
       "type": "outline",
-      "ctx": "相当数量的",
-      "forms": [],
-      "phonetic": "[sɪɡˈnɪfɪkənt]",
-      "memory": [
-        "词根记忆：sign（标记）+i+fic（做）+ant（……的）→值得做出标记的→重要的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "相当数量的；重要的，意义重大的"
-        }
-      ]
+      "ctx": "相当数量的"
     },
     {
       "word": "university",
-      "lemma": "university",
-      "kind": "word",
       "type": "outline",
-      "ctx": "大学",
-      "forms": [],
-      "phonetic": "[ˌjuːnɪˈvɜːsəti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "大学"
-        }
-      ]
+      "ctx": "大学"
     },
     {
       "word": "survey",
-      "lemma": "survey",
-      "kind": "word",
       "type": "outline",
-      "ctx": "调查",
-      "forms": [],
-      "phonetic": "[ˈsɜːveɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "调查；勘测"
-        }
-      ]
+      "ctx": "调查"
     },
     {
       "word": "register",
-      "lemma": "register",
-      "kind": "word",
       "type": "outline",
-      "ctx": "记录",
-      "forms": [
-        {
-          "surface": "registers",
-          "tag": "plural"
-        },
-        {
-          "surface": "registers",
-          "tag": "third_person"
-        },
-        {
-          "surface": "registered",
-          "tag": "past"
-        },
-        {
-          "surface": "registered",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "registering",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈredʒɪstə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "记录，登记簿",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a register of births and deaths出生和死亡记录"
-              ]
-            },
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Some people  register  a list of things they want or need for their new home at a local store or stores.一些人会在一家或多家本地商店登记他们想要或需要的新家物品清单。"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "v.",
-          "meaning": "登记，注册"
-        }
-      ]
+      "ctx": "记录"
     },
     {
       "word": "equal",
-      "lemma": "equal",
-      "kind": "word",
       "type": "outline",
-      "ctx": "平等的",
-      "forms": [
-        {
-          "surface": "equals",
-          "tag": "third_person"
-        },
-        {
-          "surface": "equaled",
-          "tag": "past"
-        },
-        {
-          "surface": "equaled",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "equaling",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈiːkwəl]",
-      "memory": [
-        "词根记忆：equ（平等，相等）+al（……的）→平等的，相等的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "平等的；相等的，相同的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "equal to...等于……；与……平等"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "等于，比得上"
-        }
-      ]
+      "ctx": "平等的"
     },
     {
       "word": "right",
-      "lemma": "right",
-      "kind": "word",
       "type": "outline",
-      "ctx": "正确的",
-      "forms": [],
-      "phonetic": "[raɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "正确的；右边的"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "向右；正确地；正好"
-        },
-        {
-          "pos": "n.",
-          "meaning": "权利；右边"
-        }
-      ]
+      "ctx": "正确的"
     },
     {
       "word": "possible",
-      "lemma": "possible",
-      "kind": "word",
       "type": "outline",
-      "ctx": "可能的",
-      "forms": [],
-      "phonetic": "[ˈpɒsəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "可能的"
-        }
-      ]
+      "ctx": "可能的"
     },
     {
       "word": "interview",
-      "lemma": "interview",
-      "kind": "word",
       "type": "outline",
-      "ctx": "采访",
-      "forms": [
-        {
-          "surface": "interviews",
-          "tag": "plural"
-        },
-        {
-          "surface": "interviews",
-          "tag": "third_person"
-        },
-        {
-          "surface": "interviewed",
-          "tag": "past"
-        },
-        {
-          "surface": "interviewed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "interviewing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈɪntəvjuː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "/"
-        },
-        {
-          "pos": "v.",
-          "meaning": "采访；会见；面试"
-        }
-      ]
+      "ctx": "采访"
     },
     {
       "word": "advice",
-      "lemma": "advice",
-      "kind": "word",
       "type": "outline",
-      "ctx": "忠告",
-      "forms": [],
-      "phonetic": "[ədˈvaɪs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "忠告，劝告，建议"
-        }
-      ]
+      "ctx": "忠告"
     },
     {
       "word": "obvious",
-      "lemma": "obvious",
-      "kind": "word",
       "type": "core",
-      "ctx": "明显的",
-      "forms": [],
-      "phonetic": "[ˈɒbviəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "明显的，显而易见的"
-        }
-      ]
+      "ctx": "明显的"
     },
     {
       "word": "advantage",
-      "lemma": "advantage",
-      "kind": "word",
       "type": "outline",
-      "ctx": "优点",
-      "forms": [],
-      "phonetic": "[ədˈvɑːntɪdʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "优点；有利条件，优势"
-        }
-      ]
+      "ctx": "优点"
     },
     {
       "word": "anywhere",
-      "lemma": "anywhere",
-      "kind": "word",
       "type": "outline",
-      "ctx": "在任何地方",
-      "forms": [],
-      "phonetic": "[ˈeniweə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "在任何地方"
-        }
-      ]
+      "ctx": "在任何地方"
     },
     {
       "word": "anytime",
-      "lemma": "anytime",
-      "kind": "word",
       "type": "core",
-      "ctx": "在任何时候",
-      "forms": [],
-      "phonetic": "[ˈenitaɪm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "在任何时候；随便什么时候"
-        }
-      ]
+      "ctx": "在任何时候"
     },
     {
       "word": "deadline",
-      "lemma": "deadline",
-      "kind": "word",
       "type": "outline",
-      "ctx": "最后期限",
-      "forms": [],
-      "phonetic": "[ˈdedlaɪn]",
-      "memory": [
-        "联想记忆：dead（死）+line（线）→死期→最后期限"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "最后期限，截止日期"
-        }
-      ]
+      "ctx": "最后期限"
     },
     {
       "word": "lose",
-      "lemma": "lose",
-      "kind": "word",
       "type": "outline",
-      "ctx": "忽视",
-      "forms": [
-        {
-          "surface": "loses",
-          "tag": "third_person"
-        },
-        {
-          "surface": "lost",
-          "tag": "past"
-        },
-        {
-          "surface": "lost",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "losing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[luːz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "失去；丢失；输掉",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "lose out (on sth.) 得不到（需要或觉得应有的东西）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "忽视"
     },
     {
       "word": "sight",
-      "lemma": "sight",
-      "kind": "word",
       "type": "outline",
-      "ctx": "视力",
-      "forms": [],
-      "phonetic": "[saɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "视力；视野；看见的事物；风景",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "lose sight of忽略；见不着"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "视力"
     },
     {
       "word": "fall",
-      "lemma": "fall",
-      "kind": "word",
       "type": "outline",
-      "ctx": "落后",
-      "forms": [
-        {
-          "surface": "falls",
-          "tag": "third_person"
-        },
-        {
-          "surface": "fell",
-          "tag": "past"
-        },
-        {
-          "surface": "fallen",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "falling",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[fɔːl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "落（下）；跌倒",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "fall behind落后"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "秋天；落下；跌倒"
-        }
-      ]
+      "ctx": "落后"
     },
     {
       "word": "graduate",
-      "lemma": "graduate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（大学）毕业生",
-      "forms": [
-        {
-          "surface": "graduates",
-          "tag": "plural"
-        },
-        {
-          "surface": "graduates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "graduated",
-          "tag": "past"
-        },
-        {
-          "surface": "graduated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "graduating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈɡrædʒuət]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（大学）毕业生",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "graduate student研究生"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vi.",
-          "meaning": "毕业"
-        }
-      ]
+      "ctx": "（大学）毕业生"
     },
     {
       "word": "material",
-      "lemma": "material",
-      "kind": "word",
       "type": "outline",
-      "ctx": "材料",
-      "forms": [],
-      "phonetic": "[məˈtɪəriəl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "材料，原料；物质"
-        }
-      ]
+      "ctx": "材料"
     },
     {
       "word": "interesting",
-      "lemma": "interesting",
-      "kind": "word",
       "type": "outline",
-      "ctx": "有趣的",
-      "forms": [],
-      "phonetic": "[ˈɪntrəstɪŋ; ˈɪntrestɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "有趣的"
-        }
-      ]
+      "ctx": "有趣的"
     },
     {
       "word": "keep",
-      "lemma": "keep",
-      "kind": "word",
       "type": "outline",
-      "ctx": "使……继续",
-      "forms": [
-        {
-          "surface": "keeps",
-          "tag": "third_person"
-        },
-        {
-          "surface": "kept",
-          "tag": "past"
-        },
-        {
-          "surface": "kept",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "keeping",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kiːp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）保持；保留；继续；存放",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "keep going继续；维持下去"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "使……继续"
     },
     {
       "word": "simple",
-      "lemma": "simple",
-      "kind": "word",
       "type": "outline",
-      "ctx": "简单的",
-      "forms": [],
-      "phonetic": "[ˈsɪmpl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "简单的；简易的"
-        }
-      ]
+      "ctx": "简单的"
     },
     {
       "word": "weekly",
-      "lemma": "weekly",
-      "kind": "word",
       "type": "outline",
-      "ctx": "每周的",
-      "forms": [],
-      "phonetic": "[ˈwiːkli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "每周的"
-        }
-      ]
+      "ctx": "每周的"
     },
     {
       "word": "end",
-      "lemma": "end",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（使）结束",
-      "forms": [
-        {
-          "surface": "ends",
-          "tag": "plural"
-        },
-        {
-          "surface": "ends",
-          "tag": "third_person"
-        },
-        {
-          "surface": "ended",
-          "tag": "past"
-        },
-        {
-          "surface": "ended",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "ending",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[end]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）结束，终止",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "end up最终成为；到头来come to an end结束"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "终点；结束"
-        }
-      ]
+      "ctx": "（使）结束"
     },
     {
       "word": "slide",
-      "lemma": "slide",
-      "kind": "word",
       "type": "outline",
-      "ctx": "放任",
-      "forms": [
-        {
-          "surface": "slides",
-          "tag": "plural"
-        },
-        {
-          "surface": "slides",
-          "tag": "third_person"
-        },
-        {
-          "surface": "slid",
-          "tag": "past"
-        },
-        {
-          "surface": "slid",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "sliding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[slaɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）滑行，滑动；衰落，逐渐陷入",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "let sth.slide对某事放任不管"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "幻灯片；滑梯"
-        }
-      ]
+      "ctx": "放任"
     },
     {
       "word": "suffer",
-      "lemma": "suffer",
-      "kind": "word",
       "type": "outline",
-      "ctx": "受苦",
-      "forms": [
-        {
-          "surface": "suffers",
-          "tag": "third_person"
-        },
-        {
-          "surface": "suffered",
-          "tag": "past"
-        },
-        {
-          "surface": "suffered",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "suffering",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈsʌfə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "受苦；遭受；变差，变糟"
-        }
-      ]
+      "ctx": "受苦"
     },
     {
       "word": "contribute",
-      "lemma": "contribute",
-      "kind": "word",
       "type": "core",
-      "ctx": "捐献",
-      "forms": [
-        {
-          "surface": "contributes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "contributed",
-          "tag": "past"
-        },
-        {
-          "surface": "contributed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "contributing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kənˈtrɪbjuːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "捐献，捐赠；做贡献；促成；发表意见",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "contribute to有助于；导致contribute to the discussion参与讨论"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "捐献"
     },
     {
       "word": "discussion",
-      "lemma": "discussion",
-      "kind": "word",
       "type": "outline",
-      "ctx": "讨论",
-      "forms": [],
-      "phonetic": "[dɪˈskʌʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "讨论，谈论"
-        }
-      ]
+      "ctx": "讨论"
     },
     {
       "word": "board",
-      "lemma": "board",
-      "kind": "word",
       "type": "outline",
-      "ctx": "板",
-      "forms": [
-        {
-          "surface": "boards",
-          "tag": "plural"
-        },
-        {
-          "surface": "boards",
-          "tag": "third_person"
-        },
-        {
-          "surface": "boarded",
-          "tag": "past"
-        },
-        {
-          "surface": "boarded",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "boarding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[bɔːd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "板，木板；黑板，布告栏；委员会；在线交流区",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "across the board全体；整体on board在船上（或飞机上、火车上）"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "v.",
-          "meaning": "上（船、火车、飞机）"
-        }
-      ]
+      "ctx": "板"
     },
     {
       "word": "chief",
-      "lemma": "chief",
-      "kind": "word",
       "type": "outline",
-      "ctx": "主要的",
-      "forms": [],
-      "phonetic": "[tʃiːf]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "主要的，首要的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "领导"
-        }
-      ]
+      "ctx": "主要的"
     },
     {
       "word": "complaint",
-      "lemma": "complaint",
-      "kind": "word",
       "type": "core",
-      "ctx": "抱怨",
-      "forms": [],
-      "phonetic": "[kəmˈpleɪnt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "抱怨，埋怨；投诉"
-        }
-      ]
+      "ctx": "抱怨"
     },
     {
       "word": "lack",
-      "lemma": "lack",
-      "kind": "word",
       "type": "outline",
-      "ctx": "缺乏",
-      "forms": [
-        {
-          "surface": "lacks",
-          "tag": "third_person"
-        },
-        {
-          "surface": "lacked",
-          "tag": "past"
-        },
-        {
-          "surface": "lacked",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "lacking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[læk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "/"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "缺乏，缺少"
-        }
-      ]
+      "ctx": "缺乏"
     },
     {
       "word": "interaction",
-      "lemma": "interaction",
-      "kind": "word",
       "type": "outline",
-      "ctx": "相互作用",
-      "forms": [],
-      "phonetic": "[ˌɪntərˈækʃn]",
-      "memory": [
-        "词根记忆：inter（在……之间，相互）+act（行动）+ion（表名词）→相互作用"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "相互作用，相互影响；交流"
-        }
-      ]
+      "ctx": "相互作用"
     },
     {
       "word": "connection",
-      "lemma": "connection",
-      "kind": "word",
       "type": "core",
-      "ctx": "联系",
-      "forms": [],
-      "phonetic": "[kəˈnekʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "联系；连接；有社交或业务关系的人（或机构）"
-        }
-      ]
+      "ctx": "联系"
     },
     {
       "word": "ease",
-      "lemma": "ease",
-      "kind": "word",
       "type": "outline",
-      "ctx": "安逸",
-      "forms": [
-        {
-          "surface": "eases",
-          "tag": "third_person"
-        },
-        {
-          "surface": "eased",
-          "tag": "past"
-        },
-        {
-          "surface": "eased",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "easing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[iːz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "安逸；舒适",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "at ease舒适；自在"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "减轻（痛苦；忧虑）"
-        }
-      ]
+      "ctx": "安逸"
     },
     {
       "word": "problem",
-      "lemma": "problem",
-      "kind": "word",
       "type": "outline",
-      "ctx": "问题",
-      "forms": [],
-      "phonetic": "[ˈprɒbləm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "问题，难题"
-        }
-      ]
+      "ctx": "问题"
     },
     {
       "word": "undergraduate",
-      "lemma": "undergraduate",
-      "kind": "word",
       "type": "core",
-      "ctx": "大学本科生",
-      "forms": [],
-      "phonetic": "[ˌʌndəˈɡrædʒuət]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "大学本科生"
-        }
-      ]
+      "ctx": "大学本科生"
     },
     {
       "word": "suggest",
-      "lemma": "suggest",
-      "kind": "word",
       "type": "outline",
-      "ctx": "建议",
-      "forms": [
-        {
-          "surface": "suggests",
-          "tag": "third_person"
-        },
-        {
-          "surface": "suggested",
-          "tag": "past"
-        },
-        {
-          "surface": "suggested",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "suggesting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[səˈdʒest]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "建议；提出；暗示；显示"
-        }
-      ]
+      "ctx": "建议"
     },
     {
       "word": "friend",
-      "lemma": "friend",
-      "kind": "word",
       "type": "outline",
-      "ctx": "朋友",
-      "forms": [],
-      "phonetic": "[frend]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "朋友"
-        }
-      ]
+      "ctx": "朋友"
     },
     {
       "word": "motivate",
-      "lemma": "motivate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "使有动机",
-      "forms": [
-        {
-          "surface": "motivates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "motivated",
-          "tag": "past"
-        },
-        {
-          "surface": "motivated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "motivating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈməʊtɪveɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "使有动机；激发；激励",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "You should reassess your goals, and  motivate  yourself to set a fresh goal.你应该重新评估你的目标，并激励自己设定一个新的目标。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "使有动机"
     },
     {
       "word": "track",
-      "lemma": "track",
-      "kind": "word",
       "type": "outline",
-      "ctx": "小道",
-      "forms": [],
-      "phonetic": "[træk]",
-      "memory": [
-        "联想记忆：走在小路（track）上要小心陷阱（trap）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "小道；足迹；轨道；跑道；路线，方向",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "track and field田径；田径赛keep track of与……保持联系stay on track稳步前进"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "小道"
     },
     {
       "word": "organize",
-      "lemma": "organize",
-      "kind": "word",
       "type": "core",
-      "ctx": "组织",
-      "forms": [
-        {
-          "surface": "organizes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "organized",
-          "tag": "past"
-        },
-        {
-          "surface": "organized",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "organizing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈɔːɡənaɪz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "组织，筹划，安排"
-        }
-      ]
+      "ctx": "组织"
     },
     {
       "word": "meeting",
-      "lemma": "meeting",
-      "kind": "word",
       "type": "outline",
-      "ctx": "会议",
-      "forms": [],
-      "phonetic": "[ˈmiːtɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "会议，集会；会面；运动会"
-        }
-      ]
+      "ctx": "会议"
     }
   ]
 }

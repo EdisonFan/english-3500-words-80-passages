@@ -34,1324 +34,248 @@
   "vocab": [
     {
       "word": "ending",
-      "lemma": "ending",
-      "kind": "word",
       "type": "core",
-      "ctx": "结局",
-      "forms": [],
-      "phonetic": "[ˈendɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "结尾；结局；结束；词尾"
-        }
-      ]
+      "ctx": "结局"
     },
     {
       "word": "professor",
-      "lemma": "professor",
-      "kind": "word",
       "type": "outline",
-      "ctx": "教授",
-      "forms": [],
-      "phonetic": "[prəˈfesə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "教授"
-        }
-      ]
+      "ctx": "教授"
     },
     {
       "word": "junior",
-      "lemma": "junior",
-      "kind": "word",
       "type": "outline",
-      "ctx": "三年级",
-      "forms": [],
-      "phonetic": "[ˈdʒuːniə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "初级的；年少的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "（中学或大学的）三年级学生"
-        }
-      ]
+      "ctx": "三年级"
     },
     {
       "word": "study",
-      "lemma": "study",
-      "kind": "word",
       "type": "outline",
-      "ctx": "研究",
-      "forms": [
-        {
-          "surface": "studies",
-          "tag": "plural"
-        },
-        {
-          "surface": "studies",
-          "tag": "third_person"
-        },
-        {
-          "surface": "studied",
-          "tag": "past"
-        },
-        {
-          "surface": "studied",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "studying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈstʌdi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "学习；研究"
-        },
-        {
-          "pos": "n.",
-          "meaning": "学习；研究；书房"
-        }
-      ]
+      "ctx": "研究"
     },
     {
       "word": "independent",
-      "lemma": "independent",
-      "kind": "word",
       "type": "outline",
-      "ctx": "独立的",
-      "forms": [],
-      "phonetic": "[ˌɪndɪˈpendənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "独立的；有主见的"
-        }
-      ]
+      "ctx": "独立的"
     },
     {
       "word": "literature",
-      "lemma": "literature",
-      "kind": "word",
       "type": "outline",
-      "ctx": "文学",
-      "forms": [],
-      "phonetic": "[ˈlɪtrətʃə(r)]",
-      "memory": [
-        "词根记忆：liter（文字）+ature（表名词）→文学"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "文学"
-        }
-      ]
+      "ctx": "文学"
     },
     {
       "word": "just",
-      "lemma": "just",
-      "kind": "word",
       "type": "outline",
-      "ctx": "刚刚",
-      "forms": [],
-      "phonetic": "[dʒʌst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "刚才；只是，仅"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "公正的"
-        }
-      ]
+      "ctx": "刚刚"
     },
     {
       "word": "finish",
-      "lemma": "finish",
-      "kind": "word",
       "type": "outline",
-      "ctx": "读完",
-      "forms": [
-        {
-          "surface": "finishes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "finished",
-          "tag": "past"
-        },
-        {
-          "surface": "finished",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "finishing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈfɪnɪʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "结束；做完"
-        }
-      ]
+      "ctx": "读完"
     },
     {
       "word": "read",
-      "lemma": "read",
-      "kind": "word",
       "type": "outline",
-      "ctx": "读",
-      "forms": [
-        {
-          "surface": "reads",
-          "tag": "third_person"
-        },
-        {
-          "surface": "read",
-          "tag": "past"
-        },
-        {
-          "surface": "read",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "reading",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[riːd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "读，阅读；理解；读到"
-        }
-      ]
+      "ctx": "读"
     },
     {
       "word": "heartbroken",
-      "lemma": "heartbroken",
-      "kind": "word",
       "type": "core",
-      "ctx": "心碎",
-      "forms": [],
-      "phonetic": "[ˈhɑːtbrəʊkən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "极为悲伤的，心碎的"
-        }
-      ]
+      "ctx": "心碎"
     },
     {
       "word": "think",
-      "lemma": "think",
-      "kind": "word",
       "type": "outline",
-      "ctx": "思考",
-      "forms": [
-        {
-          "surface": "thinks",
-          "tag": "third_person"
-        },
-        {
-          "surface": "thought",
-          "tag": "past"
-        },
-        {
-          "surface": "thought",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "thinking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[θɪŋk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "想；认为；考虑"
-        }
-      ]
+      "ctx": "思考"
     },
     {
       "word": "like",
-      "lemma": "like",
-      "kind": "word",
       "type": "outline",
-      "ctx": "喜欢",
-      "forms": [
-        {
-          "surface": "likes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "liked",
-          "tag": "past"
-        },
-        {
-          "surface": "liked",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "liking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[laɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "喜欢；想；要"
-        },
-        {
-          "pos": "n.",
-          "meaning": "爱好"
-        },
-        {
-          "pos": "prep.",
-          "meaning": "像"
-        }
-      ]
+      "ctx": "喜欢"
     },
     {
       "word": "difference",
-      "lemma": "difference",
-      "kind": "word",
       "type": "outline",
-      "ctx": "不同",
-      "forms": [],
-      "phonetic": "[ˈdɪfrəns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "不同"
-        }
-      ]
+      "ctx": "不同"
     },
     {
       "word": "character",
-      "lemma": "character",
-      "kind": "word",
       "type": "outline",
-      "ctx": "人物",
-      "forms": [],
-      "phonetic": "[ˈkærəktə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "字符；人物，角色；特点，特征",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a Chinese character一个汉字"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "人物"
     },
     {
       "word": "traditionally",
-      "lemma": "traditionally",
-      "kind": "word",
       "type": "core",
-      "ctx": "传统意义上",
-      "forms": [],
-      "phonetic": "[trəˈdɪʃənəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "传统上"
-        }
-      ]
+      "ctx": "传统意义上"
     },
     {
       "word": "favor",
-      "lemma": "favor",
-      "kind": "word",
       "type": "outline",
-      "ctx": "更希望",
-      "forms": [
-        {
-          "surface": "favors",
-          "tag": "third_person"
-        },
-        {
-          "surface": "favored",
-          "tag": "past"
-        },
-        {
-          "surface": "favored",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "favoring",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈfeɪvə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "恩惠；好感；帮助",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "in favor of...支持…… in one's favor对某人有利do sb.a favor帮某人的忙，答应某人的请求"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "较喜欢，更喜欢；有利于"
-        }
-      ]
+      "ctx": "更希望"
     },
     {
       "word": "different",
-      "lemma": "different",
-      "kind": "word",
       "type": "outline",
-      "ctx": "不一样的",
-      "forms": [],
-      "phonetic": "[ˈdɪfrənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "不同的，有差异的"
-        }
-      ]
+      "ctx": "不一样的"
     },
     {
       "word": "sense",
-      "lemma": "sense",
-      "kind": "word",
       "type": "outline",
-      "ctx": "合理",
-      "forms": [],
-      "phonetic": "[sens]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "感觉，意识；意义",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "make sense有意义，合乎情理sense of humor幽默感"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "合理"
     },
     {
       "word": "aha",
-      "lemma": "aha",
-      "kind": "word",
       "type": "core",
-      "ctx": "恍然大悟",
-      "forms": [],
-      "phonetic": "[ɑːˈhɑː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "int.",
-          "meaning": "（表示了解或发现某事物的喜悦）啊哈"
-        }
-      ]
+      "ctx": "恍然大悟"
     },
     {
       "word": "same",
-      "lemma": "same",
-      "kind": "word",
       "type": "outline",
-      "ctx": "同样的",
-      "forms": [],
-      "phonetic": "[seɪm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "同样的事（或物）"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "同样的"
-        }
-      ]
+      "ctx": "同样的"
     },
     {
       "word": "again",
-      "lemma": "again",
-      "kind": "word",
       "type": "outline",
-      "ctx": "再一次",
-      "forms": [],
-      "phonetic": "[əˈɡen; əˈɡeɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "再一次"
-        }
-      ]
+      "ctx": "再一次"
     },
     {
       "word": "pick",
-      "lemma": "pick",
-      "kind": "word",
       "type": "outline",
-      "ctx": "拿起",
-      "forms": [
-        {
-          "surface": "picks",
-          "tag": "third_person"
-        },
-        {
-          "surface": "picked",
-          "tag": "past"
-        },
-        {
-          "surface": "picked",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "picking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[pɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "挑选；采摘；摘掉",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "pick sth.up拿起；学会pick sb.up（开车）接人pick out挑选出"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "拿起"
     },
     {
       "word": "romance",
-      "lemma": "romance",
-      "kind": "word",
       "type": "core",
-      "ctx": "爱情",
-      "forms": [],
-      "phonetic": "[rəʊˈmæns;ˈrəʊmæns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "爱情；浪漫氛围；浪漫史；爱情故事"
-        }
-      ]
+      "ctx": "爱情"
     },
     {
       "word": "novel",
-      "lemma": "novel",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（长篇）小说",
-      "forms": [],
-      "phonetic": "[ˈnɒvl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（长篇）小说"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "新颖的"
-        }
-      ]
+      "ctx": "（长篇）小说"
     },
     {
       "word": "guess",
-      "lemma": "guess",
-      "kind": "word",
       "type": "outline",
-      "ctx": "预测",
-      "forms": [
-        {
-          "surface": "guesses",
-          "tag": "third_person"
-        },
-        {
-          "surface": "guessed",
-          "tag": "past"
-        },
-        {
-          "surface": "guessed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "guessing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɡes]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "猜，猜测；认为"
-        }
-      ]
+      "ctx": "预测"
     },
     {
       "word": "mystery",
-      "lemma": "mystery",
-      "kind": "word",
       "type": "core",
-      "ctx": "悬疑",
-      "forms": [],
-      "phonetic": "[ˈmɪstri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "神秘；神秘的人（或事）；悬疑（推理）故事"
-        }
-      ]
+      "ctx": "悬疑"
     },
     {
       "word": "kind",
-      "lemma": "kind",
-      "kind": "word",
       "type": "outline",
-      "ctx": "大致",
-      "forms": [],
-      "phonetic": "[kaɪnd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[C]种；类",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "kind of稍微；有点儿"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "adj.",
-          "meaning": "善良的，和蔼的"
-        }
-      ]
+      "ctx": "大致"
     },
     {
       "word": "historical",
-      "lemma": "historical",
-      "kind": "word",
       "type": "core",
-      "ctx": "历史",
-      "forms": [],
-      "phonetic": "[hɪˈstɒrɪkl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "历史的，有关历史的"
-        }
-      ]
+      "ctx": "历史"
     },
     {
       "word": "fiction",
-      "lemma": "fiction",
-      "kind": "word",
       "type": "outline",
-      "ctx": "小说",
-      "forms": [],
-      "phonetic": "[ˈfɪkʃn]",
-      "memory": [
-        "词根记忆：fict（做）+ion→造出的故事→小说"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "小说；虚构的事，杜撰的事"
-        }
-      ]
+      "ctx": "小说"
     },
     {
       "word": "become",
-      "lemma": "become",
-      "kind": "word",
       "type": "outline",
-      "ctx": "变得；成为",
-      "forms": [
-        {
-          "surface": "becomes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "became",
-          "tag": "past"
-        },
-        {
-          "surface": "become",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "becoming",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[bɪˈkʌm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "变得；成为"
-        }
-      ]
+      "ctx": "变得；成为"
     },
     {
       "word": "write",
-      "lemma": "write",
-      "kind": "word",
       "type": "outline",
-      "ctx": "写",
-      "forms": [
-        {
-          "surface": "writes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "wrote",
-          "tag": "past"
-        },
-        {
-          "surface": "written",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "writing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[raɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "写"
-        }
-      ]
+      "ctx": "写"
     },
     {
       "word": "hard",
-      "lemma": "hard",
-      "kind": "word",
       "type": "outline",
-      "ctx": "困难的",
-      "forms": [],
-      "phonetic": "[hɑːd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "坚硬的；困难的；努力的；辛苦的"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "努力地"
-        }
-      ]
+      "ctx": "困难的"
     },
     {
       "word": "writer",
-      "lemma": "writer",
-      "kind": "word",
       "type": "outline",
-      "ctx": "作家",
-      "forms": [],
-      "phonetic": "[ˈraɪtə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "作家，作者"
-        }
-      ]
+      "ctx": "作家"
     },
     {
       "word": "because",
-      "lemma": "because",
-      "kind": "word",
       "type": "outline",
-      "ctx": "因为",
-      "forms": [],
-      "phonetic": "[bɪˈkɒz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "conj.",
-          "meaning": "因为"
-        }
-      ]
+      "ctx": "因为"
     },
     {
       "word": "carry",
-      "lemma": "carry",
-      "kind": "word",
       "type": "outline",
-      "ctx": "承载",
-      "forms": [
-        {
-          "surface": "carries",
-          "tag": "third_person"
-        },
-        {
-          "surface": "carried",
-          "tag": "past"
-        },
-        {
-          "surface": "carried",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "carrying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈkæri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "携带；搬运；背；承载，承受",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "carry out实施；完成（任务）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "承载"
     },
     {
       "word": "weight",
-      "lemma": "weight",
-      "kind": "word",
       "type": "outline",
-      "ctx": "分量",
-      "forms": [],
-      "phonetic": "[weɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "重量，分量；重要性，影响力",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "lose weight减肥put on weight长胖，增加体重"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "分量"
     },
     {
       "word": "balance",
-      "lemma": "balance",
-      "kind": "word",
       "type": "outline",
-      "ctx": "平衡",
-      "forms": [
-        {
-          "surface": "balances",
-          "tag": "third_person"
-        },
-        {
-          "surface": "balanced",
-          "tag": "past"
-        },
-        {
-          "surface": "balanced",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "balancing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈbæləns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "平衡"
-        },
-        {
-          "pos": "v.",
-          "meaning": "（使）平衡；权衡"
-        }
-      ]
+      "ctx": "平衡"
     },
     {
       "word": "create",
-      "lemma": "create",
-      "kind": "word",
       "type": "outline",
-      "ctx": "创作",
-      "forms": [
-        {
-          "surface": "creates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "created",
-          "tag": "past"
-        },
-        {
-          "surface": "created",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "creating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kriˈeɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "创造；造成"
-        }
-      ]
+      "ctx": "创作"
     },
     {
       "word": "unpredictable",
-      "lemma": "unpredictable",
-      "kind": "word",
       "type": "core",
-      "ctx": "出人意料的",
-      "forms": [],
-      "phonetic": "[ˌʌnprɪˈdɪktəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "不可预测的；（人）善变的"
-        }
-      ]
+      "ctx": "出人意料的"
     },
     {
       "word": "nowhere",
-      "lemma": "nowhere",
-      "kind": "word",
       "type": "outline",
-      "ctx": "无",
-      "forms": [],
-      "phonetic": "[ˈnəʊweə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "任何地方都不；无处"
-        }
-      ]
+      "ctx": "无"
     },
     {
       "word": "issue",
-      "lemma": "issue",
-      "kind": "word",
       "type": "outline",
-      "ctx": "本期",
-      "forms": [
-        {
-          "surface": "issues",
-          "tag": "plural"
-        },
-        {
-          "surface": "issues",
-          "tag": "third_person"
-        },
-        {
-          "surface": "issued",
-          "tag": "past"
-        },
-        {
-          "surface": "issued",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "issuing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈɪʃuː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "议题；问题；一期；期号",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "issue shares发行股票"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "发行；发布；出版"
-        }
-      ]
+      "ctx": "本期"
     },
     {
       "word": "figure",
-      "lemma": "figure",
-      "kind": "word",
       "type": "outline",
-      "ctx": "弄清楚",
-      "forms": [
-        {
-          "surface": "figures",
-          "tag": "plural"
-        },
-        {
-          "surface": "figures",
-          "tag": "third_person"
-        },
-        {
-          "surface": "figured",
-          "tag": "past"
-        },
-        {
-          "surface": "figured",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "figuring",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈfɪɡə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "数字；人物；画像；身材",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "figure out计算出；弄明白"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "v.",
-          "meaning": "认为；计算"
-        }
-      ]
+      "ctx": "弄清楚"
     },
     {
       "word": "break",
-      "lemma": "break",
-      "kind": "word",
       "type": "outline",
-      "ctx": "分解",
-      "forms": [
-        {
-          "surface": "breaks",
-          "tag": "third_person"
-        },
-        {
-          "surface": "broke",
-          "tag": "past"
-        },
-        {
-          "surface": "broken",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "breaking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[breɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "打破；撕开",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "break down出故障，坏掉；划分部分（以便分析） break off中止，中断break in破门而入"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "间歇；休息"
-        }
-      ]
+      "ctx": "分解"
     },
     {
       "word": "stick",
-      "lemma": "stick",
-      "kind": "word",
       "type": "outline",
-      "ctx": "顺利完成",
-      "forms": [
-        {
-          "surface": "sticks",
-          "tag": "third_person"
-        },
-        {
-          "surface": "stuck",
-          "tag": "past"
-        },
-        {
-          "surface": "stuck",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "sticking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[stɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "黏住；坚持",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "stick to sth.坚持；维持stick with sth.持续；坚持stick the landing稳稳降落"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "木棒，木棍"
-        }
-      ]
+      "ctx": "顺利完成"
     },
     {
       "word": "landing",
-      "lemma": "landing",
-      "kind": "word",
       "type": "core",
-      "ctx": "着陆",
-      "forms": [],
-      "phonetic": "[ˈlændɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "降落；着陆"
-        }
-      ]
+      "ctx": "着陆"
     },
     {
       "word": "great",
-      "lemma": "great",
-      "kind": "word",
       "type": "outline",
-      "ctx": "优秀的",
-      "forms": [],
-      "phonetic": "[ɡreɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "大的；伟大的；重要的；显著的"
-        }
-      ]
+      "ctx": "优秀的"
     },
     {
       "word": "adapt",
-      "lemma": "adapt",
-      "kind": "word",
       "type": "outline",
-      "ctx": "应用",
-      "forms": [
-        {
-          "surface": "adapts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "adapted",
-          "tag": "past"
-        },
-        {
-          "surface": "adapted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "adapting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈdæpt]",
-      "memory": [
-        "词根记忆：ad（表加强）+apt（适应）→（使）适应"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）适应；改编",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "adapt to...适应……"
-              ]
-            },
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "People in Ethiopian highlands have adapted to living at high altitudes.在埃塞俄比亚高地居住的人们已经适应了高海拔地区的生活。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "应用"
     },
     {
       "word": "up",
-      "lemma": "up",
-      "kind": "word",
       "type": "outline",
-      "ctx": "取决于",
-      "forms": [],
-      "phonetic": "[ʌp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "向上；在上面",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "be up to sb.是某人的职责（或责任）；由某人决定up to多达ups and downs起伏，兴衰"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "adj.",
-          "meaning": "向上的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "上升"
-        },
-        {
-          "pos": "prep.",
-          "meaning": "向，在（较高位置）"
-        }
-      ]
+      "ctx": "取决于"
     },
     {
       "word": "provide",
-      "lemma": "provide",
-      "kind": "word",
       "type": "outline",
-      "ctx": "提供",
-      "forms": [
-        {
-          "surface": "provides",
-          "tag": "third_person"
-        },
-        {
-          "surface": "provided",
-          "tag": "past"
-        },
-        {
-          "surface": "provided",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "providing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[prəˈvaɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "提供"
-        }
-      ]
+      "ctx": "提供"
     }
   ]
 }

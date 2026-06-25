@@ -34,1027 +34,213 @@
   "vocab": [
     {
       "word": "rainforest",
-      "lemma": "rainforest",
-      "kind": "word",
       "type": "core",
-      "ctx": "（热带）雨林",
-      "forms": [
-        {
-          "surface": "Rainforests",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈreɪnfɒrɪst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（热带）雨林"
-        }
-      ]
+      "ctx": "（热带）雨林"
     },
     {
       "word": "rich",
-      "lemma": "rich",
-      "kind": "word",
       "type": "outline",
-      "ctx": "富有的",
-      "forms": [],
-      "phonetic": "[rɪtʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "富有的；富饶的；大量含有；丰富多彩的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "rich in sth.富含某物"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "富有的"
     },
     {
       "word": "botanical",
-      "lemma": "botanical",
-      "kind": "word",
       "type": "outline",
-      "ctx": "植物学的",
-      "forms": [],
-      "phonetic": "[bəˈtænɪkl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "植物学的"
-        }
-      ]
+      "ctx": "植物学的"
     },
     {
       "word": "ant",
-      "lemma": "ant",
-      "kind": "word",
       "type": "outline",
-      "ctx": "蚂蚁",
-      "forms": [
-        {
-          "surface": "ants",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ænt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "蚂蚁"
-        }
-      ]
+      "ctx": "蚂蚁"
     },
     {
       "word": "dinosaur",
-      "lemma": "dinosaur",
-      "kind": "word",
       "type": "outline",
-      "ctx": "恐龙",
-      "forms": [
-        {
-          "surface": "dinosaurs",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈdaɪnəsɔː(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "恐龙"
-        }
-      ]
+      "ctx": "恐龙"
     },
     {
       "word": "tree",
-      "lemma": "tree",
-      "kind": "word",
       "type": "outline",
-      "ctx": "树",
-      "forms": [
-        {
-          "surface": "trees",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[triː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "树",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "trunk*（ n. 树干；行李箱）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "树"
     },
     {
       "word": "hectare",
-      "lemma": "hectare",
-      "kind": "word",
       "type": "core",
-      "ctx": "公顷",
-      "forms": [],
-      "phonetic": "[ˈhekteə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "公顷"
-        }
-      ]
+      "ctx": "公顷"
     },
     {
       "word": "vast",
-      "lemma": "vast",
-      "kind": "word",
       "type": "outline",
-      "ctx": "巨大的，大量的",
-      "forms": [],
-      "phonetic": "[vɑːst]",
-      "memory": [
-        "联想记忆：东方（east）地大（vast）物博"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "巨大的，大量的"
-        }
-      ]
+      "ctx": "巨大的，大量的"
     },
     {
       "word": "survival",
-      "lemma": "survival",
-      "kind": "word",
       "type": "core",
-      "ctx": "幸存",
-      "forms": [],
-      "phonetic": "[səˈvaɪvl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "幸存；生存"
-        }
-      ]
+      "ctx": "幸存"
     },
     {
       "word": "tall",
-      "lemma": "tall",
-      "kind": "word",
       "type": "outline",
-      "ctx": "高的，高大的",
-      "forms": [],
-      "phonetic": "[tɔːl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "高的，高大的"
-        }
-      ]
+      "ctx": "高的，高大的"
     },
     {
       "word": "meter",
-      "lemma": "meter",
-      "kind": "word",
       "type": "outline",
-      "ctx": "米，公尺",
-      "forms": [
-        {
-          "surface": "meters",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈmiːtə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "米，公尺"
-        }
-      ]
+      "ctx": "米，公尺"
     },
     {
       "word": "envelop",
-      "lemma": "envelop",
-      "kind": "word",
       "type": "core",
-      "ctx": "包住，裹住，盖住",
-      "forms": [
-        {
-          "surface": "envelops",
-          "tag": "third_person"
-        },
-        {
-          "surface": "enveloped",
-          "tag": "past"
-        },
-        {
-          "surface": "enveloped",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "enveloping",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪnˈveləp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "包住，裹住，盖住",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "envelope*（ n. 信封）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "包住，裹住，盖住"
     },
     {
       "word": "foggy",
-      "lemma": "foggy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "有雾的，多雾的",
-      "forms": [],
-      "phonetic": "[ˈfɒɡi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "有雾的，多雾的"
-        }
-      ]
+      "ctx": "有雾的，多雾的"
     },
     {
       "word": "mist",
-      "lemma": "mist",
-      "kind": "word",
       "type": "outline",
-      "ctx": "雾",
-      "forms": [],
-      "phonetic": "[mɪst]",
-      "memory": [
-        "联想记忆：薄雾（mist）散去，怀念（miss）往昔"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "雾"
-        }
-      ]
+      "ctx": "雾"
     },
     {
       "word": "forest",
-      "lemma": "forest",
-      "kind": "word",
       "type": "outline",
-      "ctx": "森林",
-      "forms": [],
-      "phonetic": "[ˈfɒrɪst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "森林"
-        }
-      ]
+      "ctx": "森林"
     },
     {
       "word": "heavy",
-      "lemma": "heavy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "重的",
-      "forms": [],
-      "phonetic": "[ˈhevi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "重的；厚的；（在数量、程度等方面）超出一般的"
-        }
-      ]
+      "ctx": "重的"
     },
     {
       "word": "rain",
-      "lemma": "rain",
-      "kind": "word",
       "type": "outline",
-      "ctx": "雨",
-      "forms": [
-        {
-          "surface": "rains",
-          "tag": "third_person"
-        },
-        {
-          "surface": "rained",
-          "tag": "past"
-        },
-        {
-          "surface": "rained",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "raining",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[reɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "雨；雨季"
-        },
-        {
-          "pos": "vi.",
-          "meaning": "下雨"
-        }
-      ]
+      "ctx": "雨"
     },
     {
       "word": "heat",
-      "lemma": "heat",
-      "kind": "word",
       "type": "outline",
-      "ctx": "热",
-      "forms": [
-        {
-          "surface": "heats",
-          "tag": "third_person"
-        },
-        {
-          "surface": "heated",
-          "tag": "past"
-        },
-        {
-          "surface": "heated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "heating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[hiːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "热；温度"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "加热"
-        }
-      ]
+      "ctx": "热"
     },
     {
       "word": "wind",
-      "lemma": "wind",
-      "kind": "word",
       "type": "outline",
-      "ctx": "风",
-      "forms": [
-        {
-          "surface": "winds",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[wɪnd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "风",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "blow*（ v. 吹；刮风）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "风"
     },
     {
       "word": "amazingly",
-      "lemma": "amazingly",
-      "kind": "word",
       "type": "core",
-      "ctx": "令人惊讶地",
-      "forms": [],
-      "phonetic": "[əˈmeɪzɪŋli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "令人惊讶地"
-        }
-      ]
+      "ctx": "令人惊讶地"
     },
     {
       "word": "prevent",
-      "lemma": "prevent",
-      "kind": "word",
       "type": "outline",
-      "ctx": "防止，阻止",
-      "forms": [
-        {
-          "surface": "prevents",
-          "tag": "third_person"
-        },
-        {
-          "surface": "prevented",
-          "tag": "past"
-        },
-        {
-          "surface": "prevented",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "preventing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[prɪˈvent]",
-      "memory": [
-        "词根记忆：pre（预先）+vent（来）→提前来挡住别人→阻止"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "防止，阻止",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "prevent sb.(from) doing sth.阻止某人做某事"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "防止，阻止"
     },
     {
       "word": "caterpillar",
-      "lemma": "caterpillar",
-      "kind": "word",
       "type": "core",
-      "ctx": "毛虫",
-      "forms": [
-        {
-          "surface": "caterpillars",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈkætəpɪlə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "毛虫"
-        }
-      ]
+      "ctx": "毛虫"
     },
     {
       "word": "survive",
-      "lemma": "survive",
-      "kind": "word",
       "type": "outline",
-      "ctx": "生存",
-      "forms": [
-        {
-          "surface": "survives",
-          "tag": "third_person"
-        },
-        {
-          "surface": "survived",
-          "tag": "past"
-        },
-        {
-          "surface": "survived",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "surviving",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[səˈvaɪv]",
-      "memory": [
-        "词根记忆：sur（上）+viv（生命）+e→活在生命之上→幸存"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "生存；幸存，挺过；比……活得长"
-        }
-      ]
+      "ctx": "生存"
     },
     {
       "word": "fly",
-      "lemma": "fly",
-      "kind": "word",
       "type": "outline",
-      "ctx": "飞",
-      "forms": [
-        {
-          "surface": "flies",
-          "tag": "third_person"
-        },
-        {
-          "surface": "flew",
-          "tag": "past"
-        },
-        {
-          "surface": "flown",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "flying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[flaɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "飞；飞行；飞逝；驾驶（飞机等）"
-        },
-        {
-          "pos": "n.",
-          "meaning": "苍蝇"
-        }
-      ]
+      "ctx": "飞"
     },
     {
       "word": "gap",
-      "lemma": "gap",
-      "kind": "word",
       "type": "outline",
-      "ctx": "缺口，裂口",
-      "forms": [
-        {
-          "surface": "gaps",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ɡæp]",
-      "memory": [
-        "联想记忆：在地图（map）上标出间隔（gap）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "缺口，裂口；间隔；差距",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "age gap年龄差距gap year间隔年，空缺年"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "缺口，裂口"
     },
     {
       "word": "mushroom",
-      "lemma": "mushroom",
-      "kind": "word",
       "type": "outline",
-      "ctx": "蘑菇",
-      "forms": [
-        {
-          "surface": "mushrooms",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈmʌʃrʊm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "蘑菇"
-        }
-      ]
+      "ctx": "蘑菇"
     },
     {
       "word": "silent",
-      "lemma": "silent",
-      "kind": "word",
       "type": "outline",
-      "ctx": "无声的，沉默的",
-      "forms": [],
-      "phonetic": "[ˈsaɪlənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "无声的，沉默的"
-        }
-      ]
+      "ctx": "无声的，沉默的"
     },
     {
       "word": "tiger",
-      "lemma": "tiger",
-      "kind": "word",
       "type": "outline",
-      "ctx": "老虎",
-      "forms": [
-        {
-          "surface": "tigers",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈtaɪɡə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "老虎"
-        }
-      ]
+      "ctx": "老虎"
     },
     {
       "word": "tangled",
-      "lemma": "tangled",
-      "kind": "word",
       "type": "core",
-      "ctx": "缠结的，混乱的",
-      "forms": [],
-      "phonetic": "[ˈtæŋɡld]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "缠结的，混乱的；复杂的"
-        }
-      ]
+      "ctx": "缠结的，混乱的"
     },
     {
       "word": "generate",
-      "lemma": "generate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "产生，引起",
-      "forms": [
-        {
-          "surface": "generates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "generated",
-          "tag": "past"
-        },
-        {
-          "surface": "generated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "generating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈdʒenəreɪt]",
-      "memory": [
-        "词根记忆：gener（产生）+ate（使……）→产生"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "产生，引起",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "generate electricity发电"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "产生，引起"
     },
     {
       "word": "inch",
-      "lemma": "inch",
-      "kind": "word",
       "type": "outline",
-      "ctx": "英寸",
-      "forms": [
-        {
-          "surface": "inches",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ɪntʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "英寸"
-        }
-      ]
+      "ctx": "英寸"
     },
     {
       "word": "annually",
-      "lemma": "annually",
-      "kind": "word",
       "type": "core",
-      "ctx": "一年一次地",
-      "forms": [],
-      "phonetic": "[ˈænjuəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "一年一次地"
-        }
-      ]
+      "ctx": "一年一次地"
     },
     {
       "word": "umbrella",
-      "lemma": "umbrella",
-      "kind": "word",
       "type": "outline",
-      "ctx": "伞，雨伞",
-      "forms": [],
-      "phonetic": "[ʌmˈbrelə]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "伞，雨伞"
-        }
-      ]
+      "ctx": "伞，雨伞"
     },
     {
       "word": "shower",
-      "lemma": "shower",
-      "kind": "word",
       "type": "outline",
-      "ctx": "淋浴",
-      "forms": [
-        {
-          "surface": "showers",
-          "tag": "plural"
-        },
-        {
-          "surface": "showers",
-          "tag": "third_person"
-        },
-        {
-          "surface": "showered",
-          "tag": "past"
-        },
-        {
-          "surface": "showered",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "showering",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈʃaʊə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "淋浴；淋浴器；阵雨；阵雪"
-        },
-        {
-          "pos": "vi.",
-          "meaning": "淋浴"
-        }
-      ]
+      "ctx": "淋浴"
     },
     {
       "word": "rainstorm",
-      "lemma": "rainstorm",
-      "kind": "word",
       "type": "core",
-      "ctx": "暴风雨",
-      "forms": [],
-      "phonetic": "[ˈreɪnstɔːm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "暴风雨"
-        }
-      ]
+      "ctx": "暴风雨"
     },
     {
       "word": "twenty",
-      "lemma": "twenty",
-      "kind": "word",
       "type": "outline",
-      "ctx": "二十",
-      "forms": [],
-      "phonetic": "[ˈtwenti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "num.",
-          "meaning": "二十",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "twentieth*（ ordinal num. 第二十）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "二十"
     },
     {
       "word": "mosquito",
-      "lemma": "mosquito",
-      "kind": "word",
       "type": "outline",
-      "ctx": "蚊子",
-      "forms": [
-        {
-          "surface": "mosquitoes",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[məˈskiːtəʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "蚊子"
-        }
-      ]
+      "ctx": "蚊子"
     },
     {
       "word": "rainy",
-      "lemma": "rainy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "阴雨的，多雨的",
-      "forms": [],
-      "phonetic": "[ˈreɪni]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "阴雨的，多雨的"
-        }
-      ]
+      "ctx": "阴雨的，多雨的"
     },
     {
       "word": "wet",
-      "lemma": "wet",
-      "kind": "word",
       "type": "outline",
-      "ctx": "湿的",
-      "forms": [],
-      "phonetic": "[wet]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "湿的；有雨的，下雨的"
-        }
-      ]
+      "ctx": "湿的"
     },
     {
       "word": "illegal",
-      "lemma": "illegal",
-      "kind": "word",
       "type": "outline",
-      "ctx": "违法的，非法的",
-      "forms": [],
-      "phonetic": "[ɪˈliːɡl]",
-      "memory": [
-        "词根记忆：il（不）+legal（合法的）→不合法的→违法的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "违法的，非法的"
-        }
-      ]
+      "ctx": "违法的，非法的"
     },
     {
       "word": "log",
-      "lemma": "log",
-      "kind": "word",
       "type": "outline",
-      "ctx": "原木",
-      "forms": [
-        {
-          "surface": "logs",
-          "tag": "plural"
-        },
-        {
-          "surface": "logs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "logged",
-          "tag": "past"
-        },
-        {
-          "surface": "logged",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "logging",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[lɒɡ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "原木；航海（或飞行）日志"
-        },
-        {
-          "pos": "v.",
-          "meaning": "记录；伐木"
-        }
-      ]
+      "ctx": "原木"
     },
     {
       "word": "wound",
-      "lemma": "wound",
-      "kind": "word",
       "type": "outline",
-      "ctx": "伤，伤口",
-      "forms": [
-        {
-          "surface": "wounds",
-          "tag": "plural"
-        },
-        {
-          "surface": "wounds",
-          "tag": "third_person"
-        },
-        {
-          "surface": "wounded",
-          "tag": "past"
-        },
-        {
-          "surface": "wounded",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "wounding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[wuːnd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "伤，伤口；（心灵上的）伤，创伤"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "使受伤；伤害（感情）"
-        }
-      ]
+      "ctx": "伤，伤口"
     }
   ]
 }

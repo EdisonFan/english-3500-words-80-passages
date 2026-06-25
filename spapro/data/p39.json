@@ -34,1178 +34,243 @@
   "vocab": [
     {
       "word": "maximum",
-      "lemma": "maximum",
-      "kind": "word",
       "type": "outline",
-      "ctx": "最大",
-      "forms": [],
-      "phonetic": "[ˈmæksɪməm]",
-      "memory": [
-        "词根记忆：max（大，高）+imum→最大量（的）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "/",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "minimum*（ n. 最小值 adj. 最小的）"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "adj.",
-          "meaning": "最大（的），最大限度（的）"
-        }
-      ]
+      "ctx": "最大"
     },
     {
       "word": "fox",
-      "lemma": "fox",
-      "kind": "word",
       "type": "outline",
-      "ctx": "狐狸",
-      "forms": [],
-      "phonetic": "[fɒks]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "狐狸"
-        }
-      ]
+      "ctx": "狐狸"
     },
     {
       "word": "idiom",
-      "lemma": "idiom",
-      "kind": "word",
       "type": "outline",
-      "ctx": "习语，成语",
-      "forms": [],
-      "phonetic": "[ˈɪdiəm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "习语，成语",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "saying*（ n. 格言，谚语）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "习语，成语"
     },
     {
       "word": "clear",
-      "lemma": "clear",
-      "kind": "word",
       "type": "outline",
-      "ctx": "清晰的",
-      "forms": [],
-      "phonetic": "[klɪə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "清晰的；透明的；清楚的；显然的"
-        }
-      ]
+      "ctx": "清晰的"
     },
     {
       "word": "yes",
-      "lemma": "yes",
-      "kind": "word",
       "type": "outline",
-      "ctx": "是，是的",
-      "forms": [],
-      "phonetic": "[jes]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "int.",
-          "meaning": "是，是的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "表示同意的答复"
-        }
-      ]
+      "ctx": "是，是的"
     },
     {
       "word": "king",
-      "lemma": "king",
-      "kind": "word",
       "type": "outline",
-      "ctx": "君主，国王",
-      "forms": [],
-      "phonetic": "[kɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "君主，国王",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "emperor*（ n. 皇帝）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "君主，国王"
     },
     {
       "word": "castle",
-      "lemma": "castle",
-      "kind": "word",
       "type": "outline",
-      "ctx": "城堡",
-      "forms": [],
-      "phonetic": "[ˈkɑːsl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "城堡"
-        }
-      ]
+      "ctx": "城堡"
     },
     {
       "word": "iron",
-      "lemma": "iron",
-      "kind": "word",
       "type": "outline",
-      "ctx": "铁",
-      "forms": [
-        {
-          "surface": "irons",
-          "tag": "plural"
-        },
-        {
-          "surface": "irons",
-          "tag": "third_person"
-        },
-        {
-          "surface": "ironed",
-          "tag": "past"
-        },
-        {
-          "surface": "ironed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "ironing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈaɪən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "铁；熨斗"
-        },
-        {
-          "pos": "v.",
-          "meaning": "熨，烫平"
-        }
-      ]
+      "ctx": "铁"
     },
     {
       "word": "steel",
-      "lemma": "steel",
-      "kind": "word",
       "type": "outline",
-      "ctx": "钢，钢铁",
-      "forms": [],
-      "phonetic": "[stiːl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "钢，钢铁"
-        }
-      ]
+      "ctx": "钢，钢铁"
     },
     {
       "word": "squarely",
-      "lemma": "squarely",
-      "kind": "word",
       "type": "core",
-      "ctx": "正对着地，径直地",
-      "forms": [],
-      "phonetic": "[ˈskweəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "正对着地，径直地；直截了当；明确无误"
-        }
-      ]
+      "ctx": "正对着地，径直地"
     },
     {
       "word": "fully",
-      "lemma": "fully",
-      "kind": "word",
       "type": "core",
-      "ctx": "完全地，全部地",
-      "forms": [],
-      "phonetic": "[ˈfʊli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "完全地，全部地；整整"
-        }
-      ]
+      "ctx": "完全地，全部地"
     },
     {
       "word": "credible",
-      "lemma": "credible",
-      "kind": "word",
       "type": "core",
-      "ctx": "可信的，可靠的",
-      "forms": [],
-      "phonetic": "[ˈkredəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "可信的，可靠的"
-        }
-      ]
+      "ctx": "可信的，可靠的"
     },
     {
       "word": "company",
-      "lemma": "company",
-      "kind": "word",
       "type": "outline",
-      "ctx": "公司",
-      "forms": [
-        {
-          "surface": "companies",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈkʌmpəni]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "公司；陪伴"
-        }
-      ]
+      "ctx": "公司"
     },
     {
       "word": "concentrate",
-      "lemma": "concentrate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "集中（注意力），专心",
-      "forms": [
-        {
-          "surface": "concentrates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "concentrated",
-          "tag": "past"
-        },
-        {
-          "surface": "concentrated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "concentrating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈkɒnsntreɪt]",
-      "memory": [
-        "词根记忆：con（表加强）+centr（中心）+ate（使……）→使聚到中心→集中（注意力）"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "集中（注意力），专心",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "concentrate on sth.集中时间做某事；专心做某事"
-              ]
-            },
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Sarah has turned down several invitations to star at shows in order to concentrate on her studies.为了专心学习，萨拉已经拒绝了好几次演出的邀请。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "集中（注意力），专心"
     },
     {
       "word": "clarity",
-      "lemma": "clarity",
-      "kind": "word",
       "type": "core",
-      "ctx": "清楚，明晰",
-      "forms": [],
-      "phonetic": "[ˈklærəti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "清楚，明晰"
-        }
-      ]
+      "ctx": "清楚，明晰"
     },
     {
       "word": "persuade",
-      "lemma": "persuade",
-      "kind": "word",
       "type": "outline",
-      "ctx": "说服，劝说",
-      "forms": [
-        {
-          "surface": "persuades",
-          "tag": "third_person"
-        },
-        {
-          "surface": "persuaded",
-          "tag": "past"
-        },
-        {
-          "surface": "persuaded",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "persuading",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[pəˈsweɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "说服，劝说；使相信",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "persuade sb.(not) to do sth.说服某人（不）做某事"
-              ]
-            },
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "I do know how upset the shop staff can get, but I try to persuade them to keep smiling.我确实知道店员们会有多不高兴，但我努力说服他们保持微笑。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "说服，劝说"
     },
     {
       "word": "downside",
-      "lemma": "downside",
-      "kind": "word",
       "type": "core",
-      "ctx": "缺点，不利方面",
-      "forms": [],
-      "phonetic": "[ˈdaʊnsaɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "缺点，不利方面"
-        }
-      ]
+      "ctx": "缺点，不利方面"
     },
     {
       "word": "record",
-      "lemma": "record",
-      "kind": "word",
       "type": "outline",
-      "ctx": "记录",
-      "forms": [
-        {
-          "surface": "records",
-          "tag": "plural"
-        },
-        {
-          "surface": "records",
-          "tag": "third_person"
-        },
-        {
-          "surface": "recorded",
-          "tag": "past"
-        },
-        {
-          "surface": "recorded",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "recording",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈrekɔːd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "记录；唱片"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "录制；记录"
-        }
-      ]
+      "ctx": "记录"
     },
     {
       "word": "folk",
-      "lemma": "folk",
-      "kind": "word",
       "type": "outline",
-      "ctx": "民间的",
-      "forms": [
-        {
-          "surface": "folks",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[fəʊk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "民间的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "folk music民间音乐"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "[pl.]人们"
-        }
-      ]
+      "ctx": "民间的"
     },
     {
       "word": "Sunday",
-      "lemma": "Sunday",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "星期日，星期天",
-      "forms": [],
-      "phonetic": "[ˈsʌndeɪ; ˈsʌndi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "星期日，星期天",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "Saturday*（ n. 星期六）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "星期日，星期天"
     },
     {
       "word": "prediction",
-      "lemma": "prediction",
-      "kind": "word",
       "type": "core",
-      "ctx": "预言，预测，预告",
-      "forms": [
-        {
-          "surface": "predictions",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[prɪˈdɪkʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "预言，预测，预告"
-        }
-      ]
+      "ctx": "预言，预测，预告"
     },
     {
       "word": "admit",
-      "lemma": "admit",
-      "kind": "word",
       "type": "outline",
-      "ctx": "承认",
-      "forms": [
-        {
-          "surface": "admits",
-          "tag": "third_person"
-        },
-        {
-          "surface": "admitted",
-          "tag": "past"
-        },
-        {
-          "surface": "admitted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "admitting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ədˈmɪt]",
-      "memory": [
-        "词根记忆：ad（表加强）+mit（送）→准许送入→准许"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "承认；准许（入场、入学等）",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "admit doing sth.承认做过某事admit...into/to...让……进入……"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "承认"
     },
     {
       "word": "match",
-      "lemma": "match",
-      "kind": "word",
       "type": "outline",
-      "ctx": "比得上",
-      "forms": [
-        {
-          "surface": "matches",
-          "tag": "plural"
-        },
-        {
-          "surface": "matches",
-          "tag": "third_person"
-        },
-        {
-          "surface": "matched",
-          "tag": "past"
-        },
-        {
-          "surface": "matched",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "matching",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[mætʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "比得上；和……不相上下；与……一样；和……相配；配对"
-        },
-        {
-          "pos": "n.",
-          "meaning": "比赛；火柴"
-        }
-      ]
+      "ctx": "比得上"
     },
     {
       "word": "enemy",
-      "lemma": "enemy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "敌人，仇敌",
-      "forms": [
-        {
-          "surface": "enemies",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈenəmi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "敌人，仇敌"
-        }
-      ]
+      "ctx": "敌人，仇敌"
     },
     {
       "word": "journalist",
-      "lemma": "journalist",
-      "kind": "word",
       "type": "outline",
-      "ctx": "记者，新闻工作者",
-      "forms": [
-        {
-          "surface": "journalists",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈdʒɜːnəlɪst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "记者，新闻工作者"
-        }
-      ]
+      "ctx": "记者，新闻工作者"
     },
     {
       "word": "notebook",
-      "lemma": "notebook",
-      "kind": "word",
       "type": "outline",
-      "ctx": "笔记本",
-      "forms": [],
-      "phonetic": "[ˈnəʊtbʊk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "笔记本"
-        }
-      ]
+      "ctx": "笔记本"
     },
     {
       "word": "kite",
-      "lemma": "kite",
-      "kind": "word",
       "type": "outline",
-      "ctx": "风筝",
-      "forms": [],
-      "phonetic": "[kaɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "风筝"
-        }
-      ]
+      "ctx": "风筝"
     },
     {
       "word": "broad",
-      "lemma": "broad",
-      "kind": "word",
       "type": "outline",
-      "ctx": "宽阔的",
-      "forms": [],
-      "phonetic": "[brɔːd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "宽阔的；广泛的；……宽"
-        }
-      ]
+      "ctx": "宽阔的"
     },
     {
       "word": "range",
-      "lemma": "range",
-      "kind": "word",
       "type": "outline",
-      "ctx": "一系列，各种",
-      "forms": [
-        {
-          "surface": "ranges",
-          "tag": "plural"
-        },
-        {
-          "surface": "ranges",
-          "tag": "third_person"
-        },
-        {
-          "surface": "ranged",
-          "tag": "past"
-        },
-        {
-          "surface": "ranged",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "ranging",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[reɪndʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "一系列，各种；范围；山脉",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "range from...to...范围从……到…… a wide range of大范围的，多种多样的"
-              ]
-            },
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "The national park has a large collection of wildlife, ranging from butterflies to elephants.这个国家公园有种类繁多的野生动物，从蝴蝶到大象都有。"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vi.",
-          "meaning": "包括（从……到……）之间的各类事物或人；（在一定范围内）变化"
-        }
-      ]
+      "ctx": "一系列，各种"
     },
     {
       "word": "uncertainty",
-      "lemma": "uncertainty",
-      "kind": "word",
       "type": "core",
-      "ctx": "犹豫，迟疑",
-      "forms": [],
-      "phonetic": "[ʌnˈsɜːtnti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "犹豫，迟疑；拿不定的事"
-        }
-      ]
+      "ctx": "犹豫，迟疑"
     },
     {
       "word": "contradictory",
-      "lemma": "contradictory",
-      "kind": "word",
       "type": "outline",
-      "ctx": "相互矛盾的，不一致的",
-      "forms": [],
-      "phonetic": "[ˌkɒntrəˈdɪktəri]",
-      "memory": [
-        "词根记忆：contra（相反）+dict（说）+ory（……的）→反过来说的→相互矛盾的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "相互矛盾的，不一致的"
-        }
-      ]
+      "ctx": "相互矛盾的，不一致的"
     },
     {
       "word": "treat",
-      "lemma": "treat",
-      "kind": "word",
       "type": "outline",
-      "ctx": "对待",
-      "forms": [
-        {
-          "surface": "treats",
-          "tag": "third_person"
-        },
-        {
-          "surface": "treated",
-          "tag": "past"
-        },
-        {
-          "surface": "treated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "treating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[triːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "对待；把……看作；治疗；招待；处理"
-        },
-        {
-          "pos": "n.",
-          "meaning": "款待"
-        }
-      ]
+      "ctx": "对待"
     },
     {
       "word": "exceptional",
-      "lemma": "exceptional",
-      "kind": "word",
       "type": "outline",
-      "ctx": "杰出的，优秀的",
-      "forms": [],
-      "phonetic": "[ɪkˈsepʃənl]",
-      "memory": [
-        "来自exception（ n. 例外）"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "杰出的，优秀的；特别的，异常的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "exceptional talent非凡的天赋"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "杰出的，优秀的"
     },
     {
       "word": "viewpoint",
-      "lemma": "viewpoint",
-      "kind": "word",
       "type": "core",
-      "ctx": "观点，看法，见解",
-      "forms": [],
-      "phonetic": "[ˈvjuːpɔɪnt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "观点，看法，见解"
-        }
-      ]
+      "ctx": "观点，看法，见解"
     },
     {
       "word": "exclude",
-      "lemma": "exclude",
-      "kind": "word",
       "type": "core",
-      "ctx": "把……排除在外",
-      "forms": [
-        {
-          "surface": "excludes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "excluded",
-          "tag": "past"
-        },
-        {
-          "surface": "excluded",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "excluding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪkˈskluːd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "把……排除在外",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "except*（ prep. 除……之外）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "把……排除在外"
     },
     {
       "word": "estimation",
-      "lemma": "estimation",
-      "kind": "word",
       "type": "core",
-      "ctx": "判断，评价",
-      "forms": [],
-      "phonetic": "[ˌestɪˈmeɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "判断，评价；估计"
-        }
-      ]
+      "ctx": "判断，评价"
     },
     {
       "word": "pool",
-      "lemma": "pool",
-      "kind": "word",
       "type": "outline",
-      "ctx": "池塘",
-      "forms": [],
-      "phonetic": "[puːl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "池塘；游泳池；（液体等的）一小片；共用的资源"
-        }
-      ]
+      "ctx": "池塘"
     },
     {
       "word": "dive",
-      "lemma": "dive",
-      "kind": "word",
       "type": "outline",
-      "ctx": "跳水",
-      "forms": [
-        {
-          "surface": "dives",
-          "tag": "plural"
-        },
-        {
-          "surface": "dives",
-          "tag": "third_person"
-        },
-        {
-          "surface": "dived",
-          "tag": "past"
-        },
-        {
-          "surface": "dived",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "dove",
-          "tag": "past"
-        },
-        {
-          "surface": "diving",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[daɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "跳水；潜水",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "dive deep into深入探究，深入钻研dive into the river跳进河里"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "跳水"
     },
     {
       "word": "missing",
-      "lemma": "missing",
-      "kind": "word",
       "type": "outline",
-      "ctx": "丢失的",
-      "forms": [],
-      "phonetic": "[ˈmɪsɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "丢失的；失踪的；缺少的"
-        }
-      ]
+      "ctx": "丢失的"
     },
     {
       "word": "diamond",
-      "lemma": "diamond",
-      "kind": "word",
       "type": "outline",
-      "ctx": "钻石，金刚石",
-      "forms": [],
-      "phonetic": "[ˈdaɪəmənd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "钻石，金刚石；菱形"
-        }
-      ]
+      "ctx": "钻石，金刚石"
     },
     {
       "word": "foxy",
-      "lemma": "foxy",
-      "kind": "word",
       "type": "core",
-      "ctx": "貌似狐狸的",
-      "forms": [],
-      "phonetic": "[ˈfɒksi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "貌似狐狸的；狡猾的"
-        }
-      ]
+      "ctx": "貌似狐狸的"
     },
     {
       "word": "trade-off",
-      "lemma": "trade-off",
-      "kind": "word",
       "type": "core",
-      "ctx": "权衡，协调",
-      "forms": [],
-      "phonetic": "[ˈtreɪd ɒf]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "权衡，协调"
-        }
-      ]
+      "ctx": "权衡，协调"
     },
     {
       "word": "effective",
-      "lemma": "effective",
-      "kind": "word",
       "type": "core",
-      "ctx": "有效的",
-      "forms": [],
-      "phonetic": "[ɪˈfektɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "有效的；实际的；生效的"
-        }
-      ]
+      "ctx": "有效的"
     },
     {
       "word": "rare",
-      "lemma": "rare",
-      "kind": "word",
       "type": "outline",
-      "ctx": "罕见的，稀有的",
-      "forms": [],
-      "phonetic": "[reə(r)]",
-      "memory": [
-        "联想记忆：稀有的（rare）东西要小心（care）对待"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "罕见的，稀有的"
-        }
-      ]
+      "ctx": "罕见的，稀有的"
     },
     {
       "word": "mixture",
-      "lemma": "mixture",
-      "kind": "word",
       "type": "outline",
-      "ctx": "混合",
-      "forms": [],
-      "phonetic": "[ˈmɪkstʃə(r)]",
-      "memory": [
-        "词根记忆：mix（混合）+ture（表状态）→混合"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "混合；混合物"
-        }
-      ]
+      "ctx": "混合"
     },
     {
       "word": "identity",
-      "lemma": "identity",
-      "kind": "word",
       "type": "outline",
-      "ctx": "身份",
-      "forms": [],
-      "phonetic": "[aɪˈdentəti]",
-      "memory": [
-        "词根记忆：ident（相同）+ity（表名词）→一致"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "身份；一致；特性",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "identity card身份证"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "身份"
     },
     {
       "word": "realm",
-      "lemma": "realm",
-      "kind": "word",
       "type": "core",
-      "ctx": "王国",
-      "forms": [],
-      "phonetic": "[relm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "王国；领域，范围"
-        }
-      ]
+      "ctx": "王国"
     },
     {
       "word": "autonomous",
-      "lemma": "autonomous",
-      "kind": "word",
       "type": "outline",
-      "ctx": "自治的",
-      "forms": [],
-      "phonetic": "[ɔːˈtɒnəməs]",
-      "memory": [
-        "词根记忆：auto（自己）+nom（名字）+ous（……的）→自己给自己起名字的→自治的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "自治的；自主的"
-        }
-      ]
+      "ctx": "自治的"
     }
   ]
 }

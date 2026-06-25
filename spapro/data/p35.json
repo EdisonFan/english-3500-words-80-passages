@@ -44,1095 +44,238 @@
   "vocab": [
     {
       "word": "duration",
-      "lemma": "duration",
-      "kind": "word",
       "type": "outline",
-      "ctx": "持续时间",
-      "forms": [],
-      "phonetic": "[djuˈreɪʃn]",
-      "memory": [
-        "词根记忆：dur（持续）+ation（表状态）→持续的状态→持续时间"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "持续时间"
-        }
-      ]
+      "ctx": "持续时间"
     },
     {
       "word": "wrinkle",
-      "lemma": "wrinkle",
-      "kind": "word",
       "type": "outline",
-      "ctx": "皱纹",
-      "forms": [
-        {
-          "surface": "wrinkles",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈrɪŋkl]",
-      "memory": [
-        "联想记忆：眼睛一眨一眨（twinkle）都起皱纹（wrinkle）了"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "皱纹"
-        }
-      ]
+      "ctx": "皱纹"
     },
     {
       "word": "forehead",
-      "lemma": "forehead",
-      "kind": "word",
       "type": "outline",
-      "ctx": "前额",
-      "forms": [],
-      "phonetic": "[ˈfɔːhed; ˈfɒrɪd]",
-      "memory": [
-        "词根记忆：fore（前）+head（头部）→前额"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "前额"
-        }
-      ]
+      "ctx": "前额"
     },
     {
       "word": "age",
-      "lemma": "age",
-      "kind": "word",
       "type": "outline",
-      "ctx": "年龄",
-      "forms": [
-        {
-          "surface": "ages",
-          "tag": "plural"
-        },
-        {
-          "surface": "ages",
-          "tag": "third_person"
-        },
-        {
-          "surface": "aged",
-          "tag": "past"
-        },
-        {
-          "surface": "aged",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "aging",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[eɪdʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "年龄；时代"
-        },
-        {
-          "pos": "v.",
-          "meaning": "（使）变老"
-        }
-      ]
+      "ctx": "年龄"
     },
     {
       "word": "efficient",
-      "lemma": "efficient",
-      "kind": "word",
       "type": "outline",
-      "ctx": "效率高的",
-      "forms": [],
-      "phonetic": "[ɪˈfɪʃnt]",
-      "memory": [
-        "词根记忆：ef（表加强）+fic（做）+i+ent（……的）→做事有效率的→效率高的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "效率高的",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Unless these sectors make their business models much more efficient digitally, they might be left behind.除非这些行业的商业模式在数字化方面更加高效，否则它们可能会落后。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "效率高的"
     },
     {
       "word": "oxygen",
-      "lemma": "oxygen",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U]氧",
-      "forms": [],
-      "phonetic": "[ˈɒksɪdʒən]",
-      "memory": [
-        "词根记忆：oxy（氧）+gen（产生）→氧气"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]氧；氧气"
-        }
-      ]
+      "ctx": "[U]氧"
     },
     {
       "word": "used to",
-      "lemma": "used to",
-      "kind": "phrase",
       "type": "core",
-      "ctx": "曾经，过去常常",
-      "forms": [],
-      "phonetic": "[ˈjuːst tə; ˈjuːst tu]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "modal v.",
-          "meaning": "曾经，过去常常"
-        }
-      ]
+      "ctx": "曾经，过去常常"
     },
     {
       "word": "sign",
-      "lemma": "sign",
-      "kind": "word",
       "type": "outline",
-      "ctx": "签署，签字",
-      "forms": [
-        {
-          "surface": "signs",
-          "tag": "plural"
-        },
-        {
-          "surface": "signs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "signed",
-          "tag": "past"
-        },
-        {
-          "surface": "signed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "signing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[saɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "签署，签字；示意",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "sign up (for) 报名参加"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "指示牌；标记；手势；符号；迹象"
-        }
-      ]
+      "ctx": "签署，签字"
     },
     {
       "word": "retire",
-      "lemma": "retire",
-      "kind": "word",
       "type": "outline",
-      "ctx": "退休，退役",
-      "forms": [
-        {
-          "surface": "retires",
-          "tag": "third_person"
-        },
-        {
-          "surface": "retired",
-          "tag": "past"
-        },
-        {
-          "surface": "retired",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "retiring",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rɪˈtaɪə(r)]",
-      "memory": [
-        "联想记忆：re+tire（劳累）→不再劳累→退休，退役"
-      ],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "退休，退役",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "When Nicolo retired and went to live in Sicily, he brought the paintings with him.尼科罗退休后去西西里岛住了下来，他把那些画作也带在了身边。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "退休，退役"
     },
     {
       "word": "rubber",
-      "lemma": "rubber",
-      "kind": "word",
       "type": "outline",
-      "ctx": "橡皮",
-      "forms": [],
-      "phonetic": "[ˈrʌbə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "橡皮；橡胶"
-        }
-      ]
+      "ctx": "橡皮"
     },
     {
       "word": "band",
-      "lemma": "band",
-      "kind": "word",
       "type": "outline",
-      "ctx": "乐队",
-      "forms": [],
-      "phonetic": "[bænd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "乐队；带子；一伙人，一帮人",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a rubber band一根橡皮筋"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "乐队"
     },
     {
       "word": "drawer",
-      "lemma": "drawer",
-      "kind": "word",
       "type": "outline",
-      "ctx": "抽屉",
-      "forms": [],
-      "phonetic": "[drɔː(r)]",
-      "memory": [
-        "词根记忆：draw（拉）+er（表物）→可抽拉的东西→抽屉"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "抽屉"
-        }
-      ]
+      "ctx": "抽屉"
     },
     {
       "word": "dry",
-      "lemma": "dry",
-      "kind": "word",
       "type": "outline",
-      "ctx": "干（燥）的",
-      "forms": [
-        {
-          "surface": "dries",
-          "tag": "third_person"
-        },
-        {
-          "surface": "dried",
-          "tag": "past"
-        },
-        {
-          "surface": "dried",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "drying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[draɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "干（燥）的；干旱的；口渴的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "dry sth.out（使）变干"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "v.",
-          "meaning": "（使）变干"
-        }
-      ]
+      "ctx": "干（燥）的"
     },
     {
       "word": "specialist",
-      "lemma": "specialist",
-      "kind": "word",
       "type": "outline",
-      "ctx": "专科医生",
-      "forms": [],
-      "phonetic": "[ˈspeʃəlɪst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "专科医生；专家；专业人员",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "dentist*（ n. 牙科医生）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "专科医生"
     },
     {
       "word": "millimeter",
-      "lemma": "millimeter",
-      "kind": "word",
       "type": "outline",
-      "ctx": "毫米",
-      "forms": [],
-      "phonetic": "[ˈmɪlimiːtə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "毫米"
-        }
-      ]
+      "ctx": "毫米"
     },
     {
       "word": "fortunately",
-      "lemma": "fortunately",
-      "kind": "word",
       "type": "outline",
-      "ctx": "幸运地，幸好",
-      "forms": [],
-      "phonetic": "[ˈfɔːtʃənətli]",
-      "memory": [
-        "来自fortunate（ adj. 幸运的）"
-      ],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "幸运地，幸好"
-        }
-      ]
+      "ctx": "幸运地，幸好"
     },
     {
       "word": "midlife",
-      "lemma": "midlife",
-      "kind": "word",
       "type": "core",
-      "ctx": "[U]中年，中年生活",
-      "forms": [],
-      "phonetic": "[mɪdˈlaɪf]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]中年，中年生活"
-        }
-      ]
+      "ctx": "[U]中年，中年生活"
     },
     {
       "word": "aging",
-      "lemma": "aging",
-      "kind": "word",
       "type": "core",
-      "ctx": "变老，变旧",
-      "forms": [],
-      "phonetic": "[ˈeɪdʒɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "变老，变旧"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "变老的，老化的"
-        }
-      ]
+      "ctx": "变老，变旧"
     },
     {
       "word": "select",
-      "lemma": "select",
-      "kind": "word",
       "type": "outline",
-      "ctx": "选择，挑选",
-      "forms": [
-        {
-          "surface": "selects",
-          "tag": "third_person"
-        },
-        {
-          "surface": "selected",
-          "tag": "past"
-        },
-        {
-          "surface": "selected",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "selecting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[sɪˈlekt]",
-      "memory": [
-        "词根记忆：se（分开）+lect（选）→分开来选→选择，挑选"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "选择，挑选"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "精选的"
-        }
-      ]
+      "ctx": "选择，挑选"
     },
     {
       "word": "volunteer",
-      "lemma": "volunteer",
-      "kind": "word",
       "type": "outline",
-      "ctx": "自愿做，义务做",
-      "forms": [
-        {
-          "surface": "volunteers",
-          "tag": "plural"
-        },
-        {
-          "surface": "volunteers",
-          "tag": "third_person"
-        },
-        {
-          "surface": "volunteered",
-          "tag": "past"
-        },
-        {
-          "surface": "volunteered",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "volunteering",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌvɒlənˈtɪə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "自愿做，义务做"
-        },
-        {
-          "pos": "n.",
-          "meaning": "志愿者"
-        }
-      ]
+      "ctx": "自愿做，义务做"
     },
     {
       "word": "aged",
-      "lemma": "aged",
-      "kind": "word",
       "type": "core",
-      "ctx": "年迈的",
-      "forms": [],
-      "phonetic": "[eɪdʒd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "年迈的；……岁"
-        }
-      ]
+      "ctx": "年迈的"
     },
     {
       "word": "randomly",
-      "lemma": "randomly",
-      "kind": "word",
       "type": "core",
-      "ctx": "随机地，任意地",
-      "forms": [],
-      "phonetic": "[ˈrændəmli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "随机地，任意地"
-        }
-      ]
+      "ctx": "随机地，任意地"
     },
     {
       "word": "participate",
-      "lemma": "participate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "参加，参与",
-      "forms": [
-        {
-          "surface": "participates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "participated",
-          "tag": "past"
-        },
-        {
-          "surface": "participated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "participating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[pɑːˈtɪsɪpeɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "参加，参与",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "participate in参加"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "参加，参与"
     },
     {
       "word": "training",
-      "lemma": "training",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U]培训",
-      "forms": [],
-      "phonetic": "[ˈtreɪnɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]培训"
-        }
-      ]
+      "ctx": "[U]培训"
     },
     {
       "word": "under",
-      "lemma": "under",
-      "kind": "word",
       "type": "outline",
-      "ctx": "在下面",
-      "forms": [],
-      "phonetic": "[ˈʌndə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "在下面"
-        },
-        {
-          "pos": "prep.",
-          "meaning": "在……下面；小于；由……控制；在……过程中"
-        }
-      ]
+      "ctx": "在下面"
     },
     {
       "word": "guidance",
-      "lemma": "guidance",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U]引导，指导",
-      "forms": [],
-      "phonetic": "[ˈɡaɪdns]",
-      "memory": [
-        "来自guide（ vt. 指引，指导）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]引导，指导"
-        }
-      ]
+      "ctx": "[U]引导，指导"
     },
     {
       "word": "trainer",
-      "lemma": "trainer",
-      "kind": "word",
       "type": "core",
-      "ctx": "运动鞋",
-      "forms": [],
-      "phonetic": "[ˈtreɪnə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "运动鞋；教练员"
-        }
-      ]
+      "ctx": "运动鞋"
     },
     {
       "word": "remarkable",
-      "lemma": "remarkable",
-      "kind": "word",
       "type": "outline",
-      "ctx": "非凡的，显著的，引人注目的",
-      "forms": [],
-      "phonetic": "[rɪˈmɑːkəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "非凡的，显著的，引人注目的"
-        }
-      ]
+      "ctx": "非凡的，显著的，引人注目的"
     },
     {
       "word": "improvement",
-      "lemma": "improvement",
-      "kind": "word",
       "type": "core",
-      "ctx": "[U]改善，改进",
-      "forms": [
-        {
-          "surface": "improvements",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ɪmˈpruːvmənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]改善，改进；[C]改善的事物，改进处"
-        }
-      ]
+      "ctx": "[U]改善，改进"
     },
     {
       "word": "blood",
-      "lemma": "blood",
-      "kind": "word",
       "type": "outline",
-      "ctx": "血液",
-      "forms": [],
-      "phonetic": "[blʌd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "血液",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "bleed*（ vi. 出血，流血）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "血液"
     },
     {
       "word": "intense",
-      "lemma": "intense",
-      "kind": "word",
       "type": "outline",
-      "ctx": "强烈的",
-      "forms": [],
-      "phonetic": "[ɪnˈtens]",
-      "memory": [
-        "词根记忆：in（不）+tens（伸展）+e→到了不能再伸展的地步→强烈的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "强烈的"
-        }
-      ]
+      "ctx": "强烈的"
     },
     {
       "word": "sweet",
-      "lemma": "sweet",
-      "kind": "word",
       "type": "outline",
-      "ctx": "甜的",
-      "forms": [],
-      "phonetic": "[swiːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "甜的；香的；可爱的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "sweet spot最佳击球点；（尤指在特定情境下的）最佳点、理想状态、黄金时期"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "糖果；甜食"
-        }
-      ]
+      "ctx": "甜的"
     },
     {
       "word": "already",
-      "lemma": "already",
-      "kind": "word",
       "type": "outline",
-      "ctx": "已经，早已",
-      "forms": [],
-      "phonetic": "[ɔːlˈredi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "已经，早已"
-        }
-      ]
+      "ctx": "已经，早已"
     },
     {
       "word": "flexibility",
-      "lemma": "flexibility",
-      "kind": "word",
       "type": "core",
-      "ctx": "灵活性，弹性",
-      "forms": [],
-      "phonetic": "[ˌfleksəˈbɪləti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "灵活性，弹性"
-        }
-      ]
+      "ctx": "灵活性，弹性"
     },
     {
       "word": "yearlong",
-      "lemma": "yearlong",
-      "kind": "word",
       "type": "core",
-      "ctx": "一整年的，持续一年的",
-      "forms": [],
-      "phonetic": "[ˌjɪəˈlɒŋ; ˌjɜːˈlɒŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "一整年的，持续一年的"
-        }
-      ]
+      "ctx": "一整年的，持续一年的"
     },
     {
       "word": "nothing",
-      "lemma": "nothing",
-      "kind": "word",
       "type": "outline",
-      "ctx": "没有一件东西，没有什么",
-      "forms": [],
-      "phonetic": "[ˈnʌθɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "pron.",
-          "meaning": "没有一件东西，没有什么；无关紧要的东西",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "for nothing不花钱，免费；毫无结果"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "没有一件东西，没有什么"
     },
     {
       "word": "keen",
-      "lemma": "keen",
-      "kind": "word",
       "type": "core",
-      "ctx": "渴望，热衷于",
-      "forms": [],
-      "phonetic": "[kiːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "渴望，热衷于；热情的；强烈的"
-        }
-      ]
+      "ctx": "渴望，热衷于"
     },
     {
       "word": "jog",
-      "lemma": "jog",
-      "kind": "word",
       "type": "outline",
-      "ctx": "慢跑",
-      "forms": [
-        {
-          "surface": "jogs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "jogged",
-          "tag": "past"
-        },
-        {
-          "surface": "jogged",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "jogging",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dʒɒɡ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "慢跑"
-        },
-        {
-          "pos": "n.",
-          "meaning": "慢跑"
-        }
-      ]
+      "ctx": "慢跑"
     },
     {
       "word": "Monday",
-      "lemma": "Monday",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "星期一",
-      "forms": [],
-      "phonetic": "[ˈmʌndeɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "星期一"
-        }
-      ]
+      "ctx": "星期一"
     },
     {
       "word": "boxing",
-      "lemma": "boxing",
-      "kind": "word",
       "type": "outline",
-      "ctx": "拳击（运动）",
-      "forms": [],
-      "phonetic": "[ˈbɒksɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "拳击（运动）"
-        }
-      ]
+      "ctx": "拳击（运动）"
     },
     {
       "word": "swimming",
-      "lemma": "swimming",
-      "kind": "word",
       "type": "outline",
-      "ctx": "游泳，游泳运动",
-      "forms": [],
-      "phonetic": "[ˈswɪmɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "游泳，游泳运动"
-        }
-      ]
+      "ctx": "游泳，游泳运动"
     },
     {
       "word": "monthly",
-      "lemma": "monthly",
-      "kind": "word",
       "type": "outline",
-      "ctx": "每月的",
-      "forms": [],
-      "phonetic": "[ˈmʌnθli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "每月的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "月刊"
-        }
-      ]
+      "ctx": "每月的"
     },
     {
       "word": "shoulder",
-      "lemma": "shoulder",
-      "kind": "word",
       "type": "outline",
-      "ctx": "肩，肩膀",
-      "forms": [
-        {
-          "surface": "shoulders",
-          "tag": "plural"
-        },
-        {
-          "surface": "shoulders",
-          "tag": "third_person"
-        },
-        {
-          "surface": "shouldered",
-          "tag": "past"
-        },
-        {
-          "surface": "shouldered",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "shouldering",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈʃəʊldə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "肩，肩膀"
-        },
-        {
-          "pos": "v.",
-          "meaning": "担负，承担"
-        }
-      ]
+      "ctx": "肩，肩膀"
     },
     {
       "word": "neck",
-      "lemma": "neck",
-      "kind": "word",
       "type": "outline",
-      "ctx": "颈，脖子",
-      "forms": [],
-      "phonetic": "[nek]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "颈，脖子；衣领"
-        }
-      ]
+      "ctx": "颈，脖子"
     },
     {
       "word": "spokeswoman",
-      "lemma": "spokeswoman",
-      "kind": "word",
       "type": "core",
-      "ctx": "发言人",
-      "forms": [],
-      "phonetic": "[ˈspəʊkswʊmən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "发言人；女发言人"
-        }
-      ]
+      "ctx": "发言人"
     },
     {
       "word": "association",
-      "lemma": "association",
-      "kind": "word",
       "type": "outline",
-      "ctx": "协会",
-      "forms": [],
-      "phonetic": "[əˌsəʊʃiˈeɪʃn; əˌsəʊsiˈeɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "协会；联想，联系；关联"
-        }
-      ]
+      "ctx": "协会"
     },
     {
       "word": "finding",
-      "lemma": "finding",
-      "kind": "word",
       "type": "outline",
-      "ctx": "调查发现，调研结果",
-      "forms": [
-        {
-          "surface": "findings",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈfaɪndɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "调查发现，调研结果"
-        }
-      ]
+      "ctx": "调查发现，调研结果"
     }
   ]
 }

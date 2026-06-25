@@ -29,1207 +29,238 @@
   "vocab": [
     {
       "word": "photographer",
-      "lemma": "photographer",
-      "kind": "word",
       "type": "outline",
-      "ctx": "摄影师",
-      "forms": [],
-      "phonetic": "[fəˈtɒɡrəfə(r)]",
-      "memory": [
-        "词根记忆：photo（照片）+graph（写）+er（人）→摄影师"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "摄影师"
-        }
-      ]
+      "ctx": "摄影师"
     },
     {
       "word": "specialize",
-      "lemma": "specialize",
-      "kind": "word",
       "type": "core",
-      "ctx": "专攻，专门研究（或从事）",
-      "forms": [
-        {
-          "surface": "specializes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "specialized",
-          "tag": "past"
-        },
-        {
-          "surface": "specialized",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "specializing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈspeʃəlaɪz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "专攻，专门研究（或从事）"
-        }
-      ]
+      "ctx": "专攻，专门研究（或从事）"
     },
     {
       "word": "landscape",
-      "lemma": "landscape",
-      "kind": "word",
       "type": "outline",
-      "ctx": "风景",
-      "forms": [],
-      "phonetic": "[ˈlændskeɪp]",
-      "memory": [
-        "词根记忆：land（陆地）+scape（外部景观）→风景"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "风景；风景画",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "Chinese landscape painting中国山水画"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "风景"
     },
     {
       "word": "mainly",
-      "lemma": "mainly",
-      "kind": "word",
       "type": "core",
-      "ctx": "主要地，首要地",
-      "forms": [],
-      "phonetic": "[ˈmeɪnli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "主要地，首要地；大部分，大多"
-        }
-      ]
+      "ctx": "主要地，首要地"
     },
     {
       "word": "corn",
-      "lemma": "corn",
-      "kind": "word",
       "type": "outline",
-      "ctx": "玉米",
-      "forms": [],
-      "phonetic": "[kɔːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "玉米；谷物"
-        }
-      ]
+      "ctx": "玉米"
     },
     {
       "word": "geographical",
-      "lemma": "geographical",
-      "kind": "word",
       "type": "core",
-      "ctx": "地理（学）的",
-      "forms": [],
-      "phonetic": "[ˌdʒiːəˈɡræfɪkl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "地理（学）的"
-        }
-      ]
+      "ctx": "地理（学）的"
     },
     {
       "word": "variation",
-      "lemma": "variation",
-      "kind": "word",
       "type": "outline",
-      "ctx": "变化",
-      "forms": [],
-      "phonetic": "[ˌveəriˈeɪʃn]",
-      "memory": [
-        "来自vary（ v. 变化；各不相同）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "变化；变种",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "regional variation地区性差异"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "变化"
     },
     {
       "word": "tend",
-      "lemma": "tend",
-      "kind": "word",
       "type": "outline",
-      "ctx": "趋向",
-      "forms": [
-        {
-          "surface": "tends",
-          "tag": "third_person"
-        },
-        {
-          "surface": "tended",
-          "tag": "past"
-        },
-        {
-          "surface": "tended",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "tending",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[tend]",
-      "memory": [
-        "联想记忆：ten（十）+d→没有十全十美，只能趋向完美→趋向"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "趋向；往往会；照料",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "tend to do sth.倾向于做某事，往往会做某事"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "趋向"
     },
     {
       "word": "farm",
-      "lemma": "farm",
-      "kind": "word",
       "type": "outline",
-      "ctx": "农场",
-      "forms": [
-        {
-          "surface": "farms",
-          "tag": "plural"
-        },
-        {
-          "surface": "farms",
-          "tag": "third_person"
-        },
-        {
-          "surface": "farmed",
-          "tag": "past"
-        },
-        {
-          "surface": "farmed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "farming",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[fɑːm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "农场；养殖场"
-        },
-        {
-          "pos": "v.",
-          "meaning": "务农；耕作"
-        }
-      ]
+      "ctx": "农场"
     },
     {
       "word": "distinctive",
-      "lemma": "distinctive",
-      "kind": "word",
       "type": "core",
-      "ctx": "与众不同的",
-      "forms": [],
-      "phonetic": "[dɪˈstɪŋktɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "与众不同的"
-        }
-      ]
+      "ctx": "与众不同的"
     },
     {
       "word": "hill",
-      "lemma": "hill",
-      "kind": "word",
       "type": "outline",
-      "ctx": "小山，山丘",
-      "forms": [
-        {
-          "surface": "hills",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[hɪl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "小山，山丘；斜坡"
-        }
-      ]
+      "ctx": "小山，山丘"
     },
     {
       "word": "lake",
-      "lemma": "lake",
-      "kind": "word",
       "type": "outline",
-      "ctx": "湖",
-      "forms": [
-        {
-          "surface": "lakes",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[leɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "湖"
-        }
-      ]
+      "ctx": "湖"
     },
     {
       "word": "shoot",
-      "lemma": "shoot",
-      "kind": "word",
       "type": "outline",
-      "ctx": "射击",
-      "forms": [
-        {
-          "surface": "shoots",
-          "tag": "third_person"
-        },
-        {
-          "surface": "shot",
-          "tag": "past"
-        },
-        {
-          "surface": "shot",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "shooting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ʃuːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "射击；摄影"
-        },
-        {
-          "pos": "n.",
-          "meaning": "嫩枝；摄影"
-        }
-      ]
+      "ctx": "射击"
     },
     {
       "word": "few",
-      "lemma": "few",
-      "kind": "word",
       "type": "outline",
-      "ctx": "几个",
-      "forms": [],
-      "phonetic": "[fjuː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "/",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "quite a few相当多，不少"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "det.",
-          "meaning": "不多，很少；有些，几个"
-        },
-        {
-          "pos": "pro",
-          "meaning": ""
-        },
-        {
-          "pos": "n.",
-          "meaning": "很少人（或事物、地方）；有些（人、事物、地方），一些"
-        }
-      ]
+      "ctx": "几个"
     },
     {
       "word": "park",
-      "lemma": "park",
-      "kind": "word",
       "type": "outline",
-      "ctx": "公园",
-      "forms": [
-        {
-          "surface": "parks",
-          "tag": "plural"
-        },
-        {
-          "surface": "parks",
-          "tag": "third_person"
-        },
-        {
-          "surface": "parked",
-          "tag": "past"
-        },
-        {
-          "surface": "parked",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "parking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[pɑːk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "公园；停车场"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "停放（汽车）"
-        }
-      ]
+      "ctx": "公园"
     },
     {
       "word": "countryside",
-      "lemma": "countryside",
-      "kind": "word",
       "type": "outline",
-      "ctx": "乡下，农村",
-      "forms": [],
-      "phonetic": "[ˈkʌntrisaɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "乡下，农村"
-        }
-      ]
+      "ctx": "乡下，农村"
     },
     {
       "word": "photo",
-      "lemma": "photo",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（=photograph）照片",
-      "forms": [
-        {
-          "surface": "photos",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈfəʊtəʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（=photograph）照片"
-        }
-      ]
+      "ctx": "（=photograph）照片"
     },
     {
       "word": "along",
-      "lemma": "along",
-      "kind": "word",
       "type": "outline",
-      "ctx": "向前",
-      "forms": [],
-      "phonetic": "[əˈlɒŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "向前；一起"
-        },
-        {
-          "pos": "prep.",
-          "meaning": "沿着，顺着；靠着……边"
-        }
-      ]
+      "ctx": "向前"
     },
     {
       "word": "decisive",
-      "lemma": "decisive",
-      "kind": "word",
       "type": "core",
-      "ctx": "决定性的",
-      "forms": [],
-      "phonetic": "[dɪˈsaɪsɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "决定性的；坚定的，果断的"
-        }
-      ]
+      "ctx": "决定性的"
     },
     {
       "word": "photography",
-      "lemma": "photography",
-      "kind": "word",
       "type": "core",
-      "ctx": "摄影，照相术",
-      "forms": [],
-      "phonetic": "[fəˈtɒɡrəfi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "摄影，照相术"
-        }
-      ]
+      "ctx": "摄影，照相术"
     },
     {
       "word": "seek",
-      "lemma": "seek",
-      "kind": "word",
       "type": "outline",
-      "ctx": "试图",
-      "forms": [
-        {
-          "surface": "seeks",
-          "tag": "third_person"
-        },
-        {
-          "surface": "sought",
-          "tag": "past"
-        },
-        {
-          "surface": "sought",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "seeking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[siːk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "试图；寻找；寻求",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "seek sth.out挑选出，物色"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "试图"
     },
     {
       "word": "destination",
-      "lemma": "destination",
-      "kind": "word",
       "type": "outline",
-      "ctx": "目的地",
-      "forms": [
-        {
-          "surface": "destinations",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˌdestɪˈneɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "目的地"
-        }
-      ]
+      "ctx": "目的地"
     },
     {
       "word": "attempt",
-      "lemma": "attempt",
-      "kind": "word",
       "type": "outline",
-      "ctx": "尝试",
-      "forms": [
-        {
-          "surface": "attempts",
-          "tag": "plural"
-        },
-        {
-          "surface": "attempts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "attempted",
-          "tag": "past"
-        },
-        {
-          "surface": "attempted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "attempting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈtempt]",
-      "memory": [
-        "词根记忆：at（表加强）+tempt（尝试）→试图，尝试"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "/",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "attempt to do sth.试图做某事"
-              ]
-            },
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Our insisting it's merely a window has kept them from attempting millions of requests to open the door.我们坚持说这只是一扇窗户，才阻止了他们无数次要求开门的尝试。"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "试图，尝试"
-        }
-      ]
+      "ctx": "尝试"
     },
     {
       "word": "photograph",
-      "lemma": "photograph",
-      "kind": "word",
       "type": "core",
-      "ctx": "照片",
-      "forms": [
-        {
-          "surface": "photographs",
-          "tag": "plural"
-        },
-        {
-          "surface": "photographs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "photographed",
-          "tag": "past"
-        },
-        {
-          "surface": "photographed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "photographing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈfəʊtəɡrɑːf]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "照片"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "拍照，照相"
-        }
-      ]
+      "ctx": "照片"
     },
     {
       "word": "beautiful",
-      "lemma": "beautiful",
-      "kind": "word",
       "type": "outline",
-      "ctx": "美丽的",
-      "forms": [],
-      "phonetic": "[ˈbjuːtɪfl; ˈbjuːtəfʊl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "美丽的；出色的"
-        }
-      ]
+      "ctx": "美丽的"
     },
     {
       "word": "sunset",
-      "lemma": "sunset",
-      "kind": "word",
       "type": "core",
-      "ctx": "日落",
-      "forms": [
-        {
-          "surface": "sunsets",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈsʌnset]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "日落；傍晚；晚霞"
-        }
-      ]
+      "ctx": "日落"
     },
     {
       "word": "sunrise",
-      "lemma": "sunrise",
-      "kind": "word",
       "type": "core",
-      "ctx": "日出",
-      "forms": [],
-      "phonetic": "[ˈsʌnraɪz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "日出；朝霞"
-        }
-      ]
+      "ctx": "日出"
     },
     {
       "word": "due to",
-      "lemma": "due to",
-      "kind": "phrase",
       "type": "outline",
-      "ctx": "因为，由于",
-      "forms": [],
-      "phonetic": "",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "",
-          "meaning": "因为，由于"
-        }
-      ]
+      "ctx": "因为，由于"
     },
     {
       "word": "spot",
-      "lemma": "spot",
-      "kind": "word",
       "type": "outline",
-      "ctx": "斑点，污点",
-      "forms": [
-        {
-          "surface": "spots",
-          "tag": "plural"
-        },
-        {
-          "surface": "spots",
-          "tag": "third_person"
-        },
-        {
-          "surface": "spotted",
-          "tag": "past"
-        },
-        {
-          "surface": "spotted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "spotting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[spɒt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "斑点，污点；场所；地点",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "on the spot当场；在现场，在原地"
-              ]
-            },
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Nicolo spotted two paintings he thought would look nice above his dining room table.尼科洛发现了两幅画，他觉得挂在餐厅的餐桌上方会看起来不错。"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "（spotted, spotted, spotting）发现"
-        }
-      ]
+      "ctx": "斑点，污点"
     },
     {
       "word": "best",
-      "lemma": "best",
-      "kind": "word",
       "type": "outline",
-      "ctx": "最好的",
-      "forms": [],
-      "phonetic": "[best]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "最好的"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "最"
-        },
-        {
-          "pos": "n.",
-          "meaning": "最好的事物（或人）；最高标准"
-        }
-      ]
+      "ctx": "最好的"
     },
     {
       "word": "devil",
-      "lemma": "devil",
-      "kind": "word",
       "type": "core",
-      "ctx": "魔鬼，恶魔",
-      "forms": [],
-      "phonetic": "[ˈdevl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "魔鬼，恶魔；家伙，人"
-        }
-      ]
+      "ctx": "魔鬼，恶魔"
     },
     {
       "word": "climb",
-      "lemma": "climb",
-      "kind": "word",
       "type": "outline",
-      "ctx": "爬，攀登",
-      "forms": [],
-      "phonetic": "[klaɪm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "爬，攀登"
-        }
-      ]
+      "ctx": "爬，攀登"
     },
     {
       "word": "purple",
-      "lemma": "purple",
-      "kind": "word",
       "type": "outline",
-      "ctx": "紫色的",
-      "forms": [],
-      "phonetic": "[ˈpɜːpl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "紫色的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "紫色"
-        }
-      ]
+      "ctx": "紫色的"
     },
     {
       "word": "rock",
-      "lemma": "rock",
-      "kind": "word",
       "type": "outline",
-      "ctx": "岩石",
-      "forms": [],
-      "phonetic": "[rɒk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "岩石；摇滚乐"
-        }
-      ]
+      "ctx": "岩石"
     },
     {
       "word": "road",
-      "lemma": "road",
-      "kind": "word",
       "type": "outline",
-      "ctx": "路，道路",
-      "forms": [],
-      "phonetic": "[rəʊd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "路，道路；途径",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "down the road今后；在将来"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "路，道路"
     },
     {
       "word": "bunch",
-      "lemma": "bunch",
-      "kind": "word",
       "type": "outline",
-      "ctx": "串，束",
-      "forms": [],
-      "phonetic": "[bʌntʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "串，束；大量，大批",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a bunch of一束，一串；一大堆"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "串，束"
     },
     {
       "word": "scene",
-      "lemma": "scene",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（戏剧、电影等的）一场",
-      "forms": [],
-      "phonetic": "[siːn]",
-      "memory": [
-        "联想记忆：等到风景（scene）都看（seen）透"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（戏剧、电影等的）一场；地点，现场；场景；场面；景色",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "behind the scenes在后台；秘密地"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "（戏剧、电影等的）一场"
     },
     {
       "word": "enable",
-      "lemma": "enable",
-      "kind": "word",
       "type": "outline",
-      "ctx": "使能够，使可能",
-      "forms": [
-        {
-          "surface": "enables",
-          "tag": "third_person"
-        },
-        {
-          "surface": "enabled",
-          "tag": "past"
-        },
-        {
-          "surface": "enabled",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "enabling",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪˈneɪbl]",
-      "memory": [
-        "词根记忆：en（使……）+able（能够）→使能够"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "使能够，使可能"
-        }
-      ]
+      "ctx": "使能够，使可能"
     },
     {
       "word": "us",
-      "lemma": "us",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（we的宾格）我们",
-      "forms": [],
-      "phonetic": "[əs; ʌs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "pron.",
-          "meaning": "（we的宾格）我们"
-        }
-      ]
+      "ctx": "（we的宾格）我们"
     },
     {
       "word": "background",
-      "lemma": "background",
-      "kind": "word",
       "type": "outline",
-      "ctx": "背景",
-      "forms": [],
-      "phonetic": "[ˈbækɡraʊnd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "背景"
-        }
-      ]
+      "ctx": "背景"
     },
     {
       "word": "manage",
-      "lemma": "manage",
-      "kind": "word",
       "type": "outline",
-      "ctx": "勉力完成",
-      "forms": [
-        {
-          "surface": "manages",
-          "tag": "third_person"
-        },
-        {
-          "surface": "managed",
-          "tag": "past"
-        },
-        {
-          "surface": "managed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "managing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈmænɪdʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "勉力完成；能解决（问题），应付（困难局面等）；明智地利用（金钱、时间等）"
-        }
-      ]
+      "ctx": "勉力完成"
     },
     {
       "word": "spare",
-      "lemma": "spare",
-      "kind": "word",
       "type": "outline",
-      "ctx": "空闲的",
-      "forms": [
-        {
-          "surface": "spares",
-          "tag": "third_person"
-        },
-        {
-          "surface": "spared",
-          "tag": "past"
-        },
-        {
-          "surface": "spared",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "sparing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[speə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "空闲的；多余的"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "抽出，匀出"
-        }
-      ]
+      "ctx": "空闲的"
     },
     {
       "word": "route",
-      "lemma": "route",
-      "kind": "word",
       "type": "outline",
-      "ctx": "路线",
-      "forms": [],
-      "phonetic": "[ruːt]",
-      "memory": [
-        "联想记忆：日常事务（routine）就是按常规路线（route）走"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "路线；途径",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a change of route路线的改变the best route最佳路线"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "路线"
     },
     {
       "word": "once",
-      "lemma": "once",
-      "kind": "word",
       "type": "outline",
-      "ctx": "一次",
-      "forms": [],
-      "phonetic": "[wʌns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "一次；曾经",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "at once立刻，马上；同时all at once突然；同时"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "conj.",
-          "meaning": "一旦，当……时"
-        }
-      ]
+      "ctx": "一次"
     },
     {
       "word": "camera",
-      "lemma": "camera",
-      "kind": "word",
       "type": "outline",
-      "ctx": "照相机，摄像机",
-      "forms": [
-        {
-          "surface": "cameras",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈkæmərə]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "照相机，摄像机"
-        }
-      ]
+      "ctx": "照相机，摄像机"
     },
     {
       "word": "limited",
-      "lemma": "limited",
-      "kind": "word",
       "type": "outline",
-      "ctx": "有限的",
-      "forms": [],
-      "phonetic": "[ˈlɪmɪtɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "有限的"
-        }
-      ]
+      "ctx": "有限的"
     },
     {
       "word": "wisely",
-      "lemma": "wisely",
-      "kind": "word",
       "type": "core",
-      "ctx": "明智地",
-      "forms": [],
-      "phonetic": "[ˈwaɪzli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "明智地"
-        }
-      ]
+      "ctx": "明智地"
     }
   ]
 }

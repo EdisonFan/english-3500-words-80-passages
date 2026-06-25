@@ -29,1052 +29,223 @@
   "vocab": [
     {
       "word": "anxiety",
-      "lemma": "anxiety",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U]焦虑，忧虑",
-      "forms": [],
-      "phonetic": "[æŋˈzaɪəti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]焦虑，忧虑；[C]担心，害怕"
-        }
-      ]
+      "ctx": "[U]焦虑，忧虑"
     },
     {
       "word": "ability",
-      "lemma": "ability",
-      "kind": "word",
       "type": "outline",
-      "ctx": "能力",
-      "forms": [],
-      "phonetic": "[əˈbɪləti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "能力；才能"
-        }
-      ]
+      "ctx": "能力"
     },
     {
       "word": "storm",
-      "lemma": "storm",
-      "kind": "word",
       "type": "outline",
-      "ctx": "暴风雨",
-      "forms": [],
-      "phonetic": "[stɔːm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "暴风雨"
-        }
-      ]
+      "ctx": "暴风雨"
     },
     {
       "word": "cloud",
-      "lemma": "cloud",
-      "kind": "word",
       "type": "outline",
-      "ctx": "云",
-      "forms": [],
-      "phonetic": "[klaʊd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "云；云状物"
-        }
-      ]
+      "ctx": "云"
     },
     {
       "word": "hang",
-      "lemma": "hang",
-      "kind": "word",
       "type": "outline",
-      "ctx": "悬挂，吊着",
-      "forms": [
-        {
-          "surface": "hangs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "hung",
-          "tag": "past"
-        },
-        {
-          "surface": "hung",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "hanging",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[hæŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "悬挂，吊着；垂下；悬浮；（被）绞死",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "hang up on sb.突然挂断某人的电话"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "悬挂，吊着"
     },
     {
       "word": "constantly",
-      "lemma": "constantly",
-      "kind": "word",
       "type": "core",
-      "ctx": "始终，一直",
-      "forms": [],
-      "phonetic": "[ˈkɒnstəntli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "始终，一直"
-        }
-      ]
+      "ctx": "始终，一直"
     },
     {
       "word": "wall",
-      "lemma": "wall",
-      "kind": "word",
       "type": "outline",
-      "ctx": "墙",
-      "forms": [],
-      "phonetic": "[wɔːl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "墙；围墙"
-        }
-      ]
+      "ctx": "墙"
     },
     {
       "word": "tendency",
-      "lemma": "tendency",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[C]倾向，趋势",
-      "forms": [
-        {
-          "surface": "tendencies",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈtendənsi]",
-      "memory": [
-        "词根记忆：tend（伸展）+ency（表名词）→向……伸展→倾向，趋势"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[C]倾向，趋势"
-        }
-      ]
+      "ctx": "[C]倾向，趋势"
     },
     {
       "word": "root",
-      "lemma": "root",
-      "kind": "word",
       "type": "outline",
-      "ctx": "根",
-      "forms": [],
-      "phonetic": "[ruːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "根；根源，起源"
-        }
-      ]
+      "ctx": "根"
     },
     {
       "word": "perfect",
-      "lemma": "perfect",
-      "kind": "word",
       "type": "outline",
-      "ctx": "完美的，极好的",
-      "forms": [],
-      "phonetic": "[ˈpɜːfɪkt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "完美的，极好的"
-        }
-      ]
+      "ctx": "完美的，极好的"
     },
     {
       "word": "obviously",
-      "lemma": "obviously",
-      "kind": "word",
       "type": "outline",
-      "ctx": "显然，明显地，显而易见地",
-      "forms": [],
-      "phonetic": "[ˈɒbviəsli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "显然，明显地，显而易见地"
-        }
-      ]
+      "ctx": "显然，明显地，显而易见地"
     },
     {
       "word": "consume",
-      "lemma": "consume",
-      "kind": "word",
       "type": "outline",
-      "ctx": "消耗",
-      "forms": [
-        {
-          "surface": "consumes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "consumed",
-          "tag": "past"
-        },
-        {
-          "surface": "consumed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "consuming",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kənˈsjuːm]",
-      "memory": [
-        "词根记忆：con（表加强）+sum（取）+e→全部取走→消耗；消费"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "消耗；消费"
-        }
-      ]
+      "ctx": "消耗"
     },
     {
       "word": "attend",
-      "lemma": "attend",
-      "kind": "word",
       "type": "outline",
-      "ctx": "出席，参加",
-      "forms": [
-        {
-          "surface": "attends",
-          "tag": "third_person"
-        },
-        {
-          "surface": "attended",
-          "tag": "past"
-        },
-        {
-          "surface": "attended",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "attending",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈtend]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "出席，参加；上（学）；注意，专心"
-        }
-      ]
+      "ctx": "出席，参加"
     },
     {
       "word": "wildlife",
-      "lemma": "wildlife",
-      "kind": "word",
       "type": "core",
-      "ctx": "野生动物",
-      "forms": [],
-      "phonetic": "[ˈwaɪldlaɪf]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "野生动物；野生生物"
-        }
-      ]
+      "ctx": "野生动物"
     },
     {
       "word": "conservationist",
-      "lemma": "conservationist",
-      "kind": "word",
       "type": "core",
-      "ctx": "自然环境保护主义者",
-      "forms": [],
-      "phonetic": "[ˌkɒnsəˈveɪʃənɪst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "自然环境保护主义者"
-        }
-      ]
+      "ctx": "自然环境保护主义者"
     },
     {
       "word": "awe",
-      "lemma": "awe",
-      "kind": "word",
       "type": "core",
-      "ctx": "使敬畏，使惊叹",
-      "forms": [
-        {
-          "surface": "awes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "awed",
-          "tag": "past"
-        },
-        {
-          "surface": "awed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "awing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɔː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "使敬畏，使惊叹",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "be in awe of对……敬畏"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "敬畏，惊叹"
-        }
-      ]
+      "ctx": "使敬畏，使惊叹"
     },
     {
       "word": "inspire",
-      "lemma": "inspire",
-      "kind": "word",
       "type": "outline",
-      "ctx": "鼓舞，激励",
-      "forms": [
-        {
-          "surface": "inspires",
-          "tag": "third_person"
-        },
-        {
-          "surface": "inspired",
-          "tag": "past"
-        },
-        {
-          "surface": "inspired",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "inspiring",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪnˈspaɪə(r)]",
-      "memory": [
-        "词根记忆：in（使……）+spir（呼吸）+e →使……呼吸澎湃→鼓舞，激励"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "鼓舞，激励；给……灵感；使产生（感觉或情感）",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "The Space and Aviation Center offers programs designed to challenge and inspire with hands-on tasks and lots of fun.航天航空中心提供的课程旨在用实践任务和无穷的乐趣来提出挑战，激励学员。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "鼓舞，激励"
     },
     {
       "word": "inner",
-      "lemma": "inner",
-      "kind": "word",
       "type": "outline",
-      "ctx": "内部的，里面的",
-      "forms": [],
-      "phonetic": "[ˈɪnə(r)]",
-      "memory": [
-        "联想记忆：in（在……里面）+ner→内部的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "内部的，里面的"
-        }
-      ]
+      "ctx": "内部的，里面的"
     },
     {
       "word": "emerge",
-      "lemma": "emerge",
-      "kind": "word",
       "type": "outline",
-      "ctx": "出现，浮现",
-      "forms": [
-        {
-          "surface": "emerges",
-          "tag": "third_person"
-        },
-        {
-          "surface": "emerged",
-          "tag": "past"
-        },
-        {
-          "surface": "emerged",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "emerging",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪˈmɜːdʒ]",
-      "memory": [
-        "词根记忆：e（出）+merg（沉）+e→水落石出→出现，浮现"
-      ],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "出现，浮现；显露，暴露"
-        }
-      ]
+      "ctx": "出现，浮现"
     },
     {
       "word": "dinner",
-      "lemma": "dinner",
-      "kind": "word",
       "type": "outline",
-      "ctx": "正餐，晚餐",
-      "forms": [],
-      "phonetic": "[ˈdɪnə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "正餐，晚餐"
-        }
-      ]
+      "ctx": "正餐，晚餐"
     },
     {
       "word": "setting",
-      "lemma": "setting",
-      "kind": "word",
       "type": "outline",
-      "ctx": "背景，环境",
-      "forms": [],
-      "phonetic": "[ˈsetɪŋ]",
-      "memory": [
-        "来自set（ vt. 放，置）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "背景，环境"
-        }
-      ]
+      "ctx": "背景，环境"
     },
     {
       "word": "slowly",
-      "lemma": "slowly",
-      "kind": "word",
       "type": "core",
-      "ctx": "慢速地，缓慢地，迟缓地",
-      "forms": [],
-      "phonetic": "[ˈsləʊli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "慢速地，缓慢地，迟缓地"
-        }
-      ]
+      "ctx": "慢速地，缓慢地，迟缓地"
     },
     {
       "word": "courage",
-      "lemma": "courage",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U]勇气，胆略",
-      "forms": [],
-      "phonetic": "[ˈkʌrɪdʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]勇气，胆略"
-        }
-      ]
+      "ctx": "[U]勇气，胆略"
     },
     {
       "word": "completely",
-      "lemma": "completely",
-      "kind": "word",
       "type": "core",
-      "ctx": "彻底地，完全地，完整地",
-      "forms": [],
-      "phonetic": "[kəmˈpliːtli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "彻底地，完全地，完整地"
-        }
-      ]
+      "ctx": "彻底地，完全地，完整地"
     },
     {
       "word": "impossible",
-      "lemma": "impossible",
-      "kind": "word",
       "type": "outline",
-      "ctx": "不可能的",
-      "forms": [],
-      "phonetic": "[ɪmˈpɒsəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "不可能的"
-        }
-      ]
+      "ctx": "不可能的"
     },
     {
       "word": "youth",
-      "lemma": "youth",
-      "kind": "word",
       "type": "outline",
-      "ctx": "青春",
-      "forms": [],
-      "phonetic": "[juːθ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "青春；青年"
-        }
-      ]
+      "ctx": "青春"
     },
     {
       "word": "conference",
-      "lemma": "conference",
-      "kind": "word",
       "type": "outline",
-      "ctx": "会议",
-      "forms": [],
-      "phonetic": "[ˈkɒnfərəns]",
-      "memory": [
-        "词根记忆：con（共同）+fer（带来）+ence（表名词）→带来问题和观点一起讨论→会议"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "会议",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a conference room一间会议室"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "会议"
     },
     {
       "word": "series",
-      "lemma": "series",
-      "kind": "word",
       "type": "outline",
-      "ctx": "连续，一系列",
-      "forms": [],
-      "phonetic": "[ˈsɪəriːz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "连续，一系列；系列节目",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a series of一系列TV series电视连续剧"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "连续，一系列"
     },
     {
       "word": "timely",
-      "lemma": "timely",
-      "kind": "word",
       "type": "core",
-      "ctx": "及时的，适时的",
-      "forms": [],
-      "phonetic": "[ˈtaɪmli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "及时的，适时的"
-        }
-      ]
+      "ctx": "及时的，适时的"
     },
     {
       "word": "enthusiastically",
-      "lemma": "enthusiastically",
-      "kind": "word",
       "type": "core",
-      "ctx": "热情地，激动地",
-      "forms": [],
-      "phonetic": "[ɪnˌθjuːziˈæstɪkli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "热情地，激动地"
-        }
-      ]
+      "ctx": "热情地，激动地"
     },
     {
       "word": "seize",
-      "lemma": "seize",
-      "kind": "word",
       "type": "core",
-      "ctx": "抓住（时机等）",
-      "forms": [
-        {
-          "surface": "seizes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "seized",
-          "tag": "past"
-        },
-        {
-          "surface": "seized",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "seizing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[siːz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "抓住（时机等）"
-        }
-      ]
+      "ctx": "抓住（时机等）"
     },
     {
       "word": "receive",
-      "lemma": "receive",
-      "kind": "word",
       "type": "outline",
-      "ctx": "收到，得到",
-      "forms": [
-        {
-          "surface": "receives",
-          "tag": "third_person"
-        },
-        {
-          "surface": "received",
-          "tag": "past"
-        },
-        {
-          "surface": "received",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "receiving",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rɪˈsiːv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "收到，得到；接待",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "receipt*（ n. 收据；收到，接收）；receptionist*（ n. 接待员）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "收到，得到"
     },
     {
       "word": "invitation",
-      "lemma": "invitation",
-      "kind": "word",
       "type": "core",
-      "ctx": "邀请",
-      "forms": [],
-      "phonetic": "[ˌɪnvɪˈteɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "邀请；请帖"
-        }
-      ]
+      "ctx": "邀请"
     },
     {
       "word": "application",
-      "lemma": "application",
-      "kind": "word",
       "type": "outline",
-      "ctx": "申请",
-      "forms": [
-        {
-          "surface": "applications",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˌæplɪˈkeɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "申请；申请书"
-        }
-      ]
+      "ctx": "申请"
     },
     {
       "word": "planet",
-      "lemma": "planet",
-      "kind": "word",
       "type": "outline",
-      "ctx": "行星",
-      "forms": [],
-      "phonetic": "[ˈplænɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "行星；地球"
-        }
-      ]
+      "ctx": "行星"
     },
     {
       "word": "commit",
-      "lemma": "commit",
-      "kind": "word",
       "type": "outline",
-      "ctx": "犯（错误），干（坏事）",
-      "forms": [
-        {
-          "surface": "commits",
-          "tag": "third_person"
-        },
-        {
-          "surface": "committed",
-          "tag": "past"
-        },
-        {
-          "surface": "committed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "committing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kəˈmɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "犯（错误），干（坏事）；使（自己）致力于"
-        }
-      ]
+      "ctx": "犯（错误），干（坏事）"
     },
     {
       "word": "team",
-      "lemma": "team",
-      "kind": "word",
       "type": "outline",
-      "ctx": "队，组",
-      "forms": [
-        {
-          "surface": "teams",
-          "tag": "plural"
-        },
-        {
-          "surface": "teams",
-          "tag": "third_person"
-        },
-        {
-          "surface": "teamed",
-          "tag": "past"
-        },
-        {
-          "surface": "teamed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "teaming",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[tiːm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "队，组"
-        },
-        {
-          "pos": "v.",
-          "meaning": "（使）合作"
-        }
-      ]
+      "ctx": "队，组"
     },
     {
       "word": "protect",
-      "lemma": "protect",
-      "kind": "word",
       "type": "outline",
-      "ctx": "保护",
-      "forms": [
-        {
-          "surface": "protects",
-          "tag": "third_person"
-        },
-        {
-          "surface": "protected",
-          "tag": "past"
-        },
-        {
-          "surface": "protected",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "protecting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[prəˈtekt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "保护"
-        }
-      ]
+      "ctx": "保护"
     },
     {
       "word": "big",
-      "lemma": "big",
-      "kind": "word",
       "type": "outline",
-      "ctx": "大的",
-      "forms": [
-        {
-          "surface": "bigger",
-          "tag": "comparative"
-        },
-        {
-          "surface": "biggest",
-          "tag": "superlative"
-        }
-      ],
-      "phonetic": "[bɪɡ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "大的；重大的；年龄较大的"
-        }
-      ]
+      "ctx": "大的"
     },
     {
       "word": "obstacle",
-      "lemma": "obstacle",
-      "kind": "word",
       "type": "core",
-      "ctx": "障碍",
-      "forms": [],
-      "phonetic": "[ˈɒbstəkl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "障碍；障碍物"
-        }
-      ]
+      "ctx": "障碍"
     },
     {
       "word": "voice",
-      "lemma": "voice",
-      "kind": "word",
       "type": "outline",
-      "ctx": "嗓音，说话声",
-      "forms": [
-        {
-          "surface": "voices",
-          "tag": "plural"
-        },
-        {
-          "surface": "voices",
-          "tag": "third_person"
-        },
-        {
-          "surface": "voiced",
-          "tag": "past"
-        },
-        {
-          "surface": "voiced",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "voicing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[vɔɪs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "嗓音，说话声；发言权；意见，心声"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "表达"
-        }
-      ]
+      "ctx": "嗓音，说话声"
     },
     {
       "word": "potential",
-      "lemma": "potential",
-      "kind": "word",
       "type": "outline",
-      "ctx": "潜在的，可能的",
-      "forms": [],
-      "phonetic": "[pəˈtenʃl]",
-      "memory": [
-        "词根记忆：pot（能力）+ent+ial→有能力→潜力"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "潜在的，可能的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a potential danger潜在的危险"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "[U]可能性；潜力"
-        }
-      ]
+      "ctx": "潜在的，可能的"
     },
     {
       "word": "grab",
-      "lemma": "grab",
-      "kind": "word",
       "type": "outline",
-      "ctx": "抓住",
-      "forms": [
-        {
-          "surface": "grabs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "grabbed",
-          "tag": "past"
-        },
-        {
-          "surface": "grabbed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "grabbing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɡræb]",
-      "memory": [
-        "联想记忆：螃蟹（crab）用钳子抓（grab）东西"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "抓住"
-        }
-      ]
+      "ctx": "抓住"
     },
     {
       "word": "action",
-      "lemma": "action",
-      "kind": "word",
       "type": "outline",
-      "ctx": "行动",
-      "forms": [],
-      "phonetic": "[ˈækʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "行动"
-        }
-      ]
+      "ctx": "行动"
     }
   ]
 }

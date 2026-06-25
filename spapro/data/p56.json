@@ -34,1014 +34,178 @@
   "vocab": [
     {
       "word": "accuse",
-      "lemma": "accuse",
-      "kind": "word",
       "type": "outline",
-      "ctx": "控告，谴责",
-      "forms": [
-        {
-          "surface": "accuses",
-          "tag": "third_person"
-        },
-        {
-          "surface": "accused",
-          "tag": "past"
-        },
-        {
-          "surface": "accused",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "accusing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈkjuːz]",
-      "memory": [
-        "词根记忆：ac（表加强）+cuse（骂）→大骂→谴责"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "控告，谴责；指责",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "accuse sb.of doing sth.控告（或指责）某人做某事"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "控告，谴责"
     },
     {
       "word": "guilty",
-      "lemma": "guilty",
-      "kind": "word",
       "type": "outline",
-      "ctx": "感到内疚的",
-      "forms": [],
-      "phonetic": "[ˈɡɪlti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "感到内疚的；有过失的，有罪责的"
-        }
-      ]
+      "ctx": "感到内疚的"
     },
     {
       "word": "consist",
-      "lemma": "consist",
-      "kind": "word",
       "type": "outline",
-      "ctx": "由……组成",
-      "forms": [
-        {
-          "surface": "consists",
-          "tag": "third_person"
-        },
-        {
-          "surface": "consisted",
-          "tag": "past"
-        },
-        {
-          "surface": "consisted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "consisting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kənˈsɪst]",
-      "memory": [
-        "词根记忆：con（共同）+sist（站）→站在一起→由……组成"
-      ],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "由……组成",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "consist of由……组成"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "由……组成"
     },
     {
       "word": "selective",
-      "lemma": "selective",
-      "kind": "word",
       "type": "core",
-      "ctx": "选择性的，有选择的",
-      "forms": [],
-      "phonetic": "[sɪˈlektɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "选择性的，有选择的；严格筛选的"
-        }
-      ]
+      "ctx": "选择性的，有选择的"
     },
     {
       "word": "drop",
-      "lemma": "drop",
-      "kind": "word",
       "type": "outline",
-      "ctx": "掉下，落下",
-      "forms": [
-        {
-          "surface": "drops",
-          "tag": "plural"
-        },
-        {
-          "surface": "drops",
-          "tag": "third_person"
-        },
-        {
-          "surface": "dropped",
-          "tag": "past"
-        },
-        {
-          "surface": "dropped",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "dropping",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[drɒp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "掉下，落下",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "drop in/by顺便拜访drop out退出；退学"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "滴；少量；下降"
-        }
-      ]
+      "ctx": "掉下，落下"
     },
     {
       "word": "juice",
-      "lemma": "juice",
-      "kind": "word",
       "type": "outline",
-      "ctx": "果汁，菜汁",
-      "forms": [],
-      "phonetic": "[dʒuːs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "果汁，菜汁"
-        }
-      ]
+      "ctx": "果汁，菜汁"
     },
     {
       "word": "bonus",
-      "lemma": "bonus",
-      "kind": "word",
       "type": "outline",
-      "ctx": "奖金，红利",
-      "forms": [],
-      "phonetic": "[ˈbəʊnəs]",
-      "memory": [
-        "词根记忆：bon（好）+us→红利"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "奖金，红利"
-        }
-      ]
+      "ctx": "奖金，红利"
     },
     {
       "word": "procedure",
-      "lemma": "procedure",
-      "kind": "word",
       "type": "outline",
-      "ctx": "程序，手续，步骤",
-      "forms": [],
-      "phonetic": "[prəˈsiːdʒə(r)]",
-      "memory": [
-        "词根记忆：pro（在前）+ced（行走）+ure（表名词）→前面经过的程序→程序"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "程序，手续，步骤"
-        }
-      ]
+      "ctx": "程序，手续，步骤"
     },
     {
       "word": "thorough",
-      "lemma": "thorough",
-      "kind": "word",
       "type": "outline",
-      "ctx": "彻底的，完全的",
-      "forms": [],
-      "phonetic": "[ˈθʌrə]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "彻底的，完全的"
-        }
-      ]
+      "ctx": "彻底的，完全的"
     },
     {
       "word": "combine",
-      "lemma": "combine",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（使）联合，（使）结合",
-      "forms": [
-        {
-          "surface": "combines",
-          "tag": "third_person"
-        },
-        {
-          "surface": "combined",
-          "tag": "past"
-        },
-        {
-          "surface": "combined",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "combining",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kəmˈbaɪn]",
-      "memory": [
-        "词根记忆：com（共同）+bi（两个）+ne →使两个在一起→（使）结合"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）联合，（使）结合",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "combine sth.with/and sth.把某物和某物结合（或混合）起来"
-              ]
-            },
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Technological innovations, combined with good marketing, will promote the sales of these products.技术创新加上良好的市场营销将促进这些产品的销售。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "（使）联合，（使）结合"
     },
     {
       "word": "anyhow",
-      "lemma": "anyhow",
-      "kind": "word",
       "type": "outline",
-      "ctx": "无论如何，不管怎样",
-      "forms": [],
-      "phonetic": "[ˈenihaʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "无论如何，不管怎样"
-        }
-      ]
+      "ctx": "无论如何，不管怎样"
     },
     {
       "word": "intend",
-      "lemma": "intend",
-      "kind": "word",
       "type": "outline",
-      "ctx": "想要，打算",
-      "forms": [
-        {
-          "surface": "intends",
-          "tag": "third_person"
-        },
-        {
-          "surface": "intended",
-          "tag": "past"
-        },
-        {
-          "surface": "intended",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "intending",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪnˈtend]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "想要，打算",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "intend to do sth.打算做某事"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "想要，打算"
     },
     {
       "word": "clarify",
-      "lemma": "clarify",
-      "kind": "word",
       "type": "outline",
-      "ctx": "澄清，阐明",
-      "forms": [
-        {
-          "surface": "clarifies",
-          "tag": "third_person"
-        },
-        {
-          "surface": "clarified",
-          "tag": "past"
-        },
-        {
-          "surface": "clarified",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "clarifying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈklærəfaɪ]",
-      "memory": [
-        "词根记忆：clar（清楚）+ify（使……）→使……清楚→澄清，阐明"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "澄清，阐明"
-        }
-      ]
+      "ctx": "澄清，阐明"
     },
     {
       "word": "medical",
-      "lemma": "medical",
-      "kind": "word",
       "type": "outline",
-      "ctx": "医学的，医疗的",
-      "forms": [],
-      "phonetic": "[ˈmedɪkl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "医学的，医疗的"
-        }
-      ]
+      "ctx": "医学的，医疗的"
     },
     {
       "word": "scientist",
-      "lemma": "scientist",
-      "kind": "word",
       "type": "outline",
-      "ctx": "科学家",
-      "forms": [],
-      "phonetic": "[ˈsaɪəntɪst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "科学家"
-        }
-      ]
+      "ctx": "科学家"
     },
     {
       "word": "screen",
-      "lemma": "screen",
-      "kind": "word",
       "type": "outline",
-      "ctx": "屏幕，荧光屏",
-      "forms": [
-        {
-          "surface": "screens",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[skriːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "屏幕，荧光屏"
-        }
-      ]
+      "ctx": "屏幕，荧光屏"
     },
     {
       "word": "circle",
-      "lemma": "circle",
-      "kind": "word",
       "type": "outline",
-      "ctx": "圆圈",
-      "forms": [
-        {
-          "surface": "circles",
-          "tag": "plural"
-        },
-        {
-          "surface": "circles",
-          "tag": "third_person"
-        },
-        {
-          "surface": "circled",
-          "tag": "past"
-        },
-        {
-          "surface": "circled",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "circling",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈsɜːkl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "圆圈"
-        },
-        {
-          "pos": "v.",
-          "meaning": "盘旋；圈出"
-        }
-      ]
+      "ctx": "圆圈"
     },
     {
       "word": "flash",
-      "lemma": "flash",
-      "kind": "word",
       "type": "outline",
-      "ctx": "闪光",
-      "forms": [
-        {
-          "surface": "flashes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "flashed",
-          "tag": "past"
-        },
-        {
-          "surface": "flashed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "flashing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[flæʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "闪光；（想法的）突现",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "in/like a flash转瞬间，立即flash back回忆，回想"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "v.",
-          "meaning": "（使）闪光；（使）闪现；突然想到"
-        }
-      ]
+      "ctx": "闪光"
     },
     {
       "word": "arm",
-      "lemma": "arm",
-      "kind": "word",
       "type": "outline",
-      "ctx": "手臂",
-      "forms": [
-        {
-          "surface": "arms",
-          "tag": "plural"
-        },
-        {
-          "surface": "arms",
-          "tag": "third_person"
-        },
-        {
-          "surface": "armed",
-          "tag": "past"
-        },
-        {
-          "surface": "armed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "arming",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɑːm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "手臂；支架；武器"
-        },
-        {
-          "pos": "v.",
-          "meaning": "武装，装备"
-        }
-      ]
+      "ctx": "手臂"
     },
     {
       "word": "seven",
-      "lemma": "seven",
-      "kind": "word",
       "type": "outline",
-      "ctx": "七",
-      "forms": [],
-      "phonetic": "[ˈsevn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "num.",
-          "meaning": "七",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "seventh*（ ordinal num. 第七）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "七"
     },
     {
       "word": "seventeen",
-      "lemma": "seventeen",
-      "kind": "word",
       "type": "outline",
-      "ctx": "十七",
-      "forms": [],
-      "phonetic": "[ˌsevnˈtiːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "num.",
-          "meaning": "十七"
-        }
-      ]
+      "ctx": "十七"
     },
     {
       "word": "note",
-      "lemma": "note",
-      "kind": "word",
       "type": "outline",
-      "ctx": "注意，留意",
-      "forms": [
-        {
-          "surface": "notes",
-          "tag": "plural"
-        },
-        {
-          "surface": "notes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "noted",
-          "tag": "past"
-        },
-        {
-          "surface": "noted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "noting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[nəʊt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "注意，留意；特别提到",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "take notes做笔记"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "便条；笔记，记录；注释"
-        }
-      ]
+      "ctx": "注意，留意"
     },
     {
       "word": "value",
-      "lemma": "value",
-      "kind": "word",
       "type": "outline",
-      "ctx": "价值",
-      "forms": [
-        {
-          "surface": "values",
-          "tag": "plural"
-        },
-        {
-          "surface": "values",
-          "tag": "third_person"
-        },
-        {
-          "surface": "valued",
-          "tag": "past"
-        },
-        {
-          "surface": "valued",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "valuing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈvæljuː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "价值；用途，积极作用；值，划算程度；数值；价值观"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "重视，珍视；给……估价"
-        }
-      ]
+      "ctx": "价值"
     },
     {
       "word": "addict",
-      "lemma": "addict",
-      "kind": "word",
       "type": "outline",
-      "ctx": "吸毒成瘾的人",
-      "forms": [
-        {
-          "surface": "addicts",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈædɪkt]",
-      "memory": [
-        "词根记忆：ad（表加强）+dict（说）→说话上瘾了→对……入迷的人"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "吸毒成瘾的人；对……入迷的人"
-        }
-      ]
+      "ctx": "吸毒成瘾的人"
     },
     {
       "word": "maths",
-      "lemma": "maths",
-      "kind": "word",
       "type": "outline",
-      "ctx": "数学",
-      "forms": [],
-      "phonetic": "[mæθs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "数学"
-        }
-      ]
+      "ctx": "数学"
     },
     {
       "word": "closely",
-      "lemma": "closely",
-      "kind": "word",
       "type": "core",
-      "ctx": "仔细地，严密地",
-      "forms": [],
-      "phonetic": "[ˈkləʊsli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "仔细地，严密地；紧密地，密切地"
-        }
-      ]
+      "ctx": "仔细地，严密地"
     },
     {
       "word": "sum",
-      "lemma": "sum",
-      "kind": "word",
       "type": "outline",
-      "ctx": "总数，和",
-      "forms": [],
-      "phonetic": "[sʌm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "总数，和；金额；算术",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "in sum总之"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "总数，和"
     },
     {
       "word": "estimate",
-      "lemma": "estimate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "估价，估算",
-      "forms": [
-        {
-          "surface": "estimates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "estimated",
-          "tag": "past"
-        },
-        {
-          "surface": "estimated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "estimating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈestɪmeɪt]",
-      "memory": [
-        "词根记忆：esti（价值）+m+ate（做）→做跟价值有关的事→估价"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "估价，估算"
-        },
-        {
-          "pos": "n.",
-          "meaning": "估计，估价"
-        }
-      ]
+      "ctx": "估价，估算"
     },
     {
       "word": "underestimation",
-      "lemma": "underestimation",
-      "kind": "word",
       "type": "core",
-      "ctx": "低估",
-      "forms": [],
-      "phonetic": "[ˌʌndərˌestɪˈmeɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "低估"
-        }
-      ]
+      "ctx": "低估"
     },
     {
       "word": "systematic",
-      "lemma": "systematic",
-      "kind": "word",
       "type": "core",
-      "ctx": "系统的，成体系的，有条理的，有规律的",
-      "forms": [],
-      "phonetic": "[ˌsɪstəˈmætɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "系统的，成体系的，有条理的，有规律的"
-        }
-      ]
+      "ctx": "系统的，成体系的，有条理的，有规律的"
     },
     {
       "word": "brief",
-      "lemma": "brief",
-      "kind": "word",
       "type": "outline",
-      "ctx": "简洁的",
-      "forms": [],
-      "phonetic": "[briːf]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "简洁的；短暂的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "in brief简言之"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "简洁的"
     },
     {
       "word": "quantity",
-      "lemma": "quantity",
-      "kind": "word",
       "type": "outline",
-      "ctx": "数量",
-      "forms": [],
-      "phonetic": "[ˈkwɒntəti]",
-      "memory": [
-        "词根记忆：quant（数量）+ity→数量"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "数量",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a large quantity of=large quantities of大量的（既可修饰可数名词，也可修饰不可数名词）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "数量"
     },
     {
       "word": "represent",
-      "lemma": "represent",
-      "kind": "word",
       "type": "outline",
-      "ctx": "代表",
-      "forms": [
-        {
-          "surface": "represents",
-          "tag": "third_person"
-        },
-        {
-          "surface": "represented",
-          "tag": "past"
-        },
-        {
-          "surface": "represented",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "representing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌreprɪˈzent]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "代表；象征；描绘",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "They represent the earth coming back to life and best wishes for new beginnings.它们象征着大地复苏，也寓意着对新开端的美好祝愿。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "代表"
     },
     {
       "word": "extend",
-      "lemma": "extend",
-      "kind": "word",
       "type": "outline",
-      "ctx": "扩大，扩展",
-      "forms": [
-        {
-          "surface": "extends",
-          "tag": "third_person"
-        },
-        {
-          "surface": "extended",
-          "tag": "past"
-        },
-        {
-          "surface": "extended",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "extending",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪkˈstend]",
-      "memory": [
-        "词根记忆：ex（出）+tend（伸展）→伸展出去→扩大，扩展"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "扩大，扩展；延长；延伸",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "I learned a lot about how to extend the life of objects and transform them into something new and useful.我学到了很多关于如何延长物品的使用寿命，并将它们改造成新的、有用物品的知识。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "扩大，扩展"
     },
     {
       "word": "discipline",
-      "lemma": "discipline",
-      "kind": "word",
       "type": "outline",
-      "ctx": "纪律，训练",
-      "forms": [],
-      "phonetic": "[ˈdɪsəplɪn]",
-      "memory": [
-        "联想记忆：dis（不）+cip（拿）+line（线）→不拿他人一针一线→纪律"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "纪律，训练；行为准则；自制力；（尤指大学的）学科",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "rigid discipline严格的纪律"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "纪律，训练"
     }
   ]
 }

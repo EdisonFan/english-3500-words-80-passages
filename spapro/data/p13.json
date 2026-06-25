@@ -29,1162 +29,253 @@
   "vocab": [
     {
       "word": "habit",
-      "lemma": "habit",
-      "kind": "word",
       "type": "outline",
-      "ctx": "习惯",
-      "forms": [],
-      "phonetic": "[ˈhæbɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "习惯；习性"
-        }
-      ]
+      "ctx": "习惯"
     },
     {
       "word": "formation",
-      "lemma": "formation",
-      "kind": "word",
       "type": "core",
-      "ctx": "形成，构成",
-      "forms": [],
-      "phonetic": "[fɔːˈmeɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "形成，构成；形成物；队形"
-        }
-      ]
+      "ctx": "形成，构成"
     },
     {
       "word": "process",
-      "lemma": "process",
-      "kind": "word",
       "type": "outline",
-      "ctx": "过程，进程",
-      "forms": [],
-      "phonetic": "[ˈprəʊses]",
-      "memory": [
-        "词根记忆：pro（向前）+cess（行走）→向前走→进程"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "过程，进程"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "加工，处理"
-        }
-      ]
+      "ctx": "过程，进程"
     },
     {
       "word": "behavior",
-      "lemma": "behavior",
-      "kind": "word",
       "type": "outline",
-      "ctx": "行为，举止",
-      "forms": [
-        {
-          "surface": "behaviors",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[bɪˈheɪvjə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "行为，举止"
-        }
-      ]
+      "ctx": "行为，举止"
     },
     {
       "word": "automatic",
-      "lemma": "automatic",
-      "kind": "word",
       "type": "outline",
-      "ctx": "自动的",
-      "forms": [],
-      "phonetic": "[ˌɔːtəˈmætɪk]",
-      "memory": [
-        "词根记忆：auto（自动）+mat（动）+ic（……的）→自动的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "自动的；无意识的，不假思索的"
-        }
-      ]
+      "ctx": "自动的"
     },
     {
       "word": "develop",
-      "lemma": "develop",
-      "kind": "word",
       "type": "outline",
-      "ctx": "发展",
-      "forms": [
-        {
-          "surface": "develops",
-          "tag": "third_person"
-        },
-        {
-          "surface": "developed",
-          "tag": "past"
-        },
-        {
-          "surface": "developed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "developing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɪˈveləp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "发展；发育；获得；形成；开发；冲洗（照片）"
-        }
-      ]
+      "ctx": "发展"
     },
     {
       "word": "countless",
-      "lemma": "countless",
-      "kind": "word",
       "type": "core",
-      "ctx": "无数的",
-      "forms": [],
-      "phonetic": "[ˈkaʊntləs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "无数的"
-        }
-      ]
+      "ctx": "无数的"
     },
     {
       "word": "explore",
-      "lemma": "explore",
-      "kind": "word",
       "type": "outline",
-      "ctx": "探索，勘察",
-      "forms": [
-        {
-          "surface": "explores",
-          "tag": "third_person"
-        },
-        {
-          "surface": "explored",
-          "tag": "past"
-        },
-        {
-          "surface": "explored",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "exploring",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪkˈsplɔː(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "探索，勘察；探讨"
-        }
-      ]
+      "ctx": "探索，勘察"
     },
     {
       "word": "aware",
-      "lemma": "aware",
-      "kind": "word",
       "type": "outline",
-      "ctx": "知道的，意识到的",
-      "forms": [],
-      "phonetic": "[əˈweə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "知道的，意识到的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "be aware of/that...意识到……"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "知道的，意识到的"
     },
     {
       "word": "helpful",
-      "lemma": "helpful",
-      "kind": "word",
       "type": "outline",
-      "ctx": "有帮助的，有益的",
-      "forms": [],
-      "phonetic": "[ˈhelpfl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "有帮助的，有益的"
-        }
-      ]
+      "ctx": "有帮助的，有益的"
     },
     {
       "word": "bad",
-      "lemma": "bad",
-      "kind": "word",
       "type": "outline",
-      "ctx": "令人不快的，坏的",
-      "forms": [],
-      "phonetic": "[bæd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "令人不快的，坏的；严重的；有害的"
-        }
-      ]
+      "ctx": "令人不快的，坏的"
     },
     {
       "word": "build",
-      "lemma": "build",
-      "kind": "word",
       "type": "outline",
-      "ctx": "建造",
-      "forms": [
-        {
-          "surface": "built",
-          "tag": "past"
-        },
-        {
-          "surface": "built",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "building",
-          "tag": "ing"
-        },
-        {
-          "surface": "builds",
-          "tag": "third_person"
-        }
-      ],
-      "phonetic": "[bɪld]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "建造；创建；逐渐增强"
-        }
-      ]
+      "ctx": "建造"
     },
     {
       "word": "repetition",
-      "lemma": "repetition",
-      "kind": "word",
       "type": "core",
-      "ctx": "重复",
-      "forms": [],
-      "phonetic": "[ˌrepəˈtɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "重复"
-        }
-      ]
+      "ctx": "重复"
     },
     {
       "word": "person",
-      "lemma": "person",
-      "kind": "word",
       "type": "outline",
-      "ctx": "人，个人",
-      "forms": [],
-      "phonetic": "[ˈpɜːsn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "人，个人"
-        }
-      ]
+      "ctx": "人，个人"
     },
     {
       "word": "goal",
-      "lemma": "goal",
-      "kind": "word",
       "type": "outline",
-      "ctx": "目标",
-      "forms": [
-        {
-          "surface": "goals",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ɡəʊl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "目标；进球得分；球门"
-        }
-      ]
+      "ctx": "目标"
     },
     {
       "word": "associate",
-      "lemma": "associate",
-      "kind": "word",
       "type": "core",
-      "ctx": "联想，联系",
-      "forms": [
-        {
-          "surface": "associates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "associated",
-          "tag": "past"
-        },
-        {
-          "surface": "associated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "associating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈsəʊʃieɪt; əˈsəʊsieɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "联想，联系",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "associate...with...将……和……联系起来"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "联想，联系"
     },
     {
       "word": "response",
-      "lemma": "response",
-      "kind": "word",
       "type": "outline",
-      "ctx": "回答，答复",
-      "forms": [
-        {
-          "surface": "responses",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[rɪˈspɒns]",
-      "memory": [
-        "词根记忆：re（回）+spons（承诺）+e→回答"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "回答，答复；反应，响应"
-        }
-      ]
+      "ctx": "回答，答复"
     },
     {
       "word": "kettle",
-      "lemma": "kettle",
-      "kind": "word",
       "type": "outline",
-      "ctx": "水壶",
-      "forms": [],
-      "phonetic": "[ˈketl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "水壶"
-        }
-      ]
+      "ctx": "水壶"
     },
     {
       "word": "button",
-      "lemma": "button",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（机器的）按钮",
-      "forms": [],
-      "phonetic": "[ˈbʌtn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（机器的）按钮；纽扣"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "扣……的纽扣"
-        }
-      ]
+      "ctx": "（机器的）按钮"
     },
     {
       "word": "ham",
-      "lemma": "ham",
-      "kind": "word",
       "type": "outline",
-      "ctx": "火腿",
-      "forms": [],
-      "phonetic": "[hæm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "火腿"
-        }
-      ]
+      "ctx": "火腿"
     },
     {
       "word": "toast",
-      "lemma": "toast",
-      "kind": "word",
       "type": "outline",
-      "ctx": "烤面包，吐司",
-      "forms": [],
-      "phonetic": "[təʊst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "烤面包，吐司；祝酒，祝酒词"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "向……敬酒；烘，烤"
-        }
-      ]
+      "ctx": "烤面包，吐司"
     },
     {
       "word": "ultimately",
-      "lemma": "ultimately",
-      "kind": "word",
       "type": "outline",
-      "ctx": "最终，最后",
-      "forms": [],
-      "phonetic": "[ˈʌltɪmətli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "最终，最后"
-        }
-      ]
+      "ctx": "最终，最后"
     },
     {
       "word": "likely",
-      "lemma": "likely",
-      "kind": "word",
       "type": "outline",
-      "ctx": "很可能的",
-      "forms": [],
-      "phonetic": "[ˈlaɪkli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "很可能的"
-        }
-      ]
+      "ctx": "很可能的"
     },
     {
       "word": "sock",
-      "lemma": "sock",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[pl.]短袜",
-      "forms": [
-        {
-          "surface": "socks",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[sɒk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[pl.]短袜"
-        }
-      ]
+      "ctx": "[pl.]短袜"
     },
     {
       "word": "describe",
-      "lemma": "describe",
-      "kind": "word",
       "type": "outline",
-      "ctx": "描述",
-      "forms": [
-        {
-          "surface": "describing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɪˈskraɪb]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "描述；把……称为"
-        }
-      ]
+      "ctx": "描述"
     },
     {
       "word": "related",
-      "lemma": "related",
-      "kind": "word",
       "type": "core",
-      "ctx": "相关的，有联系的",
-      "forms": [],
-      "phonetic": "[rɪˈleɪtɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "相关的，有联系的"
-        }
-      ]
+      "ctx": "相关的，有联系的"
     },
     {
       "word": "element",
-      "lemma": "element",
-      "kind": "word",
       "type": "outline",
-      "ctx": "要素，基本部分",
-      "forms": [
-        {
-          "surface": "elements",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈelɪmənt]",
-      "memory": [
-        "联想记忆：e+lemen（看作lemon，柠檬）+t→柠檬是水果的一种→组成部分"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "要素，基本部分；元素；组成部分"
-        }
-      ]
+      "ctx": "要素，基本部分"
     },
     {
       "word": "call",
-      "lemma": "call",
-      "kind": "word",
       "type": "outline",
-      "ctx": "称呼",
-      "forms": [
-        {
-          "surface": "called",
-          "tag": "past"
-        }
-      ],
-      "phonetic": "[kɔːl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "称呼；呼唤；喊，叫",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "call for（去）接；需要；要求"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "叫声；电话"
-        }
-      ]
+      "ctx": "称呼"
     },
     {
       "word": "routine",
-      "lemma": "routine",
-      "kind": "word",
       "type": "outline",
-      "ctx": "常规，惯例，日常事务",
-      "forms": [],
-      "phonetic": "[ruːˈtiːn]",
-      "memory": [
-        "联想记忆：处理日常事务（routine）要按常规路线（route）走"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "常规，惯例，日常事务",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a routine medical examination常规体检"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "adj.",
-          "meaning": "常规的"
-        }
-      ]
+      "ctx": "常规，惯例，日常事务"
     },
     {
       "word": "serve",
-      "lemma": "serve",
-      "kind": "word",
       "type": "outline",
-      "ctx": "服务",
-      "forms": [
-        {
-          "surface": "serves",
-          "tag": "third_person"
-        },
-        {
-          "surface": "served",
-          "tag": "past"
-        },
-        {
-          "surface": "served",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "serving",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[sɜːv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "服务；提供，端上；对……有用；可用作"
-        }
-      ]
+      "ctx": "服务"
     },
     {
       "word": "respond",
-      "lemma": "respond",
-      "kind": "word",
       "type": "outline",
-      "ctx": "回答，回应",
-      "forms": [
-        {
-          "surface": "responds",
-          "tag": "third_person"
-        }
-      ],
-      "phonetic": "[rɪˈspɒnd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "回答，回应；作出反应",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "respond to对……作出反应"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "回答，回应"
     },
     {
       "word": "reduction",
-      "lemma": "reduction",
-      "kind": "word",
       "type": "core",
-      "ctx": "减少，缩小",
-      "forms": [],
-      "phonetic": "[rɪˈdʌkʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "减少，缩小；下降，降低"
-        }
-      ]
+      "ctx": "减少，缩小"
     },
     {
       "word": "involve",
-      "lemma": "involve",
-      "kind": "word",
       "type": "outline",
-      "ctx": "包括",
-      "forms": [
-        {
-          "surface": "involves",
-          "tag": "third_person"
-        }
-      ],
-      "phonetic": "[ɪnˈvɒlv]",
-      "memory": [
-        "词根记忆：in（进入）+volv（转）+e→转进去→（使）参加"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "包括；涉及，牵涉；（使）参加，加入",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "We all need to get involved in saving energy whether it's at work, at home, or at school.无论是在公司、在家里还是在学校，我们都需要参与能源节约。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "包括"
     },
     {
       "word": "repeat",
-      "lemma": "repeat",
-      "kind": "word",
       "type": "outline",
-      "ctx": "重说",
-      "forms": [
-        {
-          "surface": "repeats",
-          "tag": "third_person"
-        },
-        {
-          "surface": "repeated",
-          "tag": "past"
-        },
-        {
-          "surface": "repeated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "repeating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rɪˈpiːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "重说；重做；重复发生"
-        }
-      ]
+      "ctx": "重说"
     },
     {
       "word": "necessarily",
-      "lemma": "necessarily",
-      "kind": "word",
       "type": "core",
-      "ctx": "必要地",
-      "forms": [],
-      "phonetic": "[ˌnesəˈserəli; ˈnesəsərəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "必要地；必然"
-        }
-      ]
+      "ctx": "必要地"
     },
     {
       "word": "perform",
-      "lemma": "perform",
-      "kind": "word",
       "type": "core",
-      "ctx": "表演",
-      "forms": [
-        {
-          "surface": "performs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "performed",
-          "tag": "past"
-        },
-        {
-          "surface": "performed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "performing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[pəˈfɔːm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "表演；表现；做，履行，执行"
-        }
-      ]
+      "ctx": "表演"
     },
     {
       "word": "urge",
-      "lemma": "urge",
-      "kind": "word",
       "type": "outline",
-      "ctx": "冲动",
-      "forms": [],
-      "phonetic": "[ɜːdʒ]",
-      "memory": [
-        "词根记忆：urg（驱动）+e→催促，力劝"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "冲动",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "urge sb.to do sth.催促某人做某事"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "催促，力劝"
-        }
-      ]
+      "ctx": "冲动"
     },
     {
       "word": "postman",
-      "lemma": "postman",
-      "kind": "word",
       "type": "outline",
-      "ctx": "邮递员",
-      "forms": [],
-      "phonetic": "[ˈpəʊstmən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "邮递员"
-        }
-      ]
+      "ctx": "邮递员"
     },
     {
       "word": "difficult",
-      "lemma": "difficult",
-      "kind": "word",
       "type": "outline",
-      "ctx": "难的，艰难的",
-      "forms": [],
-      "phonetic": "[ˈdɪfɪkəlt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "难的，艰难的；不易相处的"
-        }
-      ]
+      "ctx": "难的，艰难的"
     },
     {
       "word": "shake",
-      "lemma": "shake",
-      "kind": "word",
       "type": "outline",
-      "ctx": "摇动",
-      "forms": [
-        {
-          "surface": "shook",
-          "tag": "past"
-        },
-        {
-          "surface": "shaken",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "shakes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "shaking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ʃeɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "摇动；颤抖；去除，摆脱"
-        }
-      ]
+      "ctx": "摇动"
     },
     {
       "word": "healthy",
-      "lemma": "healthy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "健康的，健壮的",
-      "forms": [],
-      "phonetic": "[ˈhelθi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "健康的，健壮的"
-        }
-      ]
+      "ctx": "健康的，健壮的"
     },
     {
       "word": "length",
-      "lemma": "length",
-      "kind": "word",
       "type": "outline",
-      "ctx": "长，长度",
-      "forms": [],
-      "phonetic": "[leŋθ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "长，长度；时间的长短",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "at length最后；详细地"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "长，长度"
     },
     {
       "word": "depend",
-      "lemma": "depend",
-      "kind": "word",
       "type": "outline",
-      "ctx": "依靠",
-      "forms": [
-        {
-          "surface": "depends",
-          "tag": "third_person"
-        },
-        {
-          "surface": "depended",
-          "tag": "past"
-        },
-        {
-          "surface": "depended",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "depending",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɪˈpend]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "依靠；信任；取决于",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "depend on/upon依靠；指望；取决于"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "依靠"
     },
     {
       "word": "multiple",
-      "lemma": "multiple",
-      "kind": "word",
       "type": "outline",
-      "ctx": "多种多样的，数量多的",
-      "forms": [],
-      "phonetic": "[ˈmʌltɪpl]",
-      "memory": [
-        "词根记忆：multi（多）+ple（满的）→多种多样的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "多种多样的，数量多的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "倍数"
-        }
-      ]
+      "ctx": "多种多样的，数量多的"
     },
     {
       "word": "individual",
-      "lemma": "individual",
-      "kind": "word",
       "type": "outline",
-      "ctx": "个人",
-      "forms": [],
-      "phonetic": "[ˌɪndɪˈvɪdʒuəl]",
-      "memory": [
-        "词根记忆：in（不）+divid（分开）+ual（有……性质的）→不可分割的→单独的"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "个人"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "单独的，个别的"
-        }
-      ]
+      "ctx": "个人"
     },
     {
       "word": "while",
-      "lemma": "while",
-      "kind": "word",
       "type": "outline",
-      "ctx": "正当……的时候",
-      "forms": [],
-      "phonetic": "[waɪl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "conj.",
-          "meaning": "正当……的时候；虽然，尽管；而，然而"
-        },
-        {
-          "pos": "n.",
-          "meaning": "一段时间，一小会儿"
-        }
-      ]
+      "ctx": "正当……的时候"
     },
     {
       "word": "month",
-      "lemma": "month",
-      "kind": "word",
       "type": "outline",
-      "ctx": "月，月份",
-      "forms": [
-        {
-          "surface": "months",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[mʌnθ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "月，月份"
-        }
-      ]
+      "ctx": "月，月份"
     },
     {
       "word": "ninety",
-      "lemma": "ninety",
-      "kind": "word",
       "type": "outline",
-      "ctx": "九十",
-      "forms": [],
-      "phonetic": "[ˈnaɪnti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "num.",
-          "meaning": "九十"
-        }
-      ]
+      "ctx": "九十"
     },
     {
       "word": "reflect",
-      "lemma": "reflect",
-      "kind": "word",
       "type": "outline",
-      "ctx": "反射",
-      "forms": [
-        {
-          "surface": "reflects",
-          "tag": "third_person"
-        }
-      ],
-      "phonetic": "[rɪˈflekt]",
-      "memory": [
-        "词根记忆：re（回，向后）+flect（弯曲）→光线向回弯曲→反射"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "反射；反映；认真思考",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "The UK's obsession with food is reflected through television scheduling.英国对食物的痴迷反映在电视节目安排上。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "反射"
     },
     {
       "word": "bless",
-      "lemma": "bless",
-      "kind": "word",
       "type": "outline",
-      "ctx": "求上帝降福于，祝福",
-      "forms": [
-        {
-          "surface": "blesses",
-          "tag": "third_person"
-        }
-      ],
-      "phonetic": "[bles]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "求上帝降福于，祝福"
-        }
-      ]
+      "ctx": "求上帝降福于，祝福"
     }
   ]
 }

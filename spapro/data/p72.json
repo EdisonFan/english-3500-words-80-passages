@@ -29,1085 +29,253 @@
   "vocab": [
     {
       "word": "description",
-      "lemma": "description",
-      "kind": "word",
       "type": "outline",
-      "ctx": "描述，叙述",
-      "forms": [],
-      "phonetic": "[dɪˈskrɪpʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "描述，叙述"
-        }
-      ]
+      "ctx": "描述，叙述"
     },
     {
       "word": "code",
-      "lemma": "code",
-      "kind": "word",
       "type": "core",
-      "ctx": "法规",
-      "forms": [],
-      "phonetic": "[kəʊd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "法规；密码，代码；道德准则"
-        }
-      ]
+      "ctx": "法规"
     },
     {
       "word": "unwritten",
-      "lemma": "unwritten",
-      "kind": "word",
       "type": "core",
-      "ctx": "非书面的，不成文的，惯常的（法律、规定、协议等）",
-      "forms": [],
-      "phonetic": "[ˌʌnˈrɪtn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "非书面的，不成文的，惯常的（法律、规定、协议等）；未写的"
-        }
-      ]
+      "ctx": "非书面的，不成文的，惯常的（法律、规定、协议等）"
     },
     {
       "word": "dishonest",
-      "lemma": "dishonest",
-      "kind": "word",
       "type": "core",
-      "ctx": "不诚实的",
-      "forms": [],
-      "phonetic": "[dɪsˈɒnɪst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "不诚实的"
-        }
-      ]
+      "ctx": "不诚实的"
     },
     {
       "word": "violent",
-      "lemma": "violent",
-      "kind": "word",
       "type": "core",
-      "ctx": "暴力的",
-      "forms": [],
-      "phonetic": "[ˈvaɪələnt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "暴力的；猛烈的"
-        }
-      ]
+      "ctx": "暴力的"
     },
     {
       "word": "disapprove",
-      "lemma": "disapprove",
-      "kind": "word",
       "type": "core",
-      "ctx": "不赞成，反对",
-      "forms": [
-        {
-          "surface": "disapproves",
-          "tag": "third_person"
-        },
-        {
-          "surface": "disapproved",
-          "tag": "past"
-        },
-        {
-          "surface": "disapproved",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "disapproving",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌdɪsəˈpruːv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "不赞成，反对",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "disapprove of反对"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "不赞成，反对"
     },
     {
       "word": "leadership",
-      "lemma": "leadership",
-      "kind": "word",
       "type": "outline",
-      "ctx": "领导",
-      "forms": [],
-      "phonetic": "[ˈliːdəʃɪp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "领导；领导才能；领导层"
-        }
-      ]
+      "ctx": "领导"
     },
     {
       "word": "marriage",
-      "lemma": "marriage",
-      "kind": "word",
       "type": "outline",
-      "ctx": "结婚，婚姻",
-      "forms": [],
-      "phonetic": "[ˈmærɪdʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "结婚，婚姻",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "divorce*（ n. / v. 离婚）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "结婚，婚姻"
     },
     {
       "word": "loosely",
-      "lemma": "loosely",
-      "kind": "word",
       "type": "core",
-      "ctx": "宽松地",
-      "forms": [],
-      "phonetic": "[ˈluːsli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "宽松地；松散地；不精确地，大致地"
-        }
-      ]
+      "ctx": "宽松地"
     },
     {
       "word": "govern",
-      "lemma": "govern",
-      "kind": "word",
       "type": "core",
-      "ctx": "统治，管理",
-      "forms": [
-        {
-          "surface": "governs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "governed",
-          "tag": "past"
-        },
-        {
-          "surface": "governed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "governing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈɡʌvn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "统治，管理；影响，支配"
-        }
-      ]
+      "ctx": "统治，管理"
     },
     {
       "word": "tradition",
-      "lemma": "tradition",
-      "kind": "word",
       "type": "outline",
-      "ctx": "传统，惯例",
-      "forms": [
-        {
-          "surface": "traditions",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[trəˈdɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "传统，惯例",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "diet tradition饮食习惯"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "传统，惯例"
     },
     {
       "word": "battle",
-      "lemma": "battle",
-      "kind": "word",
       "type": "outline",
-      "ctx": "战斗，战役",
-      "forms": [
-        {
-          "surface": "battles",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈbætl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "战斗，战役；较量，斗争；奋斗，抗争"
-        }
-      ]
+      "ctx": "战斗，战役"
     },
     {
       "word": "angrily",
-      "lemma": "angrily",
-      "kind": "word",
       "type": "core",
-      "ctx": "生气地，愤怒地",
-      "forms": [],
-      "phonetic": "[ˈæŋɡrəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "生气地，愤怒地"
-        }
-      ]
+      "ctx": "生气地，愤怒地"
     },
     {
       "word": "chaos",
-      "lemma": "chaos",
-      "kind": "word",
       "type": "outline",
-      "ctx": "混乱",
-      "forms": [],
-      "phonetic": "[ˈkeɪɒs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "混乱"
-        }
-      ]
+      "ctx": "混乱"
     },
     {
       "word": "strongly",
-      "lemma": "strongly",
-      "kind": "word",
       "type": "core",
-      "ctx": "强烈地",
-      "forms": [],
-      "phonetic": "[ˈstrɒŋli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "强烈地；坚决地；牢固地"
-        }
-      ]
+      "ctx": "强烈地"
     },
     {
       "word": "unforgiving",
-      "lemma": "unforgiving",
-      "kind": "word",
       "type": "core",
-      "ctx": "不肯原谅的",
-      "forms": [],
-      "phonetic": "[ˌʌnfəˈɡɪvɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "不肯原谅的；让人为难的，棘手的"
-        }
-      ]
+      "ctx": "不肯原谅的"
     },
     {
       "word": "northern",
-      "lemma": "northern",
-      "kind": "word",
       "type": "outline",
-      "ctx": "北方的，北部的",
-      "forms": [],
-      "phonetic": "[ˈnɔːðən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "北方的，北部的"
-        }
-      ]
+      "ctx": "北方的，北部的"
     },
     {
       "word": "practical",
-      "lemma": "practical",
-      "kind": "word",
       "type": "outline",
-      "ctx": "实际的",
-      "forms": [],
-      "phonetic": "[ˈpræktɪkl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "实际的；切实可行的；适用的，有用的；务实的",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "The app makes our practical language lessons available wherever and whenever.这款应用让我们的实用语言课随时随地可上。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "实际的"
     },
     {
       "word": "morality",
-      "lemma": "morality",
-      "kind": "word",
       "type": "core",
-      "ctx": "道德，道义",
-      "forms": [],
-      "phonetic": "[məˈræləti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "道德，道义；道德规范"
-        }
-      ]
+      "ctx": "道德，道义"
     },
     {
       "word": "similarity",
-      "lemma": "similarity",
-      "kind": "word",
       "type": "core",
-      "ctx": "相似（性）",
-      "forms": [],
-      "phonetic": "[ˌsɪməˈlærəti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "相似（性）；相似处"
-        }
-      ]
+      "ctx": "相似（性）"
     },
     {
       "word": "virtue",
-      "lemma": "virtue",
-      "kind": "word",
       "type": "outline",
-      "ctx": "正直的品性",
-      "forms": [
-        {
-          "surface": "virtues",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈvɜːtʃuː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "正直的品性；美德；优点"
-        }
-      ]
+      "ctx": "正直的品性"
     },
     {
       "word": "striking",
-      "lemma": "striking",
-      "kind": "word",
       "type": "core",
-      "ctx": "显著的，突出的",
-      "forms": [],
-      "phonetic": "[ˈstraɪkɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "显著的，突出的；惹人注目的"
-        }
-      ]
+      "ctx": "显著的，突出的"
     },
     {
       "word": "typically",
-      "lemma": "typically",
-      "kind": "word",
       "type": "core",
-      "ctx": "通常",
-      "forms": [],
-      "phonetic": "[ˈtɪpɪkli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "通常；典型地；果然"
-        }
-      ]
+      "ctx": "通常"
     },
     {
       "word": "cheat",
-      "lemma": "cheat",
-      "kind": "word",
       "type": "outline",
-      "ctx": "欺骗，骗取",
-      "forms": [
-        {
-          "surface": "cheats",
-          "tag": "third_person"
-        },
-        {
-          "surface": "cheated",
-          "tag": "past"
-        },
-        {
-          "surface": "cheated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "cheating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[tʃiːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "欺骗，骗取；作弊"
-        },
-        {
-          "pos": "n.",
-          "meaning": "骗子；诈骗"
-        }
-      ]
+      "ctx": "欺骗，骗取"
     },
     {
       "word": "cooperation",
-      "lemma": "cooperation",
-      "kind": "word",
       "type": "core",
-      "ctx": "合作",
-      "forms": [],
-      "phonetic": "[kəʊˌɒpəˈreɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "合作；协作"
-        }
-      ]
+      "ctx": "合作"
     },
     {
       "word": "humbleness",
-      "lemma": "humbleness",
-      "kind": "word",
       "type": "core",
-      "ctx": "谦虚，谦逊",
-      "forms": [],
-      "phonetic": "[ˈhʌmbəlnəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "谦虚，谦逊"
-        }
-      ]
+      "ctx": "谦虚，谦逊"
     },
     {
       "word": "universal",
-      "lemma": "universal",
-      "kind": "word",
       "type": "core",
-      "ctx": "普遍的，全体的",
-      "forms": [],
-      "phonetic": "[ˌjuːnɪˈvɜːsl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "普遍的，全体的"
-        }
-      ]
+      "ctx": "普遍的，全体的"
     },
     {
       "word": "pre-date",
-      "lemma": "pre-date",
-      "kind": "word",
       "type": "core",
-      "ctx": "（日期上）早于",
-      "forms": [
-        {
-          "surface": "pre-dates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "pre-dated",
-          "tag": "past"
-        },
-        {
-          "surface": "pre-dated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "pre-dating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[priː ˈdeɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "（日期上）早于"
-        }
-      ]
+      "ctx": "（日期上）早于"
     },
     {
       "word": "moralize",
-      "lemma": "moralize",
-      "kind": "word",
       "type": "core",
-      "ctx": "进行道德说教",
-      "forms": [
-        {
-          "surface": "moralizes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "moralized",
-          "tag": "past"
-        },
-        {
-          "surface": "moralized",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "moralizing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈmɒrəlaɪz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "进行道德说教"
-        }
-      ]
+      "ctx": "进行道德说教"
     },
     {
       "word": "law",
-      "lemma": "law",
-      "kind": "word",
       "type": "outline",
-      "ctx": "法律",
-      "forms": [],
-      "phonetic": "[lɔː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "法律；法学；规律，法则",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "constitution*（ n. 宪法；章程）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "法律"
     },
     {
       "word": "belong",
-      "lemma": "belong",
-      "kind": "word",
       "type": "outline",
-      "ctx": "属于，附属于",
-      "forms": [
-        {
-          "surface": "belongs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "belonged",
-          "tag": "past"
-        },
-        {
-          "surface": "belonged",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "belonging",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[bɪˈlɒŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "属于，附属于",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "belong to属于"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "属于，附属于"
     },
     {
       "word": "approval",
-      "lemma": "approval",
-      "kind": "word",
       "type": "core",
-      "ctx": "赞成",
-      "forms": [],
-      "phonetic": "[əˈpruːvl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "赞成；认可，批准"
-        }
-      ]
+      "ctx": "赞成"
     },
     {
       "word": "disapproval",
-      "lemma": "disapproval",
-      "kind": "word",
       "type": "core",
-      "ctx": "不赞成，反对",
-      "forms": [],
-      "phonetic": "[ˌdɪsəˈpruːvl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "不赞成，反对"
-        }
-      ]
+      "ctx": "不赞成，反对"
     },
     {
       "word": "dislike",
-      "lemma": "dislike",
-      "kind": "word",
       "type": "core",
-      "ctx": "厌恶",
-      "forms": [
-        {
-          "surface": "dislikes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "disliked",
-          "tag": "past"
-        },
-        {
-          "surface": "disliked",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "disliking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɪsˈlaɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "/"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "不喜欢；厌恶"
-        }
-      ]
+      "ctx": "厌恶"
     },
     {
       "word": "prepare",
-      "lemma": "prepare",
-      "kind": "word",
       "type": "outline",
-      "ctx": "使做好准备",
-      "forms": [
-        {
-          "surface": "prepares",
-          "tag": "third_person"
-        },
-        {
-          "surface": "prepared",
-          "tag": "past"
-        },
-        {
-          "surface": "prepared",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "preparing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[prɪˈpeə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "使做好准备；预备（饭菜）"
-        }
-      ]
+      "ctx": "使做好准备"
     },
     {
       "word": "behave",
-      "lemma": "behave",
-      "kind": "word",
       "type": "outline",
-      "ctx": "表现",
-      "forms": [
-        {
-          "surface": "behaves",
-          "tag": "third_person"
-        },
-        {
-          "surface": "behaved",
-          "tag": "past"
-        },
-        {
-          "surface": "behaved",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "behaving",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[bɪˈheɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "表现；举止得体"
-        }
-      ]
+      "ctx": "表现"
     },
     {
       "word": "socially",
-      "lemma": "socially",
-      "kind": "word",
       "type": "core",
-      "ctx": "在社交方面",
-      "forms": [],
-      "phonetic": "[ˈsəʊʃəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "在社交方面；在社会上",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "socialist*（ n. 社会主义者 adj. 社会主义的）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "在社交方面"
     },
     {
       "word": "repurpose",
-      "lemma": "repurpose",
-      "kind": "word",
       "type": "core",
-      "ctx": "改变……的用途",
-      "forms": [
-        {
-          "surface": "repurposed",
-          "tag": "past"
-        }
-      ],
-      "phonetic": "[ˌriːˈpɜːpəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "改变……的用途"
-        }
-      ]
+      "ctx": "改变……的用途"
     },
     {
       "word": "self-care",
-      "lemma": "self-care",
-      "kind": "word",
       "type": "core",
-      "ctx": "自我照管",
-      "forms": [],
-      "phonetic": "[ˌself ˈkeə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "自我照管；自我护理"
-        }
-      ]
+      "ctx": "自我照管"
     },
     {
       "word": "acquire",
-      "lemma": "acquire",
-      "kind": "word",
       "type": "outline",
-      "ctx": "获得，得到",
-      "forms": [
-        {
-          "surface": "acquires",
-          "tag": "third_person"
-        },
-        {
-          "surface": "acquired",
-          "tag": "past"
-        },
-        {
-          "surface": "acquired",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "acquiring",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈkwaɪə(r)]",
-      "memory": [
-        "词根记忆：ac（表加强）+quire（寻求，获得）→获得，得到"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "获得，得到"
-        }
-      ]
+      "ctx": "获得，得到"
     },
     {
       "word": "behavioral",
-      "lemma": "behavioral",
-      "kind": "word",
       "type": "core",
-      "ctx": "行为的",
-      "forms": [],
-      "phonetic": "[bɪˈheɪvjərəl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "行为的"
-        }
-      ]
+      "ctx": "行为的"
     },
     {
       "word": "gathering",
-      "lemma": "gathering",
-      "kind": "word",
       "type": "core",
-      "ctx": "收集，搜集",
-      "forms": [],
-      "phonetic": "[ˈɡæðərɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "收集，搜集；聚集，聚会，集会"
-        }
-      ]
+      "ctx": "收集，搜集"
     },
     {
       "word": "self-serving",
-      "lemma": "self-serving",
-      "kind": "word",
       "type": "core",
-      "ctx": "只为个人打算的，一心谋私利的",
-      "forms": [],
-      "phonetic": "[ˌself ˈsɜːvɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "只为个人打算的，一心谋私利的"
-        }
-      ]
+      "ctx": "只为个人打算的，一心谋私利的"
     },
     {
       "word": "grandparent",
-      "lemma": "grandparent",
-      "kind": "word",
       "type": "outline",
-      "ctx": "祖父",
-      "forms": [],
-      "phonetic": "[ˈɡrænpeərənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "祖父；祖母；外祖父；外祖母"
-        }
-      ]
+      "ctx": "祖父"
     },
     {
       "word": "inconvenient",
-      "lemma": "inconvenient",
-      "kind": "word",
       "type": "core",
-      "ctx": "不方便的",
-      "forms": [],
-      "phonetic": "[ˌɪnkənˈviːniənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "不方便的"
-        }
-      ]
+      "ctx": "不方便的"
     },
     {
       "word": "self-discipline",
-      "lemma": "self-discipline",
-      "kind": "word",
       "type": "core",
-      "ctx": "自律能力",
-      "forms": [],
-      "phonetic": "[ˌself ˈdɪsəplɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "自律能力"
-        }
-      ]
+      "ctx": "自律能力"
     },
     {
       "word": "advantageous",
-      "lemma": "advantageous",
-      "kind": "word",
       "type": "core",
-      "ctx": "有利的",
-      "forms": [],
-      "phonetic": "[ˌædvənˈteɪdʒəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "有利的"
-        }
-      ]
+      "ctx": "有利的"
     },
     {
       "word": "enlarge",
-      "lemma": "enlarge",
-      "kind": "word",
       "type": "core",
-      "ctx": "扩大，放大，增大",
-      "forms": [
-        {
-          "surface": "enlarges",
-          "tag": "third_person"
-        },
-        {
-          "surface": "enlarged",
-          "tag": "past"
-        },
-        {
-          "surface": "enlarged",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "enlarging",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪnˈlɑːdʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "扩大，放大，增大"
-        }
-      ]
+      "ctx": "扩大，放大，增大"
     },
     {
       "word": "self-control",
-      "lemma": "self-control",
-      "kind": "word",
       "type": "core",
-      "ctx": "自制力",
-      "forms": [],
-      "phonetic": "[ˌself kənˈtrəʊl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "自制力"
-        }
-      ]
+      "ctx": "自制力"
     },
     {
       "word": "capacity",
-      "lemma": "capacity",
-      "kind": "word",
       "type": "outline",
-      "ctx": "容量",
-      "forms": [],
-      "phonetic": "[kəˈpæsəti]",
-      "memory": [
-        "词根记忆：cap（拿）+acity（表状态、情况）→能拿住→能力"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "容量；能力，才能"
-        }
-      ]
+      "ctx": "容量"
     }
   ]
 }

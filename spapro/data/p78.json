@@ -34,976 +34,213 @@
   "vocab": [
     {
       "word": "clone",
-      "lemma": "clone",
-      "kind": "word",
       "type": "outline",
-      "ctx": "克隆动物（或植物），无性繁殖动物（或植物）",
-      "forms": [
-        {
-          "surface": "clones",
-          "tag": "third_person"
-        },
-        {
-          "surface": "cloned",
-          "tag": "past"
-        },
-        {
-          "surface": "cloned",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "cloning",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kləʊn]",
-      "memory": [
-        "发音记忆：音似“克隆”"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "克隆动物（或植物），无性繁殖动物（或植物）",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "clone technology克隆技术"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "以无性繁殖技术复制；克隆"
-        }
-      ]
+      "ctx": "克隆动物（或植物），无性繁殖动物（或植物）"
     },
     {
       "word": "simulate",
-      "lemma": "simulate",
-      "kind": "word",
       "type": "core",
-      "ctx": "（用计算机或模型等）模拟",
-      "forms": [
-        {
-          "surface": "simulates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "simulated",
-          "tag": "past"
-        },
-        {
-          "surface": "simulated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "simulating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈsɪmjuleɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "（用计算机或模型等）模拟；模仿；假装，冒充"
-        }
-      ]
+      "ctx": "（用计算机或模型等）模拟"
     },
     {
       "word": "practitioner",
-      "lemma": "practitioner",
-      "kind": "word",
       "type": "core",
-      "ctx": "（尤指医学或法律界的）从业人员",
-      "forms": [
-        {
-          "surface": "practitioners",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[prækˈtɪʃənə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（尤指医学或法律界的）从业人员"
-        }
-      ]
+      "ctx": "（尤指医学或法律界的）从业人员"
     },
     {
       "word": "so-called",
-      "lemma": "so-called",
-      "kind": "word",
       "type": "core",
-      "ctx": "（表示不认同）所谓的，号称……的",
-      "forms": [],
-      "phonetic": "[ˌsəʊ ˈkɔːld]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "（表示不认同）所谓的，号称……的"
-        }
-      ]
+      "ctx": "（表示不认同）所谓的，号称……的"
     },
     {
       "word": "convincingly",
-      "lemma": "convincingly",
-      "kind": "word",
       "type": "core",
-      "ctx": "令人信服地",
-      "forms": [],
-      "phonetic": "[kənˈvɪnsɪŋli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "令人信服地；有说服力地"
-        }
-      ]
+      "ctx": "令人信服地"
     },
     {
       "word": "ripe",
-      "lemma": "ripe",
-      "kind": "word",
       "type": "outline",
-      "ctx": "成熟的",
-      "forms": [],
-      "phonetic": "[raɪp]",
-      "memory": [
-        "联想记忆：稻熟（ripe）米（rice）香"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "成熟的；时机成熟的"
-        }
-      ]
+      "ctx": "成熟的"
     },
     {
       "word": "criticism",
-      "lemma": "criticism",
-      "kind": "word",
       "type": "core",
-      "ctx": "批评，指责",
-      "forms": [],
-      "phonetic": "[ˈkrɪtɪsɪzəm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "批评，指责；评论"
-        }
-      ]
+      "ctx": "批评，指责"
     },
     {
       "word": "declaration",
-      "lemma": "declaration",
-      "kind": "word",
       "type": "core",
-      "ctx": "宣告",
-      "forms": [
-        {
-          "surface": "declarations",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˌdekləˈreɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "宣告；声明（书）；申报（单）"
-        }
-      ]
+      "ctx": "宣告"
     },
     {
       "word": "doubtful",
-      "lemma": "doubtful",
-      "kind": "word",
       "type": "core",
-      "ctx": "不确定，怀疑",
-      "forms": [],
-      "phonetic": "[ˈdaʊtfl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "不确定，怀疑；不大可能的"
-        }
-      ]
+      "ctx": "不确定，怀疑"
     },
     {
       "word": "complexity",
-      "lemma": "complexity",
-      "kind": "word",
       "type": "core",
-      "ctx": "复杂性",
-      "forms": [],
-      "phonetic": "[kəmˈpleksəti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "复杂性；难题"
-        }
-      ]
+      "ctx": "复杂性"
     },
     {
       "word": "tired",
-      "lemma": "tired",
-      "kind": "word",
       "type": "outline",
-      "ctx": "疲劳的，累的",
-      "forms": [],
-      "phonetic": "[ˈtaɪəd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "疲劳的，累的；厌烦的；陈旧的，陈词滥调的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "be tired of厌倦，对……感到疲倦"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "疲劳的，累的"
     },
     {
       "word": "complain",
-      "lemma": "complain",
-      "kind": "word",
       "type": "outline",
-      "ctx": "抱怨，埋怨，发牢骚",
-      "forms": [
-        {
-          "surface": "complains",
-          "tag": "third_person"
-        },
-        {
-          "surface": "complained",
-          "tag": "past"
-        },
-        {
-          "surface": "complained",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "complaining",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kəmˈpleɪn]",
-      "memory": [
-        "词根记忆：com（表加强）+plain（=beat，引申为捶胸）→因不满而做出捶胸的动作→抱怨"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "抱怨，埋怨，发牢骚",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "complain about抱怨……"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "抱怨，埋怨，发牢骚"
     },
     {
       "word": "existence",
-      "lemma": "existence",
-      "kind": "word",
       "type": "core",
-      "ctx": "存在，实有",
-      "forms": [],
-      "phonetic": "[ɪɡˈzɪstəns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "存在，实有；（尤指艰难或无聊的）生活"
-        }
-      ]
+      "ctx": "存在，实有"
     },
     {
       "word": "grandmother",
-      "lemma": "grandmother",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（外）祖母",
-      "forms": [],
-      "phonetic": "[ˈɡrænmʌðə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（外）祖母；奶奶；外婆"
-        }
-      ]
+      "ctx": "（外）祖母"
     },
     {
       "word": "hate",
-      "lemma": "hate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "讨厌",
-      "forms": [
-        {
-          "surface": "hates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "hated",
-          "tag": "past"
-        },
-        {
-          "surface": "hated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "hating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[heɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "讨厌；憎恨；不愿"
-        },
-        {
-          "pos": "n.",
-          "meaning": "憎恨，厌恶"
-        }
-      ]
+      "ctx": "讨厌"
     },
     {
       "word": "emphasize",
-      "lemma": "emphasize",
-      "kind": "word",
       "type": "core",
-      "ctx": "强调，着重",
-      "forms": [
-        {
-          "surface": "emphasizes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "emphasized",
-          "tag": "past"
-        },
-        {
-          "surface": "emphasized",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "emphasizing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈemfəsaɪz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "强调，着重；使明显；重读"
-        }
-      ]
+      "ctx": "强调，着重"
     },
     {
       "word": "pay-off",
-      "lemma": "pay-off",
-      "kind": "word",
       "type": "core",
-      "ctx": "回报",
-      "forms": [
-        {
-          "surface": "pay-offs",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈpeɪ ɒf]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "回报；（某行动的）收益；辞退补偿金"
-        }
-      ]
+      "ctx": "回报"
     },
     {
       "word": "cousin",
-      "lemma": "cousin",
-      "kind": "word",
       "type": "outline",
-      "ctx": "堂兄（或弟、姊、妹）",
-      "forms": [],
-      "phonetic": "[ˈkʌzn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "堂兄（或弟、姊、妹）；表兄（或弟、姊、妹）；远房亲戚"
-        }
-      ]
+      "ctx": "堂兄（或弟、姊、妹）"
     },
     {
       "word": "prospect",
-      "lemma": "prospect",
-      "kind": "word",
       "type": "outline",
-      "ctx": "可能性",
-      "forms": [],
-      "phonetic": "[ˈprɒspekt]",
-      "memory": [
-        "词根记忆：pro（向前）+spect（看）→向前看→前景"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "可能性；前景，展望；景色",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "distant prospect远景"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "可能性"
     },
     {
       "word": "open-ended",
-      "lemma": "open-ended",
-      "kind": "word",
       "type": "core",
-      "ctx": "无限制的",
-      "forms": [],
-      "phonetic": "[ˌəʊpən ˈendɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "无限制的；无确定目标的；无期限的"
-        }
-      ]
+      "ctx": "无限制的"
     },
     {
       "word": "essentially",
-      "lemma": "essentially",
-      "kind": "word",
       "type": "core",
-      "ctx": "本质上，基本上",
-      "forms": [],
-      "phonetic": "[ɪˈsenʃəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "本质上，基本上"
-        }
-      ]
+      "ctx": "本质上，基本上"
     },
     {
       "word": "endless",
-      "lemma": "endless",
-      "kind": "word",
       "type": "core",
-      "ctx": "无穷无尽的，无止境的",
-      "forms": [],
-      "phonetic": "[ˈendləs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "无穷无尽的，无止境的；不断的"
-        }
-      ]
+      "ctx": "无穷无尽的，无止境的"
     },
     {
       "word": "sort",
-      "lemma": "sort",
-      "kind": "word",
       "type": "outline",
-      "ctx": "把……分类",
-      "forms": [
-        {
-          "surface": "sorts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "sorted",
-          "tag": "past"
-        },
-        {
-          "surface": "sorted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "sorting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[sɔːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "把……分类；整理",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "sort through整理a sort of一种"
-              ]
-            },
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "When you sleep, your brain sorts through everything that happened during the day, trying to link new experiences to old memories.当你睡觉时，你的大脑会整理白天发生的一切，试图将新的经历与旧的记忆联系起来。"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "种类，类别"
-        }
-      ]
+      "ctx": "把……分类"
     },
     {
       "word": "novelty",
-      "lemma": "novelty",
-      "kind": "word",
       "type": "core",
-      "ctx": "新奇",
-      "forms": [],
-      "phonetic": "[ˈnɒvlti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "新奇；新奇的事物；廉价小饰物"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "新奇的"
-        }
-      ]
+      "ctx": "新奇"
     },
     {
       "word": "generator",
-      "lemma": "generator",
-      "kind": "word",
       "type": "core",
-      "ctx": "发电机",
-      "forms": [],
-      "phonetic": "[ˈdʒenəreɪtə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "发电机；发生器；电力公司"
-        }
-      ]
+      "ctx": "发电机"
     },
     {
       "word": "biosphere",
-      "lemma": "biosphere",
-      "kind": "word",
       "type": "core",
-      "ctx": "生物圈",
-      "forms": [],
-      "phonetic": "[ˈbaɪəʊsfɪə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "生物圈"
-        }
-      ]
+      "ctx": "生物圈"
     },
     {
       "word": "reproduce",
-      "lemma": "reproduce",
-      "kind": "word",
       "type": "core",
-      "ctx": "复制",
-      "forms": [
-        {
-          "surface": "reproduces",
-          "tag": "third_person"
-        },
-        {
-          "surface": "reproduced",
-          "tag": "past"
-        },
-        {
-          "surface": "reproduced",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "reproducing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌriːprəˈdjuːs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "复制；再现；繁殖，生育"
-        }
-      ]
+      "ctx": "复制"
     },
     {
       "word": "inventive",
-      "lemma": "inventive",
-      "kind": "word",
       "type": "core",
-      "ctx": "善于创新的",
-      "forms": [],
-      "phonetic": "[ɪnˈventɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "善于创新的；有创意的"
-        }
-      ]
+      "ctx": "善于创新的"
     },
     {
       "word": "machine",
-      "lemma": "machine",
-      "kind": "word",
       "type": "outline",
-      "ctx": "机器，机械装置",
-      "forms": [
-        {
-          "surface": "machines",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[məˈʃiːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "机器，机械装置"
-        }
-      ]
+      "ctx": "机器，机械装置"
     },
     {
       "word": "undefined",
-      "lemma": "undefined",
-      "kind": "word",
       "type": "core",
-      "ctx": "未阐明的，未限定的",
-      "forms": [],
-      "phonetic": "[ˌʌndɪˈfaɪnd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "未阐明的，未限定的"
-        }
-      ]
+      "ctx": "未阐明的，未限定的"
     },
     {
       "word": "agreement",
-      "lemma": "agreement",
-      "kind": "word",
       "type": "outline",
-      "ctx": "协议",
-      "forms": [],
-      "phonetic": "[əˈɡriːmənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "协议；（意见或看法）一致"
-        }
-      ]
+      "ctx": "协议"
     },
     {
       "word": "import",
-      "lemma": "import",
-      "kind": "word",
       "type": "outline",
-      "ctx": "进口",
-      "forms": [
-        {
-          "surface": "imports",
-          "tag": "third_person"
-        },
-        {
-          "surface": "imported",
-          "tag": "past"
-        },
-        {
-          "surface": "imported",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "importing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪmˈpɔːt]",
-      "memory": [
-        "词根记忆：im（进入）+port（拿，运）→进口，输入"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "进口；输入，引进"
-        },
-        {
-          "pos": "n.",
-          "meaning": "进口；（产品、劳务的）进口，输入"
-        }
-      ]
+      "ctx": "进口"
     },
     {
       "word": "export",
-      "lemma": "export",
-      "kind": "word",
       "type": "outline",
-      "ctx": "出口",
-      "forms": [
-        {
-          "surface": "exports",
-          "tag": "third_person"
-        },
-        {
-          "surface": "exported",
-          "tag": "past"
-        },
-        {
-          "surface": "exported",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "exporting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪkˈspɔːt]",
-      "memory": [
-        "词根记忆：ex（出）+port（运）→运出去（的东西）→出口（产品）"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "出口；输出；移出"
-        },
-        {
-          "pos": "n.",
-          "meaning": "出口；输出；出口产品"
-        }
-      ]
+      "ctx": "出口"
     },
     {
       "word": "backward",
-      "lemma": "backward",
-      "kind": "word",
       "type": "outline",
-      "ctx": "向后的",
-      "forms": [],
-      "phonetic": "[ˈbækwəd]",
-      "memory": [
-        "词根记忆：back（后面的）+ward（方向）→向后的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "向后的；倒退的；落后的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "take a backward step向后退一步look backward at回顾"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "adv.",
-          "meaning": "向后；倒着地"
-        }
-      ]
+      "ctx": "向后的"
     },
     {
       "word": "progression",
-      "lemma": "progression",
-      "kind": "word",
       "type": "core",
-      "ctx": "（进入另一阶段的）发展",
-      "forms": [],
-      "phonetic": "[prəˈɡreʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（进入另一阶段的）发展；前进；进程"
-        }
-      ]
+      "ctx": "（进入另一阶段的）发展"
     },
     {
       "word": "episode",
-      "lemma": "episode",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（人生的）一段经历",
-      "forms": [],
-      "phonetic": "[ˈepɪsəʊd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（人生的）一段经历；（小说的）片段；（电视连续剧或无线电广播剧的）一集"
-        }
-      ]
+      "ctx": "（人生的）一段经历"
     },
     {
       "word": "uncontrolled",
-      "lemma": "uncontrolled",
-      "kind": "word",
       "type": "core",
-      "ctx": "抑制不住的",
-      "forms": [],
-      "phonetic": "[ˌʌnkənˈtrəʊld]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "抑制不住的；不受法律（或规则）制约的"
-        }
-      ]
+      "ctx": "抑制不住的"
     },
     {
       "word": "separate",
-      "lemma": "separate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（使）分开，分离",
-      "forms": [
-        {
-          "surface": "separates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "separated",
-          "tag": "past"
-        },
-        {
-          "surface": "separated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "separating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈsepəreɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）分开，分离"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "单独的；分开的；不同的"
-        }
-      ]
+      "ctx": "（使）分开，分离"
     },
     {
       "word": "singular",
-      "lemma": "singular",
-      "kind": "word",
       "type": "core",
-      "ctx": "单数的",
-      "forms": [],
-      "phonetic": "[ˈsɪŋɡjələ(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "单数的；非凡的；奇特的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "单数；单数形式"
-        }
-      ]
+      "ctx": "单数的"
     },
     {
       "word": "universally",
-      "lemma": "universally",
-      "kind": "word",
       "type": "core",
-      "ctx": "全体地，一致地，共同地",
-      "forms": [],
-      "phonetic": "[ˌjuːnɪˈvɜːsəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "全体地，一致地，共同地；到处"
-        }
-      ]
+      "ctx": "全体地，一致地，共同地"
     },
     {
       "word": "dismissal",
-      "lemma": "dismissal",
-      "kind": "word",
       "type": "core",
-      "ctx": "解雇，开除",
-      "forms": [],
-      "phonetic": "[dɪsˈmɪsl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "解雇，开除；不予理会"
-        }
-      ]
+      "ctx": "解雇，开除"
     },
     {
       "word": "unavoidable",
-      "lemma": "unavoidable",
-      "kind": "word",
       "type": "core",
-      "ctx": "不可避免的",
-      "forms": [],
-      "phonetic": "[ˌʌnəˈvɔɪdəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "不可避免的"
-        }
-      ]
+      "ctx": "不可避免的"
     }
   ]
 }

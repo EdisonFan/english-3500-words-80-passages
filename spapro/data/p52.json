@@ -29,1296 +29,273 @@
   "vocab": [
     {
       "word": "recent",
-      "lemma": "recent",
-      "kind": "word",
       "type": "core",
-      "ctx": "新近的，近来的",
-      "forms": [],
-      "phonetic": "[ˈriːsnt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "新近的，近来的"
-        }
-      ]
+      "ctx": "新近的，近来的"
     },
     {
       "word": "diverse",
-      "lemma": "diverse",
-      "kind": "word",
       "type": "outline",
-      "ctx": "不同的，多种多样的",
-      "forms": [],
-      "phonetic": "[daɪˈvɜːs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "不同的，多种多样的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "diverse flowers多种多样的花"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "不同的，多种多样的"
     },
     {
       "word": "industrialize",
-      "lemma": "industrialize",
-      "kind": "word",
       "type": "core",
-      "ctx": "（使）工业化",
-      "forms": [
-        {
-          "surface": "industrializes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "industrialized",
-          "tag": "past"
-        },
-        {
-          "surface": "industrialized",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "industrializing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪnˈdʌstriəlaɪz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）工业化"
-        }
-      ]
+      "ctx": "（使）工业化"
     },
     {
       "word": "society",
-      "lemma": "society",
-      "kind": "word",
       "type": "outline",
-      "ctx": "社会",
-      "forms": [
-        {
-          "surface": "societies",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[səˈsaɪəti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "社会；社团，协会"
-        }
-      ]
+      "ctx": "社会"
     },
     {
       "word": "fever",
-      "lemma": "fever",
-      "kind": "word",
       "type": "outline",
-      "ctx": "发热，发烧",
-      "forms": [],
-      "phonetic": "[ˈfiːvə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "发热，发烧；狂热"
-        }
-      ]
+      "ctx": "发热，发烧"
     },
     {
       "word": "capital",
-      "lemma": "capital",
-      "kind": "word",
       "type": "outline",
-      "ctx": "资金，资本",
-      "forms": [],
-      "phonetic": "[ˈkæpɪtl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "资金，资本；首都；大写字母"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "大写的"
-        }
-      ]
+      "ctx": "资金，资本"
     },
     {
       "word": "private",
-      "lemma": "private",
-      "kind": "word",
       "type": "outline",
-      "ctx": "私有的",
-      "forms": [],
-      "phonetic": "[ˈpraɪvət]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "私有的；私人的；私下的；私营的"
-        }
-      ]
+      "ctx": "私有的"
     },
     {
       "word": "climate",
-      "lemma": "climate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "气候",
-      "forms": [],
-      "phonetic": "[ˈklaɪmət]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "气候；环境气氛"
-        }
-      ]
+      "ctx": "气候"
     },
     {
       "word": "biodiversity",
-      "lemma": "biodiversity",
-      "kind": "word",
       "type": "core",
-      "ctx": "生物多样性",
-      "forms": [],
-      "phonetic": "[ˌbaɪəʊdaɪˈvɜːsəti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "生物多样性"
-        }
-      ]
+      "ctx": "生物多样性"
     },
     {
       "word": "historian",
-      "lemma": "historian",
-      "kind": "word",
       "type": "core",
-      "ctx": "历史学家",
-      "forms": [],
-      "phonetic": "[hɪˈstɔːriən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "历史学家"
-        }
-      ]
+      "ctx": "历史学家"
     },
     {
       "word": "period",
-      "lemma": "period",
-      "kind": "word",
       "type": "outline",
-      "ctx": "时期，时代",
-      "forms": [],
-      "phonetic": "[ˈpɪəriəd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "时期，时代"
-        }
-      ]
+      "ctx": "时期，时代"
     },
     {
       "word": "exist",
-      "lemma": "exist",
-      "kind": "word",
       "type": "outline",
-      "ctx": "存在",
-      "forms": [
-        {
-          "surface": "exists",
-          "tag": "third_person"
-        },
-        {
-          "surface": "existed",
-          "tag": "past"
-        },
-        {
-          "surface": "existed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "existing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪɡˈzɪst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "存在；生存"
-        }
-      ]
+      "ctx": "存在"
     },
     {
       "word": "cruelty",
-      "lemma": "cruelty",
-      "kind": "word",
       "type": "core",
-      "ctx": "残忍，残酷",
-      "forms": [],
-      "phonetic": "[ˈkruːəlti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "残忍，残酷"
-        }
-      ]
+      "ctx": "残忍，残酷"
     },
     {
       "word": "unending",
-      "lemma": "unending",
-      "kind": "word",
       "type": "core",
-      "ctx": "无尽的，源源不断的",
-      "forms": [],
-      "phonetic": "[ʌnˈendɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "无尽的，源源不断的"
-        }
-      ]
+      "ctx": "无尽的，源源不断的"
     },
     {
       "word": "attraction",
-      "lemma": "attraction",
-      "kind": "word",
       "type": "core",
-      "ctx": "[U]吸引",
-      "forms": [
-        {
-          "surface": "attractions",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[əˈtrækʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]吸引；[U]吸引力；[C]有吸引力的事（或地方），游览胜地"
-        }
-      ]
+      "ctx": "[U]吸引"
     },
     {
       "word": "expense",
-      "lemma": "expense",
-      "kind": "word",
       "type": "outline",
-      "ctx": "费用，支出",
-      "forms": [],
-      "phonetic": "[ɪkˈspens]",
-      "memory": [
-        "词根记忆：ex（出）+pens（花费）+e →费用，支出"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "费用，支出",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "at the expense of在牺牲（或损害）……的情况下at sb's expense由某人付钱，由某人负担费用"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "费用，支出"
     },
     {
       "word": "self",
-      "lemma": "self",
-      "kind": "word",
       "type": "core",
-      "ctx": "（自己的）通常的行为方式",
-      "forms": [],
-      "phonetic": "[self]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（自己的）通常的行为方式；个性，自我；自己"
-        }
-      ]
+      "ctx": "（自己的）通常的行为方式"
     },
     {
       "word": "tissue",
-      "lemma": "tissue",
-      "kind": "word",
       "type": "outline",
-      "ctx": "薄的纱织品",
-      "forms": [
-        {
-          "surface": "tissues",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈtɪʃuː; ˈtɪsjuː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "薄的纱织品；（动、植物的）组织；纸巾",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "facial tissue面巾纸"
-              ]
-            },
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "handkerchief*（ n. 手帕；纸巾）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "薄的纱织品"
     },
     {
       "word": "surface",
-      "lemma": "surface",
-      "kind": "word",
       "type": "outline",
-      "ctx": "浮出水面",
-      "forms": [
-        {
-          "surface": "surfaces",
-          "tag": "plural"
-        },
-        {
-          "surface": "surfaces",
-          "tag": "third_person"
-        },
-        {
-          "surface": "surfaced",
-          "tag": "past"
-        },
-        {
-          "surface": "surfaced",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "surfacing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈsɜːfɪs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "浮出水面；显露"
-        },
-        {
-          "pos": "n.",
-          "meaning": "表面"
-        }
-      ]
+      "ctx": "浮出水面"
     },
     {
       "word": "short-sighted",
-      "lemma": "short-sighted",
-      "kind": "word",
       "type": "core",
-      "ctx": "目光短浅的",
-      "forms": [],
-      "phonetic": "[ˌʃɔːt ˈsaɪtɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "目光短浅的；近视的"
-        }
-      ]
+      "ctx": "目光短浅的"
     },
     {
       "word": "tomorrow",
-      "lemma": "tomorrow",
-      "kind": "word",
       "type": "outline",
-      "ctx": "在明天",
-      "forms": [],
-      "phonetic": "[təˈmɒrəʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "在明天"
-        },
-        {
-          "pos": "n.",
-          "meaning": "明天；未来，来日"
-        }
-      ]
+      "ctx": "在明天"
     },
     {
       "word": "premier",
-      "lemma": "premier",
-      "kind": "word",
       "type": "outline",
-      "ctx": "总理，首相",
-      "forms": [],
-      "phonetic": "[ˈpremiə(r)]",
-      "memory": [
-        "词根记忆：prem（第一，首要）+ier（表人）→首相，总理"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "总理，首相",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "vice premier副总理"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "adj.",
-          "meaning": "首要的，最好的"
-        }
-      ]
+      "ctx": "总理，首相"
     },
     {
       "word": "quarter",
-      "lemma": "quarter",
-      "kind": "word",
       "type": "outline",
-      "ctx": "四分之一",
-      "forms": [],
-      "phonetic": "[ˈkwɔːtə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "四分之一；季，季度；一刻钟"
-        }
-      ]
+      "ctx": "四分之一"
     },
     {
       "word": "profit",
-      "lemma": "profit",
-      "kind": "word",
       "type": "outline",
-      "ctx": "利润",
-      "forms": [
-        {
-          "surface": "profits",
-          "tag": "plural"
-        },
-        {
-          "surface": "profits",
-          "tag": "third_person"
-        },
-        {
-          "surface": "profited",
-          "tag": "past"
-        },
-        {
-          "surface": "profited",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "profiting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈprɒfɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "利润；益处"
-        },
-        {
-          "pos": "v.",
-          "meaning": "获益，得到好处"
-        }
-      ]
+      "ctx": "利润"
     },
     {
       "word": "September",
-      "lemma": "September",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "九月",
-      "forms": [],
-      "phonetic": "[sepˈtembə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "九月"
-        }
-      ]
+      "ctx": "九月"
     },
     {
       "word": "housing",
-      "lemma": "housing",
-      "kind": "word",
       "type": "outline",
-      "ctx": "住房，住宅",
-      "forms": [],
-      "phonetic": "[ˈhaʊzɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "住房，住宅"
-        }
-      ]
+      "ctx": "住房，住宅"
     },
     {
       "word": "port",
-      "lemma": "port",
-      "kind": "word",
       "type": "outline",
-      "ctx": "港口，码头",
-      "forms": [
-        {
-          "surface": "ports",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[pɔːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "港口，码头"
-        }
-      ]
+      "ctx": "港口，码头"
     },
     {
       "word": "biased",
-      "lemma": "biased",
-      "kind": "word",
       "type": "core",
-      "ctx": "有偏见的",
-      "forms": [],
-      "phonetic": "[ˈbaɪəst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "有偏见的"
-        }
-      ]
+      "ctx": "有偏见的"
     },
     {
       "word": "blame",
-      "lemma": "blame",
-      "kind": "word",
       "type": "outline",
-      "ctx": "归咎",
-      "forms": [
-        {
-          "surface": "blames",
-          "tag": "third_person"
-        },
-        {
-          "surface": "blamed",
-          "tag": "past"
-        },
-        {
-          "surface": "blamed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "blaming",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[bleɪm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "/",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "be to blame (for sth.)（对坏事）负有责任"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "责备，责怪"
-        }
-      ]
+      "ctx": "归咎"
     },
     {
       "word": "fair",
-      "lemma": "fair",
-      "kind": "word",
       "type": "outline",
-      "ctx": "恰当的，合理的",
-      "forms": [],
-      "phonetic": "[feə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "恰当的，合理的；公平的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "集市；展览会"
-        }
-      ]
+      "ctx": "恰当的，合理的"
     },
     {
       "word": "psychological",
-      "lemma": "psychological",
-      "kind": "word",
       "type": "core",
-      "ctx": "心理的，心理学的",
-      "forms": [],
-      "phonetic": "[ˌsaɪkəˈlɒdʒɪkl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "心理的，心理学的"
-        }
-      ]
+      "ctx": "心理的，心理学的"
     },
     {
       "word": "hesitancy",
-      "lemma": "hesitancy",
-      "kind": "word",
       "type": "core",
-      "ctx": "犹豫，踌躇",
-      "forms": [],
-      "phonetic": "[ˈhezɪtənsi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "犹豫，踌躇"
-        }
-      ]
+      "ctx": "犹豫，踌躇"
     },
     {
       "word": "delay",
-      "lemma": "delay",
-      "kind": "word",
       "type": "outline",
-      "ctx": "延迟（或耽搁、拖延）的时间",
-      "forms": [
-        {
-          "surface": "delays",
-          "tag": "plural"
-        },
-        {
-          "surface": "delays",
-          "tag": "third_person"
-        },
-        {
-          "surface": "delayed",
-          "tag": "past"
-        },
-        {
-          "surface": "delayed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "delaying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɪˈleɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "延迟（或耽搁、拖延）的时间；延误，耽搁",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "without delay立即delay doing sth.推迟做某事"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "v.",
-          "meaning": "推迟；拖延；耽搁"
-        }
-      ]
+      "ctx": "延迟（或耽搁、拖延）的时间"
     },
     {
       "word": "discount",
-      "lemma": "discount",
-      "kind": "word",
       "type": "outline",
-      "ctx": "折扣，打折",
-      "forms": [],
-      "phonetic": "[ˈdɪskaʊnt]",
-      "memory": [
-        "词根记忆：dis（不）+count（计算）→不按原价计算→折扣"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "折扣，打折"
-        }
-      ]
+      "ctx": "折扣，打折"
     },
     {
       "word": "mention",
-      "lemma": "mention",
-      "kind": "word",
       "type": "outline",
-      "ctx": "提到，说起",
-      "forms": [
-        {
-          "surface": "mentions",
-          "tag": "third_person"
-        },
-        {
-          "surface": "mentioned",
-          "tag": "past"
-        },
-        {
-          "surface": "mentioned",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "mentioning",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈmenʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "提到，说起"
-        },
-        {
-          "pos": "n.",
-          "meaning": "提及"
-        }
-      ]
+      "ctx": "提到，说起"
     },
     {
       "word": "accessible",
-      "lemma": "accessible",
-      "kind": "word",
       "type": "core",
-      "ctx": "可使用的",
-      "forms": [],
-      "phonetic": "[əkˈsesəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "可使用的；可进入的；易相处的"
-        }
-      ]
+      "ctx": "可使用的"
     },
     {
       "word": "winter",
-      "lemma": "winter",
-      "kind": "word",
       "type": "outline",
-      "ctx": "冬天，冬季",
-      "forms": [],
-      "phonetic": "[ˈwɪntə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "冬天，冬季"
-        }
-      ]
+      "ctx": "冬天，冬季"
     },
     {
       "word": "worry",
-      "lemma": "worry",
-      "kind": "word",
       "type": "outline",
-      "ctx": "担心",
-      "forms": [
-        {
-          "surface": "worries",
-          "tag": "plural"
-        },
-        {
-          "surface": "worries",
-          "tag": "third_person"
-        },
-        {
-          "surface": "worried",
-          "tag": "past"
-        },
-        {
-          "surface": "worried",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "worrying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈwʌri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "/"
-        },
-        {
-          "pos": "n.",
-          "meaning": "担心，发愁"
-        }
-      ]
+      "ctx": "担心"
     },
     {
       "word": "warming",
-      "lemma": "warming",
-      "kind": "word",
       "type": "core",
-      "ctx": "加温，温暖，变暖",
-      "forms": [],
-      "phonetic": "[ˈwɔːmɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "加温，温暖，变暖",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "global warming全球变暖"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "加温，温暖，变暖"
     },
     {
       "word": "arguably",
-      "lemma": "arguably",
-      "kind": "word",
       "type": "core",
-      "ctx": "可论证地，按理",
-      "forms": [],
-      "phonetic": "[ˈɑːɡjuəbli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "可论证地，按理"
-        }
-      ]
+      "ctx": "可论证地，按理"
     },
     {
       "word": "pop",
-      "lemma": "pop",
-      "kind": "word",
       "type": "core",
-      "ctx": "（使）发砰砰声",
-      "forms": [
-        {
-          "surface": "pops",
-          "tag": "third_person"
-        },
-        {
-          "surface": "popped",
-          "tag": "past"
-        },
-        {
-          "surface": "popped",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "popping",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[pɒp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）发砰砰声；（使）爆裂"
-        },
-        {
-          "pos": "n.",
-          "meaning": "（=pop music）流行音乐；汽水；砰的一声"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "流行音乐的，通俗风格的"
-        }
-      ]
+      "ctx": "（使）发砰砰声"
     },
     {
       "word": "hit",
-      "lemma": "hit",
-      "kind": "word",
       "type": "outline",
-      "ctx": "打，击",
-      "forms": [
-        {
-          "surface": "hits",
-          "tag": "plural"
-        },
-        {
-          "surface": "hits",
-          "tag": "third_person"
-        },
-        {
-          "surface": "hit",
-          "tag": "past"
-        },
-        {
-          "surface": "hit",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "hitting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[hɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "打，击；击中；很受欢迎的人（或事物）；风行一时的流行歌曲（或唱片）"
-        },
-        {
-          "pos": "v.",
-          "meaning": "（hit, hit, hitting）打，击；碰撞"
-        }
-      ]
+      "ctx": "打，击"
     },
     {
       "word": "twin",
-      "lemma": "twin",
-      "kind": "word",
       "type": "outline",
-      "ctx": "双胞胎之一",
-      "forms": [],
-      "phonetic": "[twɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "双胞胎之一；一对相像的事物之一"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "双胞胎之一的；成双的；两个同时发生的，双重的"
-        }
-      ]
+      "ctx": "双胞胎之一"
     },
     {
       "word": "gradual",
-      "lemma": "gradual",
-      "kind": "word",
       "type": "core",
-      "ctx": "逐渐的，渐进的",
-      "forms": [],
-      "phonetic": "[ˈɡrædʒuəl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "逐渐的，渐进的"
-        }
-      ]
+      "ctx": "逐渐的，渐进的"
     },
     {
       "word": "weaken",
-      "lemma": "weaken",
-      "kind": "word",
       "type": "core",
-      "ctx": "（使）虚弱",
-      "forms": [
-        {
-          "surface": "weakens",
-          "tag": "third_person"
-        },
-        {
-          "surface": "weakened",
-          "tag": "past"
-        },
-        {
-          "surface": "weakened",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "weakening",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈwiːkən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）虚弱；动摇，减弱"
-        }
-      ]
+      "ctx": "（使）虚弱"
     },
     {
       "word": "humanity",
-      "lemma": "humanity",
-      "kind": "word",
       "type": "core",
-      "ctx": "[U]人类",
-      "forms": [],
-      "phonetic": "[hjuːˈmænəti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]人类；[U]仁慈；[pl.]人文学科"
-        }
-      ]
+      "ctx": "[U]人类"
     },
     {
       "word": "ship",
-      "lemma": "ship",
-      "kind": "word",
       "type": "outline",
-      "ctx": "船，舰",
-      "forms": [
-        {
-          "surface": "ships",
-          "tag": "plural"
-        },
-        {
-          "surface": "ships",
-          "tag": "third_person"
-        },
-        {
-          "surface": "shipped",
-          "tag": "past"
-        },
-        {
-          "surface": "shipped",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "shipping",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ʃɪp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "船，舰；宇宙飞船"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "船运，运送"
-        }
-      ]
+      "ctx": "船，舰"
     },
     {
       "word": "invent",
-      "lemma": "invent",
-      "kind": "word",
       "type": "outline",
-      "ctx": "发明，创造",
-      "forms": [
-        {
-          "surface": "invents",
-          "tag": "third_person"
-        },
-        {
-          "surface": "invented",
-          "tag": "past"
-        },
-        {
-          "surface": "invented",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "inventing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪnˈvent]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "发明，创造"
-        }
-      ]
+      "ctx": "发明，创造"
     },
     {
       "word": "transformation",
-      "lemma": "transformation",
-      "kind": "word",
       "type": "core",
-      "ctx": "（彻底的）变化，改革",
-      "forms": [
-        {
-          "surface": "transformations",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˌtrænsfəˈmeɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（彻底的）变化，改革"
-        }
-      ]
+      "ctx": "（彻底的）变化，改革"
     },
     {
       "word": "collective",
-      "lemma": "collective",
-      "kind": "word",
       "type": "core",
-      "ctx": "集体的",
-      "forms": [],
-      "phonetic": "[kəˈlektɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "集体的；总体的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "集体企业"
-        }
-      ]
+      "ctx": "集体的"
     },
     {
       "word": "poor",
-      "lemma": "poor",
-      "kind": "word",
       "type": "outline",
-      "ctx": "贫穷的",
-      "forms": [],
-      "phonetic": "[pɔː(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "贫穷的；可怜的；差的"
-        }
-      ]
+      "ctx": "贫穷的"
     },
     {
       "word": "affair",
-      "lemma": "affair",
-      "kind": "word",
       "type": "outline",
-      "ctx": "事，事情",
-      "forms": [
-        {
-          "surface": "affairs",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[əˈfeə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "事，事情"
-        }
-      ]
+      "ctx": "事，事情"
     },
     {
       "word": "windscreen",
-      "lemma": "windscreen",
-      "kind": "word",
       "type": "core",
-      "ctx": "挡风玻璃，风挡",
-      "forms": [
-        {
-          "surface": "windscreens",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈwɪndskriːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "挡风玻璃，风挡"
-        }
-      ]
+      "ctx": "挡风玻璃，风挡"
     },
     {
       "word": "population",
-      "lemma": "population",
-      "kind": "word",
       "type": "outline",
-      "ctx": "人口",
-      "forms": [],
-      "phonetic": "[pɒpjuˈleɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "人口；（统称）某领域的生物，族群",
-          "extras": [
-            {
-              "type": "col",
-              "label": "用",
-              "items": [
-                "population作主语时，谓语动词通常用单数。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "人口"
     }
   ]
 }

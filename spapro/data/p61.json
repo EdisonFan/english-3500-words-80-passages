@@ -44,1094 +44,238 @@
   "vocab": [
     {
       "word": "indoor",
-      "lemma": "indoor",
-      "kind": "word",
       "type": "core",
-      "ctx": "室内的",
-      "forms": [],
-      "phonetic": "[ˈɪndɔː(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "室内的"
-        }
-      ]
+      "ctx": "室内的"
     },
     {
       "word": "unsung",
-      "lemma": "unsung",
-      "kind": "word",
       "type": "core",
-      "ctx": "被埋没的，未被颂扬的",
-      "forms": [],
-      "phonetic": "[ˌʌnˈsʌŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "被埋没的，未被颂扬的"
-        }
-      ]
+      "ctx": "被埋没的，未被颂扬的"
     },
     {
       "word": "hero",
-      "lemma": "hero",
-      "kind": "word",
       "type": "outline",
-      "ctx": "英雄",
-      "forms": [
-        {
-          "surface": "heroes",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈhɪərəʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "英雄；男主角；偶像"
-        }
-      ]
+      "ctx": "英雄"
     },
     {
       "word": "expensive",
-      "lemma": "expensive",
-      "kind": "word",
       "type": "outline",
-      "ctx": "昂贵的",
-      "forms": [],
-      "phonetic": "[ɪkˈspensɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "昂贵的"
-        }
-      ]
+      "ctx": "昂贵的"
     },
     {
       "word": "houseplant",
-      "lemma": "houseplant",
-      "kind": "word",
       "type": "core",
-      "ctx": "室内盆栽植物",
-      "forms": [
-        {
-          "surface": "houseplants",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈhaʊsplɑːnt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "室内盆栽植物"
-        }
-      ]
+      "ctx": "室内盆栽植物"
     },
     {
       "word": "pot",
-      "lemma": "pot",
-      "kind": "word",
       "type": "outline",
-      "ctx": "锅",
-      "forms": [],
-      "phonetic": "[pɒt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "锅；罐；陶盆，陶罐"
-        }
-      ]
+      "ctx": "锅"
     },
     {
       "word": "criterion",
-      "lemma": "criterion",
-      "kind": "word",
       "type": "outline",
-      "ctx": "标准；准则",
-      "forms": [
-        {
-          "surface": "criteria",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[kraɪˈtɪəriən]",
-      "memory": [
-        "词根记忆：crit（判断）+er+ion（表名词）→判断的依据→标准，准则"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（pl.criteria）标准，准则"
-        }
-      ]
+      "ctx": "标准；准则"
     },
     {
       "word": "ideally",
-      "lemma": "ideally",
-      "kind": "word",
       "type": "core",
-      "ctx": "理想地，完美地",
-      "forms": [],
-      "phonetic": "[aɪˈdiːəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "理想地，完美地"
-        }
-      ]
+      "ctx": "理想地，完美地"
     },
     {
       "word": "contrary",
-      "lemma": "contrary",
-      "kind": "word",
       "type": "outline",
-      "ctx": "相反的事实（或事情、情况）",
-      "forms": [],
-      "phonetic": "[ˈkɒntrəri]",
-      "memory": [
-        "词根记忆：contra（相反）+ry（表性质）→相反的"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "相反的事实（或事情、情况）",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "on the contrary与此相反，恰恰相反"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "adj.",
-          "meaning": "相反的"
-        }
-      ]
+      "ctx": "相反的事实（或事情、情况）"
     },
     {
       "word": "royal",
-      "lemma": "royal",
-      "kind": "word",
       "type": "outline",
-      "ctx": "王室的，皇家的",
-      "forms": [],
-      "phonetic": "[ˈrɔɪəl]",
-      "memory": [
-        "联想记忆：表达对皇家的（royal）忠诚（loyal）"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "王室的，皇家的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "the royal family王室，皇族"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "王室的，皇家的"
     },
     {
       "word": "botanic",
-      "lemma": "botanic",
-      "kind": "word",
       "type": "core",
-      "ctx": "（=botanical）植物学的",
-      "forms": [],
-      "phonetic": "[bəˈtænɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "（=botanical）植物学的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "botanic garden植物园"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "（=botanical）植物学的"
     },
     {
       "word": "pretty",
-      "lemma": "pretty",
-      "kind": "word",
       "type": "outline",
-      "ctx": "漂亮的",
-      "forms": [],
-      "phonetic": "[ˈprɪti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "漂亮的；美观的"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "相当；很，非常"
-        }
-      ]
+      "ctx": "漂亮的"
     },
     {
       "word": "plain",
-      "lemma": "plain",
-      "kind": "word",
       "type": "outline",
-      "ctx": "明显的",
-      "forms": [],
-      "phonetic": "[pleɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "明显的；直率的；朴素的；平凡的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "plain food清淡食物"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "平原"
-        }
-      ]
+      "ctx": "明显的"
     },
     {
       "word": "splendid",
-      "lemma": "splendid",
-      "kind": "word",
       "type": "outline",
-      "ctx": "壮丽的，雄伟的",
-      "forms": [],
-      "phonetic": "[ˈsplendɪd]",
-      "memory": [
-        "发音记忆：“撕不烂的”→品质好的→非常好的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "壮丽的，雄伟的；非常好的"
-        }
-      ]
+      "ctx": "壮丽的，雄伟的"
     },
     {
       "word": "temporary",
-      "lemma": "temporary",
-      "kind": "word",
       "type": "outline",
-      "ctx": "暂时的，临时的",
-      "forms": [],
-      "phonetic": "[ˈtemprəri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "暂时的，临时的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "temporary workers临时工"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "暂时的，临时的"
     },
     {
       "word": "escape",
-      "lemma": "escape",
-      "kind": "word",
       "type": "outline",
-      "ctx": "逃跑，逃脱",
-      "forms": [
-        {
-          "surface": "escapes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "escaped",
-          "tag": "past"
-        },
-        {
-          "surface": "escaped",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "escaping",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪˈskeɪp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "逃跑，逃脱；解脱"
-        },
-        {
-          "pos": "v.",
-          "meaning": "逃跑；逃脱；避开"
-        }
-      ]
+      "ctx": "逃跑，逃脱"
     },
     {
       "word": "carbon",
-      "lemma": "carbon",
-      "kind": "word",
       "type": "outline",
-      "ctx": "碳",
-      "forms": [],
-      "phonetic": "[ˈkɑːbən]",
-      "memory": [
-        "联想记忆：car（汽车）+bon（看作born，产生）→汽车产生的废气→二氧化碳→碳"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "碳",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "carbon atoms碳原子"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "碳"
     },
     {
       "word": "dioxide",
-      "lemma": "dioxide",
-      "kind": "word",
       "type": "core",
-      "ctx": "二氧化物",
-      "forms": [],
-      "phonetic": "[daɪˈɒksaɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "二氧化物",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "carbon dioxide二氧化碳"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "二氧化物"
     },
     {
       "word": "barrier",
-      "lemma": "barrier",
-      "kind": "word",
       "type": "outline",
-      "ctx": "栅栏",
-      "forms": [],
-      "phonetic": "[ˈbæriə(r)]",
-      "memory": [
-        "词根记忆：barr（栏；障碍）+ier→栅栏；障碍（物）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "栅栏；屏障；障碍，隔阂",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "social barrier社交障碍"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "栅栏"
     },
     {
       "word": "external",
-      "lemma": "external",
-      "kind": "word",
       "type": "outline",
-      "ctx": "外部的，外面的",
-      "forms": [],
-      "phonetic": "[ɪkˈstɜːnl]",
-      "memory": [
-        "联想记忆：ex（出）+tern（看作term，界限）+al→出了界限→外部的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "外部的，外面的；外来的"
-        }
-      ]
+      "ctx": "外部的，外面的"
     },
     {
       "word": "noise",
-      "lemma": "noise",
-      "kind": "word",
       "type": "outline",
-      "ctx": "声音",
-      "forms": [
-        {
-          "surface": "noises",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[nɔɪz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "声音；噪音"
-        }
-      ]
+      "ctx": "声音"
     },
     {
       "word": "lily",
-      "lemma": "lily",
-      "kind": "word",
       "type": "core",
-      "ctx": "百合花",
-      "forms": [
-        {
-          "surface": "lilies",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈlɪli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "百合花"
-        }
-      ]
+      "ctx": "百合花"
     },
     {
       "word": "tongue",
-      "lemma": "tongue",
-      "kind": "word",
       "type": "core",
-      "ctx": "舌，舌头",
-      "forms": [],
-      "phonetic": "[tʌŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "舌，舌头"
-        }
-      ]
+      "ctx": "舌，舌头"
     },
     {
       "word": "snake",
-      "lemma": "snake",
-      "kind": "word",
       "type": "outline",
-      "ctx": "蛇",
-      "forms": [],
-      "phonetic": "[sneɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "蛇"
-        }
-      ]
+      "ctx": "蛇"
     },
     {
       "word": "spider",
-      "lemma": "spider",
-      "kind": "word",
       "type": "core",
-      "ctx": "蜘蛛",
-      "forms": [],
-      "phonetic": "[ˈspaɪdə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "蜘蛛"
-        }
-      ]
+      "ctx": "蜘蛛"
     },
     {
       "word": "outstanding",
-      "lemma": "outstanding",
-      "kind": "word",
       "type": "outline",
-      "ctx": "优秀的，杰出的",
-      "forms": [],
-      "phonetic": "[aʊtˈstændɪŋ]",
-      "memory": [
-        "联想记忆：out（超出）+stand（站）+ing→站出来的→鹤立鸡群的→突出的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "优秀的，杰出的；突出的，重要的"
-        }
-      ]
+      "ctx": "优秀的，杰出的"
     },
     {
       "word": "indoors",
-      "lemma": "indoors",
-      "kind": "word",
       "type": "core",
-      "ctx": "在室内",
-      "forms": [],
-      "phonetic": "[ˌɪnˈdɔːz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "在室内"
-        }
-      ]
+      "ctx": "在室内"
     },
     {
       "word": "hesitate",
-      "lemma": "hesitate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "犹豫，迟疑",
-      "forms": [
-        {
-          "surface": "hesitates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "hesitated",
-          "tag": "past"
-        },
-        {
-          "surface": "hesitated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "hesitating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈhezɪteɪt]",
-      "memory": [
-        "词根记忆：hes（黏附）+it+ate（做）→做事拖泥带水→犹豫，踌躇"
-      ],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "犹豫，迟疑",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "hesitate to do sth.做某事犹豫不决；不愿做某事"
-              ]
-            },
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "If a student gets hungry on the long drives to and from school, Wilson never hesitates to buy them a meal.如果有学生在往返学校的漫长车程中饿了，威尔逊会毫不犹豫地给他们买一顿饭。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "犹豫，迟疑"
     },
     {
       "word": "delicate",
-      "lemma": "delicate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "精巧的",
-      "forms": [],
-      "phonetic": "[ˈdelɪkət]",
-      "memory": [
-        "联想记忆：这份精致的（delicate）点心很美味（delicious）"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "精巧的；精致的；易碎的，脆弱的"
-        }
-      ]
+      "ctx": "精巧的"
     },
     {
       "word": "smooth",
-      "lemma": "smooth",
-      "kind": "word",
       "type": "outline",
-      "ctx": "光滑的，平坦的",
-      "forms": [],
-      "phonetic": "[smuːð]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "光滑的，平坦的"
-        }
-      ]
+      "ctx": "光滑的，平坦的"
     },
     {
       "word": "acid",
-      "lemma": "acid",
-      "kind": "word",
       "type": "outline",
-      "ctx": "酸的，酸性的",
-      "forms": [],
-      "phonetic": "[ˈæsɪd]",
-      "memory": [
-        "词根记忆：ac（酸）+id（……的）→酸的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "酸的，酸性的；尖酸刻薄的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "acid rain酸雨"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "酸"
-        }
-      ]
+      "ctx": "酸的，酸性的"
     },
     {
       "word": "gel",
-      "lemma": "gel",
-      "kind": "word",
       "type": "core",
-      "ctx": "凝胶",
-      "forms": [],
-      "phonetic": "[dʒel]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "凝胶"
-        }
-      ]
+      "ctx": "凝胶"
     },
     {
       "word": "damp",
-      "lemma": "damp",
-      "kind": "word",
       "type": "outline",
-      "ctx": "潮湿的",
-      "forms": [],
-      "phonetic": "[dæmp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "潮湿的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "潮湿"
-        }
-      ]
+      "ctx": "潮湿的"
     },
     {
       "word": "tight",
-      "lemma": "tight",
-      "kind": "word",
       "type": "outline",
-      "ctx": "紧的",
-      "forms": [],
-      "phonetic": "[taɪt]",
-      "memory": [
-        "联想记忆：关得太紧（tight）了，连光（light）都透不进来"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "紧的；拉紧的；不宽裕的"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "紧紧地，牢固地"
-        }
-      ]
+      "ctx": "紧的"
     },
     {
       "word": "apartment",
-      "lemma": "apartment",
-      "kind": "word",
       "type": "outline",
-      "ctx": "公寓",
-      "forms": [],
-      "phonetic": "[əˈpɑːtmənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "公寓"
-        }
-      ]
+      "ctx": "公寓"
     },
     {
       "word": "hardly",
-      "lemma": "hardly",
-      "kind": "word",
       "type": "outline",
-      "ctx": "几乎不",
-      "forms": [],
-      "phonetic": "[ˈhɑːdli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "几乎不"
-        }
-      ]
+      "ctx": "几乎不"
     },
     {
       "word": "sour",
-      "lemma": "sour",
-      "kind": "word",
       "type": "outline",
-      "ctx": "酸的",
-      "forms": [],
-      "phonetic": "[ˈsaʊə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "酸的"
-        }
-      ]
+      "ctx": "酸的"
     },
     {
       "word": "minor",
-      "lemma": "minor",
-      "kind": "word",
       "type": "outline",
-      "ctx": "较小的",
-      "forms": [
-        {
-          "surface": "minors",
-          "tag": "third_person"
-        },
-        {
-          "surface": "minored",
-          "tag": "past"
-        },
-        {
-          "surface": "minored",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "minoring",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈmaɪnə(r)]",
-      "memory": [
-        "词根记忆：min（小）+or（表人或物）→未成年人"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "较小的；次要的",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "You don't need to apologize for a minor slip.你不需要为一个小失误而道歉。"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "未成年人；辅修科目"
-        },
-        {
-          "pos": "vi.",
-          "meaning": "辅修"
-        }
-      ]
+      "ctx": "较小的"
     },
     {
       "word": "vivid",
-      "lemma": "vivid",
-      "kind": "word",
       "type": "outline",
-      "ctx": "生动的，鲜明的",
-      "forms": [],
-      "phonetic": "[ˈvɪvɪd]",
-      "memory": [
-        "词根记忆：viv（生命）+id（……的）→有生命的→生动的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "生动的，鲜明的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a vivid description栩栩如生的描绘"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "生动的，鲜明的"
     },
     {
       "word": "supermarket",
-      "lemma": "supermarket",
-      "kind": "word",
       "type": "outline",
-      "ctx": "超市",
-      "forms": [],
-      "phonetic": "[ˈsuːpəmɑːkɪt; ˈsjuː-]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "超市"
-        }
-      ]
+      "ctx": "超市"
     },
     {
       "word": "cheap",
-      "lemma": "cheap",
-      "kind": "word",
       "type": "outline",
-      "ctx": "便宜的，廉价的",
-      "forms": [],
-      "phonetic": "[tʃiːp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "便宜的，廉价的"
-        }
-      ]
+      "ctx": "便宜的，廉价的"
     },
     {
       "word": "grown",
-      "lemma": "grown",
-      "kind": "word",
       "type": "core",
-      "ctx": "成熟的，成年的，长大的",
-      "forms": [],
-      "phonetic": "[ɡrəʊn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "成熟的，成年的，长大的"
-        }
-      ]
+      "ctx": "成熟的，成年的，长大的"
     },
     {
       "word": "own",
-      "lemma": "own",
-      "kind": "word",
       "type": "outline",
-      "ctx": "拥有",
-      "forms": [
-        {
-          "surface": "owns",
-          "tag": "third_person"
-        },
-        {
-          "surface": "owned",
-          "tag": "past"
-        },
-        {
-          "surface": "owned",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "owning",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əʊn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "拥有"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "/"
-        },
-        {
-          "pos": "pron.",
-          "meaning": "自己的"
-        }
-      ]
+      "ctx": "拥有"
     },
     {
       "word": "sow",
-      "lemma": "sow",
-      "kind": "word",
       "type": "outline",
-      "ctx": "播种",
-      "forms": [
-        {
-          "surface": "sows",
-          "tag": "third_person"
-        },
-        {
-          "surface": "sowed",
-          "tag": "past"
-        },
-        {
-          "surface": "sown",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "sowing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[səʊ]",
-      "memory": [
-        "联想记忆：按排（row）播种（sow）"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "播种"
-        }
-      ]
+      "ctx": "播种"
     },
     {
       "word": "ought to",
-      "lemma": "ought to",
-      "kind": "phrase",
       "type": "outline",
-      "ctx": "应该",
-      "forms": [],
-      "phonetic": "[ˈɔːt tə;ˈɔːt tu]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "modal v.",
-          "meaning": "应该；应当"
-        }
-      ]
+      "ctx": "应该"
     },
     {
       "word": "mature",
-      "lemma": "mature",
-      "kind": "word",
       "type": "outline",
-      "ctx": "成熟的",
-      "forms": [
-        {
-          "surface": "matures",
-          "tag": "third_person"
-        },
-        {
-          "surface": "matured",
-          "tag": "past"
-        },
-        {
-          "surface": "matured",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "maturing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[məˈtʃʊə(r); məˈtjʊə(r)]",
-      "memory": [
-        "联想记忆：在自然（nature）中变得成熟（mature）"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "成熟的；发育完全的"
-        },
-        {
-          "pos": "vi.",
-          "meaning": "成熟，长成"
-        }
-      ]
+      "ctx": "成熟的"
     },
     {
       "word": "starve",
-      "lemma": "starve",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（使）挨饿，饿死",
-      "forms": [
-        {
-          "surface": "starves",
-          "tag": "third_person"
-        },
-        {
-          "surface": "starved",
-          "tag": "past"
-        },
-        {
-          "surface": "starved",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "starving",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[stɑːv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）挨饿，饿死"
-        }
-      ]
+      "ctx": "（使）挨饿，饿死"
     }
   ]
 }

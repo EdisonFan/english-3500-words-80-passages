@@ -39,1531 +39,283 @@
   "vocab": [
     {
       "word": "bookcase",
-      "lemma": "bookcase",
-      "kind": "word",
       "type": "core",
-      "ctx": "书架",
-      "forms": [],
-      "phonetic": "[ˈbʊkkeɪs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "书架；书柜"
-        }
-      ]
+      "ctx": "书架"
     },
     {
       "word": "packed",
-      "lemma": "packed",
-      "kind": "word",
       "type": "core",
-      "ctx": "异常拥挤的",
-      "forms": [],
-      "phonetic": "[pækt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "异常拥挤的；有大量……的；收拾好行李"
-        }
-      ]
+      "ctx": "异常拥挤的"
     },
     {
       "word": "remain",
-      "lemma": "remain",
-      "kind": "word",
       "type": "outline",
-      "ctx": "仍然是",
-      "forms": [
-        {
-          "surface": "remains",
-          "tag": "third_person"
-        },
-        {
-          "surface": "remained",
-          "tag": "past"
-        },
-        {
-          "surface": "remained",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "remaining",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rɪˈmeɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "仍然是，保持不变；剩余，遗留"
-        }
-      ]
+      "ctx": "仍然是"
     },
     {
       "word": "unread",
-      "lemma": "unread",
-      "kind": "word",
       "type": "core",
-      "ctx": "未读的",
-      "forms": [],
-      "phonetic": "[ˌʌnˈred]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "未读的，未阅的"
-        }
-      ]
+      "ctx": "未读的"
     },
     {
       "word": "hear",
-      "lemma": "hear",
-      "kind": "word",
       "type": "outline",
-      "ctx": "听见",
-      "forms": [
-        {
-          "surface": "hears",
-          "tag": "third_person"
-        },
-        {
-          "surface": "heard",
-          "tag": "past"
-        },
-        {
-          "surface": "heard",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "hearing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[hɪə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "听见；听说"
-        }
-      ]
+      "ctx": "听见"
     },
     {
       "word": "loud",
-      "lemma": "loud",
-      "kind": "word",
       "type": "outline",
-      "ctx": "响亮的",
-      "forms": [],
-      "phonetic": "[laʊd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "/"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "大声的/地，喧闹的/地"
-        }
-      ]
+      "ctx": "响亮的"
     },
     {
       "word": "shame",
-      "lemma": "shame",
-      "kind": "word",
       "type": "outline",
-      "ctx": "羞愧",
-      "forms": [],
-      "phonetic": "[ʃeɪm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "羞愧，惭愧；[sing.]令人惋惜的事，让人遗憾的事",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "shame on you, him, etc.真丢脸"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "羞愧"
     },
     {
       "word": "masterpiece",
-      "lemma": "masterpiece",
-      "kind": "word",
       "type": "core",
-      "ctx": "杰作",
-      "forms": [],
-      "phonetic": "[ˈmɑːstəpiːs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "杰作"
-        }
-      ]
+      "ctx": "杰作"
     },
     {
       "word": "surprise",
-      "lemma": "surprise",
-      "kind": "word",
       "type": "outline",
-      "ctx": "惊奇",
-      "forms": [
-        {
-          "surface": "surprises",
-          "tag": "plural"
-        },
-        {
-          "surface": "surprises",
-          "tag": "third_person"
-        },
-        {
-          "surface": "surprised",
-          "tag": "past"
-        },
-        {
-          "surface": "surprised",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "surprising",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[səˈpraɪz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "惊奇，惊讶；令人惊奇的事物",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "to one's surprise令某人惊讶的是"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "使惊奇"
-        }
-      ]
+      "ctx": "惊奇"
     },
     {
       "word": "fade",
-      "lemma": "fade",
-      "kind": "word",
       "type": "core",
-      "ctx": "褪色",
-      "forms": [
-        {
-          "surface": "fades",
-          "tag": "third_person"
-        },
-        {
-          "surface": "faded",
-          "tag": "past"
-        },
-        {
-          "surface": "faded",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "fading",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[feɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）褪色；衰退，衰落；逐渐消逝"
-        }
-      ]
+      "ctx": "褪色"
     },
     {
       "word": "handwriting",
-      "lemma": "handwriting",
-      "kind": "word",
       "type": "outline",
-      "ctx": "书法",
-      "forms": [],
-      "phonetic": "[ˈhændraɪtɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "书法，笔迹；书写"
-        }
-      ]
+      "ctx": "书法"
     },
     {
       "word": "entirely",
-      "lemma": "entirely",
-      "kind": "word",
       "type": "outline",
-      "ctx": "完全地",
-      "forms": [],
-      "phonetic": "[ɪnˈtaɪəli]",
-      "memory": [
-        "词根记忆：en（全部）+tir（拉）+e+ly（……地）→全部拉进去，不遗留在外→完全地"
-      ],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "完全地，彻底地"
-        }
-      ]
+      "ctx": "完全地"
     },
     {
       "word": "sentence",
-      "lemma": "sentence",
-      "kind": "word",
       "type": "outline",
-      "ctx": "句子",
-      "forms": [
-        {
-          "surface": "sentences",
-          "tag": "plural"
-        },
-        {
-          "surface": "sentences",
-          "tag": "third_person"
-        },
-        {
-          "surface": "sentenced",
-          "tag": "past"
-        },
-        {
-          "surface": "sentenced",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "sentencing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈsentəns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "句子；判决，宣判"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "宣判，判决"
-        }
-      ]
+      "ctx": "句子"
     },
     {
       "word": "underline",
-      "lemma": "underline",
-      "kind": "word",
       "type": "core",
-      "ctx": "在……下面画线",
-      "forms": [
-        {
-          "surface": "underlines",
-          "tag": "third_person"
-        },
-        {
-          "surface": "underlined",
-          "tag": "past"
-        },
-        {
-          "surface": "underlined",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "underlining",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌʌndəˈlaɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "在……下面画线；强调，使突出"
-        }
-      ]
+      "ctx": "在……下面画线"
     },
     {
       "word": "myself",
-      "lemma": "myself",
-      "kind": "word",
       "type": "outline",
-      "ctx": "我自己",
-      "forms": [],
-      "phonetic": "[maɪˈself]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "pron.",
-          "meaning": "我自己；我亲自"
-        }
-      ]
+      "ctx": "我自己"
     },
     {
       "word": "form",
-      "lemma": "form",
-      "kind": "word",
       "type": "outline",
-      "ctx": "形式",
-      "forms": [
-        {
-          "surface": "forms",
-          "tag": "plural"
-        },
-        {
-          "surface": "forms",
-          "tag": "third_person"
-        },
-        {
-          "surface": "formed",
-          "tag": "past"
-        },
-        {
-          "surface": "formed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "forming",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[fɔːm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "形式；表格；结构"
-        },
-        {
-          "pos": "v.",
-          "meaning": "（使）形成；组建"
-        }
-      ]
+      "ctx": "形式"
     },
     {
       "word": "voluntary",
-      "lemma": "voluntary",
-      "kind": "word",
       "type": "core",
-      "ctx": "自愿的",
-      "forms": [],
-      "phonetic": "[ˈvɒləntri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "自愿的"
-        }
-      ]
+      "ctx": "自愿的"
     },
     {
       "word": "willful",
-      "lemma": "willful",
-      "kind": "word",
       "type": "core",
-      "ctx": "故意的",
-      "forms": [],
-      "phonetic": "[ˈwɪlfl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "故意的；任性的"
-        }
-      ]
+      "ctx": "故意的"
     },
     {
       "word": "revisit",
-      "lemma": "revisit",
-      "kind": "word",
       "type": "core",
-      "ctx": "再访",
-      "forms": [
-        {
-          "surface": "revisits",
-          "tag": "third_person"
-        },
-        {
-          "surface": "revisited",
-          "tag": "past"
-        },
-        {
-          "surface": "revisited",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "revisiting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌriːˈvɪzɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "再访，重游；重提"
-        }
-      ]
+      "ctx": "再访"
     },
     {
       "word": "admire",
-      "lemma": "admire",
-      "kind": "word",
       "type": "outline",
-      "ctx": "钦佩",
-      "forms": [
-        {
-          "surface": "admires",
-          "tag": "third_person"
-        },
-        {
-          "surface": "admired",
-          "tag": "past"
-        },
-        {
-          "surface": "admired",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "admiring",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ədˈmaɪə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "钦佩，羡慕，欣赏"
-        }
-      ]
+      "ctx": "钦佩"
     },
     {
       "word": "unanswered",
-      "lemma": "unanswered",
-      "kind": "word",
       "type": "core",
-      "ctx": "未回答的",
-      "forms": [],
-      "phonetic": "[ʌnˈɑːnsəd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "未回答的，未解答的；未回复的"
-        }
-      ]
+      "ctx": "未回答的"
     },
     {
       "word": "confirm",
-      "lemma": "confirm",
-      "kind": "word",
       "type": "outline",
-      "ctx": "证实",
-      "forms": [
-        {
-          "surface": "confirms",
-          "tag": "third_person"
-        },
-        {
-          "surface": "confirmed",
-          "tag": "past"
-        },
-        {
-          "surface": "confirmed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "confirming",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kənˈfɜːm]",
-      "memory": [
-        "词根记忆：con（表加强）+firm（坚定）→坚定地证实→证实"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "证实，证明，确认；使确信；批准"
-        }
-      ]
+      "ctx": "证实"
     },
     {
       "word": "move",
-      "lemma": "move",
-      "kind": "word",
       "type": "outline",
-      "ctx": "行动",
-      "forms": [
-        {
-          "surface": "moves",
-          "tag": "plural"
-        },
-        {
-          "surface": "moves",
-          "tag": "third_person"
-        },
-        {
-          "surface": "moved",
-          "tag": "past"
-        },
-        {
-          "surface": "moved",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "moving",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[muːv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "行动；移动；搬家",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "move on (to sth.) 开始做（别的事）；换话题move out搬出去"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "v.",
-          "meaning": "移动；搬动；搬家"
-        }
-      ]
+      "ctx": "行动"
     },
     {
       "word": "wish",
-      "lemma": "wish",
-      "kind": "word",
       "type": "outline",
-      "ctx": "祝愿",
-      "forms": [
-        {
-          "surface": "wishes",
-          "tag": "plural"
-        },
-        {
-          "surface": "wishes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "wished",
-          "tag": "past"
-        },
-        {
-          "surface": "wished",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "wishing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[wɪʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "祝愿；希望，想要"
-        },
-        {
-          "pos": "n.",
-          "meaning": "愿望，希望；希望的事"
-        }
-      ]
+      "ctx": "祝愿"
     },
     {
       "word": "refresh",
-      "lemma": "refresh",
-      "kind": "word",
       "type": "outline",
-      "ctx": "精神振作",
-      "forms": [
-        {
-          "surface": "refreshes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "refreshed",
-          "tag": "past"
-        },
-        {
-          "surface": "refreshed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "refreshing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rɪˈfreʃ]",
-      "memory": [
-        "词根记忆：re（重新）+fresh（新鲜）→（使）更新"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）精神振作；（使）更新",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Being in nature  refreshes  us.在大自然中，我们会感到神清气爽。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "精神振作"
     },
     {
       "word": "closeness",
-      "lemma": "closeness",
-      "kind": "word",
       "type": "core",
-      "ctx": "（时间或空间上）接近",
-      "forms": [],
-      "phonetic": "[ˈkləʊsnəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（时间或空间上）接近，邻近"
-        }
-      ]
+      "ctx": "（时间或空间上）接近"
     },
     {
       "word": "old",
-      "lemma": "old",
-      "kind": "word",
       "type": "outline",
-      "ctx": "老的",
-      "forms": [],
-      "phonetic": "[əʊld]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "老的；旧的"
-        }
-      ]
+      "ctx": "老的"
     },
     {
       "word": "contrarily",
-      "lemma": "contrarily",
-      "kind": "word",
       "type": "core",
-      "ctx": "相反地",
-      "forms": [],
-      "phonetic": "[kənˈtreərɪli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "相反地"
-        }
-      ]
+      "ctx": "相反地"
     },
     {
       "word": "either",
-      "lemma": "either",
-      "kind": "word",
       "type": "outline",
-      "ctx": "要么",
-      "forms": [],
-      "phonetic": "[ˈaɪðə(r); ˈiːðə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "det.",
-          "meaning": "/",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "either...or...（对两事物的选择）要么……要么，或者……或者"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "pron.",
-          "meaning": "（两者中的）任何一个"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "（用于否定词组后）也"
-        }
-      ]
+      "ctx": "要么"
     },
     {
       "word": "totally",
-      "lemma": "totally",
-      "kind": "word",
       "type": "core",
-      "ctx": "全部地",
-      "forms": [],
-      "phonetic": "[ˈtəʊtəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "全部地，完全地"
-        }
-      ]
+      "ctx": "全部地"
     },
     {
       "word": "encounter",
-      "lemma": "encounter",
-      "kind": "word",
       "type": "outline",
-      "ctx": "相遇",
-      "forms": [
-        {
-          "surface": "encounters",
-          "tag": "plural"
-        },
-        {
-          "surface": "encounters",
-          "tag": "third_person"
-        },
-        {
-          "surface": "encountered",
-          "tag": "past"
-        },
-        {
-          "surface": "encountered",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "encountering",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪnˈkaʊntə(r)]",
-      "memory": [
-        "词根记忆：en（使……）+counter（相反）→使从两个相反的方向来→相遇"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "相遇，邂逅",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a chance encounter偶然相遇have an encounter with sth.遭遇某事"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "遭遇；偶然碰到"
-        }
-      ]
+      "ctx": "相遇"
     },
     {
       "word": "astonishment",
-      "lemma": "astonishment",
-      "kind": "word",
       "type": "core",
-      "ctx": "惊讶",
-      "forms": [],
-      "phonetic": "[əˈstɒnɪʃmənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "惊讶，惊异"
-        }
-      ]
+      "ctx": "惊讶"
     },
     {
       "word": "reaction",
-      "lemma": "reaction",
-      "kind": "word",
       "type": "outline",
-      "ctx": "反应",
-      "forms": [],
-      "phonetic": "[riˈækʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "反应；化学反应"
-        }
-      ]
+      "ctx": "反应"
     },
     {
       "word": "renewed",
-      "lemma": "renewed",
-      "kind": "word",
       "type": "core",
-      "ctx": "再次发生的",
-      "forms": [],
-      "phonetic": "[rɪˈnjuːd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "再次发生的；再次兴起的；更新的"
-        }
-      ]
+      "ctx": "再次发生的"
     },
     {
       "word": "correspond",
-      "lemma": "correspond",
-      "kind": "word",
       "type": "outline",
-      "ctx": "通信",
-      "forms": [
-        {
-          "surface": "corresponds",
-          "tag": "third_person"
-        },
-        {
-          "surface": "corresponded",
-          "tag": "past"
-        },
-        {
-          "surface": "corresponded",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "corresponding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌkɒrəˈspɒnd]",
-      "memory": [
-        "词根记忆：cor（共同）+respond（作出反应）→作出相同的反应→相一致"
-      ],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "通信；相一致，相符合；类似于，相当于"
-        }
-      ]
+      "ctx": "通信"
     },
     {
       "word": "occur",
-      "lemma": "occur",
-      "kind": "word",
       "type": "outline",
-      "ctx": "发生",
-      "forms": [
-        {
-          "surface": "occurs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "occurred",
-          "tag": "past"
-        },
-        {
-          "surface": "occurred",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "occurring",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈkɜː(r)]",
-      "memory": [
-        "词根记忆：oc（表加强）+cur（跑；发生）→发生，出现"
-      ],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "（occurred, occurred, occurring）发生，出现；存在于",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "occur to sb.某人想到"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "发生"
     },
     {
       "word": "without",
-      "lemma": "without",
-      "kind": "word",
       "type": "outline",
-      "ctx": "没有",
-      "forms": [],
-      "phonetic": "[wɪˈðaʊt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "prep.",
-          "meaning": "/"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "没有"
-        }
-      ]
+      "ctx": "没有"
     },
     {
       "word": "specific",
-      "lemma": "specific",
-      "kind": "word",
       "type": "outline",
-      "ctx": "特定的",
-      "forms": [],
-      "phonetic": "[spəˈsɪfɪk]",
-      "memory": [
-        "词根记忆：spec（种类）+ific（产生……的）→分门别类的→明确的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "特定的；明确的，具体的"
-        }
-      ]
+      "ctx": "特定的"
     },
     {
       "word": "memory",
-      "lemma": "memory",
-      "kind": "word",
       "type": "outline",
-      "ctx": "回忆",
-      "forms": [],
-      "phonetic": "[ˈmeməri]",
-      "memory": [
-        "词根记忆：memor（记忆）+y（表名词）→记忆"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "回忆，记忆",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "in memory of纪念"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "回忆"
     },
     {
       "word": "tune",
-      "lemma": "tune",
-      "kind": "word",
       "type": "outline",
-      "ctx": "曲调",
-      "forms": [],
-      "phonetic": "[tjuːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "曲调，调子"
-        }
-      ]
+      "ctx": "曲调"
     },
     {
       "word": "contact",
-      "lemma": "contact",
-      "kind": "word",
       "type": "outline",
-      "ctx": "联络",
-      "forms": [],
-      "phonetic": "[ˈkɒntækt]",
-      "memory": [
-        "词根记忆：con（表加强）+tact（接触）→接触，触摸"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "联络；联系；接触，触摸",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "in contact with接触；与……有联系"
-              ]
-            },
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Long-lasting friendships share the characteristic that both sides equally  contact  and share with one another.长久的友谊有一个特点：双方同等程度地联系彼此以及相互之间进行分享。"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "联络；联系"
-        }
-      ]
+      "ctx": "联络"
     },
     {
       "word": "accompany",
-      "lemma": "accompany",
-      "kind": "word",
       "type": "outline",
-      "ctx": "陪伴",
-      "forms": [
-        {
-          "surface": "accompanies",
-          "tag": "third_person"
-        },
-        {
-          "surface": "accompanied",
-          "tag": "past"
-        },
-        {
-          "surface": "accompanied",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "accompanying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈkʌmpəni]",
-      "memory": [
-        "词根记忆：ac（表加强）+company（伙伴）→陪伴"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "陪伴；伴随；为……伴奏"
-        }
-      ]
+      "ctx": "陪伴"
     },
     {
       "word": "during",
-      "lemma": "during",
-      "kind": "word",
       "type": "outline",
-      "ctx": "在……期间",
-      "forms": [],
-      "phonetic": "[ˈdjʊərɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "prep.",
-          "meaning": "在……期间，在……过程中"
-        }
-      ]
+      "ctx": "在……期间"
     },
     {
       "word": "lifetime",
-      "lemma": "lifetime",
-      "kind": "word",
       "type": "core",
-      "ctx": "一生",
-      "forms": [],
-      "phonetic": "[ˈlaɪftaɪm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "一生，终身，有生之年"
-        }
-      ]
+      "ctx": "一生"
     },
     {
       "word": "strengthen",
-      "lemma": "strengthen",
-      "kind": "word",
       "type": "outline",
-      "ctx": "变强",
-      "forms": [
-        {
-          "surface": "strengthens",
-          "tag": "third_person"
-        },
-        {
-          "surface": "strengthened",
-          "tag": "past"
-        },
-        {
-          "surface": "strengthened",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "strengthening",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈstreŋθn]",
-      "memory": [
-        "词根记忆：strength（力量）+en（使……）→使有力量→加强，增强"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）变强；加强，增强"
-        }
-      ]
+      "ctx": "变强"
     },
     {
       "word": "shape",
-      "lemma": "shape",
-      "kind": "word",
       "type": "outline",
-      "ctx": "形状",
-      "forms": [
-        {
-          "surface": "shapes",
-          "tag": "plural"
-        },
-        {
-          "surface": "shapes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "shaped",
-          "tag": "past"
-        },
-        {
-          "surface": "shaped",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "shaping",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ʃeɪp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "形状，外形",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "get in shape变得健康有活力"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "使成形；塑造"
-        }
-      ]
+      "ctx": "形状"
     },
     {
       "word": "manner",
-      "lemma": "manner",
-      "kind": "word",
       "type": "outline",
-      "ctx": "方式",
-      "forms": [],
-      "phonetic": "[ˈmænə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "方式；态度；举止；[pl.]礼貌，规矩"
-        }
-      ]
+      "ctx": "方式"
     },
     {
       "word": "valuable",
-      "lemma": "valuable",
-      "kind": "word",
       "type": "outline",
-      "ctx": "很有用的",
-      "forms": [],
-      "phonetic": "[ˈvæljuəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "很有用的，很重要的；很值钱的，贵重的"
-        }
-      ]
+      "ctx": "很有用的"
     },
     {
       "word": "activate",
-      "lemma": "activate",
-      "kind": "word",
       "type": "core",
-      "ctx": "使活动",
-      "forms": [
-        {
-          "surface": "activates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "activated",
-          "tag": "past"
-        },
-        {
-          "surface": "activated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "activating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈæktɪveɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "使活动，激活"
-        }
-      ]
+      "ctx": "使活动"
     },
     {
       "word": "search",
-      "lemma": "search",
-      "kind": "word",
       "type": "outline",
-      "ctx": "搜寻",
-      "forms": [
-        {
-          "surface": "searches",
-          "tag": "plural"
-        },
-        {
-          "surface": "searches",
-          "tag": "third_person"
-        },
-        {
-          "surface": "searched",
-          "tag": "past"
-        },
-        {
-          "surface": "searched",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "searching",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[sɜːtʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "/"
-        },
-        {
-          "pos": "v.",
-          "meaning": "搜寻，搜查"
-        }
-      ]
+      "ctx": "搜寻"
     },
     {
       "word": "knowledge",
-      "lemma": "knowledge",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U]知识",
-      "forms": [],
-      "phonetic": "[ˈnɒlɪdʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]知识，学问；知晓，了解"
-        }
-      ]
+      "ctx": "[U]知识"
     },
     {
       "word": "uncover",
-      "lemma": "uncover",
-      "kind": "word",
       "type": "core",
-      "ctx": "揭露",
-      "forms": [
-        {
-          "surface": "uncovers",
-          "tag": "third_person"
-        },
-        {
-          "surface": "uncovered",
-          "tag": "past"
-        },
-        {
-          "surface": "uncovered",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "uncovering",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ʌnˈkʌvə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "揭露，发现；揭开……的盖子"
-        }
-      ]
+      "ctx": "揭露"
     },
     {
       "word": "newness",
-      "lemma": "newness",
-      "kind": "word",
       "type": "core",
-      "ctx": "新近",
-      "forms": [],
-      "phonetic": "[ˈnjuːnəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "新近；新鲜；新奇；崭新"
-        }
-      ]
+      "ctx": "新近"
     },
     {
       "word": "evolve",
-      "lemma": "evolve",
-      "kind": "word",
       "type": "core",
-      "ctx": "逐渐形成",
-      "forms": [
-        {
-          "surface": "evolves",
-          "tag": "third_person"
-        },
-        {
-          "surface": "evolved",
-          "tag": "past"
-        },
-        {
-          "surface": "evolved",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "evolving",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[iˈvɒlv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）逐渐形成，逐步发展；进化"
-        }
-      ]
+      "ctx": "逐渐形成"
     },
     {
       "word": "outlook",
-      "lemma": "outlook",
-      "kind": "word",
       "type": "core",
-      "ctx": "观点",
-      "forms": [],
-      "phonetic": "[ˈaʊtlʊk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "观点，看法；展望，前景"
-        }
-      ]
+      "ctx": "观点"
     },
     {
       "word": "light",
-      "lemma": "light",
-      "kind": "word",
       "type": "outline",
-      "ctx": "光",
-      "forms": [
-        {
-          "surface": "lights",
-          "tag": "plural"
-        },
-        {
-          "surface": "lights",
-          "tag": "third_person"
-        },
-        {
-          "surface": "lit",
-          "tag": "past"
-        },
-        {
-          "surface": "lit",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "lighting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[laɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "光；灯；灯光；眼神",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "in a good (bad/favorable, etc.) light从好（或坏、有利等）的角度"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "点燃；照亮"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "明亮的；轻的；浅色的"
-        }
-      ]
+      "ctx": "光"
     }
   ]
 }

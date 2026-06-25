@@ -34,1064 +34,233 @@
   "vocab": [
     {
       "word": "popularization",
-      "lemma": "popularization",
-      "kind": "word",
       "type": "core",
-      "ctx": "大众化，普及",
-      "forms": [],
-      "phonetic": "[ˌpɒpjələraɪˈzeɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "大众化，普及"
-        }
-      ]
+      "ctx": "大众化，普及"
     },
     {
       "word": "change",
-      "lemma": "change",
-      "kind": "word",
       "type": "outline",
-      "ctx": "改变",
-      "forms": [
-        {
-          "surface": "changes",
-          "tag": "plural"
-        },
-        {
-          "surface": "changes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "changed",
-          "tag": "past"
-        },
-        {
-          "surface": "changed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "changing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[tʃeɪndʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "改变；更换；兑换"
-        },
-        {
-          "pos": "n.",
-          "meaning": "[C, U]变化；[U]零钱"
-        }
-      ]
+      "ctx": "改变"
     },
     {
       "word": "misunderstand",
-      "lemma": "misunderstand",
-      "kind": "word",
       "type": "core",
-      "ctx": "误会，误解",
-      "forms": [
-        {
-          "surface": "misunderstands",
-          "tag": "third_person"
-        },
-        {
-          "surface": "misunderstood",
-          "tag": "past"
-        },
-        {
-          "surface": "misunderstood",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "misunderstanding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌmɪsʌndəˈstænd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "误会，误解"
-        }
-      ]
+      "ctx": "误会，误解"
     },
     {
       "word": "desirable",
-      "lemma": "desirable",
-      "kind": "word",
       "type": "core",
-      "ctx": "值得向往的，可取的",
-      "forms": [],
-      "phonetic": "[dɪˈzaɪərəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "值得向往的，可取的"
-        }
-      ]
+      "ctx": "值得向往的，可取的"
     },
     {
       "word": "makeup",
-      "lemma": "makeup",
-      "kind": "word",
       "type": "core",
-      "ctx": "性格",
-      "forms": [],
-      "phonetic": "[ˈmeɪkʌp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "性格；化妆品"
-        }
-      ]
+      "ctx": "性格"
     },
     {
       "word": "IQ",
-      "lemma": "IQ",
-      "kind": "proper_noun",
       "type": "core",
-      "ctx": "（全写为intelligence quotient）智商",
-      "forms": [],
-      "phonetic": "[ˌaɪ ˈkjuː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（全写为intelligence quotient）智商"
-        }
-      ]
+      "ctx": "（全写为intelligence quotient）智商"
     },
     {
       "word": "stability",
-      "lemma": "stability",
-      "kind": "word",
       "type": "outline",
-      "ctx": "稳定（性），稳固（性）",
-      "forms": [],
-      "phonetic": "[stəˈbɪləti]",
-      "memory": [
-        "来自stable（ adj. 稳定的）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "稳定（性），稳固（性）"
-        }
-      ]
+      "ctx": "稳定（性），稳固（性）"
     },
     {
       "word": "optimism",
-      "lemma": "optimism",
-      "kind": "word",
       "type": "core",
-      "ctx": "乐观，乐观主义",
-      "forms": [],
-      "phonetic": "[ˈɒptɪmɪzəm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "乐观，乐观主义"
-        }
-      ]
+      "ctx": "乐观，乐观主义"
     },
     {
       "word": "shy",
-      "lemma": "shy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "害羞的",
-      "forms": [],
-      "phonetic": "[ʃaɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "害羞的；胆怯的"
-        }
-      ]
+      "ctx": "害羞的"
     },
     {
       "word": "embarrassed",
-      "lemma": "embarrassed",
-      "kind": "word",
       "type": "outline",
-      "ctx": "尴尬的，窘迫的",
-      "forms": [],
-      "phonetic": "[ɪmˈbærəst]",
-      "memory": [
-        "词根记忆：em（进入……之中）+barr（横木，障碍物）+ass+ed（……的）→进入障碍物中→尴尬的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "尴尬的，窘迫的；拮据的"
-        }
-      ]
+      "ctx": "尴尬的，窘迫的"
     },
     {
       "word": "dress",
-      "lemma": "dress",
-      "kind": "word",
       "type": "outline",
-      "ctx": "穿衣服",
-      "forms": [
-        {
-          "surface": "dresses",
-          "tag": "plural"
-        },
-        {
-          "surface": "dresses",
-          "tag": "third_person"
-        },
-        {
-          "surface": "dressed",
-          "tag": "past"
-        },
-        {
-          "surface": "dressed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "dressing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dres]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "穿衣服；穿……的服装"
-        },
-        {
-          "pos": "n.",
-          "meaning": "连衣裙；服装"
-        }
-      ]
+      "ctx": "穿衣服"
     },
     {
       "word": "jacket",
-      "lemma": "jacket",
-      "kind": "word",
       "type": "outline",
-      "ctx": "短上衣，夹克（衫）",
-      "forms": [],
-      "phonetic": "[ˈdʒækɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "短上衣，夹克（衫）"
-        }
-      ]
+      "ctx": "短上衣，夹克（衫）"
     },
     {
       "word": "sweat",
-      "lemma": "sweat",
-      "kind": "word",
       "type": "outline",
-      "ctx": "出汗，流汗",
-      "forms": [
-        {
-          "surface": "sweats",
-          "tag": "plural"
-        },
-        {
-          "surface": "sweats",
-          "tag": "third_person"
-        },
-        {
-          "surface": "sweated",
-          "tag": "past"
-        },
-        {
-          "surface": "sweated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "sweating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[swet]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "出汗，流汗；艰苦努力"
-        },
-        {
-          "pos": "n.",
-          "meaning": "汗；出汗；艰苦的劳动"
-        }
-      ]
+      "ctx": "出汗，流汗"
     },
     {
       "word": "belt",
-      "lemma": "belt",
-      "kind": "word",
       "type": "outline",
-      "ctx": "腰带，皮带",
-      "forms": [],
-      "phonetic": "[belt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "腰带，皮带；地带，地区"
-        }
-      ]
+      "ctx": "腰带，皮带"
     },
     {
       "word": "accurately",
-      "lemma": "accurately",
-      "kind": "word",
       "type": "core",
-      "ctx": "准确地，精确地",
-      "forms": [],
-      "phonetic": "[ˈækjərətli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "准确地，精确地"
-        }
-      ]
+      "ctx": "准确地，精确地"
     },
     {
       "word": "doctor",
-      "lemma": "doctor",
-      "kind": "word",
       "type": "outline",
-      "ctx": "医生",
-      "forms": [],
-      "phonetic": "[ˈdɒktə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "医生；博士"
-        }
-      ]
+      "ctx": "医生"
     },
     {
       "word": "cheater",
-      "lemma": "cheater",
-      "kind": "word",
       "type": "core",
-      "ctx": "骗子",
-      "forms": [],
-      "phonetic": "[ˈtʃiːtə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "骗子；作弊者"
-        }
-      ]
+      "ctx": "骗子"
     },
     {
       "word": "victim",
-      "lemma": "victim",
-      "kind": "word",
       "type": "outline",
-      "ctx": "受害者",
-      "forms": [
-        {
-          "surface": "victims",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈvɪktɪm]",
-      "memory": [
-        "联想记忆：是胜利者（victor），不是受害者（victim）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "受害者；牺牲品"
-        }
-      ]
+      "ctx": "受害者"
     },
     {
       "word": "emotionally",
-      "lemma": "emotionally",
-      "kind": "word",
       "type": "core",
-      "ctx": "情绪上地",
-      "forms": [],
-      "phonetic": "[ɪˈməʊʃənəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "情绪上地；充满强烈感情地"
-        }
-      ]
+      "ctx": "情绪上地"
     },
     {
       "word": "regarding",
-      "lemma": "regarding",
-      "kind": "word",
       "type": "core",
-      "ctx": "关于",
-      "forms": [],
-      "phonetic": "[rɪˈɡɑːdɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "prep.",
-          "meaning": "关于"
-        }
-      ]
+      "ctx": "关于"
     },
     {
       "word": "ahead",
-      "lemma": "ahead",
-      "kind": "word",
       "type": "outline",
-      "ctx": "在前，向前",
-      "forms": [],
-      "phonetic": "[əˈhed]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "在前，向前；提前"
-        }
-      ]
+      "ctx": "在前，向前"
     },
     {
       "word": "reasonably",
-      "lemma": "reasonably",
-      "kind": "word",
       "type": "core",
-      "ctx": "合理地",
-      "forms": [],
-      "phonetic": "[ˈriːznəbli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "合理地；适度地；相当地"
-        }
-      ]
+      "ctx": "合理地"
     },
     {
       "word": "justice",
-      "lemma": "justice",
-      "kind": "word",
       "type": "outline",
-      "ctx": "正义，公正",
-      "forms": [],
-      "phonetic": "[ˈdʒʌstɪs]",
-      "memory": [
-        "词根记忆：just（正义）+ice→正义，公正"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "正义，公正；公道，公理"
-        }
-      ]
+      "ctx": "正义，公正"
     },
     {
       "word": "protest",
-      "lemma": "protest",
-      "kind": "word",
       "type": "outline",
-      "ctx": "抗议",
-      "forms": [
-        {
-          "surface": "protests",
-          "tag": "plural"
-        },
-        {
-          "surface": "protests",
-          "tag": "third_person"
-        },
-        {
-          "surface": "protested",
-          "tag": "past"
-        },
-        {
-          "surface": "protested",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "protesting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈprəʊtest]",
-      "memory": [
-        "词根记忆：pro（在前）+test（证据）→在前面拿出反对的证据→反对"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "/"
-        },
-        {
-          "pos": "n.",
-          "meaning": "抗议，反对"
-        }
-      ]
+      "ctx": "抗议"
     },
     {
       "word": "mostly",
-      "lemma": "mostly",
-      "kind": "word",
       "type": "outline",
-      "ctx": "主要地",
-      "forms": [],
-      "phonetic": "[ˈməʊstli]",
-      "memory": [
-        "来自most（ adj. 大部分的）"
-      ],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "主要地；通常"
-        }
-      ]
+      "ctx": "主要地"
     },
     {
       "word": "prejudice",
-      "lemma": "prejudice",
-      "kind": "word",
       "type": "outline",
-      "ctx": "偏见，成见",
-      "forms": [
-        {
-          "surface": "prejudices",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈpredʒudɪs]",
-      "memory": [
-        "词根记忆：pre（预先）+jud（判断）+ice→先入为主的判断→偏见"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "偏见，成见",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "prejudice against...对……的偏见"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "偏见，成见"
     },
     {
       "word": "overall",
-      "lemma": "overall",
-      "kind": "word",
       "type": "outline",
-      "ctx": "全面的，总体的",
-      "forms": [],
-      "phonetic": "[ˌəʊvərˈɔːl]",
-      "memory": [
-        "合成词：over（从头到尾）+all（所有的）→全部"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "全面的，总体的"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "全部，总计；总体上"
-        }
-      ]
+      "ctx": "全面的，总体的"
     },
     {
       "word": "publicity",
-      "lemma": "publicity",
-      "kind": "word",
       "type": "core",
-      "ctx": "宣传，报道",
-      "forms": [],
-      "phonetic": "[pʌbˈlɪsəti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "宣传，报道"
-        }
-      ]
+      "ctx": "宣传，报道"
     },
     {
       "word": "beneficial",
-      "lemma": "beneficial",
-      "kind": "word",
       "type": "core",
-      "ctx": "有益的，有利的",
-      "forms": [],
-      "phonetic": "[ˌbenɪˈfɪʃl]",
-      "memory": [
-        "来自benefit（ n. 益处 v. 有益于）"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "有益的，有利的"
-        }
-      ]
+      "ctx": "有益的，有利的"
     },
     {
       "word": "mercy",
-      "lemma": "mercy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "仁慈，宽恕",
-      "forms": [],
-      "phonetic": "[ˈmɜːsi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "仁慈，宽恕",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "at the mercy of任凭……的摆布without mercy毫不留情地show mercy to sb.同情某人"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "仁慈，宽恕"
     },
     {
       "word": "employer",
-      "lemma": "employer",
-      "kind": "word",
       "type": "core",
-      "ctx": "雇用者，雇主",
-      "forms": [
-        {
-          "surface": "employers",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ɪmˈplɔɪə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "雇用者，雇主"
-        }
-      ]
+      "ctx": "雇用者，雇主"
     },
     {
       "word": "educator",
-      "lemma": "educator",
-      "kind": "word",
       "type": "outline",
-      "ctx": "教育家",
-      "forms": [
-        {
-          "surface": "educators",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈedʒukeɪtə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "教育家；教育工作者，教师"
-        }
-      ]
+      "ctx": "教育家"
     },
     {
       "word": "promote",
-      "lemma": "promote",
-      "kind": "word",
       "type": "outline",
-      "ctx": "促进，提升",
-      "forms": [
-        {
-          "surface": "promotes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "promoted",
-          "tag": "past"
-        },
-        {
-          "surface": "promoted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "promoting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[prəˈməʊt]",
-      "memory": [
-        "词根记忆：pro（向前）+mot（动）+e →使向前运动→促进，提升"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "促进，提升；推销",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "All our projects aim to promote the development of poor and remote communities.我们所有的项目都旨在促进贫困和偏远社区的发展。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "促进，提升"
     },
     {
       "word": "well-being",
-      "lemma": "well-being",
-      "kind": "word",
       "type": "core",
-      "ctx": "健康，安乐",
-      "forms": [],
-      "phonetic": "[ˈwel biːɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "健康，安乐"
-        }
-      ]
+      "ctx": "健康，安乐"
     },
     {
       "word": "restore",
-      "lemma": "restore",
-      "kind": "word",
       "type": "outline",
-      "ctx": "恢复",
-      "forms": [
-        {
-          "surface": "restores",
-          "tag": "third_person"
-        },
-        {
-          "surface": "restored",
-          "tag": "past"
-        },
-        {
-          "surface": "restored",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "restoring",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rɪˈstɔː(r)]",
-      "memory": [
-        "词根记忆：re（重新）+store（储存）→身体重新储存能量→恢复"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "恢复；修复"
-        }
-      ]
+      "ctx": "恢复"
     },
     {
       "word": "public",
-      "lemma": "public",
-      "kind": "word",
       "type": "outline",
-      "ctx": "公共的",
-      "forms": [],
-      "phonetic": "[ˈpʌblɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "公共的；公众的；公开的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "republic*（ n. 共和国）"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "民众；志趣相同的群体"
-        }
-      ]
+      "ctx": "公共的"
     },
     {
       "word": "functionality",
-      "lemma": "functionality",
-      "kind": "word",
       "type": "core",
-      "ctx": "实用",
-      "forms": [],
-      "phonetic": "[ˌfʌŋkʃəˈnæləti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "实用；功能"
-        }
-      ]
+      "ctx": "实用"
     },
     {
       "word": "adaptively",
-      "lemma": "adaptively",
-      "kind": "word",
       "type": "core",
-      "ctx": "适应性地",
-      "forms": [],
-      "phonetic": "[əˈdæptɪvli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "适应性地"
-        }
-      ]
+      "ctx": "适应性地"
     },
     {
       "word": "everyday",
-      "lemma": "everyday",
-      "kind": "word",
       "type": "outline",
-      "ctx": "每日的，日常的",
-      "forms": [],
-      "phonetic": "[ˈevrideɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "每日的，日常的"
-        }
-      ]
+      "ctx": "每日的，日常的"
     },
     {
       "word": "excite",
-      "lemma": "excite",
-      "kind": "word",
       "type": "core",
-      "ctx": "刺激",
-      "forms": [],
-      "phonetic": "[ɪkˈsaɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "刺激；使兴奋，使激动"
-        }
-      ]
+      "ctx": "刺激"
     },
     {
       "word": "reform",
-      "lemma": "reform",
-      "kind": "word",
       "type": "outline",
-      "ctx": "改革",
-      "forms": [],
-      "phonetic": "[rɪˈfɔːm]",
-      "memory": [
-        "词根记忆：re（一再）+form（形成）→一再形成→改革"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "/"
-        },
-        {
-          "pos": "n.",
-          "meaning": "改革，改良"
-        }
-      ]
+      "ctx": "改革"
     },
     {
       "word": "scholarly",
-      "lemma": "scholarly",
-      "kind": "word",
       "type": "core",
-      "ctx": "有学问的",
-      "forms": [],
-      "phonetic": "[ˈskɒləli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "有学问的；学术的"
-        }
-      ]
+      "ctx": "有学问的"
     },
     {
       "word": "decade",
-      "lemma": "decade",
-      "kind": "word",
       "type": "outline",
-      "ctx": "十年",
-      "forms": [
-        {
-          "surface": "decades",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈdekeɪd]",
-      "memory": [
-        "词根记忆：dec（十）+ade→十年"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "十年",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "several decades几十年"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "十年"
     },
     {
       "word": "advance",
-      "lemma": "advance",
-      "kind": "word",
       "type": "outline",
-      "ctx": "进步",
-      "forms": [
-        {
-          "surface": "advances",
-          "tag": "plural"
-        },
-        {
-          "surface": "advances",
-          "tag": "third_person"
-        },
-        {
-          "surface": "advanced",
-          "tag": "past"
-        },
-        {
-          "surface": "advanced",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "advancing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ədˈvɑːns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "/",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "in advance预先，提前"
-              ]
-            },
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Jennifer decided to go back to college to advance her career.詹妮弗决定回大学深造，以使她的事业更进一步。"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "前进；进步"
-        }
-      ]
+      "ctx": "进步"
     },
     {
       "word": "worthy",
-      "lemma": "worthy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "值得的，应得的",
-      "forms": [],
-      "phonetic": "[ˈwɜːði]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "值得的，应得的"
-        }
-      ]
+      "ctx": "值得的，应得的"
     },
     {
       "word": "point",
-      "lemma": "point",
-      "kind": "word",
       "type": "outline",
-      "ctx": "指，指向",
-      "forms": [
-        {
-          "surface": "points",
-          "tag": "plural"
-        },
-        {
-          "surface": "points",
-          "tag": "third_person"
-        },
-        {
-          "surface": "pointed",
-          "tag": "past"
-        },
-        {
-          "surface": "pointed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "pointing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[pɔɪnt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "指，指向"
-        },
-        {
-          "pos": "n.",
-          "meaning": "观点，见解；要点"
-        }
-      ]
+      "ctx": "指，指向"
     }
   ]
 }

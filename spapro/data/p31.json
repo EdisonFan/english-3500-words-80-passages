@@ -29,1118 +29,228 @@
   "vocab": [
     {
       "word": "fitness",
-      "lemma": "fitness",
-      "kind": "word",
       "type": "core",
-      "ctx": "健康",
-      "forms": [],
-      "phonetic": "[ˈfɪtnəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "健康；适合"
-        }
-      ]
+      "ctx": "健康"
     },
     {
       "word": "pressure",
-      "lemma": "pressure",
-      "kind": "word",
       "type": "outline",
-      "ctx": "挤压，压力",
-      "forms": [
-        {
-          "surface": "pressures",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈpreʃə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "挤压，压力；压强；大气压；心理压力",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "blood pressure血压"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "挤压，压力"
     },
     {
       "word": "body",
-      "lemma": "body",
-      "kind": "word",
       "type": "outline",
-      "ctx": "身体",
-      "forms": [],
-      "phonetic": "[ˈbɒdi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "身体；躯干；主体"
-        }
-      ]
+      "ctx": "身体"
     },
     {
       "word": "disease",
-      "lemma": "disease",
-      "kind": "word",
       "type": "outline",
-      "ctx": "病，疾病",
-      "forms": [
-        {
-          "surface": "diseases",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[dɪˈziːz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "病，疾病"
-        }
-      ]
+      "ctx": "病，疾病"
     },
     {
       "word": "discuss",
-      "lemma": "discuss",
-      "kind": "word",
       "type": "outline",
-      "ctx": "讨论，议论",
-      "forms": [
-        {
-          "surface": "discusses",
-          "tag": "third_person"
-        },
-        {
-          "surface": "discussed",
-          "tag": "past"
-        },
-        {
-          "surface": "discussed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "discussing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɪˈskʌs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "讨论，议论"
-        }
-      ]
+      "ctx": "讨论，议论"
     },
     {
       "word": "topic",
-      "lemma": "topic",
-      "kind": "word",
       "type": "outline",
-      "ctx": "题目，话题，主题",
-      "forms": [
-        {
-          "surface": "topics",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈtɒpɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "题目，话题，主题",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "hot topic热门话题"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "题目，话题，主题"
     },
     {
       "word": "interrelate",
-      "lemma": "interrelate",
-      "kind": "word",
       "type": "core",
-      "ctx": "相互关联",
-      "forms": [
-        {
-          "surface": "interrelates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "interrelated",
-          "tag": "past"
-        },
-        {
-          "surface": "interrelated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "interrelating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌɪntərɪˈleɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "相互关联"
-        }
-      ]
+      "ctx": "相互关联"
     },
     {
       "word": "shall",
-      "lemma": "shall",
-      "kind": "word",
       "type": "outline",
-      "ctx": "将要，会",
-      "forms": [],
-      "phonetic": "[ʃəl; ʃæl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "modal v.",
-          "meaning": "将要，会；一定，应该；……好吗"
-        }
-      ]
+      "ctx": "将要，会"
     },
     {
       "word": "naturally",
-      "lemma": "naturally",
-      "kind": "word",
       "type": "core",
-      "ctx": "自然地",
-      "forms": [],
-      "phonetic": "[ˈnætʃrəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "自然地；天然地；天生地；顺理成章地"
-        }
-      ]
+      "ctx": "自然地"
     },
     {
       "word": "attract",
-      "lemma": "attract",
-      "kind": "word",
       "type": "outline",
-      "ctx": "吸引",
-      "forms": [
-        {
-          "surface": "attracts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "attracted",
-          "tag": "past"
-        },
-        {
-          "surface": "attracted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "attracting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈtrækt]",
-      "memory": [
-        "词根记忆：at（表加强）+tract（拉）→把注意力拉过来→吸引"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "吸引；引起",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Many museums are lively places and they attract a lot of visitors.许多博物馆都是热闹的地方，它们吸引了很多游客。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "吸引"
     },
     {
       "word": "maintain",
-      "lemma": "maintain",
-      "kind": "word",
       "type": "outline",
-      "ctx": "保持，维持",
-      "forms": [
-        {
-          "surface": "maintains",
-          "tag": "third_person"
-        },
-        {
-          "surface": "maintained",
-          "tag": "past"
-        },
-        {
-          "surface": "maintained",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "maintaining",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[meɪnˈteɪn]",
-      "memory": [
-        "词根记忆：main（主要）+tain（保持）→保持大体上的完好→维持"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "保持，维持；保养；坚持"
-        }
-      ]
+      "ctx": "保持，维持"
     },
     {
       "word": "genuine",
-      "lemma": "genuine",
-      "kind": "word",
       "type": "outline",
-      "ctx": "真的，真正的",
-      "forms": [],
-      "phonetic": "[ˈdʒenjuɪn]",
-      "memory": [
-        "发音记忆：\"真牛呢\"→真牛呢，居然是真的→真的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "真的，真正的；真诚的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "genuine leather真皮"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "真的，真正的"
     },
     {
       "word": "disability",
-      "lemma": "disability",
-      "kind": "word",
       "type": "outline",
-      "ctx": "缺陷，障碍，残疾",
-      "forms": [],
-      "phonetic": "[ˌdɪsəˈbɪləti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "缺陷，障碍，残疾"
-        }
-      ]
+      "ctx": "缺陷，障碍，残疾"
     },
     {
       "word": "weak",
-      "lemma": "weak",
-      "kind": "word",
       "type": "outline",
-      "ctx": "虚弱的",
-      "forms": [],
-      "phonetic": "[wiːk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "虚弱的；差的"
-        }
-      ]
+      "ctx": "虚弱的"
     },
     {
       "word": "target",
-      "lemma": "target",
-      "kind": "word",
       "type": "outline",
-      "ctx": "把……作为攻击目标",
-      "forms": [
-        {
-          "surface": "targets",
-          "tag": "plural"
-        },
-        {
-          "surface": "targets",
-          "tag": "third_person"
-        },
-        {
-          "surface": "targeted",
-          "tag": "past"
-        },
-        {
-          "surface": "targeted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "targeting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈtɑːɡɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "把……作为攻击目标；面向，把……对准"
-        },
-        {
-          "pos": "n.",
-          "meaning": "目标"
-        }
-      ]
+      "ctx": "把……作为攻击目标"
     },
     {
       "word": "virus",
-      "lemma": "virus",
-      "kind": "word",
       "type": "outline",
-      "ctx": "病毒",
-      "forms": [
-        {
-          "surface": "viruses",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈvaɪrəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "病毒"
-        }
-      ]
+      "ctx": "病毒"
     },
     {
       "word": "instance",
-      "lemma": "instance",
-      "kind": "word",
       "type": "outline",
-      "ctx": "例子，实例，事例",
-      "forms": [],
-      "phonetic": "[ˈɪnstəns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "例子，实例，事例",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "for instance例如，比如"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "例子，实例，事例"
     },
     {
       "word": "cold",
-      "lemma": "cold",
-      "kind": "word",
       "type": "outline",
-      "ctx": "冷的",
-      "forms": [],
-      "phonetic": "[kəʊld]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "冷的；冷漠的；冷却的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "[U]寒冷；[C]感冒"
-        }
-      ]
+      "ctx": "冷的"
     },
     {
       "word": "definitely",
-      "lemma": "definitely",
-      "kind": "word",
       "type": "outline",
-      "ctx": "确定地，一定地",
-      "forms": [],
-      "phonetic": "[ˈdefɪnətli]",
-      "memory": [
-        "词根记忆：de（表加强）+fin（范围）+ite（……的）+ly（表副词）→划定范围→确定地"
-      ],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "确定地，一定地"
-        }
-      ]
+      "ctx": "确定地，一定地"
     },
     {
       "word": "accordance",
-      "lemma": "accordance",
-      "kind": "word",
       "type": "core",
-      "ctx": "一致，符合",
-      "forms": [],
-      "phonetic": "[əˈkɔːdns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "一致，符合",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "in accordance with依据，依照"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "一致，符合"
     },
     {
       "word": "climatic",
-      "lemma": "climatic",
-      "kind": "word",
       "type": "core",
-      "ctx": "气候的",
-      "forms": [],
-      "phonetic": "[klaɪˈmætɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "气候的"
-        }
-      ]
+      "ctx": "气候的"
     },
     {
       "word": "condition",
-      "lemma": "condition",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[pl.]条件，环境",
-      "forms": [
-        {
-          "surface": "conditions",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[kənˈdɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[pl.]条件，环境；[U]状况，状态"
-        }
-      ]
+      "ctx": "[pl.]条件，环境"
     },
     {
       "word": "everybody",
-      "lemma": "everybody",
-      "kind": "word",
       "type": "outline",
-      "ctx": ".",
-      "forms": [],
-      "phonetic": "[ˈevribɒdi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "pron",
-          "meaning": "."
-        },
-        {
-          "pos": ".",
-          "meaning": "（=everyone）每人，人人"
-        }
-      ]
+      "ctx": "."
     },
     {
       "word": "devote",
-      "lemma": "devote",
-      "kind": "word",
       "type": "outline",
-      "ctx": "奉献，致力",
-      "forms": [
-        {
-          "surface": "devotes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "devoted",
-          "tag": "past"
-        },
-        {
-          "surface": "devoted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "devoting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɪˈvəʊt]",
-      "memory": [
-        "联想记忆：de+vot（发誓）+e→发誓效忠祖国→奉献"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "奉献，致力；专心",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "devote oneself to致力于；专心于devote sth.to sth.把……用于"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "奉献，致力"
     },
     {
       "word": "tennis",
-      "lemma": "tennis",
-      "kind": "word",
       "type": "outline",
-      "ctx": "网球",
-      "forms": [],
-      "phonetic": "[ˈtenɪs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "网球",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "bat*（ n. 球拍；蝙蝠）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "网球"
     },
     {
       "word": "golf",
-      "lemma": "golf",
-      "kind": "word",
       "type": "outline",
-      "ctx": "高尔夫球",
-      "forms": [],
-      "phonetic": "[ɡɒlf]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "高尔夫球"
-        }
-      ]
+      "ctx": "高尔夫球"
     },
     {
       "word": "regardless",
-      "lemma": "regardless",
-      "kind": "word",
       "type": "outline",
-      "ctx": "不顾，不加理会",
-      "forms": [],
-      "phonetic": "[rɪˈɡɑːdləs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "不顾，不加理会",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "regardless of不管，无论"
-              ]
-            },
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "According to the experts, problems faced by people regardless of the past and present are the same.专家认为，无论过去和现在，人们所面临的问题都是一样的。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "不顾，不加理会"
     },
     {
       "word": "gymnastics",
-      "lemma": "gymnastics",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U]体操",
-      "forms": [],
-      "phonetic": "[dʒɪmˈnæstɪks]",
-      "memory": [
-        "词根记忆：gymn（裸体的）+astic（有……特性的）+s→穿得很少的运动→体操"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]体操"
-        }
-      ]
+      "ctx": "[U]体操"
     },
     {
       "word": "picnic",
-      "lemma": "picnic",
-      "kind": "word",
       "type": "outline",
-      "ctx": "野餐",
-      "forms": [
-        {
-          "surface": "picnics",
-          "tag": "plural"
-        },
-        {
-          "surface": "picnics",
-          "tag": "third_person"
-        },
-        {
-          "surface": "picnicked",
-          "tag": "past"
-        },
-        {
-          "surface": "picnicked",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "picnicking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈpɪknɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "野餐"
-        },
-        {
-          "pos": "vi.",
-          "meaning": "去野餐"
-        }
-      ]
+      "ctx": "野餐"
     },
     {
       "word": "camp",
-      "lemma": "camp",
-      "kind": "word",
       "type": "outline",
-      "ctx": "营地",
-      "forms": [
-        {
-          "surface": "camping",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kæmp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "营地；度假营",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "go camping野营"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vi.",
-          "meaning": "露营，宿营"
-        }
-      ]
+      "ctx": "营地"
     },
     {
       "word": "protein",
-      "lemma": "protein",
-      "kind": "word",
       "type": "outline",
-      "ctx": "蛋白质",
-      "forms": [],
-      "phonetic": "[ˈprəʊtiːn]",
-      "memory": [
-        "联想记忆：pro（很多）+tein（看作tain，保持）→维持生命之物→蛋白质"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "蛋白质"
-        }
-      ]
+      "ctx": "蛋白质"
     },
     {
       "word": "banana",
-      "lemma": "banana",
-      "kind": "word",
       "type": "outline",
-      "ctx": "香蕉",
-      "forms": [
-        {
-          "surface": "bananas",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[bəˈnɑːnə]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "香蕉"
-        }
-      ]
+      "ctx": "香蕉"
     },
     {
       "word": "carrot",
-      "lemma": "carrot",
-      "kind": "word",
       "type": "outline",
-      "ctx": "胡萝卜",
-      "forms": [
-        {
-          "surface": "carrots",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈkærət]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "胡萝卜"
-        }
-      ]
+      "ctx": "胡萝卜"
     },
     {
       "word": "additionally",
-      "lemma": "additionally",
-      "kind": "word",
       "type": "core",
-      "ctx": "另外",
-      "forms": [],
-      "phonetic": "[əˈdɪʃənəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "另外"
-        }
-      ]
+      "ctx": "另外"
     },
     {
       "word": "relax",
-      "lemma": "relax",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（使）放松",
-      "forms": [
-        {
-          "surface": "relaxes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "relaxed",
-          "tag": "past"
-        },
-        {
-          "surface": "relaxed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "relaxing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rɪˈlæks]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）放松"
-        }
-      ]
+      "ctx": "（使）放松"
     },
     {
       "word": "hurry",
-      "lemma": "hurry",
-      "kind": "word",
       "type": "outline",
-      "ctx": "赶快，急忙",
-      "forms": [
-        {
-          "surface": "hurries",
-          "tag": "third_person"
-        },
-        {
-          "surface": "hurried",
-          "tag": "past"
-        },
-        {
-          "surface": "hurried",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "hurrying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈhʌri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "赶快，急忙（做某事）",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "in a hurry赶快；匆忙"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "匆忙，急忙"
-        }
-      ]
+      "ctx": "赶快，急忙"
     },
     {
       "word": "eight",
-      "lemma": "eight",
-      "kind": "word",
       "type": "outline",
-      "ctx": "八",
-      "forms": [],
-      "phonetic": "[eɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "num.",
-          "meaning": "八",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "eighth*（ ordinal num. 第八）；eighty*（ num. 八十）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "八"
     },
     {
       "word": "sleep",
-      "lemma": "sleep",
-      "kind": "word",
       "type": "outline",
-      "ctx": "睡眠",
-      "forms": [
-        {
-          "surface": "sleeps",
-          "tag": "third_person"
-        },
-        {
-          "surface": "slept",
-          "tag": "past"
-        },
-        {
-          "surface": "slept",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "sleeping",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[sliːp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "/"
-        },
-        {
-          "pos": "vi.",
-          "meaning": "（slept, slept, sleeping）睡觉"
-        }
-      ]
+      "ctx": "睡眠"
     },
     {
       "word": "battery",
-      "lemma": "battery",
-      "kind": "word",
       "type": "outline",
-      "ctx": "电池",
-      "forms": [],
-      "phonetic": "[ˈbætri; ˈbætəri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "电池"
-        }
-      ]
+      "ctx": "电池"
     },
     {
       "word": "lazy",
-      "lemma": "lazy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "懒惰的",
-      "forms": [],
-      "phonetic": "[ˈleɪzi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "懒惰的；无精打采的"
-        }
-      ]
+      "ctx": "懒惰的"
     },
     {
       "word": "calm",
-      "lemma": "calm",
-      "kind": "word",
       "type": "outline",
-      "ctx": "镇静的，沉着的",
-      "forms": [],
-      "phonetic": "[kɑːm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "镇静的，沉着的；风平浪静的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "calm down（使）平静下来"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "使镇静，使平静"
-        }
-      ]
+      "ctx": "镇静的，沉着的"
     },
     {
       "word": "tension",
-      "lemma": "tension",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（情绪上的）紧张",
-      "forms": [],
-      "phonetic": "[ˈtenʃn]",
-      "memory": [
-        "词根记忆：tens（伸）+ion（表名词）→伸出去变得紧绷→拉紧"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（情绪上的）紧张；拉紧，绷紧"
-        }
-      ]
+      "ctx": "（情绪上的）紧张"
     },
     {
       "word": "careless",
-      "lemma": "careless",
-      "kind": "word",
       "type": "outline",
-      "ctx": "粗心的，不小心的",
-      "forms": [],
-      "phonetic": "[ˈkeələs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "粗心的，不小心的；漫不经心的"
-        }
-      ]
+      "ctx": "粗心的，不小心的"
     },
     {
       "word": "pilot",
-      "lemma": "pilot",
-      "kind": "word",
       "type": "outline",
-      "ctx": "飞行员",
-      "forms": [
-        {
-          "surface": "Pilots",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈpaɪlət]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "飞行员"
-        }
-      ]
+      "ctx": "飞行员"
     },
     {
       "word": "adequate",
-      "lemma": "adequate",
-      "kind": "word",
       "type": "core",
-      "ctx": "足够的",
-      "forms": [],
-      "phonetic": "[ˈædɪkwət]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "足够的"
-        }
-      ]
+      "ctx": "足够的"
     }
   ]
 }

@@ -34,1384 +34,293 @@
   "vocab": [
     {
       "word": "responsibility",
-      "lemma": "responsibility",
-      "kind": "word",
       "type": "outline",
-      "ctx": "责任",
-      "forms": [],
-      "phonetic": "[rɪˌspɒnsəˈbɪləti]",
-      "memory": [
-        "来自responsible（ adj. 有责任的，负责的）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "责任"
-        }
-      ]
+      "ctx": "责任"
     },
     {
       "word": "positive",
-      "lemma": "positive",
-      "kind": "word",
       "type": "outline",
-      "ctx": "积极的",
-      "forms": [],
-      "phonetic": "[ˈpɒzətɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "积极的；正面的；肯定的"
-        }
-      ]
+      "ctx": "积极的"
     },
     {
       "word": "beat",
-      "lemma": "beat",
-      "kind": "word",
       "type": "outline",
-      "ctx": "击败",
-      "forms": [
-        {
-          "surface": "beats",
-          "tag": "third_person"
-        },
-        {
-          "surface": "beat",
-          "tag": "past"
-        },
-        {
-          "surface": "beaten",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "beating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[biːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "击败；用力打；（心脏）跳动；敲打",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "beat yourself up（为某事）过分自责"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "（音乐）节拍"
-        }
-      ]
+      "ctx": "击败"
     },
     {
       "word": "bottom",
-      "lemma": "bottom",
-      "kind": "word",
       "type": "outline",
-      "ctx": "底",
-      "forms": [],
-      "phonetic": "[ˈbɒtəm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "底；底部；最末位置"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "底部的，最后的"
-        }
-      ]
+      "ctx": "底"
     },
     {
       "word": "err",
-      "lemma": "err",
-      "kind": "word",
       "type": "core",
-      "ctx": "犯错",
-      "forms": [
-        {
-          "surface": "errs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "erred",
-          "tag": "past"
-        },
-        {
-          "surface": "erred",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "erring",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɜː(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "犯错"
-        }
-      ]
+      "ctx": "犯错"
     },
     {
       "word": "bomb",
-      "lemma": "bomb",
-      "kind": "word",
       "type": "outline",
-      "ctx": "炸弹",
-      "forms": [
-        {
-          "surface": "bombs",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[bɒm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "炸弹；核武器"
-        }
-      ]
+      "ctx": "炸弹"
     },
     {
       "word": "explode",
-      "lemma": "explode",
-      "kind": "word",
       "type": "outline",
-      "ctx": "爆炸",
-      "forms": [
-        {
-          "surface": "explodes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "exploded",
-          "tag": "past"
-        },
-        {
-          "surface": "exploded",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "exploding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪkˈspləʊd]",
-      "memory": [
-        "词根记忆：ex（出）+plod（爆裂）+e→爆炸；爆发"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）爆炸；爆发",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "When Wilson heated it, the container exploded , leaving Wilson blinded in both eyes.当威尔逊把它加热时，容器爆炸了，导致威尔逊双目失明。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "爆炸"
     },
     {
       "word": "important",
-      "lemma": "important",
-      "kind": "word",
       "type": "outline",
-      "ctx": "重要的",
-      "forms": [],
-      "phonetic": "[ɪmˈpɔːtnt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "重要的"
-        }
-      ]
+      "ctx": "重要的"
     },
     {
       "word": "forgiveness",
-      "lemma": "forgiveness",
-      "kind": "word",
       "type": "core",
-      "ctx": "宽恕",
-      "forms": [],
-      "phonetic": "[fəˈɡɪvnəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "宽恕"
-        }
-      ]
+      "ctx": "宽恕"
     },
     {
       "word": "exercise",
-      "lemma": "exercise",
-      "kind": "word",
       "type": "outline",
-      "ctx": "练习",
-      "forms": [
-        {
-          "surface": "exercises",
-          "tag": "plural"
-        },
-        {
-          "surface": "exercises",
-          "tag": "third_person"
-        },
-        {
-          "surface": "exercised",
-          "tag": "past"
-        },
-        {
-          "surface": "exercised",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "exercising",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈeksəsaɪz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "练习；锻炼"
-        },
-        {
-          "pos": "v.",
-          "meaning": "锻炼"
-        }
-      ]
+      "ctx": "练习"
     },
     {
       "word": "bounce",
-      "lemma": "bounce",
-      "kind": "word",
       "type": "outline",
-      "ctx": "弹起",
-      "forms": [
-        {
-          "surface": "bounces",
-          "tag": "third_person"
-        },
-        {
-          "surface": "bounced",
-          "tag": "past"
-        },
-        {
-          "surface": "bounced",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "bouncing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[baʊns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）弹起；跳跃",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "bounce back重整旗鼓"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "弹起"
     },
     {
       "word": "sheet",
-      "lemma": "sheet",
-      "kind": "word",
       "type": "outline",
-      "ctx": "床单",
-      "forms": [],
-      "phonetic": "[ʃiːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "床单；一张；一大片；薄片，薄板"
-        }
-      ]
+      "ctx": "床单"
     },
     {
       "word": "title",
-      "lemma": "title",
-      "kind": "word",
       "type": "outline",
-      "ctx": "题目，标题",
-      "forms": [],
-      "phonetic": "[ˈtaɪtl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "题目，标题；头衔，职称"
-        }
-      ]
+      "ctx": "题目，标题"
     },
     {
       "word": "personal",
-      "lemma": "personal",
-      "kind": "word",
       "type": "outline",
-      "ctx": "个人的，私人的",
-      "forms": [],
-      "phonetic": "[ˈpɜːsənl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "个人的，私人的"
-        }
-      ]
+      "ctx": "个人的，私人的"
     },
     {
       "word": "candidate",
-      "lemma": "candidate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "候选人",
-      "forms": [],
-      "phonetic": "[ˈkændɪdət]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "候选人；应试者"
-        }
-      ]
+      "ctx": "候选人"
     },
     {
       "word": "boss",
-      "lemma": "boss",
-      "kind": "word",
       "type": "outline",
-      "ctx": "老板",
-      "forms": [],
-      "phonetic": "[bɒs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "老板；领导"
-        }
-      ]
+      "ctx": "老板"
     },
     {
       "word": "characteristic",
-      "lemma": "characteristic",
-      "kind": "word",
       "type": "outline",
-      "ctx": "特有的",
-      "forms": [
-        {
-          "surface": "characteristics",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˌkærəktəˈrɪstɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "特有的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "特征，特点，品质"
-        }
-      ]
+      "ctx": "特有的"
     },
     {
       "word": "caring",
-      "lemma": "caring",
-      "kind": "word",
       "type": "core",
-      "ctx": "乐于助人的，关心他人的，体贴人的",
-      "forms": [],
-      "phonetic": "[ˈkeərɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "乐于助人的，关心他人的，体贴人的"
-        }
-      ]
+      "ctx": "乐于助人的，关心他人的，体贴人的"
     },
     {
       "word": "creative",
-      "lemma": "creative",
-      "kind": "word",
       "type": "outline",
-      "ctx": "有创造力的",
-      "forms": [],
-      "phonetic": "[kriˈeɪtɪv]",
-      "memory": [
-        "来自create（ vt. 创造）"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "有创造力的；创造性的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "富于创造力的人"
-        }
-      ]
+      "ctx": "有创造力的"
     },
     {
       "word": "generous",
-      "lemma": "generous",
-      "kind": "word",
       "type": "outline",
-      "ctx": "慷慨的，大方的",
-      "forms": [],
-      "phonetic": "[ˈdʒenərəs]",
-      "memory": [
-        "词根记忆：gener（产生）+ous（……的）→产生很多的→慷慨的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "慷慨的，大方的"
-        }
-      ]
+      "ctx": "慷慨的，大方的"
     },
     {
       "word": "listener",
-      "lemma": "listener",
-      "kind": "word",
       "type": "core",
-      "ctx": "听者",
-      "forms": [],
-      "phonetic": "[ˈlɪsənə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "听者；收听广播节目的人"
-        }
-      ]
+      "ctx": "听者"
     },
     {
       "word": "nod",
-      "lemma": "nod",
-      "kind": "word",
       "type": "outline",
-      "ctx": "点头",
-      "forms": [
-        {
-          "surface": "nods",
-          "tag": "third_person"
-        },
-        {
-          "surface": "nodded",
-          "tag": "past"
-        },
-        {
-          "surface": "nodded",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "nodding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[nɒd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "/"
-        },
-        {
-          "pos": "n.",
-          "meaning": "点头"
-        }
-      ]
+      "ctx": "点头"
     },
     {
       "word": "calligraphy",
-      "lemma": "calligraphy",
-      "kind": "word",
       "type": "outline",
-      "ctx": "书法",
-      "forms": [],
-      "phonetic": "[kəˈlɪɡrəfi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "书法"
-        }
-      ]
+      "ctx": "书法"
     },
     {
       "word": "French",
-      "lemma": "French",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "法国的",
-      "forms": [],
-      "phonetic": "[frentʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "法国的；法国人的；法语的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "法语"
-        }
-      ]
+      "ctx": "法国的"
     },
     {
       "word": "jazz",
-      "lemma": "jazz",
-      "kind": "word",
       "type": "outline",
-      "ctx": "爵士乐",
-      "forms": [],
-      "phonetic": "[dʒæz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "爵士乐"
-        }
-      ]
+      "ctx": "爵士乐"
     },
     {
       "word": "aspect",
-      "lemma": "aspect",
-      "kind": "word",
       "type": "outline",
-      "ctx": "方面",
-      "forms": [
-        {
-          "surface": "aspects",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈæspekt]",
-      "memory": [
-        "词根记忆：a（表加强）+spect（看）→仔细看一个东西的外表→外表"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "方面；外表"
-        }
-      ]
+      "ctx": "方面"
     },
     {
       "word": "personality",
-      "lemma": "personality",
-      "kind": "word",
       "type": "outline",
-      "ctx": "性格，个性",
-      "forms": [],
-      "phonetic": "[ˌpɜːsəˈnæləti]",
-      "memory": [
-        "来自personal（ adj. 个人的）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "性格，个性"
-        }
-      ]
+      "ctx": "性格，个性"
     },
     {
       "word": "proud",
-      "lemma": "proud",
-      "kind": "word",
       "type": "outline",
-      "ctx": "自豪的，骄傲的",
-      "forms": [],
-      "phonetic": "[praʊd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "自豪的，骄傲的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "be proud of因……感到自豪"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "自豪的，骄傲的"
     },
     {
       "word": "kindness",
-      "lemma": "kindness",
-      "kind": "word",
       "type": "core",
-      "ctx": "[U]仁慈",
-      "forms": [],
-      "phonetic": "[ˈkaɪndnəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]仁慈；善良；[C]友好的举动"
-        }
-      ]
+      "ctx": "[U]仁慈"
     },
     {
       "word": "classmate",
-      "lemma": "classmate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "同班同学",
-      "forms": [],
-      "phonetic": "[ˈklɑːsmeɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "同班同学"
-        }
-      ]
+      "ctx": "同班同学"
     },
     {
       "word": "homework",
-      "lemma": "homework",
-      "kind": "word",
       "type": "outline",
-      "ctx": "家庭作业",
-      "forms": [],
-      "phonetic": "[ˈhəʊmwɜːk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "家庭作业"
-        }
-      ]
+      "ctx": "家庭作业"
     },
     {
       "word": "coat",
-      "lemma": "coat",
-      "kind": "word",
       "type": "outline",
-      "ctx": "外套",
-      "forms": [
-        {
-          "surface": "coats",
-          "tag": "plural"
-        },
-        {
-          "surface": "coats",
-          "tag": "third_person"
-        },
-        {
-          "surface": "coated",
-          "tag": "past"
-        },
-        {
-          "surface": "coated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "coating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kəʊt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "大衣，外套"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "涂上；覆盖"
-        }
-      ]
+      "ctx": "外套"
     },
     {
       "word": "November",
-      "lemma": "November",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "十一月",
-      "forms": [],
-      "phonetic": "[nəʊˈvembə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "十一月"
-        }
-      ]
+      "ctx": "十一月"
     },
     {
       "word": "ironing",
-      "lemma": "ironing",
-      "kind": "word",
       "type": "core",
-      "ctx": "熨烫",
-      "forms": [],
-      "phonetic": "[ˈaɪənɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "熨烫；刚熨好的（或待熨烫的）衣物"
-        }
-      ]
+      "ctx": "熨烫"
     },
     {
       "word": "bake",
-      "lemma": "bake",
-      "kind": "word",
       "type": "core",
-      "ctx": "烘烤",
-      "forms": [
-        {
-          "surface": "bakes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "baked",
-          "tag": "past"
-        },
-        {
-          "surface": "baked",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "baking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[beɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "烘烤，焙"
-        }
-      ]
+      "ctx": "烘烤"
     },
     {
       "word": "cookie",
-      "lemma": "cookie",
-      "kind": "word",
       "type": "outline",
-      "ctx": "饼干",
-      "forms": [
-        {
-          "surface": "cookies",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈkʊki]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "饼干"
-        }
-      ]
+      "ctx": "饼干"
     },
     {
       "word": "tiring",
-      "lemma": "tiring",
-      "kind": "word",
       "type": "core",
-      "ctx": "使人疲劳的，累人的",
-      "forms": [],
-      "phonetic": "[ˈtaɪərɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "使人疲劳的，累人的"
-        }
-      ]
+      "ctx": "使人疲劳的，累人的"
     },
     {
       "word": "church",
-      "lemma": "church",
-      "kind": "word",
       "type": "outline",
-      "ctx": "教堂",
-      "forms": [],
-      "phonetic": "[tʃɜːtʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "教堂"
-        }
-      ]
+      "ctx": "教堂"
     },
     {
       "word": "pray",
-      "lemma": "pray",
-      "kind": "word",
       "type": "outline",
-      "ctx": "祈祷",
-      "forms": [
-        {
-          "surface": "prays",
-          "tag": "third_person"
-        },
-        {
-          "surface": "prayed",
-          "tag": "past"
-        },
-        {
-          "surface": "prayed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "praying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[preɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "祈祷；企盼"
-        }
-      ]
+      "ctx": "祈祷"
     },
     {
       "word": "whatever",
-      "lemma": "whatever",
-      "kind": "word",
       "type": "outline",
-      "ctx": "无论什么",
-      "forms": [],
-      "phonetic": "[wɒtˈevə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "det.",
-          "meaning": "/"
-        },
-        {
-          "pos": "pron.",
-          "meaning": "无论什么，不管什么；任何，任何事物"
-        }
-      ]
+      "ctx": "无论什么"
     },
     {
       "word": "add",
-      "lemma": "add",
-      "kind": "word",
       "type": "outline",
-      "ctx": "添加",
-      "forms": [
-        {
-          "surface": "adds",
-          "tag": "third_person"
-        },
-        {
-          "surface": "added",
-          "tag": "past"
-        },
-        {
-          "surface": "added",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "adding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[æd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "添加，增加；补充"
-        }
-      ]
+      "ctx": "添加"
     },
     {
       "word": "dormitory",
-      "lemma": "dormitory",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（缩写为dorm）学生宿舍",
-      "forms": [],
-      "phonetic": "[ˈdɔːmətri]",
-      "memory": [
-        "词根记忆：dormit（睡眠）+ory（表地点）→睡觉的地方→学生宿舍"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（缩写为dorm）学生宿舍"
-        }
-      ]
+      "ctx": "（缩写为dorm）学生宿舍"
     },
     {
       "word": "downstairs",
-      "lemma": "downstairs",
-      "kind": "word",
       "type": "outline",
-      "ctx": "在楼下，往楼下",
-      "forms": [],
-      "phonetic": "[ˌdaʊnˈsteəz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "在楼下，往楼下",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "go downstairs下楼"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "在楼下，往楼下"
     },
     {
       "word": "studio",
-      "lemma": "studio",
-      "kind": "word",
       "type": "outline",
-      "ctx": "工作室",
-      "forms": [],
-      "phonetic": "[ˈstjuːdiəʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "工作室；演播室，制作室"
-        }
-      ]
+      "ctx": "工作室"
     },
     {
       "word": "exchange",
-      "lemma": "exchange",
-      "kind": "word",
       "type": "outline",
-      "ctx": "交换",
-      "forms": [
-        {
-          "surface": "exchanges",
-          "tag": "plural"
-        },
-        {
-          "surface": "exchanges",
-          "tag": "third_person"
-        },
-        {
-          "surface": "exchanged",
-          "tag": "past"
-        },
-        {
-          "surface": "exchanged",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "exchanging",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪksˈtʃeɪndʒ]",
-      "memory": [
-        "联想记忆：ex+change（变换）→双方相互换→交换"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "/",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "in exchange作为交换"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "交换，交流；兑换"
-        }
-      ]
+      "ctx": "交换"
     },
     {
       "word": "each",
-      "lemma": "each",
-      "kind": "word",
       "type": "outline",
-      "ctx": "每个",
-      "forms": [],
-      "phonetic": "[iːtʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "det.",
-          "meaning": "/"
-        },
-        {
-          "pos": "pron.",
-          "meaning": "每个，各自"
-        }
-      ]
+      "ctx": "每个"
     },
     {
       "word": "special",
-      "lemma": "special",
-      "kind": "word",
       "type": "outline",
-      "ctx": "特别的",
-      "forms": [],
-      "phonetic": "[ˈspeʃl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "特别的；专门的"
-        }
-      ]
+      "ctx": "特别的"
     },
     {
       "word": "shine",
-      "lemma": "shine",
-      "kind": "word",
       "type": "outline",
-      "ctx": "发光",
-      "forms": [
-        {
-          "surface": "shines",
-          "tag": "third_person"
-        },
-        {
-          "surface": "shone",
-          "tag": "past"
-        },
-        {
-          "surface": "shone",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "shining",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ʃaɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "发光；把……照向；擦亮",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "shine through显现出来；很明显"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "光泽，光亮"
-        }
-      ]
+      "ctx": "发光"
     },
     {
       "word": "pupil",
-      "lemma": "pupil",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（小）学生",
-      "forms": [],
-      "phonetic": "[ˈpjuːpl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（小）学生"
-        }
-      ]
+      "ctx": "（小）学生"
     },
     {
       "word": "self-confidence",
-      "lemma": "self-confidence",
-      "kind": "word",
       "type": "core",
-      "ctx": "自信",
-      "forms": [],
-      "phonetic": "[ˌself ˈkɒnfɪdəns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "自信"
-        }
-      ]
+      "ctx": "自信"
     },
     {
       "word": "wing",
-      "lemma": "wing",
-      "kind": "word",
       "type": "outline",
-      "ctx": "翅膀",
-      "forms": [
-        {
-          "surface": "wings",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[wɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "翅膀；机翼"
-        }
-      ]
+      "ctx": "翅膀"
     },
     {
       "word": "success",
-      "lemma": "success",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U]成功，成就",
-      "forms": [
-        {
-          "surface": "successes",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[səkˈses]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]成功，成就；[C]成功的人（或事）"
-        }
-      ]
+      "ctx": "[U]成功，成就"
     },
     {
       "word": "punish",
-      "lemma": "punish",
-      "kind": "word",
       "type": "outline",
-      "ctx": "惩罚",
-      "forms": [
-        {
-          "surface": "punishes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "punished",
-          "tag": "past"
-        },
-        {
-          "surface": "punished",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "punishing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈpʌnɪʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "惩罚，处罚"
-        }
-      ]
+      "ctx": "惩罚"
     },
     {
       "word": "chest",
-      "lemma": "chest",
-      "kind": "word",
       "type": "outline",
-      "ctx": "箱子",
-      "forms": [],
-      "phonetic": "[tʃest]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "箱子；胸部",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a tool chest一个工具箱"
-              ]
-            },
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "breast*（ n. 胸部）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "箱子"
     },
     {
       "word": "fixed",
-      "lemma": "fixed",
-      "kind": "word",
       "type": "core",
-      "ctx": "固定的，不变的",
-      "forms": [],
-      "phonetic": "[fɪkst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "固定的，不变的"
-        }
-      ]
+      "ctx": "固定的，不变的"
     },
     {
       "word": "bowling",
-      "lemma": "bowling",
-      "kind": "word",
       "type": "outline",
-      "ctx": "保龄球运动",
-      "forms": [],
-      "phonetic": "[ˈbəʊlɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "保龄球运动"
-        }
-      ]
+      "ctx": "保龄球运动"
     },
     {
       "word": "knock",
-      "lemma": "knock",
-      "kind": "word",
       "type": "outline",
-      "ctx": "敲，击",
-      "forms": [
-        {
-          "surface": "knocks",
-          "tag": "third_person"
-        },
-        {
-          "surface": "knocked",
-          "tag": "past"
-        },
-        {
-          "surface": "knocked",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "knocking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[nɒk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "敲，击",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "knock at/on敲打knock down把……撞倒；拆卸knock into sb.撞到某人"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "敲击；敲击声"
-        }
-      ]
+      "ctx": "敲，击"
     },
     {
       "word": "grow",
-      "lemma": "grow",
-      "kind": "word",
       "type": "outline",
-      "ctx": "成长",
-      "forms": [
-        {
-          "surface": "grows",
-          "tag": "third_person"
-        },
-        {
-          "surface": "grew",
-          "tag": "past"
-        },
-        {
-          "surface": "grown",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "growing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɡrəʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "种植；成长；生长；增加；逐渐变得"
-        }
-      ]
+      "ctx": "成长"
     }
   ]
 }

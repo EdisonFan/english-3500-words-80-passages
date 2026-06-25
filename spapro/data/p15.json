@@ -39,1251 +39,258 @@
   "vocab": [
     {
       "word": "imagine",
-      "lemma": "imagine",
-      "kind": "word",
       "type": "outline",
-      "ctx": "想象，设想",
-      "forms": [
-        {
-          "surface": "imagines",
-          "tag": "third_person"
-        },
-        {
-          "surface": "imagined",
-          "tag": "past"
-        },
-        {
-          "surface": "imagined",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "imagining",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪˈmædʒɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "想象，设想"
-        }
-      ]
+      "ctx": "想象，设想"
     },
     {
       "word": "diving",
-      "lemma": "diving",
-      "kind": "word",
       "type": "core",
-      "ctx": "[U]跳水，跳水运动",
-      "forms": [],
-      "phonetic": "[ˈdaɪvɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]跳水，跳水运动；潜水"
-        }
-      ]
+      "ctx": "[U]跳水，跳水运动"
     },
     {
       "word": "four",
-      "lemma": "four",
-      "kind": "word",
       "type": "outline",
-      "ctx": "四",
-      "forms": [],
-      "phonetic": "[fɔː(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "num.",
-          "meaning": "四",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "fourth*（ ordinal num. 第四）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "四"
     },
     {
       "word": "foot",
-      "lemma": "foot",
-      "kind": "word",
       "type": "outline",
-      "ctx": "脚；足部",
-      "forms": [
-        {
-          "surface": "feet",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[fʊt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "脚；足部；英尺；最下部",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "set foot in/on访问，参观"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "脚；足部"
     },
     {
       "word": "motivation",
-      "lemma": "motivation",
-      "kind": "word",
       "type": "core",
-      "ctx": "动力，积极性",
-      "forms": [],
-      "phonetic": "[ˌməʊtɪˈveɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "动力，积极性"
-        }
-      ]
+      "ctx": "动力，积极性"
     },
     {
       "word": "side",
-      "lemma": "side",
-      "kind": "word",
       "type": "outline",
-      "ctx": "面，侧面，旁边",
-      "forms": [
-        {
-          "surface": "sides",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[saɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "面，侧面，旁边；方面；一边；边缘"
-        }
-      ]
+      "ctx": "面，侧面，旁边"
     },
     {
       "word": "coin",
-      "lemma": "coin",
-      "kind": "word",
       "type": "outline",
-      "ctx": "硬币，钱币",
-      "forms": [],
-      "phonetic": "[kɔɪn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "硬币，钱币"
-        }
-      ]
+      "ctx": "硬币，钱币"
     },
     {
       "word": "neither",
-      "lemma": "neither",
-      "kind": "word",
       "type": "outline",
-      "ctx": "既不",
-      "forms": [],
-      "phonetic": "[ˈnaɪðə(r); ˈniːðə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "det.",
-          "meaning": "/"
-        },
-        {
-          "pos": "pro",
-          "meaning": ""
-        },
-        {
-          "pos": "n.",
-          "meaning": "（两者）都不"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "也不"
-        }
-      ]
+      "ctx": "既不"
     },
     {
       "word": "reach",
-      "lemma": "reach",
-      "kind": "word",
       "type": "outline",
-      "ctx": "到达",
-      "forms": [
-        {
-          "surface": "reaches",
-          "tag": "third_person"
-        },
-        {
-          "surface": "reached",
-          "tag": "past"
-        },
-        {
-          "surface": "reached",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "reaching",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[riːtʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "到达；实现；提升到；伸手；够得着"
-        },
-        {
-          "pos": "n.",
-          "meaning": "影响范围"
-        }
-      ]
+      "ctx": "到达"
     },
     {
       "word": "undecided",
-      "lemma": "undecided",
-      "kind": "word",
       "type": "core",
-      "ctx": "未拿定主意的，未决定的",
-      "forms": [],
-      "phonetic": "[ˌʌndɪˈsaɪdɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "未拿定主意的，未决定的"
-        }
-      ]
+      "ctx": "未拿定主意的，未决定的"
     },
     {
       "word": "achieve",
-      "lemma": "achieve",
-      "kind": "word",
       "type": "outline",
-      "ctx": "达到，取得",
-      "forms": [
-        {
-          "surface": "achieves",
-          "tag": "third_person"
-        },
-        {
-          "surface": "achieved",
-          "tag": "past"
-        },
-        {
-          "surface": "achieved",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "achieving",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈtʃiːv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "达到，取得；实现"
-        }
-      ]
+      "ctx": "达到，取得"
     },
     {
       "word": "evaluate",
-      "lemma": "evaluate",
-      "kind": "word",
       "type": "outline",
-      "ctx": "评价，评估",
-      "forms": [
-        {
-          "surface": "evaluates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "evaluated",
-          "tag": "past"
-        },
-        {
-          "surface": "evaluated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "evaluating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪˈvæljueɪt]",
-      "memory": [
-        "词根记忆：e（出）+valu（价值）+ate →估出价值→评价，评估"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "评价，评估"
-        }
-      ]
+      "ctx": "评价，评估"
     },
     {
       "word": "strength",
-      "lemma": "strength",
-      "kind": "word",
       "type": "outline",
-      "ctx": "体力，力量，力气",
-      "forms": [
-        {
-          "surface": "strengths",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[streŋθ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "体力，力量，力气；长处，强项"
-        }
-      ]
+      "ctx": "体力，力量，力气"
     },
     {
       "word": "desire",
-      "lemma": "desire",
-      "kind": "word",
       "type": "outline",
-      "ctx": "愿望，欲望",
-      "forms": [
-        {
-          "surface": "desires",
-          "tag": "plural"
-        },
-        {
-          "surface": "desires",
-          "tag": "third_person"
-        },
-        {
-          "surface": "desired",
-          "tag": "past"
-        },
-        {
-          "surface": "desired",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "desiring",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɪˈzaɪə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "愿望，欲望",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "have a desire for渴望have a desire to do sth.渴望做某事"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "渴望，期望"
-        }
-      ]
+      "ctx": "愿望，欲望"
     },
     {
       "word": "camel",
-      "lemma": "camel",
-      "kind": "word",
       "type": "outline",
-      "ctx": "骆驼",
-      "forms": [],
-      "phonetic": "[ˈkæml]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "骆驼"
-        }
-      ]
+      "ctx": "骆驼"
     },
     {
       "word": "endure",
-      "lemma": "endure",
-      "kind": "word",
       "type": "core",
-      "ctx": "忍受，容忍",
-      "forms": [
-        {
-          "surface": "endures",
-          "tag": "third_person"
-        },
-        {
-          "surface": "endured",
-          "tag": "past"
-        },
-        {
-          "surface": "endured",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "enduring",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪnˈdjʊə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "忍受，容忍"
-        },
-        {
-          "pos": "vi.",
-          "meaning": "持久，持续"
-        }
-      ]
+      "ctx": "忍受，容忍"
     },
     {
       "word": "respective",
-      "lemma": "respective",
-      "kind": "word",
       "type": "outline",
-      "ctx": "各自的，各个的，分别的",
-      "forms": [],
-      "phonetic": "[rɪˈspektɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "各自的，各个的，分别的"
-        }
-      ]
+      "ctx": "各自的，各个的，分别的"
     },
     {
       "word": "quality",
-      "lemma": "quality",
-      "kind": "word",
       "type": "outline",
-      "ctx": "质量",
-      "forms": [],
-      "phonetic": "[ˈkwɒləti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "质量；品质，人品；优质"
-        }
-      ]
+      "ctx": "质量"
     },
     {
       "word": "depth",
-      "lemma": "depth",
-      "kind": "word",
       "type": "outline",
-      "ctx": "深（度）",
-      "forms": [],
-      "phonetic": "[depθ]",
-      "memory": [
-        "来自deep（ adj. 深的，厚的）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "深（度）；（情感）深厚；（知识）渊博",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a 3,000-meter depth of ice 3000米厚的冰层"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "深（度）"
     },
     {
       "word": "quite",
-      "lemma": "quite",
-      "kind": "word",
       "type": "outline",
-      "ctx": "完全，十分",
-      "forms": [],
-      "phonetic": "[kwaɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "完全，十分"
-        }
-      ]
+      "ctx": "完全，十分"
     },
     {
       "word": "directly",
-      "lemma": "directly",
-      "kind": "word",
       "type": "core",
-      "ctx": "直接地",
-      "forms": [],
-      "phonetic": "[dəˈrektli; dɪˈrektli; daɪˈrektli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "直接地；正好地；一会儿，很快"
-        },
-        {
-          "pos": "conj.",
-          "meaning": "一……就……"
-        }
-      ]
+      "ctx": "直接地"
     },
     {
       "word": "commitment",
-      "lemma": "commitment",
-      "kind": "word",
       "type": "outline",
-      "ctx": "承诺，许诺",
-      "forms": [],
-      "phonetic": "[kəˈmɪtmənt]",
-      "memory": [
-        "词根记忆：com（表加强）+mit（送出）+ment（表名词）→送出很多→献身，投入"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "承诺，许诺；献身，奉献，投入"
-        }
-      ]
+      "ctx": "承诺，许诺"
     },
     {
       "word": "affect",
-      "lemma": "affect",
-      "kind": "word",
       "type": "outline",
-      "ctx": "影响",
-      "forms": [
-        {
-          "surface": "affects",
-          "tag": "third_person"
-        },
-        {
-          "surface": "affected",
-          "tag": "past"
-        },
-        {
-          "surface": "affected",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "affecting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈfekt]",
-      "memory": [
-        "词根记忆：af（表加强）+fect（做）→影响"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "影响"
-        }
-      ]
+      "ctx": "影响"
     },
     {
       "word": "slow",
-      "lemma": "slow",
-      "kind": "word",
       "type": "outline",
-      "ctx": "缓慢的",
-      "forms": [
-        {
-          "surface": "slows",
-          "tag": "third_person"
-        },
-        {
-          "surface": "slowed",
-          "tag": "past"
-        },
-        {
-          "surface": "slowed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "slowing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[sləʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "缓慢的"
-        },
-        {
-          "pos": "v.",
-          "meaning": "（使）放慢速度"
-        }
-      ]
+      "ctx": "缓慢的"
     },
     {
       "word": "moment",
-      "lemma": "moment",
-      "kind": "word",
       "type": "outline",
-      "ctx": "片刻，瞬间",
-      "forms": [],
-      "phonetic": "[ˈməʊmənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "片刻，瞬间；时刻"
-        }
-      ]
+      "ctx": "片刻，瞬间"
     },
     {
       "word": "thought",
-      "lemma": "thought",
-      "kind": "word",
       "type": "outline",
-      "ctx": "思考，思想",
-      "forms": [
-        {
-          "surface": "thoughts",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[θɔːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "思考，思想；念头"
-        }
-      ]
+      "ctx": "思考，思想"
     },
     {
       "word": "forward",
-      "lemma": "forward",
-      "kind": "word",
       "type": "outline",
-      "ctx": "向前的，前进的",
-      "forms": [],
-      "phonetic": "[ˈfɔːwəd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "向前的，前进的；前部的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "look forward to盼望，期待put forward提出"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "adv.",
-          "meaning": "向前；前进；提前"
-        }
-      ]
+      "ctx": "向前的，前进的"
     },
     {
       "word": "another",
-      "lemma": "another",
-      "kind": "word",
       "type": "outline",
-      "ctx": "另一种",
-      "forms": [],
-      "phonetic": "[əˈnʌðə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "det.",
-          "meaning": "/"
-        },
-        {
-          "pos": "pron.",
-          "meaning": "另一，再一；不同的（人或事）"
-        }
-      ]
+      "ctx": "另一种"
     },
     {
       "word": "realistic",
-      "lemma": "realistic",
-      "kind": "word",
       "type": "outline",
-      "ctx": "现实的，实际的",
-      "forms": [],
-      "phonetic": "[ˌriːəˈlɪstɪk; ˌrɪəˈlɪstɪk]",
-      "memory": [
-        "来自real（ adj. 真实的）"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "现实的，实际的；逼真的"
-        }
-      ]
+      "ctx": "现实的，实际的"
     },
     {
       "word": "analyze",
-      "lemma": "analyze",
-      "kind": "word",
       "type": "outline",
-      "ctx": "分析",
-      "forms": [
-        {
-          "surface": "analyzes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "analyzed",
-          "tag": "past"
-        },
-        {
-          "surface": "analyzed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "analyzing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈænəlaɪz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "分析"
-        }
-      ]
+      "ctx": "分析"
     },
     {
       "word": "short",
-      "lemma": "short",
-      "kind": "word",
       "type": "outline",
-      "ctx": "短的",
-      "forms": [],
-      "phonetic": "[ʃɔːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "短的；矮的；短期的；短缺的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "[pl.]短裤"
-        }
-      ]
+      "ctx": "短的"
     },
     {
       "word": "objective",
-      "lemma": "objective",
-      "kind": "word",
       "type": "outline",
-      "ctx": "目标，目的",
-      "forms": [
-        {
-          "surface": "objectives",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[əbˈdʒektɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "目标，目的"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "客观的，就事论事的"
-        }
-      ]
+      "ctx": "目标，目的"
     },
     {
       "word": "winner",
-      "lemma": "winner",
-      "kind": "word",
       "type": "outline",
-      "ctx": "获胜者",
-      "forms": [
-        {
-          "surface": "winners",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈwɪnə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "获胜者"
-        }
-      ]
+      "ctx": "获胜者"
     },
     {
       "word": "lap",
-      "lemma": "lap",
-      "kind": "word",
       "type": "outline",
-      "ctx": "大腿",
-      "forms": [],
-      "phonetic": "[læp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "大腿；（跑道的）一圈"
-        }
-      ]
+      "ctx": "大腿"
     },
     {
       "word": "kilo",
-      "lemma": "kilo",
-      "kind": "word",
       "type": "outline",
-      "ctx": "千克，公斤",
-      "forms": [
-        {
-          "surface": "kilos",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈkiːləʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "千克，公斤",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "gram*（ n. 克）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "千克，公斤"
     },
     {
       "word": "fence",
-      "lemma": "fence",
-      "kind": "word",
       "type": "outline",
-      "ctx": "栅栏，篱笆",
-      "forms": [],
-      "phonetic": "[fens]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "栅栏，篱笆；障碍物"
-        }
-      ]
+      "ctx": "栅栏，篱笆"
     },
     {
       "word": "flexible",
-      "lemma": "flexible",
-      "kind": "word",
       "type": "outline",
-      "ctx": "灵活的",
-      "forms": [],
-      "phonetic": "[ˈfleksəbl]",
-      "memory": [
-        "词根记忆：flex（弯曲）+ible（易……的）→柔韧的，易弯曲的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "灵活的；柔韧的，可弯曲的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a flexible schedule灵活的时间表"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "灵活的"
     },
     {
       "word": "according to",
-      "lemma": "according to",
-      "kind": "phrase",
       "type": "outline",
-      "ctx": "根据，据……所述",
-      "forms": [],
-      "phonetic": "[əˈkɔːdɪŋ tə]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "prep.",
-          "meaning": "根据，据……所述；按照，依照"
-        }
-      ]
+      "ctx": "根据，据……所述"
     },
     {
       "word": "circumstance",
-      "lemma": "circumstance",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[pl.]环境，状况",
-      "forms": [],
-      "phonetic": "[ˈsɜːkəmstɑːns]",
-      "memory": [
-        "词根记忆：circum（周围）+stance（站）→周围存在的事物→环境"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[pl.]环境，状况；境况，情况"
-        }
-      ]
+      "ctx": "[pl.]环境，状况"
     },
     {
       "word": "measurable",
-      "lemma": "measurable",
-      "kind": "word",
       "type": "core",
-      "ctx": "可测量的",
-      "forms": [],
-      "phonetic": "[ˈmeʒərəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "可测量的；显著的"
-        }
-      ]
+      "ctx": "可测量的"
     },
     {
       "word": "equally",
-      "lemma": "equally",
-      "kind": "word",
       "type": "core",
-      "ctx": "平等地",
-      "forms": [],
-      "phonetic": "[ˈiːkwəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "平等地；均等地；同样"
-        }
-      ]
+      "ctx": "平等地"
     },
     {
       "word": "eyesight",
-      "lemma": "eyesight",
-      "kind": "word",
       "type": "core",
-      "ctx": "[U]视力，视觉",
-      "forms": [],
-      "phonetic": "[ˈaɪsaɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]视力，视觉"
-        }
-      ]
+      "ctx": "[U]视力，视觉"
     },
     {
       "word": "discourage",
-      "lemma": "discourage",
-      "kind": "word",
       "type": "core",
-      "ctx": "使气馁",
-      "forms": [
-        {
-          "surface": "discourages",
-          "tag": "third_person"
-        },
-        {
-          "surface": "discouraged",
-          "tag": "past"
-        },
-        {
-          "surface": "discouraged",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "discouraging",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɪsˈkʌrɪdʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "使气馁；阻拦"
-        }
-      ]
+      "ctx": "使气馁"
     },
     {
       "word": "reassess",
-      "lemma": "reassess",
-      "kind": "word",
       "type": "core",
-      "ctx": "重新考虑，再次评价",
-      "forms": [
-        {
-          "surface": "reassesses",
-          "tag": "third_person"
-        },
-        {
-          "surface": "reassessed",
-          "tag": "past"
-        },
-        {
-          "surface": "reassessed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "reassessing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌriːəˈses]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "重新考虑，再次评价"
-        }
-      ]
+      "ctx": "重新考虑，再次评价"
     },
     {
       "word": "overcome",
-      "lemma": "overcome",
-      "kind": "word",
       "type": "outline",
-      "ctx": "战胜",
-      "forms": [
-        {
-          "surface": "overcomes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "overcame",
-          "tag": "past"
-        },
-        {
-          "surface": "overcome",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "overcoming",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌəʊvəˈkʌm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "战胜；克服，解决"
-        }
-      ]
+      "ctx": "战胜"
     },
     {
       "word": "towel",
-      "lemma": "towel",
-      "kind": "word",
       "type": "outline",
-      "ctx": "毛巾",
-      "forms": [],
-      "phonetic": "[ˈtaʊəl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "毛巾",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "throw in the towel认输，放弃努力"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "毛巾"
     },
     {
       "word": "ample",
-      "lemma": "ample",
-      "kind": "word",
       "type": "core",
-      "ctx": "足够的，充足的，丰富的",
-      "forms": [],
-      "phonetic": "[ˈæmpl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "足够的，充足的，丰富的"
-        }
-      ]
+      "ctx": "足够的，充足的，丰富的"
     },
     {
       "word": "deaf",
-      "lemma": "deaf",
-      "kind": "word",
       "type": "outline",
-      "ctx": "聋的",
-      "forms": [],
-      "phonetic": "[def]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "聋的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "disabled*（ adj. 残疾的）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "聋的"
     },
     {
       "word": "ear",
-      "lemma": "ear",
-      "kind": "word",
       "type": "outline",
-      "ctx": "耳朵",
-      "forms": [],
-      "phonetic": "[ɪə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "耳朵；听觉分辨力"
-        }
-      ]
+      "ctx": "耳朵"
     },
     {
       "word": "double",
-      "lemma": "double",
-      "kind": "word",
       "type": "outline",
-      "ctx": "两倍的",
-      "forms": [
-        {
-          "surface": "doubles",
-          "tag": "third_person"
-        },
-        {
-          "surface": "doubled",
-          "tag": "past"
-        },
-        {
-          "surface": "doubled",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "doubling",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈdʌbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "两倍的；双重的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "两个；双打"
-        },
-        {
-          "pos": "v.",
-          "meaning": "（使）加倍"
-        }
-      ]
+      "ctx": "两倍的"
     },
     {
       "word": "sail",
-      "lemma": "sail",
-      "kind": "word",
       "type": "outline",
-      "ctx": "航行",
-      "forms": [
-        {
-          "surface": "sails",
-          "tag": "third_person"
-        },
-        {
-          "surface": "sailed",
-          "tag": "past"
-        },
-        {
-          "surface": "sailed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "sailing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[seɪl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "航行；起航"
-        },
-        {
-          "pos": "n.",
-          "meaning": "帆；乘船航行"
-        }
-      ]
+      "ctx": "航行"
     }
   ]
 }

@@ -34,1277 +34,273 @@
   "vocab": [
     {
       "word": "ask",
-      "lemma": "ask",
-      "kind": "word",
       "type": "outline",
-      "ctx": "问，询问",
-      "forms": [
-        {
-          "surface": "asks",
-          "tag": "third_person"
-        },
-        {
-          "surface": "asked",
-          "tag": "past"
-        },
-        {
-          "surface": "asked",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "asking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɑːsk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "问，询问；要求"
-        }
-      ]
+      "ctx": "问，询问"
     },
     {
       "word": "how",
-      "lemma": "how",
-      "kind": "word",
       "type": "outline",
-      "ctx": "怎样，如何",
-      "forms": [],
-      "phonetic": "[haʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "怎样，如何；多少；多么"
-        }
-      ]
+      "ctx": "怎样，如何"
     },
     {
       "word": "urgent",
-      "lemma": "urgent",
-      "kind": "word",
       "type": "outline",
-      "ctx": "急迫的，紧急的",
-      "forms": [],
-      "phonetic": "[ˈɜːdʒənt]",
-      "memory": [
-        "词根记忆：urg（驱使）+ent（……的）→受到驱使的→急迫的，紧急的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "急迫的，紧急的"
-        }
-      ]
+      "ctx": "急迫的，紧急的"
     },
     {
       "word": "language",
-      "lemma": "language",
-      "kind": "word",
       "type": "outline",
-      "ctx": "语言",
-      "forms": [],
-      "phonetic": "[ˈlæŋɡwɪdʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "语言"
-        }
-      ]
+      "ctx": "语言"
     },
     {
       "word": "not",
-      "lemma": "not",
-      "kind": "word",
       "type": "outline",
-      "ctx": "不，没，不是",
-      "forms": [],
-      "phonetic": "[nɒt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "不，没，不是"
-        }
-      ]
+      "ctx": "不，没，不是"
     },
     {
       "word": "know",
-      "lemma": "know",
-      "kind": "word",
       "type": "outline",
-      "ctx": "知道，了解",
-      "forms": [
-        {
-          "surface": "knows",
-          "tag": "third_person"
-        },
-        {
-          "surface": "knew",
-          "tag": "past"
-        },
-        {
-          "surface": "known",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "knowing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[nəʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "知道，了解；认识；懂得；确信"
-        }
-      ]
+      "ctx": "知道，了解"
     },
     {
       "word": "what",
-      "lemma": "what",
-      "kind": "word",
       "type": "outline",
-      "ctx": "什么",
-      "forms": [],
-      "phonetic": "[wɒt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "pron.",
-          "meaning": "/"
-        },
-        {
-          "pos": "det.",
-          "meaning": "什么"
-        }
-      ]
+      "ctx": "什么"
     },
     {
       "word": "feeling",
-      "lemma": "feeling",
-      "kind": "word",
       "type": "outline",
-      "ctx": "感情",
-      "forms": [],
-      "phonetic": "[ˈfiːlɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "感情；感觉，知觉"
-        }
-      ]
+      "ctx": "感情"
     },
     {
       "word": "to",
-      "lemma": "to",
-      "kind": "word",
       "type": "outline",
-      "ctx": "向，朝",
-      "forms": [],
-      "phonetic": "[tə; tu(ː)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "prep.",
-          "meaning": "向，朝；至；到，达；对，给"
-        }
-      ]
+      "ctx": "向，朝"
     },
     {
       "word": "its",
-      "lemma": "its",
-      "kind": "word",
       "type": "outline",
-      "ctx": "它的",
-      "forms": [],
-      "phonetic": "[ɪts]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "det.",
-          "meaning": "它的"
-        }
-      ]
+      "ctx": "它的"
     },
     {
       "word": "passion",
-      "lemma": "passion",
-      "kind": "word",
       "type": "outline",
-      "ctx": "激情，热爱",
-      "forms": [],
-      "phonetic": "[ˈpæʃn]",
-      "memory": [
-        "词根记忆：pass（感觉）+ion（表名词）→有感觉才有激情→激情"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "激情，热爱",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Being good at something and having a passion for it are not enough.仅仅擅长某件事并对之充满激情是不够的。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "激情，热爱"
     },
     {
       "word": "encouragement",
-      "lemma": "encouragement",
-      "kind": "word",
       "type": "core",
-      "ctx": "鼓舞，鼓励",
-      "forms": [],
-      "phonetic": "[ɪnˈkʌrɪdʒmənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "鼓舞，鼓励"
-        }
-      ]
+      "ctx": "鼓舞，鼓励"
     },
     {
       "word": "bit",
-      "lemma": "bit",
-      "kind": "word",
       "type": "outline",
-      "ctx": "一点，一些，少量",
-      "forms": [],
-      "phonetic": "[bɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "一点，一些，少量"
-        }
-      ]
+      "ctx": "一点，一些，少量"
     },
     {
       "word": "travel",
-      "lemma": "travel",
-      "kind": "word",
       "type": "outline",
-      "ctx": "往返",
-      "forms": [
-        {
-          "surface": "travels",
-          "tag": "third_person"
-        },
-        {
-          "surface": "travelled",
-          "tag": "past"
-        },
-        {
-          "surface": "travelled",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "travelling",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈtrævl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "/"
-        },
-        {
-          "pos": "v.",
-          "meaning": "旅行"
-        }
-      ]
+      "ctx": "往返"
     },
     {
       "word": "campus",
-      "lemma": "campus",
-      "kind": "word",
       "type": "outline",
-      "ctx": "校园",
-      "forms": [
-        {
-          "surface": "campuses",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈkæmpəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "校园"
-        }
-      ]
+      "ctx": "校园"
     },
     {
       "word": "teach",
-      "lemma": "teach",
-      "kind": "word",
       "type": "outline",
-      "ctx": "教书",
-      "forms": [
-        {
-          "surface": "teaches",
-          "tag": "third_person"
-        },
-        {
-          "surface": "taught",
-          "tag": "past"
-        },
-        {
-          "surface": "taught",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "teaching",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[tiːtʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "教书；教；教导"
-        }
-      ]
+      "ctx": "教书"
     },
     {
       "word": "freshman",
-      "lemma": "freshman",
-      "kind": "word",
       "type": "core",
-      "ctx": "（大学）一年级新生",
-      "forms": [],
-      "phonetic": "[ˈfreʃmən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（大学）一年级新生"
-        }
-      ]
+      "ctx": "（大学）一年级新生"
     },
     {
       "word": "composition",
-      "lemma": "composition",
-      "kind": "word",
       "type": "outline",
-      "ctx": "作品",
-      "forms": [],
-      "phonetic": "[ˌkɒmpəˈzɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "作品；作文；成分"
-        }
-      ]
+      "ctx": "作品"
     },
     {
       "word": "afternoon",
-      "lemma": "afternoon",
-      "kind": "word",
       "type": "outline",
-      "ctx": "下午",
-      "forms": [
-        {
-          "surface": "Afternoons",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˌɑːftəˈnuːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "下午"
-        }
-      ]
+      "ctx": "下午"
     },
     {
       "word": "daughter",
-      "lemma": "daughter",
-      "kind": "word",
       "type": "outline",
-      "ctx": "女儿",
-      "forms": [],
-      "phonetic": "[ˈdɔːtə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "女儿"
-        }
-      ]
+      "ctx": "女儿"
     },
     {
       "word": "her",
-      "lemma": "her",
-      "kind": "word",
       "type": "outline",
-      "ctx": "她",
-      "forms": [],
-      "phonetic": "[hə(r); ɜː(r); ə(r); hɜː(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "pron.",
-          "meaning": "她",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "hers*（ pron. 她的）"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "det.",
-          "meaning": "她的"
-        }
-      ]
+      "ctx": "她"
     },
     {
       "word": "ballet",
-      "lemma": "ballet",
-      "kind": "word",
       "type": "outline",
-      "ctx": "芭蕾舞，芭蕾舞剧",
-      "forms": [],
-      "phonetic": "[ˈbæleɪ]",
-      "memory": [
-        "发音记忆：音似\"芭蕾\""
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "芭蕾舞，芭蕾舞剧"
-        }
-      ]
+      "ctx": "芭蕾舞，芭蕾舞剧"
     },
     {
       "word": "horse-riding",
-      "lemma": "horse-riding",
-      "kind": "word",
       "type": "core",
-      "ctx": "骑马",
-      "forms": [],
-      "phonetic": "[ˈhɔːs raɪdɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "骑马"
-        }
-      ]
+      "ctx": "骑马"
     },
     {
       "word": "compose",
-      "lemma": "compose",
-      "kind": "word",
       "type": "outline",
-      "ctx": "作曲",
-      "forms": [
-        {
-          "surface": "composes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "composed",
-          "tag": "past"
-        },
-        {
-          "surface": "composed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "composing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kəmˈpəʊz]",
-      "memory": [
-        "词根记忆：com（共同）+pos（放）+e →把音符放到一起→作曲"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "作曲；创作"
-        }
-      ]
+      "ctx": "作曲"
     },
     {
       "word": "thinking",
-      "lemma": "thinking",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U]思考",
-      "forms": [],
-      "phonetic": "[ˈθɪŋkɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]思考；见解；想法"
-        }
-      ]
+      "ctx": "[U]思考"
     },
     {
       "word": "return",
-      "lemma": "return",
-      "kind": "word",
       "type": "outline",
-      "ctx": "归还",
-      "forms": [
-        {
-          "surface": "returns",
-          "tag": "third_person"
-        },
-        {
-          "surface": "returned",
-          "tag": "past"
-        },
-        {
-          "surface": "returned",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "returning",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rɪˈtɜːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "归还；回报",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a return ticket往返票"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vi.",
-          "meaning": "回来，返回；恢复"
-        },
-        {
-          "pos": "n.",
-          "meaning": "返回，来回"
-        }
-      ]
+      "ctx": "归还"
     },
     {
       "word": "writing",
-      "lemma": "writing",
-      "kind": "word",
       "type": "core",
-      "ctx": "书写",
-      "forms": [],
-      "phonetic": "[ˈraɪtɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "书写；写作；著作"
-        }
-      ]
+      "ctx": "书写"
     },
     {
       "word": "after",
-      "lemma": "after",
-      "kind": "word",
       "type": "outline",
-      "ctx": "之后",
-      "forms": [],
-      "phonetic": "[ˌɑːftə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "prep.",
-          "meaning": "/"
-        },
-        {
-          "pos": "conj.",
-          "meaning": "在……之后"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "后来"
-        }
-      ]
+      "ctx": "之后"
     },
     {
       "word": "working",
-      "lemma": "working",
-      "kind": "word",
       "type": "core",
-      "ctx": "有工作的",
-      "forms": [],
-      "phonetic": "[ˈwɜːkɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "有工作的；工作上的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a working day一个工作日"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "有工作的"
     },
     {
       "word": "out",
-      "lemma": "out",
-      "kind": "word",
       "type": "outline",
-      "ctx": "出路",
-      "forms": [],
-      "phonetic": "[aʊt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "/",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "way out（建筑物的）出口；（困境的）出路"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "prep.",
-          "meaning": "（从……里）出来；外出；在……（范围）之外"
-        }
-      ]
+      "ctx": "出路"
     },
     {
       "word": "get",
-      "lemma": "get",
-      "kind": "word",
       "type": "outline",
-      "ctx": "得到",
-      "forms": [
-        {
-          "surface": "gets",
-          "tag": "third_person"
-        },
-        {
-          "surface": "got",
-          "tag": "past"
-        },
-        {
-          "surface": "got",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "gotten",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "getting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɡet]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "得到；拿来；患（病）；使，让；到达；变得",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "get up站起来；起床get back寻回，找回；回家get on进展，进步get out生产，出版get together收集；举行社交聚会"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "得到"
     },
     {
       "word": "usual",
-      "lemma": "usual",
-      "kind": "word",
       "type": "outline",
-      "ctx": "通常的，平常的",
-      "forms": [],
-      "phonetic": "[ˈjuːʒuəl; ˈjuːʒəl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "通常的，平常的"
-        }
-      ]
+      "ctx": "通常的，平常的"
     },
     {
       "word": "alarm",
-      "lemma": "alarm",
-      "kind": "word",
       "type": "outline",
-      "ctx": "警报",
-      "forms": [
-        {
-          "surface": "alarms",
-          "tag": "plural"
-        },
-        {
-          "surface": "alarms",
-          "tag": "third_person"
-        },
-        {
-          "surface": "alarmed",
-          "tag": "past"
-        },
-        {
-          "surface": "alarmed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "alarming",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈlɑːm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "警报；闹钟；惊恐，恐慌"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "使惊恐"
-        }
-      ]
+      "ctx": "警报"
     },
     {
       "word": "o'clock",
-      "lemma": "o'clock",
-      "kind": "word",
       "type": "outline",
-      "ctx": "……点钟",
-      "forms": [],
-      "phonetic": "[əˈklɒk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "……点钟"
-        }
-      ]
+      "ctx": "……点钟"
     },
     {
       "word": "a.m.",
-      "lemma": "a.m.",
-      "kind": "word",
       "type": "core",
-      "ctx": "（=A.M.）上午",
-      "forms": [],
-      "phonetic": "[ˌeɪ ˈem]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "abbr.",
-          "meaning": "（=A.M.）上午"
-        }
-      ]
+      "ctx": "（=A.M.）上午"
     },
     {
       "word": "shut",
-      "lemma": "shut",
-      "kind": "word",
       "type": "outline",
-      "ctx": "关闭",
-      "forms": [
-        {
-          "surface": "shuts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "shut",
-          "tag": "past"
-        },
-        {
-          "surface": "shut",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "shutting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ʃʌt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "关闭",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "shut sth.off关闭机器；停止供应煤气（或水等） shut down关张，停业shut up住口，闭嘴"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "adj.",
-          "meaning": "关闭的；停业的"
-        }
-      ]
+      "ctx": "关闭"
     },
     {
       "word": "off",
-      "lemma": "off",
-      "kind": "word",
       "type": "outline",
-      "ctx": "离开",
-      "forms": [],
-      "phonetic": "[ɒf]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "prep.",
-          "meaning": "离开；离；从……去掉；下班"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "离开；（从身体上脱、摘）下；不在工作中，不在学习中"
-        }
-      ]
+      "ctx": "离开"
     },
     {
       "word": "second",
-      "lemma": "second",
-      "kind": "word",
       "type": "outline",
-      "ctx": "秒",
-      "forms": [],
-      "phonetic": "[ˈsekənd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "秒"
-        },
-        {
-          "pos": "ordinal num.",
-          "meaning": "第二"
-        }
-      ]
+      "ctx": "秒"
     },
     {
       "word": "clock",
-      "lemma": "clock",
-      "kind": "word",
       "type": "outline",
-      "ctx": "钟",
-      "forms": [
-        {
-          "surface": "clocks",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[klɒk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "钟"
-        }
-      ]
+      "ctx": "钟"
     },
     {
       "word": "hallway",
-      "lemma": "hallway",
-      "kind": "word",
       "type": "core",
-      "ctx": "过道",
-      "forms": [],
-      "phonetic": "[ˈhɔːlweɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "过道；门厅"
-        }
-      ]
+      "ctx": "过道"
     },
     {
       "word": "silence",
-      "lemma": "silence",
-      "kind": "word",
       "type": "outline",
-      "ctx": "寂静，无声",
-      "forms": [
-        {
-          "surface": "silences",
-          "tag": "plural"
-        },
-        {
-          "surface": "silences",
-          "tag": "third_person"
-        },
-        {
-          "surface": "silenced",
-          "tag": "past"
-        },
-        {
-          "surface": "silenced",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "silencing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈsaɪləns]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "寂静，无声；沉默"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "使安静"
-        }
-      ]
+      "ctx": "寂静，无声"
     },
     {
       "word": "awake",
-      "lemma": "awake",
-      "kind": "word",
       "type": "outline",
-      "ctx": "醒来",
-      "forms": [
-        {
-          "surface": "awakes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "awoke",
-          "tag": "past"
-        },
-        {
-          "surface": "awoken",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "awaking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈweɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）醒来"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "醒着的"
-        }
-      ]
+      "ctx": "醒来"
     },
     {
       "word": "poetry",
-      "lemma": "poetry",
-      "kind": "word",
       "type": "outline",
-      "ctx": "诗集，诗歌",
-      "forms": [],
-      "phonetic": "[ˈpəʊətri]",
-      "memory": [
-        "来自poet（ n. 诗人）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "诗集，诗歌"
-        }
-      ]
+      "ctx": "诗集，诗歌"
     },
     {
       "word": "badly",
-      "lemma": "badly",
-      "kind": "word",
       "type": "core",
-      "ctx": "差",
-      "forms": [],
-      "phonetic": "[ˈbædli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "差；不成功地；非常；严重地"
-        }
-      ]
+      "ctx": "差"
     },
     {
       "word": "least",
-      "lemma": "least",
-      "kind": "word",
       "type": "outline",
-      "ctx": "最少，最少量",
-      "forms": [],
-      "phonetic": "[liːst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "最少，最少量",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "at least至少"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "最少，最少量"
     },
     {
       "word": "sun",
-      "lemma": "sun",
-      "kind": "word",
       "type": "outline",
-      "ctx": "太阳",
-      "forms": [],
-      "phonetic": "[sʌn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "太阳"
-        }
-      ]
+      "ctx": "太阳"
     },
     {
       "word": "would",
-      "lemma": "would",
-      "kind": "word",
       "type": "outline",
-      "ctx": "将，将要",
-      "forms": [],
-      "phonetic": "[wʊd; wəd;",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "modal v.",
-          "meaning": "将，将要；愿；会；总是"
-        }
-      ]
+      "ctx": "将，将要"
     },
     {
       "word": "dark",
-      "lemma": "dark",
-      "kind": "word",
       "type": "outline",
-      "ctx": "黑暗的",
-      "forms": [],
-      "phonetic": "[dɑːk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "黑暗的；深色的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "黑暗；暗色，阴影"
-        }
-      ]
+      "ctx": "黑暗的"
     },
     {
       "word": "initial",
-      "lemma": "initial",
-      "kind": "word",
       "type": "outline",
-      "ctx": "开始的，最初的",
-      "forms": [],
-      "phonetic": "[ɪˈnɪʃl]",
-      "memory": [
-        "词根记忆：init（开始）+ial（……的）→开始的，最初的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "开始的，最初的"
-        }
-      ]
+      "ctx": "开始的，最初的"
     },
     {
       "word": "urgency",
-      "lemma": "urgency",
-      "kind": "word",
       "type": "core",
-      "ctx": "紧急，迫切",
-      "forms": [],
-      "phonetic": "[ˈɜːdʒənsi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "紧急，迫切"
-        }
-      ]
+      "ctx": "紧急，迫切"
     },
     {
       "word": "easily",
-      "lemma": "easily",
-      "kind": "word",
       "type": "core",
-      "ctx": "容易地，不费力地",
-      "forms": [],
-      "phonetic": "[ˈiːzəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "容易地，不费力地"
-        }
-      ]
+      "ctx": "容易地，不费力地"
     },
     {
       "word": "die",
-      "lemma": "die",
-      "kind": "word",
       "type": "outline",
-      "ctx": "死亡",
-      "forms": [
-        {
-          "surface": "dies",
-          "tag": "third_person"
-        },
-        {
-          "surface": "died",
-          "tag": "past"
-        },
-        {
-          "surface": "died",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "dying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[daɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "死亡；消失；熄灭",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "die away逐渐减弱，逐渐消失die down逐渐变弱die out灭绝，消失"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "死亡"
     },
     {
       "word": "away",
-      "lemma": "away",
-      "kind": "word",
       "type": "outline",
-      "ctx": "离开，远离",
-      "forms": [],
-      "phonetic": "[əˈweɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "离开，远离；去别处"
-        }
-      ]
+      "ctx": "离开，远离"
     },
     {
       "word": "steal",
-      "lemma": "steal",
-      "kind": "word",
       "type": "outline",
-      "ctx": "偷，窃取",
-      "forms": [
-        {
-          "surface": "steals",
-          "tag": "third_person"
-        },
-        {
-          "surface": "stole",
-          "tag": "past"
-        },
-        {
-          "surface": "stolen",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "stealing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[stiːl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "偷，窃取",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "theft*（ n. 偷窃；盗窃罪）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "偷，窃取"
     }
   ]
 }

@@ -44,997 +44,213 @@
   "vocab": [
     {
       "word": "mankind",
-      "lemma": "mankind",
-      "kind": "word",
       "type": "outline",
-      "ctx": "人类",
-      "forms": [],
-      "phonetic": "[mænˈkaɪnd]",
-      "memory": [
-        "合成词：man（人）+kind（种类，性质）→人类"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "人类"
-        }
-      ]
+      "ctx": "人类"
     },
     {
       "word": "superior",
-      "lemma": "superior",
-      "kind": "word",
       "type": "outline",
-      "ctx": "级别（或地位、职位）更高的人",
-      "forms": [],
-      "phonetic": "[suːˈpɪəriə(r); sjuːˈpɪəriə(r)]",
-      "memory": [
-        "词根记忆：super（在……上面）+ior→上级"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "级别（或地位、职位）更高的人；上级",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "superior status更高的地位"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "adj.",
-          "meaning": "比……好的；上好的；有优越感的"
-        }
-      ]
+      "ctx": "级别（或地位、职位）更高的人"
     },
     {
       "word": "trait",
-      "lemma": "trait",
-      "kind": "word",
       "type": "core",
-      "ctx": "特征，特点，特性",
-      "forms": [
-        {
-          "surface": "traits",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[treɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "特征，特点，特性"
-        }
-      ]
+      "ctx": "特征，特点，特性"
     },
     {
       "word": "location",
-      "lemma": "location",
-      "kind": "word",
       "type": "outline",
-      "ctx": "位置，地点",
-      "forms": [
-        {
-          "surface": "locations",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ləʊˈkeɪʃn]",
-      "memory": [
-        "词根记忆：loc（地方）+ation（表名词）→地点"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "位置，地点",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "an office location办公地点"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "位置，地点"
     },
     {
       "word": "honey",
-      "lemma": "honey",
-      "kind": "word",
       "type": "outline",
-      "ctx": "蜂蜜",
-      "forms": [],
-      "phonetic": "[ˈhʌni]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "蜂蜜；（爱称）宝贝，亲爱的"
-        }
-      ]
+      "ctx": "蜂蜜"
     },
     {
       "word": "primitive",
-      "lemma": "primitive",
-      "kind": "word",
       "type": "outline",
-      "ctx": "原始的，远古的",
-      "forms": [],
-      "phonetic": "[ˈprɪmətɪv]",
-      "memory": [
-        "词根记忆：prim（第一）+itive（具有……性质的）→第一时间的→原始的，远古的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "原始的，远古的"
-        }
-      ]
+      "ctx": "原始的，远古的"
     },
     {
       "word": "equipment",
-      "lemma": "equipment",
-      "kind": "word",
       "type": "outline",
-      "ctx": "装备，设备",
-      "forms": [],
-      "phonetic": "[ɪˈkwɪpmənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "装备，设备"
-        }
-      ]
+      "ctx": "装备，设备"
     },
     {
       "word": "political",
-      "lemma": "political",
-      "kind": "word",
       "type": "outline",
-      "ctx": "政治的",
-      "forms": [],
-      "phonetic": "[pəˈlɪtɪkl]",
-      "memory": [
-        "联想记忆：和politics（ n. 政治）一起记"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "政治的"
-        }
-      ]
+      "ctx": "政治的"
     },
     {
       "word": "entitle",
-      "lemma": "entitle",
-      "kind": "word",
       "type": "outline",
-      "ctx": "使……有权利（或资格）",
-      "forms": [
-        {
-          "surface": "entitles",
-          "tag": "third_person"
-        },
-        {
-          "surface": "entitled",
-          "tag": "past"
-        },
-        {
-          "surface": "entitled",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "entitling",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪnˈtaɪtl]",
-      "memory": [
-        "联想记忆：en（使……）+title（题目，标题）→给（书、文章等）题名"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "使……有权利（或资格）；给（书、文章等）题名"
-        }
-      ]
+      "ctx": "使……有权利（或资格）"
     },
     {
       "word": "mode",
-      "lemma": "mode",
-      "kind": "word",
       "type": "outline",
-      "ctx": "方式，样式，风格",
-      "forms": [],
-      "phonetic": "[məʊd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "方式，样式，风格；模式"
-        }
-      ]
+      "ctx": "方式，样式，风格"
     },
     {
       "word": "hello",
-      "lemma": "hello",
-      "kind": "word",
       "type": "outline",
-      "ctx": "喂，你好",
-      "forms": [],
-      "phonetic": "[həˈləʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "int.",
-          "meaning": "喂，你好"
-        },
-        {
-          "pos": "n.",
-          "meaning": "招呼，问候"
-        }
-      ]
+      "ctx": "喂，你好"
     },
     {
       "word": "sudden",
-      "lemma": "sudden",
-      "kind": "word",
       "type": "outline",
-      "ctx": "突然的",
-      "forms": [],
-      "phonetic": "[ˈsʌdn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "突然的"
-        }
-      ]
+      "ctx": "突然的"
     },
     {
       "word": "scream",
-      "lemma": "scream",
-      "kind": "word",
       "type": "outline",
-      "ctx": "尖叫",
-      "forms": [
-        {
-          "surface": "screams",
-          "tag": "third_person"
-        },
-        {
-          "surface": "screamed",
-          "tag": "past"
-        },
-        {
-          "surface": "screamed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "screaming",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[skriːm]",
-      "memory": [
-        "联想记忆：女孩子们看到冰激凌（ice cream）就会尖叫（scream）"
-      ],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "尖叫",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Groups of young men shout and scream in sadness when their team loses a goal, or with joy when there is a moment of success.一群群年轻人在自己支持的球队丢球时会伤心地呼喊和尖叫；而在球队成功的那一刻则会欣喜若狂地欢呼。"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "尖声说"
-        },
-        {
-          "pos": "n.",
-          "meaning": "尖叫（声）"
-        }
-      ]
+      "ctx": "尖叫"
     },
     {
       "word": "warn",
-      "lemma": "warn",
-      "kind": "word",
       "type": "outline",
-      "ctx": "警告，提醒",
-      "forms": [
-        {
-          "surface": "warns",
-          "tag": "third_person"
-        },
-        {
-          "surface": "warned",
-          "tag": "past"
-        },
-        {
-          "surface": "warned",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "warning",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[wɔːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "警告，提醒"
-        }
-      ]
+      "ctx": "警告，提醒"
     },
     {
       "word": "concrete",
-      "lemma": "concrete",
-      "kind": "word",
       "type": "outline",
-      "ctx": "具体的",
-      "forms": [],
-      "phonetic": "[ˈkɒŋkriːt]",
-      "memory": [
-        "词根记忆：con+crete（产生）→生产出来的实物→具体的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "具体的；有形的；混凝土制的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "[U]混凝土"
-        }
-      ]
+      "ctx": "具体的"
     },
     {
       "word": "gesture",
-      "lemma": "gesture",
-      "kind": "word",
       "type": "core",
-      "ctx": "手势",
-      "forms": [
-        {
-          "surface": "gestures",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈdʒestʃə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "手势"
-        }
-      ]
+      "ctx": "手势"
     },
     {
       "word": "vocabulary",
-      "lemma": "vocabulary",
-      "kind": "word",
       "type": "outline",
-      "ctx": "词汇，词汇量",
-      "forms": [],
-      "phonetic": "[vəˈkæbjələri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "词汇，词汇量；词汇表"
-        }
-      ]
+      "ctx": "词汇，词汇量"
     },
     {
       "word": "strike",
-      "lemma": "strike",
-      "kind": "word",
       "type": "outline",
-      "ctx": "罢工",
-      "forms": [
-        {
-          "surface": "strikes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "struck",
-          "tag": "past"
-        },
-        {
-          "surface": "struck",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "striking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[straɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "罢工；袭击；击，打"
-        },
-        {
-          "pos": "v.",
-          "meaning": "撞，碰；打，击；罢工；侵袭"
-        }
-      ]
+      "ctx": "罢工"
     },
     {
       "word": "bend",
-      "lemma": "bend",
-      "kind": "word",
       "type": "outline",
-      "ctx": "弯曲",
-      "forms": [
-        {
-          "surface": "bends",
-          "tag": "third_person"
-        },
-        {
-          "surface": "bent",
-          "tag": "past"
-        },
-        {
-          "surface": "bent",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "bending",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[bend]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "弯曲；弯腰，屈身"
-        }
-      ]
+      "ctx": "弯曲"
     },
     {
       "word": "bow",
-      "lemma": "bow",
-      "kind": "word",
       "type": "outline",
-      "ctx": "鞠躬",
-      "forms": [
-        {
-          "surface": "bows",
-          "tag": "third_person"
-        },
-        {
-          "surface": "bowed",
-          "tag": "past"
-        },
-        {
-          "surface": "bowed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "bowing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[baʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "/"
-        },
-        {
-          "pos": "n.",
-          "meaning": "鞠躬；点头；弯曲"
-        }
-      ]
+      "ctx": "鞠躬"
     },
     {
       "word": "film",
-      "lemma": "film",
-      "kind": "word",
       "type": "outline",
-      "ctx": "电影，影片",
-      "forms": [
-        {
-          "surface": "films",
-          "tag": "plural"
-        },
-        {
-          "surface": "films",
-          "tag": "third_person"
-        },
-        {
-          "surface": "filmed",
-          "tag": "past"
-        },
-        {
-          "surface": "filmed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "filming",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[fɪlm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "电影，影片"
-        },
-        {
-          "pos": "v.",
-          "meaning": "拍摄电影"
-        }
-      ]
+      "ctx": "电影，影片"
     },
     {
       "word": "incident",
-      "lemma": "incident",
-      "kind": "word",
       "type": "outline",
-      "ctx": "事件",
-      "forms": [
-        {
-          "surface": "incidents",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈɪnsɪdənt]",
-      "memory": [
-        "词根记忆：in+cid（落下）+ent（表物）→从天而降的东西→事件"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "事件"
-        }
-      ]
+      "ctx": "事件"
     },
     {
       "word": "intentional",
-      "lemma": "intentional",
-      "kind": "word",
       "type": "core",
-      "ctx": "故意的，有意的",
-      "forms": [],
-      "phonetic": "[ɪnˈtenʃənl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "故意的，有意的"
-        }
-      ]
+      "ctx": "故意的，有意的"
     },
     {
       "word": "kingdom",
-      "lemma": "kingdom",
-      "kind": "word",
       "type": "outline",
-      "ctx": "王国",
-      "forms": [],
-      "phonetic": "[ˈkɪŋdəm]",
-      "memory": [
-        "联想记忆：king（国王）+dom（领域）→国王统治的领域→王国"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "王国；领域；（动物、植物、矿物）界"
-        }
-      ]
+      "ctx": "王国"
     },
     {
       "word": "deliberately",
-      "lemma": "deliberately",
-      "kind": "word",
       "type": "core",
-      "ctx": "故意地，存心地",
-      "forms": [],
-      "phonetic": "[dɪˈlɪbərətli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "故意地，存心地"
-        }
-      ]
+      "ctx": "故意地，存心地"
     },
     {
       "word": "previous",
-      "lemma": "previous",
-      "kind": "word",
       "type": "outline",
-      "ctx": "先前的",
-      "forms": [],
-      "phonetic": "[ˈpriːviəs]",
-      "memory": [
-        "词根记忆：pre（在前的）+vi（路）+ous（……的）→走在前面的→先前的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "先前的；（时间上）稍前的"
-        }
-      ]
+      "ctx": "先前的"
     },
     {
       "word": "ape",
-      "lemma": "ape",
-      "kind": "word",
       "type": "core",
-      "ctx": "猿，类人猿",
-      "forms": [
-        {
-          "surface": "apes",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[eɪp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "猿，类人猿"
-        }
-      ]
+      "ctx": "猿，类人猿"
     },
     {
       "word": "nor",
-      "lemma": "nor",
-      "kind": "word",
       "type": "outline",
-      "ctx": "也不",
-      "forms": [],
-      "phonetic": "[nɔː(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "/"
-        },
-        {
-          "pos": "conj.",
-          "meaning": "也不"
-        }
-      ]
+      "ctx": "也不"
     },
     {
       "word": "appear",
-      "lemma": "appear",
-      "kind": "word",
       "type": "outline",
-      "ctx": "出现",
-      "forms": [
-        {
-          "surface": "appears",
-          "tag": "third_person"
-        },
-        {
-          "surface": "appeared",
-          "tag": "past"
-        },
-        {
-          "surface": "appeared",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "appearing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈpɪə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "出现；显得，看来，似乎"
-        }
-      ]
+      "ctx": "出现"
     },
     {
       "word": "signal",
-      "lemma": "signal",
-      "kind": "word",
       "type": "outline",
-      "ctx": "信号",
-      "forms": [
-        {
-          "surface": "signals",
-          "tag": "plural"
-        },
-        {
-          "surface": "signals",
-          "tag": "third_person"
-        },
-        {
-          "surface": "signaled",
-          "tag": "past"
-        },
-        {
-          "surface": "signaled",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "signaling",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈsɪɡnəl]",
-      "memory": [
-        "来自sign（ n. 标记）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "信号；标志，预示"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "发信号，示意；表明，预示；表示，显示"
-        }
-      ]
+      "ctx": "信号"
     },
     {
       "word": "youngster",
-      "lemma": "youngster",
-      "kind": "word",
       "type": "core",
-      "ctx": "年轻人，少年",
-      "forms": [],
-      "phonetic": "[ˈjʌŋstə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "年轻人，少年"
-        }
-      ]
+      "ctx": "年轻人，少年"
     },
     {
       "word": "evolutionary",
-      "lemma": "evolutionary",
-      "kind": "word",
       "type": "core",
-      "ctx": "进化的，演变的，逐渐发展的",
-      "forms": [],
-      "phonetic": "[ˌiːvəˈluːʃənri; ˌevəˈluːʃənri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "进化的，演变的，逐渐发展的"
-        }
-      ]
+      "ctx": "进化的，演变的，逐渐发展的"
     },
     {
       "word": "biologist",
-      "lemma": "biologist",
-      "kind": "word",
       "type": "core",
-      "ctx": "生物学家",
-      "forms": [],
-      "phonetic": "[baɪˈɒlədʒɪst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "生物学家"
-        }
-      ]
+      "ctx": "生物学家"
     },
     {
       "word": "worthwhile",
-      "lemma": "worthwhile",
-      "kind": "word",
       "type": "outline",
-      "ctx": "重要的，值得的",
-      "forms": [],
-      "phonetic": "[ˌwɜːθˈwaɪl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "重要的，值得的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "用",
-              "items": [
-                "be worthwhile后既可以接动名词也可以接不定式。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "重要的，值得的"
     },
     {
       "word": "enrich",
-      "lemma": "enrich",
-      "kind": "word",
       "type": "core",
-      "ctx": "充实，使丰富，使饱含（某物）",
-      "forms": [
-        {
-          "surface": "enriches",
-          "tag": "third_person"
-        },
-        {
-          "surface": "enriched",
-          "tag": "past"
-        },
-        {
-          "surface": "enriched",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "enriching",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪnˈrɪtʃ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "充实，使丰富，使饱含（某物）；使富裕"
-        }
-      ]
+      "ctx": "充实，使丰富，使饱含（某物）"
     },
     {
       "word": "evolution",
-      "lemma": "evolution",
-      "kind": "word",
       "type": "core",
-      "ctx": "进化",
-      "forms": [],
-      "phonetic": "[ˌiːvəluːʃn; ˌevəˈluːʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "进化；演变，发展"
-        }
-      ]
+      "ctx": "进化"
     },
     {
       "word": "disappointing",
-      "lemma": "disappointing",
-      "kind": "word",
       "type": "core",
-      "ctx": "令人失望的",
-      "forms": [],
-      "phonetic": "[ˌdɪsəˈpɔɪntɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "令人失望的"
-        }
-      ]
+      "ctx": "令人失望的"
     },
     {
       "word": "vagueness",
-      "lemma": "vagueness",
-      "kind": "word",
       "type": "core",
-      "ctx": "模糊，含糊",
-      "forms": [],
-      "phonetic": "[ˈveɪɡnəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "模糊，含糊"
-        }
-      ]
+      "ctx": "模糊，含糊"
     },
     {
       "word": "moreover",
-      "lemma": "moreover",
-      "kind": "word",
       "type": "outline",
-      "ctx": "再者，此外",
-      "forms": [],
-      "phonetic": "[mɔːrˈəʊvə(r)]",
-      "memory": [
-        "合成词：more（更多）+over（超过）→此外"
-      ],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "再者，此外"
-        }
-      ]
+      "ctx": "再者，此外"
     },
     {
       "word": "convey",
-      "lemma": "convey",
-      "kind": "word",
       "type": "core",
-      "ctx": "表达，传递",
-      "forms": [
-        {
-          "surface": "conveys",
-          "tag": "third_person"
-        },
-        {
-          "surface": "conveyed",
-          "tag": "past"
-        },
-        {
-          "surface": "conveyed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "conveying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kənˈveɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "表达，传递；传送，运送"
-        }
-      ]
+      "ctx": "表达，传递"
     },
     {
       "word": "non-verbal",
-      "lemma": "non-verbal",
-      "kind": "word",
       "type": "core",
-      "ctx": "非言语的",
-      "forms": [],
-      "phonetic": "[ˌnɒn ˈvɜːbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "非言语的"
-        }
-      ]
+      "ctx": "非言语的"
     },
     {
       "word": "gulf",
-      "lemma": "gulf",
-      "kind": "word",
       "type": "core",
-      "ctx": "海湾",
-      "forms": [],
-      "phonetic": "[ɡʌlf]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "海湾；分歧，鸿沟，巨大的差距"
-        }
-      ]
+      "ctx": "海湾"
     }
   ]
 }

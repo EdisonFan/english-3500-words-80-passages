@@ -39,1178 +39,248 @@
   "vocab": [
     {
       "word": "true",
-      "lemma": "true",
-      "kind": "word",
       "type": "outline",
-      "ctx": "符合事实的，真的",
-      "forms": [],
-      "phonetic": "[truː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "符合事实的，真的；真正的；确实的"
-        }
-      ]
+      "ctx": "符合事实的，真的"
     },
     {
       "word": "responsible",
-      "lemma": "responsible",
-      "kind": "word",
       "type": "outline",
-      "ctx": "有责任的，应负责任的",
-      "forms": [],
-      "phonetic": "[rɪˈspɒnsəbl]",
-      "memory": [
-        "来自response（ n. 回答；响应）"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "有责任的，应负责任的"
-        }
-      ]
+      "ctx": "有责任的，应负责任的"
     },
     {
       "word": "originate",
-      "lemma": "originate",
-      "kind": "word",
       "type": "core",
-      "ctx": "创立，创建",
-      "forms": [
-        {
-          "surface": "originates",
-          "tag": "third_person"
-        },
-        {
-          "surface": "originated",
-          "tag": "past"
-        },
-        {
-          "surface": "originated",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "originating",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈrɪdʒɪneɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "创立，创建"
-        },
-        {
-          "pos": "v.",
-          "meaning": "起源于"
-        }
-      ]
+      "ctx": "创立，创建"
     },
     {
       "word": "somewhere",
-      "lemma": "somewhere",
-      "kind": "word",
       "type": "outline",
-      "ctx": "在某处，到某处",
-      "forms": [],
-      "phonetic": "[ˈsʌmweə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "在某处，到某处"
-        }
-      ]
+      "ctx": "在某处，到某处"
     },
     {
       "word": "psychologist",
-      "lemma": "psychologist",
-      "kind": "word",
       "type": "core",
-      "ctx": "心理学家",
-      "forms": [
-        {
-          "surface": "Psychologists",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[saɪˈkɒlədʒɪst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "心理学家"
-        }
-      ]
+      "ctx": "心理学家"
     },
     {
       "word": "theory",
-      "lemma": "theory",
-      "kind": "word",
       "type": "outline",
-      "ctx": "理论",
-      "forms": [],
-      "phonetic": "[ˈθɪəri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "理论"
-        }
-      ]
+      "ctx": "理论"
     },
     {
       "word": "problem-solving",
-      "lemma": "problem-solving",
-      "kind": "word",
       "type": "core",
-      "ctx": "解决问题，寻求答案",
-      "forms": [],
-      "phonetic": "[ˈprɒbləm sɒlvɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "解决问题，寻求答案"
-        }
-      ]
+      "ctx": "解决问题，寻求答案"
     },
     {
       "word": "precisely",
-      "lemma": "precisely",
-      "kind": "word",
       "type": "outline",
-      "ctx": "准确地，精确地",
-      "forms": [],
-      "phonetic": "[prɪˈsaɪsli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "准确地，精确地"
-        }
-      ]
+      "ctx": "准确地，精确地"
     },
     {
       "word": "measure",
-      "lemma": "measure",
-      "kind": "word",
       "type": "outline",
-      "ctx": "测量",
-      "forms": [
-        {
-          "surface": "measures",
-          "tag": "plural"
-        },
-        {
-          "surface": "measures",
-          "tag": "third_person"
-        },
-        {
-          "surface": "measured",
-          "tag": "past"
-        },
-        {
-          "surface": "measured",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "measuring",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈmeʒə(r)]",
-      "memory": [
-        "词根记忆：meas（测量）+ure→测量"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "测量；权衡",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "take measures (to do sth.) 采取措施（做某事）"
-              ]
-            },
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "The qualities of time vary with how you measure it.时间的性质随你衡量时间的方式而变化。"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "方法，措施"
-        }
-      ]
+      "ctx": "测量"
     },
     {
       "word": "total",
-      "lemma": "total",
-      "kind": "word",
       "type": "outline",
-      "ctx": "总的，全部的",
-      "forms": [],
-      "phonetic": "[ˈtəʊtl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "总的，全部的；完全的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "总数，合计"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "总数为，共计"
-        }
-      ]
+      "ctx": "总的，全部的"
     },
     {
       "word": "smell",
-      "lemma": "smell",
-      "kind": "word",
       "type": "outline",
-      "ctx": "嗅，闻",
-      "forms": [
-        {
-          "surface": "smells",
-          "tag": "third_person"
-        },
-        {
-          "surface": "smelled",
-          "tag": "past"
-        },
-        {
-          "surface": "smelled",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "smelt",
-          "tag": "past"
-        },
-        {
-          "surface": "smelt",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "smelling",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[smel]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "嗅，闻；有臭味；闻起来"
-        },
-        {
-          "pos": "n.",
-          "meaning": "气味"
-        }
-      ]
+      "ctx": "嗅，闻"
     },
     {
       "word": "amusing",
-      "lemma": "amusing",
-      "kind": "word",
       "type": "core",
-      "ctx": "逗人笑的，有乐趣的，好笑的",
-      "forms": [],
-      "phonetic": "[əˈmjuːzɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "逗人笑的，有乐趣的，好笑的"
-        }
-      ]
+      "ctx": "逗人笑的，有乐趣的，好笑的"
     },
     {
       "word": "awaken",
-      "lemma": "awaken",
-      "kind": "word",
       "type": "core",
-      "ctx": "（使）醒来",
-      "forms": [
-        {
-          "surface": "awakens",
-          "tag": "third_person"
-        },
-        {
-          "surface": "awakened",
-          "tag": "past"
-        },
-        {
-          "surface": "awakened",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "awakening",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈweɪkən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）醒来；被唤起"
-        }
-      ]
+      "ctx": "（使）醒来"
     },
     {
       "word": "newborn",
-      "lemma": "newborn",
-      "kind": "word",
       "type": "core",
-      "ctx": "新生的",
-      "forms": [
-        {
-          "surface": "newborns",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈnjuːbɔːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "新生的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "新生儿"
-        }
-      ]
+      "ctx": "新生的"
     },
     {
       "word": "sad",
-      "lemma": "sad",
-      "kind": "word",
       "type": "outline",
-      "ctx": "难过的",
-      "forms": [],
-      "phonetic": "[sæd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "难过的；令人难过的"
-        }
-      ]
+      "ctx": "难过的"
     },
     {
       "word": "hungry",
-      "lemma": "hungry",
-      "kind": "word",
       "type": "outline",
-      "ctx": "饥饿的",
-      "forms": [],
-      "phonetic": "[ˈhʌŋɡri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "饥饿的；渴望的"
-        }
-      ]
+      "ctx": "饥饿的"
     },
     {
       "word": "unborn",
-      "lemma": "unborn",
-      "kind": "word",
       "type": "core",
-      "ctx": "未出世的，未出生的",
-      "forms": [],
-      "phonetic": "[ˌʌnˈbɔːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "未出世的，未出生的"
-        }
-      ]
+      "ctx": "未出世的，未出生的"
     },
     {
       "word": "baby",
-      "lemma": "baby",
-      "kind": "word",
       "type": "outline",
-      "ctx": "婴儿",
-      "forms": [
-        {
-          "surface": "babies",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈbeɪbi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "婴儿"
-        }
-      ]
+      "ctx": "婴儿"
     },
     {
       "word": "heartbeat",
-      "lemma": "heartbeat",
-      "kind": "word",
       "type": "core",
-      "ctx": "心跳，心跳声",
-      "forms": [
-        {
-          "surface": "heartbeats",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈhɑːtbiːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "心跳，心跳声"
-        }
-      ]
+      "ctx": "心跳，心跳声"
     },
     {
       "word": "cry",
-      "lemma": "cry",
-      "kind": "word",
       "type": "outline",
-      "ctx": "喊叫",
-      "forms": [
-        {
-          "surface": "cries",
-          "tag": "plural"
-        },
-        {
-          "surface": "cries",
-          "tag": "third_person"
-        },
-        {
-          "surface": "cried",
-          "tag": "past"
-        },
-        {
-          "surface": "cried",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "crying",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[kraɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "喊叫；哭"
-        },
-        {
-          "pos": "n.",
-          "meaning": "喊；哭声"
-        }
-      ]
+      "ctx": "喊叫"
     },
     {
       "word": "hug",
-      "lemma": "hug",
-      "kind": "word",
       "type": "outline",
-      "ctx": "紧抱，拥抱",
-      "forms": [
-        {
-          "surface": "hugs",
-          "tag": "plural"
-        },
-        {
-          "surface": "hugs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "hugged",
-          "tag": "past"
-        },
-        {
-          "surface": "hugged",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "hugging",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[hʌɡ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "紧抱，拥抱"
-        },
-        {
-          "pos": "n.",
-          "meaning": "拥抱"
-        }
-      ]
+      "ctx": "紧抱，拥抱"
     },
     {
       "word": "understandably",
-      "lemma": "understandably",
-      "kind": "word",
       "type": "core",
-      "ctx": "可以理解地",
-      "forms": [],
-      "phonetic": "[ˌʌndəˈstændəbli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "可以理解地"
-        }
-      ]
+      "ctx": "可以理解地"
     },
     {
       "word": "theorist",
-      "lemma": "theorist",
-      "kind": "word",
       "type": "core",
-      "ctx": "理论家",
-      "forms": [
-        {
-          "surface": "theorists",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈθɪərɪst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "理论家"
-        }
-      ]
+      "ctx": "理论家"
     },
     {
       "word": "argue",
-      "lemma": "argue",
-      "kind": "word",
       "type": "outline",
-      "ctx": "争论",
-      "forms": [
-        {
-          "surface": "argues",
-          "tag": "third_person"
-        },
-        {
-          "surface": "argued",
-          "tag": "past"
-        },
-        {
-          "surface": "argued",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "arguing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈɑːɡjuː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "争论；争吵；争辩"
-        }
-      ]
+      "ctx": "争论"
     },
     {
       "word": "disagree",
-      "lemma": "disagree",
-      "kind": "word",
       "type": "core",
-      "ctx": "意见不一致，持不同意见",
-      "forms": [
-        {
-          "surface": "disagrees",
-          "tag": "third_person"
-        },
-        {
-          "surface": "disagreed",
-          "tag": "past"
-        },
-        {
-          "surface": "disagreed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "disagreeing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌdɪsəˈɡriː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "意见不一致，持不同意见"
-        }
-      ]
+      "ctx": "意见不一致，持不同意见"
     },
     {
       "word": "nerve",
-      "lemma": "nerve",
-      "kind": "word",
       "type": "core",
-      "ctx": "[C]神经",
-      "forms": [],
-      "phonetic": "[nɜːv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[C]神经；[U]勇气，气魄；[pl.]神经紧张"
-        }
-      ]
+      "ctx": "[C]神经"
     },
     {
       "word": "center",
-      "lemma": "center",
-      "kind": "word",
       "type": "outline",
-      "ctx": "中心",
-      "forms": [
-        {
-          "surface": "centers",
-          "tag": "plural"
-        },
-        {
-          "surface": "centers",
-          "tag": "third_person"
-        },
-        {
-          "surface": "centered",
-          "tag": "past"
-        },
-        {
-          "surface": "centered",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "centering",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈsentə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "中心；中心区"
-        },
-        {
-          "pos": "v.",
-          "meaning": "（把……）集中于"
-        }
-      ]
+      "ctx": "中心"
     },
     {
       "word": "western",
-      "lemma": "western",
-      "kind": "word",
       "type": "outline",
-      "ctx": "西方的",
-      "forms": [],
-      "phonetic": "[ˈwestən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "西方的；西方国家的"
-        }
-      ]
+      "ctx": "西方的"
     },
     {
       "word": "mainstream",
-      "lemma": "mainstream",
-      "kind": "word",
       "type": "core",
-      "ctx": "主流，主流思想",
-      "forms": [],
-      "phonetic": "[ˈmeɪnstriːm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "主流，主流思想"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "主流的"
-        }
-      ]
+      "ctx": "主流，主流思想"
     },
     {
       "word": "theorize",
-      "lemma": "theorize",
-      "kind": "word",
       "type": "core",
-      "ctx": "从理论上说明，理论化",
-      "forms": [
-        {
-          "surface": "theorizes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "theorized",
-          "tag": "past"
-        },
-        {
-          "surface": "theorized",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "theorizing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈθɪəraɪz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "从理论上说明，理论化"
-        }
-      ]
+      "ctx": "从理论上说明，理论化"
     },
     {
       "word": "organic",
-      "lemma": "organic",
-      "kind": "word",
       "type": "outline",
-      "ctx": "有机的",
-      "forms": [],
-      "phonetic": "[ɔːˈɡænɪk]",
-      "memory": [
-        "词根记忆：organ（器官）+ic（……的）→器官的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "有机的；器官的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "organic compound有机化合物"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "有机的"
     },
     {
       "word": "supercomputer",
-      "lemma": "supercomputer",
-      "kind": "word",
       "type": "core",
-      "ctx": "超级计算机",
-      "forms": [],
-      "phonetic": "[ˈsuːpəkəmpjuːtə(r); ˈsjuː-]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "超级计算机"
-        }
-      ]
+      "ctx": "超级计算机"
     },
     {
       "word": "back",
-      "lemma": "back",
-      "kind": "word",
       "type": "outline",
-      "ctx": "回",
-      "forms": [
-        {
-          "surface": "backs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "backed",
-          "tag": "past"
-        },
-        {
-          "surface": "backed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "backing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[bæk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "回；向后"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "背部；后部"
-        },
-        {
-          "pos": "v.",
-          "meaning": "后退；支持"
-        }
-      ]
+      "ctx": "回"
     },
     {
       "word": "hot",
-      "lemma": "hot",
-      "kind": "word",
       "type": "outline",
-      "ctx": "热的",
-      "forms": [],
-      "phonetic": "[hɒt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "热的；辣的；激烈的；热门的"
-        }
-      ]
+      "ctx": "热的"
     },
     {
       "word": "evaluation",
-      "lemma": "evaluation",
-      "kind": "word",
       "type": "core",
-      "ctx": "评估",
-      "forms": [
-        {
-          "surface": "evaluations",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ɪˌvæljuˈeɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "评估"
-        }
-      ]
+      "ctx": "评估"
     },
     {
       "word": "perceive",
-      "lemma": "perceive",
-      "kind": "word",
       "type": "outline",
-      "ctx": "意识到，察觉到",
-      "forms": [
-        {
-          "surface": "perceives",
-          "tag": "third_person"
-        },
-        {
-          "surface": "perceived",
-          "tag": "past"
-        },
-        {
-          "surface": "perceived",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "perceiving",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[pəˈsiːv]",
-      "memory": [
-        "联想记忆：收到（receive）后才察觉到（perceive）有问题"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "意识到，察觉到；将……视为"
-        }
-      ]
+      "ctx": "意识到，察觉到"
     },
     {
       "word": "warmth",
-      "lemma": "warmth",
-      "kind": "word",
       "type": "core",
-      "ctx": "[U]温暖，暖和",
-      "forms": [],
-      "phonetic": "[wɔːmθ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]温暖，暖和；热情"
-        }
-      ]
+      "ctx": "[U]温暖，暖和"
     },
     {
       "word": "coolness",
-      "lemma": "coolness",
-      "kind": "word",
       "type": "core",
-      "ctx": "凉，凉爽，凉快",
-      "forms": [],
-      "phonetic": "[ˈkuːlnəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "凉，凉爽，凉快；冷静，冷漠"
-        }
-      ]
+      "ctx": "凉，凉爽，凉快"
     },
     {
       "word": "temperature",
-      "lemma": "temperature",
-      "kind": "word",
       "type": "outline",
-      "ctx": "温度",
-      "forms": [
-        {
-          "surface": "temperatures",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈtemprətʃə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "温度；体温"
-        }
-      ]
+      "ctx": "温度"
     },
     {
       "word": "proof",
-      "lemma": "proof",
-      "kind": "word",
       "type": "outline",
-      "ctx": "证据，证明",
-      "forms": [],
-      "phonetic": "[pruːf]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "证据，证明"
-        }
-      ]
+      "ctx": "证据，证明"
     },
     {
       "word": "sympathetic",
-      "lemma": "sympathetic",
-      "kind": "word",
       "type": "core",
-      "ctx": "同情的，有同情心的",
-      "forms": [],
-      "phonetic": "[ˌsɪmpəˈθetɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "同情的，有同情心的；赞同的"
-        }
-      ]
+      "ctx": "同情的，有同情心的"
     },
     {
       "word": "frequently",
-      "lemma": "frequently",
-      "kind": "word",
       "type": "outline",
-      "ctx": "经常地，频繁地",
-      "forms": [],
-      "phonetic": "[ˈfriːkwəntli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "经常地，频繁地"
-        }
-      ]
+      "ctx": "经常地，频繁地"
     },
     {
       "word": "refer",
-      "lemma": "refer",
-      "kind": "word",
       "type": "outline",
-      "ctx": "谈到，提到",
-      "forms": [
-        {
-          "surface": "refers",
-          "tag": "third_person"
-        },
-        {
-          "surface": "referred",
-          "tag": "past"
-        },
-        {
-          "surface": "referred",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "referring",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rɪˈfɜː(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "谈到，提到",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "refer to提到，涉及"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "谈到，提到"
     },
     {
       "word": "firm",
-      "lemma": "firm",
-      "kind": "word",
       "type": "outline",
-      "ctx": "公司，企业",
-      "forms": [],
-      "phonetic": "[fɜːm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "公司，企业",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a firm belief坚定的信念"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "adj.",
-          "meaning": "坚固的；坚定的"
-        }
-      ]
+      "ctx": "公司，企业"
     },
     {
       "word": "solid",
-      "lemma": "solid",
-      "kind": "word",
       "type": "outline",
-      "ctx": "结实的",
-      "forms": [],
-      "phonetic": "[ˈsɒlɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "结实的；固体的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "固体"
-        }
-      ]
+      "ctx": "结实的"
     },
     {
       "word": "across",
-      "lemma": "across",
-      "kind": "word",
       "type": "outline",
-      "ctx": "横过，穿过",
-      "forms": [],
-      "phonetic": "[əˈkrɒs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "prep.",
-          "meaning": "横过，穿过；在……各处，遍及"
-        }
-      ]
+      "ctx": "横过，穿过"
     },
     {
       "word": "worst",
-      "lemma": "worst",
-      "kind": "word",
       "type": "outline",
-      "ctx": "最差的",
-      "forms": [],
-      "phonetic": "[wɜːst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "/"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "最坏（的），最差（的）"
-        }
-      ]
+      "ctx": "最差的"
     },
     {
       "word": "cup",
-      "lemma": "cup",
-      "kind": "word",
       "type": "outline",
-      "ctx": "杯子",
-      "forms": [],
-      "phonetic": "[kʌp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "杯子；一杯（的量）；奖杯"
-        }
-      ]
+      "ctx": "杯子"
     },
     {
       "word": "interpersonal",
-      "lemma": "interpersonal",
-      "kind": "word",
       "type": "core",
-      "ctx": "人际的，人与人之间的",
-      "forms": [],
-      "phonetic": "[ˌɪntəˈpɜːsənl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "人际的，人与人之间的"
-        }
-      ]
+      "ctx": "人际的，人与人之间的"
     }
   ]
 }

@@ -44,1230 +44,248 @@
   "vocab": [
     {
       "word": "bet",
-      "lemma": "bet",
-      "kind": "word",
       "type": "outline",
-      "ctx": "用……打赌，下赌注",
-      "forms": [
-        {
-          "surface": "bets",
-          "tag": "third_person"
-        },
-        {
-          "surface": "bet",
-          "tag": "past"
-        },
-        {
-          "surface": "bet",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "betting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[bet]",
-      "memory": [
-        "联想记忆：要想日子更好（better）就不要赌钱（bet）"
-      ],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "用……打赌，下赌注"
-        },
-        {
-          "pos": "n.",
-          "meaning": "打赌，赌注"
-        }
-      ]
+      "ctx": "用……打赌，下赌注"
     },
     {
       "word": "struggle",
-      "lemma": "struggle",
-      "kind": "word",
       "type": "outline",
-      "ctx": "挣扎",
-      "forms": [],
-      "phonetic": "[ˈstrʌɡl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "/",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "struggle to do sth.努力做某事struggle for...为……而奋斗"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vi.",
-          "meaning": "努力，奋斗；斗争；挣扎"
-        }
-      ]
+      "ctx": "挣扎"
     },
     {
       "word": "against",
-      "lemma": "against",
-      "kind": "word",
       "type": "outline",
-      "ctx": "反对，违反",
-      "forms": [],
-      "phonetic": "[əˈɡenst]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "prep.",
-          "meaning": "反对，违反；紧靠；对……不利"
-        }
-      ]
+      "ctx": "反对，违反"
     },
     {
       "word": "debt",
-      "lemma": "debt",
-      "kind": "word",
       "type": "outline",
-      "ctx": "债务，欠款",
-      "forms": [],
-      "phonetic": "[det]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "债务，欠款",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "in debt欠债"
-              ]
-            },
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "loan*（ n. 贷款）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "债务，欠款"
     },
     {
       "word": "misfortune",
-      "lemma": "misfortune",
-      "kind": "word",
       "type": "core",
-      "ctx": "不幸，厄运",
-      "forms": [],
-      "phonetic": "[ˌmɪsˈfɔːtʃuːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "不幸，厄运；不幸的事故"
-        }
-      ]
+      "ctx": "不幸，厄运"
     },
     {
       "word": "injury",
-      "lemma": "injury",
-      "kind": "word",
       "type": "outline",
-      "ctx": "损伤",
-      "forms": [],
-      "phonetic": "[ˈɪndʒəri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "损伤；受伤处"
-        }
-      ]
+      "ctx": "损伤"
     },
     {
       "word": "left",
-      "lemma": "left",
-      "kind": "word",
       "type": "outline",
-      "ctx": "左边的",
-      "forms": [],
-      "phonetic": "[left]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "左边的"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "向左边，在左边"
-        },
-        {
-          "pos": "n.",
-          "meaning": "左；左边"
-        }
-      ]
+      "ctx": "左边的"
     },
     {
       "word": "function",
-      "lemma": "function",
-      "kind": "word",
       "type": "outline",
-      "ctx": "起作用，运转",
-      "forms": [
-        {
-          "surface": "functioning",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈfʌŋkʃn]",
-      "memory": [
-        "词根记忆：funct（活动）+ion（表名词）→有活动能力→功能"
-      ],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "起作用，运转",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "We're thinking about how we can engineer plants to replace functions of the things that we use every day.我们正在考虑如何设计植物以取代我们每天使用的物品的功能。"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "功能，职能"
-        }
-      ]
+      "ctx": "起作用，运转"
     },
     {
       "word": "prison",
-      "lemma": "prison",
-      "kind": "word",
       "type": "outline",
-      "ctx": "监狱",
-      "forms": [],
-      "phonetic": "[ˈprɪzn]",
-      "memory": [
-        "词根记忆：pris（抓）+on→关押被抓之人的地方→监狱"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "监狱",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "arrest*（ vt. / n. 逮捕，拘留）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "监狱"
     },
     {
       "word": "drive",
-      "lemma": "drive",
-      "kind": "word",
       "type": "outline",
-      "ctx": "驾驶，开车",
-      "forms": [
-        {
-          "surface": "drives",
-          "tag": "third_person"
-        },
-        {
-          "surface": "drove",
-          "tag": "past"
-        },
-        {
-          "surface": "driven",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "driving",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[draɪv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "驾驶，开车；驱使，迫使；激励，促进"
-        }
-      ]
+      "ctx": "驾驶，开车"
     },
     {
       "word": "motive",
-      "lemma": "motive",
-      "kind": "word",
       "type": "outline",
-      "ctx": "动机，目的",
-      "forms": [
-        {
-          "surface": "motives",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈməʊtɪv]",
-      "memory": [
-        "词根记忆：mot（移动）+ive→移动的目的→动机"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "动机，目的"
-        }
-      ]
+      "ctx": "动机，目的"
     },
     {
       "word": "resolution",
-      "lemma": "resolution",
-      "kind": "word",
       "type": "outline",
-      "ctx": "决心，决定",
-      "forms": [],
-      "phonetic": "[ˌrezəˈluːʃn]",
-      "memory": [
-        "词根记忆：re（不）+solut（松开）+ion（表名词）→绝不松开→决定"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "决心，决定；解决；决议",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Moreover, the older you are, the more likely you will come to a resolution after an argument.此外，年龄越大，你就越有可能在争论后达成解决方案。"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "决心，决定"
     },
     {
       "word": "appeal",
-      "lemma": "appeal",
-      "kind": "word",
       "type": "outline",
-      "ctx": "吸引力",
-      "forms": [
-        {
-          "surface": "appealed",
-          "tag": "past"
-        }
-      ],
-      "phonetic": "[əˈpiːl]",
-      "memory": [
-        "联想记忆：app（应用程序）+eal（谐音“诱饵”）→手机里的应用程序就像诱饵，对用户有莫大的吸引力→（有）吸引力"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "/",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "appeal to恳求，呼吁；引起兴趣"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vi.",
-          "meaning": "上诉；呼吁，请求；（有）吸引力"
-        }
-      ]
+      "ctx": "吸引力"
     },
     {
       "word": "prisoner",
-      "lemma": "prisoner",
-      "kind": "word",
       "type": "core",
-      "ctx": "战俘",
-      "forms": [],
-      "phonetic": "[ˈprɪznə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "战俘；囚犯"
-        }
-      ]
+      "ctx": "战俘"
     },
     {
       "word": "vitality",
-      "lemma": "vitality",
-      "kind": "word",
       "type": "core",
-      "ctx": "活力",
-      "forms": [],
-      "phonetic": "[vaɪˈtæləti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "活力"
-        }
-      ]
+      "ctx": "活力"
     },
     {
       "word": "steam",
-      "lemma": "steam",
-      "kind": "word",
       "type": "outline",
-      "ctx": "蒸汽，水蒸气",
-      "forms": [],
-      "phonetic": "[stiːm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "蒸汽，水蒸气",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "run out of steam丧失热情，筋疲力尽"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "v.",
-          "meaning": "蒸（食物）；冒水汽"
-        }
-      ]
+      "ctx": "蒸汽，水蒸气"
     },
     {
       "word": "fail",
-      "lemma": "fail",
-      "kind": "word",
       "type": "outline",
-      "ctx": "失败，未能（做到）",
-      "forms": [
-        {
-          "surface": "fails",
-          "tag": "third_person"
-        },
-        {
-          "surface": "failed",
-          "tag": "past"
-        },
-        {
-          "surface": "failed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "failing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[feɪl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "失败，未能（做到）；不及格；衰退；出故障"
-        }
-      ]
+      "ctx": "失败，未能（做到）"
     },
     {
       "word": "adopt",
-      "lemma": "adopt",
-      "kind": "word",
       "type": "outline",
-      "ctx": "采用",
-      "forms": [
-        {
-          "surface": "adopts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "adopted",
-          "tag": "past"
-        },
-        {
-          "surface": "adopted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "adopting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈdɒpt]",
-      "memory": [
-        "词根记忆：ad（表加强）+opt（选择）→选择后采用→采用"
-      ],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "采用；收养"
-        }
-      ]
+      "ctx": "采用"
     },
     {
       "word": "attitude",
-      "lemma": "attitude",
-      "kind": "word",
       "type": "outline",
-      "ctx": "态度，看法",
-      "forms": [
-        {
-          "surface": "attitudes",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈætɪtjuːd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "态度，看法",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "one's attitude to/toward(s) sth.某人对某事的态度"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "态度，看法"
     },
     {
       "word": "opinion",
-      "lemma": "opinion",
-      "kind": "word",
       "type": "outline",
-      "ctx": "看法，见解",
-      "forms": [
-        {
-          "surface": "opinions",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[əˈpɪnjən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "看法，见解",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "in one's opinion在某人看来，某人认为"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "看法，见解"
     },
     {
       "word": "progressively",
-      "lemma": "progressively",
-      "kind": "word",
       "type": "core",
-      "ctx": "持续稳定地，逐步地",
-      "forms": [],
-      "phonetic": "[prəˈɡresɪvli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "持续稳定地，逐步地"
-        }
-      ]
+      "ctx": "持续稳定地，逐步地"
     },
     {
       "word": "narrow",
-      "lemma": "narrow",
-      "kind": "word",
       "type": "outline",
-      "ctx": "狭窄的",
-      "forms": [],
-      "phonetic": "[ˈnærəʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "狭窄的"
-        },
-        {
-          "pos": "v.",
-          "meaning": "（使）缩小，变窄"
-        }
-      ]
+      "ctx": "狭窄的"
     },
     {
       "word": "variety",
-      "lemma": "variety",
-      "kind": "word",
       "type": "outline",
-      "ctx": "变化，多样性",
-      "forms": [],
-      "phonetic": "[vəˈraɪəti]",
-      "memory": [
-        "词根记忆：vari（改变）+ety→变化"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "变化，多样性；种类；品种"
-        }
-      ]
+      "ctx": "变化，多样性"
     },
     {
       "word": "succeed",
-      "lemma": "succeed",
-      "kind": "word",
       "type": "outline",
-      "ctx": "成功",
-      "forms": [
-        {
-          "surface": "succeeds",
-          "tag": "third_person"
-        },
-        {
-          "surface": "succeeded",
-          "tag": "past"
-        },
-        {
-          "surface": "succeeded",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "succeeding",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[səkˈsiːd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vi.",
-          "meaning": "成功；办到，做成",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "succeed in (doing) sth.成功做到某事"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "继任，接替"
-        }
-      ]
+      "ctx": "成功"
     },
     {
       "word": "field",
-      "lemma": "field",
-      "kind": "word",
       "type": "outline",
-      "ctx": "田地，田野",
-      "forms": [],
-      "phonetic": "[fiːld]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "田地，田野；场地；领域，界"
-        }
-      ]
+      "ctx": "田地，田野"
     },
     {
       "word": "specialization",
-      "lemma": "specialization",
-      "kind": "word",
       "type": "core",
-      "ctx": "专门化",
-      "forms": [],
-      "phonetic": "[ˌspeʃəlaɪˈzeɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "专门化；专业"
-        }
-      ]
+      "ctx": "专门化"
     },
     {
       "word": "trap",
-      "lemma": "trap",
-      "kind": "word",
       "type": "outline",
-      "ctx": "使陷入困境",
-      "forms": [
-        {
-          "surface": "traps",
-          "tag": "third_person"
-        },
-        {
-          "surface": "trapped",
-          "tag": "past"
-        },
-        {
-          "surface": "trapped",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "trapping",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[træp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "使陷入困境；卡住；吸收",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "A rescue worker risked his life saving two tourists who had been trapped in the mountains for two days.一名救援人员冒着生命危险救了两名困在山里两天的游客。"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "陷阱，圈套"
-        }
-      ]
+      "ctx": "使陷入困境"
     },
     {
       "word": "willing",
-      "lemma": "willing",
-      "kind": "word",
       "type": "core",
-      "ctx": "情愿的，乐意的",
-      "forms": [],
-      "phonetic": "[ˈwɪlɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "情愿的，乐意的"
-        }
-      ]
+      "ctx": "情愿的，乐意的"
     },
     {
       "word": "opportunity",
-      "lemma": "opportunity",
-      "kind": "word",
       "type": "outline",
-      "ctx": "机会，时机，机遇",
-      "forms": [
-        {
-          "surface": "opportunities",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˌɒpəˈtjuːnəti]",
-      "memory": [
-        "联想记忆：op+port（港口）+unity（统一）→进入港口，统一抓住机会→机会"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "机会，时机，机遇",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "job opportunity工作机会"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "机会，时机，机遇"
     },
     {
       "word": "maturity",
-      "lemma": "maturity",
-      "kind": "word",
       "type": "core",
-      "ctx": "成熟",
-      "forms": [],
-      "phonetic": "[məˈtʃʊərəti; məˈtjʊərəti]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "成熟；成年"
-        }
-      ]
+      "ctx": "成熟"
     },
     {
       "word": "seldom",
-      "lemma": "seldom",
-      "kind": "word",
       "type": "outline",
-      "ctx": "很少，不常",
-      "forms": [],
-      "phonetic": "[ˈseldəm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "很少，不常"
-        }
-      ]
+      "ctx": "很少，不常"
     },
     {
       "word": "information",
-      "lemma": "information",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U]信息",
-      "forms": [],
-      "phonetic": "[ˌɪnfəˈmeɪʃn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]信息"
-        }
-      ]
+      "ctx": "[U]信息"
     },
     {
       "word": "bear",
-      "lemma": "bear",
-      "kind": "word",
       "type": "outline",
-      "ctx": "承担",
-      "forms": [
-        {
-          "surface": "bears",
-          "tag": "third_person"
-        },
-        {
-          "surface": "bore",
-          "tag": "past"
-        },
-        {
-          "surface": "borne",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "bearing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[beə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "承担；承受，忍受",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "bear with sb./sth.耐心对待，容忍"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "熊"
-        }
-      ]
+      "ctx": "承担"
     },
     {
       "word": "please",
-      "lemma": "please",
-      "kind": "word",
       "type": "outline",
-      "ctx": "请",
-      "forms": [
-        {
-          "surface": "pleases",
-          "tag": "third_person"
-        },
-        {
-          "surface": "pleased",
-          "tag": "past"
-        },
-        {
-          "surface": "pleased",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "pleasing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[pliːz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "int.",
-          "meaning": "请"
-        },
-        {
-          "pos": "v.",
-          "meaning": "使满意，使愉快；想，喜欢"
-        }
-      ]
+      "ctx": "请"
     },
     {
       "word": "trouble",
-      "lemma": "trouble",
-      "kind": "word",
       "type": "outline",
-      "ctx": "问题",
-      "forms": [
-        {
-          "surface": "troubles",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈtrʌbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "问题；疾病；麻烦",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "have trouble (in) doing...在做……方面有困难"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "使苦恼，使忧虑，使麻烦"
-        }
-      ]
+      "ctx": "问题"
     },
     {
       "word": "eventually",
-      "lemma": "eventually",
-      "kind": "word",
       "type": "outline",
-      "ctx": "最终地",
-      "forms": [],
-      "phonetic": "[ɪˈventʃuəli]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "最终地"
-        }
-      ]
+      "ctx": "最终地"
     },
     {
       "word": "relaxing",
-      "lemma": "relaxing",
-      "kind": "word",
       "type": "core",
-      "ctx": "令人放松的",
-      "forms": [],
-      "phonetic": "[rɪˈlæksɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "令人放松的"
-        }
-      ]
+      "ctx": "令人放松的"
     },
     {
       "word": "enthusiasm",
-      "lemma": "enthusiasm",
-      "kind": "word",
       "type": "core",
-      "ctx": "[U]热心，热情，热忱",
-      "forms": [],
-      "phonetic": "[ɪnˈθjuːziæzəm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]热心，热情，热忱；[C]热衷的事物"
-        }
-      ]
+      "ctx": "[U]热心，热情，热忱"
     },
     {
       "word": "large",
-      "lemma": "large",
-      "kind": "word",
       "type": "outline",
-      "ctx": "大的",
-      "forms": [
-        {
-          "surface": "larger",
-          "tag": "comparative"
-        },
-        {
-          "surface": "largest",
-          "tag": "superlative"
-        }
-      ],
-      "phonetic": "[lɑːdʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "大的；大型号的；众多的"
-        }
-      ]
+      "ctx": "大的"
     },
     {
       "word": "whether",
-      "lemma": "whether",
-      "kind": "word",
       "type": "outline",
-      "ctx": "是否",
-      "forms": [],
-      "phonetic": "[ˈweðə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "conj.",
-          "meaning": "是否"
-        }
-      ]
+      "ctx": "是否"
     },
     {
       "word": "fellow",
-      "lemma": "fellow",
-      "kind": "word",
       "type": "outline",
-      "ctx": "家伙，小伙子",
-      "forms": [],
-      "phonetic": "[ˈfeləʊ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "家伙，小伙子；[pl]同辈，同类"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "同类的，同种情况的"
-        }
-      ]
+      "ctx": "家伙，小伙子"
     },
     {
       "word": "moral",
-      "lemma": "moral",
-      "kind": "word",
       "type": "outline",
-      "ctx": "道德的，精神的",
-      "forms": [],
-      "phonetic": "[ˈmɒrəl]",
-      "memory": [
-        "词根记忆：mor（道德）+al（……的）→道德的"
-      ],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "道德的，精神的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "道德；寓意"
-        }
-      ]
+      "ctx": "道德的，精神的"
     },
     {
       "word": "occupation",
-      "lemma": "occupation",
-      "kind": "word",
       "type": "outline",
-      "ctx": "职业，工作",
-      "forms": [
-        {
-          "surface": "occupations",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˌɒkjuˈpeɪʃn]",
-      "memory": [
-        "词根记忆：oc（表加强）+cup（抓）+ation（表名词）→抓住→占领"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "职业，工作；占领，占据"
-        }
-      ]
+      "ctx": "职业，工作"
     },
     {
       "word": "nursing",
-      "lemma": "nursing",
-      "kind": "word",
       "type": "core",
-      "ctx": "护理，看护",
-      "forms": [],
-      "phonetic": "[ˈnɜːsɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "护理，看护"
-        }
-      ]
+      "ctx": "护理，看护"
     },
     {
       "word": "ordinary",
-      "lemma": "ordinary",
-      "kind": "word",
       "type": "outline",
-      "ctx": "普通的，平常的",
-      "forms": [],
-      "phonetic": "[ˈɔːdnri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "普通的，平常的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "ordinary people普通人，百姓"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "普通的，平常的"
     },
     {
       "word": "admirable",
-      "lemma": "admirable",
-      "kind": "word",
       "type": "core",
-      "ctx": "令人钦佩的，令人羡慕的",
-      "forms": [],
-      "phonetic": "[ˈædmərəbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "令人钦佩的，令人羡慕的"
-        }
-      ]
+      "ctx": "令人钦佩的，令人羡慕的"
     },
     {
       "word": "truck",
-      "lemma": "truck",
-      "kind": "word",
       "type": "outline",
-      "ctx": "卡车",
-      "forms": [],
-      "phonetic": "[trʌk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "卡车；敞篷货车"
-        }
-      ]
+      "ctx": "卡车"
     },
     {
       "word": "shop",
-      "lemma": "shop",
-      "kind": "word",
       "type": "outline",
-      "ctx": "商店",
-      "forms": [
-        {
-          "surface": "shops",
-          "tag": "plural"
-        },
-        {
-          "surface": "shops",
-          "tag": "third_person"
-        },
-        {
-          "surface": "shopped",
-          "tag": "past"
-        },
-        {
-          "surface": "shopped",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "shopping",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ʃɒp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "商店；作坊；购物"
-        },
-        {
-          "pos": "v.",
-          "meaning": "购物"
-        }
-      ]
+      "ctx": "商店"
     },
     {
       "word": "lesson",
-      "lemma": "lesson",
-      "kind": "word",
       "type": "outline",
-      "ctx": "一节课",
-      "forms": [],
-      "phonetic": "[ˈlesn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "一节课；课；功课；教训",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "unit*（ n. 单元；单位）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "一节课"
     }
   ]
 }

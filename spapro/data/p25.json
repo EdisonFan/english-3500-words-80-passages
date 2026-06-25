@@ -39,1553 +39,318 @@
   "vocab": [
     {
       "word": "I",
-      "lemma": "I",
-      "kind": "word",
       "type": "core",
-      "ctx": "我",
-      "forms": [],
-      "phonetic": "[aɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "pron.",
-          "meaning": "我"
-        }
-      ]
+      "ctx": "我"
     },
     {
       "word": "have",
-      "lemma": "have",
-      "kind": "word",
       "type": "outline",
-      "ctx": "有",
-      "forms": [
-        {
-          "surface": "has",
-          "tag": "third_person"
-        },
-        {
-          "surface": "had",
-          "tag": "past"
-        },
-        {
-          "surface": "had",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "having",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əv; həv; hæv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "有；使；显示出；进行；吃，喝；得到"
-        },
-        {
-          "pos": "aux.",
-          "meaning": ""
-        },
-        {
-          "pos": "v.",
-          "meaning": "（与过去分词连用构成完成时态）"
-        }
-      ]
+      "ctx": "有"
     },
     {
       "word": "library",
-      "lemma": "library",
-      "kind": "word",
       "type": "outline",
-      "ctx": "图书馆",
-      "forms": [
-        {
-          "surface": "libraries",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈlaɪbrəri; ˈlaɪbri]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "图书馆"
-        }
-      ]
+      "ctx": "图书馆"
     },
     {
       "word": "enthusiastic",
-      "lemma": "enthusiastic",
-      "kind": "word",
       "type": "outline",
-      "ctx": "热心的，热情的",
-      "forms": [],
-      "phonetic": "[ɪnˌθjuːziˈæstɪk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "热心的，热情的",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "be enthusiastic about对……充满热情的an enthusiastic reader一个热情的读者"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "热心的，热情的"
     },
     {
       "word": "reader",
-      "lemma": "reader",
-      "kind": "word",
       "type": "core",
-      "ctx": "读者",
-      "forms": [],
-      "phonetic": "[ˈriːdə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "读者；简易读物，读本"
-        }
-      ]
+      "ctx": "读者"
     },
     {
       "word": "sometimes",
-      "lemma": "sometimes",
-      "kind": "word",
       "type": "outline",
-      "ctx": "有时",
-      "forms": [],
-      "phonetic": "[ˈsʌmtaɪmz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "有时"
-        }
-      ]
+      "ctx": "有时"
     },
     {
       "word": "air",
-      "lemma": "air",
-      "kind": "word",
       "type": "outline",
-      "ctx": "天空",
-      "forms": [],
-      "phonetic": "[eə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "天空；空气；神态"
-        }
-      ]
+      "ctx": "天空"
     },
     {
       "word": "ball",
-      "lemma": "ball",
-      "kind": "word",
       "type": "outline",
-      "ctx": "球，球状物",
-      "forms": [],
-      "phonetic": "[bɔːl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "球，球状物；舞会"
-        }
-      ]
+      "ctx": "球，球状物"
     },
     {
       "word": "adventure",
-      "lemma": "adventure",
-      "kind": "word",
       "type": "outline",
-      "ctx": "冒险，奇遇",
-      "forms": [
-        {
-          "surface": "adventures",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ədˈventʃə(r)]",
-      "memory": [
-        "词根记忆：ad（表加强）+vent（来）+ure（表行为）→大家一起来\"冒险\"→冒险"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "冒险，奇遇"
-        }
-      ]
+      "ctx": "冒险，奇遇"
     },
     {
       "word": "equator",
-      "lemma": "equator",
-      "kind": "word",
       "type": "outline",
-      "ctx": "赤道",
-      "forms": [],
-      "phonetic": "[ɪˈkweɪtə(r)]",
-      "memory": [
-        "词根记忆：equat（相等）+or（表物）→将（地球南北）平分的东西→赤道"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "赤道"
-        }
-      ]
+      "ctx": "赤道"
     },
     {
       "word": "palace",
-      "lemma": "palace",
-      "kind": "word",
       "type": "outline",
-      "ctx": "宫，宫殿",
-      "forms": [
-        {
-          "surface": "palaces",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈpæləs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "宫，宫殿"
-        }
-      ]
+      "ctx": "宫，宫殿"
     },
     {
       "word": "whisper",
-      "lemma": "whisper",
-      "kind": "word",
       "type": "outline",
-      "ctx": "低语，私语",
-      "forms": [
-        {
-          "surface": "whispers",
-          "tag": "plural"
-        },
-        {
-          "surface": "whispers",
-          "tag": "third_person"
-        },
-        {
-          "surface": "whispered",
-          "tag": "past"
-        },
-        {
-          "surface": "whispered",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "whispering",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈwɪspə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "低语，私语；轻柔的声音",
-          "extras": [
-            {
-              "type": "ex",
-              "label": "例",
-              "items": [
-                "Nervously facing challenges, I will whisper to myself the two simple words \"Be yourself.\"面对挑战紧张不安时，我会悄声对自己说几个简单的字：\"做你自己。\""
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "v.",
-          "meaning": "低语，小声说；私下说；沙沙作响"
-        }
-      ]
+      "ctx": "低语，私语"
     },
     {
       "word": "dream",
-      "lemma": "dream",
-      "kind": "word",
       "type": "outline",
-      "ctx": "做梦",
-      "forms": [
-        {
-          "surface": "dreams",
-          "tag": "plural"
-        },
-        {
-          "surface": "dreams",
-          "tag": "third_person"
-        },
-        {
-          "surface": "dreamt",
-          "tag": "past"
-        },
-        {
-          "surface": "dreamt",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "dreaming",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[driːm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "做梦；梦想",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "dream sth.up凭空想出，虚构出"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "梦；梦想，理想"
-        }
-      ]
+      "ctx": "做梦"
     },
     {
       "word": "everything",
-      "lemma": "everything",
-      "kind": "word",
       "type": "outline",
-      "ctx": "每件事",
-      "forms": [],
-      "phonetic": "[ˈevriθɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "pron.",
-          "meaning": "每件事；一切，所有的东西"
-        }
-      ]
+      "ctx": "每件事"
     },
     {
       "word": "shelve",
-      "lemma": "shelve",
-      "kind": "word",
       "type": "core",
-      "ctx": "搁置，停止（计划）",
-      "forms": [
-        {
-          "surface": "shelves",
-          "tag": "third_person"
-        },
-        {
-          "surface": "shelved",
-          "tag": "past"
-        },
-        {
-          "surface": "shelved",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "shelving",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ʃelv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "搁置，停止（计划）；把……放在架子上",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "shelf*（ n. 架子，搁板）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "搁置，停止（计划）"
     },
     {
       "word": "bell",
-      "lemma": "bell",
-      "kind": "word",
       "type": "outline",
-      "ctx": "钟，铃",
-      "forms": [],
-      "phonetic": "[bel]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "钟，铃；钟声，铃声"
-        }
-      ]
+      "ctx": "钟，铃"
     },
     {
       "word": "ring",
-      "lemma": "ring",
-      "kind": "word",
       "type": "outline",
-      "ctx": "响",
-      "forms": [
-        {
-          "surface": "rings",
-          "tag": "third_person"
-        },
-        {
-          "surface": "rang",
-          "tag": "past"
-        },
-        {
-          "surface": "rung",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "ringing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（钟、铃等）响；打电话"
-        },
-        {
-          "pos": "n.",
-          "meaning": "电话铃声；环形物"
-        }
-      ]
+      "ctx": "响"
     },
     {
       "word": "added",
-      "lemma": "added",
-      "kind": "word",
       "type": "core",
-      "ctx": "额外的，更多的",
-      "forms": [],
-      "phonetic": "[ˈædɪd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "额外的，更多的"
-        }
-      ]
+      "ctx": "额外的，更多的"
     },
     {
       "word": "our",
-      "lemma": "our",
-      "kind": "word",
       "type": "outline",
-      "ctx": "我们的",
-      "forms": [],
-      "phonetic": "[ˈaʊə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "det.",
-          "meaning": "我们的"
-        }
-      ]
+      "ctx": "我们的"
     },
     {
       "word": "entertainment",
-      "lemma": "entertainment",
-      "kind": "word",
       "type": "outline",
-      "ctx": "娱乐",
-      "forms": [],
-      "phonetic": "[ˌentəˈteɪnmənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "娱乐；招待"
-        }
-      ]
+      "ctx": "娱乐"
     },
     {
       "word": "load",
-      "lemma": "load",
-      "kind": "word",
       "type": "outline",
-      "ctx": "装上",
-      "forms": [
-        {
-          "surface": "loads",
-          "tag": "plural"
-        },
-        {
-          "surface": "loads",
-          "tag": "third_person"
-        },
-        {
-          "surface": "loaded",
-          "tag": "past"
-        },
-        {
-          "surface": "loaded",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "loading",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ləʊd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "装上；装载"
-        },
-        {
-          "pos": "n.",
-          "meaning": "担子，货物；负担"
-        }
-      ]
+      "ctx": "装上"
     },
     {
       "word": "local",
-      "lemma": "local",
-      "kind": "word",
       "type": "outline",
-      "ctx": "当地的，地方的",
-      "forms": [],
-      "phonetic": "[ˈləʊkl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "当地的，地方的"
-        }
-      ]
+      "ctx": "当地的，地方的"
     },
     {
       "word": "pack",
-      "lemma": "pack",
-      "kind": "word",
       "type": "outline",
-      "ctx": "包装",
-      "forms": [
-        {
-          "surface": "packs",
-          "tag": "plural"
-        },
-        {
-          "surface": "packs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "packed",
-          "tag": "past"
-        },
-        {
-          "surface": "packed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "packing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[pæk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "包装；收拾（行李），装（箱）"
-        },
-        {
-          "pos": "n.",
-          "meaning": "包，背包；一群"
-        }
-      ]
+      "ctx": "包装"
     },
     {
       "word": "hamburger",
-      "lemma": "hamburger",
-      "kind": "word",
       "type": "outline",
-      "ctx": "汉堡包",
-      "forms": [
-        {
-          "surface": "hamburgers",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈhæmbɜːɡə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "汉堡包"
-        }
-      ]
+      "ctx": "汉堡包"
     },
     {
       "word": "dumpling",
-      "lemma": "dumpling",
-      "kind": "word",
       "type": "outline",
-      "ctx": "饺子",
-      "forms": [
-        {
-          "surface": "dumplings",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈdʌmplɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "饺子"
-        }
-      ]
+      "ctx": "饺子"
     },
     {
       "word": "pie",
-      "lemma": "pie",
-      "kind": "word",
       "type": "outline",
-      "ctx": "派，馅饼",
-      "forms": [
-        {
-          "surface": "pies",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[paɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "派，馅饼"
-        }
-      ]
+      "ctx": "派，馅饼"
     },
     {
       "word": "downtown",
-      "lemma": "downtown",
-      "kind": "word",
       "type": "outline",
-      "ctx": "市中心",
-      "forms": [],
-      "phonetic": "[ˈdaʊntaʊn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "市中心"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "市中心的"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "在市中心，往市中心"
-        }
-      ]
+      "ctx": "市中心"
     },
     {
       "word": "could",
-      "lemma": "could",
-      "kind": "word",
       "type": "outline",
-      "ctx": "能，可以",
-      "forms": [],
-      "phonetic": "[kʊd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "modal v.",
-          "meaning": "能，可以；可能"
-        }
-      ]
+      "ctx": "能，可以"
     },
     {
       "word": "them",
-      "lemma": "them",
-      "kind": "word",
       "type": "outline",
-      "ctx": "他（她、它）们",
-      "forms": [],
-      "phonetic": "[ðəm; ðem]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "pron.",
-          "meaning": "他（她、它）们"
-        }
-      ]
+      "ctx": "他（她、它）们"
     },
     {
       "word": "dragon",
-      "lemma": "dragon",
-      "kind": "word",
       "type": "outline",
-      "ctx": "龙",
-      "forms": [
-        {
-          "surface": "dragons",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈdræɡən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "龙"
-        }
-      ]
+      "ctx": "龙"
     },
     {
       "word": "whale",
-      "lemma": "whale",
-      "kind": "word",
       "type": "outline",
-      "ctx": "鲸",
-      "forms": [
-        {
-          "surface": "whales",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[weɪl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "鲸",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "shark*（ n. 鲨鱼）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "鲸"
     },
     {
       "word": "act",
-      "lemma": "act",
-      "kind": "word",
       "type": "outline",
-      "ctx": "行为",
-      "forms": [
-        {
-          "surface": "acts",
-          "tag": "plural"
-        },
-        {
-          "surface": "acts",
-          "tag": "third_person"
-        },
-        {
-          "surface": "acted",
-          "tag": "past"
-        },
-        {
-          "surface": "acted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "acting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ækt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "行为；行动；（戏剧的）一幕；法令",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "act out将……表演出来"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "v.",
-          "meaning": "行动；举止；扮演"
-        }
-      ]
+      "ctx": "行为"
     },
     {
       "word": "with",
-      "lemma": "with",
-      "kind": "word",
       "type": "outline",
-      "ctx": "和，同",
-      "forms": [],
-      "phonetic": "[wɪð]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "prep.",
-          "meaning": "和，同；用，以；随着；有；关于"
-        }
-      ]
+      "ctx": "和，同"
     },
     {
       "word": "crayon",
-      "lemma": "crayon",
-      "kind": "word",
       "type": "outline",
-      "ctx": "彩色铅笔（或粉笔、蜡笔）",
-      "forms": [
-        {
-          "surface": "crayons",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈkreɪən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "彩色铅笔（或粉笔、蜡笔）"
-        }
-      ]
+      "ctx": "彩色铅笔（或粉笔、蜡笔）"
     },
     {
       "word": "bond",
-      "lemma": "bond",
-      "kind": "word",
       "type": "outline",
-      "ctx": "纽带，联系",
-      "forms": [],
-      "phonetic": "[ɒnd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "纽带，联系",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a bond of friendship一种友谊的纽带"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "v.",
-          "meaning": "（使）黏合；建立关系"
-        }
-      ]
+      "ctx": "纽带，联系"
     },
     {
       "word": "fill",
-      "lemma": "fill",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（使）充满，装满",
-      "forms": [
-        {
-          "surface": "filled",
-          "tag": "past"
-        }
-      ],
-      "phonetic": "[fɪl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "（使）充满，装满",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "fill in填写（表格等）；填满fill with（使）充满"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "（使）充满，装满"
     },
     {
       "word": "wonderment",
-      "lemma": "wonderment",
-      "kind": "word",
       "type": "core",
-      "ctx": "惊喜，惊叹",
-      "forms": [],
-      "phonetic": "[ˈwʌndəmənt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "惊喜，惊叹"
-        }
-      ]
+      "ctx": "惊喜，惊叹"
     },
     {
       "word": "see",
-      "lemma": "see",
-      "kind": "word",
       "type": "outline",
-      "ctx": "看见，看到",
-      "forms": [
-        {
-          "surface": "sees",
-          "tag": "third_person"
-        },
-        {
-          "surface": "saw",
-          "tag": "past"
-        },
-        {
-          "surface": "seen",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "seeing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[siː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "看见，看到；领会"
-        }
-      ]
+      "ctx": "看见，看到"
     },
     {
       "word": "from",
-      "lemma": "from",
-      "kind": "word",
       "type": "outline",
-      "ctx": "从",
-      "forms": [],
-      "phonetic": "[frɒm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "prep.",
-          "meaning": "从；从……起；距；来自"
-        }
-      ]
+      "ctx": "从"
     },
     {
       "word": "generation",
-      "lemma": "generation",
-      "kind": "word",
       "type": "outline",
-      "ctx": "代，一代",
-      "forms": [],
-      "phonetic": "[ˌdʒenəˈreɪʃn]",
-      "memory": [
-        "词根记忆：gener（出生，产生）+ation →代，一代"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "代，一代",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "generation gap代沟"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "代，一代"
     },
     {
       "word": "novelist",
-      "lemma": "novelist",
-      "kind": "word",
       "type": "outline",
-      "ctx": "小说家",
-      "forms": [],
-      "phonetic": "[ˈnɒvəlɪst]",
-      "memory": [
-        "词根记忆：novel（小说）+ist（表人）→小说家"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "小说家"
-        }
-      ]
+      "ctx": "小说家"
     },
     {
       "word": "relationship",
-      "lemma": "relationship",
-      "kind": "word",
       "type": "outline",
-      "ctx": "关系，联系",
-      "forms": [],
-      "phonetic": "[rɪˈleɪʃnʃɪp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "关系，联系"
-        }
-      ]
+      "ctx": "关系，联系"
     },
     {
       "word": "when",
-      "lemma": "when",
-      "kind": "word",
       "type": "outline",
-      "ctx": "当……的时候",
-      "forms": [],
-      "phonetic": "[wen]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "conj.",
-          "meaning": "当……的时候"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "什么时候；在那时"
-        }
-      ]
+      "ctx": "当……的时候"
     },
     {
       "word": "budget",
-      "lemma": "budget",
-      "kind": "word",
       "type": "outline",
-      "ctx": "预算",
-      "forms": [],
-      "phonetic": "[ˈbʌdʒɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "预算"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "价格低廉的"
-        }
-      ]
+      "ctx": "预算"
     },
     {
       "word": "afford",
-      "lemma": "afford",
-      "kind": "word",
       "type": "outline",
-      "ctx": "买得起",
-      "forms": [
-        {
-          "surface": "affords",
-          "tag": "third_person"
-        },
-        {
-          "surface": "afforded",
-          "tag": "past"
-        },
-        {
-          "surface": "afforded",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "affording",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[əˈfɔːd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "买得起；有时间做；承担得起"
-        }
-      ]
+      "ctx": "买得起"
     },
     {
       "word": "purchase",
-      "lemma": "purchase",
-      "kind": "word",
       "type": "outline",
-      "ctx": "购买",
-      "forms": [
-        {
-          "surface": "purchases",
-          "tag": "plural"
-        },
-        {
-          "surface": "purchases",
-          "tag": "third_person"
-        },
-        {
-          "surface": "purchased",
-          "tag": "past"
-        },
-        {
-          "surface": "purchased",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "purchasing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈpɜːtʃəs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "/",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "make a purchase采购purchase price进价，购买价"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "购买"
-        }
-      ]
+      "ctx": "购买"
     },
     {
       "word": "safe",
-      "lemma": "safe",
-      "kind": "word",
       "type": "outline",
-      "ctx": "安全的",
-      "forms": [],
-      "phonetic": "[seɪf]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "安全的；牢靠的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "保险箱，保险柜"
-        }
-      ]
+      "ctx": "安全的"
     },
     {
       "word": "bridge",
-      "lemma": "bridge",
-      "kind": "word",
       "type": "outline",
-      "ctx": "桥，桥梁",
-      "forms": [
-        {
-          "surface": "bridges",
-          "tag": "plural"
-        },
-        {
-          "surface": "bridges",
-          "tag": "third_person"
-        },
-        {
-          "surface": "bridged",
-          "tag": "past"
-        },
-        {
-          "surface": "bridged",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "bridging",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[brɪdʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "桥，桥梁"
-        },
-        {
-          "pos": "v.",
-          "meaning": "架桥于；把……连接起来"
-        }
-      ]
+      "ctx": "桥，桥梁"
     },
     {
       "word": "together",
-      "lemma": "together",
-      "kind": "word",
       "type": "outline",
-      "ctx": "一起，共同",
-      "forms": [],
-      "phonetic": "[təˈɡeðə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "一起，共同"
-        }
-      ]
+      "ctx": "一起，共同"
     },
     {
       "word": "noble",
-      "lemma": "noble",
-      "kind": "word",
       "type": "outline",
-      "ctx": "崇高的，品质高尚的",
-      "forms": [],
-      "phonetic": "[ˈnəʊbl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "崇高的，品质高尚的；宏伟的；贵族的，高贵的"
-        }
-      ]
+      "ctx": "崇高的，品质高尚的"
     },
     {
       "word": "gray",
-      "lemma": "gray",
-      "kind": "word",
       "type": "outline",
-      "ctx": "（=grey）灰色的，灰白色的",
-      "forms": [],
-      "phonetic": "[ɡreɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "（=grey）灰色的，灰白色的；头发花白的；苍白的"
-        }
-      ]
+      "ctx": "（=grey）灰色的，灰白色的"
     },
     {
       "word": "column",
-      "lemma": "column",
-      "kind": "word",
       "type": "outline",
-      "ctx": "柱状物，柱状体",
-      "forms": [
-        {
-          "surface": "columns",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈkɒləm]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "柱状物，柱状体；（报刊的）专栏",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "pole*（ n. 柱子；杆子；地极）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "柱状物，柱状体"
     },
     {
       "word": "librarian",
-      "lemma": "librarian",
-      "kind": "word",
       "type": "outline",
-      "ctx": "图书管理员，图书馆馆长",
-      "forms": [],
-      "phonetic": "[laɪˈbreəriən]",
-      "memory": [
-        "来自library（ n. 图书馆）"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "图书管理员，图书馆馆长"
-        }
-      ]
+      "ctx": "图书管理员，图书馆馆长"
     },
     {
       "word": "Mrs.",
-      "lemma": "Mrs.",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "夫人，太太（称呼已婚妇女）",
-      "forms": [],
-      "phonetic": "[ˈmɪsɪz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "abbr.",
-          "meaning": "夫人，太太（称呼已婚妇女）"
-        }
-      ]
+      "ctx": "夫人，太太（称呼已婚妇女）"
     },
     {
       "word": "nineteen",
-      "lemma": "nineteen",
-      "kind": "word",
       "type": "outline",
-      "ctx": "十九",
-      "forms": [],
-      "phonetic": "[ˌnaɪnˈtiːn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "num.",
-          "meaning": "十九"
-        }
-      ]
+      "ctx": "十九"
     },
     {
       "word": "hall",
-      "lemma": "hall",
-      "kind": "word",
       "type": "outline",
-      "ctx": "大厅，礼堂",
-      "forms": [],
-      "phonetic": "[hɔːl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "大厅，礼堂；门厅，过道"
-        }
-      ]
+      "ctx": "大厅，礼堂"
     },
     {
       "word": "council",
-      "lemma": "council",
-      "kind": "word",
       "type": "outline",
-      "ctx": "地方议会",
-      "forms": [],
-      "phonetic": "[ˈkaʊnsl]",
-      "memory": [
-        "词根记忆：coun（共同）+cil（召集）→召集大家（开会）的机构→委员会"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "地方议会；市政（或地方管理）服务机构；委员会",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "UN Security Council联合国安全理事会"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "地方议会"
     },
     {
       "word": "fight",
-      "lemma": "fight",
-      "kind": "word",
       "type": "outline",
-      "ctx": "打斗，打架",
-      "forms": [
-        {
-          "surface": "fights",
-          "tag": "third_person"
-        },
-        {
-          "surface": "fought",
-          "tag": "past"
-        },
-        {
-          "surface": "fought",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "fighting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[faɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "打斗，打架；斗争；争论"
-        },
-        {
-          "pos": "v.",
-          "meaning": "打仗；打斗；与……作斗争；努力争取"
-        }
-      ]
+      "ctx": "打斗，打架"
     },
     {
       "word": "they",
-      "lemma": "they",
-      "kind": "word",
       "type": "outline",
-      "ctx": "他（她、它）们",
-      "forms": [],
-      "phonetic": "[ðeɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "pron.",
-          "meaning": "他（她、它）们；（泛指）人们"
-        }
-      ]
+      "ctx": "他（她、它）们"
     },
     {
       "word": "share",
-      "lemma": "share",
-      "kind": "word",
       "type": "outline",
-      "ctx": "分享",
-      "forms": [
-        {
-          "surface": "shares",
-          "tag": "plural"
-        },
-        {
-          "surface": "shares",
-          "tag": "third_person"
-        },
-        {
-          "surface": "shared",
-          "tag": "past"
-        },
-        {
-          "surface": "shared",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "sharing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ʃeə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "分享；共用，合用"
-        },
-        {
-          "pos": "n.",
-          "meaning": "一份；股份"
-        }
-      ]
+      "ctx": "分享"
     },
     {
       "word": "on",
-      "lemma": "on",
-      "kind": "word",
       "type": "outline",
-      "ctx": "在……上",
-      "forms": [],
-      "phonetic": "[ɒn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "prep.",
-          "meaning": "在……上；在……时候；在……地方；关于"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "继续"
-        }
-      ]
+      "ctx": "在……上"
     },
     {
       "word": "website",
-      "lemma": "website",
-      "kind": "word",
       "type": "outline",
-      "ctx": "网站",
-      "forms": [],
-      "phonetic": "[ˈwebsaɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "网站"
-        }
-      ]
+      "ctx": "网站"
     },
     {
       "word": "frequent",
-      "lemma": "frequent",
-      "kind": "word",
       "type": "core",
-      "ctx": "常去，常到（某处）",
-      "forms": [
-        {
-          "surface": "frequents",
-          "tag": "third_person"
-        },
-        {
-          "surface": "frequented",
-          "tag": "past"
-        },
-        {
-          "surface": "frequented",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "frequenting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[friˈkwent]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "常去，常到（某处）"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "经常发生的，频繁的"
-        }
-      ]
+      "ctx": "常去，常到（某处）"
     }
   ]
 }

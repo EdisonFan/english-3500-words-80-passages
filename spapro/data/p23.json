@@ -34,1500 +34,308 @@
   "vocab": [
     {
       "word": "dab hand",
-      "lemma": "dab hand",
-      "kind": "phrase",
       "type": "core",
-      "ctx": "能手，高手",
-      "forms": [],
-      "phonetic": "[ˌdæb ˈhænd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "能手，高手"
-        }
-      ]
+      "ctx": "能手，高手"
     },
     {
       "word": "DIY",
-      "lemma": "DIY",
-      "kind": "proper_noun",
       "type": "core",
-      "ctx": "（全写为do-it-yourself）自己动手",
-      "forms": [],
-      "phonetic": "[ˌdiː aɪ ˈwaɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "（全写为do-it-yourself）自己动手"
-        }
-      ]
+      "ctx": "（全写为do-it-yourself）自己动手"
     },
     {
       "word": "skilled",
-      "lemma": "skilled",
-      "kind": "word",
       "type": "core",
-      "ctx": "有技能的，熟练的",
-      "forms": [],
-      "phonetic": "[skɪld]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "有技能的，熟练的"
-        }
-      ]
+      "ctx": "有技能的，熟练的"
     },
     {
       "word": "piece",
-      "lemma": "piece",
-      "kind": "word",
       "type": "outline",
-      "ctx": "一块（片，张，件……）",
-      "forms": [
-        {
-          "surface": "pieces",
-          "tag": "plural"
-        },
-        {
-          "surface": "pieces",
-          "tag": "third_person"
-        },
-        {
-          "surface": "pieced",
-          "tag": "past"
-        },
-        {
-          "surface": "pieced",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "piecing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[piːs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "一块（片，张，件……）；小的部分",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "piece sth.together拼合，拼凑；组合资料"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "vt.",
-          "meaning": "拼合，拼凑"
-        }
-      ]
+      "ctx": "一块（片，张，件……）"
     },
     {
       "word": "furniture",
-      "lemma": "furniture",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U]家具",
-      "forms": [],
-      "phonetic": "[ˈfɜːnɪtʃə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]家具",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a piece of furniture一件家具"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "[U]家具"
     },
     {
       "word": "fix",
-      "lemma": "fix",
-      "kind": "word",
       "type": "outline",
-      "ctx": "修理",
-      "forms": [
-        {
-          "surface": "fixes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "fixed",
-          "tag": "past"
-        },
-        {
-          "surface": "fixed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "fixing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[fɪks]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "修理；安装；确定；安排"
-        }
-      ]
+      "ctx": "修理"
     },
     {
       "word": "pipe",
-      "lemma": "pipe",
-      "kind": "word",
       "type": "outline",
-      "ctx": "管子，管道",
-      "forms": [
-        {
-          "surface": "pipes",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[paɪp]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "管子，管道",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "tube*（ n. 管子）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "管子，管道"
     },
     {
       "word": "wire",
-      "lemma": "wire",
-      "kind": "word",
       "type": "outline",
-      "ctx": "金属丝",
-      "forms": [
-        {
-          "surface": "wires",
-          "tag": "plural"
-        },
-        {
-          "surface": "wires",
-          "tag": "third_person"
-        },
-        {
-          "surface": "wired",
-          "tag": "past"
-        },
-        {
-          "surface": "wired",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "wiring",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈwaɪə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "金属丝；电线"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "用导线给（建筑物、设备等）接通电源；用金属丝把……连在一起"
-        }
-      ]
+      "ctx": "金属丝"
     },
     {
       "word": "she",
-      "lemma": "she",
-      "kind": "word",
       "type": "outline",
-      "ctx": "她",
-      "forms": [],
-      "phonetic": "[ʃi(ː)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "pron.",
-          "meaning": "她"
-        }
-      ]
+      "ctx": "她"
     },
     {
       "word": "someone",
-      "lemma": "someone",
-      "kind": "word",
       "type": "outline",
-      "ctx": "某人",
-      "forms": [],
-      "phonetic": "[ˈsʌmwʌn]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "pron.",
-          "meaning": "某人"
-        },
-        {
-          "pos": "n.",
-          "meaning": "重要人物"
-        }
-      ]
+      "ctx": "某人"
     },
     {
       "word": "else",
-      "lemma": "else",
-      "kind": "word",
       "type": "outline",
-      "ctx": "此外，其他",
-      "forms": [],
-      "phonetic": "[els]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adv.",
-          "meaning": "此外，其他；另外"
-        }
-      ]
+      "ctx": "此外，其他"
     },
     {
       "word": "herself",
-      "lemma": "herself",
-      "kind": "word",
       "type": "outline",
-      "ctx": "她自己",
-      "forms": [],
-      "phonetic": "[hɜːˈself; həˈself]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "pron.",
-          "meaning": "她自己"
-        }
-      ]
+      "ctx": "她自己"
     },
     {
       "word": "grandfather",
-      "lemma": "grandfather",
-      "kind": "word",
       "type": "outline",
-      "ctx": "祖父",
-      "forms": [],
-      "phonetic": "[ˈɡrænfɑːðə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "祖父；外祖父"
-        }
-      ]
+      "ctx": "祖父"
     },
     {
       "word": "builder",
-      "lemma": "builder",
-      "kind": "word",
       "type": "core",
-      "ctx": "建筑工人",
-      "forms": [],
-      "phonetic": "[ˈbɪldə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "建筑工人；建筑公司；建筑者"
-        }
-      ]
+      "ctx": "建筑工人"
     },
     {
       "word": "six",
-      "lemma": "six",
-      "kind": "word",
       "type": "outline",
-      "ctx": "六",
-      "forms": [],
-      "phonetic": "[sɪks]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "num.",
-          "meaning": "六",
-          "extras": [
-            {
-              "type": "col",
-              "label": "拓",
-              "items": [
-                "sixth*（ ordinal num. 第六）"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "六"
     },
     {
       "word": "holiday",
-      "lemma": "holiday",
-      "kind": "word",
       "type": "outline",
-      "ctx": "假期",
-      "forms": [
-        {
-          "surface": "holidays",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈhɒlədeɪ; ˈhɒlədi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "假期；度假期；假日"
-        }
-      ]
+      "ctx": "假期"
     },
     {
       "word": "pocket",
-      "lemma": "pocket",
-      "kind": "word",
       "type": "outline",
-      "ctx": "衣袋，口袋",
-      "forms": [
-        {
-          "surface": "pockets",
-          "tag": "plural"
-        },
-        {
-          "surface": "pockets",
-          "tag": "third_person"
-        },
-        {
-          "surface": "pocketed",
-          "tag": "past"
-        },
-        {
-          "surface": "pocketed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "pocketing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈpɒkɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "衣袋，口袋"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "把……装入口袋"
-        }
-      ]
+      "ctx": "衣袋，口袋"
     },
     {
       "word": "money",
-      "lemma": "money",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U]钱",
-      "forms": [],
-      "phonetic": "[ˈmʌni]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]钱；薪水；财产",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "pocket money零花钱"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "[U]钱"
     },
     {
       "word": "flooring",
-      "lemma": "flooring",
-      "kind": "word",
       "type": "core",
-      "ctx": "铺室内地面的材料",
-      "forms": [],
-      "phonetic": "[ˈflɔːrɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "铺室内地面的材料"
-        }
-      ]
+      "ctx": "铺室内地面的材料"
     },
     {
       "word": "throughout",
-      "lemma": "throughout",
-      "kind": "word",
       "type": "outline",
-      "ctx": "遍及，贯穿",
-      "forms": [],
-      "phonetic": "[θruːˈaʊt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "prep.",
-          "meaning": "遍及，贯穿"
-        }
-      ]
+      "ctx": "遍及，贯穿"
     },
     {
       "word": "house",
-      "lemma": "house",
-      "kind": "word",
       "type": "outline",
-      "ctx": "房屋，住宅",
-      "forms": [
-        {
-          "surface": "houses",
-          "tag": "plural"
-        },
-        {
-          "surface": "houses",
-          "tag": "third_person"
-        },
-        {
-          "surface": "housed",
-          "tag": "past"
-        },
-        {
-          "surface": "housed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "housing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[haʊs]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "房屋，住宅"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "给（某人）提供住处"
-        }
-      ]
+      "ctx": "房屋，住宅"
     },
     {
       "word": "backbreaking",
-      "lemma": "backbreaking",
-      "kind": "word",
       "type": "core",
-      "ctx": "艰苦繁重的，累人的",
-      "forms": [],
-      "phonetic": "[ˈbækbreɪkɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "艰苦繁重的，累人的"
-        }
-      ]
+      "ctx": "艰苦繁重的，累人的"
     },
     {
       "word": "Ms.",
-      "lemma": "Ms.",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "女士",
-      "forms": [],
-      "phonetic": "[mɪz; məz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "女士"
-        }
-      ]
+      "ctx": "女士"
     },
     {
       "word": "rent",
-      "lemma": "rent",
-      "kind": "word",
       "type": "outline",
-      "ctx": "租金",
-      "forms": [
-        {
-          "surface": "rents",
-          "tag": "plural"
-        },
-        {
-          "surface": "rents",
-          "tag": "third_person"
-        },
-        {
-          "surface": "rented",
-          "tag": "past"
-        },
-        {
-          "surface": "rented",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "renting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[rent]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "租金"
-        },
-        {
-          "pos": "v.",
-          "meaning": "租用；出租"
-        }
-      ]
+      "ctx": "租金"
     },
     {
       "word": "south",
-      "lemma": "south",
-      "kind": "word",
       "type": "outline",
-      "ctx": "南方",
-      "forms": [],
-      "phonetic": "[saʊθ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "南方；南部"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "南方的；南部的"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "向南"
-        }
-      ]
+      "ctx": "南方"
     },
     {
       "word": "west",
-      "lemma": "west",
-      "kind": "word",
       "type": "outline",
-      "ctx": "西方",
-      "forms": [],
-      "phonetic": "[west]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "西方；[the W-]西方国家；美国西部"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "西方的"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "向西"
-        }
-      ]
+      "ctx": "西方"
     },
     {
       "word": "London",
-      "lemma": "London",
-      "kind": "proper_noun",
       "type": "outline",
-      "ctx": "伦敦",
-      "forms": [],
-      "phonetic": "[ˈlʌndən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "伦敦"
-        }
-      ]
+      "ctx": "伦敦"
     },
     {
       "word": "deposit",
-      "lemma": "deposit",
-      "kind": "word",
       "type": "core",
-      "ctx": "订金",
-      "forms": [
-        {
-          "surface": "deposits",
-          "tag": "plural"
-        },
-        {
-          "surface": "deposits",
-          "tag": "third_person"
-        },
-        {
-          "surface": "deposited",
-          "tag": "past"
-        },
-        {
-          "surface": "deposited",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "depositing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[dɪˈpɒzɪt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "订金；押金；存款；沉积物"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "放下；使沉积；存储"
-        }
-      ]
+      "ctx": "订金"
     },
     {
       "word": "personalize",
-      "lemma": "personalize",
-      "kind": "word",
       "type": "core",
-      "ctx": "为个人特制（或专设）",
-      "forms": [
-        {
-          "surface": "personalizes",
-          "tag": "third_person"
-        },
-        {
-          "surface": "personalized",
-          "tag": "past"
-        },
-        {
-          "surface": "personalized",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "personalizing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈpɜːsənəlaɪz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "为个人特制（或专设）；个人化"
-        }
-      ]
+      "ctx": "为个人特制（或专设）"
     },
     {
       "word": "flat",
-      "lemma": "flat",
-      "kind": "word",
       "type": "outline",
-      "ctx": "一套房间，公寓",
-      "forms": [],
-      "phonetic": "[flæt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "一套房间，公寓"
-        },
-        {
-          "pos": "adj.",
-          "meaning": "平的"
-        }
-      ]
+      "ctx": "一套房间，公寓"
     },
     {
       "word": "picture",
-      "lemma": "picture",
-      "kind": "word",
       "type": "outline",
-      "ctx": "图画",
-      "forms": [
-        {
-          "surface": "pictures",
-          "tag": "plural"
-        },
-        {
-          "surface": "pictures",
-          "tag": "third_person"
-        },
-        {
-          "surface": "pictured",
-          "tag": "past"
-        },
-        {
-          "surface": "pictured",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "picturing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˈpɪktʃə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "图画；照片；头脑中的情景；印象"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "想象；描述"
-        }
-      ]
+      "ctx": "图画"
     },
     {
       "word": "useful",
-      "lemma": "useful",
-      "kind": "word",
       "type": "outline",
-      "ctx": "有用的，有益的",
-      "forms": [],
-      "phonetic": "[ˈjuːsfl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "有用的，有益的"
-        }
-      ]
+      "ctx": "有用的，有益的"
     },
     {
       "word": "hole",
-      "lemma": "hole",
-      "kind": "word",
       "type": "outline",
-      "ctx": "洞，孔，坑",
-      "forms": [
-        {
-          "surface": "holes",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[həʊl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "洞，孔，坑；孔眼；球洞；漏洞"
-        }
-      ]
+      "ctx": "洞，孔，坑"
     },
     {
       "word": "repaint",
-      "lemma": "repaint",
-      "kind": "word",
       "type": "core",
-      "ctx": "重漆",
-      "forms": [
-        {
-          "surface": "repaints",
-          "tag": "third_person"
-        },
-        {
-          "surface": "repainted",
-          "tag": "past"
-        },
-        {
-          "surface": "repainted",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "repainting",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ˌriːˈpeɪnt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "重漆；重画"
-        }
-      ]
+      "ctx": "重漆"
     },
     {
       "word": "charge",
-      "lemma": "charge",
-      "kind": "word",
       "type": "outline",
-      "ctx": "收费",
-      "forms": [
-        {
-          "surface": "charges",
-          "tag": "plural"
-        },
-        {
-          "surface": "charges",
-          "tag": "third_person"
-        },
-        {
-          "surface": "charged",
-          "tag": "past"
-        },
-        {
-          "surface": "charged",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "charging",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[tʃɑːdʒ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "v.",
-          "meaning": "收费；指控；充电",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "take charge (of sth.) 控制，掌管free of charge免费"
-              ]
-            }
-          ]
-        },
-        {
-          "pos": "n.",
-          "meaning": "收费；指控；主管；职责"
-        }
-      ]
+      "ctx": "收费"
     },
     {
       "word": "glove",
-      "lemma": "glove",
-      "kind": "word",
       "type": "outline",
-      "ctx": "手套",
-      "forms": [
-        {
-          "surface": "gloves",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ɡlʌv]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "手套"
-        }
-      ]
+      "ctx": "手套"
     },
     {
       "word": "boot",
-      "lemma": "boot",
-      "kind": "word",
       "type": "outline",
-      "ctx": "长筒靴，靴子",
-      "forms": [
-        {
-          "surface": "boots",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[buːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "长筒靴，靴子"
-        }
-      ]
+      "ctx": "长筒靴，靴子"
     },
     {
       "word": "roof",
-      "lemma": "roof",
-      "kind": "word",
       "type": "outline",
-      "ctx": "屋顶",
-      "forms": [],
-      "phonetic": "[ruːf]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "屋顶；顶部"
-        }
-      ]
+      "ctx": "屋顶"
     },
     {
       "word": "install",
-      "lemma": "install",
-      "kind": "word",
       "type": "core",
-      "ctx": "安装，设置",
-      "forms": [
-        {
-          "surface": "installs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "installed",
-          "tag": "past"
-        },
-        {
-          "surface": "installed",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "installing",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[ɪnˈstɔːl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "安装，设置；任命"
-        }
-      ]
+      "ctx": "安装，设置"
     },
     {
       "word": "plug",
-      "lemma": "plug",
-      "kind": "word",
       "type": "outline",
-      "ctx": "插头",
-      "forms": [
-        {
-          "surface": "plugs",
-          "tag": "plural"
-        },
-        {
-          "surface": "plugs",
-          "tag": "third_person"
-        },
-        {
-          "surface": "plugged",
-          "tag": "past"
-        },
-        {
-          "surface": "plugged",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "plugging",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[plʌɡ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "插头"
-        },
-        {
-          "pos": "vt.",
-          "meaning": "把……塞住；接通电源"
-        }
-      ]
+      "ctx": "插头"
     },
     {
       "word": "nail",
-      "lemma": "nail",
-      "kind": "word",
       "type": "outline",
-      "ctx": "指甲",
-      "forms": [
-        {
-          "surface": "nails",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[neɪl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "指甲；钉子"
-        }
-      ]
+      "ctx": "指甲"
     },
     {
       "word": "centimeter",
-      "lemma": "centimeter",
-      "kind": "word",
       "type": "outline",
-      "ctx": "厘米",
-      "forms": [
-        {
-          "surface": "centimeters",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈsentɪmiːtə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "厘米"
-        }
-      ]
+      "ctx": "厘米"
     },
     {
       "word": "million",
-      "lemma": "million",
-      "kind": "word",
       "type": "outline",
-      "ctx": "一百万",
-      "forms": [
-        {
-          "surface": "millions",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈmɪljən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "num.",
-          "meaning": "一百万",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "millions of大量，数百万"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "一百万"
     },
     {
       "word": "coming",
-      "lemma": "coming",
-      "kind": "word",
       "type": "core",
-      "ctx": "即将发生的，下一个的",
-      "forms": [],
-      "phonetic": "[ˈkʌmɪŋ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "即将发生的，下一个的"
-        }
-      ]
+      "ctx": "即将发生的，下一个的"
     },
     {
       "word": "half",
-      "lemma": "half",
-      "kind": "word",
       "type": "outline",
-      "ctx": "半，一半",
-      "forms": [],
-      "phonetic": "[hɑːf]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "半，一半"
-        },
-        {
-          "pos": "det.",
-          "meaning": "/"
-        },
-        {
-          "pos": "pron.",
-          "meaning": "半数；绝大部分"
-        },
-        {
-          "pos": "adv.",
-          "meaning": "到一半程度；部分地"
-        }
-      ]
+      "ctx": "半，一半"
     },
     {
       "word": "summer",
-      "lemma": "summer",
-      "kind": "word",
       "type": "outline",
-      "ctx": "夏天，夏季",
-      "forms": [],
-      "phonetic": "[ˈsʌmə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "夏天，夏季"
-        }
-      ]
+      "ctx": "夏天，夏季"
     },
     {
       "word": "spend",
-      "lemma": "spend",
-      "kind": "word",
       "type": "outline",
-      "ctx": "度过",
-      "forms": [
-        {
-          "surface": "spends",
-          "tag": "third_person"
-        },
-        {
-          "surface": "spent",
-          "tag": "past"
-        },
-        {
-          "surface": "spent",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "spending",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[spend]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "vt.",
-          "meaning": "度过；花费（钱、时间等）；消耗，耗尽"
-        },
-        {
-          "pos": "n.",
-          "meaning": "花费，开销"
-        }
-      ]
+      "ctx": "度过"
     },
     {
       "word": "per",
-      "lemma": "per",
-      "kind": "word",
       "type": "outline",
-      "ctx": "每，每一",
-      "forms": [],
-      "phonetic": "[pə(r); pɜː(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "prep.",
-          "meaning": "每，每一"
-        }
-      ]
+      "ctx": "每，每一"
     },
     {
       "word": "two",
-      "lemma": "two",
-      "kind": "word",
       "type": "outline",
-      "ctx": "二",
-      "forms": [],
-      "phonetic": "[tuː]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "num.",
-          "meaning": "二"
-        }
-      ]
+      "ctx": "二"
     },
     {
       "word": "third",
-      "lemma": "third",
-      "kind": "word",
       "type": "outline",
-      "ctx": "第三",
-      "forms": [
-        {
-          "surface": "thirds",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[θɜːd]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "ordinal num.",
-          "meaning": "第三"
-        },
-        {
-          "pos": "n.",
-          "meaning": "三分之一"
-        }
-      ]
+      "ctx": "第三"
     },
     {
       "word": "fifth",
-      "lemma": "fifth",
-      "kind": "word",
       "type": "outline",
-      "ctx": "第五",
-      "forms": [
-        {
-          "surface": "fifths",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[fɪfθ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "ordinal num.",
-          "meaning": "第五"
-        },
-        {
-          "pos": "n.",
-          "meaning": "五分之一"
-        }
-      ]
+      "ctx": "第五"
     },
     {
       "word": "male",
-      "lemma": "male",
-      "kind": "word",
       "type": "outline",
-      "ctx": "男性的",
-      "forms": [],
-      "phonetic": "[meɪl]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "男性的；雄性的"
-        },
-        {
-          "pos": "n.",
-          "meaning": "男子；雄性动物（或植物）"
-        }
-      ]
+      "ctx": "男性的"
     },
     {
       "word": "hobby",
-      "lemma": "hobby",
-      "kind": "word",
       "type": "outline",
-      "ctx": "业余爱好",
-      "forms": [],
-      "phonetic": "[ˈhɒbi]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "业余爱好"
-        }
-      ]
+      "ctx": "业余爱好"
     },
     {
       "word": "cute",
-      "lemma": "cute",
-      "kind": "word",
       "type": "outline",
-      "ctx": "可爱的，漂亮迷人的",
-      "forms": [],
-      "phonetic": "[kjuːt]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "adj.",
-          "meaning": "可爱的，漂亮迷人的"
-        }
-      ]
+      "ctx": "可爱的，漂亮迷人的"
     },
     {
       "word": "scarf",
-      "lemma": "scarf",
-      "kind": "word",
       "type": "outline",
-      "ctx": "围巾，披巾",
-      "forms": [],
-      "phonetic": "[skɑːf]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "围巾，披巾"
-        }
-      ]
+      "ctx": "围巾，披巾"
     },
     {
       "word": "hanger",
-      "lemma": "hanger",
-      "kind": "word",
       "type": "core",
-      "ctx": "衣架",
-      "forms": [
-        {
-          "surface": "hangers",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈhæŋə(r)]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "衣架"
-        }
-      ]
+      "ctx": "衣架"
     },
     {
       "word": "lantern",
-      "lemma": "lantern",
-      "kind": "word",
       "type": "outline",
-      "ctx": "灯笼",
-      "forms": [
-        {
-          "surface": "lanterns",
-          "tag": "plural"
-        }
-      ],
-      "phonetic": "[ˈlæntən]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "灯笼"
-        }
-      ]
+      "ctx": "灯笼"
     },
     {
       "word": "leak",
-      "lemma": "leak",
-      "kind": "word",
       "type": "outline",
-      "ctx": "漏洞",
-      "forms": [
-        {
-          "surface": "leaks",
-          "tag": "plural"
-        },
-        {
-          "surface": "leaks",
-          "tag": "third_person"
-        },
-        {
-          "surface": "leaked",
-          "tag": "past"
-        },
-        {
-          "surface": "leaked",
-          "tag": "past_participle"
-        },
-        {
-          "surface": "leaking",
-          "tag": "ing"
-        }
-      ],
-      "phonetic": "[liːk]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "漏洞；裂缝"
-        },
-        {
-          "pos": "v.",
-          "meaning": "漏，泄漏"
-        }
-      ]
+      "ctx": "漏洞"
     },
     {
       "word": "clay",
-      "lemma": "clay",
-      "kind": "word",
       "type": "outline",
-      "ctx": "[U]黏土，陶土",
-      "forms": [],
-      "phonetic": "[kleɪ]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "[U]黏土，陶土",
-          "extras": [
-            {
-              "type": "col",
-              "label": "搭",
-              "items": [
-                "a clay pot一个陶罐"
-              ]
-            }
-          ]
-        }
-      ]
+      "ctx": "[U]黏土，陶土"
     },
     {
       "word": "vase",
-      "lemma": "vase",
-      "kind": "word",
       "type": "outline",
-      "ctx": "花瓶，装饰瓶",
-      "forms": [],
-      "phonetic": "[vɑːz]",
-      "memory": [],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "花瓶，装饰瓶"
-        }
-      ]
+      "ctx": "花瓶，装饰瓶"
     },
     {
       "word": "extension",
-      "lemma": "extension",
-      "kind": "word",
       "type": "outline",
-      "ctx": "伸展，延伸",
-      "forms": [],
-      "phonetic": "[ɪkˈstenʃn]",
-      "memory": [
-        "词根记忆：ex（出）+tens（伸展）+ion →伸展"
-      ],
-      "defs": [
-        {
-          "pos": "n.",
-          "meaning": "伸展，延伸；扩建部分，延期"
-        }
-      ]
+      "ctx": "伸展，延伸"
     }
   ]
 }
