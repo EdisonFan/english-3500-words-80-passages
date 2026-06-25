@@ -3,11 +3,26 @@ var app = document.getElementById('app');
 var modalBg = document.getElementById('modalBg');
 var modalContent = document.getElementById('modalContent');
 var modalClose = document.getElementById('modalClose');
-var TOTAL = 2;  // spapro 当前已迁移 Passage 1-2
+var TOTAL = 80;  // 当前篇目数
 
 /* === 16 个单元划分 === */
 var UNITS = [
-    { num: 1, title: '校园生活', start: 1, end: 2 }
+    { num: 1,  title: '校园生活',           start: 1,  end: 5  },
+    { num: 2,  title: '教育与学习',         start: 6,  end: 10 },
+    { num: 3,  title: '个人成长',           start: 11, end: 15 },
+    { num: 4,  title: '自我管理',           start: 16, end: 20 },
+    { num: 5,  title: '兴趣爱好',           start: 21, end: 25 },
+    { num: 6,  title: '日常生活',           start: 26, end: 30 },
+    { num: 7,  title: '健康生活',           start: 31, end: 35 },
+    { num: 8,  title: '思维方式',           start: 36, end: 39 },
+    { num: 9,  title: '社会交往',           start: 40, end: 45 },
+    { num: 10, title: '工作与职业',         start: 46, end: 50 },
+    { num: 11, title: '社会现象',           start: 51, end: 55 },
+    { num: 12, title: '动物世界',           start: 56, end: 60 },
+    { num: 13, title: '自然生态与环境保护', start: 61, end: 65 },
+    { num: 14, title: '文学与艺术',         start: 66, end: 70 },
+    { num: 15, title: '历史与文化',         start: 71, end: 75 },
+    { num: 16, title: '科学与技术',         start: 76, end: 80 }
 ];
 
 /* === 中文注释开关（全局） === */
@@ -205,15 +220,54 @@ function highlightWords(enText, vocab) {
 }
 
 function findVocab(key, vocab) {
-    for (var i = 0; i < vocab.length; i++) {
-        if (vocab[i].word === key) return vocab[i];
+    function uniq(list) {
+        var seen = {};
+        var out = [];
+        for (var i = 0; i < list.length; i++) {
+            var v = list[i];
+            if (!v) continue;
+            if (seen[v]) continue;
+            seen[v] = true;
+            out.push(v);
+        }
+        return out;
     }
-    for (var j = 0; j < vocab.length; j++) {
-        var forms = vocab[j].forms || [];
-        for (var k = 0; k < forms.length; k++) {
-            if (forms[k].surface === key) return vocab[j];
+    
+    function stripEdgePunct(s) {
+        return String(s)
+            .replace(/^[\s“”"‘’'()\[\]{}]+/g, '')
+            .replace(/[\s“”"‘’'()\[\]{}.,!?;:]+$/g, '');
+    }
+    
+    function buildCandidates(s) {
+        var base = String(s || '');
+        var lower = base.toLowerCase();
+        var c1 = stripEdgePunct(base);
+        var c2 = stripEdgePunct(lower);
+        var c3 = c1.replace(/(’s|'s|s’|’)$|('$)/g, '');
+        var c4 = c2.replace(/(’s|'s|s’|’)$|('$)/g, '');
+        return uniq([base, lower, c1, c2, c3, c4]);
+    }
+    
+    var candidates = buildCandidates(key);
+    
+    for (var c = 0; c < candidates.length; c++) {
+        var cand = candidates[c];
+        for (var i = 0; i < vocab.length; i++) {
+            if (vocab[i].word === cand) return vocab[i];
         }
     }
+    
+    for (var c2 = 0; c2 < candidates.length; c2++) {
+        var cand2 = candidates[c2];
+        for (var j = 0; j < vocab.length; j++) {
+            var forms = vocab[j].forms || [];
+            for (var k = 0; k < forms.length; k++) {
+                if (forms[k].surface === cand2) return vocab[j];
+            }
+        }
+    }
+    
     return null;
 }
 
@@ -285,6 +339,32 @@ function handleWordClick(e) {
     showModal(target.getAttribute('data-key'));
 }
 
+var TAG_LABEL = {
+    plural: '复数',
+    past: '过去式',
+    past_participle: '过去分词',
+    ing: '现在分词',
+    third_person: '第三人称单数',
+    comparative: '比较级',
+    superlative: '最高级',
+    variant: '变体',
+    abbrev: '缩写',
+    alias: '别名'
+};
+
+function renderForms(forms) {
+    if (!forms || !forms.length) return '';
+    var html = '<div class="modal-forms">';
+    forms.forEach(function(f) {
+        html += '<span class="modal-form">';
+        html += '<span class="form-surface">' + esc(f.surface) + '</span>';
+        html += '<span class="form-tag">' + esc(TAG_LABEL[f.tag] || f.tag) + '</span>';
+        html += '</span>';
+    });
+    html += '</div>';
+    return html;
+}
+
 function showModal(key) {
     // 需要当前篇目的 vocab 数据，从全局缓存取
     if (!window._currentVocab) return;
@@ -294,6 +374,7 @@ function showModal(key) {
     var html = '<div class="modal-eyebrow">Vocabulary</div>';
     html += '<div class="modal-word">' + esc(entry.word) + '</div>';
     html += '<div class="modal-phon">' + esc(entry.phonetic) + '</div>';
+    html += renderForms(entry.forms || []);
     html += renderMemory(entry.memory, 'modal');
     html += '<div class="modal-defs">' + renderDefs(entry.defs || [], 'modal') + '</div>';
     

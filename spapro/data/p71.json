@@ -1,0 +1,844 @@
+{
+  "id": 71,
+  "stats": {
+    "words": 279,
+    "core": 41
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "{Straw} {weaving} ( (草编) ) is an {antique} method of {manufacturing} daily {items} or {artworks} .It was listed as a {national} {intangible} cultural {heritage} in 2008, for it demonstrates the essence of tradition and the {labor} of skilled workers.The earliest straw-weaving {products} were discovered at Hemudu Site, a Neolithic cultural site {located} in {eastern} China's Zhejiang {Province} .Some of these products are now displayed in {museums} .One can imagine an old {fisherman} sitting under a woven ( (编织的) ) {hat} , crafting straw into complex patterns.",
+      "cn": "<u> 草编 </u> 是一种 <u> 制作 </u> 日常 <u> 用品 </u> 或 <u> 艺术品 </u> 的 <u> 古老 </u> 工艺。2008年，草编被列为 <u> 国家级非物质 </u> 文化 <u> 遗产 </u> ，因为它展现了传统的精髓和能工巧匠的 <u> 劳作 </u> 。最早的草编 <u> 制品 </u> 出土于河姆渡 <u> 遗址 </u> ，该遗址 <u> 位于 </u> 中国 <u> 东部的 </u> 浙江 <u> 省 </u> ，是一处新石器时代的文化遗址。其中一些（草编）制品如今陈列在 <u> 博物馆 </u> 。人们可以想象，一位老 <u> 渔夫 </u> 戴着一顶草编 <u> 帽子 </u> （即斗笠），正将草编织成复杂的图案。"
+    },
+    {
+      "num": "02",
+      "en": "One such intangible cultural {inheritor} , Wu Cui, can turn the straw left over from harvested {wheat} into {eye-catching} artworks, such as baskets, hats, and {toys} for children.Wu explains the process of straw weaving: selection of materials is the first step of a {complicated} and {time-consuming} process that can take weeks, or even months, to complete.You need to sketch ( (画素描) ) the piece on paper, soak ( (浸泡) ) the straw and dry it under the {sunny} skies before beginning to weave.Next comes weaving, shaping and preserving of the work.Some artisans would integrate other {fibers} like {cotton} , {wool} , or {gold} {threads} to add texture ( (质地) ) and color to their works.",
+      "cn": "吴翠就是这一非物质文化遗产的 <u> 继承人 </u> ，她可以把收割 <u> 小麦 </u> 剩下的秸秆变成 <u> 引人注目的 </u> 艺术品，比如篮子、帽子和儿童 <u> 玩具 </u> 。吴翠解释了草编的过程：草编的过程 <u> 复杂 </u> 而 <u> 耗时 </u> ，可能需要数周甚至数月才能完成，在此过程中，材料的选择是第一步。在开始编织之前，你需要在纸上勾勒出草编的样式，将麦秆浸泡好，然后在 <u> 阳光充足的 </u> 日子晾干。接下来是作品的编织、塑形和保存。一些工匠会添加 <u> 棉 </u> 、 <u> 羊毛 </u> 或 <u> 金线 </u> 等其他 <u> 纤维 </u> ，为他们的作品增添质感和色彩。"
+    },
+    {
+      "num": "03",
+      "en": "There are only about 100 individuals involved in the work across the country.Cultural organizations are providing {awards} to people willing to learn and continue the practice.“The world has changed, and {craftsmen} need to {transcend} {practicality} and {pursue} the {beauty} and {artistry} of straw culture to help the {craft} survive and {thrive} ,”Wu says.When asked about her plans in the future, Wu says she will {systematically} study the local traditional culture and create products to express artistic {fantasy} .",
+      "cn": "全国只有大约100人从事草编工作。文化机构正在为愿意学习和继续从事这项工作的人提供 <u> 奖励 </u> 。吴翠说：“世界已经发生了变化， <u> 工匠 </u> 们需要 <u> 超越实用性 </u> 的藩篱， <u> 追求 </u> 草编文化的 <u> 美感 </u> 和 <u> 艺术性 </u> ，以帮助这项 <u> 工艺 </u> 生存和 <u> 蓬勃发展 </u> 。”当被问及未来的计划时，吴翠表示自己将 <u> 系统地 </u> 学习当地的传统文化，创造出能表达艺术 <u> 幻想 </u> 的制品。 5NoOncib/NjiX02BpMIzP4m+378Hw1xTRxUdPaP/PFjKUFq4K2G7tp6ZLYoCE601yW1W39VMdLmovFdSHs4nVQ=="
+    }
+  ],
+  "vocab": [
+    {
+      "word": "straw",
+      "lemma": "straw",
+      "kind": "word",
+      "type": "core",
+      "ctx": "禾秆，麦秆，稻草",
+      "forms": [],
+      "phonetic": "[strɔː]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "禾秆，麦秆，稻草；吸管"
+        }
+      ]
+    },
+    {
+      "word": "weaving",
+      "lemma": "weaving",
+      "kind": "word",
+      "type": "core",
+      "ctx": "编织",
+      "forms": [],
+      "phonetic": "[ˈwiːvɪŋ]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "编织"
+        }
+      ]
+    },
+    {
+      "word": "antique",
+      "lemma": "antique",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "古董",
+      "forms": [],
+      "phonetic": "[ænˈtiːk]",
+      "memory": [
+        "词根记忆：antiq（古老）+ue→古老的；古董"
+      ],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "古董",
+          "extras": [
+            {
+              "type": "ex",
+              "label": "例",
+              "items": [
+                "Many people have the hobby of collecting things, e.g.stamps, postcards or antiques .许多人有收集物品的爱好，比如邮票、明信片或古董。"
+              ]
+            }
+          ]
+        },
+        {
+          "pos": "adj.",
+          "meaning": "古老的"
+        }
+      ]
+    },
+    {
+      "word": "manufacture",
+      "lemma": "manufacture",
+      "kind": "word",
+      "type": "core",
+      "ctx": "（用机器）大量生产，成批制造",
+      "forms": [
+        {
+          "surface": "manufactures",
+          "tag": "third_person"
+        },
+        {
+          "surface": "manufactured",
+          "tag": "past"
+        },
+        {
+          "surface": "manufactured",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "manufacturing",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[ˌmænjuˈfæktʃə(r)]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "（用机器）大量生产，成批制造；捏造"
+        },
+        {
+          "pos": "n.",
+          "meaning": "大量制造，批量生产；工业品"
+        }
+      ]
+    },
+    {
+      "word": "item",
+      "lemma": "item",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "项目",
+      "forms": [
+        {
+          "surface": "items",
+          "tag": "plural"
+        }
+      ],
+      "phonetic": "[ˈaɪtəm]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "项目；一件商品（或物品）；一则，一条（新闻）"
+        }
+      ]
+    },
+    {
+      "word": "artwork",
+      "lemma": "artwork",
+      "kind": "word",
+      "type": "core",
+      "ctx": "艺术作品",
+      "forms": [
+        {
+          "surface": "artworks",
+          "tag": "plural"
+        }
+      ],
+      "phonetic": "[ˈɑːtwɜːk]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "艺术作品"
+        }
+      ]
+    },
+    {
+      "word": "national",
+      "lemma": "national",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "国家的",
+      "forms": [],
+      "phonetic": "[ˈnæʃnəl]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "国家的；民族的；国有的"
+        }
+      ]
+    },
+    {
+      "word": "intangible",
+      "lemma": "intangible",
+      "kind": "word",
+      "type": "core",
+      "ctx": "无形的",
+      "forms": [],
+      "phonetic": "[ɪnˈtændʒəbl]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "无形的；难以捉摸的；无法形容的"
+        }
+      ]
+    },
+    {
+      "word": "heritage",
+      "lemma": "heritage",
+      "kind": "word",
+      "type": "core",
+      "ctx": "遗产",
+      "forms": [],
+      "phonetic": "[ˈherɪtɪdʒ]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "遗产"
+        }
+      ]
+    },
+    {
+      "word": "labor",
+      "lemma": "labor",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "劳动",
+      "forms": [],
+      "phonetic": "[ˈleɪbə(r)]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "劳动；劳动力"
+        }
+      ]
+    },
+    {
+      "word": "product",
+      "lemma": "product",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "产品，产物",
+      "forms": [
+        {
+          "surface": "products",
+          "tag": "plural"
+        }
+      ],
+      "phonetic": "[ˈprɒdʌkt]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "产品，产物"
+        }
+      ]
+    },
+    {
+      "word": "site",
+      "lemma": "site",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "位置",
+      "forms": [],
+      "phonetic": "[saɪt]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "位置；遗址，原址",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "historical site历史遗迹"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "located",
+      "lemma": "located",
+      "kind": "word",
+      "type": "core",
+      "ctx": "位于，坐落在",
+      "forms": [],
+      "phonetic": "[ləʊˈkeɪtɪd]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "位于，坐落在"
+        }
+      ]
+    },
+    {
+      "word": "eastern",
+      "lemma": "eastern",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "东方的，东部的",
+      "forms": [],
+      "phonetic": "[ˈiːstən]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "东方的，东部的；亚洲国家的"
+        }
+      ]
+    },
+    {
+      "word": "province",
+      "lemma": "province",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "省",
+      "forms": [],
+      "phonetic": "[ˈprɒvɪns]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "省；外省；知识（或兴趣、职责）范围，领域"
+        }
+      ]
+    },
+    {
+      "word": "museum",
+      "lemma": "museum",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "博物馆",
+      "forms": [
+        {
+          "surface": "museums",
+          "tag": "plural"
+        }
+      ],
+      "phonetic": "[mjuˈziːəm]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "博物馆"
+        }
+      ]
+    },
+    {
+      "word": "fisherman",
+      "lemma": "fisherman",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "渔民，渔夫",
+      "forms": [],
+      "phonetic": "[ˈfɪʃəmən]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "渔民，渔夫"
+        }
+      ]
+    },
+    {
+      "word": "hat",
+      "lemma": "hat",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "帽子",
+      "forms": [],
+      "phonetic": "[hæt]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "帽子"
+        }
+      ]
+    },
+    {
+      "word": "inheritor",
+      "lemma": "inheritor",
+      "kind": "word",
+      "type": "core",
+      "ctx": "继承人",
+      "forms": [],
+      "phonetic": "[ɪnˈherɪtə(r)]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "继承人"
+        }
+      ]
+    },
+    {
+      "word": "wheat",
+      "lemma": "wheat",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "小麦",
+      "forms": [],
+      "phonetic": "[wiːt]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "小麦"
+        }
+      ]
+    },
+    {
+      "word": "eye-catching",
+      "lemma": "eye-catching",
+      "kind": "word",
+      "type": "core",
+      "ctx": "引人注目的",
+      "forms": [],
+      "phonetic": "[ˈaɪ kætʃɪŋ]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "引人注目的"
+        }
+      ]
+    },
+    {
+      "word": "toy",
+      "lemma": "toy",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "玩具",
+      "forms": [
+        {
+          "surface": "toys",
+          "tag": "plural"
+        }
+      ],
+      "phonetic": "[tɔɪ]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "玩具"
+        }
+      ]
+    },
+    {
+      "word": "complicated",
+      "lemma": "complicated",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "复杂的",
+      "forms": [],
+      "phonetic": "[ˈkɒmplɪkeɪtɪd]",
+      "memory": [
+        "词根记忆：com（表加强）+plic（重叠）+ate+(e)d（……的）→一再重叠的→复杂的"
+      ],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "复杂的；难懂的"
+        }
+      ]
+    },
+    {
+      "word": "time-consuming",
+      "lemma": "time-consuming",
+      "kind": "word",
+      "type": "core",
+      "ctx": "费时的",
+      "forms": [],
+      "phonetic": "[ˈtaɪm kənsjuːmɪŋ]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "费时的"
+        }
+      ]
+    },
+    {
+      "word": "sunny",
+      "lemma": "sunny",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "阳光充足的",
+      "forms": [],
+      "phonetic": "[ˈsʌni]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "阳光充足的；欢乐的"
+        }
+      ]
+    },
+    {
+      "word": "fiber",
+      "lemma": "fiber",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "纤维",
+      "forms": [
+        {
+          "surface": "fibers",
+          "tag": "plural"
+        }
+      ],
+      "phonetic": "[ˈfaɪbə(r)]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "纤维"
+        }
+      ]
+    },
+    {
+      "word": "cotton",
+      "lemma": "cotton",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "棉，棉花",
+      "forms": [],
+      "phonetic": "[ˈkɒtn]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "棉，棉花；棉线；棉布"
+        }
+      ]
+    },
+    {
+      "word": "wool",
+      "lemma": "wool",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "（羊等的）绒，毛",
+      "forms": [],
+      "phonetic": "[wʊl]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "（羊等的）绒，毛；毛料；毛织物"
+        }
+      ]
+    },
+    {
+      "word": "gold",
+      "lemma": "gold",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "金",
+      "forms": [],
+      "phonetic": "[ɡəʊld]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "金；黄金制品；金色"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "金的；金色的"
+        }
+      ]
+    },
+    {
+      "word": "thread",
+      "lemma": "thread",
+      "kind": "word",
+      "type": "core",
+      "ctx": "（棉、毛、丝等的）线",
+      "forms": [
+        {
+          "surface": "threads",
+          "tag": "plural"
+        }
+      ],
+      "phonetic": "[θred]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "（棉、毛、丝等的）线；线状物"
+        }
+      ]
+    },
+    {
+      "word": "award",
+      "lemma": "award",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "给予，授予",
+      "forms": [
+        {
+          "surface": "awards",
+          "tag": "plural"
+        },
+        {
+          "surface": "awards",
+          "tag": "third_person"
+        },
+        {
+          "surface": "awarded",
+          "tag": "past"
+        },
+        {
+          "surface": "awarded",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "awarding",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[əˈwɔːd]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "给予，授予"
+        },
+        {
+          "pos": "n.",
+          "meaning": "奖品，奖励"
+        }
+      ]
+    },
+    {
+      "word": "craftsman",
+      "lemma": "craftsman",
+      "kind": "word",
+      "type": "core",
+      "ctx": "工匠，手艺人，工艺师",
+      "forms": [],
+      "phonetic": "[ˈkrɑːftsmən]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "工匠，手艺人，工艺师"
+        }
+      ]
+    },
+    {
+      "word": "transcend",
+      "lemma": "transcend",
+      "kind": "word",
+      "type": "core",
+      "ctx": "超出，超越（通常的界限）",
+      "forms": [
+        {
+          "surface": "transcends",
+          "tag": "third_person"
+        },
+        {
+          "surface": "transcended",
+          "tag": "past"
+        },
+        {
+          "surface": "transcended",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "transcending",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[trænˈsend]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "超出，超越（通常的界限）"
+        }
+      ]
+    },
+    {
+      "word": "practicality",
+      "lemma": "practicality",
+      "kind": "word",
+      "type": "core",
+      "ctx": "可行性",
+      "forms": [],
+      "phonetic": "[ˌpræktɪˈkæləti]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "可行性；实事求是"
+        }
+      ]
+    },
+    {
+      "word": "pursue",
+      "lemma": "pursue",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "追赶",
+      "forms": [
+        {
+          "surface": "pursues",
+          "tag": "third_person"
+        },
+        {
+          "surface": "pursued",
+          "tag": "past"
+        },
+        {
+          "surface": "pursued",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "pursuing",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[pəˈsjuː]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "追赶；追求，致力于；继续从事"
+        }
+      ]
+    },
+    {
+      "word": "beauty",
+      "lemma": "beauty",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "美，美丽",
+      "forms": [],
+      "phonetic": "[ˈbjuːti]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "美，美丽；美人"
+        }
+      ]
+    },
+    {
+      "word": "artistry",
+      "lemma": "artistry",
+      "kind": "word",
+      "type": "core",
+      "ctx": "艺术性",
+      "forms": [],
+      "phonetic": "[ˈɑːtɪstri]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "艺术性"
+        }
+      ]
+    },
+    {
+      "word": "craft",
+      "lemma": "craft",
+      "kind": "word",
+      "type": "core",
+      "ctx": "工艺",
+      "forms": [],
+      "phonetic": "[krɑːft]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "工艺；船；航天器"
+        }
+      ]
+    },
+    {
+      "word": "thrive",
+      "lemma": "thrive",
+      "kind": "word",
+      "type": "core",
+      "ctx": "兴旺，繁荣",
+      "forms": [
+        {
+          "surface": "thrives",
+          "tag": "third_person"
+        },
+        {
+          "surface": "thrived",
+          "tag": "past"
+        },
+        {
+          "surface": "thrived",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "thriving",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[θraɪv]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "vi.",
+          "meaning": "兴旺，繁荣，蓬勃发展"
+        }
+      ]
+    },
+    {
+      "word": "systematically",
+      "lemma": "systematically",
+      "kind": "word",
+      "type": "core",
+      "ctx": "系统地，有条理地",
+      "forms": [],
+      "phonetic": "[ˌsɪstəˈmætɪkli]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "系统地，有条理地"
+        }
+      ]
+    },
+    {
+      "word": "fantasy",
+      "lemma": "fantasy",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "幻想",
+      "forms": [],
+      "phonetic": "[ˈfæntəsi]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "幻想；想象"
+        }
+      ]
+    }
+  ]
+}

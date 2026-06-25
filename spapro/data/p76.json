@@ -1,0 +1,1035 @@
+{
+  "id": 76,
+  "stats": {
+    "words": 368,
+    "core": 36
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "Given the {astonishing} potential of {AI} to transform our lives, from {transport} to healthcare ( (医疗保健) ), we all need to take action to deal with our AI-powered future, and this is where AI by Design: A Plan for Living with Artificial Intelligence comes in.This {absorbing} book by the {British} tech {celebrity} Catriona Campbell presents a {civil} discussion on artificial intelligence and its impact on society.The book is not just a {directory} of AI-related concepts, but a map that {charts} the journey of AI development, from its roots in computer science to its {frontier} applications.",
+      "cn": "鉴于 <u> 人工智能 </u> 具有改变我们生活的 <u> 惊人 </u> 潜力，从 <u> 交通运输 </u> 到医疗保健领域，我们都需要采取行动来应对人工智能主导的未来，而《设计人工智能：与 <u> 人工 </u> 智能的共存计划》这本书应运而生。这本 <u> 引人入胜的 </u> 书由 <u> 英国 </u> 科技界 <u> 名人 </u> 卡特里奥娜·坎贝尔所著，对人工智能及其对社会的影响展开了 <u> 理性 </u> 探讨。该书不仅是一本人工智能相关概念的 <u> 名录 </u> ，而且是一幅 <u> 描绘 </u> 人工智能发展历程的地图，涵盖人工智能从计算机科学领域的起源，到 <u> 前沿 </u> 应用的整个过程。"
+    },
+    {
+      "num": "02",
+      "en": "In the wrong hands, such a book could prove as complicated to process as the computer code that {powers} AI but, {thankfully} , Campbell {reviews} her two decades of professional experience and translates the {complex} into the {understandable} .She {carves} out a clear path for readers to follow, writing from the practical {angle} of a business person rather than as an academic, providing a comprehensive {summary} in a {polite} yet {frank} tone, which is highly accessible and informative.",
+      "cn": "倘若落入不懂行之人的手中，这本书可能会像 <u> 驱动 </u> 人工智能的计算机代码一样晦涩难懂。但 <u> 幸运的是 </u> ，坎贝尔 <u> 回顾 </u> 了自己20年的专业经验，将 <u> 复杂的 </u> 内容表述得 <u> 通俗易懂 </u> 。她以商业人士而非学者的务实 <u> 视角 </u> 进行写作，为读者 <u> 开辟 </u> 了一条清晰的阅读路径，用 <u> 礼貌 </u> 且 <u> 坦诚的 </u> 口吻提供了全面的 <u> 概述 </u> ，极具可读性与信息量。"
+    },
+    {
+      "num": "03",
+      "en": "As we soon come to learn from AI by Design , AI is already super-smart and will become more {capable} , moving from the {current} generation of “narrow AI” to Artificial {General} Intelligence.From there, Campbell comes up with a timely {forecast} of Artificial Dominant Intelligence.This is why Campbell has set out to raise awareness of AI and its future now—several decades before these developments are expected to take place.She says it is {essential} that we keep control of artificial intelligence, or risk being {sidelined} , because the {Go} -playing AlphaGo already has an advantage over human players.",
+      "cn": "我们很快就会从《设计人工智能》中了解到，人工智能已具备超级智能，并且 <u> 能力 </u> 会不断增强，从 <u> 当前的 </u> “狭义人工智能”发展到“ <u> 通用 </u> 人工智能”。在此基础上，坎贝尔及时地对“人工主导智能”做出了 <u> 预测 </u> 。这就是为什么坎贝尔现在就开始提高人们对人工智能及其未来的认识——尽管这些预计要几十年后才会发生。她说，我们 <u> 必须 </u> 掌控人工智能，否则就面临被 <u> 边缘化 </u> 的风险，毕竟会下 <u> 围棋 </u> 的阿尔法Go已经比人类棋手更具优势。"
+    },
+    {
+      "num": "04",
+      "en": "Campbell's point is to wake up those responsible for AI—the technology companies and world leaders—so they are on the same page as all the experts {currently} {proceeding} with it.She explains we are at a“ {tipping} point” in history and must act now to prevent the {extinction} of humanity.We need to consider how we want our future with Al to {pan} out.Such structured thinking, followed by {legal} {regulation} and proper {instruction} , will help {defend} human rights in an AI-driven world.",
+      "cn": "坎贝尔意在唤醒那些负责人工智能的人——科技公司和世界各国领导人，让他们与 <u> 目前进行 </u> 人工智能研究的所有专家达成共识。她解释说，我们正处于历史的“ <u> 转折 </u> 点”，必须立即行动起来，防止人类 <u> 灭绝 </u> 。我们需要思考我们希望与人工智能共生的未来如何 <u> 发展 </u> 。这种有条理的思考，再加上 <u> 法律监管 </u> 和适当的 <u> 指导 </u> ，将有助于在人工智能驱动的世界中 <u> 捍卫 </u> 人权。"
+    },
+    {
+      "num": "05",
+      "en": "AI will affect us all, and if you only read one book on the subject, this is it.",
+      "cn": "人工智能将影响我们所有人，如果你只想读一本关于这个主题的书，那这本书就是你的不二之选。 5NoOncib/NjiX02BpMIzP4m+378Hw1xTRxUdPaP/PFjKUFq4K2G7tp6ZLYoCE601yW1W39VMdLmovFdSHs4nVQ=="
+    }
+  ],
+  "vocab": [
+    {
+      "word": "astonishing",
+      "lemma": "astonishing",
+      "kind": "word",
+      "type": "core",
+      "ctx": "令人惊讶的",
+      "forms": [],
+      "phonetic": "[əˈstɒnɪʃɪŋ]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "令人惊讶的；惊人的"
+        }
+      ]
+    },
+    {
+      "word": "AI",
+      "lemma": "AI",
+      "kind": "proper_noun",
+      "type": "core",
+      "ctx": "(=artificial intelligence) 人工智能",
+      "forms": [],
+      "phonetic": "[ˌeɪ ˈaɪ]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "abbr.",
+          "meaning": "(=artificial intelligence) 人工智能"
+        }
+      ]
+    },
+    {
+      "word": "transport",
+      "lemma": "transport",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "交通车辆",
+      "forms": [
+        {
+          "surface": "transports",
+          "tag": "third_person"
+        },
+        {
+          "surface": "transported",
+          "tag": "past"
+        },
+        {
+          "surface": "transported",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "transporting",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[ˈtrænspɔːt]",
+      "memory": [
+        "词根记忆：trans（转）+port（运，送）→运输；运送"
+      ],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "交通车辆；运输",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "public transport公共交通"
+              ]
+            },
+            {
+              "type": "ex",
+              "label": "例",
+              "items": [
+                "Humor transports your mind away from your daily troubles.幽默能让你的大脑远离日常的烦恼。"
+              ]
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "meaning": "运输；运送"
+        }
+      ]
+    },
+    {
+      "word": "artificial",
+      "lemma": "artificial",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "人工的，人造的",
+      "forms": [],
+      "phonetic": "[ˌɑːtɪˈfɪʃl]",
+      "memory": [
+        "词根记忆：arti（诡计）+fic（做）+ial（……的）→使用诡计做出来的→假的"
+      ],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "人工的，人造的；假的"
+        }
+      ]
+    },
+    {
+      "word": "absorbing",
+      "lemma": "absorbing",
+      "kind": "word",
+      "type": "core",
+      "ctx": "十分吸引人的，引人入胜的",
+      "forms": [],
+      "phonetic": "[əbˈzɔːbɪŋ]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "十分吸引人的，引人入胜的"
+        }
+      ]
+    },
+    {
+      "word": "British",
+      "lemma": "British",
+      "kind": "proper_noun",
+      "type": "outline",
+      "ctx": "英国的",
+      "forms": [],
+      "phonetic": "[ˈbrɪtɪʃ]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "英国的；英国人的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "英国人"
+        }
+      ]
+    },
+    {
+      "word": "celebrity",
+      "lemma": "celebrity",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "[C]名人",
+      "forms": [],
+      "phonetic": "[səˈlebrəti]",
+      "memory": [
+        "词根记忆：celebr（人多的）+ity（表名词）→很多人都认识的人→名人"
+      ],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "[C]名人；[U]名望，名誉",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "a global celebrity全球知名人士"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "civil",
+      "lemma": "civil",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "公民的",
+      "forms": [],
+      "phonetic": "[ˈsɪvl]",
+      "memory": [
+        "词根记忆：civ（公民）+il（……的）→公民的"
+      ],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "公民的；民事的；国家的；有礼貌的，客气的；理性的，平和的",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "a civil war一场内战a civil court民事诉讼法庭"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "directory",
+      "lemma": "directory",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "名录",
+      "forms": [],
+      "phonetic": "[dəˈrektəri; daɪˈrektəri]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "名录；电话号码簿；公司名录",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "Directory Assistance电话号码查询服务"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "lemma": "chart",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "图表",
+      "forms": [
+        {
+          "surface": "charts",
+          "tag": "plural"
+        },
+        {
+          "surface": "charts",
+          "tag": "third_person"
+        },
+        {
+          "surface": "charted",
+          "tag": "past"
+        },
+        {
+          "surface": "charted",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "charting",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[tʃɑːt]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "图表；海图",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "climatic chart气象图"
+              ]
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "meaning": "记录；制订计划；绘制（区域）的地图"
+        }
+      ]
+    },
+    {
+      "word": "frontier",
+      "lemma": "frontier",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "（学科或活动的）尖端",
+      "forms": [],
+      "phonetic": "[ˈfrʌntɪə(r)]",
+      "memory": [
+        "词根记忆：front（前面）+ier（表物）→前线"
+      ],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "（学科或活动的）尖端；国界，边界；前线",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "a frontier town边疆城市"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "power",
+      "lemma": "power",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "力量",
+      "forms": [
+        {
+          "surface": "powers",
+          "tag": "plural"
+        },
+        {
+          "surface": "powers",
+          "tag": "third_person"
+        },
+        {
+          "surface": "powered",
+          "tag": "past"
+        },
+        {
+          "surface": "powered",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "powering",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[ˈpaʊə(r)]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "力量；动力；能力；权力；电力"
+        },
+        {
+          "pos": "v.",
+          "meaning": "驱动，推动"
+        }
+      ]
+    },
+    {
+      "word": "thankfully",
+      "lemma": "thankfully",
+      "kind": "word",
+      "type": "core",
+      "ctx": "幸亏，万幸",
+      "forms": [],
+      "phonetic": "[ˈθæŋkfəli]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "幸亏，万幸"
+        }
+      ]
+    },
+    {
+      "word": "review",
+      "lemma": "review",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "复习",
+      "forms": [
+        {
+          "surface": "reviews",
+          "tag": "plural"
+        },
+        {
+          "surface": "reviews",
+          "tag": "third_person"
+        },
+        {
+          "surface": "reviewed",
+          "tag": "past"
+        },
+        {
+          "surface": "reviewed",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "reviewing",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[rɪˈvjuː]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "复习；复查；回顾",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "book review书评"
+              ]
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "meaning": "复习；复查；评论"
+        }
+      ]
+    },
+    {
+      "word": "understandable",
+      "lemma": "understandable",
+      "kind": "word",
+      "type": "core",
+      "ctx": "合情理的",
+      "forms": [],
+      "phonetic": "[ˌʌndəˈstændəbl]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "合情理的；可以理解的"
+        }
+      ]
+    },
+    {
+      "word": "carve",
+      "lemma": "carve",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "刻",
+      "forms": [
+        {
+          "surface": "carves",
+          "tag": "third_person"
+        },
+        {
+          "surface": "carved",
+          "tag": "past"
+        },
+        {
+          "surface": "carved",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "carving",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[kɑːv]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "刻；雕刻；奋斗取得（事业、名声等）",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "carve out凭自身努力获得"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "angle",
+      "lemma": "angle",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "角",
+      "forms": [
+        {
+          "surface": "angles",
+          "tag": "third_person"
+        },
+        {
+          "surface": "angled",
+          "tag": "past"
+        },
+        {
+          "surface": "angled",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "angling",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[ˈæŋɡl]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "角；角度；立场"
+        },
+        {
+          "pos": "vt.",
+          "meaning": "斜移"
+        }
+      ]
+    },
+    {
+      "word": "summary",
+      "lemma": "summary",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "总结，概要",
+      "forms": [],
+      "phonetic": "[ˈsʌməri]",
+      "memory": [
+        "词根记忆：summ（总）+ary→内容总括→总结，概要",
+        "联想记忆：这个夏天（summer）玛丽（Mary）要写总结（summary）→总结"
+      ],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "总结，概要"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "总结的"
+        }
+      ]
+    },
+    {
+      "word": "polite",
+      "lemma": "polite",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "有礼貌的，客气的",
+      "forms": [],
+      "phonetic": "[pəˈlaɪt]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "有礼貌的，客气的"
+        }
+      ]
+    },
+    {
+      "word": "frank",
+      "lemma": "frank",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "坦率的，直率的",
+      "forms": [],
+      "phonetic": "[fræŋk]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "坦率的，直率的"
+        }
+      ]
+    },
+    {
+      "word": "capable",
+      "lemma": "capable",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "有能力的，有才能的",
+      "forms": [],
+      "phonetic": "[ˈkeɪpəbl]",
+      "memory": [
+        "词根记忆：cap（握住）+able（能……的）→能握住的→有能力的"
+      ],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "有能力的，有才能的"
+        }
+      ]
+    },
+    {
+      "word": "current",
+      "lemma": "current",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "水流",
+      "forms": [],
+      "phonetic": "[ˈkʌrənt]",
+      "memory": [
+        "词根记忆：curr（跑）+ent（……的）→跑来跑去的→流通的"
+      ],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "水流；气流；电流；潮流",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "ocean current洋流"
+              ]
+            }
+          ]
+        },
+        {
+          "pos": "adj.",
+          "meaning": "当前的，现在的；流通的，通用的，流行的"
+        }
+      ]
+    },
+    {
+      "word": "general",
+      "lemma": "general",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "大体的",
+      "forms": [],
+      "phonetic": "[ˈdʒenrəl]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "大体的；总的；一般的；普遍的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "将军"
+        }
+      ]
+    },
+    {
+      "word": "forecast",
+      "lemma": "forecast",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "预报",
+      "forms": [
+        {
+          "surface": "forecasts",
+          "tag": "third_person"
+        },
+        {
+          "surface": "forecast",
+          "tag": "past"
+        },
+        {
+          "surface": "forecast",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "forecasting",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[ˈfɔːkɑːst]",
+      "memory": [
+        "词根记忆：fore（预先）+cast（计算）→预先计算出→预测"
+      ],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "预报；预测",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "the weather forecast天气预报"
+              ]
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "meaning": "预报；预测"
+        }
+      ]
+    },
+    {
+      "word": "essential",
+      "lemma": "essential",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "极其重要的",
+      "forms": [],
+      "phonetic": "[ɪˈsenʃl]",
+      "memory": [
+        "词根记忆：ess（存在）+ent（具有……性质的）+ial（……的）→存在的基础→必不可少的"
+      ],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "极其重要的；必不可少的；本质的",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "essential difference本质的区别"
+              ]
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "meaning": "必需品；实质"
+        }
+      ]
+    },
+    {
+      "word": "sideline",
+      "lemma": "sideline",
+      "kind": "word",
+      "type": "core",
+      "ctx": "兼职",
+      "forms": [
+        {
+          "surface": "sidelines",
+          "tag": "third_person"
+        },
+        {
+          "surface": "sidelined",
+          "tag": "past"
+        },
+        {
+          "surface": "sidelined",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "sidelining",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[ˈsaɪdlaɪn]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "兼职；副业"
+        },
+        {
+          "pos": "v.",
+          "meaning": "使退出比赛；把……排除在核心之外，使靠边"
+        }
+      ]
+    },
+    {
+      "word": "Go",
+      "lemma": "Go",
+      "kind": "proper_noun",
+      "type": "outline",
+      "ctx": "围棋",
+      "forms": [],
+      "phonetic": "[gəʊ]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "围棋",
+          "extras": [
+            {
+              "type": "col",
+              "label": "拓",
+              "items": [
+                "chess*（ n. 国际象棋）"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "currently",
+      "lemma": "currently",
+      "kind": "word",
+      "type": "core",
+      "ctx": "现时，目前",
+      "forms": [],
+      "phonetic": "[ˈkʌrəntli]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "现时，目前"
+        }
+      ]
+    },
+    {
+      "word": "proceed",
+      "lemma": "proceed",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "继续做（或从事、进行）",
+      "forms": [
+        {
+          "surface": "proceeds",
+          "tag": "third_person"
+        },
+        {
+          "surface": "proceeded",
+          "tag": "past"
+        },
+        {
+          "surface": "proceeded",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "proceeding",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[prəˈsiːd]",
+      "memory": [
+        "词根记忆：pro（向前）+ceed（前进）→前往"
+      ],
+      "defs": [
+        {
+          "pos": "vi.",
+          "meaning": "继续做（或从事、进行）；行进，前往"
+        }
+      ]
+    },
+    {
+      "word": "tip",
+      "lemma": "tip",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "给小费",
+      "forms": [
+        {
+          "surface": "tips",
+          "tag": "third_person"
+        },
+        {
+          "surface": "tipped",
+          "tag": "past"
+        },
+        {
+          "surface": "tipped",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "tipping",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[tɪp]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "给小费；倾斜"
+        },
+        {
+          "pos": "n.",
+          "meaning": "尖端；小费；提示"
+        }
+      ]
+    },
+    {
+      "word": "extinction",
+      "lemma": "extinction",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "（植物、动物、生活方式等的）灭绝",
+      "forms": [],
+      "phonetic": "[ɪkˈstɪŋkʃn]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "（植物、动物、生活方式等的）灭绝；绝种"
+        }
+      ]
+    },
+    {
+      "word": "pan",
+      "lemma": "pan",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "平底锅",
+      "forms": [
+        {
+          "surface": "pans",
+          "tag": "third_person"
+        },
+        {
+          "surface": "panned",
+          "tag": "past"
+        },
+        {
+          "surface": "panned",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "panning",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[pæn]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "平底锅；（天平的）秤盘",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "pan out以一定方式发展"
+              ]
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "meaning": "抨击"
+        }
+      ]
+    },
+    {
+      "word": "legal",
+      "lemma": "legal",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "法律的",
+      "forms": [],
+      "phonetic": "[ˈliːɡl]",
+      "memory": [
+        "词根记忆：leg（法律）+al（……的）→法律的"
+      ],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "法律的；合法的"
+        }
+      ]
+    },
+    {
+      "word": "regulation",
+      "lemma": "regulation",
+      "kind": "word",
+      "type": "core",
+      "ctx": "规则，章程",
+      "forms": [],
+      "phonetic": "[ˌreɡjuˈleɪʃn]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "规则，章程；管理，控制"
+        }
+      ]
+    },
+    {
+      "word": "instruction",
+      "lemma": "instruction",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "操作指南",
+      "forms": [],
+      "phonetic": "[ɪnˈstrʌkʃn]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "操作指南；指示；教导"
+        }
+      ]
+    },
+    {
+      "word": "defend",
+      "lemma": "defend",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "保卫，防御",
+      "forms": [
+        {
+          "surface": "defends",
+          "tag": "third_person"
+        },
+        {
+          "surface": "defended",
+          "tag": "past"
+        },
+        {
+          "surface": "defended",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "defending",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[dɪˈfend]",
+      "memory": [
+        "词根记忆：de（表加强）+fend（打击）→打击回去→保卫，防御"
+      ],
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "保卫，防御；辩解"
+        }
+      ]
+    }
+  ]
+}

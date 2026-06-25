@@ -1,0 +1,1190 @@
+{
+  "id": 13,
+  "stats": {
+    "words": 336,
+    "core": 50
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "{Habit} {formation} is the {process} by which {behaviors} become {automatic} .People {develop} {countless} habits as they {explore} the world, whether they are {aware} of them or not.Understanding how habits take shape may be {helpful} in changing {bad} habits.",
+      "cn": "<u> 习惯 </u> 的 <u> 养成 </u> 是 <u> 行为 </u> 变得 <u> 无意识 </u> 的 <u> 过程 </u> 。人们在 <u> 探索 </u> 世界的过程中会 <u> 养成无数的 </u> 习惯，无论他们是否 <u> 意识到 </u> 这些习惯。了解习惯是如何形成的可能 <u> 有助 </u> 于改变 <u> 坏 </u> 习惯。"
+    },
+    {
+      "num": "02",
+      "en": "Habits are {built} through learning and {repetition} .A {person} is thought to develop a habit in the course of pursuing {goals} by beginning to {associate} certain environmental cues ( (暗示) ) with behavioral {responses} that help meet the goal.For example, you might associate the touch of the {kettle} {button} , or the taste of {ham} on {toast} to the start of a new day.Over time, thoughts of the behavior and {ultimately} the behavior itself are {likely} to be triggered ( (触发) ) by these cues.Therefore, if you want to make running part of your routine, try placing your running {socks} and shoes next to your bed as a visual trigger.",
+      "cn": "习惯是通过学习和 <u> 重复养成 </u> 的。人们认为，一个 <u> 人 </u> 在实现 <u> 目标 </u> 的过程中，会通过 <u> 开始 </u> 将某些环境暗示与有助于实现该目标的行为 <u> 反应联系 </u> 起来，从而养成习惯。例如，你可能会把 <u> 水壶按钮 </u> 的触感，或 <u> 吐司 </u> 上 <u> 火腿 </u> 的味道，与新一天的开始联系起来。随着时间的推移，对这种行为的想法，以及 <u> 最终 </u> 这种行为本身， <u> 很可能 </u> 会被这些暗示所触发。因此，如果你想让跑步成为你日常活动的一部分，可以试着将运动 <u> 袜 </u> 和跑鞋放在床边，作为视觉诱因。"
+    },
+    {
+      "num": "03",
+      "en": "A “habit loop ( (环) )”is a way of {describing} several {related} {elements} that produce habits.These elements are {called} the cue, the {routine} , and the reward.For example, stress could {serve} as a cue that one {responds} to by eating, which produces the reward—the {reduction} of stress.While a routine {involves} {repeated} behavior, it's not {necessarily} {performed} in response to a deep-rooted {urge} , much like a {postman} following the same route daily without conscious thought.",
+      "cn": "“习惯循环”是一种 <u> 描述 </u> 产生习惯的几个 <u> 相关要素 </u> 的方式。这些要素被 <u> 称为 </u> 暗示、 <u> 惯例 </u> 和奖赏。例如，压力可 <u> 当作 </u> 一种暗示，人们对此的 <u> 反应 </u> 是进食，而进食会产生奖励，即 <u> 减轻 </u> 压力。虽然惯例 <u> 涉及重复的 </u> 行为，但它不 <u> 一定 </u> 是在深层的 <u> 冲动 </u> 驱使下 <u> 进行 </u> 的，这很像 <u> 邮递员 </u> 每天不假思索地沿着同一条路线投递邮件。"
+    },
+    {
+      "num": "04",
+      "en": "Old habits can be {difficult} to {shake} , and {healthy} habits are often harder to develop.But through repetition, it's possible to form new habits.The {length} of time needed to build a habit will {depend} on {multiple} factors, including the {individual} and the intended behavior. {While} a bad habit can be formed in a few weeks, it takes many {months} , approximately {ninety} days, to build a healthy habit.Take some time to think about what leads to bad habits and re-evaluate what you get out of them (or don't).Consider and keep in mind why you want to make a change, including how the change {reflects} your values and {blesses} your life in meaningful ways.",
+      "cn": "旧习惯可能 <u> 难 </u> 以 <u> 摆脱 </u> ，而 <u> 健康的 </u> 习惯通常更难养成。但通过重复，新习惯是有可能养成的。养成一个习惯所需时间的 <u> 长短取决于多种 </u> 因素，包括 <u> 个人 </u> 和预期行为。 <u> 虽然 </u> 一个坏习惯在几周内就能养成，但要养成一个健康的习惯，却需要几个 <u> 月 </u> 的时间，大约是 <u> 九十 </u> 天。花点时间想想是什么导致了坏习惯的养成，并重新考虑你从中得到了什么（或没有得到什么）。思考并牢记你为什么想要做出改变，包括这种改变如何 <u> 反映 </u> 你的价值观以及如何以有意义的方式 <u> 造福 </u> 你的生活。 MKqjwFu4arM4cgPc+LiB66EBg/AaE0u6XBr6IpfU5EiRRdX6Ad+uTD+Kdly4W5UG"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "habit",
+      "lemma": "habit",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "习惯",
+      "forms": [],
+      "phonetic": "[ˈhæbɪt]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "习惯；习性"
+        }
+      ]
+    },
+    {
+      "word": "formation",
+      "lemma": "formation",
+      "kind": "word",
+      "type": "core",
+      "ctx": "形成，构成",
+      "forms": [],
+      "phonetic": "[fɔːˈmeɪʃn]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "形成，构成；形成物；队形"
+        }
+      ]
+    },
+    {
+      "word": "process",
+      "lemma": "process",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "过程，进程",
+      "forms": [],
+      "phonetic": "[ˈprəʊses]",
+      "memory": [
+        "词根记忆：pro（向前）+cess（行走）→向前走→进程"
+      ],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "过程，进程"
+        },
+        {
+          "pos": "vt.",
+          "meaning": "加工，处理"
+        }
+      ]
+    },
+    {
+      "word": "behavior",
+      "lemma": "behavior",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "行为，举止",
+      "forms": [
+        {
+          "surface": "behaviors",
+          "tag": "plural"
+        }
+      ],
+      "phonetic": "[bɪˈheɪvjə(r)]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "行为，举止"
+        }
+      ]
+    },
+    {
+      "word": "automatic",
+      "lemma": "automatic",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "自动的",
+      "forms": [],
+      "phonetic": "[ˌɔːtəˈmætɪk]",
+      "memory": [
+        "词根记忆：auto（自动）+mat（动）+ic（……的）→自动的"
+      ],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "自动的；无意识的，不假思索的"
+        }
+      ]
+    },
+    {
+      "word": "develop",
+      "lemma": "develop",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "发展",
+      "forms": [
+        {
+          "surface": "develops",
+          "tag": "third_person"
+        },
+        {
+          "surface": "developed",
+          "tag": "past"
+        },
+        {
+          "surface": "developed",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "developing",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[dɪˈveləp]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "发展；发育；获得；形成；开发；冲洗（照片）"
+        }
+      ]
+    },
+    {
+      "word": "countless",
+      "lemma": "countless",
+      "kind": "word",
+      "type": "core",
+      "ctx": "无数的",
+      "forms": [],
+      "phonetic": "[ˈkaʊntləs]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "无数的"
+        }
+      ]
+    },
+    {
+      "word": "explore",
+      "lemma": "explore",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "探索，勘察",
+      "forms": [
+        {
+          "surface": "explores",
+          "tag": "third_person"
+        },
+        {
+          "surface": "explored",
+          "tag": "past"
+        },
+        {
+          "surface": "explored",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "exploring",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[ɪkˈsplɔː(r)]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "探索，勘察；探讨"
+        }
+      ]
+    },
+    {
+      "word": "aware",
+      "lemma": "aware",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "知道的，意识到的",
+      "forms": [],
+      "phonetic": "[əˈweə(r)]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "知道的，意识到的",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "be aware of/that...意识到……"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "helpful",
+      "lemma": "helpful",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "有帮助的，有益的",
+      "forms": [],
+      "phonetic": "[ˈhelpfl]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "有帮助的，有益的"
+        }
+      ]
+    },
+    {
+      "word": "bad",
+      "lemma": "bad",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "令人不快的，坏的",
+      "forms": [],
+      "phonetic": "[bæd]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "令人不快的，坏的；严重的；有害的"
+        }
+      ]
+    },
+    {
+      "word": "build",
+      "lemma": "build",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "建造",
+      "forms": [
+        {
+          "surface": "built",
+          "tag": "past"
+        },
+        {
+          "surface": "built",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "building",
+          "tag": "ing"
+        },
+        {
+          "surface": "builds",
+          "tag": "third_person"
+        }
+      ],
+      "phonetic": "[bɪld]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "建造；创建；逐渐增强"
+        }
+      ]
+    },
+    {
+      "word": "repetition",
+      "lemma": "repetition",
+      "kind": "word",
+      "type": "core",
+      "ctx": "重复",
+      "forms": [],
+      "phonetic": "[ˌrepəˈtɪʃn]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "重复"
+        }
+      ]
+    },
+    {
+      "word": "person",
+      "lemma": "person",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "人，个人",
+      "forms": [],
+      "phonetic": "[ˈpɜːsn]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "人，个人"
+        }
+      ]
+    },
+    {
+      "word": "goal",
+      "lemma": "goal",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "目标",
+      "forms": [
+        {
+          "surface": "goals",
+          "tag": "plural"
+        }
+      ],
+      "phonetic": "[ɡəʊl]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "目标；进球得分；球门"
+        }
+      ]
+    },
+    {
+      "word": "associate",
+      "lemma": "associate",
+      "kind": "word",
+      "type": "core",
+      "ctx": "联想，联系",
+      "forms": [
+        {
+          "surface": "associates",
+          "tag": "third_person"
+        },
+        {
+          "surface": "associated",
+          "tag": "past"
+        },
+        {
+          "surface": "associated",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "associating",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[əˈsəʊʃieɪt; əˈsəʊsieɪt]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "联想，联系",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "associate...with...将……和……联系起来"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "response",
+      "lemma": "response",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "回答，答复",
+      "forms": [
+        {
+          "surface": "responses",
+          "tag": "plural"
+        }
+      ],
+      "phonetic": "[rɪˈspɒns]",
+      "memory": [
+        "词根记忆：re（回）+spons（承诺）+e→回答"
+      ],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "回答，答复；反应，响应"
+        }
+      ]
+    },
+    {
+      "word": "kettle",
+      "lemma": "kettle",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "水壶",
+      "forms": [],
+      "phonetic": "[ˈketl]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "水壶"
+        }
+      ]
+    },
+    {
+      "word": "button",
+      "lemma": "button",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "（机器的）按钮",
+      "forms": [],
+      "phonetic": "[ˈbʌtn]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "（机器的）按钮；纽扣"
+        },
+        {
+          "pos": "vt.",
+          "meaning": "扣……的纽扣"
+        }
+      ]
+    },
+    {
+      "word": "ham",
+      "lemma": "ham",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "火腿",
+      "forms": [],
+      "phonetic": "[hæm]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "火腿"
+        }
+      ]
+    },
+    {
+      "word": "toast",
+      "lemma": "toast",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "烤面包，吐司",
+      "forms": [],
+      "phonetic": "[təʊst]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "烤面包，吐司；祝酒，祝酒词"
+        },
+        {
+          "pos": "vt.",
+          "meaning": "向……敬酒；烘，烤"
+        }
+      ]
+    },
+    {
+      "word": "ultimately",
+      "lemma": "ultimately",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "最终，最后",
+      "forms": [],
+      "phonetic": "[ˈʌltɪmətli]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "最终，最后"
+        }
+      ]
+    },
+    {
+      "word": "likely",
+      "lemma": "likely",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "很可能的",
+      "forms": [],
+      "phonetic": "[ˈlaɪkli]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "很可能的"
+        }
+      ]
+    },
+    {
+      "word": "sock",
+      "lemma": "sock",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "[pl.]短袜",
+      "forms": [
+        {
+          "surface": "socks",
+          "tag": "plural"
+        }
+      ],
+      "phonetic": "[sɒk]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "[pl.]短袜"
+        }
+      ]
+    },
+    {
+      "word": "describe",
+      "lemma": "describe",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "描述",
+      "forms": [
+        {
+          "surface": "describing",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[dɪˈskraɪb]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "描述；把……称为"
+        }
+      ]
+    },
+    {
+      "word": "related",
+      "lemma": "related",
+      "kind": "word",
+      "type": "core",
+      "ctx": "相关的，有联系的",
+      "forms": [],
+      "phonetic": "[rɪˈleɪtɪd]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "相关的，有联系的"
+        }
+      ]
+    },
+    {
+      "word": "element",
+      "lemma": "element",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "要素，基本部分",
+      "forms": [
+        {
+          "surface": "elements",
+          "tag": "plural"
+        }
+      ],
+      "phonetic": "[ˈelɪmənt]",
+      "memory": [
+        "联想记忆：e+lemen（看作lemon，柠檬）+t→柠檬是水果的一种→组成部分"
+      ],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "要素，基本部分；元素；组成部分"
+        }
+      ]
+    },
+    {
+      "word": "call",
+      "lemma": "call",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "称呼",
+      "forms": [
+        {
+          "surface": "called",
+          "tag": "past"
+        }
+      ],
+      "phonetic": "[kɔːl]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "称呼；呼唤；喊，叫",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "call for（去）接；需要；要求"
+              ]
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "meaning": "叫声；电话"
+        }
+      ]
+    },
+    {
+      "word": "routine",
+      "lemma": "routine",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "常规，惯例，日常事务",
+      "forms": [],
+      "phonetic": "[ruːˈtiːn]",
+      "memory": [
+        "联想记忆：处理日常事务（routine）要按常规路线（route）走"
+      ],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "常规，惯例，日常事务",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "a routine medical examination常规体检"
+              ]
+            }
+          ]
+        },
+        {
+          "pos": "adj.",
+          "meaning": "常规的"
+        }
+      ]
+    },
+    {
+      "word": "serve",
+      "lemma": "serve",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "服务",
+      "forms": [
+        {
+          "surface": "serves",
+          "tag": "third_person"
+        },
+        {
+          "surface": "served",
+          "tag": "past"
+        },
+        {
+          "surface": "served",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "serving",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[sɜːv]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "服务；提供，端上；对……有用；可用作"
+        }
+      ]
+    },
+    {
+      "word": "respond",
+      "lemma": "respond",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "回答，回应",
+      "forms": [
+        {
+          "surface": "responds",
+          "tag": "third_person"
+        }
+      ],
+      "phonetic": "[rɪˈspɒnd]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "回答，回应；作出反应",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "respond to对……作出反应"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "reduction",
+      "lemma": "reduction",
+      "kind": "word",
+      "type": "core",
+      "ctx": "减少，缩小",
+      "forms": [],
+      "phonetic": "[rɪˈdʌkʃn]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "减少，缩小；下降，降低"
+        }
+      ]
+    },
+    {
+      "word": "involve",
+      "lemma": "involve",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "包括",
+      "forms": [
+        {
+          "surface": "involves",
+          "tag": "third_person"
+        }
+      ],
+      "phonetic": "[ɪnˈvɒlv]",
+      "memory": [
+        "词根记忆：in（进入）+volv（转）+e→转进去→（使）参加"
+      ],
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "包括；涉及，牵涉；（使）参加，加入",
+          "extras": [
+            {
+              "type": "ex",
+              "label": "例",
+              "items": [
+                "We all need to get involved in saving energy whether it's at work, at home, or at school.无论是在公司、在家里还是在学校，我们都需要参与能源节约。"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "repeat",
+      "lemma": "repeat",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "重说",
+      "forms": [
+        {
+          "surface": "repeats",
+          "tag": "third_person"
+        },
+        {
+          "surface": "repeated",
+          "tag": "past"
+        },
+        {
+          "surface": "repeated",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "repeating",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[rɪˈpiːt]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "重说；重做；重复发生"
+        }
+      ]
+    },
+    {
+      "word": "necessarily",
+      "lemma": "necessarily",
+      "kind": "word",
+      "type": "core",
+      "ctx": "必要地",
+      "forms": [],
+      "phonetic": "[ˌnesəˈserəli; ˈnesəsərəli]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "必要地；必然"
+        }
+      ]
+    },
+    {
+      "word": "perform",
+      "lemma": "perform",
+      "kind": "word",
+      "type": "core",
+      "ctx": "表演",
+      "forms": [
+        {
+          "surface": "performs",
+          "tag": "third_person"
+        },
+        {
+          "surface": "performed",
+          "tag": "past"
+        },
+        {
+          "surface": "performed",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "performing",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[pəˈfɔːm]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "表演；表现；做，履行，执行"
+        }
+      ]
+    },
+    {
+      "word": "urge",
+      "lemma": "urge",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "冲动",
+      "forms": [],
+      "phonetic": "[ɜːdʒ]",
+      "memory": [
+        "词根记忆：urg（驱动）+e→催促，力劝"
+      ],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "冲动",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "urge sb.to do sth.催促某人做某事"
+              ]
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "meaning": "催促，力劝"
+        }
+      ]
+    },
+    {
+      "word": "postman",
+      "lemma": "postman",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "邮递员",
+      "forms": [],
+      "phonetic": "[ˈpəʊstmən]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "邮递员"
+        }
+      ]
+    },
+    {
+      "word": "difficult",
+      "lemma": "difficult",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "难的，艰难的",
+      "forms": [],
+      "phonetic": "[ˈdɪfɪkəlt]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "难的，艰难的；不易相处的"
+        }
+      ]
+    },
+    {
+      "word": "shake",
+      "lemma": "shake",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "摇动",
+      "forms": [
+        {
+          "surface": "shook",
+          "tag": "past"
+        },
+        {
+          "surface": "shaken",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "shakes",
+          "tag": "third_person"
+        },
+        {
+          "surface": "shaking",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[ʃeɪk]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "摇动；颤抖；去除，摆脱"
+        }
+      ]
+    },
+    {
+      "word": "healthy",
+      "lemma": "healthy",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "健康的，健壮的",
+      "forms": [],
+      "phonetic": "[ˈhelθi]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "健康的，健壮的"
+        }
+      ]
+    },
+    {
+      "word": "length",
+      "lemma": "length",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "长，长度",
+      "forms": [],
+      "phonetic": "[leŋθ]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "长，长度；时间的长短",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "at length最后；详细地"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "depend",
+      "lemma": "depend",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "依靠",
+      "forms": [
+        {
+          "surface": "depends",
+          "tag": "third_person"
+        },
+        {
+          "surface": "depended",
+          "tag": "past"
+        },
+        {
+          "surface": "depended",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "depending",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[dɪˈpend]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "依靠；信任；取决于",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "depend on/upon依靠；指望；取决于"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "multiple",
+      "lemma": "multiple",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "多种多样的，数量多的",
+      "forms": [],
+      "phonetic": "[ˈmʌltɪpl]",
+      "memory": [
+        "词根记忆：multi（多）+ple（满的）→多种多样的"
+      ],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "多种多样的，数量多的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "倍数"
+        }
+      ]
+    },
+    {
+      "word": "individual",
+      "lemma": "individual",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "个人",
+      "forms": [],
+      "phonetic": "[ˌɪndɪˈvɪdʒuəl]",
+      "memory": [
+        "词根记忆：in（不）+divid（分开）+ual（有……性质的）→不可分割的→单独的"
+      ],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "个人"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "单独的，个别的"
+        }
+      ]
+    },
+    {
+      "word": "while",
+      "lemma": "while",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "正当……的时候",
+      "forms": [],
+      "phonetic": "[waɪl]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "conj.",
+          "meaning": "正当……的时候；虽然，尽管；而，然而"
+        },
+        {
+          "pos": "n.",
+          "meaning": "一段时间，一小会儿"
+        }
+      ]
+    },
+    {
+      "word": "month",
+      "lemma": "month",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "月，月份",
+      "forms": [
+        {
+          "surface": "months",
+          "tag": "plural"
+        }
+      ],
+      "phonetic": "[mʌnθ]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "月，月份"
+        }
+      ]
+    },
+    {
+      "word": "ninety",
+      "lemma": "ninety",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "九十",
+      "forms": [],
+      "phonetic": "[ˈnaɪnti]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "num.",
+          "meaning": "九十"
+        }
+      ]
+    },
+    {
+      "word": "reflect",
+      "lemma": "reflect",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "反射",
+      "forms": [
+        {
+          "surface": "reflects",
+          "tag": "third_person"
+        }
+      ],
+      "phonetic": "[rɪˈflekt]",
+      "memory": [
+        "词根记忆：re（回，向后）+flect（弯曲）→光线向回弯曲→反射"
+      ],
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "反射；反映；认真思考",
+          "extras": [
+            {
+              "type": "ex",
+              "label": "例",
+              "items": [
+                "The UK's obsession with food is reflected through television scheduling.英国对食物的痴迷反映在电视节目安排上。"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "bless",
+      "lemma": "bless",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "求上帝降福于，祝福",
+      "forms": [
+        {
+          "surface": "blesses",
+          "tag": "third_person"
+        }
+      ],
+      "phonetic": "[bles]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "求上帝降福于，祝福"
+        }
+      ]
+    }
+  ]
+}

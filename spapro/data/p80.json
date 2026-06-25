@@ -1,0 +1,1236 @@
+{
+  "id": 80,
+  "stats": {
+    "words": 482,
+    "core": 47
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "The {notion} that we live in someone else's video game, akin to a highly advanced {VR} experience, is {irresistible} to many.In science-fiction {movies} , we often see worlds where characters live inside a {simulation} controlled by a {master} programmer and {suspect} nothing.Searching the term “simulation hypothesis”( (模拟假说) ) returns {numerous} results that debate whether the {universe} is a computer simulation.This idea has gained attention with the rapid advancement of technology, including the development of {robots} and virtual environments that can mimic real-world physics, such as {gravity} and {orbit} .Unfortunately, we will probably never know whether it's true.We can, instead, use this idea to advance scientific knowledge.",
+      "cn": "我们生活在别人的电子游戏中，宛如一场极其先进的 <u> VR </u> 体验——这一 <u> 想法 </u> 对许多人而言有着 <u> 无法抵制的 </u> 吸引力。在科幻 <u> 电影 </u> 中，我们常常会看到这样的世界：角色们生活在一个由 <u> 顶级 </u> 程序员控制的 <u> 模拟 </u> 世界中，却对此毫无 <u> 察觉 </u> 。搜索“模拟假说”一词，会得到 <u> 无数 </u> 探讨 <u> 宇宙 </u> 是否是计算机模拟产物的结果。随着科技的飞速发展，这一想法受到了广泛关注，其中包括能够模拟诸如 <u> 重力 </u> 和（天体运行） <u> 轨道 </u> 等现实世界物理规律的 <u> 机器人 </u> 和虚拟环境的开发。遗憾的是，我们或许永远无法知晓这一假说是否正确。不过，我们可以借助这一想法来推动科学知识的进步。"
+    },
+    {
+      "num": "02",
+      "en": "The 18th-century philosopher Kant argued that the universe ultimately consists of things-in-themselves that are {unknowable} .According to him, although objective reality exists, we cannot {deny} that our minds play a necessary role in structuring and shaping our perceptions. {Modern} science has {revealed} that our {perceptual} experience of the world is the result of many stages of processing by {sensory} systems and cognitive ( (认知的) ) functions in the brain.Scientists can study {inputs} and {outputs} , but cannot fully {expose} the processes of mental operations. {Nobody} knows exactly what happens within this {black} box.Some scholars {insist} that advances in science will effectively open the black box.Others {oppose} this view: if empirical ( (实证的) ) experience fails to reveal reality, reasoning won't reveal reality either since it relies on concepts and words that are {contingent} on our social, cultural and psychological histories.Again, a black box.",
+      "cn": "18世纪哲学家康德认为，宇宙归根结底由 <u> 不可知的 </u> 自在之物组成。按照他的说法，尽管客观现实是存在的，但我们不能 <u> 否认 </u> ，我们的意识在构建和塑造认知方面发挥着不可或缺的作用。 <u> 现代 </u> 科学 <u> 揭示 </u> ，我们对世界的 <u> 感知 </u> 体验是 <u> 感官 </u> 系统和大脑认知功能经过多个处理阶段的结果。科学家可以研究 <u> 输入 </u> 和 <u> 输出 </u> 的信息，但无法完全 <u> 揭示 </u> 心理运作的过程。 <u> 没有人 </u> 知道这个“ <u> 黑 </u> 匣子”里到底发生了什么。一些学者 <u> 坚称 </u> ，科学的进步将有效地为我们开启这个黑匣子。另一些人则 <u> 反对 </u> 这种观点，认为如果实证经验无法揭示现实，那么推理也无法揭示，因为推理依赖概念和词语，而这些概念和词语又 <u> 取决于 </u> 我们的社会、文化和心理历程。同样，这又是一个“黑匣子”问题。"
+    },
+    {
+      "num": "03",
+      "en": "So, if we accept that the universe is unknowable, we also accept we will never know if we live in a computer simulation.And then, we can shift our {inquiry} from “Is the universe a computer simulation?”to “Can we model the universe as a computer simulation?”Modeling reality is what we do.This practice is more significant than ever: modeling the behavior of {hydrogen} {atoms} has led to new {inventions} in {nuclear} energy and technology; models predict natural disasters like {hurricanes} and {landslides} , helping in planning {rescue} operations; when {launching} {rockets} and placing {satellites} , models of space {mechanics} have been playing an essential part.",
+      "cn": "因此，如果我们承认宇宙是不可知的，那我们也得承认，我们永远无法知道自己是否生活在计算机模拟的世界中。由此，我们就可以把我们的 <u> 探究问题 </u> 从“宇宙是计算机模拟出来的吗？”转变为“我们能否用计算机构建出宇宙模型？”对现实进行建模正是我们一直在做的事。这种实践比以往任何时候都更为重要—— <u> 氢原子 </u> 行为的建模促成了 <u> 核 </u> 能及技术方面的新 <u> 发明 </u> ；模型能够预测 <u> 飓风 </u> 和 <u> 山体滑坡 </u> 等自然灾害，帮助规划 <u> 救援 </u> 行动；在 <u> 发射火箭 </u> 和部署 <u> 卫星 </u> 时，空间 <u> 力学 </u> 模型一直发挥着至关重要的作用。"
+    },
+    {
+      "num": "04",
+      "en": "To {facilitate} our comprehension of the world, we build models based on {conceptual} metaphors that are familiar to us.In Newton's {era} , we imagined the universe as a clock.In Einstein's, we uncovered the standard model of particle ( (粒子) ) physics.",
+      "cn": "为了 <u> 便于 </u> 理解世界，我们基于熟悉的隐喻 <u> 概念 </u> 建立模型。在牛顿 <u> 时代 </u> ，我们把宇宙想象成一座时钟。在爱因斯坦时代，我们发现了粒子物理学的标准模型。"
+    },
+    {
+      "num": "05",
+      "en": "Now that we are in the information age, we have new concepts such as the computer, information processing, {virtual} reality, and simulation. {Unsurprisingly} , these new concepts inspire us to build new models of the universe.Models are not the reality, however.There is no point in arguing if the universe is a clock, a set of particles or an output of {computation} .All these models are tools to deal with the {unknown} and to make {discoveries} .And the more tools we have, the more effective and {insightful} we can become.",
+      "cn": "如今，我们身处信息时代，拥有了诸如计算机、信息处理、 <u> 虚拟 </u> 现实和模拟等新概念。 <u> 不出所料 </u> ，这些新概念激发我们建立关于宇宙的新模型。然而，模型并非现实。争论宇宙是一座时钟、一组粒子还是 <u> 计算 </u> 的输出结果并无意义。所有这些模型都是我们应对 <u> 未知 </u> 、探索 <u> 发现 </u> 的工具。我们拥有的工具越多，就会变得越高效、越 <u> 有洞察力 </u> 。 5NoOncib/NjiX02BpMIzP4m+378Hw1xTRxUdPaP/PFjKUFq4K2G7tp6ZLYoCE601yW1W39VMdLmovFdSHs4nVQ=="
+    }
+  ],
+  "vocab": [
+    {
+      "word": "notion",
+      "lemma": "notion",
+      "kind": "word",
+      "type": "core",
+      "ctx": "想法，观念，理解",
+      "forms": [],
+      "phonetic": "[ˈnəʊʃn]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "想法，观念，理解"
+        }
+      ]
+    },
+    {
+      "word": "VR",
+      "lemma": "VR",
+      "kind": "proper_noun",
+      "type": "outline",
+      "ctx": "虚拟现实",
+      "forms": [],
+      "phonetic": "[ˌviː ˈɑː(r)]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "abbr.",
+          "meaning": "虚拟现实"
+        }
+      ]
+    },
+    {
+      "word": "irresistible",
+      "lemma": "irresistible",
+      "kind": "word",
+      "type": "core",
+      "ctx": "无法抵制的",
+      "forms": [],
+      "phonetic": "[ˌɪrɪˈzɪstəbl]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "无法抵制的；极诱人的",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "be irresistible to无法抗拒"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "movie",
+      "lemma": "movie",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "电影",
+      "forms": [
+        {
+          "surface": "movies",
+          "tag": "plural"
+        }
+      ],
+      "phonetic": "[ˈmuːvi]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "电影"
+        }
+      ]
+    },
+    {
+      "word": "simulation",
+      "lemma": "simulation",
+      "kind": "word",
+      "type": "core",
+      "ctx": "假装",
+      "forms": [],
+      "phonetic": "[ˌsɪmjuˈleɪʃn]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "假装；模拟"
+        }
+      ]
+    },
+    {
+      "word": "master",
+      "lemma": "master",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "精通，掌握",
+      "forms": [
+        {
+          "surface": "masters",
+          "tag": "third_person"
+        },
+        {
+          "surface": "mastered",
+          "tag": "past"
+        },
+        {
+          "surface": "mastered",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "mastering",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[ˈmɑːstə(r)]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "精通，掌握"
+        },
+        {
+          "pos": "n.",
+          "meaning": "能手；主人；硕士学位"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "（描述精于某职业的人）熟练的，灵巧的；最重要的"
+        }
+      ]
+    },
+    {
+      "word": "suspect",
+      "lemma": "suspect",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "怀疑",
+      "forms": [
+        {
+          "surface": "suspects",
+          "tag": "third_person"
+        },
+        {
+          "surface": "suspected",
+          "tag": "past"
+        },
+        {
+          "surface": "suspected",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "suspecting",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[səˈspekt]",
+      "memory": [
+        "词根记忆：sus（下面）+pect（=spect，看）→在下面偷偷地看→怀疑"
+      ],
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "怀疑；觉得（尤指坏事可能属实或发生）",
+          "extras": [
+            {
+              "type": "ex",
+              "label": "例",
+              "items": [
+                "Many people suspect that all the rock salt used every winter is harming the environment.许多人怀疑每年冬天使用的大量岩盐正在危害环境。"
+              ]
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "meaning": "嫌疑分子"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "靠不住的；可疑的"
+        }
+      ]
+    },
+    {
+      "word": "numerous",
+      "lemma": "numerous",
+      "kind": "word",
+      "type": "core",
+      "ctx": "众多的，许多的",
+      "forms": [],
+      "phonetic": "[ˈnjuːmərəs]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "众多的，许多的"
+        }
+      ]
+    },
+    {
+      "word": "universe",
+      "lemma": "universe",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "宇宙",
+      "forms": [],
+      "phonetic": "[ˈjuːnɪvɜːs]",
+      "memory": [
+        "词根记忆：uni（一个）+vers（转）+e →一个旋转着的空间→宇宙"
+      ],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "宇宙"
+        }
+      ]
+    },
+    {
+      "word": "robot",
+      "lemma": "robot",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "机器人",
+      "forms": [
+        {
+          "surface": "robots",
+          "tag": "plural"
+        }
+      ],
+      "phonetic": "[ˈrəʊbɒt]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "机器人"
+        }
+      ]
+    },
+    {
+      "word": "gravity",
+      "lemma": "gravity",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "地心引力，重力",
+      "forms": [],
+      "phonetic": "[ˈɡrævəti]",
+      "memory": [
+        "词根记忆：grav（重）+ity（表性质）→重力"
+      ],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "地心引力，重力；严肃；严重性"
+        }
+      ]
+    },
+    {
+      "word": "orbit",
+      "lemma": "orbit",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "（天体等的）运行轨道",
+      "forms": [],
+      "phonetic": "[ˈɔːbɪt]",
+      "memory": [
+        "本身为词根：轨道"
+      ],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "（天体等的）运行轨道；（人、组织等的）影响范围"
+        }
+      ]
+    },
+    {
+      "word": "unknowable",
+      "lemma": "unknowable",
+      "kind": "word",
+      "type": "core",
+      "ctx": "无法知道的",
+      "forms": [],
+      "phonetic": "[ʌnˈnəʊəbl]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "无法知道的；不可知的"
+        }
+      ]
+    },
+    {
+      "word": "deny",
+      "lemma": "deny",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "否认",
+      "forms": [
+        {
+          "surface": "denies",
+          "tag": "third_person"
+        },
+        {
+          "surface": "denied",
+          "tag": "past"
+        },
+        {
+          "surface": "denied",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "denying",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[dɪˈnaɪ]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "否认；拒绝承认，拒绝接受"
+        }
+      ]
+    },
+    {
+      "word": "modern",
+      "lemma": "modern",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "现代的，当代的",
+      "forms": [],
+      "phonetic": "[ˈmɒdn]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "现代的，当代的；新式的"
+        }
+      ]
+    },
+    {
+      "word": "reveal",
+      "lemma": "reveal",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "揭示，透露",
+      "forms": [
+        {
+          "surface": "reveals",
+          "tag": "third_person"
+        },
+        {
+          "surface": "revealed",
+          "tag": "past"
+        },
+        {
+          "surface": "revealed",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "revealing",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[rɪˈviːl]",
+      "memory": [
+        "词根记忆：re（相反）+veal（=veil，盖上）→不盖上→揭露"
+      ],
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "揭示，透露；露出，展示"
+        }
+      ]
+    },
+    {
+      "word": "perceptual",
+      "lemma": "perceptual",
+      "kind": "word",
+      "type": "core",
+      "ctx": "知觉的",
+      "forms": [],
+      "phonetic": "[pəˈseptʃuəl]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "知觉的；感知的"
+        }
+      ]
+    },
+    {
+      "word": "sensory",
+      "lemma": "sensory",
+      "kind": "word",
+      "type": "core",
+      "ctx": "感官的",
+      "forms": [],
+      "phonetic": "[ˈsensəri]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "感官的；感觉的"
+        }
+      ]
+    },
+    {
+      "word": "input",
+      "lemma": "input",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "投入",
+      "forms": [
+        {
+          "surface": "inputs",
+          "tag": "plural"
+        },
+        {
+          "surface": "inputs",
+          "tag": "third_person"
+        },
+        {
+          "surface": "input",
+          "tag": "past"
+        },
+        {
+          "surface": "input",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "inputting",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[ˈɪnpʊt]",
+      "memory": [
+        "合成词：in（进入）+put（放）→把信息放进去→（信息的）输入"
+      ],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "投入；输入"
+        },
+        {
+          "pos": "v.",
+          "meaning": "输入（信息）"
+        }
+      ]
+    },
+    {
+      "word": "output",
+      "lemma": "output",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "产量，输出量",
+      "forms": [
+        {
+          "surface": "outputs",
+          "tag": "plural"
+        },
+        {
+          "surface": "outputs",
+          "tag": "third_person"
+        },
+        {
+          "surface": "output",
+          "tag": "past"
+        },
+        {
+          "surface": "output",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "outputting",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[ˈaʊtpʊt]",
+      "memory": [
+        "来自词组put out（生产，制造）"
+      ],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "产量，输出量；输出"
+        },
+        {
+          "pos": "v.",
+          "meaning": "输出"
+        }
+      ]
+    },
+    {
+      "word": "expose",
+      "lemma": "expose",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "暴露",
+      "forms": [
+        {
+          "surface": "exposes",
+          "tag": "third_person"
+        },
+        {
+          "surface": "exposed",
+          "tag": "past"
+        },
+        {
+          "surface": "exposed",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "exposing",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[ɪkˈspəʊz]",
+      "memory": [
+        "词根记忆：ex（出）+pos（放）+e→放出来→暴露；揭露"
+      ],
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "暴露；揭露；使接触",
+          "extras": [
+            {
+              "type": "ex",
+              "label": "例",
+              "items": [
+                "They were randomly divided into four groups and exposed to various noise levels in the background.他们被随机分成四组，处于不同程度的背景噪音中。"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "nobody",
+      "lemma": "nobody",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "没有人",
+      "forms": [],
+      "phonetic": "[ˈnəʊbədi]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "pron.",
+          "meaning": "没有人"
+        },
+        {
+          "pos": "n.",
+          "meaning": "小人物；无足轻重的人"
+        }
+      ]
+    },
+    {
+      "word": "black",
+      "lemma": "black",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "黑色的",
+      "forms": [
+        {
+          "surface": "blacks",
+          "tag": "third_person"
+        },
+        {
+          "surface": "blacked",
+          "tag": "past"
+        },
+        {
+          "surface": "blacked",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "blacking",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[blæk]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "黑色的；黑暗的；黑人的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "黑色；黑人"
+        },
+        {
+          "pos": "v.",
+          "meaning": "抵制；涂黑"
+        }
+      ]
+    },
+    {
+      "word": "insist",
+      "lemma": "insist",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "坚持",
+      "forms": [
+        {
+          "surface": "insists",
+          "tag": "third_person"
+        },
+        {
+          "surface": "insisted",
+          "tag": "past"
+        },
+        {
+          "surface": "insisted",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "insisting",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[ɪnˈsɪst]",
+      "memory": [
+        "词根记忆：in（使……）+sist（站）→使一直站着→坚持"
+      ],
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "坚持；坚决认为；坚持说",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "insist on (doing) sth.坚持（做）某事"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "oppose",
+      "lemma": "oppose",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "反对（计划、政策等）",
+      "forms": [
+        {
+          "surface": "opposes",
+          "tag": "third_person"
+        },
+        {
+          "surface": "opposed",
+          "tag": "past"
+        },
+        {
+          "surface": "opposed",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "opposing",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[əˈpəʊz]",
+      "memory": [
+        "词根记忆：op（反）+pos（放）+e→摆出相反的姿态→反对"
+      ],
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "反对（计划、政策等）；抵制；阻挠"
+        }
+      ]
+    },
+    {
+      "word": "contingent",
+      "lemma": "contingent",
+      "kind": "word",
+      "type": "core",
+      "ctx": "依情况而定的",
+      "forms": [],
+      "phonetic": "[kənˈtɪndʒənt]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "依情况而定的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "代表团；（军队的）分遣队"
+        }
+      ]
+    },
+    {
+      "word": "inquiry",
+      "lemma": "inquiry",
+      "kind": "word",
+      "type": "core",
+      "ctx": "调查",
+      "forms": [],
+      "phonetic": "[ɪnˈkwaɪəri]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "调查；询问"
+        }
+      ]
+    },
+    {
+      "word": "hydrogen",
+      "lemma": "hydrogen",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "氢",
+      "forms": [],
+      "phonetic": "[ˈhaɪdrədʒən]",
+      "memory": [
+        "词根记忆：hydro（水）+gen（产生）→参与生成水的物质→氢"
+      ],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "氢；氢气"
+        }
+      ]
+    },
+    {
+      "word": "atom",
+      "lemma": "atom",
+      "kind": "word",
+      "type": "core",
+      "ctx": "原子",
+      "forms": [
+        {
+          "surface": "atoms",
+          "tag": "plural"
+        }
+      ],
+      "phonetic": "[ˈætəm]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "原子"
+        }
+      ]
+    },
+    {
+      "word": "invention",
+      "lemma": "invention",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "发明，创造",
+      "forms": [
+        {
+          "surface": "inventions",
+          "tag": "plural"
+        }
+      ],
+      "phonetic": "[ɪnˈvenʃn]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "发明，创造；创造力，创意；虚构，编造"
+        }
+      ]
+    },
+    {
+      "word": "nuclear",
+      "lemma": "nuclear",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "核子的",
+      "forms": [],
+      "phonetic": "[ˈnjuːkliə(r)]",
+      "memory": [
+        "联想记忆：nu+clear（清除）→核能的威力足以清除地球上的所有生物→核能的；核武器的"
+      ],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "核子的；核能的；核武器的"
+        }
+      ]
+    },
+    {
+      "word": "hurricane",
+      "lemma": "hurricane",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "飓风",
+      "forms": [
+        {
+          "surface": "hurricanes",
+          "tag": "plural"
+        }
+      ],
+      "phonetic": "[ˈhʌrɪkən]",
+      "memory": [
+        "联想记忆：hurri（看作hurry，匆忙）+cane→来得很匆忙的风→飓风"
+      ],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "飓风"
+        }
+      ]
+    },
+    {
+      "word": "landslide",
+      "lemma": "landslide",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "（山坡或悬崖的）崩塌，塌方，滑坡",
+      "forms": [
+        {
+          "surface": "landslides",
+          "tag": "plural"
+        }
+      ],
+      "phonetic": "[ˈlændslaɪd]",
+      "memory": [
+        "合成词：land（陆地）+slide（滑动）→滑坡"
+      ],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "（山坡或悬崖的）崩塌，塌方，滑坡"
+        }
+      ]
+    },
+    {
+      "word": "rescue",
+      "lemma": "rescue",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "救援",
+      "forms": [
+        {
+          "surface": "rescues",
+          "tag": "third_person"
+        },
+        {
+          "surface": "rescued",
+          "tag": "past"
+        },
+        {
+          "surface": "rescued",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "rescuing",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[ˈreskjuː]",
+      "memory": [
+        "联想记忆：res（看作rest，休息）+cue（线索）→救援人员放弃休息寻找线索→营救，救援"
+      ],
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "/",
+          "extras": [
+            {
+              "type": "ex",
+              "label": "例",
+              "items": [
+                "I got a rescue call from a woman in Muttontown.我接到来自马顿镇的一位女士的求救电话。"
+              ]
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "meaning": "营救，救援"
+        }
+      ]
+    },
+    {
+      "word": "launch",
+      "lemma": "launch",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "开始从事",
+      "forms": [
+        {
+          "surface": "launches",
+          "tag": "third_person"
+        },
+        {
+          "surface": "launched",
+          "tag": "past"
+        },
+        {
+          "surface": "launched",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "launching",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[lɔːntʃ]",
+      "memory": [
+        "词根记忆：开始（launch）吃午餐（lunch）"
+      ],
+      "defs": [
+        {
+          "pos": "v.",
+          "meaning": "开始从事；（首次）上市，发行；发射",
+          "extras": [
+            {
+              "type": "col",
+              "label": "拓",
+              "items": [
+                "missile*（ n. 发射物；导弹）"
+              ]
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "meaning": "（航天器的）发射；（产品的）上市"
+        }
+      ]
+    },
+    {
+      "word": "rocket",
+      "lemma": "rocket",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "火箭",
+      "forms": [
+        {
+          "surface": "rockets",
+          "tag": "plural"
+        },
+        {
+          "surface": "rockets",
+          "tag": "third_person"
+        },
+        {
+          "surface": "rocketed",
+          "tag": "past"
+        },
+        {
+          "surface": "rocketed",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "rocketing",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[ˈrɒkɪt]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "火箭"
+        },
+        {
+          "pos": "v.",
+          "meaning": "迅速移动；猛增"
+        }
+      ]
+    },
+    {
+      "word": "satellite",
+      "lemma": "satellite",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "人造卫星",
+      "forms": [
+        {
+          "surface": "satellites",
+          "tag": "plural"
+        }
+      ],
+      "phonetic": "[ˈsætəlaɪt]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "人造卫星；卫星"
+        }
+      ]
+    },
+    {
+      "word": "mechanic",
+      "lemma": "mechanic",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "机械师，技工",
+      "forms": [
+        {
+          "surface": "mechanics",
+          "tag": "plural"
+        }
+      ],
+      "phonetic": "[məˈkænɪk]",
+      "memory": [
+        "词根记忆：mechan（机械）+ic（表人）→机械师，技工"
+      ],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "机械师，技工；力学，机械学；方法，手段"
+        }
+      ]
+    },
+    {
+      "word": "facilitate",
+      "lemma": "facilitate",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "促进，促使，使便利",
+      "forms": [
+        {
+          "surface": "facilitates",
+          "tag": "third_person"
+        },
+        {
+          "surface": "facilitated",
+          "tag": "past"
+        },
+        {
+          "surface": "facilitated",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "facilitating",
+          "tag": "ing"
+        }
+      ],
+      "phonetic": "[fəˈsɪlɪteɪt]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "vt.",
+          "meaning": "促进，促使，使便利"
+        }
+      ]
+    },
+    {
+      "word": "conceptual",
+      "lemma": "conceptual",
+      "kind": "word",
+      "type": "core",
+      "ctx": "概念（上）的",
+      "forms": [],
+      "phonetic": "[kənˈseptʃuəl]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "概念（上）的；观念（上）的"
+        }
+      ]
+    },
+    {
+      "word": "era",
+      "lemma": "era",
+      "kind": "word",
+      "type": "core",
+      "ctx": "时代，年代",
+      "forms": [],
+      "phonetic": "[ˈɪərə]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "时代，年代；纪元"
+        }
+      ]
+    },
+    {
+      "word": "virtual",
+      "lemma": "virtual",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "虚拟的，模拟的",
+      "forms": [],
+      "phonetic": "[ˈvɜːtʃuəl]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "虚拟的，模拟的；事实上的，实际上的",
+          "extras": [
+            {
+              "type": "col",
+              "label": "搭",
+              "items": [
+                "virtual life虚拟生活"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "unsurprisingly",
+      "lemma": "unsurprisingly",
+      "kind": "word",
+      "type": "core",
+      "ctx": "不出所料的，意料中的",
+      "forms": [],
+      "phonetic": "[ˌʌnsəˈpraɪzɪŋli]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adv.",
+          "meaning": "不出所料的，意料中的"
+        }
+      ]
+    },
+    {
+      "word": "computation",
+      "lemma": "computation",
+      "kind": "word",
+      "type": "core",
+      "ctx": "计算",
+      "forms": [],
+      "phonetic": "[ˌkɒmpjuˈteɪʃn]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "计算；计算过程"
+        }
+      ]
+    },
+    {
+      "word": "unknown",
+      "lemma": "unknown",
+      "kind": "word",
+      "type": "core",
+      "ctx": "未知的",
+      "forms": [],
+      "phonetic": "[ˌʌnˈnəʊn]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "未知的；无名的；从未发生的"
+        },
+        {
+          "pos": "n.",
+          "meaning": "未知的地方（或事物）；不出名的人；未知的因素"
+        }
+      ]
+    },
+    {
+      "word": "discovery",
+      "lemma": "discovery",
+      "kind": "word",
+      "type": "outline",
+      "ctx": "发现，发觉",
+      "forms": [
+        {
+          "surface": "discoveries",
+          "tag": "plural"
+        }
+      ],
+      "phonetic": "[dɪˈskʌvəri]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "n.",
+          "meaning": "发现，发觉"
+        }
+      ]
+    },
+    {
+      "word": "insightful",
+      "lemma": "insightful",
+      "kind": "word",
+      "type": "core",
+      "ctx": "富有洞察力的，有深刻了解的",
+      "forms": [],
+      "phonetic": "[ˈɪnsaɪtfʊl]",
+      "memory": [],
+      "defs": [
+        {
+          "pos": "adj.",
+          "meaning": "富有洞察力的，有深刻了解的"
+        }
+      ]
+    }
+  ]
+}

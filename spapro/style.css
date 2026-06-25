@@ -578,6 +578,32 @@ body.no-gloss .para { padding-bottom: 32px; }
     padding-bottom: 16px;
     border-bottom: 1px solid var(--line);
 }
+.modal-forms {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+.modal-form {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 3px 10px;
+    border-radius: 6px;
+    background: var(--bg);
+    border: 1px solid var(--line);
+    font-size: 13px;
+    line-height: 1.5;
+}
+.form-surface {
+    font-family: var(--font-display);
+    font-weight: 600;
+    color: var(--ink);
+}
+.form-tag {
+    font-size: 11px;
+    color: var(--ink-3);
+}
 .modal-defs { display: flex; flex-direction: column; gap: 10px; }
 .modal-def {
     display: flex;

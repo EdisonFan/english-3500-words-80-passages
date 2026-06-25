@@ -8,32 +8,32 @@
     {
       "num": "01",
       "en": "It's a {joyful} yet {stressful} time of {year} in the United States for students and {their} {family} as they {make} {decision} {about} {where} to attend {college}. Families {often} turn to {ranking} {system} to {help} make a decision. {however}, the rankings {ignore} a {critical} {factor}: the quality of teaching.",
-      "cn": ""
+      "cn": "对于美国学生和 <u> 他们的家人 </u> 来说，这是一 <u> 年 </u> 中既 <u> 高兴 </u> 又 <u> 紧张 </u> 的一段时间，因为他们要 <u> 决定 </u> 去 <u> 哪里 </u> 上 <u> 大学 </u> 。家庭 <u> 通常 </u> 都会借助 <u> 排名系统 </u> 来 <u> 辅助 </u> 做决定。 <u> 然而 </u> ，这些排名 <u> 忽略 </u> 了一个 <u> 关键的因素 </u> ：教学质量。"
     },
     {
       "num": "02",
       "en": "When I {talk} to families as a {scholar} of higher {education}, they're often {surprised} that teaching {excellence} is not counted in rankings. They're {even} {more} surprised at how teaching is {undervalue} by universities.",
-      "cn": ""
+      "cn": "当我作为一名高等 <u> 教育学者 </u> 与家庭 <u> 交谈 </u> 时，他们常常 <u> 惊讶 </u> 地发现，教学质量 <u> 优异 </u> 在排名中并未被纳入考量范畴。而大学对教学的 <u> 轻视更 </u> 令他们惊讶。"
     },
     {
       "num": "03",
       "en": "{emerging} research suggests that courses in lower-ranked universities, on average, {score} higher on teaching {than} courses in higher-ranked universities. In {fact}, universities often {shift} {emphasis} from teaching to other ranking factors. The absence of teaching excellence from the rankings is {surprising} given the {link} {between} high-quality teaching and student success. Quality teaching is one of the most important {predictor} of a {wide} range of college outcomes.",
-      "cn": ""
+      "cn": "<u> 新兴的 </u> 研究表明，排名较低的大学在教学方面的平均 <u> 得分比 </u> 排名较高的大学高。 <u> 事实 </u> 上，大学通常会把 <u> 重点 </u> 从教学 <u> 转移 </u> 到其他排名因素上。考虑到高质量教学与学生成功 <u> 之间 </u> 的 <u> 联系 </u> ，排名中缺少教学质量优异这一因素实在 <u> 令人惊讶 </u> 。优质教学是 <u> 预测 </u> 大学 <u> 诸多 </u> 成果的最重要 <u> 因素 </u> 之一。"
     },
     {
       "num": "04",
       "en": "Rankings, however, are only one reason why a {low} value is {place} on teaching in higher education. {administrator} often don't {view} teaching excellence as a way to {increase} {enrollment} or {funding}. {therefore}, it's not {highly} valued in hiring or {promotion}. Research shows that the more time {instructor} spend on teaching, the lower their {salary}. What is the {result}? Many instructors {continue} to teach using {traditional} {lecture}, which {lead} to lower success rates.",
-      "cn": ""
+      "cn": "然而，排名仅仅是高等教育中教学不受重视（教学被 <u> 赋予 </u> 较 <u> 低 </u> 的价值）的一个原因。 <u> 管理者 </u> 通常不 <u> 把 </u> 教学质量优异 <u> 视为增加入学率 </u> 或 <u> 经费 </u> 的途径。 <u> 因此 </u> ，在招聘或 <u> 晋升 </u> 时，教学并未受到 <u> 高度 </u> 重视。研究表明， <u> 教师 </u> 花在教学上的时间越多， <u> 工资 </u> 就越低。 <u> 结果 </u> 是什么呢？就是许多教师 <u> 继续 </u> 采用 <u> 传统的授课 </u> 方式， <u> 导致 </u> 了更低的成功率。"
     },
     {
       "num": "05",
       "en": "Quality teaching has been an important reputation-building factor. {nevertheless}, not {much} will change until schools with high-quality teaching are {reward} with more {resource}, higher rankings and increased enrollments. In the {long} term, universities, {organization} that rank schools, and others should {work} together to make teaching a valued, {core} {part} of the {mission}.",
-      "cn": ""
+      "cn": "优质教学一直是建立大学声誉的一个重要因素。 <u> 然而 </u> ，除非那些教学质量高的学校能被 <u> 回报 </u> 以更多的 <u> 资源 </u> 、更高的排名和入学率，否则情况不会有太 <u> 大 </u> 的改变。从 <u> 长远 </u> 来看，大学、负责为学校排名的 <u> 机构 </u> 和其他机构应共同 <u> 努力 </u> ，让教学成为学校 <u> 使命 </u> 中重要的 <u> 核心 </u> <u> 部分 </u> 。"
     },
     {
       "num": "06",
       "en": "What {should} students and their families do? They should give {strong} {consideration} to universities where high-quality teaching is valued, even {though} the schools {may} be ranked lower.",
-      "cn": ""
+      "cn": "学生和他们的家人 <u> 应该 </u> 怎么做呢？他们应该 <u> 认真考虑 </u> 那些重视高质量教学的大学， <u> 即使 </u> 这些学校的排名 <u> 可能 </u> 较低。"
     }
   ],
   "vocab": [
@@ -123,13 +123,30 @@
       "kind": "word",
       "type": "outline",
       "ctx": "做",
-      "forms": [],
+      "forms": [
+        {
+          "surface": "makes",
+          "tag": "third_person"
+        },
+        {
+          "surface": "made",
+          "tag": "past"
+        },
+        {
+          "surface": "made",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "making",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[meɪk]",
       "memory": [],
       "defs": [
         {
           "pos": "vt.",
-          "meaning": "（made, made, making）制造；做；使成为"
+          "meaning": "制造；做；使成为"
         }
       ]
     },
@@ -291,7 +308,24 @@
       "kind": "word",
       "type": "outline",
       "ctx": "忽略",
-      "forms": [],
+      "forms": [
+        {
+          "surface": "ignores",
+          "tag": "third_person"
+        },
+        {
+          "surface": "ignored",
+          "tag": "past"
+        },
+        {
+          "surface": "ignored",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "ignoring",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[ɪɡˈnɔː(r)]",
       "memory": [],
       "defs": [
@@ -341,7 +375,24 @@
       "kind": "word",
       "type": "outline",
       "ctx": "交谈",
-      "forms": [],
+      "forms": [
+        {
+          "surface": "talks",
+          "tag": "third_person"
+        },
+        {
+          "surface": "talked",
+          "tag": "past"
+        },
+        {
+          "surface": "talked",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "talking",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[tɔːk]",
       "memory": [],
       "defs": [
@@ -492,7 +543,24 @@
       "kind": "word",
       "type": "core",
       "ctx": "轻视",
-      "forms": [],
+      "forms": [
+        {
+          "surface": "undervalues",
+          "tag": "third_person"
+        },
+        {
+          "surface": "undervalued",
+          "tag": "past"
+        },
+        {
+          "surface": "undervalued",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "undervaluing",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[ˌʌndəˈvæljuː]",
       "memory": [],
       "defs": [
@@ -524,7 +592,24 @@
       "kind": "word",
       "type": "outline",
       "ctx": "得分",
-      "forms": [],
+      "forms": [
+        {
+          "surface": "scores",
+          "tag": "third_person"
+        },
+        {
+          "surface": "scored",
+          "tag": "past"
+        },
+        {
+          "surface": "scored",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "scoring",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[skɔː(r)]",
       "memory": [],
       "defs": [
@@ -585,7 +670,24 @@
       "kind": "word",
       "type": "outline",
       "ctx": "转移",
-      "forms": [],
+      "forms": [
+        {
+          "surface": "shifts",
+          "tag": "third_person"
+        },
+        {
+          "surface": "shifted",
+          "tag": "past"
+        },
+        {
+          "surface": "shifted",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "shifting",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[ʃɪft]",
       "memory": [],
       "defs": [
@@ -646,7 +748,28 @@
       "kind": "word",
       "type": "outline",
       "ctx": "联系",
-      "forms": [],
+      "forms": [
+        {
+          "surface": "links",
+          "tag": "plural"
+        },
+        {
+          "surface": "links",
+          "tag": "third_person"
+        },
+        {
+          "surface": "linked",
+          "tag": "past"
+        },
+        {
+          "surface": "linked",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "linking",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[lɪŋk]",
       "memory": [],
       "defs": [
@@ -756,7 +879,28 @@
       "kind": "word",
       "type": "outline",
       "ctx": "赋予",
-      "forms": [],
+      "forms": [
+        {
+          "surface": "places",
+          "tag": "plural"
+        },
+        {
+          "surface": "places",
+          "tag": "third_person"
+        },
+        {
+          "surface": "placed",
+          "tag": "past"
+        },
+        {
+          "surface": "placed",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "placing",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[pleɪs]",
       "memory": [],
       "defs": [
@@ -801,7 +945,28 @@
       "kind": "word",
       "type": "outline",
       "ctx": "视为",
-      "forms": [],
+      "forms": [
+        {
+          "surface": "views",
+          "tag": "plural"
+        },
+        {
+          "surface": "views",
+          "tag": "third_person"
+        },
+        {
+          "surface": "viewed",
+          "tag": "past"
+        },
+        {
+          "surface": "viewed",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "viewing",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[vjuː]",
       "memory": [],
       "defs": [
@@ -821,7 +986,24 @@
       "kind": "word",
       "type": "outline",
       "ctx": "增加",
-      "forms": [],
+      "forms": [
+        {
+          "surface": "increases",
+          "tag": "third_person"
+        },
+        {
+          "surface": "increased",
+          "tag": "past"
+        },
+        {
+          "surface": "increased",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "increasing",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[ɪnˈkriːs] / [ˈɪŋkriːs]",
       "memory": [],
       "defs": [
@@ -978,7 +1160,24 @@
       "kind": "word",
       "type": "outline",
       "ctx": "继续",
-      "forms": [],
+      "forms": [
+        {
+          "surface": "continues",
+          "tag": "third_person"
+        },
+        {
+          "surface": "continued",
+          "tag": "past"
+        },
+        {
+          "surface": "continued",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "continuing",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[kənˈtɪnjuː]",
       "memory": [],
       "defs": [
@@ -1028,7 +1227,24 @@
       "kind": "word",
       "type": "outline",
       "ctx": "导致",
-      "forms": [],
+      "forms": [
+        {
+          "surface": "leads",
+          "tag": "third_person"
+        },
+        {
+          "surface": "led",
+          "tag": "past"
+        },
+        {
+          "surface": "led",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "leading",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[liːd]",
       "memory": [],
       "defs": [
@@ -1084,7 +1300,24 @@
       "kind": "word",
       "type": "outline",
       "ctx": "回报",
-      "forms": [],
+      "forms": [
+        {
+          "surface": "rewards",
+          "tag": "third_person"
+        },
+        {
+          "surface": "rewarded",
+          "tag": "past"
+        },
+        {
+          "surface": "rewarded",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "rewarding",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[rɪˈwɔːd]",
       "memory": [
         "联想记忆：急冲向前（forward），领取奖赏（reward）"
@@ -1131,7 +1364,24 @@
       "kind": "word",
       "type": "outline",
       "ctx": "长远",
-      "forms": [],
+      "forms": [
+        {
+          "surface": "longs",
+          "tag": "third_person"
+        },
+        {
+          "surface": "longed",
+          "tag": "past"
+        },
+        {
+          "surface": "longed",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "longing",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[lɒŋ]",
       "memory": [],
       "defs": [
@@ -1171,7 +1421,24 @@
       "kind": "word",
       "type": "outline",
       "ctx": "努力",
-      "forms": [],
+      "forms": [
+        {
+          "surface": "works",
+          "tag": "third_person"
+        },
+        {
+          "surface": "worked",
+          "tag": "past"
+        },
+        {
+          "surface": "worked",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "working",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[wɜːk]",
       "memory": [],
       "defs": [
@@ -1220,7 +1487,28 @@
       "kind": "word",
       "type": "outline",
       "ctx": "部分",
-      "forms": [],
+      "forms": [
+        {
+          "surface": "parts",
+          "tag": "plural"
+        },
+        {
+          "surface": "parts",
+          "tag": "third_person"
+        },
+        {
+          "surface": "parted",
+          "tag": "past"
+        },
+        {
+          "surface": "parted",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "parting",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[pɑːt]",
       "memory": [],
       "defs": [

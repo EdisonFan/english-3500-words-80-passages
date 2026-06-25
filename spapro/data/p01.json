@@ -34,23 +34,46 @@
   "vocab": [
     {
       "word": "soil",
+      "lemma": "soil",
+      "kind": "word",
       "type": "outline",
       "ctx": "土壤",
+      "forms": [],
       "phonetic": "[sɔɪl]",
+      "memory": [],
       "defs": [
         {
           "pos": "n.",
           "meaning": "土壤"
         }
-      ],
-      "lemma": "soil",
-      "kind": "word"
+      ]
     },
     {
       "word": "pull",
+      "lemma": "pull",
+      "kind": "word",
       "type": "outline",
       "ctx": "拔",
+      "forms": [
+        {
+          "surface": "pulls",
+          "tag": "third_person"
+        },
+        {
+          "surface": "pulled",
+          "tag": "past"
+        },
+        {
+          "surface": "pulled",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "pulling",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[pʊl]",
+      "memory": [],
       "defs": [
         {
           "pos": "v.",
@@ -69,43 +92,66 @@
           "pos": "n.",
           "meaning": "[C] 拉，拽；引力"
         }
-      ],
-      "lemma": "pull",
-      "kind": "word"
+      ]
     },
     {
       "word": "weed",
+      "lemma": "weed",
+      "kind": "word",
       "type": "outline",
       "ctx": "野草",
+      "forms": [],
       "phonetic": "[wiːd]",
+      "memory": [],
       "defs": [
         {
           "pos": "n.",
           "meaning": "野草，杂草"
         }
-      ],
-      "lemma": "weed",
-      "kind": "word"
+      ]
     },
     {
       "word": "cabbage",
+      "lemma": "cabbage",
+      "kind": "word",
       "type": "outline",
       "ctx": "卷心菜",
+      "forms": [],
       "phonetic": "[ˈkæbɪdʒ]",
+      "memory": [],
       "defs": [
         {
           "pos": "n.",
           "meaning": "卷心菜，洋白菜"
         }
-      ],
-      "lemma": "cabbage",
-      "kind": "word"
+      ]
     },
     {
       "word": "sound",
+      "lemma": "sound",
+      "kind": "word",
       "type": "outline",
       "ctx": "听起来",
+      "forms": [
+        {
+          "surface": "sounds",
+          "tag": "third_person"
+        },
+        {
+          "surface": "sounded",
+          "tag": "past"
+        },
+        {
+          "surface": "sounded",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "sounding",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[saʊnd]",
+      "memory": [],
       "defs": [
         {
           "pos": "v.",
@@ -115,15 +161,17 @@
           "pos": "n.",
           "meaning": "声音"
         }
-      ],
-      "lemma": "sound",
-      "kind": "word"
+      ]
     },
     {
       "word": "tough",
+      "lemma": "tough",
+      "kind": "word",
       "type": "outline",
       "ctx": "艰苦的",
+      "forms": [],
       "phonetic": "[tʌf]",
+      "memory": [],
       "defs": [
         {
           "pos": "adj.",
@@ -138,15 +186,17 @@
             }
           ]
         }
-      ],
-      "lemma": "tough",
-      "kind": "word"
+      ]
     },
     {
       "word": "middle",
+      "lemma": "middle",
+      "kind": "word",
       "type": "outline",
       "ctx": "初中",
+      "forms": [],
       "phonetic": "[ˈmɪdl]",
+      "memory": [],
       "defs": [
         {
           "pos": "n.",
@@ -156,15 +206,38 @@
           "pos": "adj.",
           "meaning": "中部的；中间的；中级的"
         }
-      ],
-      "lemma": "middle",
-      "kind": "word"
+      ]
     },
     {
       "word": "kid",
+      "lemma": "kid",
+      "kind": "word",
       "type": "outline",
       "ctx": "小孩",
+      "forms": [
+        {
+          "surface": "kids",
+          "tag": "plural"
+        },
+        {
+          "surface": "kids",
+          "tag": "third_person"
+        },
+        {
+          "surface": "kidded",
+          "tag": "past"
+        },
+        {
+          "surface": "kidded",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "kidding",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[kɪd]",
+      "memory": [],
       "defs": [
         {
           "pos": "n.",
@@ -174,15 +247,17 @@
           "pos": "v.",
           "meaning": "戏弄，（与……）开玩笑；欺骗"
         }
-      ],
-      "lemma": "kid",
-      "kind": "word"
+      ]
     },
     {
       "word": "first",
+      "lemma": "first",
+      "kind": "word",
       "type": "outline",
       "ctx": "起初",
+      "forms": [],
       "phonetic": "[fɜːst]",
+      "memory": [],
       "defs": [
         {
           "pos": "adv.",
@@ -205,29 +280,52 @@
           "pos": "ordinal num.",
           "meaning": "第一的；首要的"
         }
-      ],
-      "lemma": "first",
-      "kind": "word"
+      ]
     },
     {
       "word": "found",
+      "lemma": "found",
+      "kind": "word",
       "type": "outline",
       "ctx": "创办",
+      "forms": [
+        {
+          "surface": "founds",
+          "tag": "third_person"
+        },
+        {
+          "surface": "founded",
+          "tag": "past"
+        },
+        {
+          "surface": "founded",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "founding",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[faʊnd]",
+      "memory": [],
       "defs": [
         {
           "pos": "vt.",
-          "meaning": "（founded, founded, founding）成立，建立"
+          "meaning": "成立，建立"
         }
-      ],
-      "lemma": "found",
-      "kind": "word"
+      ]
     },
     {
       "word": "urban",
+      "lemma": "urban",
+      "kind": "word",
       "type": "outline",
       "ctx": "城市的",
+      "forms": [],
       "phonetic": "[ˈɜːbən]",
+      "memory": [
+        "词根记忆：urb（城市）+an（……的）→城市的"
+      ],
       "defs": [
         {
           "pos": "adj.",
@@ -242,18 +340,38 @@
             }
           ]
         }
-      ],
-      "lemma": "urban",
-      "kind": "word",
-      "memory": [
-        "词根记忆：urb（城市）+an（……的）→城市的"
       ]
     },
     {
       "word": "garden",
+      "lemma": "garden",
+      "kind": "word",
       "type": "outline",
       "ctx": "菜园",
+      "forms": [
+        {
+          "surface": "gardens",
+          "tag": "plural"
+        },
+        {
+          "surface": "gardens",
+          "tag": "third_person"
+        },
+        {
+          "surface": "gardened",
+          "tag": "past"
+        },
+        {
+          "surface": "gardened",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "gardening",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[ˈɡɑːdn]",
+      "memory": [],
       "defs": [
         {
           "pos": "n.",
@@ -263,15 +381,38 @@
           "pos": "v.",
           "meaning": "做园艺工作；种植花木"
         }
-      ],
-      "lemma": "garden",
-      "kind": "word"
+      ]
     },
     {
       "word": "program",
+      "lemma": "program",
+      "kind": "word",
       "type": "outline",
       "ctx": "项目",
+      "forms": [
+        {
+          "surface": "programs",
+          "tag": "plural"
+        },
+        {
+          "surface": "programs",
+          "tag": "third_person"
+        },
+        {
+          "surface": "programmed",
+          "tag": "past"
+        },
+        {
+          "surface": "programmed",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "programming",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[ˈprəʊɡræm]",
+      "memory": [],
       "defs": [
         {
           "pos": "n.",
@@ -281,15 +422,34 @@
           "pos": "v.",
           "meaning": "规划，安排；编写程序"
         }
-      ],
-      "lemma": "program",
-      "kind": "word"
+      ]
     },
     {
       "word": "aim",
+      "lemma": "aim",
+      "kind": "word",
       "type": "outline",
       "ctx": "旨在",
+      "forms": [
+        {
+          "surface": "aims",
+          "tag": "third_person"
+        },
+        {
+          "surface": "aimed",
+          "tag": "past"
+        },
+        {
+          "surface": "aimed",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "aiming",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[eɪm]",
+      "memory": [],
       "defs": [
         {
           "pos": "v.",
@@ -308,85 +468,97 @@
           "pos": "n.",
           "meaning": "目的"
         }
-      ],
-      "lemma": "aim",
-      "kind": "word"
+      ]
     },
     {
       "word": "environmental",
+      "lemma": "environmental",
+      "kind": "word",
       "type": "core",
       "ctx": "自然环境的",
+      "forms": [],
       "phonetic": "[ɪnˌvaɪrənˈmentl]",
+      "memory": [],
       "defs": [
         {
           "pos": "adj.",
           "meaning": "自然环境的，有关环境的，环保的"
         }
-      ],
-      "lemma": "environmental",
-      "kind": "word"
+      ]
     },
     {
       "word": "awareness",
+      "lemma": "awareness",
+      "kind": "word",
       "type": "core",
       "ctx": "意识",
+      "forms": [],
       "phonetic": "[əˈweənəs]",
+      "memory": [],
       "defs": [
         {
           "pos": "n.",
           "meaning": "认识，意识"
         }
-      ],
-      "lemma": "awareness",
-      "kind": "word"
+      ]
     },
     {
       "word": "lifestyle",
+      "lemma": "lifestyle",
+      "kind": "word",
       "type": "core",
       "ctx": "生活方式",
+      "forms": [],
       "phonetic": "[ˈlaɪfstaɪl]",
+      "memory": [],
       "defs": [
         {
           "pos": "n.",
           "meaning": "生活方式"
         }
-      ],
-      "lemma": "lifestyle",
-      "kind": "word"
+      ]
     },
     {
       "word": "neighborhood",
+      "lemma": "neighborhood",
+      "kind": "word",
       "type": "outline",
       "ctx": "街区",
+      "forms": [],
       "phonetic": "[ˈneɪbəhʊd]",
+      "memory": [],
       "defs": [
         {
           "pos": "n.",
           "meaning": "街区；某街区（或城区）的居民"
         }
-      ],
-      "lemma": "neighborhood",
-      "kind": "word"
+      ]
     },
     {
       "word": "fresh",
+      "lemma": "fresh",
+      "kind": "word",
       "type": "outline",
       "ctx": "新鲜的",
+      "forms": [],
       "phonetic": "[freʃ]",
+      "memory": [],
       "defs": [
         {
           "pos": "adj.",
           "meaning": "新鲜的；不熟练的"
         }
-      ],
-      "lemma": "fresh",
-      "kind": "word"
+      ]
     },
     {
       "word": "food",
+      "lemma": "food",
+      "kind": "word",
       "type": "outline",
       "ctx": "食物",
+      "forms": [],
       "phonetic": "[fuːd]",
+      "memory": [],
       "defs": [
         {
           "pos": "n.",
@@ -401,15 +573,17 @@
             }
           ]
         }
-      ],
-      "lemma": "food",
-      "kind": "word"
+      ]
     },
     {
       "word": "green",
+      "lemma": "green",
+      "kind": "word",
       "type": "outline",
       "ctx": "绿色的",
+      "forms": [],
       "phonetic": "[ɡriːn]",
+      "memory": [],
       "defs": [
         {
           "pos": "adj.",
@@ -419,103 +593,168 @@
           "pos": "n.",
           "meaning": "绿色；[pl.]绿色蔬菜"
         }
-      ],
-      "lemma": "green",
-      "kind": "word"
+      ]
     },
     {
       "word": "easy",
+      "lemma": "easy",
+      "kind": "word",
       "type": "outline",
       "ctx": "容易的",
+      "forms": [],
       "phonetic": "[ˈiːzi]",
+      "memory": [],
       "defs": [
         {
           "pos": "adj.",
           "meaning": "容易的；舒适的；随和的"
         }
-      ],
-      "lemma": "easy",
-      "kind": "word"
+      ]
     },
     {
       "word": "find",
+      "lemma": "find",
+      "kind": "word",
       "type": "outline",
       "ctx": "找到",
+      "forms": [
+        {
+          "surface": "finds",
+          "tag": "third_person"
+        },
+        {
+          "surface": "found",
+          "tag": "past"
+        },
+        {
+          "surface": "found",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "finding",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[faɪnd]",
+      "memory": [],
       "defs": [
         {
           "pos": "vt.",
-          "meaning": "（found, found, finding）找到，发现；感到"
+          "meaning": "找到，发现；感到"
         }
-      ],
-      "lemma": "find",
-      "kind": "word"
+      ]
     },
     {
       "word": "restaurant",
+      "lemma": "restaurant",
+      "kind": "word",
       "type": "outline",
       "ctx": "餐馆",
+      "forms": [],
       "phonetic": "[ˈrestrɒnt]",
+      "memory": [],
       "defs": [
         {
           "pos": "n.",
           "meaning": "餐馆，饭店"
         }
-      ],
-      "lemma": "restaurant",
-      "kind": "word"
+      ]
     },
     {
       "word": "outnumber",
+      "lemma": "outnumber",
+      "kind": "word",
       "type": "core",
       "ctx": "在数量上胜过……",
+      "forms": [
+        {
+          "surface": "outnumbers",
+          "tag": "third_person"
+        },
+        {
+          "surface": "outnumbered",
+          "tag": "past"
+        },
+        {
+          "surface": "outnumbered",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "outnumbering",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[ˌaʊtˈnʌmbə(r)]",
+      "memory": [],
       "defs": [
         {
           "pos": "vt.",
           "meaning": "在数量上胜过……，比……多"
         }
-      ],
-      "lemma": "outnumber",
-      "kind": "word"
+      ]
     },
     {
       "word": "grocery",
+      "lemma": "grocery",
+      "kind": "word",
       "type": "outline",
       "ctx": "食品杂货店",
+      "forms": [],
       "phonetic": "[ˈɡrəʊsəri]",
+      "memory": [],
       "defs": [
         {
           "pos": "n.",
           "meaning": "食品杂货店"
         }
-      ],
-      "lemma": "grocery",
-      "kind": "word"
+      ]
     },
     {
       "word": "literally",
+      "lemma": "literally",
+      "kind": "word",
       "type": "outline",
       "ctx": "真的",
+      "forms": [],
       "phonetic": "[ˈlɪtərəli]",
+      "memory": [],
       "defs": [
         {
           "pos": "adv.",
           "meaning": "简直；确实地；按照字面地"
         }
-      ],
-      "lemma": "literally",
-      "kind": "word"
+      ]
     },
     {
       "word": "come",
+      "lemma": "come",
+      "kind": "word",
       "type": "outline",
       "ctx": "来",
+      "forms": [
+        {
+          "surface": "comes",
+          "tag": "third_person"
+        },
+        {
+          "surface": "came",
+          "tag": "past"
+        },
+        {
+          "surface": "come",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "coming",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[kʌm]",
+      "memory": [],
       "defs": [
         {
           "pos": "vi.",
-          "meaning": "（came, come, coming）来；达到；产生（于）；发生；可提供",
+          "meaning": "来；达到；产生（于）；发生；可提供",
           "extras": [
             {
               "type": "col",
@@ -526,15 +765,38 @@
             }
           ]
         }
-      ],
-      "lemma": "come",
-      "kind": "word"
+      ]
     },
     {
       "word": "bag",
+      "lemma": "bag",
+      "kind": "word",
       "type": "outline",
       "ctx": "[C]袋",
+      "forms": [
+        {
+          "surface": "bags",
+          "tag": "plural"
+        },
+        {
+          "surface": "bags",
+          "tag": "third_person"
+        },
+        {
+          "surface": "bagged",
+          "tag": "past"
+        },
+        {
+          "surface": "bagged",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "bagging",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[bæɡ]",
+      "memory": [],
       "defs": [
         {
           "pos": "n.",
@@ -544,159 +806,198 @@
           "pos": "v.",
           "meaning": "把……装进袋子"
         }
-      ],
-      "lemma": "bag",
-      "kind": "word"
+      ]
     },
     {
       "word": "snack",
+      "lemma": "snack",
+      "kind": "word",
       "type": "outline",
       "ctx": "零食",
+      "forms": [],
       "phonetic": "[snæk]",
+      "memory": [],
       "defs": [
         {
           "pos": "n.",
           "meaning": "小吃，快餐"
         }
-      ],
-      "lemma": "snack",
-      "kind": "word"
+      ]
     },
     {
       "word": "bottle",
+      "lemma": "bottle",
+      "kind": "word",
       "type": "outline",
       "ctx": "瓶子",
+      "forms": [],
       "phonetic": "[ˈbɒtl]",
+      "memory": [],
       "defs": [
         {
           "pos": "n.",
           "meaning": "瓶子"
         }
-      ],
-      "lemma": "bottle",
-      "kind": "word"
+      ]
     },
     {
       "word": "soft",
+      "lemma": "soft",
+      "kind": "word",
       "type": "outline",
       "ctx": "软的",
+      "forms": [],
       "phonetic": "[sɒft]",
+      "memory": [],
       "defs": [
         {
           "pos": "adj.",
           "meaning": "轻的；软的；柔滑的；（声音）轻柔的；（颜色、光线等）柔和的"
         }
-      ],
-      "lemma": "soft",
-      "kind": "word"
+      ]
     },
     {
       "word": "drink",
+      "lemma": "drink",
+      "kind": "word",
       "type": "outline",
       "ctx": "饮料",
+      "forms": [
+        {
+          "surface": "drinks",
+          "tag": "third_person"
+        },
+        {
+          "surface": "drank",
+          "tag": "past"
+        },
+        {
+          "surface": "drunk",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "drinking",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[drɪŋk]",
+      "memory": [],
       "defs": [
         {
           "pos": "v.",
-          "meaning": "（drank, drunk, drinking）喝，饮"
+          "meaning": "喝，饮"
         },
         {
           "pos": "n.",
           "meaning": "饮酒；饮料"
         }
-      ],
-      "lemma": "drink",
-      "kind": "word"
+      ]
     },
     {
       "word": "vegetable",
+      "lemma": "vegetable",
+      "kind": "word",
       "type": "outline",
       "ctx": "蔬菜",
+      "forms": [],
       "phonetic": "[ˈvedʒtəbl]",
+      "memory": [],
       "defs": [
         {
           "pos": "n.",
           "meaning": "蔬菜"
         }
-      ],
-      "lemma": "vegetable",
-      "kind": "word"
+      ]
     },
     {
       "word": "awful",
+      "lemma": "awful",
+      "kind": "word",
       "type": "outline",
       "ctx": "糟糕的",
+      "forms": [],
       "phonetic": "[ˈɔːfl]",
+      "memory": [],
       "defs": [
         {
           "pos": "adj.",
           "meaning": "糟糕的，很坏的；很多的；可怕的"
         }
-      ],
-      "lemma": "awful",
-      "kind": "word"
+      ]
     },
     {
       "word": "dirt",
+      "lemma": "dirt",
+      "kind": "word",
       "type": "core",
       "ctx": "泥土",
+      "forms": [],
       "phonetic": "[dɜːt]",
+      "memory": [],
       "defs": [
         {
           "pos": "n.",
           "meaning": "污物，尘土；泥土"
         }
-      ],
-      "lemma": "dirt",
-      "kind": "word"
+      ]
     },
     {
       "word": "insect",
+      "lemma": "insect",
+      "kind": "word",
       "type": "outline",
       "ctx": "昆虫",
+      "forms": [],
       "phonetic": "[ˈɪnsekt]",
+      "memory": [],
       "defs": [
         {
           "pos": "n.",
           "meaning": "昆虫"
         }
-      ],
-      "lemma": "insect",
-      "kind": "word"
+      ]
     },
     {
       "word": "initially",
+      "lemma": "initially",
+      "kind": "word",
       "type": "core",
       "ctx": "一开始",
+      "forms": [],
       "phonetic": "[ɪˈnɪʃəli]",
+      "memory": [],
       "defs": [
         {
           "pos": "adv.",
           "meaning": "开头，最初"
         }
-      ],
-      "lemma": "initially",
-      "kind": "word"
+      ]
     },
     {
       "word": "scared",
+      "lemma": "scared",
+      "kind": "word",
       "type": "core",
       "ctx": "害怕的",
+      "forms": [],
       "phonetic": "[skeəd]",
+      "memory": [],
       "defs": [
         {
           "pos": "adj.",
           "meaning": "害怕的，恐惧的"
         }
-      ],
-      "lemma": "scared",
-      "kind": "word"
+      ]
     },
     {
       "word": "eager",
+      "lemma": "eager",
+      "kind": "word",
       "type": "outline",
       "ctx": "渴望的",
+      "forms": [],
       "phonetic": "[ˈiːɡə(r)]",
+      "memory": [],
       "defs": [
         {
           "pos": "adj.",
@@ -711,43 +1012,49 @@
             }
           ]
         }
-      ],
-      "lemma": "eager",
-      "kind": "word"
+      ]
     },
     {
       "word": "something",
+      "lemma": "something",
+      "kind": "word",
       "type": "outline",
       "ctx": "某事",
+      "forms": [],
       "phonetic": "[ˈsʌmθɪŋ]",
+      "memory": [],
       "defs": [
         {
           "pos": "pron.",
           "meaning": "某事；某物"
         }
-      ],
-      "lemma": "something",
-      "kind": "word"
+      ]
     },
     {
       "word": "new",
+      "lemma": "new",
+      "kind": "word",
       "type": "outline",
       "ctx": "新的",
+      "forms": [],
       "phonetic": "[njuː]",
+      "memory": [],
       "defs": [
         {
           "pos": "adj.",
           "meaning": "新的"
         }
-      ],
-      "lemma": "new",
-      "kind": "word"
+      ]
     },
     {
       "word": "experiment",
+      "lemma": "experiment",
+      "kind": "word",
       "type": "outline",
       "ctx": "实验",
+      "forms": [],
       "phonetic": "[ɪkˈsperɪmənt]",
+      "memory": [],
       "defs": [
         {
           "pos": "n.",
@@ -762,15 +1069,17 @@
             }
           ]
         }
-      ],
-      "lemma": "experiment",
-      "kind": "word"
+      ]
     },
     {
       "word": "such",
+      "lemma": "such",
+      "kind": "word",
       "type": "outline",
       "ctx": "例如",
+      "forms": [],
       "phonetic": "[sʌtʃ]",
+      "memory": [],
       "defs": [
         {
           "pos": "det.",
@@ -789,29 +1098,50 @@
           "pos": "pron.",
           "meaning": "这样的，那样的；非常"
         }
-      ],
-      "lemma": "such",
-      "kind": "word"
+      ]
     },
     {
       "word": "dissection",
+      "lemma": "dissection",
+      "kind": "word",
       "type": "core",
       "ctx": "解剖",
+      "forms": [],
       "phonetic": "[dɪˈsekʃn; daɪˈsekʃn]",
+      "memory": [],
       "defs": [
         {
           "pos": "n.",
           "meaning": "解剖；剖析"
         }
-      ],
-      "lemma": "dissection",
-      "kind": "word"
+      ]
     },
     {
       "word": "produce",
+      "lemma": "produce",
+      "kind": "word",
       "type": "outline",
       "ctx": "农产品",
+      "forms": [
+        {
+          "surface": "produces",
+          "tag": "third_person"
+        },
+        {
+          "surface": "produced",
+          "tag": "past"
+        },
+        {
+          "surface": "produced",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "producing",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[prəˈdjuːs]",
+      "memory": [],
       "defs": [
         {
           "pos": "vt.",
@@ -821,15 +1151,17 @@
           "pos": "n.",
           "meaning": "[U]农产品"
         }
-      ],
-      "lemma": "produce",
-      "kind": "word"
+      ]
     },
     {
       "word": "several",
+      "lemma": "several",
+      "kind": "word",
       "type": "outline",
       "ctx": "几次",
+      "forms": [],
       "phonetic": "[ˈsevrəl]",
+      "memory": [],
       "defs": [
         {
           "pos": "det.",
@@ -839,15 +1171,34 @@
           "pos": "pron.",
           "meaning": "几个，若干"
         }
-      ],
-      "lemma": "several",
-      "kind": "word"
+      ]
     },
     {
       "word": "cook",
+      "lemma": "cook",
+      "kind": "word",
       "type": "outline",
       "ctx": "烹调",
+      "forms": [
+        {
+          "surface": "cooks",
+          "tag": "third_person"
+        },
+        {
+          "surface": "cooked",
+          "tag": "past"
+        },
+        {
+          "surface": "cooked",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "cooking",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[kʊk]",
+      "memory": [],
       "defs": [
         {
           "pos": "v.",
@@ -857,43 +1208,49 @@
           "pos": "n.",
           "meaning": "厨师"
         }
-      ],
-      "lemma": "cook",
-      "kind": "word"
+      ]
     },
     {
       "word": "salad",
+      "lemma": "salad",
+      "kind": "word",
       "type": "outline",
       "ctx": "沙拉",
+      "forms": [],
       "phonetic": "[ˈsæləd]",
+      "memory": [],
       "defs": [
         {
           "pos": "n.",
           "meaning": "沙拉，凉拌菜"
         }
-      ],
-      "lemma": "salad",
-      "kind": "word"
+      ]
     },
     {
       "word": "entire",
+      "lemma": "entire",
+      "kind": "word",
       "type": "core",
       "ctx": "整个的",
+      "forms": [],
       "phonetic": "[ɪnˈtaɪə(r)]",
+      "memory": [],
       "defs": [
         {
           "pos": "adj.",
           "meaning": "整个的，全部的"
         }
-      ],
-      "lemma": "entire",
-      "kind": "word"
+      ]
     },
     {
       "word": "home",
+      "lemma": "home",
+      "kind": "word",
       "type": "outline",
       "ctx": "家",
+      "forms": [],
       "phonetic": "[həʊm]",
+      "memory": [],
       "defs": [
         {
           "pos": "n.",
@@ -912,43 +1269,49 @@
           "pos": "adv.",
           "meaning": "到家，在家"
         }
-      ],
-      "lemma": "home",
-      "kind": "word"
+      ]
     },
     {
       "word": "parent",
+      "lemma": "parent",
+      "kind": "word",
       "type": "outline",
       "ctx": "父母",
+      "forms": [],
       "phonetic": "[ˈpeərənt]",
+      "memory": [],
       "defs": [
         {
           "pos": "n.",
           "meaning": "父亲（或母亲）；母公司"
         }
-      ],
-      "lemma": "parent",
-      "kind": "word"
+      ]
     },
     {
       "word": "differently",
+      "lemma": "differently",
+      "kind": "word",
       "type": "core",
       "ctx": "不一样",
+      "forms": [],
       "phonetic": "[ˈdɪfrəntli]",
+      "memory": [],
       "defs": [
         {
           "pos": "adv.",
           "meaning": "不同地"
         }
-      ],
-      "lemma": "differently",
-      "kind": "word"
+      ]
     },
     {
       "word": "beyond",
+      "lemma": "beyond",
+      "kind": "word",
       "type": "outline",
       "ctx": "超过",
+      "forms": [],
       "phonetic": "[bɪˈjɒnd]",
+      "memory": [],
       "defs": [
         {
           "pos": "prep.",
@@ -963,46 +1326,51 @@
             }
           ]
         }
-      ],
-      "lemma": "beyond",
-      "kind": "word"
+      ]
     },
     {
       "word": "nutrition",
+      "lemma": "nutrition",
+      "kind": "word",
       "type": "outline",
       "ctx": "营养",
+      "forms": [],
       "phonetic": "[njuˈtrɪʃn]",
+      "memory": [
+        "词根记忆：nutri（滋养）+tion（表名词）→营养"
+      ],
       "defs": [
         {
           "pos": "n.",
           "meaning": "营养"
         }
-      ],
-      "lemma": "nutrition",
-      "kind": "word",
-      "memory": [
-        "词根记忆：nutri（滋养）+tion（表名词）→营养"
       ]
     },
     {
       "word": "interested",
+      "lemma": "interested",
+      "kind": "word",
       "type": "core",
       "ctx": "感兴趣的",
+      "forms": [],
       "phonetic": "[ˈɪntrəstɪd; ˈɪntrestɪd]",
+      "memory": [],
       "defs": [
         {
           "pos": "adj.",
           "meaning": "感兴趣的，关心的，表现出兴趣的"
         }
-      ],
-      "lemma": "interested",
-      "kind": "word"
+      ]
     },
     {
       "word": "seed",
+      "lemma": "seed",
+      "kind": "word",
       "type": "outline",
       "ctx": "种子",
+      "forms": [],
       "phonetic": "[siːd]",
+      "memory": [],
       "defs": [
         {
           "pos": "n.",
@@ -1017,15 +1385,17 @@
             }
           ]
         }
-      ],
-      "lemma": "seed",
-      "kind": "word"
+      ]
     },
     {
       "word": "besides",
+      "lemma": "besides",
+      "kind": "word",
       "type": "core",
       "ctx": "此外",
+      "forms": [],
       "phonetic": "[bɪˈsaɪdz]",
+      "memory": [],
       "defs": [
         {
           "pos": "prep.",
@@ -1035,29 +1405,50 @@
           "pos": "adv.",
           "meaning": "此外；再说"
         }
-      ],
-      "lemma": "besides",
-      "kind": "word"
+      ]
     },
     {
       "word": "seem",
+      "lemma": "seem",
+      "kind": "word",
       "type": "outline",
       "ctx": "似乎",
+      "forms": [
+        {
+          "surface": "seems",
+          "tag": "third_person"
+        },
+        {
+          "surface": "seemed",
+          "tag": "past"
+        },
+        {
+          "surface": "seemed",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "seeming",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[siːm]",
+      "memory": [],
       "defs": [
         {
           "pos": "v.",
           "meaning": "似乎，好像"
         }
-      ],
-      "lemma": "seem",
-      "kind": "word"
+      ]
     },
     {
       "word": "effect",
+      "lemma": "effect",
+      "kind": "word",
       "type": "outline",
       "ctx": "作用",
+      "forms": [],
       "phonetic": "[ɪˈfekt]",
+      "memory": [],
       "defs": [
         {
           "pos": "n.",
@@ -1072,15 +1463,17 @@
             }
           ]
         }
-      ],
-      "lemma": "effect",
-      "kind": "word"
+      ]
     },
     {
       "word": "many",
+      "lemma": "many",
+      "kind": "word",
       "type": "outline",
       "ctx": "许多",
+      "forms": [],
       "phonetic": "[ˈmeni]",
+      "memory": [],
       "defs": [
         {
           "pos": "det.",
@@ -1090,51 +1483,72 @@
           "pos": "pron.",
           "meaning": "许多"
         }
-      ],
-      "lemma": "many",
-      "kind": "word"
+      ]
     },
     {
       "word": "emotional",
+      "lemma": "emotional",
+      "kind": "word",
       "type": "core",
       "ctx": "情绪的",
+      "forms": [],
       "phonetic": "[ɪˈməʊʃənl]",
+      "memory": [],
       "defs": [
         {
           "pos": "adj.",
           "meaning": "感情的，情绪的"
         }
-      ],
-      "lemma": "emotional",
-      "kind": "word"
+      ]
     },
     {
       "word": "feel",
+      "lemma": "feel",
+      "kind": "word",
       "type": "outline",
       "ctx": "体会到",
+      "forms": [
+        {
+          "surface": "feels",
+          "tag": "third_person"
+        },
+        {
+          "surface": "felt",
+          "tag": "past"
+        },
+        {
+          "surface": "felt",
+          "tag": "past_participle"
+        },
+        {
+          "surface": "feeling",
+          "tag": "ing"
+        }
+      ],
       "phonetic": "[fiːl]",
+      "memory": [],
       "defs": [
         {
           "pos": "v.",
-          "meaning": "（felt, felt, feeling）觉得，体会到；意识到；触摸；认为；寻找；摸起来"
+          "meaning": "觉得，体会到；意识到；触摸；认为；寻找；摸起来"
         }
-      ],
-      "lemma": "feel",
-      "kind": "word"
+      ]
     },
     {
       "word": "successful",
+      "lemma": "successful",
+      "kind": "word",
       "type": "outline",
       "ctx": "成功的",
+      "forms": [],
       "phonetic": "[səkˈsesfl]",
+      "memory": [],
       "defs": [
         {
           "pos": "adj.",
           "meaning": "成功的，有成就的"
         }
-      ],
-      "lemma": "successful",
-      "kind": "word"
+      ]
     }
   ]
 }
