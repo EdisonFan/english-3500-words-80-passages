@@ -3,9 +3,8 @@
 
 - 静态文件：直接从当前目录提供（index.html / app.js / style.css / data/*.json）
 - 词典代理：GET /api/dict?q=<word>
-    主源：dictionaryapi.dev（英英，提供音标/发音/词性/例句/同反义词）
-    辅源：有道 suggest（中文释义）
-    多源聚合后输出统一结构，对齐 spapro/data 的 vocab 结构
+    数据源：有道词典 jsonapi（一个接口提供中文释义/音标/英式美式发音/双语例句/变形/同义词）
+    输出统一结构，对齐 spapro/data 的 vocab 结构
     所有响应附加 CORS 头
 """
 import http.server
@@ -14,6 +13,7 @@ import urllib.request
 import urllib.parse
 import json
 import os
+import re
 import threading
 
 PORT = 8000
@@ -53,183 +53,16 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                 self._send_json(200, _dict_cache[word])
                 return
 
-        result = self._aggregate(word)
+        result = self._query_youdao_jsonapi(word)
 
         with _cache_lock:
             _dict_cache[word] = result
         self._send_json(200, result)
 
-    def _aggregate(self, word):
-        """聚合多源数据，输出统一结构"""
-        result = {
-            'word': word,
-            'found': False,
-            'phonetic': '',
-            'audio_uk': '',
-            'audio_us': '',
-            'defs': [],          # [{pos, meaning(中文), en_definitions:[{definition, example}]}]
-            'synonyms': [],
-            'antonyms': [],
-            'sources': [],
-        }
-
-        # 1. dictionaryapi.dev：音标、发音、词性、英文释义、例句、同反义词
-        en_data = self._query_dictionaryapi(word)
-        if en_data:
-            result['sources'].append('dictionaryapi.dev')
-            result['found'] = True
-            # 音标：优先取有 text 的
-            phonetics = en_data.get('phonetics') or []
-            for p in phonetics:
-                if p.get('text') and not result['phonetic']:
-                    result['phonetic'] = p['text']
-            # 发音：按 URL 后缀区分英式/美式
-            for p in phonetics:
-                audio = p.get('audio') or ''
-                if not audio:
-                    continue
-                low = audio.lower()
-                if '-uk' in low and not result['audio_uk']:
-                    result['audio_uk'] = audio
-                elif '-us' in low and not result['audio_us']:
-                    result['audio_us'] = audio
-                elif 'au' in low or 'australian' in low:
-                    # 澳音补位：如果英式美式都缺，澳音当英式兜底
-                    if not result['audio_uk']:
-                        result['audio_uk'] = audio
-            # 词性 + 英文释义 + 例句
-            for m in en_data.get('meanings') or []:
-                pos = m.get('partOfSpeech') or ''
-                en_definitions = []
-                for d in m.get('definitions') or []:
-                    en_definitions.append({
-                        'definition': d.get('definition') or '',
-                        'example': d.get('example') or '',
-                    })
-                result['defs'].append({
-                    'pos': pos,
-                    'meaning': '',  # 中文释义留给有道填
-                    'en_definitions': en_definitions,
-                })
-            # 同反义词（取首个 meaning 的）
-            meanings = en_data.get('meanings') or []
-            if meanings:
-                result['synonyms'] = list(meanings[0].get('synonyms') or [])[:8]
-                result['antonyms'] = list(meanings[0].get('antonyms') or [])[:8]
-
-        # 2. 有道 suggest：中文释义（含词性）
-        youdao_data = self._query_youdao(word)
-        if youdao_data and youdao_data.get('found'):
-            result['sources'].append('youdao')
-            result['found'] = True
-            explain = youdao_data.get('explain', '')
-            if explain:
-                # 解析"n. 苹果；vt. 放弃..."格式，按词性分配到 defs
-                parsed_defs = self._parse_youdao_explain(explain)
-                if parsed_defs:
-                    # 如果 dictionaryapi.dev 已有词性结构，合并中文释义
-                    if result['defs']:
-                        self._merge_chinese_meanings(result['defs'], parsed_defs)
-                    else:
-                        for pd in parsed_defs:
-                            result['defs'].append({
-                                'pos': pd['pos'],
-                                'meaning': pd['meaning'],
-                                'en_definitions': [],
-                            })
-                else:
-                    # 解析失败，整体塞到第一个义项
-                    if result['defs']:
-                        result['defs'][0]['meaning'] = explain
-                    else:
-                        result['defs'].append({'pos': '', 'meaning': explain, 'en_definitions': []})
-
-        return result
-
-    def _parse_youdao_explain(self, explain):
-        """解析有道 explain 字段，如 'n. 苹果；vt. 放弃...'，返回 [{pos, meaning}]"""
-        if not explain:
-            return []
-        import re
-        # 按词性标记切分：词性标记形如 "n." "v." "adj." "adv." "vt." "vi." "prep." "conj." "pron." "num." "art." "int." 等
-        pattern = re.compile(r'((?:n|v|vi|vt|aux|adj|adv|prep|conj|pron|num|art|int|abbr)\.\s*)')
-        parts = pattern.split(explain)
-        # parts 形如 ['', 'n. ', '苹果；', 'vt. ', '放弃...']
-        defs = []
-        i = 1
-        while i < len(parts):
-            pos = (parts[i] or '').strip()
-            meaning = (parts[i + 1] or '').strip() if i + 1 < len(parts) else ''
-            if pos or meaning:
-                defs.append({'pos': pos, 'meaning': meaning})
-            i += 2
-        # 处理开头无词性的部分
-        if not defs and explain.strip():
-            defs.append({'pos': '', 'meaning': explain.strip()})
-        return defs
-
-    def _merge_chinese_meanings(self, defs, parsed_defs):
-        """把有道的中文释义合并到 dictionaryapi.dev 的词性结构里"""
-        # 按 pos 建索引（dictionaryapi.dev 用 noun/verb 等，有道用 n./v. 等，需归一化）
-        pos_map = {
-            'noun': 'n.', 'verb': 'v.', 'adjective': 'adj.', 'adverb': 'adv.',
-            'pronoun': 'pron.', 'preposition': 'prep.', 'conjunction': 'conj.',
-            'interjection': 'int.', 'determiner': 'det.', 'numeral': 'num.',
-            'vi.': 'vi.', 'vt.': 'vt.', 'aux.': 'aux.', 'abbr.': 'abbr.',
-        }
-        # 给 defs 加 normalized pos
-        for d in defs:
-            d['_norm_pos'] = pos_map.get(d.get('pos', '').lower(), d.get('pos', ''))
-
-        for pd in parsed_defs:
-            target = None
-            # 精确匹配
-            for d in defs:
-                if d.get('_norm_pos') == pd['pos']:
-                    target = d
-                    break
-            # 模糊匹配：n. 匹配 noun；v. 匹配 verb/vi./vt.
-            if not target:
-                for d in defs:
-                    np = d.get('_norm_pos', '')
-                    pp = pd['pos']
-                    if (pp == 'n.' and np in ('n.',)) or \
-                       (pp in ('v.', 'vt.', 'vi.') and np in ('v.', 'vt.', 'vi.')) or \
-                       (pp == 'adj.' and np == 'adj.') or \
-                       (pp == 'adv.' and np == 'adv.'):
-                        target = d
-                        break
-            if target:
-                # 合并：如果 target 已有中文，追加；否则填入
-                if target.get('meaning'):
-                    target['meaning'] += '；' + pd['meaning']
-                else:
-                    target['meaning'] = pd['meaning']
-            else:
-                # 没匹配上，作为新义项加入
-                defs.append({'pos': pd['pos'], 'meaning': pd['meaning'], 'en_definitions': []})
-
-        # 清理临时字段
-        for d in defs:
-            d.pop('_norm_pos', None)
-
-    def _query_dictionaryapi(self, word):
-        """调用 dictionaryapi.dev，返回首个 entry 或 None"""
-        url = f'https://api.dictionaryapi.dev/api/v2/entries/en/{urllib.parse.quote(word)}'
-        try:
-            req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (compatible; SpaDictProxy/1.0)'})
-            with urllib.request.urlopen(req, timeout=8) as resp:
-                data = json.loads(resp.read().decode('utf-8'))
-            if isinstance(data, list) and data:
-                return data[0]
-            return None
-        except Exception:
-            return None
-
-    def _query_youdao(self, word):
-        """调用有道词典 suggest API"""
+    def _query_youdao_jsonapi(self, word):
+        """调用有道词典 jsonapi，解析返回统一结构"""
         encoded = urllib.parse.quote(word)
-        url = f'https://dict.youdao.com/suggest?q={encoded}&num=1&doctype=json'
+        url = f'https://dict.youdao.com/jsonapi?q={encoded}'
         try:
             req = urllib.request.Request(
                 url,
@@ -238,18 +71,122 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                     'Accept': 'application/json',
                 },
             )
-            with urllib.request.urlopen(req, timeout=8) as resp:
-                raw = resp.read().decode('utf-8')
-            youdao = json.loads(raw)
-            entries = (youdao.get('data') or {}).get('entries') or []
-            entry = entries[0] if entries else {}
+            with urllib.request.urlopen(req, timeout=10) as resp:
+                data = json.loads(resp.read().decode('utf-8'))
+        except Exception as e:
             return {
-                'found': bool(entry),
-                'entry': entry.get('entry', word),
-                'explain': entry.get('explain', ''),
+                'word': word, 'found': False,
+                'phonetic_us': '', 'phonetic_uk': '',
+                'audio_us': '', 'audio_uk': '',
+                'defs': [], 'examples': [], 'forms': [], 'synonyms': [],
+                'sources': [], 'error': f'词典服务不可达: {e}',
             }
-        except Exception:
-            return None
+
+        result = {
+            'word': word,
+            'found': False,
+            'phonetic_us': '',
+            'phonetic_uk': '',
+            'audio_us': '',
+            'audio_uk': '',
+            'defs': [],          # [{pos, meaning}]
+            'examples': [],      # [{en, zh}]
+            'forms': [],         # [{name, value}]  如 {name:'复数', value:'apples'}
+            'synonyms': [],      # [{pos, words:[], meaning}]
+            'sources': ['youdao'],
+        }
+
+        # 1. ec (英汉词典)：音标、发音、中文释义、变形
+        ec = data.get('ec') or {}
+        ec_word_list = ec.get('word') or []
+        if ec_word_list:
+            ec_word = ec_word_list[0]
+            result['found'] = True
+            result['phonetic_us'] = ec_word.get('usphone', '') or ''
+            result['phonetic_uk'] = ec_word.get('ukphone', '') or ''
+            # 发音 URL：有道 dictvoice 接口，audio=单词&type=1(英式)/2(美式)
+            if ec_word.get('usspeech') or ec_word.get('ukspeech') or True:
+                # 用单词本身作为 audio 参数更稳定
+                audio_word = urllib.parse.quote(word)
+                result['audio_us'] = f'https://dict.youdao.com/dictvoice?audio={audio_word}&type=2'
+                result['audio_uk'] = f'https://dict.youdao.com/dictvoice?audio={audio_word}&type=1'
+            # 中文释义 trs
+            trs = ec_word.get('trs') or []
+            for tr in trs:
+                tr_list = tr.get('tr') or []
+                for tr_item in tr_list:
+                    l = tr_item.get('l') or {}
+                    i_list = l.get('i') or []
+                    meaning_parts = []
+                    for i_item in i_list:
+                        if isinstance(i_item, dict):
+                            meaning_parts.append(i_item.get('#text', '') or '')
+                        else:
+                            meaning_parts.append(str(i_item))
+                    full_meaning = ''.join(meaning_parts).strip()
+                    if full_meaning:
+                        # 解析词性：如 "n. 苹果" → pos=n., meaning=苹果
+                        pos, meaning = self._split_pos(full_meaning)
+                        result['defs'].append({'pos': pos, 'meaning': meaning})
+            # 变形 wfs
+            wfs = ec_word.get('wfs') or []
+            for wf_item in wfs:
+                wf = wf_item.get('wf') or {}
+                name = wf.get('name', '') or ''
+                value = wf.get('value', '') or ''
+                if name and value:
+                    result['forms'].append({'name': name, 'value': value})
+
+        # 2. simple：兜底中文释义（ec 没有时）
+        if not result['defs']:
+            simple = data.get('simple') or {}
+            simple_word_list = simple.get('word') or []
+            if simple_word_list:
+                sw = simple_word_list[0]
+                result['found'] = True
+                means = sw.get('explain') or ''
+                if means:
+                    # 按 ";" 切分多个释义
+                    for m in means.split(';'):
+                        m = m.strip()
+                        if not m:
+                            continue
+                        pos, meaning = self._split_pos(m)
+                        result['defs'].append({'pos': pos, 'meaning': meaning})
+
+        # 3. blng_sents_part：双语例句
+        blng = data.get('blng_sents_part') or {}
+        pairs = blng.get('sentence-pair') or []
+        for p in pairs[:5]:  # 最多取 5 条
+            en = (p.get('sentence-eng') or '').strip()
+            # 去掉 <b> 标签的纯文本（前端可自行高亮，这里保留原文供前端处理）
+            en_clean = re.sub(r'</?b>', '', en)
+            zh = (p.get('sentence-translation') or '').strip()
+            if en_clean and zh:
+                result['examples'].append({'en': en_clean, 'zh': zh})
+
+        # 4. syno：同义词
+        syno_root = data.get('syno') or {}
+        synos = syno_root.get('synos') or []
+        for s in synos[:3]:  # 最多 3 组
+            syno = s.get('syno') or {}
+            pos = syno.get('pos', '') or ''
+            tran = syno.get('tran', '') or ''
+            ws = syno.get('ws') or []
+            words = [w.get('w', '') for w in ws if w.get('w')]
+            if words:
+                result['synonyms'].append({'pos': pos, 'meaning': tran, 'words': words})
+
+        return result
+
+    def _split_pos(self, text):
+        """从释义文本中分离词性，如 'n. 苹果' → ('n.', '苹果')"""
+        if not text:
+            return '', ''
+        m = re.match(r'^((?:n|v|vi|vt|aux|adj|adv|prep|conj|pron|num|art|int|abbr|det)\.)\s*(.*)', text)
+        if m:
+            return m.group(1), m.group(2).strip()
+        return '', text.strip()
 
     def _send_json(self, code, obj):
         body = json.dumps(obj, ensure_ascii=False).encode('utf-8')
@@ -268,5 +205,5 @@ class ThreadingServer(socketserver.ThreadingMixIn, socketserver.TCPServer):
 if __name__ == '__main__':
     with ThreadingServer(('0.0.0.0', PORT), Handler) as httpd:
         print(f'spapro 服务启动: http://localhost:{PORT}  (词典代理: /api/dict?q=<word>)')
-        print(f'  数据源: dictionaryapi.dev + 有道词典')
+        print(f'  数据源: 有道词典 jsonapi（中文释义/音标/英式美式发音/双语例句/变形/同义词）')
         httpd.serve_forever()

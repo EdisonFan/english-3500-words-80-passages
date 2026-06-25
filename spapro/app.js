@@ -436,60 +436,78 @@ function renderDictModal(data) {
     // 单词
     html += '<div class="modal-word">' + esc(data.word) + '</div>';
 
-    // 音标 + 发音按钮
-    var phoneticLine = '';
-    if (data.phonetic) phoneticLine += '<span class="modal-phon-text">' + esc(data.phonetic) + '</span>';
-    if (data.audio_uk) phoneticLine += '<button class="audio-btn" onclick="playAudio(this, \'' + esc(data.audio_uk) + '\')" data-src="' + esc(data.audio_uk) + '"><span class="audio-icon">🔊</span>UK</button>';
-    if (data.audio_us) phoneticLine += '<button class="audio-btn" onclick="playAudio(this, \'' + esc(data.audio_us) + '\')" data-src="' + esc(data.audio_us) + '"><span class="audio-icon">🔊</span>US</button>';
-    if (phoneticLine) {
-        html += '<div class="modal-phon-row">' + phoneticLine + '</div>';
+    // 音标 + 发音按钮（英式/美式分区）
+    var phonRow = '<div class="modal-phon-row">';
+    if (data.phonetic_uk || data.audio_uk) {
+        phonRow += '<div class="phon-block">';
+        if (data.phonetic_uk) phonRow += '<span class="phon-text">' + esc(data.phonetic_uk) + '</span>';
+        if (data.audio_uk) phonRow += '<button class="audio-btn" onclick="playAudio(this, \'' + esc(data.audio_uk) + '\')"><span class="audio-icon">🔊</span>英</button>';
+        phonRow += '</div>';
+    }
+    if (data.phonetic_us || data.audio_us) {
+        phonRow += '<div class="phon-block">';
+        if (data.phonetic_us) phonRow += '<span class="phon-text">' + esc(data.phonetic_us) + '</span>';
+        if (data.audio_us) phonRow += '<button class="audio-btn" onclick="playAudio(this, \'' + esc(data.audio_us) + '\')"><span class="audio-icon">🔊</span>美</button>';
+        phonRow += '</div>';
+    }
+    phonRow += '</div>';
+    if (data.phonetic_uk || data.phonetic_us || data.audio_uk || data.audio_us) {
+        html += phonRow;
     }
 
-    // 释义（词性分区）
+    // 中文释义（词性分区）
     if (data.defs && data.defs.length) {
         html += '<div class="modal-defs">';
         data.defs.forEach(function(d) {
             html += '<div class="modal-def">';
-            var pos = d.pos || '';
-            if (pos) html += '<span class="pos">' + esc(pos) + '</span>';
-            if (d.meaning) {
-                html += '<span class="meaning">' + esc(d.meaning) + '</span>';
-            } else if (d.en_definitions && d.en_definitions.length) {
-                // 没中文释义时显示英文释义
-                var enTexts = d.en_definitions.map(function(ed) { return ed.definition; }).join('; ');
-                html += '<span class="meaning en-only">' + esc(enTexts) + '</span>';
-            }
+            if (d.pos) html += '<span class="pos">' + esc(d.pos) + '</span>';
+            if (d.meaning) html += '<span class="meaning">' + esc(d.meaning) + '</span>';
             html += '</div>';
-            // 英文例句
-            if (d.en_definitions) {
-                d.en_definitions.forEach(function(ed) {
-                    if (ed.example) {
-                        html += '<div class="modal-example">' + esc(ed.example) + '</div>';
-                    }
-                });
-            }
+        });
+        html += '</div>';
+    }
+
+    // 变形（复数/过去式等）
+    if (data.forms && data.forms.length) {
+        html += '<div class="modal-forms-group">';
+        html += '<span class="forms-label">变形</span>';
+        var formsText = data.forms.map(function(f) {
+            return esc(f.name) + ': ' + esc(f.value);
+        }).join('；');
+        html += '<span class="forms-list">' + formsText + '</span>';
+        html += '</div>';
+    }
+
+    // 双语例句
+    if (data.examples && data.examples.length) {
+        html += '<div class="modal-examples-group">';
+        html += '<div class="examples-label">双语例句</div>';
+        data.examples.forEach(function(ex, idx) {
+            html += '<div class="modal-example">';
+            html += '<div class="example-en">' + esc(ex.en) + '</div>';
+            html += '<div class="example-zh">' + esc(ex.zh) + '</div>';
+            html += '</div>';
         });
         html += '</div>';
     }
 
     // 同义词
     if (data.synonyms && data.synonyms.length) {
-        html += '<div class="modal-syn-group"><span class="syn-label">同义词</span>';
-        html += '<span class="syn-list">' + esc(data.synonyms.join(', ')) + '</span></div>';
-    }
-
-    // 反义词
-    if (data.antonyms && data.antonyms.length) {
-        html += '<div class="modal-syn-group"><span class="syn-label">反义词</span>';
-        html += '<span class="syn-list">' + esc(data.antonyms.join(', ')) + '</span></div>';
+        html += '<div class="modal-syn-group">';
+        html += '<div class="syn-label">同义词</div>';
+        data.synonyms.forEach(function(syn) {
+            html += '<div class="syn-item">';
+            if (syn.pos) html += '<span class="syn-pos">' + esc(syn.pos) + '</span>';
+            if (syn.meaning) html += '<span class="syn-meaning">' + esc(syn.meaning) + '</span>';
+            html += '<span class="syn-words">' + esc(syn.words.join(', ')) + '</span>';
+            html += '</div>';
+        });
+        html += '</div>';
     }
 
     // 数据源
     if (data.sources && data.sources.length) {
-        var sourceLabels = {
-            'dictionaryapi.dev': 'dictionaryapi.dev',
-            'youdao': '有道词典'
-        };
+        var sourceLabels = { 'youdao': '有道词典' };
         var labels = data.sources.map(function(s) { return sourceLabels[s] || s; });
         html += '<div class="modal-dict-source">数据来源：' + esc(labels.join(' + ')) + '</div>';
     }
