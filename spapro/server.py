@@ -5,7 +5,6 @@
 - 词典代理：GET /api/dict?q=<word>
     主源：dictionaryapi.dev（英英，提供音标/发音/词性/例句/同反义词）
     辅源：有道 suggest（中文释义）
-    兜底：百度翻译（中文释义，需在 dict_config.py 配置凭证）
     多源聚合后输出统一结构，对齐 spapro/data 的 vocab 结构
     所有响应附加 CORS 头
 """
@@ -15,21 +14,10 @@ import urllib.request
 import urllib.parse
 import json
 import os
-import hashlib
 import threading
 
 PORT = 8000
 DIRECTORY = os.path.dirname(os.path.abspath(__file__))
-
-# 读取百度翻译 API 凭证（从 gitignore 的 dict_config.py）
-BAIDU_APPID = ""
-BAIDU_SECRET = ""
-try:
-    from dict_config import BAIDU_APPID as _APPID, BAIDU_SECRET as _SECRET
-    BAIDU_APPID = _APPID
-    BAIDU_SECRET = _SECRET
-except ImportError:
-    pass
 
 # 词典查询缓存（进程内，避免重复请求同一单词）
 _dict_cache = {}
@@ -156,19 +144,6 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                     else:
                         result['defs'].append({'pos': '', 'meaning': explain, 'en_definitions': []})
 
-        # 3. 百度翻译兜底：如果前面都没拿到中文释义
-        has_chinese = any(d.get('meaning') for d in result['defs'])
-        if not has_chinese and BAIDU_APPID and BAIDU_SECRET:
-            baidu_data = self._query_baidu(word)
-            if baidu_data and baidu_data.get('found'):
-                result['sources'].append('baidu')
-                result['found'] = True
-                baidu_meaning = baidu_data.get('explain', '')
-                if result['defs']:
-                    result['defs'][0]['meaning'] = baidu_meaning
-                else:
-                    result['defs'].append({'pos': '', 'meaning': baidu_meaning, 'en_definitions': []})
-
         return result
 
     def _parse_youdao_explain(self, explain):
@@ -276,29 +251,6 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         except Exception:
             return None
 
-    def _query_baidu(self, word):
-        """调用百度翻译 API"""
-        import random
-        salt = str(random.randint(10000, 99999))
-        sign_str = BAIDU_APPID + word + salt + BAIDU_SECRET
-        sign = hashlib.md5(sign_str.encode('utf-8')).hexdigest()
-        params = {
-            'q': word, 'from': 'en', 'to': 'zh',
-            'appid': BAIDU_APPID, 'salt': salt, 'sign': sign,
-        }
-        url = 'https://fanyi-api.baidu.com/api/trans/vip/translate?' + urllib.parse.urlencode(params)
-        try:
-            req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (compatible; SpaDictProxy/1.0)'})
-            with urllib.request.urlopen(req, timeout=8) as resp:
-                data = json.loads(resp.read().decode('utf-8'))
-            if 'error_code' in data:
-                return None
-            trans_result = data.get('trans_result') or []
-            meanings = '；'.join(item.get('dst', '') for item in trans_result if item.get('dst'))
-            return {'found': bool(meanings), 'explain': meanings}
-        except Exception:
-            return None
-
     def _send_json(self, code, obj):
         body = json.dumps(obj, ensure_ascii=False).encode('utf-8')
         self.send_response(code)
@@ -315,7 +267,6 @@ class ThreadingServer(socketserver.ThreadingMixIn, socketserver.TCPServer):
 
 if __name__ == '__main__':
     with ThreadingServer(('0.0.0.0', PORT), Handler) as httpd:
-        baidu_status = '已配置' if (BAIDU_APPID and BAIDU_SECRET) else '未配置'
         print(f'spapro 服务启动: http://localhost:{PORT}  (词典代理: /api/dict?q=<word>)')
-        print(f'  数据源: dictionaryapi.dev + 有道词典 + 百度翻译({baidu_status})')
+        print(f'  数据源: dictionaryapi.dev + 有道词典')
         httpd.serve_forever()

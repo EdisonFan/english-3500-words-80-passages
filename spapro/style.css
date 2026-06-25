@@ -691,10 +691,27 @@ body.no-gloss .para { padding-bottom: 32px; }
     padding: 32px;
     max-width: 400px;
     width: 100%;
+    /* 高度限制：内容多时弹窗不超出视口 */
+    max-height: calc(100vh - 48px);
+    display: flex;
+    flex-direction: column;
     box-shadow: 0 24px 60px rgba(0,0,0,0.2);
     animation: rise 0.25s cubic-bezier(0.16,1,0.3,1);
     position: relative;
 }
+/* 内容区滚动：关闭按钮固定在顶部不动 */
+#modalContent {
+    overflow-y: auto;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+    /* 预留关闭按钮空间 */
+    padding-right: 4px;
+}
+/* 滚动条美化 */
+#modalContent::-webkit-scrollbar { width: 6px; }
+#modalContent::-webkit-scrollbar-track { background: transparent; }
+#modalContent::-webkit-scrollbar-thumb { background: var(--line-2); border-radius: 3px; }
+#modalContent::-webkit-scrollbar-thumb:hover { background: var(--ink-4); }
 .modal-close {
     position: absolute;
     top: 16px; right: 16px;
@@ -839,7 +856,7 @@ footer {
     .vocab { padding: 40px 0 56px; }
     .vocab-head h2 { font-size: 28px; }
     .vocab-grid { grid-template-columns: 1fr; }
-    .modal { padding: 24px 20px; max-width: calc(100vw - 32px); }
+    .modal { padding: 24px 20px; max-width: calc(100vw - 32px); max-height: calc(100vh - 32px); }
     .modal-word { font-size: 28px; }
     .translation { margin: 0 -20px; padding-left: 20px; padding-right: 20px; }
     .translation-head h2 { font-size: 26px; }

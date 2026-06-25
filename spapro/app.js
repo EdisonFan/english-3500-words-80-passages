@@ -488,8 +488,7 @@ function renderDictModal(data) {
     if (data.sources && data.sources.length) {
         var sourceLabels = {
             'dictionaryapi.dev': 'dictionaryapi.dev',
-            'youdao': '有道词典',
-            'baidu': '百度翻译'
+            'youdao': '有道词典'
         };
         var labels = data.sources.map(function(s) { return sourceLabels[s] || s; });
         html += '<div class="modal-dict-source">数据来源：' + esc(labels.join(' + ')) + '</div>';
