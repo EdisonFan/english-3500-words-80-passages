@@ -1,0 +1,44 @@
+{
+  "word": "organism",
+  "found": true,
+  "phonetic_uk": "ˈɔːɡənɪzəm",
+  "phonetic_us": "ˈɔːrɡənɪzəm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=organism&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=organism&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "生物，有机体，（尤指）微生物；有机组织，有机体系"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "organisms"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Multiplication of cells leads to rapid growth of the organism.",
+      "zh": "细胞的繁殖导致有机体的迅速生长。"
+    },
+    {
+      "en": "DNA carries the genetic blueprint which tells any organism how to build itself.",
+      "zh": "脱氧核糖核酸带有决定有机体形成方式的遗传型板。"
+    },
+    {
+      "en": "Germs invade the organism.",
+      "zh": "病菌会侵入机体。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "有机体；[生物]生物体；微生物",
+      "words": [
+        "living being",
+        "biosome"
+      ]
+    }
+  ]
+}

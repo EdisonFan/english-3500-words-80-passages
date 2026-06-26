@@ -1,0 +1,47 @@
+{
+  "word": "thing",
+  "found": true,
+  "phonetic_uk": "θɪŋ",
+  "phonetic_us": "θɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=thing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=thing&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "东西，物；（无生命的）物体，物件；个人物品，衣物（things）；器具，用品（things）；情形，事件；行为，活动；想法，观点；情况，形势（things）；……之类的东西，特定的事物；需要的东西，适当的东西；事实本身；（生活的）方面；目标，目的；生物，有生命的东西；家伙，东西（指人或动物，常带感情色彩）；（用于强调）任何东西；（某人喜欢或擅长的）事情；<非正式>（对某事物或某人的）喜欢，憎恶；烂东西，破烂玩意儿"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "things"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Mario said the very same thing.",
+      "zh": "马里奥说的完全是同一件事。"
+    },
+    {
+      "en": "Then a strange thing happened.",
+      "zh": "接着一件怪事发生了。"
+    },
+    {
+      "en": "The whole thing staggers me.",
+      "zh": "整件事让我震惊。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "事情；东西；事物；情况",
+      "words": [
+        "business",
+        "situation",
+        "circumstance",
+        "stuff",
+        "affair"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "word": "demands",
+  "found": true,
+  "phonetic_uk": "dɪˈmɑːndz",
+  "phonetic_us": "dɪˈmændz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=demands&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=demands&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "要求（demand 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "强烈要求；需要（demand 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "His demands were out of bounds.",
+      "zh": "他的要求不合理。"
+    },
+    {
+      "en": "He reluctantly yielded to their demands.",
+      "zh": "他不情愿地屈从于他们的要求。"
+    },
+    {
+      "en": "He acceded to demands for his resignation.",
+      "zh": "他同意要他辞职的要求。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "需求（demand的复数）",
+      "words": [
+        "requires"
+      ]
+    }
+  ]
+}

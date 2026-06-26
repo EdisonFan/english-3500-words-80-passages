@@ -1,0 +1,39 @@
+{
+  "word": "anyhow",
+  "found": true,
+  "phonetic_uk": "ˈenihaʊ",
+  "phonetic_us": "ˈenihaʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=anyhow&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=anyhow&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "不管怎样，无论如何；无关紧要；至少；接着；总之；<英>随便地，杂乱无章地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "\"Thanks very much anyhow.\"—\"It's a pleasure.\"",
+      "zh": "“无论如何，非常感谢你。”—“不客气。”"
+    },
+    {
+      "en": "\"Anyhow,\" she added briskly, \"it's none of my business.\"",
+      "zh": "“无论如何”，她干脆利索地加了一句：“这不关我的事。”"
+    },
+    {
+      "en": "Anyhow, one thing's clear.",
+      "zh": "无论如何，有一件事是清楚的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "总之；无论如何；不管怎样",
+      "words": [
+        "anyway",
+        "however"
+      ]
+    }
+  ]
+}

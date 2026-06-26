@@ -1,0 +1,59 @@
+{
+  "word": "handbag",
+  "found": true,
+  "phonetic_uk": "ˈhændbæɡ",
+  "phonetic_us": "ˈhændbæɡ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=handbag&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=handbag&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "手提包"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "handbags"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "handbags"
+    },
+    {
+      "name": "现在分词",
+      "value": "handbagging"
+    },
+    {
+      "name": "过去式",
+      "value": "handbagged"
+    },
+    {
+      "name": "过去分词",
+      "value": "handbagged"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She delved in her handbag for a pen.",
+      "zh": "她在手提包里翻找钢笔。"
+    },
+    {
+      "en": "The slimline diary fits easily into a handbag.",
+      "zh": "这本超薄的日记本很容易装进手提包里。"
+    },
+    {
+      "en": "A crumpled scrap of paper was found in her handbag.",
+      "zh": "在她的手提包里找到了一张弄皱的小纸片。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "手提包",
+      "words": [
+        "gripesack"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "word": "advances",
+  "found": true,
+  "phonetic_uk": "ədˈvɑːnsɪz",
+  "phonetic_us": "ədˈvænsɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=advances&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=advances&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（使）前进，（使）向前移动；发展，进步；预付；提前，提早；提出（想法或理论）；上涨，增加（advance 的第三人称单数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "前进；进步，进展；勾引，追求；（价格、价值的）上涨（advance 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The article advances a new theory to explain changes in the climate.",
+      "zh": "这篇文章提出了一个解释气候变化的新理论。"
+    },
+    {
+      "en": "My main reason for subscribing to New Scientist is to keep abreast of advances in science.",
+      "zh": "我订阅《新科学家》的主要原因是要跟上科学的进步。"
+    },
+    {
+      "en": "Great advances have been made.",
+      "zh": "取得很大进步。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "提出；使前进；提前（advance的三单形式）",
+      "words": [
+        "files"
+      ]
+    }
+  ]
+}

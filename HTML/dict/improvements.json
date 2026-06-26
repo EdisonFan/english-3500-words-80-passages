@@ -1,0 +1,38 @@
+{
+  "word": "improvements",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ɪmˈprʊvmənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=improvements&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=improvements&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "提高，改进（improvement 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "In a double-blind trial, there were some improvements.",
+      "zh": "在一个双盲测试中，有了一些进步。"
+    },
+    {
+      "en": "The report will itemize the cost of various improvements.",
+      "zh": "报告将逐条列记各种改进工作所需的费用。"
+    },
+    {
+      "en": "Approximately $150 million is to be spent on improvements.",
+      "zh": "大概1.5亿美元将花在改进上。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "提高，改进（improvement的复数）",
+      "words": [
+        "upgrades"
+      ]
+    }
+  ]
+}

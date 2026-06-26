@@ -1,0 +1,42 @@
+{
+  "word": "ten",
+  "found": true,
+  "phonetic_uk": "ten",
+  "phonetic_us": "ten",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ten&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ten&type=2",
+  "defs": [
+    {
+      "pos": "num.",
+      "meaning": "十个，十"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "十的"
+    },
+    {
+      "pos": "det.",
+      "meaning": "十个；十个（东西）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Ten）（美、俄、加、德、荷、西、英）登（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Ten men compose the committee.",
+      "zh": "委员会由十人组成。"
+    },
+    {
+      "en": "Tickets cost ten dollars each.",
+      "zh": "每张票价为十元。"
+    },
+    {
+      "en": "It's ten past twelve.",
+      "zh": "现在十二点十分。"
+    }
+  ],
+  "synonyms": []
+}

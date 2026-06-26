@@ -1,0 +1,40 @@
+{
+  "word": "origin",
+  "found": true,
+  "phonetic_uk": "ˈɒrɪdʒɪn",
+  "phonetic_us": "ˈɔːrɪdʒɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=origin&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=origin&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "起源，起因；出身，血统；（原）产地；肌肉起端；神经（或血管）起端；（数）原点"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The origin of the custom is obscure.",
+      "zh": "该习俗的起源鲜为人知。"
+    },
+    {
+      "en": "The origin of the word remains obscure.",
+      "zh": "该词的来源尚不清楚。"
+    },
+    {
+      "en": "They talked about the competing theories of the origin of life.",
+      "zh": "他们谈论那些相互矛盾的生命起源理论。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "起源；[数]原点；出身；开端",
+      "words": [
+        "birth",
+        "extraction",
+        "dawn"
+      ]
+    }
+  ]
+}

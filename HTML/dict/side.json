@@ -1,0 +1,91 @@
+{
+  "word": "side",
+  "found": true,
+  "phonetic_uk": "saɪd",
+  "phonetic_us": "saɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=side&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=side&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "一旁，侧边；（相对中间而言的）边，侧；侧面；方面，情况；立场，意见；一方，一派；边缘；体侧，肋部；身旁，身边；（平面图形的）边；一面；内壁，内面；（立方体的）面；斜面，坡面；一面纸的文字；<英， 非正式>自负，傲慢；运动队，球队；母系，父系，血统；<美>配菜；一扇（肉）；<英>电视频道；<西印度>（一对东西中的）一个，一只；（球的）侧旋"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "旁边的，侧面的；次要的，附带的；主菜外附加的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "支持，站在……一边；给......铺外墙板；给......装上侧面，形成......的侧面"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Side）（英）赛德（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "sides"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "sides"
+    },
+    {
+      "name": "现在分词",
+      "value": "siding"
+    },
+    {
+      "name": "过去式",
+      "value": "sided"
+    },
+    {
+      "name": "过去分词",
+      "value": "sided"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It measures 20 yards from side to side.",
+      "zh": "从这边到那边的距离为20码。"
+    },
+    {
+      "en": "The ship rolled from side to side.",
+      "zh": "船左右摇晃。"
+    },
+    {
+      "en": "We sat side by side on two wicker seats.",
+      "zh": "我们并排坐在两张柳条椅上。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "方面；侧面；旁边",
+      "words": [
+        "aspect",
+        "respect"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "支持；赞助；偏袒",
+      "words": [
+        "support of",
+        "root for"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "同意，支持",
+      "words": [
+        "undertake",
+        "encourage",
+        "carry",
+        "second",
+        "back"
+      ]
+    }
+  ]
+}

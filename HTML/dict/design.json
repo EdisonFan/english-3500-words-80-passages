@@ -1,0 +1,88 @@
+{
+  "word": "design",
+  "found": true,
+  "phonetic_uk": "dɪˈzaɪn",
+  "phonetic_us": "dɪˈzaɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=design&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=design&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "设计，布局，安排；设计艺术，构思；设计图，图纸；图案，花纹；计划，意图"
+    },
+    {
+      "pos": "v.",
+      "meaning": "设计，制图，构思；筹划，制订；预定，指定"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Design）（俄、巴、印）迪赛（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "designs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "designs"
+    },
+    {
+      "name": "现在分词",
+      "value": "designing"
+    },
+    {
+      "name": "过去式",
+      "value": "designed"
+    },
+    {
+      "name": "过去分词",
+      "value": "designed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She's good at art and design.",
+      "zh": "她擅长美术和设计。"
+    },
+    {
+      "en": "The product is at the design stage.",
+      "zh": "产品处于设计阶段。"
+    },
+    {
+      "en": "It was a simple but pleasing design.",
+      "zh": "这是一项简单但令人满意的设计。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "设计；计划；构思",
+      "words": [
+        "project",
+        "engineer",
+        "style",
+        "schedule",
+        "frame"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "设计；图案",
+      "words": [
+        "programming",
+        "device",
+        "pattern"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "设计",
+      "words": [
+        "project",
+        "engineer"
+      ]
+    }
+  ]
+}

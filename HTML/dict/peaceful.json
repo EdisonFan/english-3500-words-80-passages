@@ -1,0 +1,49 @@
+{
+  "word": "peaceful",
+  "found": true,
+  "phonetic_uk": "ˈpiːsf(ə)l",
+  "phonetic_us": "ˈpiːsf(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=peaceful&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=peaceful&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "宁静的，安静的；和平的，非暴力的；爱好和平的；安详的，平和的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more peaceful"
+    },
+    {
+      "name": "最高级",
+      "value": "most peaceful"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I was amazingly light-hearted and peaceful.",
+      "zh": "我当时出奇地轻松和平静。"
+    },
+    {
+      "en": "The prospects for a peaceful solution are dim.",
+      "zh": "找到和平解决方案的前景渺茫。"
+    },
+    {
+      "en": "The aims of the organization are wholly peaceful.",
+      "zh": "这个组织的宗旨完全是追求和平。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "和平的，爱好和平的；平静的",
+      "words": [
+        "pacific",
+        "calm",
+        "still"
+      ]
+    }
+  ]
+}

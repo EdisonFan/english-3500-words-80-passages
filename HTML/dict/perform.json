@@ -1,0 +1,67 @@
+{
+  "word": "perform",
+  "found": true,
+  "phonetic_uk": "pəˈfɔːm",
+  "phonetic_us": "pərˈfɔːrm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=perform&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=perform&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "演出，表演；执行，履行（尤指复杂的任务或行动）；运行，表现；起…...作用，有…...功能"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "performs"
+    },
+    {
+      "name": "现在分词",
+      "value": "performing"
+    },
+    {
+      "name": "过去式",
+      "value": "performed"
+    },
+    {
+      "name": "过去分词",
+      "value": "performed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I'm looking forward to seeing you perform.",
+      "zh": "我期待着看你演出。"
+    },
+    {
+      "en": "Thousands of people paid good money to watch the band perform.",
+      "zh": "成千上万的人花很多钱去观看这支乐队的演出。"
+    },
+    {
+      "en": "A computer can perform many tasks at once.",
+      "zh": "电脑能同时做多项工作。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "执行；完成；演奏",
+      "words": [
+        "accomplish",
+        "implement",
+        "achieve",
+        "complete",
+        "fulfil"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "执行，机器运转；表演",
+      "words": [
+        "put into effect",
+        "to carry out"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "word": "skillful",
+  "found": true,
+  "phonetic_uk": "ˈskɪlf(ə)l",
+  "phonetic_us": "ˈskɪlf(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=skillful&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=skillful&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "熟练的；巧妙的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more skillful"
+    },
+    {
+      "name": "最高级",
+      "value": "most skillful"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Military tactics are skillful.",
+      "zh": "兵法巧妙。"
+    },
+    {
+      "en": "She also imagined a skillful closing argument and a winning trial.",
+      "zh": "她还想象了一个巧妙的结案陈词和胜诉的画面。"
+    },
+    {
+      "en": "Like trained and skillful woodsmen, they approached without a sound.",
+      "zh": "像训练有素的伐木工一样，他们悄无声息地靠近了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "熟练的；巧妙的",
+      "words": [
+        "experienced",
+        "happy",
+        "accomplished",
+        "clever",
+        "practiced"
+      ]
+    }
+  ]
+}

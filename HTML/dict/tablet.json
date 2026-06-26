@@ -1,0 +1,44 @@
+{
+  "word": "tablet",
+  "found": true,
+  "phonetic_uk": "ˈtæblət",
+  "phonetic_us": "ˈtæblət",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tablet&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tablet&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "药片，片剂；丸；（石头、黏土等制的刻字的）牌，碑，匾；平板电脑；<美> 便笺簿，拍纸簿；<旧> 一块肥皂；（单线）路牌；檐板；<苏格兰> 乳脂软糖；（计算机的）输入板，手写板"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "tablets"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Take one tablet every four hours.",
+      "zh": "隔四小时服一片。"
+    },
+    {
+      "en": "Don't chew, break, or crush the tablet.",
+      "zh": "不要咀嚼、咬破或压碎药片。"
+    },
+    {
+      "en": "One in five Americans will use a tablet or smartphone.",
+      "zh": "五分之一的美国人将使用平板电脑或智能手机。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "碑；[药]药片；写字板；小块",
+      "words": [
+        "wordpad",
+        "nubble"
+      ]
+    }
+  ]
+}

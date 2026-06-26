@@ -1,0 +1,55 @@
+{
+  "word": "enemy",
+  "found": true,
+  "phonetic_uk": "ˈenəmi",
+  "phonetic_us": "ˈenəmi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=enemy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=enemy&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "敌人，反对者；敌国，敌军；大敌，危害物"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "敌人的，敌方的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "enemies"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The town fell into enemy hands.",
+      "zh": "那个小镇落到敌人手里了。"
+    },
+    {
+      "en": "They retreated before the enemy.",
+      "zh": "面对敌人，他们撤退了。"
+    },
+    {
+      "en": "The enemy was tactically superior.",
+      "zh": "敌人拥有战术上的优势。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "敌人，仇敌；敌军",
+      "words": [
+        "foe",
+        "hostes"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "敌人的，敌方的",
+      "words": [
+        "hostile"
+      ]
+    }
+  ]
+}

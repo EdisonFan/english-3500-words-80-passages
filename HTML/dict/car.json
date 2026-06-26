@@ -1,0 +1,43 @@
+{
+  "word": "car",
+  "found": true,
+  "phonetic_uk": "kɑː(r)",
+  "phonetic_us": "kɑːr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=car&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=car&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "汽车，轿车；<美>（火车的）车厢；（火车上作特殊用途的）车厢（如餐车、卧铺车厢）；（电梯的）梯厢，（索道或气球的）吊舱；<文>战车"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Car）（土）贾尔，（法、西）卡尔，（塞）察尔（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Suddenly the car accelerated.",
+      "zh": "突然车加速了。"
+    },
+    {
+      "en": "The car leaped forward.",
+      "zh": "汽车突然向前冲去。"
+    },
+    {
+      "en": "Their car broke down.",
+      "zh": "他们的车抛锚了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[车辆]汽车；车厢",
+      "words": [
+        "automobile",
+        "motor"
+      ]
+    }
+  ]
+}

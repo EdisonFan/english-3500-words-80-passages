@@ -1,0 +1,44 @@
+{
+  "word": "handful",
+  "found": true,
+  "phonetic_uk": "ˈhændfʊl",
+  "phonetic_us": "ˈhændfʊl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=handful&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=handful&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "一把；少数，少量； 难以控制的人（或事物）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "handfuls或handsful"
+    }
+  ],
+  "examples": [
+    {
+      "en": "A handful of onlookers stand in the field watching.",
+      "zh": "少数旁观者站在场地里观看。"
+    },
+    {
+      "en": "Only a handful had returned to work in the immediate vicinity.",
+      "zh": "只有少数几个人回到附近地区工作。"
+    },
+    {
+      "en": "Only a handful of people came.",
+      "zh": "只有少数几个人来了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "少数；一把；棘手事",
+      "words": [
+        "fewness",
+        "the minority"
+      ]
+    }
+  ]
+}

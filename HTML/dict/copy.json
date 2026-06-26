@@ -1,0 +1,80 @@
+{
+  "word": "copy",
+  "found": true,
+  "phonetic_uk": "ˈkɒpi",
+  "phonetic_us": "ˈkɑːpi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=copy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=copy&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "抄写，誊写；模仿，效法；作弊，抄袭；听见（或明白）无线电收发报机中讲话人的话；复制，拷贝"
+    },
+    {
+      "pos": "n.",
+      "meaning": "一本，一册，一份；复印件，副本；原稿，素材；广告文字"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "copies"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "copies"
+    },
+    {
+      "name": "现在分词",
+      "value": "copying"
+    },
+    {
+      "name": "过去式",
+      "value": "copied"
+    },
+    {
+      "name": "过去分词",
+      "value": "copied"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Can you copy me in on your report?",
+      "zh": "你的报告给我抄送一份好吗？"
+    },
+    {
+      "en": "I sent a copy to the school principal.",
+      "zh": "我寄了一份复印件给校长。"
+    },
+    {
+      "en": "They procured us a copy of the report.",
+      "zh": "他们给我们弄到了一份报告。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "[印刷][计]复制；复印；抄袭",
+      "words": [
+        "to duplicate",
+        "print off"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[印刷][计]复制；复印；抄袭",
+      "words": [
+        "repeat",
+        "lift"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[印刷]副本；一册；摹仿",
+      "words": [
+        "repeat",
+        "counterpart"
+      ]
+    }
+  ]
+}

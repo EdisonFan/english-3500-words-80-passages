@@ -1,0 +1,76 @@
+{
+  "word": "prison",
+  "found": true,
+  "phonetic_uk": "ˈprɪz(ə)n",
+  "phonetic_us": "ˈprɪzn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=prison&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=prison&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "监狱，牢房；监禁，监狱制度；难以脱身的地方（或处境），牢笼"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<文>禁锢，关押"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Prison）（德）普里松（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "prisons"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "prisons"
+    },
+    {
+      "name": "现在分词",
+      "value": "prisoning"
+    },
+    {
+      "name": "过去式",
+      "value": "prisoned"
+    },
+    {
+      "name": "过去分词",
+      "value": "prisoned"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The prison is infested with rats.",
+      "zh": "那座监狱里鼠满为患。"
+    },
+    {
+      "en": "He escaped from prison this morning.",
+      "zh": "他今天早上从监狱里逃跑了。"
+    },
+    {
+      "en": "He had his enemies flung into prison.",
+      "zh": "他把敌人投进了监狱。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[法]监狱；监禁；拘留所",
+      "words": [
+        "jail",
+        "big house"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "监禁，关押",
+      "words": [
+        "imprison",
+        "jail"
+      ]
+    }
+  ]
+}

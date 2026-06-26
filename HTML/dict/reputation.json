@@ -1,0 +1,47 @@
+{
+  "word": "reputation",
+  "found": true,
+  "phonetic_uk": "ˌrepjuˈteɪʃ(ə)n",
+  "phonetic_us": "ˌrepjuˈteɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=reputation&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=reputation&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "名誉，名声"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "reputations"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Her reputation was in tatters.",
+      "zh": "她已名誉扫地。"
+    },
+    {
+      "en": "His reputation is without a blemish.",
+      "zh": "他的名誉可说是白璧无瑕。"
+    },
+    {
+      "en": "He was anxious to preserve his reputation.",
+      "zh": "他急于维护自己的名声。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "名声，名誉；声望",
+      "words": [
+        "credit",
+        "name",
+        "fame",
+        "celebrity",
+        "prestige"
+      ]
+    }
+  ]
+}

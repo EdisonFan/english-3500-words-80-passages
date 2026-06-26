@@ -1,0 +1,67 @@
+{
+  "word": "end",
+  "found": true,
+  "phonetic_uk": "end",
+  "phonetic_us": "end",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=end&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=end&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "最后部分，末尾；结束，结局；端点；目的；剩余物，残余；过世；部分，方面；半边球场；城区；边锋"
+    },
+    {
+      "pos": "v.",
+      "meaning": "结束，终止"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （End）（英、德）恩德（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They live in the end house.",
+      "zh": "他们住在最后的那座房子。"
+    },
+    {
+      "en": "The summer came to an end.",
+      "zh": "夏天结束了。"
+    },
+    {
+      "en": "Waitressing was a dead-end job.",
+      "zh": "服务员这一工作没什么前途。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "结束；目标；尽头；末端；死亡",
+      "words": [
+        "completion",
+        "death",
+        "target",
+        "goal",
+        "object"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "结束，终止；终结",
+      "words": [
+        "drop",
+        "determine",
+        "pass"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "结束，终止；终结",
+      "words": [
+        "conclude",
+        "bring to a close"
+      ]
+    }
+  ]
+}

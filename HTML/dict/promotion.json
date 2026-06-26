@@ -1,0 +1,45 @@
+{
+  "word": "promotion",
+  "found": true,
+  "phonetic_uk": "prəˈməʊʃ(ə)n",
+  "phonetic_us": "prəˈmoʊʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=promotion&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=promotion&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "提拔，晋升；促销，推销； 促进，提倡；（体育运动队的）晋级，升级；（为获利而举办的）体育赛事（尤指系列拳击赛）；（化学）助催化"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "promotions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She's due for promotion soon.",
+      "zh": "她很快该晋升了。"
+    },
+    {
+      "en": "Bang went my hopes of promotion.",
+      "zh": "我晋升的希望破灭了。"
+    },
+    {
+      "en": "She works in sales and promotion.",
+      "zh": "她从事销售和推广工作。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "提升，[劳经]晋升；推销，促销；促进；发扬，振兴",
+      "words": [
+        "advancement",
+        "acceleration",
+        "impetus"
+      ]
+    }
+  ]
+}

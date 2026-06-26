@@ -1,0 +1,47 @@
+{
+  "word": "recovery",
+  "found": true,
+  "phonetic_uk": "rɪˈkʌvəri",
+  "phonetic_us": "rɪˈkʌvəri",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=recovery&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=recovery&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "康复，痊愈；戒除；恢复，复苏；（供刚做完手术的病人使用的）监护室；（被拿走或失去的东西的）复得，找回；收回的物品（资金）；（破损车辆或坠毁飞机）回收修理；（高尔夫）挽回败局之击，复原之击（击回球道或球穴区）；（美橄）重新获球；（划船，自行车赛，游泳）还原至预备姿势（如回桨等）；回收利用（能源、化工品等）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "recoveries"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Economic recovery is here.",
+      "zh": "经济复苏现在开始了。"
+    },
+    {
+      "en": "The patient made a rapid recovery.",
+      "zh": "病人很快恢复了健康。"
+    },
+    {
+      "en": "The economy is poised for recovery.",
+      "zh": "经济呈复苏之势。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "恢复，复原；痊愈；重获",
+      "words": [
+        "regression",
+        "restoration",
+        "rehabilitation",
+        "retrieval",
+        "renewal"
+      ]
+    }
+  ]
+}

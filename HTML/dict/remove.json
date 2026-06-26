@@ -1,0 +1,83 @@
+{
+  "word": "remove",
+  "found": true,
+  "phonetic_uk": "rɪˈmuːv",
+  "phonetic_us": "rɪˈmuːv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=remove&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=remove&type=2",
+  "defs": [
+    {
+      "pos": "vt.",
+      "meaning": "移开，拿开；除去，废除；把……免职，开除；脱下，摘下；<史，南非> 依法迫迁；远离；不同于，迥异于；<旧> 搬家"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<正式> 距离，间距；<史>（一些英国学校中的）年级"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "removes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "removes"
+    },
+    {
+      "name": "现在分词",
+      "value": "removing"
+    },
+    {
+      "name": "过去式",
+      "value": "removed"
+    },
+    {
+      "name": "过去分词",
+      "value": "removed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Scuff marks from shoes are difficult to remove.",
+      "zh": "鞋上的擦痕很难去除。"
+    },
+    {
+      "en": "The logical treatment is to remove this blockage.",
+      "zh": "合理的处理方法是清除这种堵塞物。"
+    },
+    {
+      "en": "Once the turkey has defrosted, remove the giblets.",
+      "zh": "一旦火鸡解冻，立刻移除鸡杂。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "移动，迁移；开除；调动",
+      "words": [
+        "displace",
+        "transfer"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "移动，迁移；搬家",
+      "words": [
+        "to shift",
+        "to move"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "移动；距离；搬家",
+      "words": [
+        "move",
+        "shift",
+        "separation",
+        "distance",
+        "motion"
+      ]
+    }
+  ]
+}

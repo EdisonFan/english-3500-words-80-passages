@@ -1,0 +1,34 @@
+{
+  "word": "roses",
+  "found": true,
+  "phonetic_uk": "ˈrəʊzɪz",
+  "phonetic_us": "ˈroʊziz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=roses&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=roses&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[园艺]玫瑰（rose 的复数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Roses）人名；（西）罗塞斯"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The roses wilted the next day.",
+      "zh": "这些玫瑰花第二天就枯萎了。"
+    },
+    {
+      "en": "The roses have got greenfly.",
+      "zh": "这些玫瑰花上有蚜虫。"
+    },
+    {
+      "en": "Roses scented the night air.",
+      "zh": "夜空中弥漫着玫瑰花香。"
+    }
+  ],
+  "synonyms": []
+}

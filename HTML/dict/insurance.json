@@ -1,0 +1,46 @@
+{
+  "word": "insurance",
+  "found": true,
+  "phonetic_uk": "ɪnˈʃʊərəns",
+  "phonetic_us": "ɪnˈʃʊrəns",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=insurance&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=insurance&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "保险；保险费；保险业；保险赔偿金，保险金；保险单；预防措施，安全保障"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "insurances"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Medical insurance is very pricey.",
+      "zh": "医疗保险很昂贵。"
+    },
+    {
+      "en": "Insurance claims are expected to soar.",
+      "zh": "预计保险索赔会急剧增加。"
+    },
+    {
+      "en": "He works in insurance.",
+      "zh": "他在保险业工作。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[保险]保险；保险费；保险契约；赔偿金",
+      "words": [
+        "assurance",
+        "safety",
+        "premium",
+        "compensation"
+      ]
+    }
+  ]
+}

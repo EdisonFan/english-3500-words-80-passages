@@ -1,0 +1,39 @@
+{
+  "word": "producer",
+  "found": true,
+  "phonetic_uk": "prəˈdjuːsə(r)",
+  "phonetic_us": "prəˈduːsər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=producer&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=producer&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "生产者制造商，生产公司（国）；（人或物）造成者，生产者；（电影、广播戏剧、歌剧等的）制片主任，监制人；（音乐录音的）监制人；发生器"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Libya is a major oil producer.",
+      "zh": "利比亚是主要石油生产国之一。"
+    },
+    {
+      "en": "In June, producer prices slipped 0.1% from May.",
+      "zh": "六月份，生产商的价格从五月份下降了0.1%。"
+    },
+    {
+      "en": "Brazil is the world's largest producer of coffee.",
+      "zh": "巴西是世界上最大的咖啡生产国。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "制作人，制片人；[劳经][生态]生产者；发生器",
+      "words": [
+        "generator",
+        "produced by"
+      ]
+    }
+  ]
+}

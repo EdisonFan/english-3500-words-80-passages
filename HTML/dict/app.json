@@ -1,0 +1,34 @@
+{
+  "word": "app",
+  "found": true,
+  "phonetic_uk": "æp",
+  "phonetic_us": "æp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=app&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=app&type=2",
+  "defs": [
+    {
+      "pos": "abbr.",
+      "meaning": "（计算机）应用程序，应用软件；<美，非正式>开胃菜"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】  （App）（美、德、巴）阿普（人名）；（App）（美、德、巴）阿普（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The Net's real killer app is email.",
+      "zh": "因特网真正的杀手应用软件是邮件。"
+    },
+    {
+      "en": "What is the core of your app?",
+      "zh": "你的应用程序的核心是什么？"
+    },
+    {
+      "en": "This app has you covered.",
+      "zh": "这个应用程序能提供你所需要的帮助。"
+    }
+  ],
+  "synonyms": []
+}

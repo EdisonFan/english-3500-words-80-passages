@@ -1,0 +1,39 @@
+{
+  "word": "productivity",
+  "found": true,
+  "phonetic_uk": "ˌprɒdʌkˈtɪvəti",
+  "phonetic_us": "ˌproʊdʌkˈtɪvətiˌˌprɑːdʌkˈtɪvəti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=productivity&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=productivity&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "生产率，生产力"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We need to increase productivity.",
+      "zh": "我们需要提高生产力。"
+    },
+    {
+      "en": "The result has been a giant leap in productivity.",
+      "zh": "其结果就是生产力的大幅度提高。"
+    },
+    {
+      "en": "The average yearly increment in productivity was 4.5 per cent.",
+      "zh": "生产率的年平均增长量是4.5%。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "生产力；[经]生产率；生产能力",
+      "words": [
+        "fertility",
+        "productive forces"
+      ]
+    }
+  ]
+}

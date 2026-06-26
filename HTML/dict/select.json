@@ -1,0 +1,87 @@
+{
+  "word": "select",
+  "found": true,
+  "phonetic_uk": "sɪˈlekt",
+  "phonetic_us": "sɪˈlekt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=select&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=select&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "选择，挑选；（在计算机屏幕上）选定；（进化）决定（特征，生物）是否继续存在"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "精选的，优等的；高级的，奢华的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Select）（美、印）塞阿克特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "selects"
+    },
+    {
+      "name": "现在分词",
+      "value": "selecting"
+    },
+    {
+      "name": "过去式",
+      "value": "selected"
+    },
+    {
+      "name": "过去分词",
+      "value": "selected"
+    },
+    {
+      "name": "比较级",
+      "value": "more select"
+    },
+    {
+      "name": "最高级",
+      "value": "most select"
+    }
+  ],
+  "examples": [
+    {
+      "en": "At the end of this chapter there is a select bibliography of useful books.",
+      "zh": "本章末尾附着有用书籍的精选书目。"
+    },
+    {
+      "en": "Select the text you want to format by holding down the left button on your mouse.",
+      "zh": "按住鼠标左键选取你想要格式化的文本。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "挑选；选拔",
+      "words": [
+        "pack",
+        "choose from"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "精选的；挑选出来的；极好的",
+      "words": [
+        "wonderful",
+        "excellent",
+        "famous",
+        "chosen",
+        "choice"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "挑选",
+      "words": [
+        "choose from",
+        "pick on"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "word": "symphony",
+  "found": true,
+  "phonetic_uk": "ˈsɪmfəni",
+  "phonetic_us": "ˈsɪmfəni",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=symphony&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=symphony&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "交响乐；<美>交响乐团（symphony orchestra 的简称）；和谐的东西；<史>大型声乐作品中的过门"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "symphonies"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Symphony musicians cannot necessarily sight-read.",
+      "zh": "交响乐乐师不一定能视奏。"
+    },
+    {
+      "en": "The orchestra played Mozart's Symphony No. 35 in D Major.",
+      "zh": "该管弦乐队演奏了莫扎特D大调第35交响曲。"
+    },
+    {
+      "en": "He is a protean stylist who can move from blues to ballads and grand symphony.",
+      "zh": "他是一位富有变化的艺术家，能从布鲁斯转换到民谣以及雄壮的交响乐。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "交响乐；谐声，和声",
+      "words": [
+        "harmonic",
+        "sinfonia"
+      ]
+    }
+  ]
+}

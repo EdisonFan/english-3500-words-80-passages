@@ -1,0 +1,44 @@
+{
+  "word": "consultation",
+  "found": true,
+  "phonetic_uk": "ˌkɒns(ə)lˈteɪʃ(ə)n",
+  "phonetic_us": "ˌkɑːns(ə)lˈteɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=consultation&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=consultation&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "商讨，磋商，磋商会议；咨询，就诊；查找，查阅"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "consultations"
+    }
+  ],
+  "examples": [
+    {
+      "en": "David gives the first consultation gratis.",
+      "zh": "戴维免费提供第一次咨询。"
+    },
+    {
+      "en": "The decision was taken after close consultation with local residents.",
+      "zh": "这项决定是在与当地居民仔细磋商后作出的。"
+    },
+    {
+      "en": "A personal diet plan is devised after a consultation with a nutritionist.",
+      "zh": "经向营养师作咨询后，一份个人饮食方案设计出来了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "咨询；磋商；[临床]会诊；讨论会",
+      "words": [
+        "forum",
+        "seminar"
+      ]
+    }
+  ]
+}

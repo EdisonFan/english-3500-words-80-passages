@@ -1,0 +1,53 @@
+{
+  "word": "tipping",
+  "found": true,
+  "phonetic_uk": "tɪpɪŋ",
+  "phonetic_us": "ˈtɪpɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tipping&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tipping&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "倾斜；倒垃圾"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）倾斜；倾倒；轻触；给小费（tip的现在分词）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Tipping）（美）蒂平（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Once I looked up \"tipping\" in a dictionary.",
+      "zh": "有一次我在字典里查了“tipping”这个词。"
+    },
+    {
+      "en": "They are about to pass their tipping point.",
+      "zh": "他们马上就要超过临界点了。"
+    },
+    {
+      "en": "Most of you probably think that you hate tipping, too.",
+      "zh": "你们大多数人可能也都讨厌给小费。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "倾卸台",
+      "words": [
+        "tilting"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "使倾斜；轻拍；踮起脚走（tip的ing形式）",
+      "words": [
+        "slanting"
+      ]
+    }
+  ]
+}

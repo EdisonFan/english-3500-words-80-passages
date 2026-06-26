@@ -1,0 +1,66 @@
+{
+  "word": "decorate",
+  "found": true,
+  "phonetic_uk": "ˈdekəreɪt",
+  "phonetic_us": "ˈdekəreɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=decorate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=decorate&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "装饰，装点；粉刷，装修；授予（某人）勋章"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "decorates"
+    },
+    {
+      "name": "现在分词",
+      "value": "decorating"
+    },
+    {
+      "name": "过去式",
+      "value": "decorated"
+    },
+    {
+      "name": "过去分词",
+      "value": "decorated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The boys are planning to decorate when they get the time.",
+      "zh": "男孩们正计划在他们有时间的时候装修。"
+    },
+    {
+      "en": "When they came to decorate the rear bedroom, it was Jemma who had the final say.",
+      "zh": "他们开始装修后卧室时，说了算的人是杰马。"
+    },
+    {
+      "en": "My mom and I would decorate it.",
+      "zh": "我和妈妈会装饰它。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "装饰；布置；授勋给",
+      "words": [
+        "paint",
+        "hang",
+        "make",
+        "post"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "装饰；布置",
+      "words": [
+        "set sth out",
+        "trick out"
+      ]
+    }
+  ]
+}

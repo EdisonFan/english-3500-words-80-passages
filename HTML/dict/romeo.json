@@ -1,0 +1,35 @@
+{
+  "word": "romeo",
+  "found": true,
+  "phonetic_uk": "ˈrəʊmiəʊ",
+  "phonetic_us": "ˈroʊmioʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=romeo&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=romeo&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "罗密欧式的男子，浪漫多情的男子；年轻的男情人；痴情相思的男子；热恋的男子；风流浪荡的男子，情种；字母 R 的代称（用于无线电通信）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "romeos"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Romeo left the stage, to enthusiastic applause.",
+      "zh": "罗密欧在热烈的掌声中离开了舞台。"
+    },
+    {
+      "en": "It was like a parody of the balcony scene from Romeo and Juliet.",
+      "zh": "它就像《罗密欧与朱丽叶》阳台上那一幕的模仿作。"
+    },
+    {
+      "en": "One of the underlying themes of the entire movie is something everyone can relate to, and it's true in many stories like Romeo and Juliet.",
+      "zh": "整部电影的潜在主题之一就是与每个人都有关的事情，而且在许多故事里是真实的，像《罗密欧与朱丽叶》。"
+    }
+  ],
+  "synonyms": []
+}

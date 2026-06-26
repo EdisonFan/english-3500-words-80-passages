@@ -1,0 +1,39 @@
+{
+  "word": "voices",
+  "found": true,
+  "phonetic_uk": "ˈvɔɪsɪz",
+  "phonetic_us": "ˈvɔɪsɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=voices&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=voices&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[声] 声音"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Next, I heard the sound of voices.",
+      "zh": "接着，我听到了说话的声音。"
+    },
+    {
+      "en": "I could hear voices in the next room.",
+      "zh": "我能听到隔壁说话的声音。"
+    },
+    {
+      "en": "The chatter of voices gradually quietened.",
+      "zh": "唧唧喳喳的声音渐渐地平静了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "声音",
+      "words": [
+        "sound",
+        "vox"
+      ]
+    }
+  ]
+}

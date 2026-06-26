@@ -1,0 +1,69 @@
+{
+  "word": "routine",
+  "found": true,
+  "phonetic_uk": "ruːˈtiːn",
+  "phonetic_us": "ruːˈtiːn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=routine&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=routine&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "常规，惯例；生活乏味，无聊；（演出中的）一套动作，一系列笑话（等）；（为达到特定目的的）老一套，俗套；（计算机）例行程序"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "常规的，例行的；平常的，毫不特别的；平淡乏味的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<罕> 按惯例安排"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "routines"
+    },
+    {
+      "name": "比较级",
+      "value": "more routine"
+    },
+    {
+      "name": "最高级",
+      "value": "most routine"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Police work is mainly routine.",
+      "zh": "警察的工作主要都是按常规的。"
+    },
+    {
+      "en": "A routine DNA sample was taken.",
+      "zh": "采集了一份常规的脱氧核糖核酸样本。"
+    },
+    {
+      "en": "You need a break from routine.",
+      "zh": "你需要从日常工作中解脱出来去休息一下。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计]程序；日常工作；例行公事",
+      "words": [
+        "procedure",
+        "program"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "日常的；例行的",
+      "words": [
+        "daily",
+        "everyday",
+        "household"
+      ]
+    }
+  ]
+}

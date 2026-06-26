@@ -1,0 +1,48 @@
+{
+  "word": "pessimistic",
+  "found": true,
+  "phonetic_uk": "ˌpesɪˈmɪstɪk",
+  "phonetic_us": "ˌpesɪˈmɪstɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pessimistic&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pessimistic&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "悲观的，悲观主义的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more pessimistic"
+    },
+    {
+      "name": "最高级",
+      "value": "most pessimistic"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I think you're being far too pessimistic.",
+      "zh": "我觉得你过于悲观了。"
+    },
+    {
+      "en": "Not everyone is so pessimistic about the future.",
+      "zh": "并非每个人都对未来如此悲观。"
+    },
+    {
+      "en": "The mood of the meeting was distinctly pessimistic.",
+      "zh": "这次会议的气氛显然很悲观。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "悲观的，厌世的；悲观主义的",
+      "words": [
+        "world-weary",
+        "futilitarian"
+      ]
+    }
+  ]
+}

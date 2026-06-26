@@ -1,0 +1,50 @@
+{
+  "word": "foxy",
+  "found": true,
+  "phonetic_uk": "ˈfɒksi",
+  "phonetic_us": "ˈfɑːksi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=foxy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=foxy&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "像狐狸的；狡猾的；（女性）狐媚的；赤褐色的；（葡萄酒）有麝香味的；（纸或其他材料）有斑点的，泛黄的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "foxyier"
+    },
+    {
+      "name": "最高级",
+      "value": "foxyiest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Foxy tunes and video down loader are really good ones.",
+      "zh": "狡音乐和视频下跌装载机是很好的。"
+    },
+    {
+      "en": "The foxy Nixon had once again confounded his opponents.",
+      "zh": "像狐狸一样狡猾的尼克松又一次使他的对手不知所措。"
+    },
+    {
+      "en": "Mrs. Fox: Oh, why did you have to get us into this, Foxy?",
+      "zh": "狐太太：噢，阿狸，为什么你要让我们落入如此境地?。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "狡猾的；赤褐色的；如狐的",
+      "words": [
+        "designing",
+        "knowing",
+        "subtle",
+        "tricky"
+      ]
+    }
+  ]
+}

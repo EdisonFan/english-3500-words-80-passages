@@ -1,0 +1,42 @@
+{
+  "word": "delightful",
+  "found": true,
+  "phonetic_uk": "dɪˈlaɪtf(ə)l",
+  "phonetic_us": "dɪˈlaɪtf(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=delightful&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=delightful&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "令人愉快的，宜人的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The cottage had a delightful sea view.",
+      "zh": "这小屋可以看到宜人的海景。"
+    },
+    {
+      "en": "His 1998 memoir is a delightful trip down memory lane.",
+      "zh": "他1998年的回忆录是一次愉快的怀旧之旅。"
+    },
+    {
+      "en": "He was a man of few words with a delightful dry sense of humour.",
+      "zh": "他话不多，很幽默，却又不形于色，让人很愉快。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "可爱的，可喜的；令人愉快的",
+      "words": [
+        "lovely",
+        "pleasant",
+        "pretty",
+        "taking",
+        "grateful"
+      ]
+    }
+  ]
+}

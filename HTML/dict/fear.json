@@ -1,0 +1,80 @@
+{
+  "word": "fear",
+  "found": true,
+  "phonetic_uk": "fɪə(r)",
+  "phonetic_us": "fɪr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fear&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fear&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "害怕，畏惧；担心，忧虑；敬畏"
+    },
+    {
+      "pos": "n.",
+      "meaning": "恐惧；担心；（坏事发生的）可能性；敬畏"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "fears"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "fears"
+    },
+    {
+      "name": "现在分词",
+      "value": "fearing"
+    },
+    {
+      "name": "过去式",
+      "value": "feared"
+    },
+    {
+      "name": "过去分词",
+      "value": "feared"
+    }
+  ],
+  "examples": [
+    {
+      "en": "All his employees fear him.",
+      "zh": "他的雇员都怕他。"
+    },
+    {
+      "en": "That's a perfectly legitimate fear.",
+      "zh": "那是种完全合乎逻辑的恐惧。"
+    },
+    {
+      "en": "Racism feeds on fear.",
+      "zh": "恐惧心理会助长种族主义。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "害怕；[心理]恐惧；敬畏；担心",
+      "words": [
+        "worry",
+        "afraid of"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "害怕；敬畏；为…担心",
+      "words": [
+        "be nervous of",
+        "be afraid of"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "害怕；敬畏；为…担心",
+      "words": [
+        "be nervous of",
+        "be afraid of"
+      ]
+    }
+  ]
+}

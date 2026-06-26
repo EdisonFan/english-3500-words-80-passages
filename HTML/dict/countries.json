@@ -1,0 +1,30 @@
+{
+  "word": "countries",
+  "found": true,
+  "phonetic_uk": "ˈkʌntriz",
+  "phonetic_us": "ˈkʌntriz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=countries&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=countries&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "国家（country 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The countries are contiguous.",
+      "zh": "这些国家互相接壤。"
+    },
+    {
+      "en": "The two countries merged into one.",
+      "zh": "这两个国家合二为一了。"
+    },
+    {
+      "en": "Police in many countries carry guns.",
+      "zh": "许多国家的警察都带枪。"
+    }
+  ],
+  "synonyms": []
+}

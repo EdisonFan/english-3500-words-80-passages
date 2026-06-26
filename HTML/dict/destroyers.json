@@ -1,0 +1,39 @@
+{
+  "word": "destroyers",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=destroyers&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=destroyers&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[船][军]驱逐舰（destroyer 复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Italy had lost three cruisers and two destroyers.",
+      "zh": "意大利损失了3艘巡洋舰和2艘驱逐舰。"
+    },
+    {
+      "en": "The first step of this \"cumulative growth\" was the \"Impavido\" class destroyers, still a version of the Impetuoso class destroyers.",
+      "zh": "这个“累积增长”的第一步是“Impavido”级驱逐舰，仍是急速类驱逐舰的一个版本。"
+    },
+    {
+      "en": "Our destroyers bore down on the enemy carrier.",
+      "zh": "我方驱逐舰快速逼近敌人的航空母舰。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "驱逐舰（destroyer复数）",
+      "words": [
+        "Virus Chaser",
+        "chaser"
+      ]
+    }
+  ]
+}

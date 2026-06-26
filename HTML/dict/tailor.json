@@ -1,0 +1,66 @@
+{
+  "word": "tailor",
+  "found": true,
+  "phonetic_uk": "ˈteɪlə(r)",
+  "phonetic_us": "ˈteɪlər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tailor&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tailor&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（尤指男装）裁缝；蓝鱼（Tailorfish 的简称）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "定做（衣服）；迎合，使适应"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "tailors"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "tailors"
+    },
+    {
+      "name": "现在分词",
+      "value": "tailoring"
+    },
+    {
+      "name": "过去式",
+      "value": "tailored"
+    },
+    {
+      "name": "过去分词",
+      "value": "tailored"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The tailor delicately plied his needle.",
+      "zh": "裁缝精巧地飞针走线。"
+    },
+    {
+      "en": "I was promoted to overseer at the tailor shop.",
+      "zh": "我被提拔为这家裁缝铺的工头。"
+    },
+    {
+      "en": "He was wearing a suit that looked tailor-made.",
+      "zh": "他穿着一套似乎是量身定做的西装。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[服装]裁缝",
+      "words": [
+        "dressmaker",
+        "needlecraft",
+        "sartor",
+        "seamster"
+      ]
+    }
+  ]
+}

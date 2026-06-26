@@ -1,0 +1,70 @@
+{
+  "word": "traffic",
+  "found": true,
+  "phonetic_uk": "ˈtræfɪk",
+  "phonetic_us": "ˈtræfɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=traffic&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=traffic&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "路上行驶的车辆，交通；（沿固定路线的）航行，行驶，飞行；运输量；非法交易；信息流量，通信（量）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（非法）进行……交易，做……买卖；在……通行"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "traffics"
+    },
+    {
+      "name": "现在分词",
+      "value": "trafficking"
+    },
+    {
+      "name": "过去式",
+      "value": "trafficked"
+    },
+    {
+      "name": "过去分词",
+      "value": "trafficked"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The traffic was diabolical.",
+      "zh": "交通状况糟糕透了。"
+    },
+    {
+      "en": "Air traffic had returned to normal.",
+      "zh": "空中交通已恢复正常。"
+    },
+    {
+      "en": "Coordinating airline traffic on the ground is as complicated as managing the traffic in the air.",
+      "zh": "协调飞机在地面上的交通和掌控空中交通一样复杂。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[交]交通；运输；贸易；[通信]通信量",
+      "words": [
+        "transportation",
+        "commerce",
+        "trade",
+        "carriage"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "交易，买卖",
+      "words": [
+        "exchange",
+        "trade in"
+      ]
+    }
+  ]
+}

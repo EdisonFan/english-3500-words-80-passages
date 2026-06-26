@@ -1,0 +1,39 @@
+{
+  "word": "lawyers",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˈlɔɪərz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=lawyers&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=lawyers&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[法]律师（lawyer 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The committee is composed mainly of lawyers.",
+      "zh": "委员会主要由律师组成。"
+    },
+    {
+      "en": "He was in conference with his lawyers all day.",
+      "zh": "他与他的律师们商讨了一整天。"
+    },
+    {
+      "en": "Lawyers for the two parties joust in the courtroom.",
+      "zh": "双方律师在法庭上辩论。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "律师（lawyer的复数）",
+      "words": [
+        "barristers",
+        "attorneys"
+      ]
+    }
+  ]
+}

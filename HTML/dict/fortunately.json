@@ -1,0 +1,39 @@
+{
+  "word": "fortunately",
+  "found": true,
+  "phonetic_uk": "ˈfɔːtʃənətli",
+  "phonetic_us": "ˈfɔːrtʃənətli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fortunately&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fortunately&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "幸运地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Fortunately the gunman's shots went astray.",
+      "zh": "幸好持枪歹徒把子弹打偏了。"
+    },
+    {
+      "en": "I was late, but fortunately the meeting hadn't started.",
+      "zh": "我迟到了，不过幸好会议还没有开始。"
+    },
+    {
+      "en": "Fortunately the short delay gave him time to gather himself.",
+      "zh": "幸运的是，这短暂的拖延给了他喘息的时间。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "幸运地",
+      "words": [
+        "happily",
+        "luckily"
+      ]
+    }
+  ]
+}

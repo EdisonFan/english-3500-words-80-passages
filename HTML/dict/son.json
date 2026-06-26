@@ -1,0 +1,43 @@
+{
+  "word": "son",
+  "found": true,
+  "phonetic_uk": "sʌn",
+  "phonetic_us": "sʌn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=son&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=son&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "儿子；孩子（长者对男孩或年轻男子的称呼）；（某国或地区出生并能作其代表的）男性，子；圣子（耶稣基督）（the Son）；（动物的）雄性后代；男性后裔；（某个人、某种影响或某种环境）熏陶出的人；（司铎对男子或男孩的称呼）孩子（my son）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Son）（土、老、柬）松，（法、罗）索恩，（日）存（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She embraced her son warmly.",
+      "zh": "她热情地拥抱儿子。"
+    },
+    {
+      "en": "Their son was painfully shy.",
+      "zh": "他们的儿子非常害羞。"
+    },
+    {
+      "en": "Her son is a little horror.",
+      "zh": "她的儿子是个小捣蛋鬼。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "儿子；孩子（对年轻人的称呼）；男性后裔",
+      "words": [
+        "child",
+        "fils"
+      ]
+    }
+  ]
+}

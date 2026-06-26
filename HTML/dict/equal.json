@@ -1,0 +1,97 @@
+{
+  "word": "equal",
+  "found": true,
+  "phonetic_uk": "ˈiːkwəl",
+  "phonetic_us": "ˈiːkwəl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=equal&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=equal&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "（在数量、大小、程度、价值方面）相等的，相同的；平等的，同等的；胜任的，合适的；势均力敌的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（在大小、数字、数量上）等于；比得上，达到；导致，结果为"
+    },
+    {
+      "pos": "n.",
+      "meaning": "同等的人，相等物"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "equals"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "equals"
+    },
+    {
+      "name": "现在分词",
+      "value": "equalling或equaling"
+    },
+    {
+      "name": "过去式",
+      "value": "equalled或equaled"
+    },
+    {
+      "name": "过去分词",
+      "value": "equalled或equaled"
+    },
+    {
+      "name": "比较级",
+      "value": "more equal"
+    },
+    {
+      "name": "最高级",
+      "value": "most equal"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We are equal in every way.",
+      "zh": "我们在各方面都是平等的。"
+    },
+    {
+      "en": "They had fought hard for equal rights.",
+      "zh": "他们为了获得平等权利已经进行了顽强的斗争。"
+    },
+    {
+      "en": "Marriage should be an equal partnership.",
+      "zh": "婚姻应当是平等的伴侣关系。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[数]平等的；相等的；胜任的",
+      "words": [
+        "competent",
+        "adequate",
+        "equivalent",
+        "even"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "等于；比得上",
+      "words": [
+        "be equivalent to",
+        "bear comparison with"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "对手；匹敌；同辈；[数]相等的事物",
+      "words": [
+        "comparative",
+        "opponent",
+        "rival",
+        "match",
+        "adversary"
+      ]
+    }
+  ]
+}

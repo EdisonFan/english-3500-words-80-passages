@@ -1,0 +1,72 @@
+{
+  "word": "cow",
+  "found": true,
+  "phonetic_uk": "kaʊ",
+  "phonetic_us": "kaʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cow&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cow&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "母牛，奶牛；雌性动物；<澳新>讨厌的人（或事物、情况）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "恐吓，威胁"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "cows"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "cows"
+    },
+    {
+      "name": "现在分词",
+      "value": "cowing"
+    },
+    {
+      "name": "过去式",
+      "value": "cowed"
+    },
+    {
+      "name": "过去分词",
+      "value": "cowed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "A cow stood on the tracks.",
+      "zh": "一头奶牛站在铁轨上。"
+    },
+    {
+      "en": "A mature cow has horns.",
+      "zh": "成年母牛头上长有角。"
+    },
+    {
+      "en": "The cow says \"moo-moo.\"",
+      "zh": "奶牛“哞哞”叫。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "奶牛，[畜牧]母牛；[脊椎]母兽",
+      "words": [
+        "dairy cattle",
+        "crummie"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "威胁，恐吓",
+      "words": [
+        "to threaten",
+        "threaten with"
+      ]
+    }
+  ]
+}

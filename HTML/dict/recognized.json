@@ -1,0 +1,51 @@
+{
+  "word": "recognized",
+  "found": true,
+  "phonetic_uk": "ˈrekəgˈnaɪzd",
+  "phonetic_us": "ˈrekəɡnaɪzd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=recognized&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=recognized&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "公认的，认可的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "认识，辨别出；承认，意识到；（正式或在法律上）认可，承认（recognize 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I recognized him by his walk.",
+      "zh": "我根据他走路的样子认出了他。"
+    },
+    {
+      "en": "I recognized her by her red hair.",
+      "zh": "我从她的红头发认出了她。"
+    },
+    {
+      "en": "The receptionist recognized him at once.",
+      "zh": "那名接待员马上认出了他。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "公认的；经过验证的",
+      "words": [
+        "accepted",
+        "admitted",
+        "acknowledged"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "认识；意识到（recogniz的过去分词）",
+      "words": [
+        "awaked"
+      ]
+    }
+  ]
+}

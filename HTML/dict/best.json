@@ -1,0 +1,93 @@
+{
+  "word": "best",
+  "found": true,
+  "phonetic_uk": "best",
+  "phonetic_us": "best",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=best&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=best&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "最好的，最出色的；最愉快的，最幸福的；最合适的，最恰当的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "最，最高程度地；最出色地，最高标准地；最适合地，最恰当地"
+    },
+    {
+      "pos": "n.",
+      "meaning": "最好的事物（或人）；（人或事物所能达到的）最高标准；最合乎要求的事物；（个人的）最高水平，最高纪录；最好的衣服，盛装；<美>（书信结尾的）良好祝愿"
+    },
+    {
+      "pos": "v.",
+      "meaning": "打败，胜过"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Best）（美、德、爱）贝斯特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "best"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "bests"
+    },
+    {
+      "name": "现在分词",
+      "value": "besting"
+    },
+    {
+      "name": "过去式",
+      "value": "bested"
+    },
+    {
+      "name": "过去分词",
+      "value": "bested"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Lighter shades suit you best.",
+      "zh": "较浅色的衣服对你最合适。"
+    },
+    {
+      "en": "English is my best subject.",
+      "zh": "英语是我学得最好的一门科目。"
+    },
+    {
+      "en": "It's my best ever score.",
+      "zh": "这是我得到过的最好分数。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "最好的人，最好的事物；最佳状态",
+      "words": [
+        "groove",
+        "high point"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "最好的",
+      "words": [
+        "greatest",
+        "perfect",
+        "prime",
+        "crack"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "最好地",
+      "words": [
+        "primely"
+      ]
+    }
+  ]
+}

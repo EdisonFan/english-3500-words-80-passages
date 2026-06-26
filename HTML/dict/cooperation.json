@@ -1,0 +1,44 @@
+{
+  "word": "cooperation",
+  "found": true,
+  "phonetic_uk": "kəʊˌɒpəˈreɪʃ(ə)n",
+  "phonetic_us": "koʊˌɑːpəˈreɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cooperation&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cooperation&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "合作，协作；协助，配合"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "cooperations"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Cooperation equals success.",
+      "zh": "合作意味着成功。"
+    },
+    {
+      "en": "The cooperation between the two is minimal.",
+      "zh": "两者之间的合作是最低程度的。"
+    },
+    {
+      "en": "Her arrest was a triumph of international cooperation.",
+      "zh": "她的被捕是国际合作的成果。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[劳经]合作，[经]协作；协力",
+      "words": [
+        "collaboration",
+        "synergism"
+      ]
+    }
+  ]
+}

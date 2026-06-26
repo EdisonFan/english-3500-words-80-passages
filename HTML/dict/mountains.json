@@ -1,0 +1,38 @@
+{
+  "word": "mountains",
+  "found": true,
+  "phonetic_uk": "ˈmaʊntənz",
+  "phonetic_us": "ˈmaʊntnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mountains&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mountains&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "山脉；山区；山岳（mountain 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They live up in the mountains.",
+      "zh": "他们住在山区。"
+    },
+    {
+      "en": "There are mountains to the north.",
+      "zh": "北面有山。"
+    },
+    {
+      "en": "A storm blew up over the mountains.",
+      "zh": "山上狂风大作。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "山脉；[地理]山区；山岳（mountain的复数）",
+      "words": [
+        "ranges"
+      ]
+    }
+  ]
+}

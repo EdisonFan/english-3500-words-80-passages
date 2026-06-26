@@ -1,0 +1,46 @@
+{
+  "word": "piecing",
+  "found": true,
+  "phonetic_uk": "piːsɪŋ",
+  "phonetic_us": "ˈpiːsɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=piecing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=piecing&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "慢慢理解；修补（piece 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "This process is akin to piecing together a jigsaw puzzle.",
+      "zh": "这过程类似于拼七巧板。"
+    },
+    {
+      "en": "They suggest this indicates that dogs aren't sensing emotions from a single feature, but piecing together information from all facial features just as humans do.",
+      "zh": "他们表示，这一点表明狗不是从某个单一的特征来感知情绪，而是像人类一样，将所有面部特征信息整合到一起。"
+    },
+    {
+      "en": "Mrs. Peters: She was piecing a quilt.",
+      "zh": "彼得斯夫人：她正在拼接被子。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "接头；冲孔",
+      "words": [
+        "union joint",
+        "cappel"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "修补（piece的ing形式）",
+      "words": [
+        "mending"
+      ]
+    }
+  ]
+}

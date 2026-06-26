@@ -1,0 +1,38 @@
+{
+  "word": "hoping",
+  "found": true,
+  "phonetic_uk": "ˈhəʊpɪŋ",
+  "phonetic_us": "ˈhoʊpɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=hoping&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=hoping&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "希望（hope 的 ing 形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "What grade are you hoping to get?",
+      "zh": "你希望得到什么样的成绩？"
+    },
+    {
+      "en": "I'm hoping to do a chemistry degree.",
+      "zh": "我希望攻读化学学位课程。"
+    },
+    {
+      "en": "She is hoping to win the gold medal.",
+      "zh": "她希望赢得金牌。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "希望（hope的ing形式）",
+      "words": [
+        "wishing"
+      ]
+    }
+  ]
+}

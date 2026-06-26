@@ -1,0 +1,51 @@
+{
+  "word": "combining",
+  "found": true,
+  "phonetic_uk": "kəmˈbaɪnɪŋ",
+  "phonetic_us": "kəmˈbaɪnɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=combining&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=combining&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（使）结合，组合；兼备（不同的特点或品质）；（使）化合；同时做（两件完全不同的事）；（使）联合（以做某事）；用联合收割机收割（农作物）（combine 的现在分词）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "联合，结合"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Combining yellow and blue, you will almost never get a satisfactory green.",
+      "zh": "把黄色和蓝色结合在一起，你几乎永远不会得到一个令人满意的绿色。"
+    },
+    {
+      "en": "\"National\" could mean interprovincial—provinces combining efforts to create one body.",
+      "zh": "“全国性”意味着跨省性——省与省联合起来，建立一个实体。"
+    },
+    {
+      "en": "What she does is called \"plogging\", an activity combining collecting rubbish with running.",
+      "zh": "她的行为被称为“拾荒慢跑”，是一种将捡垃圾和跑步结合起来的活动。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "化合的，结合性的",
+      "words": [
+        "grouped",
+        "compounded"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "结合（combine的ing形式）",
+      "words": [
+        "bonding",
+        "associating"
+      ]
+    }
+  ]
+}

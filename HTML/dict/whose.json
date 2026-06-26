@@ -1,0 +1,34 @@
+{
+  "word": "whose",
+  "found": true,
+  "phonetic_uk": "huːz",
+  "phonetic_us": "huːz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=whose&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=whose&type=2",
+  "defs": [
+    {
+      "pos": "pron.",
+      "meaning": "谁的（疑问代词）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "谁的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "\"Whose is this?\"—\"It's mine.\"",
+      "zh": "“这是谁的？”—“是我的。”"
+    },
+    {
+      "en": "I wonder whose this is.",
+      "zh": "我不知道这是谁的。"
+    },
+    {
+      "en": "Whose car were they in?",
+      "zh": "他们坐在谁的车里？"
+    }
+  ],
+  "synonyms": []
+}

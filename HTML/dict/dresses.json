@@ -1,0 +1,34 @@
+{
+  "word": "dresses",
+  "found": true,
+  "phonetic_uk": "dresɪz",
+  "phonetic_us": "ˈdresɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dresses&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dresses&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[服装]连衣裙；女装（dress 的复数形式）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "穿著（dress 的第三人称单数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He dresses in sober grey suits.",
+      "zh": "他穿着一套素净的灰色衣服。"
+    },
+    {
+      "en": "She dresses with casual elegance.",
+      "zh": "她的穿着随意而不失雅致。"
+    },
+    {
+      "en": "Aunt Mary wore shapeless black dresses.",
+      "zh": "玛丽阿姨总是穿一些形不怎么好的黑裙子。"
+    }
+  ],
+  "synonyms": []
+}

@@ -1,0 +1,52 @@
+{
+  "word": "altogether",
+  "found": true,
+  "phonetic_uk": "ˌɔːltəˈɡeðə(r)",
+  "phonetic_us": "ˌɔːltəˈɡeðər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=altogether&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=altogether&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "完全地；总共；总之"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I don't altogether agree with you.",
+      "zh": "我不完全同意你的意见。"
+    },
+    {
+      "en": "We have invited fifty people altogether.",
+      "zh": "我们共邀请了五十人。"
+    },
+    {
+      "en": "It was an altogether different situation.",
+      "zh": "这完全是另外一种情况。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "完全地；总共；总而言之",
+      "words": [
+        "totally",
+        "entirely",
+        "completely",
+        "absolutely",
+        "thoroughly",
+        "strictly",
+        "fully"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "整个；裸体",
+      "words": [
+        "birthday suit",
+        "entireness"
+      ]
+    }
+  ]
+}

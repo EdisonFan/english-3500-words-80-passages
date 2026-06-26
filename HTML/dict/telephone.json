@@ -1,0 +1,72 @@
+{
+  "word": "telephone",
+  "found": true,
+  "phonetic_uk": "ˈtelɪfəʊn",
+  "phonetic_us": "ˈtelɪfoʊn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=telephone&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=telephone&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "电话通讯系统；电话；（电话机的）话筒，受话器"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（给……）打电话"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "telephones"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "telephones"
+    },
+    {
+      "name": "现在分词",
+      "value": "telephoning"
+    },
+    {
+      "name": "过去式",
+      "value": "telephoned"
+    },
+    {
+      "name": "过去分词",
+      "value": "telephoned"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He snatched up the telephone.",
+      "zh": "他一把抓起了电话。"
+    },
+    {
+      "en": "The telephone is by the window.",
+      "zh": "电话在窗户旁边。"
+    },
+    {
+      "en": "I must telephone my parents.",
+      "zh": "我一定要给父母打个电话。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "（美）[通信]电话；电话机；电话耳机",
+      "words": [
+        "phone",
+        "call"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "[通信]打电话",
+      "words": [
+        "make a phone call",
+        "call up sb"
+      ]
+    }
+  ]
+}

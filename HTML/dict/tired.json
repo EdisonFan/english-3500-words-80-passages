@@ -1,0 +1,43 @@
+{
+  "word": "tired",
+  "found": true,
+  "phonetic_uk": "ˈtaɪəd",
+  "phonetic_us": "ˈtaɪərd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tired&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tired&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "疲倦的，累的；枯燥乏味的，陈腐的；厌烦的；破旧的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）感到累，（使）感到疲劳；厌倦，使厌倦（tire 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She looked tired and dispirited.",
+      "zh": "她显得疲倦而且神情沮丧。"
+    },
+    {
+      "en": "He was tired and crotchety.",
+      "zh": "他累了，动不动就发火。"
+    },
+    {
+      "en": "She looked pale and tired.",
+      "zh": "她看起来苍白而疲惫。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "疲倦的；厌倦的，厌烦的",
+      "words": [
+        "worn",
+        "harassed"
+      ]
+    }
+  ]
+}

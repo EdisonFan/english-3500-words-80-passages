@@ -1,0 +1,76 @@
+{
+  "word": "water",
+  "found": true,
+  "phonetic_uk": "ˈwɔːtə(r)",
+  "phonetic_us": "ˈwɔːtər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=water&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=water&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "水，雨水；水域，（江、河、湖、海等）大片的水；（某个国家的）领海，海域（waters）；不明朗（或未知的、困难、危险等）局面（waters）；羊水（waters）；（湖、海的）水面；水位；乘船，走水路"
+    },
+    {
+      "pos": "v.",
+      "meaning": "给……浇水，灌溉；给…...水喝，饮（动物）；（风等使眼睛）流泪；流口水；（江河）流经并给（某地区）供水；加水冲淡，稀释"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Water）（英）沃特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "waters"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "waters"
+    },
+    {
+      "name": "现在分词",
+      "value": "watering"
+    },
+    {
+      "name": "过去式",
+      "value": "watered"
+    },
+    {
+      "name": "过去分词",
+      "value": "watered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The water deepened gradually.",
+      "zh": "水渐渐变深了。"
+    },
+    {
+      "en": "Water gurgled through the pipes.",
+      "zh": "水汩汩地从管道中流过。"
+    },
+    {
+      "en": "Salt dissolves in water.",
+      "zh": "盐溶于水。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "水；海水；雨水；海域，大片的水",
+      "words": [
+        "seawater",
+        "eau"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "加水；流泪",
+      "words": [
+        "shed tears",
+        "pipe one's eye"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "word": "extra",
+  "found": true,
+  "phonetic_uk": "ˈekstrə",
+  "phonetic_us": "ˈekstrə",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=extra&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=extra&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "额外的；另外收费的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "另收费的事物；临时演员；（非击球所得的）附加分；<旧>（报纸的）号外"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "额外；特别，格外"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "extras"
+    },
+    {
+      "name": "比较级",
+      "value": "more extra"
+    },
+    {
+      "name": "最高级",
+      "value": "most extra"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Running shoes have extra cushioning.",
+      "zh": "跑鞋有额外的减震设计。"
+    },
+    {
+      "en": "She won't pay any extra.",
+      "zh": "她不会支付任何额外费用。"
+    },
+    {
+      "en": "She tried extra hard.",
+      "zh": "她特别努力。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "特别地，非常；另外",
+      "words": [
+        "specifically",
+        "particularly",
+        "badly",
+        "highly",
+        "greatly",
+        "too"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "临时演员；号外；额外的事物；上等产品",
+      "words": [
+        "walker-on",
+        "special edition"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "额外的，[经]另外收费的；特大的",
+      "words": [
+        "additional",
+        "added",
+        "excess"
+      ]
+    }
+  ]
+}

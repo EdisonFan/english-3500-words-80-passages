@@ -1,0 +1,51 @@
+{
+  "word": "nursing",
+  "found": true,
+  "phonetic_uk": "ˈnɜːsɪŋ",
+  "phonetic_us": "ˈnɜːrsɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=nursing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=nursing&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "护理；看护；养育"
+    },
+    {
+      "pos": "v.",
+      "meaning": "看护；养育（nurse 的 ing 形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She had no aptitude for nursing.",
+      "zh": "她没有从事护理工作的能力。"
+    },
+    {
+      "en": "Nursing is not just a job—it's a vocation.",
+      "zh": "护理不仅仅是一项工作，而且还是一种职业。"
+    },
+    {
+      "en": "Nursing was ill-paid and grindingly hard work.",
+      "zh": "护理工作报酬低而且工作强度令人难以忍受。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[临床]护理；看护；养育",
+      "words": [
+        "upbringing",
+        "fosterage"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "看护；养育（nurse的ing形式）",
+      "words": [
+        "fostering",
+        "nurturing"
+      ]
+    }
+  ]
+}

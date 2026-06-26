@@ -1,0 +1,39 @@
+{
+  "word": "statistics",
+  "found": true,
+  "phonetic_uk": "stəˈtɪstɪks",
+  "phonetic_us": "stəˈtɪstɪks",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=statistics&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=statistics&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "统计学；统计数字（statistic 的复数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "These statistics are misleading.",
+      "zh": "这些统计资料会引起误解。"
+    },
+    {
+      "en": "These statistics are not very meaningful.",
+      "zh": "这些统计数字说明不了什么问题。"
+    },
+    {
+      "en": "Statistics should be treated with caution.",
+      "zh": "对待统计数字要慎重。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[统计]统计；统计学；统计资料",
+      "words": [
+        "correlations",
+        "numerical statement"
+      ]
+    }
+  ]
+}

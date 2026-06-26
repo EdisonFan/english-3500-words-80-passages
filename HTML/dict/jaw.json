@@ -1,0 +1,61 @@
+{
+  "word": "jaw",
+  "found": true,
+  "phonetic_uk": "dʒɔː",
+  "phonetic_us": "dʒɔː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=jaw&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=jaw&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "颌，颚；下巴；（机器的）钳口；危险的局面；口部；<非正式> 闲聊；<非正式>饶舌，喋喋不休；<非正式>闲聊"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<非正式>喋喋不休"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Jaw） （冈）乔（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He has a strong square jaw.",
+      "zh": "他长着一副结实的方下巴。"
+    },
+    {
+      "en": "Spittle oozed down his jaw.",
+      "zh": "唾液顺着他的下巴流下。"
+    },
+    {
+      "en": "He had a firm, square jaw.",
+      "zh": "他的下巴方正而坚定。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[脊椎]颌；下巴；[地质]狭窄入口；唠叨",
+      "words": [
+        "chin",
+        "jowl"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "教训；唠叨",
+      "words": [
+        "rabbit on"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "教训；对…唠叨",
+      "words": [
+        "lesson"
+      ]
+    }
+  ]
+}

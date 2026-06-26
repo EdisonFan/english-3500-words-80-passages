@@ -1,0 +1,43 @@
+{
+  "word": "targeted",
+  "found": true,
+  "phonetic_uk": "ˈtɑːɡɪtɪd",
+  "phonetic_us": "ˈtɑːrɡɪtɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=targeted&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=targeted&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "定向的；被定为攻击目标的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "把……作为目标（target 的过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They'll get less meaningful, less targeted ads.",
+      "zh": "他们会得到更少意义性，更少针对性的广告。"
+    },
+    {
+      "en": "The campaign is clearly targeted at the young.",
+      "zh": "这个宣传计划显然是针对青年人的。"
+    },
+    {
+      "en": "We haven't specifically targeted school children.",
+      "zh": "我们没有专门针对学校的孩子。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "定向的；被定为攻击目标的",
+      "words": [
+        "directed",
+        "oriented"
+      ]
+    }
+  ]
+}

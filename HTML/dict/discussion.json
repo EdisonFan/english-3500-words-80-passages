@@ -1,0 +1,44 @@
+{
+  "word": "discussion",
+  "found": true,
+  "phonetic_uk": "dɪˈskʌʃ(ə)n",
+  "phonetic_us": "dɪˈskʌʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=discussion&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=discussion&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "讨论；论述，详述；谈话，辩论"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "discussions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The time for discussion is past.",
+      "zh": "讨论的时间已过。"
+    },
+    {
+      "en": "The discussion got a little heavy.",
+      "zh": "讨论变得有点严肃。"
+    },
+    {
+      "en": "The two men plunged into discussion.",
+      "zh": "这两个男人突然投入了讨论。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "讨论，议论",
+      "words": [
+        "argumentum",
+        "counsel"
+      ]
+    }
+  ]
+}

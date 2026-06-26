@@ -1,0 +1,57 @@
+{
+  "word": "speaking",
+  "found": true,
+  "phonetic_uk": "ˈspiːkɪŋ",
+  "phonetic_us": "ˈspiːkɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=speaking&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=speaking&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "说话；演讲"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "讲话的；演讲的；富于表情的；（画像）逼真的；雄辩的；讲某种语言的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "讲；交谈；发言；责备；劝告；表明；显示；发出特有的响声（speak 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She was clearly speaking the truth.",
+      "zh": "她讲的显然是实情。"
+    },
+    {
+      "en": "She has a beautiful speaking voice.",
+      "zh": "她说话的音色很美。"
+    },
+    {
+      "en": "She began speaking politely, even correctly.",
+      "zh": "她开始礼貌地讲了起来，甚至还很得体。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "演讲的；富于表情的，雄辩的",
+      "words": [
+        "eloquent",
+        "Demosthenic"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "说话；演讲",
+      "words": [
+        "speech",
+        "address",
+        "lecture",
+        "talk"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "word": "numbers",
+  "found": true,
+  "phonetic_uk": "ˈnʌmbəz",
+  "phonetic_us": "ˈnʌmbərz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=numbers&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=numbers&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[数] 数字（number的复数）；算术"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Numbers）Numbers表格"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The numbers add up to exactly 100.",
+      "zh": "这些数字的总数恰好是100。"
+    },
+    {
+      "en": "The numbers don't jibe.",
+      "zh": "这些数字不一致。"
+    },
+    {
+      "en": "All the phone numbers had been erased.",
+      "zh": "所有的电话号码都被抹掉了。"
+    }
+  ],
+  "synonyms": []
+}

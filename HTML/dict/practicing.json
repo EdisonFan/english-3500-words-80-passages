@@ -1,0 +1,42 @@
+{
+  "word": "practicing",
+  "found": true,
+  "phonetic_uk": "ˈpræktɪsɪŋ",
+  "phonetic_us": "ˈpræktɪsɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=practicing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=practicing&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "在工作的，开业的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "练习，训练；经常做，遵循；从事，执业；阴谋策划（practice 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I love practicing English.",
+      "zh": "我爱练英语。"
+    },
+    {
+      "en": "So let's start practicing.",
+      "zh": "所以我们开始练习吧。"
+    },
+    {
+      "en": "I'm practicing my speech.",
+      "zh": "我正在练习演说。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "练习（practice的ing形式）",
+      "words": [
+        "exercising"
+      ]
+    }
+  ]
+}

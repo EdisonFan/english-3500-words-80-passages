@@ -1,0 +1,44 @@
+{
+  "word": "poor",
+  "found": true,
+  "phonetic_uk": "pɔː(r); pʊə(r)",
+  "phonetic_us": "pʊr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=poor&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=poor&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "贫穷的；可怜的，不幸的；（身体）虚弱的，衰弱的；不擅长的，不熟练的；劣质的，差的，次的；贫乏的；（数量、比率等）不理想的，不合理的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Poor）（美）普尔（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Even the poor have their pride.",
+      "zh": "即使穷人也有他们的自尊。"
+    },
+    {
+      "en": "He's in hospital again. Poor dab.",
+      "zh": "他又住医院了，怪可怜的。"
+    },
+    {
+      "en": "It's hungry—the poor little thing.",
+      "zh": "它饿了，这可怜的小家伙。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "贫穷的；可怜的；贫乏的；卑鄙的",
+      "words": [
+        "mean",
+        "base",
+        "dirty"
+      ]
+    }
+  ]
+}

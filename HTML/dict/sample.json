@@ -1,0 +1,80 @@
+{
+  "word": "sample",
+  "found": true,
+  "phonetic_uk": "ˈsɑːmp(ə)l",
+  "phonetic_us": "ˈsæmp(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sample&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sample&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "样本，样品；试用产品，试样；（供科学或医学检测用的）抽样样本；（抽查的）样本，抽选人员；（用于新乐曲中的）选录的歌曲片段"
+    },
+    {
+      "pos": "v.",
+      "meaning": "品尝，尝试（食品、饮料）；体验（活动）；对……作抽样调查；节录，选录（歌曲等，用于其他录音）；确定（模拟信号）瞬时值"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "样品的，实例的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Sample）（美、英、爱尔兰）桑普尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "samples"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "samples"
+    },
+    {
+      "name": "现在分词",
+      "value": "sampling"
+    },
+    {
+      "name": "过去式",
+      "value": "sampled"
+    },
+    {
+      "name": "过去分词",
+      "value": "sampled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "A routine DNA sample was taken.",
+      "zh": "采集了一份常规的脱氧核糖核酸样本。"
+    },
+    {
+      "en": "Each sample was tested in triplicate.",
+      "zh": "每种样品都做过三次检验。"
+    },
+    {
+      "en": "'I'd like to see a sample of your work,' said the manager.",
+      "zh": "“拿一件你做的货样给我看看。”经理说。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "取样；尝试；抽样检查",
+      "words": [
+        "essay",
+        "have a try"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "样品；[图情]样本；例子",
+      "words": [
+        "example",
+        "pattern"
+      ]
+    }
+  ]
+}

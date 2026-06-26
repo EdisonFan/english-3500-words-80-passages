@@ -1,0 +1,47 @@
+{
+  "word": "computation",
+  "found": true,
+  "phonetic_uk": "ˌkɒmpjuˈteɪʃ(ə)n",
+  "phonetic_us": "ˌkɑːmpjuˈteɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=computation&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=computation&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "计算，计算过程"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "computations"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The discrepancies resulted from different methods of computation.",
+      "zh": "差异源于不同的计算方法。"
+    },
+    {
+      "en": "In short, as the price of computation has declined, the average consumer and business have spent more on purchasing computers.",
+      "zh": "简而言之，随着计算价格的下降，普通消费者和企业在购买计算机上的花费也在增加。"
+    },
+    {
+      "en": "The wide application of electronic computers in science and technology will free man from the labor of complicated measurement and computation.",
+      "zh": "电子计算机在科学技术方面广泛的应用将使人们从复杂的测量和计算中摆脱出来。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "估计，[数]计算",
+      "words": [
+        "estimation",
+        "calculation",
+        "appraisal",
+        "valuation",
+        "count"
+      ]
+    }
+  ]
+}

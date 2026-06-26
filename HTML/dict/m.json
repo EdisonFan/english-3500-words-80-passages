@@ -1,0 +1,35 @@
+{
+  "word": "m",
+  "found": true,
+  "phonetic_uk": "em",
+  "phonetic_us": "em",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=m&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=m&type=2",
+  "defs": [
+    {
+      "pos": "abbr.",
+      "meaning": "米；模；毫；兆"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "m's或ms"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She left out an 'm' in 'accommodation'.",
+      "zh": "她在accommodation一词中漏掉了一个字母m。"
+    },
+    {
+      "en": "The address is 2025 M Street, NW, Washington, DC, 20036.",
+      "zh": "地址是华盛顿哥伦比亚特区，华盛顿西北，M街2025号，邮编20036。"
+    },
+    {
+      "en": "One of the wittiest exemplars of the technique was M. C. Escher.",
+      "zh": "该技术最巧妙的代表之一是埃舍尔。"
+    }
+  ],
+  "synonyms": []
+}

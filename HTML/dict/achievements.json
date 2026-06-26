@@ -1,0 +1,39 @@
+{
+  "word": "achievements",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=achievements&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=achievements&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "业绩；获得（achievement 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She is so reticent about her achievements.",
+      "zh": "她对于自己的成就如此缄默。"
+    },
+    {
+      "en": "His achievements have exceeded expectations.",
+      "zh": "他的成就出乎预料。"
+    },
+    {
+      "en": "I don't mean to disparage your achievements.",
+      "zh": "我并不想贬低你的成就。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "业绩；获得（achievement的复数）",
+      "words": [
+        "acquisitions",
+        "exploits"
+      ]
+    }
+  ]
+}

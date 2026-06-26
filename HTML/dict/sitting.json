@@ -1,0 +1,55 @@
+{
+  "word": "sitting",
+  "found": true,
+  "phonetic_uk": "ˈsɪtɪŋ",
+  "phonetic_us": "ˈsɪtɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sitting&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sitting&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "坐着（做某事）的一段时间；（一次）供人画像（照相）的时间；一批，一次（就餐时间）；（法庭的）开庭，（议会的）开会；孵卵"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "坐的，坐着做的；（母鸡，鸟）孵蛋的，伏窝的；现任的，在任期内的；易击中的；（动物）蹲着的，（鸟）停落的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "坐，坐下；使就座；坐落在，位于（sit 的现在分词形式）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】  (Sitting) （美、加）西特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "sittings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Who's sitting nearest the door?",
+      "zh": "谁坐在离门最近的地方？"
+    },
+    {
+      "en": "Are you sitting comfortably?",
+      "zh": "你坐得舒服吗？"
+    },
+    {
+      "en": "She was sitting at her desk.",
+      "zh": "她坐在书桌前。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "入席，就坐；开庭；孵卵；坐着的一段时间",
+      "words": [
+        "session"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "repairing",
+  "found": true,
+  "phonetic_uk": "rɪˈpeərɪŋ",
+  "phonetic_us": "rɪˈperɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=repairing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=repairing&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "修复（repair 的 ing 形式）；修理"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He was busily engaged repairing his bike.",
+      "zh": "他正忙着修他的自行车。"
+    },
+    {
+      "en": "They were very worried about the cost of repairing the leaky roof.",
+      "zh": "他们非常担心维修漏雨屋顶的费用。"
+    },
+    {
+      "en": "It was up to the US to take the initiative in repairing relations.",
+      "zh": "在修复关系方面应由美国采取主动。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "修复（repair的ing形式）；修理",
+      "words": [
+        "mending"
+      ]
+    }
+  ]
+}

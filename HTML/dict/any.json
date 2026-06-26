@@ -1,0 +1,63 @@
+{
+  "word": "any",
+  "found": true,
+  "phonetic_uk": "ˈeni",
+  "phonetic_us": "ˈeni",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=any&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=any&type=2",
+  "defs": [
+    {
+      "pos": "det.",
+      "meaning": "任何的，任一的；一点，些许；不寻常的；尽可能多的，所有的"
+    },
+    {
+      "pos": "pron.",
+      "meaning": "任何一个；任何数量，任一数额"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "一点，丝毫；<美，非正式>压根儿"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "任何的，任一的；一点，一些"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Any）（美、俄、法、墨、巴）阿尼（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I'd welcome any suggestions.",
+      "zh": "任何建议我都会愉快地接受。"
+    },
+    {
+      "en": "Any delay would be fatal.",
+      "zh": "任何延误都可能导致失败。"
+    },
+    {
+      "en": "Any colour will do.",
+      "zh": "什么颜色都行。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "任何的；所有的；丝毫",
+      "words": [
+        "having",
+        "possessory"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "稍微；少许",
+      "words": [
+        "somewhat",
+        "in some sort"
+      ]
+    }
+  ]
+}

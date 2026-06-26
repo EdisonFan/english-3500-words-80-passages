@@ -1,0 +1,39 @@
+{
+  "word": "solving",
+  "found": true,
+  "phonetic_uk": "ˈsɒlvɪŋ",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=solving&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=solving&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "解决"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The new law goes a long way towards solving the problem.",
+      "zh": "新的法律十分有助于解决这一问题。"
+    },
+    {
+      "en": "You need to systematize your approach to problem solving.",
+      "zh": "你需要用有条理的方法解决问题。"
+    },
+    {
+      "en": "Much of the time we do not notice that we are solving problems.",
+      "zh": "很多时候我们没有注意到我们正在解决问题。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "解决",
+      "words": [
+        "work out",
+        "figure out"
+      ]
+    }
+  ]
+}

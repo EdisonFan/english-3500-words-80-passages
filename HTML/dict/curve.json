@@ -1,0 +1,85 @@
+{
+  "word": "curve",
+  "found": true,
+  "phonetic_uk": "kɜːv",
+  "phonetic_us": "kɜːrv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=curve&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=curve&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "曲线，弧线；转弯，弯道；图表曲线；曲线球；（身体的）曲线"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）弯曲，（使）呈曲线形"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "弯曲的，曲线形的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "curves"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "curves"
+    },
+    {
+      "name": "现在分词",
+      "value": "curving"
+    },
+    {
+      "name": "过去式",
+      "value": "curved"
+    },
+    {
+      "name": "过去分词",
+      "value": "curved"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The slope increases as you go up the curve.",
+      "zh": "你顺着那条弯路往上走，坡度越来越大。"
+    },
+    {
+      "en": "We just change the curve into straight lines.",
+      "zh": "我们只是把曲线变成了直线。"
+    },
+    {
+      "en": "It's a tough learning curve and it won't always make you popular.",
+      "zh": "这是一条艰难的学习曲线，且并不一定让你受欢迎。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[数]曲线；弯曲；曲线球；曲线图表",
+      "words": [
+        "give",
+        "winding"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "弯；使弯曲",
+      "words": [
+        "wind",
+        "bend"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "弯曲的；曲线形的",
+      "words": [
+        "winding",
+        "flexural",
+        "crooked"
+      ]
+    }
+  ]
+}

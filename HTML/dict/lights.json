@@ -1,0 +1,34 @@
+{
+  "word": "lights",
+  "found": true,
+  "phonetic_uk": "laɪts",
+  "phonetic_us": "laɪts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=lights&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=lights&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "灯光（light 的复数）；（供食用的）家畜的肺脏"
+    },
+    {
+      "pos": "v.",
+      "meaning": "点亮（light 的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We saw lights in the distance.",
+      "zh": "我们看到了远处的点点灯光。"
+    },
+    {
+      "en": "The lights shone like diamonds.",
+      "zh": "灯光像钻石一样闪闪发亮。"
+    },
+    {
+      "en": "All lights had been extinguished.",
+      "zh": "所有灯光都熄灭了。"
+    }
+  ],
+  "synonyms": []
+}

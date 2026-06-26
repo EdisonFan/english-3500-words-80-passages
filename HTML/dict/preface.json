@@ -1,0 +1,72 @@
+{
+  "word": "preface",
+  "found": true,
+  "phonetic_uk": "ˈprefəs",
+  "phonetic_us": "ˈprefəs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=preface&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=preface&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（书的）前言，（演讲的）开场白；开端，序幕；（基督教）序祷，序诵"
+    },
+    {
+      "pos": "v.",
+      "meaning": "为（书）作序；以……为开端，以……作为开场白"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "prefaces"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "prefaces"
+    },
+    {
+      "name": "现在分词",
+      "value": "prefacing"
+    },
+    {
+      "name": "过去式",
+      "value": "prefaced"
+    },
+    {
+      "name": "过去分词",
+      "value": "prefaced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The preface of the book includes an account of the author's life.",
+      "zh": "该书前言记述了作者生平。"
+    },
+    {
+      "en": "Remember I asked you from the preface, John Ray's preface, to figure out who Dolly Schiller is, who dies in childbed.",
+      "zh": "还记得我曾让你们找出约翰·雷序言中的，死在产床上的多莉是谁。"
+    },
+    {
+      "en": "The president of the National Academy, Bruce Alberts, added this key point in the preface to the panel's report: \"Science never has all the answers.\"",
+      "zh": "美国国家科学院的主席布鲁斯·阿尔伯茨在该小组报告的前言中补充了这一点：“科学永远无法提供所有答案。”"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "前言；引语",
+      "words": [
+        "prolegomena",
+        "foreword"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "为…加序言；以…开始",
+      "words": [
+        "begin with",
+        "open with"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "word": "tone",
+  "found": true,
+  "phonetic_uk": "təʊn",
+  "phonetic_us": "toʊn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tone&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tone&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "语气，腔调，口吻；气氛，基调，风格；（尤指乐器或电子音响设备的）音质，音色；色调，明暗；强健状况，（尤指肌肉的）紧实度；（电话或应答机等发出的）声音信号；（音乐）全音，音程；（说话的）声调，音调；（生理）神经纤维的正常活动状态"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使强健，使结实；与……协调，与……相配；（用化学溶液使黑白照片在润色时）变色；用某种调子说"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Tone）（罗、塞、乍）托内，（英）托恩（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "tones"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "tones"
+    },
+    {
+      "name": "现在分词",
+      "value": "toning"
+    },
+    {
+      "name": "过去式",
+      "value": "toned"
+    },
+    {
+      "name": "过去分词",
+      "value": "toned"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Her flippant tone irked him.",
+      "zh": "她轻佻的语调使他很生气。"
+    },
+    {
+      "en": "His tone was almost professorial.",
+      "zh": "他说话的口气简直像个教授。"
+    },
+    {
+      "en": "Her tone of voice was curt.",
+      "zh": "她的语气是简短无理的。"
+    }
+  ],
+  "synonyms": []
+}

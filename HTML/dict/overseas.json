@@ -1,0 +1,50 @@
+{
+  "word": "overseas",
+  "found": true,
+  "phonetic_uk": "ˌəʊvəˈsiːz",
+  "phonetic_us": "ˌoʊvərˈsiːz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=overseas&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=overseas&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "外国的，海外的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "在国外，在海外"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Nearly half the students come from overseas.",
+      "zh": "几乎一半学生来自海外。"
+    },
+    {
+      "en": "They do a lot of business in lucrative overseas markets.",
+      "zh": "他们在利润丰厚的海外市场上生意很多。"
+    },
+    {
+      "en": "Overseas investment has had a positive effect on exports.",
+      "zh": "海外投资对出口有积极影响。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "在海外，海外",
+      "words": [
+        "beyond the sea"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "海外的，国外的",
+      "words": [
+        "transmarine",
+        "off-shore"
+      ]
+    }
+  ]
+}

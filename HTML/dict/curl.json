@@ -1,0 +1,75 @@
+{
+  "word": "curl",
+  "found": true,
+  "phonetic_uk": "kɜːl",
+  "phonetic_us": "kɜːrl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=curl&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=curl&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（使）弯曲，卷曲；（使）盘绕，（使）弯弯曲曲移动；边缘翘起；撇（嘴）；参加冰壶运动"
+    },
+    {
+      "pos": "n.",
+      "meaning": "鬈发，卷发；（头发的）卷曲；卷曲物，螺旋状物；（锻炼肌肉的）弯曲运动"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Curl）（英）柯尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "curls"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "curls"
+    },
+    {
+      "name": "现在分词",
+      "value": "curling"
+    },
+    {
+      "name": "过去式",
+      "value": "curled"
+    },
+    {
+      "name": "过去分词",
+      "value": "curled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Dry curly hair naturally for maximum curl and shine.",
+      "zh": "让卷发自然地风干以最大限度地增加头发的卷曲和光泽。"
+    },
+    {
+      "en": "The paper started to shrivel and curl up in the heat.",
+      "zh": "那张纸在高温下开始起皱卷曲。"
+    },
+    {
+      "en": "The wave and curl of her blonde hair gave her sensuality and youth.",
+      "zh": "波浪式的卷曲金发使她显得性感并富有青春活力。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "[纸]卷曲；盘绕",
+      "words": [
+        "crisp"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[纸]卷曲；卷发；螺旋状物",
+      "words": [
+        "wave",
+        "wavy hair"
+      ]
+    }
+  ]
+}

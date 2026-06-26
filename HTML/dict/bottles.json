@@ -1,0 +1,30 @@
+{
+  "word": "bottles",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bottles&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bottles&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "瓶子（bottle 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Six bottles should be enough.",
+      "zh": "六瓶应该够了。"
+    },
+    {
+      "en": "We downed bottles of local wine.",
+      "zh": "我们喝了好几瓶本地酒。"
+    },
+    {
+      "en": "The factory distils and bottles whisky.",
+      "zh": "这家工厂用蒸馏法酿造瓶装威士忌酒。"
+    }
+  ],
+  "synonyms": []
+}

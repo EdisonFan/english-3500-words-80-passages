@@ -1,0 +1,38 @@
+{
+  "word": "London",
+  "found": true,
+  "phonetic_uk": "ˈlʌndən",
+  "phonetic_us": "ˈlʌndən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=London&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=London&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "伦敦"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We always get lost in London.",
+      "zh": "我们在伦敦老是迷路。"
+    },
+    {
+      "en": "Both (my) sisters live in London.",
+      "zh": "我的两个姐妹都住在伦敦。"
+    },
+    {
+      "en": "We used to live in London.",
+      "zh": "我们过去住在伦敦。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "伦敦",
+      "words": [
+        "Bow bells"
+      ]
+    }
+  ]
+}

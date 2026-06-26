@@ -1,0 +1,34 @@
+{
+  "word": "rang",
+  "found": true,
+  "phonetic_uk": "ræŋ",
+  "phonetic_us": "ræŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=rang&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=rang&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（使）发出钟声，响起铃声；（给……）打电话；包围；成环形（ring 的过去式）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "(Rang) （美、德、印）朗（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Applause rang through the hall.",
+      "zh": "掌声响彻整个大厅。"
+    },
+    {
+      "en": "A single shot rang out.",
+      "zh": "一声枪响。"
+    },
+    {
+      "en": "The house rang with children's laughter.",
+      "zh": "屋子里回响着孩子们的笑声。"
+    }
+  ],
+  "synonyms": []
+}

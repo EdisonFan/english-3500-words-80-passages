@@ -1,0 +1,47 @@
+{
+  "word": "ashamed",
+  "found": true,
+  "phonetic_uk": "əˈʃeɪmd",
+  "phonetic_us": "əˈʃeɪmd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ashamed&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ashamed&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "感到羞愧，感到羞耻；羞于（做某事）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more ashamed"
+    },
+    {
+      "name": "最高级",
+      "value": "most ashamed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Peter ought to be ashamed of himself.",
+      "zh": "彼得应为自己感到羞耻。"
+    },
+    {
+      "en": "I felt incredibly ashamed of myself for getting so angry.",
+      "zh": "我为自己发了这么大的脾气而感到极为惭愧。"
+    },
+    {
+      "en": "I'm ashamed to say that I lied to her.",
+      "zh": "我真不好意思说我向她撒了谎。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "惭愧的，感到难为情的；耻于……的",
+      "words": [
+        "compunctious"
+      ]
+    }
+  ]
+}

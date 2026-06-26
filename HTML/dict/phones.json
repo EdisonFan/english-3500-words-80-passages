@@ -1,0 +1,43 @@
+{
+  "word": "phones",
+  "found": true,
+  "phonetic_uk": "fəʊnz",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=phones&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=phones&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "电话（phone 的复数）；听筒"
+    },
+    {
+      "pos": "v.",
+      "meaning": "打电话（phone 的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The use of cellular phones is not permitted on most aircraft.",
+      "zh": "大多数飞机上不许使用手机。"
+    },
+    {
+      "en": "Please make sure all mobile phones are switched off during the performance.",
+      "zh": "请确保演出时关上所有手机。"
+    },
+    {
+      "en": "Since war broke out, the phones at donation centres have been ringing off the hook.",
+      "zh": "自从战争爆发以来，捐款中心的电话一直响个不停。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "电话（phone的复数）；听筒",
+      "words": [
+        "calls",
+        "telephones"
+      ]
+    }
+  ]
+}

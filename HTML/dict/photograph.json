@@ -1,0 +1,72 @@
+{
+  "word": "photograph",
+  "found": true,
+  "phonetic_uk": "ˈfəʊtəɡrɑːf",
+  "phonetic_us": "ˈfoʊtəɡræf",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=photograph&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=photograph&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "照片，相片"
+    },
+    {
+      "pos": "v.",
+      "meaning": "拍照，照相；在照片上显出某种样子"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "photographs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "photographs"
+    },
+    {
+      "name": "现在分词",
+      "value": "photographing"
+    },
+    {
+      "name": "过去式",
+      "value": "photographed"
+    },
+    {
+      "name": "过去分词",
+      "value": "photographed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The photograph had been framed.",
+      "zh": "照片已镶了框。"
+    },
+    {
+      "en": "He peered closely at the photograph.",
+      "zh": "他聚精会神地端详着相片。"
+    },
+    {
+      "en": "It wasn't a very flattering photograph.",
+      "zh": "这张照片照得不如本人好看。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "拍照；在照片上显得",
+      "words": [
+        "take a photo",
+        "to take a picture"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "照片，[摄]相片",
+      "words": [
+        "picture",
+        "pix"
+      ]
+    }
+  ]
+}

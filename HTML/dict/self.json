@@ -1,0 +1,87 @@
+{
+  "word": "self",
+  "found": true,
+  "phonetic_uk": "self",
+  "phonetic_us": "self",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=self&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=self&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "自己，自我；（指一个人）自己，本人；私心，私利；本人（用于商业函件、支票等）；（自己的）通常的行为方式，本来面目"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "（装饰品，封面）与其他部分同质同色的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（主植）使自花授粉，使自体受精；（遗传）（动物、植物）同系繁衍，同系受精；自花受精"
+    },
+    {
+      "pos": "pron.",
+      "meaning": "自己（用于自谑的赞美语中）；本人（用于票根、支票等，指称持有人或签署人）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Self）（英）塞尔夫（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "selves"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "selfs"
+    },
+    {
+      "name": "现在分词",
+      "value": "selfing"
+    },
+    {
+      "name": "过去式",
+      "value": "selfed"
+    },
+    {
+      "name": "过去分词",
+      "value": "selfed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He gave a self-deprecating shrug.",
+      "zh": "他自���地耸耸肩。"
+    },
+    {
+      "en": "He has no self-confidence.",
+      "zh": "他毫无自信。"
+    },
+    {
+      "en": "Dishonesty is ultimately self-defeating.",
+      "zh": "不诚实最终将会自食其果。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "自己，自我；本质；私心",
+      "words": [
+        "essence",
+        "principle",
+        "texture",
+        "entity",
+        "interior"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "同一的",
+      "words": [
+        "same",
+        "identical"
+      ]
+    }
+  ]
+}

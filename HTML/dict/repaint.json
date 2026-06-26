@@ -1,0 +1,63 @@
+{
+  "word": "repaint",
+  "found": true,
+  "phonetic_uk": "riːˈpeɪnt",
+  "phonetic_us": "riːˈpeɪnt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=repaint&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=repaint&type=2",
+  "defs": [
+    {
+      "pos": "vt.",
+      "meaning": "重画；重新绘制；重漆"
+    },
+    {
+      "pos": "n.",
+      "meaning": "重新油漆的东西；重画的画"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "repaints"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "repaints"
+    },
+    {
+      "name": "现在分词",
+      "value": "repainting"
+    },
+    {
+      "name": "过去式",
+      "value": "repainted"
+    },
+    {
+      "name": "过去分词",
+      "value": "repainted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I was going to sand down the chairs and repaint them.",
+      "zh": "我打算用砂纸打磨这些椅子然后重新刷漆。"
+    },
+    {
+      "en": "Repaint with a fresh, light color.",
+      "zh": "给厨房着上一种清新、较浅的颜色。"
+    },
+    {
+      "en": "I didn't mean repaint it.",
+      "zh": "但是我并不是说重新刷一遍。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "重画；重新绘制；重漆",
+      "words": [
+        "redraw"
+      ]
+    }
+  ]
+}

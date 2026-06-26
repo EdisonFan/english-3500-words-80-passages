@@ -1,0 +1,54 @@
+{
+  "word": "hidden",
+  "found": true,
+  "phonetic_uk": "ˈhɪd(ə)n",
+  "phonetic_us": "ˈhɪd(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=hidden&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=hidden&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "隐形的，隐秘的；不易察觉的，潜在的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "隐藏；躲避；遮挡（hide 的过去分词）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Hidden）（英）希登（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I keep my private papers hidden.",
+      "zh": "我藏起了我的私人文件。"
+    },
+    {
+      "en": "There are no hidden extras.",
+      "zh": "没有任何隐蔽的额外费用。"
+    },
+    {
+      "en": "She kept her feelings hidden fathoms deep.",
+      "zh": "她把感情深深地隐藏在心中。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "隐藏的",
+      "words": [
+        "latent",
+        "veiled"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "隐藏，躲藏（hide的过去分词）",
+      "words": [
+        "jooked"
+      ]
+    }
+  ]
+}

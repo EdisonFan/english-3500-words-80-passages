@@ -1,0 +1,34 @@
+{
+  "word": "hours",
+  "found": true,
+  "phonetic_uk": "ˈaʊəz",
+  "phonetic_us": "ˈaʊərz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=hours&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=hours&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "小时（hour 的复数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Hours）（法）乌尔（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I worked quite irregular hours.",
+      "zh": "我的工作时间很不固定。"
+    },
+    {
+      "en": "Getting there would take hours.",
+      "zh": "到那儿要花很长时间。"
+    },
+    {
+      "en": "We talked for hours and hours.",
+      "zh": "我们谈了好多个小时。"
+    }
+  ],
+  "synonyms": []
+}

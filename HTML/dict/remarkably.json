@@ -1,0 +1,42 @@
+{
+  "word": "remarkably",
+  "found": true,
+  "phonetic_uk": "rɪˈmɑːkəbli",
+  "phonetic_us": "rɪˈmɑːrkəbli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=remarkably&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=remarkably&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "不寻常地，惊人地；不平常地，奇怪地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Herbal remedies are remarkably successful in treating eczema.",
+      "zh": "草药疗法医治湿疹非常成功。"
+    },
+    {
+      "en": "Inflation has decelerated remarkably over the past two years.",
+      "zh": "过去两年里通货膨胀已经显著地减缓了。"
+    },
+    {
+      "en": "Remarkably, nobody was killed.",
+      "zh": "竟然没有死人，真是万幸。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "显著地；非常地；引人注目地",
+      "words": [
+        "notably",
+        "dramatically",
+        "considerably",
+        "prominently",
+        "markedly"
+      ]
+    }
+  ]
+}

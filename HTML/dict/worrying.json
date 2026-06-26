@@ -1,0 +1,47 @@
+{
+  "word": "worrying",
+  "found": true,
+  "phonetic_uk": "ˈwʌriɪŋ",
+  "phonetic_us": "ˈwɜːriɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=worrying&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=worrying&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "不安；（使）担心；（使）恼怒；（狗等食肉动物）撕咬；（狗）追逐（牲畜）（worry 的现在分词）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "令人担心的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "骚扰；反复的拨弄"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "It's useless worrying about it.",
+      "zh": "为这事担心无济于事。"
+    },
+    {
+      "en": "It's no good worrying about it now.",
+      "zh": "现在担心已没什么用处。"
+    },
+    {
+      "en": "I have sleepless nights worrying about her.",
+      "zh": "我有好几个不眠之夜都在为她担心。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "令人担心的；烦恼的",
+      "words": [
+        "agonising",
+        "vexed"
+      ]
+    }
+  ]
+}

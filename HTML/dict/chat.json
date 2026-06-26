@@ -1,0 +1,76 @@
+{
+  "word": "chat",
+  "found": true,
+  "phonetic_uk": "tʃæt",
+  "phonetic_us": "tʃæt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=chat&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=chat&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "闲聊，聊天"
+    },
+    {
+      "pos": "n.",
+      "meaning": "闲聊，聊天；鸣禽"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Chat）（英、美、泰）沙（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "chats"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "chats"
+    },
+    {
+      "name": "现在分词",
+      "value": "chatting"
+    },
+    {
+      "name": "过去式",
+      "value": "chatted"
+    },
+    {
+      "name": "过去分词",
+      "value": "chatted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I just called in for a chat.",
+      "zh": "我只是来聊聊天。"
+    },
+    {
+      "en": "I had a long chat with her.",
+      "zh": "我和她闲聊了很久。"
+    },
+    {
+      "en": "I was just phoning up for a chat.",
+      "zh": "我只是打电话聊聊天。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "聊天；闲谈",
+      "words": [
+        "visit with",
+        "chew the fat"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "聊天；闲谈",
+      "words": [
+        "chinwag",
+        "chit-chat"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "word": "save",
+  "found": true,
+  "phonetic_uk": "seɪv",
+  "phonetic_us": "seɪv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=save&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=save&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "救助，搭救；避免，减少；积攒，储蓄；节省（钱、时间或其他资源）；保存，保留；收集；（为某人）保留；（计算机）保存（数据）；使健康长寿，护佑；（足球等）救球，防止对方进球；（棒球）（替补投手） 保持（其他投手取得的领先地位）；（基督教）拯救（某人），使摆脱罪孽"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（足球等守门员的）救球；（棒球）（替补投手） 保持（其他投手取得的领先地位）；（计算机）存储数据"
+    },
+    {
+      "pos": "prep.",
+      "meaning": "<正式> 除……之外"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Save）（法）萨夫，（意、保、西、罗、塞、瑞典）萨薇 （女名），萨韦（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "saves"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "saves"
+    },
+    {
+      "name": "现在分词",
+      "value": "saving"
+    },
+    {
+      "name": "过去式",
+      "value": "saved"
+    },
+    {
+      "name": "过去分词",
+      "value": "saved"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It's too late to save her now.",
+      "zh": "现在来拯救她的生命已为时太晚。"
+    },
+    {
+      "en": "We'll take a cab to save time.",
+      "zh": "我们坐出租车，好节省时间。"
+    },
+    {
+      "en": "We should try to save water.",
+      "zh": "我们应设法节约用水。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "节省；保存；储蓄；解救",
+      "words": [
+        "hold",
+        "economize on"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "节省；挽救；救球",
+      "words": [
+        "economize on",
+        "spare no effort"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "救球，救援",
+      "words": [
+        "succor"
+      ]
+    }
+  ]
+}

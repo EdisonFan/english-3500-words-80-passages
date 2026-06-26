@@ -1,0 +1,64 @@
+{
+  "word": "reproduce",
+  "found": true,
+  "phonetic_uk": "ˌriːprəˈdjuːs",
+  "phonetic_us": "ˌriːprəˈduːs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=reproduce&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=reproduce&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "复制，翻印；模拟；再制造，再现；繁殖，生殖"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "reproduces"
+    },
+    {
+      "name": "现在分词",
+      "value": "reproducing"
+    },
+    {
+      "name": "过去式",
+      "value": "reproduced"
+    },
+    {
+      "name": "过去分词",
+      "value": "reproduced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "These organisms reproduce parthenogenetically.",
+      "zh": "这些生物体通过单性生殖进行繁殖。"
+    },
+    {
+      "en": "Most reptiles reproduce by laying eggs on land.",
+      "zh": "大多数爬行动物通过在陆地产卵进行繁殖。"
+    },
+    {
+      "en": "The movie makes no pretension to reproduce life.",
+      "zh": "这部电影并未标榜重现了真实生活。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "复制；再生；生殖；使…在脑海中重现",
+      "words": [
+        "generate",
+        "repeat"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "复制；繁殖",
+      "words": [
+        "breed",
+        "increase"
+      ]
+    }
+  ]
+}

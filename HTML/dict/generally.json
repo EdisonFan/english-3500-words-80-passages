@@ -1,0 +1,42 @@
+{
+  "word": "generally",
+  "found": true,
+  "phonetic_uk": "ˈdʒen(ə)rəli",
+  "phonetic_us": "ˈdʒen(ə)rəli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=generally&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=generally&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "笼统地，大概；通常，普遍地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The plan was generally welcomed.",
+      "zh": "这个计划受到普遍的欢迎。"
+    },
+    {
+      "en": "I generally get up at six.",
+      "zh": "我一般六点钟起床。"
+    },
+    {
+      "en": "It is now generally accepted that...",
+      "zh": "目前，人们普遍认为…"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "通常；普遍地，一般地",
+      "words": [
+        "usually",
+        "mostly",
+        "commonly",
+        "currently",
+        "normally"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "word": "office",
+  "found": true,
+  "phonetic_uk": "ˈɒfɪs",
+  "phonetic_us": "ˈɑːfɪs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=office&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=office&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "办公室；办公楼，办事处；（提供某项服务的）室，处，局；（尤指政府的）部，局，厅；<美>诊所；（办公室、办公楼、事务所等的）全体办事人员，全体工作人员；重要官职，重要职务；（天主教牧师、教徒等）每日的祈祷 （=Divine Office）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "offices"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Moira bounced into the office.",
+      "zh": "莫伊拉蹦蹦跳跳地走进办公室。"
+    },
+    {
+      "en": "What are your office hours ?",
+      "zh": "你的办公时间是几点到几点？"
+    },
+    {
+      "en": "She's somewhere about the office.",
+      "zh": "她在办公室附近。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[管理]办公室；政府机关；官职；营业处",
+      "words": [
+        "bureaux",
+        "government agency"
+      ]
+    }
+  ]
+}

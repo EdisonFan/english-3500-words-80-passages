@@ -1,0 +1,42 @@
+{
+  "word": "recommends",
+  "found": true,
+  "phonetic_uk": "ˌrekəˈmendz",
+  "phonetic_us": "ˌrekəˈmendz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=recommends&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=recommends&type=2",
+  "defs": [
+    {
+      "pos": "",
+      "meaning": "推荐"
+    },
+    {
+      "pos": "",
+      "meaning": "建议"
+    },
+    {
+      "pos": "",
+      "meaning": "使有优势"
+    },
+    {
+      "pos": "",
+      "meaning": "被推崇的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The report recommends an overhaul of public finances.",
+      "zh": "这份报告建议对公共财政进行彻底检视。"
+    },
+    {
+      "en": "The executive committee recommends that the procedures should satisfy certain basic requirements.",
+      "zh": "执行委员会建议，这些程序应该满足某些基本要求。"
+    },
+    {
+      "en": "Cialdini recommends some careful framing of the message.",
+      "zh": "西奥迪尼建议，在编辑这种信息时要小心。"
+    }
+  ],
+  "synonyms": []
+}

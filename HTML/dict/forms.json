@@ -1,0 +1,51 @@
+{
+  "word": "forms",
+  "found": true,
+  "phonetic_uk": "fɔːmz",
+  "phonetic_us": "fɔːrmz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=forms&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=forms&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "形式，形状；形态，外形；方式；表格（form 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "构成，组成；排列，组织；产生，塑造（form 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Irregular forms are given in parentheses.",
+      "zh": "不规则形式标注在括号内。"
+    },
+    {
+      "en": "The forms should be filed alphabetically.",
+      "zh": "这些表格应该按字母顺序归档。"
+    },
+    {
+      "en": "The disease can take several different forms.",
+      "zh": "这种疾病可能有几种不同的形式。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "表格（form的复数形式）；表单；窗体",
+      "words": [
+        "tables",
+        "tabulations"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "形成（form的第三人称单数）；培养；制作",
+      "words": [
+        "makes",
+        "fosters"
+      ]
+    }
+  ]
+}

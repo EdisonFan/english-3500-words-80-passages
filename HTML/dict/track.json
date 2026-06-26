@@ -1,0 +1,84 @@
+{
+  "word": "track",
+  "found": true,
+  "phonetic_uk": "træk",
+  "phonetic_us": "træk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=track&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=track&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "小道，小径；踪迹，足迹，车辙；（铁路的）轨道；（窗帘、推拉门等的）滑竿，滑轨；<美>（火车站的）站台；赛道，跑道；（移动的）路径，方向；（唱片或光盘等上的）歌曲，曲子；音轨，声道；（推土机等的）履带；径赛运动，田径运动；<美>（同龄学生依智力编排的）班，组；思路，行为方式；<美>（分轨制教育的）课程；（机动车辆轮胎的横向）轮距"
+    },
+    {
+      "pos": "v.",
+      "meaning": "追查，追踪；（尤指用特殊电子设备）跟踪；记录……的进展；跟踪摄影，移动摄影；（录制设备的移动部件）运转正常；<美>把（学生）按能力分班（或组）；<美>留下（脏）足迹；（以某方式或沿某方向）移动；跟随（利率，股价等）；（电子）统调；从岸上拉（独木舟）前进"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "tracks"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "tracks"
+    },
+    {
+      "name": "现在分词",
+      "value": "tracking"
+    },
+    {
+      "name": "过去式",
+      "value": "tracked"
+    },
+    {
+      "name": "过去分词",
+      "value": "tracked"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The train chugs down the track.",
+      "zh": "火车沿着轨道嘎嚓嘎嚓地缓慢行驶着。"
+    },
+    {
+      "en": "The track snaked perilously upwards.",
+      "zh": "这条小道绝险地蜿蜒而上。"
+    },
+    {
+      "en": "She sang on the backing track.",
+      "zh": "她是唱和声的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[铁路]轨道；[古生]足迹，踪迹；小道",
+      "words": [
+        "path",
+        "railway",
+        "tail",
+        "trajectory",
+        "orbit"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "追踪；通过；循路而行；用纤拉",
+      "words": [
+        "clear",
+        "trail"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "追踪；走；留下足迹",
+      "words": [
+        "go",
+        "walk",
+        "step"
+      ]
+    }
+  ]
+}

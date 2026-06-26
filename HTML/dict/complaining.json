@@ -1,0 +1,49 @@
+{
+  "word": "complaining",
+  "found": true,
+  "phonetic_uk": "kəmˈpleɪnɪŋ",
+  "phonetic_us": "kəmˈpleɪnɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=complaining&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=complaining&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "抱怨；（诗、文）悲叹；投诉；（机器因拉力或压力）咯吱作响（complain 的现在分词）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "抱怨的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "For once, Dad is not complaining.",
+      "zh": "就这一次，爸爸没有抱怨。"
+    },
+    {
+      "en": "My first attempts at complaining were kind of tentative.",
+      "zh": "我头几次的投诉尝试都有点儿犹豫。"
+    },
+    {
+      "en": "Hillsden was complaining of a cramp in his calf muscles.",
+      "zh": "希尔斯登一直在抱怨他小腿肌肉抽筋。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "抱怨的",
+      "words": [
+        "querulous"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "抱怨（complain的ing形式）；控诉",
+      "words": [
+        "whining"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "holistic",
+  "found": true,
+  "phonetic_uk": "həˈlɪstɪk",
+  "phonetic_us": "hoʊˈlɪstɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=holistic&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=holistic&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "整体的，全面的；功能整体性的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Many teachers have an intuitive sense that different students have different learning styles. Some are verbal and some are visual; some are linear, and some are holistic.",
+      "zh": "许多老师都有一种直觉，不同的学生有不同的学习风格。有些是语言的，有些是视觉的；有些是线性的，有些是整体的。"
+    },
+    {
+      "en": "The medical world is now paying more attention to holistic medicine which is an approach based on the belief that people state of mind can make them sick or speed their recovery from sickness.",
+      "zh": "医学界现在越来越重视整体医学，这个方法是基于这样的信念，人们的精神状态可以使他们生病或加速他们从疾病中恢复。"
+    },
+    {
+      "en": "Smith says he'll provide services ranging from formal seminars to on-farm work-shops on holistic management, to one-on-one hand-holding and an almost 24/7 phone hotline for farmers who are converting.",
+      "zh": "史密斯说他会提供一系列的服务，从关于整体管理的正式研讨会到农场工作坊，再到体贴周到的一对一服务以及几乎全日无休的热线电话，为正在转型的农民提供帮助。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[生物]整体的；全盘的",
+      "words": [
+        "integral",
+        "wholistic"
+      ]
+    }
+  ]
+}

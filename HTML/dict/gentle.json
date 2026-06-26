@@ -1,0 +1,99 @@
+{
+  "word": "gentle",
+  "found": true,
+  "phonetic_uk": "ˈdʒent(ə)l",
+  "phonetic_us": "ˈdʒent(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=gentle&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=gentle&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "文静的，温柔的；（动作）轻柔的，徐缓的；（坡度）平缓的，不陡的；微热的；<古>出身高贵的，品格高尚的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使（或变）温柔，（使）平静；使驯服"
+    },
+    {
+      "pos": "n.",
+      "meaning": "蛆，饵"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Gentle）（英）金特尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "gentles"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "gentles"
+    },
+    {
+      "name": "现在分词",
+      "value": "gentling"
+    },
+    {
+      "name": "过去式",
+      "value": "gentled"
+    },
+    {
+      "name": "过去分词",
+      "value": "gentled"
+    },
+    {
+      "name": "比较级",
+      "value": "gentler或more gentle"
+    },
+    {
+      "name": "最高级",
+      "value": "gentlest或most gentle"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He was a very gentle boy at heart.",
+      "zh": "他实际上是一个非常温和的男孩。"
+    },
+    {
+      "en": "These poems reveal her gentle side.",
+      "zh": "这些诗显示出她温柔的一面。"
+    },
+    {
+      "en": "This soap is very gentle on the hands.",
+      "zh": "这肥皂擦在手上非常柔和。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "温和的；文雅的",
+      "words": [
+        "pacific",
+        "moderate",
+        "soft",
+        "mild",
+        "temperate"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使温和，使驯服",
+      "words": [
+        "soften",
+        "milden"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "蛆，饵",
+      "words": [
+        "grubworm",
+        "maggot"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "word": "spider",
+  "found": true,
+  "phonetic_uk": "ˈspaɪdə(r)",
+  "phonetic_us": "ˈspaɪdər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=spider&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=spider&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "蜘蛛；（搜索引擎的）蜘蛛程序，（计算机）爬虫程序；状似蜘蛛的物体；<英>蛛网形系索；台球棒三脚架；设圈套者"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（似蜘蛛般）急促爬动；设网，设圈套；（在因特网上）快速搜索（crawl 的别名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "spiders"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "spiders"
+    },
+    {
+      "name": "现在分词",
+      "value": "spidering"
+    },
+    {
+      "name": "过去式",
+      "value": "spidered"
+    },
+    {
+      "name": "过去分词",
+      "value": "spidered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The child stamped on the spider.",
+      "zh": "小孩踩了那只蜘蛛一脚。"
+    },
+    {
+      "en": "A spider had spun a perfect web outside the window.",
+      "zh": "蜘蛛在窗外结了一张完整的网。"
+    },
+    {
+      "en": "The spider must wait for prey to be ensnared on its web.",
+      "zh": "蜘蛛一定要耐心等待，直到猎物被它的蛛网困住。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[无脊椎]蜘蛛；设圈套者；三脚架",
+      "words": [
+        "araneid",
+        "tripod"
+      ]
+    }
+  ]
+}

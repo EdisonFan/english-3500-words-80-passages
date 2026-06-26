@@ -1,0 +1,85 @@
+{
+  "word": "rock",
+  "found": true,
+  "phonetic_uk": "rɒk",
+  "phonetic_us": "rɑːk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=rock&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=rock&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "岩石；礁石；（尤指凸出地面的）岩块，大石块；碎石，石子；<非正式>钻石，宝石；摇滚乐；可信赖的人，靠山；<英>棒棒糖；<非正式>石毒，强效可卡因块；<俚>睾丸（rocks）；轻轻摇动，轻轻摇摆"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）轻轻摇晃，缓缓摆动；（使）剧烈摇摆，猛烈晃动；使震惊，使害怕；<非正式>（尤指自信或惹人注目地）穿（衣）；<非正式>跳摇滚舞，奏摇滚乐；<俚>很好，棒极了"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Rock）（英、德、匈、意、瑞典）罗克（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "rocks"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "rocks"
+    },
+    {
+      "name": "现在分词",
+      "value": "rocking"
+    },
+    {
+      "name": "过去式",
+      "value": "rocked"
+    },
+    {
+      "name": "过去分词",
+      "value": "rocked"
+    }
+  ],
+  "examples": [
+    {
+      "en": "A rock is an inanimate object.",
+      "zh": "岩石是无生命的物体。"
+    },
+    {
+      "en": "The ship hit an uncharted rock.",
+      "zh": "船撞在海图上未标示的岩石上。"
+    },
+    {
+      "en": "The keel hit the rock first.",
+      "zh": "船龙骨先撞到岩石。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[岩]岩石；摇滚乐；暗礁",
+      "words": [
+        "covers",
+        "pena"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "摇动；使摇晃",
+      "words": [
+        "shake",
+        "swing motion"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "摇动；摇晃",
+      "words": [
+        "wave",
+        "roll",
+        "shake"
+      ]
+    }
+  ]
+}

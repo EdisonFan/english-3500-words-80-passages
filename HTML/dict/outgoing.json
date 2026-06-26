@@ -1,0 +1,63 @@
+{
+  "word": "outgoing",
+  "found": true,
+  "phonetic_uk": "ˈaʊtɡəʊɪŋ",
+  "phonetic_us": "ˈaʊtɡoʊɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=outgoing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=outgoing&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "爱交际的，外向的；即将离职的；往外去的，离去的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<英>外出，离开物；<英>日常支出，开销（outgoings）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "超过，优于（outgo 的现在分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She is such a gregarious and outgoing person.",
+      "zh": "她就是这样一个爱社交而且外向的人。"
+    },
+    {
+      "en": "Responsibility and reliability are necessary qualifications, as well as a friendly and outgoing personality.",
+      "zh": "责任感和可靠性是必需的素质，友善和外向的性格也必不可少。"
+    },
+    {
+      "en": "She is quite outgoing.",
+      "zh": "她非常外向。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "外出的；即将离职的；乐于助人的",
+      "words": [
+        "egressive"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "外出；流出；开支",
+      "words": [
+        "issue",
+        "expense",
+        "flux",
+        "going out"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "超过；优于（outgo的ing形式）",
+      "words": [
+        "exceeding"
+      ]
+    }
+  ]
+}

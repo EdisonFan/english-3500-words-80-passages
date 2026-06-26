@@ -1,0 +1,39 @@
+{
+  "word": "always",
+  "found": true,
+  "phonetic_uk": "ˈɔːlweɪz",
+  "phonetic_us": "ˈɔːlweɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=always&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=always&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "总是，每次都是；一直，长久以来；永远；老是，一再；总还有（表示有另一种可能）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Violence is always pointless.",
+      "zh": "暴力总是毫无意义的。"
+    },
+    {
+      "en": "She always looks immaculate.",
+      "zh": "她总是打扮得干净利落。"
+    },
+    {
+      "en": "I'm always being criticized.",
+      "zh": "我总是受到批评。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "永远，一直；总是；常常",
+      "words": [
+        "forever and ever",
+        "immer"
+      ]
+    }
+  ]
+}

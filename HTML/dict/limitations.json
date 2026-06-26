@@ -1,0 +1,40 @@
+{
+  "word": "limitations",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˌlɪmɪˈteɪʃnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=limitations&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=limitations&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "限制，制约；起限制作用的规则（或事实、条件）；局限，缺陷（limitation 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "This technique is useful but it has its limitations.",
+      "zh": "这种技术实用，但也有局限性。"
+    },
+    {
+      "en": "He knows his limitations as a writer.",
+      "zh": "他知道自己作为一个作家的局限性。"
+    },
+    {
+      "en": "\"I felt powerful because I broke through my own limitations,\" she recalls.",
+      "zh": "她回忆道：“我觉得自己很强大，因为我突破了自己的局限。”"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "局限性；（限制）因素；边界（limitation的复数形式）",
+      "words": [
+        "opportunities",
+        "factors",
+        "boundaries"
+      ]
+    }
+  ]
+}

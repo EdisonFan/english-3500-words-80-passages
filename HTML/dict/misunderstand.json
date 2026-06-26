@@ -1,0 +1,56 @@
+{
+  "word": "misunderstand",
+  "found": true,
+  "phonetic_uk": "ˌmɪsʌndəˈstænd",
+  "phonetic_us": "ˌmɪsʌndərˈstænd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=misunderstand&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=misunderstand&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "误解，误会"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "misunderstands"
+    },
+    {
+      "name": "现在分词",
+      "value": "misunderstanding"
+    },
+    {
+      "name": "过去式",
+      "value": "misunderstood"
+    },
+    {
+      "name": "过去分词",
+      "value": "misunderstood"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Don't misunderstand me—I am grateful for all you've done.",
+      "zh": "别误解我的意思—我对你所做的一切都很感激。"
+    },
+    {
+      "en": "Do not misunderstand me.",
+      "zh": "别误会我的意思。"
+    },
+    {
+      "en": "She no longer feared that they should misunderstand her.",
+      "zh": "她不再害怕他们会误解她了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "误解；误会",
+      "words": [
+        "misconstrue",
+        "misread"
+      ]
+    }
+  ]
+}

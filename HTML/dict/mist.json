@@ -1,0 +1,78 @@
+{
+  "word": "mist",
+  "found": true,
+  "phonetic_uk": "mɪst",
+  "phonetic_us": "mɪst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mist&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mist&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "薄雾，水汽；雾状物；使视线模糊的东西；迷雾，难以透彻了解的事物"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使……蒙上雾气；（使）充满泪水；给……喷水；下毛毛细雨"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "mists"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "mists"
+    },
+    {
+      "name": "现在分词",
+      "value": "misting"
+    },
+    {
+      "name": "过去式",
+      "value": "misted"
+    },
+    {
+      "name": "过去分词",
+      "value": "misted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "A milky mist filled the valley.",
+      "zh": "乳白色的薄雾弥漫了山谷。"
+    },
+    {
+      "en": "The city was shrouded in mist.",
+      "zh": "城市笼罩在雾霭之中。"
+    },
+    {
+      "en": "Mist ascended from the valley.",
+      "zh": "薄雾从山谷升起。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[气象]薄雾；视线模糊不清；模糊不清之物",
+      "words": [
+        "gauze"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "下雾；变模糊",
+      "words": [
+        "fog"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使模糊；使蒙上薄雾",
+      "words": [
+        "fog",
+        "obfuscate"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "pollution",
+  "found": true,
+  "phonetic_uk": "pəˈluːʃ(ə)n",
+  "phonetic_us": "pəˈluːʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pollution&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pollution&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "污染；污染物；噪音污染，（夜间扰人的）强烈灯光"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Pollution can aggravate asthma.",
+      "zh": "污染会使气喘加重。"
+    },
+    {
+      "en": "Pollution can harm marine life.",
+      "zh": "污染会危及海洋生物。"
+    },
+    {
+      "en": "We need more laws to stop pollution.",
+      "zh": "我们需要制定更多法律来防止污染。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[环境]污染",
+      "words": [
+        "contamination",
+        "impureness"
+      ]
+    }
+  ]
+}

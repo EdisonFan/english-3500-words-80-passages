@@ -1,0 +1,59 @@
+{
+  "word": "transcend",
+  "found": true,
+  "phonetic_uk": "trænˈsend",
+  "phonetic_us": "trænˈsend",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=transcend&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=transcend&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "超出，超越；胜过（某人），超过（某项成就）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "transcends"
+    },
+    {
+      "name": "现在分词",
+      "value": "transcending"
+    },
+    {
+      "name": "过去式",
+      "value": "transcended"
+    },
+    {
+      "name": "过去分词",
+      "value": "transcended"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Tomorrow we will transcend these as well, and the dreamers will deserve a lot of the credit.",
+      "zh": "明天我们也将超越这些成就，且梦想家们将会得到更多的荣誉。"
+    },
+    {
+      "en": "Baudelaire regarded photography as \"a very humble servant of art and science\"; a medium largely unable to transcend \"external reality\".",
+      "zh": "波德莱尔认为摄影是“艺术和科学的一个非常卑微的仆人”；是一种很大程度上无法超越“外部现实”的媒介。"
+    },
+    {
+      "en": "Both Martin Luther King and John Kennedy appealed to the idea that humans can transcend what were once considered inherent limitations.",
+      "zh": "马丁·路德·金和约翰·肯尼迪都发起呼吁，倡导人类能够超越曾经被认为是固有局限性的观点。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "胜过，超越",
+      "words": [
+        "overcome",
+        "exceed",
+        "top",
+        "cap",
+        "surpass"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "experts",
+  "found": true,
+  "phonetic_uk": "ˈekspɜːts",
+  "phonetic_us": "ˈekspɜːrts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=experts&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=experts&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "专家；人才（expert 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The advice of experts went unheeded.",
+      "zh": "专家的建议未被重视。"
+    },
+    {
+      "en": "Doctors are encouraged to defer to experts.",
+      "zh": "鼓励医生们听从专家的意见。"
+    },
+    {
+      "en": "This is the opinion of the supposed experts.",
+      "zh": "这是所谓专家的看法。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "专家；人才（expert的复数形式）",
+      "words": [
+        "talents",
+        "specialists"
+      ]
+    }
+  ]
+}

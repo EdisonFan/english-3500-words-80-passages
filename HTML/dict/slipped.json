@@ -1,0 +1,34 @@
+{
+  "word": "slipped",
+  "found": true,
+  "phonetic_uk": "slɪpt",
+  "phonetic_us": "slɪpt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=slipped&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=slipped&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "（纹章）（花、叶）茎梗饰的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "滑动（slip 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He slipped and almost fell.",
+      "zh": "他滑了一下，险些跌倒。"
+    },
+    {
+      "en": "His glasses had slipped.",
+      "zh": "他的眼镜滑落了。"
+    },
+    {
+      "en": "He slipped unawares into sleep.",
+      "zh": "他不知不觉地睡着了。"
+    }
+  ],
+  "synonyms": []
+}

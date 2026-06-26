@@ -1,0 +1,47 @@
+{
+  "word": "breaks",
+  "found": true,
+  "phonetic_uk": "breɪks",
+  "phonetic_us": "breɪks",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=breaks&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=breaks&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "地形突变；岩层中之小断层（break 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "破坏；中断（动词 break 的单数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Breaks）人名；（英）布雷克斯"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Many women still take career breaks to bring up children.",
+      "zh": "许多妇女仍然为养育孩子而中断事业。"
+    },
+    {
+      "en": "Pine is brittle and breaks.",
+      "zh": "松木硬脆易折。"
+    },
+    {
+      "en": "It breaks my heart to see you like this.",
+      "zh": "看到你这个样子我很难过。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "破坏；中断（动词break的单数）",
+      "words": [
+        "to damage",
+        "do violence to"
+      ]
+    }
+  ]
+}

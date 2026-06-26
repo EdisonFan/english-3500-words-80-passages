@@ -1,0 +1,34 @@
+{
+  "word": "tones",
+  "found": true,
+  "phonetic_uk": "təʊnz",
+  "phonetic_us": "toʊnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tones&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tones&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "声调；基本音色；色调（tone 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "调节音调（tone 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The men spoke in soft, measured tones.",
+      "zh": "这些人说话的语气轻柔，语调平和。"
+    },
+    {
+      "en": "His gentle manner and honeyed tones reassured Andrew.",
+      "zh": "他温和的态度和甜蜜的语调消除了安德鲁的疑虑。"
+    },
+    {
+      "en": "His name was always mentioned in almost reverential tones.",
+      "zh": "人们每次提起他的名字，语调中几乎总是充满了敬意。"
+    }
+  ],
+  "synonyms": []
+}

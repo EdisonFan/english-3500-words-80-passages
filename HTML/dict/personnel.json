@@ -1,0 +1,43 @@
+{
+  "word": "personnel",
+  "found": true,
+  "phonetic_uk": "ˌpɜːsəˈnel",
+  "phonetic_us": "ˌpɜːrsəˈnel",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=personnel&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=personnel&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（公司、组织或军队中的）全体人员，员工；人事部门"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "人员的，有关人事的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Her first job was in personnel.",
+      "zh": "她的第一份工作是在人事部。"
+    },
+    {
+      "en": "She works in personnel.",
+      "zh": "她在人事部工作。"
+    },
+    {
+      "en": "I looked your address up in the personnel file.",
+      "zh": "我从人事档案里查到了你的地址。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "人事部门；全体人员",
+      "words": [
+        "crew",
+        "Personnel Department"
+      ]
+    }
+  ]
+}

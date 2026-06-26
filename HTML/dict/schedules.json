@@ -1,0 +1,42 @@
+{
+  "word": "schedules",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=schedules&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=schedules&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "时间表；日程安排（schedule 的复数形式）；待办事项"
+    },
+    {
+      "pos": "v.",
+      "meaning": "安排；预定；编制目录（schedule 的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Schedules will be sent out to all exhibitors.",
+      "zh": "日程安排将会发送给所有的参展者。"
+    },
+    {
+      "en": "The weather played havoc with airline schedules.",
+      "zh": "天气状况打乱了航空公司的时刻表。"
+    },
+    {
+      "en": "The channel's schedules are filled with old films and repeats.",
+      "zh": "这个频道安排的尽是老电影和重播节目。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "安排；预定；编制目录（schedule的三单形式）",
+      "words": [
+        "gears"
+      ]
+    }
+  ]
+}

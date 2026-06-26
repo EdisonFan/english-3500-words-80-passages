@@ -1,0 +1,42 @@
+{
+  "word": "bushes",
+  "found": true,
+  "phonetic_uk": "bʊʃɪz",
+  "phonetic_us": "bʊʃɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bushes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bushes&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "<美，俚>乡村，小镇（the bushes）；灌木，灌木丛；衬套；绝缘套管（bush 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "蓬松；伸展，丛生；以灌木装饰（bush 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We hacked away at the bushes.",
+      "zh": "我们劈开灌木丛。"
+    },
+    {
+      "en": "We were crouching in the bushes.",
+      "zh": "我们那时正蹲伏在灌木丛中。"
+    },
+    {
+      "en": "These bushes are fairly recent plantings.",
+      "zh": "这些灌木丛是最近栽植的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "灌木；丛林地带；小城镇（bush的复数）",
+      "words": [
+        "shrubs"
+      ]
+    }
+  ]
+}

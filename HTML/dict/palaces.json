@@ -1,0 +1,39 @@
+{
+  "word": "palaces",
+  "found": true,
+  "phonetic_uk": "ˈpæləs",
+  "phonetic_us": "ˈpæləs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=palaces&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=palaces&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "王宫，（官位极高者的）府邸；住在王宫里的人，王室（the Palace）；大厦，豪宅"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "王宫的，（总统）官邸的；与政府人员有关的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "palaces"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Huge palaces were built by slave labour.",
+      "zh": "宏伟的宫殿是奴隶建成的。"
+    },
+    {
+      "en": "He plundered the palaces and ransacked the treasuries.",
+      "zh": "他洗劫了各个宫殿，将那些财宝掠夺一空。"
+    },
+    {
+      "en": "The public could go into the palaces.",
+      "zh": "公众可以进入宫殿。"
+    }
+  ],
+  "synonyms": []
+}

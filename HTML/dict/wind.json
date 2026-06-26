@@ -1,0 +1,87 @@
+{
+  "word": "wind",
+  "found": true,
+  "phonetic_uk": "wɪnd",
+  "phonetic_us": "wɪnd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=wind&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=wind&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "风，气流；风向，逼近的形势；呼吸，呼吸能力；肠胃气胀；管乐器，吹奏乐器；大话，空谈；放屁；弯，弯曲处；一圈，一转；（给钟表）上发条；（由风带来，表明附近有动物、人存在的）气味"
+    },
+    {
+      "pos": "v.",
+      "meaning": "弯曲前进，蜿蜒而行；卷缠，缠绕，绕成团；卷绕（磁带等）；给（钟、表）上发条；转动（把手）；（用辘轳、绞车等）吊起（某物）；使喘不过气来，使喘大气；给（婴儿）拍嗝儿； 嗅出（人，动物）的气味；<文>吹（号角，哨子）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "管乐的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Wind）（英、德、瑞典）温德（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "winds"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "winds"
+    },
+    {
+      "name": "现在分词",
+      "value": "winding"
+    },
+    {
+      "name": "过去式",
+      "value": "winded或wound"
+    },
+    {
+      "name": "过去分词",
+      "value": "winded或wound"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The wind will freshen tonight.",
+      "zh": "今夜风力将加大，气温下降。"
+    },
+    {
+      "en": "Wind speeds reached force five.",
+      "zh": "风速达到了5级。"
+    },
+    {
+      "en": "The wind has changed direction.",
+      "zh": "风向已经变了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "缠绕；上发条；使弯曲；吹号角；��住或缠住某人",
+      "words": [
+        "curve",
+        "enwind"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "缠绕；上发条；吹响号角",
+      "words": [
+        "wrap"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[气象]风；呼吸；气味；卷绕",
+      "words": [
+        "breath",
+        "smell"
+      ]
+    }
+  ]
+}

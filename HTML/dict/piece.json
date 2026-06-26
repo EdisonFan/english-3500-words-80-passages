@@ -1,0 +1,72 @@
+{
+  "word": "piece",
+  "found": true,
+  "phonetic_uk": "piːs",
+  "phonetic_us": "piːs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=piece&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=piece&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "块，张，片，段；碎片，零件；（成套物品的）部件，部分；（艺术、音乐、戏剧、文学的）一部作品；（报道、新闻、广播的）一篇；份额，一份股权；桩，项，条，件； 一点；（土地的）一块；一段距离；硬币；枪；<非正式>女人；<苏格兰>（三明治等）小吃"
+    },
+    {
+      "pos": "v.",
+      "meaning": "拼合，拼装；慢慢理解"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "pieces"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "pieces"
+    },
+    {
+      "name": "现在分词",
+      "value": "piecing"
+    },
+    {
+      "name": "过去式",
+      "value": "pieced"
+    },
+    {
+      "name": "过去分词",
+      "value": "pieced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I never found the missing piece.",
+      "zh": "我一直没找到丢了的那件。"
+    },
+    {
+      "en": "The houses are all of a piece.",
+      "zh": "这些房子千篇一律。"
+    },
+    {
+      "en": "Isn't that a piece of luck ?",
+      "zh": "那难道不是有点运气？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计]块；件；篇；硬币",
+      "words": [
+        "block",
+        "mass"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "修补；接合；凑合",
+      "words": [
+        "cement",
+        "joint"
+      ]
+    }
+  ]
+}

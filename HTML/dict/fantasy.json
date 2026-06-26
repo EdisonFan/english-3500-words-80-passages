@@ -1,0 +1,80 @@
+{
+  "word": "fantasy",
+  "found": true,
+  "phonetic_uk": "ˈfæntəsi",
+  "phonetic_us": "ˈfæntəsi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fantasy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fantasy&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "幻想，想象；想象产物，幻想作品；虚拟比赛（游戏）；幻想曲，集成曲；期望"
+    },
+    {
+      "pos": "v.",
+      "meaning": "想象，幻想"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "fantasies"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "fantasies"
+    },
+    {
+      "name": "现在分词",
+      "value": "fantasying"
+    },
+    {
+      "name": "过去式",
+      "value": "fantasied"
+    },
+    {
+      "name": "过去分词",
+      "value": "fantasied"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He retreated into a world of fantasy.",
+      "zh": "他遁入了幻想世界。"
+    },
+    {
+      "en": "The story is a magical mix of fantasy and reality.",
+      "zh": "这个故事是一个幻想与现实的奇妙组合。"
+    },
+    {
+      "en": "Enough of fantasy, the workaday world awaited him.",
+      "zh": "幻想之后，等待他的是平凡的现世。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[心理]幻想；白日梦；幻觉",
+      "words": [
+        "fancy",
+        "illusion"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "虚幻的",
+      "words": [
+        "visional"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "空想；想像",
+      "words": [
+        "imagine",
+        "picture",
+        "think of"
+      ]
+    }
+  ]
+}

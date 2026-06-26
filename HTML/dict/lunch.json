@@ -1,0 +1,64 @@
+{
+  "word": "lunch",
+  "found": true,
+  "phonetic_uk": "lʌntʃ",
+  "phonetic_us": "lʌntʃ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=lunch&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=lunch&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "午餐，午饭"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<正式>（尤指在餐馆）用午餐；请（人）吃午餐"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "lunches"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "lunches"
+    },
+    {
+      "name": "现在分词",
+      "value": "lunching"
+    },
+    {
+      "name": "过去式",
+      "value": "lunched"
+    },
+    {
+      "name": "过去分词",
+      "value": "lunched"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The court adjourned for lunch.",
+      "zh": "午餐时间法庭休庭。"
+    },
+    {
+      "en": "Lunch was a leisurely affair.",
+      "zh": "吃午餐曾是一件从容的事。"
+    },
+    {
+      "en": "When's lunch? I'm famished!",
+      "zh": "什么时候吃午饭？我饿得要死了！"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "午餐",
+      "words": [
+        "dejeuner",
+        "Mittagessen"
+      ]
+    }
+  ]
+}

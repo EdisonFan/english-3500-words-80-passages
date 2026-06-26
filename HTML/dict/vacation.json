@@ -1,0 +1,71 @@
+{
+  "word": "vacation",
+  "found": true,
+  "phonetic_uk": "veɪˈkeɪʃ(ə)n",
+  "phonetic_us": "veɪˈkeɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=vacation&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=vacation&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（学校的）假期，（法院的）休庭期；<美>休假，假期；腾出，辞去"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<美>度假"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "vacations"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "vacations"
+    },
+    {
+      "name": "现在分词",
+      "value": "vacationing"
+    },
+    {
+      "name": "过去式",
+      "value": "vacationed"
+    },
+    {
+      "name": "过去分词",
+      "value": "vacationed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We're going to the beach for vacation.",
+      "zh": "我们要去海滨度假。"
+    },
+    {
+      "en": "They're on vacation in Hawaii right now.",
+      "zh": "他们此时正在夏威夷度假。"
+    },
+    {
+      "en": "The job includes two weeks' paid vacation.",
+      "zh": "这份工作包括两周的带薪假期。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "假期；（房屋）搬出",
+      "words": [
+        "hols"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "休假，度假",
+      "words": [
+        "have a holiday",
+        "take time off from sth."
+      ]
+    }
+  ]
+}

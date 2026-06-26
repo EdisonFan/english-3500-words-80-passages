@@ -1,0 +1,56 @@
+{
+  "word": "resident",
+  "found": true,
+  "phonetic_uk": "ˈrezɪdənt",
+  "phonetic_us": "ˈrezɪdənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=resident&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=resident&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "居民，住户；（旅馆的）住宿者；<美>住院医生；<美> 寄宿制学校学生；<史>（英国政府派驻半独立国家的） 特派代表；驻外特工；留鸟，无迁徙习性的蝴蝶（或其他动物）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "（在某地）居住的，居留的；常驻的；属于（某个群体）的；（鸟、蝴蝶等）非迁徙性的；（计算机程序、文件等在存储器中）驻留的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "residents"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Local resident groups have united in opposition to the plan.",
+      "zh": "当地居民团体已联合起来反对这项计划。"
+    },
+    {
+      "en": "They cover preventative care for the local resident.",
+      "zh": "他们为当地居民提供预防保健服务。"
+    },
+    {
+      "en": "And involving the future resident in the process can be very important.",
+      "zh": "让未来的居民参与进来是非常重要的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "居住的；住院医师；定居的",
+      "words": [
+        "stationary"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "居民",
+      "words": [
+        "liver",
+        "dweller",
+        "inhabitant"
+      ]
+    }
+  ]
+}

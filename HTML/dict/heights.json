@@ -1,0 +1,39 @@
+{
+  "word": "heights",
+  "found": true,
+  "phonetic_uk": "ˈhaɪts",
+  "phonetic_us": "haɪts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=heights&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=heights&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "高地；高度；高处（height 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The table is available in several different heights.",
+      "zh": "这款桌子有几种不同的高度供选择。"
+    },
+    {
+      "en": "He was terrified of heights.",
+      "zh": "他过去恐高。"
+    },
+    {
+      "en": "I'm not afraid of heights.",
+      "zh": "我不恐高。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "高地；高度；高处（height的复数）",
+      "words": [
+        "raises",
+        "uplands"
+      ]
+    }
+  ]
+}

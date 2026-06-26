@@ -1,0 +1,45 @@
+{
+  "word": "embracing",
+  "found": true,
+  "phonetic_uk": "ɪmˈbreɪsɪŋ",
+  "phonetic_us": "ɪmˈbreɪsɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=embracing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=embracing&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "拥抱；包含（embrace 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "His hospitality was instantaneous and all-embracing.",
+      "zh": "他的款待及时而周到。"
+    },
+    {
+      "en": "I intend to use these terms in a deliberately nonspecific and all-embracing way.",
+      "zh": "我意欲含糊笼统地使用这些词汇。"
+    },
+    {
+      "en": "They end up embracing a different error.",
+      "zh": "他们最终接受了另一种错误。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "拥抱",
+      "words": [
+        "hug"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "拥��，包含（embrace的现在分词形式）",
+      "words": [
+        "containing"
+      ]
+    }
+  ]
+}

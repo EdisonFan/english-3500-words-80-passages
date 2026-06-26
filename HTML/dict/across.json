@@ -1,0 +1,49 @@
+{
+  "word": "across",
+  "found": true,
+  "phonetic_uk": "əˈkrɒs",
+  "phonetic_us": "əˈkrɔːs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=across&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=across&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "从一边到另一边；在……对面；朝，向；宽；横向字谜答案"
+    },
+    {
+      "pos": "prep.",
+      "meaning": "从一边到另一边；横过，穿过；在……对面；遍及；在……上；跨越（政治、宗教、社会隔阂等）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Clouds drifted across the sky.",
+      "zh": "朵朵浮云在空中飘过。"
+    },
+    {
+      "en": "They fled across the border.",
+      "zh": "他们越过边界逃走了。"
+    },
+    {
+      "en": "He stepped across the threshold.",
+      "zh": "他迈过门槛。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "prep.",
+      "meaning": "穿过；横穿",
+      "words": [
+        "through"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "横过；在对面",
+      "words": [
+        "opposite"
+      ]
+    }
+  ]
+}

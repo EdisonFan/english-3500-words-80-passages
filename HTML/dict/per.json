@@ -1,0 +1,51 @@
+{
+  "word": "per",
+  "found": true,
+  "phonetic_uk": "pə(r)",
+  "phonetic_us": "pər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=per&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=per&type=2",
+  "defs": [
+    {
+      "pos": "prep.",
+      "meaning": "每，每一；按照，根据；<古>经；（纹章）依……的方向"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "每，每个"
+    },
+    {
+      "pos": "abbr.",
+      "meaning": "人（person）；时期（period）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 (Per)（挪、瑞、丹）佩尔（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The price is $40 per person.",
+      "zh": "价格为每人40元。"
+    },
+    {
+      "en": "The meat ration was down to one pound per person per week.",
+      "zh": "肉类的配给量降到了每人每周一磅。"
+    },
+    {
+      "en": "We averaged 42 miles per hour.",
+      "zh": "我们平均时速为42英里。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "prep.",
+      "meaning": "每；经；按照；每一",
+      "words": [
+        "in accordance",
+        "in the light of"
+      ]
+    }
+  ]
+}

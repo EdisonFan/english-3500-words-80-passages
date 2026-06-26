@@ -1,0 +1,55 @@
+{
+  "word": "arrow",
+  "found": true,
+  "phonetic_uk": "ˈærəʊ",
+  "phonetic_us": "ˈæroʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=arrow&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=arrow&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "箭，矢；箭头，箭号"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Arrow）（英）阿罗（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "arrows"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "arrows"
+    },
+    {
+      "name": "现在分词",
+      "value": "arrowing"
+    },
+    {
+      "name": "过去式",
+      "value": "arrowed"
+    },
+    {
+      "name": "过去分词",
+      "value": "arrowed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The arrow pierced his shoulder.",
+      "zh": "箭头射入他的肩膀。"
+    },
+    {
+      "en": "An arrow pointed to the toilets.",
+      "zh": "一个箭头指向了厕所。"
+    },
+    {
+      "en": "She fired an arrow at the target.",
+      "zh": "她瞄准靶子射箭。"
+    }
+  ],
+  "synonyms": []
+}

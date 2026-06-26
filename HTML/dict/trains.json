@@ -1,0 +1,49 @@
+{
+  "word": "trains",
+  "found": true,
+  "phonetic_uk": "treɪnz",
+  "phonetic_us": "treɪnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=trains&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=trains&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[铁路]火车；行列（train 的复数形式）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "训练；受教育（train 的第三人称单数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He trains the Olympic team.",
+      "zh": "他训练奥林匹克队。"
+    },
+    {
+      "en": "Trains leave at hourly intervals.",
+      "zh": "火车每隔一小时发出一列。"
+    },
+    {
+      "en": "Modern trains have automatic doors.",
+      "zh": "现代火车都有自动门。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "火车；行列（train的复数形式）",
+      "words": [
+        "queues"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "训练；受教育（train的第三人称单数形式）",
+      "words": [
+        "coaches"
+      ]
+    }
+  ]
+}

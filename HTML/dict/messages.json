@@ -1,0 +1,42 @@
+{
+  "word": "messages",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˈmesɪdʒɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=messages&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=messages&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[计][通信]信息，留言板（message 的复数形式）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "作文电发出；用文电通知（message 的第三人称单数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "There were four messages in my inbox.",
+      "zh": "我的收件箱里有四封邮件。"
+    },
+    {
+      "en": "It is illegal to intercept radio messages.",
+      "zh": "窃听无线电信息是违法的。"
+    },
+    {
+      "en": "There were no messages for me at the hotel.",
+      "zh": "旅馆里没有给我的留言。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "信息，留言板（message的复数形式）",
+      "words": [
+        "informations"
+      ]
+    }
+  ]
+}

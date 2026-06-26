@@ -1,0 +1,43 @@
+{
+  "word": "baked",
+  "found": true,
+  "phonetic_uk": "beɪkt",
+  "phonetic_us": "beɪkt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=baked&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=baked&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "（食物）烤（熟）的；（非正式）醉酒的，（因吸毒）极度兴奋的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（在烤炉里）烘烤；（将某物）烤硬；（变得）灼热；（太阳或其他力量）晒；（非正式）（人）长时间在太阳下晒（bake 的过去式及过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I baked a batch of cookies.",
+      "zh": "我烤了一批小甜饼。"
+    },
+    {
+      "en": "All main courses are served with chips or baked potato.",
+      "zh": "所有的主菜都配有炸土豆条或烤土豆。"
+    },
+    {
+      "en": "The sun baked down on the concrete, unrelieved by any breeze.",
+      "zh": "太阳炙烤着水泥，清风并不能降低热度。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "烤的；烘焙的",
+      "words": [
+        "roasted",
+        "grilled"
+      ]
+    }
+  ]
+}

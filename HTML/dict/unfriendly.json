@@ -1,0 +1,52 @@
+{
+  "word": "unfriendly",
+  "found": true,
+  "phonetic_uk": "ʌnˈfrendli",
+  "phonetic_us": "ʌnˈfrendli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=unfriendly&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=unfriendly&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "不友好的；不利的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "不友善地"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "unfriendlier或more unfriendly"
+    },
+    {
+      "name": "最高级",
+      "value": "unfriendliest或most unfriendly"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Some people were unfriendly to the new recruit.",
+      "zh": "一些人对新成员不友好。"
+    },
+    {
+      "en": "She has a very formal manner, which can seem unfriendly.",
+      "zh": "她的举止很是郑重其事，有可能会显得不友好。"
+    },
+    {
+      "en": "People always complain that the big banks and big companies are unfriendly and unhelpful.",
+      "zh": "人们总抱怨大银行和大公司不友好，也不愿帮助人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "不友好的；不利的",
+      "words": [
+        "adverse",
+        "against"
+      ]
+    }
+  ]
+}

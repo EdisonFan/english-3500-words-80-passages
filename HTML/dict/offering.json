@@ -1,0 +1,55 @@
+{
+  "word": "offering",
+  "found": true,
+  "phonetic_uk": "ˈɒfərɪŋ",
+  "phonetic_us": "ˈɔːfərɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=offering&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=offering&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（供娱乐或出售的）产品；新近完成的艺术作品；礼品，礼物；供品，祭品；供奉，奉献；（给教会的）捐助，捐赠物（尤指捐款）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "提供，给予；提议，表示愿意（做某事）；出（价），开（价）（offer 的现在分词形式）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "offerings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They wooed customers by offering low interest rates.",
+      "zh": "他们通过提供低利率来争取顾客。"
+    },
+    {
+      "en": "We take pride in offering you the highest standards.",
+      "zh": "我们以向您提供最高标准的服务而自豪。"
+    },
+    {
+      "en": "The number of companies offering them work increased.",
+      "zh": "给他们提供工作的公司的数量增多了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "提供；祭品；奉献物；牲礼",
+      "words": [
+        "sacrifice",
+        "oblation"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "提供（offer的ing形式）",
+      "words": [
+        "lending"
+      ]
+    }
+  ]
+}

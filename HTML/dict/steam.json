@@ -1,0 +1,72 @@
+{
+  "word": "steam",
+  "found": true,
+  "phonetic_uk": "stiːm",
+  "phonetic_us": "stiːm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=steam&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=steam&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "蒸汽，水蒸气；水汽，雾气；蒸汽动力（压力）；力量，势头；蒸汽机车"
+    },
+    {
+      "pos": "v.",
+      "meaning": "散发蒸汽，冒热气；蒸（食物）；（以蒸汽为动力）行驶；快速行走，疾行；（使）蒙上水汽；蒸汽洗涤，蒸汽处理；用蒸汽软化（尤指胶水）；<英，非正式>开始战斗，投入战斗；<非正式>（一群贼）（在匆忙通过公共场所时）顺路盗窃（或抢劫）；用蒸汽开动（机车）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "蒸汽的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "steams"
+    },
+    {
+      "name": "现在分词",
+      "value": "steaming"
+    },
+    {
+      "name": "过去式",
+      "value": "steamed"
+    },
+    {
+      "name": "过去分词",
+      "value": "steamed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Who invented the steam engine?",
+      "zh": "谁发明了蒸汽机？"
+    },
+    {
+      "en": "Steam had clouded the mirror.",
+      "zh": "水蒸气使镜子变得模糊不清。"
+    },
+    {
+      "en": "Steam rose from the boiling kettle.",
+      "zh": "壶里的水开了，冒着蒸汽。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "蒸，散发；用蒸汽处理",
+      "words": [
+        "shed"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "蒸汽；精力",
+      "words": [
+        "energy",
+        "vigor",
+        "vapor"
+      ]
+    }
+  ]
+}

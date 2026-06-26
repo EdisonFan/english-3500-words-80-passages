@@ -1,0 +1,61 @@
+{
+  "word": "due",
+  "found": true,
+  "phonetic_uk": "djuː",
+  "phonetic_us": "duː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=due&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=due&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "到期的，预期的；应有的，应得的；应付的，应给的；适当的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "正对着"
+    },
+    {
+      "pos": "n.",
+      "meaning": "应得，所得；会费"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Due）迪尤（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The accident was due to excessive speed.",
+      "zh": "事故的原因在于速度过快。"
+    },
+    {
+      "en": "Many accidents were due to pilot misjudgment.",
+      "zh": "许多事故都是由于飞行员判断失误造成的。"
+    },
+    {
+      "en": "She's due for promotion soon.",
+      "zh": "她很快该晋升了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "到期的；预期的；应付的；应得的",
+      "words": [
+        "expected",
+        "mature",
+        "just",
+        "payable",
+        "prospective"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "正（置于方位词前）",
+      "words": [
+        "plumb"
+      ]
+    }
+  ]
+}

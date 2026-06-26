@@ -1,0 +1,42 @@
+{
+  "word": "woke",
+  "found": true,
+  "phonetic_uk": "wəʊk",
+  "phonetic_us": "woʊk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=woke&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=woke&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "唤醒；激发；使…复活（wake的过去式）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "（美）警觉的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He woke up soaked with sweat.",
+      "zh": "他醒了，浑身大汗淋漓。"
+    },
+    {
+      "en": "I woke up early this morning.",
+      "zh": "我今天早上醒得早。"
+    },
+    {
+      "en": "She slept deeply but woke early.",
+      "zh": "她睡得很熟，但醒得也早。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "唤醒；激发；使…复活（wake的过去式）",
+      "words": [
+        "awakened"
+      ]
+    }
+  ]
+}

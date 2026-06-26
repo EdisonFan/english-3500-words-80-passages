@@ -1,0 +1,81 @@
+{
+  "word": "watch",
+  "found": true,
+  "phonetic_uk": "wɒtʃ",
+  "phonetic_us": "wɑːtʃ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=watch&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=watch&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "看，注视；观看（电视节目、比赛等）；关注；照看，守护；当心，留意；监视"
+    },
+    {
+      "pos": "n.",
+      "meaning": "表，手表；观察，监视； 警卫队，治安队；警戒时间，（警卫或治安队等的）值班时间；<史>巡夜人，巡夜队（the watch）；<罕>一群夜莺；（某人的）管理期；<美>（官方）天气预警，天气警报"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "watches"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "watches"
+    },
+    {
+      "name": "现在分词",
+      "value": "watching"
+    },
+    {
+      "name": "过去式",
+      "value": "watched"
+    },
+    {
+      "name": "过去分词",
+      "value": "watched"
+    }
+  ],
+  "examples": [
+    {
+      "en": "My watch keeps going wrong.",
+      "zh": "我的表不断地出毛病。"
+    },
+    {
+      "en": "He glanced at his watch.",
+      "zh": "他看了一下手表。"
+    },
+    {
+      "en": "They watch too much TV.",
+      "zh": "他们看电视看得太多了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "观察；注视；看守；警戒",
+      "words": [
+        "protect",
+        "look into"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "手表；监视；守护；值班人",
+      "words": [
+        "observation",
+        "monitoring",
+        "surveillance"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "观看，注视；守侯，看守",
+      "words": [
+        "sight",
+        "regard"
+      ]
+    }
+  ]
+}

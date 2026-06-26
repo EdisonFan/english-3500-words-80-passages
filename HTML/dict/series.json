@@ -1,0 +1,44 @@
+{
+  "word": "series",
+  "found": true,
+  "phonetic_uk": "ˈsɪəriːz",
+  "phonetic_us": "ˈsɪriːz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=series&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=series&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "连续，一系列（事件）；（电视、广播等的）系列片，系列节目；丛书，系列出版物；（两队之间的）系列比赛；（电路的）串联；（同时发行的）一套邮票（或货币、硬币）；（由某一公司推出的）系列产品，（尤指）汽车系列；（年代地层学用语）统；（元素的）系；级数，序列项的总和；有共同特征的一组语音，系列（音）；音列"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "series"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Her new series is a smash hit.",
+      "zh": "她的新系列节目极为成功，引起轰动。"
+    },
+    {
+      "en": "Her new series is compulsive viewing.",
+      "zh": "她的新系列节目引人入胜。"
+    },
+    {
+      "en": "'Is it a new series?' 'No, a repeat'.",
+      "zh": "“这是新播出的连续剧吗？”“不，是重播的。”"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "系列，连续；[电]串联；[数]级数；丛书",
+      "words": [
+        "succession",
+        "progression"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "word": "street",
+  "found": true,
+  "phonetic_uk": "striːt",
+  "phonetic_us": "striːt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=street&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=street&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "街道"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "streets"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He lived at 66 Bingfield Street.",
+      "zh": "他住在宾菲尔德街66号。"
+    },
+    {
+      "en": "She came galloping down the street.",
+      "zh": "她沿街飞奔而来。"
+    },
+    {
+      "en": "Pedro walked along the street alone.",
+      "zh": "佩德罗独自一人沿着这条街走。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[公路]街道",
+      "words": [
+        "row",
+        "calle",
+        "treet",
+        "public thoroughfare"
+      ]
+    }
+  ]
+}

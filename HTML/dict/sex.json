@@ -1,0 +1,64 @@
+{
+  "word": "sex",
+  "found": true,
+  "phonetic_uk": "seks",
+  "phonetic_us": "seks",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sex&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sex&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "性行为，性交；性，性别；雄性，雌性；性器官（用于小说中避免更粗俗或更露骨的措词）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "辨别......的性别，辨识......的雌雄；<非正式> 引起……的性欲"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "sexes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "sexes"
+    },
+    {
+      "name": "现在分词",
+      "value": "sexing"
+    },
+    {
+      "name": "过去式",
+      "value": "sexed"
+    },
+    {
+      "name": "过去分词",
+      "value": "sexed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His voice oozed with sex appeal.",
+      "zh": "他的声音充溢着性感。"
+    },
+    {
+      "en": "My sex life is my business.",
+      "zh": "我的性生活是我的私事。"
+    },
+    {
+      "en": "He was very open in his attitudes about sex.",
+      "zh": "他对性的态度很开放。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[生物]性；[胚]性别；性行为；色情",
+      "words": [
+        "gender",
+        "sexuality"
+      ]
+    }
+  ]
+}

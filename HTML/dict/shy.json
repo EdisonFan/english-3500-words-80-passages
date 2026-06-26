@@ -1,0 +1,97 @@
+{
+  "word": "shy",
+  "found": true,
+  "phonetic_uk": "ʃaɪ",
+  "phonetic_us": "ʃaɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=shy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=shy&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "害羞的，腼腆的；显得腼腆的，看着羞怯的；（动物）易受惊的，胆小的；犹豫的，有所顾忌的；躲避（或不喜欢）……的；不足的，缺乏的；在……之前（shy of）；（植物）开花不多的，结果很少的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（尤指马）惊退，惊逸；（由于紧张或缺乏信心而）回避，避开（shy from）； 投掷，扔；突然投出"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（尤指马的）惊退，惊逸；投掷，扔；<英> 以球打落椰子的游戏"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Shy）（英）夏伊（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "shies"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "shies"
+    },
+    {
+      "name": "现在分词",
+      "value": "shying"
+    },
+    {
+      "name": "过去式",
+      "value": "shied"
+    },
+    {
+      "name": "过去分词",
+      "value": "shied"
+    },
+    {
+      "name": "比较级",
+      "value": "shyer"
+    },
+    {
+      "name": "最高级",
+      "value": "shyest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Their son was painfully shy.",
+      "zh": "他们的儿子非常害羞。"
+    },
+    {
+      "en": "He was a shy, sometimes unhappy man.",
+      "zh": "他是一个害羞、有时不快乐的人。"
+    },
+    {
+      "en": "She was quiet and shy.",
+      "zh": "她文静而又腼腆。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "害羞的；畏缩的，胆怯的",
+      "words": [
+        "chicken",
+        "blate"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "投；畏缩；惊退；厌恶",
+      "words": [
+        "cast",
+        "recoil from"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "投；乱掷",
+      "words": [
+        "throw",
+        "cast",
+        "pitch"
+      ]
+    }
+  ]
+}

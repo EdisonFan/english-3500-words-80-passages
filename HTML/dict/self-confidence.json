@@ -1,0 +1,39 @@
+{
+  "word": "self-confidence",
+  "found": true,
+  "phonetic_uk": "ˌself ˈkɒnfɪdəns",
+  "phonetic_us": "ˌself ˈkɑːnfɪdəns",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=self-confidence&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=self-confidence&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "自信"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He has no self-confidence.",
+      "zh": "他毫无自信。"
+    },
+    {
+      "en": "He radiated self-confidence and optimism.",
+      "zh": "他显得自信乐观。"
+    },
+    {
+      "en": "I seem to have lost all my self-confidence.",
+      "zh": "我好像已经丧失了所有的自信。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "自信",
+      "words": [
+        "assertiveness",
+        "assuredness"
+      ]
+    }
+  ]
+}

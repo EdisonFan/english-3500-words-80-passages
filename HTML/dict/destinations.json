@@ -1,0 +1,38 @@
+{
+  "word": "destinations",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=destinations&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=destinations&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "目的地，终点；抵达站（destination 的复数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Today's special offer gives you a choice of three destinations.",
+      "zh": "今天的特惠为您提供3个可选目的地。"
+    },
+    {
+      "en": "Venice is one of the hottest tourist destinations in the world.",
+      "zh": "威尼斯是世界上最热门的旅游目的地之一。"
+    },
+    {
+      "en": "Mount Asgard and Thor Peak are dream destinations for rock climbers.",
+      "zh": "阿斯加德山和托尔峰是攀岩者的梦想目的地。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "目的地，终点；抵达站（destination的复数形式）",
+      "words": [
+        "termini"
+      ]
+    }
+  ]
+}

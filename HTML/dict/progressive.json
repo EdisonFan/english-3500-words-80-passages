@@ -1,0 +1,56 @@
+{
+  "word": "progressive",
+  "found": true,
+  "phonetic_uk": "prəˈɡresɪv",
+  "phonetic_us": "prəˈɡresɪv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=progressive&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=progressive&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "进步的，先进的；逐步发生的，逐步发展的；向前移动的；（音乐）现代的，新潮的；（税制，税种）累进的；（动词）进行式的；（纸牌游戏，舞蹈）搭档轮换的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "进步分子，改革派人士；进行时（或体）；（印刷）分色打样"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "progressives"
+    },
+    {
+      "name": "比较级",
+      "value": "more progressive"
+    },
+    {
+      "name": "最高级",
+      "value": "most progressive"
+    }
+  ],
+  "examples": [
+    {
+      "en": "One prominent symptom of the disease is progressive loss of memory.",
+      "zh": "这种病的一个突出症状是记忆的逐步丧失。"
+    },
+    {
+      "en": "Willan was able to point to the progressive changes he had already introduced.",
+      "zh": "威兰能够指出他已经带来的有进步意义的变化。"
+    },
+    {
+      "en": "Halsey was identified as a leading proponent of the values of progressive education.",
+      "zh": "哈尔西被认为是进步教育价值观的首要支持者。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[数]进步的；先进的",
+      "words": [
+        "advanced",
+        "ascensive"
+      ]
+    }
+  ]
+}

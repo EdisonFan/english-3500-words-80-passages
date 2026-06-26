@@ -1,0 +1,51 @@
+{
+  "word": "costs",
+  "found": true,
+  "phonetic_uk": "kɒsts",
+  "phonetic_us": "kɔːsts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=costs&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=costs&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "费用；损失；诉讼费（cost 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "花费；价格为；使损失（cost 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Building costs have nosedived.",
+      "zh": "建筑费用猛跌下来。"
+    },
+    {
+      "en": "Production costs began to spiral.",
+      "zh": "生产成本开始加速上涨。"
+    },
+    {
+      "en": "The first priority is to cut costs.",
+      "zh": "首要任务是削减费用。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "费用；损失（cost的复数）；诉讼费",
+      "words": [
+        "fees",
+        "losses",
+        "expenses"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "花费；使损失（cost的三单形式）",
+      "words": [
+        "invests"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "word": "invitation",
+  "found": true,
+  "phonetic_uk": "ˌɪnvɪˈteɪʃ(ə)n",
+  "phonetic_us": "ˌɪnvɪˈteɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=invitation&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=invitation&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "邀请；引起，招致；（尤指正式地）征求，请求；请帖，请柬"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "invitations"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He declined their invitation.",
+      "zh": "他谢绝了他们的邀请。"
+    },
+    {
+      "en": "Eve spurned Mark's invitation.",
+      "zh": "伊夫一口回绝了马克的邀请。"
+    },
+    {
+      "en": "Admission is by invitation only.",
+      "zh": "凭请柬入场。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "邀请；引诱",
+      "words": [
+        "calling",
+        "temptation"
+      ]
+    }
+  ]
+}

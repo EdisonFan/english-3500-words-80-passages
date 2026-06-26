@@ -1,0 +1,58 @@
+{
+  "word": "assess",
+  "found": true,
+  "phonetic_uk": "əˈses",
+  "phonetic_us": "əˈses",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=assess&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=assess&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "评价，评定；估价，估计；征税，处以罚金"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "assesses"
+    },
+    {
+      "name": "现在分词",
+      "value": "assessing"
+    },
+    {
+      "name": "过去式",
+      "value": "assessed"
+    },
+    {
+      "name": "过去分词",
+      "value": "assessed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It's difficult to assess the effects of these changes.",
+      "zh": "这些变化带来的效果难以评估。"
+    },
+    {
+      "en": "The test was to assess aptitude rather than academic achievement.",
+      "zh": "该测试将评估能力而不是学业成绩。"
+    },
+    {
+      "en": "The risks can be so complex that banks hire mathematicians to assess them.",
+      "zh": "这类风险可以是如此复杂以至于银行雇佣数学家们去评估它们。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "评定；估价；对…征税",
+      "words": [
+        "evaluate",
+        "rate",
+        "value",
+        "prize"
+      ]
+    }
+  ]
+}

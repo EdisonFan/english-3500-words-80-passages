@@ -1,0 +1,38 @@
+{
+  "word": "warns",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=warns&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=warns&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "警告，提醒（warn 第三人称单数）：告诉某人可能发生的危险或问题，以便他们采取行动避免它。"
+    },
+    {
+      "pos": "",
+      "meaning": "· The lifeguard warns the swimmers about the strong currents."
+    },
+    {
+      "pos": "",
+      "meaning": "救生员警告游泳者注意强烈的水流。"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "There is a new device for cars that warns drivers of traffic jams ahead.",
+      "zh": "有一种新的汽车装置可提醒司机前面有交通堵塞。"
+    },
+    {
+      "en": "A smoke alarm warns you of the danger.",
+      "zh": "烟雾警报器警告你有危险。"
+    },
+    {
+      "en": "There are serious consequences, he warns, in not wanting to know.",
+      "zh": "他警告说，失去了解欲会造成严重后果。"
+    }
+  ],
+  "synonyms": []
+}

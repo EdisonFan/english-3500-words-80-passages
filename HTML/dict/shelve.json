@@ -1,0 +1,69 @@
+{
+  "word": "shelve",
+  "found": true,
+  "phonetic_uk": "ʃelv",
+  "phonetic_us": "ʃelv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=shelve&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=shelve&type=2",
+  "defs": [
+    {
+      "pos": "vt.",
+      "meaning": "将（书等）放置在架子上；搁置，将某事放到一旁不予考虑；将…搁在一边；装搁架于；罢免"
+    },
+    {
+      "pos": "vi.",
+      "meaning": "（陆地）逐渐倾斜"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "shelves"
+    },
+    {
+      "name": "现在分词",
+      "value": "shelving"
+    },
+    {
+      "name": "过去式",
+      "value": "shelved"
+    },
+    {
+      "name": "过去分词",
+      "value": "shelved"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They shelve the letters and do not give them due consideration.",
+      "zh": "他们把信件压起来，不加处理。"
+    },
+    {
+      "en": "The inverse of shelve is unshelve.",
+      "zh": "与 shelve 作用相反的命令是 unshelve。"
+    },
+    {
+      "en": "To set aside the changes, run bzr shelve.",
+      "zh": "为了搁置这些更改，运行 bzr shelve。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "搁置，将某事放到一旁不予考虑",
+      "words": [
+        "table",
+        "leave in the air"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "倾斜",
+      "words": [
+        "pitch",
+        "slope",
+        "lean"
+      ]
+    }
+  ]
+}

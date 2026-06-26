@@ -1,0 +1,75 @@
+{
+  "word": "release",
+  "found": true,
+  "phonetic_uk": "rɪˈliːs",
+  "phonetic_us": "rɪˈliːs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=release&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=release&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "释放，放走；放开，松开；公布，发布；发行，上映；发泄，宣泄；排放（物质）；免除，解雇；放弃，让予；放松，使松弛"
+    },
+    {
+      "pos": "n.",
+      "meaning": "释放，获释；排放，泄漏；释放装置；表达，宣泄；解脱，轻松感；新发行的东西；发表，发布；（责任等的）免除；<法律> 放弃，让予；<美> 传球；（设备的）松开"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "releases"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "releases"
+    },
+    {
+      "name": "现在分词",
+      "value": "releasing"
+    },
+    {
+      "name": "过去式",
+      "value": "released"
+    },
+    {
+      "name": "过去分词",
+      "value": "released"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He refused to release her arm.",
+      "zh": "他不肯放开她的胳膊。"
+    },
+    {
+      "en": "She commanded the release of the prisoners.",
+      "zh": "她下令释放囚犯。"
+    },
+    {
+      "en": "It was considered unsafe to release the prisoners.",
+      "zh": "释放这些囚犯被认为是危险的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "释放；发射；让与；允许发表",
+      "words": [
+        "deliver",
+        "send",
+        "free",
+        "project",
+        "convey"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "释放；发布；让与",
+      "words": [
+        "liberation",
+        "issuance"
+      ]
+    }
+  ]
+}

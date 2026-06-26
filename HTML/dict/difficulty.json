@@ -1,0 +1,47 @@
+{
+  "word": "difficulty",
+  "found": true,
+  "phonetic_uk": "ˈdɪfɪkəlti",
+  "phonetic_us": "ˈdɪfɪkəlti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=difficulty&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=difficulty&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "难题，困难"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "difficulties"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Do you have difficulty getting up?",
+      "zh": "你起床有困难吗？"
+    },
+    {
+      "en": "They discussed the difficulty of studying abroad.",
+      "zh": "他们讨论了到国外学习的困难。"
+    },
+    {
+      "en": "Teenagers often have difficulty expressing themselves.",
+      "zh": "十来岁的孩子在表达思想方面常常有困难。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "困难，困境",
+      "words": [
+        "poverty",
+        "corner",
+        "hardness",
+        "dilemma",
+        "fix"
+      ]
+    }
+  ]
+}

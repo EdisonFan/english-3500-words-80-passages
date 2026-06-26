@@ -1,0 +1,47 @@
+{
+  "word": "property",
+  "found": true,
+  "phonetic_uk": "ˈprɒpəti",
+  "phonetic_us": "ˈprɑːpərti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=property&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=property&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "所有物，财产；地产，房地产；房地产股票（或投资）（properties）；<法律> 所有权，处置权；特性，性质"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "properties"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The property was owned communally.",
+      "zh": "这财产属集体所有。"
+    },
+    {
+      "en": "This building is government property.",
+      "zh": "这座大楼是政府的财产。"
+    },
+    {
+      "en": "He transferred the property to his son.",
+      "zh": "他把财产转让给了儿子。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "性质，性能；[经]财产；[法]所有权",
+      "words": [
+        "performance",
+        "nature",
+        "ownership",
+        "estate",
+        "capability"
+      ]
+    }
+  ]
+}

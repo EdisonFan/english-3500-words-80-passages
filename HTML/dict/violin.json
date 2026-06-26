@@ -1,0 +1,47 @@
+{
+  "word": "violin",
+  "found": true,
+  "phonetic_uk": "ˌvaɪəˈlɪn",
+  "phonetic_us": "ˌvaɪəˈlɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=violin&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=violin&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "小提琴；小提琴手"
+    },
+    {
+      "pos": "n.",
+      "meaning": "(Violin)（意）维奥林（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "violins"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Lizzie used to play the violin.",
+      "zh": "莉齐过去常拉小提琴。"
+    },
+    {
+      "en": "The cello is lower than the violin.",
+      "zh": "大提琴的声音比小提琴低沉。"
+    },
+    {
+      "en": "He taught himself to play the violin.",
+      "zh": "他自学拉小提琴。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "小提琴；小提琴手",
+      "words": [
+        "fiddle"
+      ]
+    }
+  ]
+}

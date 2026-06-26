@@ -1,0 +1,89 @@
+{
+  "word": "crash",
+  "found": true,
+  "phonetic_uk": "kræʃ",
+  "phonetic_us": "kræʃ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=crash&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=crash&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "撞车，坠毁；猛撞，发出巨响；破产，倒闭，暴跌；（计算机）瘫痪，死机；（在体育比赛中）惨败；过夜，入睡；心脏停止跳动；不请自来，偷偷混入（派对）；闯红灯"
+    },
+    {
+      "pos": "n.",
+      "meaning": "撞车事故，失事；巨响，碰撞声；（计算机）瘫痪，死机；破产，暴跌；（做毛巾、窗帘等用的）粗布"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "应急的，速成的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "哗啦一声地"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "crashes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "crashes"
+    },
+    {
+      "name": "现在分词",
+      "value": "crashing"
+    },
+    {
+      "name": "过去式",
+      "value": "crashed"
+    },
+    {
+      "name": "过去分词",
+      "value": "crashed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We're going to crash, aren't we?",
+      "zh": "我们要坠毁了，是不是？"
+    },
+    {
+      "en": "He escaped from the crash unhurt.",
+      "zh": "他平安逃过了这场车祸。"
+    },
+    {
+      "en": "The crash occurred on a sharp bend.",
+      "zh": "碰撞发生在一个急转弯处。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "碰撞；崩溃；坠落",
+      "words": [
+        "collision",
+        "precipitation",
+        "impact"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "坠落；破碎；撞碎",
+      "words": [
+        "fall of",
+        "fall to pieces"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "碰撞；[航]坠毁；闯；突然倒台",
+      "words": [
+        "hit",
+        "impact on"
+      ]
+    }
+  ]
+}

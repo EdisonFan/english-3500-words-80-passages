@@ -1,0 +1,79 @@
+{
+  "word": "process",
+  "found": true,
+  "phonetic_uk": "ˈprəʊses",
+  "phonetic_us": "ˈprɑːses",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=process&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=process&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "步骤，程序；（自然或偶然的）变化过程；（为达到某目标的）过程，进程；制作方法，加工方法；<法律>传票；（生，剖）端突，突起"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "（印刷）三原色的，三色版的； 经过特殊加工的；照相板的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（用化学物品或机器）处理，加工；审核，受理（正式文件或请求）；（计算机）处理（数据）；冲洗（照片）；加工（食品）；<正式>列队行进；把（头发）弄成直发"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "processes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "processes"
+    },
+    {
+      "name": "现在分词",
+      "value": "processing"
+    },
+    {
+      "name": "过去式",
+      "value": "processed"
+    },
+    {
+      "name": "过去分词",
+      "value": "processed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The process was needlessly slow.",
+      "zh": "进程过于缓慢了。"
+    },
+    {
+      "en": "History is an interpretive process.",
+      "zh": "历史是一个解释过程。"
+    },
+    {
+      "en": "The whole process started all over again.",
+      "zh": "整个过程又重新开始了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "处理；加工",
+      "words": [
+        "manufacture",
+        "cope with"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "过程，进行；方法，步骤；作用；程序；推移",
+      "words": [
+        "going on",
+        "course",
+        "system",
+        "method",
+        "approach"
+      ]
+    }
+  ]
+}

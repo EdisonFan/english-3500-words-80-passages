@@ -1,0 +1,66 @@
+{
+  "word": "one",
+  "found": true,
+  "phonetic_uk": "wʌn",
+  "phonetic_us": "wʌn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=one&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=one&type=2",
+  "defs": [
+    {
+      "pos": "num.",
+      "meaning": "一；一个；一岁；一点钟"
+    },
+    {
+      "pos": "pron.",
+      "meaning": "一个人；任何人，人们（表泛指）；那个人；（特指的）那种人"
+    },
+    {
+      "pos": "det.",
+      "meaning": "一个（强调某人或某事）；一个（用于比较相似的人或物）；某个（用于不认识的人的名字前）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "唯一的；一的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "一；一美元纸币"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（One）（印、马、美）温（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Knit one row, purl one row.",
+      "zh": "织一趟平针，织一趟反针。"
+    },
+    {
+      "en": "One minus one is zero.",
+      "zh": "一减一等于零。"
+    },
+    {
+      "en": "One more, please!",
+      "zh": "请再来一个！"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "一的；唯一的",
+      "words": [
+        "unique",
+        "sole"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "一",
+      "words": [
+        "ane"
+      ]
+    }
+  ]
+}

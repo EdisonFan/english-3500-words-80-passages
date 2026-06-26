@@ -1,0 +1,82 @@
+{
+  "word": "sniff",
+  "found": true,
+  "phonetic_uk": "snɪf",
+  "phonetic_us": "snɪf",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sniff&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sniff&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（出声地）以鼻吸气，抽鼻子（如因哭泣或感冒）；嗅，闻；嗤之以鼻地说，轻蔑地说；吸入（气体或毒品）；嗅到，察觉出"
+    },
+    {
+      "pos": "n.",
+      "meaning": "抽鼻子，哼；吸入的空气（或其他物质）；气味；线索，迹象；轻蔑，厌恶"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "sniffs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "sniffs"
+    },
+    {
+      "name": "现在分词",
+      "value": "sniffing"
+    },
+    {
+      "name": "过去式",
+      "value": "sniffed"
+    },
+    {
+      "name": "过去分词",
+      "value": "sniffed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They train dogs to sniff out drugs.",
+      "zh": "他们训练狗嗅出毒品。"
+    },
+    {
+      "en": "The dogs are trained to sniff out drugs.",
+      "zh": "这些狗是经过训练的嗅毒犬。"
+    },
+    {
+      "en": "The sniff of power went to his head.",
+      "zh": "权力在握的感觉使他得意忘形。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "嗅；嗤之以鼻",
+      "words": [
+        "smell",
+        "snuff at"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "嗅；闻；用力吸；发觉",
+      "words": [
+        "smell",
+        "nose",
+        "discover"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "吸，闻；嗤之以鼻；气味；以鼻吸气；吸气声",
+      "words": [
+        "suction",
+        "smell",
+        "wind"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "word": "group",
+  "found": true,
+  "phonetic_uk": "ɡruːp",
+  "phonetic_us": "ɡruːp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=group&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=group&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "集体，团体；组，群；集团；乐团，乐队；空军大队（通常由两个或两个以上的基地组成）；（元素周期表中的）族；（系统语法中的）词组；原子团"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）成组，聚集；将……分类"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The group encompasses all ages.",
+      "zh": "这个小组各种年龄的人都有。"
+    },
+    {
+      "en": "A group of swans floated by.",
+      "zh": "一群天鹅缓缓游过。"
+    },
+    {
+      "en": "Our group meets on Friday mornings.",
+      "zh": "我们的组员每周五上午碰面。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "组；团体",
+      "words": [
+        "organization",
+        "community",
+        "team",
+        "body",
+        "suit"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "聚合",
+      "words": [
+        "converge",
+        "polymerise"
+      ]
+    }
+  ]
+}

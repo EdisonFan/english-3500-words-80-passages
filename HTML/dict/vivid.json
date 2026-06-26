@@ -1,0 +1,49 @@
+{
+  "word": "vivid",
+  "found": true,
+  "phonetic_uk": "ˈvɪvɪd",
+  "phonetic_us": "ˈvɪvɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=vivid&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=vivid&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "生动的，逼真的；（颜色）鲜艳的，明亮的；（人的想像）丰富的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more vivid"
+    },
+    {
+      "name": "最高级",
+      "value": "most vivid"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The report paints a vivid picture of life in the city.",
+      "zh": "报告生动地描绘了都市生活。"
+    },
+    {
+      "en": "He gave a vivid account of his life as a fighter pilot.",
+      "zh": "他生动地描述了他那战斗机飞行员的生活。"
+    },
+    {
+      "en": "His eyes were a vivid green.",
+      "zh": "他的眼睛碧绿。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "生动的；鲜明的；鲜艳的",
+      "words": [
+        "telling",
+        "live",
+        "bright"
+      ]
+    }
+  ]
+}

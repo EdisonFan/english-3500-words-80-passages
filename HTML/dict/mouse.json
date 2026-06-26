@@ -1,0 +1,71 @@
+{
+  "word": "mouse",
+  "found": true,
+  "phonetic_uk": "maʊs",
+  "phonetic_us": "maʊs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mouse&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mouse&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "老鼠；鼠标；安静害羞的人；浅棕灰色，鼠皮色；<非正式>（尤指眼部或其附近的）青肿"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（猫，猫头鹰）捕鼠；<非正式>用鼠标在计算机屏幕上移动光标"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "mice或mouses"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "mouses"
+    },
+    {
+      "name": "现在分词",
+      "value": "mousing"
+    },
+    {
+      "name": "过去式",
+      "value": "moused"
+    },
+    {
+      "name": "过去分词",
+      "value": "moused"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He moves the cursor, clicks the mouse.",
+      "zh": "他移动光标，点击鼠标。"
+    },
+    {
+      "en": "The mouse ran away, squeaking with fear.",
+      "zh": "那只老鼠吓得尖叫着溜了。"
+    },
+    {
+      "en": "A cat often plays with a mouse before the kill.",
+      "zh": "猫在咬死老鼠之前常常要耍弄它一番。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计]鼠标；老鼠；胆小羞怯的人",
+      "words": [
+        "ratton"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "捕鼠；窥探",
+      "words": [
+        "rat",
+        "pry about"
+      ]
+    }
+  ]
+}

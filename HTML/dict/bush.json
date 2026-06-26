@@ -1,0 +1,86 @@
+{
+  "word": "bush",
+  "found": true,
+  "phonetic_uk": "bʊʃ",
+  "phonetic_us": "bʊʃ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bush&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bush&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "灌木，灌木丛；荒野，丛林地带；衬套；绝缘套管；浓密的头发"
+    },
+    {
+      "pos": "v.",
+      "meaning": "蓬松；伸展，丛生；以灌木装饰"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "如灌木般长得低矮的；<非正式>粗野的；<美>低劣的，便宜的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Bush）布什（人名)"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "bushes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "bushes"
+    },
+    {
+      "name": "现在分词",
+      "value": "bushing"
+    },
+    {
+      "name": "过去式",
+      "value": "bushed"
+    },
+    {
+      "name": "过去分词",
+      "value": "bushed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Luckily, a bush broke his fall.",
+      "zh": "幸亏有灌木接着，他摔得不重。"
+    },
+    {
+      "en": "He snapped a twig off a bush.",
+      "zh": "他啪地从灌木上折下一小枝。"
+    },
+    {
+      "en": "They used a machete to cut through the bush.",
+      "zh": "他们用大砍刀在灌木林中劈出了一条路。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[林]灌木；矮树丛",
+      "words": [
+        "shrub",
+        "frutex"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "以灌木装饰；使…精疲力竭",
+      "words": [
+        "peter"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "丛生；浓密地生长",
+      "words": [
+        "cluster"
+      ]
+    }
+  ]
+}

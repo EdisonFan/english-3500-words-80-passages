@@ -1,0 +1,34 @@
+{
+  "word": "shanghai",
+  "found": true,
+  "phonetic_uk": "ˌʃæŋˈhaɪ",
+  "phonetic_us": "ˌʃæŋˈhaɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=shanghai&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=shanghai&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "<非正式>强迫；用弹弓射，弹向"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<澳>弹弓；上海（Shanghai）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "An illustration of China's dynamism is that a new company is formed in Shanghai every 11 seconds.",
+      "zh": "说明中国活力的一个实例便是在上海每11秒钟就有一家新公司成立。"
+    },
+    {
+      "en": "They have reached Shanghai.",
+      "zh": "他们已经到达了上海。"
+    },
+    {
+      "en": "Hello! Welcome to Shanghai.",
+      "zh": "您好！欢迎来上海。"
+    }
+  ],
+  "synonyms": []
+}

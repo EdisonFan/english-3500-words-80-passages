@@ -1,0 +1,64 @@
+{
+  "word": "reduce",
+  "found": true,
+  "phonetic_uk": "rɪˈdjuːs",
+  "phonetic_us": "rɪˈduːs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=reduce&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=reduce&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "减少，降低；（烹调中）使变浓稠，收汁；<美>节食减肥；使沦为，使陷入（不好的境地）；迫使，使不得不（做）；（通过破裂、燃烧等）使变成，使化为；归纳，简化；将分数约到（最小项）；（使）进行还原反应；减薄（底片或图片）；（语音）弱化；使（脱臼，断骨）复位；<古>攻克，征服（尤指围攻并占领城镇或要塞）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "reduces"
+    },
+    {
+      "name": "现在分词",
+      "value": "reducing"
+    },
+    {
+      "name": "过去式",
+      "value": "reduced"
+    },
+    {
+      "name": "过去分词",
+      "value": "reduced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The packets are measured to reduce waste.",
+      "zh": "测量包裹尺寸以减少浪费。"
+    },
+    {
+      "en": "The government is looking to reduce inflation.",
+      "zh": "政府正在力求降低通货膨胀率。"
+    },
+    {
+      "en": "These sunglasses are designed to reduce glare.",
+      "zh": "这些太阳镜是为减少刺眼的强光而设计的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "减少；降低；使处于；把…分解",
+      "words": [
+        "shorten",
+        "weaken"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "减少；缩小；归纳为",
+      "words": [
+        "to cut down",
+        "fall off"
+      ]
+    }
+  ]
+}

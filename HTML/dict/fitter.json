@@ -1,0 +1,63 @@
+{
+  "word": "fitter",
+  "found": true,
+  "phonetic_uk": "ˈfɪtə(r)",
+  "phonetic_us": "ˈfɪtər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fitter&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fitter&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "装配工；试衣裁缝，地毯安装工；（服装或鞋子的）质检员"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "更健壮的；更适合的；更能胜任的；更正确的；（非正式）更就要……的；（非正式）更就绪的；（非正式）更性感迷人的；（衣服样子、尺寸等）更合……的身（fit的比较级）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Fitter）（美）菲特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "fitters"
+    }
+  ],
+  "examples": [
+    {
+      "en": "George was a fitter at the shipyard.",
+      "zh": "乔治曾是船坞的装配工。"
+    },
+    {
+      "en": "Regular exercise will help you feel fresher and fitter.",
+      "zh": "经常锻炼会使你感觉更加精力充沛，身体健康。"
+    },
+    {
+      "en": "You'll soon begin to reap the benefits of being fitter.",
+      "zh": "你很快就会获得身体更健康带来的好处。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[机]装配工",
+      "words": [
+        "assemblererector",
+        "ship-fitter"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "胜任的；适当的",
+      "words": [
+        "competent",
+        "suitable",
+        "adequate",
+        "appropriate",
+        "proper"
+      ]
+    }
+  ]
+}

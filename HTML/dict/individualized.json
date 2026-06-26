@@ -1,0 +1,43 @@
+{
+  "word": "individualized",
+  "found": true,
+  "phonetic_uk": "ˌɪndɪˈvɪdʒuəlaɪzd",
+  "phonetic_us": "ˌɪndɪˈvɪdʒuəlaɪzd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=individualized&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=individualized&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "个人的；有个性的；具有个人特色的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使……个性化；分别详述（individualize 的过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Individualized aftercare is given to each patient.",
+      "zh": "每位病人都能在康复期内得到特别护理。"
+    },
+    {
+      "en": "Doctors feel that a more individualized approach to patients should now be adopted.",
+      "zh": "医生们认为现在应该对病人们采用一种更加个人化的治疗方案。"
+    },
+    {
+      "en": "It is also highly popular due to the individualized effects on stress and anxiety.",
+      "zh": "由于对压力和焦虑具有因人而异的影响，它收到了很多人的欢迎。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "个人的；有个性的；具有个人特色的",
+      "words": [
+        "personal",
+        "subjective"
+      ]
+    }
+  ]
+}

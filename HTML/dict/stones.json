@@ -1,0 +1,38 @@
+{
+  "word": "stones",
+  "found": true,
+  "phonetic_uk": "stəʊnz",
+  "phonetic_us": "stoʊnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=stones&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=stones&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "石子（stone 的复数）；小石头"
+    },
+    {
+      "pos": "v.",
+      "meaning": "向……扔石子；用石块铺（stone 的三单形式）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Stones）人名；（英）斯通斯"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The crowd began throwing stones.",
+      "zh": "那群人开始扔石头。"
+    },
+    {
+      "en": "Stones were lobbed over the wall.",
+      "zh": "有人把石块扔过了围墙。"
+    },
+    {
+      "en": "The sunlight kissed the warm stones.",
+      "zh": "阳光洒落在温暖的石块上。"
+    }
+  ],
+  "synonyms": []
+}

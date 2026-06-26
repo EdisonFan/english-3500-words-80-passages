@@ -1,0 +1,80 @@
+{
+  "word": "reply",
+  "found": true,
+  "phonetic_uk": "rɪˈplaɪ",
+  "phonetic_us": "rɪˈplaɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=reply&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=reply&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "回答，答复；（以行动）作出回应，回击；（在体育比赛中）以得分回应，回敬"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（口头或书面）回答，答复；回应，作出反应；<英>（比赛）一方得分（进球）但对方未得分（进球）；<法律>（原告对被告抗辩的）驳复，答辩"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "replies"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "replies"
+    },
+    {
+      "name": "现在分词",
+      "value": "replying"
+    },
+    {
+      "name": "过去式",
+      "value": "replied"
+    },
+    {
+      "name": "过去分词",
+      "value": "replied"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They received a negative reply.",
+      "zh": "他们得到一个否定的答复。"
+    },
+    {
+      "en": "His reply was not repeatable.",
+      "zh": "他的回答不便重复。"
+    },
+    {
+      "en": "Her reply was unprintable.",
+      "zh": "她的回答不宜被印刷出来。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "[通信][计]回答；[法]答辩；回击",
+      "words": [
+        "respond",
+        "answer"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[通信][计]回答；[法]答辩",
+      "words": [
+        "response",
+        "defence",
+        "answer"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[计]回答；[通信]答复",
+      "words": [
+        "answer"
+      ]
+    }
+  ]
+}

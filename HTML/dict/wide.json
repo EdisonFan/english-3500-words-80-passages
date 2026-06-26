@@ -1,0 +1,77 @@
+{
+  "word": "wide",
+  "found": true,
+  "phonetic_uk": "waɪd",
+  "phonetic_us": "waɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=wide&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=wide&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "广泛的；宽的，广阔的；张大的；远离目标的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "广泛地；广阔地；充分地"
+    },
+    {
+      "pos": "n.",
+      "meaning": "大千世界"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Wide）人名；（瑞典、芬）维德"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "wides"
+    },
+    {
+      "name": "比较级",
+      "value": "wider"
+    },
+    {
+      "name": "最高级",
+      "value": "widest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It's about 2 metres wide.",
+      "zh": "它大约2米宽。"
+    },
+    {
+      "en": "How wide is that stream?",
+      "zh": "那条小溪有多宽？"
+    },
+    {
+      "en": "The case has attracted wide publicity.",
+      "zh": "这个案件得到广泛的关注。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "广泛的；宽的，广阔的；张大的；远离目标的",
+      "words": [
+        "extensive",
+        "comprehensive",
+        "broad",
+        "vast"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "广泛地；广阔地；充分地",
+      "words": [
+        "fully",
+        "extensively",
+        "well",
+        "adequately",
+        "substantially"
+      ]
+    }
+  ]
+}

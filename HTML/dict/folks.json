@@ -1,0 +1,42 @@
+{
+  "word": "folks",
+  "found": true,
+  "phonetic_uk": "fəʊks",
+  "phonetic_us": "foʊks",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=folks&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=folks&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（复数）人们"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Folks）人名；（英）福克斯"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Well, folks, what are we going to do today?",
+      "zh": "喂，伙计们，我们今天要干什么？"
+    },
+    {
+      "en": "Wait a minute, folks, something is wrong here.",
+      "zh": "等一下，伙计们，这地方不对劲。"
+    },
+    {
+      "en": "'Hi folks,' he said breezily.",
+      "zh": "“嗨，诸位。”他快活地说。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "（复数）人们",
+      "words": [
+        "gentry"
+      ]
+    }
+  ]
+}

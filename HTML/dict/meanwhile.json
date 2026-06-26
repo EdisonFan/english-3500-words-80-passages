@@ -1,0 +1,43 @@
+{
+  "word": "meanwhile",
+  "found": true,
+  "phonetic_uk": "ˈmiːnwaɪl",
+  "phonetic_us": "ˈmiːnwaɪl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=meanwhile&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=meanwhile&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "与此同时；在此期间；另一方面"
+    },
+    {
+      "pos": "n.",
+      "meaning": "其间，其时"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Meanwhile, my debts were mounting up.",
+      "zh": "同时，我的债务在不断增加。"
+    },
+    {
+      "en": "Political stability, meanwhile, will be a prime concern.",
+      "zh": "与此同时，政治稳定将是头等大事。"
+    },
+    {
+      "en": "You, meanwhile, will be skulking in the safety of the car.",
+      "zh": "与此同时，你会安全地藏在汽车里。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "同时，其间",
+      "words": [
+        "together",
+        "simul"
+      ]
+    }
+  ]
+}

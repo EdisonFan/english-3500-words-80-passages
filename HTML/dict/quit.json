@@ -1,0 +1,86 @@
+{
+  "word": "quit",
+  "found": true,
+  "phonetic_uk": "kwɪt",
+  "phonetic_us": "kwɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=quit&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=quit&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "<美，非正式>停止，戒掉；<非正式>离开（工作岗位、学校等），离任；搬离（租住的房子），离开（某地）；关闭，退出（计算机程序等）；使解除，使摆脱"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "摆脱了……的，已经了结的（quit of）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "辞职，离任"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Quit）（英）奎特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "quits"
+    },
+    {
+      "name": "现在分词",
+      "value": "quitting"
+    },
+    {
+      "name": "过去式",
+      "value": "quit或quitted"
+    },
+    {
+      "name": "过去分词",
+      "value": "quit或quitted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He quit his job as an office boy.",
+      "zh": "他辞去了办公室勤杂员的工作。"
+    },
+    {
+      "en": "If I don't get more money I'll quit.",
+      "zh": "不给我加薪我就辞职。"
+    },
+    {
+      "en": "We decided it was time to quit the city.",
+      "zh": "当时我们决定，该离开城市生活了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "离开；放弃；停止；使…解除",
+      "words": [
+        "yield",
+        "desert",
+        "split",
+        "get out"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "离开；[劳经]辞职；停止",
+      "words": [
+        "split",
+        "get out"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "离开；[计]退出",
+      "words": [
+        "leaving",
+        "Gone away"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "word": "works",
+  "found": true,
+  "phonetic_uk": "wɜːks",
+  "phonetic_us": "wɜːrks",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=works&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=works&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "作品（work 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "工作，干活儿；从事体力（或脑力）劳动；从事……工作，在……工作（work 的第三人称单数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Works）（英）沃克斯（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He works in insurance.",
+      "zh": "他在保险业工作。"
+    },
+    {
+      "en": "She works in admin.",
+      "zh": "她在行政部门工作。"
+    },
+    {
+      "en": "He works evenings.",
+      "zh": "他晚上工作。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "作品；工厂；工程结构",
+      "words": [
+        "factory",
+        "production",
+        "writing",
+        "plant",
+        "mill"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "word": "somewhere",
+  "found": true,
+  "phonetic_uk": "ˈsʌmweə(r)",
+  "phonetic_us": "ˈsʌmwer",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=somewhere&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=somewhere&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "在某处；到某处"
+    },
+    {
+      "pos": "n.",
+      "meaning": "某个地方"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Sarah's off in India somewhere.",
+      "zh": "萨拉远在印度某地。"
+    },
+    {
+      "en": "I needed somewhere to live.",
+      "zh": "我需要某个住的地方。"
+    },
+    {
+      "en": "I know it's here somewhere!",
+      "zh": "我肯定它在这儿某个地方！"
+    }
+  ],
+  "synonyms": []
+}

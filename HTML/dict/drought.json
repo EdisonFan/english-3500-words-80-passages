@@ -1,0 +1,51 @@
+{
+  "word": "drought",
+  "found": true,
+  "phonetic_uk": "draʊt",
+  "phonetic_us": "draʊt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=drought&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=drought&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "长期缺乏，严重短缺；<古>口渴；干旱，旱灾"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Drought）（英）德劳特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "droughts"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Week after week the drought continued.",
+      "zh": "干旱持续了好多个星期。"
+    },
+    {
+      "en": "During the drought the river dried up.",
+      "zh": "旱灾期间，河流都干涸了。"
+    },
+    {
+      "en": "The drought there is stretching resources.",
+      "zh": "那里的干旱正在耗尽财力物力。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[气候]干旱；缺乏",
+      "words": [
+        "shortage",
+        "deficiency",
+        "need",
+        "short of",
+        "want"
+      ]
+    }
+  ]
+}

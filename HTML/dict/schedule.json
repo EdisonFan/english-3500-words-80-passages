@@ -1,0 +1,75 @@
+{
+  "word": "schedule",
+  "found": true,
+  "phonetic_uk": "ˈʃedjuːl",
+  "phonetic_us": "ˈskedʒuːl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=schedule&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=schedule&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "计划（表），进度表；<美>（公共汽车、火车等的）时间表；（价目、费用等的）清单，一览表；（电视或电台的）节目表；<美>（学校的）课程表；<法律> 附件（尤指表格、单据等）；（英国所得税制的）报税单"
+    },
+    {
+      "pos": "v.",
+      "meaning": "安排，预定；列入，收进（正式目录、清单等中）；<英> 把（建筑物）列为文物保护单位"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "schedules"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "schedules"
+    },
+    {
+      "name": "现在分词",
+      "value": "scheduling"
+    },
+    {
+      "name": "过去式",
+      "value": "scheduled"
+    },
+    {
+      "name": "过去分词",
+      "value": "scheduled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We have a very crowded schedule.",
+      "zh": "我们的日程排得满满的。"
+    },
+    {
+      "en": "Everything went according to schedule.",
+      "zh": "一切都是按计划进行的。"
+    },
+    {
+      "en": "We seem to have slipped behind schedule.",
+      "zh": "我们好像已经赶不上日程安排了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "安排，[计划]计划；编制目录；将……列入计划表",
+      "words": [
+        "budget",
+        "propose",
+        "design",
+        "map",
+        "make"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[交]时间表；[计划]计划表；一览表",
+      "words": [
+        "kalendar",
+        "time-table"
+      ]
+    }
+  ]
+}

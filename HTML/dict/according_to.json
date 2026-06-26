@@ -1,0 +1,47 @@
+{
+  "word": "according to",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=according%20to&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=according%20to&type=2",
+  "defs": [
+    {
+      "pos": "",
+      "meaning": "根据：表示根据某人或某事的陈述、说法或信念。"
+    },
+    {
+      "pos": "",
+      "meaning": "按照：表示按照某个标准、规则或方法。"
+    },
+    {
+      "pos": "",
+      "meaning": "据……所述：表示根据某人的陈述或说法。"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Everything went according to plan.",
+      "zh": "一切均按照计划进行。"
+    },
+    {
+      "en": "Prices vary according to the quantity ordered.",
+      "zh": "价格根据所订数量而变化。"
+    },
+    {
+      "en": "Tax is banded according to income.",
+      "zh": "赋税是按收入划分等级的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "",
+      "meaning": "根据，按照；取决于；据…所说",
+      "words": [
+        "foundation",
+        "seed"
+      ]
+    }
+  ]
+}

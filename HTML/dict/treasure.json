@@ -1,0 +1,79 @@
+{
+  "word": "treasure",
+  "found": true,
+  "phonetic_uk": "ˈtreʒə(r)",
+  "phonetic_us": "ˈtreʒər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=treasure&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=treasure&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "金银财宝，珠宝，财富；（尤指艺术或有历史价值的）珍品；得力帮手，心肝宝贝；珍藏品，珍贵之物"
+    },
+    {
+      "pos": "v.",
+      "meaning": "珍爱，珍藏；珍惜，珍视"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Treasure）（英、美、爱）特雷热（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "treasures"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "treasures"
+    },
+    {
+      "name": "现在分词",
+      "value": "treasuring"
+    },
+    {
+      "name": "过去式",
+      "value": "treasured"
+    },
+    {
+      "name": "过去分词",
+      "value": "treasured"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This book is a treasure chest of information.",
+      "zh": "这本书是一个信息的宝库。"
+    },
+    {
+      "en": "The treasure had lain undisturbed for centuries.",
+      "zh": "那份珍宝安然无恙地存放了几个世纪。"
+    },
+    {
+      "en": "It was here, the buried treasure, she knew it was.",
+      "zh": "那些埋藏的珍宝就在这儿，她知道就在这儿。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "财富，财产；财宝；珍品",
+      "words": [
+        "wealth",
+        "estate",
+        "money",
+        "fortune",
+        "property"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "珍爱；珍藏",
+      "words": [
+        "cherish",
+        "enshrine"
+      ]
+    }
+  ]
+}

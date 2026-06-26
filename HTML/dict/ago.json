@@ -1,0 +1,57 @@
+{
+  "word": "ago",
+  "found": true,
+  "phonetic_uk": "əˈɡəʊ",
+  "phonetic_us": "əˈɡoʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ago&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ago&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "以前，从前"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "以前的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Ago）（美）阿戈（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She was hired three years ago.",
+      "zh": "她是三年前录用的。"
+    },
+    {
+      "en": "They kicked off an hour ago.",
+      "zh": "他们是1小时前开球的。"
+    },
+    {
+      "en": "Those skirts went out years ago.",
+      "zh": "那些裙子多年前就不时兴了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "以前，以往",
+      "words": [
+        "previously",
+        "formerly",
+        "back"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "以前的；过去的",
+      "words": [
+        "previous",
+        "past",
+        "back"
+      ]
+    }
+  ]
+}

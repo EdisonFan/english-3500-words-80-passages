@@ -1,0 +1,57 @@
+{
+  "word": "belong",
+  "found": true,
+  "phonetic_uk": "bɪˈlɒŋ",
+  "phonetic_us": "bɪˈlɔːŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=belong&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=belong&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "应在……地方，应处于……状况；适应，合得来；归……所有；是……的成员，属于（某团体或组织）；居住"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "belongs"
+    },
+    {
+      "name": "现在分词",
+      "value": "belonging"
+    },
+    {
+      "name": "过去式",
+      "value": "belonged"
+    },
+    {
+      "name": "过去分词",
+      "value": "belonged"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Lions belong to the cat family.",
+      "zh": "狮属于猫科。"
+    },
+    {
+      "en": "They need to feel they belong.",
+      "zh": "他们需要有归属感。"
+    },
+    {
+      "en": "The islands belong to Spain.",
+      "zh": "这些岛屿隶属西班牙。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "属于，应归入；居住；适宜；应被放置",
+      "words": [
+        "room",
+        "live",
+        "harbor"
+      ]
+    }
+  ]
+}

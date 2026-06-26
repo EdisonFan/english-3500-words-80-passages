@@ -1,0 +1,46 @@
+{
+  "word": "whatever",
+  "found": true,
+  "phonetic_uk": "wɒtˈevə(r)",
+  "phonetic_us": "wətˈevər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=whatever&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=whatever&type=2",
+  "defs": [
+    {
+      "pos": "det.",
+      "meaning": "任何……的事物，无论什么"
+    },
+    {
+      "pos": "pron.",
+      "meaning": "任何事物；究竟是什么；无所谓，什么都可以； <非正式>名叫某某的东西（用于指称不知道的东西）"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "任何，丝毫（表强调）；<非正式>不管怎样"
+    },
+    {
+      "pos": "conj.",
+      "meaning": "不管什么，无论什么；任何…...的事物，凡是…...的东西"
+    },
+    {
+      "pos": "int.",
+      "meaning": "（表示勉强接受）随便你怎么说"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I'll be there whatever happens.",
+      "zh": "不管发生什么事我都会到那儿的。"
+    },
+    {
+      "en": "Take whatever action is needed.",
+      "zh": "采取任何必要的行动。"
+    },
+    {
+      "en": "Do whatever seems best to you.",
+      "zh": "你觉得什么最好，就做什么。"
+    }
+  ],
+  "synonyms": []
+}

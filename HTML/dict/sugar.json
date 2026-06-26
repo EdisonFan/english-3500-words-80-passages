@@ -1,0 +1,80 @@
+{
+  "word": "sugar",
+  "found": true,
+  "phonetic_uk": "ˈʃʊɡə(r)",
+  "phonetic_us": "ˈʃʊɡər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sugar&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sugar&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "食糖；一匙糖，一块方糖；（植物、水果等所含的）糖；亲爱的；<非正式>麻醉药，毒品（尤指海洛因或二乙基麦角酰胺）；甜言蜜语"
+    },
+    {
+      "pos": "v.",
+      "meaning": "给……加糖；美化（讨厌的事物）；（通过熬枫树汁）提取枫蜜（或枫糖）；（昆）在树干上涂撒糖、糖浆、啤酒等的混合物作蛾饵"
+    },
+    {
+      "pos": "int.",
+      "meaning": "（代替 shit，用于表示懊恼）糟糕，哎呀"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Sugar）（英）休格（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "sugars"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "sugars"
+    },
+    {
+      "name": "现在分词",
+      "value": "sugaring"
+    },
+    {
+      "name": "过去式",
+      "value": "sugared"
+    },
+    {
+      "name": "过去分词",
+      "value": "sugared"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Sugar is ubiquitous in the diet.",
+      "zh": "糖在饮食中到处可见。"
+    },
+    {
+      "en": "Sugar occurs naturally in fruit.",
+      "zh": "水果天然含糖分。"
+    },
+    {
+      "en": "My doctor has forbidden me sugar.",
+      "zh": "医生禁止我吃糖。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[食品]糖；食糖；甜言蜜语",
+      "words": [
+        "saccharide",
+        "sweet talk"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "加糖于；粉饰",
+      "words": [
+        "colour",
+        "prettify"
+      ]
+    }
+  ]
+}

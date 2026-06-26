@@ -1,0 +1,52 @@
+{
+  "word": "planning",
+  "found": true,
+  "phonetic_uk": "ˈplænɪŋ",
+  "phonetic_us": "ˈplænɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=planning&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=planning&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "计划；规划"
+    },
+    {
+      "pos": "v.",
+      "meaning": "计划，筹划；打算；设计；期望，预料（plan 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The trip needs careful planning.",
+      "zh": "这次旅行需要认真计划。"
+    },
+    {
+      "en": "Careful planning is the secret of success.",
+      "zh": "仔细计划是成功的诀窍。"
+    },
+    {
+      "en": "They are planning to move house next spring.",
+      "zh": "他们在计划明年春天搬家。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计划]规划；计划编制",
+      "words": [
+        "programme",
+        "formulation",
+        "projection"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "计划；设计；预期（plan的ing形式）",
+      "words": [
+        "designing",
+        "engineering"
+      ]
+    }
+  ]
+}

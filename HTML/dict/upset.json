@@ -1,0 +1,93 @@
+{
+  "word": "upset",
+  "found": true,
+  "phonetic_uk": "ˌʌpˈset",
+  "phonetic_us": "ˌʌpˈset",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=upset&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=upset&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "使心烦意乱，使生气；打乱，搅乱；打翻，使倾覆；翻倒；意外击败（强对手）；使（肠胃）不适；制造麻烦，破坏某人的计划；镦锻，镦粗"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "不高兴的，心烦意乱的；（肠胃）不适的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "烦恼，失望；肠胃不适；爆冷门；混乱，麻烦；翻倒，颠覆"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "upsets"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "upsets"
+    },
+    {
+      "name": "现在分词",
+      "value": "upsetting"
+    },
+    {
+      "name": "过去式",
+      "value": "upset"
+    },
+    {
+      "name": "过去分词",
+      "value": "upset"
+    },
+    {
+      "name": "比较级",
+      "value": "more upset"
+    },
+    {
+      "name": "最高级",
+      "value": "most upset"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You looked pretty upset just now.",
+      "zh": "你刚才看上去很沮丧。"
+    },
+    {
+      "en": "Don't let her upset you.",
+      "zh": "别让她搅得你心烦。"
+    },
+    {
+      "en": "Marta looked upset.",
+      "zh": "玛尔塔看起来很沮丧。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "使心烦；颠覆；扰乱",
+      "words": [
+        "disorder",
+        "subvert"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "翻倒",
+      "words": [
+        "tip",
+        "keel over"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "心烦的；混乱的；弄翻的",
+      "words": [
+        "chaotic",
+        "troubled",
+        "confused"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "region",
+  "found": true,
+  "phonetic_uk": "ˈriːdʒən",
+  "phonetic_us": "ˈriːdʒən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=region&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=region&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "地区，区域；行政区；<英>（首都以外的）地方（the regions）；身体部位；领域，界"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "regions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Much of the region is lowland.",
+      "zh": "这地区大部分是低洼地。"
+    },
+    {
+      "en": "This region is steeped in tradition.",
+      "zh": "这个地区有着深厚的传统。"
+    },
+    {
+      "en": "The region is glutted with hospitals.",
+      "zh": "该地区的医院供过于求。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[地理]地区；范围；[医]部位",
+      "words": [
+        "area",
+        "extent",
+        "boundary",
+        "zone",
+        "spectrum",
+        "territory"
+      ]
+    }
+  ]
+}

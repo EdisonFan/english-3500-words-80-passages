@@ -1,0 +1,83 @@
+{
+  "word": "pride",
+  "found": true,
+  "phonetic_uk": "praɪd",
+  "phonetic_us": "praɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pride&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pride&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "自豪（感）；自尊（心）；傲慢，自负；<文>最佳状态，全盛期；狮群；引以为傲的人（或事物）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "以……自豪（pride oneself on/upon）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Pride）（英）普赖德（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "prides"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "prides"
+    },
+    {
+      "name": "现在分词",
+      "value": "priding"
+    },
+    {
+      "name": "过去式",
+      "value": "prided"
+    },
+    {
+      "name": "过去分词",
+      "value": "prided"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His words rang with pride.",
+      "zh": "他的话充满了骄傲。"
+    },
+    {
+      "en": "His pride may still be his downfall.",
+      "zh": "他的傲慢仍可能是他垮台的原因。"
+    },
+    {
+      "en": "Her pride was hurt.",
+      "zh": "她的自尊心受到了伤害。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "自豪；骄傲；自尊心",
+      "words": [
+        "selfrespect",
+        "pretension"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使得意，以…自豪",
+      "words": [
+        "exalt"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "自豪",
+      "words": [
+        "glory",
+        "be proud of"
+      ]
+    }
+  ]
+}

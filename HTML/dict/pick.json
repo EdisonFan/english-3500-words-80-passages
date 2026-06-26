@@ -1,0 +1,85 @@
+{
+  "word": "pick",
+  "found": true,
+  "phonetic_uk": "pɪk",
+  "phonetic_us": "pɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pick&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pick&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "采，摘（花、果）；（用手指）弄掉；找茬；捡，抱起；选择；弹，拨（弦）；撬开（锁），扒窃……中的东西；小心走路（~ one's way）；（反复地）拔，拉，撕，扯；没胃口地吃；（高尔夫）拾球（尤指认输的拾球）（~ up）；采，摘（花、果等）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "精华（the pick of）；选择，选择权；被选中的人（或事物）；鹤嘴锄；（吉他的）拨子；（尖状的）挖撬工具；（篮球）掩护"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Pick）（英、法、德、捷、匈、瑞典）皮克（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "picks"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "picks"
+    },
+    {
+      "name": "现在分词",
+      "value": "picking"
+    },
+    {
+      "name": "过去式",
+      "value": "picked"
+    },
+    {
+      "name": "过去分词",
+      "value": "picked"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She bent to pick a red rose.",
+      "zh": "她弯下腰摘了一朵红玫瑰。"
+    },
+    {
+      "en": "I'll pick you up at five.",
+      "zh": "我五点钟来接你。"
+    },
+    {
+      "en": "The winner gets first pick of the prizes.",
+      "zh": "获胜者可先挑奖品。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "挑选；采摘；挖",
+      "words": [
+        "select",
+        "choose from"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "采摘；拾取；掘；精选",
+      "words": [
+        "dig",
+        "handpick"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "选择；挖；[农机]鹤嘴锄",
+      "words": [
+        "chose",
+        "selection",
+        "choice"
+      ]
+    }
+  ]
+}

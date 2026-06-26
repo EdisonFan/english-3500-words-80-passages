@@ -1,0 +1,73 @@
+{
+  "word": "kind",
+  "found": true,
+  "phonetic_uk": "kaɪnd",
+  "phonetic_us": "kaɪnd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=kind&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=kind&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "种类；同类的人；特征，性质；圣餐的圣体（指面包或葡萄酒）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "宽容的，体贴的，亲切友好的；温和的，无害的；关爱的，好心的（尤用于答谢语中）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Kind）（德、法、俄、捷）金德，（瑞典）欣德（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "kinds"
+    },
+    {
+      "name": "比较级",
+      "value": "kinder"
+    },
+    {
+      "name": "最高级",
+      "value": "kindest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She was a kind, motherly woman.",
+      "zh": "她是一位善良的充满母爱的女人。"
+    },
+    {
+      "en": "I've caught some kind of lurgy.",
+      "zh": "我有点小病。"
+    },
+    {
+      "en": "He's in some kind of trouble.",
+      "zh": "他遇到了什么麻烦。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "种类；性质",
+      "words": [
+        "category",
+        "variety",
+        "property",
+        "nature",
+        "manner",
+        "sort"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "和蔼的；宽容的；令人感激的",
+      "words": [
+        "nice",
+        "benign",
+        "tolerant"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "word": "mismatch",
+  "found": true,
+  "phonetic_uk": "ˌmɪsˈmætʃ",
+  "phonetic_us": "ˌmɪsˈmætʃ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mismatch&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mismatch&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "使配错；使不适当地在一起"
+    },
+    {
+      "pos": "n.",
+      "meaning": "错配，搭配不当；不匹配，不协调；实力悬殊（或不公平）的比赛"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "mismatches"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "mismatches"
+    },
+    {
+      "name": "现在分词",
+      "value": "mismatching"
+    },
+    {
+      "name": "过去式",
+      "value": "mismatched"
+    },
+    {
+      "name": "过去分词",
+      "value": "mismatched"
+    }
+  ],
+  "examples": [
+    {
+      "en": "There is a mismatch between the skills offered by people and the skills needed by industry.",
+      "zh": "人们所提供的技能和行业所需要的技能并不匹配。"
+    },
+    {
+      "en": "We have a huge mismatch between the school calendar and the realities of family life.",
+      "zh": "我们在学校的日程安排和家庭生活的现实之间存在着巨大的不匹配。"
+    },
+    {
+      "en": "The second complaint concerns the mismatch in colour between the watches we ordered and those delivered.",
+      "zh": "第二个投诉是关于我们所订购的手表与所交付的手表颜色不一致。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "错配；不协调",
+      "words": [
+        "mispairing",
+        "incongruity"
+      ]
+    }
+  ]
+}

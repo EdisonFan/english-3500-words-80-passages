@@ -1,0 +1,34 @@
+{
+  "word": "networks",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˈnetˌwɜːrk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=networks&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=networks&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[计][通信]网络；广播电视网（network 的复数形式）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用网覆盖；在广播网联播（network 的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "What they're doing is setting up distributional networks.",
+      "zh": "他们在做的是建立好货物分配网络。"
+    },
+    {
+      "en": "Downtime due to worm removal from networks cost close to $450 million.",
+      "zh": "由于停机查杀网络病毒而造成的耗费接近4.5亿美元。"
+    },
+    {
+      "en": "Neural networks are computer systems which mimic the workings of the brain.",
+      "zh": "神经网络是模仿大脑运行的计算机系统。"
+    }
+  ],
+  "synonyms": []
+}

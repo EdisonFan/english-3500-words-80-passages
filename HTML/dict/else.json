@@ -1,0 +1,55 @@
+{
+  "word": "else",
+  "found": true,
+  "phonetic_uk": "els",
+  "phonetic_us": "els",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=else&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=else&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "此外，其他；否则，要不然"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "其他的，另外的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Else）（英）埃尔斯，（德）埃尔泽，（芬、丹）埃尔塞（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "There was no one else around.",
+      "zh": "周围���有其他人。"
+    },
+    {
+      "en": "Everyone else was getting sloshed.",
+      "zh": "其他每个人都快喝醉了。"
+    },
+    {
+      "en": "Everyone else was there.",
+      "zh": "其他所有人都在那儿。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "其他；否则；另外",
+      "words": [
+        "otherwise",
+        "extra"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "别的；其他的",
+      "words": [
+        "other",
+        "tother"
+      ]
+    }
+  ]
+}

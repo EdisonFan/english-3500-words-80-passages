@@ -1,0 +1,56 @@
+{
+  "word": "reword",
+  "found": true,
+  "phonetic_uk": "ˌriːˈwɜːd",
+  "phonetic_us": "ˌriːˈwɜːrd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=reword&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=reword&type=2",
+  "defs": [
+    {
+      "pos": "vt.",
+      "meaning": "改写，重述"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "rewords"
+    },
+    {
+      "name": "现在分词",
+      "value": "rewording"
+    },
+    {
+      "name": "过去式",
+      "value": "reworded"
+    },
+    {
+      "name": "过去分词",
+      "value": "reworded"
+    }
+  ],
+  "examples": [
+    {
+      "en": "All right, I'll reword my question.",
+      "zh": "好吧，我换个说法来问这个问题。"
+    },
+    {
+      "en": "Reword that slightly, and you have the battle cry of half the men I dated.",
+      "zh": "稍稍重组一下词汇，我约会过的男人中起码有一半会为他“助阵呐喊“。"
+    },
+    {
+      "en": "This way you get an idea of what they are reading and you can reword it if needed.",
+      "zh": "这样你得到一个他们所读的想法，你可以改写，如果需要的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "改写，重述",
+      "words": [
+        "overtype",
+        "write over"
+      ]
+    }
+  ]
+}

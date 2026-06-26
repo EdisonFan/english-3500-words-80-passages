@@ -1,0 +1,42 @@
+{
+  "word": "sides",
+  "found": true,
+  "phonetic_uk": "saɪdz",
+  "phonetic_us": "saɪdz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sides&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sides&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "边；面数；台词表（side 的复数形式）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Sides）人名；（英）塞兹"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "His arms were limp at his sides.",
+      "zh": "他的手臂无力地垂在两侧。"
+    },
+    {
+      "en": "Her arms hung slackly by her sides.",
+      "zh": "她的胳膊在两边耷拉着。"
+    },
+    {
+      "en": "His arms were pinioned to his sides.",
+      "zh": "他的双臂被绑在身体两侧。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "边；面数；台词表（side的复数形式）",
+      "words": [
+        "brims"
+      ]
+    }
+  ]
+}

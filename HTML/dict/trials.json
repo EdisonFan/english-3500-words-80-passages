@@ -1,0 +1,40 @@
+{
+  "word": "trials",
+  "found": true,
+  "phonetic_uk": "ˈtraɪəlz",
+  "phonetic_us": "ˈtraɪəlz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=trials&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=trials&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "尝试，努力；审判；考验；顿顽（trial 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The new drug is undergoing clinical trials.",
+      "zh": "这种新药正在进行临床试验。"
+    },
+    {
+      "en": "It looks like televised trials are here to stay.",
+      "zh": "看来电视直播审判成了一种风气。"
+    },
+    {
+      "en": "Anti-malarial vaccines are now undergoing trials.",
+      "zh": "抗疟疾疫苗现在正处于试验阶段。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "尝试，努力；审判；考验；顿顽（trial的复数）",
+      "words": [
+        "efforts",
+        "tries",
+        "attempts"
+      ]
+    }
+  ]
+}

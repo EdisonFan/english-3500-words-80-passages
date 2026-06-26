@@ -1,0 +1,30 @@
+{
+  "word": "smartphone",
+  "found": true,
+  "phonetic_uk": "ˈsmɑːtfəʊn",
+  "phonetic_us": "ˈsmɑːrtfoʊn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=smartphone&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=smartphone&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "智能手机"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The umbrella will send a message to your smartphone.",
+      "zh": "雨伞会给你的智能手机发送一条信息。"
+    },
+    {
+      "en": "The opposite of a wallet is a smartphone or an iPad.",
+      "zh": "与钱包相对的是智能手机或平板电脑。"
+    },
+    {
+      "en": "One in five Americans will use a tablet or smartphone.",
+      "zh": "五分之一的美国人将使用平板电脑或智能手机。"
+    }
+  ],
+  "synonyms": []
+}

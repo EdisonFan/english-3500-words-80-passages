@@ -1,0 +1,54 @@
+{
+  "word": "portion",
+  "found": true,
+  "phonetic_uk": "ˈpɔːʃ(ə)n",
+  "phonetic_us": "ˈpɔːrʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=portion&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=portion&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（某物的）一部分；（尤指餐馆中食物的）一份，一客；（责任、过失、职责等的）一份，一部分；<法律>（根据法律赠与或遗留给继承人的）一份财产；<古> 命运，天数"
+    },
+    {
+      "pos": "v.",
+      "meaning": "分配；<古> 给（新娘）嫁妆"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "A supersize portion of fries contains 600 calories.",
+      "zh": "一个超大份炸薯条含600卡路里。"
+    },
+    {
+      "en": "I have spent a considerable portion of my life here.",
+      "zh": "我已在这里度过了一生中的大部分时光。"
+    },
+    {
+      "en": "Damage was confined to a small portion of the castle.",
+      "zh": "城堡仅有一小部分受到了损坏。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "部分；一份；命运",
+      "words": [
+        "part",
+        "proportion",
+        "fate",
+        "percent",
+        "lot"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "分配；给…嫁妆",
+      "words": [
+        "part",
+        "to allocate"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "word": "price",
+  "found": true,
+  "phonetic_uk": "praɪs",
+  "phonetic_us": "praɪs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=price&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=price&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "价格；代价；开价，价码；投注赔率；<古> 价值"
+    },
+    {
+      "pos": "v.",
+      "meaning": "为……定价；给（商店中的产品）标价；比较……的价格；问……的价格"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Price）（英）普赖斯，（法）普里斯，（葡、瑞典）普里塞（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "prices"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "prices"
+    },
+    {
+      "name": "现在分词",
+      "value": "pricing"
+    },
+    {
+      "name": "过去式",
+      "value": "priced"
+    },
+    {
+      "name": "过去分词",
+      "value": "priced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The price was not negotiable.",
+      "zh": "价格没有商量的余地。"
+    },
+    {
+      "en": "The price of oil increased.",
+      "zh": "石油价格上涨了。"
+    },
+    {
+      "en": "Oil increased in price.",
+      "zh": "石油价格上涨了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[物价]价格；价值；[贸易]代价",
+      "words": [
+        "importance",
+        "value",
+        "expense",
+        "rate",
+        "figure"
+      ]
+    }
+  ]
+}

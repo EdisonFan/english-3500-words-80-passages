@@ -1,0 +1,49 @@
+{
+  "word": "saves",
+  "found": true,
+  "phonetic_uk": "seɪvz",
+  "phonetic_us": "seɪvz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=saves&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=saves&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "救助；储蓄；节约；保留（备用）；免去（save的第三人称单数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Saves）（法）萨韦斯（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "It saves time in the kitchen to have things you use a lot within reach.",
+      "zh": "在厨房里把常用的东西放在手边可以节省时间。"
+    },
+    {
+      "en": "Plastic pipe is easy to install, and doing it yourself saves big bucks.",
+      "zh": "塑料管易于安装，你自己装的话会省下一大笔钱。"
+    },
+    {
+      "en": "It saves space in rubbish dumps.",
+      "zh": "它节省了垃圾场的空间。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "救援（save的复数）",
+      "words": [
+        "rescues"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "节约；储蓄（save的单三形式）；救助",
+      "words": [
+        "husbands"
+      ]
+    }
+  ]
+}

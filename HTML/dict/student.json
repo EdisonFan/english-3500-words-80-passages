@@ -1,0 +1,49 @@
+{
+  "word": "student",
+  "found": true,
+  "phonetic_uk": "ˈstjuːd(ə)nt",
+  "phonetic_us": "ˈstuːd(ə)nt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=student&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=student&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "学生；学者"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Student）人名；（德）施图登特"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "students"
+    }
+  ],
+  "examples": [
+    {
+      "en": "No student is to leave the room.",
+      "zh": "学生一律不许离开这房间。"
+    },
+    {
+      "en": "She's a student at Sussex University.",
+      "zh": "她是萨塞克斯大学的学生。"
+    },
+    {
+      "en": "Student numbers are expanding rapidly.",
+      "zh": "学生人数在迅速增加。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "学生；学者",
+      "words": [
+        "scholar",
+        "academic",
+        "pupil"
+      ]
+    }
+  ]
+}

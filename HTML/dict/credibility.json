@@ -1,0 +1,39 @@
+{
+  "word": "credibility",
+  "found": true,
+  "phonetic_uk": "ˌkredəˈbɪləti",
+  "phonetic_us": "ˌkredəˈbɪləti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=credibility&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=credibility&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "可靠性，可信度"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "One voter in Brasilia summed up the mood – \"Politicians have lost credibility,\" he complained.",
+      "zh": "一位巴西利亚选民简述了人们的心情–“政治家们已丧失信誉，”他抱怨道。"
+    },
+    {
+      "en": "Credibility holds the key to development.",
+      "zh": "诚信是发展的关键。"
+    },
+    {
+      "en": "Two paradoxes exist throughout this credibility process.",
+      "zh": "整个可信度论证过程中贯穿了两个悖论。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "可信性；确实性",
+      "words": [
+        "authenticity",
+        "trustworthiness"
+      ]
+    }
+  ]
+}

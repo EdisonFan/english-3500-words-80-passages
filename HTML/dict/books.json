@@ -1,0 +1,43 @@
+{
+  "word": "books",
+  "found": true,
+  "phonetic_uk": "bʊks",
+  "phonetic_us": "bʊks",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=books&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=books&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "书籍（book 的复数）；书评"
+    },
+    {
+      "pos": "v.",
+      "meaning": "预订；领会（book 的第三人称单数）；把……记载入册"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The pile of books toppled over.",
+      "zh": "那一摞书倒了。"
+    },
+    {
+      "en": "My suitcase was full of books.",
+      "zh": "我的提箱装满了书。"
+    },
+    {
+      "en": "They publish reference books.",
+      "zh": "他们出版参考书。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "预订；领会（book的第三人称单数）；把…记载入册",
+      "words": [
+        "reserves",
+        "follows"
+      ]
+    }
+  ]
+}

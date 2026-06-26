@@ -1,0 +1,39 @@
+{
+  "word": "difficulties",
+  "found": true,
+  "phonetic_uk": "ˈdɪfɪkəltɪz",
+  "phonetic_us": "ˈdɪfəkəltɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=difficulties&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=difficulties&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "困难（difficulty 的复数）；磨难"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She had got into financial difficulties.",
+      "zh": "她陷入了财务困境。"
+    },
+    {
+      "en": "He tends to exaggerate the difficulties.",
+      "zh": "他往往夸大困难。"
+    },
+    {
+      "en": "The company is in financial difficulties.",
+      "zh": "这个公司处于财务困难之中。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "困难（difficulty的复数）；磨难",
+      "words": [
+        "straits",
+        "impediments"
+      ]
+    }
+  ]
+}

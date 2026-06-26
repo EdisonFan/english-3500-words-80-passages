@@ -1,0 +1,46 @@
+{
+  "word": "identifying",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "aɪˈdentɪfaɪɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=identifying&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=identifying&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "确认，识别；找到，发现；显示，说明身份；与（某人）一致，和（某人）打成一片（identify 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Fossils are thus identifying markers for particular periods in Earth's history.",
+      "zh": "因此，化石是识别地球历史上特定时期的标志。"
+    },
+    {
+      "en": "New authorship defending methods based on identifying individual writing patterns are already here.",
+      "zh": "新的作者身份保护方法已经出现了，这一方法以识别个人写作风格为基础。"
+    },
+    {
+      "en": "Detectives are now faced with the task of identifying the body.",
+      "zh": "侦探现在面临辨认尸体这项任务。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计]识别，标识；标识关系",
+      "words": [
+        "recognition",
+        "discernment"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "[计]识别（identify的现在分词）",
+      "words": [
+        "discriminating"
+      ]
+    }
+  ]
+}

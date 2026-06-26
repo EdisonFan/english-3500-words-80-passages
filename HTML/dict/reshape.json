@@ -1,0 +1,56 @@
+{
+  "word": "reshape",
+  "found": true,
+  "phonetic_uk": "ˌriːˈʃeɪp",
+  "phonetic_us": "ˌriːˈʃeɪp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=reshape&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=reshape&type=2",
+  "defs": [
+    {
+      "pos": "vt.",
+      "meaning": "改造；再成形"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "reshapes"
+    },
+    {
+      "name": "现在分词",
+      "value": "reshaping"
+    },
+    {
+      "name": "过去式",
+      "value": "reshaped"
+    },
+    {
+      "name": "过去分词",
+      "value": "reshaped"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We will have to wait and see exactly how these hard times will reshape our social fabric.",
+      "zh": "我们需要等一等才能知道这些困难时期究竟将如何重塑我们的社会结构。"
+    },
+    {
+      "en": "Ultimately, it is likely to reshape our politics, our culture, and the character of our society for years.",
+      "zh": "最终，它可能会在很长一段时间内改造我们的政治、文化以及社会特征。"
+    },
+    {
+      "en": "Another, advanced in the twentieth century, suggests that humans have a gift for fantasy, through which they seek to reshape reality into more satisfying forms than those encountered in daily life.",
+      "zh": "另一个在20世纪提出的观点认为，人类有幻想的天赋，通过幻想，他们试图把现实重塑成比日常生活中遇到的更令人满意的形式。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "改造；再成形",
+      "words": [
+        "reconstruct",
+        "rebuild"
+      ]
+    }
+  ]
+}

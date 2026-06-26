@@ -1,0 +1,91 @@
+{
+  "word": "slow",
+  "found": true,
+  "phonetic_uk": "sləʊ",
+  "phonetic_us": "sloʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=slow&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=slow&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "（移动，运行）低速的，缓慢的；慢速的，低速的；耗时的，太慢的；迟缓的，慢吞吞的；（钟表）慢的；迟钝的，愚笨的；（胶片）曝光慢的；（镜头）小孔径的；（生意）清淡的，不景气的；不曲折的，乏味的，无趣的；（火，烤箱）小火的，弱火的；（球场或地面）软的，阻球的，奔跑困难的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）放慢速度，（使）减速；（使）降低，（使）减少；（生活，工作）放松"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "低速地，缓慢地"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Slow）（英）斯洛（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "slows"
+    },
+    {
+      "name": "现在分词",
+      "value": "slowing"
+    },
+    {
+      "name": "过去式",
+      "value": "slowed"
+    },
+    {
+      "name": "过去分词",
+      "value": "slowed"
+    },
+    {
+      "name": "比较级",
+      "value": "slower或more slow"
+    },
+    {
+      "name": "最高级",
+      "value": "slowest或most slow"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The traffic is heavy and slow.",
+      "zh": "车很多，走得慢。"
+    },
+    {
+      "en": "Progress is maddeningly slow.",
+      "zh": "进展慢得令人心烦。"
+    },
+    {
+      "en": "The process was needlessly slow.",
+      "zh": "进程过于缓慢了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "慢的；减速的；迟钝的",
+      "words": [
+        "dull",
+        "moderative"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "变慢；变萧条",
+      "words": [
+        "stagnate"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "放慢；阻碍",
+      "words": [
+        "impede",
+        "block up"
+      ]
+    }
+  ]
+}

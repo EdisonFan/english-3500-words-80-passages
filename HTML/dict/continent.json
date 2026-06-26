@@ -1,0 +1,57 @@
+{
+  "word": "continent",
+  "found": true,
+  "phonetic_uk": "ˈkɒntɪnənt",
+  "phonetic_us": "ˈkɑːntɪnənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=continent&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=continent&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "洲，大陆"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "有排便节制力的；<旧>节制性欲的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "continents"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She loved the African continent.",
+      "zh": "她热爱非洲大陆。"
+    },
+    {
+      "en": "The news set off a continent-wide health scare.",
+      "zh": "这一消息引起了整个大陆的健康恐慌。"
+    },
+    {
+      "en": "The famine threatened to depopulate the continent.",
+      "zh": "饥荒威胁着该大陆人口数量。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[地理]大陆，洲，陆地",
+      "words": [
+        "mainland",
+        "earth",
+        "land"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "自制的，克制的",
+      "words": [
+        "self-regulating",
+        "restrained"
+      ]
+    }
+  ]
+}

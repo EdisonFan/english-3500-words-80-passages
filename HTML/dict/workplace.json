@@ -1,0 +1,44 @@
+{
+  "word": "workplace",
+  "found": true,
+  "phonetic_uk": "ˈwɜːkpleɪs",
+  "phonetic_us": "ˈwɜːrkpleɪs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=workplace&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=workplace&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（办公室，工厂）等工作场所；（办公室，工厂）等工作场所"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "workplaces"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The problem of ageism in the workplace often goes unrecognized.",
+      "zh": "工作场所的年龄歧视问题常被忽视。"
+    },
+    {
+      "en": "The government will legislate against discrimination in the workplace.",
+      "zh": "政府将制定法律，在工作场所禁止歧视。"
+    },
+    {
+      "en": "He tried to open an account at the branch of his bank nearest to his workplace.",
+      "zh": "他试图在离他工作地点最近的银行分行开立账户。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[管理]工作场所；车间",
+      "words": [
+        "plant",
+        "working space"
+      ]
+    }
+  ]
+}

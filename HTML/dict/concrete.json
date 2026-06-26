@@ -1,0 +1,88 @@
+{
+  "word": "concrete",
+  "found": true,
+  "phonetic_uk": "ˈkɒŋkriːt",
+  "phonetic_us": "ˈkɑːnkriːt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=concrete&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=concrete&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "确实的，具体的；实在的，有形的；混凝土的；物质的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "混凝土"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用混凝土覆盖（或做成）；<旧>（使）凝固，（使）凝结；使真实（化），使具体（化）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "concretes"
+    },
+    {
+      "name": "现在分词",
+      "value": "concreting"
+    },
+    {
+      "name": "过去式",
+      "value": "concreted"
+    },
+    {
+      "name": "过去分词",
+      "value": "concreted"
+    },
+    {
+      "name": "比较级",
+      "value": "more concrete"
+    },
+    {
+      "name": "最高级",
+      "value": "most concrete"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We sat on the concrete floor.",
+      "zh": "我们坐在混凝土地板上。"
+    },
+    {
+      "en": "The concrete was ready mixed.",
+      "zh": "混凝土是搅拌好的。"
+    },
+    {
+      "en": "I had no concrete evidence.",
+      "zh": "我当时没有明确而具体的证据。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[建]混凝土的；实在的，具体的；有形的",
+      "words": [
+        "honest",
+        "effective",
+        "real"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "凝结",
+      "words": [
+        "to freeze",
+        "clot"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "具体物；凝结物",
+      "words": [
+        "coagulation"
+      ]
+    }
+  ]
+}

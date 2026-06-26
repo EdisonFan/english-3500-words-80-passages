@@ -1,0 +1,65 @@
+{
+  "word": "shoulder",
+  "found": true,
+  "phonetic_uk": "ˈʃəʊldə(r)",
+  "phonetic_us": "ˈʃoʊldər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=shoulder&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=shoulder&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "肩，肩膀；双肩，上背部（shoulders）；（衣服的）肩部；（动物的）前腿连肩肉，肘子；山肩，瓶肩；<美> （公路旁的）路肩，紧急停车道；（担负责任或艰难困苦或提供力量的）肩膀；（四足动物的）肩背；（鸟、昆虫的）肩背"
+    },
+    {
+      "pos": "v.",
+      "meaning": "承担，担负；挤，闯；（用肩膀）推开，顶开；肩扛，肩挑"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "shoulders"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "shoulders"
+    },
+    {
+      "name": "现在分词",
+      "value": "shouldering"
+    },
+    {
+      "name": "过去式",
+      "value": "shouldered"
+    },
+    {
+      "name": "过去分词",
+      "value": "shouldered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The arrow pierced his shoulder.",
+      "zh": "箭头射入他的肩膀。"
+    },
+    {
+      "en": "She tapped him on the shoulder.",
+      "zh": "她拍了拍他的肩膀。"
+    },
+    {
+      "en": "Ralph tapped me on the shoulder.",
+      "zh": "拉尔夫轻轻地拍了拍我的肩膀。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "肩负，承担",
+      "words": [
+        "undertake",
+        "accept",
+        "sustain"
+      ]
+    }
+  ]
+}

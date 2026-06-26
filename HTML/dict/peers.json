@@ -1,0 +1,47 @@
+{
+  "word": "peers",
+  "found": true,
+  "phonetic_uk": "pɪəz",
+  "phonetic_us": "pɪrz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=peers&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=peers&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "同辈，同龄人；（英国或爱尔兰）贵族（peer 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "凝视；比得上（peer 的第三人称单数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Peers）皮尔斯（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She enjoys the respect of her peers.",
+      "zh": "她受到同侪的尊敬。"
+    },
+    {
+      "en": "She should be schooled with her peers.",
+      "zh": "她应当与她的同龄人一起接受教育。"
+    },
+    {
+      "en": "His engaging personality made him popular with his peers.",
+      "zh": "他迷人的个性使他很受同龄人欢迎。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "平辈，同事（peer的复数）",
+      "words": [
+        "colleagues",
+        "coworkers"
+      ]
+    }
+  ]
+}

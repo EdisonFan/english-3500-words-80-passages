@@ -1,0 +1,35 @@
+{
+  "word": "rainforest",
+  "found": true,
+  "phonetic_uk": "ˈreɪnfɒrɪst",
+  "phonetic_us": "ˈreɪnfɔːrɪst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=rainforest&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=rainforest&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（热带）雨林"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "rainforests"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Our survival is inextricably linked to the survival of the rainforest.",
+      "zh": "我们的生存与雨林的生存息息相关。"
+    },
+    {
+      "en": "They do serious harm to tropical rainforest.",
+      "zh": "他们对热带雨林造成严重危害。"
+    },
+    {
+      "en": "Low-level slash and burn farming doesn't harm rainforest.",
+      "zh": "低水平的刀耕火种不会损害雨林。"
+    }
+  ],
+  "synonyms": []
+}

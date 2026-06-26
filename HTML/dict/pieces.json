@@ -1,0 +1,38 @@
+{
+  "word": "pieces",
+  "found": true,
+  "phonetic_uk": "ˈpi:sɪz",
+  "phonetic_us": "ˈpiːsɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pieces&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pieces&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（从某物上拆下、撕下或切下的）块，片，段；部件；表示某种事物的个体（与不可数名词搭配）；文章；作品 （piece 的复数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "How do these two pieces join?",
+      "zh": "这两件东西怎样接合呢？"
+    },
+    {
+      "en": "The plane broke into three pieces.",
+      "zh": "那架飞机碎成了3块。"
+    },
+    {
+      "en": "Two pieces of luggage have gone missing.",
+      "zh": "有两件行李丢了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "匹头，毛束；件片块个工件零件",
+      "words": [
+        "piece goods"
+      ]
+    }
+  ]
+}

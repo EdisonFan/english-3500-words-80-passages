@@ -1,0 +1,34 @@
+{
+  "word": "sounds",
+  "found": true,
+  "phonetic_uk": "saʊndz",
+  "phonetic_us": "saʊndz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sounds&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sounds&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "音效，[声]声音（sound 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "发出声响（sound 的第三人称单数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "That sounds great. Deal me in!",
+      "zh": "这听起来太棒了。算我一个！"
+    },
+    {
+      "en": "That sounds arrogant, doesn't it?",
+      "zh": "那听起来很傲慢，不是吗？"
+    },
+    {
+      "en": "Murphy sounds like a child.",
+      "zh": "墨菲听起来像个孩子。"
+    }
+  ],
+  "synonyms": []
+}

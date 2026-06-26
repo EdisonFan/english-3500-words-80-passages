@@ -1,0 +1,54 @@
+{
+  "word": "waiting",
+  "found": true,
+  "phonetic_uk": "ˈweɪtɪŋ",
+  "phonetic_us": "ˈweɪtɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=waiting&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=waiting&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "等，等待；服侍，侍候，当服务员；宫廷侍候"
+    },
+    {
+      "pos": "v.",
+      "meaning": "等候；盼望，期待；推迟，延缓（wait 的现在分词）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （waiting）（英、印、美）韦廷（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "How long have you been waiting?",
+      "zh": "你等了多久了？"
+    },
+    {
+      "en": "You've been waiting long enough.",
+      "zh": "你等得够久的了。"
+    },
+    {
+      "en": "Have you been waiting long?",
+      "zh": "你等了很长时间吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计]等待；服侍",
+      "words": [
+        "service",
+        "noop"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "[计]等待；伺候（wait的ing形式）；延缓",
+      "words": [
+        "awaiting"
+      ]
+    }
+  ]
+}

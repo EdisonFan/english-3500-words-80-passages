@@ -1,0 +1,44 @@
+{
+  "word": "phenomenon",
+  "found": true,
+  "phonetic_uk": "fəˈnɒmɪnən",
+  "phonetic_us": "fəˈnɑːmɪnən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=phenomenon&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=phenomenon&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "现象；杰出的人，非凡的人（或事物）；（哲学）现象"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "phenomena"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This phenomenon piqued Dr. Morris' interest.",
+      "zh": "该现象引起莫里思博士的兴趣。"
+    },
+    {
+      "en": "Globalization is a phenomenon of the 21st century.",
+      "zh": "全球化是21世纪的现象。"
+    },
+    {
+      "en": "The causes of the phenomenon are still incompletely understood.",
+      "zh": "造成这种现象的原因尚未彻底弄清。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[物]现象；奇迹；杰出的人才",
+      "words": [
+        "wonder",
+        "miracle"
+      ]
+    }
+  ]
+}

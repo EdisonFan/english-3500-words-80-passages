@@ -1,0 +1,91 @@
+{
+  "word": "taboo",
+  "found": true,
+  "phonetic_uk": "təˈbuː",
+  "phonetic_us": "təˈbuː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=taboo&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=taboo&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（宗教或社会习俗方面的）禁忌，忌讳；禁忌的事物，禁忌行为（或做法）；塔布"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "忌讳的，为社会习俗所不容的，不被人接受的；（因会冒犯人或引起尴尬而）禁忌的，忌讳的；（因太神圣或太邪恶而）禁止接触的，禁止使用的"
+    },
+    {
+      "pos": "vt.",
+      "meaning": "把……列为禁忌"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "taboos"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "taboos"
+    },
+    {
+      "name": "现在分词",
+      "value": "tabooing"
+    },
+    {
+      "name": "过去式",
+      "value": "tabooed"
+    },
+    {
+      "name": "过去分词",
+      "value": "tabooed"
+    },
+    {
+      "name": "比较级",
+      "value": "more taboo"
+    },
+    {
+      "name": "最高级",
+      "value": "most taboo"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The topic of addiction remains something of a taboo in our family.",
+      "zh": "毒瘾在我们家依然是个有些忌讳的话题。"
+    },
+    {
+      "en": "Her brisk treatment of an almost taboo subject was a breath of fresh air.",
+      "zh": "她对一个几乎是禁忌话题的干脆处理令人耳目一新。"
+    },
+    {
+      "en": "Cancer is a taboo subject and people are frightened or embarrassed to talk openly about it.",
+      "zh": "癌症是个禁忌的话题，人们对公开谈论它感到害怕或尴尬。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "禁忌；禁止",
+      "words": [
+        "ban",
+        "don't"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "禁忌的；忌讳的",
+      "words": [
+        "ticklish"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "禁忌；禁止",
+      "words": [
+        "bar",
+        "inhibit"
+      ]
+    }
+  ]
+}

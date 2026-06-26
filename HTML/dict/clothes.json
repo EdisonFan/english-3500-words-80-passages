@@ -1,0 +1,42 @@
+{
+  "word": "clothes",
+  "found": true,
+  "phonetic_uk": "kləʊðz",
+  "phonetic_us": "kloʊðz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=clothes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=clothes&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "衣服，衣物；（在特定场合、特定时间或由特定人群穿着的）服装，礼服；被褥"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She wears really funky clothes.",
+      "zh": "她穿的衣服真是时髦又独特。"
+    },
+    {
+      "en": "She makes all her own clothes.",
+      "zh": "她的衣服都是自己做。"
+    },
+    {
+      "en": "His clothes were in tatters.",
+      "zh": "他的衣服破旧不堪。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "衣服",
+      "words": [
+        "garment",
+        "array",
+        "thread",
+        "raiment",
+        "wearing apparel"
+      ]
+    }
+  ]
+}

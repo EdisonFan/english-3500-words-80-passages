@@ -1,0 +1,89 @@
+{
+  "word": "peak",
+  "found": true,
+  "phonetic_uk": "piːk",
+  "phonetic_us": "piːk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=peak&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=peak&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "巅峰，顶点；山顶；有尖峰的山；尖端，尖顶；帽檐，帽舌；极值，峰值；（艏或艉的）尖舱；斜桁外端，（帆的）后上角"
+    },
+    {
+      "pos": "v.",
+      "meaning": "达到高峰，达到最大值；<古>消瘦，衰弱，精神萎靡"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "巅峰状态的，最高的；高峰时期的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Peak）（英）皮克（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "peaks"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "peaks"
+    },
+    {
+      "name": "现在分词",
+      "value": "peaking"
+    },
+    {
+      "name": "过去式",
+      "value": "peaked"
+    },
+    {
+      "name": "过去分词",
+      "value": "peaked"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She's at the peak of her career.",
+      "zh": "她正处在事业的巅峰。"
+    },
+    {
+      "en": "It's always crowded at peak times.",
+      "zh": "在高峰期总是很拥挤。"
+    },
+    {
+      "en": "Phone calls cost 20c per unit off-peak.",
+      "zh": "非高峰时间电话费每单位两角。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "山峰；最高点；顶点；[服装]帽舌",
+      "words": [
+        "height",
+        "sky",
+        "summit",
+        "mount",
+        "crown"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使达到最高点；使竖起",
+      "words": [
+        "cock"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "消瘦；到达最高点；变憔悴",
+      "words": [
+        "slim down"
+      ]
+    }
+  ]
+}

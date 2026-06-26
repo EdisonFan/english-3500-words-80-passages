@@ -1,0 +1,49 @@
+{
+  "word": "polluted",
+  "found": true,
+  "phonetic_uk": "pəˈluːtɪd",
+  "phonetic_us": "pəˈluːtɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=polluted&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=polluted&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "受污染的；被玷污的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "污染（pollute 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "A leakage of kerosene has polluted water supplies.",
+      "zh": "泄漏的煤油已污染了水源。"
+    },
+    {
+      "en": "It is probably the most polluted body of water in the world.",
+      "zh": "这也许是世界上最为污染的一片水域。"
+    },
+    {
+      "en": "Most people don't realize that they are breathing polluted air.",
+      "zh": "大多数人没有意识到自己正呼吸着污染了的空气。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "受污染的；被玷污的",
+      "words": [
+        "contaminated"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "污染（pollute的过去式和过去分词）",
+      "words": [
+        "contaminated"
+      ]
+    }
+  ]
+}

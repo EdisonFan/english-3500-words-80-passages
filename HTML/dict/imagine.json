@@ -1,0 +1,64 @@
+{
+  "word": "imagine",
+  "found": true,
+  "phonetic_uk": "ɪˈmædʒɪn",
+  "phonetic_us": "ɪˈmædʒɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=imagine&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=imagine&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "想象，设想；料想，认为；误以为，胡乱猜想"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "imagines"
+    },
+    {
+      "name": "现在分词",
+      "value": "imagining"
+    },
+    {
+      "name": "过去式",
+      "value": "imagined"
+    },
+    {
+      "name": "过去分词",
+      "value": "imagined"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I can just imagine his reaction.",
+      "zh": "我完全可以想象出他的反应。"
+    },
+    {
+      "en": "You can imagine he was terribly upset.",
+      "zh": "你能想像他有多苦恼。"
+    },
+    {
+      "en": "I can't imagine life without the children now.",
+      "zh": "我现在无法设想没有了孩子们的生活。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "想像；猜想；臆断",
+      "words": [
+        "picture",
+        "think of"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "想像；猜想；想像起来",
+      "words": [
+        "think of",
+        "suppose"
+      ]
+    }
+  ]
+}

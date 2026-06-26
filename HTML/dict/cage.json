@@ -1,0 +1,68 @@
+{
+  "word": "cage",
+  "found": true,
+  "phonetic_uk": "keɪdʒ",
+  "phonetic_us": "keɪdʒ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cage&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cage&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "笼子；监狱；电梯梯厢；（击球练习的）挡球网；足球（或曲棍球）球门"
+    },
+    {
+      "pos": "v.",
+      "meaning": "把……关进笼中，把……囚禁起来"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Cage）（英）凯奇，（法）卡热（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "cages"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "cages"
+    },
+    {
+      "name": "现在分词",
+      "value": "caging"
+    },
+    {
+      "name": "过去式",
+      "value": "caged"
+    },
+    {
+      "name": "过去分词",
+      "value": "caged"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The cage smelled of excrement.",
+      "zh": "这个笼子闻起来有粪便味。"
+    },
+    {
+      "en": "He opened up a cage and lifted out a 6ft python.",
+      "zh": "他打开一个笼子，提起了一条6英尺长的蟒蛇。"
+    },
+    {
+      "en": "Keep the dog confined in a suitable travelling cage.",
+      "zh": "把狗关进适于旅行的笼子里。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "笼，兽笼；牢房，监狱",
+      "words": [
+        "prison",
+        "jail"
+      ]
+    }
+  ]
+}

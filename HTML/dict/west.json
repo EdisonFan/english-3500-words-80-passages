@@ -1,0 +1,57 @@
+{
+  "word": "west",
+  "found": true,
+  "phonetic_uk": "west",
+  "phonetic_us": "west",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=west&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=west&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "西，西方；（某个国家、地区或地方的）西部；西方国家 (指美国、加拿大以及西欧、北欧和南欧诸国)（the West)；（美国）西部（尤指密西西比河以西诸州）(the West, the west)；<史>西方（国家）（与东欧前共产主义国家相对的欧洲和北美洲的非共产主义国家）（the West)；（桥牌）坐在西首位置的人"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "西方的,向西的；（风）来自西方的；（用于国家、州和地区的名称中）西部的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "向西方，朝西方；……以西"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （West）（英、德、芬、瑞典）韦斯特（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The wind veered to the west.",
+      "zh": "风向转西。"
+    },
+    {
+      "en": "The sun was sinking in the west.",
+      "zh": "太阳西坠。"
+    },
+    {
+      "en": "We are going west to California.",
+      "zh": "我们将往西去加利福尼亚。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[地理]西；[天]西方；西部",
+      "words": [
+        "occident"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "[天]西方的；朝西的",
+      "words": [
+        "hesperian"
+      ]
+    }
+  ]
+}

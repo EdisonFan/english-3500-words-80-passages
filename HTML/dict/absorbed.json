@@ -1,0 +1,50 @@
+{
+  "word": "absorbed",
+  "found": true,
+  "phonetic_uk": "əbˈzɔːbd",
+  "phonetic_us": "əbˈzɔːrbd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=absorbed&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=absorbed&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "极感兴趣的，全神贯注的；被吸收的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "吸收；使并入，纳入；同化，汲取（absorb 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The cream is easily absorbed into the skin.",
+      "zh": "这种乳霜皮肤易吸收。"
+    },
+    {
+      "en": "He stopped and watched with amusement to see the child so absorbed.",
+      "zh": "他停下来饶有兴味地看这个孩子如此全神贯注的样子。"
+    },
+    {
+      "en": "Gradually add 1 cup of milk, stirring until the liquid is absorbed.",
+      "zh": "逐渐加入一量杯牛奶，一边搅动直到液体被吸收。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "被吸收的；一心一意的",
+      "words": [
+        "wholehearted",
+        "unbendable"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "吸收；使全神贯注（absorb的过去分词形式）",
+      "words": [
+        "sucked"
+      ]
+    }
+  ]
+}

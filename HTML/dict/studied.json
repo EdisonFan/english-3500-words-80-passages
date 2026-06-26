@@ -1,0 +1,53 @@
+{
+  "word": "studied",
+  "found": true,
+  "phonetic_uk": "ˈstʌdid",
+  "phonetic_us": "ˈstʌdid",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=studied&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=studied&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "学习；端详；研究；求学；记住（或背下）台词；仔细考虑；尽力取得（结果）（study 的过去式及过去分词）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "深思熟虑的；博学的；刻意的；精心策划的；装模作样的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He studied law.",
+      "zh": "他学习法学。"
+    },
+    {
+      "en": "He studied conscientiously and enthusiastically.",
+      "zh": "他认真积极地学习。"
+    },
+    {
+      "en": "He studied maths at college.",
+      "zh": "他在大学里学过数学。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "有计划的；故意的",
+      "words": [
+        "designed",
+        "planned",
+        "intended",
+        "shaped",
+        "calculated"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "学习（study的过去式）",
+      "words": [
+        "learnt"
+      ]
+    }
+  ]
+}

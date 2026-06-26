@@ -1,0 +1,42 @@
+{
+  "word": "centered",
+  "found": true,
+  "phonetic_uk": "ˈsentəd",
+  "phonetic_us": "ˈsentərd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=centered&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=centered&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "居中的；有圆心的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "集中；居中（center 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The first is an automatic, metabolic system whose control is centered in the brain stem.",
+      "zh": "第一种是自发的新陈代谢系统，它的控制集中在脑干上。"
+    },
+    {
+      "en": "Even as a satire, it seems disgusting and shocking in America with its child-centered culture.",
+      "zh": "即使是作为一种讽刺，在以儿童为中心的美国文化中，它也显得令人厌恶和震惊。"
+    },
+    {
+      "en": "All this activity was centered around southern Europe where there is also evidence of ceramics that were created much later.",
+      "zh": "所有这些活动都集中在欧洲南部，那里也有证据证明陶器是很久以后才创造出来的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "集中；居中（center的过去式和过去分词形式）",
+      "words": [
+        "massed"
+      ]
+    }
+  ]
+}

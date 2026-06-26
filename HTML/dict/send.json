@@ -1,0 +1,82 @@
+{
+  "word": "send",
+  "found": true,
+  "phonetic_uk": "send",
+  "phonetic_us": "send",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=send&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=send&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "邮寄，发送；传达，告知；派遣，打发，安排去；使快速（或猛然）移动；使作出（某种反应），使表现出（某种行为）；排放，排出（烟或化学反应的产生物等）；<非正式> 使着迷，使入迷"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<古> 波浪的推力，波浪引起的水位上升（=scend）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Send）（德）森德"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "sends"
+    },
+    {
+      "name": "现在分词",
+      "value": "sending"
+    },
+    {
+      "name": "过去式",
+      "value": "sent或sended"
+    },
+    {
+      "name": "过去分词",
+      "value": "sent或sended"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Shall I send you the book?",
+      "zh": "我把书给你寄去，好不好？"
+    },
+    {
+      "en": "I'm trying to send an SMS.",
+      "zh": "我正在发短信。"
+    },
+    {
+      "en": "She parcelled up the books to send.",
+      "zh": "她把要寄走的书包了起来。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "发送，寄；派遣；使进入；发射",
+      "words": [
+        "beam",
+        "release",
+        "mission",
+        "project",
+        "let go"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "派人；寄信",
+      "words": [
+        "to post a letter"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "上升运动",
+      "words": [
+        "ascending motion",
+        "upward movement"
+      ]
+    }
+  ]
+}

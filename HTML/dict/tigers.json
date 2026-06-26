@@ -1,0 +1,30 @@
+{
+  "word": "tigers",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tigers&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tigers&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "老虎（tiger 复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Tigers are solitary animals.",
+      "zh": "虎是独居动物。"
+    },
+    {
+      "en": "Tigers are flesh-eating animals.",
+      "zh": "虎是食肉动物。"
+    },
+    {
+      "en": "Lions and tigers belong to the cat family.",
+      "zh": "狮子和老虎属于猫科。"
+    }
+  ],
+  "synonyms": []
+}

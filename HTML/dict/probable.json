@@ -1,0 +1,57 @@
+{
+  "word": "probable",
+  "found": true,
+  "phonetic_uk": "ˈprɒbəb(ə)l",
+  "phonetic_us": "ˈprɑːbəb(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=probable&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=probable&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "很可能发生（或存在等）的，大概的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "可能获胜的人（或动物），可能入选者"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "probables"
+    },
+    {
+      "name": "比较级",
+      "value": "more probable"
+    },
+    {
+      "name": "最高级",
+      "value": "most probable"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It is probable that the disease has a genetic element.",
+      "zh": "这种疾病很可能有遗传因素。"
+    },
+    {
+      "en": "If something is probable, you mean that you can trust it, so probability means trustworthiness.",
+      "zh": "如果有什么是很可能的，你的意思是你可以信赖它，所以可能性意味着可信赖度。"
+    },
+    {
+      "en": "It is probable that many undiagnosed children exist in the education system with \"invisible\" disabilities.",
+      "zh": "在教育系统中，很可能存在许多未被确诊的儿童，他们有“看不见的”残疾。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "很可能的；可信的",
+      "words": [
+        "likely",
+        "trusted",
+        "authentic"
+      ]
+    }
+  ]
+}

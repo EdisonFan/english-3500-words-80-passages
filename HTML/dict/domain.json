@@ -1,0 +1,53 @@
+{
+  "word": "domain",
+  "found": true,
+  "phonetic_uk": "dəˈmeɪn",
+  "phonetic_us": "doʊˈmeɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=domain&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=domain&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "领域，范围；领土，势力范围；（因特网上的）域；（函数的）定义域；地产"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Domain）（英、法）多曼（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "domains"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Physics used to be very much a male domain.",
+      "zh": "物理学曾在很大程度上是男人的领域。"
+    },
+    {
+      "en": "Users need to find out if a domain name is already registered or is still available.",
+      "zh": "用户需要查明某个域名是已经被注册过还是仍然可用。"
+    },
+    {
+      "en": "The domain is vast.",
+      "zh": "领域广大。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "领域；域名；产业；地产",
+      "words": [
+        "province",
+        "territory",
+        "world",
+        "industry",
+        "kingdom",
+        "universe",
+        "field"
+      ]
+    }
+  ]
+}

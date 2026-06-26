@@ -1,0 +1,30 @@
+{
+  "word": "eggs",
+  "found": true,
+  "phonetic_uk": "eɡz",
+  "phonetic_us": "eɡz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=eggs&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=eggs&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[禽]蛋（egg 的复数形式）；鸡蛋"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The eggs are about to hatch.",
+      "zh": "这些蛋就要孵化了。"
+    },
+    {
+      "en": "Soon she was juggling five eggs.",
+      "zh": "很快她就在抛接5个鸡蛋了。"
+    },
+    {
+      "en": "Eggs were rationed during the war.",
+      "zh": "战争期间，鸡蛋限量供应。"
+    }
+  ],
+  "synonyms": []
+}

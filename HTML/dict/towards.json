@@ -1,0 +1,42 @@
+{
+  "word": "towards",
+  "found": true,
+  "phonetic_uk": "təˈwɔːdz",
+  "phonetic_us": "tɔːrdz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=towards&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=towards&type=2",
+  "defs": [
+    {
+      "pos": "prep.",
+      "meaning": "向，朝着；接近达到（目的）；接近，将近（某一时间）；接近，靠近（某地）；对，关于；（钱）用于"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She pushed the cup towards me.",
+      "zh": "她把杯子推向我这边。"
+    },
+    {
+      "en": "Phil moved towards the window.",
+      "zh": "菲尔朝窗户走去。"
+    },
+    {
+      "en": "They pulled towards the shore.",
+      "zh": "他们向岸边划去。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "prep.",
+      "meaning": "朝，向；对于；有助于",
+      "words": [
+        "at",
+        "unto",
+        "for",
+        "on",
+        "to"
+      ]
+    }
+  ]
+}

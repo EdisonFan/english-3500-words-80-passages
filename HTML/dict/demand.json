@@ -1,0 +1,89 @@
+{
+  "word": "demand",
+  "found": true,
+  "phonetic_uk": "dɪˈmɑːnd",
+  "phonetic_us": "dɪˈmænd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=demand&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=demand&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "强烈要求；需要，需求"
+    },
+    {
+      "pos": "n.",
+      "meaning": "坚决的要求；需求，需求量；（困难的）要求"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Demand）（德）德曼德（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "demands"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "demands"
+    },
+    {
+      "name": "现在分词",
+      "value": "demanding"
+    },
+    {
+      "name": "过去式",
+      "value": "demanded"
+    },
+    {
+      "name": "过去分词",
+      "value": "demanded"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Demand is outstripping supply.",
+      "zh": "需求快超过供给了。"
+    },
+    {
+      "en": "Demand is outpacing production.",
+      "zh": "需求正在超过生产。"
+    },
+    {
+      "en": "I demand to see the manager.",
+      "zh": "我坚决要求见经理。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "要求；需要；查询",
+      "words": [
+        "exact",
+        "lack",
+        "desire",
+        "call for"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "需要；[计]请求；查问",
+      "words": [
+        "wish",
+        "have need of"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[经]需求；要求；需要",
+      "words": [
+        "necessity",
+        "need",
+        "do",
+        "desire",
+        "want"
+      ]
+    }
+  ]
+}

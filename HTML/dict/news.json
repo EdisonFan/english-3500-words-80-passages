@@ -1,0 +1,40 @@
+{
+  "word": "news",
+  "found": true,
+  "phonetic_uk": "njuːz",
+  "phonetic_us": "nuːz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=news&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=news&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "消息，新情况；新闻（报道）；新闻人物，新闻事件；电视新闻节目（the news）；（用于报纸名）新闻"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The news astonished everyone.",
+      "zh": "这消息使大家十分惊讶。"
+    },
+    {
+      "en": "The news heartened everybody.",
+      "zh": "这个消息鼓舞了每个人。"
+    },
+    {
+      "en": "The news lifted our spirits.",
+      "zh": "这消息使我们群情振奋。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "新闻，消息；新闻报导",
+      "words": [
+        "message",
+        "word",
+        "press"
+      ]
+    }
+  ]
+}

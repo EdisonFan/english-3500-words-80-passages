@@ -1,0 +1,34 @@
+{
+  "word": "seized",
+  "found": true,
+  "phonetic_uk": "siːzd",
+  "phonetic_us": "siːzd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=seized&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=seized&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "查封的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "逮住；咬住（seize 的过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She seized hold of my hand.",
+      "zh": "她抓住我的手。"
+    },
+    {
+      "en": "He seized her by the arm.",
+      "zh": "他抓住她的胳膊。"
+    },
+    {
+      "en": "He was seized by curiosity.",
+      "zh": "他好奇心顿起。"
+    }
+  ],
+  "synonyms": []
+}

@@ -1,0 +1,43 @@
+{
+  "word": "adding",
+  "found": true,
+  "phonetic_uk": "ˈædɪŋ",
+  "phonetic_us": "ˈædɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=adding&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=adding&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "增加（add 的 ing 形式）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Adding）人名；（瑞典）阿丁"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "You can make a curry hotter simply by adding chillies.",
+      "zh": "你只需加辣椒就能增加咖喱菜的辣味。"
+    },
+    {
+      "en": "The road was reduced to 18 ft in width by adding parking bays.",
+      "zh": "这条路增加了停车区域后，宽度减少为18英尺。"
+    },
+    {
+      "en": "You can individualize a document by adding comments in the margins.",
+      "zh": "你可以通过在页边的空白处添加评论来使文件与众不同。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "增加（add的ing形式）",
+      "words": [
+        "increasing",
+        "building"
+      ]
+    }
+  ]
+}

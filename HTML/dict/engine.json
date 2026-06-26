@@ -1,0 +1,63 @@
+{
+  "word": "engine",
+  "found": true,
+  "phonetic_uk": "ˈendʒɪn",
+  "phonetic_us": "ˈendʒɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=engine&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=engine&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "发动机，引擎；机车，火车头；专用装备，器械；工具，手段；驱动力，推动力"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "engines"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "engines"
+    },
+    {
+      "name": "现在分词",
+      "value": "engining"
+    },
+    {
+      "name": "过去式",
+      "value": "engined"
+    },
+    {
+      "name": "过去分词",
+      "value": "engined"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The engine spluttered and died.",
+      "zh": "发动机劈劈啪啪响了一阵后便熄火了。"
+    },
+    {
+      "en": "The engine was running smoothly.",
+      "zh": "发动机在平稳运转。"
+    },
+    {
+      "en": "Why has the engine stopped?",
+      "zh": "发动机怎么停了？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "引擎，[动力]发动机；[铁路]机车，火车头；工具",
+      "words": [
+        "facilities",
+        "instrument",
+        "vehicle",
+        "tool",
+        "gear"
+      ]
+    }
+  ]
+}

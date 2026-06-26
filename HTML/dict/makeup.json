@@ -1,0 +1,44 @@
+{
+  "word": "makeup",
+  "found": true,
+  "phonetic_uk": "meɪkʌp",
+  "phonetic_us": "ˈmeɪˌkʌp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=makeup&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=makeup&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "组成，构造；化妆品；<美>补考；天性，性格；补给，补充"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "makeups"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She retouched her makeup.",
+      "zh": "她修整了一下自己的妆容。"
+    },
+    {
+      "en": "She wore no makeup, and her face was dotted with acne.",
+      "zh": "她没有化妆，脸上长满了粉刺。"
+    },
+    {
+      "en": "She had a lot of makeup on and not a hair out of place.",
+      "zh": "她浓妆艳抹，衣冠楚楚。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "化妆品；组成；补充；补考",
+      "words": [
+        "recruitment",
+        "renewal"
+      ]
+    }
+  ]
+}

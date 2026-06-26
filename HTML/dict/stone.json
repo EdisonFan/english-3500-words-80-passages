@@ -1,0 +1,83 @@
+{
+  "word": "stone",
+  "found": true,
+  "phonetic_uk": "stəʊn",
+  "phonetic_us": "stoʊn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=stone&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=stone&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "石头，石料；石块；宝石；果核；结石；<英> 英石（英国重量单位,相当于6.35千克或14磅）；纪念碑，石碑；（指重量或缺少感情、表情或动作）像石头一样；（天文）陨石；CURLING STONE的简称；（桌游中的）棋子，筹码；排版用石台，石印台；（表示观念或规则固定而不可改变）板上钉钉；石头色，石青色"
+    },
+    {
+      "pos": "v.",
+      "meaning": "向……扔石头；去核；用石头建（或铺）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "石的，石制的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "完全地，全部地"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Stone）（捷）斯托内，（瑞典）斯托内，（英）斯通（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "stones或stone"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "stones"
+    },
+    {
+      "name": "现在分词",
+      "value": "stoning"
+    },
+    {
+      "name": "过去式",
+      "value": "stoned"
+    },
+    {
+      "name": "过去分词",
+      "value": "stoned"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I was hit by a falling stone.",
+      "zh": "我被一块坠落的石头击中。"
+    },
+    {
+      "en": "She's trying to lose a stone.",
+      "zh": "她试图减去一英石的体重。"
+    },
+    {
+      "en": "The stone rolled down the hill.",
+      "zh": "石头滚下山坡。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[建]石头；结石；[宝]宝石",
+      "words": [
+        "stane",
+        "calculus"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "石的，石制的",
+      "words": [
+        "lithic"
+      ]
+    }
+  ]
+}

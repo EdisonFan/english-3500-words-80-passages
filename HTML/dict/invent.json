@@ -1,0 +1,57 @@
+{
+  "word": "invent",
+  "found": true,
+  "phonetic_uk": "ɪnˈvent",
+  "phonetic_us": "ɪnˈvent",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=invent&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=invent&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "发明，创造；编造，虚构"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "invents"
+    },
+    {
+      "name": "现在分词",
+      "value": "inventing"
+    },
+    {
+      "name": "过去式",
+      "value": "invented"
+    },
+    {
+      "name": "过去分词",
+      "value": "invented"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The U.S. needs the new companies that will invent them.",
+      "zh": "美国需要能发明这些产品的新公司。"
+    },
+    {
+      "en": "I learned that different inventors often invent similar things.",
+      "zh": "我了解到不同的发明家经常发明类似的东西。"
+    },
+    {
+      "en": "What excuse did he invent this time?",
+      "zh": "他这次编了什么借口？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "发明；创造；虚构",
+      "words": [
+        "father",
+        "coin",
+        "create"
+      ]
+    }
+  ]
+}

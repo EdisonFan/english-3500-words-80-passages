@@ -1,0 +1,48 @@
+{
+  "word": "sister",
+  "found": true,
+  "phonetic_uk": "ˈsɪstə(r)",
+  "phonetic_us": "ˈsɪstər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sister&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sister&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "姐姐，妹妹；（称志同道合者）姐妹；（女权运动中的）姐妹；姊妹，大姐，妹妹（妇女对其他妇女表示友好和支持时的用语）；<非正式>姐妹，大姐，妹子（用作女性间的称呼）；<美>大姐，小妹（美国黑人妇女之间使用的称呼）；修女，女教友（Sister）；<英>护士（长）（Sister）；（美国大学）女生联谊会会员；（尤指组织之间的）姐妹（关系）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "同类的，同质的，如同姐妹的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "sisters"
+    }
+  ],
+  "examples": [
+    {
+      "en": "And how is my sainted sister?",
+      "zh": "我那大好人姐姐怎么样？"
+    },
+    {
+      "en": "His sister Sarah helped him.",
+      "zh": "他姐姐萨拉帮助了他。"
+    },
+    {
+      "en": "My other sister is a doctor.",
+      "zh": "我的另一个妹妹是医生。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "姐妹；修女；护士",
+      "words": [
+        "sis",
+        "tittie"
+      ]
+    }
+  ]
+}

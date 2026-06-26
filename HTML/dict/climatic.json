@@ -1,0 +1,30 @@
+{
+  "word": "climatic",
+  "found": true,
+  "phonetic_uk": "klaɪˈmætɪk",
+  "phonetic_us": "klaɪˈmætɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=climatic&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=climatic&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "气候的，与气候有关的；由气候引起的，受气候影响的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The warming of the Earth and the consequent climatic changes affect us all.",
+      "zh": "全球变暖以及随之而来的气候变化影响我们每个人。"
+    },
+    {
+      "en": "Climatic conditions again deteriorated.",
+      "zh": "气候条件再次恶化。"
+    },
+    {
+      "en": "It must be possible to determine the time at which the inferred climatic conditions held.",
+      "zh": "必须能够确定所推断的气候条件所维持的时间。"
+    }
+  ],
+  "synonyms": []
+}

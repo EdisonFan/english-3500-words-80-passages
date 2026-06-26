@@ -1,0 +1,43 @@
+{
+  "word": "twisted",
+  "found": true,
+  "phonetic_uk": "ˈtwɪstɪd",
+  "phonetic_us": "ˈtwɪstɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=twisted&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=twisted&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "扭曲的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "扭动（twist 的过去式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "John twisted his ankle badly.",
+      "zh": "约翰的脚踝严重扭伤。"
+    },
+    {
+      "en": "He fell and twisted his ankle.",
+      "zh": "他摔了一跤，扭伤了脚踝。"
+    },
+    {
+      "en": "The wheel had been twisted out of shape.",
+      "zh": "轮子已经扭曲变形了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "扭曲的",
+      "words": [
+        "tortuous",
+        "screwy"
+      ]
+    }
+  ]
+}

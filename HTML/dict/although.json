@@ -1,0 +1,41 @@
+{
+  "word": "although",
+  "found": true,
+  "phonetic_uk": "ɔːlˈðəʊ",
+  "phonetic_us": "ɔːlˈðoʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=although&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=although&type=2",
+  "defs": [
+    {
+      "pos": "conj.",
+      "meaning": "虽然，尽管；但是，然而"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Although it is tasty, crab is very filling.",
+      "zh": "螃蟹虽然好吃，但很容易让人饱。"
+    },
+    {
+      "en": "Although small, the kitchen is well designed.",
+      "zh": "厨房虽小，但设计巧妙。"
+    },
+    {
+      "en": "Although the sun was shining it wasn't very warm.",
+      "zh": "尽管太阳高照，却不很暖和。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "conj.",
+      "meaning": "虽然，尽管",
+      "words": [
+        "while",
+        "though",
+        "as",
+        "albeit"
+      ]
+    }
+  ]
+}

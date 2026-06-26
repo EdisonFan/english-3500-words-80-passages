@@ -1,0 +1,82 @@
+{
+  "word": "video",
+  "found": true,
+  "phonetic_uk": "ˈvɪdiəʊ",
+  "phonetic_us": "ˈvɪdioʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=video&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=video&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（某个事件或场合的）录像；（指方法）录影；录像带；音乐录影；<英>录像机；视频播放软件"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "电视的，视频的；图像的，画面的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "录下（电视节目）；（用摄像机）拍摄"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "videos"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "videoes或videos"
+    },
+    {
+      "name": "现在分词",
+      "value": "videoing"
+    },
+    {
+      "name": "过去式",
+      "value": "videoed"
+    },
+    {
+      "name": "过去分词",
+      "value": "videoed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Do we have a blank video ?",
+      "zh": "我们有空白录像带吗？"
+    },
+    {
+      "en": "She has watched the race on video.",
+      "zh": "她已观看了比赛的录像。"
+    },
+    {
+      "en": "A wedding is the perfect subject for video.",
+      "zh": "婚礼是极好的录像主题。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[电子]视频；录像，录像机；[电视]电视",
+      "words": [
+        "television",
+        "Vedio"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "[电子][电视]视频的；录像的；电视的",
+      "words": [
+        "televisual"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "录制",
+      "words": [
+        "to produce"
+      ]
+    }
+  ]
+}

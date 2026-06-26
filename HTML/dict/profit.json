@@ -1,0 +1,87 @@
+{
+  "word": "profit",
+  "found": true,
+  "phonetic_uk": "ˈprɒfɪt",
+  "phonetic_us": "ˈprɑːfɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=profit&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=profit&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "利润，盈利；<正式> 利益，好处"
+    },
+    {
+      "pos": "v.",
+      "meaning": "获益，得益（于）；赢利，获利"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Profit）（法）普罗菲（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "profits"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "profits"
+    },
+    {
+      "name": "现在分词",
+      "value": "profiting"
+    },
+    {
+      "name": "过去式",
+      "value": "profited"
+    },
+    {
+      "name": "过去分词",
+      "value": "profited"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Profit from exports rose 7.3%.",
+      "zh": "出口利润增长了7.3%。"
+    },
+    {
+      "en": "What level of profit do you envisage?",
+      "zh": "你预计会有什么样的利润水平？"
+    },
+    {
+      "en": "Pretax profit surged almost twelvefold.",
+      "zh": "税前利润几乎暴涨到了以前的十二倍。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[会计]利润；利益",
+      "words": [
+        "behalf",
+        "margin",
+        "benefit",
+        "gain",
+        "sake"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "获利；有益",
+      "words": [
+        "advantage",
+        "gain"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "有益于",
+      "words": [
+        "benefit",
+        "be good for"
+      ]
+    }
+  ]
+}

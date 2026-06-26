@@ -1,0 +1,34 @@
+{
+  "word": "studies",
+  "found": true,
+  "phonetic_uk": "ˈstʌdiz",
+  "phonetic_us": "ˈstʌdiz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=studies&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=studies&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "研究；学习；学业（study 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "学习（study 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She has neglected her studies.",
+      "zh": "她忽视了自己的学习。"
+    },
+    {
+      "en": "She studies art two afternoons a week.",
+      "zh": "她每周两个下午学习艺术。"
+    },
+    {
+      "en": "She's doing GNVQ Business Studies at college.",
+      "zh": "她正在职业学校学习全国普通职业证书的商业培训课程。"
+    }
+  ],
+  "synonyms": []
+}

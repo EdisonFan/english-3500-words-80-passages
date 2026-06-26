@@ -1,0 +1,75 @@
+{
+  "word": "site",
+  "found": true,
+  "phonetic_uk": "saɪt",
+  "phonetic_us": "saɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=site&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=site&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（建筑的）工地，用地；（某事发生的）地点，现场；（作某种用途的）场所，场地；网站，站点（=website）；（身体的某个）部位；（城镇、建筑物或纪念碑的）地基，选址；遗址，原址；（帐篷或大篷车内）歇脚的地方"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使坐落在，为......选址"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "sites"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "sites"
+    },
+    {
+      "name": "现在分词",
+      "value": "siting"
+    },
+    {
+      "name": "过去式",
+      "value": "sited"
+    },
+    {
+      "name": "过去分词",
+      "value": "sited"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Do you want to bookmark this site?",
+      "zh": "你想给这个站点做书签吗？"
+    },
+    {
+      "en": "This site is definitely worth bookmarking.",
+      "zh": "这个网站绝对值得设电子书签。"
+    },
+    {
+      "en": "The monument was moved bodily to a new site.",
+      "zh": "整个纪念碑被迁到了新的地点。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "地点；[自]位置；场所",
+      "words": [
+        "location",
+        "spot",
+        "situation",
+        "where",
+        "lie"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "设置；为…选址",
+      "words": [
+        "intercalate",
+        "instal"
+      ]
+    }
+  ]
+}

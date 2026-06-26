@@ -1,0 +1,72 @@
+{
+  "word": "fist",
+  "found": true,
+  "phonetic_uk": "fɪst",
+  "phonetic_us": "fɪst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fist&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fist&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "拳，拳头；抓住，抓牢；<非正式>手迹，笔迹；指标参见号"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用拳头打；握成拳"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "fists"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "fists"
+    },
+    {
+      "name": "现在分词",
+      "value": "fisting"
+    },
+    {
+      "name": "过去式",
+      "value": "fisted"
+    },
+    {
+      "name": "过去分词",
+      "value": "fisted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He let fly at me with his fist.",
+      "zh": "他挥拳打我。"
+    },
+    {
+      "en": "He punched me with his fist.",
+      "zh": "他用拳头猛击我。"
+    },
+    {
+      "en": "He struck the table with his fist.",
+      "zh": "他用拳头打桌子。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "拳头；掌握；笔迹",
+      "words": [
+        "writing",
+        "calligraphy"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "紧握；拳打；握成拳",
+      "words": [
+        "squeeze",
+        "grip"
+      ]
+    }
+  ]
+}

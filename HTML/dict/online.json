@@ -1,0 +1,34 @@
+{
+  "word": "online",
+  "found": true,
+  "phonetic_uk": "ˌɒnˈlaɪn",
+  "phonetic_us": "ˌɑːnˈlaɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=online&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=online&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "（产品、服务或信息）在线的，网上的；（计算机）联机的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "在网上，利用网际网路（购买、获得等）；联机地，在电脑操控下；开始运行，存在着"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "An online tutorial is provided.",
+      "zh": "在线辅导可供查阅。"
+    },
+    {
+      "en": "I keep getting disconnected when I'm online.",
+      "zh": "我上网时不断掉线。"
+    },
+    {
+      "en": "You can chat to other people who are online.",
+      "zh": "你可以与其他在线的人聊天。"
+    }
+  ],
+  "synonyms": []
+}

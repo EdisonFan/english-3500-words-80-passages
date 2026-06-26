@@ -1,0 +1,44 @@
+{
+  "word": "surgery",
+  "found": true,
+  "phonetic_uk": "ˈsɜːdʒəri",
+  "phonetic_us": "ˈsɜːrdʒəri",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=surgery&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=surgery&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "外科手术；<英>诊所；（议员的）接待时间；应诊时间；手术室"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "surgeries"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She's had laser surgery on her eye.",
+      "zh": "她做了眼部激光手术。"
+    },
+    {
+      "en": "He had survived heart bypass surgery.",
+      "zh": "他在心脏搭桥手术中活了下来。"
+    },
+    {
+      "en": "Surgery to a balky ankle was required.",
+      "zh": "脚踝受伤了，必须接受手术。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[外科]外科；外科手术；手术室；诊疗室",
+      "words": [
+        "theater",
+        "surgical department"
+      ]
+    }
+  ]
+}

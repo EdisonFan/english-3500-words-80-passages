@@ -1,0 +1,35 @@
+{
+  "word": "downside",
+  "found": true,
+  "phonetic_uk": "ˈdaʊnsaɪd",
+  "phonetic_us": "ˈdaʊnsaɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=downside&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=downside&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "缺点，不利方面"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "downsides"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The downside of this approach is a lack of clear leadership.",
+      "zh": "这种方式的不足之处是缺乏明确的指挥。"
+    },
+    {
+      "en": "Yet the loss of formality has its downside.",
+      "zh": "然而，失礼也有其不利的一面。"
+    },
+    {
+      "en": "Encouraging this kind of thinking has a downside.",
+      "zh": "鼓励这种想法有个缺点。"
+    }
+  ],
+  "synonyms": []
+}

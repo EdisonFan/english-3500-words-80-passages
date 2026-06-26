@@ -1,0 +1,51 @@
+{
+  "word": "capacity",
+  "found": true,
+  "phonetic_uk": "kəˈpæsəti",
+  "phonetic_us": "kəˈpæsəti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=capacity&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=capacity&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "能力，才能；容积，容纳能力；职位，职责；功率，容积；生产量，生产能力"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "无虚席的，满场的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "capacities"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Human beings have an infinite capacity for self-deception.",
+      "zh": "人类自欺的能力是无穷尽的。"
+    },
+    {
+      "en": "The school is filled to capacity.",
+      "zh": "这所学校已经满员。"
+    },
+    {
+      "en": "He acted in an advisory capacity only.",
+      "zh": "他仅以顾问身份工作。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "能力；[物]容量；资格，地位；生产力",
+      "words": [
+        "ability",
+        "competence",
+        "membership",
+        "status",
+        "productivity"
+      ]
+    }
+  ]
+}

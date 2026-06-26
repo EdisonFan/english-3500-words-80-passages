@@ -1,0 +1,60 @@
+{
+  "word": "drizzle",
+  "found": true,
+  "phonetic_uk": "ˈdrɪz(ə)l",
+  "phonetic_us": "ˈdrɪz(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=drizzle&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=drizzle&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "下毛毛雨，下蒙蒙细雨； （毛毛雨似的）洒落；（毛毛雨似的）洒落"
+    },
+    {
+      "pos": "n.",
+      "meaning": "毛毛细雨，蒙蒙细雨；（烹）（浇在食品上的）液态调料细流"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "drizzles"
+    },
+    {
+      "name": "现在分词",
+      "value": "drizzling"
+    },
+    {
+      "name": "过去式",
+      "value": "drizzled"
+    },
+    {
+      "name": "过去分词",
+      "value": "drizzled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "A fine drizzle began to veil the hills.",
+      "zh": "蒙蒙细雨渐渐笼罩了群山。"
+    },
+    {
+      "en": "Clouds had come down and it was starting to drizzle.",
+      "zh": "云压了下来，开始下起了毛毛雨。"
+    },
+    {
+      "en": "The drizzle had now stopped and the sun was breaking through.",
+      "zh": "细雨已经停了，太阳露出了脸。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "细雨，[气象]毛毛雨",
+      "words": [
+        "mizzle",
+        "drow"
+      ]
+    }
+  ]
+}

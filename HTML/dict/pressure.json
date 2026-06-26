@@ -1,0 +1,72 @@
+{
+  "word": "pressure",
+  "found": true,
+  "phonetic_uk": "ˈpreʃə(r)",
+  "phonetic_us": "ˈpreʃər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pressure&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pressure&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "压力，挤压；（气体或液体形成的）压力，压强；心理压力，紧张；催促，要求；气压"
+    },
+    {
+      "pos": "v.",
+      "meaning": "对……施加压力，强迫；使……增压"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "pressures"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "pressures"
+    },
+    {
+      "name": "现在分词",
+      "value": "pressuring"
+    },
+    {
+      "name": "过去式",
+      "value": "pressured"
+    },
+    {
+      "name": "过去分词",
+      "value": "pressured"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Can you work under pressure?",
+      "zh": "你能在压力下工作吗？"
+    },
+    {
+      "en": "The pressure now was relentless.",
+      "zh": "压力现在毫无减弱之意。"
+    },
+    {
+      "en": "He's good at dealing with pressure.",
+      "zh": "他善于应付压力。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[力]压力；压迫，[物]压强",
+      "words": [
+        "heat",
+        "compression force"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "迫使；密封；使……增压",
+      "words": [
+        "reduce to",
+        "compel"
+      ]
+    }
+  ]
+}

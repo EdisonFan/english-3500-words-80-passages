@@ -1,0 +1,82 @@
+{
+  "word": "bark",
+  "found": true,
+  "phonetic_uk": "bɑːk",
+  "phonetic_us": "bɑːrk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bark&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bark&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "大声嚷，吼叫；（狗）吠，叫；擦破（胫部的）皮；剥去（树，木头的）皮"
+    },
+    {
+      "pos": "n.",
+      "meaning": "狗叫声，吠声；吼叫声；树皮；小帆船，三桅帆船"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Bark）（英、西、德、捷、法、芬、瑞典）巴克，（阿拉伯、俄）巴尔克（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "barks"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "barks"
+    },
+    {
+      "name": "现在分词",
+      "value": "barking"
+    },
+    {
+      "name": "过去式",
+      "value": "barked"
+    },
+    {
+      "name": "过去分词",
+      "value": "barked"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Deer had stripped the tree of its bark.",
+      "zh": "鹿啃掉了树皮。"
+    },
+    {
+      "en": "Deer had stripped all the bark off the tree.",
+      "zh": "鹿把树皮全都啃光了。"
+    },
+    {
+      "en": "I set the log on the ground and shaved off the bark.",
+      "zh": "我把原木放在地上，然后刨掉树皮。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "吠叫；咆哮；咳嗽",
+      "words": [
+        "have a cough",
+        "huff and puff"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "厉声说出；高声叫卖",
+      "words": [
+        "rap out"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "吠声；任何似犬狐叫的声音",
+      "words": [
+        "ululation"
+      ]
+    }
+  ]
+}

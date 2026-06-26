@@ -1,0 +1,77 @@
+{
+  "word": "witness",
+  "found": true,
+  "phonetic_uk": "ˈwɪtnəs",
+  "phonetic_us": "ˈwɪtnəs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=witness&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=witness&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（尤指犯罪或事故的）目击者；（法庭等的）证人；（签署正式文件的）见证人，连署人；宗教信仰声明，见证；见证人（声明自己笃信基督教的人）；证据，证言；证明标志"
+    },
+    {
+      "pos": "v.",
+      "meaning": "目击，目睹；见证，经历（事件、变化等）；在（正式文件）上签名，连署；作见证（公开声明自己对基督教的信仰）；证明，表明；为…...作证；作证，作证人"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Witness）（津）威特尼斯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "witnesses"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "witnesses"
+    },
+    {
+      "name": "现在分词",
+      "value": "witnessing"
+    },
+    {
+      "name": "过去式",
+      "value": "witnessed"
+    },
+    {
+      "name": "过去分词",
+      "value": "witnessed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He took the stand as the first witness.",
+      "zh": "他第一个出庭作证。"
+    },
+    {
+      "en": "He has been witness to a terrible murder.",
+      "zh": "他目击了一起残忍的凶杀事件。"
+    },
+    {
+      "en": "He is trying to improperly influence a witness.",
+      "zh": "他正试图不适当地影响一名证人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[法]证人；目击者；证据",
+      "words": [
+        "proof",
+        "teste"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "目击；证明；为…作证",
+      "words": [
+        "demonstrate",
+        "prove",
+        "argue"
+      ]
+    }
+  ]
+}

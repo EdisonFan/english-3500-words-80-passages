@@ -1,0 +1,56 @@
+{
+  "word": "illegal",
+  "found": true,
+  "phonetic_uk": "ɪˈliːɡ(ə)l",
+  "phonetic_us": "ɪˈliːɡ(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=illegal&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=illegal&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "非法的，违法的；违规的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "非法移民，非法劳工"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "illegals"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The deal may be ruled illegal.",
+      "zh": "这笔交易可能会被判定为非法。"
+    },
+    {
+      "en": "It's illegal to deface property.",
+      "zh": "在房子上乱涂乱画是非法的。"
+    },
+    {
+      "en": "It is illegal to intercept radio messages.",
+      "zh": "窃听无线电信息是违法的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[法]非法的；违法的；违反规则的",
+      "words": [
+        "unauthorized",
+        "unlawful"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "非法移民；间谍",
+      "words": [
+        "espionage",
+        "secret agent"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "word": "mines",
+  "found": true,
+  "phonetic_uk": "maɪnz",
+  "phonetic_us": "maɪnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mines&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mines&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "矿山（mine 的复数）；地雷"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Mines）人名；（英）迈因斯"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Methane gas does collect in the mines around here.",
+      "zh": "沼气确实积聚在这周围的矿井中。"
+    },
+    {
+      "en": "Members of all parties endorsed a ban on land mines.",
+      "zh": "各党派成员都赞同禁用地雷。"
+    },
+    {
+      "en": "Miners built the tunnel to drain water out of the mines.",
+      "zh": "矿工们开掘了隧道以将水排出矿井。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "矿山（mine的复数）；地雷",
+      "words": [
+        "landmines"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "word": "fault",
+  "found": true,
+  "phonetic_uk": "fɔːlt",
+  "phonetic_us": "fɔːlt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fault&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fault&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "错误；责任，过错；缺点，故障；断层；发球失误"
+    },
+    {
+      "pos": "v.",
+      "meaning": "挑剔，指责；发球失误；产生断层；<古>犯错误，做错事"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "faults"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "faults"
+    },
+    {
+      "name": "现在分词",
+      "value": "faulting"
+    },
+    {
+      "name": "过去式",
+      "value": "faulted"
+    },
+    {
+      "name": "过去分词",
+      "value": "faulted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Now look here, it wasn't my fault.",
+      "zh": "喂，那不是我的错！"
+    },
+    {
+      "en": "That wasn't his fault, it was mine.",
+      "zh": "那不是他的错，是我的错。"
+    },
+    {
+      "en": "His worst fault was his inconsistency.",
+      "zh": "他的最大缺点就是反复无常。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "故障；[地质]断层；错误；缺点；毛病；（网球等）发球失误",
+      "words": [
+        "error",
+        "deficiency",
+        "defect",
+        "mistake",
+        "trouble"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "弄错；产生断层",
+      "words": [
+        "mistake",
+        "err in"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "（通常用于疑问句或否定句）挑剔",
+      "words": [
+        "carp at",
+        "trip up"
+      ]
+    }
+  ]
+}

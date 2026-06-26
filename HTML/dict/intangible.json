@@ -1,0 +1,56 @@
+{
+  "word": "intangible",
+  "found": true,
+  "phonetic_uk": "ɪnˈtændʒəb(ə)l",
+  "phonetic_us": "ɪnˈtændʒəb(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=intangible&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=intangible&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "不可捉摸的，难以确定的；（资产，利益）无形的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "无形的东西"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "intangibles"
+    },
+    {
+      "name": "比较级",
+      "value": "more intangible"
+    },
+    {
+      "name": "最高级",
+      "value": "most intangible"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The benefits are intangible.",
+      "zh": "好处是难以计算的。"
+    },
+    {
+      "en": "The old building had an intangible air of sadness about it.",
+      "zh": "那座旧建筑笼罩着一种说不出的悲凉气氛。"
+    },
+    {
+      "en": "It became an intangible cultural heritage of Guangxi in 2008.",
+      "zh": "2008年，它成为广西非物质文化遗产。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "无形的，触摸不到的；难以理解的",
+      "words": [
+        "invisible",
+        "discarnate"
+      ]
+    }
+  ]
+}

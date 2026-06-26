@@ -1,0 +1,43 @@
+{
+  "word": "structuring",
+  "found": true,
+  "phonetic_uk": "ˈstrʌktʃərɪŋ",
+  "phonetic_us": "ˈstrʌktʃərɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=structuring&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=structuring&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "结构化"
+    },
+    {
+      "pos": "v.",
+      "meaning": "组织（structure 的 ing 形式）；建造"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "By structuring the course this way, we're forced to produce something the companies think is valuable.",
+      "zh": "通过这样精心安排进程，我们不得不生产出公司认为有价值的东西。"
+    },
+    {
+      "en": "Structuring data adds value to that data.",
+      "zh": "实现结构化数据提升了数据的价值。"
+    },
+    {
+      "en": "Figure 11: Structuring the Implementation model.",
+      "zh": "图11：构造实现模型。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "组织（structure的ing形式）；建造",
+      "words": [
+        "organizing",
+        "engineering"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "word": "voice",
+  "found": true,
+  "phonetic_uk": "vɔɪs",
+  "phonetic_us": "vɔɪs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=voice&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=voice&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "嗓音，说话声，歌唱声；发言权，表达意愿的权利；愿望，意见，呼声；（突然闪现的）想法，感觉；代言人，喉舌；（语法）语态；（语音）浊音；（文学作品或作者的）独特风格；（乐曲）声部；单音，单声"
+    },
+    {
+      "pos": "v.",
+      "meaning": "表达，吐露（感情或意见）；（语音）发浊音；（乐）给（管风琴）调音"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "voices"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "voices"
+    },
+    {
+      "name": "现在分词",
+      "value": "voicing"
+    },
+    {
+      "name": "过去式",
+      "value": "voiced"
+    },
+    {
+      "name": "过去分词",
+      "value": "voiced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Her voice shook with emotion.",
+      "zh": "她激动得声音颤抖。"
+    },
+    {
+      "en": "Her voice is sensational.",
+      "zh": "她的嗓音极为动听。"
+    },
+    {
+      "en": "Her voice trembled with excitement.",
+      "zh": "她激动得声音颤抖。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[声]声音；嗓音；发言权；愿望",
+      "words": [
+        "organ",
+        "sound",
+        "dream",
+        "throat"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "表达；吐露",
+      "words": [
+        "put",
+        "to express"
+      ]
+    }
+  ]
+}

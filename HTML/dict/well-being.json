@@ -1,0 +1,39 @@
+{
+  "word": "well-being",
+  "found": true,
+  "phonetic_uk": "ˈwel biːɪŋ",
+  "phonetic_us": "ˈwel biːɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=well-being&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=well-being&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "幸福，安康；（国家的）繁荣"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Singing can create a sense of well-being.",
+      "zh": "唱歌能产生一种幸福感。"
+    },
+    {
+      "en": "But it estimates Mexican well-being at 22%.",
+      "zh": "但据估计，墨西哥人的幸福感指数为22%。"
+    },
+    {
+      "en": "It has helped a lot to improve animals' well-being.",
+      "zh": "它对改善动物的健康有很大帮助。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "幸福；康乐",
+      "words": [
+        "happiness",
+        "welfare"
+      ]
+    }
+  ]
+}

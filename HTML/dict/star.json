@@ -1,0 +1,85 @@
+{
+  "word": "star",
+  "found": true,
+  "phonetic_uk": "stɑː(r)",
+  "phonetic_us": "stɑːr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=star&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=star&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "星，恒星；演艺界明星，体坛名将；（电影、戏剧中的）主角，主演；重要人物，优秀人士；星状，星形物；星号；（饭店、宾馆等的）星级标志；（占星术的）星相，星座（stars）；一定会发生；<非正式>好心的人，乐于助人者；星章；Y形三相电绕组；星状网；用于海星或类似的棘皮动物的名字中"
+    },
+    {
+      "pos": "v.",
+      "meaning": "主演，使主演；给……加上星号；表现杰出；用星形物装饰（或覆盖）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "最好的，最出色的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Star）（瑞典）斯塔尔，（德）施塔尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "stars"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "stars"
+    },
+    {
+      "name": "现在分词",
+      "value": "starring"
+    },
+    {
+      "name": "过去式",
+      "value": "starred"
+    },
+    {
+      "name": "过去分词",
+      "value": "starred"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She's the star of the show !",
+      "zh": "她是这台演出的明星！"
+    },
+    {
+      "en": "By then she was established as a star.",
+      "zh": "那时她作为明星的地位已经确立。"
+    },
+    {
+      "en": "She's a US soap star.",
+      "zh": "她是美国肥皂剧明星。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[天]星，恒星；明星；星形物",
+      "words": [
+        "lucida"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "用星号标于；由…主演，由…担任主角",
+      "words": [
+        "feature"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "明星的，主角的；星形的",
+      "words": [
+        "stellate"
+      ]
+    }
+  ]
+}

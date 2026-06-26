@@ -1,0 +1,39 @@
+{
+  "word": "unsure",
+  "found": true,
+  "phonetic_uk": "ˌʌnˈʃʊə(r)",
+  "phonetic_us": "ˌʌnˈʃʊr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=unsure&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=unsure&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "不确定的；不肯定的；没有自信的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "\"I was very unsure of myself after the divorce,\" she says, unconsciously sweeping back the curls from her forehead.",
+      "zh": "“离婚后我对自己很没有信心，”她边说边无意识地把前额上的几绺鬈发往后捋。"
+    },
+    {
+      "en": "He was unsure of what to do next.",
+      "zh": "他对下一步该做什么犹豫不定。"
+    },
+    {
+      "en": "I was unsure how to reply to this question.",
+      "zh": "我拿不准该如何回答这个问题。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "不确定的；不肯定的；没有自信的",
+      "words": [
+        "indefinite",
+        "inconclusive"
+      ]
+    }
+  ]
+}

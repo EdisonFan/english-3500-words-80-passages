@@ -1,0 +1,84 @@
+{
+  "word": "treat",
+  "found": true,
+  "phonetic_uk": "triːt",
+  "phonetic_us": "triːt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=treat&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=treat&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "对待，看待；治疗，医治；请客，招待；（利用化学物质或反应）处理，保护；把……看作，把……视为；处理，探讨，论述；做使自己快乐的事；把（某物）给某人以示好感；提供（娱乐）；（尤指与对手）商谈，谈判"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（不同一般的）乐事，享受；款待，招待；请客，做东；零食；<美>甜食；（尤指不经常吃的）美味佳肴"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Treat）特里特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "treats"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "treats"
+    },
+    {
+      "name": "现在分词",
+      "value": "treating"
+    },
+    {
+      "name": "过去式",
+      "value": "treated"
+    },
+    {
+      "name": "过去分词",
+      "value": "treated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "None of us knew how to treat her.",
+      "zh": "我们中没有任何人知道该如何对待她。"
+    },
+    {
+      "en": "We treat boys exactly the same as girls.",
+      "zh": "男孩、女孩我们完全同等对待。"
+    },
+    {
+      "en": "Valium is usually prescribed to treat anxiety.",
+      "zh": "安定剂通常用于治疗焦躁。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "治疗；对待；探讨；视为",
+      "words": [
+        "cure",
+        "help"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "探讨；请客；协商",
+      "words": [
+        "arrange",
+        "confer with"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "请客；款待",
+      "words": [
+        "entertainment",
+        "delectation"
+      ]
+    }
+  ]
+}

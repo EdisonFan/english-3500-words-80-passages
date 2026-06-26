@@ -1,0 +1,43 @@
+{
+  "word": "expanded",
+  "found": true,
+  "phonetic_uk": "ɪkˈspændɪd",
+  "phonetic_us": "ɪkˈspændɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=expanded&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=expanded&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "扩充的，展开的；（材料）多孔的，泡沫的；（金属板）网眼的；（形状）相对宽的；（活字）阔体的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "扩大（expand 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The new system expanded the role of family doctors.",
+      "zh": "新体制扩大了家庭医生的作用。"
+    },
+    {
+      "en": "The villages expanded and merged into one large town.",
+      "zh": "这些村庄扩大了并且结合成了一个大集镇。"
+    },
+    {
+      "en": "We've expanded the business by opening two more stores.",
+      "zh": "我们增开了两个商店以扩展业务。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "扩充的；展开的",
+      "words": [
+        "explanate",
+        "evolving"
+      ]
+    }
+  ]
+}

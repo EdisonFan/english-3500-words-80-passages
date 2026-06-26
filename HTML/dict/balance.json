@@ -1,0 +1,84 @@
+{
+  "word": "balance",
+  "found": true,
+  "phonetic_uk": "ˈbæləns",
+  "phonetic_us": "ˈbæləns",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=balance&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=balance&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "平衡，均衡，均势；平衡能力；账户余额，结存；结欠，余款；天平，秤；（乐器）平衡器"
+    },
+    {
+      "pos": "v.",
+      "meaning": "保持平衡；权衡，斟酌；使收支平衡；均衡，抵消"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】  (Balance) （西）巴兰赛（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "balances"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "balances"
+    },
+    {
+      "name": "现在分词",
+      "value": "balancing"
+    },
+    {
+      "name": "过去式",
+      "value": "balanced"
+    },
+    {
+      "name": "过去分词",
+      "value": "balanced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She had trouble keeping her balance.",
+      "zh": "她保持平衡有困难。"
+    },
+    {
+      "en": "Athletes need a good sense of balance.",
+      "zh": "运动员要有良好的平衡感。"
+    },
+    {
+      "en": "He lost his balance and fell backwards.",
+      "zh": "他失去了平衡，往后跌倒了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "平衡；[会计]余额；匀称",
+      "words": [
+        "regularity",
+        "equilibriums"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使平衡；结算；使相称",
+      "words": [
+        "equilibrize",
+        "close an account"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "保持平衡；相称；抵销",
+      "words": [
+        "suit",
+        "be commensurate to"
+      ]
+    }
+  ]
+}

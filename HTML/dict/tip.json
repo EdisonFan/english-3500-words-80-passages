@@ -1,0 +1,85 @@
+{
+  "word": "tip",
+  "found": true,
+  "phonetic_uk": "tɪp",
+  "phonetic_us": "tɪp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tip&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tip&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（使）倾斜，（使）斜侧；给小费；<英>扔掉，倒掉（垃圾）；倾倒，倒出；打翻；（用液体、颜色等）覆盖……的尖端；预言……获胜；轻触，轻碰；密报，透露消息，告诫"
+    },
+    {
+      "pos": "n.",
+      "meaning": "指点，诀窍，建议；小费；末梢，尖端；<英>垃圾场；<英，非正式>脏乱的地方；（对赛马、比赛结果的）预测，内幕消息；顶端附加物；（尤指给警方的）密报；（对运动的球或冰球的）轻碰，轻击；手触帽檐，脱帽（致敬、问好或道别的动作）；擦棒球"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Tip）（美、俄）蒂普（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "tips"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "tips"
+    },
+    {
+      "name": "现在分词",
+      "value": "tipping"
+    },
+    {
+      "name": "过去式",
+      "value": "tipped"
+    },
+    {
+      "name": "过去分词",
+      "value": "tipped"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Did you give the waiter a tip?",
+      "zh": "你给服务员小费了吗？"
+    },
+    {
+      "en": "The tail tapered to a rounded tip.",
+      "zh": "尾部越来越细，最后成了个圆尖。"
+    },
+    {
+      "en": "He gave the waiter a generous tip.",
+      "zh": "他给了服务员很多小费。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "[经]给小费；翻倒；倾覆",
+      "words": [
+        "upset",
+        "keel over"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[经]给小费；倾斜；翻倒；装顶端",
+      "words": [
+        "slope",
+        "keel over"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[经]小费；尖端",
+      "words": [
+        "fee",
+        "point",
+        "apex"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "word": "preserve",
+  "found": true,
+  "phonetic_uk": "prɪˈzɜːv",
+  "phonetic_us": "prɪˈzɜːrv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=preserve&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=preserve&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "保护，维护；保持，维持；腌制，保存（食物）；禁止他人捕猎"
+    },
+    {
+      "pos": "n.",
+      "meaning": "果酱，腌菜；（某人或某个团体的）专属领域，独有活动；动物保护区，外人禁入的猎地"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "preserves"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "preserves"
+    },
+    {
+      "name": "现在分词",
+      "value": "preserving"
+    },
+    {
+      "name": "过去式",
+      "value": "preserved"
+    },
+    {
+      "name": "过去分词",
+      "value": "preserved"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We need to preserve the forest.",
+      "zh": "我们需要保护森林。"
+    },
+    {
+      "en": "We will do everything to preserve peace.",
+      "zh": "我们将竭尽全力维护和平。"
+    },
+    {
+      "en": "Efforts to preserve the peace have failed.",
+      "zh": "维护和平的努力失败了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "保存；保护；维持；腌；禁猎",
+      "words": [
+        "maintain",
+        "save",
+        "secure",
+        "corn",
+        "sustain"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "保护区；禁猎地；加工成的食品",
+      "words": [
+        "conservation area",
+        "conservation district"
+      ]
+    }
+  ]
+}

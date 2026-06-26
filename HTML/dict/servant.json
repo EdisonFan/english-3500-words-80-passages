@@ -1,0 +1,48 @@
+{
+  "word": "servant",
+  "found": true,
+  "phonetic_uk": "ˈsɜːvənt",
+  "phonetic_us": "ˈsɜːrvənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=servant&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=servant&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "仆人，佣人；（公司或机构的）雇员，职员；献身……的人，受……指引的人"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Servant）（西）塞尔万特，（法）塞尔旺（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "servants"
+    }
+  ],
+  "examples": [
+    {
+      "en": "\"What does your father do?\"—\"Well, he's a civil servant.\"",
+      "zh": "“你父亲是做什么工作的？”— “哦，他是个公务员。”"
+    },
+    {
+      "en": "He was a loyal, distinguished and very competent civil servant.",
+      "zh": "他是一个忠诚、出色、很有能力的公务员。"
+    },
+    {
+      "en": "His work as a civil servant was a cover for his activities as a spy.",
+      "zh": "他以公务员的工作作为搞间谍活动的掩护。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "仆人，佣人；公务员；雇工",
+      "words": [
+        "man",
+        "flunky"
+      ]
+    }
+  ]
+}

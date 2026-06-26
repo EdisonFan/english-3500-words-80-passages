@@ -1,0 +1,47 @@
+{
+  "word": "achievement",
+  "found": true,
+  "phonetic_uk": "əˈtʃiːvmənt",
+  "phonetic_us": "əˈtʃiːvmənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=achievement&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=achievement&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "成绩，成就；完成，实现；（纹章）纹章牌"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "achievements"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It is an impressive achievement.",
+      "zh": "这是一项令人敬佩的成就。"
+    },
+    {
+      "en": "2004 was a year of solid achievement.",
+      "zh": "2004年是颇有成绩的一年。"
+    },
+    {
+      "en": "It is indeed a remarkable achievement.",
+      "zh": "这的确是非凡的成就。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "成就；完成；达到",
+      "words": [
+        "effort",
+        "completion",
+        "success",
+        "execution",
+        "accomplishment"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "disappointing",
+  "found": true,
+  "phonetic_uk": "ˌdɪsəˈpɔɪntɪŋ",
+  "phonetic_us": "ˌdɪsəˈpɔɪntɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=disappointing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=disappointing&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "令人失望的，令人扫兴的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）失望（disappoint 的现在分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Progress has been particularly disappointing.",
+      "zh": "进展一直格外令人失望。"
+    },
+    {
+      "en": "The conclusion of the book was disappointing.",
+      "zh": "这部书的结尾令人失望。"
+    },
+    {
+      "en": "In summary , this was a disappointing performance.",
+      "zh": "总的来说，这场演出令人失望。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "令人失望的；令人扫兴的",
+      "words": [
+        "disillusionary",
+        "cauld"
+      ]
+    }
+  ]
+}

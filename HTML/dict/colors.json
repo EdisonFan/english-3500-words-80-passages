@@ -1,0 +1,43 @@
+{
+  "word": "colors",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=colors&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=colors&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "彩色；颜料；脸色（color 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "渲染（color 的三单形式）；涂颜色于"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Colors influence people's daily lives.",
+      "zh": "色彩影响着人们的日常生活。"
+    },
+    {
+      "en": "There are vibrant colors.",
+      "zh": "还有鲜艳的颜色。"
+    },
+    {
+      "en": "Colors are in harmony.",
+      "zh": "色彩调和。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "彩色；颜料；脸色（color的复数）",
+      "words": [
+        "faces",
+        "pigments"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "word": "learned",
+  "found": true,
+  "phonetic_uk": "ˈlɜːnɪd",
+  "phonetic_us": "ˈlɜːrnɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=learned&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=learned&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "博学的；学术性的，学者的；后天的，习得的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "学习，学会；得知，获悉；背熟，熟记；认识到，（从……）吸取教训 （learn 的过去式和过去分词）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Learned）（美）勒尼德（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Have you learned your part yet?",
+      "zh": "你记住你的台词了吗？"
+    },
+    {
+      "en": "She learned to fly on a dare.",
+      "zh": "她在激将下学会了驾驶飞机。"
+    },
+    {
+      "en": "I learned to fly in Vietnam.",
+      "zh": "我在越南学会了驾驶飞机。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "博学的；有学问的；学术上的",
+      "words": [
+        "knowing",
+        "wise",
+        "accomplished",
+        "read",
+        "scholarly"
+      ]
+    }
+  ]
+}

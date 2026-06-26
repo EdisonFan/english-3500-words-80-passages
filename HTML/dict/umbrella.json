@@ -1,0 +1,43 @@
+{
+  "word": "umbrella",
+  "found": true,
+  "phonetic_uk": "ʌmˈbrelə",
+  "phonetic_us": "ʌmˈbrelə",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=umbrella&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=umbrella&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "伞，雨伞，阳伞；综合体，总体；保护伞，庇护；（有众多附属小机构或小群体的）伞形组织；（战斗机或高射炮构成的）掩护幕，防空火网；（动）（水母）伞膜"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "（大的组织）包括许多小团体的；（词汇）总称的，总括的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Her umbrella blew inside out.",
+      "zh": "她的伞被吹得往外翻了。"
+    },
+    {
+      "en": "Can I borrow your umbrella?",
+      "zh": "借你的伞用一下行吗？"
+    },
+    {
+      "en": "They held a large umbrella over her.",
+      "zh": "他们给她撑起一把大伞。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "雨伞；保护伞；庇护；伞形结构",
+      "words": [
+        "shadow",
+        "bumbershoot"
+      ]
+    }
+  ]
+}

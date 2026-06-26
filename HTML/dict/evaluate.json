@@ -1,0 +1,66 @@
+{
+  "word": "evaluate",
+  "found": true,
+  "phonetic_uk": "ɪˈvæljueɪt",
+  "phonetic_us": "ɪˈvæljueɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=evaluate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=evaluate&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "评价，评估，估值；求（方程式，公式，函数）的数值"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "evaluates"
+    },
+    {
+      "name": "现在分词",
+      "value": "evaluating"
+    },
+    {
+      "name": "过去式",
+      "value": "evaluated"
+    },
+    {
+      "name": "过去分词",
+      "value": "evaluated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The market situation is difficult to evaluate.",
+      "zh": "市场形势难以评估。"
+    },
+    {
+      "en": "We need to learn how to evaluate them properly.",
+      "zh": "我们需要学习如何正确地评估它们。"
+    },
+    {
+      "en": "For each side of the subject, think carefully and evaluate it.",
+      "zh": "对于主题的每一方面，都要仔细思考和评估。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "评价；估价；求…的值",
+      "words": [
+        "value",
+        "score",
+        "rate",
+        "prize"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "评价；估价",
+      "words": [
+        "to assess",
+        "to appraise"
+      ]
+    }
+  ]
+}

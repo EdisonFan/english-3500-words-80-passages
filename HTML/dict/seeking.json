@@ -1,0 +1,38 @@
+{
+  "word": "seeking",
+  "found": true,
+  "phonetic_uk": "si:kɪŋ",
+  "phonetic_us": "ˈsiːkɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=seeking&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=seeking&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "寻找；谋求（seek 的 ing 形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They are seeking more funds but the cupboard is bare.",
+      "zh": "他们正在寻求更多的资金，然而根本找不到。"
+    },
+    {
+      "en": "The number of families seeking shelter rose by 17 percent.",
+      "zh": "寻求避难的家庭数目上升了17％。"
+    },
+    {
+      "en": "Eventually, we alighted on the idea of seeking sponsorship.",
+      "zh": "最后我们偶然想到了寻求赞助。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "寻找；谋求（seek的ing形式）",
+      "words": [
+        "hunting"
+      ]
+    }
+  ]
+}

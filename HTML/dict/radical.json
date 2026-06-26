@@ -1,0 +1,70 @@
+{
+  "word": "radical",
+  "found": true,
+  "phonetic_uk": "ˈrædɪk(ə)l",
+  "phonetic_us": "ˈrædɪk(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=radical&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=radical&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "根本的，彻底的；激进的，极端的；全新的，不同凡响的；（增减）急剧的，大幅度的；（人，物）原本的，与生俱来的；<美，非正式>顶呱呱的；（外科，医疗）根治的；<英，史>（19世纪）自由党激进派的；（数）根式的，根号的；词根的；（植）根生的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "激进分子； 游离基，自由基；词根；（汉字）偏旁，部首；（数）根式；根号"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "radicals"
+    },
+    {
+      "name": "比较级",
+      "value": "more radical"
+    },
+    {
+      "name": "最高级",
+      "value": "most radical"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It was a radical departure from tradition.",
+      "zh": "这从根本上违背了传统。"
+    },
+    {
+      "en": "A radical overhaul of the tax system is necessary.",
+      "zh": "有必要彻底改革税制。"
+    },
+    {
+      "en": "Such a radical proposal would never get through Congress.",
+      "zh": "如此激进的提案永远不会在国会获得通过。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "激进的；根本的；彻底的",
+      "words": [
+        "thorough",
+        "organic",
+        "fundamental",
+        "ultimate",
+        "complete"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "基础；激进分子；[物化]原子团；[数]根数",
+      "words": [
+        "elements",
+        "basis",
+        "foundation",
+        "base",
+        "bed"
+      ]
+    }
+  ]
+}

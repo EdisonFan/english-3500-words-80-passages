@@ -1,0 +1,46 @@
+{
+  "word": "world",
+  "found": true,
+  "phonetic_uk": "wɜːld",
+  "phonetic_us": "wɜːrld",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=world&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=world&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "世界，地球，天下；星球，天体；地区，国家，时代；社会，生活；领域，界，圈子；生物界，自然界；人生，生活圈子，阅历；人世，今生，来世；世俗；（有某种特色的）地方，情景；大量，无数；一切，重要性（the world）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "世界上最重要的，世界闻名的；世界（性）的；环球的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I advance across the wide world, through all the truths of the world.",
+      "zh": "我在广阔的天地里前进，穿越世界的真理。"
+    },
+    {
+      "en": "Kasparov became world champion.",
+      "zh": "卡斯帕罗夫成了世界冠军。"
+    },
+    {
+      "en": "She has three world titles.",
+      "zh": "她已获得三项世界冠军。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "世界；领域；宇宙；世俗；全人类；物质生活",
+      "words": [
+        "universe",
+        "domain",
+        "province",
+        "territory",
+        "kingdom"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "word": "want",
+  "found": true,
+  "phonetic_uk": "wɒnt",
+  "phonetic_us": "wɑːnt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=want&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=want&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "想要，希望；需要；（用于提出建议）应该；缺少；搜捕，追捕；想见（某人），想与（某人）谈话；（用于疑问句中表示提议或邀请）想要，需要；照料，爱护（小孩）；想要进去，想要出去；应受"
+    },
+    {
+      "pos": "n.",
+      "meaning": "缺乏，缺少；贫穷，贫困；渴望的东西，需要的东西"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "wants"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "wants"
+    },
+    {
+      "name": "现在分词",
+      "value": "wanting"
+    },
+    {
+      "name": "过去式",
+      "value": "wanted"
+    },
+    {
+      "name": "过去分词",
+      "value": "wanted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Do you want anything else?",
+      "zh": "你还想要点别的什么吗？"
+    },
+    {
+      "en": "Do you want to dance?",
+      "zh": "你想跳舞吗？"
+    },
+    {
+      "en": "What do you want?",
+      "zh": "你要什么？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "需要；希望；应该；缺少",
+      "words": [
+        "ask",
+        "would have",
+        "claim"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "需要；缺乏；贫困；必需品",
+      "words": [
+        "necessity",
+        "shortage",
+        "need",
+        "poverty",
+        "deficiency"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "需要；缺少",
+      "words": [
+        "wish",
+        "have need of"
+      ]
+    }
+  ]
+}

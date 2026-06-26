@@ -1,0 +1,49 @@
+{
+  "word": "event",
+  "found": true,
+  "phonetic_uk": "ɪˈvent",
+  "phonetic_us": "ɪˈvent",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=event&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=event&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "事件，大事；社交场合，既定活动；赛事，比赛项目；<古>结果"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "events"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The event was voted a great success.",
+      "zh": "大家认为这项活动很成功。"
+    },
+    {
+      "en": "The election was the main event of 2004.",
+      "zh": "那次选举是2004年的主要大事。"
+    },
+    {
+      "en": "The event is open to all comers.",
+      "zh": "所有人均可参加这项比赛。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计][物][数]事件，大事；项目；结果",
+      "words": [
+        "incident",
+        "occurrence",
+        "circumstance",
+        "outcome",
+        "item",
+        "scene",
+        "product"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "undecided",
+  "found": true,
+  "phonetic_uk": "ˌʌndɪˈsaɪdɪd",
+  "phonetic_us": "ˌʌndɪˈsaɪdɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=undecided&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=undecided&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "未定的；未决定的；不稳定的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He seemed undecided whether to go or stay.",
+      "zh": "他似乎还没有决定去留。"
+    },
+    {
+      "en": "I'm still undecided (about) who to vote for.",
+      "zh": "我还拿不定主意投谁的票。"
+    },
+    {
+      "en": "The venue for the World Cup remains undecided.",
+      "zh": "世界杯的举办地点尚未确定。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "未定的；未决定的；不稳定的",
+      "words": [
+        "unstable",
+        "volatile"
+      ]
+    }
+  ]
+}

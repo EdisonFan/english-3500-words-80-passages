@@ -1,0 +1,52 @@
+{
+  "word": "throughout",
+  "found": true,
+  "phonetic_uk": "θruːˈaʊt",
+  "phonetic_us": "θruːˈaʊt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=throughout&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=throughout&type=2",
+  "defs": [
+    {
+      "pos": "prep.",
+      "meaning": "遍及，到处；自始至终，贯穿整个时期"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "遍及，到处；自始至终，贯穿整个时期"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The match was finely balanced throughout.",
+      "zh": "比赛自始至终不分上下。"
+    },
+    {
+      "en": "She's played solidly throughout the spring.",
+      "zh": "她整个春季都表现得很稳健。"
+    },
+    {
+      "en": "He showed remarkable endurance throughout his illness.",
+      "zh": "他在整个生病期间表现出非凡的忍耐力。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "自始至终，到处；全部",
+      "words": [
+        "everywhere",
+        "around",
+        "wholly",
+        "about"
+      ]
+    },
+    {
+      "pos": "prep.",
+      "meaning": "贯穿，遍及",
+      "words": [
+        "over all"
+      ]
+    }
+  ]
+}

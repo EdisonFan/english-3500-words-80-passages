@@ -1,0 +1,44 @@
+{
+  "word": "ecosystem",
+  "found": true,
+  "phonetic_uk": "ˈiːkəʊsɪstəm",
+  "phonetic_us": "ˈiːkoʊsɪstəm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ecosystem&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ecosystem&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "生态系统"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "ecosystems"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The ecosystem will be thrown out of whack.",
+      "zh": "生态系统将出现问题。"
+    },
+    {
+      "en": "This unique ecosystem may soon be under pressure.",
+      "zh": "这个独特的生态系统可能很快就会面临压力。"
+    },
+    {
+      "en": "The question of ecosystem stability is complicated.",
+      "zh": "生态系统稳定性的问题是复杂的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[生态]生态系统",
+      "words": [
+        "ecological constellation",
+        "ecological systems"
+      ]
+    }
+  ]
+}

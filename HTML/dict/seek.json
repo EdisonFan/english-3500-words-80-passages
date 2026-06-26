@@ -1,0 +1,64 @@
+{
+  "word": "seek",
+  "found": true,
+  "phonetic_uk": "siːk",
+  "phonetic_us": "siːk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=seek&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=seek&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "寻找；寻求，谋求；请求（帮助），征求（意见）；试图，设法；找出，找到（seek sb./sth. out）；自然地向……移动；<古>去，前往（某地）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "seeks"
+    },
+    {
+      "name": "现在分词",
+      "value": "seeking"
+    },
+    {
+      "name": "过去式",
+      "value": "sought"
+    },
+    {
+      "name": "过去分词",
+      "value": "sought"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We were advised to seek legal advice.",
+      "zh": "有人劝我们找律师咨询。"
+    },
+    {
+      "en": "They have had to seek work as labourers.",
+      "zh": "他们只好找体力活来做。"
+    },
+    {
+      "en": "Students may decide to seek tutorial guidance.",
+      "zh": "学生们可以决定寻求助教的指导。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "寻求；寻找；探索；搜索",
+      "words": [
+        "explore",
+        "try to find"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "寻找；探索；搜索",
+      "words": [
+        "explore",
+        "cast about for"
+      ]
+    }
+  ]
+}

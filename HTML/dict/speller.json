@@ -1,0 +1,39 @@
+{
+  "word": "speller",
+  "found": true,
+  "phonetic_uk": "ˈspelə(r)",
+  "phonetic_us": "ˈspelər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=speller&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=speller&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "拼字的人；拼字课本"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Speller）人名；（法）斯佩莱"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "spellers"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I am an absolutely appalling speller.",
+      "zh": "我的拼字能力简直糟透了。"
+    },
+    {
+      "en": "Perhaps you are a poor speller or cannot add up a column of figures.",
+      "zh": "也许是你的拼写能力太差了，又或许是你不会把纵列数字相加。"
+    },
+    {
+      "en": "Andrew Jackson was a not odiously poor speller.",
+      "zh": "安德鲁·杰克逊单词拼写的糟糕是出了名的。"
+    }
+  ],
+  "synonyms": []
+}

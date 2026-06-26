@@ -1,0 +1,38 @@
+{
+  "word": "p",
+  "found": true,
+  "phonetic_uk": "piː",
+  "phonetic_us": "piː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=p&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=p&type=2",
+  "defs": [
+    {
+      "pos": "",
+      "meaning": "symb. 磷（phosphorus）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "字母 P"
+    },
+    {
+      "pos": "abbr.",
+      "meaning": "人员（personnel）；停车场（parking）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Q comes between P and R in the English alphabet.",
+      "zh": "英语字母表中，Q在P和R之间。"
+    },
+    {
+      "en": "Surveys consistently find that men report feeling safe on the street after dark. See, for example, Hindelang and Garofalo (1978, p.127).",
+      "zh": "调查一致显示，男性天黑后在街上感到安全。可参见如欣德朗和加罗法洛的著作(1978年，127页)。"
+    },
+    {
+      "en": "What is P. E class in Chinese?",
+      "zh": "体育课用中文怎么说？"
+    }
+  ],
+  "synonyms": []
+}

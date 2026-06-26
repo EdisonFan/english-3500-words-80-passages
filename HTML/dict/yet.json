@@ -1,0 +1,59 @@
+{
+  "word": "yet",
+  "found": true,
+  "phonetic_uk": "jet",
+  "phonetic_us": "jet",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=yet&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=yet&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "仍然，还；现在，此刻；迄今为止，到目前为止；还需，还差；终归，迟早；又，甚至（强调增加或重复）；然而，尽管"
+    },
+    {
+      "pos": "conj.",
+      "meaning": "然而，但是"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Yet）（东南亚国家华语）一（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They haven't finished yet.",
+      "zh": "他们还没有结束。"
+    },
+    {
+      "en": "Haven't you twigged yet?",
+      "zh": "难道你还不明白？"
+    },
+    {
+      "en": "Billy can't count yet.",
+      "zh": "比利还不会数数。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "还；但是；已经",
+      "words": [
+        "already",
+        "too",
+        "even"
+      ]
+    },
+    {
+      "pos": "conj.",
+      "meaning": "但是；然而",
+      "words": [
+        "but",
+        "granted",
+        "whereas",
+        "and",
+        "while"
+      ]
+    }
+  ]
+}

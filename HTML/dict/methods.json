@@ -1,0 +1,41 @@
+{
+  "word": "methods",
+  "found": true,
+  "phonetic_uk": "ˈmeθədz",
+  "phonetic_us": "ˈmeθədz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=methods&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=methods&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "方法，方式；研究方法（method 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The methods used were unsound.",
+      "zh": "所使用的方法不可靠。"
+    },
+    {
+      "en": "These methods prevent pregnancy.",
+      "zh": "这些方法预防怀孕。"
+    },
+    {
+      "en": "I think their methods stink.",
+      "zh": "我觉得他们的方法令人讨厌。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "方法，方式；研究方法（method的复数）",
+      "words": [
+        "ways",
+        "techniques",
+        "modes",
+        "means"
+      ]
+    }
+  ]
+}

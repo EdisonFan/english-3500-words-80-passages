@@ -1,0 +1,84 @@
+{
+  "word": "report",
+  "found": true,
+  "phonetic_uk": "rɪˈpɔːt",
+  "phonetic_us": "rɪˈpɔːrt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=report&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=report&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "报告，汇报；新闻报道；官方文件，调查报告；传闻，传说；<英>（学生）成绩报告单；<法律>案情报告；下属；<正式>爆炸声，枪声；<旧>谣言，流传；<古>名誉，名声"
+    },
+    {
+      "pos": "v.",
+      "meaning": "报道；据说，传闻；述说，报告；公告，公布；举报（罪案）， 报告（事故）；报到；描述（感情、病情等）；<英>（议会委员会主席）正式宣布委员会已讨论（法案）；<美>（议会委员会）将法案交还给议会表决；对（上级或监督者）负责，由......领导；告发，检举"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Report）（匈）雷波特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "reports"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "reports"
+    },
+    {
+      "name": "现在分词",
+      "value": "reporting"
+    },
+    {
+      "name": "过去式",
+      "value": "reported"
+    },
+    {
+      "name": "过去分词",
+      "value": "reported"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She glanced through the report.",
+      "zh": "她大致浏览了一下报告。"
+    },
+    {
+      "en": "The report blames bad management.",
+      "zh": "报告归咎于管理不善。"
+    },
+    {
+      "en": "The report itemizes 23 different faults.",
+      "zh": "报告列举了23处错误。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "报告；报道；成绩单",
+      "words": [
+        "advisory",
+        "rept"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "报告；报导；使报到",
+      "words": [
+        "cover",
+        "give notice to"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "报告；报到；写报导",
+      "words": [
+        "message",
+        "inform of"
+      ]
+    }
+  ]
+}

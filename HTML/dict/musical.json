@@ -1,0 +1,56 @@
+{
+  "word": "musical",
+  "found": true,
+  "phonetic_uk": "ˈmjuːzɪk(ə)l",
+  "phonetic_us": "ˈmjuːzɪk(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=musical&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=musical&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "音乐的，配乐的；喜爱音乐的，精通音乐的；悦耳的，动听的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "音乐剧，音乐片"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "musicals"
+    },
+    {
+      "name": "比较级",
+      "value": "more musical"
+    },
+    {
+      "name": "最高级",
+      "value": "most musical"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I came from a musical family.",
+      "zh": "我来自一个音乐家庭。"
+    },
+    {
+      "en": "He had a soft, almost musical voice.",
+      "zh": "他有着轻柔悦耳的嗓音。"
+    },
+    {
+      "en": "Almost everyone has some musical ability.",
+      "zh": "几乎人人都有一些音乐才能。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "音乐的；悦耳的",
+      "words": [
+        "harmonious",
+        "sweet"
+      ]
+    }
+  ]
+}

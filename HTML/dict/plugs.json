@@ -1,0 +1,43 @@
+{
+  "word": "plugs",
+  "found": true,
+  "phonetic_uk": "plʌɡz",
+  "phonetic_us": "plʌɡz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=plugs&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=plugs&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "插头；插座；（浴缸、洗涤槽的）塞子；（木头、塑料或腊制的）塞子；（打入墙上孔内以拧进螺钉的）螺钉楔子，螺钉栓塞；棉球，药棉；宣传（plug的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "插入，塞住；（尤指通过广播或电视）宣传，推广；射击，射杀（plug的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "As I take my gloves off and reach for my phone, I think, \"It can't be that tough to make headphones with two plugs, one for music and one for your cell phone.",
+      "zh": "当我脱下手套并拿起我的手机时，我想，“做一个有两个插头的耳机，一个用于音乐，一个用于手机，不会那么难吧。”"
+    },
+    {
+      "en": "The unit plugs into any TV set.",
+      "zh": "该部件可接入任何电视机。"
+    },
+    {
+      "en": "The device looks like a video recorder and plugs into the home television and stereo system.",
+      "zh": "该装置看上去像录像机，连接在家用电视机和立体音箱上。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "插入，塞住；接插头（plug的第三人称单数）",
+      "words": [
+        "sticks",
+        "inserts"
+      ]
+    }
+  ]
+}

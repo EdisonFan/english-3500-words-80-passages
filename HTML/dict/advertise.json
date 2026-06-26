@@ -1,0 +1,56 @@
+{
+  "word": "advertise",
+  "found": true,
+  "phonetic_uk": "ˈædvətaɪz",
+  "phonetic_us": "ˈædvərtaɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=advertise&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=advertise&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "为……做广告，登广告；公布，征聘；宣扬；使变得显眼；<古>提醒……注意"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "advertises"
+    },
+    {
+      "name": "现在分词",
+      "value": "advertising"
+    },
+    {
+      "name": "过去式",
+      "value": "advertised"
+    },
+    {
+      "name": "过去分词",
+      "value": "advertised"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It's simply unethical to promote and advertise such a dangerous product.",
+      "zh": "给这样一个危险的产品做宣传广告是极不道德的。"
+    },
+    {
+      "en": "In that world they advertise, it's always on.",
+      "zh": "在他们做广告的那个世界里，它一直运转着。"
+    },
+    {
+      "en": "I need to advertise for a roommate for next term.",
+      "zh": "我需要登广告为我下学期找一个室友。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "通知；为…做广告；使突出",
+      "words": [
+        "message",
+        "instruct"
+      ]
+    }
+  ]
+}

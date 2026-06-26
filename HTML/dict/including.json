@@ -1,0 +1,34 @@
+{
+  "word": "including",
+  "found": true,
+  "phonetic_uk": "ɪnˈkluːdɪŋ",
+  "phonetic_us": "ɪnˈkluːdɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=including&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=including&type=2",
+  "defs": [
+    {
+      "pos": "prep.",
+      "meaning": "包括，包含"
+    },
+    {
+      "pos": "v.",
+      "meaning": "包含；把……列为一部分，把……算入（include 的现在分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He was fully dressed, including shoes.",
+      "zh": "他已穿戴好了，包括鞋子。"
+    },
+    {
+      "en": "Anyone can sew on a button, including you.",
+      "zh": "任何人都能缝钮扣，包括你。"
+    },
+    {
+      "en": "He admitted seven charges including forging passports.",
+      "zh": "他承认了包括伪造护照在内的7项罪名。"
+    }
+  ],
+  "synonyms": []
+}

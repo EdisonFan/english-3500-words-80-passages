@@ -1,0 +1,54 @@
+{
+  "word": "immediately",
+  "found": true,
+  "phonetic_uk": "ɪˈmiːdiətli",
+  "phonetic_us": "ɪˈmiːdiətli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=immediately&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=immediately&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "立即，马上；紧接地，紧靠地；直接地"
+    },
+    {
+      "pos": "conj.",
+      "meaning": "<英>一……就"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I warmed to her immediately.",
+      "zh": "我立即喜欢上了她。"
+    },
+    {
+      "en": "She answered almost immediately.",
+      "zh": "她几乎立刻就回答了。"
+    },
+    {
+      "en": "The pain immediately eased.",
+      "zh": "疼痛立刻减轻了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "立即，立刻；直接地",
+      "words": [
+        "rapidly",
+        "directly",
+        "soon",
+        "now",
+        "shortly"
+      ]
+    },
+    {
+      "pos": "conj.",
+      "meaning": "一…就",
+      "words": [
+        "directly",
+        "than"
+      ]
+    }
+  ]
+}

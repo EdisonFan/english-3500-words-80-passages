@@ -1,0 +1,58 @@
+{
+  "word": "behave",
+  "found": true,
+  "phonetic_uk": "bɪˈheɪv",
+  "phonetic_us": "bɪˈheɪv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=behave&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=behave&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "行为，表现；起反应，起作用；守规矩，举止得体"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "behaves"
+    },
+    {
+      "name": "现在分词",
+      "value": "behaving"
+    },
+    {
+      "name": "过去式",
+      "value": "behaved"
+    },
+    {
+      "name": "过去分词",
+      "value": "behaved"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Will you kids just behave!",
+      "zh": "孩子们，规矩点！"
+    },
+    {
+      "en": "Boys and girls may behave differently.",
+      "zh": "男孩儿和女孩儿的表现可能不同。"
+    },
+    {
+      "en": "Children must learn to behave at table.",
+      "zh": "小孩必须学会吃饭时的规矩。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "表现；（机器等）运转；举止端正；（事物）起某种作用",
+      "words": [
+        "conduct oneself",
+        "bear oneself",
+        "run",
+        "go"
+      ]
+    }
+  ]
+}

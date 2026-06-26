@@ -1,0 +1,47 @@
+{
+  "word": "device",
+  "found": true,
+  "phonetic_uk": "dɪˈvaɪs",
+  "phonetic_us": "dɪˈvaɪs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=device&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=device&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "装置，设备；手段，方法；花招，诡计；炸弹，爆炸装置；图画，设计；<古>（某物的）样式，外表"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "devices"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The device is fixed to a post.",
+      "zh": "该设备固定在一根柱子上。"
+    },
+    {
+      "en": "The device was protected by patent.",
+      "zh": "这一装置受专利保护。"
+    },
+    {
+      "en": "The device draws gas along the pipe.",
+      "zh": "这装置将气体顺着管子抽出来。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[机]装置；策略；图案",
+      "words": [
+        "apparatus",
+        "installation",
+        "strategy",
+        "unit",
+        "gear"
+      ]
+    }
+  ]
+}

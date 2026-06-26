@@ -1,0 +1,43 @@
+{
+  "word": "blinds",
+  "found": true,
+  "phonetic_uk": "blaɪndz",
+  "phonetic_us": "blaɪndz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=blinds&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=blinds&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[建]百叶窗；盲人（常用复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使失明（blind 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The blinds were drawn.",
+      "zh": "窗帘拉上了。"
+    },
+    {
+      "en": "Most blinds can be fixed directly to the top of the window-frame.",
+      "zh": "大多数百叶窗可以直接固定在窗框的顶端。"
+    },
+    {
+      "en": "Smiling, she stood and closed the blinds.",
+      "zh": "她微笑着站起来，关上百叶窗。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "百叶窗；盲人（常用复数）",
+      "words": [
+        "jalousie",
+        "persiennes"
+      ]
+    }
+  ]
+}

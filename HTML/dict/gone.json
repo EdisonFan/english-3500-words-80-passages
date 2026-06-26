@@ -1,0 +1,46 @@
+{
+  "word": "gone",
+  "found": true,
+  "phonetic_uk": "ɡɒn",
+  "phonetic_us": "ɡɔːn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=gone&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=gone&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "用完的，用光的；死了的，灭绝的；离去的，不在某处的；不复存在的；<非正式>怀孕的；<非正式>神志不清的；（球越过外野围栏）成为本垒打；<美，非正式>很棒的，有灵感的；<非正式>入迷的"
+    },
+    {
+      "pos": "prep.",
+      "meaning": "<英>晚于，已过"
+    },
+    {
+      "pos": "v.",
+      "meaning": "走，去；离开；进展 （go 的过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Alex has already gone.",
+      "zh": "亚历克斯已经走了。"
+    },
+    {
+      "en": "Everything had gone.",
+      "zh": "一切都过去了。"
+    },
+    {
+      "en": "She's gone to lunch.",
+      "zh": "她吃午饭去了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "离去的；死去的；用光的",
+      "words": [
+        "departed"
+      ]
+    }
+  ]
+}

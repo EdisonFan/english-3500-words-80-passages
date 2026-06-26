@@ -1,0 +1,83 @@
+{
+  "word": "notice",
+  "found": true,
+  "phonetic_uk": "ˈnəʊtɪs",
+  "phonetic_us": "ˈnoʊtɪs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=notice&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=notice&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "注意，察觉；通告，布告；公告牌，警示牌；通知；事先声明，警告；预先通知期；剧评，书评；辞职信，搬迁通知；（报纸、杂志上的）小型广告，简短通告；警告书，说明书"
+    },
+    {
+      "pos": "v.",
+      "meaning": "意识，注意；留意；正式通知；简评；客气对待；<古>提到，谈到"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "notices"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "notices"
+    },
+    {
+      "name": "现在分词",
+      "value": "noticing"
+    },
+    {
+      "name": "过去式",
+      "value": "noticed"
+    },
+    {
+      "name": "过去分词",
+      "value": "noticed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You must give one month's notice.",
+      "zh": "你必须一个月前发出通知。"
+    },
+    {
+      "en": "He pretended not to notice.",
+      "zh": "他假装没注意。"
+    },
+    {
+      "en": "Nobody seemed to notice anything wrong.",
+      "zh": "似乎没人注意到有什么问题。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "通知，布告；注意；公告",
+      "words": [
+        "advice",
+        "information",
+        "announcement",
+        "declaration",
+        "regard"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "通知；注意到；留心",
+      "words": [
+        "message",
+        "observe"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "引起注意",
+      "words": [
+        "draw attention",
+        "make a dent"
+      ]
+    }
+  ]
+}

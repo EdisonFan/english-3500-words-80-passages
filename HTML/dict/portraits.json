@@ -1,0 +1,39 @@
+{
+  "word": "portraits",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˈpɔːrtrəts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=portraits&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=portraits&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（尤指只刻画脸、头和肩部的）肖像，照片，雕像；描绘，描述（portrait 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Just as revealing are Mr. Johnson's portraits, of which there are dozens.",
+      "zh": "透过约翰逊先生的许多肖像画，同样也可以了解其人。"
+    },
+    {
+      "en": "Velzquez's work from that time forward was confined largely to portraits of the royal family.",
+      "zh": "从那以后，委拉斯开兹的作品就很大程度上仅限于王室的肖像画了。"
+    },
+    {
+      "en": "Angus's child-like paintings contrast starkly with his adult subject matter in these portraits.",
+      "zh": "安格斯孩子般的绘画和他这些肖像画里的成人主题对比鲜明。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "肖像（portrait的复数）；画像",
+      "words": [
+        "effigies",
+        "icones"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "word": "carpets",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=carpets&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=carpets&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[纺]地毯（carpet 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "在……上铺地毯；铺盖（carpet 的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I vacuumed the carpets today.",
+      "zh": "我今天用吸尘器清洁地毯了。"
+    },
+    {
+      "en": "The carpets are starting to wear.",
+      "zh": "地毯渐渐磨坏了。"
+    },
+    {
+      "en": "All the old carpets need replacing.",
+      "zh": "所有的旧地毯都需要更换。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "地毯（carpet的复数）",
+      "words": [
+        "rugs"
+      ]
+    }
+  ]
+}

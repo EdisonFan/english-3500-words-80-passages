@@ -1,0 +1,44 @@
+{
+  "word": "simplicity",
+  "found": true,
+  "phonetic_uk": "sɪmˈplɪsəti",
+  "phonetic_us": "sɪmˈplɪsəti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=simplicity&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=simplicity&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "简单（性)，容易（性）；简朴，朴素；简单（或质朴、朴素）之处；愚蠢，无知"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "simplicities"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The plan has the virtue of simplicity.",
+      "zh": "这项计划的优点是简单。"
+    },
+    {
+      "en": "The document impressed me with its elegant simplicity.",
+      "zh": "这份文件以其精妙的简约给我留下了深刻的印象。"
+    },
+    {
+      "en": "Using plastic to pay for an order is simplicity itself.",
+      "zh": "使用信用卡支付订单本身就很简单。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "朴素；简易；天真；愚蠢",
+      "words": [
+        "homeliness",
+        "austerity"
+      ]
+    }
+  ]
+}

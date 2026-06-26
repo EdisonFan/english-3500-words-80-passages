@@ -1,0 +1,42 @@
+{
+  "word": "leaves",
+  "found": true,
+  "phonetic_uk": "liːvz",
+  "phonetic_us": "liːvz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=leaves&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=leaves&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "树叶，叶片；花瓣；（纸）页，张；薄金属片；活动桌板，折叠桌板；（窗、门等）扇；空心墙的内面（或外面）（leaf 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "离开；让……留下（leave 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Leaves change colour in autumn.",
+      "zh": "树叶在秋天改变颜色。"
+    },
+    {
+      "en": "The leaves taste rather bitter.",
+      "zh": "这些叶子尝起来相当苦。"
+    },
+    {
+      "en": "The dew gathered on the leaves.",
+      "zh": "露水在叶片上聚集。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "树叶；花瓣（leaf的复数）",
+      "words": [
+        "petals"
+      ]
+    }
+  ]
+}

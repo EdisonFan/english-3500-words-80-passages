@@ -1,0 +1,44 @@
+{
+  "word": "photographer",
+  "found": true,
+  "phonetic_uk": "fəˈtɒɡrəfə(r)",
+  "phonetic_us": "fəˈtɑːɡrəfər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=photographer&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=photographer&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "拍照者，摄影师"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "photographers"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She was a keen amateur photographer.",
+      "zh": "她是一个痴迷的业余摄影师。"
+    },
+    {
+      "en": "He was involved in a scuffle with a photographer.",
+      "zh": "他和一名摄影记者发生了肢体冲撞。"
+    },
+    {
+      "en": "A photographer recorded the scene on video for posterity.",
+      "zh": "一位摄影师为子孙后代摄下了这个场面。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "摄影师；照相师",
+      "words": [
+        "cameraman",
+        "lensman"
+      ]
+    }
+  ]
+}

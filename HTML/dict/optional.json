@@ -1,0 +1,46 @@
+{
+  "word": "optional",
+  "found": true,
+  "phonetic_uk": "ˈɒpʃən(ə)l",
+  "phonetic_us": "ˈɑːpʃən(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=optional&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=optional&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "可选择的，选修的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Certain courses are compulsory, others are optional.",
+      "zh": "某些课程是必修的，其他是选修的。"
+    },
+    {
+      "en": "Optional extras include cooking classes at a top restaurant.",
+      "zh": "可选的额外之物包括一家高级餐馆的烹饪课程。"
+    },
+    {
+      "en": "The course consists of ten core modules and five optional modules.",
+      "zh": "这门课程包括十个必修单元和五个选修单元。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "可选择的，随意的",
+      "words": [
+        "selectable",
+        "hit-or-miss"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "选修科目",
+      "words": [
+        "elective subjects"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "word": "parenting",
+  "found": true,
+  "phonetic_uk": "ˈpeərəntɪŋ",
+  "phonetic_us": "ˈperəntɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=parenting&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=parenting&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "养育子女，育儿；为人父母；（像父母一样对他人的）照顾"
+    },
+    {
+      "pos": "v.",
+      "meaning": "做……的父亲（或母亲）（parent 的现在分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Parenting is not fully valued by society.",
+      "zh": "养育子女还没有得到社会的充分重视。"
+    },
+    {
+      "en": "It is also not selfless parenting.",
+      "zh": "这也不是无私的养育。"
+    },
+    {
+      "en": "What's the best parenting style for you?",
+      "zh": "对你来说，什么是最好的养育方式？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "教养（parent的ing形式）；做…的父亲或母亲",
+      "words": [
+        "training"
+      ]
+    }
+  ]
+}

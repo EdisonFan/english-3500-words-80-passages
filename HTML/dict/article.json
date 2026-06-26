@@ -1,0 +1,65 @@
+{
+  "word": "article",
+  "found": true,
+  "phonetic_uk": "ˈɑːtɪk(ə)l",
+  "phonetic_us": "ˈɑːrtɪk(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=article&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=article&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "文章，论文；物品；条款，条文；冠词；见习契约，见习期"
+    },
+    {
+      "pos": "v.",
+      "meaning": "见习，签约做实习生；进行控告；使……受协议条款的约束"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "articles"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "articles"
+    },
+    {
+      "name": "现在分词",
+      "value": "articling"
+    },
+    {
+      "name": "过去式",
+      "value": "articled"
+    },
+    {
+      "name": "过去分词",
+      "value": "articled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The article caused (an) uproar.",
+      "zh": "这篇文章引起了轩然大波。"
+    },
+    {
+      "en": "The article was highly defamatory.",
+      "zh": "这篇文章充满诽谤。"
+    },
+    {
+      "en": "The article is full of inaccuracies.",
+      "zh": "这篇文章里的错误比比皆是。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "文章；物品；[法]条款；[语]冠词",
+      "words": [
+        "item",
+        "provision",
+        "clause"
+      ]
+    }
+  ]
+}

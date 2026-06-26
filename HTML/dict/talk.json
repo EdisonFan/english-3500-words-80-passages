@@ -1,0 +1,84 @@
+{
+  "word": "talk",
+  "found": true,
+  "phonetic_uk": "tɔːk",
+  "phonetic_us": "tɔːk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=talk&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=talk&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "说话，交谈，谈话；谈判，商讨；（就某一主题）演讲，作报告；讲（某种语言）；说服；<非正式>有说服力；招认，泄露秘密；议论，说闲话；<非正式>正在讨论；批评（某人）；（用信号、数字等）交流，传递信息；一直说到……为止；（书面）论述"
+    },
+    {
+      "pos": "n.",
+      "meaning": "交谈，讨论；（政府、机构等之间的）正式会谈，谈判；（专题）报告，演讲；空谈；谣言；话题，说话方式；闲谈"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "talks"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "talks"
+    },
+    {
+      "name": "现在分词",
+      "value": "talking"
+    },
+    {
+      "name": "过去式",
+      "value": "talked"
+    },
+    {
+      "name": "过去分词",
+      "value": "talked"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He was too distressed to talk.",
+      "zh": "他伤心得说不出话来。"
+    },
+    {
+      "en": "They talk about it endlessly.",
+      "zh": "他们无休止地谈论这件事情。"
+    },
+    {
+      "en": "I'd sooner not talk about it.",
+      "zh": "我宁愿不谈它。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "说；谈话；讨论",
+      "words": [
+        "quo",
+        "tell",
+        "observe",
+        "debate"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "谈话；说闲话",
+      "words": [
+        "jerk chin music",
+        "dialogize"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "谈话；演讲；空谈",
+      "words": [
+        "speech",
+        "address",
+        "lecture",
+        "discourse"
+      ]
+    }
+  ]
+}

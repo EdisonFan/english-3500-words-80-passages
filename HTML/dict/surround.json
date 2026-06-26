@@ -1,0 +1,73 @@
+{
+  "word": "surround",
+  "found": true,
+  "phonetic_uk": "səˈraʊnd",
+  "phonetic_us": "səˈraʊnd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=surround&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=surround&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "围绕，环绕；（军队，警察等）包围；与……紧密相连（或相关）；喜欢结交（某类人），身边总有（某类东西）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（物品的）边，饰边；周围的事物，环境"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "surrounds"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "surrounds"
+    },
+    {
+      "name": "现在分词",
+      "value": "surrounding"
+    },
+    {
+      "name": "过去式",
+      "value": "surrounded"
+    },
+    {
+      "name": "过去分词",
+      "value": "surrounded"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The police fanned out to surround the house.",
+      "zh": "警察散开包围了这座房子。"
+    },
+    {
+      "en": "How can one ever separate out the act from the attitudes that surround it?",
+      "zh": "如何才能将行动同围绕着它的种种看法区分开来呢？"
+    },
+    {
+      "en": "I surround you with my light.",
+      "zh": "我用我的光包围着你。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "围绕；包围",
+      "words": [
+        "invest",
+        "case",
+        "enclose"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "围绕物",
+      "words": [
+        "entironment",
+        "girdle"
+      ]
+    }
+  ]
+}

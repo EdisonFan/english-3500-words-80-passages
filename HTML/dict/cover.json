@@ -1,0 +1,84 @@
+{
+  "word": "cover",
+  "found": true,
+  "phonetic_uk": "ˈkʌvə(r)",
+  "phonetic_us": "ˈkʌvər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cover&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cover&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "覆盖，遮盖；包括，涉及；报道；占（一片面积）；行走（一段路程）；足够支付；给……保险；顶替，代替；找借口，包庇；采取行动（保护自己）；掩护；守住，封锁；翻唱；（桥牌）盖打"
+    },
+    {
+      "pos": "n.",
+      "meaning": "覆盖物，遮盖物；封面，封底；被子，床单；遮盖，覆盖；保险；掩护；掩饰，幌子；掩蔽处；代替；转录，翻唱；（板球）外场防守；（生态）盖度"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Cover）（英）科弗，（意）科韦尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "covers"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "covers"
+    },
+    {
+      "name": "现在分词",
+      "value": "covering"
+    },
+    {
+      "name": "过去式",
+      "value": "covered"
+    },
+    {
+      "name": "过去分词",
+      "value": "covered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "If it turns cold, cover the plants.",
+      "zh": "如果天气变冷，就把植物盖起来。"
+    },
+    {
+      "en": "Cover me while I move forward.",
+      "zh": "掩护我前进。"
+    },
+    {
+      "en": "$100 should cover your expenses.",
+      "zh": "100元该足够支付你的费用了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "包括；采访，报导；涉及",
+      "words": [
+        "deal with",
+        "complete with"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "封面，封皮；盖子；掩蔽物",
+      "words": [
+        "envelope",
+        "coer"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "覆盖；代替",
+      "words": [
+        "write over",
+        "substitute for"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "word": "recorded",
+  "found": true,
+  "phonetic_uk": "rɪˈkɔːdɪd",
+  "phonetic_us": "rɪˈkɔːrdɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=recorded&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=recorded&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "记录，记载；录制；（仪器）显示，标示；（尤指体育上）获得（好成绩）（record 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "It was recorded on a wax cylinder.",
+      "zh": "它被刻录在了蜡柱上。"
+    },
+    {
+      "en": "The interview was recorded and then transcribed.",
+      "zh": "采访谈话先录了音，然后再抄录出来。"
+    },
+    {
+      "en": "He has recorded the narration for the production.",
+      "zh": "他录制了这部作品的解说词。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "记录的",
+      "words": [
+        "documentary"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "记录；录音（record的过去分词）",
+      "words": [
+        "reported"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "word": "institute",
+  "found": true,
+  "phonetic_uk": "ˈɪnstɪtjuːt",
+  "phonetic_us": "ˈɪnstɪtuːt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=institute&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=institute&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "研究所，学院，协会；（尤指与法律相关的）注释，论述"
+    },
+    {
+      "pos": "v.",
+      "meaning": "制定（制度、规则等）；提出（诉讼）；任命，授予……职位（尤指圣职）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "institutes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "institutes"
+    },
+    {
+      "name": "现在分词",
+      "value": "instituting"
+    },
+    {
+      "name": "过去式",
+      "value": "instituted"
+    },
+    {
+      "name": "过去分词",
+      "value": "instituted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Mr. Lin is associate director of the Institute.",
+      "zh": "林先生是该研究所的副主任。"
+    },
+    {
+      "en": "He got a scholarship to the Pratt Institute of Art.",
+      "zh": "他得到了一笔普拉特艺术学院的奖学金。"
+    },
+    {
+      "en": "He visited the Institute of Neurology in Havana where they both worked.",
+      "zh": "他在哈瓦那参观了他们俩都曾工作过的神经病学研究所。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "开始（调查）；制定；创立；提起（诉讼）",
+      "words": [
+        "found",
+        "construct",
+        "father",
+        "initiate"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "学会，协会；学院",
+      "words": [
+        "academy",
+        "college",
+        "union",
+        "school"
+      ]
+    }
+  ]
+}

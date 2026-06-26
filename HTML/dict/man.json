@@ -1,0 +1,83 @@
+{
+  "word": "man",
+  "found": true,
+  "phonetic_uk": "mæn",
+  "phonetic_us": "mæn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=man&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=man&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "成年男子，男人；人类；（不论性别的）人；（来自某地、从事某种工作的）人；（喜欢某事的）人 ； （支持某组织或为其工作的）人；士兵，（男性）工人 ；上门服务的人；伙计，哥儿们；（表示不耐烦或生气）你这家伙；丈夫，男友；男子汉，大丈夫；棋子；<非正式>头头，老板，警察（the Man）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "负责，操控（某物）"
+    },
+    {
+      "pos": "int.",
+      "meaning": "<美，非正式>（表示惊奇、气愤等）嘿，天哪"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Man）（俄）马恩，（英、葡、意、罗、捷、尼、老、缅、柬）曼，（日）万（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "men"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "mans"
+    },
+    {
+      "name": "现在分词",
+      "value": "manning"
+    },
+    {
+      "name": "过去式",
+      "value": "manned"
+    },
+    {
+      "name": "过去分词",
+      "value": "manned"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He's a highly intelligent man.",
+      "zh": "他是一个很有才智的人。"
+    },
+    {
+      "en": "Man is not inherently violent.",
+      "zh": "人类并非生来就暴力。"
+    },
+    {
+      "en": "He shouldered the man aside.",
+      "zh": "他一膀子把那男人撞到了一旁。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "人；[人类]男人；人类；丈夫；雇工",
+      "words": [
+        "person",
+        "mankind",
+        "boy",
+        "humanity",
+        "guy"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "操纵；给…配置人员；使增强勇气；在…就位",
+      "words": [
+        "guide",
+        "manipulate"
+      ]
+    }
+  ]
+}

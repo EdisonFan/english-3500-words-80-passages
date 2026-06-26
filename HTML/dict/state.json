@@ -1,0 +1,92 @@
+{
+  "word": "state",
+  "found": true,
+  "phonetic_uk": "steɪt",
+  "phonetic_us": "steɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=state&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=state&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "状态，状况；紧张，焦虑；政府；国家；州，邦；<非正式>美国（the States）；国事礼仪，隆重仪式；（物质的）形态，态；（物理学）量子态；泽西、根西和奥尔德尼三岛的立法机关（the States）；压印，印图；受公众瞻仰和吊唁"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "州的；国事的，国事礼仪的；国家提供（或控制）的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "陈述，说明；规定，公布；表现（主题，旋律）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （State）（罗、瑞典）斯塔特，（英）斯泰特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "states"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "states"
+    },
+    {
+      "name": "现在分词",
+      "value": "stating"
+    },
+    {
+      "name": "过去式",
+      "value": "stated"
+    },
+    {
+      "name": "过去分词",
+      "value": "stated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Music can induce a meditative state.",
+      "zh": "音乐能引人进入沉思的状态。"
+    },
+    {
+      "en": "We're worried about his mental state.",
+      "zh": "我们担心他的精神状况。"
+    },
+    {
+      "en": "State police are following up several leads.",
+      "zh": "州警察局正在追查几条线索。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "国家；州；情形",
+      "words": [
+        "nation",
+        "country",
+        "soil"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "规定；声明；陈述",
+      "words": [
+        "define",
+        "regulate",
+        "rule",
+        "declare"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "国家的；州的；正式的",
+      "words": [
+        "national",
+        "formal",
+        "official"
+      ]
+    }
+  ]
+}

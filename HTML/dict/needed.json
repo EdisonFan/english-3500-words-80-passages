@@ -1,0 +1,45 @@
+{
+  "word": "needed",
+  "found": true,
+  "phonetic_uk": "ˈniːdɪd",
+  "phonetic_us": "ˈniːdɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=needed&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=needed&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "需要；（表示应该或不得不做）有必要（need 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The cut needed eight stitches.",
+      "zh": "这道伤口需要缝八针。"
+    },
+    {
+      "en": "Take whatever action is needed.",
+      "zh": "采取任何必要的行动。"
+    },
+    {
+      "en": "Food aid is urgently needed.",
+      "zh": "迫切需要食物援助。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "需要的",
+      "words": [
+        "requisite"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "需要（need的过去式）",
+      "words": [
+        "required"
+      ]
+    }
+  ]
+}

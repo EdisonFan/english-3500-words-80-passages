@@ -1,0 +1,39 @@
+{
+  "word": "customs",
+  "found": true,
+  "phonetic_uk": "ˈkʌstəmz",
+  "phonetic_us": "ˈkʌstəmz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=customs&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=customs&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "海关；关税"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He walked through customs.",
+      "zh": "他步行通过了海关。"
+    },
+    {
+      "en": "The ship was boarded by customs officials.",
+      "zh": "海关官员登上了这艘船。"
+    },
+    {
+      "en": "He refused to conform to the local customs.",
+      "zh": "他拒绝遵从当地的风俗习惯。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "海关；风俗（custom的复数）；习惯；关税",
+      "words": [
+        "habits",
+        "duties"
+      ]
+    }
+  ]
+}

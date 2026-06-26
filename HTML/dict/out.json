@@ -1,0 +1,71 @@
+{
+  "word": "out",
+  "found": true,
+  "phonetic_uk": "aʊt",
+  "phonetic_us": "aʊt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=out&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=out&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "出现；向外；在室外；出狱；遥远地；出海；退潮；指离球门线或终点线的距离；在公共娱乐场所；公开；出声地；殆尽；直至完成；完全；熄灭；除去；出局"
+    },
+    {
+      "pos": "prep.",
+      "meaning": "从……里面出去，离开"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "熄灭的；盛开的；面市的；出局的；不能被接受的；过时的；不准确的；打算做……的；被公开的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "击倒，击晕；揭露（某人）是同性恋；熄灭；驱逐；拒绝；解除"
+    },
+    {
+      "pos": "n.",
+      "meaning": "出路，脱身办法；（棒球）使球员出局的办法；在野党"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Steam puffed out.",
+      "zh": "蒸汽向外喷出。"
+    },
+    {
+      "en": "If you're going out tonight you'll have to count me out.",
+      "zh": "假如你们今晚要出去，就别把我算在内。"
+    },
+    {
+      "en": "'Look out!' I hollered.",
+      "zh": "“当心！”我大喊一声。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "出现；在外；出局；出声地；不流行地",
+      "words": [
+        "aloud",
+        "outward"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "外面的；出局的；下台的",
+      "words": [
+        "outer",
+        "outside",
+        "external"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "出局",
+      "words": [
+        "putout"
+      ]
+    }
+  ]
+}

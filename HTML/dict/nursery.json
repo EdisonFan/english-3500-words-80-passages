@@ -1,0 +1,48 @@
+{
+  "word": "nursery",
+  "found": true,
+  "phonetic_uk": "ˈnɜːsəri",
+  "phonetic_us": "ˈnɜːrsəri",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=nursery&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=nursery&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "托儿所，幼儿园；儿童房；<旧>儿童活动室；苗圃；（医院里的）育婴室；动物繁殖场；温床；两岁的马参加的赛马"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "幼儿教育的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "nurseries"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Her youngest child is at nursery now.",
+      "zh": "她最小的孩子现在上托儿所。"
+    },
+    {
+      "en": "The nursery is bright and cheerful, with plenty of toys.",
+      "zh": "该托儿所明亮宜人，有许多玩具。"
+    },
+    {
+      "en": "One area of contention is the availability of nursery care.",
+      "zh": "争论的一个方面是提供幼儿保育的可能性。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[林]苗圃；托儿所；温床",
+      "words": [
+        "soil",
+        "nest"
+      ]
+    }
+  ]
+}

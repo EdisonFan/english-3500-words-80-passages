@@ -1,0 +1,42 @@
+{
+  "word": "basically",
+  "found": true,
+  "phonetic_uk": "ˈbeɪsɪkli",
+  "phonetic_us": "ˈbeɪsɪkli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=basically&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=basically&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "基本上，大体上；从根本上说，总的说来"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Yes, that's basically correct.",
+      "zh": "对，基本正确。"
+    },
+    {
+      "en": "People are basically the same the world over.",
+      "zh": "世界各地的人基本上都一样。"
+    },
+    {
+      "en": "The official report basically exonerated everyone.",
+      "zh": "该官方报告基本洗脱了所有人的干系。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "主要地，基本上",
+      "words": [
+        "mainly",
+        "mostly",
+        "largely",
+        "primarily",
+        "ultimately"
+      ]
+    }
+  ]
+}

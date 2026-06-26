@@ -1,0 +1,52 @@
+{
+  "word": "rosy",
+  "found": true,
+  "phonetic_uk": "ˈrəʊzi",
+  "phonetic_us": "ˈroʊzi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=rosy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=rosy&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "玫瑰色的，粉红色的；（脸颊）红润的，红扑扑的；乐观的，有希望的；安逸的，愉快的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】  （Rosy）（罗、意、瑞、典）罗茜，罗西，（英）罗茜（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "rosier或more rosy"
+    },
+    {
+      "name": "最高级",
+      "value": "rosiest或most rosy"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She had rosy cheeks.",
+      "zh": "她脸颊红润。"
+    },
+    {
+      "en": "Ultrafine powder with a rosy tinge gives the skin warmth and luminosity.",
+      "zh": "带玫瑰色的超细扑粉让皮肤显得温暖而有光泽。"
+    },
+    {
+      "en": "Dawn was always \"rosy-fingered\".",
+      "zh": "黎明总是有着“红润的手指”。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "蔷薇色的，玫瑰红色的；美好的；乐观的；涨红脸的",
+      "words": [
+        "nice",
+        "optimistic"
+      ]
+    }
+  ]
+}

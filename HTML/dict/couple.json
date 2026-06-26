@@ -1,0 +1,85 @@
+{
+  "word": "couple",
+  "found": true,
+  "phonetic_uk": "ˈkʌp(ə)l",
+  "phonetic_us": "ˈkʌp(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=couple&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=couple&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "两个，几个；一对夫妇，一对情侣"
+    },
+    {
+      "pos": "v.",
+      "meaning": "加上，结合；（把设备等）连接；形成一双，配成一对；<旧>交配，交媾；（用电磁感应，静电荷或光学通信线路）将（电路元件）耦合"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Couple）（法）库普勒（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "couples"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "couples"
+    },
+    {
+      "name": "现在分词",
+      "value": "coupling"
+    },
+    {
+      "name": "过去式",
+      "value": "coupled"
+    },
+    {
+      "name": "过去分词",
+      "value": "coupled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It's only a couple blocks away.",
+      "zh": "那地方离这里只有几个街区。"
+    },
+    {
+      "en": "The couple have no children.",
+      "zh": "这对夫妇没有孩子。"
+    },
+    {
+      "en": "They were an odd-looking couple.",
+      "zh": "这对夫妇长相奇特。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "对；夫妇；数个",
+      "words": [
+        "immune to",
+        "conjugality"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "结合；成婚",
+      "words": [
+        "bond",
+        "become one",
+        "combine"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "结合；连接；连合",
+      "words": [
+        "become one",
+        "join together"
+      ]
+    }
+  ]
+}

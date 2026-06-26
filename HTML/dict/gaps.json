@@ -1,0 +1,50 @@
+{
+  "word": "gaps",
+  "found": true,
+  "phonetic_uk": "ɡæps",
+  "phonetic_us": "ɡæps",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=gaps&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=gaps&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "差异，缺口；缝隙；隔阂（gap 的复数形式）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "裂开；使豁裂（gap 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Overlap the slices carefully so there are no gaps.",
+      "zh": "把薄片小心地叠放在一起，那样就没有间隙。"
+    },
+    {
+      "en": "It demands that the reader almost become a writer and fill in the gaps.",
+      "zh": "它要求读者几乎成为一个作家然后填补空白。"
+    },
+    {
+      "en": "There are gaps in reading, writing, and science achievement that should be narrower.",
+      "zh": "在阅读、写作和科学成就方面的差距应该进一步缩小。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "差异，缺口；缝隙（gap的复数形式）",
+      "words": [
+        "chips",
+        "discrepancies"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "裂开；使豁裂（gap的第三人称单数形式）",
+      "words": [
+        "cleaves"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "word": "district",
+  "found": true,
+  "phonetic_uk": "ˈdɪstrɪkt",
+  "phonetic_us": "ˈdɪstrɪkt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=district&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=district&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "地区，区域；行政区，辖区；<英>（郡或区以下的）选区"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<美>把……划分成区"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "districts"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "districts"
+    },
+    {
+      "name": "现在分词",
+      "value": "districting"
+    },
+    {
+      "name": "过去式",
+      "value": "districted"
+    },
+    {
+      "name": "过去分词",
+      "value": "districted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I drove around the business district.",
+      "zh": "我绕着商业区行驶。"
+    },
+    {
+      "en": "The district is pock-marked with caves.",
+      "zh": "这个地区布满了坑洞。"
+    },
+    {
+      "en": "The Los Alamos district is solidly Republican.",
+      "zh": "洛斯阿拉莫斯地区是坚定的共和党地盘。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[地理]区域；地方；行政区",
+      "words": [
+        "area",
+        "place"
+      ]
+    }
+  ]
+}

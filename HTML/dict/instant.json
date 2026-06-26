@@ -1,0 +1,60 @@
+{
+  "word": "instant",
+  "found": true,
+  "phonetic_uk": "ˈɪnstənt",
+  "phonetic_us": "ˈɪnstənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=instant&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=instant&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "立刻的，马上的；速食的，即食的；紧急的，紧迫的；<旧>（商业信函用语）本月的；<旧>此刻的，现时的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "瞬间，片刻；当时，那一刻；<非正式>速溶咖啡"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "instants"
+    }
+  ],
+  "examples": [
+    {
+      "en": "For an instant I was infected by her fear.",
+      "zh": "一瞬间，我被她的恐惧所感染。"
+    },
+    {
+      "en": "For an instant, Barney was tempted to flee.",
+      "zh": "那一瞬间，巴尼很想逃走。"
+    },
+    {
+      "en": "The engine delivers instant acceleration whatever the revs.",
+      "zh": "不论转速如何，发动机都可以立即加速。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "立即的；紧急的；紧迫的",
+      "words": [
+        "immediate",
+        "urgent",
+        "emergency",
+        "hot",
+        "pressing"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "瞬间；立即；片刻",
+      "words": [
+        "moment",
+        "breath",
+        "second"
+      ]
+    }
+  ]
+}

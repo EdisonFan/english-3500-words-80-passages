@@ -1,0 +1,42 @@
+{
+  "word": "threatened",
+  "found": true,
+  "phonetic_uk": "ˈθret(ə)nd",
+  "phonetic_us": "ˈθretnd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=threatened&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=threatened&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "受到威胁的，感到危险的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "威胁，恐吓；威胁到，危及；预示凶兆，有…危险（threaten 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They threatened to tow away my car.",
+      "zh": "他们威胁说要拖走我的车。"
+    },
+    {
+      "en": "The attacker threatened them with a gun.",
+      "zh": "袭击者用枪威胁他们。"
+    },
+    {
+      "en": "Britain threatened to break off diplomatic relations.",
+      "zh": "英国威胁说要断绝外交关系。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "威胁（threaten的过去分词）",
+      "words": [
+        "bullied"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "asleep",
+  "found": true,
+  "phonetic_uk": "əˈsliːp",
+  "phonetic_us": "əˈsliːp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=asleep&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=asleep&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "睡着的；麻木的，发麻的；<美，非正式>不专心的，不活跃的；长眠的，已死的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "处于睡眠状态地，进入睡眠状态地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He had fallen asleep on the sofa.",
+      "zh": "他在沙发上睡着了。"
+    },
+    {
+      "en": "He's half asleep and a bit boozed.",
+      "zh": "他半醒半睡，还有点微醉。"
+    },
+    {
+      "en": "In moments, I was asleep once more.",
+      "zh": "很快，我又睡着了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "睡着的；麻木的；长眠的",
+      "words": [
+        "sleeping",
+        "stupid"
+      ]
+    }
+  ]
+}

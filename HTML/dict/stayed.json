@@ -1,0 +1,38 @@
+{
+  "word": "stayed",
+  "found": true,
+  "phonetic_uk": "steɪd",
+  "phonetic_us": "steɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=stayed&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=stayed&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "停留，制止（stay 的过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They stayed in adjoining rooms.",
+      "zh": "他们住的房间紧挨着。"
+    },
+    {
+      "en": "We stayed at the Grand Hotel.",
+      "zh": "我们住在格兰酒店。"
+    },
+    {
+      "en": "We stayed at the YMCA.",
+      "zh": "我们住在基督教青年会。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "停留，制止（stay的过去分词形式）",
+      "words": [
+        "corrected"
+      ]
+    }
+  ]
+}

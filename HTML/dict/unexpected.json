@@ -1,0 +1,48 @@
+{
+  "word": "unexpected",
+  "found": true,
+  "phonetic_uk": "ˌʌnɪkˈspektɪd",
+  "phonetic_us": "ˌʌnɪkˈspektɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=unexpected&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=unexpected&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "想不到的，意外的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more unexpected"
+    },
+    {
+      "name": "最高级",
+      "value": "most unexpected"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Something unexpected occurred.",
+      "zh": "发生了一件出乎意料的事。"
+    },
+    {
+      "en": "Support came from an unexpected direction.",
+      "zh": "一个出人意料的来源提供了帮助。"
+    },
+    {
+      "en": "The announcement was not entirely unexpected.",
+      "zh": "这个通告并非完全出乎意料。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "意外的，想不到的",
+      "words": [
+        "sudden",
+        "surprising"
+      ]
+    }
+  ]
+}

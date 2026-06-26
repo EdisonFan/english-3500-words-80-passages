@@ -1,0 +1,88 @@
+{
+  "word": "regard",
+  "found": true,
+  "phonetic_uk": "rɪˈɡɑːd",
+  "phonetic_us": "rɪˈɡɑːrd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=regard&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=regard&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "认为，把……看作；<正式>（尤指以某种方式）注视，凝视；<古>注意，留心；<古>与……有关，涉及"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<正式> 尊重，敬佩；<正式> 关心，关注；注视，凝视；（用于信函结尾或转达问候）致意，问候（regards）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】  （Regard）（西、意）雷加德，（法）勒加尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "regards"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "regards"
+    },
+    {
+      "name": "现在分词",
+      "value": "regarding"
+    },
+    {
+      "name": "过去式",
+      "value": "regarded"
+    },
+    {
+      "name": "过去分词",
+      "value": "regarded"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I have nothing further to say in this regard.",
+      "zh": "在这方面，我没什么要说的了。"
+    },
+    {
+      "en": "He seemed to regard the whole thing as a joke.",
+      "zh": "他似乎是把整件事当成玩笑。"
+    },
+    {
+      "en": "I regard this as a serious matter.",
+      "zh": "我认为这是一件重要的事情。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "注意；尊重；问候；凝视",
+      "words": [
+        "estimation",
+        "respect",
+        "notice",
+        "publicity"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "注重，考虑；看待；尊敬；把…看作；与…有关",
+      "words": [
+        "view",
+        "study",
+        "honor",
+        "think about"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "注意，注重；注视",
+      "words": [
+        "take care of",
+        "watch"
+      ]
+    }
+  ]
+}

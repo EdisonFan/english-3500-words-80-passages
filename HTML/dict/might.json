@@ -1,0 +1,57 @@
+{
+  "word": "might",
+  "found": true,
+  "phonetic_uk": "maɪt",
+  "phonetic_us": "maɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=might&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=might&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "可能，可以（may 的过去式）；（表示可能性）可能，也许；（用于礼貌地建议）可以，也许；（对某人未做某事表示不满）应该；也许，可能（表示某情况属实，另一情况也属实）；可以，能（用于说明目的）；究竟，到底；可以，能够（预料）；我可以这么说（表示强调接下来的陈述）；好像，似乎；也许不会/也许永远不会做某事；用于礼貌地谈论某人或某事物"
+    },
+    {
+      "pos": "n.",
+      "meaning": "强大力量，威力"
+    },
+    {
+      "pos": "n.",
+      "meaning": "(Might) （美）迈特（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "'I might,' he said enigmatically.",
+      "zh": "“我也许会的。”他神秘地说道。"
+    },
+    {
+      "en": "Might I make a suggestion?",
+      "zh": "我可以提个建议么？"
+    },
+    {
+      "en": "Insecurity might creep in.",
+      "zh": "不安全感可能会悄然而生。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "力量；威力；势力",
+      "words": [
+        "strength",
+        "force",
+        "muscle",
+        "power",
+        "influence"
+      ]
+    },
+    {
+      "pos": "aux.",
+      "meaning": "可能；也许",
+      "words": [
+        "should"
+      ]
+    }
+  ]
+}

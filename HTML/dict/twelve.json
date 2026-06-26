@@ -1,0 +1,58 @@
+{
+  "word": "twelve",
+  "found": true,
+  "phonetic_uk": "twelv",
+  "phonetic_us": "twelv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=twelve&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=twelve&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "十二；十二个"
+    },
+    {
+      "pos": "num.",
+      "meaning": "十二；十二个"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "十二的；十二个的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "twelves"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He retired twelve batters in a row.",
+      "zh": "他一连使十二个击球手出局。"
+    },
+    {
+      "en": "It's ten past twelve.",
+      "zh": "现在十二点十分。"
+    },
+    {
+      "en": "Twelve enemy fighters had been brought down.",
+      "zh": "有十二架敌方的战斗机被击落。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "十二；十二个",
+      "words": [
+        "dozen"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "十二的；十二个的",
+      "words": [
+        "duodenary"
+      ]
+    }
+  ]
+}

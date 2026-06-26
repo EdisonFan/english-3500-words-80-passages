@@ -1,0 +1,61 @@
+{
+  "word": "recycle",
+  "found": true,
+  "phonetic_uk": "ˌriːˈsaɪkl",
+  "phonetic_us": "ˌriːˈsaɪk(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=recycle&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=recycle&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "回收利用，再利用；（将可回收物品）送入回收加工厂；使再循环；再次应用，重新使用（观念、文章等）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "回收利用，循环使用"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "recycles"
+    },
+    {
+      "name": "现在分词",
+      "value": "recycling"
+    },
+    {
+      "name": "过去式",
+      "value": "recycled"
+    },
+    {
+      "name": "过去分词",
+      "value": "recycled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The objective would be to recycle 98 percent of domestic waste.",
+      "zh": "该目标是循环使用98%的生活垃圾。"
+    },
+    {
+      "en": "The power of the Green movement in Germany has made that country a leader in the drive to recycle more waste materials.",
+      "zh": "德国环保运动的力量已经使该国成了循环利用更多废料运动中的领先者。"
+    },
+    {
+      "en": "We can recycle plastic bottles.",
+      "zh": "我们可以回收塑胶瓶。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "再生；再循环；重复利用",
+      "words": [
+        "regeneration",
+        "breeding",
+        "rebirth"
+      ]
+    }
+  ]
+}

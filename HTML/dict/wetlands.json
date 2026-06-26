@@ -1,0 +1,38 @@
+{
+  "word": "wetlands",
+  "found": true,
+  "phonetic_uk": "ˈwetləndz",
+  "phonetic_us": "ˈwetˌlændz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=wetlands&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=wetlands&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "湿地（wetland 的复数形式）；沼泽地；塘地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The wetlands are home to a large variety of wildlife.",
+      "zh": "湿地是多种野生动物的栖息地。"
+    },
+    {
+      "en": "There are 200 species of birds in Romania's wetlands.",
+      "zh": "在罗马尼亚的湿地中有200种鸟类。"
+    },
+    {
+      "en": "Hundreds of miles of drainage canals were built in the wetlands.",
+      "zh": "湿地上修建了数百英里的排水沟渠。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "湿地（wetland的复数形式）；沼泽地；塘地",
+      "words": [
+        "swales"
+      ]
+    }
+  ]
+}

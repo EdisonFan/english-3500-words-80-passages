@@ -1,0 +1,68 @@
+{
+  "word": "source",
+  "found": true,
+  "phonetic_uk": "sɔːs",
+  "phonetic_us": "sɔːrs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=source&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=source&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "来源，出处；（问题的）原因，根源；消息人士，信息来源；河流源头，发源地；源（代）码；（电子）源极，电源；（技）源"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（从某地）获得；找出……的来源"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Source）（法）苏尔斯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "sources"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "sources"
+    },
+    {
+      "name": "现在分词",
+      "value": "sourcing"
+    },
+    {
+      "name": "过去式",
+      "value": "sourced"
+    },
+    {
+      "name": "过去分词",
+      "value": "sourced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "What is their main source of income?",
+      "zh": "他们的主要收入来源是什么？"
+    },
+    {
+      "en": "Success in sport is a source of national pride.",
+      "zh": "体育成就是民族光荣的源泉。"
+    },
+    {
+      "en": "Plants are the ultimate source of all foodstuffs.",
+      "zh": "植物是所有食物的最终来源。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "来源；水源；原始资料",
+      "words": [
+        "provenience",
+        "authorship"
+      ]
+    }
+  ]
+}

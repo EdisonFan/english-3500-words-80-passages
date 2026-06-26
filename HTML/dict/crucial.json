@@ -1,0 +1,51 @@
+{
+  "word": "crucial",
+  "found": true,
+  "phonetic_uk": "ˈkruːʃ(ə)l",
+  "phonetic_us": "ˈkruːʃ(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=crucial&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=crucial&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "至关重要的，决定性的；<非正式>极好的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more crucial"
+    },
+    {
+      "name": "最高级",
+      "value": "most crucial"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Defence of the realm is crucial.",
+      "zh": "王国的防御是至关重要的。"
+    },
+    {
+      "en": "This last point is crucial.",
+      "zh": "刚讲的这一点是关键的。"
+    },
+    {
+      "en": "The battle had reached a crucial juncture.",
+      "zh": "战斗已到了关键时刻。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "重要的；决定性的；定局的；决断的",
+      "words": [
+        "important",
+        "considerable",
+        "material",
+        "critical",
+        "big"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "surgeon",
+  "found": true,
+  "phonetic_uk": "ˈsɜːdʒən",
+  "phonetic_us": "ˈsɜːrdʒən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=surgeon&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=surgeon&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "外科医生"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Surgeon）（法）叙尔容（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "surgeons"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I knew that I owed the surgeon my life.",
+      "zh": "我明白外科医生救了我的命。"
+    },
+    {
+      "en": "He is reputed to be the best heart surgeon in the country.",
+      "zh": "他号称是这个国家最好的心脏外科医生。"
+    },
+    {
+      "en": "The surgeon would pick up his instruments, probe, repair, and stitch up again.",
+      "zh": "外科医生会拿起器械进行探查、修复，然后再缝合。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "外科医生",
+      "words": [
+        "sawbones",
+        "chirurgeon"
+      ]
+    }
+  ]
+}

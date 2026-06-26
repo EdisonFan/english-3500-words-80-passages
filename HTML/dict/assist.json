@@ -1,0 +1,55 @@
+{
+  "word": "assist",
+  "found": true,
+  "phonetic_uk": "əˈsɪst",
+  "phonetic_us": "əˈsɪst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=assist&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=assist&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "帮助，协助；<古>参加，出席"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（球赛中的）助攻；资助，帮助"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "assists"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "assists"
+    },
+    {
+      "name": "现在分词",
+      "value": "assisting"
+    },
+    {
+      "name": "过去式",
+      "value": "assisted"
+    },
+    {
+      "name": "过去分词",
+      "value": "assisted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Anyone willing to assist can contact this number.",
+      "zh": "凡愿协助者可拨此号码联系。"
+    },
+    {
+      "en": "We are here to protect and assist the weak and infirm.",
+      "zh": "我们来这里保护和帮助病弱者。"
+    },
+    {
+      "en": "I was looking for a backer to assist me in the attempted buyout.",
+      "zh": "我当时正在寻找一位赞助人来帮助我进行这次全面收购。"
+    }
+  ],
+  "synonyms": []
+}

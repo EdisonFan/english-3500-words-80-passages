@@ -1,0 +1,48 @@
+{
+  "word": "aged",
+  "found": true,
+  "phonetic_uk": "eɪdʒd",
+  "phonetic_us": "eɪdʒd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=aged&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=aged&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "……岁的；年老的，年迈的；老化的；（马，农畜）超过成熟年龄的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "老年人（the aged）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "变老，老化；（使）显老；（使）变陈（age 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The camp is for youngsters aged 8 to 14.",
+      "zh": "这次夏令营是为8至14岁的少年儿童安排的。"
+    },
+    {
+      "en": "They have two children aged six and nine.",
+      "zh": "他们有两个小孩，一个六岁，一个九岁。"
+    },
+    {
+      "en": "His fan base is mostly middle-aged ladies.",
+      "zh": "他的粉丝群主要是中年妇女。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[高分子]年老的；…岁的；老年人特有的",
+      "words": [
+        "old",
+        "advanced",
+        "ancient"
+      ]
+    }
+  ]
+}

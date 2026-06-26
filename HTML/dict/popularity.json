@@ -1,0 +1,39 @@
+{
+  "word": "popularity",
+  "found": true,
+  "phonetic_uk": "ˌpɒpjuˈlærəti",
+  "phonetic_us": "ˌpɑːpjuˈlærəti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=popularity&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=popularity&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "流行，普及，受欢迎"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "His popularity has slipped recently.",
+      "zh": "近来他已不如过去那样受欢迎。"
+    },
+    {
+      "en": "Her popularity clearly shows no sign of waning.",
+      "zh": "她的受欢迎程度显然没有显示出下降的迹象。"
+    },
+    {
+      "en": "Her popularity has been on the wane for some time.",
+      "zh": "她的人气一段时间以来江河日下。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "普及，流行；名气；受大众欢迎",
+      "words": [
+        "prevalence",
+        "diffusedness"
+      ]
+    }
+  ]
+}

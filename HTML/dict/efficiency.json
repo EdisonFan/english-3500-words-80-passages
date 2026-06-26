@@ -1,0 +1,44 @@
+{
+  "word": "efficiency",
+  "found": true,
+  "phonetic_uk": "ɪˈfɪʃ(ə)nsi",
+  "phonetic_us": "ɪˈfɪʃ(ə)nsi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=efficiency&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=efficiency&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "效率，效能；（机器的）功率"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "efficiencies"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She arranged everything with her customary efficiency.",
+      "zh": "她以她特有的高效率把一切都已安排妥当。"
+    },
+    {
+      "en": "It was achieved with minimum fuss and maximum efficiency.",
+      "zh": "它以最少的慌乱和最高的效率被做到了。"
+    },
+    {
+      "en": "Defrost the fridge regularly so that it works at maximum efficiency.",
+      "zh": "定期给冰箱除霜能取得最大效率。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "效率；效能；功效",
+      "words": [
+        "virtue",
+        "potency"
+      ]
+    }
+  ]
+}

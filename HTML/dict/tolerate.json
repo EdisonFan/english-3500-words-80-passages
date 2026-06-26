@@ -1,0 +1,59 @@
+{
+  "word": "tolerate",
+  "found": true,
+  "phonetic_uk": "ˈtɒləreɪt",
+  "phonetic_us": "ˈtɑːləreɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tolerate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tolerate&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "容许，允许（不同意或不喜欢的事物）；忍受，包容；（对药物、毒物或环境状况）产生耐受 ；敷衍，应付"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "tolerates"
+    },
+    {
+      "name": "现在分词",
+      "value": "tolerating"
+    },
+    {
+      "name": "过去式",
+      "value": "tolerated"
+    },
+    {
+      "name": "过去分词",
+      "value": "tolerated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I don't know how you tolerate that noise!",
+      "zh": "我不知道你怎么能忍受那样的噪音！"
+    },
+    {
+      "en": "Lying is something that I will not tolerate.",
+      "zh": "撒谎是我所不能容忍的。"
+    },
+    {
+      "en": "We have to tolerate each other's little foibles.",
+      "zh": "我们得互相容忍对方的小缺点。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "忍受；默许；宽恕",
+      "words": [
+        "stomach",
+        "go",
+        "stand",
+        "abide",
+        "tough"
+      ]
+    }
+  ]
+}

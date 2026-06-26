@@ -1,0 +1,47 @@
+{
+  "word": "thoughtful",
+  "found": true,
+  "phonetic_uk": "ˈθɔːtf(ə)l",
+  "phonetic_us": "ˈθɔːtf(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=thoughtful&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=thoughtful&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "体贴入微的，考虑周到的；沉思的，思考的；缜密思考过的，深思熟虑的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more thoughtful"
+    },
+    {
+      "name": "最高级",
+      "value": "most thoughtful"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He scratched his head and looked thoughtful.",
+      "zh": "他挠着头显出一副深思的样子。"
+    },
+    {
+      "en": "Douglas was a complex man, thoughtful, gallant, and generous.",
+      "zh": "道格拉斯是个复杂的男人，他体贴、殷勤而且慷慨。"
+    },
+    {
+      "en": "They sat in thoughtful silence.",
+      "zh": "他们坐着，沉思不语。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "深思的；体贴的；关切的",
+      "words": [
+        "considerate"
+      ]
+    }
+  ]
+}

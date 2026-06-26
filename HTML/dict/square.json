@@ -1,0 +1,98 @@
+{
+  "word": "square",
+  "found": true,
+  "phonetic_uk": "skweə(r)",
+  "phonetic_us": "skwer",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=square&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=square&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "正方形的，四方形的；成直角的；平方的；两清的，互不欠账的；诚实公正的；<非正式>古板守旧的；平行的，水平的；宽阔结实的；打平的，平局的；一致的，可共存的；长宽为…...的；整齐的；（韵律）简单易懂的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "正方形，四方形；广场；平方，二次幂；<非正式>古板守旧的人；（棋盘上的）方格；直角尺，丁字尺；<史>（步兵的）方阵；方围巾；<英>托灰板，灰浆板；（板球）内场；（军营中的）操练场；<美>街区；（占星）90度星位；<美，非正式>美餐，饱餐"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使成平方，使成二次幂；使（比赛的比分）打平；挺起胸膛；使成正方形，使成方形；<非正式>贿赂，收买；使谐调，符合；就…...征得…...的同意；结账，付清欠款；横（向）传（球）；（占星）处于方照位置"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "直接地；成直角，垂直地；<非正式>公正地，诚实地"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "squares"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "squares"
+    },
+    {
+      "name": "现在分词",
+      "value": "squaring"
+    },
+    {
+      "name": "过去式",
+      "value": "squared"
+    },
+    {
+      "name": "过去分词",
+      "value": "squared"
+    },
+    {
+      "name": "比较级",
+      "value": "squarer或more square"
+    },
+    {
+      "name": "最高级",
+      "value": "squarest或most square"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They live at 95 Russell Square.",
+      "zh": "他们住在拉塞尔广场95号。"
+    },
+    {
+      "en": "He has a strong square jaw.",
+      "zh": "他长着一副结实的方下巴。"
+    },
+    {
+      "en": "Five roads radiate from the square.",
+      "zh": "五条道路由广场向外延伸。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "平方的；[数]正方形的；直角的；正直的",
+      "words": [
+        "straight",
+        "just",
+        "orthogonal"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使成方形；与…一致",
+      "words": [
+        "accord with",
+        "jibe with"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "一致；[数]成方形",
+      "words": [
+        "cotton",
+        "identify",
+        "coincide"
+      ]
+    }
+  ]
+}

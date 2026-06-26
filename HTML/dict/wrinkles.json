@@ -1,0 +1,50 @@
+{
+  "word": "wrinkles",
+  "found": true,
+  "phonetic_uk": "ˈrɪŋklz",
+  "phonetic_us": "ˈrɪŋklz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=wrinkles&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=wrinkles&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "皱纹；皱褶（wrinkle 的复数形式）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "起皱（wrinkle 的第三人称单数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "His face was covered with wrinkles.",
+      "zh": "他的脸布满了皱纹。"
+    },
+    {
+      "en": "She retains her slim figure and is free of wrinkles.",
+      "zh": "她保持着苗条的身材，而且没有皱纹。"
+    },
+    {
+      "en": "Her wrinkles deepen with age.",
+      "zh": "她的皱纹随着年龄增长而加深。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "皱纹；皱褶（wrinkle的复数形式）",
+      "words": [
+        "rugae",
+        "crinkles"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "起皱（wrinkle的第三人称单数形式）",
+      "words": [
+        "crimps"
+      ]
+    }
+  ]
+}

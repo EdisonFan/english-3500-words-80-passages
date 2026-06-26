@@ -1,0 +1,86 @@
+{
+  "word": "ill",
+  "found": true,
+  "phonetic_uk": "ɪl",
+  "phonetic_us": "ɪl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ill&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ill&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "有病的，不舒服的；坏的，有害的；不友好的，不友善的；不吉祥的，不利的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "坏，恶劣地；艰难地，几乎不；不友好地，不友善地；不祥地"
+    },
+    {
+      "pos": "n.",
+      "meaning": "问题，困难；伤害，厄运；病人，患者"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Ill）（捷、匈）伊尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "ills"
+    },
+    {
+      "name": "比较级",
+      "value": "worse或iller"
+    },
+    {
+      "name": "最高级",
+      "value": "worst或illest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The patient is terminally ill.",
+      "zh": "这个病人病入膏肓。"
+    },
+    {
+      "en": "She was taken ill suddenly.",
+      "zh": "她突然病倒了。"
+    },
+    {
+      "en": "Most of them were chronically ill.",
+      "zh": "他们中大部分人都有慢性病。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "生病的；坏的；邪恶的；不吉利的",
+      "words": [
+        "bad",
+        "evil",
+        "black",
+        "ugly"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "不利地；恶劣地；几乎不",
+      "words": [
+        "badly",
+        "barely",
+        "adversely"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "疾病；不幸",
+      "words": [
+        "illness",
+        "disaster",
+        "disease",
+        "sickness",
+        "evil"
+      ]
+    }
+  ]
+}

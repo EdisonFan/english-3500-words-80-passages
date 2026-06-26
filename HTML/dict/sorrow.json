@@ -1,0 +1,71 @@
+{
+  "word": "sorrow",
+  "found": true,
+  "phonetic_uk": "ˈsɒrəʊ",
+  "phonetic_us": "ˈsɑːroʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sorrow&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sorrow&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "悲伤，悲痛，悲哀；伤心事"
+    },
+    {
+      "pos": "v.",
+      "meaning": "感到（或表示）悲伤"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "sorrows"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "sorrows"
+    },
+    {
+      "name": "现在分词",
+      "value": "sorrowing"
+    },
+    {
+      "name": "过去式",
+      "value": "sorrowed"
+    },
+    {
+      "name": "过去分词",
+      "value": "sorrowed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Tragic literature dignifies sorrow and disaster.",
+      "zh": "悲剧性文学使悲伤和灾难显得尊贵。"
+    },
+    {
+      "en": "They said that the decision was made more in sorrow than in anger.",
+      "zh": "他们说作出这个决定，与其说是出于气愤，不如说是出于悲伤。"
+    },
+    {
+      "en": "Sorrow has greyed his head.",
+      "zh": "悲伤使他的头发变白了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "悲伤；懊悔；伤心事",
+      "words": [
+        "soreness",
+        "disconsolateness"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "懊悔；遗憾；感到悲伤",
+      "words": [
+        "feel sad"
+      ]
+    }
+  ]
+}

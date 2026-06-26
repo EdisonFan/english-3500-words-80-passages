@@ -1,0 +1,39 @@
+{
+  "word": "zones",
+  "found": true,
+  "phonetic_uk": "zəʊnz",
+  "phonetic_us": "zoʊnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=zones&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=zones&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "区域；尺度，[地理]地带（zone 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Inside these zones, traffic speeds are restricted to 20 mph.",
+      "zh": "在这些区域内，交通限速为20英里/小时。"
+    },
+    {
+      "en": "Marine and freshwater stickleback can hybridize in contact zones.",
+      "zh": "海水和淡水棘鱼可以在接触区杂交。"
+    },
+    {
+      "en": "Many states already have enterprise zones and legislation that encourage investment in depressed areas.",
+      "zh": "许多州都已经有鼓励在萧条地区投资的工业区和立法。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "区域；尺度，地带（zone的复数）",
+      "words": [
+        "areas",
+        "districts"
+      ]
+    }
+  ]
+}

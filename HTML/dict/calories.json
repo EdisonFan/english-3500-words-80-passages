@@ -1,0 +1,30 @@
+{
+  "word": "calories",
+  "found": true,
+  "phonetic_uk": "ˈkæləriz",
+  "phonetic_us": "ˈkæləriz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=calories&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=calories&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "卡路里（热量单位，calorie 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The diet is based on counting calories.",
+      "zh": "这个饮食安排以热量统计为根据。"
+    },
+    {
+      "en": "Sweetened drinks contain a lot of calories.",
+      "zh": "含糖的饮料热量很高。"
+    },
+    {
+      "en": "They look for foods that are low in calories.",
+      "zh": "他们寻找低热量食物。"
+    }
+  ],
+  "synonyms": []
+}

@@ -1,0 +1,39 @@
+{
+  "word": "gained",
+  "found": true,
+  "phonetic_uk": "ɡeɪnd",
+  "phonetic_us": "ɡeɪnd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=gained&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=gained&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "获得，得到（gain 的过去式）；增进"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They gained 20% of the poll.",
+      "zh": "他们得到了20%的选票。"
+    },
+    {
+      "en": "The party gained over 50% of the vote.",
+      "zh": "该党获得超过50%的选票。"
+    },
+    {
+      "en": "The new laws have gained widespread acceptance.",
+      "zh": "新法律获得广泛赞同。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "获得，得到（gain的过去式）；增进",
+      "words": [
+        "got",
+        "achieved"
+      ]
+    }
+  ]
+}

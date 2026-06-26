@@ -1,0 +1,90 @@
+{
+  "word": "plant",
+  "found": true,
+  "phonetic_uk": "plɑːnt",
+  "phonetic_us": "plænt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=plant&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=plant&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "植物；工厂，发电厂；<美>房屋，设施；重型机械，机械设备；栽赃物品；密探，卧底；（斯诺克）击接触球犯规"
+    },
+    {
+      "pos": "v.",
+      "meaning": "栽种，种植；灌输（思想）；栽赃；安放（炸弹），（秘密）放置；安插（眼线、密探等）；把……牢牢插进，稳固地放置……；（通常出于不可告人的目的）发布，散布；移栽，移植（室外）；<非正式>埋葬（人）；创建，建立（殖民地，城市，社区）；（在河流或湖泊中）放养（鱼苗、鱼卵、牡蛎等）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Plant）（英、西、意）普兰特，（法）普朗（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "plants"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "plants"
+    },
+    {
+      "name": "现在分词",
+      "value": "planting"
+    },
+    {
+      "name": "过去式",
+      "value": "planted"
+    },
+    {
+      "name": "过去分词",
+      "value": "planted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This plant is a vigorous grower.",
+      "zh": "这种植物生长起来茂盛茁壮。"
+    },
+    {
+      "en": "The plant exudes a sticky fluid.",
+      "zh": "这种植物分泌出一种黏液。"
+    },
+    {
+      "en": "The plant naturalizes well in grass.",
+      "zh": "这棵植物适应了环境，在草中生长得很好。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[工经]工厂，车间；[植]植物；设备；庄稼",
+      "words": [
+        "factory",
+        "equipment",
+        "furniture",
+        "facility",
+        "mill"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "种植；培养；栽培；安置",
+      "words": [
+        "cultivate",
+        "crop",
+        "establish",
+        "rear",
+        "station"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "种植",
+      "words": [
+        "put in",
+        "to raise"
+      ]
+    }
+  ]
+}

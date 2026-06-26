@@ -1,0 +1,40 @@
+{
+  "word": "shortly",
+  "found": true,
+  "phonetic_uk": "ˈʃɔːtli",
+  "phonetic_us": "ˈʃɔːrtli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=shortly&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=shortly&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "不久，很快，立刻；简短地，扼要地；（说话）不耐烦地，不友善地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Shortly afterward, police arrested four suspects.",
+      "zh": "之后不久，警方逮捕了４名嫌疑犯。"
+    },
+    {
+      "en": "They arrived shortly after 5.",
+      "zh": "他们是在5点钟刚过到达的。"
+    },
+    {
+      "en": "She arrived shortly after us.",
+      "zh": "我们刚到不多会儿她就到了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "立刻；简短地；唐突地",
+      "words": [
+        "soon",
+        "immediately",
+        "now"
+      ]
+    }
+  ]
+}

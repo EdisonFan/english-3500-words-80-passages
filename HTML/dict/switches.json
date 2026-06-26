@@ -1,0 +1,42 @@
+{
+  "word": "switches",
+  "found": true,
+  "phonetic_uk": "ˈswɪtʃɪz",
+  "phonetic_us": "swɪtʃɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=switches&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=switches&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "开关，电闸；骤变，突变；交换机（switch 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（用开关）打开，关闭；（使）改变，转变；交换，调换（switch 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The switches close the contacts and complete the circuit.",
+      "zh": "这些开关可接通形成闭合电路。"
+    },
+    {
+      "en": "I was confronted with an array of knobs, levers, and switches.",
+      "zh": "我面对着一排旋钮、控制杆和开关。"
+    },
+    {
+      "en": "The front window switches are awkwardly placed on the dashboard.",
+      "zh": "前窗的开关安装在仪表板上，使用不便。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "转变（switch的三单形式）；鞭打",
+      "words": [
+        "hides"
+      ]
+    }
+  ]
+}

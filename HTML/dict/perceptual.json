@@ -1,0 +1,39 @@
+{
+  "word": "perceptual",
+  "found": true,
+  "phonetic_uk": "pəˈseptʃuəl",
+  "phonetic_us": "pərˈseptʃuəl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=perceptual&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=perceptual&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "知觉的，感知的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Some children have more finely trained perceptual skills than others.",
+      "zh": "一些孩子比其他孩子具备更为训练有素的感知技能。"
+    },
+    {
+      "en": "Moreover, these perceptual changes can be profound and durable.",
+      "zh": "此外，这些感知变化可能是深刻和持久的。"
+    },
+    {
+      "en": "However, these measures are only \"indirect\" indicators of the infant's perceptual abilities.",
+      "zh": "然而，这些测量也仅是婴儿感知能力的“间接”指标。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "知觉的；感知的；有知觉的",
+      "words": [
+        "sensory",
+        "apperceptive"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "word": "yourself",
+  "found": true,
+  "phonetic_uk": "jɔːˈself",
+  "phonetic_us": "jɔːrˈself",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=yourself&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=yourself&type=2",
+  "defs": [
+    {
+      "pos": "pron.",
+      "meaning": "你自己"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "yourselves"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You're driving yourself too hard.",
+      "zh": "你把自己弄得太累了。"
+    },
+    {
+      "en": "It's time you got yourself sorted.",
+      "zh": "现在你该把自己的事好好安排一下了。"
+    },
+    {
+      "en": "You need to present yourself better.",
+      "zh": "你需要更善于展示自己。"
+    }
+  ],
+  "synonyms": []
+}

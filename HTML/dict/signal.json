@@ -1,0 +1,90 @@
+{
+  "word": "signal",
+  "found": true,
+  "phonetic_uk": "ˈsɪɡnəl",
+  "phonetic_us": "ˈsɪɡnəl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=signal&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=signal&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "信号，暗号；标志，预示；（尤指铁路和公路上的）指示灯，信号灯；（无线电、电视等的）讯号，信号；起因，导火线；（桥牌）信号；（传递的）信息"
+    },
+    {
+      "pos": "v.",
+      "meaning": "发信号，示意；标志，预示；告知，表示；（车辆转方向时）打灯示意"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "重大的，显要的；作为信号的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Signal）（瑞典）西格纳尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "signals"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "signals"
+    },
+    {
+      "name": "现在分词",
+      "value": "signalling或signaling"
+    },
+    {
+      "name": "过去式",
+      "value": "signalled或signaled"
+    },
+    {
+      "name": "过去分词",
+      "value": "signalled或signaled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "When I give the signal , run!",
+      "zh": "我一发信号，你就跑！"
+    },
+    {
+      "en": "At an agreed signal they left the room.",
+      "zh": "收到约定的信号后，他们离开了房间。"
+    },
+    {
+      "en": "A radio signal was sent to the spacecraft.",
+      "zh": "向宇宙飞船发出了无线电信号。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "信号；暗号；导火线",
+      "words": [
+        "high sign",
+        "alarm-word"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "标志；用信号通知",
+      "words": [
+        "mark"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "显著的；作为信号的",
+      "words": [
+        "obvious",
+        "prominent",
+        "marked",
+        "noted",
+        "outstanding"
+      ]
+    }
+  ]
+}

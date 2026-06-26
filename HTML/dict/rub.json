@@ -1,0 +1,87 @@
+{
+  "word": "rub",
+  "found": true,
+  "phonetic_uk": "rʌb",
+  "phonetic_us": "rʌb",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=rub&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=rub&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "擦，磨擦；揉擦，按摩（尤指疼痛部位）；擦痛，磨损；涂，抹；摹拓，拓印（黄铜碑或墓石的）碑文；（滚木球）（球）受阻，转向；（使）相互摩擦，搓；把（配料）揉擦进（混合物）（rub sth. in/into/through）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（用手或物体）擦，揉；按摩膏，面膜；<正式>困难，问题（the rub）；<美>（烹饪肉之前涂抹在肉表面的）混合香料；（球）受阻，转向；磨损处"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Rub）（捷）鲁布（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "rubs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "rubs"
+    },
+    {
+      "name": "现在分词",
+      "value": "rubbing"
+    },
+    {
+      "name": "过去式",
+      "value": "rubbed"
+    },
+    {
+      "name": "过去分词",
+      "value": "rubbed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She gave her knee a quick rub.",
+      "zh": "她很快地揉了揉膝盖。"
+    },
+    {
+      "en": "She sometimes asks if I want a back rub.",
+      "zh": "她有时问我是否想要一次背部按摩。"
+    },
+    {
+      "en": "You may need to give the floor a rub-down with glasspaper.",
+      "zh": "你可能得用玻璃砂纸打磨一下地板。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "擦；摩擦；惹怒",
+      "words": [
+        "wipe",
+        "mop up"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "擦；摩擦；擦破",
+      "words": [
+        "mop up",
+        "wipe"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "摩擦；障碍；磨损处",
+      "words": [
+        "friction",
+        "bar",
+        "obstacle",
+        "dam",
+        "let"
+      ]
+    }
+  ]
+}

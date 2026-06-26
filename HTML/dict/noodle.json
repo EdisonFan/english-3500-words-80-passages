@@ -1,0 +1,65 @@
+{
+  "word": "noodle",
+  "found": true,
+  "phonetic_uk": "ˈnuːd(ə)l",
+  "phonetic_us": "ˈnuːd(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=noodle&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=noodle&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "面条；<非正式>笨蛋，蠢人；<非正式>人头，脑袋"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<美，非正式>（随意地）拨弄乐器；<美，非正式>（随意地）思考，酝酿；<澳，非正式>搜寻（蛋白石等）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "noodles"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "noodles"
+    },
+    {
+      "name": "现在分词",
+      "value": "noodling"
+    },
+    {
+      "name": "过去式",
+      "value": "noodled"
+    },
+    {
+      "name": "过去分词",
+      "value": "noodled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They have two restaurants that purvey dumplings and chicken noodle soup.",
+      "zh": "有两家供应饺子和鸡肉汤面的餐馆。"
+    },
+    {
+      "en": "Why do people think instant noodle lovers are lazy?",
+      "zh": "为什么人们认为方便面爱好者很懒？"
+    },
+    {
+      "en": "The instant noodle was invented by a Japanese in 1958.",
+      "zh": "1958年，一位日本人发明了方便面。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "面条；笨蛋",
+      "words": [
+        "simple",
+        "turkey",
+        "put"
+      ]
+    }
+  ]
+}

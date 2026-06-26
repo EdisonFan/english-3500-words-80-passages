@@ -1,0 +1,34 @@
+{
+  "word": "cleans",
+  "found": true,
+  "phonetic_uk": "kliːnz",
+  "phonetic_us": "kliːnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cleans&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cleans&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "打扫，去垢（clean 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "扫除，使清洁；清除内脏（clean 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "This room cleans very easily.",
+      "zh": "这个房间很容易打扫。"
+    },
+    {
+      "en": "This kitchen cleans easily.",
+      "zh": "这厨房很容易清洗。"
+    },
+    {
+      "en": "Dog cleans up the town.",
+      "zh": "狗狗打扫了城镇。"
+    }
+  ],
+  "synonyms": []
+}

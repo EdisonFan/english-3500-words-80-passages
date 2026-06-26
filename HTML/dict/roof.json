@@ -1,0 +1,78 @@
+{
+  "word": "roof",
+  "found": true,
+  "phonetic_uk": "ruːf",
+  "phonetic_us": "ruːf",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=roof&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=roof&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "屋顶，车顶；（洞穴、矿井等的）顶部；口腔顶部，上腭；住处，栖身之处；（价格或工资的）最高限度，上限"
+    },
+    {
+      "pos": "v.",
+      "meaning": "给......盖上屋顶；覆遮，遮蔽"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Roof）（英）鲁夫（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "roofs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "roofs"
+    },
+    {
+      "name": "现在分词",
+      "value": "roofing"
+    },
+    {
+      "name": "过去式",
+      "value": "roofed"
+    },
+    {
+      "name": "过去分词",
+      "value": "roofed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "How long would the roof hold?",
+      "zh": "这屋顶还能支撑多久？"
+    },
+    {
+      "en": "The roof was declared unsafe.",
+      "zh": "已宣布屋顶有安全隐患。"
+    },
+    {
+      "en": "The roof is structurally unsound.",
+      "zh": "这屋顶结构不牢固。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[建]屋顶；最高处，顶部；最高限度",
+      "words": [
+        "top",
+        "housetop"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "给…盖屋顶，覆盖",
+      "words": [
+        "invest",
+        "house",
+        "sheet",
+        "cap"
+      ]
+    }
+  ]
+}

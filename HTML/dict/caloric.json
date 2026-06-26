@@ -1,0 +1,49 @@
+{
+  "word": "caloric",
+  "found": true,
+  "phonetic_uk": "kəˈlɒrɪk; ˈkælərɪk",
+  "phonetic_us": "kəˈlɒrɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=caloric&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=caloric&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "热量的；卡的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "热量"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Studies of caloric restriction are showing the way.",
+      "zh": "热量限制的研究为我们指明了方向。"
+    },
+    {
+      "en": "Those findings suggest that caloric restriction could delay ageing and increase longevity in humans, too.",
+      "zh": "这些发现表明，限制热量摄入也可以延缓衰老，延长人类寿命。"
+    },
+    {
+      "en": "By limiting food intake, caloric restriction minimizes the amount of glucose entering cells and decreases ATP generation.",
+      "zh": "通过限制食物的摄入，热量限制使进入细胞的葡萄糖量降到最少，并减少 ATP 的产生。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "热量的；卡的",
+      "words": [
+        "thermal"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "热量",
+      "words": [
+        "quantity of heat"
+      ]
+    }
+  ]
+}

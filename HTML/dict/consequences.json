@@ -1,0 +1,40 @@
+{
+  "word": "consequences",
+  "found": true,
+  "phonetic_uk": "ˈkɒnsɪkwənsɪz",
+  "phonetic_us": "ˈkɑːnsɪkwensɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=consequences&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=consequences&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "后果，结果；影响（consequence 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The consequences could be serious.",
+      "zh": "后果可能是严重的。"
+    },
+    {
+      "en": "Such action may have dire consequences.",
+      "zh": "这种行为可能产生严重后果。"
+    },
+    {
+      "en": "You have to accept the consequences of your actions.",
+      "zh": "你得对你的行为后果负责。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "后果，结果；影响（consequence的复数）",
+      "words": [
+        "results",
+        "influences",
+        "impacts"
+      ]
+    }
+  ]
+}

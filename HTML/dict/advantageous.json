@@ -1,0 +1,42 @@
+{
+  "word": "advantageous",
+  "found": true,
+  "phonetic_uk": "ˌædvənˈteɪdʒəs",
+  "phonetic_us": "ˌædvənˈteɪdʒəs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=advantageous&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=advantageous&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "有利的，有益的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Free exchange of goods was advantageous to all.",
+      "zh": "自由商品交易对大家都有利。"
+    },
+    {
+      "en": "A free trade agreement would be advantageous to both countries.",
+      "zh": "自由贸易协定对两国都会有利。"
+    },
+    {
+      "en": "Meteorite impacts can be advantageous for some species, which thrive, and disastrous for other species, which become extinct.",
+      "zh": "陨石的撞击对某些物种是有利的，它们会茁壮成长；而对其他物种则是灾难性的，它们会灭绝。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "有利的；有益的",
+      "words": [
+        "beneficial",
+        "favorable",
+        "helpful",
+        "useful",
+        "conducive"
+      ]
+    }
+  ]
+}

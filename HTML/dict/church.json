@@ -1,0 +1,80 @@
+{
+  "word": "church",
+  "found": true,
+  "phonetic_uk": "tʃɜːtʃ",
+  "phonetic_us": "tʃɜːrtʃ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=church&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=church&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "教堂；礼拜仪式；教派，教会"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<古>把（产妇等）带到教堂做感恩礼拜；<美>对……进行教会裁决"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "教会的；礼拜的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Church）（英）丘奇（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "churches"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "churches"
+    },
+    {
+      "name": "现在分词",
+      "value": "churching"
+    },
+    {
+      "name": "过去式",
+      "value": "churched"
+    },
+    {
+      "name": "过去分词",
+      "value": "churched"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The church was erected in 1582.",
+      "zh": "此教堂建于1582年。"
+    },
+    {
+      "en": "She plays the organ in church.",
+      "zh": "她在教堂负责弹奏管风琴。"
+    },
+    {
+      "en": "The family had gone to church.",
+      "zh": "这家人都去教堂了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "教堂；礼拜；教派",
+      "words": [
+        "exercise",
+        "worship"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "教会的；礼拜的",
+      "words": [
+        "ecclesial",
+        "hierurgical"
+      ]
+    }
+  ]
+}

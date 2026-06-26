@@ -1,0 +1,54 @@
+{
+  "word": "said",
+  "found": true,
+  "phonetic_uk": "sed",
+  "phonetic_us": "sed",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=said&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=said&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "<法律>上述的，该……"
+    },
+    {
+      "pos": "v.",
+      "meaning": "说，讲；宣称，说明；认为，据说（say 的过去式和过去分词）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Said）（乌兹、阿拉伯）赛义德（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "'Here?' said Kate, incredulous.",
+      "zh": "“这儿？”凯特表示怀疑地说。"
+    },
+    {
+      "en": "'Damn!' he said furiously.",
+      "zh": "“该死的！”他十分愤怒地说。"
+    },
+    {
+      "en": "'Sorry,' she said humbly.",
+      "zh": "“对不起。”她谦逊地说。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "上述的，该",
+      "words": [
+        "same",
+        "aforementioned"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "说（say的过去式和过去分词）",
+      "words": [
+        "spake"
+      ]
+    }
+  ]
+}

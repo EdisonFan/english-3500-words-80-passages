@@ -1,0 +1,42 @@
+{
+  "word": "employed",
+  "found": true,
+  "phonetic_uk": "ɪmˈplɔɪd",
+  "phonetic_us": "ɪmˈplɔɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=employed&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=employed&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "被雇用的"
+    },
+    {
+      "pos": "vt.",
+      "meaning": "雇佣；使用（employ 的过去式与过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She employed a gardener.",
+      "zh": "她雇了一个园丁。"
+    },
+    {
+      "en": "She was employed as a cook in a hotel.",
+      "zh": "她受雇在一家饭店做厨师。"
+    },
+    {
+      "en": "He was employed by them for eighteen years.",
+      "zh": "他被他们雇佣了18年。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "被雇用的",
+      "words": [
+        "hireling"
+      ]
+    }
+  ]
+}

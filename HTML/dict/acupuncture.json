@@ -1,0 +1,60 @@
+{
+  "word": "acupuncture",
+  "found": true,
+  "phonetic_uk": "ˈækjupʌŋktʃə(r)",
+  "phonetic_us": "ˈækjupʌŋktʃər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=acupuncture&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=acupuncture&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "针灸，针刺疗法"
+    },
+    {
+      "pos": "v.",
+      "meaning": "对……施行针刺疗法"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "acupunctures"
+    },
+    {
+      "name": "现在分词",
+      "value": "acupuncturing"
+    },
+    {
+      "name": "过去式",
+      "value": "acupunctured"
+    },
+    {
+      "name": "过去分词",
+      "value": "acupunctured"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I had acupuncture in my lower back.",
+      "zh": "我在后腰上做了针灸。"
+    },
+    {
+      "en": "Acupuncture treatment is gentle, painless, and relaxing.",
+      "zh": "针灸治疗很温和，无痛，也很放松。"
+    },
+    {
+      "en": "Acupuncture has a harmonizing and energizing effect on mind and body.",
+      "zh": "针灸疗法有协调和激活身心的功效。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[中医]针刺；针刺疗法",
+      "words": [
+        "needling",
+        "pinprick"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "word": "slice",
+  "found": true,
+  "phonetic_uk": "slaɪs",
+  "phonetic_us": "slaɪs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=slice&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=slice&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（切下的食物）薄片，片；（蛋糕等的）小块 ；水果切块；部分，份；<非正式>例子；（体育运动中的）斜切球，削球，侧旋球；（切片用的）薄刀，（铲食物用的）铲子"
+    },
+    {
+      "pos": "v.",
+      "meaning": "把……切成薄片；切，割，划；轻易快速穿过（空气或水等）；削（球），斜切打；（无意中）打出弧线球；减少（时间、钱等）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "slices"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "slices"
+    },
+    {
+      "name": "现在分词",
+      "value": "slicing"
+    },
+    {
+      "name": "过去式",
+      "value": "sliced"
+    },
+    {
+      "name": "过去分词",
+      "value": "sliced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Bess stabbed a slice of cucumber.",
+      "zh": "贝斯戳起一片黄瓜。"
+    },
+    {
+      "en": "Marina ate only one slice of bread.",
+      "zh": "玛丽娜只吃了一片面包。"
+    },
+    {
+      "en": "He managed to slice a shot over the net.",
+      "zh": "他设法把球斜切过网。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "薄片；部分；菜刀，火铲",
+      "words": [
+        "proportion",
+        "part",
+        "portion",
+        "percent",
+        "integral"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "切下；把…分成部分；将…切成薄片",
+      "words": [
+        "chip off",
+        "chip out"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "切开；割破",
+      "words": [
+        "cut open",
+        "to cut"
+      ]
+    }
+  ]
+}

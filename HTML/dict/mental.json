@@ -1,0 +1,47 @@
+{
+  "word": "mental",
+  "found": true,
+  "phonetic_uk": "ˈment(ə)l",
+  "phonetic_us": "ˈment(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mental&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mental&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "存在于大脑中的，思考的；精神的，思想的，智力的；精神病治疗的，精神健康的；<非正式>疯癫的，不正常的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We're worried about his mental state.",
+      "zh": "我们担心他的精神状况。"
+    },
+    {
+      "en": "Watch him. He's mental.",
+      "zh": "小心，他疯了。"
+    },
+    {
+      "en": "The term 'mental illness' is difficult to define.",
+      "zh": "“精神病”这个词很难下定义。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[心理]精神的；脑力的；疯的",
+      "words": [
+        "spiritual",
+        "inner"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "精神病患者",
+      "words": [
+        "psychopath",
+        "madman"
+      ]
+    }
+  ]
+}

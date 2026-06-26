@@ -1,0 +1,68 @@
+{
+  "word": "bean",
+  "found": true,
+  "phonetic_uk": "biːn",
+  "phonetic_us": "biːn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bean&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bean&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "豆，菜豆，豆科植物；籽实，豆形种子；用于强调丝毫，一点；<旧>脑袋；（Bean）描述Java的软件组件模型（Enterprise Java Bean）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（用某物）击中（某人）头部"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Bean）（英）比恩（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "beans"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "beans"
+    },
+    {
+      "name": "现在分词",
+      "value": "beaning"
+    },
+    {
+      "name": "过去式",
+      "value": "beaned"
+    },
+    {
+      "name": "过去分词",
+      "value": "beaned"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Sometimes I take 'em off with a bean.",
+      "zh": "有时我用蚕豆除掉它们。"
+    },
+    {
+      "en": "We have green bean casserole and pumpkin pie.",
+      "zh": "我们有绿豆焙盘和南瓜馅饼。"
+    },
+    {
+      "en": "This is my favourite bean, and they are long bean.",
+      "zh": "这是我最喜欢的豆角，它们是长豆角。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[植]豆；嘴峰；毫无价值的东西",
+      "words": [
+        "legumen",
+        "nihil"
+      ]
+    }
+  ]
+}

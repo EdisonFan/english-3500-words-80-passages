@@ -1,0 +1,48 @@
+{
+  "word": "smoothly",
+  "found": true,
+  "phonetic_uk": "ˈsmuːðli",
+  "phonetic_us": "ˈsmuːðli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=smoothly&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=smoothly&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "平稳地，连续而流畅地；顺利地；平静地，自信地；平整地，均匀地； 圆滑地"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more smoothly"
+    },
+    {
+      "name": "最高级",
+      "value": "most smoothly"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The interview went smoothly.",
+      "zh": "面谈进展顺利。"
+    },
+    {
+      "en": "She says everything is going smoothly.",
+      "zh": "她说一切进展顺利。"
+    },
+    {
+      "en": "The dinghy sailed smoothly across the lake.",
+      "zh": "小艇平稳地驶过湖面。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "平稳地，平滑地；流畅地，流利地",
+      "words": [
+        "quietly",
+        "stably"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "hearts",
+  "found": true,
+  "phonetic_uk": "hɑːts",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=hearts&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=hearts&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[解剖]心；内心；中心；同情心；心形物（heart 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "铭记；用心材支撑（heart 的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "His gruff exterior concealed one of the kindest hearts.",
+      "zh": "他不友好的外表下藏着一颗最善良的心。"
+    },
+    {
+      "en": "His footballing skills and extrovert personality won the hearts of the public.",
+      "zh": "他的足球技巧和外向的个性赢得了公众的心。"
+    },
+    {
+      "en": "She bid four hearts.",
+      "zh": "她叫四红桃。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "心；内心；中心；同情心；心形物（heart的复数）",
+      "words": [
+        "centers",
+        "hubs"
+      ]
+    }
+  ]
+}

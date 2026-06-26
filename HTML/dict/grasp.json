@@ -1,0 +1,64 @@
+{
+  "word": "grasp",
+  "found": true,
+  "phonetic_uk": "ɡrɑːsp",
+  "phonetic_us": "ɡræsp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=grasp&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=grasp&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "抓牢，握紧；理解，领会；抓住（机会）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "紧抓，紧握；理解（力），领会；能力所及，伸手可及的距离；控制，权力"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Success was within her grasp.",
+      "zh": "她有把握获得成功。"
+    },
+    {
+      "en": "She tore herself from his grasp.",
+      "zh": "她挣脱了他紧紧抓着她的手。"
+    },
+    {
+      "en": "The bag was wrenched from her grasp.",
+      "zh": "那只包从她紧握的手里被夺了出来。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "抓住；理解；控制",
+      "words": [
+        "control",
+        "understanding",
+        "comprehension",
+        "guiding",
+        "hold"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "抓住；领会",
+      "words": [
+        "see",
+        "appreciate",
+        "noble",
+        "collar"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "抓",
+      "words": [
+        "strike",
+        "scratch"
+      ]
+    }
+  ]
+}

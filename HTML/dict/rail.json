@@ -1,0 +1,72 @@
+{
+  "word": "rail",
+  "found": true,
+  "phonetic_uk": "reɪl",
+  "phonetic_us": "reɪl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=rail&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=rail&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "铁路系统；铁轨，轨道；栏杆，扶手；（挂物用的）横杆；（赛马或赛狗场的）围栏；（镶板门或上下推拉窗的）横档，冒头；冲浪板（或帆板的）边缘；（电子）定电位导体轨；秧鸡"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用栏杆把……围起，把……隔开；<正式>谴责，抱怨；由铁路运送（货物）；（风帆冲浪用语）斜板滑行"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "rails或rail"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "rails"
+    },
+    {
+      "name": "现在分词",
+      "value": "railing"
+    },
+    {
+      "name": "过去式",
+      "value": "railed"
+    },
+    {
+      "name": "过去分词",
+      "value": "railed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Raw materials and labour come by ship , rail or road.",
+      "zh": "从水上、铁路和公路运来原料和工人。"
+    },
+    {
+      "en": "Ticket prices include your flight and onward rail journey.",
+      "zh": "票价包括您的飞行航程和接续的铁路旅费。"
+    },
+    {
+      "en": "She climbed the staircase cautiously, holding fast to the rail.",
+      "zh": "她紧握扶手，小心翼翼地爬上楼梯。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[铁路]铁轨；[建]扶手；横杆；围栏",
+      "words": [
+        "pen",
+        "rider"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "抱怨；责骂",
+      "words": [
+        "rate",
+        "beef about"
+      ]
+    }
+  ]
+}

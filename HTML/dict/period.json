@@ -1,0 +1,55 @@
+{
+  "word": "period",
+  "found": true,
+  "phonetic_uk": "ˈpɪəriəd",
+  "phonetic_us": "ˈpɪriəd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=period&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=period&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "一段时间，时期；（人生或国家历史的）阶段，时代；（地质年代划分的）纪；课时，节；（练习、训练或学习的）时段；（妇女的）月经，经期；（体育比赛的）局；<美>句号，句点；（物理）（振动或循环的）周期；（天文）自转（或公转）周期；（数学）（周期函数的）周期；（化学）周期元素；（修辞）完整句；（乐）乐段，乐节"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "具有某个时代特征的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "<美>到此为止，不再说了"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "periods"
+    }
+  ],
+  "examples": [
+    {
+      "en": "When did you last have a period ?",
+      "zh": "你上一次月经是什么时候？"
+    },
+    {
+      "en": "It was a period of intense activity.",
+      "zh": "那是活动激烈的时期。"
+    },
+    {
+      "en": "The novel is set in the Roman period.",
+      "zh": "该小说的背景是罗马时期。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "周期，期间；时期；月经；课时",
+      "words": [
+        "hour",
+        "circle",
+        "cycle",
+        "season",
+        "day"
+      ]
+    }
+  ]
+}

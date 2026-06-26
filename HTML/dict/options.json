@@ -1,0 +1,43 @@
+{
+  "word": "options",
+  "found": true,
+  "phonetic_uk": "ˈɒpʃnz",
+  "phonetic_us": "ˈɑːpʃnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=options&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=options&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "可选择的事物；（将来的）买卖选择权利，期权；（计算机程序中的）选项（option 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "买卖（某物的）期权（option 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "What options are open to us?",
+      "zh": "我们有什么选择？"
+    },
+    {
+      "en": "She considered her options.",
+      "zh": "她仔细考虑了自己的各种选择。"
+    },
+    {
+      "en": "I ran through the options with him.",
+      "zh": "我和他过了一遍那些选项。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "选择；期权；选择项（option的复数）",
+      "words": [
+        "choices",
+        "selections"
+      ]
+    }
+  ]
+}

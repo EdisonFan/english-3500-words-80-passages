@@ -1,0 +1,38 @@
+{
+  "word": "hamburgers",
+  "found": true,
+  "phonetic_uk": "ˈhæmbɜːɡə(r)z",
+  "phonetic_us": "ˈhæmbɜːrɡərz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=hamburgers&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=hamburgers&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "汉堡包（hamburger 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He began his career flipping hamburgers.",
+      "zh": "他以翻转汉堡包开始他的职业生涯。"
+    },
+    {
+      "en": "Leave my hamburgers alone.",
+      "zh": "别动我的汉堡包。"
+    },
+    {
+      "en": "He never eats hamburgers.",
+      "zh": "他从不吃汉堡包。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "汉堡包（hamburger的复数）",
+      "words": [
+        "burgers"
+      ]
+    }
+  ]
+}

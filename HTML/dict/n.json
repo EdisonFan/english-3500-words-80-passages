@@ -1,0 +1,35 @@
+{
+  "word": "n",
+  "found": true,
+  "phonetic_uk": "en",
+  "phonetic_us": "en",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=n&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=n&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "英语字母的第十四个字母"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "n's或ns"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The U. N. World Food Programme confirmed the abduction of eight of its workers in northern Darfur.",
+      "zh": "联合国世界粮食计划署证实其８名工作人员在达尔富尔北部遭到绑架。"
+    },
+    {
+      "en": "N is not the number of hits, N is the number of hits every minute.",
+      "zh": "N 并非总点击数，而是每分钟点击数。"
+    },
+    {
+      "en": "Rock 'n' roll had entered a period of stasis.",
+      "zh": "摇滚乐已经进入了一个停滞期。"
+    }
+  ],
+  "synonyms": []
+}

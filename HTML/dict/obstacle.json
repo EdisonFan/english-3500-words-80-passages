@@ -1,0 +1,47 @@
+{
+  "word": "obstacle",
+  "found": true,
+  "phonetic_uk": "ˈɒbstək(ə)l",
+  "phonetic_us": "ˈɑːbstək(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=obstacle&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=obstacle&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "障碍，阻碍；障碍物"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "obstacles"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Overcrowding remains a large obstacle to improving conditions.",
+      "zh": "过度拥挤仍然是改善条件的一大障碍。"
+    },
+    {
+      "en": "A lack of qualifications can be a major obstacle to finding a job.",
+      "zh": "学历不足可能成为谋职的主要障碍。"
+    },
+    {
+      "en": "Most competition cars will only roll over if they hit an obstacle.",
+      "zh": "多数赛车在撞到障碍物时都会翻车。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "障碍，干扰；妨害物",
+      "words": [
+        "interference",
+        "let",
+        "bar",
+        "disturbance",
+        "dam"
+      ]
+    }
+  ]
+}

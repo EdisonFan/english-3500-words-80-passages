@@ -1,0 +1,84 @@
+{
+  "word": "shine",
+  "found": true,
+  "phonetic_uk": "ʃaɪn",
+  "phonetic_us": "ʃaɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=shine&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=shine&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（太阳或其他光源）发光，照耀；（用电筒等）照射；（表面）发亮；磨光，擦亮；（眼睛或脸上因快乐而）放光；表现突出，出众"
+    },
+    {
+      "pos": "n.",
+      "meaning": "光亮，光泽；擦亮"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Shine） （英）夏因，（日）新荣（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "shines"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "shines"
+    },
+    {
+      "name": "现在分词",
+      "value": "shining"
+    },
+    {
+      "name": "过去式",
+      "value": "shone或shined"
+    },
+    {
+      "name": "过去分词",
+      "value": "shone或shined"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This gel gives a beautiful shine to the hair.",
+      "zh": "这种发胶带给头发一种美丽的光泽。"
+    },
+    {
+      "en": "Dry curly hair naturally for maximum curl and shine.",
+      "zh": "让卷发自然地风干以最大限度地增加头发的卷曲和光泽。"
+    },
+    {
+      "en": "Baby, let us shine.",
+      "zh": "宝贝，让我们大放光芒吧！"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "照耀；显露；出众",
+      "words": [
+        "develop",
+        "break upon"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "光泽；擦亮；晴天",
+      "words": [
+        "sunshine",
+        "reflet"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "擦亮；把…的光投向",
+      "words": [
+        "rub up",
+        "burnish"
+      ]
+    }
+  ]
+}

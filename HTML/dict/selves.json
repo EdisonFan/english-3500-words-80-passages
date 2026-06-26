@@ -1,0 +1,42 @@
+{
+  "word": "selves",
+  "found": true,
+  "phonetic_uk": "selvz",
+  "phonetic_us": "selvz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=selves&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=selves&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "自己，自我（self 的复数）；私心"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Selves）人名；（英）塞尔夫斯"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We begin to dream of new possible selves.",
+      "zh": "我们开始梦想新的可能的自我。"
+    },
+    {
+      "en": "We have forgotten to love our selves.",
+      "zh": "我们已经忘记去爱自己。"
+    },
+    {
+      "en": "We are safe to reveal our true selves to God.",
+      "zh": "我们向上帝展现出真实的自己是安全的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "自己，自我（self的复数）；私心",
+      "words": [
+        "egos"
+      ]
+    }
+  ]
+}

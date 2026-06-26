@@ -1,0 +1,44 @@
+{
+  "word": "computer",
+  "found": true,
+  "phonetic_uk": "kəmˈpjuːtə(r)",
+  "phonetic_us": "kəmˈpjuːtər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=computer&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=computer&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "计算机；电脑；电子计算机"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "computers"
+    }
+  ],
+  "examples": [
+    {
+      "en": "My computer keeps going funny.",
+      "zh": "我的计算机老出故障。"
+    },
+    {
+      "en": "He's addicted to computer games.",
+      "zh": "他迷上了电脑游戏。"
+    },
+    {
+      "en": "She works in the computer business.",
+      "zh": "她从事电脑业。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "计算机；[计]电脑；电子计算机",
+      "words": [
+        "calculating machine",
+        "computing machine"
+      ]
+    }
+  ]
+}

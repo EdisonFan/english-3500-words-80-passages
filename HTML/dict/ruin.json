@@ -1,0 +1,84 @@
+{
+  "word": "ruin",
+  "found": true,
+  "phonetic_uk": "ˈruːɪn",
+  "phonetic_us": "ˈruːɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ruin&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ruin&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "毁坏，毁灭；破产，身败名裂；祸根； 残垣断壁，废墟；残存部分（ruins）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "毁坏，破坏；使（建筑物，地方）破败，使成为废墟；使倾家荡产，使破产；<文> 头朝下跌落，哗啦一声掉下"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Ruin）（法、俄、意、瑞典）吕安（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "ruins"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "ruins"
+    },
+    {
+      "name": "现在分词",
+      "value": "ruining"
+    },
+    {
+      "name": "过去式",
+      "value": "ruined"
+    },
+    {
+      "name": "过去分词",
+      "value": "ruined"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Gambling was his ruin.",
+      "zh": "赌博毁了他。"
+    },
+    {
+      "en": "The bank stepped in to save the company from financial ruin.",
+      "zh": "银行的介入使这家公司免于经济崩溃。"
+    },
+    {
+      "en": "The vineyards were falling into ruin.",
+      "zh": "那些葡萄园当时正日渐没落。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "废墟；毁坏；灭亡",
+      "words": [
+        "demolition",
+        "disruption"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "毁灭；使破产",
+      "words": [
+        "devastate",
+        "go to the dogs"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "破产；堕落；被毁灭",
+      "words": [
+        "fail",
+        "go bankrupt"
+      ]
+    }
+  ]
+}

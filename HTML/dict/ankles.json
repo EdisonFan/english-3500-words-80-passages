@@ -1,0 +1,49 @@
+{
+  "word": "ankles",
+  "found": true,
+  "phonetic_uk": "ˈæŋklz",
+  "phonetic_us": "ˈæŋklz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ankles&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ankles&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[解剖]踝；脚踝（ankle 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "行走；辞职（ankle 的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Do your ankles swell at night?",
+      "zh": "你的脚踝晚上会肿吗？"
+    },
+    {
+      "en": "Her stockings wrinkled at the ankles.",
+      "zh": "她的长袜在脚踝处起皱褶了。"
+    },
+    {
+      "en": "A long skirt swirled around her ankles.",
+      "zh": "她的长裙在脚踝旁边摆动。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "踝；脚踝（ankle的复数）",
+      "words": [
+        "heels"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "行走；辞职（ankle的三单形式）",
+      "words": [
+        "goes"
+      ]
+    }
+  ]
+}

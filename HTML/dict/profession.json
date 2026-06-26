@@ -1,0 +1,48 @@
+{
+  "word": "profession",
+  "found": true,
+  "phonetic_uk": "prəˈfeʃn",
+  "phonetic_us": "prəˈfeʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=profession&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=profession&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（尤指需要长期训练和正规资格的）职业；（某）职业界同行，同业；（统称，指需要较高教育水平的）职业（the professions）；（信念、观点或感情的）公开表示，表白；入教誓言，修道誓约；入教仪式，入教"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "professions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They're both doctors by profession.",
+      "zh": "他们两人的职业都是医生。"
+    },
+    {
+      "en": "Harper was a teacher by profession.",
+      "zh": "哈珀的职业是教师。"
+    },
+    {
+      "en": "She is an honour to the profession.",
+      "zh": "她是这一行业的光荣。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "职业，专业；声明，宣布，表白",
+      "words": [
+        "employment",
+        "career",
+        "calling",
+        "pursuit",
+        "statement",
+        "occupation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "word": "shallow",
+  "found": true,
+  "phonetic_uk": "ˈʃæləʊ",
+  "phonetic_us": "ˈʃæloʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=shallow&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=shallow&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "浅的，不深的；肤浅的，浅薄的；（呼吸）浅的，微弱的；平缓的；靠近内线的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（海、湖或河的）浅水处，浅滩（shallows）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）变浅"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Shallow）（英）沙洛（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "shallows"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "shallows"
+    },
+    {
+      "name": "现在分词",
+      "value": "shallowing"
+    },
+    {
+      "name": "过去式",
+      "value": "shallowed"
+    },
+    {
+      "name": "过去分词",
+      "value": "shallowed"
+    },
+    {
+      "name": "比较级",
+      "value": "shallower或more shallow"
+    },
+    {
+      "name": "最高级",
+      "value": "shallowest或most shallow"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He's a shallow, disagreeable man.",
+      "zh": "他是个浅薄、不友好的人。"
+    },
+    {
+      "en": "They waded the river at a shallow point.",
+      "zh": "他们在水浅处蹚过河。"
+    },
+    {
+      "en": "I think he is shallow, vain and untrustworthy.",
+      "zh": "我认为他浅薄、虚荣、不可信。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "浅的；肤浅的",
+      "words": [
+        "low",
+        "flat",
+        "surface"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[地理]浅滩",
+      "words": [
+        "bank",
+        "ford",
+        "decharge",
+        "shoaliness"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使变浅",
+      "words": [
+        "shoal"
+      ]
+    }
+  ]
+}

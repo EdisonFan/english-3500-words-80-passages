@@ -1,0 +1,43 @@
+{
+  "word": "structures",
+  "found": true,
+  "phonetic_uk": "stˈrʌktʃəz",
+  "phonetic_us": "ˈstrʌktʃər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=structures&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=structures&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "结构；[建]构筑物；业务方式（structure 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "建造（structure 的第三人称单数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Social structures are not discrete objects; they overlap and interweave.",
+      "zh": "社会结构不是离散的客体；他们重叠并交织在一起。"
+    },
+    {
+      "en": "The feet are highly specialized structures made up of 26 small delicate bones.",
+      "zh": "脚是非常特殊的、由26块细小骨头组成的结构体。"
+    },
+    {
+      "en": "In today's lecture the focus will be on tax structures within the European Union.",
+      "zh": "今天讲课的重点是欧洲联盟内部的税制结构。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "建造（structure的第三人称单数形式）",
+      "words": [
+        "raises",
+        "engineers"
+      ]
+    }
+  ]
+}

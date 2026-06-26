@@ -1,0 +1,74 @@
+{
+  "word": "orbit",
+  "found": true,
+  "phonetic_uk": "ˈɔːbɪt",
+  "phonetic_us": "ˈɔːrbɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=orbit&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=orbit&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（环绕地球、太阳等运行的）轨道；势力范围，影响范围；眼眶，眼窝"
+    },
+    {
+      "pos": "v.",
+      "meaning": "沿轨道运行，环绕……运行；使（卫星）进入轨道"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "orbits"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "orbits"
+    },
+    {
+      "name": "现在分词",
+      "value": "orbiting"
+    },
+    {
+      "name": "过去式",
+      "value": "orbited"
+    },
+    {
+      "name": "过去分词",
+      "value": "orbited"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The two spacecraft will link up in orbit.",
+      "zh": "两艘宇宙飞船将在轨道上对接。"
+    },
+    {
+      "en": "The orbit of this comet intersects the orbit of the Earth.",
+      "zh": "这颗彗星的轨道和地球的轨道相交。"
+    },
+    {
+      "en": "The orientation of the planet's orbit is changing continuously.",
+      "zh": "该行星轨道的方向不断变化。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[天][航]轨道；[昆]眼眶；势力范围；生活常规",
+      "words": [
+        "path",
+        "track",
+        "railway",
+        "trajectory"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "盘旋；绕轨道运行",
+      "words": [
+        "serpentuate",
+        "circle round"
+      ]
+    }
+  ]
+}

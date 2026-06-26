@@ -1,0 +1,46 @@
+{
+  "word": "speech",
+  "found": true,
+  "phonetic_uk": "spiːtʃ",
+  "phonetic_us": "spiːtʃ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=speech&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=speech&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "演说，发言，谈话；说话的能力；说话方式；口语，言语；（戏剧中的）台词；（该词常用于使某人感到自己所说的话很愚蠢）长篇大论"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "speeches"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He muffed his opening speech.",
+      "zh": "他搞砸了自己的开幕讲话。"
+    },
+    {
+      "en": "He reported the speech verbatim.",
+      "zh": "他逐字报道了那篇讲话。"
+    },
+    {
+      "en": "The speech was carefully phrased.",
+      "zh": "这篇讲话措辞谨慎。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "演讲；讲话；[语]语音；演说",
+      "words": [
+        "address",
+        "lecture",
+        "talk",
+        "sound"
+      ]
+    }
+  ]
+}

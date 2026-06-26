@@ -1,0 +1,47 @@
+{
+  "word": "bones",
+  "found": true,
+  "phonetic_uk": "bəʊnz",
+  "phonetic_us": "boʊnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bones&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bones&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "骨骼；身体；争议点（bone 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "剔去……的骨；专心致志（bone 的第三人称单数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Bones）人名；（英）博恩斯；（德）博内斯"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Many passengers suffered broken bones.",
+      "zh": "许多乘客骨折了。"
+    },
+    {
+      "en": "The human skeleton consists of 206 bones.",
+      "zh": "人的骨骼由206块骨头组成。"
+    },
+    {
+      "en": "As they heal, the bones will fuse together.",
+      "zh": "骨头愈合时将会连接在一起。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "骨骼；身体；争议点（bone的复数）",
+      "words": [
+        "bodies",
+        "skeletons"
+      ]
+    }
+  ]
+}

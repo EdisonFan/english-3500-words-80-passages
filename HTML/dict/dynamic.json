@@ -1,0 +1,65 @@
+{
+  "word": "dynamic",
+  "found": true,
+  "phonetic_uk": "daɪˈnæmɪk",
+  "phonetic_us": "daɪˈnæmɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dynamic&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dynamic&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "充满活力的，精力充沛的；动态的，发展变化的；力的，动力的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "动力，活力；相互作用，动态；动力学"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "dynamics"
+    },
+    {
+      "name": "比较级",
+      "value": "more dynamic"
+    },
+    {
+      "name": "最高级",
+      "value": "most dynamic"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The dynamic of the market demands constant change and adjustment.",
+      "zh": "市场的动力要求有不断的变化和调整。"
+    },
+    {
+      "en": "The programme is 90 minutes of dynamic Indian folk dance, live music, and storytelling.",
+      "zh": "该节目为90 分钟，由动感印度民间舞蹈、现场音乐表演和说书组成。"
+    },
+    {
+      "en": "He seemed a dynamic and energetic leader.",
+      "zh": "他看来是个富有创新力与活力的领导。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[力]动态的；动力的；动力学的；有活力的",
+      "words": [
+        "vital",
+        "actional"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "动态；[力]动力",
+      "words": [
+        "trends",
+        "momentum",
+        "impetus"
+      ]
+    }
+  ]
+}

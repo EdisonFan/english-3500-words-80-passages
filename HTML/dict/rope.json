@@ -1,0 +1,76 @@
+{
+  "word": "rope",
+  "found": true,
+  "phonetic_uk": "rəʊp",
+  "phonetic_us": "roʊp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=rope&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=rope&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "粗绳，绳索；（球状物的）（一）串，（一）条；<美>（套捕牛、马等的）套索；（拳击台、摔跤台的）围绳（the ropes）；绞刑（the rope）；<非正式>办事的规矩，诀窍（the ropes）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用绳子捆（或绑、系）；<美>用绳套捕捉（动物）；用绳（或带子）围起（或隔开）（rope sth. off）；借绳爬下/借绳登山（rope down/up）；<非正式>说服……参加（活动） (rope someone in/into)；拧成绳状"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】  （Rope）（英）罗普，（芬）罗佩（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "ropes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "ropes"
+    },
+    {
+      "name": "现在分词",
+      "value": "roping"
+    },
+    {
+      "name": "过去式",
+      "value": "roped"
+    },
+    {
+      "name": "过去分词",
+      "value": "roped"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The rope suddenly went slack.",
+      "zh": "绳子突然松了。"
+    },
+    {
+      "en": "The rope fouled the propeller.",
+      "zh": "绳索缠住了螺旋桨。"
+    },
+    {
+      "en": "The rope was stretched tight.",
+      "zh": "这绳子拉得很紧。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "绳，绳索",
+      "words": [
+        "line",
+        "cord"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "捆，绑",
+      "words": [
+        "bundle",
+        "colligate"
+      ]
+    }
+  ]
+}

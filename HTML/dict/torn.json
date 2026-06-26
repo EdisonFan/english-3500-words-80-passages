@@ -1,0 +1,38 @@
+{
+  "word": "torn",
+  "found": true,
+  "phonetic_uk": "tɔːn",
+  "phonetic_us": "tɔːrn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=torn&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=torn&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "犹豫的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "撕碎，撕裂；撕破，划破；撕掉，扯掉（tear 的过去分词）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 (Torn) （美、瑞）托恩（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I've torn a calf muscle.",
+      "zh": "我拉伤了小腿肌肉。"
+    },
+    {
+      "en": "He suffered torn ligaments in his knee.",
+      "zh": "他的膝部韧带撕裂了。"
+    },
+    {
+      "en": "These jeans are torn at the knee.",
+      "zh": "这牛仔裤膝盖那儿破了。"
+    }
+  ],
+  "synonyms": []
+}

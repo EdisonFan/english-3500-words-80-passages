@@ -1,0 +1,41 @@
+{
+  "word": "volumes",
+  "found": true,
+  "phonetic_uk": "ˈvɒljuːmz",
+  "phonetic_us": "ˈvɑːljəmz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=volumes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=volumes&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "体积，容量；卷；合订本（volume 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Richard told me of three 16th-century folio volumes on alchemy.",
+      "zh": "理查德告诉过我16 世纪的关于炼金术的三卷对开本书籍的事。"
+    },
+    {
+      "en": "This library has 100000 volumes.",
+      "zh": "这个图书馆藏书10万卷。"
+    },
+    {
+      "en": "This book is in six volumes.",
+      "zh": "这部书一共6册。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "体积，容量（volume复数）；卷",
+      "words": [
+        "bulk",
+        "book",
+        "content",
+        "roll"
+      ]
+    }
+  ]
+}

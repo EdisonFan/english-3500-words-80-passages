@@ -1,0 +1,64 @@
+{
+  "word": "sympathetic",
+  "found": true,
+  "phonetic_uk": "ˌsɪmpəˈθetɪk",
+  "phonetic_us": "ˌsɪmpəˈθetɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sympathetic&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sympathetic&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "同情的，有同情心的；赞同的，支持的；（电影或小说中的人物）讨人喜欢的，可爱的；合意的，合适的；（结构）和谐的；交感神经的，自主神经系统的；（与）交感性（有关）的，（产生）交感性的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "交感神经"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "sympathetics"
+    },
+    {
+      "name": "比较级",
+      "value": "more sympathetic"
+    },
+    {
+      "name": "最高级",
+      "value": "most sympathetic"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Tourists are, in the main, sympathetic people.",
+      "zh": "游客们大都是有同情心的人。"
+    },
+    {
+      "en": "I did not feel at all sympathetic towards Kate.",
+      "zh": "我对凯特一点也不同情。"
+    },
+    {
+      "en": "She was very sympathetic to the problems of adult students.",
+      "zh": "她对成年学生的问题很同情。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "同情的；交感神经的；共鸣的；赞同的；和谐的；合意的",
+      "words": [
+        "harmonious",
+        "balanced",
+        "acceptable"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "交感神经；容易感受的人",
+      "words": [
+        "vagus nerve"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "word": "format",
+  "found": true,
+  "phonetic_uk": "ˈfɔːmæt",
+  "phonetic_us": "ˈfɔːrmæt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=format&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=format&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "总体安排，计划，设计；（书或杂志的）开本，版式；（录像、激光唱片、磁带等的）格式"
+    },
+    {
+      "pos": "v.",
+      "meaning": "为……编排格式；格式化"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "formats"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "formats"
+    },
+    {
+      "name": "现在分词",
+      "value": "formatting"
+    },
+    {
+      "name": "过去式",
+      "value": "formatted"
+    },
+    {
+      "name": "过去分词",
+      "value": "formatted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The leaflet is in PDF format.",
+      "zh": "这个传单用的是可移植文档格式。"
+    },
+    {
+      "en": "They've brought out the magazine in a new format.",
+      "zh": "他们用新的版式出版这杂志。"
+    },
+    {
+      "en": "Hamilton proposed a change in the traditional debating format.",
+      "zh": "汉密尔顿建议对传统的辩论形式作一个改变。"
+    }
+  ],
+  "synonyms": []
+}

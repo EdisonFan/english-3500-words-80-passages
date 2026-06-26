@@ -1,0 +1,38 @@
+{
+  "word": "novels",
+  "found": true,
+  "phonetic_uk": "ˈnɒv(ə)lz",
+  "phonetic_us": "ˈnɑːvəlz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=novels&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=novels&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "小说（novel 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Her novels vary in length.",
+      "zh": "她的小说篇幅长短不一。"
+    },
+    {
+      "en": "He knocks off three novels a year.",
+      "zh": "他一年赶出三部小说。"
+    },
+    {
+      "en": "Her novels are very highly regarded.",
+      "zh": "她的小说受到很高的评价。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "小说（novel的复数）",
+      "words": [
+        "fictions"
+      ]
+    }
+  ]
+}

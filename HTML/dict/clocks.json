@@ -1,0 +1,42 @@
+{
+  "word": "clocks",
+  "found": true,
+  "phonetic_uk": "klɒks",
+  "phonetic_us": "klɑːks",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=clocks&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=clocks&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "钟表；[仪]时钟（clock 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "为……计时（clock 的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Ignoring feelings of tiredness knocks our body clocks out of kilter.",
+      "zh": "忽视疲劳感会打乱我们的生物钟。"
+    },
+    {
+      "en": "When we put the clocks forward in March we go into daylight saving time.",
+      "zh": "当我们在3月份把钟向前拨以后，我们就进入了夏令时。"
+    },
+    {
+      "en": "No, they are not. They are clocks.",
+      "zh": "不，它们不是。它们是时钟。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "钟表；时钟（clock的复数）",
+      "words": [
+        "timepieces"
+      ]
+    }
+  ]
+}

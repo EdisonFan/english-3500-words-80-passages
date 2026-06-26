@@ -1,0 +1,47 @@
+{
+  "word": "coffee",
+  "found": true,
+  "phonetic_uk": "ˈkɒfi",
+  "phonetic_us": "ˈkɔːfi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=coffee&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=coffee&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "咖啡；咖啡豆；咖啡色"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Coffee）人名；（英）科菲"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "coffees"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He sipped his coffee pleasurably.",
+      "zh": "他怡然地品味着咖啡。"
+    },
+    {
+      "en": "Shall we order some coffee?",
+      "zh": "我们要些咖啡好吗？"
+    },
+    {
+      "en": "He liberally sweetened his coffee.",
+      "zh": "他在咖啡里加了大量的糖。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[食品][作物]咖啡；咖啡豆；咖啡色",
+      "words": [
+        "caffe"
+      ]
+    }
+  ]
+}

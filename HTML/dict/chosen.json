@@ -1,0 +1,44 @@
+{
+  "word": "chosen",
+  "found": true,
+  "phonetic_uk": "ˈtʃəʊzn",
+  "phonetic_us": "ˈtʃoʊzn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=chosen&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=chosen&type=2",
+  "defs": [
+    {
+      "pos": "vt.",
+      "meaning": "选择（choose 的过去分词）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "挑选出来的，精选的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She was chosen for the first eleven.",
+      "zh": "她被选派首发上场。"
+    },
+    {
+      "en": "A site has been chosen for the new school.",
+      "zh": "已为新学校选了校址。"
+    },
+    {
+      "en": "It's hard luck on him that he wasn't chosen.",
+      "zh": "他未被选中真是不幸。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "挑选出来的，精选的",
+      "words": [
+        "select",
+        "picked",
+        "choice"
+      ]
+    }
+  ]
+}

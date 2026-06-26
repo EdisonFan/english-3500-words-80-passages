@@ -1,0 +1,65 @@
+{
+  "word": "examine",
+  "found": true,
+  "phonetic_uk": "ɪɡˈzæmɪn",
+  "phonetic_us": "ɪɡˈzæmɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=examine&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=examine&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "检查，调查；考核，测验；（医生）诊察；（尤指在法庭上）审问，查问"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "examines"
+    },
+    {
+      "name": "现在分词",
+      "value": "examining"
+    },
+    {
+      "name": "过去式",
+      "value": "examined"
+    },
+    {
+      "name": "过去分词",
+      "value": "examined"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It is necessary to examine how the proposals can be carried out.",
+      "zh": "有必要调查一下怎样才能实施这些方案。"
+    },
+    {
+      "en": "We examine the wording in detail before deciding on the final text.",
+      "zh": "我们详细检查了措辞，才确定了最终文本。"
+    },
+    {
+      "en": "The committee will examine the agreement and any problems arising therefrom.",
+      "zh": "委员会将审查这项协议和由此引起的问题。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "检查；调查； 检测；考试",
+      "words": [
+        "inspect",
+        "review",
+        "survey"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "检查；调查",
+      "words": [
+        "probe",
+        "check for"
+      ]
+    }
+  ]
+}

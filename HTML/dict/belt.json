@@ -1,0 +1,79 @@
+{
+  "word": "belt",
+  "found": true,
+  "phonetic_uk": "belt",
+  "phonetic_us": "belt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=belt&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=belt&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "腰带，皮带；传送带；地带"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用腰带系紧；狠打，猛击；（尤指出于惩罚用皮带）抽打，打击（某人）；<非正式>飞驰"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Belt）（英、法、德、西）贝尔特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "belts"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "belts"
+    },
+    {
+      "name": "现在分词",
+      "value": "belting"
+    },
+    {
+      "name": "过去式",
+      "value": "belted"
+    },
+    {
+      "name": "过去分词",
+      "value": "belted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We live in the commuter belt.",
+      "zh": "我们住在通勤者居住带。"
+    },
+    {
+      "en": "Was she wearing a seat belt?",
+      "zh": "她系着座椅安全带吗？"
+    },
+    {
+      "en": "Murray is a judo black belt.",
+      "zh": "默里是一名黑带级柔道选手。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "带；腰带；地带",
+      "words": [
+        "band",
+        "strip",
+        "zone",
+        "terrain",
+        "tract"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "猛击",
+      "words": [
+        "drive",
+        "jab at"
+      ]
+    }
+  ]
+}

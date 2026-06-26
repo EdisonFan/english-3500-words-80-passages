@@ -1,0 +1,44 @@
+{
+  "word": "piracy",
+  "found": true,
+  "phonetic_uk": "ˈpaɪrəsi",
+  "phonetic_us": "ˈpaɪrəsi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=piracy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=piracy&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "海上抢劫，海盗行为；盗版，非法复制（或销售）；（电视或广播节目的）非法播出，非法制作电视（或广播）节目；抢劫行为，劫持行为，劫机"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "piracies"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Seven of the fishermen have been formally charged with piracy.",
+      "zh": "其中7名渔民已被正式指控犯有海盗罪。"
+    },
+    {
+      "en": "Recently, piracy has become a hot topic under discussion.",
+      "zh": "近来，盗版成为人们讨论的热门话题。"
+    },
+    {
+      "en": "He no longer took an interest in war, nor even in piracy.",
+      "zh": "什么战争什么海盗的，他都不再感兴趣了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "海盗行为；剽窃；著作权侵害；非法翻印",
+      "words": [
+        "plagiarism",
+        "cribbing"
+      ]
+    }
+  ]
+}

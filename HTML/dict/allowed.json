@@ -1,0 +1,47 @@
+{
+  "word": "allowed",
+  "found": true,
+  "phonetic_uk": "əˈlaʊd",
+  "phonetic_us": "əˈlaʊd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=allowed&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=allowed&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "允许，认可；给予，酌留（机会、时间）；允许进入（或出去、通过）；使可能；承认，接受；（非正式）断言，认为（allow 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They were allowed to intermarry.",
+      "zh": "他们被允许通婚。"
+    },
+    {
+      "en": "He allowed his mind to wander.",
+      "zh": "他听任自己的思绪信马由缰。"
+    },
+    {
+      "en": "Only one carry-on is allowed.",
+      "zh": "随身只能携带一个小包。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "允许，容许的",
+      "words": [
+        "concessional",
+        "admissive"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "允许；认可（allow的过去分词）",
+      "words": [
+        "suffered",
+        "permitted"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "word": "charge",
+  "found": true,
+  "phonetic_uk": "tʃɑːdʒ",
+  "phonetic_us": "tʃɑːrdʒ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=charge&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=charge&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "充电；使……承担责任，赋予……责任；控告，指控；（公开）指责，责备；进攻，冲锋；把……记在账上；要价，收费（金额）；<旧>给（枪炮）装弹；斟满（杯子）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "电量，电荷；炸药量；掌管，照管；费用，价钱；控告，指控；（书面或口头的）指责，批评；需要照管的人；命令，指示；（人或动物的）猛攻，冲锋；<美，非正式>快感，刺激；感召力，感染力；负载"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Charge）（英）查奇，（法）沙尔热（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "charges"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "charges"
+    },
+    {
+      "name": "现在分词",
+      "value": "charging"
+    },
+    {
+      "name": "过去式",
+      "value": "charged"
+    },
+    {
+      "name": "过去分词",
+      "value": "charged"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We can charge $50 a pop.",
+      "zh": "我们可以每个收费50元。"
+    },
+    {
+      "en": "If I were in charge...",
+      "zh": "假若由我负责…"
+    },
+    {
+      "en": "Who's in charge here?",
+      "zh": "这里谁负责？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[会计]费用；电荷；掌管；[法]控告；命令；[电]负载",
+      "words": [
+        "fee",
+        "instruction",
+        "cost",
+        "bidding",
+        "word"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[电]使充电；使承担；指责；装载；对…索费；向…冲去",
+      "words": [
+        "electrify",
+        "inflict on"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "[电]充电；[法]控告；索价；向前冲；记在账上",
+      "words": [
+        "law",
+        "sue for"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "word": "differ",
+  "found": true,
+  "phonetic_uk": "ˈdɪfə(r)",
+  "phonetic_us": "ˈdɪfər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=differ&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=differ&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "不同于；意见有分歧"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Differ）（法）迪费（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "differs"
+    },
+    {
+      "name": "现在分词",
+      "value": "differing"
+    },
+    {
+      "name": "过去式",
+      "value": "differed"
+    },
+    {
+      "name": "过去分词",
+      "value": "differed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "French and English differ in this respect.",
+      "zh": "在这方面法语和英语不同。"
+    },
+    {
+      "en": "Ideas on childcare may differ considerably between the parents.",
+      "zh": "在抚育儿童方面父母的观点可能迥然不同。"
+    },
+    {
+      "en": "How they differ in composition?",
+      "zh": "他们在成分上有什么不同？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "相异；意见分歧",
+      "words": [
+        "divide"
+      ]
+    }
+  ]
+}

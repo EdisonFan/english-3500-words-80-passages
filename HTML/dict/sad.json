@@ -1,0 +1,52 @@
+{
+  "word": "sad",
+  "found": true,
+  "phonetic_uk": "sæd",
+  "phonetic_us": "sæd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sad&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sad&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "伤心的，难过的；令人伤心的，让人难过的；糟糕的，不能令人接受的；不幸的，可怜的；（歌曲或音乐）显露悲伤的，伤感的；状况不佳的；<非正式>（人）可悲的，不受人尊敬的；<非正式> 老土的，过时的；（面团）发得不好的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "季节性情感障碍（SAD）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "sadder或more sad"
+    },
+    {
+      "name": "最高级",
+      "value": "saddest或most sad"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We were all sad at her going.",
+      "zh": "我们对她的离去都很难过。"
+    },
+    {
+      "en": "I overreact to anything sad.",
+      "zh": "我对任何悲伤的事情都反应过激。"
+    },
+    {
+      "en": "She looked sad and tired.",
+      "zh": "她看上去又伤心又疲惫。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "难过的；悲哀的，令人悲痛的；凄惨的，阴郁的（形容颜色）",
+      "words": [
+        "gray",
+        "gloomy"
+      ]
+    }
+  ]
+}

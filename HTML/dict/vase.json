@@ -1,0 +1,47 @@
+{
+  "word": "vase",
+  "found": true,
+  "phonetic_uk": "vɑːz",
+  "phonetic_us": "veɪs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=vase&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=vase&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "花瓶，（装饰用的）瓶"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Vase）（塞、罗、芬）瓦塞（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "vases"
+    }
+  ],
+  "examples": [
+    {
+      "en": "What am I bid for this vase?",
+      "zh": "诸位愿给这个花瓶出多少钱？"
+    },
+    {
+      "en": "You can use that glass as a vase.",
+      "zh": "你可以把那个玻璃杯当作花瓶用。"
+    },
+    {
+      "en": "Hillary clobbered him with a vase.",
+      "zh": "希拉里拿起一个花瓶向他打去。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "瓶；[轻]花瓶",
+      "words": [
+        "cruse"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "word": "follower",
+  "found": true,
+  "phonetic_uk": "ˈfɒləʊə(r)",
+  "phonetic_us": "ˈfɑːloʊər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=follower&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=follower&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "追随者；信徒；属下"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "followers"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She is a leader, not a follower.",
+      "zh": "她是领导者，不是追随者。"
+    },
+    {
+      "en": "Now I want to say that I think that Shaffers is more of a follower than a leader in the coffee industry.",
+      "zh": "现在我想说，我认为 Shaffers 在咖啡行业中更像是一个追随者，而不是引领者。"
+    },
+    {
+      "en": "She herself insists she is no slavish follower of fashion.",
+      "zh": "她坚称自己绝不是一个追随时尚的人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "追随者；信徒；属下",
+      "words": [
+        "Christian",
+        "old faithful"
+      ]
+    }
+  ]
+}

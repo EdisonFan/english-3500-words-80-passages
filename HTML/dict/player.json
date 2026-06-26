@@ -1,0 +1,44 @@
+{
+  "word": "player",
+  "found": true,
+  "phonetic_uk": "ˈpleɪə(r)",
+  "phonetic_us": "ˈpleɪər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=player&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=player&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "运动员，选手；（乐器的）演奏者；<旧>演员，表演者；参与者，角色；（录音或录像的）播放器；<非正式>风流浪子；（用于剧团的名称中）剧团"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "players"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She's a good all-round player.",
+      "zh": "她是个优秀的全能选手。"
+    },
+    {
+      "en": "She's an instinctive player.",
+      "zh": "她是个天生的运动员。"
+    },
+    {
+      "en": "The next player discarded a club.",
+      "zh": "接下来的那位玩家出了张梅花牌。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "运动员，比赛者；游戏者，做游戏的人；演奏者，表演者；演员",
+      "words": [
+        "athlete",
+        "sportsman"
+      ]
+    }
+  ]
+}

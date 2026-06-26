@@ -1,0 +1,83 @@
+{
+  "word": "slim",
+  "found": true,
+  "phonetic_uk": "slɪm",
+  "phonetic_us": "slɪm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=slim&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=slim&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "苗条的，纤细的；单薄的；（物）狭长的；（衣服）修长的，紧身的；（数量或数字）微小的；（公司或其他组织）精简的；<南非>诡计多端的，狡猾的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（靠节食等）变苗条，减肥；减少（产品），缩减（人员）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（非洲）艾滋病；瘦身课程（或时期）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Slim）（阿拉伯）萨利姆，（英、西）斯利姆（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "slims"
+    },
+    {
+      "name": "现在分词",
+      "value": "slimming"
+    },
+    {
+      "name": "过去式",
+      "value": "slimmed"
+    },
+    {
+      "name": "过去分词",
+      "value": "slimmed"
+    },
+    {
+      "name": "比较级",
+      "value": "slimmer或more slim"
+    },
+    {
+      "name": "最高级",
+      "value": "slimmest或most slim"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She goes for tall slim men.",
+      "zh": "她喜欢瘦高个子的男人。"
+    },
+    {
+      "en": "She has a beautifully slim figure.",
+      "zh": "她的体形十分苗条。"
+    },
+    {
+      "en": "The young woman was tall and slim.",
+      "zh": "那个年轻女子个子高挑，身材苗条。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "苗条的；修长的；无价值的",
+      "words": [
+        "slender",
+        "willowy"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "减轻体重；变细",
+      "words": [
+        "thin down"
+      ]
+    }
+  ]
+}

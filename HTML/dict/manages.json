@@ -1,0 +1,50 @@
+{
+  "word": "manages",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˈmænɪdʒɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=manages&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=manages&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "管理，处理；操纵，控制；设法做到，勉力完成（manage 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He always manages to say the wrong thing.",
+      "zh": "他总是哪壶不开提哪壶。"
+    },
+    {
+      "en": "She manages to let criticism just wash over her.",
+      "zh": "她沒有让別人的批评影响到自己。"
+    },
+    {
+      "en": "Somehow he always manages to outwit his opponents.",
+      "zh": "他反正总能设法智胜对手。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "管理；控制；负责；设法对付（manage的三单形式）",
+      "words": [
+        "controls",
+        "owns"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "管理（manage的复数，等于managements）",
+      "words": [
+        "governance",
+        "administration",
+        "supervision",
+        "regulation",
+        "control"
+      ]
+    }
+  ]
+}

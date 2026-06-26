@@ -1,0 +1,43 @@
+{
+  "word": "statistician",
+  "found": true,
+  "phonetic_uk": "ˌstætɪˈstɪʃn",
+  "phonetic_us": "ˌstætɪˈstɪʃn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=statistician&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=statistician&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "统计学家，统计员"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "statisticians"
+    }
+  ],
+  "examples": [
+    {
+      "en": "A flea, the base-ball fan, the statistician.",
+      "zh": "一只跳蚤，棒球迷，统计学家。"
+    },
+    {
+      "en": "The statistician diagrammed the statistical results.",
+      "zh": "统计员用图表来表示统计结果。"
+    },
+    {
+      "en": "Herman Hollerith was a statistician who helped the U.S. Census tabulate data.",
+      "zh": "赫尔曼·霍尔瑞斯(Herman Hollerith)是一个统计学家，他曾帮助美国人口统计局编排数据。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "统计学家，统计员",
+      "words": [
+        "statistical clerk"
+      ]
+    }
+  ]
+}

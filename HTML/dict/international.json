@@ -1,0 +1,47 @@
+{
+  "word": "international",
+  "found": true,
+  "phonetic_uk": "ˌɪntəˈnæʃ(ə)nəl",
+  "phonetic_us": "ˌɪntərˈnæʃ(ə)nəl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=international&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=international&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "国际的，国际上的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<英>国际比赛；<英>国际比赛选手；<美>外国人；共产国际（International）；国际组织，跨国公司"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "internationals"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His speciality is international law.",
+      "zh": "他的专业是国际法。"
+    },
+    {
+      "en": "The film earned him international fame.",
+      "zh": "这部影片为他赢得了国际声誉。"
+    },
+    {
+      "en": "My speciality is international tax law.",
+      "zh": "我的专业是国际税法。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "国际的；世��的",
+      "words": [
+        "mundane"
+      ]
+    }
+  ]
+}

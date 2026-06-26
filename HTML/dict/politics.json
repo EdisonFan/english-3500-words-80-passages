@@ -1,0 +1,38 @@
+{
+  "word": "politics",
+  "found": true,
+  "phonetic_uk": "ˈpɒlətɪks",
+  "phonetic_us": "ˈpɑːlətɪks",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=politics&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=politics&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "政治，政治活动（事务）；政治事业；政治学；(某团体、组织等内的）争权活动，权术；政治信仰，政治观点；（尤指跟社会权力和地位有关的领域、理论或活动的）主张，观（念）；政治思想体系，政治局势"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Politics and sports don't mix.",
+      "zh": "政治与体育无法协调一致。"
+    },
+    {
+      "en": "Politics doesn't interest me.",
+      "zh": "我对政治不感兴趣。"
+    },
+    {
+      "en": "Japanese politics are sui generis.",
+      "zh": "日本的政治独一无二。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "政治，政治学；政治活动；政纲",
+      "words": [
+        "department of political science"
+      ]
+    }
+  ]
+}

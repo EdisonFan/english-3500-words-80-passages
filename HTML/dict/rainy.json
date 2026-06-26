@@ -1,0 +1,52 @@
+{
+  "word": "rainy",
+  "found": true,
+  "phonetic_uk": "ˈreɪni",
+  "phonetic_us": "ˈreɪni",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=rainy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=rainy&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "多雨的；下雨的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Rainy）（英）雷尼（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "rainier或more rainy"
+    },
+    {
+      "name": "最高级",
+      "value": "rainiest或most rainy"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The rainy season in the Andes normally starts in December.",
+      "zh": "安第斯山脉的雨季一般从12月开始。"
+    },
+    {
+      "en": "Tomorrow will be rainy.",
+      "zh": "明天将下雨。"
+    },
+    {
+      "en": "It was rainy yesterday.",
+      "zh": "昨天是雨天。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "下雨的；多雨的",
+      "words": [
+        "pluvian",
+        "drippy"
+      ]
+    }
+  ]
+}

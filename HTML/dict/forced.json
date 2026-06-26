@@ -1,0 +1,50 @@
+{
+  "word": "forced",
+  "found": true,
+  "phonetic_uk": "fɔːst",
+  "phonetic_us": "fɔːrst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=forced&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=forced&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "被迫的；勉��的，不自然的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "强迫；用力推；使发生（force 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She forced herself to keep going.",
+      "zh": "她强迫自己坚持下去。"
+    },
+    {
+      "en": "I was forced to attempt a gallop.",
+      "zh": "我被迫尝试一次骑马疾驰。"
+    },
+    {
+      "en": "We were forced to raise the price.",
+      "zh": "我们被迫提价。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "被迫的；强迫的",
+      "words": [
+        "compulsive",
+        "coercionary"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "强迫（force的过去式）",
+      "words": [
+        "compelled"
+      ]
+    }
+  ]
+}

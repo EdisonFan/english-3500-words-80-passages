@@ -1,0 +1,53 @@
+{
+  "word": "emitting",
+  "found": true,
+  "phonetic_uk": "ɪˈmɪtɪŋ",
+  "phonetic_us": "iˈmɪtɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=emitting&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=emitting&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "发出，散发；发射"
+    },
+    {
+      "pos": "v.",
+      "meaning": "散发；喷出（emit 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "These light-emitting diodes could simulate red light.",
+      "zh": "这些发光二极管可以模拟红光。"
+    },
+    {
+      "en": "To test their hypothesis, researchers took some electrical lights, actually, they were light-emitting diodes.",
+      "zh": "为了验证他们的假设，研究人员使用了一些电灯，实际是使用了发光二极管。"
+    },
+    {
+      "en": "The Trilobite scuttles around homes emitting ultrasound signals to create maps of rooms, which are remembered for future cleaning.",
+      "zh": "三叶虫在房屋周围飞来飞去，发出超声波信号，绘制出房间的地图，以备日后清洁时使用。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "发出，散发；发射",
+      "words": [
+        "emission",
+        "sending",
+        "shot",
+        "launch",
+        "projection"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "散发；喷出（emit的现在分词）",
+      "words": [
+        "squirting"
+      ]
+    }
+  ]
+}

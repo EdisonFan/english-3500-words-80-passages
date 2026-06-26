@@ -1,0 +1,83 @@
+{
+  "word": "lack",
+  "found": true,
+  "phonetic_uk": "læk",
+  "phonetic_us": "læk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=lack&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=lack&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "缺乏，不足"
+    },
+    {
+      "pos": "v.",
+      "meaning": "缺乏，不足；需要"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Lack）（美、德）拉克（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "lacks"
+    },
+    {
+      "name": "现在分词",
+      "value": "lacking"
+    },
+    {
+      "name": "过去式",
+      "value": "lacked"
+    },
+    {
+      "name": "过去分词",
+      "value": "lacked"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Her eyes ached from lack of sleep.",
+      "zh": "她的眼睛因睡眠不足而隐隐作痛。"
+    },
+    {
+      "en": "His ideas lack depth.",
+      "zh": "他的想法缺乏深度。"
+    },
+    {
+      "en": "They were exhausted from lack of sleep.",
+      "zh": "他们因睡眠不足而疲惫不堪了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "缺乏；不足；没有；需要",
+      "words": [
+        "ask",
+        "claim"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "缺乏；不足；没有",
+      "words": [
+        "fail",
+        "low in"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "缺乏；不足",
+      "words": [
+        "shortage",
+        "short of",
+        "deficiency",
+        "need",
+        "drought"
+      ]
+    }
+  ]
+}

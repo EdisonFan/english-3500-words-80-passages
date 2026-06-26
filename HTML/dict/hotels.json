@@ -1,0 +1,46 @@
+{
+  "word": "hotels",
+  "found": true,
+  "phonetic_uk": "həʊˈtelz",
+  "phonetic_us": "hoʊˈtel",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=hotels&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=hotels&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "酒店；旅馆（hotel 的复数）；大饭店"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使……在饭店下榻；进行旅馆式办公（hotel 的第三人称单数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Hotels）人名；（德）霍特尔斯"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Hotels are cheaper out of season.",
+      "zh": "在淡季，旅馆要便宜些。"
+    },
+    {
+      "en": "So many hotels resemble each other.",
+      "zh": "许多酒店看上去都差不多。"
+    },
+    {
+      "en": "They always stayed in first-class hotels.",
+      "zh": "他们总是下榻于最高级的宾馆。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "酒店；旅馆（hotel的复数）；大饭店",
+      "words": [
+        "taverns"
+      ]
+    }
+  ]
+}

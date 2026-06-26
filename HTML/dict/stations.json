@@ -1,0 +1,51 @@
+{
+  "word": "stations",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˈsteɪʃnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=stations&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=stations&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[交]车站；位置（station 的复数形式）；驻地"
+    },
+    {
+      "pos": "v.",
+      "meaning": "安置；驻扎（station 的单三形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Bombs went off at two London train stations.",
+      "zh": "炸弹在伦敦的两个火车站爆炸了。"
+    },
+    {
+      "en": "Victoria is one of London's busiest stations.",
+      "zh": "维多利亚站是伦敦最繁忙的车站之一。"
+    },
+    {
+      "en": "Today his programme is syndicated to 500 stations.",
+      "zh": "今天他的节目被出售给500家电台播出。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "车站；位置（station的复数形式）；驻地",
+      "words": [
+        "positions",
+        "places",
+        "locations"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "安置；驻扎（station的单三形式）",
+      "words": [
+        "plants"
+      ]
+    }
+  ]
+}

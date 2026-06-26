@@ -1,0 +1,46 @@
+{
+  "word": "personality",
+  "found": true,
+  "phonetic_uk": "ˌpɜːsəˈnæləti",
+  "phonetic_us": "ˌpɜːrsəˈnæləti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=personality&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=personality&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "个性，性格；魅力，品格（如活力、友好、幽默等）；（地方或事物的）特色；有突出个性的人；名人"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "personalities"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Their son is a real personality.",
+      "zh": "他们的儿子真是有个性。"
+    },
+    {
+      "en": "His wife has a strong personality.",
+      "zh": "他妻子的个性很强。"
+    },
+    {
+      "en": "She had a sweet, lively personality.",
+      "zh": "她有着可爱活泼的性格。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[心理]个性；品格；名人",
+      "words": [
+        "being",
+        "kidney",
+        "lion",
+        "individuality"
+      ]
+    }
+  ]
+}

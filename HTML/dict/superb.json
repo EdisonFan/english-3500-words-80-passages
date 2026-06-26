@@ -1,0 +1,46 @@
+{
+  "word": "superb",
+  "found": true,
+  "phonetic_uk": "suːˈpɜːb",
+  "phonetic_us": "suːˈpɜːrb",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=superb&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=superb&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "极佳的，质量极高的；（信心、控制力、技巧）非同一般的，超凡的；壮丽的，辉煌的；羽毛鲜艳夺目的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Superb）苏佩尔布（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They dished up a superb meal.",
+      "zh": "他们上了一桌很棒的饭菜。"
+    },
+    {
+      "en": "The car's in superb condition.",
+      "zh": "这辆车车况极好。"
+    },
+    {
+      "en": "The orchestral playing is superb.",
+      "zh": "这个管弦乐团的演奏棒极了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "极好的；华丽的；宏伟的",
+      "words": [
+        "wonderful",
+        "excellent",
+        "famous",
+        "grand",
+        "great"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "difficult",
+  "found": true,
+  "phonetic_uk": "ˈdɪfɪkəlt",
+  "phonetic_us": "ˈdɪfɪkəlt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=difficult&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=difficult&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "困难的，费力的；不友好的，难对付的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The exam was pretty difficult.",
+      "zh": "这场考试相当难。"
+    },
+    {
+      "en": "The exam was fairly difficult.",
+      "zh": "这场考试相当难。"
+    },
+    {
+      "en": "The exam was quite difficult.",
+      "zh": "这场考试相当难。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "困难的；不随和的；执拗的",
+      "words": [
+        "hard",
+        "tough"
+      ]
+    }
+  ]
+}

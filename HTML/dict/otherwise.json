@@ -1,0 +1,51 @@
+{
+  "word": "otherwise",
+  "found": true,
+  "phonetic_uk": "ˈʌðəwaɪz",
+  "phonetic_us": "ˈʌðərwaɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=otherwise&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=otherwise&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "否则，不然；除此以外，在其他方面；不同地，另外地；以其他方式，用别的方法"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "不是那样的，另外情况下的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Shut the window, otherwise it'll get too cold in here.",
+      "zh": "把窗户关好，不然屋子里就太冷了。"
+    },
+    {
+      "en": "This is the one blemish on an otherwise resounding success.",
+      "zh": "这就是惟一那点小缺陷，否则将是圆满的成功。"
+    },
+    {
+      "en": "We're committed to the project. We wouldn't be here otherwise.",
+      "zh": "我们是全心全意投入这项工作的，否则我们就不会到这里来了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "否则；另外；在其他方面",
+      "words": [
+        "else",
+        "extra"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "另外的；其他方面的",
+      "words": [
+        "another",
+        "elsewise"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "word": "sodium",
+  "found": true,
+  "phonetic_uk": "ˈsəʊdiəm",
+  "phonetic_us": "ˈsoʊdiəm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sodium&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sodium&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "钠（一种化学元素，符号为 Na）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "（发出橙色强光的）钠光的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Sodium and sulphur are highly corrosive.",
+      "zh": "钠和硫有高度的腐蚀性。"
+    },
+    {
+      "en": "Common salt is a compound of sodium and chlorine.",
+      "zh": "普通食盐是钠和氯的化合物。"
+    },
+    {
+      "en": "The scientific name for common salt is sodium chloride.",
+      "zh": "氯化��是普通盐的学名。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[化学]钠（11号元素，符号 Na）",
+      "words": [
+        "natrium"
+      ]
+    }
+  ]
+}

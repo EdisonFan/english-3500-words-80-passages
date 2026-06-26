@@ -1,0 +1,39 @@
+{
+  "word": "depths",
+  "found": true,
+  "phonetic_uk": "depθs",
+  "phonetic_us": "depθs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=depths&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=depths&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "深处；深渊"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Now she was dredging up memories from the depths of her mind.",
+      "zh": "这时，她回忆起内心深处的往事。"
+    },
+    {
+      "en": "By drilling, geologists can take measurements at various depths.",
+      "zh": "通过钻孔，地质学家可以在不同深度测量。"
+    },
+    {
+      "en": "Marine life was discovered at depths previously thought to be azoic.",
+      "zh": "在先前被认为没有任何生命迹象的海洋深处发现了海洋生物。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "深处；深渊",
+      "words": [
+        "deep",
+        "gulf"
+      ]
+    }
+  ]
+}

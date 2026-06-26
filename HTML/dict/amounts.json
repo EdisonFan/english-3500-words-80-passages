@@ -1,0 +1,43 @@
+{
+  "word": "amounts",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "əˈmaʊnts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=amounts&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=amounts&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "数量，总额（amount 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "总和（amount 的第三人称单数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The amounts she borrowed were not excessive.",
+      "zh": "她借的数量没有超额。"
+    },
+    {
+      "en": "Even moderate amounts of the drug can be fatal.",
+      "zh": "这种药的用量即使不很大也会致命。"
+    },
+    {
+      "en": "This business generates cash in prodigious amounts.",
+      "zh": "这生意带来大量现金。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "数量，总额（amount的复数）",
+      "words": [
+        "quantities",
+        "amts"
+      ]
+    }
+  ]
+}

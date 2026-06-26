@@ -1,0 +1,39 @@
+{
+  "word": "tiresome",
+  "found": true,
+  "phonetic_uk": "ˈtaɪəsəm",
+  "phonetic_us": "ˈtaɪərsəm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tiresome&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tiresome&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "烦人的，令人厌烦的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Now the tiresome chirping of a cricket that no human ingenuity could locate, began.",
+      "zh": "这时，一只蟋蟀开始发出烦人的唧唧声，而人们根本找不到它在哪。"
+    },
+    {
+      "en": "Buying a house can be a very tiresome business.",
+      "zh": "买房子会是件很麻烦的事。"
+    },
+    {
+      "en": "Frank's efforts at flirtation had become tiresome to her.",
+      "zh": "弗兰克一个劲地打情骂俏使得她非常厌倦。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "烦人的，无聊的；令人讨厌的",
+      "words": [
+        "terrible",
+        "boring"
+      ]
+    }
+  ]
+}

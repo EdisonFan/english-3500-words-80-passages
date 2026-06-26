@@ -1,0 +1,40 @@
+{
+  "word": "locations",
+  "found": true,
+  "phonetic_uk": "ləʊˈkeɪʃənz",
+  "phonetic_us": "loʊˈkeɪʃənz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=locations&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=locations&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "位置；地点；定位件（location 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Andorra is also known for its excellent skiing locations.",
+      "zh": "安道尔也以其绝佳的滑雪场所而闻名。"
+    },
+    {
+      "en": "They will be offered transfers to other locations.",
+      "zh": "他们将得到去其他地方的调动令。"
+    },
+    {
+      "en": "She travels to all kinds of exotic locations all over the world.",
+      "zh": "她走遍了全世界所有具有奇异风情的地方。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "位置；地点（location的复数）；定位件",
+      "words": [
+        "positions",
+        "places",
+        "stations"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "word": "struggling",
+  "found": true,
+  "phonetic_uk": "ˈstrʌɡ(ə)lɪŋ",
+  "phonetic_us": "ˈstrʌɡlɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=struggling&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=struggling&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "艰难奋斗的，苦苦挣扎的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "奋斗，努力；搏斗，扭打；争夺，争抢  （struggle 的现在分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Schools and social services are also struggling to absorb the influx.",
+      "zh": "学校和社会福利部门也在努力接纳突然大批涌入的人群。"
+    },
+    {
+      "en": "Farmers struggling for survival strip the forests for agricultural land.",
+      "zh": "为生存而挣扎的农民们把森林伐光来作农业用地。"
+    },
+    {
+      "en": "She was struggling with a heavy suitcase.",
+      "zh": "她正费力地拎着一只沉重的手提箱。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "奋斗的；努力的；苦斗的",
+      "words": [
+        "hard",
+        "pushing",
+        "arduous"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "努力；斗争；竞争（struggle的ing形式）",
+      "words": [
+        "striving"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "word": "shirt",
+  "found": true,
+  "phonetic_uk": "ʃɜːt",
+  "phonetic_us": "ʃɜːrt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=shirt&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=shirt&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "衬衫，恤衫；球衣；<英>运动队队员"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "shirts"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His shirt was spotted with oil.",
+      "zh": "他的衬衣上满是油点。"
+    },
+    {
+      "en": "What's your shirt made of?",
+      "zh": "你的衬衣是用什么做的？"
+    },
+    {
+      "en": "He peeled off his shirt.",
+      "zh": "他脱下了衬衣。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[服装]衬衫；汗衫，内衣",
+      "words": [
+        "singlet",
+        "undershirt"
+      ]
+    }
+  ]
+}

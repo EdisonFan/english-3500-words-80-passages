@@ -1,0 +1,84 @@
+{
+  "word": "yellow",
+  "found": true,
+  "phonetic_uk": "ˈjeləʊ",
+  "phonetic_us": "ˈjeloʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=yellow&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=yellow&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "黄的，黄色的；黄色人种的，黄皮肤的；<非正式>胆怯的；（新闻报道）夸张失实的，耸人听闻的；黄色危险警报的；嫉妒的，猜疑的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "黄色，黄颜料；黄色衣服，黄色衣料；（运动或比赛中的）黄色球，黄色物（尤指斯诺克的黄球）；黄蛾（或黄蝴蝶）；（植物的）黄化病"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）变黄"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "yellows"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "yellows"
+    },
+    {
+      "name": "现在分词",
+      "value": "yellowing"
+    },
+    {
+      "name": "过去式",
+      "value": "yellowed"
+    },
+    {
+      "name": "过去分词",
+      "value": "yellowed"
+    },
+    {
+      "name": "比较级",
+      "value": "yellower或more yellow"
+    },
+    {
+      "name": "最高级",
+      "value": "yellowest或most yellow"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The walls were painted yellow.",
+      "zh": "墙壁漆成了黄色。"
+    },
+    {
+      "en": "The wings are tipped with yellow.",
+      "zh": "翅膀的尖端呈黄色。"
+    },
+    {
+      "en": "His eyeballs were an unhealthy yellow.",
+      "zh": "他的眼球是不健康的蜡黄色。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[光]黄色的；黄皮肤的",
+      "words": [
+        "maize",
+        "xanthic"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[光]黄色；黄种人；[染料]黄色颜料",
+      "words": [
+        "sunking",
+        "giallo"
+      ]
+    }
+  ]
+}

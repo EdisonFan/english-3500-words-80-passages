@@ -1,0 +1,44 @@
+{
+  "word": "biological",
+  "found": true,
+  "phonetic_uk": "ˌbaɪəˈlɒdʒɪk(ə)l",
+  "phonetic_us": "ˌbaɪəˈlɑːdʒɪk(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=biological&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=biological&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "生物的，生物学的，生命的；亲生的；含酶的；生化武器的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "biologicals"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Many biological processes are controlled by hormones.",
+      "zh": "许多生物变化过程都是由激素控制的。"
+    },
+    {
+      "en": "Darwin eventually put forward a model of biological evolution.",
+      "zh": "达尔文最终提出了一套生物进化的理论模式。"
+    },
+    {
+      "en": "Biological systems have been doing this for billions of years.",
+      "zh": "生物系统亿万年来都在这样做。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[生物]生物的；生物学的",
+      "words": [
+        "biotic",
+        "organismal"
+      ]
+    }
+  ]
+}

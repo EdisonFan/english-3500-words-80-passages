@@ -1,0 +1,43 @@
+{
+  "word": "researcher",
+  "found": true,
+  "phonetic_uk": "rɪˈsɜːtʃə(r); ˈriːsɜːtʃə(r)",
+  "phonetic_us": "ˈriːsɜːrtʃərˌrɪˈsɜːrtʃər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=researcher&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=researcher&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "研究人员"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "researchers"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He chose to join the company as a market researcher.",
+      "zh": "他选择加入这家公司当一名市场研究员。"
+    },
+    {
+      "en": "Mr. Fay is to take up an appointment as a researcher.",
+      "zh": "费伊先生将担任研究员的职务。"
+    },
+    {
+      "en": "Someone who lacks staying power and persistence is unlikely to make a good researcher.",
+      "zh": "缺乏耐力和毅力的人不可能成为一个出色的研究人员。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "研究员",
+      "words": [
+        "boffin"
+      ]
+    }
+  ]
+}

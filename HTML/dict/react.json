@@ -1,0 +1,57 @@
+{
+  "word": "react",
+  "found": true,
+  "phonetic_uk": "riˈækt",
+  "phonetic_us": "riˈækt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=react&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=react&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（作出）反应；起化学反应； (对食物等）不良反应，过敏；（股票价格）回跌"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "reacts"
+    },
+    {
+      "name": "现在分词",
+      "value": "reacting"
+    },
+    {
+      "name": "过去式",
+      "value": "reacted"
+    },
+    {
+      "name": "过去分词",
+      "value": "reacted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They'll react aggressively.",
+      "zh": "他们会凶猛地作出反应。"
+    },
+    {
+      "en": "I nudged her but she didn't react.",
+      "zh": "我用胳膊肘捅了她一下，可她没有反应。"
+    },
+    {
+      "en": "There's no saying how he'll react.",
+      "zh": "很难说他会有何种反应。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "反应；影响；反抗；起反作用",
+      "words": [
+        "impact of",
+        "impact on",
+        "work on"
+      ]
+    }
+  ]
+}

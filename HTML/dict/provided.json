@@ -1,0 +1,51 @@
+{
+  "word": "provided",
+  "found": true,
+  "phonetic_uk": "prəˈvaɪdɪd",
+  "phonetic_us": "prəˈvaɪdɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=provided&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=provided&type=2",
+  "defs": [
+    {
+      "pos": "conj.",
+      "meaning": "假如，只要，在……条件下"
+    },
+    {
+      "pos": "v.",
+      "meaning": "提供；规定；为（可能事件）作充分准备（provide 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They provided only skimpy details.",
+      "zh": "他们提供的细节不充分。"
+    },
+    {
+      "en": "Tennis rackets and balls are provided.",
+      "zh": "提供网球拍和网球。"
+    },
+    {
+      "en": "Lunch and refreshments will be provided.",
+      "zh": "将提供午餐和茶点。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "conj.",
+      "meaning": "假如；倘若",
+      "words": [
+        "if",
+        "supposing"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "提供；给予（provide的过去式）",
+      "words": [
+        "gave",
+        "supplied"
+      ]
+    }
+  ]
+}

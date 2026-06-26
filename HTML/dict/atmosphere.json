@@ -1,0 +1,44 @@
+{
+  "word": "atmosphere",
+  "found": true,
+  "phonetic_uk": "ˈætməsfɪə(r)",
+  "phonetic_us": "ˈætməsfɪr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=atmosphere&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=atmosphere&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（包围地球或其他行星的）大气，大气层；（房间或其他场所内的）空气；气氛，环境；情调，感染力"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "atmospheres"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The atmosphere was electric.",
+      "zh": "气氛很热烈。"
+    },
+    {
+      "en": "The atmosphere at the house soured.",
+      "zh": "屋子里的气氛不对了。"
+    },
+    {
+      "en": "The atmosphere was quite convivial.",
+      "zh": "气氛很欢快。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[心理]气氛；[气象][地物]大气；空气",
+      "words": [
+        "mood",
+        "ambience"
+      ]
+    }
+  ]
+}

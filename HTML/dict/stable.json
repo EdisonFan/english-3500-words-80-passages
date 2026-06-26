@@ -1,0 +1,91 @@
+{
+  "word": "stable",
+  "found": true,
+  "phonetic_uk": "ˈsteɪb(ə)l",
+  "phonetic_us": "ˈsteɪb(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=stable&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=stable&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "稳定的，牢固的；稳重的，沉稳的；（化学结构或物理状态）稳定的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "马厩；（属同一马主或驯马师的）一群赛马；（在同一地方工作或训练的）一批人，（同一公司生产的）系列产品；赛马训练场"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使（马）入厩，把（马）拴在马厩"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Stable）（美、英、法）斯特布尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "stables"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "stables"
+    },
+    {
+      "name": "现在分词",
+      "value": "stabling"
+    },
+    {
+      "name": "过去式",
+      "value": "stabled"
+    },
+    {
+      "name": "过去分词",
+      "value": "stabled"
+    },
+    {
+      "name": "比较级",
+      "value": "stabler或more stable"
+    },
+    {
+      "name": "最高级",
+      "value": "stablest或most stable"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Mentally, she is not very stable.",
+      "zh": "她的心理状态不十分稳定。"
+    },
+    {
+      "en": "She led the horse back into the stable.",
+      "zh": "她把那匹马牵回了马厩。"
+    },
+    {
+      "en": "Conditions were set fair for stable economic development.",
+      "zh": "形势适合经济稳定发展。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[畜牧]马厩；牛棚",
+      "words": [
+        "mews",
+        "cowshed"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "[物]稳定的；牢固的；坚定的",
+      "words": [
+        "steady",
+        "settled",
+        "committed",
+        "firm",
+        "strong"
+      ]
+    }
+  ]
+}

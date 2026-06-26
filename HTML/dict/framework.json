@@ -1,0 +1,46 @@
+{
+  "word": "framework",
+  "found": true,
+  "phonetic_uk": "ˈfreɪmwɜːk",
+  "phonetic_us": "ˈfreɪmwɜːrk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=framework&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=framework&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "(建筑物或物体的）构架，结构；参照标准，准则；(社会、法律、政治等）框架"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "frameworks"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She sets up a framework to deconstruct various categories of film.",
+      "zh": "她创建了一个框架来解析影视的各种分类。"
+    },
+    {
+      "en": "This assessment is only a framework.",
+      "zh": "此评估仅仅是一个框架。"
+    },
+    {
+      "en": "The outer tent fits over the framework.",
+      "zh": "外层帐篷安置在帐篷的框架上。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "框架，骨架；结构，[建]构架",
+      "words": [
+        "configuration",
+        "mechanics",
+        "texture",
+        "structure"
+      ]
+    }
+  ]
+}

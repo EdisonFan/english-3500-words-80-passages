@@ -1,0 +1,57 @@
+{
+  "word": "amateur",
+  "found": true,
+  "phonetic_uk": "ˈæmətə(r)",
+  "phonetic_us": "ˈæmətər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=amateur&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=amateur&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "业余爱好者；生手，外行"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "非专业的，业余爱好的；不熟练的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "amateurs"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She was a keen amateur photographer.",
+      "zh": "她是一个痴迷的业余摄影师。"
+    },
+    {
+      "en": "Brian considered Sam a lightweight, a real amateur.",
+      "zh": "布赖恩认为萨姆是个无足轻重的人，是个真正的业余选手。"
+    },
+    {
+      "en": "She also played the viola in some amateur orchestras.",
+      "zh": "她也曾在一些业余管弦乐队拉过中提琴。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "爱好者；业余爱好者；外行",
+      "words": [
+        "lover",
+        "fan"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "业余的；外行的",
+      "words": [
+        "strange",
+        "leisure",
+        "lay"
+      ]
+    }
+  ]
+}

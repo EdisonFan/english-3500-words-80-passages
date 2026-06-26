@@ -1,0 +1,39 @@
+{
+  "word": "colleagues",
+  "found": true,
+  "phonetic_uk": "ˈkɒliːɡz",
+  "phonetic_us": "ˈkɑːliːɡz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=colleagues&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=colleagues&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "同事；同行（colleague 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He spoke disparagingly of his colleagues.",
+      "zh": "他言辞之中很是看不起同事。"
+    },
+    {
+      "en": "He gives Italian lessons to his colleagues.",
+      "zh": "他给同事们上意大利语课。"
+    },
+    {
+      "en": "His colleagues see him as a future director.",
+      "zh": "他的同事认为他很可能是未来的负责人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "同事；同行（colleague的复数）",
+      "words": [
+        "coworkers",
+        "peers"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "word": "Monday",
+  "found": true,
+  "phonetic_uk": "ˈmʌndeɪ; ˈmʌndi",
+  "phonetic_us": "ˈmʌndeɪ; ˈmʌndi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=Monday&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=Monday&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "星期一"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "Mondays"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She started work last Monday.",
+      "zh": "她上个星期一开始工作。"
+    },
+    {
+      "en": "It's Monday today, isn't it?",
+      "zh": "今天是星期一，对吧？"
+    },
+    {
+      "en": "I work Monday to Friday.",
+      "zh": "我星期一到星期五上班。"
+    }
+  ],
+  "synonyms": []
+}

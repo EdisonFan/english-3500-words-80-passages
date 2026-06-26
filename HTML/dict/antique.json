@@ -1,0 +1,76 @@
+{
+  "word": "antique",
+  "found": true,
+  "phonetic_uk": "ænˈtiːk",
+  "phonetic_us": "ænˈtiːk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=antique&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=antique&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "古老的，古董的；老式的，过时的；（木器表面罩漆工艺）仿古的，古式的；年久的，破旧的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "古物，古董；古式（尤指古希腊、古罗马的雕刻、建筑等）；西文粗体字体"
+    },
+    {
+      "pos": "v.",
+      "meaning": "以仿古式样制作；觅购古玩"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "antiques"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "antiques"
+    },
+    {
+      "name": "现在分词",
+      "value": "antiquing"
+    },
+    {
+      "name": "过去式",
+      "value": "antiqued"
+    },
+    {
+      "name": "过去分词",
+      "value": "antiqued"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This isn't a genuine antique—you've been done.",
+      "zh": "这不是真正的古董—你上当了。"
+    },
+    {
+      "en": "They were trying to palm the table off as a genuine antique.",
+      "zh": "他们在设法把那张普通桌子当真正的古董推销出去。"
+    },
+    {
+      "en": "Antique Pu'er tea commands the highest prices.",
+      "zh": "古董普洱茶价格最高。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "古老的，年代久远的；过时的，[古]古董的；古风的，古式的",
+      "words": [
+        "ancient",
+        "old"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[古]古董，古玩；古风，古希腊和古罗马艺术风格",
+      "words": [
+        "curiosity",
+        "virtu"
+      ]
+    }
+  ]
+}

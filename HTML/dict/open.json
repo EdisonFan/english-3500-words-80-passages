@@ -1,0 +1,92 @@
+{
+  "word": "open",
+  "found": true,
+  "phonetic_uk": "ˈəʊpən",
+  "phonetic_us": "ˈoʊpən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=open&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=open&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "开放的，营业的；开着的，敞开的；（身体部位）张开的；露天的，无遮盖的；开阔的，未围上的；可通行的，畅通的；伸开的，展开的；坦率的；不保密的，公开的；易受影响的，易受攻击的；人人可以参加的；（对特定群体）开放的 ；可得到的，可使用的；思想开明的；尚未决定的；（文件夹、文档等）正在使用中的；（胜利者）赢得公开赛的；（票子）未注明旅行日期的；<英>（支票）未签注的；（数）（集合）开的；（元音）开的；（乐）开放的 ；（电路）开路的，断路的；（纺织品）松散的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "开，打开；开封，开启；睁开（眼睛），张开（嘴巴）；翻开，展开；开通，开放；开门，营业 ；开业，开幕；（股市）开盘，开市；着手，开始；启动（计算机程序或文件）；开立账户；通往，通向；展现，出现；使某人更乐意考虑某事；断开（电路）；畅谈"
+    },
+    {
+      "pos": "n.",
+      "meaning": "户外，野外；公开，泄露；公开赛（Open）；断开（电路）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "opens"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "opens"
+    },
+    {
+      "name": "现在分词",
+      "value": "opening"
+    },
+    {
+      "name": "过去式",
+      "value": "opened"
+    },
+    {
+      "name": "过去分词",
+      "value": "opened"
+    },
+    {
+      "name": "比较级",
+      "value": "opener或more open"
+    },
+    {
+      "name": "最高级",
+      "value": "openest或most open"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The door squeaked open.",
+      "zh": "门嘎吱一声开了。"
+    },
+    {
+      "en": "The door creaked open.",
+      "zh": "门嘎吱一声开了。"
+    },
+    {
+      "en": "The door crashed open.",
+      "zh": "那门砰的一声给砸开了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[电]公开的；敞开的；空旷的；坦率的；营业着的",
+      "words": [
+        "honest",
+        "transparent"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "开始；展现",
+      "words": [
+        "proceed",
+        "lie"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "公开；打开",
+      "words": [
+        "crack",
+        "disclose"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "word": "truck",
+  "found": true,
+  "phonetic_uk": "trʌk",
+  "phonetic_us": "trʌk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=truck&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=truck&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "卡车，载重汽车；<英>（铁路）运货车皮，敞篷货运火车；（运送东西的）手推车，手拉车；火车转向架；（滑板的）轮转轴；（桅杆或旗杆顶端有孔可穿升降索的）桅冠，旗杆冠；<古>交易，买卖；<美>商品菜园产物（尤指蔬菜）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<美>用卡车装运；<美>驾驶卡车；轻松前进，平稳前进；<古>交换，交易"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Truck）（德）特鲁克（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "trucks"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "trucks"
+    },
+    {
+      "name": "现在分词",
+      "value": "trucking"
+    },
+    {
+      "name": "过去式",
+      "value": "trucked"
+    },
+    {
+      "name": "过去分词",
+      "value": "trucked"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They hitched a ride in a truck.",
+      "zh": "他们搭乘了一辆路过的货车。"
+    },
+    {
+      "en": "I've just loaded my truck up.",
+      "zh": "我刚刚装完我的卡车。"
+    },
+    {
+      "en": "The truck braked to a halt.",
+      "zh": "那辆卡车刹住了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "卡车；交易；手推车",
+      "words": [
+        "trade",
+        "lorry"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "驾驶卡车；以物易物",
+      "words": [
+        "trade"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "交易；以卡车运输",
+      "words": [
+        "exchange"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "word": "awake",
+  "found": true,
+  "phonetic_uk": "əˈweɪk",
+  "phonetic_us": "əˈweɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=awake&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=awake&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "醒着的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）醒来，唤醒；唤起，激发起；意识到（awake to）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "awakes"
+    },
+    {
+      "name": "现在分词",
+      "value": "awaking"
+    },
+    {
+      "name": "过去式",
+      "value": "awoke或awaked"
+    },
+    {
+      "name": "过去分词",
+      "value": "awoken或awaked或awoke"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The noise kept him awake.",
+      "zh": "噪音使他一直醒着。"
+    },
+    {
+      "en": "Suddenly he found himself awake and fully alert.",
+      "zh": "突然他发觉自己醒了过来，而且高度警觉。"
+    },
+    {
+      "en": "I can't stay awake any longer.",
+      "zh": "我瞌睡得再也熬不住了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "觉醒，意识到；醒来；被唤起",
+      "words": [
+        "be aware that",
+        "be on to"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "唤醒；使觉醒；激起，唤起",
+      "words": [
+        "arouse",
+        "wake sb. up"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "醒着的",
+      "words": [
+        "waking",
+        "wakeful"
+      ]
+    }
+  ]
+}

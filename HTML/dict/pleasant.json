@@ -1,0 +1,46 @@
+{
+  "word": "pleasant",
+  "found": true,
+  "phonetic_uk": "ˈplez(ə)nt",
+  "phonetic_us": "ˈplez(ə)nt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pleasant&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pleasant&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "令人愉快的，惬意的；礼貌而友善的，和蔼可亲的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Pleasant）（英）普莱曾特（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Paul was a shy, pleasant, solitary man.",
+      "zh": "保罗是个腼腆的、讨人喜欢的、惯于独处的人。"
+    },
+    {
+      "en": "Floating can be a very pleasant sensation.",
+      "zh": "漂浮会给人一种非常愉快的感觉。"
+    },
+    {
+      "en": "The woman had a pleasant face.",
+      "zh": "那个女人长着一张和善的脸。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "令人愉快的，舒适的；讨人喜欢的，和蔼可亲的",
+      "words": [
+        "lovely",
+        "favorable",
+        "comfortable",
+        "grateful",
+        "easy"
+      ]
+    }
+  ]
+}

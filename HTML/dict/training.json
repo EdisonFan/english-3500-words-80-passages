@@ -1,0 +1,53 @@
+{
+  "word": "training",
+  "found": true,
+  "phonetic_uk": "ˈtreɪnɪŋ",
+  "phonetic_us": "ˈtreɪnɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=training&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=training&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "训练，培训；体育训练，锻炼"
+    },
+    {
+      "pos": "v.",
+      "meaning": "锻炼，培养（某一素质或能力）；培训，训练；（为准备体育赛事而）操练（train的现在分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He was weight training like mad.",
+      "zh": "他在疯了似地进行举重训练。"
+    },
+    {
+      "en": "These teachers need special training.",
+      "zh": "这些教师需要专门的培训。"
+    },
+    {
+      "en": "The training was of no lasting value.",
+      "zh": "这种训练不会有长久的效果。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "训练；培养；瞄准；整枝",
+      "words": [
+        "cultivation",
+        "education",
+        "discipline",
+        "aiming",
+        "drill"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "训练；教养（train的ing形式）",
+      "words": [
+        "drilling"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "word": "progression",
+  "found": true,
+  "phonetic_uk": "prəˈɡreʃ(ə)n",
+  "phonetic_us": "prəˈɡreʃn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=progression&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=progression&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "发展，前进；一系列；（从一音或和弦进至另一音或和弦的）进行；占卜术"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "progressions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The progression of the disease can be retarded by early surgery.",
+      "zh": "早期手术可以抑制病情的发展。"
+    },
+    {
+      "en": "Both drugs slow the progression of HIV, but neither cures the disease.",
+      "zh": "两种药都能减缓艾滋病病毒的发展，但都不能治愈艾滋病。"
+    },
+    {
+      "en": "Fossil formations like the Burgess Shale show that evolution cannot always be thought of as a slow progression.",
+      "zh": "像波基斯页岩这样的化石层表明进化不应该总被看作是一个缓慢的过程。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "前进；连续",
+      "words": [
+        "series",
+        "advancement",
+        "succession",
+        "ongoing"
+      ]
+    }
+  ]
+}

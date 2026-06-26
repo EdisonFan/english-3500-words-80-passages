@@ -1,0 +1,46 @@
+{
+  "word": "getter",
+  "found": true,
+  "phonetic_uk": "ˈɡetə(r)",
+  "phonetic_us": "ˈɡetər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=getter&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=getter&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "吸气剂；获得者；毒饵"
+    },
+    {
+      "pos": "vt.",
+      "meaning": "消气；用吸气剂去除"
+    },
+    {
+      "pos": "vi.",
+      "meaning": "使用杂质吸收剂"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Not throw an Exceptions (getter).",
+      "zh": "不要抛出异常(getter)。"
+    },
+    {
+      "en": "Add a getter and setter for the id attribute.",
+      "zh": "为id属性添加一个获得者以及设置者。"
+    },
+    {
+      "en": "The Go-Getter: Sergio Santos, 40, architect.",
+      "zh": "再就业达人：塞尔吉奥·桑托斯，40岁，建筑师。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[真空][助剂][电子]吸气剂；获得者；毒饵",
+      "words": [
+        "gainer"
+      ]
+    }
+  ]
+}

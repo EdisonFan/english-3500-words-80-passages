@@ -1,0 +1,44 @@
+{
+  "word": "operator",
+  "found": true,
+  "phonetic_uk": "ˈɒpəreɪtə(r)",
+  "phonetic_us": "ˈɑːpəreɪtər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=operator&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=operator&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（设备、机器的）操作员；经营者；精明圆滑的人，善于取巧的人；电话员，接线员；运算符号"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "operators"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The operator will put you through.",
+      "zh": "接线员将为你接通电话。"
+    },
+    {
+      "en": "He dialled the operator and put in a call to Rome.",
+      "zh": "他拨通了接线员，往罗马打了一个电话。"
+    },
+    {
+      "en": "He is a very shrewd operator with an incisive mind.",
+      "zh": "他是一位非常精明的经营者，有着敏锐的头脑。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[经管]经营者；[计]操作员；[通信]话务员；行家",
+      "words": [
+        "expert",
+        "proprietor"
+      ]
+    }
+  ]
+}

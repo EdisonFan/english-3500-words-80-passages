@@ -1,0 +1,74 @@
+{
+  "word": "doubt",
+  "found": true,
+  "phonetic_uk": "daʊt",
+  "phonetic_us": "daʊt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=doubt&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=doubt&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "怀疑，不确定；不信任"
+    },
+    {
+      "pos": "n.",
+      "meaning": "怀疑，不确定"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "doubts"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "doubts"
+    },
+    {
+      "name": "现在分词",
+      "value": "doubting"
+    },
+    {
+      "name": "过去式",
+      "value": "doubted"
+    },
+    {
+      "name": "过去分词",
+      "value": "doubted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "There was little doubt in my mind.",
+      "zh": "我心里几乎没有疑问。"
+    },
+    {
+      "en": "There is good reason to doubt this.",
+      "zh": "有正当理由怀疑这件事。"
+    },
+    {
+      "en": "I doubt the feasibility of the plan.",
+      "zh": "我怀疑这个计划的可行性。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[法]怀疑；疑问；疑惑",
+      "words": [
+        "challenge",
+        "question",
+        "query",
+        "suspicion"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "[法]怀疑；不信；恐怕；拿不准",
+      "words": [
+        "suspect of",
+        "be suspicious of"
+      ]
+    }
+  ]
+}

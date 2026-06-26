@@ -1,0 +1,51 @@
+{
+  "word": "life",
+  "found": true,
+  "phonetic_uk": "laɪf",
+  "phonetic_us": "laɪf",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=life&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=life&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "生命；人命，性命；生物，活物；寿命，一生；（某事物的）存在期；生活，人生；生活方式；（某种）生活；生气，活力；（绘画的）模特儿，实物；（游戏中的）一次机会，命；传记；无期徒刑，终身监禁；今生，来世"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "生命的；一生的，终身的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "lives"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Which planets can sustain life?",
+      "zh": "哪些行星可以维持生命的存在？"
+    },
+    {
+      "en": "The operation saved her life.",
+      "zh": "手术挽救了她的生命。"
+    },
+    {
+      "en": "She enjoyed political life.",
+      "zh": "她喜爱政治生活。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "生活，生存；寿命",
+      "words": [
+        "existence",
+        "living",
+        "age",
+        "livelihood",
+        "subsistence"
+      ]
+    }
+  ]
+}

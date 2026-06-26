@@ -1,0 +1,39 @@
+{
+  "word": "invited",
+  "found": true,
+  "phonetic_uk": "ɪnˈvaɪtɪd",
+  "phonetic_us": "ɪnˈvaɪtɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=invited&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=invited&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "邀请，约请；征求，请求；引起，招致（invite 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I was thrilled to be invited.",
+      "zh": "我获得邀请，感到非常兴奋。"
+    },
+    {
+      "en": "Should I have invited Mary?",
+      "zh": "我本该邀请玛丽吗？"
+    },
+    {
+      "en": "We have invited fifty people altogether.",
+      "zh": "我们共邀请了五十人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "邀请；引起，招致（invite的过去分词）",
+      "words": [
+        "caused",
+        "prompted"
+      ]
+    }
+  ]
+}

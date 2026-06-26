@@ -1,0 +1,52 @@
+{
+  "word": "around",
+  "found": true,
+  "phonetic_uk": "əˈraʊnd",
+  "phonetic_us": "əˈraʊnd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=around&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=around&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "围绕，环绕；大约；周围，四周；以圆周计算；到处，向各处；转弯，掉头；闲散地，无目的地；循环往复地；出现，可用；活跃"
+    },
+    {
+      "pos": "prep.",
+      "meaning": "围绕，环绕；到处，向各处；在那边，到那边；在……周围，在附近；大约，大概；以……为中心；避开，绕过"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They hitchhiked around Europe.",
+      "zh": "他们一路搭便车周游欧洲。"
+    },
+    {
+      "en": "People stood around in huddles.",
+      "zh": "人们三五成群地到处聚集着。"
+    },
+    {
+      "en": "He reversed around the corner.",
+      "zh": "他倒车转过拐角。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "大约；到处；在附近",
+      "words": [
+        "approximately",
+        "everywhere",
+        "throughout",
+        "something"
+      ]
+    },
+    {
+      "pos": "prep.",
+      "meaning": "四处；在…周围",
+      "words": [
+        "round"
+      ]
+    }
+  ]
+}

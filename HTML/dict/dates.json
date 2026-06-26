@@ -1,0 +1,42 @@
+{
+  "word": "dates",
+  "found": true,
+  "phonetic_uk": "deɪts",
+  "phonetic_us": "deɪts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dates&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dates&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "日期；约会；枣子（date 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "定日期；约会（date 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "There has been a mix-up over the dates.",
+      "zh": "日期完全搅乱了。"
+    },
+    {
+      "en": "The custom dates back hundreds of years.",
+      "zh": "这一习俗可以追溯到几百年前。"
+    },
+    {
+      "en": "I muddled the dates and arrived a week early.",
+      "zh": "我搞错了日期，早到了一个星期。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "日期；约会（date的复数形式）；枣子，大枣",
+      "words": [
+        "jujubes"
+      ]
+    }
+  ]
+}

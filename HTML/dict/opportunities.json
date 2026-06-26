@@ -1,0 +1,41 @@
+{
+  "word": "opportunities",
+  "found": true,
+  "phonetic_uk": "ˌɒpəˈtjuːnətiz",
+  "phonetic_us": "ˌɑːpərˈtuːnətiz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=opportunities&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=opportunities&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "因素；机会；机遇（opportunity 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Opportunities such as this did not come every day.",
+      "zh": "这样的机会不是天天都有的。"
+    },
+    {
+      "en": "Research opportunities exist in a wide range of areas.",
+      "zh": "研究机会存在于广泛的领域中。"
+    },
+    {
+      "en": "Film is a business with limited opportunities for actresses.",
+      "zh": "电影业对女演员来说机会有限。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "机会；机遇（opportunity的复数形式）；因素",
+      "words": [
+        "chances",
+        "factors",
+        "limitations",
+        "occasions"
+      ]
+    }
+  ]
+}

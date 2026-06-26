@@ -1,0 +1,57 @@
+{
+  "word": "discuss",
+  "found": true,
+  "phonetic_uk": "dɪˈskʌs",
+  "phonetic_us": "dɪˈskʌs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=discuss&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=discuss&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "讨论，辩论；详述，论述"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "discusses"
+    },
+    {
+      "name": "现在分词",
+      "value": "discussing"
+    },
+    {
+      "name": "过去式",
+      "value": "discussed"
+    },
+    {
+      "name": "过去分词",
+      "value": "discussed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They had important matters to discuss.",
+      "zh": "他们有些重要的问题要讨论。"
+    },
+    {
+      "en": "It's hardly the time to discuss it now.",
+      "zh": "现在还不是讨论的时候。"
+    },
+    {
+      "en": "We will discuss these three areas in depth.",
+      "zh": "我们将全面透彻地讨论这3个领域。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "讨论；论述，辩论",
+      "words": [
+        "debate",
+        "reason",
+        "argue"
+      ]
+    }
+  ]
+}

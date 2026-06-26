@@ -1,0 +1,75 @@
+{
+  "word": "defeat",
+  "found": true,
+  "phonetic_uk": "dɪˈfiːt",
+  "phonetic_us": "dɪˈfiːt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=defeat&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=defeat&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "击败，战胜；困惑，难住；使失败，阻挠；反对（动议或提议）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "失败，战败；战胜，击败"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "defeats"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "defeats"
+    },
+    {
+      "name": "现在分词",
+      "value": "defeating"
+    },
+    {
+      "name": "过去式",
+      "value": "defeated"
+    },
+    {
+      "name": "过去分词",
+      "value": "defeated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They narrowly avoided defeat.",
+      "zh": "他们险些儿被打败。"
+    },
+    {
+      "en": "He bamboozled Mercer into defeat.",
+      "zh": "他蒙骗默瑟并击败了他。"
+    },
+    {
+      "en": "They suffered a defeat at the polls.",
+      "zh": "他们在投票选举中惨遭失败。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "击败，战胜；挫败；使…失败",
+      "words": [
+        "down",
+        "get the best of"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "失败；战胜",
+      "words": [
+        "failure",
+        "loss",
+        "losing",
+        "reverse",
+        "collapse"
+      ]
+    }
+  ]
+}

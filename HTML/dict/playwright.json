@@ -1,0 +1,43 @@
+{
+  "word": "playwright",
+  "found": true,
+  "phonetic_uk": "ˈpleɪraɪt",
+  "phonetic_us": "ˈpleɪraɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=playwright&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=playwright&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "剧作家"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "playwrights"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His career as a playwright had an auspicious start.",
+      "zh": "他的剧作家生涯有一个好的开头。"
+    },
+    {
+      "en": "Worst of all, for a playwright specializing in characters who use the vernacular, he has a tin ear for dialogue.",
+      "zh": "最糟的是，作为一个专门刻画使用方言人物的剧作家，他在对话方面没有鉴赏力。"
+    },
+    {
+      "en": "A medieval manuscript called L contains all eighteen extant tragedies by the Greek playwright Euripides.",
+      "zh": "一份名为 L 的中世纪手稿包含了希腊剧作家欧里庇得斯所有现存的十八部悲剧。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "剧作家",
+      "words": [
+        "dramatist"
+      ]
+    }
+  ]
+}

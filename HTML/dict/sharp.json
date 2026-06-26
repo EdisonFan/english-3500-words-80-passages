@@ -1,0 +1,103 @@
+{
+  "word": "sharp",
+  "found": true,
+  "phonetic_uk": "ʃɑːp",
+  "phonetic_us": "ʃɑːrp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sharp&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sharp&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "锋利的，尖的；急转弯的；（变化）急剧的；清晰的，鲜明的；剧烈的，强烈的；（语言）尖锐的；刺耳的；聪明的，敏锐的；（味道）浓烈的，辛辣的；时髦的；（风或霜）刺骨的；狡诈的；（音）偏高（的），升半音（的）；瘦削的，不丰满的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "正点，准时；突然地，急剧地；音调偏高地"
+    },
+    {
+      "pos": "n.",
+      "meaning": "升半音，升半音号；锐利的东西；<非正式>骗子"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<美>升音演奏"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Sharp）（英）夏普（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "sharps"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "sharps"
+    },
+    {
+      "name": "现在分词",
+      "value": "sharping"
+    },
+    {
+      "name": "过去式",
+      "value": "sharped"
+    },
+    {
+      "name": "过去分词",
+      "value": "sharped"
+    },
+    {
+      "name": "比较级",
+      "value": "sharper或more sharp"
+    },
+    {
+      "name": "最高级",
+      "value": "sharpest或most sharp"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His nose was thin and sharp.",
+      "zh": "他的鼻子又细又尖。"
+    },
+    {
+      "en": "He has a sharp tongue.",
+      "zh": "他说话尖酸刻薄。"
+    },
+    {
+      "en": "His sharp retort clearly made an impact.",
+      "zh": "他的尖锐反驳显然起了作用。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "急剧的；锋利的；强烈的；敏捷的；刺耳的",
+      "words": [
+        "intense",
+        "grinding",
+        "burning",
+        "cutting",
+        "quick"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "急剧地；锐利地；突然地",
+      "words": [
+        "suddenly",
+        "abruptly"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "尖头；骗子；内行",
+      "words": [
+        "fraud",
+        "cusp"
+      ]
+    }
+  ]
+}

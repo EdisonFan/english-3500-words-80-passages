@@ -1,0 +1,74 @@
+{
+  "word": "band",
+  "found": true,
+  "phonetic_uk": "bænd",
+  "phonetic_us": "bænd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=band&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=band&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "乐队；一伙，一群；范围，段；带，箍；带状物，条纹；波段，频带；戒指"
+    },
+    {
+      "pos": "v.",
+      "meaning": "给……分级，把……分段；用带绑扎；加彩条"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "bands"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "bands"
+    },
+    {
+      "name": "现在分词",
+      "value": "banding"
+    },
+    {
+      "name": "过去式",
+      "value": "banded"
+    },
+    {
+      "name": "过去分词",
+      "value": "banded"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The singer re-formed his band.",
+      "zh": "这名歌手对他的乐队进行了重组。"
+    },
+    {
+      "en": "There was a naff band playing.",
+      "zh": "有一支蹩脚的乐队在演奏。"
+    },
+    {
+      "en": "The band is remixing some tracks.",
+      "zh": "这个乐队正在重新合成一些曲目。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "带；乐队；松紧带；一帮；传送带",
+      "words": [
+        "strip",
+        "crowd"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "联合；聚焦",
+      "words": [
+        "combine",
+        "connect",
+        "focus",
+        "hand in hand"
+      ]
+    }
+  ]
+}

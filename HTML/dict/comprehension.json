@@ -1,0 +1,47 @@
+{
+  "word": "comprehension",
+  "found": true,
+  "phonetic_uk": "ˌkɒmprɪˈhenʃ(ə)n",
+  "phonetic_us": "ˌkɑːmprɪˈhenʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=comprehension&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=comprehension&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "理解力，领悟力；（听力或阅读）理解测试；包括，包含"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "comprehensions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This was utterly beyond her comprehension.",
+      "zh": "这完全超出了她的理解力。"
+    },
+    {
+      "en": "Is this test a good measure of reading comprehension?",
+      "zh": "这种测试是判断阅读理解力的好方法吗？"
+    },
+    {
+      "en": "Your reading speed and comprehension are tested during this exercise.",
+      "zh": "你的阅读速度和理解能力将在这个练习中得到测试。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "理解；包含",
+      "words": [
+        "containing",
+        "grasp",
+        "understanding",
+        "involved in",
+        "involvement"
+      ]
+    }
+  ]
+}

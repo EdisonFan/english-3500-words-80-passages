@@ -1,0 +1,48 @@
+{
+  "word": "walker",
+  "found": true,
+  "phonetic_uk": "ˈwɔːkə(r)",
+  "phonetic_us": "ˈwɔːkər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=walker&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=walker&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "步行者；散步者；参加竞走者"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Walker）人名；（德、西、芬、瑞典）瓦尔克；（英）沃克"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "walkers"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They traded as 'Walker and Son'.",
+      "zh": "他们以“沃克父子公司”之名营业。"
+    },
+    {
+      "en": "He and Walker patched the barn roof.",
+      "zh": "他和沃克修补了那个谷仓的顶。"
+    },
+    {
+      "en": "Walker has published four books of her verse.",
+      "zh": "沃克已经出版了4本诗集。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "步行者；散步者；参加竞走者",
+      "words": [
+        "stroller",
+        "pedestrian"
+      ]
+    }
+  ]
+}

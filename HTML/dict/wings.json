@@ -1,0 +1,42 @@
+{
+  "word": "wings",
+  "found": true,
+  "phonetic_uk": "wɪŋz",
+  "phonetic_us": "wɪŋz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=wings&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=wings&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[昆]翅膀（wing 的复数形式）；飞行章；女童军戴的一种翼形章"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Wings）人名；（德）温斯"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The wings are tipped with yellow.",
+      "zh": "翅膀的尖端呈黄色。"
+    },
+    {
+      "en": "The plane dipped its wings.",
+      "zh": "机翼向下倾斜。"
+    },
+    {
+      "en": "The bird folded its wings.",
+      "zh": "那只鸟收起了翅膀。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "翅膀（wing的复数形式）；飞行章；女童军戴的一种翼形章",
+      "words": [
+        "feathers"
+      ]
+    }
+  ]
+}

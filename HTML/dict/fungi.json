@@ -1,0 +1,42 @@
+{
+  "word": "fungi",
+  "found": true,
+  "phonetic_uk": "ˈfʌŋɡiː",
+  "phonetic_us": "ˈfʌŋɡiː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fungi&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fungi&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "真菌；菌类；蘑菇（fungus 的复数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Fungi）人名；（意）丰吉"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Many fungi can reproduce asexually.",
+      "zh": "很多真菌可以无性繁殖。"
+    },
+    {
+      "en": "Ferns, mosses and fungi spread by means of spores.",
+      "zh": "蕨类植物、苔藓和真菌通过孢子传播蔓生。"
+    },
+    {
+      "en": "In the forest, fungi are decomposers.",
+      "zh": "在森林里，真菌是分解者。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "真菌；菌类；蘑菇（fungus的复数）",
+      "words": [
+        "mushrooms"
+      ]
+    }
+  ]
+}

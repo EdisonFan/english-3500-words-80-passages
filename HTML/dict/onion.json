@@ -1,0 +1,35 @@
+{
+  "word": "onion",
+  "found": true,
+  "phonetic_uk": "ˈʌnjən",
+  "phonetic_us": "ˈʌnjən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=onion&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=onion&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "洋葱，洋葱头"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "onions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I sliced up an onion.",
+      "zh": "我把洋葱切成了片。"
+    },
+    {
+      "en": "When the oil is hot, add the sliced onion.",
+      "zh": "油热之后，加入切好的洋葱。"
+    },
+    {
+      "en": "You grind the onion and the raw cranberries together.",
+      "zh": "你把洋葱和新鲜越橘一起磨碎。"
+    }
+  ],
+  "synonyms": []
+}

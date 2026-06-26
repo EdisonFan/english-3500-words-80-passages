@@ -1,0 +1,62 @@
+{
+  "word": "recording",
+  "found": true,
+  "phonetic_uk": "rɪˈkɔːdɪŋ",
+  "phonetic_us": "rɪˈkɔːrdɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=recording&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=recording&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "录音，录像；录制；（正式的）记录，记载"
+    },
+    {
+      "pos": "v.",
+      "meaning": "记录，记载；录制；（仪器）显示，标示；（尤指体育上）获得（好成绩）（record 的现在分词）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "recordings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The recording quality is excellent.",
+      "zh": "录制质量极好。"
+    },
+    {
+      "en": "Parts of the recording have been erased.",
+      "zh": "部分录音已被抹掉。"
+    },
+    {
+      "en": "I started working in a recording studio.",
+      "zh": "我开始在一个录音棚里工作。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "录音；唱片",
+      "words": [
+        "disk",
+        "disc"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "记录的；记录用的",
+      "words": [
+        "documentary"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "录音；记录；录像（record的ing形式）",
+      "words": [
+        "noting"
+      ]
+    }
+  ]
+}

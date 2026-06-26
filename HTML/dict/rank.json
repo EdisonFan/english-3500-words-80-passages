@@ -1,0 +1,100 @@
+{
+  "word": "rank",
+  "found": true,
+  "phonetic_uk": "ræŋk",
+  "phonetic_us": "ræŋk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=rank&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=rank&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "军衔，军阶；（社会、团体中的）地位，等级；（尤指较高的）地位；（警察、士兵等的）队列，行列；排，列；横排，棋盘横格；组织（或机构等）中的全体人员（ranks）；普通士兵（the ranks）；<英>出租车候车站（=taxi rank）；（数）秩；（统计）次序排列；（系统语法用语）（一个或一组语言单位的）阶，级"
+    },
+    {
+      "pos": "v.",
+      "meaning": "把……分等级，属于某等级；<美>级别高于，地位高于；排列，使排成行"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "（植被）茂密的，芜生蔓长的；难闻的，恶臭的；（强调质量、状况等）极端的，糟糕的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Rank）（英、德、芬、捷）兰克（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "ranks"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "ranks"
+    },
+    {
+      "name": "现在分词",
+      "value": "ranking"
+    },
+    {
+      "name": "过去式",
+      "value": "ranked"
+    },
+    {
+      "name": "过去分词",
+      "value": "ranked"
+    },
+    {
+      "name": "比较级",
+      "value": "ranker或more rank"
+    },
+    {
+      "name": "最高级",
+      "value": "rankest或most rank"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He was soon promoted to the rank of captain.",
+      "zh": "他很快被提升至上尉军阶。"
+    },
+    {
+      "en": "He rose to the rank of general.",
+      "zh": "他升至将级军官。"
+    },
+    {
+      "en": "Luckily there was a taxi rank nearby.",
+      "zh": "幸好附近有个出租车候客处。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "排；等级；[军]军衔；队列",
+      "words": [
+        "degree",
+        "classification",
+        "row",
+        "range",
+        "grade"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "讨厌的；恶臭的；繁茂的",
+      "words": [
+        "evil",
+        "unpleasant",
+        "poisonous"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "排列；把…分等",
+      "words": [
+        "arrange",
+        "form"
+      ]
+    }
+  ]
+}

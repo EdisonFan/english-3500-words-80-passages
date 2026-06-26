@@ -1,0 +1,55 @@
+{
+  "word": "civilian",
+  "found": true,
+  "phonetic_uk": "səˈvɪliən",
+  "phonetic_us": "səˈvɪliən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=civilian&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=civilian&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "平民，百姓（区别于军、警）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "平民的，民用的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "civilians"
+    }
+  ],
+  "examples": [
+    {
+      "en": "A civilian was killed by a stray bullet.",
+      "zh": "一个平民被流弹打死。"
+    },
+    {
+      "en": "They bombed military and civilian targets.",
+      "zh": "他们轰炸了军事和民用目标。"
+    },
+    {
+      "en": "His supporters want a clean-up of civilian corruption.",
+      "zh": "他的支持者们想要一场对民间腐败的大整顿。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "民用的；百姓的，平民的",
+      "words": [
+        "many-headed"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "平民，百姓",
+      "words": [
+        "populace",
+        "common man"
+      ]
+    }
+  ]
+}

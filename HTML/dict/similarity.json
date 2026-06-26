@@ -1,0 +1,44 @@
+{
+  "word": "similarity",
+  "found": true,
+  "phonetic_uk": "ˌsɪməˈlærəti",
+  "phonetic_us": "ˌsɪməˈlærəti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=similarity&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=similarity&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "相似性；相似点，类似的地方"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "similarities"
+    }
+  ],
+  "examples": [
+    {
+      "en": "There was a very basic similarity in our philosophy.",
+      "zh": "我们的人生哲学在根本上很相似。"
+    },
+    {
+      "en": "The report highlights the similarity between the two groups.",
+      "zh": "这份报告强调两组之间的相似性。"
+    },
+    {
+      "en": "Heather is also 25 and from Boston, but the similarity ends there.",
+      "zh": "希瑟也是25岁，也是波士顿人，但是他们的相似之处仅限于此。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "类似；[数]相似点",
+      "words": [
+        "analogy",
+        "kinsmanship"
+      ]
+    }
+  ]
+}

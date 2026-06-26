@@ -1,0 +1,87 @@
+{
+  "word": "ape",
+  "found": true,
+  "phonetic_uk": "eɪp",
+  "phonetic_us": "eɪp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ape&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ape&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "猿，类人猿；粗野的人，蠢人"
+    },
+    {
+      "pos": "v.",
+      "meaning": "模仿"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Ape）（意）阿佩（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "apes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "apes"
+    },
+    {
+      "name": "现在分词",
+      "value": "aping"
+    },
+    {
+      "name": "过去式",
+      "value": "aped"
+    },
+    {
+      "name": "过去分词",
+      "value": "aped"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Ape conservation tackles both of these issues head on.",
+      "zh": "类人猿保护直接解决这两个问题。"
+    },
+    {
+      "en": "When humans first emerged as a species, they shared the planet with many types of ape.",
+      "zh": "当人类首次作为一个物种出现时，他们依旧跟多种类人猿共存。"
+    },
+    {
+      "en": "Kivell and Schmitt think this suggests the independent evolution of knuckle-walking behavior in the two African ape lineages.",
+      "zh": "凯威尔和施密特认为这表明了在两个非洲类人猿谱系中关节行走行为的独立进化。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[脊椎]猿；傻瓜；模仿者",
+      "words": [
+        "stupid",
+        "fool"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "模仿；抢台词",
+      "words": [
+        "simulate",
+        "pattern",
+        "imitate"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "狂热的",
+      "words": [
+        "crazy",
+        "wild",
+        "enthusiastic",
+        "fanatical"
+      ]
+    }
+  ]
+}

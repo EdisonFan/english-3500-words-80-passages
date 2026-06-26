@@ -1,0 +1,44 @@
+{
+  "word": "distribution",
+  "found": true,
+  "phonetic_uk": "ˌdɪstrɪˈbjuːʃn",
+  "phonetic_us": "ˌdɪstrɪˈbjuːʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=distribution&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=distribution&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "分发；分销，配送；（电影在各院线的）发行，上映；分配，分布"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "distributions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They studied the geographical distribution of the disease.",
+      "zh": "他们研究了这种疾病的地域分布情况。"
+    },
+    {
+      "en": "The map shows the distribution of this species across the world.",
+      "zh": "地图上标明了这一物种在全世界的分布情况。"
+    },
+    {
+      "en": "He tried to even out the distribution of work among his employees.",
+      "zh": "他尽量把工作平均分配给雇员。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[统计]分布；分配",
+      "words": [
+        "allocation",
+        "assignment"
+      ]
+    }
+  ]
+}

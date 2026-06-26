@@ -1,0 +1,35 @@
+{
+  "word": "comedy",
+  "found": true,
+  "phonetic_uk": "ˈkɒmədi",
+  "phonetic_us": "ˈkɑːmədi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=comedy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=comedy&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "喜剧，喜剧片；滑稽的事物，搞笑的东西；滑稽，诙谐"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "comedies"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The movie is a romantic comedy.",
+      "zh": "这部电影是一个浪漫喜剧。"
+    },
+    {
+      "en": "The play is a black comedy.",
+      "zh": "那是个黑色喜剧。"
+    },
+    {
+      "en": "I don't look down my nose at comedy.",
+      "zh": "我不轻视喜剧。"
+    }
+  ],
+  "synonyms": []
+}

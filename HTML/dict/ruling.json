@@ -1,0 +1,64 @@
+{
+  "word": "ruling",
+  "found": true,
+  "phonetic_uk": "ˈruːlɪŋ",
+  "phonetic_us": "ˈruːlɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ruling&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ruling&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（尤指法庭的）裁决，裁定；统治，支配"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "统治的，支配的；（热情或感情）占支配地位的，最强烈的 ；流行的，普遍的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "统治，支配；控制，操纵；裁定，判决（rule 的现在分词形式）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "rulings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The ruling should be applied retroactively.",
+      "zh": "这一裁决应该具有追溯效力。"
+    },
+    {
+      "en": "The company is appealing against the ruling.",
+      "zh": "公司正对判决提出申诉。"
+    },
+    {
+      "en": "Goodwin tried to have the court ruling overturned.",
+      "zh": "古德温试图推翻法院的裁决。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "统治的；主要的；支配的；流行的，普遍的",
+      "words": [
+        "popular",
+        "widespread",
+        "primary",
+        "major",
+        "central"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "统治，支配；裁定",
+      "words": [
+        "governance",
+        "disposal",
+        "dominance"
+      ]
+    }
+  ]
+}

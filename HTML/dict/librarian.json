@@ -1,0 +1,43 @@
+{
+  "word": "librarian",
+  "found": true,
+  "phonetic_uk": "laɪˈbreəriən",
+  "phonetic_us": "laɪˈbreriən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=librarian&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=librarian&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "图书馆馆长，图书馆管理员"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "librarians"
+    }
+  ],
+  "examples": [
+    {
+      "en": "My dream is to be a librarian.",
+      "zh": "我的梦想是成为一名图书管理员。"
+    },
+    {
+      "en": "A librarian works in a library.",
+      "zh": "图书馆管理员在图书馆里工作。"
+    },
+    {
+      "en": "What do you do as a librarian?",
+      "zh": "作为图书管理员，你做些什么？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "图书馆员；图书管理员",
+      "words": [
+        "library technician"
+      ]
+    }
+  ]
+}

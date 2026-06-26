@@ -1,0 +1,39 @@
+{
+  "word": "unclear",
+  "found": true,
+  "phonetic_uk": "ˌʌnˈklɪə(r)",
+  "phonetic_us": "ˌʌnˈklɪr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=unclear&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=unclear&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "不清楚的；不易了解的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Your diagrams are unclear.",
+      "zh": "你的图表不清楚。"
+    },
+    {
+      "en": "His motives are unclear.",
+      "zh": "他的用意不明。"
+    },
+    {
+      "en": "He is still unclear about his own future.",
+      "zh": "他对自己的未来仍不清楚。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "不清楚的；不易了解的",
+      "words": [
+        "ill-defined",
+        "indistinct"
+      ]
+    }
+  ]
+}

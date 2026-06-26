@@ -1,0 +1,30 @@
+{
+  "word": "saturday",
+  "found": true,
+  "phonetic_uk": "ˈsætədeɪ",
+  "phonetic_us": "ˈsætərdeɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=saturday&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=saturday&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "星期六"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Let's go out on Saturday night.",
+      "zh": "我们星期六晚上出去吧。"
+    },
+    {
+      "en": "We're going sailing on Saturday.",
+      "zh": "我们打算星期六乘帆船出游。"
+    },
+    {
+      "en": "I used to go there every Saturday.",
+      "zh": "我以前每星期六都去那儿。"
+    }
+  ],
+  "synonyms": []
+}

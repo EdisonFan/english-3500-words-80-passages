@@ -1,0 +1,42 @@
+{
+  "word": "practiced",
+  "found": true,
+  "phonetic_uk": "ˈpræktɪst",
+  "phonetic_us": "ˈpræktɪst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=practiced&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=practiced&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "熟练的；有经验的；老练的（等于 practised）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They practiced the dance until it was perfect.",
+      "zh": "他们反复练舞，直到尽善尽美为止。"
+    },
+    {
+      "en": "He practiced skating all year round.",
+      "zh": "他一年四季练习滑冰。"
+    },
+    {
+      "en": "She practiced playing the flute this afternoon.",
+      "zh": "今天下午，她练习了吹奏长笛。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "熟练的；有经验的；老练的（等于practised）",
+      "words": [
+        "experienced",
+        "skilled",
+        "accomplished",
+        "clever",
+        "diplomatic"
+      ]
+    }
+  ]
+}

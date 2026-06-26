@@ -1,0 +1,43 @@
+{
+  "word": "strictly",
+  "found": true,
+  "phonetic_uk": "ˈstrɪktli",
+  "phonetic_us": "ˈstrɪktli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=strictly&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=strictly&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "严格地，严厉地；完全地，确切地；绝对地，没有例外地；只，仅限于"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "This is not strictly true.",
+      "zh": "这不完全正确。"
+    },
+    {
+      "en": "The industry is strictly regulated.",
+      "zh": "这个行业有严格的管理。"
+    },
+    {
+      "en": "Actually, that is not strictly true.",
+      "zh": "实际上，那并不完全是真的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "严格地；完全地；确实地",
+      "words": [
+        "totally",
+        "entirely",
+        "completely",
+        "absolutely",
+        "thoroughly",
+        "fully"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "word": "integrate",
+  "found": true,
+  "phonetic_uk": "ˈɪntɪɡreɪt",
+  "phonetic_us": "ˈɪntɪɡreɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=integrate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=integrate&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（使）合并，成为一体；（使）加入，融入群体；（使）取消种族隔离；求……的积分；表示（面积、温度等）的总和，表示……的平均值"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "整合的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "integrates"
+    },
+    {
+      "name": "现在分词",
+      "value": "integrating"
+    },
+    {
+      "name": "过去式",
+      "value": "integrated"
+    },
+    {
+      "name": "过去分词",
+      "value": "integrated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He didn't integrate successfully into the Italian way of life.",
+      "zh": "他没有成功融入到意大利的生活方式中去。"
+    },
+    {
+      "en": "They have not made any effort to integrate with the local community.",
+      "zh": "他们完全没有尝试融入本地社区。"
+    },
+    {
+      "en": "The strategy is to integrate the development of these cities for a better economic structure.",
+      "zh": "策略就是整合这些城市的发展，以便形成更好的经济结构。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "求积分；取消隔离；成为一体",
+      "words": [
+        "become one flesh"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "整合的；完全的",
+      "words": [
+        "complete",
+        "absolute",
+        "full",
+        "total",
+        "round"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "一体化；集成体",
+      "words": [
+        "gleichschaltung"
+      ]
+    }
+  ]
+}

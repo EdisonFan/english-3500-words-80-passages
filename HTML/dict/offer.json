@@ -1,0 +1,87 @@
+{
+  "word": "offer",
+  "found": true,
+  "phonetic_uk": "ˈɒfə(r)",
+  "phonetic_us": "ˈɔːfər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=offer&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=offer&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "提供，给予；提议，表示愿意（做某事）；出（价），开（价）；提出，作出；表示（爱、友谊等）；（向上帝或神）奉献（祈祷、赞美），祭献（牺牲）； 试图（使用暴力，进行抵抗）；<古>发动，挑起（战争）；把……摆好（或放到位）（以便检测或评估其外观或状况）；<旧>（机会）出现；求婚"
+    },
+    {
+      "pos": "n.",
+      "meaning": "主动提议，提供； 出价，报价； （商品的）特价，特惠；求婚"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "offers"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "offers"
+    },
+    {
+      "name": "现在分词",
+      "value": "offering"
+    },
+    {
+      "name": "过去式",
+      "value": "offered"
+    },
+    {
+      "name": "过去分词",
+      "value": "offered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The offer has been withdrawn.",
+      "zh": "那个报价已经撤销了。"
+    },
+    {
+      "en": "We offer free technical support.",
+      "zh": "我们免费提供技术支持。"
+    },
+    {
+      "en": "His offer was well meant.",
+      "zh": "他的提议是出于好心。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "提供；出价；试图",
+      "words": [
+        "afford",
+        "undertake",
+        "try",
+        "tender",
+        "lend"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "提议；出价；意图",
+      "words": [
+        "proposal",
+        "intention",
+        "meaning",
+        "will",
+        "bid"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "提议；出现；献祭；求婚",
+      "words": [
+        "occur",
+        "figure",
+        "come out"
+      ]
+    }
+  ]
+}

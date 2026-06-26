@@ -1,0 +1,51 @@
+{
+  "word": "typical",
+  "found": true,
+  "phonetic_uk": "ˈtɪpɪk(ə)l",
+  "phonetic_us": "ˈtɪpɪk(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=typical&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=typical&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "典型的，有代表性的；一贯的，平常的；不出所料，特有的；象征性的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more typical"
+    },
+    {
+      "name": "最高级",
+      "value": "most typical"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This is your typical English pub.",
+      "zh": "这就是典型的英格兰酒吧。"
+    },
+    {
+      "en": "It was typical family entertainment.",
+      "zh": "这是典型的家庭娱乐活动。"
+    },
+    {
+      "en": "This isn't your typical economics class.",
+      "zh": "这不是人们所认为的典型的经济学课。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[数]典型的；特有的；象征性的",
+      "words": [
+        "characteristic",
+        "representative",
+        "proper",
+        "very",
+        "own"
+      ]
+    }
+  ]
+}

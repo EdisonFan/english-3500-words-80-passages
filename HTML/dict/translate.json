@@ -1,0 +1,63 @@
+{
+  "word": "translate",
+  "found": true,
+  "phonetic_uk": "trænzˈleɪt",
+  "phonetic_us": "trænzˈleɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=translate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=translate&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "译，翻译；（使）转变，（使）变化；意同，相当于，（把……）解释为；（以易于理解的方式）解释，说明；导致，造成；改编，改写；转换（计算机程序或语言所含的信息）；（生）转译（信使RNA中的一组核苷酸）；转移，调动，转变；<正式>调换（主教，苏格兰牧师）的教区；<正式>移葬（圣徒遗骸）；<文>送（人，尤指活人）进天堂；（物理）平移（主干部分）；（数）平移（几何图形）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "translates"
+    },
+    {
+      "name": "现在分词",
+      "value": "translating"
+    },
+    {
+      "name": "过去式",
+      "value": "translated"
+    },
+    {
+      "name": "过去分词",
+      "value": "translated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Most poetry does not translate well.",
+      "zh": "诗歌大多翻译不好。"
+    },
+    {
+      "en": "Can you translate this letter for me?",
+      "zh": "你能为我翻译这封信吗？"
+    },
+    {
+      "en": "The girls waited for Mr. Esch to translate.",
+      "zh": "这些女孩们等着埃施先生来翻译。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "翻译；转化；解释；转变为；调动",
+      "words": [
+        "remove",
+        "expound"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "翻译",
+      "words": [
+        "interpret"
+      ]
+    }
+  ]
+}

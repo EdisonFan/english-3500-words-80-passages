@@ -1,0 +1,47 @@
+{
+  "word": "perception",
+  "found": true,
+  "phonetic_uk": "pəˈsepʃ(ə)n",
+  "phonetic_us": "pərˈsepʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=perception&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=perception&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "看法，认识；感觉，感知；洞察力；<法律>（租金、农作物等的）收取，占有"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "perceptions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She showed great perception in her assessment of the family situation.",
+      "zh": "她对家庭状况的分析显示出敏锐的洞察力。"
+    },
+    {
+      "en": "It did not require a lot of perception to realize the interview was over.",
+      "zh": "不需要很强的洞察力就可以意识到面试结束了。"
+    },
+    {
+      "en": "Perception is central to iconoclasm.",
+      "zh": "感知是打破传统的核心。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "知觉；[生理]感觉；看法；洞察力；获取",
+      "words": [
+        "consciousness",
+        "viewpoint",
+        "sense",
+        "feel",
+        "insight"
+      ]
+    }
+  ]
+}

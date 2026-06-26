@@ -1,0 +1,67 @@
+{
+  "word": "attract",
+  "found": true,
+  "phonetic_uk": "əˈtrækt",
+  "phonetic_us": "əˈtrækt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=attract&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=attract&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "吸引；（物体间）产生引力；引起；有吸引力"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "attracts"
+    },
+    {
+      "name": "现在分词",
+      "value": "attracting"
+    },
+    {
+      "name": "过去式",
+      "value": "attracted"
+    },
+    {
+      "name": "过去分词",
+      "value": "attracted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She tried to attract the waiter's attention.",
+      "zh": "她试图引起服务员的注意。"
+    },
+    {
+      "en": "How can we attract more visitors to our website?",
+      "zh": "我们如何才能吸引更多人访问我们的网站呢？"
+    },
+    {
+      "en": "She gave a little cough to attract my attention.",
+      "zh": "她轻轻地咳了一声以引起我的注意。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "吸引；引起",
+      "words": [
+        "engage",
+        "absorb",
+        "produce",
+        "cause",
+        "operate"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "吸引；有吸引力",
+      "words": [
+        "appeal",
+        "turn one on"
+      ]
+    }
+  ]
+}

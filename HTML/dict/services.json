@@ -1,0 +1,34 @@
+{
+  "word": "services",
+  "found": true,
+  "phonetic_uk": "ˈsɜːvɪsɪz",
+  "phonetic_us": "ˈsɜːrvɪsɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=services&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=services&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "服务；服务项目；维修（service 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "服务；检修（service 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "It was payment for services rendered.",
+      "zh": "这是服务酬金。"
+    },
+    {
+      "en": "He volunteered his services as a driver.",
+      "zh": "他自愿服务充当司机。"
+    },
+    {
+      "en": "Other services vary dramatically in quality.",
+      "zh": "其它服务在质量上差异很大。"
+    }
+  ],
+  "synonyms": []
+}

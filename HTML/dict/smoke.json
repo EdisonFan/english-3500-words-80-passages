@@ -1,0 +1,78 @@
+{
+  "word": "smoke",
+  "found": true,
+  "phonetic_uk": "sməʊk",
+  "phonetic_us": "smoʊk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=smoke&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=smoke&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（燃烧所产生的）烟，烟雾；吸烟，抽烟；<非正式>（抽的）香烟，（吸的）毒品； <英，非正式>（伦敦之类的）大城市（the Smoke）；无常的事物"
+    },
+    {
+      "pos": "v.",
+      "meaning": "吸烟，吸毒品；（作为习惯）抽烟；冒烟，冒气；用烟熏制；（战斗或竞赛中）彻底击败；<美，非正式>开枪杀死（某人）；<美，非正式>用力快击（球）；弥漫"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "smokes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "smokes"
+    },
+    {
+      "name": "现在分词",
+      "value": "smoking"
+    },
+    {
+      "name": "过去式",
+      "value": "smoked"
+    },
+    {
+      "name": "过去分词",
+      "value": "smoked"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Smoke appeared on the horizon.",
+      "zh": "地平线上升起了烟雾。"
+    },
+    {
+      "en": "Smoke had blackened the walls.",
+      "zh": "烟把墙壁都熏黑了。"
+    },
+    {
+      "en": "The exhaust streamed black smoke.",
+      "zh": "排气管里冒出黑烟。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[环境]烟；抽烟；无常的事物",
+      "words": [
+        "tobacco",
+        "ephemerality"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "冒烟，吸烟；抽烟；弥漫",
+      "words": [
+        "fume"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "吸烟；抽",
+      "words": [
+        "puff on"
+      ]
+    }
+  ]
+}

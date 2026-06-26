@@ -1,0 +1,58 @@
+{
+  "word": "bay",
+  "found": true,
+  "phonetic_uk": "beɪ",
+  "phonetic_us": "beɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bay&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bay&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（海或湖的）湾；山脉的低凹处，山间平地；（装窗的）房间突出部分；间隔区，限定区域；月桂树；枣红马，栗色马；（尤指教堂中殿墙壁的）柱间距；（船或飞机上的）货舱"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（犬）连续吠，（狼）连续嚎叫；（尤指要求惩罚某人时）大声叫嚷"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "枣红色的，深棕色的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Bay）（英、老）贝，（德、意、罗、捷、土、丹）巴伊，（匈）鲍伊，（瑞典）巴伊，（越）七（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They dredge the bay for gravel.",
+      "zh": "他们在挖掘海湾沙砾。"
+    },
+    {
+      "en": "Dallas will play Green Bay.",
+      "zh": "达拉斯队将迎战绿湾队。"
+    },
+    {
+      "en": "The bay glittered in the sunshine.",
+      "zh": "海湾在阳光下闪闪发光。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[地理]海湾；狗吠声",
+      "words": [
+        "gulf",
+        "bight"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "吠叫；大声叫嚷",
+      "words": [
+        "rant and rave"
+      ]
+    }
+  ]
+}

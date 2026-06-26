@@ -1,0 +1,67 @@
+{
+  "word": "patient",
+  "found": true,
+  "phonetic_uk": "ˈpeɪʃ(ə)nt",
+  "phonetic_us": "ˈpeɪʃ(ə)nt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=patient&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=patient&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "能忍耐的，有耐心的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "病人，患者；（语言学）受动者，承受者"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Patient）帕迪恩特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "patients"
+    },
+    {
+      "name": "比较级",
+      "value": "more patient"
+    },
+    {
+      "name": "最高级",
+      "value": "most patient"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The patient is terminally ill.",
+      "zh": "这个病人病入膏肓。"
+    },
+    {
+      "en": "The patient is still in denial.",
+      "zh": "病人仍然拒不接受事实。"
+    },
+    {
+      "en": "The patient made a rapid recovery.",
+      "zh": "病人很快恢复了健康。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "有耐性的，能容忍的",
+      "words": [
+        "indefatigable"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[医]病人；患者",
+      "words": [
+        "sick",
+        "sufferer"
+      ]
+    }
+  ]
+}

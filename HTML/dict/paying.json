@@ -1,0 +1,54 @@
+{
+  "word": "paying",
+  "found": true,
+  "phonetic_uk": "ˈpeɪɪŋ",
+  "phonetic_us": "ˈpeɪɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=paying&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=paying&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "支付；（某种做法）有好处（pay 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They were very slow paying me.",
+      "zh": "他们迟迟不付钱给我。"
+    },
+    {
+      "en": "Would you mind paying the taxi driver?",
+      "zh": "您付出租车费好吗？"
+    },
+    {
+      "en": "Do you feel they're paying their fair share?",
+      "zh": "你觉得他们正支付自己应分担的那一份吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "支付的；赢利的；合算的",
+      "words": [
+        "economical",
+        "lucrative"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "支付；[船]填缝；放送绳链",
+      "words": [
+        "payment",
+        "payoffs"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "支付；报答（pay的ing形式）",
+      "words": [
+        "reciprocating"
+      ]
+    }
+  ]
+}

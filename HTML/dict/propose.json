@@ -1,0 +1,67 @@
+{
+  "word": "propose",
+  "found": true,
+  "phonetic_uk": "prəˈpəʊz",
+  "phonetic_us": "prəˈpoʊz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=propose&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=propose&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "提议，建议；提出（理论或解释）；提名，推荐；计划，打算；求婚；（向立法机构或委员会）提交（动议）；提议祝（酒）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "proposes"
+    },
+    {
+      "name": "现在分词",
+      "value": "proposing"
+    },
+    {
+      "name": "过去式",
+      "value": "proposed"
+    },
+    {
+      "name": "过去分词",
+      "value": "proposed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "What do you propose to do now?",
+      "zh": "现在你打算做什么？"
+    },
+    {
+      "en": "How do you propose getting home?",
+      "zh": "你打算怎么回家？"
+    },
+    {
+      "en": "What would you propose?",
+      "zh": "你想提什么建议？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "建议；打算，计划；求婚",
+      "words": [
+        "schedule",
+        "design",
+        "map",
+        "think",
+        "purpose"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "建议；求婚；打算",
+      "words": [
+        "aim",
+        "offer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "word": "odor",
+  "found": true,
+  "phonetic_uk": "ˈəʊdə(r)",
+  "phonetic_us": "ˈoʊdər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=odor&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=odor&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "气味；名声"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Odor）人名；（匈）欧多尔"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "odors"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Suddenly, a large Dog, attracted by the odor of the boiling oil, came running into the cave.",
+      "zh": "突然，一只大狗被煮沸的油的气味吸引过来，跑进了山洞。"
+    },
+    {
+      "en": "The fruit of this plant has a hard, prickly rind and soft pulp with an offensive odor but a pleasant taste.",
+      "zh": "这种植物的果实，果皮有硬刺，果肉柔软，气味难闻，但味道可口。"
+    },
+    {
+      "en": "Smell stimuli form what Shepherd terms \"odor objects\", stored as memories, and these have a direct link with our emotions.",
+      "zh": "气味刺激形成了谢泼德所称的“气味物体”，并以记忆的形式储存起来，这些气味与我们的情感有着直接的联系。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "气味；名声",
+      "words": [
+        "smell",
+        "wind",
+        "fame"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "word": "talent",
+  "found": true,
+  "phonetic_uk": "ˈtælənt",
+  "phonetic_us": "ˈtælənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=talent&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=talent&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "天赋，才能；天才，人才；<英，俚>性感的人；（尤指古罗马人和古希腊人使用的重量和货币单位）塔兰特"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "talents"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He's got lots of talent.",
+      "zh": "他有许多天赋。"
+    },
+    {
+      "en": "He had an inborn talent for languages.",
+      "zh": "他有天生的语言才能。"
+    },
+    {
+      "en": "He is a great talent.",
+      "zh": "他是个了不起的人才。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "才能；天才；天资",
+      "words": [
+        "capability",
+        "ability",
+        "quality",
+        "genius",
+        "endowment"
+      ]
+    }
+  ]
+}

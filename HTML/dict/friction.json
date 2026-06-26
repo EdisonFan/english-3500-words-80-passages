@@ -1,0 +1,44 @@
+{
+  "word": "friction",
+  "found": true,
+  "phonetic_uk": "ˈfrɪkʃ(ə)n",
+  "phonetic_us": "ˈfrɪkʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=friction&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=friction&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "不和，分歧；摩擦；摩擦力"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "frictions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The pistons are graphite-coated to reduce friction.",
+      "zh": "活塞表面涂有石墨以减少摩擦。"
+    },
+    {
+      "en": "Sara sensed that there had been friction between her children.",
+      "zh": "萨拉感觉到她的孩子们中间出现了摩擦。"
+    },
+    {
+      "en": "Friction between moving parts had caused the engine to overheat.",
+      "zh": "活动部件的摩擦使发动机过热。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[力]摩擦，摩擦力",
+      "words": [
+        "attrition",
+        "frottage"
+      ]
+    }
+  ]
+}

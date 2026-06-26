@@ -1,0 +1,53 @@
+{
+  "word": "needs",
+  "found": true,
+  "phonetic_uk": "niːdz",
+  "phonetic_us": "niːdz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=needs&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=needs&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "（只与 must 连用）必须地"
+    },
+    {
+      "pos": "v.",
+      "meaning": "需要；（表示应该或不得不做）有必要（need 的第三人称单数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "需要（need 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "This horse needs firm handling.",
+      "zh": "这匹马需要严加训练。"
+    },
+    {
+      "en": "The woodwork needs painting.",
+      "zh": "木建部分需要上油漆。"
+    },
+    {
+      "en": "This knife needs sharpening.",
+      "zh": "这把刀需要磨了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "（只与must连用）必须地",
+      "words": [
+        "compulsorily"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "需要（need的复数）",
+      "words": [
+        "requires"
+      ]
+    }
+  ]
+}

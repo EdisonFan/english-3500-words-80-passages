@@ -1,0 +1,44 @@
+{
+  "word": "prediction",
+  "found": true,
+  "phonetic_uk": "prɪˈdɪkʃ(ə)n",
+  "phonetic_us": "prɪˈdɪkʃn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=prediction&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=prediction&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "预言之事，预报之事；预测（行为）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "predictions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His prediction was right on the money.",
+      "zh": "他的预测准确无误。"
+    },
+    {
+      "en": "Weather prediction has never been a perfect science.",
+      "zh": "天气预报从来都不是一门准确无误的科学。"
+    },
+    {
+      "en": "Browning's prediction is no better than a wild guess.",
+      "zh": "布朗宁的预言只不过是胡乱猜测而已。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "预报；预言",
+      "words": [
+        "message",
+        "forecast"
+      ]
+    }
+  ]
+}

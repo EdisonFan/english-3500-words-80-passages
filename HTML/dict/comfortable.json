@@ -1,0 +1,53 @@
+{
+  "word": "comfortable",
+  "found": true,
+  "phonetic_uk": "ˈkʌmftəb(ə)l",
+  "phonetic_us": "ˈkʌmftəbl; ˈkʌmfərtəbl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=comfortable&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=comfortable&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "令人舒适的；感到舒服的，安逸的；自信的，自在的；富裕的，宽裕的；满意的；易取胜的，轻松领先的；（病、伤后）疼痛减缓的，状况良好的；足够的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<美>温暖的盖被"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more comfortable"
+    },
+    {
+      "name": "最高级",
+      "value": "most comfortable"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You'll be quite comfortable here.",
+      "zh": "你在这里会很舒服的。"
+    },
+    {
+      "en": "We found the beds very comfortable.",
+      "zh": "我们发现这些床非常舒适。"
+    },
+    {
+      "en": "The hotel is wonderfully comfortable.",
+      "zh": "这家旅馆非常舒适。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "舒适的，舒服的",
+      "words": [
+        "pleasant",
+        "easy",
+        "cozy"
+      ]
+    }
+  ]
+}

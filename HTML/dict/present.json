@@ -1,0 +1,90 @@
+{
+  "word": "present",
+  "found": true,
+  "phonetic_uk": "ˈprez(ə)nt; prɪˈzent",
+  "phonetic_us": "ˈprez(ə)nt; prɪˈzent",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=present&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=present&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "（人）在场的，出席的；（事物）存在的；现在的，目前的；考虑中的，正在讨论的；（语法）现在时（态）的；历历在目的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "现在，目前；礼物，赠品；（语法）现在时；（举枪的）瞄准（姿势）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "颁发，赠送；出示（护照等供检查）；正式提交（支票，账单）；<正式> 正式引见，介绍；正式出席，到场；引起，造成；<正式>表达（歉意等）；提出，陈述；上映，播出；展示，表现；<英> 主持（广播或电视节目）；把……对准；<医>（病人）呈现症状"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "presents"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "presents"
+    },
+    {
+      "name": "现在分词",
+      "value": "presenting"
+    },
+    {
+      "name": "过去式",
+      "value": "presented"
+    },
+    {
+      "name": "过去分词",
+      "value": "presented"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Did you get your mother a present?",
+      "zh": "给你母亲买礼物了吗？"
+    },
+    {
+      "en": "Her letters conflate past and present.",
+      "zh": "她的信把过去与现在结合在一起。"
+    },
+    {
+      "en": "How do you read the present situation?",
+      "zh": "你对目前的形势有何看法？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "提出；介绍；呈现；赠送",
+      "words": [
+        "prefer",
+        "file",
+        "advance",
+        "recommend",
+        "assume"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "现在的；出席的",
+      "words": [
+        "current",
+        "now"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "现在；礼物；瞄准",
+      "words": [
+        "gift",
+        "giving",
+        "aiming",
+        "training",
+        "tribute"
+      ]
+    }
+  ]
+}

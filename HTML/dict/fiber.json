@@ -1,0 +1,48 @@
+{
+  "word": "fiber",
+  "found": true,
+  "phonetic_uk": "ˈfaɪbə(r)",
+  "phonetic_us": "ˈfaɪbər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fiber&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fiber&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "纤维（等于 fibre）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "(Fiber) （匈）菲贝尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "fibers"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The wings are made of a polythene film stretched over a carbon fiber frame.",
+      "zh": "机翼是由铺在碳纤维框架上的聚乙烯薄膜制成的。"
+    },
+    {
+      "en": "High-fiber diets are also linked to a reduced risk of heart disease and diabetes.",
+      "zh": "高纤维饮食还能降低患心脏病和糖尿病的风险。"
+    },
+    {
+      "en": "Research now says adding fiber to the teen diet may help lower the risk of breast cancer.",
+      "zh": "现在的研究表明，在青少年饮食中添加纤维可以帮助降低患乳腺癌的风险。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "纤维；光纤（等于fibre）",
+      "words": [
+        "fibre",
+        "funicle"
+      ]
+    }
+  ]
+}

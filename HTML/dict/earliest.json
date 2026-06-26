@@ -1,0 +1,43 @@
+{
+  "word": "earliest",
+  "found": true,
+  "phonetic_uk": "ˈɜːliɪst",
+  "phonetic_us": "ˈɜːrliɪst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=earliest&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=earliest&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "早的；初期的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "最早"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "What is your earliest memory?",
+      "zh": "你最早能记得的是什么？"
+    },
+    {
+      "en": "The earliest we can finish is next Friday.",
+      "zh": "我们最早能在下星期五完成。"
+    },
+    {
+      "en": "We can't finish before next Friday at the earliest.",
+      "zh": "我们最早也要到下星期五才能完成。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "早的；初期的",
+      "words": [
+        "young",
+        "forward"
+      ]
+    }
+  ]
+}

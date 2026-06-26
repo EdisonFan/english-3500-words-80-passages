@@ -1,0 +1,48 @@
+{
+  "word": "drying",
+  "found": true,
+  "phonetic_uk": "ˈdraɪɪŋ",
+  "phonetic_us": "ˈdraɪɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=drying&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=drying&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（使）变干，把……弄干；擦去泪水；擦餐具；（使）脱水；忘记台词（dry 的现在分词）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "干燥的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "干燥；（木材的）风干"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Mrs. Madrigal picked up a towel and began drying dishes next to her daughter.",
+      "zh": "马德里格夫人拿起一条毛巾，开始擦干她女儿旁边的盘子。"
+    },
+    {
+      "en": "Reservoirs are drying up and farmers have begun to leave their land in search of water.",
+      "zh": "水库正在干涸，农民开始离开田地去寻找水源。"
+    },
+    {
+      "en": "They keep your eyes from drying out.",
+      "zh": "它们可以防止眼睛干燥。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "干燥",
+      "words": [
+        "dryness",
+        "desiccation",
+        "aridness"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "functionality",
+  "found": true,
+  "phonetic_uk": "ˌfʌŋkʃəˈnæləti",
+  "phonetic_us": "ˌfʌŋkʃəˈnæləti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=functionality&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=functionality&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "功能；[数] 泛函性，函数性"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "It is significantly more compact than any comparable laptop, with no loss in functionality.",
+      "zh": "它比其它任何一台同类的笔记本电脑都更便于携带，并且在功能性上无任何差别。"
+    },
+    {
+      "en": "As always, the unit tests for that class should capture the functionality for each of its methods.",
+      "zh": "像往常那样，该类的单元测试应该捕获其每个方法的功能。"
+    },
+    {
+      "en": "Decisions about where functionality will be implemented, in hardware, software, or workers have not yet been made.",
+      "zh": "关于在何处实现功能的决定，是在硬件、软件还是工作人员中，都还没有做出。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "功能；[数]泛函性，函数性",
+      "words": [
+        "action",
+        "fn"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "lonely",
+  "found": true,
+  "phonetic_uk": "ˈləʊnli",
+  "phonetic_us": "ˈloʊnli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=lonely&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=lonely&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "孤单的，寂寞的；在孤单中度过的；偏僻的，人迹罕至的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "lonelier或more lonely"
+    },
+    {
+      "name": "最高级",
+      "value": "loneliest或most lonely"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I could see she was lonely.",
+      "zh": "我能看出她很寂寞。"
+    },
+    {
+      "en": "Machen was a lonely, introverted child.",
+      "zh": "梅琴是个孤独，内向的孩子。"
+    },
+    {
+      "en": "She lives alone and often feels lonely.",
+      "zh": "她孑然一身，常感到寂寞。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "寂寞的；偏僻的",
+      "words": [
+        "remote",
+        "doleful"
+      ]
+    }
+  ]
+}

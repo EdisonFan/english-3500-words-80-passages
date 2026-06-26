@@ -1,0 +1,43 @@
+{
+  "word": "fourteen",
+  "found": true,
+  "phonetic_uk": "ˌfɔːˈtiːn",
+  "phonetic_us": "ˌfɔːrˈtiːn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fourteen&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fourteen&type=2",
+  "defs": [
+    {
+      "pos": "num.",
+      "meaning": "十四；十四个；十四岁"
+    },
+    {
+      "pos": "n.",
+      "meaning": "十四的记号；十四岁；十四点钟"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "十四的；十四个的；十四岁的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "fourteens"
+    }
+  ],
+  "examples": [
+    {
+      "en": "\"Fourteen minutes,\" Chris said, taking a peep at his watch.",
+      "zh": "“十四分钟，”克里斯瞥了一眼手表说道。"
+    },
+    {
+      "en": "I'm fourteen years old.",
+      "zh": "我14岁。"
+    },
+    {
+      "en": "She spent fourteen years in retailing.",
+      "zh": "她做了14年的零售。"
+    }
+  ],
+  "synonyms": []
+}

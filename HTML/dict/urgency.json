@@ -1,0 +1,44 @@
+{
+  "word": "urgency",
+  "found": true,
+  "phonetic_uk": "ˈɜːdʒənsi",
+  "phonetic_us": "ˈɜːrdʒənsi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=urgency&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=urgency&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "紧急，迫切；迫切需要；紧急的事"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "urgencies"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This is a matter of some urgency.",
+      "zh": "这件事相当紧迫。"
+    },
+    {
+      "en": "She was surprised at the urgency in his voice.",
+      "zh": "她对他声音的急切感到吃惊。"
+    },
+    {
+      "en": "They recognize the urgency of righting the economy.",
+      "zh": "他们认识到整顿经济的迫切性。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "紧急；催促；紧急的事",
+      "words": [
+        "exigency",
+        "instancy"
+      ]
+    }
+  ]
+}

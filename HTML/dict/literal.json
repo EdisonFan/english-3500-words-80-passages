@@ -1,0 +1,43 @@
+{
+  "word": "literal",
+  "found": true,
+  "phonetic_uk": "ˈlɪtərəl",
+  "phonetic_us": "ˈlɪtərəl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=literal&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=literal&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "字面上的；逐字的；缺乏想象力的，刻板的；确切的，不夸张的；（图像）写实的；（用）字母（表示）的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<英>误印"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The literal meaning of 'petrify' is 'turn to stone'.",
+      "zh": "petrify的字面意思是turn to stone（变成石头）。"
+    },
+    {
+      "en": "I am not referring to 'small' people in the literal sense of the word.",
+      "zh": "我指的不是字面意义上的“小”人。"
+    },
+    {
+      "en": "It is a word-by-word literal translation of the Chinese greetings.",
+      "zh": "这是对汉语问候语逐字逐句的直译。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "文字的；逐字的；无夸张的",
+      "words": [
+        "written",
+        "word-for-word"
+      ]
+    }
+  ]
+}

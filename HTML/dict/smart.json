@@ -1,0 +1,103 @@
+{
+  "word": "smart",
+  "found": true,
+  "phonetic_uk": "smɑːt",
+  "phonetic_us": "smɑːrt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=smart&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=smart&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "聪明的，明智的；（人）衣着得体的；整洁而漂亮的，光鲜的；耍小聪明的，不恭的；时髦的，高档的；迅速有力的，迅猛的；智能的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（身体部位）感到刺痛；（因批评、失败等）难过，烦恼"
+    },
+    {
+      "pos": "n.",
+      "meaning": "剧痛，刺痛；痛苦，苦恼；<美，非正式>聪明，敏锐（smarts）"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "机敏地，整洁地，潇洒地"
+    },
+    {
+      "pos": "",
+      "meaning": "��名】 （Smart）（法）斯马尔，（英、德）斯马特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "smarts"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "smarts"
+    },
+    {
+      "name": "现在分词",
+      "value": "smarting"
+    },
+    {
+      "name": "过去式",
+      "value": "smarted"
+    },
+    {
+      "name": "过去分词",
+      "value": "smarted"
+    },
+    {
+      "name": "比较级",
+      "value": "smarter"
+    },
+    {
+      "name": "最高级",
+      "value": "smartest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She mixes with the smart set.",
+      "zh": "她跟那帮时髦人物交往。"
+    },
+    {
+      "en": "She's just as smart as her sister.",
+      "zh": "她与她姐姐一样聪明。"
+    },
+    {
+      "en": "He's no rube. He's a very smart guy.",
+      "zh": "他可不是乡巴佬。他是个很聪明的家伙。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "痛苦；刺痛",
+      "words": [
+        "hurt",
+        "painfulness"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "聪明的；漂亮的；厉害的；巧妙的；敏捷的；潇洒的；剧烈的",
+      "words": [
+        "intelligent",
+        "happy",
+        "severe",
+        "clever",
+        "pretty"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "刺痛；懊恼",
+      "words": [
+        "bite",
+        "sweat"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "word": "winning",
+  "found": true,
+  "phonetic_uk": "ˈwɪnɪŋ",
+  "phonetic_us": "ˈwɪnɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=winning&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=winning&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "获胜的；吸引人的，迷人的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（尤指通过赌博）赢得的钱（常复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（在战斗、比赛、游戏等中）赢，获胜；赢得（奖品等）；通过努力得到（某物）（win 的现在分词）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Winning）（美、英）温宁（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "winnings"
+    },
+    {
+      "name": "比较级",
+      "value": "more winning"
+    },
+    {
+      "name": "最高级",
+      "value": "most winning"
+    }
+  ],
+  "examples": [
+    {
+      "en": "There are three winning tickets.",
+      "zh": "有三张中奖的彩票。"
+    },
+    {
+      "en": "He drew the winning ticket.",
+      "zh": "他抽到中彩券了。"
+    },
+    {
+      "en": "The crowd cheered the winning hit.",
+      "zh": "观众为那决胜的一击而欢呼。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "胜利的；获胜的",
+      "words": [
+        "victorious",
+        "triumphal"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "胜利；获得；成功",
+      "words": [
+        "victory",
+        "success",
+        "acquisition",
+        "prosperity",
+        "getting"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "获胜（win的ing形式）",
+      "words": [
+        "prevailing"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "word": "ray",
+  "found": true,
+  "phonetic_uk": "reɪ",
+  "phonetic_us": "reɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ray&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ray&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "光束，光线；（热、电或其他能源的）射线；一丝，一线（希望、慰藉等）；<非正式>（日光浴用语）阳光（rays）；半直线；长音阶第二音，C大调第二音；鳐，魟；辐射状东西；（菊科植物头状花序的）舌状花，（盘）边花；辐肋，鳍刺；（海星的）放射形口腕，辐腕"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<文> 放射，射出（光线）；呈辐射状伸出，从中心四下延展"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Ray）雷（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Ray was getting very hot and bothered about the idea.",
+      "zh": "雷为这个想法感到焦虑不安。"
+    },
+    {
+      "en": "It will only register on sophisticated X-ray equipment.",
+      "zh": "只有在先进的X光设备上它才会显示出来。"
+    },
+    {
+      "en": "\"Is there something else?\" Ray queried as Helen stopped speaking.",
+      "zh": "海伦话音刚落，雷便问道：“还有别的什么吗？”"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[物]射线；[光]光线",
+      "words": [
+        "stream",
+        "radial"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "放射；显出",
+      "words": [
+        "emit",
+        "bore out"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "放射光线；浮现",
+      "words": [
+        "to emerge"
+      ]
+    }
+  ]
+}

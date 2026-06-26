@@ -1,0 +1,30 @@
+{
+  "word": "VR",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˌviː ˈɑːr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=VR&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=VR&type=2",
+  "defs": [
+    {
+      "pos": "abbr.",
+      "meaning": "虚拟现实（virtual reality）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "There are VR exhibitions, livestreaming classes and many other resources.",
+      "zh": "那里有虚拟现实展览，直播课程和其他资源。"
+    },
+    {
+      "en": "5G networks are about 10 times faster than 4G. This means you can download a movie in seconds using 5G. Also, VR games will become more popular with 5G. 5G will make the VR games even more real.",
+      "zh": "5G 网络的速度大约是 4G 的10倍，这意味着你可以使用 5G 网络瞬间就能下载一部电影。此外，虚拟现实游戏将开始变得更受欢迎。5G 将使虚拟现实游戏更加真实。"
+    },
+    {
+      "en": "Because of VR technology, people can visit places of interest both at home and abroad instead of going there in person.",
+      "zh": "由于虚拟现实技术，人们可以不用亲自拜访就能参观国内外的名胜古迹。"
+    }
+  ],
+  "synonyms": []
+}

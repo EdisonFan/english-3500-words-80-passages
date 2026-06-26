@@ -1,0 +1,47 @@
+{
+  "word": "cases",
+  "found": true,
+  "phonetic_uk": "keɪsɪz",
+  "phonetic_us": "ˈkeɪsɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cases&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cases&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "具体情况，实例；病例，病案；诉讼，官司；案件，案子；容器，箱子（case 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "围绕，包盖；（盗抢前）探察，踩点儿；装入保护容器内（case 的第三人称单数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Cases）卡塞斯（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Nine cases are still pending.",
+      "zh": "尚有九宗案件待决。"
+    },
+    {
+      "en": "We have 125 cases ready for dispatch.",
+      "zh": "我们有125个待发的箱子。"
+    },
+    {
+      "en": "The two cases are most probably connected.",
+      "zh": "这两桩案件极有可能互相关联。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "情况（case的复数形式）；案例；箱",
+      "words": [
+        "circumstances",
+        "conditions"
+      ]
+    }
+  ]
+}

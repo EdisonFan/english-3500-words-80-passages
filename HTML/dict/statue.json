@@ -1,0 +1,43 @@
+{
+  "word": "statue",
+  "found": true,
+  "phonetic_uk": "ˈstætʃuː",
+  "phonetic_us": "ˈstætʃuː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=statue&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=statue&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（石或金属做的动物或人的）雕像"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "statues"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I stared fixedly at the statue.",
+      "zh": "我目不转睛地看着那尊雕像。"
+    },
+    {
+      "en": "There's the statue I was telling you about.",
+      "zh": "那就是我跟你们讲过的塑像。"
+    },
+    {
+      "en": "The statue stared down at them with sightless eyes.",
+      "zh": "雕像用一双盲眼俯视着他们。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[建]雕像，塑像",
+      "words": [
+        "effigy"
+      ]
+    }
+  ]
+}

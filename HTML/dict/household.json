@@ -1,0 +1,63 @@
+{
+  "word": "household",
+  "found": true,
+  "phonetic_uk": "ˈhaʊshəʊld",
+  "phonetic_us": "ˈhaʊshoʊld",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=household&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=household&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "家庭，一家人；家务；王室（the Household）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "家用的，家务的；全家人的；家喻户晓的；皇家的（Household）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Household）（美、瑞）豪斯霍尔德（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "households"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She became a household name in the 1960s.",
+      "zh": "她在20世纪60年代成为家喻户晓的人物。"
+    },
+    {
+      "en": "Today, fashion designers are household names.",
+      "zh": "如今，服装设计师们家喻户晓。"
+    },
+    {
+      "en": "Many household products give off noxious fumes.",
+      "zh": "很多家用产品散发有害气体。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "家庭的；日常的；王室的",
+      "words": [
+        "domestic",
+        "family",
+        "daily",
+        "everyday",
+        "routine"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "家庭；一家人",
+      "words": [
+        "family",
+        "race"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "word": "puzzle",
+  "found": true,
+  "phonetic_uk": "ˈpʌz(ə)l",
+  "phonetic_us": "ˈpʌz(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=puzzle&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=puzzle&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "使困惑，使迷惑；（因迷惑而）苦思，冥思苦想；（通过苦苦思索）解决（或弄清楚），理出头绪（puzzle sth. out）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "测验智力（或知识）的游戏（或玩具，问题）；拼图游戏，拼图玩具；令人费解的人（或事物），难题"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "puzzles"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "puzzles"
+    },
+    {
+      "name": "现在分词",
+      "value": "puzzling"
+    },
+    {
+      "name": "过去式",
+      "value": "puzzled"
+    },
+    {
+      "name": "过去分词",
+      "value": "puzzled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We fitted together the pieces of the puzzle.",
+      "zh": "我们把拼图玩具的各部分拼合在了一起。"
+    },
+    {
+      "en": "We invited readers who completed the puzzle to send in their solutions.",
+      "zh": "我们邀请解完谜的读者交出谜底。"
+    },
+    {
+      "en": "The rise in accidents remains a puzzle.",
+      "zh": "事故的增多仍是个谜。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "使…困惑；使…为难；苦思而得出",
+      "words": [
+        "baffle",
+        "discomfit"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "迷惑；冥思苦想",
+      "words": [
+        "contemplate"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "谜；难题；迷惑",
+      "words": [
+        "enigma",
+        "difficult problem"
+      ]
+    }
+  ]
+}

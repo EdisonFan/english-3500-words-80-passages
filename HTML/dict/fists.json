@@ -1,0 +1,42 @@
+{
+  "word": "fists",
+  "found": true,
+  "phonetic_uk": "fɪsts",
+  "phonetic_us": "fɪsts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fists&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fists&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "拳头（fist 的复数形式）；拳套"
+    },
+    {
+      "pos": "v.",
+      "meaning": "紧握；用拳头打（fist 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He clenched his fists in anger.",
+      "zh": "他愤怒地攥紧了拳头。"
+    },
+    {
+      "en": "Her hands balled into fists.",
+      "zh": "她双手攥拳。"
+    },
+    {
+      "en": "My hands were balled into fists.",
+      "zh": "我把双手攥成拳头。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "紧握；用拳头打（fist的第三人称单数）",
+      "words": [
+        "clasps"
+      ]
+    }
+  ]
+}

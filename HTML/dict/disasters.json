@@ -1,0 +1,39 @@
+{
+  "word": "disasters",
+  "found": true,
+  "phonetic_uk": "dɪˈzɑːstəs",
+  "phonetic_us": "dɪˈzæstər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=disasters&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=disasters&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "灾难（disaster 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The accident has echoes of past disasters.",
+      "zh": "该事故让人想到过去的那些灾难。"
+    },
+    {
+      "en": "Poverty and human folly magnify natural disasters.",
+      "zh": "贫穷和人类的愚蠢加剧自然灾难。"
+    },
+    {
+      "en": "She went on to catalogue a long history of disasters.",
+      "zh": "接下来她列举了一长串灾难。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "灾难（disaster的复数）",
+      "words": [
+        "curtains",
+        "miseries"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "word": "defend",
+  "found": true,
+  "phonetic_uk": "dɪˈfend",
+  "phonetic_us": "dɪˈfend",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=defend&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=defend&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "保卫，防御；捍卫，维护；（在比赛中）防守，防卫；参加卫冕赛，蝉联；做……的辩护律师，为……辩解"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "defends"
+    },
+    {
+      "name": "现在分词",
+      "value": "defending"
+    },
+    {
+      "name": "过去式",
+      "value": "defended"
+    },
+    {
+      "name": "过去分词",
+      "value": "defended"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He has hired a lawyer to defend him against the allegation.",
+      "zh": "他已聘请一位律师为他所受的指控辩护。"
+    },
+    {
+      "en": "The newspaper continues to defend its publication of the photographs.",
+      "zh": "这家报纸继续为刊登这些照片辩护。"
+    },
+    {
+      "en": "How can you defend such behaviour?",
+      "zh": "你怎能为这种行为辩解呢？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "[法]辩护；防护",
+      "words": [
+        "to claim",
+        "forefend"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "保卫；防守",
+      "words": [
+        "hold position"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "word": "December",
+  "found": true,
+  "phonetic_uk": "dɪˈsembə(r)",
+  "phonetic_us": "dɪˈsembər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=December&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=December&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "十二月"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "Decembers"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I keep forgetting it's December.",
+      "zh": "我总是忘了现在是12月份。"
+    },
+    {
+      "en": "He departed his job December 16.",
+      "zh": "他于12月16日离职。"
+    },
+    {
+      "en": "Prices edged up 2% in the year to December.",
+      "zh": "到12月为止的年度价格上涨了2%。"
+    }
+  ],
+  "synonyms": []
+}

@@ -1,0 +1,63 @@
+{
+  "word": "disappear",
+  "found": true,
+  "phonetic_uk": "ˌdɪsəˈpɪə(r)",
+  "phonetic_us": "ˌdɪsəˈpɪr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=disappear&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=disappear&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "消失，不见；失踪，丢失；不复存在，灭绝"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "disappears"
+    },
+    {
+      "name": "现在分词",
+      "value": "disappearing"
+    },
+    {
+      "name": "过去式",
+      "value": "disappeared"
+    },
+    {
+      "name": "过去分词",
+      "value": "disappeared"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They watched the bus disappear into the distance.",
+      "zh": "他们注视着公共汽车消失在远方。"
+    },
+    {
+      "en": "It was uncharacteristic of her father to disappear like this.",
+      "zh": "就这样消失不是她父亲的风格。"
+    },
+    {
+      "en": "The problems of traffic congestion will not disappear in a hurry.",
+      "zh": "交通堵塞问题不会很快消失。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "消失；失踪；不复存在",
+      "words": [
+        "blank",
+        "vanish away"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使…不存在；使…消失",
+      "words": [
+        "plough under"
+      ]
+    }
+  ]
+}

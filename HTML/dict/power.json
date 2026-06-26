@@ -1,0 +1,86 @@
+{
+  "word": "power",
+  "found": true,
+  "phonetic_uk": "ˈpaʊə(r)",
+  "phonetic_us": "ˈpaʊər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=power&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=power&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "控制力，操控力；政权，统治；权力，职权；强国，大国；有影响力的人（或组织）；能力，本领；支配力，实力；（某事物或社会集团的）影响力，势力；力量，体能；能量，电力；动力，功率；幂，乘方，指数；放大率；神灵，神力；（基督教）掌权天使（powers）；（旨在提升某群体地位的）权力运动"
+    },
+    {
+      "pos": "v.",
+      "meaning": "驱动，推动（机器或车辆）；（使）迅猛移动，快速前进；猛力踢（或推、顶）（尤指球）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "电力的，电动的；强大的；有重要人士参与的；（服装）礼服的，显示权势的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "powers"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "powers"
+    },
+    {
+      "name": "现在分词",
+      "value": "powering"
+    },
+    {
+      "name": "过去式",
+      "value": "powered"
+    },
+    {
+      "name": "过去分词",
+      "value": "powered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The kingdom's power declined.",
+      "zh": "王国的势力衰落了。"
+    },
+    {
+      "en": "They've switched off the power.",
+      "zh": "他们关掉了电源。"
+    },
+    {
+      "en": "He emanates power and confidence.",
+      "zh": "他表现出力量和信心。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[物]功率；力量；能力；政权；势力；[数]幂",
+      "words": [
+        "strength",
+        "ability",
+        "competence",
+        "regime",
+        "force"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "激励；供以动力；使…有力量",
+      "words": [
+        "stimulate",
+        "bestir"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "快速前进",
+      "words": [
+        "make good time"
+      ]
+    }
+  ]
+}

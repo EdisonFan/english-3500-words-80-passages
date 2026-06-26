@@ -1,0 +1,83 @@
+{
+  "word": "refuse",
+  "found": true,
+  "phonetic_uk": "rɪˈfjuːz",
+  "phonetic_us": "rɪˈfjuːz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=refuse&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=refuse&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "拒绝，回绝（做某事）；不接受，拒绝（别人给的东西）；拒绝给（所需之物）；<非正式>（物体）未应要求起作用；<旧> 不接受（某人的）求婚；（马）拒绝（跨栏或其他障碍物）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "垃圾，废弃物"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "废弃的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "refuses"
+    },
+    {
+      "name": "现在分词",
+      "value": "refusing"
+    },
+    {
+      "name": "过去式",
+      "value": "refused"
+    },
+    {
+      "name": "过去分词",
+      "value": "refused"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I could hardly refuse, could I?",
+      "zh": "我很难拒绝，是不是？"
+    },
+    {
+      "en": "Can I refuse to give testimony?",
+      "zh": "我能拒绝作证吗？"
+    },
+    {
+      "en": "Am I to understand that you refuse?",
+      "zh": "你是告诉我你拒绝了？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "垃圾；[环境]废物",
+      "words": [
+        "garbage",
+        "waste",
+        "junk",
+        "rubbish",
+        "trash"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "拒绝；不愿；抵制",
+      "words": [
+        "negative",
+        "turn down"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "拒绝",
+      "words": [
+        "object",
+        "turn down"
+      ]
+    }
+  ]
+}

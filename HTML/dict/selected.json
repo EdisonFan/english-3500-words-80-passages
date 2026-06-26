@@ -1,0 +1,42 @@
+{
+  "word": "selected",
+  "found": true,
+  "phonetic_uk": "sɪˈlektɪd",
+  "phonetic_us": "səˈlektɪd; sɪˈlektɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=selected&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=selected&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "挑选；（在计算机屏幕上）选定；（从菜单中）选择（select 的过去式及过去分词）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "挑选出来的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He was selected for the team.",
+      "zh": "他已入选进队了。"
+    },
+    {
+      "en": "He hasn't been selected for the team.",
+      "zh": "他未能入选进队。"
+    },
+    {
+      "en": "Neither candidate was selected for the job.",
+      "zh": "申请这个工作的两个候选人都未获选上。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "挑选出来的",
+      "words": [
+        "chosen"
+      ]
+    }
+  ]
+}

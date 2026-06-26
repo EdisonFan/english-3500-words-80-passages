@@ -1,0 +1,39 @@
+{
+  "word": "indirectly",
+  "found": true,
+  "phonetic_uk": "ˌɪndəˈrektli; ˌɪndaɪˈrektli",
+  "phonetic_us": "ˌɪndəˈrektli; ˌɪndaɪˈrektli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=indirectly&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=indirectly&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "间接地：不是直接地，通过其他方式或途径。"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The new law will affect us all, directly or indirectly.",
+      "zh": "新的法规将直接或间接地影响我们所有的人。"
+    },
+    {
+      "en": "The two sides would only meet indirectly, through middlemen.",
+      "zh": "双方只会通过中间人间接会晤。"
+    },
+    {
+      "en": "I heard the news indirectly.",
+      "zh": "这消息我是间接听来的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "间接地；不诚实；迂回地",
+      "words": [
+        "circuitously",
+        "round about"
+      ]
+    }
+  ]
+}

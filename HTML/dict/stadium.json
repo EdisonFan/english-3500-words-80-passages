@@ -1,0 +1,44 @@
+{
+  "word": "stadium",
+  "found": true,
+  "phonetic_uk": "ˈsteɪdiəm",
+  "phonetic_us": "ˈsteɪdiəm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=stadium&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=stadium&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "体育场，运动场；（古希腊或古罗马的）竞走跑道，战车赛道；斯塔德（古希腊或古罗马长度单位，约185米）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "stadiums或stadia"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Floodlights illuminated the stadium.",
+      "zh": "泛光灯照亮了体育场。"
+    },
+    {
+      "en": "The stadium holds 75 000 spectators.",
+      "zh": "该体育场可容纳7.5万名观众。"
+    },
+    {
+      "en": "The crowds thronged into the stadium.",
+      "zh": "人群涌进了体育馆。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "体育场；露天大型运动场",
+      "words": [
+        "palaestra",
+        "sports field"
+      ]
+    }
+  ]
+}

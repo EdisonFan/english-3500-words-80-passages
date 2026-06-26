@@ -1,0 +1,77 @@
+{
+  "word": "regain",
+  "found": true,
+  "phonetic_uk": "rɪˈɡeɪn",
+  "phonetic_us": "rɪˈɡeɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=regain&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=regain&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "重新获得，恢复；重回，回到（某处）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "取回"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "regains"
+    },
+    {
+      "name": "现在分词",
+      "value": "regaining"
+    },
+    {
+      "name": "过去式",
+      "value": "regained"
+    },
+    {
+      "name": "过去分词",
+      "value": "regained"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I struggled to regain some dignity.",
+      "zh": "我努力恢复自己的一点儿尊严。"
+    },
+    {
+      "en": "She paused on the edge, trying to regain her balance.",
+      "zh": "她在边缘上暂停下来，努力恢复平衡。"
+    },
+    {
+      "en": "She will now begin occupational therapy to regain the use of her hands.",
+      "zh": "她现在将开始接受职业疗法以重新使用双手。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "恢复；重新获得；收回",
+      "words": [
+        "restore",
+        "repair",
+        "resume"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "上涨",
+      "words": [
+        "advance",
+        "to go up"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "收复；取回",
+      "words": [
+        "retrieval",
+        "resumption"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "goods",
+  "found": true,
+  "phonetic_uk": "ɡʊdz",
+  "phonetic_us": "ɡʊdz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=goods&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=goods&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "商品；动产，私人财产；<英>（公路、铁路等运输的）货物；<美，非正式>本领；<美，非正式>正要寻找的人（或物）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Prices are marked on the goods.",
+      "zh": "价格标在商品上。"
+    },
+    {
+      "en": "We deliver the goods in batches.",
+      "zh": "我们分批交付货物。"
+    },
+    {
+      "en": "These goods are priced too high.",
+      "zh": "这些货品定价过高。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "商品；动产；合意的人；真本领",
+      "words": [
+        "merchandise",
+        "wares"
+      ]
+    }
+  ]
+}

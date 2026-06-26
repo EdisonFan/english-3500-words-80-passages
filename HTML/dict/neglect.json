@@ -1,0 +1,68 @@
+{
+  "word": "neglect",
+  "found": true,
+  "phonetic_uk": "nɪˈɡlekt",
+  "phonetic_us": "nɪˈɡlekt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=neglect&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=neglect&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "疏于照顾，未予看管；不予重视，忽视；漏做"
+    },
+    {
+      "pos": "n.",
+      "meaning": "忽略，忽视，未被重视"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "neglects"
+    },
+    {
+      "name": "现在分词",
+      "value": "neglecting"
+    },
+    {
+      "name": "过去式",
+      "value": "neglected"
+    },
+    {
+      "name": "过去分词",
+      "value": "neglected"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We often neglect to make proper use of our bodies.",
+      "zh": "我们经常疏忽了合理使用我们的身体。"
+    },
+    {
+      "en": "All too often the animals die through neglect.",
+      "zh": "动物因缺乏照料而死亡的事司空见惯。"
+    },
+    {
+      "en": "The buildings are crumbling from years of neglect.",
+      "zh": "由于多年无人维修，这些建筑物行将倒塌。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "疏忽，忽视；忽略",
+      "words": [
+        "ignore",
+        "be forgetful of"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "疏忽，忽视；怠慢",
+      "words": [
+        "omission",
+        "oversight"
+      ]
+    }
+  ]
+}

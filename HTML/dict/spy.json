@@ -1,0 +1,84 @@
+{
+  "word": "spy",
+  "found": true,
+  "phonetic_uk": "spaɪ",
+  "phonetic_us": "spaɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=spy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=spy&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "间谍，密探；暗中监视者"
+    },
+    {
+      "pos": "v.",
+      "meaning": "从事间谍活动；突然看见，认出；秘密监视；探明，查明"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "（卫星、飞机）执行间谍任务的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "spies"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "spies"
+    },
+    {
+      "name": "现在分词",
+      "value": "spying"
+    },
+    {
+      "name": "过去式",
+      "value": "spied"
+    },
+    {
+      "name": "过去分词",
+      "value": "spied"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He was denounced as a foreign spy.",
+      "zh": "有人告发他是外国间谍。"
+    },
+    {
+      "en": "He was jailed for five years as an alleged spy.",
+      "zh": "他被指控为间谍而被监禁了5年。"
+    },
+    {
+      "en": "\"She thinks you're a spy,\" Scott said matter-of-factly.",
+      "zh": "“她认为你是一名间谍，”斯科特面无表情地说。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "侦察；发现；暗中监视",
+      "words": [
+        "detect",
+        "scout around"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "侦察；[军]当间谍",
+      "words": [
+        "scout around",
+        "keek"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[军]间谍；密探",
+      "words": [
+        "illegal",
+        "espionage"
+      ]
+    }
+  ]
+}

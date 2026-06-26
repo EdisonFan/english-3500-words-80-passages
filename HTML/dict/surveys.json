@@ -1,0 +1,38 @@
+{
+  "word": "surveys",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "sərˈve",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=surveys&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=surveys&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "调查（survey 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Surveys indicate that supporters of the treaty are still in the majority.",
+      "zh": "调查显示该条约的支持者仍占多数。"
+    },
+    {
+      "en": "Surveys consistently find that men report feeling safe on the street after dark. See, for example, Hindelang and Garofalo (1978, p.127).",
+      "zh": "调查一致显示，男性天黑后在街上感到安全。可参见如欣德朗和加罗法洛的著作(1978年，127页)。"
+    },
+    {
+      "en": "She conducted surveys of many soldiers.",
+      "zh": "她对许多士兵进行了调查。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "调查（survey的复数）",
+      "words": [
+        "investigations"
+      ]
+    }
+  ]
+}

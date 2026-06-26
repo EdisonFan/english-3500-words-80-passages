@@ -1,0 +1,75 @@
+{
+  "word": "credit",
+  "found": true,
+  "phonetic_uk": "ˈkredɪt",
+  "phonetic_us": "ˈkredɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=credit&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=credit&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "信用，信贷，赊购；赞扬，信誉，声望；存款金额，余额；补助；退税，抵免；学分；带来荣耀的人（或事）；作品（指影片、电视节目、戏剧等）；信任，相信"
+    },
+    {
+      "pos": "v.",
+      "meaning": "把（钱）记入总账，把钱存入（账户）；相信，信任；认为是……的功劳，给予承认；认为……有特定品质（或效果）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "credits"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "credits"
+    },
+    {
+      "name": "现在分词",
+      "value": "crediting"
+    },
+    {
+      "name": "过去式",
+      "value": "credited"
+    },
+    {
+      "name": "过去分词",
+      "value": "credited"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Does the hotel take credit cards?",
+      "zh": "这家旅馆接受信用卡付款吗？"
+    },
+    {
+      "en": "She was charged with credit card fraud.",
+      "zh": "她被控告信用卡欺骗罪。"
+    },
+    {
+      "en": "He's been promoted—would you credit it?",
+      "zh": "他被提升了，你相信吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "信用，信誉；[金融]贷款；学分；信任；声望",
+      "words": [
+        "faith",
+        "reputation",
+        "honor",
+        "loan",
+        "confidence"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "相信，信任；把…归给，归功于；赞颂",
+      "words": [
+        "put faith in",
+        "believe in"
+      ]
+    }
+  ]
+}

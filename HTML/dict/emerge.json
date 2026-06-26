@@ -1,0 +1,56 @@
+{
+  "word": "emerge",
+  "found": true,
+  "phonetic_uk": "ɪˈmɜːdʒ",
+  "phonetic_us": "ɪˈmɜːrdʒ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=emerge&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=emerge&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "浮现，出现；显露，知悉；恢复过来，幸存下来；形成，兴起"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "emerges"
+    },
+    {
+      "name": "现在分词",
+      "value": "emerging"
+    },
+    {
+      "name": "过去式",
+      "value": "emerged"
+    },
+    {
+      "name": "过去分词",
+      "value": "emerged"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Further evidence of slowing economic growth is likely to emerge this week.",
+      "zh": "更多有关在减慢的经济增长的证据本周可能出现。"
+    },
+    {
+      "en": "The cultural life of the country will sink into atrophy unless more writers and artists emerge.",
+      "zh": "如果没有更多的作家和艺术家出现，这个国家的文化生活将衰退。"
+    },
+    {
+      "en": "New things emerge day after day.",
+      "zh": "新的事物每天都在出现。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "浮现；摆脱；暴露",
+      "words": [
+        "ray",
+        "cast off"
+      ]
+    }
+  ]
+}

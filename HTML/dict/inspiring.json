@@ -1,0 +1,50 @@
+{
+  "word": "inspiring",
+  "found": true,
+  "phonetic_uk": "ɪnˈspaɪərɪŋ",
+  "phonetic_us": "ɪnˈspaɪərɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=inspiring&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=inspiring&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "鼓舞人心的，有激励作用的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "激励，鼓舞；赋予灵感，激发（想法）；使产生（感觉或情感）（inspire 的现在分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She was a very strong, impressive character and one of the most inspiring people I've ever met.",
+      "zh": "她性格坚强，令人钦佩，是我见过的最能鼓舞人心的人物之一。"
+    },
+    {
+      "en": "He is no doubt inspiring others.",
+      "zh": "他无疑是在激励别人。"
+    },
+    {
+      "en": "His speech was inspiring and touched my heart.",
+      "zh": "他的发言鼓舞人心，动人肺腑。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "鼓舞人心的；灌输的；启发灵感的",
+      "words": [
+        "heartening",
+        "stimulatory"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "鼓舞；激发；使感悟（inspire的ing形式）",
+      "words": [
+        "prompting"
+      ]
+    }
+  ]
+}

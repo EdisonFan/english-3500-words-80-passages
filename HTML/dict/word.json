@@ -1,0 +1,75 @@
+{
+  "word": "word",
+  "found": true,
+  "phonetic_uk": "wɜːd",
+  "phonetic_us": "wɜːrd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=word&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=word&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "字，词，单词；（某人说的）话，言语（words）；简短的交谈，谈话；命令，指示；消息，信息；诺言，承诺；口角，吵架（words）；（警告、建议、赞扬的）话，话语；歌词（words）；一个字（所说或所写的最小量）（a word）；（不同于行动的）言，言语；字（尤指16或32个字节的计算机数据基本单位）；《圣经》，福音（the Word）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "措辞，用词"
+    },
+    {
+      "pos": "int.",
+      "meaning": "<美> （表示接受或同意别人刚说的话）就是，说得对"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Word）（英）沃德（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "words"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "words"
+    },
+    {
+      "name": "现在分词",
+      "value": "wording"
+    },
+    {
+      "name": "过去式",
+      "value": "worded"
+    },
+    {
+      "name": "过去分词",
+      "value": "worded"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He had erased the wrong word.",
+      "zh": "他擦去了写错的字。"
+    },
+    {
+      "en": "The appropriate word eluded him.",
+      "zh": "他想不起来那个合适的词。"
+    },
+    {
+      "en": "The English word 'sensible' and the French word 'sensible' are false friends.",
+      "zh": "英语的sensible一词和法语的sensible一词同形异义。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[语]单词；话语；消息；诺言；命令",
+      "words": [
+        "news",
+        "instruction",
+        "bidding",
+        "message",
+        "order"
+      ]
+    }
+  ]
+}

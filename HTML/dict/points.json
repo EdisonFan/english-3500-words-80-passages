@@ -1,0 +1,57 @@
+{
+  "word": "points",
+  "found": true,
+  "phonetic_uk": "pɔɪnts",
+  "phonetic_us": "pɔɪnts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=points&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=points&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "点；目的（point 的复数）；见解"
+    },
+    {
+      "pos": "v.",
+      "meaning": "指引；瞄准（point 的第三人称单数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Points）人名；（英）波因茨"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Each answer is worth 20 points.",
+      "zh": "每题为20分。"
+    },
+    {
+      "en": "We were trailing by five points.",
+      "zh": "我们落后五分。"
+    },
+    {
+      "en": "He summarized the salient points.",
+      "zh": "他对要点作了归纳。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "点；目的（point的复数）；见解",
+      "words": [
+        "objectives",
+        "ends",
+        "purposes",
+        "views",
+        "intentions"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "指引；瞄准（point的第三人称单数）",
+      "words": [
+        "leads"
+      ]
+    }
+  ]
+}

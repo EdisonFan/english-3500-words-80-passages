@@ -1,0 +1,39 @@
+{
+  "word": "accessible",
+  "found": true,
+  "phonetic_uk": "əkˈsesəb(ə)l",
+  "phonetic_us": "əkˈsesəb(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=accessible&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=accessible&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "可到达的，可进入的；易得到的，可使用的；可以理解的，易懂的；平易近人的，随和的；易受影响的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The centre is easily accessible to the general public.",
+      "zh": "该中心对于广大公众来讲很便利。"
+    },
+    {
+      "en": "The museum is easily accessible by car.",
+      "zh": "开车可以方便地到达博物馆。"
+    },
+    {
+      "en": "These documents are not accessible to the public.",
+      "zh": "公众无法看到这些文件。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "易接近的；可进入的；可理解的",
+      "words": [
+        "accostable",
+        "comprehensible"
+      ]
+    }
+  ]
+}

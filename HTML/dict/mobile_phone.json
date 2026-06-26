@@ -1,0 +1,39 @@
+{
+  "word": "mobile phone",
+  "found": true,
+  "phonetic_uk": "ˌməʊbaɪl ˈfəʊn",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mobile%20phone&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mobile%20phone&type=2",
+  "defs": [
+    {
+      "pos": "",
+      "meaning": "移动电话，即手机"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "My mobile phone is extremely useful.",
+      "zh": "我的手机极为有用。"
+    },
+    {
+      "en": "He forgot the charger for his mobile phone.",
+      "zh": "他忘了带手机充电器。"
+    },
+    {
+      "en": "We managed to raise him on his mobile phone.",
+      "zh": "我们打他的移动电话，总算找到了他。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "",
+      "meaning": "手机；行动电话",
+      "words": [
+        "handset",
+        "combined set"
+      ]
+    }
+  ]
+}

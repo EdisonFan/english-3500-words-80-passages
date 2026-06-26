@@ -1,0 +1,50 @@
+{
+  "word": "observation",
+  "found": true,
+  "phonetic_uk": "ˌɒbzəˈveɪʃ(ə)n",
+  "phonetic_us": "ˌɑːbzərˈveɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=observation&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=observation&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "观察，监视；观察力；观察资料，观察结果；言论，评论；遵守，奉行；测天"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "用于观察的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "observations"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She has good powers of observation.",
+      "zh": "她有很强的观察力。"
+    },
+    {
+      "en": "Is that a criticism or just an observation?",
+      "zh": "那是一种批评呢，还是一种观察评论而已？"
+    },
+    {
+      "en": "The diaries are a mixture of confession and observation.",
+      "zh": "这些日记混合着自白和一些观察。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "观察；监视；观察报告",
+      "words": [
+        "view",
+        "monitoring",
+        "surveillance",
+        "watch"
+      ]
+    }
+  ]
+}

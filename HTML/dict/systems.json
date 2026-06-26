@@ -1,0 +1,38 @@
+{
+  "word": "systems",
+  "found": true,
+  "phonetic_uk": "ˈsɪstəmz",
+  "phonetic_us": "ˈsɪstəmz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=systems&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=systems&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "系统；体制，体系；制度（system 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "In effect, the two systems are identical.",
+      "zh": "实际上，这两种系统完全一样。"
+    },
+    {
+      "en": "Taylor's company makes data-processing systems.",
+      "zh": "泰勒的公司研发数据处理系统。"
+    },
+    {
+      "en": "The two systems are, at bottom, conceptual models.",
+      "zh": "这两个系统实际上是概念模型。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "系统（system的复数形式）；体制，体系；制度",
+      "words": [
+        "setups"
+      ]
+    }
+  ]
+}

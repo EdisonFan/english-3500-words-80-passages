@@ -1,0 +1,50 @@
+{
+  "word": "threads",
+  "found": true,
+  "phonetic_uk": "θredz",
+  "phonetic_us": "θredz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=threads&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=threads&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[纺]线；线程（thread 的复数）；相关串连"
+    },
+    {
+      "pos": "v.",
+      "meaning": "穿线于；穿过（thread 的第三人称单数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The screw threads will be able to get a good grip.",
+      "zh": "这些螺纹可以咬合得很紧。"
+    },
+    {
+      "en": "The author skilfully draws together the different threads of the plot.",
+      "zh": "作者娴熟地把情节的各种线索串联在一起。"
+    },
+    {
+      "en": "This rope is twisted from many threads.",
+      "zh": "这根绳子是由许多线搓合而成的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "线；线程（thread的复数）；相关串连",
+      "words": [
+        "lines",
+        "strands"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "穿线于；穿过（thread的第三人称单数形式）",
+      "words": [
+        "traverses"
+      ]
+    }
+  ]
+}

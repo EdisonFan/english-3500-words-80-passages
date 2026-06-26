@@ -1,0 +1,42 @@
+{
+  "word": "universally",
+  "found": true,
+  "phonetic_uk": "ˌjuːnɪˈvɜːsəli",
+  "phonetic_us": "ˌjuːnɪˈvɜːrsəli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=universally&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=universally&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "普遍地，人人；随时随地，在各种情况下"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The disadvantage is that it is not universally available.",
+      "zh": "不利之处是它并非到处都能找到。"
+    },
+    {
+      "en": "Mr. Guber and Mr. Peters aren't universally loved in Hollywood but they are well-connected.",
+      "zh": "古贝尔先生和彼得斯先生在好莱坞并不普遍受人爱戴，但他们有着良好的社会关系。"
+    },
+    {
+      "en": "Children universally prefer to live in peace and security, even if that means living with only one parent.",
+      "zh": "孩子们普遍愿意过平静安宁的生活，即使那意味着只能和单亲生活在一起。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "普遍地；人人；到处",
+      "words": [
+        "generally",
+        "everywhere",
+        "around",
+        "throughout",
+        "about"
+      ]
+    }
+  ]
+}

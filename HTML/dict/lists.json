@@ -1,0 +1,39 @@
+{
+  "word": "lists",
+  "found": true,
+  "phonetic_uk": "ˈlɪsts",
+  "phonetic_us": "lɪsts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=lists&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=lists&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "竞技场；目录，名单；清单（list 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Mailing lists are updated periodically.",
+      "zh": "邮寄名单定期更新。"
+    },
+    {
+      "en": "Such lists are long and tedious to read.",
+      "zh": "这种清单读起来既冗长又乏味烦人。"
+    },
+    {
+      "en": "Social services keep lists of at-risk children.",
+      "zh": "社工组织保留有在家里可能遭受伤害的孩子名单。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "竞技场",
+      "words": [
+        "arena",
+        "coliseum"
+      ]
+    }
+  ]
+}

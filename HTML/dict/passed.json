@@ -1,0 +1,43 @@
+{
+  "word": "passed",
+  "found": true,
+  "phonetic_uk": "pɑːst",
+  "phonetic_us": "pæst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=passed&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=passed&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "已经通过的；已经过去的；已被传递的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "经过；穿过；绕；传递；转给（pass 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The evening passed enjoyably.",
+      "zh": "这个晚上过得很愉快。"
+    },
+    {
+      "en": "The motion was passed unanimously.",
+      "zh": "这一动议获一致通过。"
+    },
+    {
+      "en": "He passed down the tunnel.",
+      "zh": "他穿过隧道。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "通过；传递（pass的过去分词）；超过",
+      "words": [
+        "surpassed",
+        "exceeded"
+      ]
+    }
+  ]
+}

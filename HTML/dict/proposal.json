@@ -1,0 +1,47 @@
+{
+  "word": "proposal",
+  "found": true,
+  "phonetic_uk": "prəˈpəʊz(ə)l",
+  "phonetic_us": "prəˈpoʊz(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=proposal&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=proposal&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "提议，建议；提案；（计划、建议等的）提出；求婚"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "proposals"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The proposal was emphatically defeated.",
+      "zh": "这个建议已被断然否决。"
+    },
+    {
+      "en": "The proposal is relatively uncontentious.",
+      "zh": "这个建议并没有什么重大的争议。"
+    },
+    {
+      "en": "The proposal is currently being canvassed.",
+      "zh": "目前人们正在详细讨论这个提案。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "提议，建议；求婚",
+      "words": [
+        "suggestion",
+        "advice",
+        "offer",
+        "instance",
+        "recommendation"
+      ]
+    }
+  ]
+}

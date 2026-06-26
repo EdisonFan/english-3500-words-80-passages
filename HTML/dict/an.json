@@ -1,0 +1,34 @@
+{
+  "word": "an",
+  "found": true,
+  "phonetic_uk": "æn; ən",
+  "phonetic_us": "æn; ən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=an&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=an&type=2",
+  "defs": [
+    {
+      "pos": "det.",
+      "meaning": "一个（用于元音前）"
+    },
+    {
+      "pos": "art.",
+      "meaning": "一（在元音音素前）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "This recipe is an adaptation of an old favourite.",
+      "zh": "这个食谱是一个传统名食谱的改编。"
+    },
+    {
+      "en": "The exam consists of an essay and an unseen translation.",
+      "zh": "考试包括一篇作文和一篇即席翻译。"
+    },
+    {
+      "en": "An iron bar stuck out at an angle.",
+      "zh": "一根铁条成一定角度地突出来。"
+    }
+  ],
+  "synonyms": []
+}

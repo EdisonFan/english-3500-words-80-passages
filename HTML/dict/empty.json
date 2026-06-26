@@ -1,0 +1,85 @@
+{
+  "word": "empty",
+  "found": true,
+  "phonetic_uk": "ˈempti",
+  "phonetic_us": "ˈempti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=empty&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=empty&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "空的；空洞的，无意义的；空虚的；无知的，愚蠢的；无用的，徒劳的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "清空；变空；流入；使失去"
+    },
+    {
+      "pos": "n.",
+      "meaning": "空容器"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "empties"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "empties"
+    },
+    {
+      "name": "现在分词",
+      "value": "emptying"
+    },
+    {
+      "name": "过去式",
+      "value": "emptied"
+    },
+    {
+      "name": "过去分词",
+      "value": "emptied"
+    },
+    {
+      "name": "比较级",
+      "value": "emptier"
+    },
+    {
+      "name": "最高级",
+      "value": "emptiest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The nation's coffers are empty.",
+      "zh": "国库空虚。"
+    },
+    {
+      "en": "Andrew crushed his empty can.",
+      "zh": "安德鲁压扁了他的空罐子。"
+    },
+    {
+      "en": "The beach was nearly empty.",
+      "zh": "海滩几乎是空荡荡的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "空的；无意义的；无知的；徒劳的",
+      "words": [
+        "dark",
+        "hollow",
+        "bare",
+        "vacant"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使失去；使…成为空的",
+      "words": [
+        "dispossess"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "word": "centimeter",
+  "found": true,
+  "phonetic_uk": "ˈsentɪmiːtə(r)",
+  "phonetic_us": "ˈsentɪmiːtər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=centimeter&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=centimeter&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[计量] 厘米；[计量] 公分"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "centimeters"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Who guesses one centimeter?",
+      "zh": "谁猜的一厘米？"
+    },
+    {
+      "en": "A seed only needs one cubic centimeter of soil to grow.",
+      "zh": "一颗种子只需要一立方厘米的土壤就能生长。"
+    },
+    {
+      "en": "All the samples were taken from a centimeter-long, extremely thin ribbon of the metallic glass.",
+      "zh": "所有的样品都取自一厘米长的极薄的金属玻璃带。"
+    }
+  ],
+  "synonyms": []
+}

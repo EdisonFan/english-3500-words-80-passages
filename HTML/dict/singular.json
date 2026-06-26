@@ -1,0 +1,46 @@
+{
+  "word": "singular",
+  "found": true,
+  "phonetic_uk": "ˈsɪŋɡjələ(r)",
+  "phonetic_us": "ˈsɪŋɡjələr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=singular&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=singular&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "单数的，单数形式的；<正式>非凡的，突出的；<文>奇怪的，异常的；独一无二的，独特的；（数）（方阵）零行列式的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "单数，单数形式（the singular）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "In 'Tom likes jazz', the singular verb 'likes' agrees with the subject 'Tom'.",
+      "zh": "在Tom likes jazz一句中，动词单数形式likes与主语Tom一致。"
+    },
+    {
+      "en": "'I am' is the first person singular of the present tense of the verb 'to be'.",
+      "zh": "I am是动词to be现在时的第一人称单数。"
+    },
+    {
+      "en": "I would be a singular businessman.",
+      "zh": "我将成为一个非凡的商人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "单数的；单一的；非凡的；[数]异常的",
+      "words": [
+        "remarkable",
+        "extraordinary",
+        "novel",
+        "wonder",
+        "exquisite"
+      ]
+    }
+  ]
+}

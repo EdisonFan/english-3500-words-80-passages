@@ -1,0 +1,39 @@
+{
+  "word": "historic",
+  "found": true,
+  "phonetic_uk": "hɪˈstɒrɪk",
+  "phonetic_us": "hɪˈstɔːrɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=historic&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=historic&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "历史上重要的；过去的，与历史（或过去）有关的；（时态）历史的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more historic"
+    },
+    {
+      "name": "最高级",
+      "value": "most historic"
+    }
+  ],
+  "examples": [
+    {
+      "en": "'Historic' and 'historical' are easily confusable.",
+      "zh": "historic和historical容易搅混。"
+    },
+    {
+      "en": "We should take more care of our historic buildings.",
+      "zh": "我们应该更加爱护有历史意义的建筑。"
+    },
+    {
+      "en": "The amount of litter in the streets is unbefitting for a historic city.",
+      "zh": "街道上垃圾之多与历史名城不协调。"
+    }
+  ],
+  "synonyms": []
+}

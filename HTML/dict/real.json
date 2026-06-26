@@ -1,0 +1,77 @@
+{
+  "word": "real",
+  "found": true,
+  "phonetic_uk": "ˈriːəl",
+  "phonetic_us": "ˈriːəl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=real&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=real&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "实际存在的，非想象的；名副其实的；真正的，真实的；真的，非人工的；真诚的；强烈的；确实重大的；十足的，绝对的（用来加强语气）；（数量、数字）真实的，实际的；（光学）（图像）实的；（书或电影中的场景）逼真的，似真的；（哲学）实在的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "很，非常地"
+    },
+    {
+      "pos": "n.",
+      "meaning": "雷阿尔（巴西1994年以来的基本货币单位，等于100分）；雷阿尔（多个西班牙语国家以前的硬币和货币单位）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Real）（德、西、葡、法）雷亚尔，（英）里尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "reals或reales或reais或reis"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She's a real cosmopolitan.",
+      "zh": "她是个真正的四海为家的人。"
+    },
+    {
+      "en": "Are those real flowers?",
+      "zh": "那些是真花吗？"
+    },
+    {
+      "en": "That tastes real good.",
+      "zh": "味道好极了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[数]实际的；真实的；实在的",
+      "words": [
+        "practical",
+        "actual",
+        "effective",
+        "sincere",
+        "honest"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "真正地；确实地",
+      "words": [
+        "strictly",
+        "indeed",
+        "undoubtedly",
+        "authentically"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "现实；[数]实数",
+      "words": [
+        "actuality",
+        "praxis"
+      ]
+    }
+  ]
+}

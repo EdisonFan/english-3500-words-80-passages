@@ -1,0 +1,39 @@
+{
+  "word": "symbols",
+  "found": true,
+  "phonetic_uk": "ˈsɪmbəlz",
+  "phonetic_us": "ˈsɪmblz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=symbols&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=symbols&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "符号；象征；标志；符号表（symbol 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Do these symbols have any particular significance?",
+      "zh": "这些符号有什么特别的含义吗？"
+    },
+    {
+      "en": "A list of symbols used on the map is given in the index.",
+      "zh": "这份地图所使用的符号全部列在索引中。"
+    },
+    {
+      "en": "Both are now official symbols.",
+      "zh": "现在两者都是官方的象征。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "符号；象征；标志；符号表（symbol的复数）",
+      "words": [
+        "signs",
+        "notations"
+      ]
+    }
+  ]
+}

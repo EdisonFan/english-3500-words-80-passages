@@ -1,0 +1,47 @@
+{
+  "word": "everyday",
+  "found": true,
+  "phonetic_uk": "ˈevrideɪ",
+  "phonetic_us": "ˈevrideɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=everyday&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=everyday&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "日常的，每天的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The Internet has become part of everyday life.",
+      "zh": "互联网已成为日常生活的一部分。"
+    },
+    {
+      "en": "Complaints seemed to be an everyday occurrence.",
+      "zh": "投诉似乎成了天天发生的事。"
+    },
+    {
+      "en": "Her novels are anchored in everyday experience.",
+      "zh": "她的小说取材自日常生活经验。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "每天的，日常的",
+      "words": [
+        "daily",
+        "household",
+        "routine"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "平时；寻常日子",
+      "words": [
+        "peacetime"
+      ]
+    }
+  ]
+}

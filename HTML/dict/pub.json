@@ -1,0 +1,72 @@
+{
+  "word": "pub",
+  "found": true,
+  "phonetic_uk": "pʌb",
+  "phonetic_us": "pʌb",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pub&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pub&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "酒吧，酒馆；酒店，旅馆；路人局（游戏术语）"
+    },
+    {
+      "pos": "abbr.",
+      "meaning": "公众的；公开的（public 的缩写）；出版，发行；出版物，发行物；（信息的） 刊登，公布 （publication 的缩写）；（媒体的）关注，报道；宣传业，广告行业；引起公众关注的事物（publicity的缩写）；宣传， 推广"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<非正式>时常出入于酒吧，泡酒吧"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】  （Pub）（匈）普布（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "pubs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "pubs"
+    },
+    {
+      "name": "现在分词",
+      "value": "pubbing"
+    },
+    {
+      "name": "过去式",
+      "value": "pubbed"
+    },
+    {
+      "name": "过去分词",
+      "value": "pubbed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They serve good pub grub there.",
+      "zh": "他们那儿供应上好的酒吧食物。"
+    },
+    {
+      "en": "This is your typical English pub.",
+      "zh": "这就是典型的英格兰酒吧。"
+    },
+    {
+      "en": "He was in the pub until closing time.",
+      "zh": "他在酒馆里待到打烊。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "酒馆；客栈",
+      "words": [
+        "hotel",
+        "tavern"
+      ]
+    }
+  ]
+}

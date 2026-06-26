@@ -1,0 +1,68 @@
+{
+  "word": "branch",
+  "found": true,
+  "phonetic_uk": "brɑːntʃ",
+  "phonetic_us": "bræntʃ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=branch&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=branch&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "树枝，分枝；分支机构，分店；（政府或机构的）部门；分科，分支；（家族的）支系；支流，岔路"
+    },
+    {
+      "pos": "v.",
+      "meaning": "分岔，岔开；出枝，发出新枝"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Branch）布兰奇（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "branches"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "branches"
+    },
+    {
+      "name": "现在分词",
+      "value": "branching"
+    },
+    {
+      "name": "过去式",
+      "value": "branched"
+    },
+    {
+      "name": "过去分词",
+      "value": "branched"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He chopped a branch off the tree.",
+      "zh": "他从那棵树上砍下一根树枝。"
+    },
+    {
+      "en": "Deposits can be made at any branch.",
+      "zh": "在任何一家分行都可以存钱。"
+    },
+    {
+      "en": "A branch whipped across the car window.",
+      "zh": "一条树枝突然划过车窗。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[林]树枝，[植]分枝；分部；[地理][水文]支流",
+      "words": [
+        "sticks",
+        "feeder"
+      ]
+    }
+  ]
+}

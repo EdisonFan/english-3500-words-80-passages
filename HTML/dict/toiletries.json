@@ -1,0 +1,39 @@
+{
+  "word": "toiletries",
+  "found": true,
+  "phonetic_uk": "ˈtɔɪlətriz",
+  "phonetic_us": "ˈtɔɪlətriz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=toiletries&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=toiletries&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "化妆品；化妆用具；旅行洗漱包"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Grey-market perfumes and toiletries are now commonly sold by mail.",
+      "zh": "灰市的香水和化妆品现在常以邮购方式售出。"
+    },
+    {
+      "en": "Expensive cosmetics and toiletries.",
+      "zh": "昂贵的化妆品和盥洗用品。"
+    },
+    {
+      "en": "Toiletries' part of the experience '.",
+      "zh": "化妆用品“属于住宿体验的一部分”。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "化妆品；化妆用具",
+      "words": [
+        "cosmetic products",
+        "make-up"
+      ]
+    }
+  ]
+}

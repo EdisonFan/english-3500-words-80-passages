@@ -1,0 +1,56 @@
+{
+  "word": "drawing",
+  "found": true,
+  "phonetic_uk": "ˈdrɔːɪŋ",
+  "phonetic_us": "ˈdrɔːɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=drawing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=drawing&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "图画，素描画；绘画（艺术），制图技巧；抽签，抽奖；图画，素描画"
+    },
+    {
+      "pos": "v.",
+      "meaning": "画；拉；吸引（draw 的现在分词）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "drawings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She did a drawing of me.",
+      "zh": "她为我画了张素描。"
+    },
+    {
+      "en": "I like dancing, singing, and drawing.",
+      "zh": "我喜欢跳舞、唱歌和画画。"
+    },
+    {
+      "en": "The movie is drawing large audiences.",
+      "zh": "这部影片吸引着大批观众。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "图画；牵引；素描术",
+      "words": [
+        "picture",
+        "traction"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "绘画；吸引（draw的ing形式）；拖曳",
+      "words": [
+        "painting",
+        "gaining"
+      ]
+    }
+  ]
+}

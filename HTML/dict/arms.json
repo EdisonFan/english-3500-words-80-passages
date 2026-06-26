@@ -1,0 +1,54 @@
+{
+  "word": "arms",
+  "found": true,
+  "phonetic_uk": "ɑːmz",
+  "phonetic_us": "ɑːrmz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=arms&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=arms&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "臂（arm 的复数）；[军]武器；纹章"
+    },
+    {
+      "pos": "v.",
+      "meaning": "武装；配备（arm 的三单形式）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Arms）人名；（英）阿姆斯"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He waved his arms expansively.",
+      "zh": "他豪爽地挥舞着双臂。"
+    },
+    {
+      "en": "His arms swung as he walked.",
+      "zh": "他边走边摆着双臂。"
+    },
+    {
+      "en": "His arms were covered in tattoos.",
+      "zh": "他的胳膊上刺满了花纹。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "臂（arm的复数）；[军]武器；纹章",
+      "words": [
+        "weapons",
+        "brachia"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "武装；配备（arm的三单形式）",
+      "words": [
+        "weapons"
+      ]
+    }
+  ]
+}

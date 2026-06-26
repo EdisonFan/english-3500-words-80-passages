@@ -1,0 +1,86 @@
+{
+  "word": "pile",
+  "found": true,
+  "phonetic_uk": "paɪl",
+  "phonetic_us": "paɪl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pile&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pile&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "一堆，一叠；一大堆，大量；大笔钱财；（地毯的）绒面；地桩；宏伟建筑物；痔疮；（纹章）（尖头朝下的）楔形普通图记；电池组"
+    },
+    {
+      "pos": "v.",
+      "meaning": "堆放；堆满；聚集；将（女子头发）高高盘起；蜂拥，拥挤；（车）撞（~ into）；<非正式>夸大（~ something on）；用桩加固（或支撑）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Pile）（西）皮莱，（英）派尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "piles"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "piles"
+    },
+    {
+      "name": "现在分词",
+      "value": "piling"
+    },
+    {
+      "name": "过去式",
+      "value": "piled"
+    },
+    {
+      "name": "过去分词",
+      "value": "piled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He swept the leaves up into a pile.",
+      "zh": "他把树叶扫成一堆。"
+    },
+    {
+      "en": "The leaves had been raked into a pile.",
+      "zh": "树叶已经用耙子拢成了一堆。"
+    },
+    {
+      "en": "Your letter got buried under a pile of papers.",
+      "zh": "你的信被压在一堆文件底下。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "堆；大量；建筑群",
+      "words": [
+        "lots of",
+        "wealth",
+        "ocean",
+        "sea",
+        "body"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "累积；打桩于",
+      "words": [
+        "cumulate"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "挤；堆积；积累",
+      "words": [
+        "crowd",
+        "pack"
+      ]
+    }
+  ]
+}

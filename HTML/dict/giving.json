@@ -1,0 +1,56 @@
+{
+  "word": "giving",
+  "found": true,
+  "phonetic_uk": "ˈɡɪvɪŋ",
+  "phonetic_us": "ˈɡɪvɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=giving&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=giving&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "慷慨的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "给予；礼物；给予物"
+    },
+    {
+      "pos": "v.",
+      "meaning": "给；赠送；付出；产生（give 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I'm giving him a B minus.",
+      "zh": "我打算给他一个B-。"
+    },
+    {
+      "en": "We're giving away 2,000 free samples.",
+      "zh": "我们正在赠送2000件免费样品。"
+    },
+    {
+      "en": "He had to choose between giving up his job and giving up his principles. He chose the former.",
+      "zh": "他得在放弃工作和放弃原则二者中择其一。他选择了前者。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "给予；礼物；给予物",
+      "words": [
+        "gift",
+        "present",
+        "tribute"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "给；赠送（give的ing形式）；付出；产生",
+      "words": [
+        "resulting",
+        "presenting"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "outcomes",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=outcomes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=outcomes&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "产出，结局；效果（outcome 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "All of these outcomes are linked to a lack of physical exercise.",
+      "zh": "所有这些后果都与缺乏体育锻炼有关。"
+    },
+    {
+      "en": "Teachers imagine they will improve outcomes if they tailor their presentations to each student.",
+      "zh": "教师们认为，如果他们为每个学生量身定制他们的演示文稿，就会提高教学效果。"
+    },
+    {
+      "en": "Four possible outcomes have been identified.",
+      "zh": "现已确定有四种可能的结果。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "产出，结局；效果（outcome的复数）",
+      "words": [
+        "effects",
+        "deliverables"
+      ]
+    }
+  ]
+}

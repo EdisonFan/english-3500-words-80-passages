@@ -1,0 +1,80 @@
+{
+  "word": "fetch",
+  "found": true,
+  "phonetic_uk": "fetʃ",
+  "phonetic_us": "fetʃ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fetch&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fetch&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（去）拿来，（去）找来；售得，卖得；推导出，演绎出；吸引，迷住；抵达，到达；<非正式>给（某人）以（重重的一击或一巴掌）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "fetches"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "fetches"
+    },
+    {
+      "name": "现在分词",
+      "value": "fetching"
+    },
+    {
+      "name": "过去式",
+      "value": "fetched"
+    },
+    {
+      "name": "过去分词",
+      "value": "fetched"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He went to fetch some books.",
+      "zh": "他去取来了一些书。"
+    },
+    {
+      "en": "Could you fetch me my bag?",
+      "zh": "你能帮我去取我的包吗？"
+    },
+    {
+      "en": "I had to fetch water from the well.",
+      "zh": "我得去从水井里打水。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "取来；接来；到达；吸引",
+      "words": [
+        "absorb",
+        "attract",
+        "engage",
+        "draw",
+        "strike"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "拿；取物；卖得",
+      "words": [
+        "take"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "取得；诡计",
+      "words": [
+        "taking",
+        "procurement",
+        "scheme",
+        "fraud"
+      ]
+    }
+  ]
+}

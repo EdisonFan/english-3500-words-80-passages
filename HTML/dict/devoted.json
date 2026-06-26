@@ -1,0 +1,44 @@
+{
+  "word": "devoted",
+  "found": true,
+  "phonetic_uk": "dɪˈvəʊtɪd",
+  "phonetic_us": "dɪˈvoʊtɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=devoted&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=devoted&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "挚爱的，忠诚的；热衷的；专用于……的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "献身，致力；用于（devote 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He devoted his energies to the reformation of science.",
+      "zh": "他把他的全部精力投入到了科学的革新中。"
+    },
+    {
+      "en": "She is devoted to her family.",
+      "zh": "她深深爱着自己的家庭。"
+    },
+    {
+      "en": "She devoted herself to her career.",
+      "zh": "她全力倾注于自己的事业。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "献身的；忠诚的",
+      "words": [
+        "loving",
+        "dedicated",
+        "faithful"
+      ]
+    }
+  ]
+}

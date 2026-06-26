@@ -1,0 +1,77 @@
+{
+  "word": "trip",
+  "found": true,
+  "phonetic_uk": "trɪp",
+  "phonetic_us": "trɪp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=trip&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=trip&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（尤指短程往返的）旅行，旅游；出门，出行；绊倒；<非正式>（吸毒所致的）幻觉，迷幻感受；<美，非正式>让人开心的奇人，奇妙有趣的经历；强烈的情感体验；（赛跑等比赛的）赛程；自我放纵的态度（或行动）；（机器、电路的）开关；<古>轻捷的脚步；<古>错误"
+    },
+    {
+      "pos": "v.",
+      "meaning": "绊，绊倒；脚步轻快地走（或跑、跳舞）；（尤指意外地）触动（开关）；（部分电路）自动断开；<非正式>（服用毒品后）产生幻觉；（字句）轻松自如地吐出；作短程旅行；竖起（帆桁等）；（航海）起（锚）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Trip）（美）特里普（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "trips"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "trips"
+    },
+    {
+      "name": "现在分词",
+      "value": "tripping"
+    },
+    {
+      "name": "过去式",
+      "value": "tripped"
+    },
+    {
+      "name": "过去分词",
+      "value": "tripped"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She videotaped the entire trip.",
+      "zh": "她录下了整个旅程。"
+    },
+    {
+      "en": "Your trip must have been fun!",
+      "zh": "你这次旅行一定很开心吧！"
+    },
+    {
+      "en": "His doctor wouldn't OK the trip.",
+      "zh": "他的医生不会同意这趟旅行的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "绊倒；远足；犯错误；轻快地走",
+      "words": [
+        "excurse",
+        "make a mistake"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "旅行；绊倒；差错",
+      "words": [
+        "journey",
+        "tour",
+        "travel"
+      ]
+    }
+  ]
+}

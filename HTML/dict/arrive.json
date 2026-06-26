@@ -1,0 +1,61 @@
+{
+  "word": "arrive",
+  "found": true,
+  "phonetic_uk": "əˈraɪv",
+  "phonetic_us": "əˈraɪv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=arrive&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=arrive&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "到达，抵达；送达，寄到；发生，出现，诞生；开始，到来；成功，出名；作出（决定）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Arrive）（法）阿里夫（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "arrives"
+    },
+    {
+      "name": "现在分词",
+      "value": "arriving"
+    },
+    {
+      "name": "过去式",
+      "value": "arrived"
+    },
+    {
+      "name": "过去分词",
+      "value": "arrived"
+    }
+  ],
+  "examples": [
+    {
+      "en": "When you arrive, ask for Jane.",
+      "zh": "你到达后找简。"
+    },
+    {
+      "en": "We hope to arrive around two.",
+      "zh": "我们希望能在两点钟左右到达。"
+    },
+    {
+      "en": "We should arrive before dark.",
+      "zh": "我们天黑以前应该能赶到。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "到达；成功；达成；出生",
+      "words": [
+        "land",
+        "win",
+        "make good"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "actions",
+  "found": true,
+  "phonetic_uk": "ˈækʃ(ə)nz",
+  "phonetic_us": "ˈækʃnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=actions&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=actions&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "行动（action 的复数）；动作"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Their actions amount to a breach of contract.",
+      "zh": "他们的行为已属违反合同。"
+    },
+    {
+      "en": "His actions were based on a false assumption.",
+      "zh": "他的行为基于错误的设想。"
+    },
+    {
+      "en": "Her actions and her promises contrasted sharply.",
+      "zh": "她的行动与她的诺言相差甚远。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "行动（action的复数）；动作",
+      "words": [
+        "movements",
+        "proceedings"
+      ]
+    }
+  ]
+}

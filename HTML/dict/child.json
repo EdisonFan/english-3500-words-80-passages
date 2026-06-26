@@ -1,0 +1,46 @@
+{
+  "word": "child",
+  "found": true,
+  "phonetic_uk": "tʃaɪld",
+  "phonetic_us": "tʃaɪld",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=child&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=child&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "儿童，小孩；子女；深受（某时期思想）影响的人；孩子气的人，幼稚的人；缺乏经验的人"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "children"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The child was christened Mary.",
+      "zh": "这孩子受洗时取名玛丽。"
+    },
+    {
+      "en": "They desperately wanted a child.",
+      "zh": "他们非常想要一个孩子。"
+    },
+    {
+      "en": "The child stumbled and fell.",
+      "zh": "孩子绊了一下，摔倒了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "儿童，孩子；产物；子孙",
+      "words": [
+        "son",
+        "creation",
+        "fruit",
+        "seed"
+      ]
+    }
+  ]
+}

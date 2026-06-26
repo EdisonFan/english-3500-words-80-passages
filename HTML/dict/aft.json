@@ -1,0 +1,51 @@
+{
+  "word": "aft",
+  "found": true,
+  "phonetic_uk": "ɑːft",
+  "phonetic_us": "æft",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=aft&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=aft&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "经常（等于oft）；在（或向）船尾"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "在（或向）船尾的"
+    },
+    {
+      "pos": "abbr.",
+      "meaning": "下午；（非正式）在下午；下午好（afternoon）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Aft）（美）阿夫特（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I went aft to take my turn at the helm.",
+      "zh": "我到船尾去接班掌舵。"
+    },
+    {
+      "en": "Get the trysail aft and bent, and lower down the gaff.",
+      "zh": "把斜桁帆拉到船尾，弯下腰，把斜桁放下来。"
+    },
+    {
+      "en": "The aft peak tank and bilge were filled with concrete.",
+      "zh": "尾尖舱和舱底充满了混凝土。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "[船]在船尾；近船尾",
+      "words": [
+        "astern",
+        "sternwards"
+      ]
+    }
+  ]
+}

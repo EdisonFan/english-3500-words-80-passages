@@ -1,0 +1,55 @@
+{
+  "word": "once",
+  "found": true,
+  "phonetic_uk": "wʌns",
+  "phonetic_us": "wʌns",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=once&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=once&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "一次， 一回；曾经，一度；任何一次，从来；乘以一"
+    },
+    {
+      "pos": "conj.",
+      "meaning": "一.....就， 一旦"
+    },
+    {
+      "pos": "n.",
+      "meaning": "一次"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I met Miquela once, briefly.",
+      "zh": "我见过蜜凯拉一次，时间很短。"
+    },
+    {
+      "en": "I've only been there once.",
+      "zh": "我只去过那里一次。"
+    },
+    {
+      "en": "He once lived in Zambia.",
+      "zh": "他曾在赞比亚生活过。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "一次；曾经",
+      "words": [
+        "ever",
+        "e'er"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "一次，一回",
+      "words": [
+        "breath",
+        "one time"
+      ]
+    }
+  ]
+}

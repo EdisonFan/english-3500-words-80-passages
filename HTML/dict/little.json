@@ -1,0 +1,82 @@
+{
+  "word": "little",
+  "found": true,
+  "phonetic_uk": "ˈlɪt(ə)l",
+  "phonetic_us": "ˈlɪt(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=little&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=little&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "小的，比较小的；用于强调对某人或某物的意见；年幼的；短暂的，近的；微不足道的；可爱的，可怜的"
+    },
+    {
+      "pos": "det.",
+      "meaning": "一点儿，少得几乎没有；少量的，一些"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "极少，轻微；几乎不；短时间地，一会儿地"
+    },
+    {
+      "pos": "pron.",
+      "meaning": "少许"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Little）（英）利特尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "littler或less或lesser"
+    },
+    {
+      "name": "最高级",
+      "value": "littlest或least"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Come here, you little rascal!",
+      "zh": "过来，你这个小坏蛋！"
+    },
+    {
+      "en": "You little cheat!",
+      "zh": "你这小滑头！"
+    },
+    {
+      "en": "She's a proper little madam.",
+      "zh": "她真是个说一不二的小姑奶奶。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "小的；很少的；短暂的；小巧可爱的",
+      "words": [
+        "tiny",
+        "few",
+        "small",
+        "brief",
+        "passing"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "完全不",
+      "words": [
+        "far from"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "少许；没有多少；短时间",
+      "words": [
+        "touch",
+        "trait"
+      ]
+    }
+  ]
+}

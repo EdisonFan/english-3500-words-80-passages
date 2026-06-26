@@ -1,0 +1,50 @@
+{
+  "word": "writing",
+  "found": true,
+  "phonetic_uk": "ˈraɪtɪŋ",
+  "phonetic_us": "ˈraɪtɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=writing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=writing&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "写作，著书；作品，著作；写，书写；字迹；（书写或印刷的）文字；（某作家或专题的）著作，作品（writings）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "写字；写作；写信（write 的现在分词）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "writings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His writing lacks imagination.",
+      "zh": "他的作品缺乏想象。"
+    },
+    {
+      "en": "Jenny's writing a film script.",
+      "zh": "珍妮在写一个电影脚本。"
+    },
+    {
+      "en": "Leo, what's that you're writing?",
+      "zh": "利奥，你写的那是什么呀？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "书写；作品；[图情]著作；[法]笔迹",
+      "words": [
+        "works",
+        "production",
+        "literature",
+        "calligraphy"
+      ]
+    }
+  ]
+}

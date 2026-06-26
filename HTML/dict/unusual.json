@@ -1,0 +1,40 @@
+{
+  "word": "unusual",
+  "found": true,
+  "phonetic_uk": "ʌnˈjuːʒuəl",
+  "phonetic_us": "ʌnˈjuːʒuəl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=unusual&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=unusual&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "不寻常的，罕见的；与众不同的，独特的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He has an unusual cast of mind.",
+      "zh": "他的思想与众不同。"
+    },
+    {
+      "en": "I grew up in rather unusual circumstances.",
+      "zh": "我在相当不寻常的环境中长大。"
+    },
+    {
+      "en": "Jim was described by his colleagues as 'unusual'.",
+      "zh": "吉姆被同事们称为“不寻常”的人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "不寻常的；与众不同的；不平常的",
+      "words": [
+        "different",
+        "distinctive",
+        "apart"
+      ]
+    }
+  ]
+}

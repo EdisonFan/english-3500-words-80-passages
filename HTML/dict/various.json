@@ -1,0 +1,47 @@
+{
+  "word": "various",
+  "found": true,
+  "phonetic_uk": "ˈveəriəs",
+  "phonetic_us": "ˈveriəs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=various&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=various&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "各种各样的；迥异的，千差万别的"
+    },
+    {
+      "pos": "det.",
+      "meaning": "不止一个的，各别的"
+    },
+    {
+      "pos": "pron.",
+      "meaning": "不止一个的，各别的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He directed various TV shows.",
+      "zh": "他导演过各种电视节目。"
+    },
+    {
+      "en": "The methods are many and various.",
+      "zh": "方法很多而且各不相同。"
+    },
+    {
+      "en": "Police seized various books and tapes.",
+      "zh": "警方扣留了各种图书和磁带。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "各种各样的；多方面的",
+      "words": [
+        "varieties of",
+        "miscellaneous"
+      ]
+    }
+  ]
+}

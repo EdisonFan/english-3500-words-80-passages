@@ -1,0 +1,39 @@
+{
+  "word": "vibrant",
+  "found": true,
+  "phonetic_uk": "ˈvaɪbrənt",
+  "phonetic_us": "ˈvaɪbrənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=vibrant&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=vibrant&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "充满活力的，充满生机的，生气勃勃的；鲜艳的，醒目的；洪亮的，强劲的；颤抖的，震动的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The room was decorated in vibrant blues and greens.",
+      "zh": "那房间以鲜艳的蓝绿两色装饰。"
+    },
+    {
+      "en": "Tom felt himself being drawn toward her vibrant personality.",
+      "zh": "汤姆感到自己正被她充满活力的个性所吸引。"
+    },
+    {
+      "en": "A vibrant and growing economy does not improve everyone's quality of life.",
+      "zh": "一个生机勃发的经济体并不能提升每个人的生活质量。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[力]振动的；充满生气的；响亮的；战栗的",
+      "words": [
+        "oscillatory",
+        "libratory"
+      ]
+    }
+  ]
+}

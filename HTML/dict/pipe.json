@@ -1,0 +1,75 @@
+{
+  "word": "pipe",
+  "found": true,
+  "phonetic_uk": "paɪp",
+  "phonetic_us": "paɪp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pipe&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pipe&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "管子，管道；烟斗；管乐器；（管风琴的）音管；（苏格兰的）风笛（pipes）；（人或动物的）叫声，歌声；葡萄酒桶；（计算机）管线命令；符号\"|\""
+    },
+    {
+      "pos": "v.",
+      "meaning": "用管道运输；传送，播送（音乐、录音）；用管乐器吹奏；（吹长口哨）召集，召唤；高声说话，尖声唱；在食品（尤指蛋糕）上裱花；（为衣服或室内陈设品）拷边，滚边；插枝繁殖"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Pipe）（匈）皮佩，（英）派普（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "pipes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "pipes"
+    },
+    {
+      "name": "现在分词",
+      "value": "piping"
+    },
+    {
+      "name": "过去式",
+      "value": "piped"
+    },
+    {
+      "name": "过去分词",
+      "value": "piped"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He puffed (away) on his pipe.",
+      "zh": "他（一口一口地）吸着烟斗。"
+    },
+    {
+      "en": "Water gushed out of the pipe.",
+      "zh": "水从管子中涌出。"
+    },
+    {
+      "en": "Copper pipe is sold in lengths.",
+      "zh": "铜管按长度出售。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[建]管；[轻]烟斗；笛",
+      "words": [
+        "tube",
+        "cigarette holder"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "吹笛；尖叫",
+      "words": [
+        "scream"
+      ]
+    }
+  ]
+}

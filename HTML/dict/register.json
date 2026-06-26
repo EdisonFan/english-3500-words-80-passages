@@ -1,0 +1,85 @@
+{
+  "word": "register",
+  "found": true,
+  "phonetic_uk": "ˈredʒɪstə(r)",
+  "phonetic_us": "ˈredʒɪstər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=register&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=register&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "登记表，注册簿；注册员；（人或乐器的）声区，音区；（适合特定场合使用的）语体风格，语域；（印刷，摄影）套准，叠合；<美>现金出纳机；（电子设备的）寄存器；<美>（供暖或制冷设备的）调风口，节气门；（设计图案组成的）条，局部"
+    },
+    {
+      "pos": "v.",
+      "meaning": "登记，注册；（正式地或公开地）发表意见，提出主张；流露出，表达出；注意到，受到注意；（仪器上）显出，显示；把……挂号邮寄；取得（结果），得（分）；（印刷，摄影）套准，叠合"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Register）（美）雷吉斯特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "registers"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "registers"
+    },
+    {
+      "name": "现在分词",
+      "value": "registering"
+    },
+    {
+      "name": "过去式",
+      "value": "registered"
+    },
+    {
+      "name": "过去分词",
+      "value": "registered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Thousands lined up to register to vote.",
+      "zh": "数千人排队登记投票。"
+    },
+    {
+      "en": "Have you come to register at the school?",
+      "zh": "你到学校来注册过了吗？"
+    },
+    {
+      "en": "Could you sign the hotel register please, sir?",
+      "zh": "先生，请在酒店登记簿上签字好吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "登记；[专利]注册；记录；挂号邮寄；把…挂号；正式提出",
+      "words": [
+        "book in",
+        "book down"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "登记；[专利]注册；挂号",
+      "words": [
+        "book in",
+        "book down"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "登记；[专利]注册；记录；寄存器；登记簿",
+      "words": [
+        "entry",
+        "page",
+        "enrollment"
+      ]
+    }
+  ]
+}

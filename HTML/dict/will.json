@@ -1,0 +1,82 @@
+{
+  "word": "will",
+  "found": true,
+  "phonetic_uk": "wɪl",
+  "phonetic_us": "wɪl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=will&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=will&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "将，将要；请（请求某人做某事）；总是，惯于；（表示对习惯性发生行为不满）老是，一直；可能，大概；愿意，乐意；必须，一定；表示能力、容量能；（表示承诺或威胁）会，要；希望，想要；立定志向，决意；立遗嘱遗赠"
+    },
+    {
+      "pos": "n.",
+      "meaning": "意志，决心，毅力；意愿，心愿；遗嘱"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "wills"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "wills或will"
+    },
+    {
+      "name": "现在分词",
+      "value": "willing"
+    },
+    {
+      "name": "过去式",
+      "value": "willed或would"
+    },
+    {
+      "name": "过去分词",
+      "value": "willed或would"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You will be remunerated and so will your staff.",
+      "zh": "你将会得到报酬，你的员工也会。"
+    },
+    {
+      "en": "A fresh egg will sink and an old egg will float.",
+      "zh": "新鲜鸡蛋会下沉，旧鸡蛋会浮起来。"
+    },
+    {
+      "en": "There will come a time when they will have to negotiate.",
+      "zh": "他们终将会进行谈判的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "意志；情感；[法]遗嘱；意图；心愿",
+      "words": [
+        "emotion",
+        "intention",
+        "purpose",
+        "meaning",
+        "wish"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "决心要；遗赠；用意志力使",
+      "words": [
+        "bequeath"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "愿意；下决心",
+      "words": [
+        "prefer",
+        "decide"
+      ]
+    }
+  ]
+}

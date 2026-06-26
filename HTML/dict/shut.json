@@ -1,0 +1,83 @@
+{
+  "word": "shut",
+  "found": true,
+  "phonetic_uk": "ʃʌt",
+  "phonetic_us": "ʃʌt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=shut&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=shut&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "关闭，合上；把……关在；<英>（使）停止运作，（使）停止营业；禁止通行，封闭"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "关闭的，关上的；<英>打烊的，停止营业的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "关闭"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Shut）（俄）舒特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "shuts"
+    },
+    {
+      "name": "现在分词",
+      "value": "shutting"
+    },
+    {
+      "name": "过去式",
+      "value": "shut"
+    },
+    {
+      "name": "过去分词",
+      "value": "shut"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Archie, shut up. You're prattling.",
+      "zh": "阿奇，闭嘴。你在闲扯淡。"
+    },
+    {
+      "en": "The door clicked shut.",
+      "zh": "门咔嗒一声关上了。"
+    },
+    {
+      "en": "The door was shut.",
+      "zh": "门关着。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "关闭；停业；幽禁",
+      "words": [
+        "close down",
+        "close up"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "关闭",
+      "words": [
+        "closure",
+        "closing down"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "关闭的；围绕的",
+      "words": [
+        "circumambient"
+      ]
+    }
+  ]
+}

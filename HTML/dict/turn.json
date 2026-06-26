@@ -1,0 +1,88 @@
+{
+  "word": "turn",
+  "found": true,
+  "phonetic_uk": "tɜːn",
+  "phonetic_us": "tɜːrn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=turn&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=turn&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "旋转，转动；转身，扭转（身体部位）；翻转；旋动，拧动；翻动（书页）；转向，拐（弯）；（路或河流）转弯；对准；（潮）涨落；（使）松开，释放；表演，做；（使）扭转局势；（使）变成，成为；转移（思考、处理、观察等的对象）；求助于，求教于；达到（一定年龄或时间）；（使）反胃，（使）恶心；车削；获得（利益）；扭伤（脚踝）；造（句），组（词）；（印刷）倒排，倒空；包抄（敌军）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "转动，旋转；转向；（道路的）转弯处；轮到的机会；（情况的）变化，转变；交替时刻；短小节目；短小节目表演者；散步，转一圈；（疾病的）一阵发作，不适；（影响他人的）举止，行为；<非正式>吓唬，惊吓；（股票等的）买卖差价；（板球）（球）弹地转向；（一卷绳子等的）一圈；涨潮或落潮；（乐）回音"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Turn）（德、匈）图恩（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "turns"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "turns"
+    },
+    {
+      "name": "现在分词",
+      "value": "turning"
+    },
+    {
+      "name": "过去式",
+      "value": "turned"
+    },
+    {
+      "name": "过去分词",
+      "value": "turned"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He decided to turn professional.",
+      "zh": "他决定转为职业人员。"
+    },
+    {
+      "en": "Police attempted to turn back.",
+      "zh": "警察试图往回走。"
+    },
+    {
+      "en": "Turn left at the intersection.",
+      "zh": "在十字路口向左拐。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "转动，使旋转；转弯；翻过来；兑换",
+      "words": [
+        "wheel",
+        "roll"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "转向；转变；转动",
+      "words": [
+        "shift",
+        "roll",
+        "screw"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "转弯；变化",
+      "words": [
+        "variation",
+        "shift",
+        "change",
+        "diversification",
+        "mutation"
+      ]
+    }
+  ]
+}

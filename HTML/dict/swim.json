@@ -1,0 +1,83 @@
+{
+  "word": "swim",
+  "found": true,
+  "phonetic_uk": "swɪm",
+  "phonetic_us": "swɪm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=swim&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=swim&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "游泳；横渡；游（某一泳姿）；（鱼、禽等）游过，游动；浸，泡；漂浮；使漂浮，使渡过；（物体）仿佛旋转；眩晕"
+    },
+    {
+      "pos": "n.",
+      "meaning": "游泳；（河流中）适合钓鱼的静止深水处，深潭；漂浮；眩晕"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "游泳时穿戴的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "swims"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "swims"
+    },
+    {
+      "name": "现在分词",
+      "value": "swimming"
+    },
+    {
+      "name": "过去式",
+      "value": "swam"
+    },
+    {
+      "name": "过去分词",
+      "value": "swum"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I managed to swim to safety.",
+      "zh": "我设法游到安全处。"
+    },
+    {
+      "en": "I think I'll go for a swim.",
+      "zh": "我想去游泳。"
+    },
+    {
+      "en": "I had a swim to cool down.",
+      "zh": "我游了泳，凉快凉快。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "游泳；漂浮；浸；眩晕",
+      "words": [
+        "ride",
+        "float off"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "游过；使浮起",
+      "words": [
+        "buoy up"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "游泳；漂浮；眩晕",
+      "words": [
+        "natation",
+        "flotage"
+      ]
+    }
+  ]
+}

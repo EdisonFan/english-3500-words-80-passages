@@ -1,0 +1,39 @@
+{
+  "word": "concise",
+  "found": true,
+  "phonetic_uk": "kənˈsaɪs",
+  "phonetic_us": "kənˈsaɪs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=concise&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=concise&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "简明的，简洁的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Burton's text is concise and informative.",
+      "zh": "伯顿的文章文字简洁、内容丰富。"
+    },
+    {
+      "en": "Good science also requires contextual understanding, clear explanation and concise presentation.",
+      "zh": "好的科学也需要对语境的理解、清晰的解释和简洁的表达。"
+    },
+    {
+      "en": "But good science also requires contextual understanding, clear explanation and concise presentation.",
+      "zh": "但是好的科学也需要对上下文的理解，清晰的解释和简洁的表达。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "简明的，简洁的",
+      "words": [
+        "brief",
+        "compact"
+      ]
+    }
+  ]
+}

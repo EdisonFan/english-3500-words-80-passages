@@ -1,0 +1,50 @@
+{
+  "word": "dancing",
+  "found": true,
+  "phonetic_uk": "ˈdɑːnsɪŋ",
+  "phonetic_us": "ˈdænsɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dancing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dancing&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "跳舞；舞蹈"
+    },
+    {
+      "pos": "v.",
+      "meaning": "跳舞；跳跃，雀跃；（某物）摆动，摇晃（dance 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Let's go dancing tonight.",
+      "zh": "我们今晚去跳舞吧。"
+    },
+    {
+      "en": "I love to go out dancing.",
+      "zh": "我喜欢出去跳舞。"
+    },
+    {
+      "en": "Ruth has hung up her dancing shoes.",
+      "zh": "鲁思已挂起舞鞋退出舞台了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "跳舞；舞蹈",
+      "words": [
+        "nautch",
+        "Hip-Pop"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "跳舞；摇晃（dance的ing形式）",
+      "words": [
+        "dangling"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "word": "rapid",
+  "found": true,
+  "phonetic_uk": "ˈræpɪd",
+  "phonetic_us": "ˈræpɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=rapid&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=rapid&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "快的，迅速的；（移动，活动）快速的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "急流，湍滩；高速交通工具，高速交通网"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "rapids"
+    },
+    {
+      "name": "比较级",
+      "value": "more rapid"
+    },
+    {
+      "name": "最高级",
+      "value": "most rapid"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The disease is spreading at a rapid rate.",
+      "zh": "这种疾病正在迅速蔓延。"
+    },
+    {
+      "en": "The area has seen a rapid population growth.",
+      "zh": "这个地区人口快速增长。"
+    },
+    {
+      "en": "It seems reasonable to expect rapid urban growth.",
+      "zh": "看起来期待城市会飞速发展是有道理的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "迅速的，急促的；飞快的；险峻的",
+      "words": [
+        "fast",
+        "forward",
+        "ready",
+        "express",
+        "quick"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "急流；高速交通工具，高速交通网",
+      "words": [
+        "rush",
+        "whitewater"
+      ]
+    }
+  ]
+}

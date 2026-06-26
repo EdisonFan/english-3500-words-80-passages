@@ -1,0 +1,39 @@
+{
+  "word": "deer",
+  "found": true,
+  "phonetic_uk": "dɪə(r)",
+  "phonetic_us": "dɪr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=deer&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=deer&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "鹿"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Deer）人名；（英）迪尔"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "deer或deers"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Deer had stripped the tree of its bark.",
+      "zh": "鹿啃掉了树皮。"
+    },
+    {
+      "en": "He'd gone deer hunting with his cousins.",
+      "zh": "他已和堂兄弟们猎鹿去了。"
+    },
+    {
+      "en": "Deer had stripped all the bark off the tree.",
+      "zh": "鹿把树皮全都啃光了。"
+    }
+  ],
+  "synonyms": []
+}

@@ -1,0 +1,52 @@
+{
+  "word": "companies",
+  "found": true,
+  "phonetic_uk": "ˈkʌmpəniz",
+  "phonetic_us": "ˈkʌmpəniz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=companies&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=companies&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "公司，企业；演出团，歌舞团；连队（company 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "陪伴，伴随（company 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Several companies remained in the bidding.",
+      "zh": "有几家公司仍在竞价。"
+    },
+    {
+      "en": "Many state-owned companies were privatized.",
+      "zh": "许多国有公司被私有化了。"
+    },
+    {
+      "en": "The two companies were amalgamated into one.",
+      "zh": "这两家公司合并成一家公司。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "公司，企业；伙伴（company的复数形式）；公司财产",
+      "words": [
+        "corporations",
+        "enterprises",
+        "firms",
+        "partners"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "陪伴，伴随（company的三单形式）",
+      "words": [
+        "chaperones"
+      ]
+    }
+  ]
+}

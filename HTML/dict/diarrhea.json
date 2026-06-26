@@ -1,0 +1,38 @@
+{
+  "word": "diarrhea",
+  "found": true,
+  "phonetic_uk": "ˌdaɪəˈrɪə",
+  "phonetic_us": "ˌdaɪəˈriːə",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=diarrhea&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=diarrhea&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "腹泻（=diarrhoea）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Daffodil bulb diners tend to experience nausea, vomiting, cramps, and diarrhea.",
+      "zh": "吃水仙花的人往往会感到恶心、呕吐、痉挛和腹泻。"
+    },
+    {
+      "en": "Flu-like symptoms develop, e.g. diarrhea, nausea, fever, confusion, dizziness, weakness, and generally feeling bad.",
+      "zh": "出现类似流感的症状，例如腹泻、恶心、发烧、头晕，虚弱，同时自我感觉很不好。"
+    },
+    {
+      "en": "Please observe the effect of Bacillus coagulans tablets on the treatment of experimental diarrhea in mice.",
+      "zh": "请观察凝结芽胞杆菌活菌片对氨苄青霉素钠诱发的小鼠腹泻的治疗作用。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "腹泻，痢疾",
+      "words": [
+        "dysentery"
+      ]
+    }
+  ]
+}

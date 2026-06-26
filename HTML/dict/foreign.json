@@ -1,0 +1,39 @@
+{
+  "word": "foreign",
+  "found": true,
+  "phonetic_uk": "ˈfɒrən",
+  "phonetic_us": "ˈfɔːrən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=foreign&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=foreign&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "外国的，来自国外的；外交的，涉外的；陌生的，不熟悉的；外来的，异质的；外地的，不属于本地区的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Foreign News is on page 16.",
+      "zh": "国外新闻在第16版。"
+    },
+    {
+      "en": "For foreign orders postage is extra.",
+      "zh": "对于国外订单，邮资是另计的。"
+    },
+    {
+      "en": "They are arguing over foreign policy.",
+      "zh": "他们在讨论外交政策。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "外国的；外交的；异质的；不相关的",
+      "words": [
+        "external",
+        "diplomatic"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "word": "mine",
+  "found": true,
+  "phonetic_uk": "maɪn",
+  "phonetic_us": "maɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mine&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mine&type=2",
+  "defs": [
+    {
+      "pos": "pron.",
+      "meaning": "我的；<英，非正式>我的家"
+    },
+    {
+      "pos": "n.",
+      "meaning": "矿，矿井；地雷，水雷；宝库，源泉；<史>炸药坑道"
+    },
+    {
+      "pos": "v.",
+      "meaning": "采（煤等矿物）；布雷，用雷炸毁（车辆）；寻找（某事物中）蕴含的价值；在（地下）挖洞（或坑道）；挖掘（数据）；挖矿（获取加密货币的勘探方式）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Mine）（德、塞、土、毛里塔）米内（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "mines"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "mines"
+    },
+    {
+      "name": "现在分词",
+      "value": "mining"
+    },
+    {
+      "name": "过去式",
+      "value": "mined"
+    },
+    {
+      "name": "过去分词",
+      "value": "mined"
+    }
+  ],
+  "examples": [
+    {
+      "en": "\"Whose is this?\"—\"It's mine.\"",
+      "zh": "“这是谁的？”—“是我的。”"
+    },
+    {
+      "en": "He's a distant cousin of mine.",
+      "zh": "他是我远房的一个表亲。"
+    },
+    {
+      "en": "Half of the money was mine.",
+      "zh": "那些钱有一半是我的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "矿，矿藏；矿山，矿井；地雷，水雷",
+      "words": [
+        "ore",
+        "pit"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "开采，采掘；在…布雷",
+      "words": [
+        "exploit"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "word": "possess",
+  "found": true,
+  "phonetic_uk": "pəˈzes",
+  "phonetic_us": "pəˈzes",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=possess&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=possess&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "<正式> 拥有，持有；具有（品质或能力）；（尤指邪恶的鬼魅或精灵）缠住，迷住；受（感情）支配，受（感情）影响；了解，懂得;"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "possesses"
+    },
+    {
+      "name": "现在分词",
+      "value": "possessing"
+    },
+    {
+      "name": "过去式",
+      "value": "possessed"
+    },
+    {
+      "name": "过去分词",
+      "value": "possessed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Under state law, it is a misdemeanour to possess a firearm on school premises.",
+      "zh": "根据该州法律，在校园里拥有枪械是一种轻罪。"
+    },
+    {
+      "en": "What skills should he possess?",
+      "zh": "他应该具备什么样的技能？"
+    },
+    {
+      "en": "Some animals possess the characteristic of man.",
+      "zh": "有些动物具有人类的特征。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "控制；使掌握；持有；迷住",
+      "words": [
+        "contain",
+        "regulate",
+        "bit",
+        "bottle",
+        "manage"
+      ]
+    }
+  ]
+}

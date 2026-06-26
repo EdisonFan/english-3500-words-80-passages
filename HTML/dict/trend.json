@@ -1,0 +1,75 @@
+{
+  "word": "trend",
+  "found": true,
+  "phonetic_uk": "trend",
+  "phonetic_us": "trend",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=trend&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=trend&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "趋势，动态；时尚，风尚；热门话题"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<美>趋向，倾向；（尤指地理特征的）走向；成为热门话题"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "trends"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "trends"
+    },
+    {
+      "name": "现在分词",
+      "value": "trending"
+    },
+    {
+      "name": "过去式",
+      "value": "trended"
+    },
+    {
+      "name": "过去分词",
+      "value": "trended"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This is a growing trend.",
+      "zh": "这是一个不断增长的趋势。"
+    },
+    {
+      "en": "These statistics display a definite trend.",
+      "zh": "这些统计数据表现出一种明显的趋势。"
+    },
+    {
+      "en": "Is the trend towards privatization reversible?",
+      "zh": "私有化趋势可能逆转吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[统计]趋势，倾向；[地质]走向",
+      "words": [
+        "tendency",
+        "tide",
+        "direction",
+        "liability",
+        "set"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "趋向，伸向",
+      "words": [
+        "verge on",
+        "tend towards"
+      ]
+    }
+  ]
+}

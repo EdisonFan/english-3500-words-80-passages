@@ -1,0 +1,44 @@
+{
+  "word": "encouragement",
+  "found": true,
+  "phonetic_uk": "ɪnˈkʌrɪdʒmənt",
+  "phonetic_us": "ɪnˈkɜːrɪdʒmənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=encouragement&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=encouragement&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "鼓励"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "encouragements"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Her words were a great encouragement to them.",
+      "zh": "她的话对他们是极大的鼓舞。"
+    },
+    {
+      "en": "Friends gave me a great deal of encouragement.",
+      "zh": "朋友们给了我极大的鼓励。"
+    },
+    {
+      "en": "He brightened up at their words of encouragement.",
+      "zh": "听到他们鼓励的话，他高兴起来。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[劳经]鼓励",
+      "words": [
+        "buck sb. up",
+        "stimulin"
+      ]
+    }
+  ]
+}

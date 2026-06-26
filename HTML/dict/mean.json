@@ -1,0 +1,101 @@
+{
+  "word": "mean",
+  "found": true,
+  "phonetic_uk": "miːn",
+  "phonetic_us": "miːn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mean&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mean&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "意味着；表示……的意思，作……的解释；打算，意欲；使专门用于；导致，结果是；十分熟识；当真，说到做到；对某人重要"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "吝啬的，小气的；不善良的，刻薄的；要发怒的；熟练的，出色的；平均的；简陋的，破旧的；微薄的；<旧>出身卑贱的，社会地位低下的；中庸的，中等的；<美>凶狠的，好斗的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "中庸，折衷；平均数，中数；中间点"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Mean）（柬）棉（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "means"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "means"
+    },
+    {
+      "name": "现在分词",
+      "value": "meaning"
+    },
+    {
+      "name": "过去式",
+      "value": "meant"
+    },
+    {
+      "name": "过去分词",
+      "value": "meant"
+    },
+    {
+      "name": "比较级",
+      "value": "meaner或more mean"
+    },
+    {
+      "name": "最高级",
+      "value": "meanest或most mean"
+    }
+  ],
+  "examples": [
+    {
+      "en": "What does this sentence mean?",
+      "zh": "这个句子是什么意思？"
+    },
+    {
+      "en": "Whatever can you mean?",
+      "zh": "你究竟是什么意思？"
+    },
+    {
+      "en": "What do you mean, bro?",
+      "zh": "你是什么意思，兄弟？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[数]平均的；卑鄙的；低劣的",
+      "words": [
+        "poor",
+        "average",
+        "base",
+        "dirty"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "意味；想要；意欲",
+      "words": [
+        "feel like",
+        "wanna",
+        "desire",
+        "imply",
+        "intend"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[数]平均值",
+      "words": [
+        "general average",
+        "medium value"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "processes",
+  "found": true,
+  "phonetic_uk": "ˈprəʊsesɪz",
+  "phonetic_us": "ˈprɑːsesɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=processes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=processes&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "过程；进程（process 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "处理；加工；审核，审阅；（计算机）数据处理；列队前进（process 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The two processes are interlinked.",
+      "zh": "这两个过程是相互连接的。"
+    },
+    {
+      "en": "Those two processes are very closely interlinked.",
+      "zh": "那两种工艺非常紧密地互相关联。"
+    },
+    {
+      "en": "Many biological processes are controlled by hormones.",
+      "zh": "许多生物变化过程都是由激素控制的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "处理（process的第三人称单数形式）；加工",
+      "words": [
+        "deals",
+        "copes"
+      ]
+    }
+  ]
+}

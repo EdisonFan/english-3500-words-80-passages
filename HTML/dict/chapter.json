@@ -1,0 +1,64 @@
+{
+  "word": "chapter",
+  "found": true,
+  "phonetic_uk": "ˈtʃæptə(r)",
+  "phonetic_us": "ˈtʃæptər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=chapter&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=chapter&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "章，回，篇；阶段，时期；分会，分部；议会法案；一系列，一连串（a chapter of）；全体教士；宗教团体理事会"
+    },
+    {
+      "pos": "v.",
+      "meaning": "把……分成章节"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "chapters"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "chapters"
+    },
+    {
+      "name": "现在分词",
+      "value": "chaptering"
+    },
+    {
+      "name": "过去式",
+      "value": "chaptered"
+    },
+    {
+      "name": "过去分词",
+      "value": "chaptered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I've just finished Chapter 3.",
+      "zh": "我刚完成第3章。"
+    },
+    {
+      "en": "I read as far as the third chapter.",
+      "zh": "我读到了第三章。"
+    },
+    {
+      "en": "Each chapter begins with a quotation.",
+      "zh": "每一章的开头都有一条引语。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[语]章，回；（俱乐部、协会等的）分会；人生或历史上的重要时期",
+      "words": [
+        "Zhang",
+        "volte"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "word": "treating",
+  "found": true,
+  "phonetic_uk": "ˈtriːtɪŋ",
+  "phonetic_us": "ˈtriːtɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=treating&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=treating&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[化工]处理"
+    },
+    {
+      "pos": "v.",
+      "meaning": "[化工]处理（treat 的 ing 形式）；对待"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "You should be ashamed of treating your daughter like that.",
+      "zh": "你这样对待自己的女儿应该感到羞愧。"
+    },
+    {
+      "en": "Police say they're treating it as a case of attempted murder.",
+      "zh": "警方说他们正将其作为谋杀未遂案件来处理。"
+    },
+    {
+      "en": "Ecologists argue that the benefits of treating sewage with disinfectants are doubtful.",
+      "zh": "生态学家们认为用消毒剂处理污水的好处是值得怀疑的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[化工]处理",
+      "words": [
+        "transactions",
+        "disposal",
+        "settlement",
+        "handling",
+        "computing"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "[化工]处理（treat的ing形式）；对待",
+      "words": [
+        "processing",
+        "handling"
+      ]
+    }
+  ]
+}

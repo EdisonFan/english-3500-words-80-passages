@@ -1,0 +1,68 @@
+{
+  "word": "forget",
+  "found": true,
+  "phonetic_uk": "fəˈɡet",
+  "phonetic_us": "fərˈɡet",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=forget&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=forget&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "忘记，遗忘；忘做；忽略，不再关注；不再打算做，放弃；忘乎所以，举止不得体"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Forget）（法）福尔热（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "forgets"
+    },
+    {
+      "name": "现在分词",
+      "value": "forgetting"
+    },
+    {
+      "name": "过去式",
+      "value": "forgot"
+    },
+    {
+      "name": "过去分词",
+      "value": "forgot或forgotten"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Let's forget the whole thing.",
+      "zh": "咱们彻底忘掉这件事吧。"
+    },
+    {
+      "en": "I forget how the next line goes.",
+      "zh": "我忘记下一行怎么说了。"
+    },
+    {
+      "en": "I never forget a face.",
+      "zh": "见过的面孔我从不忘记。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "忘记；忽略",
+      "words": [
+        "fail",
+        "sponge out"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "忘记",
+      "words": [
+        "sponge out",
+        "slip one's mind"
+      ]
+    }
+  ]
+}

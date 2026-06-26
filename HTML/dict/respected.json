@@ -1,0 +1,43 @@
+{
+  "word": "respected",
+  "found": true,
+  "phonetic_uk": "rɪˈspektɪd",
+  "phonetic_us": "rɪˈspektɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=respected&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=respected&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "受人尊敬的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "尊敬，敬重；重视；珍视（respect 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "It was clear to me that he respected his boss.",
+      "zh": "在我看来，显然他尊重他的老板。"
+    },
+    {
+      "en": "I think you'd agree he's a very respected columnist.",
+      "zh": "我想你可能会同意，他是个十分受人尊敬的专栏作家。"
+    },
+    {
+      "en": "He was a respected academic and above suspicion.",
+      "zh": "他是一位受敬重的学者，不能受怀疑。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "受尊敬的",
+      "words": [
+        "honored",
+        "reputable"
+      ]
+    }
+  ]
+}

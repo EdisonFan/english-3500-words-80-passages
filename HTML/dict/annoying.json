@@ -1,0 +1,52 @@
+{
+  "word": "annoying",
+  "found": true,
+  "phonetic_uk": "əˈnɔɪɪŋ",
+  "phonetic_us": "əˈnɔɪɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=annoying&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=annoying&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "令人恼火的，令人烦躁的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使恼怒，使烦恼；打扰，骚扰（annoy 的现在分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He swatted a fly that was annoying him.",
+      "zh": "他猛力拍打一只搅得他心烦的苍蝇。"
+    },
+    {
+      "en": "You must have found my attitude annoying.",
+      "zh": "你一定觉得我的态度让人烦。"
+    },
+    {
+      "en": "There are some annoying loose ends in the plot.",
+      "zh": "情节中有一些令人烦恼、尚待弄清的东西。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "讨厌的；恼人的",
+      "words": [
+        "evil",
+        "rank",
+        "unpleasant",
+        "poisonous"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "骚扰（annoy的ing形式）",
+      "words": [
+        "molesting"
+      ]
+    }
+  ]
+}

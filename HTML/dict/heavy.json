@@ -1,0 +1,74 @@
+{
+  "word": "heavy",
+  "found": true,
+  "phonetic_uk": "ˈhevi",
+  "phonetic_us": "ˈhevi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=heavy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=heavy&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "重的，沉的；大量的，严重的；大而结实的，不精致的；厚实的；充满（某物）（heavy with）；重型的，大型的；繁忙的；辛苦的，费力的；用力的，重重的；难消化的；难懂的，艰涩的；危险的，汹涌的；闷热的，沉闷的；浓郁的；（土壤）黏重的；苛刻的，严厉的；认真的，严肃的；（声音）粗重的；（身体部位）沉重的；（心情）忧伤的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "保镖，打手；（电影或戏剧中的）反派；<非正式>重要人物；<英，非正式> 严肃报纸（heavies）；<苏格兰>烈性啤酒"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "浓浓地，沉重地；使不安，使担忧"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "heavies"
+    },
+    {
+      "name": "比较级",
+      "value": "heavier"
+    },
+    {
+      "name": "最高级",
+      "value": "heaviest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They have taken heavy casualties.",
+      "zh": "他们遭受了惨重的伤亡。"
+    },
+    {
+      "en": "Heavy trucks kept thundering past.",
+      "zh": "重型卡车不断地隆隆驶过。"
+    },
+    {
+      "en": "Enemy troops suffered heavy losses.",
+      "zh": "敌军伤亡惨重。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "沉重的；繁重的，巨大的；阴沉的",
+      "words": [
+        "huge",
+        "tremendous",
+        "enormous",
+        "massive",
+        "macro"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "大量地；笨重地",
+      "words": [
+        "largely",
+        "freely",
+        "big",
+        "importantly",
+        "massively"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "word": "partner",
+  "found": true,
+  "phonetic_uk": "ˈpɑːtnə(r)",
+  "phonetic_us": "ˈpɑːrtnər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=partner&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=partner&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（跳舞、玩游戏等的）搭档，同伴；（合伙企业的）合伙人；（生意、组织或国家的）伙伴；配偶，（同居的）伴侣，情人"
+    },
+    {
+      "pos": "v.",
+      "meaning": "成为搭档，合伙"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Partner）（英、德）帕特纳（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "partners"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "partners"
+    },
+    {
+      "name": "现在分词",
+      "value": "partnering"
+    },
+    {
+      "name": "过去式",
+      "value": "partnered"
+    },
+    {
+      "name": "过去分词",
+      "value": "partnered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Gerry offered to partner me at tennis.",
+      "zh": "格里提出和我搭档打网球。"
+    },
+    {
+      "en": "He did not dally over the choice of a partner.",
+      "zh": "他没有在选择合伙人上面磨磨蹭蹭。"
+    },
+    {
+      "en": "He is now co-partner in a new property company.",
+      "zh": "他现在是一家新房地产公司的合伙人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "伙伴；[法]合伙人；配偶",
+      "words": [
+        "comrade",
+        "associate"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "[法]合伙；合股；成为搭档",
+      "words": [
+        "joint stock",
+        "tie up"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使合作；与…合伙",
+      "words": [
+        "team"
+      ]
+    }
+  ]
+}

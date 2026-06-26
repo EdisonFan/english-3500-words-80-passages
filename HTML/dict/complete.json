@@ -1,0 +1,82 @@
+{
+  "word": "complete",
+  "found": true,
+  "phonetic_uk": "kəmˈpliːt",
+  "phonetic_us": "kəmˈpliːt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=complete&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=complete&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "完全的，彻底的；全部的，完整的；完成的，结束的；技能全面的，技术娴熟的；向前传球成功的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使完整，使完美；填写（表格）；完成，结束"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "completes"
+    },
+    {
+      "name": "现在分词",
+      "value": "completing"
+    },
+    {
+      "name": "过去式",
+      "value": "completed"
+    },
+    {
+      "name": "过去分词",
+      "value": "completed"
+    },
+    {
+      "name": "比较级",
+      "value": "completer或more complete"
+    },
+    {
+      "name": "最高级",
+      "value": "completest或most complete"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We were in complete agreement.",
+      "zh": "我们意见完全一致。"
+    },
+    {
+      "en": "I felt like a complete idiot.",
+      "zh": "我感到完全像个傻瓜。"
+    },
+    {
+      "en": "You must complete three written assignments.",
+      "zh": "你必须完成三个书面作业。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[数]完整的；完全的；彻底的",
+      "words": [
+        "whole",
+        "thorough",
+        "full",
+        "absolute",
+        "total"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "完成",
+      "words": [
+        "accomplish",
+        "carry out",
+        "achieve",
+        "perform",
+        "fulfil"
+      ]
+    }
+  ]
+}

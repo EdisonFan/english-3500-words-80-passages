@@ -1,0 +1,44 @@
+{
+  "word": "applicant",
+  "found": true,
+  "phonetic_uk": "ˈæplɪkənt",
+  "phonetic_us": "ˈæplɪkənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=applicant&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=applicant&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "申请人"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "applicants"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The applicant was irredeemably incompetent.",
+      "zh": "申请人无可救药地不合格。"
+    },
+    {
+      "en": "The applicant has experience in teaching and, more relevantly, in industry.",
+      "zh": "这名申请者有教学经验，更重要的是，也有企业工作的经验。"
+    },
+    {
+      "en": "Upon a negative decision, the applicant loses the protection offered by Belgian law.",
+      "zh": "一旦得到否定裁决，申请人就失去了比利时法律所给予的保护。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[专利]申请人，申请者；请求者",
+      "words": [
+        "postulant",
+        "proposer"
+      ]
+    }
+  ]
+}

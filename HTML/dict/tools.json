@@ -1,0 +1,43 @@
+{
+  "word": "tools",
+  "found": true,
+  "phonetic_uk": "tuːlz",
+  "phonetic_us": "tuːlz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tools&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tools&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[机]工具，工具菜单；工具箱（tool 的复数形式）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用工具加工……（tool 的第三人称单数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The local people bartered wheat for tools.",
+      "zh": "当地人用小麦换取工具。"
+    },
+    {
+      "en": "Make a checklist of the tools and materials you will need.",
+      "zh": "写一张你所需工具和材料的清单。"
+    },
+    {
+      "en": "The furniture comes complete with tools and instructions for assembly.",
+      "zh": "这件家具备有组装工具和说明书。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "工具，工具菜单；工具箱（tool的复数形式）",
+      "words": [
+        "instruments",
+        "implements"
+      ]
+    }
+  ]
+}

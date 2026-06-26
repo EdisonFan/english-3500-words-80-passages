@@ -1,0 +1,65 @@
+{
+  "word": "mud",
+  "found": true,
+  "phonetic_uk": "mʌd",
+  "phonetic_us": "mʌd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mud&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mud&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "泥，淤泥，泥浆；（多指与腐化有关的）侮蔑，诽谤"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "muds"
+    },
+    {
+      "name": "现在分词",
+      "value": "mudding"
+    },
+    {
+      "name": "过去式",
+      "value": "mudded"
+    },
+    {
+      "name": "过去分词",
+      "value": "mudded"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Your boots are covered in mud.",
+      "zh": "你的靴子上都是泥。"
+    },
+    {
+      "en": "His legs were covered in mud.",
+      "zh": "他的双腿沾满了泥。"
+    },
+    {
+      "en": "Her shoes were caked with mud.",
+      "zh": "她的鞋上沾着污泥。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "弄脏；用泥涂",
+      "words": [
+        "soil",
+        "spot",
+        "dirty"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[地质]泥；诽谤的话；无价值的东西",
+      "words": [
+        "muld",
+        "vanity"
+      ]
+    }
+  ]
+}

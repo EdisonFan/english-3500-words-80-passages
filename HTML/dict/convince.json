@@ -1,0 +1,58 @@
+{
+  "word": "convince",
+  "found": true,
+  "phonetic_uk": "kənˈvɪns",
+  "phonetic_us": "kənˈvɪns",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=convince&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=convince&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "使确信，使信服；说服，劝服"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "convinces"
+    },
+    {
+      "name": "现在分词",
+      "value": "convincing"
+    },
+    {
+      "name": "过去式",
+      "value": "convinced"
+    },
+    {
+      "name": "过去分词",
+      "value": "convinced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She utterly failed to convince them.",
+      "zh": "她根本没有说服他们。"
+    },
+    {
+      "en": "Thomas, she sensed, could convince anyone of anything.",
+      "zh": "她觉得，托马斯能说服任何人相信任何事。"
+    },
+    {
+      "en": "It became clear that I hadn't been able to convince Mike.",
+      "zh": "显然我没能说服迈克。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "说服；使确信，使信服",
+      "words": [
+        "assure",
+        "reason",
+        "satisfy",
+        "argue"
+      ]
+    }
+  ]
+}

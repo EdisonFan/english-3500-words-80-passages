@@ -1,0 +1,76 @@
+{
+  "word": "abuse",
+  "found": true,
+  "phonetic_uk": "əˈbjuːs",
+  "phonetic_us": "əˈbjuːs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=abuse&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=abuse&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "虐待；滥用，辜负；辱骂；糟蹋（某物）；性侵犯"
+    },
+    {
+      "pos": "n.",
+      "meaning": "虐待，凌辱；滥用，妄用；辱骂；舞弊，腐败；糟蹋；性侵犯；恶习，陋习"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Abuse）（英）阿比斯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "abuses"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "abuses"
+    },
+    {
+      "name": "现在分词",
+      "value": "abusing"
+    },
+    {
+      "name": "过去式",
+      "value": "abused"
+    },
+    {
+      "name": "过去分词",
+      "value": "abused"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Rival fans hurled abuse at each other.",
+      "zh": "两帮对立的球迷相互高声辱骂。"
+    },
+    {
+      "en": "The abuse was directed at the TV crews.",
+      "zh": "辱骂是针对电视台工作人员的。"
+    },
+    {
+      "en": "Quick-thinking TV bosses bleeped out the abuse.",
+      "zh": "思维敏捷的电视台长们用哔哔声盖过了辱骂声。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "滥用；虐待；辱骂；弊端；恶习，陋习",
+      "words": [
+        "punishment",
+        "vice"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "滥用；虐待；辱骂",
+      "words": [
+        "strain",
+        "maltreat"
+      ]
+    }
+  ]
+}

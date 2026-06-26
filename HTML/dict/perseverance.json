@@ -1,0 +1,39 @@
+{
+  "word": "perseverance",
+  "found": true,
+  "phonetic_uk": "ˌpɜːsəˈvɪərəns",
+  "phonetic_us": "ˌpɜːrsəˈvɪrəns",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=perseverance&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=perseverance&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "毅力，不屈不挠的精神"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "For him to win the game like that is a testament to his perseverance.",
+      "zh": "他能赢得那样的比赛证明了他的毅力。"
+    },
+    {
+      "en": "The only way to improve is through hard work and dogged perseverance.",
+      "zh": "要更上一层楼，唯一的途径就是艰苦奋斗，不屈不挠。"
+    },
+    {
+      "en": "Mr. Jobs also spoke of perseverance and will power.",
+      "zh": "乔布斯也谈到了毅力和意志力。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "坚持不懈；不屈不挠",
+      "words": [
+        "doggedness",
+        "tenacity"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "word": "warning",
+  "found": true,
+  "phonetic_uk": "ˈwɔːnɪŋ",
+  "phonetic_us": "ˈwɔːrnɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=warning&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=warning&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "警示，提醒，告诫；（对不良行为的）警告；预告，预兆"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "表示警告的，告诫的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "提醒注意（可能发生的事），使警惕；劝告（使有所防备），告诫；警告（warn 的现在分词）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Warning）（德）瓦宁（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "warnings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Suddenly a warning light blinked.",
+      "zh": "突然有一盏警告灯开始闪烁。"
+    },
+    {
+      "en": "Her warning went unheeded.",
+      "zh": "她的警告没有引起重视。"
+    },
+    {
+      "en": "Cigarettes carry a health warning.",
+      "zh": "香烟上标注着有害健康的警告。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "警告；预兆；预告",
+      "words": [
+        "admonition",
+        "caveat"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "警告的；引以为戒的",
+      "words": [
+        "cautionary",
+        "admonitory"
+      ]
+    }
+  ]
+}

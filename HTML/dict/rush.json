@@ -1,0 +1,84 @@
+{
+  "word": "rush",
+  "found": true,
+  "phonetic_uk": "rʌʃ",
+  "phonetic_us": "rʌʃ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=rush&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=rush&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "冲，奔；把（某人或某物）迅速送往；赶紧做，仓促做；催促，使赶紧；（水、液体等）快速流动；（因感到尴尬）某人的脸/面颊涨红；向……猛冲，猛攻；<美>（大学生联谊会通过举办聚会等）招纳，招收（新会员）；办理手续加入（大学生联谊会）；（美橄）突袭（对方队员，尤指枢纽前卫）；（美式橄榄中）跑动带（球）；仓促生产并分发，匆匆出售（rush something out）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（尤指一群人的）冲，奔；（空气、水等）湍流；匆忙，赶紧；（人流或交通的）高峰时间（the rush）；（很多人）争做，急需；迸发的情绪，情绪迸发；（因吸食毒品或因兴奋事物产生的）一阵激动；工作样片（rushes）；灯心草（常用来编筐）；（美橄）突袭对方队员（尤指枢纽前卫）；（美式橄榄球中的）跑动带球；（大学生联谊会的）招新活动；（美国大学生联谊会的）纳新活动（时间）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Rush）（英）拉什（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "rushes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "rushes"
+    },
+    {
+      "name": "现在分词",
+      "value": "rushing"
+    },
+    {
+      "name": "过去式",
+      "value": "rushed"
+    },
+    {
+      "name": "过去分词",
+      "value": "rushed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You can't rush a search.",
+      "zh": "你不能匆忙做搜寻工作。"
+    },
+    {
+      "en": "We had to rush our meal.",
+      "zh": "我们只能匆匆忙忙地吃饭。"
+    },
+    {
+      "en": "The men left in a rush.",
+      "zh": "这些男人在匆忙中离开了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "冲进；匆促；急流；[植]灯心草",
+      "words": [
+        "rapid",
+        "whitewater"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使冲；突袭；匆忙地做；飞跃",
+      "words": [
+        "sweep down",
+        "surprise attack"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "冲；奔；闯；赶紧；涌现",
+      "words": [
+        "thread one's way",
+        "crash"
+      ]
+    }
+  ]
+}

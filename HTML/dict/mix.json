@@ -1,0 +1,88 @@
+{
+  "word": "mix",
+  "found": true,
+  "phonetic_uk": "mɪks",
+  "phonetic_us": "mɪks",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mix&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mix&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（使）混合，（使）调和；使结合，组合；调制，配制；混合录音；（尤指与不相熟的人）交往，相处；不合，不相容；<非正式>打起来，争吵起来"
+    },
+    {
+      "pos": "n.",
+      "meaning": "混合体；（制作糕点、调味汁等的）混合原料，混合配料；（特定社会或团体内）各色人混杂的一群；（人群、混合物的）成分比例；混音，混录；乐曲组合，连奏；叠化图像，叠化声音"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Mix）（美、俄、巴）米克斯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "mixes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "mixes"
+    },
+    {
+      "name": "现在分词",
+      "value": "mixing"
+    },
+    {
+      "name": "过去式",
+      "value": "mixed"
+    },
+    {
+      "name": "过去分词",
+      "value": "mixed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You can't mix business with pleasure.",
+      "zh": "你不能把工作和娱乐混在一起。"
+    },
+    {
+      "en": "A quick stir will mix them thoroughly.",
+      "zh": "快速搅拌会使它们完全混合。"
+    },
+    {
+      "en": "They don't mix much with the neighbours.",
+      "zh": "他们不怎么与邻居交往。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "配制；混淆；使混和；使结交",
+      "words": [
+        "confuse with"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "参与；相混合；交往",
+      "words": [
+        "participate",
+        "travel",
+        "company",
+        "sort"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "混合；混合物；混乱",
+      "words": [
+        "mixture",
+        "hybrid",
+        "chaos",
+        "disorder",
+        "confusion"
+      ]
+    }
+  ]
+}

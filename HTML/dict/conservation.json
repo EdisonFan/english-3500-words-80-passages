@@ -1,0 +1,42 @@
+{
+  "word": "conservation",
+  "found": true,
+  "phonetic_uk": "ˌkɒnsəˈveɪʃ(ə)n",
+  "phonetic_us": "ˌkɑːnsərˈveɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=conservation&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=conservation&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "保护，保存；节约，防止浪费；守恒定律"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The benefits of conservation are both financial and aesthetic.",
+      "zh": "保护自然环境在经济上和美化环境上都有好处。"
+    },
+    {
+      "en": "Scientific research and conservation are intimately connected.",
+      "zh": "科学研究与环境保护联系密切。"
+    },
+    {
+      "en": "The district is under consideration for designation as a conservation area.",
+      "zh": "正在考虑将这个地区指定为保护区。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "保存，保持；保护",
+      "words": [
+        "preservation",
+        "protection",
+        "maintenance",
+        "lee",
+        "safeguard"
+      ]
+    }
+  ]
+}

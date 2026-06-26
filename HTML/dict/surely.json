@@ -1,0 +1,40 @@
+{
+  "word": "surely",
+  "found": true,
+  "phonetic_uk": "ˈʃʊəli; ˈʃɔːli",
+  "phonetic_us": "ˈʃʊrli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=surely&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=surely&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "（用于表明你相信某事极有可能）想必，谅必；无疑，肯定；<美>当然；绝不可能，绝对不会（用于表示不相信）；自信地；稳当地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "You surely haven't forgotten Dr. Walters?",
+      "zh": "你肯定还没忘记沃尔特斯博士吧？"
+    },
+    {
+      "en": "You surely don't begrudge him his happiness.",
+      "zh": "你肯定不是嫉妒他的幸福吧。"
+    },
+    {
+      "en": "Surely my existence cannot be so purposeless?",
+      "zh": "想必，我的存在不可能如此毫无意义吧？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "当然；无疑；坚定地；稳当地",
+      "words": [
+        "certainly",
+        "definitely",
+        "firmly"
+      ]
+    }
+  ]
+}

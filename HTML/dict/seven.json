@@ -1,0 +1,69 @@
+{
+  "word": "seven",
+  "found": true,
+  "phonetic_uk": "ˈsev(ə)n",
+  "phonetic_us": "ˈsev(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=seven&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=seven&type=2",
+  "defs": [
+    {
+      "pos": "num.",
+      "meaning": "七个，七"
+    },
+    {
+      "pos": "n.",
+      "meaning": "七个人；七点钟；七岁"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "七的；七个的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Seven）（土、法、俄）谢文（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "sevens"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We started German in year seven.",
+      "zh": "我们在七年级开始学习德语。"
+    },
+    {
+      "en": "The performance starts at seven.",
+      "zh": "演出七点开始。"
+    },
+    {
+      "en": "Twenty-eight is divisible by seven.",
+      "zh": "二十八可以被七整除。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "num.",
+      "meaning": "七个，七",
+      "words": [
+        "septenary"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "七个，七",
+      "words": [
+        "hepta"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "七的；七个的",
+      "words": [
+        "septimal"
+      ]
+    }
+  ]
+}

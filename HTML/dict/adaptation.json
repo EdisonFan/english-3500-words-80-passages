@@ -1,0 +1,44 @@
+{
+  "word": "adaptation",
+  "found": true,
+  "phonetic_uk": "ˌædæpˈteɪʃn",
+  "phonetic_us": "ˌædæpˈteɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=adaptation&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=adaptation&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "改编本，改写本；适应，改变；适应（性），适应力；适应性变化"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "adaptations"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This recipe is an adaptation of an old favourite.",
+      "zh": "这个食谱是一个传统名食谱的改编。"
+    },
+    {
+      "en": "Most living creatures are capable of adaptation when compelled to do so.",
+      "zh": "大多数生物在为情势所迫时都能适应。"
+    },
+    {
+      "en": "Branagh won two awards for his screen adaptation of Shakespeare's Henry the Fifth.",
+      "zh": "布拉纳因他对莎士比亚的《亨利五世》的荧幕改编而获了两次奖。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "适应；改编；改编本，改写本",
+      "words": [
+        "orientation",
+        "reorganization"
+      ]
+    }
+  ]
+}

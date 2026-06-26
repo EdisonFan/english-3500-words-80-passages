@@ -1,0 +1,54 @@
+{
+  "word": "raising",
+  "found": true,
+  "phonetic_uk": "ˈreɪzɪŋ",
+  "phonetic_us": "ˈreɪzɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=raising&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=raising&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "增加，提高"
+    },
+    {
+      "pos": "v.",
+      "meaning": "提升，举起；（使）直立，站立；建造，树立（纪念碑等）（raise 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The old man moved away, raising his hand in salutation.",
+      "zh": "这位老者离开，举起他的手致意。"
+    },
+    {
+      "en": "Raising animals was only secondary to other forms of farming.",
+      "zh": "与其他农业生产相对而言，动物饲养只是副业。"
+    },
+    {
+      "en": "He set about raising an army.",
+      "zh": "他着手组建一支部队。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "高地；提高；举；浮雕装饰",
+      "words": [
+        "height",
+        "increase",
+        "altitude",
+        "elevation",
+        "rise"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "饲养；升起；举起（raise的ing形式）",
+      "words": [
+        "feeding",
+        "lifting"
+      ]
+    }
+  ]
+}

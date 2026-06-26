@@ -1,0 +1,82 @@
+{
+  "word": "volume",
+  "found": true,
+  "phonetic_uk": "ˈvɒljuːm",
+  "phonetic_us": "ˈvɑːljəm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=volume&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=volume&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "体积，容积；总数，总量；音量，响度；（控制音量的）旋钮，控制杆；（成套图书中的）卷，册；（期刊）合订本；书籍；<史>（写在羊皮纸或纸草纸上的）书卷；（尤指头发的）厚，多"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "大量的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "以卷的形式发出；成团卷起"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "volumes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "volumes"
+    },
+    {
+      "name": "现在分词",
+      "value": "voluming"
+    },
+    {
+      "name": "过去式",
+      "value": "volumed"
+    },
+    {
+      "name": "过去分词",
+      "value": "volumed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This knob controls the volume.",
+      "zh": "此旋钮调节音量。"
+    },
+    {
+      "en": "He turned down the volume.",
+      "zh": "他调低了音量。"
+    },
+    {
+      "en": "She turned the volume up.",
+      "zh": "她把音量调大了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "量；[物]体积；[计]卷；音量；大量；[图情]册",
+      "words": [
+        "lots of",
+        "wealth",
+        "ocean",
+        "sea",
+        "bulk"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "大量的",
+      "words": [
+        "massive",
+        "extensive",
+        "substantial",
+        "macro",
+        "much"
+      ]
+    }
+  ]
+}

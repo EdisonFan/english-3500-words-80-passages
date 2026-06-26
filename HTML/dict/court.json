@@ -1,0 +1,85 @@
+{
+  "word": "court",
+  "found": true,
+  "phonetic_uk": "kɔːt",
+  "phonetic_us": "kɔːrt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=court&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=court&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "法院，法庭；球场；王宫，宫廷；朝臣；全体审判人员；庭院，院子；董事（会），理事（会）；（用于大型宅第和公寓街区的名称中）宅第，公寓大楼"
+    },
+    {
+      "pos": "v.",
+      "meaning": "奉承，讨好；设法取得，追求；招致，引起（不愉快的事）；谈恋爱，求爱"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Court）（英）考特，（法）库尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "courts"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "courts"
+    },
+    {
+      "name": "现在分词",
+      "value": "courting"
+    },
+    {
+      "name": "过去式",
+      "value": "courted"
+    },
+    {
+      "name": "过去分词",
+      "value": "courted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The court adjourned for lunch.",
+      "zh": "午餐时间法庭休庭。"
+    },
+    {
+      "en": "The court is now in session.",
+      "zh": "法庭现在正在开庭。"
+    },
+    {
+      "en": "Please tell the court what happened.",
+      "zh": "请向法庭陈述事情的经过。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[法]法院；球场；朝廷；奉承",
+      "words": [
+        "playfield",
+        "banc"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "招致（失败、危险等）；向…献殷勤；设法获得",
+      "words": [
+        "invite",
+        "secure",
+        "spell",
+        "incur"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "求爱",
+      "words": [
+        "woo"
+      ]
+    }
+  ]
+}

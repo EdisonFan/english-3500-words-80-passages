@@ -1,0 +1,67 @@
+{
+  "word": "suffer",
+  "found": true,
+  "phonetic_uk": "ˈsʌfə(r)",
+  "phonetic_us": "ˈsʌfər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=suffer&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=suffer&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（因疾病、痛苦、悲伤等）受苦，受折磨；经受，遭受（坏事）；变差，变糟；<古>容许，允许；<古>受处决"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "suffers"
+    },
+    {
+      "name": "现在分词",
+      "value": "suffering"
+    },
+    {
+      "name": "过去式",
+      "value": "suffered"
+    },
+    {
+      "name": "过去分词",
+      "value": "suffered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Dieters suffer from violent mood swings.",
+      "zh": "节食者们经受剧烈的情绪变化的折磨。"
+    },
+    {
+      "en": "It was unfair that he should suffer so much.",
+      "zh": "他遭受这么多痛苦是不公平的。"
+    },
+    {
+      "en": "Do you suffer from constipation?",
+      "zh": "你便秘吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "遭受；忍受；经历",
+      "words": [
+        "stomach",
+        "stand",
+        "experience",
+        "tough",
+        "abide"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "遭受，忍受；受痛苦；经验；受损害",
+      "words": [
+        "stomach",
+        "come under"
+      ]
+    }
+  ]
+}

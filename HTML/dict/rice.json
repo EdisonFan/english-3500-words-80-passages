@@ -1,0 +1,63 @@
+{
+  "word": "rice",
+  "found": true,
+  "phonetic_uk": "raɪs",
+  "phonetic_us": "raɪs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=rice&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=rice&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "稻；米饭"
+    },
+    {
+      "pos": "vt.",
+      "meaning": "把……捣成米糊状"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Rice）人名；（瑞典）里瑟；（塞）里采；（英）赖斯"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "rices"
+    },
+    {
+      "name": "现在分词",
+      "value": "ricing"
+    },
+    {
+      "name": "过��式",
+      "value": "riced"
+    },
+    {
+      "name": "过去分词",
+      "value": "riced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We eat rice every single day.",
+      "zh": "我们天天吃米饭。"
+    },
+    {
+      "en": "Rice aspired to go to college.",
+      "zh": "赖斯渴望上大学。"
+    },
+    {
+      "en": "Could you give the rice a stir?",
+      "zh": "你把米饭搅一搅好吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[作物]稻；米饭",
+      "words": [
+        "nasi"
+      ]
+    }
+  ]
+}

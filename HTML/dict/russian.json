@@ -1,0 +1,47 @@
+{
+  "word": "Russian",
+  "found": true,
+  "phonetic_uk": "ˈrʌʃ(ə)n",
+  "phonetic_us": "ˈrʌʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=Russian&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=Russian&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "俄国的；俄语的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "俄国人；俄语"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "Russians"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He's got an O level in Russian.",
+      "zh": "他通过了俄语普通证书考试。"
+    },
+    {
+      "en": "She spoke with a phoney Russian accent.",
+      "zh": "她用一种伪装的俄国腔调说话。"
+    },
+    {
+      "en": "The modern Russian alphabet has 31 letters.",
+      "zh": "现代俄语字母表有31个字母。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[语]俄语；俄国人",
+      "words": [
+        "Muscovite"
+      ]
+    }
+  ]
+}

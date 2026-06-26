@@ -1,0 +1,49 @@
+{
+  "word": "printed",
+  "found": true,
+  "phonetic_uk": "ˈprɪntɪd",
+  "phonetic_us": "ˈprɪntɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=printed&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=printed&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "印刷的；印花样的；已印好的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "[印刷]印刷；出版（print 的过去分词和过去式）；铭记"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Headwords are printed in bold.",
+      "zh": "首词用黑体印刷。"
+    },
+    {
+      "en": "The title is printed in italics.",
+      "zh": "标题被印成斜体。"
+    },
+    {
+      "en": "They printed 30 000 copies of the book.",
+      "zh": "这本书他们印了3万册。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "印刷的；印花样的；已印好的",
+      "words": [
+        "black-and-white"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "印刷；出版（print的过去分词和过去式）；铭记",
+      "words": [
+        "hearted"
+      ]
+    }
+  ]
+}

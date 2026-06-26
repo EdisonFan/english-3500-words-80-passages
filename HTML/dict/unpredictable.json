@@ -1,0 +1,43 @@
+{
+  "word": "unpredictable",
+  "found": true,
+  "phonetic_uk": "ˌʌnprɪˈdɪktəbl",
+  "phonetic_us": "ˌʌnprɪˈdɪktəb(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=unpredictable&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=unpredictable&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "无法预测的，不定的；（人）善变的，难以捉摸的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "不可预言的事"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He is utterly unpredictable.",
+      "zh": "他这个人完全让人捉摸不透。"
+    },
+    {
+      "en": "The result is entirely unpredictable.",
+      "zh": "结果是完全无法预料的。"
+    },
+    {
+      "en": "You are inconsistent and unpredictable.",
+      "zh": "你反复无常，让人捉摸不透。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "不可预知的；不定的；出乎意料的",
+      "words": [
+        "changeable",
+        "errant"
+      ]
+    }
+  ]
+}

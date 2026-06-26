@@ -1,0 +1,39 @@
+{
+  "word": "Britain",
+  "found": true,
+  "phonetic_uk": "ˈbrɪt(ə)n",
+  "phonetic_us": "ˈbrɪt(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=Britain&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=Britain&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "英国，不列颠(包括英格兰、苏格兰及威尔士)；英国，不列颠(包括英格兰、苏格兰及威尔士)"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Britain won five gold medals.",
+      "zh": "英国夺取了五块金牌。"
+    },
+    {
+      "en": "Britain is a constitutional monarchy.",
+      "zh": "英国是个君主立宪制国家。"
+    },
+    {
+      "en": "Fruit was a luxury in wartime Britain.",
+      "zh": "在战时的英国，水果是一种奢侈品。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "英国；不列颠",
+      "words": [
+        "England",
+        "UK"
+      ]
+    }
+  ]
+}

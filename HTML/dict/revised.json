@@ -1,0 +1,50 @@
+{
+  "word": "revised",
+  "found": true,
+  "phonetic_uk": "rɪˈvaɪzd",
+  "phonetic_us": "rɪˈvaɪzd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=revised&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=revised&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "修正过的，经过修改的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "改变，修正；修改，修订（书刊、估算等）；<英>温习，复习（revise 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I'll prepare a revised estimate for you.",
+      "zh": "我将为你准备一份经过修正的评估报告。"
+    },
+    {
+      "en": "The death toll was initially reported at around 250, but was later revised to 300.",
+      "zh": "最初报道死亡人数约250，后修订为300。"
+    },
+    {
+      "en": "The dictionary has been completely revised.",
+      "zh": "这部词典已彻底修订过。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "改进的",
+      "words": [
+        "modified",
+        "streamlined"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "修改；校订；复习（revise的过去分词形式）",
+      "words": [
+        "modified"
+      ]
+    }
+  ]
+}

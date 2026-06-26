@@ -1,0 +1,43 @@
+{
+  "word": "id",
+  "found": true,
+  "phonetic_uk": "ˌaɪ ˈdiː",
+  "phonetic_us": "ˌaɪ ˈdiː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=id&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=id&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "遗传素质；本能冲动"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Id）人名；（阿拉伯）埃德；（芬）[心理]伊德"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "You must carry ID at all times.",
+      "zh": "你必须随身携带身份证件。"
+    },
+    {
+      "en": "The service includes caller ID, voice mail, and call waiting.",
+      "zh": "这项服务包括呼叫方身份识别、语音邮件和呼叫等待。"
+    },
+    {
+      "en": "You have to have proof of residence in the state of Texas, such as a Texas ID card.",
+      "zh": "你必须有在德克萨斯州的居住证明，例如一张得克萨斯州的身份证。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "遗传素质；本能冲动",
+      "words": [
+        "genetic predisposition",
+        "genetic constitution"
+      ]
+    }
+  ]
+}

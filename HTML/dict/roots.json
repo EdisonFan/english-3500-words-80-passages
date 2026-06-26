@@ -1,0 +1,47 @@
+{
+  "word": "roots",
+  "found": true,
+  "phonetic_uk": "ruːts",
+  "phonetic_us": "ruːts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=roots&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=roots&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[数][植]根；根源（root 的复数形式）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "生根；扎根；连根拔起（root 的三单形式）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Roots）人名；（瑞典）罗茨；（英）鲁茨"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The banyan tree has aerial roots.",
+      "zh": "榕树有气根。"
+    },
+    {
+      "en": "We need support at grass-roots level.",
+      "zh": "我们需要基层的支持。"
+    },
+    {
+      "en": "The roots anchor the plant in the earth.",
+      "zh": "根须把这植物固定在土里。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "根；根源（root的复数形式）",
+      "words": [
+        "mothers",
+        "fathers"
+      ]
+    }
+  ]
+}

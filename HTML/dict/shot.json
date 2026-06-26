@@ -1,0 +1,79 @@
+{
+  "word": "shot",
+  "found": true,
+  "phonetic_uk": "ʃɒt",
+  "phonetic_us": "ʃɑːt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=shot&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=shot&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "射击，开枪（或炮），枪声；射手，枪手；弹丸；批评的话；尝试，努力；击球，射门；铅球；发射；照片，（电影的）镜头；注射；一口，一小杯（烈性酒）；少量；概率，可能性 ；铅沙弹"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "杂色的，闪色的；破烂不堪，筋疲力尽；充满（某种特质或情感）；<美，澳新>醉的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "开（枪），射击；射出（弓箭等）；狩猎（shoot 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "shots或shot"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "shots"
+    },
+    {
+      "name": "现在分词",
+      "value": "shotting"
+    },
+    {
+      "name": "过去式",
+      "value": "shotted"
+    },
+    {
+      "name": "过去分词",
+      "value": "shotted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His shot hit the bar.",
+      "zh": "他射门击中球门的横梁。"
+    },
+    {
+      "en": "She shot him a sideways glance.",
+      "zh": "她从眼角瞥了他一眼。"
+    },
+    {
+      "en": "She shot him an angry glance.",
+      "zh": "她很生气，瞪了他一眼。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[军]发射；炮弹；射手",
+      "words": [
+        "emission",
+        "sending",
+        "launch",
+        "shell",
+        "projection"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "用尽的；破旧的；杂色的，闪光的",
+      "words": [
+        "varied",
+        "shabby"
+      ]
+    }
+  ]
+}

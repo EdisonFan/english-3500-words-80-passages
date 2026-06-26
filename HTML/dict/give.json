@@ -1,0 +1,84 @@
+{
+  "word": "give",
+  "found": true,
+  "phonetic_uk": "ɡɪv",
+  "phonetic_us": "ɡɪv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=give&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=give&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "给，交给；赠送，赠与，送给；提供，供给；捐赠；支付，付款；将（时间、精力等）用于；举办，举行；表演，公开进行；允许；使产生（某种感觉）；使拥有（某一特性）；生产，引起；给（某人）打（电话）；告诉，说出，说明；给……评定（等级）；（把药等）注入，服入；看待，承认；做（动作）；传染；使受惩罚，让（某人）做；作出（决定或判决）；预计将持续（时间）；伸长，弯曲，断裂；让步，妥协；表示一种可能的情况或状态"
+    },
+    {
+      "pos": "n.",
+      "meaning": "伸展性，弹性；适应（或顺应）能力，灵活性"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Give）（意）吉韦（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "gives"
+    },
+    {
+      "name": "现在分词",
+      "value": "giving"
+    },
+    {
+      "name": "过去式",
+      "value": "gave"
+    },
+    {
+      "name": "过去分词",
+      "value": "given"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I'll give you a ring.",
+      "zh": "我会给你打电话的。"
+    },
+    {
+      "en": "I'll give you a demo.",
+      "zh": "我来给你作个示范。"
+    },
+    {
+      "en": "Larger models give more bass.",
+      "zh": "更大的型号能奏出更多的低音。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "给；产生；让步；举办；授予",
+      "words": [
+        "award",
+        "effect",
+        "form",
+        "grant",
+        "inspire"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "弹性；弯曲；伸展性",
+      "words": [
+        "flexibility",
+        "curve",
+        "elasticity"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "捐赠；面向；有弹性；气候转暖",
+      "words": [
+        "look",
+        "make a contribution to"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "word": "collective",
+  "found": true,
+  "phonetic_uk": "kəˈlektɪv",
+  "phonetic_us": "kəˈlektɪv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=collective&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=collective&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "集体的，共同的；总的，集合的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "集体农庄，集体企业；集合名词"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "collectives"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It was a collective decision.",
+      "zh": "这是集体的决定。"
+    },
+    {
+      "en": "He will see that he is participating in all the decisions of the collective.",
+      "zh": "他要确保他在参与集体企业的所有决策。"
+    },
+    {
+      "en": "This principle of collective bargaining has been a mainstay in labour relations in this country.",
+      "zh": "这种集体谈判原则已成为该国劳动关系的一个重要基础。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "集体的；共同的；集合的；集体主义的",
+      "words": [
+        "mutual",
+        "corporate",
+        "common",
+        "joint"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "集团；集合体；集合名词",
+      "words": [
+        "bloc",
+        "clan"
+      ]
+    }
+  ]
+}

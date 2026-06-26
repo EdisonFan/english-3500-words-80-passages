@@ -1,0 +1,79 @@
+{
+  "word": "channel",
+  "found": true,
+  "phonetic_uk": "ˈtʃæn(ə)l",
+  "phonetic_us": "ˈtʃæn(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=channel&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=channel&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "频道，电视频道；管道，通道，航道；渠道，手段；沟渠，沟槽；河床；海峡；信道；电子沟道；输液道"
+    },
+    {
+      "pos": "v.",
+      "meaning": "引导，把……用于；输送，传送；通灵；努力赶上，受启发；形成凹槽"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Channel）（美）沙内乐（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "channels"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "channels"
+    },
+    {
+      "name": "现在分词",
+      "value": "channelling或channeling"
+    },
+    {
+      "name": "过去式",
+      "value": "channelled或channeled"
+    },
+    {
+      "name": "过去分词",
+      "value": "channelled或channeled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The programme's on Channel 4.",
+      "zh": "这个节目在4频道。"
+    },
+    {
+      "en": "I hope Channel 4 doesn't bleep it out.",
+      "zh": "我希望第4频道别盖过这段话。"
+    },
+    {
+      "en": "Here the river is confined in a narrow channel.",
+      "zh": "这条河在这里流入狭窄的河床。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "引导，开导；形成河道",
+      "words": [
+        "aim",
+        "boot"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "通道；频道；海峡",
+      "words": [
+        "door",
+        "exit",
+        "neck",
+        "route",
+        "narrow"
+      ]
+    }
+  ]
+}

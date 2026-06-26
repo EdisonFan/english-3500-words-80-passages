@@ -1,0 +1,65 @@
+{
+  "word": "physical",
+  "found": true,
+  "phonetic_uk": "ˈfɪzɪk(ə)l",
+  "phonetic_us": "ˈfɪzɪk(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=physical&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=physical&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "身体的，肉体的；物质的，有形的；外形的，外在的；物理的，物理学的；根据自然规律的，符合自然法则的；粗暴的，粗野的；性欲的，肉欲的；（人）喜欢动手动脚的；肢体活动的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "体格检查；（股票）（与期货相对的）现货股票"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "physicals"
+    },
+    {
+      "name": "比较级",
+      "value": "more physical"
+    },
+    {
+      "name": "最高级",
+      "value": "most physical"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Bob failed his physical.",
+      "zh": "鲍勃没有通过体格检查。"
+    },
+    {
+      "en": "Physical activity promotes good health.",
+      "zh": "身体运动促进健康。"
+    },
+    {
+      "en": "He tends to avoid all physical contact.",
+      "zh": "他倾向于避免一切身体接触。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[物]物理的；身体的；物质的",
+      "words": [
+        "personal",
+        "material",
+        "natural"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "体格检查",
+      "words": [
+        "medical examination",
+        "check-up"
+      ]
+    }
+  ]
+}

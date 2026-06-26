@@ -1,0 +1,41 @@
+{
+  "word": "accurately",
+  "found": true,
+  "phonetic_uk": "ˈækjərətli",
+  "phonetic_us": "ˈækjərətli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=accurately&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=accurately&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "精确地，准确地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "You need to hit the ball accurately.",
+      "zh": "你必须准确击球。"
+    },
+    {
+      "en": "He hit the golf ball powerfully and accurately.",
+      "zh": "他有力而准确地击中了那个高尔夫球。"
+    },
+    {
+      "en": "What many people mean by the word \"power\" could be more accurately described as \"control.\"",
+      "zh": "许多人对“权力”这个词的理解可以更为准确地用“控制”来形容。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "精确地，准确地",
+      "words": [
+        "precisely",
+        "exactly",
+        "true",
+        "spot"
+      ]
+    }
+  ]
+}

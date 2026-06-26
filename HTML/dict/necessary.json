@@ -1,0 +1,71 @@
+{
+  "word": "necessary",
+  "found": true,
+  "phonetic_uk": "ˈnesəsəri",
+  "phonetic_us": "ˈnesəseri",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=necessary&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=necessary&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "必要的，必需的；必然的，不可避免的；迫不得已的，非自愿的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（生活）必需品；<英，非正式>必要的事（the necessary）；<英，非正式>足够的钱（the necessary）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Necessary）（英）内塞瑟里（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "necessaries"
+    },
+    {
+      "name": "比较级",
+      "value": "more necessary"
+    },
+    {
+      "name": "最高级",
+      "value": "most necessary"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I can take the car if necessary.",
+      "zh": "如果必要的话，我可以乘汽车去。"
+    },
+    {
+      "en": "If necessary I can come at once.",
+      "zh": "如果有必要，我可以马上来。"
+    },
+    {
+      "en": "Sometimes it is necessary to say no.",
+      "zh": "有时候说“不”是必要的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[数]必要的；必需的；必然的",
+      "words": [
+        "inevitable",
+        "required",
+        "essential",
+        "certain",
+        "automatic"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "必需品",
+      "words": [
+        "requirement",
+        "want"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "word": "measuring",
+  "found": true,
+  "phonetic_uk": "ˈmeʒərɪŋ",
+  "phonetic_us": "ˈmeʒərɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=measuring&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=measuring&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "测量；衡量"
+    },
+    {
+      "pos": "v.",
+      "meaning": "测量（measure 的 ing 形式）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "测量用的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "You'll need such information to use as a baseline for measuring progress.",
+      "zh": "你需要利用这些信息作为基准来衡量进展情况。"
+    },
+    {
+      "en": "There's more to it than simply measuring performance.",
+      "zh": "除了简单地衡量性能之外，它还有其他更多的功能。"
+    },
+    {
+      "en": "One way to tell is by measuring the bones of their forelimbs.",
+      "zh": "一种判断的方法是测量它们前肢的骨头。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[测]测量；衡量",
+      "words": [
+        "survey",
+        "taking off"
+      ]
+    }
+  ]
+}

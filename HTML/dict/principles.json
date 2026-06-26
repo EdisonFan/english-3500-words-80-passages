@@ -1,0 +1,42 @@
+{
+  "word": "principles",
+  "found": true,
+  "phonetic_uk": "ˈprɪnsəp(ə)lz",
+  "phonetic_us": "ˈprɪnsəp(ə)lz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=principles&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=principles&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "道德原则，行为准则，规范；原则，原理，法则；观念，信条；起源，本原（principle 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "向......灌输原则（principle 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She held firm to her principles.",
+      "zh": "她坚持自己的原则。"
+    },
+    {
+      "en": "I refuse to compromise my principles.",
+      "zh": "我拒绝在原则问题上妥协。"
+    },
+    {
+      "en": "By 1930 he had abandoned his Marxist principles.",
+      "zh": "1930年时他已放弃了马克思主义信念。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "原则；法则；信念（principle的复数）；本源",
+      "words": [
+        "tenets"
+      ]
+    }
+  ]
+}

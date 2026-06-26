@@ -1,0 +1,50 @@
+{
+  "word": "until",
+  "found": true,
+  "phonetic_uk": "ʌnˈtɪl",
+  "phonetic_us": "ʌnˈtɪl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=until&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=until&type=2",
+  "defs": [
+    {
+      "pos": "conj.",
+      "meaning": "到……时，直到……为止"
+    },
+    {
+      "pos": "prep.",
+      "meaning": "到……时，直到……为止；直到（某处）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She lay sleepless until dawn.",
+      "zh": "她躺在那儿，直到天亮才睡着。"
+    },
+    {
+      "en": "Heat the jam until it liquefies.",
+      "zh": "加热果酱直至其液化。"
+    },
+    {
+      "en": "The car is taxed until July.",
+      "zh": "这辆汽车的牌照税缴纳到了七月。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "conj.",
+      "meaning": "在…以前；直到…时",
+      "words": [
+        "before"
+      ]
+    },
+    {
+      "pos": "prep.",
+      "meaning": "在…以前；到…为止",
+      "words": [
+        "by the end",
+        "ere"
+      ]
+    }
+  ]
+}

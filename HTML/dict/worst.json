@@ -1,0 +1,55 @@
+{
+  "word": "worst",
+  "found": true,
+  "phonetic_uk": "wɜːst",
+  "phonetic_us": "wɜːrst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=worst&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=worst&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "最差的，最糟的，最严重的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "最差地，最糟地，最严重地"
+    },
+    {
+      "pos": "n.",
+      "meaning": "最坏的人（或事），最糟的情况"
+    },
+    {
+      "pos": "v.",
+      "meaning": "打败，击败"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Worst）（英、德）沃斯特（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Nikolai's English was much the worst.",
+      "zh": "尼柯莱的英语糟糕透了。"
+    },
+    {
+      "en": "He was voted the worst dressed celebrity.",
+      "zh": "大家一致认为他是衣着最差的名人。"
+    },
+    {
+      "en": "If the worst comes to the worst, we'll just have to sell the house.",
+      "zh": "如果最坏的事发生，我们就只好把房子卖掉。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "最差的，最坏的；最不利的；效能最低的",
+      "words": [
+        "pessimal",
+        "baddest"
+      ]
+    }
+  ]
+}

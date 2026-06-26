@@ -1,0 +1,65 @@
+{
+  "word": "monthly",
+  "found": true,
+  "phonetic_uk": "ˈmʌnθli",
+  "phonetic_us": "ˈmʌnθli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=monthly&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=monthly&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "每月的，每月一次的；按月支付的，按月计算的；（票、通行证等）有效期为一个月的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "月刊"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "每个月，每月一次"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "monthlies"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We issue a monthly newsletter.",
+      "zh": "我们出版一份通讯月刊。"
+    },
+    {
+      "en": "The agency will pay you a monthly retainer.",
+      "zh": "这个机构将会每月付给你聘用金。"
+    },
+    {
+      "en": "We went to renew our monthly season ticket.",
+      "zh": "我们去续了月票。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "每月的，每月一次的；有效期为一个月的",
+      "words": [
+        "menstrual"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "月刊",
+      "words": [
+        "mensual"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "每月，每月一次",
+      "words": [
+        "mensual"
+      ]
+    }
+  ]
+}

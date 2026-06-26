@@ -1,0 +1,40 @@
+{
+  "word": "occupations",
+  "found": true,
+  "phonetic_uk": "ɒkjʊˈpeɪʃ(ə)ns",
+  "phonetic_us": "ˌɑːkjəˈpeɪʃənz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=occupations&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=occupations&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[劳经]职业；行业；占有；日常活动（occupation 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Many of us equate \"commitment\" with such \"caring\" occupations as teaching and nursing.",
+      "zh": "我们许多人将“奉献”等同为教师，护士之类的关怀型职业。"
+    },
+    {
+      "en": "It's commonly known that certain diseases are linked with occupations like lung disease in coal miners.",
+      "zh": "众所周知，某些疾病与职业有关，比如煤矿工人的肺病。"
+    },
+    {
+      "en": "Many middle-class occupations—trucking, financial advice, software engineering—have aroused their interest, or soon will.",
+      "zh": "许多中产阶级的职业，如卡车运输、金融咨询、软件工程已经引起了他们的兴趣，或者很快就会引起他们的兴趣。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "职业；行业；占有；日常活动（occupation的复数）",
+      "words": [
+        "industries",
+        "professions",
+        "careers"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "formative",
+  "found": true,
+  "phonetic_uk": "ˈfɔːmətɪv",
+  "phonetic_us": "ˈfɔːrmətɪv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=formative&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=formative&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "发展的，形成的；有助于形成的，对成长有深远影响的；（语言学）（与）构形成分（有关）的；造型的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（语言学）构词要素，构形成分"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "formatives"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The zoology program at my university attracts students for whom zoo visits were the crucial formative experience that led them to major in biological sciences.",
+      "zh": "我就任高校的动物学课程所吸引的学生，就是因为参观动物园这一段至关重要的成长经历，才选择修读生物科学专业。"
+    },
+    {
+      "en": "My father was a sunday painter, and his art books played a formative role in my childhood.",
+      "zh": "我的父亲是个业余画家，他的艺术书籍在我的童年时代起了很大的作用。"
+    },
+    {
+      "en": "Mainly Qualitative (formative).",
+      "zh": "主要是定性的(结构化的)。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "形成的；造型的；格式化的",
+      "words": [
+        "plastic",
+        "emerging"
+      ]
+    }
+  ]
+}

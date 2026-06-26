@@ -1,0 +1,38 @@
+{
+  "word": "essentially",
+  "found": true,
+  "phonetic_uk": "ɪˈsenʃəli",
+  "phonetic_us": "ɪˈsenʃəli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=essentially&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=essentially&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "本质上，根本上；大体上，基本上"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He was, essentially, a teacher, not a manager.",
+      "zh": "他本质上来说是个教师而不是经理。"
+    },
+    {
+      "en": "The course is essentially theoretical in orientation.",
+      "zh": "该课程的目标基本上是理论性的。"
+    },
+    {
+      "en": "The book is essentially a taster for those unfamiliar with the subject.",
+      "zh": "这本书基本上是让那些不熟悉该学科的人对其有个初步的了解。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "本质上；本来",
+      "words": [
+        "originally"
+      ]
+    }
+  ]
+}

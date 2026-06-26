@@ -1,0 +1,44 @@
+{
+  "word": "agency",
+  "found": true,
+  "phonetic_uk": "ˈeɪdʒənsi",
+  "phonetic_us": "ˈeɪdʒənsi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=agency&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=agency&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "代理行，经销处；政府专门机构，政府内的局，部，处；（尤指产生某效果的）作用；起作用的事物（或人）;社会行为者独立选择的能力"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "agencies"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I was headhunted by a marketing agency.",
+      "zh": "我被一家销售代理公司物色上了。"
+    },
+    {
+      "en": "We had to hire maids through an agency.",
+      "zh": "我们得通过代理公司雇用女佣。"
+    },
+    {
+      "en": "The agency will pay you a monthly retainer.",
+      "zh": "这个机构将会每月付给你聘用金。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[贸易]代理，[经]中介；代理处，经销处",
+      "words": [
+        "procuration",
+        "intermediary agent"
+      ]
+    }
+  ]
+}

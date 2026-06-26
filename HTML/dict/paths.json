@@ -1,0 +1,38 @@
+{
+  "word": "paths",
+  "found": true,
+  "phonetic_uk": "pɑːðz",
+  "phonetic_us": "pæðz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=paths&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=paths&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "路径（path 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The paths get all ploughed up by motorbikes.",
+      "zh": "乡间小路全让摩托车给轧坏了。"
+    },
+    {
+      "en": "At this point the two paths coincide briefly.",
+      "zh": "两条小路在这个地方有一小段合在了一起。"
+    },
+    {
+      "en": "There was a signpost where the two paths converged.",
+      "zh": "两条小路的相交处有一路标。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "路径（path的复数）",
+      "words": [
+        "tracers"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "word": "package",
+  "found": true,
+  "phonetic_uk": "ˈpækɪdʒ",
+  "phonetic_us": "ˈpækɪdʒ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=package&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=package&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "包裹；<美>（包装食物等的）盒，包；（建议或提供的想法或服务的）一套，一揽子；包价（旅游）；成套出售的东西，套餐；软件包"
+    },
+    {
+      "pos": "v.",
+      "meaning": "把……打包，把……装箱（以便出售）；包装（产品或想法等）；配套销售（商品）；承揽图书（尤指插图多的图书）的约稿和印制并整体打包出售给出版商"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "packages"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "packages"
+    },
+    {
+      "name": "现在分词",
+      "value": "packaging"
+    },
+    {
+      "name": "过去式",
+      "value": "packaged"
+    },
+    {
+      "name": "过去分词",
+      "value": "packaged"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I tore the package open.",
+      "zh": "我把包裹撕开。"
+    },
+    {
+      "en": "This package is for you.",
+      "zh": "这份包裹是给你的。"
+    },
+    {
+      "en": "I tore open the package.",
+      "zh": "我撕开了那个包裹。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计][通信]包，[邮]包裹；套装软件，程序包",
+      "words": [
+        "envelopment",
+        "fardel"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "打包；将…包装",
+      "words": [
+        "parcel"
+      ]
+    }
+  ]
+}

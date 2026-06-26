@@ -1,0 +1,59 @@
+{
+  "word": "night",
+  "found": true,
+  "phonetic_uk": "naɪt",
+  "phonetic_us": "naɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=night&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=night&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "夜间，夜晚；晚上，傍晚；<文>黄昏；（特殊活动之）夜；黑夜，夜色；挫败时期"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "夜晚的；夜晚使用的；夜间进行的；夜晚活动的"
+    },
+    {
+      "pos": "int.",
+      "meaning": "晚安（goodnight 的简称）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "nights"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He started having night sweats.",
+      "zh": "他开始夜间盗汗。"
+    },
+    {
+      "en": "Cats have good night vision.",
+      "zh": "猫在夜间视力好。"
+    },
+    {
+      "en": "Night was fast approaching.",
+      "zh": "黑夜迅速降临。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "夜晚，晚上；黑暗，黑夜",
+      "words": [
+        "evening",
+        "nocte"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "夜晚的，夜间的",
+      "words": [
+        "vesperal"
+      ]
+    }
+  ]
+}

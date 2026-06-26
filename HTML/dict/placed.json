@@ -1,0 +1,43 @@
+{
+  "word": "placed",
+  "found": true,
+  "phonetic_uk": "pleɪst",
+  "phonetic_us": "pleɪst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=placed&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=placed&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "放置（place 的过去分词形式）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "名列前茅的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The village was placed under curfew.",
+      "zh": "该村处于宵禁之中。"
+    },
+    {
+      "en": "Too much emphasis is placed on research.",
+      "zh": "把重点过多地放在研究上。"
+    },
+    {
+      "en": "She was placed under house arrest.",
+      "zh": "她遭到了软禁。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "放置（place的过去分词形式）",
+      "words": [
+        "positioned",
+        "deposited"
+      ]
+    }
+  ]
+}

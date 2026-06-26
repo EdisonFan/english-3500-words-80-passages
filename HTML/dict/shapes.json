@@ -1,0 +1,43 @@
+{
+  "word": "shapes",
+  "found": true,
+  "phonetic_uk": "ʃeɪps",
+  "phonetic_us": "ʃeɪps",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=shapes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=shapes&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "形状（shape 的复数）；图形；身材；二维造型体"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使……成形（shape 的第三人称单数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Tents come in various shapes and sizes.",
+      "zh": "帐篷有各种各样的形状和大小。"
+    },
+    {
+      "en": "There is also an artful contrast of shapes.",
+      "zh": "还有一种不同形状的巧妙对比。"
+    },
+    {
+      "en": "A painter may exaggerate or distort shapes and forms.",
+      "zh": "画家可能会夸大或扭曲形状与形式。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "形状（shape的复数）；图形；身材；二维造型体",
+      "words": [
+        "figures",
+        "graphs"
+      ]
+    }
+  ]
+}

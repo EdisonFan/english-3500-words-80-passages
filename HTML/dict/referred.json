@@ -1,0 +1,34 @@
+{
+  "word": "referred",
+  "found": true,
+  "phonetic_uk": "rɪˈfɜːd",
+  "phonetic_us": "rɪˈfɜːrd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=referred&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=referred&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "（医）牵涉性的，牵连性的（疼痛）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "参考，查阅；归类，谈及，送交（refer 的过去式与过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We have referred freely to his ideas.",
+      "zh": "我们大量地参考他的想法。"
+    },
+    {
+      "en": "The victims were not referred to by name.",
+      "zh": "没有提到受害人的姓名。"
+    },
+    {
+      "en": "She always referred to Ben as 'that nice man'.",
+      "zh": "她总是称本为“那个大好人”。"
+    }
+  ],
+  "synonyms": []
+}

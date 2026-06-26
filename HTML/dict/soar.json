@@ -1,0 +1,73 @@
+{
+  "word": "soar",
+  "found": true,
+  "phonetic_uk": "sɔː(r)",
+  "phonetic_us": "sɔːr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=soar&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=soar&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（数量、价值、水平、规模等）急升，猛涨；高飞，翱翔；升空，升腾；（精神或希望）高涨；(树木、建筑等）高耸，屹立；升至（很高的高度），高达；（音乐）升高，增强"
+    },
+    {
+      "pos": "n.",
+      "meaning": "高飞；高涨"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Soar）（英、葡）索尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "soars"
+    },
+    {
+      "name": "现在分词",
+      "value": "soaring"
+    },
+    {
+      "name": "过去式",
+      "value": "soared"
+    },
+    {
+      "name": "过去分词",
+      "value": "soared"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His market share continues to soar.",
+      "zh": "他的市场份额不断高涨。"
+    },
+    {
+      "en": "The eagle can soar without flapping their wings.",
+      "zh": "老鹰无需振翼就能翱翔。"
+    },
+    {
+      "en": "Most animals seek shade when temperatures in the Sahara Desert soar to 120 degrees Fahrenheit.",
+      "zh": "当撒哈拉沙漠的温度飙升到120华氏度时，大多数动物会寻找庇荫处。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "高飞；高耸；往上飞舞",
+      "words": [
+        "rise",
+        "tower",
+        "rear"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "高飞；高涨",
+      "words": [
+        "flying high",
+        "upsurge"
+      ]
+    }
+  ]
+}

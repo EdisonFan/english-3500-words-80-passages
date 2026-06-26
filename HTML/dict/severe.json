@@ -1,0 +1,51 @@
+{
+  "word": "severe",
+  "found": true,
+  "phonetic_uk": "sɪˈvɪə(r)",
+  "phonetic_us": "sɪˈvɪr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=severe&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=severe&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "十分严重的，极为恶劣的；艰巨的，严峻的；（惩罚、批评）严厉的，重的；严厉的，苛刻的；不加装饰的，朴素的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "severer或more severe"
+    },
+    {
+      "name": "最高级",
+      "value": "severest或most severe"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The patient suffered severe brain trauma.",
+      "zh": "患者的大脑受到严重损伤。"
+    },
+    {
+      "en": "They predicted a severe economic downturn.",
+      "zh": "他们预言将会有一次严重的经济衰退。"
+    },
+    {
+      "en": "If untreated, the illness can become severe.",
+      "zh": "若不加以治疗，病情就可能会变得很严重。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "严峻的；严厉的；剧烈的；苛刻的",
+      "words": [
+        "tight",
+        "hard",
+        "smart",
+        "harsh",
+        "rigorous"
+      ]
+    }
+  ]
+}

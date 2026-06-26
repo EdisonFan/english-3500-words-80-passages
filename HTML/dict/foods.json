@@ -1,0 +1,39 @@
+{
+  "word": "foods",
+  "found": true,
+  "phonetic_uk": "fuːdz",
+  "phonetic_us": "fuːdz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=foods&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=foods&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[食品] 食品"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I'm trying to keep off fatty foods.",
+      "zh": "我尽量不吃高脂肪食物。"
+    },
+    {
+      "en": "Some foods are more fattening than others.",
+      "zh": "有些食物比较容易使人发胖。"
+    },
+    {
+      "en": "Most foods that we eat are safe for birds.",
+      "zh": "我们吃的绝大部分食物对鸟类是安全的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "食品",
+      "words": [
+        "edible",
+        "victualage"
+      ]
+    }
+  ]
+}

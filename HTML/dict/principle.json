@@ -1,0 +1,47 @@
+{
+  "word": "principle",
+  "found": true,
+  "phonetic_uk": "ˈprɪnsəp(ə)l",
+  "phonetic_us": "ˈprɪnsəp(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=principle&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=principle&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（行为）准则，（道德）原则；道义，正直；基本原则，基本法则；（机器等或自然界的）原理，定律；（宗教或政治的）主义，信条；起源，本原；本质，实质；（化）成分，要素"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "principles"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It's not just a matter of principle.",
+      "zh": "这不仅仅是个原则问题。"
+    },
+    {
+      "en": "The principle behind it is very simple.",
+      "zh": "其中的原理十分简单。"
+    },
+    {
+      "en": "She resigned over a matter of principle.",
+      "zh": "她因为原则问题而辞职。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "原理，原则；主义，道义；本质，本义；根源，源泉",
+      "words": [
+        "theory",
+        "mechanism",
+        "element",
+        "essence",
+        "parent"
+      ]
+    }
+  ]
+}

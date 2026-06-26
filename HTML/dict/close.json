@@ -1,0 +1,101 @@
+{
+  "word": "close",
+  "found": true,
+  "phonetic_uk": "kləʊz",
+  "phonetic_us": "kloʊz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=close&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=close&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（使）关闭；合上，合拢；（使）暂时性关闭；（永久）停业，停止活动；（使）结束，（使）停止；关闭（计算机程序）；（股票等）收盘；拉近（距离），缩小（差距）；抱住，抓住，握住；（使）（伤口）愈合；封锁（公路、公园等）；完成，做成（交易等）；接通（电路）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "接近的；酷似的，几乎相等的；快要……的；（坏事）险些发生的；近亲的；亲近的，亲密的；（关联）密切的；仔细的，全面的；势均力敌的；闷热的，不通风的；密集的，空间很小的；（头发或胡子）齐根的；守口如瓶的，掩饰感情的；吝啬的，小气的；严加保护（守卫）的；闭塞音的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "（空间或时间上）接近地"
+    },
+    {
+      "pos": "n.",
+      "meaning": "结束，结尾；（大教堂的）围地；死胡同；<英>英国某些传统公学的操场；<苏格兰>通路，入口；（股市一日的）收盘（the close）；（板球一日比赛的）终赛（the close）；（乐）短句结尾，收束；关闭（尤指关门）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Close）（英、法）克洛斯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "closes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "closes"
+    },
+    {
+      "name": "现在分词",
+      "value": "closing"
+    },
+    {
+      "name": "过去式",
+      "value": "closed"
+    },
+    {
+      "name": "过去分词",
+      "value": "closed"
+    },
+    {
+      "name": "比较级",
+      "value": "closer"
+    },
+    {
+      "name": "最高级",
+      "value": "closest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Some smallish firms may close.",
+      "zh": "一些比较小的公司可能会关闭。"
+    },
+    {
+      "en": "Zacharias heard the door close.",
+      "zh": "札哈里亚斯听到门关上了。"
+    },
+    {
+      "en": "The trees grew close together.",
+      "zh": "这些树紧挨着一起成长。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "紧密的；亲密的；亲近的",
+      "words": [
+        "familiar",
+        "near",
+        "compact"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "关；结束；使靠近",
+      "words": [
+        "conclude",
+        "pull the plug"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "关；结束；关闭",
+      "words": [
+        "pull the plug",
+        "draw to an end"
+      ]
+    }
+  ]
+}

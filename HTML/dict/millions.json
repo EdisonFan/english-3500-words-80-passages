@@ -1,0 +1,38 @@
+{
+  "word": "millions",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=millions&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=millions&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "数百万"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "How can millions of dollars go astray?",
+      "zh": "数百万美元怎么会丢失了呢？"
+    },
+    {
+      "en": "Millions of people have lost their homes.",
+      "zh": "数百万人失去了家园。"
+    },
+    {
+      "en": "The programme attracted millions of viewers.",
+      "zh": "这个节目吸引了数百万电视观众。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "数百万",
+      "words": [
+        "multimillion"
+      ]
+    }
+  ]
+}

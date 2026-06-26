@@ -1,0 +1,88 @@
+{
+  "word": "white",
+  "found": true,
+  "phonetic_uk": "waɪt",
+  "phonetic_us": "waɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=white&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=white&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "白色的；白种人的，白肤色的；苍白的；加牛奶（或奶油）的；（葡萄酒）白的，淡黄色的；（面粉）精白的；<美>空白的；树皮淡色的；（玻璃）透明的，无色的；<非正式>完全公正的，非常诚实的；（魔法）善意的；（血细胞）白的；<史>（政治）反动的；纯洁的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "白色，白颜料；白种人，白人；白葡萄酒；眼白；蛋清，蛋白；白色运动服（whites）；要洗涤的白色织物（whites）；白衣服；执白棋者，白方；白色的东西，白球；白粉蝶"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<古>把……漆成白色，使变白"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （White）怀特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "whites"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "whites"
+    },
+    {
+      "name": "现在分词",
+      "value": "whiting"
+    },
+    {
+      "name": "过去式",
+      "value": "whited"
+    },
+    {
+      "name": "过去分词",
+      "value": "whited"
+    },
+    {
+      "name": "比较级",
+      "value": "whiter"
+    },
+    {
+      "name": "最高级",
+      "value": "whitest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I swigged down two white wines.",
+      "zh": "我大口喝完两杯白葡萄酒。"
+    },
+    {
+      "en": "Would you prefer red or white?",
+      "zh": "你喜欢喝红葡萄酒还是白葡萄酒？"
+    },
+    {
+      "en": "His face was ghastly white.",
+      "zh": "他的脸色惨白。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "白色的；白种的；纯洁的",
+      "words": [
+        "stainless",
+        "pure"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "白色；洁白；白种人",
+      "words": [
+        "leuko",
+        "chalkiness"
+      ]
+    }
+  ]
+}

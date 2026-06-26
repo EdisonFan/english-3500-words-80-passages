@@ -1,0 +1,65 @@
+{
+  "word": "prevent",
+  "found": true,
+  "phonetic_uk": "prɪˈvent",
+  "phonetic_us": "prɪˈvent",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=prevent&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=prevent&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "阻止，阻碍；防止，预防；设置障碍"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "prevents"
+    },
+    {
+      "name": "现在分词",
+      "value": "preventing"
+    },
+    {
+      "name": "过去式",
+      "value": "prevented"
+    },
+    {
+      "name": "过去分词",
+      "value": "prevented"
+    }
+  ],
+  "examples": [
+    {
+      "en": "These methods prevent pregnancy.",
+      "zh": "这些方法预防怀孕。"
+    },
+    {
+      "en": "We are taking steps to prevent pollution.",
+      "zh": "我们正在采取措施防止污染。"
+    },
+    {
+      "en": "Regular exercise helps prevent weight gain.",
+      "zh": "经常锻炼有助于防止体重增加。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "预防，防止；阻止",
+      "words": [
+        "dispute",
+        "stem",
+        "block"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "妨碍，阻止",
+      "words": [
+        "stem",
+        "hinder from"
+      ]
+    }
+  ]
+}

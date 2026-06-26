@@ -1,0 +1,56 @@
+{
+  "word": "memorize",
+  "found": true,
+  "phonetic_uk": "ˈmeməraɪz",
+  "phonetic_us": "ˈmeməraɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=memorize&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=memorize&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "记住，熟记"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "memorizes"
+    },
+    {
+      "name": "现在分词",
+      "value": "memorizing"
+    },
+    {
+      "name": "过去式",
+      "value": "memorized"
+    },
+    {
+      "name": "过去分词",
+      "value": "memorized"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I don't try to memorize speeches word for word.",
+      "zh": "我不会尝试去逐字地背那些演说。"
+    },
+    {
+      "en": "He studied his map, trying to memorize the way to Rose's street.",
+      "zh": "他研究了地图，努力记住去罗丝家那条街的路。"
+    },
+    {
+      "en": "Memorize a poem and pass it on.",
+      "zh": "记住一首诗并把它传下去。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "记住，背熟；记忆",
+      "words": [
+        "retain",
+        "keep in mind"
+      ]
+    }
+  ]
+}

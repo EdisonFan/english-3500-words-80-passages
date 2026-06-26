@@ -1,0 +1,64 @@
+{
+  "word": "speak",
+  "found": true,
+  "phonetic_uk": "spiːk",
+  "phonetic_us": "spiːk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=speak&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=speak&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "谈话，交谈；说，讲述；（会）讲（某种语言）；发言，演讲；（不用言语）表明，显示；代表……讲话，充当……的代言人；（发言或写作中）提到，谈及；以……方式说；表达（思想、观点）；（乐器或其他物体）发出特有的响声；（猎狗）吠"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "speaks"
+    },
+    {
+      "name": "现在分词",
+      "value": "speaking"
+    },
+    {
+      "name": "过去式",
+      "value": "spoke"
+    },
+    {
+      "name": "过去分词",
+      "value": "spoken"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They speak very precise English.",
+      "zh": "他们说非常标准的英语。"
+    },
+    {
+      "en": "He doesn't speak English.",
+      "zh": "他不说英语。"
+    },
+    {
+      "en": "She can speak Spanish.",
+      "zh": "她会讲西班牙语。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "说话；演讲；表明；陈述",
+      "words": [
+        "tongue",
+        "fack"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "讲话；发言；讲演",
+      "words": [
+        "take the floor",
+        "to address"
+      ]
+    }
+  ]
+}

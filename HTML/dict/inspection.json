@@ -1,0 +1,45 @@
+{
+  "word": "inspection",
+  "found": true,
+  "phonetic_uk": "ɪnˈspekʃ(ə)n",
+  "phonetic_us": "ɪnˈspekʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=inspection&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=inspection&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "视察；检查，审视"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "inspections"
+    }
+  ],
+  "examples": [
+    {
+      "en": "On closer inspection , the notes proved to be forgeries.",
+      "zh": "经进一步检查发现钞票都是伪造的。"
+    },
+    {
+      "en": "Engineers carried out a thorough inspection of the track.",
+      "zh": "工程师对轨道进行了彻底检查。"
+    },
+    {
+      "en": "An inspection of his rig showed that three of the brakes were faulty.",
+      "zh": "对他的重型卡车的检查显示有3处刹车存在问题。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "视察，检查",
+      "words": [
+        "examination",
+        "checking",
+        "monitoring"
+      ]
+    }
+  ]
+}

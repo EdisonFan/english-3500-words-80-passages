@@ -1,0 +1,49 @@
+{
+  "word": "painful",
+  "found": true,
+  "phonetic_uk": "ˈpeɪnf(ə)l",
+  "phonetic_us": "ˈpeɪnf(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=painful&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=painful&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "疼痛的；引起疼痛的；令人痛苦（难受）的，困难的；<非正式>令人难堪的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "painfuller或more painful"
+    },
+    {
+      "name": "最高级",
+      "value": "painfullest或most painful"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Her glands were swollen and painful.",
+      "zh": "她的腺体肿胀且疼痛。"
+    },
+    {
+      "en": "Jealousy causes distress and painful emotions.",
+      "zh": "嫉妒会引发悲伤和痛苦的情绪。"
+    },
+    {
+      "en": "Remarks like that brought back painful memories.",
+      "zh": "像那样的评论勾起了痛苦的记忆。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "痛苦的；疼痛的；令人不快的",
+      "words": [
+        "hurt",
+        "bitter",
+        "miserable"
+      ]
+    }
+  ]
+}

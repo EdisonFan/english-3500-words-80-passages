@@ -1,0 +1,38 @@
+{
+  "word": "robots",
+  "found": true,
+  "phonetic_uk": "ˈrəʊbɒts",
+  "phonetic_us": "ˈroʊbɑːts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=robots&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=robots&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[自]机器人（robot 的复数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "These cars are built by robots.",
+      "zh": "这些汽车是由机器人制造的。"
+    },
+    {
+      "en": "No doubt such robots would be very useful in the homes of the able-bodied, too.",
+      "zh": "毫无疑问，这样的机器人在健全人的家里也会非常有用。"
+    },
+    {
+      "en": "Robots will take pictures.",
+      "zh": "机器人将会照相。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "机器人（robot的复数形式）",
+      "words": [
+        "automatons"
+      ]
+    }
+  ]
+}

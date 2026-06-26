@@ -1,0 +1,79 @@
+{
+  "word": "fever",
+  "found": true,
+  "phonetic_uk": "ˈfiːvə(r)",
+  "phonetic_us": "ˈfiːvər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fever&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fever&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "发烧，发热；狂热，高度兴奋；热病"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使发烧，使激动不已"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "fevers"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "fevers"
+    },
+    {
+      "name": "现在分词",
+      "value": "fevering"
+    },
+    {
+      "name": "过去式",
+      "value": "fevered"
+    },
+    {
+      "name": "过去分词",
+      "value": "fevered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He had an earache and a fever.",
+      "zh": "他耳痛，发烧。"
+    },
+    {
+      "en": "My Uncle Jim had a high fever.",
+      "zh": "我的叔叔吉姆发高烧了。"
+    },
+    {
+      "en": "The fever has passed its crisis.",
+      "zh": "发烧已过危险期。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[医]发烧，[临床]发热；狂热",
+      "words": [
+        "abandon",
+        "febricity"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[医]使发烧；使狂热；使患热病",
+      "words": [
+        "fanaticize"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "[医]发烧；狂热；患热病",
+      "words": [
+        "run a temperature",
+        "go wild"
+      ]
+    }
+  ]
+}

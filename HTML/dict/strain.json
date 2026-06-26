@@ -1,0 +1,85 @@
+{
+  "word": "strain",
+  "found": true,
+  "phonetic_uk": "streɪn",
+  "phonetic_us": "streɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=strain&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=strain&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "焦虑，紧张；负担，紧张；张力，压力；损伤，扭伤；品种，类型；气质，个性特点；旋律，曲调；口吻，语气；（物理）应变，胁变；血缘；困难，负担"
+    },
+    {
+      "pos": "v.",
+      "meaning": "拉伤，扭伤；绷紧，用力拉；竭力，使劲；过滤；使不堪忍受，使紧张；用力推（或拉），拉紧"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Strain）（英）斯特兰（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "strains"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "strains"
+    },
+    {
+      "name": "现在分词",
+      "value": "straining"
+    },
+    {
+      "name": "过去式",
+      "value": "strained"
+    },
+    {
+      "name": "过去分词",
+      "value": "strained"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The rope broke under the strain.",
+      "zh": "绳子给拉断了。"
+    },
+    {
+      "en": "The wall collapsed under the strain.",
+      "zh": "墙壁因承受不了重压而坍塌了。"
+    },
+    {
+      "en": "I had to strain to hear.",
+      "zh": "我不得不���力地听。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "张力；[力]拉紧；负担；[外科]扭伤；血缘",
+      "words": [
+        "tension",
+        "burden",
+        "weight"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "[力]拉紧；尽力",
+      "words": [
+        "tauten",
+        "take pains"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[力]拉紧；滥用；滤去；竭力",
+      "words": [
+        "abuse",
+        "tighten up"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "word": "pour",
+  "found": true,
+  "phonetic_uk": "pɔː(r)",
+  "phonetic_us": "pɔːr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pour&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pour&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "倾倒，倒出；（给……）斟，倒（饮料等）；倾泻，涌流；（人，物）接踵而至，纷至沓来；（雨）倾盆而下；大量注入（资金），捐献（pour sth. into）；倾诉，倾吐（pour sth. out）；穿上（紧身衣）（pour oneself into）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "灌，注；倾泻；倾盆大雨"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Pour）（美、捷）保尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "pours"
+    },
+    {
+      "name": "现在分词",
+      "value": "pouring"
+    },
+    {
+      "name": "过去式",
+      "value": "poured"
+    },
+    {
+      "name": "过去分词",
+      "value": "poured"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Will you pour the coffee?",
+      "zh": "你来倒咖啡好吗？"
+    },
+    {
+      "en": "Letters of complaint continue to pour in.",
+      "zh": "投诉信纷至沓来。"
+    },
+    {
+      "en": "Shall I pour?",
+      "zh": "我来倒好吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "倾泻；流出；骤雨",
+      "words": [
+        "issue",
+        "flux",
+        "dumping"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "灌，注；倒；倾泻；倾吐",
+      "words": [
+        "shed"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "倾泻；涌流；斟茶",
+      "words": [
+        "flow"
+      ]
+    }
+  ]
+}

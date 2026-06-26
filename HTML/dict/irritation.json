@@ -1,0 +1,46 @@
+{
+  "word": "irritation",
+  "found": true,
+  "phonetic_uk": "ˌɪrɪˈteɪʃ(ə)n",
+  "phonetic_us": "ˌɪrɪˈteɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=irritation&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=irritation&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "恼怒，生气；（尤指一段时间的）恼人事，烦恼；（身体某部位的）疼痛；刺激（作用），兴奋"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "irritations"
+    }
+  ],
+  "examples": [
+    {
+      "en": "These oils may cause irritation to sensitive skins.",
+      "zh": "这几种油可能会对敏感皮肤有刺激。"
+    },
+    {
+      "en": "He tried not to let his irritation show as he blinked in the glare of the television lights.",
+      "zh": "在对着耀眼的电视光线眨眼时，他竭力不把自己的恼怒表现出来。"
+    },
+    {
+      "en": "If the irritation is severe enough, a sleeping person will arouse, clear the airway, then resume breathing and likely return to sleep.",
+      "zh": "如果刺激足够剧烈，睡着的人就会醒来并清理气道，恢复呼吸，并很可能再度陷入睡眠中。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "刺激；刺激物；激怒；兴奋",
+      "words": [
+        "stimulus",
+        "incentive",
+        "excitement",
+        "needle"
+      ]
+    }
+  ]
+}

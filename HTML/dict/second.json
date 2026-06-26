@@ -1,0 +1,99 @@
+{
+  "word": "second",
+  "found": true,
+  "phonetic_uk": "ˈsekənd",
+  "phonetic_us": "ˈsekənd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=second&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=second&type=2",
+  "defs": [
+    {
+      "pos": "num.",
+      "meaning": "第二（的），第二个（的）；（重要性、规模、质量等）居第二位的；另外的，外加的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "秒（时间单位）；片刻，瞬间；秒（角度单位）；次品，二等货；<非正式>第二次上菜，添菜（seconds）；（车辆的）第二挡；（英国大学本科的）二等成绩学位；<英>（学校或大学的）二年级；（棒球的）二垒；正式支持，附议；（体育俱乐部的）预备队（the seconds）；粗面粉，粗粉面包；（尤指拳击比赛或旧时决斗中的）助手；（乐）二度音程"
+    },
+    {
+      "pos": "v.",
+      "meaning": "支持，附议；<英>临时调派，短期调任"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "以第二位；第二，其次"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】  (Second) （美）塞孔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "seconds"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "seconds"
+    },
+    {
+      "name": "现在分词",
+      "value": "seconding"
+    },
+    {
+      "name": "过去式",
+      "value": "seconded"
+    },
+    {
+      "name": "过去分词",
+      "value": "seconded"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I flunked math in second grade.",
+      "zh": "我二年级时数学不及格。"
+    },
+    {
+      "en": "The second goal was disallowed.",
+      "zh": "第二个进球被判无效。"
+    },
+    {
+      "en": "He hung on to finish second.",
+      "zh": "他顶住了，得了第二名。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计量]秒；第二名；瞬间；二等品",
+      "words": [
+        "moment",
+        "breath",
+        "instant"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "支持",
+      "words": [
+        "encourage",
+        "back",
+        "carry",
+        "champion",
+        "support of"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "第二的；次要的；附加的",
+      "words": [
+        "additional",
+        "attached",
+        "supporting",
+        "minor",
+        "peripheral"
+      ]
+    }
+  ]
+}

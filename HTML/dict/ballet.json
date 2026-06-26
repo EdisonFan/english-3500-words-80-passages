@@ -1,0 +1,39 @@
+{
+  "word": "ballet",
+  "found": true,
+  "phonetic_uk": "ˈbæleɪ",
+  "phonetic_us": "bæˈleɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ballet&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ballet&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "芭蕾舞剧；芭蕾舞团；芭蕾舞；芭蕾舞曲"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Ballet）（美、法）巴莱（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "ballets"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I trained as a ballet dancer.",
+      "zh": "我受过做芭蕾舞演员的训练。"
+    },
+    {
+      "en": "She wants to be a ballet dancer.",
+      "zh": "她想当芭蕾舞演员。"
+    },
+    {
+      "en": "He's a dancer with the Royal Ballet.",
+      "zh": "他是皇家芭蕾舞团的舞蹈演员。"
+    }
+  ],
+  "synonyms": []
+}

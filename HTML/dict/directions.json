@@ -1,0 +1,30 @@
+{
+  "word": "directions",
+  "found": true,
+  "phonetic_uk": "dəˈrekʃ(ə)nz",
+  "phonetic_us": "dəˈrekʃ(ə)nz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=directions&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=directions&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "方向；用法说明，操作指南；出行指南；控制，管理；导演；目标，目的；趋势，动向（direction 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She gave me clear and precise directions.",
+      "zh": "她给了我清晰而准确的指示。"
+    },
+    {
+      "en": "It's just possible that I gave them the wrong directions.",
+      "zh": "我也许给他们指错了方向。"
+    },
+    {
+      "en": "Let's stop and ask for directions.",
+      "zh": "咱们停下来问问路吧。"
+    }
+  ],
+  "synonyms": []
+}

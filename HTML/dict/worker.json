@@ -1,0 +1,48 @@
+{
+  "word": "worker",
+  "found": true,
+  "phonetic_uk": "ˈwɜːkə(r)",
+  "phonetic_us": "ˈwɜːrkər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=worker&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=worker&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "工作者，工作人员；劳工，工人；工作做得……的人；工人阶级（the workers）；工蜂，工蚁"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Worker）沃克（姓氏）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "workers"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She was a zealous worker for charity.",
+      "zh": "她是个热衷于慈善事业的工作者。"
+    },
+    {
+      "en": "Meyers is a diligent and prolific worker.",
+      "zh": "迈耶斯是个勤奋而且出活多的工人。"
+    },
+    {
+      "en": "She was an industrious and willing worker.",
+      "zh": "她是个勤劳肯干的工人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[劳经]工人；劳动者；职蚁",
+      "words": [
+        "laborer",
+        "factory hand"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "word": "programmed",
+  "found": true,
+  "phonetic_uk": "ˈprəʊɡræmd",
+  "phonetic_us": "ˈproʊɡræmd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=programmed&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=programmed&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "程序化的，程控的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "规划；制作节目（program 的过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The computer is programmed to warn users before information is deleted.",
+      "zh": "这台计算机编程时已设计在信息删除前提醒用户。"
+    },
+    {
+      "en": "She programmed the VCR to come on at eight.",
+      "zh": "她把录像机预调到八点开机。"
+    },
+    {
+      "en": "Most VCRs can be programmed using a remote control handset.",
+      "zh": "大多数录像机可用遥控器来设定程序。"
+    }
+  ],
+  "synonyms": []
+}

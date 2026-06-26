@@ -1,0 +1,42 @@
+{
+  "word": "additionally",
+  "found": true,
+  "phonetic_uk": "əˈdɪʃənəli",
+  "phonetic_us": "əˈdɪʃənəli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=additionally&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=additionally&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "另外，此外；分外地，更加"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Additionally, the bus service will run on Sundays, every two hours.",
+      "zh": "此外，公共汽车将于星期天运行，每两小时一班。"
+    },
+    {
+      "en": "All teachers are qualified to teach their native language. Additionally, we select our teachers for their engaging personalities.",
+      "zh": "所有教师都具备教授其母语的资格。另外，我们还根据富有魅力的个性来选择我们的教师。"
+    },
+    {
+      "en": "Additionally, they should be allowed to teach, and be rewarded for doing it well.",
+      "zh": "此外，应该允许他们去教书，教得好就应受到奖励。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "此外；又，加之",
+      "words": [
+        "again",
+        "moreover",
+        "besides",
+        "then",
+        "both"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "interpreted",
+  "found": true,
+  "phonetic_uk": "ɪnˈtɜːprətɪd",
+  "phonetic_us": "ɪnˈtɜːrprətɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=interpreted&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=interpreted&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "解释，说明；口译；把……理解为；演绎（interpret 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The word 'original' is liberally interpreted in copyright law.",
+      "zh": "original一词在版权法中解释很灵活。"
+    },
+    {
+      "en": "He interpreted the vote as support for the constitution and that is the spin his supporters are putting on the results today.",
+      "zh": "他把这次投票结果解释为对宪法的支持，这也是他的支持者们对今天的结果所做的诠释与宣传。"
+    },
+    {
+      "en": "\"She says she glories in being abandoned,\" Peter interpreted.",
+      "zh": "“她说她为被遗弃而感到自豪。”彼得解释道。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "解释；解读（interpret的过去分词形式）；口译",
+      "words": [
+        "shown"
+      ]
+    }
+  ]
+}

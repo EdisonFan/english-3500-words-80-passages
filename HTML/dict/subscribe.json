@@ -1,0 +1,66 @@
+{
+  "word": "subscribe",
+  "found": true,
+  "phonetic_uk": "səbˈskraɪb",
+  "phonetic_us": "səbˈskraɪb",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=subscribe&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=subscribe&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "订阅，订购；定期缴纳会员费; 定期捐款赞助；认购（股票）；赞成，同意；〈正式〉签署（遗嘱、合同或其他文件）；申请，注册，报名；购买（一系列演出的）联票"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "subscribes"
+    },
+    {
+      "name": "现在分词",
+      "value": "subscribing"
+    },
+    {
+      "name": "过去式",
+      "value": "subscribed"
+    },
+    {
+      "name": "过去分词",
+      "value": "subscribed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Which journals does the library subscribe to?",
+      "zh": "图书馆订有哪些报刊？"
+    },
+    {
+      "en": "Maybe I ought to subscribe to the Engineering Quarterly.",
+      "zh": "也许我应该订阅《工程季刊》。"
+    },
+    {
+      "en": "If you subscribe to this newspaper, you'll get an extra magazine.",
+      "zh": "如果你订阅这份报纸，你会得到一本额外的杂志。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "订阅；捐款；[经]认购；赞成；签署",
+      "words": [
+        "sign",
+        "donate money"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "签署；赞成；捐助",
+      "words": [
+        "ink",
+        "agree",
+        "sign",
+        "uphold"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "word": "sea",
+  "found": true,
+  "phonetic_uk": "siː",
+  "phonetic_us": "siː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sea&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sea&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "海洋；内海；海（指月球或火星表面的一片广阔平原）；海面情况，海浪状况；大量，茫茫一片；（用于海名）海（Sea）；巨浪（seas）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The sea rippled and sparkled.",
+      "zh": "大海波光粼粼。"
+    },
+    {
+      "en": "The clear blue sea beckoned.",
+      "zh": "清澈蔚蓝的大海令人向往。"
+    },
+    {
+      "en": "They scattered his ashes at sea.",
+      "zh": "他们把他的骨灰撒向大海。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[海洋][地理]海；海洋；许多；大量",
+      "words": [
+        "ocean",
+        "lots of",
+        "wealth",
+        "body",
+        "hundred"
+      ]
+    }
+  ]
+}

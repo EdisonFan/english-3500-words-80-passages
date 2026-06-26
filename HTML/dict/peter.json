@@ -1,0 +1,83 @@
+{
+  "word": "peter",
+  "found": true,
+  "phonetic_uk": "ˈpiːtə(r)",
+  "phonetic_us": "ˈpiːtər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=peter&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=peter&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "逐渐减少；先出大牌后出小牌"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（非正式）阴茎；单人牢房；保险箱；先出大牌后出小牌的行为"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Peter）（英、德、丹、斯、塞、瑞）彼得（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "peters"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "peters"
+    },
+    {
+      "name": "现在分词",
+      "value": "petering"
+    },
+    {
+      "name": "过去式",
+      "value": "petered"
+    },
+    {
+      "name": "过去分词",
+      "value": "petered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Hello, Peter, it's Mike here.",
+      "zh": "喂，彼得，我是迈克。"
+    },
+    {
+      "en": "\"What's his name?\"—\"Peter.\"",
+      "zh": "“他叫什么名字？”—“彼得。”"
+    },
+    {
+      "en": "That's Peter over there.",
+      "zh": "那边那个人是彼得。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "逐渐消失；耗尽",
+      "words": [
+        "spend",
+        "fade away"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使…精疲力竭",
+      "words": [
+        "bush"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "麻醉品；保险箱",
+      "words": [
+        "gow",
+        "kif"
+      ]
+    }
+  ]
+}

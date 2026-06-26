@@ -1,0 +1,41 @@
+{
+  "word": "conventional",
+  "found": true,
+  "phonetic_uk": "kənˈvenʃən(ə)l",
+  "phonetic_us": "kənˈvenʃən(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=conventional&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=conventional&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "依照惯例的，遵循习俗的；老一套的，习惯的；（武器等）常规的，非核的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Biofuels can be mixed with conventional fuels.",
+      "zh": "生物燃料能够和传统燃料混合。"
+    },
+    {
+      "en": "It's taken a long time to break out of my own conventional training.",
+      "zh": "摆脱我自己的传统训练花了很长一段时间。"
+    },
+    {
+      "en": "He had a simple, conventional deal and paid 20 percent down at settlement.",
+      "zh": "他做了一笔简单而常规的交易，在结算时预付了20%的定金。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "符合习俗的，传统的；常见的；惯例的",
+      "words": [
+        "traditional",
+        "usual",
+        "familiar",
+        "classical"
+      ]
+    }
+  ]
+}

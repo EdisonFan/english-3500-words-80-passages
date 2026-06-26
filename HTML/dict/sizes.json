@@ -1,0 +1,39 @@
+{
+  "word": "sizes",
+  "found": true,
+  "phonetic_uk": "ˈsaɪzɪz",
+  "phonetic_us": "ˈsaɪzɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sizes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sizes&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "象素显示尺寸，尺寸（size 复数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Bikes come in all shapes and sizes.",
+      "zh": "自行车有各种不同的形状和大小。"
+    },
+    {
+      "en": "Candles come in all shapes and sizes.",
+      "zh": "有各种形状和大小的蜡烛供应。"
+    },
+    {
+      "en": "Tents come in various shapes and sizes.",
+      "zh": "帐篷有各种各样的形状和大小。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "象素显示尺寸，尺寸（size复数形式）",
+      "words": [
+        "measurement",
+        "dimension"
+      ]
+    }
+  ]
+}

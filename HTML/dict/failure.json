@@ -1,0 +1,47 @@
+{
+  "word": "failure",
+  "found": true,
+  "phonetic_uk": "ˈfeɪljə(r)",
+  "phonetic_us": "ˈfeɪljər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=failure&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=failure&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "失败；失败的人（或企业、事物）；未做到；缺乏，不足；故障，衰退；公司倒闭；歉收；突然失去"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "failures"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The plan was doomed to failure.",
+      "zh": "这个计划注定要失败。"
+    },
+    {
+      "en": "Failure can demotivate students.",
+      "zh": "失败会挫伤学生的积极性。"
+    },
+    {
+      "en": "The play was a miserable failure.",
+      "zh": "这部话剧是个可悲的失败。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "失败；故障；失败者；[经]破产",
+      "words": [
+        "loss",
+        "defeat",
+        "losing",
+        "fault",
+        "trouble"
+      ]
+    }
+  ]
+}

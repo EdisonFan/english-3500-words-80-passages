@@ -1,0 +1,55 @@
+{
+  "word": "made",
+  "found": true,
+  "phonetic_uk": "meɪd",
+  "phonetic_us": "meɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=made&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=made&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "（由……）构成的，（由……）制成的；（指人）天生的，（指事物）生就的；特制的，成型的；必定会成功的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "制造；铺床；造成（动词make 的过去式和过去分词形式）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Made）（爱）马德（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Hunger made him hallucinate.",
+      "zh": "饥饿使他产生了幻觉。"
+    },
+    {
+      "en": "Where were they made?",
+      "zh": "这些是在哪里制造的？"
+    },
+    {
+      "en": "She made no response.",
+      "zh": "她没作任何回答。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "成功的；创造的",
+      "words": [
+        "successful",
+        "created"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "做，使，安排（make的过去式和过去分词）",
+      "words": [
+        "did",
+        "arranged"
+      ]
+    }
+  ]
+}

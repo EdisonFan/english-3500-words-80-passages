@@ -1,0 +1,42 @@
+{
+  "word": "abroad",
+  "found": true,
+  "phonetic_uk": "əˈbrɔːd",
+  "phonetic_us": "əˈbrɔːd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=abroad&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=abroad&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "在国外，到国外；<旧>在室外，到室外；<正式> 广为流传，广为人知；行动自由；<古> 未击中目标，出错"
+    },
+    {
+      "pos": "n.",
+      "meaning": "外国"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He had been abroad many times.",
+      "zh": "他曾多次出国。"
+    },
+    {
+      "en": "She worked abroad for a year.",
+      "zh": "她在国外工作了一年。"
+    },
+    {
+      "en": "He's never ventured abroad in his life.",
+      "zh": "他一生中从来不敢出国。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "海外；异国",
+      "words": [
+        "foreign country"
+      ]
+    }
+  ]
+}

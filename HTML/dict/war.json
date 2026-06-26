@@ -1,0 +1,77 @@
+{
+  "word": "war",
+  "found": true,
+  "phonetic_uk": "wɔː(r)",
+  "phonetic_us": "wɔːr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=war&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=war&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "战争，战争状态；竞争，斗争，对抗；（为消灭有害事物的）长期斗争，顽强抵御；舌战，论战；军事，战术"
+    },
+    {
+      "pos": "v.",
+      "meaning": "进行战争，斗争"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "wars"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "wars"
+    },
+    {
+      "name": "现在分词",
+      "value": "warring"
+    },
+    {
+      "name": "过去式",
+      "value": "warred"
+    },
+    {
+      "name": "过去分词",
+      "value": "warred"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Diplomacy is better than war.",
+      "zh": "采取外交手段胜于诉诸战争。"
+    },
+    {
+      "en": "She was orphaned in the war.",
+      "zh": "战争使她成为孤儿。"
+    },
+    {
+      "en": "Eggs were rationed during the war.",
+      "zh": "战争期间，鸡蛋限量供应。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[军]战争，斗争；军事，战术；冲突，对抗，竞争",
+      "words": [
+        "interference",
+        "competition",
+        "sword",
+        "tactics",
+        "conflict"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "打仗，作战；对抗",
+      "words": [
+        "compete",
+        "campaign",
+        "fight",
+        "battle"
+      ]
+    }
+  ]
+}

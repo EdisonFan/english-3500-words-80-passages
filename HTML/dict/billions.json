@@ -1,0 +1,38 @@
+{
+  "word": "billions",
+  "found": true,
+  "phonetic_uk": "ˈbɪljənz",
+  "phonetic_us": "ˈbɪljənz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=billions&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=billions&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "数十亿（billion 的复数）；无数；十亿位"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Billions of pounds were wiped off share prices today.",
+      "zh": "今天的股票价格下挫造成数十亿英镑的损失。"
+    },
+    {
+      "en": "They have already pledged billions of dollars in aid.",
+      "zh": "他们已经承诺了数十亿美元的援助。"
+    },
+    {
+      "en": "Israel accepted billions of dollars in war reparations.",
+      "zh": "以色列得到了几十亿美元的战争赔款。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "数十亿（billion的复数）；无数；十亿位",
+      "words": [
+        "myriads"
+      ]
+    }
+  ]
+}

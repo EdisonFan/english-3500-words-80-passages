@@ -1,0 +1,75 @@
+{
+  "word": "snow",
+  "found": true,
+  "phonetic_uk": "snəʊ",
+  "phonetic_us": "snoʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=snow&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=snow&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "雪，积雪；降雪，一场雪；下雪天；（因信号差出现在电视屏幕的）“雪花”干扰；似雪的菜肴；似雪的冷冻气体；<非正式>可卡因"
+    },
+    {
+      "pos": "v.",
+      "meaning": "下雪，飘雪；<美，非正式>（用花言巧语）蒙骗，使相信；使洒落；使变白"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Snow）斯诺（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "snows"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "snows"
+    },
+    {
+      "name": "现在分词",
+      "value": "snowing"
+    },
+    {
+      "name": "过去式",
+      "value": "snowed"
+    },
+    {
+      "name": "过去分词",
+      "value": "snowed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The snow scrunched underfoot.",
+      "zh": "雪在脚下发出嘎吱嘎吱的声音。"
+    },
+    {
+      "en": "It's hard work shovelling snow.",
+      "zh": "铲雪是个苦活儿。"
+    },
+    {
+      "en": "Snow was falling heavily.",
+      "zh": "正下着大雪。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[气象]雪，积雪；下雪",
+      "words": [
+        "yuki",
+        "firn"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使纷纷落下；使变白",
+      "words": [
+        "bleach"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "word": "viruses",
+  "found": true,
+  "phonetic_uk": "ˈvaɪərəsɪz",
+  "phonetic_us": "ˈvaɪərəsɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=viruses&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=viruses&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[病毒]病毒；病霉（virus 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Not all ISPs are equipped to scan for viruses.",
+      "zh": "并非所有的因特网服务供应商都有装备来扫描病毒。"
+    },
+    {
+      "en": "Ebola is not as easily spread as viruses such as smallpox.",
+      "zh": "埃博拉病毒不像天花这类病毒那样容易传播。"
+    },
+    {
+      "en": "This software is designed to scan all new files for viruses.",
+      "zh": "这个软件是为搜索所有新文件的病毒而设计。"
+    }
+  ],
+  "synonyms": []
+}

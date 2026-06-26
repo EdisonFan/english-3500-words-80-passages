@@ -1,0 +1,39 @@
+{
+  "word": "unrelated",
+  "found": true,
+  "phonetic_uk": "ˌʌnrɪˈleɪtɪd",
+  "phonetic_us": "ˌʌnrɪˈleɪtɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=unrelated&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=unrelated&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "无关的，不相干的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "You have to wade through unrelated search results.",
+      "zh": "你必须辛苦地读完无关的搜索结果。"
+    },
+    {
+      "en": "Anything unrelated to the use of nature imagery has no place in the paper.",
+      "zh": "任何与使用自然意象无关的东西都不应出现在这篇论文中。"
+    },
+    {
+      "en": "Over time, however, world output has shitted into goods whose worth is unrelated to their size and weight.",
+      "zh": "然而，随着时间的推移，世界的产出已经变成了价值与其大小和重量无关的商品。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "无关的，不相干的",
+      "words": [
+        "irrespective",
+        "unconcerned"
+      ]
+    }
+  ]
+}

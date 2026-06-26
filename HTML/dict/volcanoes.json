@@ -1,0 +1,30 @@
+{
+  "word": "volcanoes",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=volcanoes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=volcanoes&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "火山爆发，火山；火山群（volcano 复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "A chain of volcanoes girdles the Pacific.",
+      "zh": "环绕太平洋的是一连串的火山。"
+    },
+    {
+      "en": "Most volcanoes occur at plate boundaries.",
+      "zh": "大多数火山的爆发发生在板块边界。"
+    },
+    {
+      "en": "Are the Martian shield volcanoes still active?",
+      "zh": "火星上的盾状火山还处于活跃期吗？"
+    }
+  ],
+  "synonyms": []
+}

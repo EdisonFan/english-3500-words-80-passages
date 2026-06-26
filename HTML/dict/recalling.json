@@ -1,0 +1,47 @@
+{
+  "word": "recalling",
+  "found": true,
+  "phonetic_uk": "rɪˈkɔːlɪŋ",
+  "phonetic_us": "rɪˈkɔːlɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=recalling&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=recalling&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "回想起；使想起，勾起；召回；回收（残次品）；使恢复；使重新集中注意力；回索（计算机储存数据）；撤销，废止（行动）（recall 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She began recalling a series of previous incarnations.",
+      "zh": "她开始回想起种种前世化身。"
+    },
+    {
+      "en": "They have difficulty recalling what they have eaten.",
+      "zh": "他们很难回忆起他们吃了什么。"
+    },
+    {
+      "en": "Encoding,  is a special way of paying attention to an event that has a major impact on recalling it later.",
+      "zh": "编码是一种特殊的方式，能让你把注意力集中到一件事上，对你以后回想起它有很大影响。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "回顾；召回；回想",
+      "words": [
+        "review",
+        "retrospection"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "召回；回想起；回收；使恢复（recall的ing形式）",
+      "words": [
+        "recycling",
+        "withdrawing"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "word": "hatched",
+  "found": true,
+  "phonetic_uk": "ˈhætʃt",
+  "phonetic_us": "hætʃt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=hatched&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=hatched&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "阴影线的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "孵化；策划（hatch 的过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The chicks have already hatched.",
+      "zh": "小鸡已经孵出来了。"
+    },
+    {
+      "en": "Don't count your chickens before they are hatched.",
+      "zh": "蛋尚未孵出，勿先数鸡。"
+    },
+    {
+      "en": "The shells became so thin that they shattered before the babies hatched.",
+      "zh": "蛋壳变得非常薄，以至于在婴儿孵化之前就被打碎了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "孵化；策划（hatch的过去分词形式）",
+      "words": [
+        "plotted"
+      ]
+    }
+  ]
+}

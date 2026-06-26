@@ -1,0 +1,44 @@
+{
+  "word": "suburb",
+  "found": true,
+  "phonetic_uk": "ˈsʌbɜːb",
+  "phonetic_us": "ˈsʌbɜːrb",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=suburb&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=suburb&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "城郊，近郊"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "suburbs"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They live in a wealthy suburb of Chicago.",
+      "zh": "他们住在芝加哥郊区的一处富人区。"
+    },
+    {
+      "en": "Anna was born in 1923 in a suburb of Philadelphia.",
+      "zh": "安娜1923年出生在费城市郊。"
+    },
+    {
+      "en": "Margaret resides with her invalid mother in a Seattle suburb.",
+      "zh": "玛格丽特和她有病的妈妈住在西雅图郊区。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "郊区；边缘",
+      "words": [
+        "margin",
+        "banlieue"
+      ]
+    }
+  ]
+}

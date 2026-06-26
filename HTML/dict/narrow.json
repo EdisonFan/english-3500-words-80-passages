@@ -1,0 +1,66 @@
+{
+  "word": "narrow",
+  "found": true,
+  "phonetic_uk": "ˈnærəʊ",
+  "phonetic_us": "ˈnæroʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=narrow&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=narrow&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "狭窄的，狭小的；（想法、态度或信仰）狭隘的；勉强的，（成败）差距很小的；（种类或数目）有限的，范围小的；严格的，精确的；（标音）严式的；（语音）窄的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（人的眼睛）眯起来；使缩小，压缩；使变窄，变窄"
+    },
+    {
+      "pos": "n.",
+      "meaning": "海峡；狭窄部分"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He turned into a narrow street.",
+      "zh": "他拐进了一条狭窄的街道。"
+    },
+    {
+      "en": "Access was via a narrow archway.",
+      "zh": "入口处是一道狭窄的拱门。"
+    },
+    {
+      "en": "They rode along narrow country lanes.",
+      "zh": "他们骑马走在狭窄的乡村小路上。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "狭窄的，有限的；勉强的；精密的；度量小的",
+      "words": [
+        "nice",
+        "limited",
+        "finite",
+        "exact",
+        "precision"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "海峡；狭窄部分，隘路",
+      "words": [
+        "neck",
+        "channel",
+        "sound"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "变窄",
+      "words": [
+        "straiten"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "word": "regardless",
+  "found": true,
+  "phonetic_uk": "rɪˈɡɑːdləs",
+  "phonetic_us": "rɪˈɡɑːrdləs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=regardless&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=regardless&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "不顾，不加理会；不管怎样，无论如何"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "不管的，不注意的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She always travels first-class regardless of expense.",
+      "zh": "无论费用多高她总是乘头等舱。"
+    },
+    {
+      "en": "Despite her recent surgery she has been carrying on regardless.",
+      "zh": "尽管她最近动了手术，她却一直在不顾一切地继续工作。"
+    },
+    {
+      "en": "Everyone has the right to good medical care regardless of their ability to pay.",
+      "zh": "无论支付能力如何，每个人都有权得到良好的医疗。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "不管；不顾；不注意",
+      "words": [
+        "irregardless"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "word": "wise",
+  "found": true,
+  "phonetic_uk": "waɪz",
+  "phonetic_us": "waɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=wise&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=wise&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "（行为或决定）明智的，高明的；有学问的，精通的；<美，非正式>说话粗鲁的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "了解，知道"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Wise）（英）怀斯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "wises"
+    },
+    {
+      "name": "现在分词",
+      "value": "wising"
+    },
+    {
+      "name": "过去式",
+      "value": "wised"
+    },
+    {
+      "name": "过去分词",
+      "value": "wised"
+    },
+    {
+      "name": "比较级",
+      "value": "wiser"
+    },
+    {
+      "name": "最高级",
+      "value": "wisest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She had made a very wise decision.",
+      "zh": "她作出了一个非常明智的决定。"
+    },
+    {
+      "en": "It's never wise to withhold evidence.",
+      "zh": "隐瞒证据绝不明智。"
+    },
+    {
+      "en": "It was very wise to leave when you did.",
+      "zh": "你那时离开非常明智。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "明智的；聪明的；博学的",
+      "words": [
+        "intelligent",
+        "learned",
+        "knowing",
+        "bright",
+        "clever"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使知道；教导",
+      "words": [
+        "enlighten",
+        "indoctrinate"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "了解",
+      "words": [
+        "know about",
+        "learn about",
+        "get to know",
+        "make sth of"
+      ]
+    }
+  ]
+}

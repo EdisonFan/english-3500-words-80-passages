@@ -1,0 +1,45 @@
+{
+  "word": "fraction",
+  "found": true,
+  "phonetic_uk": "ˈfrækʃn",
+  "phonetic_us": "ˈfrækʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fraction&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fraction&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "分数，小数；小部分，微量；持不同意见的小集团；分离；（基督教用语）分切圣餐面包"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "fractions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The fraction was then multiplied by 100 and rounded to the nearest half or whole number.",
+      "zh": "该分数然后被乘以100，再四舍五入成半数或者整数。"
+    },
+    {
+      "en": "Their economy is still a fraction of ours.",
+      "zh": "他们的经济仍然是我们的一部分。"
+    },
+    {
+      "en": "It's usually a small fraction of the total.",
+      "zh": "它通常只是总数的一小部分。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[数]分数；部分；小部分；稍微",
+      "words": [
+        "proportion",
+        "part",
+        "portion"
+      ]
+    }
+  ]
+}

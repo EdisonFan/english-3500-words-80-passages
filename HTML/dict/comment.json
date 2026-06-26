@@ -1,0 +1,58 @@
+{
+  "word": "comment",
+  "found": true,
+  "phonetic_uk": "ˈkɒment",
+  "phonetic_us": "ˈkɑːment",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=comment&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=comment&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "评论，意见；批评，指责；说明，写照；<旧>解说，注释；（计算机）注解"
+    },
+    {
+      "pos": "v.",
+      "meaning": "评论，发表意见；（计算机）注解，把（部分程序）转成注解"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Comment）（美、瑞、法）科门特（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I forbore to comment on this.",
+      "zh": "我不欲评论它"
+    },
+    {
+      "en": "Buckingham Palace refused to comment.",
+      "zh": "英国王室拒绝发表评论。"
+    },
+    {
+      "en": "That comment needs some amplification.",
+      "zh": "这个评论需要进一步充实。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "评论；意见；批评",
+      "words": [
+        "opinion",
+        "criticism",
+        "mind",
+        "judgement",
+        "thinking"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "发表评论；发表意见",
+      "words": [
+        "declare oneself",
+        "air one's opinion"
+      ]
+    }
+  ]
+}

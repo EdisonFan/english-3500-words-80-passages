@@ -1,0 +1,42 @@
+{
+  "word": "pressures",
+  "found": true,
+  "phonetic_uk": "ˈpreʃəz",
+  "phonetic_us": "ˈpreʃərz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pressures&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pressures&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[力]压力（pressure 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "迫使；施加压力（pressure 的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "How can anyone enjoy the pressures of city life?",
+      "zh": "怎么会有人喜欢都市生活的压力呢？"
+    },
+    {
+      "en": "Inflationary pressures continued to slacken last month.",
+      "zh": "通货膨胀的压力上个月持续减轻。"
+    },
+    {
+      "en": "The bank is worried about mounting inflationary pressures.",
+      "zh": "银行对日趋加大的通货膨胀压力感到担心。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "迫使；施加压力（pressure的三单形式）",
+      "words": [
+        "puts"
+      ]
+    }
+  ]
+}

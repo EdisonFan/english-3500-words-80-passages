@@ -1,0 +1,77 @@
+{
+  "word": "condition",
+  "found": true,
+  "phonetic_uk": "kənˈdɪʃn",
+  "phonetic_us": "kənˈdɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=condition&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=condition&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "状况，状态；条件，环境；疾病；条款；<旧>社会地位"
+    },
+    {
+      "pos": "v.",
+      "meaning": "训练，使习惯于；控制，制约；护理，保养；影响；加条件于；使（人，动物）健康；（发酵后，在酵母仍存在时）使（啤酒，黑啤酒）酿熟"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "conditions"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "conditions"
+    },
+    {
+      "name": "现在分词",
+      "value": "conditioning"
+    },
+    {
+      "name": "过去式",
+      "value": "conditioned"
+    },
+    {
+      "name": "过去分词",
+      "value": "conditioned"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The piano was in good condition.",
+      "zh": "这台钢琴状况良好。"
+    },
+    {
+      "en": "The car was in A1 condition.",
+      "zh": "汽车状况好极了。"
+    },
+    {
+      "en": "Day by day his condition improved.",
+      "zh": "他的健康状况一天天好转。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[数]条件；情况；环境；身分",
+      "words": [
+        "circumstance",
+        "situation",
+        "context",
+        "qualification",
+        "thing"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使适应；使健康；决定；以…为条件",
+      "words": [
+        "adapt",
+        "suit",
+        "season",
+        "conclude"
+      ]
+    }
+  ]
+}

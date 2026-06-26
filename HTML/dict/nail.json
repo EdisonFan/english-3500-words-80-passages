@@ -1,0 +1,76 @@
+{
+  "word": "nail",
+  "found": true,
+  "phonetic_uk": "neɪl",
+  "phonetic_us": "neɪl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=nail&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=nail&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "钉子；指甲，趾甲；（一些软喙鸟类）上喙的硬甲壳；纳尔（布匹长度单位）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（用钉子）钉住，钉牢；抓住，证明……有罪；戳穿，揭露；（尤指体育运动中）获得，赢得；（选手）锁定（胜局）；<非正式>用力击打；<美，非正式>完美地完成，漂亮地做；(棒球)（外场手）把（跑垒者）杀出局；<美>（选手）击败（或智胜）（对手）；<美，俚>（男性）与……性交；（外场手）把（跑垒者）杀出局"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Nail）（英、美、法、俄）纳伊（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "nails"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "nails"
+    },
+    {
+      "name": "现在分词",
+      "value": "nailing"
+    },
+    {
+      "name": "过去式",
+      "value": "nailed"
+    },
+    {
+      "name": "过去分词",
+      "value": "nailed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They nail shut the front door.",
+      "zh": "他们将前门钉死。"
+    },
+    {
+      "en": "She scratched herself on a nail.",
+      "zh": "她在钉子上划了一下。"
+    },
+    {
+      "en": "This nail won't come out.",
+      "zh": "这颗钉子拔不出来。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "钉；使固定；揭露",
+      "words": [
+        "reveal",
+        "fix",
+        "disclose"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[解剖]指甲；[五金]钉子",
+      "words": [
+        "clou"
+      ]
+    }
+  ]
+}

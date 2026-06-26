@@ -1,0 +1,64 @@
+{
+  "word": "quilt",
+  "found": true,
+  "phonetic_uk": "kwɪlt",
+  "phonetic_us": "kwɪlt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=quilt&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=quilt&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "被子，被褥；<英>羽绒被（=duvet）；编织床罩；绝缘层，绝缘垫；被状物"
+    },
+    {
+      "pos": "v.",
+      "meaning": "缝被子；（为缝制床罩、保暖衣，或为装饰效果而）将（几层织物或衬料）按线条图案缝合；<澳，非正式>猛击（某人）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "quilts"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "quilts"
+    },
+    {
+      "name": "现在分词",
+      "value": "quilting"
+    },
+    {
+      "name": "过去式",
+      "value": "quilted"
+    },
+    {
+      "name": "过去分词",
+      "value": "quilted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Maggie knows how to quilt.",
+      "zh": "玛吉知道怎样缝被子。"
+    },
+    {
+      "en": "The quilt has pretty, scalloped edges and intricate quilting.",
+      "zh": "这床被子有好看的褶皱饰边，而且被面的花纹繁复。"
+    },
+    {
+      "en": "His beard was under the quilt.",
+      "zh": "他的胡子藏在被子里。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "被子；棉被",
+      "words": [
+        "bedquilt",
+        "comforter"
+      ]
+    }
+  ]
+}

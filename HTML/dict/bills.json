@@ -1,0 +1,38 @@
+{
+  "word": "bills",
+  "found": true,
+  "phonetic_uk": "bɪls",
+  "phonetic_us": "bɪlz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bills&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bills&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "账单；议案（bill 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "开账单（bill 的第三人称单数形式）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Bills）人名；（英、德）比尔斯"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Her medical bills mounted up.",
+      "zh": "她的医疗账单越来越多。"
+    },
+    {
+      "en": "She always pays her bills on time.",
+      "zh": "她总是按时支付账单。"
+    },
+    {
+      "en": "Most of my money goes toward bills.",
+      "zh": "我的钱大多花在支付各种账单上。"
+    }
+  ],
+  "synonyms": []
+}

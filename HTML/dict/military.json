@@ -1,0 +1,57 @@
+{
+  "word": "military",
+  "found": true,
+  "phonetic_uk": "ˈmɪlətri",
+  "phonetic_us": "ˈmɪləteri",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=military&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=military&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "军事的，军队的；陆军的；军人般的，军人作风的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "军人，军方"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "militaries或military"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He was recalled to military duty.",
+      "zh": "他被召回执行军事任务。"
+    },
+    {
+      "en": "Military action may become necessary.",
+      "zh": "军事行动可能会成为必要。"
+    },
+    {
+      "en": "Why was military intelligence so lacking?",
+      "zh": "为什么军事情报如此缺乏？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "军事的；军人的；适于战争的",
+      "words": [
+        "martial",
+        "soldierly"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "军队；军人",
+      "words": [
+        "force",
+        "soldier",
+        "battalion"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "word": "stomach",
+  "found": true,
+  "phonetic_uk": "ˈstʌmək",
+  "phonetic_us": "ˈstʌmək",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=stomach&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=stomach&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "胃；腹部；（低级动物的）类胃器官；（反刍动物的）四胃之一；心窝，内脏； 食欲，胃口；（对有冲突、困难或不快之事的）欲望，倾向；（做困难或不愉快的事所需的）意愿，勇气，决心；（对令人反胃的东西的）承受能力"
+    },
+    {
+      "pos": "v.",
+      "meaning": "忍受，承受；吃得下"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "stomachs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "stomachs"
+    },
+    {
+      "name": "现在分词",
+      "value": "stomaching"
+    },
+    {
+      "name": "过去式",
+      "value": "stomached"
+    },
+    {
+      "name": "过去分词",
+      "value": "stomached"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He had violent stomach pains.",
+      "zh": "他有过剧烈的胃痛。"
+    },
+    {
+      "en": "Newman's stomach muscles tensed.",
+      "zh": "纽曼的腹部肌肉绷紧了。"
+    },
+    {
+      "en": "This should settle your stomach.",
+      "zh": "这样你的胃应该就不难受了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "胃；[解剖]腹部；胃口",
+      "words": [
+        "abdomen",
+        "belly"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "忍受；吃下",
+      "words": [
+        "go",
+        "stand",
+        "abide",
+        "tough",
+        "tolerate"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "忍受",
+      "words": [
+        "suffer from",
+        "bear with"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "word": "reason",
+  "found": true,
+  "phonetic_uk": "ˈriːz(ə)n",
+  "phonetic_us": "ˈriːz(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=reason&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=reason&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "原因，理由；充分理由，正当理由；道理，情理；判断力，理智"
+    },
+    {
+      "pos": "v.",
+      "meaning": "推理，逻辑思考；推论出，推断出（reason sth. out）；对（某人）以理相劝，劝告（reason with）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Reason）（英）里森（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "reasons"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "reasons"
+    },
+    {
+      "name": "现在分词",
+      "value": "reasoning"
+    },
+    {
+      "name": "过去式",
+      "value": "reasoned"
+    },
+    {
+      "name": "过去分词",
+      "value": "reasoned"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I had no reason to doubt him.",
+      "zh": "我没有理由不相信他。"
+    },
+    {
+      "en": "The reason is blindingly obvious.",
+      "zh": "原因十分明显。"
+    },
+    {
+      "en": "That's the only reason I'm actually going.",
+      "zh": "这是我确实要走的唯一理由。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "理由；理性；动机",
+      "words": [
+        "motivation",
+        "excuse",
+        "incentive",
+        "sake",
+        "account"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "推论；劝说",
+      "words": [
+        "ratiocinate",
+        "prevail with"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "说服；推论；辩论",
+      "words": [
+        "discuss",
+        "debate",
+        "satisfy",
+        "convince",
+        "argue"
+      ]
+    }
+  ]
+}

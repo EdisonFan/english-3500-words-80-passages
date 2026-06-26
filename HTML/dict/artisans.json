@@ -1,0 +1,38 @@
+{
+  "word": "artisans",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=artisans&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=artisans&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[劳经]工匠；技工（artisan 的复数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Before 1815 manufacturing in the United States had been done in homes or shops by skilled artisans.",
+      "zh": "1815年以前，美国的产品制造是由熟练的工匠们在家里或商店里完成的。"
+    },
+    {
+      "en": "The mosaics of Sepphoris were very likely created by traveling artisans from some other part of the Roman Empire.",
+      "zh": "Sepphoris 的马赛克很可能是由来自罗马帝国其他地方的旅行工匠创造的。"
+    },
+    {
+      "en": "At first, thousands of unskilled laborers were recruited; by the 1730's, however, American employers demanded skilled artisans.",
+      "zh": "起初，数千名非熟练工人被招募；然而，到了18世纪30年代，美国的雇主需要有技术的工匠。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "工匠；技工（artisan的复数形式）",
+      "words": [
+        "craftsmen"
+      ]
+    }
+  ]
+}

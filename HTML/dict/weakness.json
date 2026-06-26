@@ -1,0 +1,45 @@
+{
+  "word": "weakness",
+  "found": true,
+  "phonetic_uk": "ˈwiːknəs",
+  "phonetic_us": "ˈwiːknəs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=weakness&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=weakness&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "虚弱，软弱；缺点，不足；疲软；癖好，嗜好，宠爱"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "weaknesses"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His only weakness is his temperament.",
+      "zh": "他惟一的弱点是他的脾气。"
+    },
+    {
+      "en": "She was plagued by weakness, fatigue, and dizziness.",
+      "zh": "她被虚弱、疲劳和眩晕折磨。"
+    },
+    {
+      "en": "He has a weakness for chocolate.",
+      "zh": "他爱吃巧克力。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "弱点；软弱；嗜好",
+      "words": [
+        "habit",
+        "appetite",
+        "hobby"
+      ]
+    }
+  ]
+}

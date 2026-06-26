@@ -1,0 +1,42 @@
+{
+  "word": "accounts",
+  "found": true,
+  "phonetic_uk": "əˈkaʊnts",
+  "phonetic_us": "əˈkaʊnts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=accounts&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=accounts&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "账目（account 的复数）；账号；会计账簿"
+    },
+    {
+      "pos": "v.",
+      "meaning": "以为；把…归因于（account 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He kept detailed accounts.",
+      "zh": "他保存了详细的账目。"
+    },
+    {
+      "en": "An external auditor will verify the accounts.",
+      "zh": "外部审计员将核实这些账目。"
+    },
+    {
+      "en": "The governor's action freezes 300,000 accounts.",
+      "zh": "州长采取行动冻结了30万个账户。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "以为；把…归因于（account的第三人称单数）",
+      "words": [
+        "opines"
+      ]
+    }
+  ]
+}

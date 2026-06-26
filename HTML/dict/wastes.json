@@ -1,0 +1,40 @@
+{
+  "word": "wastes",
+  "found": true,
+  "phonetic_uk": "weɪsts",
+  "phonetic_us": "weɪsts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=wastes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=wastes&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "废物，[材] 废料"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He decided to do something about reforesting man-made wastes of western Australia.",
+      "zh": "他决定了在澳大利亚西部的人造垃圾地带重新造林。"
+    },
+    {
+      "en": "Soaps and other wastes can harm waterways.",
+      "zh": "肥皂和其他废弃物会损害水道。"
+    },
+    {
+      "en": "There are many other ways to reuse wastes.",
+      "zh": "当然还有很多其他废物利用的方法。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "废物，废料",
+      "words": [
+        "refuse",
+        "garbage",
+        "junk"
+      ]
+    }
+  ]
+}

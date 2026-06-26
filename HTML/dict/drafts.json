@@ -1,0 +1,38 @@
+{
+  "word": "drafts",
+  "found": true,
+  "phonetic_uk": "drɑːfts",
+  "phonetic_us": "dræft",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=drafts&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=drafts&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[金融]汇票（draft 的复数形式）；草稿（箱）；精绵"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "There is no essential difference between the two drafts.",
+      "zh": "两份草稿没有本质上的不同。"
+    },
+    {
+      "en": "Most drafts do not improve upon delivery.",
+      "zh": "大多数文稿在表达的时候没有被改善。"
+    },
+    {
+      "en": "Drafts of the Bylaws have attracted some criticism.",
+      "zh": "有些人对该章程草案提出了批评。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "汇票（draft的复数形式）；草稿（箱）；精绵",
+      "words": [
+        "manuscripts"
+      ]
+    }
+  ]
+}

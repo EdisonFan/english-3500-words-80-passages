@@ -1,0 +1,54 @@
+{
+  "word": "ugly",
+  "found": true,
+  "phonetic_uk": "ˈʌɡli",
+  "phonetic_us": "ˈʌɡli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ugly&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ugly&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "丑陋的，难看的；（通常因涉及暴力、挑衅行为而）令人厌恶的，邪恶的，恶性的；无礼的；道德败坏的；可怕的，恐怖的；难听的，不悦耳的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "uglies"
+    },
+    {
+      "name": "比较级",
+      "value": "uglier或more ugly"
+    },
+    {
+      "name": "最高级",
+      "value": "ugliest或most ugly"
+    }
+  ],
+  "examples": [
+    {
+      "en": "There have been some ugly scenes.",
+      "zh": "出现了一些丑恶的场面。"
+    },
+    {
+      "en": "An ugly new building blocked the view from the window.",
+      "zh": "一座难看的大楼把窗外的景物遮住了。"
+    },
+    {
+      "en": "The river that runs through Middlesbrough became ugly on the eye and hard on the nose.",
+      "zh": "那条流经米德尔斯伯勒的河变得丑不忍睹，臭不可闻。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "丑陋的；邪恶的；令人厌恶的",
+      "words": [
+        "evil",
+        "ill",
+        "black",
+        "wicked"
+      ]
+    }
+  ]
+}

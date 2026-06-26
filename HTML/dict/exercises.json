@@ -1,0 +1,44 @@
+{
+  "word": "exercises",
+  "found": true,
+  "phonetic_uk": "ˈeksəsaɪzɪz",
+  "phonetic_us": "ˈeksərsaɪzɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=exercises&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=exercises&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "练习题，演习；运动（exercise 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "锻炼；运用（exercise 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Her joints ache if she exercises.",
+      "zh": "她的关节一运动就疼。"
+    },
+    {
+      "en": "She exercises two or three times a week.",
+      "zh": "她一周锻炼两三次。"
+    },
+    {
+      "en": "I do special neck and shoulder exercises.",
+      "zh": "我做专门针对颈部与肩部的锻炼。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "练习题，演习；运动",
+      "words": [
+        "movement",
+        "sport",
+        "campaign"
+      ]
+    }
+  ]
+}

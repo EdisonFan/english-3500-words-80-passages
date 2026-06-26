@@ -1,0 +1,41 @@
+{
+  "word": "workers",
+  "found": true,
+  "phonetic_uk": "ˈwɜːkəz",
+  "phonetic_us": "ˈwɜːrkərz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=workers&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=workers&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "工作者，工作人员；劳工，工人（worker 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The company employs 18 workers.",
+      "zh": "该公司雇用18位职工。"
+    },
+    {
+      "en": "Farm workers milked cows by hand.",
+      "zh": "农场工人们手工给奶牛挤奶。"
+    },
+    {
+      "en": "Workers toiled long hours.",
+      "zh": "工人们长时间辛苦工作。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "工人，人员；角色（worker复数形式）",
+      "words": [
+        "role",
+        "officers",
+        "character",
+        "part"
+      ]
+    }
+  ]
+}

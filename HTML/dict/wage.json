@@ -1,0 +1,82 @@
+{
+  "word": "wage",
+  "found": true,
+  "phonetic_uk": "weɪdʒ",
+  "phonetic_us": "weɪdʒ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=wage&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=wage&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "工资，报酬；（经济）工资总额；（喻）报应"
+    },
+    {
+      "pos": "v.",
+      "meaning": "进行，发动（战争，运动）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "wages"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "wages"
+    },
+    {
+      "name": "现在分词",
+      "value": "waging"
+    },
+    {
+      "name": "过去式",
+      "value": "waged"
+    },
+    {
+      "name": "过去分词",
+      "value": "waged"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Some of them earn below the minimum wage.",
+      "zh": "他们中的一些人挣的钱低于最低工资。"
+    },
+    {
+      "en": "Wage rates depend on levels of productivity.",
+      "zh": "工资水平取决于生产量的多寡。"
+    },
+    {
+      "en": "Wage increases must be in line with inflation.",
+      "zh": "工资的增长必须与通货膨胀率一致。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "进行；发动；从事",
+      "words": [
+        "progress",
+        "do"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "工资；代价；报偿",
+      "words": [
+        "price",
+        "expense",
+        "pay",
+        "cost"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "进行；开展",
+      "words": [
+        "do",
+        "carry with"
+      ]
+    }
+  ]
+}

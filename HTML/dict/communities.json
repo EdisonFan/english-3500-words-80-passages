@@ -1,0 +1,39 @@
+{
+  "word": "communities",
+  "found": true,
+  "phonetic_uk": "kəˈmjuːnətiz",
+  "phonetic_us": "kəˈmju:nətiz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=communities&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=communities&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "社区；团体，群体；[生态] 群落（community的复数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The two communities live together in peace.",
+      "zh": "这两个社区和平相处。"
+    },
+    {
+      "en": "The two communities are now on a collision course.",
+      "zh": "这两个社区现在处于可能发生冲突的状态。"
+    },
+    {
+      "en": "The two communities are learning how to resolve their differences.",
+      "zh": "这两个团体正在学会如何消除它们之间的分歧。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "社区；团体，群体（community的复数形式）",
+      "words": [
+        "groups",
+        "neighborhoods"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "word": "weeds",
+  "found": true,
+  "phonetic_uk": "wiːdz",
+  "phonetic_us": "wiːdz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=weeds&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=weeds&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "野草（weed 的复数形式）；丧服；（悼念用的）黑纱"
+    },
+    {
+      "pos": "v.",
+      "meaning": "清除（weed 的第三人称单数形式）；除去杂草；除去无用的东西"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "If left unchecked, weeds will flourish.",
+      "zh": "如果不加遏制，杂草就会疯长。"
+    },
+    {
+      "en": "Weeds grew through the cracks in the paving.",
+      "zh": "杂草从铺石路面的缝隙中长出来。"
+    },
+    {
+      "en": "The garden's completely overgrown with weeds.",
+      "zh": "花园里长满了杂草。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "野草（weed的复数形式）；丧服；（悼念用的）黑纱",
+      "words": [
+        "wildflowers"
+      ]
+    }
+  ]
+}

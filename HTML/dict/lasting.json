@@ -1,0 +1,56 @@
+{
+  "word": "lasting",
+  "found": true,
+  "phonetic_uk": "ˈlɑːstɪŋ",
+  "phonetic_us": "ˈlæstɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=lasting&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=lasting&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "持久的，耐久的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（纺）厚实斜纹织物"
+    },
+    {
+      "pos": "v.",
+      "meaning": "持续；继续任职；存活（last 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The training was of no lasting value.",
+      "zh": "这种训练不会有长久的效果。"
+    },
+    {
+      "en": "We are well on our way to a lasting peace.",
+      "zh": "我们正迈向持久的和平。"
+    },
+    {
+      "en": "We can't count on the good weather lasting.",
+      "zh": "我们不能指望这样好的天气会持久。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "持久的；永恒的",
+      "words": [
+        "eternal",
+        "continued",
+        "permanent",
+        "sustained"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "持续；维持（last的ing形式）",
+      "words": [
+        "maintaining"
+      ]
+    }
+  ]
+}

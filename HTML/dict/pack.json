@@ -1,0 +1,86 @@
+{
+  "word": "pack",
+  "found": true,
+  "phonetic_uk": "pæk",
+  "phonetic_us": "pæk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pack&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pack&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（把……）打包，收拾（行李）；包装，装箱；（用柔软材料）把……裹（包）起来；在（容器中的食物）上覆盖物质（以防止腐烂）；可折叠运输（或存放）；挤进，塞满；聚集；把……盖上，填封；把……大量放进，装满；（把……）压实，（使）堆积；在（委员会或会议）中安插（支持者、利己的人或事物）；<非正式>具有，能产生（强大之物或能量）；<美，非正式>携带（武器）；（橄榄球）形成对阵争球"
+    },
+    {
+      "pos": "n.",
+      "meaning": "包，包裹，捆；（尤指士兵或野外徒步者的）背包；（一般为纸质的）小盒，小包；一副纸牌；（一起生活猎食的）兽群（尤指狼群）；（尤指不受人喜欢的）一帮，一伙；（比赛或竞赛中的）集群，集团；（放在伤口上止血或消肿的）裹布，敷料；（美容用的）面膜，贴膜；一队（男或女幼童军）；（军事交通工具，尤指飞机或潜水艇的）一组，一队；（英橄）全体前锋；（极地海洋中的）流冰群，浮冰群"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Pack）（英、德）帕克（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "packs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "packs"
+    },
+    {
+      "name": "现在分词",
+      "value": "packing"
+    },
+    {
+      "name": "过去式",
+      "value": "packed"
+    },
+    {
+      "name": "过去分词",
+      "value": "packed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "All joiners will receive a welcome pack.",
+      "zh": "每位入会者都会收到一个迎新包。"
+    },
+    {
+      "en": "She decided to pack in her job.",
+      "zh": "她决定辞职不干了。"
+    },
+    {
+      "en": "He picked up a six-pack of beer.",
+      "zh": "他拎起一箱6瓶装的啤酒。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[包装]包装；一群；背包；[临床]包裹；一副",
+      "words": [
+        "pair",
+        "casing"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[包装]包装；压紧；捆扎；挑选；塞满",
+      "words": [
+        "impact",
+        "select",
+        "stuff"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "挤；包装货物；[包装]被包装；群集",
+      "words": [
+        "pile",
+        "crowd",
+        "host"
+      ]
+    }
+  ]
+}

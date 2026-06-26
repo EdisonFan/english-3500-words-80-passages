@@ -1,0 +1,49 @@
+{
+  "word": "refuses",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "rɪˈfjuːzɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=refuses&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=refuses&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "拒绝；抵制（refuse 的第三人称单数）；推辞"
+    },
+    {
+      "pos": "n.",
+      "meaning": "[环境]垃圾（refuse 的复数）；[环境]废物"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She refuses to face reality.",
+      "zh": "她不肯面对现实。"
+    },
+    {
+      "en": "She stubbornly refuses to admit the truth.",
+      "zh": "她顽固地拒不承认事实。"
+    },
+    {
+      "en": "She refuses to be photographed in the nude.",
+      "zh": "她拒绝拍裸体照片。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "拒绝；抵制（refuse的第三人称单数）；推辞",
+      "words": [
+        "rejects"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "垃圾（refuse的复数）；废物",
+      "words": [
+        "offscourings"
+      ]
+    }
+  ]
+}

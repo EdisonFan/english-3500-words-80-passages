@@ -1,0 +1,47 @@
+{
+  "word": "usage",
+  "found": true,
+  "phonetic_uk": "ˈjuːsɪdʒ",
+  "phonetic_us": "ˈjuːsɪdʒ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=usage&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=usage&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（词语的）用法；使用，用量；（尤指形成权利，义务，标准等的）常规做法，惯例；<正式>虐待，不公待遇"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "usages"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Car usage is predicted to increase.",
+      "zh": "汽车的使用率预计会增长。"
+    },
+    {
+      "en": "He was a stickler for the correct usage of English.",
+      "zh": "他是一个坚持英语的正确使用的人。"
+    },
+    {
+      "en": "Parts of the motor wore out because of constant usage.",
+      "zh": "发动机的一些部件由于不断使用而磨损了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "使用；[语]用法；惯例",
+      "words": [
+        "employment",
+        "utilization",
+        "tradition",
+        "use",
+        "convention"
+      ]
+    }
+  ]
+}

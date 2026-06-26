@@ -1,0 +1,58 @@
+{
+  "word": "describe",
+  "found": true,
+  "phonetic_uk": "dɪˈskraɪb",
+  "phonetic_us": "dɪˈskraɪb",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=describe&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=describe&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "描述，形容；做……运动，形成……形状"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "describes"
+    },
+    {
+      "name": "现在分词",
+      "value": "describing"
+    },
+    {
+      "name": "过去式",
+      "value": "described"
+    },
+    {
+      "name": "过去分词",
+      "value": "described"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Can you describe him to me?",
+      "zh": "你能向我描述一下他的样子吗？"
+    },
+    {
+      "en": "A lexicographer's job is to describe the language.",
+      "zh": "词典编纂者的工作就是对语言加以描述。"
+    },
+    {
+      "en": "The book goes on to describe his experiences in the army.",
+      "zh": "本书继而描述了他在部队的经历。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "描述，形容；描绘",
+      "words": [
+        "represent",
+        "trace",
+        "figure",
+        "depict"
+      ]
+    }
+  ]
+}

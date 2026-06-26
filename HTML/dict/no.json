@@ -1,0 +1,72 @@
+{
+  "word": "no",
+  "found": true,
+  "phonetic_uk": "nəʊ",
+  "phonetic_us": "noʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=no&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=no&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "不，完全不"
+    },
+    {
+      "pos": "n.",
+      "meaning": "否定的回答；（复数 noes）（投票表决中的）反对，否决"
+    },
+    {
+      "pos": "int.",
+      "meaning": "（用于否定的回答或陈述）不，没有；（感到惊讶）不会吧"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "没有；不是"
+    },
+    {
+      "pos": "det.",
+      "meaning": "没有，无；不准，禁止；没有可能（做某事）；（表示情况的反面）不是，并不"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（No）（柬、越）诺（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "noes或nos或no's"
+    }
+  ],
+  "examples": [
+    {
+      "en": "\"No, no, no,\" Morris said crossly.",
+      "zh": "“不，不，不，”莫里斯愤怒地说。"
+    },
+    {
+      "en": "\"We thought you'd emigrated.\"—\"No, no.\"",
+      "zh": "“我们还以为你已经移民了呢。”—“不，没有。”"
+    },
+    {
+      "en": "She had no money coming in and no funds.",
+      "zh": "她既无固定收入也无存款。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "不",
+      "words": [
+        "not",
+        "non",
+        "n't"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "没有；不是",
+      "words": [
+        "nah"
+      ]
+    }
+  ]
+}

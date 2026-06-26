@@ -1,0 +1,72 @@
+{
+  "word": "advocate",
+  "found": true,
+  "phonetic_uk": "ˈædvəkeɪt",
+  "phonetic_us": "ˈædvəkeɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=advocate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=advocate&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "拥护，提倡"
+    },
+    {
+      "pos": "n.",
+      "meaning": "拥护者，提倡者；辩护律师；（为某一类人）谋利益者；（一项事业或个组织的）工作者"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "advocates"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "advocates"
+    },
+    {
+      "name": "现在分词",
+      "value": "advocating"
+    },
+    {
+      "name": "过去式",
+      "value": "advocated"
+    },
+    {
+      "name": "过去分词",
+      "value": "advocated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He is a strident advocate of nuclear power.",
+      "zh": "他是发展核能的坚定拥护者。"
+    },
+    {
+      "en": "Many experts advocate rewarding your child for good behaviour.",
+      "zh": "很多专家主张对小孩的良好表现加以奖励。"
+    },
+    {
+      "en": "I felt that it was irresponsible to advocate the legalization of drugs.",
+      "zh": "我觉得主张毒品合法化是不负责任的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "提倡，主张，拥护",
+      "words": [
+        "maintain",
+        "submit"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "提倡者；支持者；律师",
+      "words": [
+        "prophet",
+        "supporter"
+      ]
+    }
+  ]
+}

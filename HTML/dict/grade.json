@@ -1,0 +1,78 @@
+{
+  "word": "grade",
+  "found": true,
+  "phonetic_uk": "ɡreɪd",
+  "phonetic_us": "ɡreɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=grade&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=grade&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "等级，品级；（工作岗位，官衔等的）级别，职别；成绩，分数；（美国学制）年级；斜坡，坡度；（疾病的）程度，阶段；与纯种杂交改良的牛"
+    },
+    {
+      "pos": "v.",
+      "meaning": "按照级别安排或分配，分类；给……评分；设定（路面）坡度；（尤指色彩）从一个等级逐渐进入另一个等级；（家畜）与优良品种杂交"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Grade）（英）格雷德，（法、德、西、葡、塞、瑞典）格拉德（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "grades"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "grades"
+    },
+    {
+      "name": "现在分词",
+      "value": "grading"
+    },
+    {
+      "name": "过去式",
+      "value": "graded"
+    },
+    {
+      "name": "过去分词",
+      "value": "graded"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I flunked math in second grade.",
+      "zh": "我二年级时数学不及��。"
+    },
+    {
+      "en": "Sam is in (the) second grade.",
+      "zh": "萨姆读二年级。"
+    },
+    {
+      "en": "What grade are you hoping to get?",
+      "zh": "你希望得到什么样的成绩？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "年级；等级；成绩；级别；阶段",
+      "words": [
+        "degree",
+        "classes",
+        "stage",
+        "phase",
+        "rate"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "评分；把…分等级",
+      "words": [
+        "class"
+      ]
+    }
+  ]
+}

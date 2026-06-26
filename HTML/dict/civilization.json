@@ -1,0 +1,44 @@
+{
+  "word": "civilization",
+  "found": true,
+  "phonetic_uk": "ˌsɪvəlaɪˈzeɪʃn",
+  "phonetic_us": "ˌsɪvələˈzeɪʃn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=civilization&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=civilization&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "文明；文明社会，文明国家；人类社会；舒适的生活环境；教化，开化"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "civilizations"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I finally reached what we laughingly call civilization.",
+      "zh": "我终于到了我们戏称为文明之地的地方。"
+    },
+    {
+      "en": "Environmental damage threatens the whole of civilization.",
+      "zh": "环境的破坏威胁着整个文明世界。"
+    },
+    {
+      "en": "It's good to be back in civilization after two weeks in a tent!",
+      "zh": "在帐篷里住了两个星期后又回到人类文明的生活可真好呀！"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "文明；文化",
+      "words": [
+        "culture",
+        "kultur"
+      ]
+    }
+  ]
+}

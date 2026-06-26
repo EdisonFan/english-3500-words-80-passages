@@ -1,0 +1,83 @@
+{
+  "word": "salt",
+  "found": true,
+  "phonetic_uk": "sɔːlt; sɒlt",
+  "phonetic_us": "sɔːlt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=salt&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=salt&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "盐，食盐（=common salt）；（化学）盐；盐状物（用于某种特殊目的的物质或药品）（salts）；<文>风趣，刺激性；<非正式>有经验的水手，老水手（old salt）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "给（食物）加盐调味；用盐腌制（食物）（=salt down）；（为融化雪或冰）撒盐于（道路）上；给……增添刺激，使……更有趣；<非正式>使（矿区、矿山）呈虚假的富矿状"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "含盐的，咸的；用盐腌制的；（植物）海生的，生长于盐沼的；<旧>猥亵的"
+    },
+    {
+      "pos": "abbr.",
+      "meaning": "（美俄）限制战略武器谈判（Strategic Arms Limitation Talks）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Salt）（美、爱尔兰、马耳他）索尔特（姓氏）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "salts"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "salts"
+    },
+    {
+      "name": "现在分词",
+      "value": "salting"
+    },
+    {
+      "name": "过去式",
+      "value": "salted"
+    },
+    {
+      "name": "过去分词",
+      "value": "salted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He read a poem entitled 'Salt'.",
+      "zh": "他朗诵一首题为《盐》的诗。"
+    },
+    {
+      "en": "Salt dissolves in water.",
+      "zh": "盐溶于水。"
+    },
+    {
+      "en": "Salt water is more buoyant than fresh water.",
+      "zh": "盐水比淡水浮力大。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[化学]盐；风趣，刺激性",
+      "words": [
+        "pungency"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "咸水的；含盐的，咸味的；盐腌的；猥亵的",
+      "words": [
+        "saliferous",
+        "brackish"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "word": "lake",
+  "found": true,
+  "phonetic_uk": "leɪk",
+  "phonetic_us": "leɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=lake&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=lake&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "湖，湖泊；大量的液体；（液体）一滩；沉淀色料；胭脂红"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）血球溶解"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Lake）（德、塞、瑞典）拉克，（英）莱克（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "lakes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "lakes"
+    },
+    {
+      "name": "现在分词",
+      "value": "laking"
+    },
+    {
+      "name": "过去式",
+      "value": "laked"
+    },
+    {
+      "name": "过去分词",
+      "value": "laked"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The lake had been pumped dry.",
+      "zh": "湖水已被抽干。"
+    },
+    {
+      "en": "Fish are plentiful in the lake.",
+      "zh": "这个湖里鱼很多。"
+    },
+    {
+      "en": "Fish are abundant in the lake.",
+      "zh": "湖里鱼很多。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[地理]湖；深红色颜料；胭脂红",
+      "words": [
+        "lacus",
+        "loch"
+      ]
+    }
+  ]
+}

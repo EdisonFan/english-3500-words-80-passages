@@ -1,0 +1,39 @@
+{
+  "word": "astonish",
+  "found": true,
+  "phonetic_uk": "əˈstɒnɪʃ",
+  "phonetic_us": "əˈstɑːnɪʃ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=astonish&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=astonish&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "使吃惊，使惊讶"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "My news will astonish you.",
+      "zh": "我的消息会令你十分惊讶。"
+    },
+    {
+      "en": "Thunderstruck shows up in English about 100 years after astonish.",
+      "zh": "Thunderstruck 这个词在 astonish 之后大约100年才出现在英语当中。"
+    },
+    {
+      "en": "As for the bushels of sketches and studies which Millet produced in the last six weeks, well, it would astonish you to know the figure we sell them at nowadays.",
+      "zh": "至于米勒在过去六个星期里创作的大量的速写和习作，嗯，如果你知道我们现在销售它们的价格，你会大吃一惊的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "使惊讶",
+      "words": [
+        "emmarvel",
+        "gast"
+      ]
+    }
+  ]
+}

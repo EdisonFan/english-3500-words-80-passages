@@ -1,0 +1,82 @@
+{
+  "word": "concentrate",
+  "found": true,
+  "phonetic_uk": "ˈkɒns(ə)ntreɪt",
+  "phonetic_us": "ˈkɑːns(ə)ntreɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=concentrate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=concentrate&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "集中注意力，聚精会神；使集中，聚集；浓缩"
+    },
+    {
+      "pos": "n.",
+      "meaning": "浓缩物，浓缩液"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "concentrates"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "concentrates"
+    },
+    {
+      "name": "现在分词",
+      "value": "concentrating"
+    },
+    {
+      "name": "过去式",
+      "value": "concentrated"
+    },
+    {
+      "name": "过去分词",
+      "value": "concentrated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "At work you need to be able to concentrate.",
+      "zh": "工作时你要能专心。"
+    },
+    {
+      "en": "We need to concentrate on our core business.",
+      "zh": "我们需要集中在核心业务上。"
+    },
+    {
+      "en": "I am leaving to concentrate on writing fiction.",
+      "zh": "我要离开去专心写小说。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "集中；[物]浓缩；全神贯注；聚集",
+      "words": [
+        "focus",
+        "collect",
+        "mass",
+        "crowd"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "集中；[物]浓缩",
+      "words": [
+        "centre",
+        "localise"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[物]浓缩，精选；浓缩液",
+      "words": [
+        "compression",
+        "solidification"
+      ]
+    }
+  ]
+}

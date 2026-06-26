@@ -1,0 +1,53 @@
+{
+  "word": "finished",
+  "found": true,
+  "phonetic_uk": "ˈfɪnɪʃt",
+  "phonetic_us": "ˈfɪnɪʃt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=finished&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=finished&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "结束了的，完成了的；不再与……打交道；垮台，失败"
+    },
+    {
+      "pos": "v.",
+      "meaning": "完成，做好；（使）结束；消耗尽（所剩之物）（finish 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I've just finished Chapter 3.",
+      "zh": "我刚完成第3章。"
+    },
+    {
+      "en": "The play finished at 10.30.",
+      "zh": "比赛于10:30结束。"
+    },
+    {
+      "en": "They haven't finished yet.",
+      "zh": "他们还没有结束。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "完结的，完成的；精巧的",
+      "words": [
+        "accomplished",
+        "achieved",
+        "through"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "完成；结束；毁掉（finish的过去分词形式）",
+      "words": [
+        "concluded",
+        "completed",
+        "closed"
+      ]
+    }
+  ]
+}

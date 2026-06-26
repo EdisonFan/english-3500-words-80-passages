@@ -1,0 +1,43 @@
+{
+  "word": "striped",
+  "found": true,
+  "phonetic_uk": "straɪpt",
+  "phonetic_us": "straɪpt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=striped&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=striped&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "有条纹的；有斑纹的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "被剥去（strip 的过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "His striped tie was loosened at his throat.",
+      "zh": "他脖子上的条纹领带松开着。"
+    },
+    {
+      "en": "He was faultlessly attired in black coat and striped trousers.",
+      "zh": "他穿着黑色上衣和条纹裤子，简直无可挑剔。"
+    },
+    {
+      "en": "In fact, a zebra with its striped covering is a camouflaged animal.",
+      "zh": "事实上，带有条纹的斑马是一种伪装动物。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "有条纹的；有斑纹的",
+      "words": [
+        "streaky",
+        "brinded"
+      ]
+    }
+  ]
+}

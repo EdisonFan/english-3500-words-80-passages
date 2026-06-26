@@ -1,0 +1,43 @@
+{
+  "word": "s",
+  "found": true,
+  "phonetic_uk": "es",
+  "phonetic_us": "es",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=s&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=s&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "字母 s, 英语字母表中第十九个字母"
+    },
+    {
+      "pos": "abbr.",
+      "meaning": "圣人，圣徒（Saint） ；（尤指服装的尺码）小号的（small） ；南方的（South）；西门子（电导单位）（siemens）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（数学公式中的）距离"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "s's或ss"
+    }
+  ],
+  "examples": [
+    {
+      "en": "There are many species of dog(s).",
+      "zh": "狗有许多种。"
+    },
+    {
+      "en": "She's living in hall(s).",
+      "zh": "她住在学生宿舍。"
+    },
+    {
+      "en": "There are three main types of contract(s).",
+      "zh": "有三种主要的合同。"
+    }
+  ],
+  "synonyms": []
+}

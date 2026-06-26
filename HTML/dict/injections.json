@@ -1,0 +1,38 @@
+{
+  "word": "injections",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ɪnˈdʒekʃnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=injections&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=injections&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "注射（injection 的复数）；注射剂；注射室"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He was treated with penicillin injections.",
+      "zh": "他接受了青霉素注射。"
+    },
+    {
+      "en": "They can give you pills and injections.",
+      "zh": "他们会给你吃药和打针。"
+    },
+    {
+      "en": "Parents are reluctant to subject children to the pain of injections, but adults, who are at risk of serious complications from influenza, are commonly vaccinated.",
+      "zh": "父母不愿让孩子承受注射的痛苦，但成人由于有可能出现流感严重并发症，普遍会接种疫苗。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "注射（injection的复数）；注射剂；注射室",
+      "words": [
+        "jabs"
+      ]
+    }
+  ]
+}

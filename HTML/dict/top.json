@@ -1,0 +1,92 @@
+{
+  "word": "top",
+  "found": true,
+  "phonetic_uk": "tɒp",
+  "phonetic_us": "tɑːp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=top&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=top&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "顶部，顶端，上端；上层表面；最高的级别，最重要的职位；尽头，远端；帽，盖，塞；上衣，上装；（根菜作物的）茎叶；陀螺；<非正式>特别好的人（或事）（tops）；<英>（用于款额后）最高额（tops）；开始，开端；（棒球比赛的）前半局；（球的）上旋（topspin 的简称）；（待纺的）毛条；（物理）夸克六味之一；用于马蹄螺的名字"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "顶端的，顶部的，最上面的；（地位、程度或重要性）最高的；<英，非正式>很好的，顶呱呱的；<英>（距说话者、参照点）最远的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "高于，超过，高过；优于，胜过；居……之首，为……之冠；覆盖，放在……的上面；到达山顶，达到顶端；<英，非正式>杀；切除顶部；（作为主要表演者，受关注者而）出场，露面；（高尔夫）误击（球上部）"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "<非正式>最多，至多（tops）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Top）（巴）托普（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "tops"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "tops"
+    },
+    {
+      "name": "现在分词",
+      "value": "topping"
+    },
+    {
+      "name": "过去式",
+      "value": "topped"
+    },
+    {
+      "name": "过去分词",
+      "value": "topped"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She's gunning for the top job.",
+      "zh": "她正竭力谋取最高职位。"
+    },
+    {
+      "en": "She got the top job.",
+      "zh": "她得到了那个最高职位。"
+    },
+    {
+      "en": "The top seed won comfortably.",
+      "zh": "头号种子选手轻松获胜。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "顶部，顶端；上部；首席；陀螺",
+      "words": [
+        "roof",
+        "coping"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "高出，超越；结束；达到顶点",
+      "words": [
+        "tower over",
+        "move beyond"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "超越，超过；给…加盖；达到…的顶端",
+      "words": [
+        "better than",
+        "move beyond"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "word": "reasoned",
+  "found": true,
+  "phonetic_uk": "ˈriːzənd",
+  "phonetic_us": "ˈriːzənd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=reasoned&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=reasoned&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "详尽论述的；理由充分的；合乎逻辑的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "说服；推断（reason 的过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I reasoned that changing my diet would lower my cholesterol level.",
+      "zh": "我推断改变我的饮食会降低我的胆固醇水平。"
+    },
+    {
+      "en": "\"Without doubt, that was it,\" he reasoned.",
+      "zh": "“毫无疑问，就是这样的。”他推断道。"
+    },
+    {
+      "en": "Silent genes accumulate random mutations, they reasoned, eventually rendering them useless.",
+      "zh": "他们推断，沉默基因积累随机突变，最终使它们变得无用。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "说服；推断（reason的过去分词）",
+      "words": [
+        "concluded",
+        "induced",
+        "derived",
+        "persuaded"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "word": "sources",
+  "found": true,
+  "phonetic_uk": "ˈsɔːsɪz",
+  "phonetic_us": "ˈsɔːrsɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sources&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sources&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "来源，出处；起源，根源；发源地（source 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "从（某地）获取（source 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He refused to name his sources.",
+      "zh": "他拒绝说出消息的来源。"
+    },
+    {
+      "en": "Nuts and seeds are good sources of vitamin E.",
+      "zh": "坚果和种子是维生素E的良好来源。"
+    },
+    {
+      "en": "There are alternative sources of nutrition to animal meat.",
+      "zh": "有能替代动物肉类的其他营养来源。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "来源（source的复数）；输入源；发起者",
+      "words": [
+        "initiators"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "word": "missing",
+  "found": true,
+  "phonetic_uk": "ˈmɪsɪŋ",
+  "phonetic_us": "ˈmɪsɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=missing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=missing&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "找不到的，丢失的；缺少的，缺损的；（人）失踪的，下落不明的；遗漏的，未被包括在内的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "未击中，未抓住；未做，错过；思念，怀念（miss 的现在分词）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Missing）（德）米辛（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The roofs had shingles missing.",
+      "zh": "屋顶的一些瓦板不见了。"
+    },
+    {
+      "en": "Two files have gone missing.",
+      "zh": "两个档案不见了。"
+    },
+    {
+      "en": "She has reported her daughter missing.",
+      "zh": "女儿失踪，她已经向警方报案。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "失踪的；缺少的",
+      "words": [
+        "absent"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "错过（miss的ing形式）；想念；漏掉",
+      "words": [
+        "losing",
+        "sighing"
+      ]
+    }
+  ]
+}

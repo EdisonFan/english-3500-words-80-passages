@@ -1,0 +1,46 @@
+{
+  "word": "walls",
+  "found": true,
+  "phonetic_uk": "wɔːlz",
+  "phonetic_us": "wɔːlz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=walls&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=walls&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "墙壁；墙体（wall 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "堵塞；禁闭；用墙围住（wall 的单三形式）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Walls）人名；（芬）瓦尔斯；（英）沃尔斯"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Smoke had blackened the walls.",
+      "zh": "烟把墙壁都熏黑了。"
+    },
+    {
+      "en": "The walls needed a good scrub.",
+      "zh": "这些墙需要一次好好的刷洗。"
+    },
+    {
+      "en": "The walls were painted yellow.",
+      "zh": "墙壁漆成了黄色。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "堵塞；禁闭；用墙围住（wall的单三形式）",
+      "words": [
+        "staps"
+      ]
+    }
+  ]
+}

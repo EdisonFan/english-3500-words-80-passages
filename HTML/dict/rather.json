@@ -1,0 +1,50 @@
+{
+  "word": "rather",
+  "found": true,
+  "phonetic_uk": "ˈrɑːðə(r)",
+  "phonetic_us": "ˈræðər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=rather&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=rather&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "颇，相当；宁愿，最好（would rather）；而不是；更确切地说；（用以使表达的语气婉转）有几分，有点儿；恰恰相反，而是"
+    },
+    {
+      "pos": "int.",
+      "meaning": "<英，旧>当然，的确（表同意）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】  （Rather）（英）拉瑟（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The leaves taste rather bitter.",
+      "zh": "这些叶子尝起来相当苦。"
+    },
+    {
+      "en": "The instructions were rather complicated.",
+      "zh": "这些说明相当复杂。"
+    },
+    {
+      "en": "The exam was rather difficult.",
+      "zh": "这场考试十分难。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "宁可，宁愿；相当",
+      "words": [
+        "soon",
+        "first",
+        "lot",
+        "bit",
+        "preferably"
+      ]
+    }
+  ]
+}

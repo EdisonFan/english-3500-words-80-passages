@@ -1,0 +1,56 @@
+{
+  "word": "romantic",
+  "found": true,
+  "phonetic_uk": "rəʊˈmæntɪk",
+  "phonetic_us": "roʊˈmæntɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=romantic&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=romantic&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "（人）浪漫的，有情调的；（事物）富有浪漫色彩的，充满浪漫气息的；爱情的，情爱的；不切实际的，空想的；（文学、艺术和音乐）浪漫主义的（Romantic）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "浪漫的人；爱幻想的人，空想者； 浪漫主义作家（或音乐家、艺术家）（Romantic）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "romantics"
+    },
+    {
+      "name": "比较级",
+      "value": "more romantic"
+    },
+    {
+      "name": "最高级",
+      "value": "most romantic"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The movie is a romantic comedy.",
+      "zh": "这部电影是一个浪漫喜剧。"
+    },
+    {
+      "en": "You're a hopeless romantic.",
+      "zh": "你是个无可救药的浪漫主义者。"
+    },
+    {
+      "en": "They sang a slow romantic number.",
+      "zh": "他们演唱了一首缓慢的浪漫歌曲。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "浪漫的；多情的；空想的",
+      "words": [
+        "fantastic",
+        "amorous"
+      ]
+    }
+  ]
+}

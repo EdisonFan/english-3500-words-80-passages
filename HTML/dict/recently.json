@@ -1,0 +1,41 @@
+{
+  "word": "recently",
+  "found": true,
+  "phonetic_uk": "ˈriːs(ə)ntli",
+  "phonetic_us": "ˈriːs(ə)ntli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=recently&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=recently&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "最近，不久前"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Prices have gone down recently.",
+      "zh": "最近物价下降了。"
+    },
+    {
+      "en": "I've gained weight recently.",
+      "zh": "最近我的体重增加了。"
+    },
+    {
+      "en": "He's been overdoing things recently.",
+      "zh": "他最近过于努力了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "最近；新近",
+      "words": [
+        "newly",
+        "new",
+        "of late",
+        "last"
+      ]
+    }
+  ]
+}

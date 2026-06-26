@@ -1,0 +1,39 @@
+{
+  "word": "unfamiliar",
+  "found": true,
+  "phonetic_uk": "ˌʌnfəˈmɪliə(r)",
+  "phonetic_us": "ˌʌnfəˈmɪliər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=unfamiliar&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=unfamiliar&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "不熟悉的；不常见的；没有经验的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "My horse shied at the unfamiliar noise.",
+      "zh": "这陌生的声音把我的马惊了。"
+    },
+    {
+      "en": "She felt uneasy in the unfamiliar surroundings.",
+      "zh": "她在陌生的环境中感到局促不安。"
+    },
+    {
+      "en": "Please highlight any terms that are unfamiliar to you.",
+      "zh": "请把你们不熟悉的用语都标示出来。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "不熟悉的；不常见的；没有经验的",
+      "words": [
+        "young",
+        "unconversant"
+      ]
+    }
+  ]
+}

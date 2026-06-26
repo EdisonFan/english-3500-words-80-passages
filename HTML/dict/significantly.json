@@ -1,0 +1,39 @@
+{
+  "word": "significantly",
+  "found": true,
+  "phonetic_uk": "sɪɡˈnɪfɪkəntli",
+  "phonetic_us": "sɪɡˈnɪfɪkəntli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=significantly&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=significantly&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "显著地，相当数量地；值得注意的是（用于表示某事非常重要）；意味深长地，别有含意地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She paused significantly before she answered.",
+      "zh": "她在回答之前意味深长地停顿了一下。"
+    },
+    {
+      "en": "The President has promised to cut taxes significantly.",
+      "zh": "总统承诺大幅度减税。"
+    },
+    {
+      "en": "The two sets of figures are not significantly different.",
+      "zh": "这两组数字没有明显的差别。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "意味深长地；值得注目地",
+      "words": [
+        "meaningfully",
+        "expressively"
+      ]
+    }
+  ]
+}

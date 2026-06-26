@@ -1,0 +1,43 @@
+{
+  "word": "somewhat",
+  "found": true,
+  "phonetic_uk": "ˈsʌmwɒt",
+  "phonetic_us": "ˈsʌmwʌt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=somewhat&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=somewhat&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "稍微，有点"
+    },
+    {
+      "pos": "pron.",
+      "meaning": "几分；某物"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He has a somewhat donnish air about him.",
+      "zh": "他身上有点学究气。"
+    },
+    {
+      "en": "Research in this area is somewhat equivocal.",
+      "zh": "这个领域的研究有些难以理解。"
+    },
+    {
+      "en": "They smiled at one another, somewhat falsely.",
+      "zh": "他们相互微笑，有点假惺惺地。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "有点；多少；几分；稍微",
+      "words": [
+        "how",
+        "any"
+      ]
+    }
+  ]
+}

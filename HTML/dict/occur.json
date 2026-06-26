@@ -1,0 +1,59 @@
+{
+  "word": "occur",
+  "found": true,
+  "phonetic_uk": "əˈkɜː(r)",
+  "phonetic_us": "əˈkɜːr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=occur&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=occur&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（尤指意外地）发生；存在，出现；（想法）产生"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "occurs"
+    },
+    {
+      "name": "现在分词",
+      "value": "occurring"
+    },
+    {
+      "name": "过去式",
+      "value": "occurred"
+    },
+    {
+      "name": "过去分词",
+      "value": "occurred"
+    }
+  ],
+  "examples": [
+    {
+      "en": "When exactly did the incident occur?",
+      "zh": "这一事件究竟是什么时候发生的？"
+    },
+    {
+      "en": "These snails do not occur on low-lying coral islands.",
+      "zh": "这些蜗牛不会出现在低洼的珊瑚岛上。"
+    },
+    {
+      "en": "Rattlesnakes occur in the warmer, drier parts of North America.",
+      "zh": "响尾蛇出现在北美温暖干燥的地区。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "发生；出现；存在",
+      "words": [
+        "happen",
+        "exist",
+        "proceed",
+        "figure",
+        "offer"
+      ]
+    }
+  ]
+}

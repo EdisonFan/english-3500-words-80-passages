@@ -1,0 +1,40 @@
+{
+  "word": "simulation",
+  "found": true,
+  "phonetic_uk": "ˌsɪmjuˈleɪʃ(ə)n",
+  "phonetic_us": "ˌsɪmjuˈleɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=simulation&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=simulation&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "模拟，仿造物；假装，冒充"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Training includes realistic simulation of casualty procedures.",
+      "zh": "训练包括伤亡处理程序的实际模拟。"
+    },
+    {
+      "en": "To make the training realistic the simulation operates in real time.",
+      "zh": "为使训练真实，模拟是实时运行的。"
+    },
+    {
+      "en": "The simulation takes no account of the effects of coastal erosion.",
+      "zh": "该模拟没有考虑海岸侵蚀的影响。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计]仿真；模拟；模仿；假装",
+      "words": [
+        "acting",
+        "emulation",
+        "analog"
+      ]
+    }
+  ]
+}

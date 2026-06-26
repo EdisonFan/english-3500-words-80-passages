@@ -1,0 +1,47 @@
+{
+  "word": "energy",
+  "found": true,
+  "phonetic_uk": "ˈenədʒi",
+  "phonetic_us": "ˈenərdʒi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=energy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=energy&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "能力，力气；精力，活力；能源；能，能量"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "energies"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She's always full of energy.",
+      "zh": "她总是充满活力。"
+    },
+    {
+      "en": "It's a waste of time and energy.",
+      "zh": "那是浪费时间和精力。"
+    },
+    {
+      "en": "It is important to conserve energy.",
+      "zh": "节能十分重要。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[物]能量；精力；[劳经]活力；精神",
+      "words": [
+        "vitality",
+        "spirit",
+        "soul",
+        "mind",
+        "spring"
+      ]
+    }
+  ]
+}

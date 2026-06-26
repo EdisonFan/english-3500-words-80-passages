@@ -1,0 +1,47 @@
+{
+  "word": "repurpose",
+  "found": true,
+  "phonetic_uk": "ˌriːˈpɜːpəs",
+  "phonetic_us": "ˌriːˈpɜːrpəs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=repurpose&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=repurpose&type=2",
+  "defs": [
+    {
+      "pos": "vt.",
+      "meaning": "改换意图；重新目的化"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "repurposes"
+    },
+    {
+      "name": "现在分词",
+      "value": "repurposing"
+    },
+    {
+      "name": "过去式",
+      "value": "repurposed"
+    },
+    {
+      "name": "���去分词",
+      "value": "repurposed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "When customers do want to toss their pair, they can give them back to the store, which will repurpose and resell them.",
+      "zh": "当顾客真的想扔掉它们时，他们可以把它们还给商店，商店会重新利用并转售它们。"
+    },
+    {
+      "en": "You can easily repurpose this function by adding a nonrequired argument.",
+      "zh": "可以通过增加一个非必需的参数，轻松地改变这个函数的用途。"
+    },
+    {
+      "en": "Let me give you five examples of how to capture and repurpose daily activities for blog content.",
+      "zh": "让我给你举5个例子看看吧。"
+    }
+  ],
+  "synonyms": []
+}

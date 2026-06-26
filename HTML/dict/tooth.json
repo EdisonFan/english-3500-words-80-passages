@@ -1,0 +1,67 @@
+{
+  "word": "tooth",
+  "found": true,
+  "phonetic_uk": "tuːθ",
+  "phonetic_us": "tuːθ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tooth&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tooth&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "牙，齿；（工具边缘、梳子、锯、拉链等的）齿状物，齿；（官方组织、法律等的）威力，效力（teeth）；口味，爱好；粗糙面（颜料、胶水能黏附于上）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "给……装齿；啮合"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Tooth）（英）图思（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "teeth"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "tooths"
+    },
+    {
+      "name": "现在分词",
+      "value": "toothing"
+    },
+    {
+      "name": "过去式",
+      "value": "toothed"
+    },
+    {
+      "name": "过去分词",
+      "value": "toothed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He's got a front tooth missing.",
+      "zh": "他有一颗门牙掉了。"
+    },
+    {
+      "en": "When did she cut her first tooth?",
+      "zh": "她什么时候长出的第一颗牙？"
+    },
+    {
+      "en": "The blow chipped the woman's tooth.",
+      "zh": "这一击把那个女人的牙齿打掉了一小块。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "啮合",
+      "words": [
+        "engage"
+      ]
+    }
+  ]
+}

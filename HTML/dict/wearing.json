@@ -1,0 +1,54 @@
+{
+  "word": "wearing",
+  "found": true,
+  "phonetic_uk": "ˈweərɪŋ",
+  "phonetic_us": "ˈwerɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=wearing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=wearing&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "使人疲倦的，令人厌烦的；穿用的；磨损的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（习惯）穿、戴；磨损，消耗；穿着（wear 的现在分词形式）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Wearing）（美、俄、土）韦尔林（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I was wearing my tweed suit.",
+      "zh": "我那时穿着我的花呢套装。"
+    },
+    {
+      "en": "He was wearing faded blue jeans.",
+      "zh": "他穿着退色的蓝牛仔裤。"
+    },
+    {
+      "en": "I was wearing the team's colours.",
+      "zh": "我穿着该队队服的颜色。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "磨损的；穿用的；令人疲倦的",
+      "words": [
+        "shiny",
+        "scuffed"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "穿着；磨损（wear的ing形式）",
+      "words": [
+        "eroding"
+      ]
+    }
+  ]
+}

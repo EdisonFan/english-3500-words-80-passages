@@ -1,0 +1,30 @@
+{
+  "word": "experiments",
+  "found": true,
+  "phonetic_uk": "ɪkˈsperɪm(ə)nts",
+  "phonetic_us": "ɪkˈsperɪmənts; ɪkˈsperɪments; ɪkˈsperəmənts; ɪkˈsperəments",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=experiments&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=experiments&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[试验]实验（experiment 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "These experiments serve no useful purpose.",
+      "zh": "这些实验没有任何实际意义。"
+    },
+    {
+      "en": "The experiments produced equivocal results.",
+      "zh": "这些实验产生的结果难以理解。"
+    },
+    {
+      "en": "He has done experiments complementary to those of Eigen.",
+      "zh": "他已经做了与艾根的实验互补的实验。"
+    }
+  ],
+  "synonyms": []
+}

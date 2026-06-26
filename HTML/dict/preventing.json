@@ -1,0 +1,49 @@
+{
+  "word": "preventing",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "prɪˈventɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=preventing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=preventing&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "防止的；预防的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "防止；预防（prevent 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "These measures are aimed at preventing violent crime.",
+      "zh": "这些措施旨在防止暴力犯罪。"
+    },
+    {
+      "en": "Until now scientists had very little clear evidence about the drug's role in preventing more serious effects of infection.",
+      "zh": "到目前为止，科学家们几乎没有该药物在防止更严重的感染后果的功能的明确证据。"
+    },
+    {
+      "en": "The technology for preventing leaks is being installed.",
+      "zh": "一项防止泄漏的技术正在被安装。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "防止的；预防的",
+      "words": [
+        "precautionary"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "防止（prevent的ing形式）；预防",
+      "words": [
+        "forestalling"
+      ]
+    }
+  ]
+}

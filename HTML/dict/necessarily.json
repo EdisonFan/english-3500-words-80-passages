@@ -1,0 +1,39 @@
+{
+  "word": "necessarily",
+  "found": true,
+  "phonetic_uk": "ˌnesəˈserəli",
+  "phonetic_us": "ˌnesəˈserəli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=necessarily&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=necessarily&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "必定，必然；必要地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Biggest doesn't necessarily mean best.",
+      "zh": "最大的不一定是最好的。"
+    },
+    {
+      "en": "\"Not necessarily,\" she says cryptically.",
+      "zh": "“不一定，”她神秘地说道。"
+    },
+    {
+      "en": "\"He was lying, of course.\"—\"Not necessarily.\"",
+      "zh": "“他当然是在撒谎。”—“不一定。”"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "必要地；必定地，必然地",
+      "words": [
+        "inevitably",
+        "consequentially"
+      ]
+    }
+  ]
+}

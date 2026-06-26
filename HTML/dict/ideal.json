@@ -1,0 +1,58 @@
+{
+  "word": "ideal",
+  "found": true,
+  "phonetic_uk": "aɪˈdiːəl",
+  "phonetic_us": "aɪˈdiːəl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ideal&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ideal&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "理想的，最佳的；想象的，不切实际的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "理想；典范，完美典型"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "ideals"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He has found his ideal mate.",
+      "zh": "他已经找到了理想的配偶。"
+    },
+    {
+      "en": "We do not live in an ideal world.",
+      "zh": "我们并非生活在一个完美的世界里。"
+    },
+    {
+      "en": "I know it's not ideal but there you go...",
+      "zh": "我知道这并不理想，但只好这样啦…"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[数]理想的；完美的；想象的；不切实际的",
+      "words": [
+        "perfect",
+        "full",
+        "unreasonable",
+        "dream"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[数]理想；典范",
+      "words": [
+        "pink",
+        "quintessence"
+      ]
+    }
+  ]
+}

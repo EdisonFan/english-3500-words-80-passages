@@ -1,0 +1,34 @@
+{
+  "word": "diseases",
+  "found": true,
+  "phonetic_uk": "dɪˈziːzɪz",
+  "phonetic_us": "dɪˈziːzɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=diseases&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=diseases&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "病，疾病；病害；（人或社会的）弊病（disease 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "传染；使……有病（disease 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He doesn't spray against pests or diseases.",
+      "zh": "他没有喷农药来防治害虫或疾病。"
+    },
+    {
+      "en": "Dr Crane's specialism is tropical diseases.",
+      "zh": "克莱恩博士的研究领域是热带病。"
+    },
+    {
+      "en": "Infectious diseases can be acquired in several ways.",
+      "zh": "传染病的感染途径有几种。"
+    }
+  ],
+  "synonyms": []
+}

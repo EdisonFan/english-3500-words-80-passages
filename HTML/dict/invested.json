@@ -1,0 +1,40 @@
+{
+  "word": "invested",
+  "found": true,
+  "phonetic_uk": "ɪnˈvestɪd",
+  "phonetic_us": "ɪnˈvestɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=invested&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=invested&type=2",
+  "defs": [
+    {
+      "pos": "vt.",
+      "meaning": "投资，花费"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The money will be invested in managed funds.",
+      "zh": "这笔钱将投资于管理基金。"
+    },
+    {
+      "en": "The company has invested in the latest technology.",
+      "zh": "这家公司已在最新技术设备方面投资。"
+    },
+    {
+      "en": "He invested his life savings in his daughter's business.",
+      "zh": "他把一生的积蓄投资到了女儿的企业。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "[经]投资，花费",
+      "words": [
+        "fund",
+        "cost",
+        "spend"
+      ]
+    }
+  ]
+}

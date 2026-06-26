@@ -1,0 +1,34 @@
+{
+  "word": "surprised",
+  "found": true,
+  "phonetic_uk": "səˈpraɪzd",
+  "phonetic_us": "sərˈpraɪzd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=surprised&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=surprised&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "意外的，惊讶的，诧异的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使惊奇，使诧异，使感到意外（surprise 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I'm really not a bit surprised.",
+      "zh": "我确实毫不吃惊。"
+    },
+    {
+      "en": "My words surprised and confused him.",
+      "zh": "我的话使他既惊讶又困惑。"
+    },
+    {
+      "en": "These stories surprised and moved me.",
+      "zh": "这些故事令我吃惊，并且感动了我。"
+    }
+  ],
+  "synonyms": []
+}

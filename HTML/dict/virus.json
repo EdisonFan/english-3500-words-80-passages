@@ -1,0 +1,48 @@
+{
+  "word": "virus",
+  "found": true,
+  "phonetic_uk": "ˈvaɪrəs",
+  "phonetic_us": "ˈvaɪrəs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=virus&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=virus&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "病毒；病毒性疾病，病毒感染；（计算机）病毒，（手机的）短信病毒；有害影响，毒害；<古>毒液"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Virus）比鲁斯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "viruses"
+    }
+  ],
+  "examples": [
+    {
+      "en": "There's a virus going around the office.",
+      "zh": "办公室里流行着一种病毒性疾病。"
+    },
+    {
+      "en": "The virus seems to have attacked his throat.",
+      "zh": "病毒似乎已侵害到他的咽喉。"
+    },
+    {
+      "en": "Her heart was irreparably damaged by a virus.",
+      "zh": "她的心脏被某种病毒不可补救地损伤了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[病毒]病毒；恶毒；毒害",
+      "words": [
+        "vindictiveness",
+        "Vyrus"
+      ]
+    }
+  ]
+}

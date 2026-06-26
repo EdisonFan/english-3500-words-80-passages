@@ -1,0 +1,63 @@
+{
+  "word": "social",
+  "found": true,
+  "phonetic_uk": "ˈsəʊʃ(ə)l",
+  "phonetic_us": "ˈsoʊʃ(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=social&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=social&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "社会的；社会地位的，社会阶层的；社交的，交际的；好交际的，合群的；群居的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "社交聚会，联欢会；<英>社会保障（the social）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "socials"
+    },
+    {
+      "name": "比较级",
+      "value": "more social"
+    },
+    {
+      "name": "最高级",
+      "value": "most social"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I have a fantastic social life.",
+      "zh": "我有着极好的社交生活。"
+    },
+    {
+      "en": "She has a full social life.",
+      "zh": "她的社交活动非常频繁。"
+    },
+    {
+      "en": "He cared little for social advancement.",
+      "zh": "他几乎不在乎社会地位的升迁。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "社会的，社交的；[动][植]群居的",
+      "words": [
+        "gregarious"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "联谊会；联欢会",
+      "words": [
+        "sodality",
+        "get-together"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "word": "enormous",
+  "found": true,
+  "phonetic_uk": "ɪˈnɔːməs",
+  "phonetic_us": "ɪˈnɔːrməs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=enormous&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=enormous&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "巨大的，极大的；<古>凶暴的，极恶的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The problems facing the President are enormous.",
+      "zh": "总统面临的问题是巨大的。"
+    },
+    {
+      "en": "She gets enormous pleasure out of working freelance.",
+      "zh": "她从事自由职业感受到极大的乐趣。"
+    },
+    {
+      "en": "The main bedroom is enormous.",
+      "zh": "主卧室大极了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "庞大的，巨大的；凶暴的，极恶的",
+      "words": [
+        "huge",
+        "tremendous",
+        "massive",
+        "macro",
+        "vast"
+      ]
+    }
+  ]
+}

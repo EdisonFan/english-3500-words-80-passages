@@ -1,0 +1,39 @@
+{
+  "word": "treatments",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=treatments&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=treatments&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[临床]治疗（treatment 的复数）；处理"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "This book aims to demystify medical treatments.",
+      "zh": "这本书旨在使药物治疗简单化。"
+    },
+    {
+      "en": "There are various treatments available for this condition.",
+      "zh": "对这种病情有各种疗法。"
+    },
+    {
+      "en": "Physical therapy is an important adjunct to drug treatments.",
+      "zh": "物理治疗是对药物治疗的重要补充。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "治疗（treatment的复数）；处理",
+      "words": [
+        "manipulations",
+        "dispositions"
+      ]
+    }
+  ]
+}

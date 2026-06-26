@@ -1,0 +1,86 @@
+{
+  "word": "cast",
+  "found": true,
+  "phonetic_uk": "kɑːst",
+  "phonetic_us": "kæst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cast&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cast&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "投射（光，影）；将（视线，目光）投向；浇铸，铸造；分配角色；扔，掷，抛；描述，描写；投票；使人怀疑；使（魔咒）生效，施法；抛（钓丝），撒（网）；（生长过程中）蜕（皮），脱（角）；（马）失（蹄铁）；用（星相）占卜；（乡村舞蹈中的）转向；（猎）（狗）四处探寻失踪的嗅迹；放开（猎狗）以探寻嗅迹；用绳子绊倒（动物，尤指母牛）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "演员阵容；铸型，模型；（固定断骨用的）石膏； 特性，外貌；（眼睛）斜视；掷，投，抛；浅淡的色调；（猎狗）探寻嗅迹；（蚯蚓钻洞时拱到地面的）小土堆；（鹰或猫头鹰的）颗粒状呕吐物；<罕>一群鹰，隼"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Cast）（法）卡斯特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "casts"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "casts"
+    },
+    {
+      "name": "现在分词",
+      "value": "casting"
+    },
+    {
+      "name": "过去式",
+      "value": "cast"
+    },
+    {
+      "name": "过去分词",
+      "value": "cast"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The play has a very strong cast.",
+      "zh": "这部剧演员阵容强大。"
+    },
+    {
+      "en": "The moon's pale light cast soft shadows.",
+      "zh": "淡淡的月光投下柔和的暗影。"
+    },
+    {
+      "en": "They cast anchor at nightfall.",
+      "zh": "他们傍晚抛锚停泊。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "投，抛；计算；[印刷]浇铸；投射（光、影、视线等）",
+      "words": [
+        "throw",
+        "pitch",
+        "mould",
+        "figure"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "投掷，抛；[机]铸件，[古生]铸型；演员阵容；脱落物",
+      "words": [
+        "putting",
+        "throw"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "投，抛垂钓鱼钩；计算，把几个数字加起来",
+      "words": [
+        "figure",
+        "shy"
+      ]
+    }
+  ]
+}

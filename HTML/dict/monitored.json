@@ -1,0 +1,39 @@
+{
+  "word": "monitored",
+  "found": true,
+  "phonetic_uk": "ˈmɒnɪtəd",
+  "phonetic_us": "ˈmɑːnɪtərd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=monitored&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=monitored&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "监视；监听（外国广播或电话）；监控（无线电或电视传输信号）（monitor 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The equipment was extremely sophisticated and was monitored from a central control panel.",
+      "zh": "这台设备极其复杂，是由中央控制面板监控的。"
+    },
+    {
+      "en": "Zoo officials said during this pregnancy, she was closely monitored through physical exams and blood tests.",
+      "zh": "动物园的官员们说，在这次怀孕期间，通过体检和血液测试对她进行了密切的监测。"
+    },
+    {
+      "en": "Each student's progress is closely monitored.",
+      "zh": "每一位同学的学习情况都受到密切的关注。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "指导，检测；监控（monitor的过去分词）",
+      "words": [
+        "guided",
+        "coached"
+      ]
+    }
+  ]
+}

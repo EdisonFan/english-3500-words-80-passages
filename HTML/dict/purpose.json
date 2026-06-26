@@ -1,0 +1,75 @@
+{
+  "word": "purpose",
+  "found": true,
+  "phonetic_uk": "ˈpɜːpəs",
+  "phonetic_us": "ˈpɜːrpəs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=purpose&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=purpose&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "目的，意图；目标，计划；（达到生活中目标的）决心，毅力；（情势等的）需要，用意（purposes）；重要意义，有价值的意义"
+    },
+    {
+      "pos": "v.",
+      "meaning": "有意，打算"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "purposes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "purposes"
+    },
+    {
+      "name": "现在分词",
+      "value": "purposing"
+    },
+    {
+      "name": "过去式",
+      "value": "purposed"
+    },
+    {
+      "name": "过去分词",
+      "value": "purposed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The purpose of industry is to create wealth.",
+      "zh": "勤劳的目的是致富。"
+    },
+    {
+      "en": "We are working together for a common purpose.",
+      "zh": "我们在为一个共同的目标一起工作。"
+    },
+    {
+      "en": "Our campaign's main purpose is to raise money.",
+      "zh": "我们这次活动的主要目的就是募款。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "目的；用途；意志",
+      "words": [
+        "goals",
+        "intention",
+        "sake",
+        "objective",
+        "use"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "决心；企图；打算",
+      "words": [
+        "propose",
+        "think"
+      ]
+    }
+  ]
+}

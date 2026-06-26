@@ -1,0 +1,42 @@
+{
+  "word": "screens",
+  "found": true,
+  "phonetic_uk": "skriːnz",
+  "phonetic_us": "skriːnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=screens&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=screens&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "屏幕（screen 的复数）；卡位"
+    },
+    {
+      "pos": "v.",
+      "meaning": "遮蔽；拍电影（screen 的第三人称单数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Computer screens should be at eye level.",
+      "zh": "计算机屏幕应该与眼睛齐平。"
+    },
+    {
+      "en": "They are already familiar faces on our TV screens.",
+      "zh": "他们已经是我们电视屏幕上熟悉的面孔了。"
+    },
+    {
+      "en": "Large television screens were positioned at either end of the stadium.",
+      "zh": "体育场的两端安装了大型电视屏幕。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "遮蔽；拍电影（screen的第三人称单数形式）",
+      "words": [
+        "shadows"
+      ]
+    }
+  ]
+}

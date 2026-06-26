@@ -1,0 +1,88 @@
+{
+  "word": "rent",
+  "found": true,
+  "phonetic_uk": "rent",
+  "phonetic_us": "rent",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=rent&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=rent&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "租金，租用费；（布等上面的）破洞，裂口"
+    },
+    {
+      "pos": "vt.",
+      "meaning": "租用，租借；出租，将……租给； 可租用，租金为"
+    },
+    {
+      "pos": "v.",
+      "meaning": "撕裂，扯碎；（声音）响彻，刺破；<文>使心碎（rend 的过去式和过去分词形式）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】  （Rent）（瑞典��伦特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "rents"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "rents"
+    },
+    {
+      "name": "现在分词",
+      "value": "renting"
+    },
+    {
+      "name": "过去式",
+      "value": "rented"
+    },
+    {
+      "name": "过去分词",
+      "value": "rented"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His landlord doubled the rent.",
+      "zh": "他的房东把房租提高了一倍。"
+    },
+    {
+      "en": "She agreed to rent me the room.",
+      "zh": "她同意租给我这个房间。"
+    },
+    {
+      "en": "Have you paid him the rent yet?",
+      "zh": "你向他付房租了没有？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[租赁]租金",
+      "words": [
+        "letting",
+        "hire"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "出租；租用；租借",
+      "words": [
+        "lease out",
+        "hire out"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "[租赁]租；出租",
+      "words": [
+        "lease out",
+        "hire out"
+      ]
+    }
+  ]
+}

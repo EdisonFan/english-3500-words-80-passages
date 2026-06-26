@@ -1,0 +1,42 @@
+{
+  "word": "skies",
+  "found": true,
+  "phonetic_uk": "skaɪz",
+  "phonetic_us": "skaɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=skies&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=skies&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "天空（sky 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "把……投向空中；把……挂得过高；飞涨（sky 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Fly the friendly skies!",
+      "zh": "飞向友好的天空！"
+    },
+    {
+      "en": "The skies grew dark and it began to rain.",
+      "zh": "天渐渐黑了，又下起雨来。"
+    },
+    {
+      "en": "The night skies will be aglow with fireworks.",
+      "zh": "烟花将会点亮夜空。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "天空（sky的复数）",
+      "words": [
+        "heavens"
+      ]
+    }
+  ]
+}

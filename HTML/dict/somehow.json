@@ -1,0 +1,39 @@
+{
+  "word": "somehow",
+  "found": true,
+  "phonetic_uk": "ˈsʌmhaʊ",
+  "phonetic_us": "ˈsʌmhaʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=somehow&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=somehow&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "以某种方式，用某种方法；由于某种不明原因，不知为什么"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She looked different somehow.",
+      "zh": "不知怎么地，她看上去变了。"
+    },
+    {
+      "en": "The ball somehow bobbled into the net.",
+      "zh": "球不知怎么在地上弹了几下钻入网窝。"
+    },
+    {
+      "en": "Somehow, I don't feel I can trust him.",
+      "zh": "不知为什么，我觉得不能信任他。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "以某种方法；莫明其妙地",
+      "words": [
+        "one way or another",
+        "puzzlingly"
+      ]
+    }
+  ]
+}

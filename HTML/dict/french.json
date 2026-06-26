@@ -1,0 +1,54 @@
+{
+  "word": "French",
+  "found": true,
+  "phonetic_uk": "frentʃ",
+  "phonetic_us": "frentʃ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=French&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=French&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "法国的；法语的；法国人的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "法国人；法语"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（美、英、加、澳）弗伦奇（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She speaks excellent French.",
+      "zh": "她法语说得好极了。"
+    },
+    {
+      "en": "The villagers spoke French.",
+      "zh": "这些村民们讲法语。"
+    },
+    {
+      "en": "Can you understand French?",
+      "zh": "你懂法语吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "法国的；[语]法语的；法国人的",
+      "words": [
+        "Gallo"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "法国人；[语]法语",
+      "words": [
+        "Francais",
+        "froggy"
+      ]
+    }
+  ]
+}

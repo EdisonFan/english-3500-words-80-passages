@@ -1,0 +1,94 @@
+{
+  "word": "moderate",
+  "found": true,
+  "phonetic_uk": "ˈmɒdərət",
+  "phonetic_us": "ˈmɑːdərət",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=moderate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=moderate&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "普通的，中等的；不偏激的，温和的；有节制的，不过分的；（变化）不大的，有限的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "缓和，使适中；主持（讨论或会议）；审核评分（查看不同阅卷人所打分数是否公平一致）；（物理）使（中子）减速"
+    },
+    {
+      "pos": "n.",
+      "meaning": "持温和政见者"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "moderates"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "moderates"
+    },
+    {
+      "name": "现在分词",
+      "value": "moderating"
+    },
+    {
+      "name": "过去式",
+      "value": "moderated"
+    },
+    {
+      "name": "过去分词",
+      "value": "moderated"
+    },
+    {
+      "name": "比较级",
+      "value": "more moderate"
+    },
+    {
+      "name": "最高级",
+      "value": "most moderate"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He was an easygoing man of very moderate views.",
+      "zh": "他是一个有着温和观点性情随和的人。"
+    },
+    {
+      "en": "The team enjoyed only moderate success last season.",
+      "zh": "上个赛季，这个队伍只取得了中等成绩。"
+    },
+    {
+      "en": "Lasik is best for moderate, not severe, vision problems.",
+      "zh": "镭射视力矫正手术对中等而不严重的视力问题最有效。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "稳健的，温和的；适度的，中等的；有节制的",
+      "words": [
+        "pacific",
+        "medium",
+        "secondary",
+        "soft",
+        "middle"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "变缓和，变弱",
+      "words": [
+        "weaken"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "节制；减轻",
+      "words": [
+        "deny oneself",
+        "allay"
+      ]
+    }
+  ]
+}

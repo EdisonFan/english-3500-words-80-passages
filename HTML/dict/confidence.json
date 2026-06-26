@@ -1,0 +1,47 @@
+{
+  "word": "confidence",
+  "found": true,
+  "phonetic_uk": "ˈkɒnfɪdəns",
+  "phonetic_us": "ˈkɑːnfɪdəns",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=confidence&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=confidence&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "自信，信心；信任，信赖；把握，肯定；保密，机密；秘密，知心话"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "confidences"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Her confidence had never flagged.",
+      "zh": "她的信心从未减弱。"
+    },
+    {
+      "en": "He emanates power and confidence.",
+      "zh": "他表现出力量和信心。"
+    },
+    {
+      "en": "Confidence is the key to success.",
+      "zh": "信心是成功的关键。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "信心；信任；秘密",
+      "words": [
+        "faith",
+        "trust",
+        "secret",
+        "privacy",
+        "hope"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "jam",
+  "found": true,
+  "phonetic_uk": "dʒæm",
+  "phonetic_us": "dʒæm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=jam&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=jam&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "果酱；堵塞，拥挤；麻烦，困境；<非正式>爵士乐（摇滚乐）即兴演奏会；卡住，轧住"
+    },
+    {
+      "pos": "v.",
+      "meaning": "塞满，挤满；卡住，发生故障；压进，塞入；干扰（无线电或电子信号）；（电话系统因很多人同时打电话而）瘫痪；挤伤，压伤；<非正式> 即兴表演；（向击球手）投（内角球）；猛推（身体部位、杠杆等）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Jam） （伊朗、巴基）贾姆 （人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We were stuck in a traffic jam.",
+      "zh": "我们遇上了交通阻塞。"
+    },
+    {
+      "en": "The fruit can be made into jam.",
+      "zh": "这种水果可以制成果酱。"
+    },
+    {
+      "en": "Skim the jam and let it cool.",
+      "zh": "撇去果酱上的浮沫，让它冷却。"
+    }
+  ],
+  "synonyms": []
+}

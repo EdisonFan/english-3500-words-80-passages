@@ -1,0 +1,35 @@
+{
+  "word": "guitar",
+  "found": true,
+  "phonetic_uk": "ɡɪˈtɑː(r)",
+  "phonetic_us": "ɡɪˈtɑːr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=guitar&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=guitar&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "吉他，六弦琴"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "guitars"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He played some wah-wah guitar.",
+      "zh": "他弹了一会儿哇哇吉他。"
+    },
+    {
+      "en": "She's no slouch on the guitar.",
+      "zh": "她是弹吉他的好手。"
+    },
+    {
+      "en": "This guitar is a delight to play.",
+      "zh": "这吉他弹起来很惬意。"
+    }
+  ],
+  "synonyms": []
+}

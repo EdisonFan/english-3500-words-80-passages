@@ -1,0 +1,47 @@
+{
+  "word": "requirement",
+  "found": true,
+  "phonetic_uk": "rɪˈkwaɪəmənt",
+  "phonetic_us": "rɪˈkwaɪərmənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=requirement&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=requirement&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "要求，必要条件；需要（要求）的事物"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "requirements"
+    }
+  ],
+  "examples": [
+    {
+      "en": "What is the minimum entrance requirement for this course?",
+      "zh": "这个学程的基本入学条件是什么？"
+    },
+    {
+      "en": "Evidence of basic proficiency in English is part of the admissions requirement.",
+      "zh": "基本英语水平的证明是录取条件的一部分。"
+    },
+    {
+      "en": "Could you tell me the requirement for my term paper?",
+      "zh": "你能告诉我写学期论文的要求吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "要求；必要条件；必需品",
+      "words": [
+        "do",
+        "necessity",
+        "desire",
+        "need",
+        "demand"
+      ]
+    }
+  ]
+}

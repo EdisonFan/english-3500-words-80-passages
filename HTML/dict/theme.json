@@ -1,0 +1,54 @@
+{
+  "word": "theme",
+  "found": true,
+  "phonetic_uk": "θiːm",
+  "phonetic_us": "θiːm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=theme&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=theme&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（谈话、书籍、电影等的）题目，主题；（音乐的）主旋律；（电影、电视节目、广播节目的）主题音乐，主题曲；（学生的）作文；（聚会、房间等的）风格；（句子的）主位；（名词、动词等的）词干；<史>（拜占庭帝国的）行政区"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "以奇想主题布置的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（休闲场所、活动）以……主题"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "themes"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Race is a recurrent theme in the work.",
+      "zh": "种族是该作品中反复出现的一个主题。"
+    },
+    {
+      "en": "The speaker was now warming to her theme.",
+      "zh": "演讲者就她的主题越讲越起劲。"
+    },
+    {
+      "en": "A slow theme introduces the first movement.",
+      "zh": "缓慢的主旋律引出了第一乐章。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "主题；主旋律；题目",
+      "words": [
+        "topic",
+        "subject",
+        "titles",
+        "motive"
+      ]
+    }
+  ]
+}

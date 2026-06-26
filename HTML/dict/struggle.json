@@ -1,0 +1,75 @@
+{
+  "word": "struggle",
+  "found": true,
+  "phonetic_uk": "ˈstrʌɡ(ə)l",
+  "phonetic_us": "ˈstrʌɡ(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=struggle&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=struggle&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "奋斗，努力；搏斗，扭打，挣扎脱身；争夺，争抢；奋力前进，艰难行进"
+    },
+    {
+      "pos": "n.",
+      "meaning": "奋斗，斗争；难事；搏斗，扭打"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "struggles"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "struggles"
+    },
+    {
+      "name": "现在分词",
+      "value": "struggling"
+    },
+    {
+      "name": "过去式",
+      "value": "struggled"
+    },
+    {
+      "name": "过去分词",
+      "value": "struggled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They had to struggle against all kinds of adversity.",
+      "zh": "他们不得不同各种困境斗争。"
+    },
+    {
+      "en": "He came to symbolize his country's struggle for independence.",
+      "zh": "他逐渐成为祖国为争取独立而斗争的象征。"
+    },
+    {
+      "en": "Their long struggle ended in failure.",
+      "zh": "他们的长期努力以失败告终。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "奋斗，努力；挣扎",
+      "words": [
+        "apply oneself",
+        "labor"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "努力，奋斗；竞争",
+      "words": [
+        "effort",
+        "competition",
+        "pain",
+        "trial",
+        "war"
+      ]
+    }
+  ]
+}

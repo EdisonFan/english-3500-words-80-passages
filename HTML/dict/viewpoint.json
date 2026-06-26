@@ -1,0 +1,47 @@
+{
+  "word": "viewpoint",
+  "found": true,
+  "phonetic_uk": "ˈvjuːpɔɪnt",
+  "phonetic_us": "ˈvjuːpɔɪnt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=viewpoint&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=viewpoint&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "观点，看法；视角，观察点"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "viewpoints"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She will have her own viewpoint on the matter.",
+      "zh": "她对这个问题会有她自己的看法。"
+    },
+    {
+      "en": "You have to know where to stand for a good viewpoint.",
+      "zh": "你得知道站在哪儿才会有好的视角。"
+    },
+    {
+      "en": "From a practical viewpoint, I'd advise you not to go.",
+      "zh": "从实际角度考虑，我劝你不要去。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计]观点，看法；视角",
+      "words": [
+        "perspective",
+        "outlook",
+        "eye",
+        "perception",
+        "sentiment"
+      ]
+    }
+  ]
+}

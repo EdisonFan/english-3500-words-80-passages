@@ -1,0 +1,67 @@
+{
+  "word": "observe",
+  "found": true,
+  "phonetic_uk": "əbˈzɜːv",
+  "phonetic_us": "əbˈzɜːrv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=observe&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=observe&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "注意到，观察到；注视，监视；（在科学研究中）观测，发现；说话，评论；遵守（规则、法律等）；庆祝（节日），纪念（某人或事件）；静默，默哀；举行，参加"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "observes"
+    },
+    {
+      "name": "现在分词",
+      "value": "observing"
+    },
+    {
+      "name": "过去式",
+      "value": "observed"
+    },
+    {
+      "name": "过去分词",
+      "value": "observed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The scientists will study the variety of trees and observe which are fruiting.",
+      "zh": "科学家们将研究树木的多样性并观察哪些树木结果实。"
+    },
+    {
+      "en": "Jack was careful to observe the proprieties, treating her with exaggerated respect.",
+      "zh": "杰克谨慎遵守礼节，对她过分尊重。"
+    },
+    {
+      "en": "Imposing speed restrictions is easy, but forcing drivers to observe them is trickier.",
+      "zh": "实行速度限制容易，而迫使司机遵守较难。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "观察；遵守；说；注意到；评论",
+      "words": [
+        "watch",
+        "quo",
+        "tell",
+        "talk",
+        "respect"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "观察；说；注意到；评论",
+      "words": [
+        "look into",
+        "take stock of"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "word": "exercising",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=exercising&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=exercising&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "行使；锻炼；运动健身"
+    },
+    {
+      "pos": "v.",
+      "meaning": "运动；运用（exercise 的 ing 形式）；练习"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Exercising alone can be boring.",
+      "zh": "独自一个人锻炼可能会很无聊。"
+    },
+    {
+      "en": "We are eating more and exercising less.",
+      "zh": "我们吃得更多，锻炼得却更少。"
+    },
+    {
+      "en": "Exercising regularly will pay dividends in the end.",
+      "zh": "经常运动最终会对身体大有好处的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "行使；锻炼；运动健身",
+      "words": [
+        "workout",
+        "hardening"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "运动；运用（exercise的ing形式）；练习",
+      "words": [
+        "practicing"
+      ]
+    }
+  ]
+}

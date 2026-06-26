@@ -1,0 +1,90 @@
+{
+  "word": "shock",
+  "found": true,
+  "phonetic_uk": "ʃɒk",
+  "phonetic_us": "ʃɑːk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=shock&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=shock&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "令人震惊的事；吃惊，震惊；休克；电击，触电；减震器；（对经济、传统、生活方式的）冲击，撞击；（爆炸、地震等引起的）剧烈震动；浓密的头发；愤怒，生气；冲击力 ；（竖放在地里促使谷物更快晒干和成熟的）禾束堆"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使震惊，使难以置信；（言语或行为）（使）愤慨，（使）生气；使触电，使遭电击；使恐惧（或厌恶）；使生理休克；把......堆成禾束堆"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "令人震惊的，令人大感意外的（尤用于新闻报道）；浓密的，蓬乱的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Shock）（英）肖克（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "shocks"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "shocks"
+    },
+    {
+      "name": "现在分词",
+      "value": "shocking"
+    },
+    {
+      "name": "过去式",
+      "value": "shocked"
+    },
+    {
+      "name": "过去分词",
+      "value": "shocked"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The bumper absorbs shock on impact.",
+      "zh": "遇到撞击时保险杠能减轻震动。"
+    },
+    {
+      "en": "He's in for a shock!",
+      "zh": "他很快就会感到震惊的！"
+    },
+    {
+      "en": "The shock caused her to miscarry.",
+      "zh": "她因惊吓而流产了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[临床]休克；震惊；震动；打击；禾束堆",
+      "words": [
+        "blow",
+        "stroke",
+        "strike",
+        "hit"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[临床]使休克；使震惊；使震动；使受电击；把…堆成禾束堆",
+      "words": [
+        "scandalize",
+        "astound"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "浓密的；蓬乱的",
+      "words": [
+        "bushy",
+        "unkempt"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "these",
+  "found": true,
+  "phonetic_uk": "ðiːz",
+  "phonetic_us": "ðiːz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=these&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=these&type=2",
+  "defs": [
+    {
+      "pos": "det.",
+      "meaning": "这些（this 的复数）"
+    },
+    {
+      "pos": "pron.",
+      "meaning": "这些（this 的复数）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "这些的（this 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "These injuries were avoidable.",
+      "zh": "这些伤病本是可以避免的。"
+    },
+    {
+      "en": "These questions frustrated me.",
+      "zh": "这些问题使我懊丧。"
+    },
+    {
+      "en": "These methods prevent pregnancy.",
+      "zh": "这些方法预防怀孕。"
+    }
+  ],
+  "synonyms": []
+}

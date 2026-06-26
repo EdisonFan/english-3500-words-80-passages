@@ -1,0 +1,48 @@
+{
+  "word": "competitive",
+  "found": true,
+  "phonetic_uk": "kəmˈpetətɪv",
+  "phonetic_us": "kəmˈpetətɪv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=competitive&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=competitive&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "竞争的；好竞争的，好胜的；有竞争力的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more competitive"
+    },
+    {
+      "name": "最高级",
+      "value": "most competitive"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It's hard to maintain competitive pricing.",
+      "zh": "很难保持有竞争力的定价。"
+    },
+    {
+      "en": "Japan is a highly competitive market system.",
+      "zh": "日本实行的是一个高度竞争的市场体制。"
+    },
+    {
+      "en": "The company needs to improve its competitive edge.",
+      "zh": "公司必须提高它的竞争力。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "竞争的；比赛的；求胜心切的",
+      "words": [
+        "played",
+        "rival"
+      ]
+    }
+  ]
+}

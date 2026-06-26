@@ -1,0 +1,44 @@
+{
+  "word": "diary",
+  "found": true,
+  "phonetic_uk": "ˈdaɪəri",
+  "phonetic_us": "ˈdaɪəri",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=diary&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=diary&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "日记；<英>日程簿；专栏"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "diaries"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Eleanor began to keep a diary.",
+      "zh": "埃莉诺开始记日记了。"
+    },
+    {
+      "en": "She kept a diary for over twenty years.",
+      "zh": "她记了二十多年的日记。"
+    },
+    {
+      "en": "Her diary was a record of her inner conflict.",
+      "zh": "她的日记记录了她内心的矛盾。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "日志，日记；日记簿",
+      "words": [
+        "journal",
+        "day book"
+      ]
+    }
+  ]
+}

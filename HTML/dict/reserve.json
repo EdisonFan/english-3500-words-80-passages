@@ -1,0 +1,84 @@
+{
+  "word": "reserve",
+  "found": true,
+  "phonetic_uk": "rɪˈzɜːv",
+  "phonetic_us": "rɪˈzɜːrv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=reserve&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=reserve&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "预订；保留，预留；拥有，保留（某种权利）；留作，用于（特定场合）；保留（意见），推迟作出（决定或判断）；贮存，贮藏；（教会用语）弥撒仪式后保留部分圣餐"
+    },
+    {
+      "pos": "n.",
+      "meaning": "储备（量），储藏（量）；含蓄，寡言；保留意见，异议；（野生生物）保护区；替补队员，后备队员；后备队，替补队（the reserves）；预备役部队，后备部队；（尤指拍卖时的）底价，最低价；（美洲土著居民的）居留地；（陶瓷装饰或纺织品印染中保留原色的）防染本色区"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】  （Reserve）（挪、美、法、俄、墨）勒塞尔夫（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "reserves"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "reserves"
+    },
+    {
+      "name": "现在分词",
+      "value": "reserving"
+    },
+    {
+      "name": "过去式",
+      "value": "reserved"
+    },
+    {
+      "name": "过去分词",
+      "value": "reserved"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I'll reserve a table for five.",
+      "zh": "我要预订一个5人的餐位。"
+    },
+    {
+      "en": "You can reserve seats over the telephone.",
+      "zh": "你可以打电话预订座位。"
+    },
+    {
+      "en": "The Federal Reserve lowered interest rates by half a point.",
+      "zh": "联邦储备委员会将利率降低了0.5个百分点。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[贸易][金融]储备，储存；自然保护区；[军][林]预备队；储备金",
+      "words": [
+        "store",
+        "repertory"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[贸易][金融]储备；保留；预约",
+      "words": [
+        "stay at",
+        "save from"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "预订",
+      "words": [
+        "book for",
+        "make reservation"
+      ]
+    }
+  ]
+}

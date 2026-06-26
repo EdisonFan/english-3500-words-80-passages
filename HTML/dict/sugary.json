@@ -1,0 +1,48 @@
+{
+  "word": "sugary",
+  "found": true,
+  "phonetic_uk": "ˈʃʊɡəri",
+  "phonetic_us": "ˈʃʊɡəri",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sugary&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sugary&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "含糖的；甜的；糖状的；甜言蜜语的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more sugary"
+    },
+    {
+      "name": "最高级",
+      "value": "most sugary"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Sugary canned drinks rot your teeth.",
+      "zh": "高糖的罐装饮料会让你得蛀牙。"
+    },
+    {
+      "en": "Rapid urbanization brings with it a more westernized and generally more sugary diet.",
+      "zh": "迅速的城市化带来了一种更为西方化的、普遍摄入更多食糖的饮食习惯。"
+    },
+    {
+      "en": "These children were physically in better shape and drank fewer sugary soft drinks.",
+      "zh": "这些孩子的身体状况更好，喝的含糖软饮料也更少。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "含糖的；甜的；[岩]糖状的；甜言蜜语的",
+      "words": [
+        "sweet",
+        "sacchariferous"
+      ]
+    }
+  ]
+}

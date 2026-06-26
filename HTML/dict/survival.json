@@ -1,0 +1,48 @@
+{
+  "word": "survival",
+  "found": true,
+  "phonetic_uk": "səˈvaɪv(ə)l",
+  "phonetic_us": "sərˈvaɪv(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=survival&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=survival&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "继续生存，存活，幸存；遗留物，幸存物，残存物"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "幸存的，赖以生存的，救生用的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "survivals"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It was a matter of simple survival.",
+      "zh": "这完全是能不能生存的问题。"
+    },
+    {
+      "en": "The operation was Kelly's only hope of survival.",
+      "zh": "那次手术是凯利生存的唯一希望。"
+    },
+    {
+      "en": "Our survival is inextricably linked to the survival of the rainforest.",
+      "zh": "我们的生存与雨林的生存息息相关。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "幸存，残存；幸存者，残存物",
+      "words": [
+        "remanet",
+        "leavings"
+      ]
+    }
+  ]
+}

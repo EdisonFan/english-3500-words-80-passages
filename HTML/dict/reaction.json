@@ -1,0 +1,46 @@
+{
+  "word": "reaction",
+  "found": true,
+  "phonetic_uk": "riˈækʃn",
+  "phonetic_us": "riˈækʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=reaction&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=reaction&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "反应，回应；反应能力（reactions）；（药物或食物引起的）不良反应；化学反应；反作用力；（对旧观念等的）抗拒；反动，守旧"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "reactions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Reaction to the visit is mixed.",
+      "zh": "对这次访问的反应不一。"
+    },
+    {
+      "en": "His reaction struck me as odd.",
+      "zh": "他的反应令我诧异。"
+    },
+    {
+      "en": "Their reaction dismayed him.",
+      "zh": "他们的反应使他感到惊愕。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[生理][化学][医]反应，感应；反动，复古；[力]反作用",
+      "words": [
+        "response",
+        "behavior",
+        "induction",
+        "reception"
+      ]
+    }
+  ]
+}

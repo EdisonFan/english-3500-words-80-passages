@@ -1,0 +1,84 @@
+{
+  "word": "screen",
+  "found": true,
+  "phonetic_uk": "skriːn",
+  "phonetic_us": "skriːn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=screen&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=screen&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "屏幕，荧光屏；银幕；电影（总称）；屏风，隔板；掩蔽物，屏障；纱窗，纱门；（医疗）化验，检查；（机动车的）挡风玻璃；（篮球、冰球等运动的）掩护；掩护部队，护航舰队；大筛子，滤网；（纱门或纱窗的）金属丝，塑料线；（印刷）网屏，网版；屏蔽器"
+    },
+    {
+      "pos": "v.",
+      "meaning": "隐藏，遮蔽；庇护，包庇；检查，筛查；审查，甄别；筛选，检查排除；防止（或免受）电磁干扰；放映（影片），播放（电视节目）；分析，评估；加网印刷"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Screen）斯克林（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "screens"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "screens"
+    },
+    {
+      "name": "现在分词",
+      "value": "screening"
+    },
+    {
+      "name": "过去式",
+      "value": "screened"
+    },
+    {
+      "name": "过去分词",
+      "value": "screened"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Suddenly the screen went blank.",
+      "zh": "屏幕突然变成一片空白。"
+    },
+    {
+      "en": "Todd stared stupidly at the screen.",
+      "zh": "托德呆呆地盯着屏幕。"
+    },
+    {
+      "en": "The screen blanked out.",
+      "zh": "屏幕突然变成一片空白。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "屏，幕；[家具]屏风",
+      "words": [
+        "curtain",
+        "creen"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "筛；拍摄；放映；掩蔽",
+      "words": [
+        "project",
+        "ree"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "拍电影",
+      "words": [
+        "shoot",
+        "make a film"
+      ]
+    }
+  ]
+}

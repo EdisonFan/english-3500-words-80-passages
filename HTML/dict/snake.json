@@ -1,0 +1,79 @@
+{
+  "word": "snake",
+  "found": true,
+  "phonetic_uk": "sneɪk",
+  "phonetic_us": "sneɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=snake&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=snake&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "蛇；阴险狡诈的人；管道疏通器；蛇形浮动汇率制（the snake）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "蛇行，蜿蜒前进；拉（重物）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "snakes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "snakes"
+    },
+    {
+      "name": "现在分词",
+      "value": "snaking"
+    },
+    {
+      "name": "过去式",
+      "value": "snaked"
+    },
+    {
+      "name": "过去分词",
+      "value": "snaked"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The snake slowly uncoiled.",
+      "zh": "蛇慢慢地展开了盘着的身体。"
+    },
+    {
+      "en": "A snake was twisting around his arm.",
+      "zh": "一条蛇缠绕在他的手臂上。"
+    },
+    {
+      "en": "The snake lifted its head and hissed.",
+      "zh": "蛇昂起头发出嘶嘶声。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[脊椎]蛇；阴险的人",
+      "words": [
+        "serpent",
+        "rat-face"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "迂回前进",
+      "words": [
+        "wind one's way"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "拉（木材等）；迂回前进",
+      "words": [
+        "pull",
+        "draw"
+      ]
+    }
+  ]
+}

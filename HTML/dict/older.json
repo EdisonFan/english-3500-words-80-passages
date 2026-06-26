@@ -1,0 +1,44 @@
+{
+  "word": "older",
+  "found": true,
+  "phonetic_uk": "ˈəʊldə",
+  "phonetic_us": "ˈoʊldər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=older&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=older&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "年长的；较旧的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Older）人名；（英）奥尔德"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "An older girl befriended me.",
+      "zh": "一个年纪大些的女孩对我很友善。"
+    },
+    {
+      "en": "Older cars are heavy on gas.",
+      "zh": "老旧的汽车耗油多。"
+    },
+    {
+      "en": "I'm feeling older than Methuselah.",
+      "zh": "我觉得自己老态龙钟。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "年长的；较旧的",
+      "words": [
+        "senior",
+        "advancing",
+        "elder"
+      ]
+    }
+  ]
+}

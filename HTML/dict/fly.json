@@ -1,0 +1,96 @@
+{
+  "word": "fly",
+  "found": true,
+  "phonetic_uk": "flaɪ",
+  "phonetic_us": "flaɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fly&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fly&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "飞，飞行；乘飞机，搭乘（某公司航班）；驾驶（飞机）；空运；飞越；疾驰，快速移动；放飞（风筝）；飞舞，飘荡；悬挂，飘扬；（使）逃离，匆忙离开；成功；飞逝；击腾空球；流传，四处传播；（指责，谩骂）往来激烈；被认可，被接受"
+    },
+    {
+      "pos": "n.",
+      "meaning": "苍蝇，假蝇；裤门襟；腾空球，高飞球；<澳，非正式>努力，尝试；（帐篷的）篷顶；（剧院）吊景区，悬吊布景的空间；<英，史>单马出租马车"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "<非正式>时髦漂亮的；<英>机灵的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Fly）（英）弗莱，（法）弗利（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "flies"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "flies"
+    },
+    {
+      "name": "现在分词",
+      "value": "flying"
+    },
+    {
+      "name": "过去式",
+      "value": "flew或flied"
+    },
+    {
+      "name": "过去分词",
+      "value": "flown或flied"
+    },
+    {
+      "name": "比较级",
+      "value": "flyer"
+    },
+    {
+      "name": "最高级",
+      "value": "flyest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Magda was going to fly standby.",
+      "zh": "玛格达将凭剩余廉价机票乘飞机旅行。"
+    },
+    {
+      "en": "She is licensed to fly solo.",
+      "zh": "她已获准单飞。"
+    },
+    {
+      "en": "She brushed the fly away.",
+      "zh": "她挥手赶走了苍蝇。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "飞；驾驶飞机；飘扬",
+      "words": [
+        "flow",
+        "stream",
+        "dance"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "飞行；飞越；使飘扬",
+      "words": [
+        "overfly"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "飞行；苍蝇；两翼昆虫",
+      "words": [
+        "flight",
+        "volation"
+      ]
+    }
+  ]
+}

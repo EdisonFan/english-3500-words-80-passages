@@ -1,0 +1,44 @@
+{
+  "word": "conversation",
+  "found": true,
+  "phonetic_uk": "ˌkɒnvəˈseɪʃ(ə)n",
+  "phonetic_us": "ˌkɑːnvərˈseɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=conversation&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=conversation&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（非正式的）谈话，交谈；<旧>社交，交际"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "conversations"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She was engrossed in conversation.",
+      "zh": "她聚精会神地谈话。"
+    },
+    {
+      "en": "The subject came up in conversation.",
+      "zh": "谈话中提到了这个话题。"
+    },
+    {
+      "en": "I heard snatches of the conversation.",
+      "zh": "我听到几段零星的谈话。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "交谈；会话；社交",
+      "words": [
+        "congress",
+        "dialog"
+      ]
+    }
+  ]
+}

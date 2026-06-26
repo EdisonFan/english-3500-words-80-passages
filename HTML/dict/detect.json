@@ -1,0 +1,56 @@
+{
+  "word": "detect",
+  "found": true,
+  "phonetic_uk": "dɪˈtekt",
+  "phonetic_us": "dɪˈtekt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=detect&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=detect&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "查明，察觉；测出，检测，识别"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "detects"
+    },
+    {
+      "name": "现在分词",
+      "value": "detecting"
+    },
+    {
+      "name": "过去式",
+      "value": "detected"
+    },
+    {
+      "name": "过去分词",
+      "value": "detected"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Arnold could detect a certain sadness in the old man's face.",
+      "zh": "阿诺德能察觉到老人脸上的某种悲伤。"
+    },
+    {
+      "en": "We are trying to detect and understand how the climates change.",
+      "zh": "我们在努力探测并了解气候是怎样变化的。"
+    },
+    {
+      "en": "The new test should enable doctors to detect the disease early.",
+      "zh": "新的检验使医生能在早期发现该种疾病。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "察觉；发现；探测",
+      "words": [
+        "explore",
+        "perceive"
+      ]
+    }
+  ]
+}

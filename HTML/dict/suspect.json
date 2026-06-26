@@ -1,0 +1,93 @@
+{
+  "word": "suspect",
+  "found": true,
+  "phonetic_uk": "səˈspekt",
+  "phonetic_us": "səˈspekt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=suspect&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=suspect&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "猜想，认为（某事有可能）；怀疑……有罪，认为……有嫌疑；不信任，怀疑……的真实性"
+    },
+    {
+      "pos": "n.",
+      "meaning": "嫌疑犯，可疑分子；（某坏事物的）可能导致者"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "不可靠的，不可信的；可疑的，可能有危险的；有问题的，运转不好的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "suspects"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "suspects"
+    },
+    {
+      "name": "现在分词",
+      "value": "suspecting"
+    },
+    {
+      "name": "过去式",
+      "value": "suspected"
+    },
+    {
+      "name": "过去分词",
+      "value": "suspected"
+    },
+    {
+      "name": "比较级",
+      "value": "more suspect"
+    },
+    {
+      "name": "最高级",
+      "value": "most suspect"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Police suspect a local gang.",
+      "zh": "警方怀疑当地的一个不良帮派。"
+    },
+    {
+      "en": "Whom do the police suspect?",
+      "zh": "警方怀疑谁？"
+    },
+    {
+      "en": "He is the prime suspect in the case.",
+      "zh": "他是这个案子的首要嫌疑人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[法]嫌疑犯",
+      "words": [
+        "sus"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "可疑的；不可信的",
+      "words": [
+        "doubtful",
+        "questionable"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "怀疑；猜想",
+      "words": [
+        "dispute",
+        "imagine",
+        "wonder",
+        "question"
+      ]
+    }
+  ]
+}

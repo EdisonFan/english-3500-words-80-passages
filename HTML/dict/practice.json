@@ -1,0 +1,82 @@
+{
+  "word": "practice",
+  "found": true,
+  "phonetic_uk": "ˈpræktɪs",
+  "phonetic_us": "ˈpræktɪs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=practice&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=practice&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "实践，实际操作；通常的做法，惯例；练习；练习课，固定的训练时间；（医生、律师或其他专业人士的）业务，事务所；诉讼手续，诉讼程序"
+    },
+    {
+      "pos": "v.",
+      "meaning": "练习；经常做，养成……的习惯；信奉（宗教）；（医生、律师等）执业，从业"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "practices"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "practices"
+    },
+    {
+      "name": "现在分词",
+      "value": "practicing"
+    },
+    {
+      "name": "过去式",
+      "value": "practiced"
+    },
+    {
+      "name": "过去分词",
+      "value": "practiced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Skill comes only with practice, patience, and persistence.",
+      "zh": "只有通过练习、耐心和坚持不懈才能获得技能。"
+    },
+    {
+      "en": "Skill comes with practice.",
+      "zh": "熟能生巧。"
+    },
+    {
+      "en": "She runs a general practice in Hull.",
+      "zh": "她在赫尔开了个全科诊所。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "实践；练习；惯例",
+      "words": [
+        "tradition",
+        "convention",
+        "usage",
+        "exercise"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "练习；[劳经]实习；实行",
+      "words": [
+        "exercise",
+        "bring to pass"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "练习；[劳经]实习；实行",
+      "words": [
+        "execute",
+        "exercise"
+      ]
+    }
+  ]
+}

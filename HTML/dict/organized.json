@@ -1,0 +1,50 @@
+{
+  "word": "organized",
+  "found": true,
+  "phonetic_uk": "ˈɔːɡənaɪzd",
+  "phonetic_us": "ˈɔːrɡənaɪzd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=organized&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=organized&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "有组织的，系统的；参加工会的；有条理的，有安排的；（人）有条理的，高效的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "组织，筹备；安排，处理；规划，管理（organize 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The conference was very well organized.",
+      "zh": "这次会议组织得很好。"
+    },
+    {
+      "en": "The operation was organized by the US Navy.",
+      "zh": "这次行动是由美国海军组织的。"
+    },
+    {
+      "en": "She objects to the ritual of organized religion.",
+      "zh": "她反对有组织宗教的仪规。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[生物]有组织的；安排有秩序的；做事有条理的",
+      "words": [
+        "structured",
+        "methodic"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "组织（organize的过去分词）",
+      "words": [
+        "structured"
+      ]
+    }
+  ]
+}

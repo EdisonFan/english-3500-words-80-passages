@@ -1,0 +1,46 @@
+{
+  "word": "peoples",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˈpiːplz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=peoples&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=peoples&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "民族（people 的复数形式）；民族学"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使住着人；居住于；布满（people 的三单形式）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Peoples）人名；（英）皮普尔斯"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "There are frequent contacts between the peoples of the two countries.",
+      "zh": "两国人民之间交往频繁。"
+    },
+    {
+      "en": "Our two peoples share the same experience of having been oppressed by imperialism.",
+      "zh": "我们两国人民都有遭受帝国主义压迫的共同经历。"
+    },
+    {
+      "en": "Both sides consider it desirable to further the understanding between the two peoples.",
+      "zh": "双方认为增进两国人民之间的了解是可取的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "民族（people的复数形式）；民族学",
+      "words": [
+        "nationalities"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "word": "texture",
+  "found": true,
+  "phonetic_uk": "ˈtekstʃə(r)",
+  "phonetic_us": "ˈtekstʃər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=texture&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=texture&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "质地，纹理；口感；（音乐或文学的）谐和统一感，神韵"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使（织物、墙面等）具浮凸结构（或特征）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "textures"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "textures"
+    },
+    {
+      "name": "现在分词",
+      "value": "texturing"
+    },
+    {
+      "name": "过去式",
+      "value": "textured"
+    },
+    {
+      "name": "过去分词",
+      "value": "textured"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It has an orange flavour and smooth texture.",
+      "zh": "它有一种桔子的味道，质地光滑。"
+    },
+    {
+      "en": "Each brick also varies slightly in tone, texture and size.",
+      "zh": "每块砖在色调、质地和尺寸上也略有不同。"
+    },
+    {
+      "en": "Within a month, both the texture and condition of your hair should improve.",
+      "zh": "不出一个月，你头发的质地和状况应该都会改善。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "质地；纹理；结构；本质，实质",
+      "words": [
+        "essence",
+        "configuration",
+        "mechanics",
+        "framework",
+        "substance",
+        "truth",
+        "principle"
+      ]
+    }
+  ]
+}

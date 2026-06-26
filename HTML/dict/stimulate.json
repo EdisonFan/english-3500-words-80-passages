@@ -1,0 +1,59 @@
+{
+  "word": "stimulate",
+  "found": true,
+  "phonetic_uk": "ˈstɪmjuleɪt",
+  "phonetic_us": "ˈstɪmjuleɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=stimulate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=stimulate&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "促进，激发（某事物）；激发，鼓励；使（身体，生物系统）兴奋，刺激；起刺激作用"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "stimulates"
+    },
+    {
+      "name": "现在分词",
+      "value": "stimulating"
+    },
+    {
+      "name": "过去式",
+      "value": "stimulated"
+    },
+    {
+      "name": "过去分词",
+      "value": "stimulated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "These businesses stimulate the creation of local jobs.",
+      "zh": "这些企业刺激了当地就业机会的产生。"
+    },
+    {
+      "en": "America's priority is rightly to stimulate its economy.",
+      "zh": "美国的首要任务自然是刺激经济。"
+    },
+    {
+      "en": "She questioned whether it was feasible to stimulate investment in these regions.",
+      "zh": "她质问在这些地区刺激投资是否可行。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "刺激；鼓舞，激励",
+      "words": [
+        "fan",
+        "power",
+        "motivate",
+        "needle",
+        "activate"
+      ]
+    }
+  ]
+}

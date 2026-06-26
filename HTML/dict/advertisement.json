@@ -1,0 +1,47 @@
+{
+  "word": "advertisement",
+  "found": true,
+  "phonetic_uk": "ədˈvɜːtɪsmənt",
+  "phonetic_us": "ˌædvərˈtaɪzmənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=advertisement&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=advertisement&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "广告；（某一类事物的）活广告；广告活动，广告宣传"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "advertisements"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The advertisement is for a men's fragrance.",
+      "zh": "这则广告介绍一款男士香水。"
+    },
+    {
+      "en": "We had over 100 replies to our advertisement.",
+      "zh": "我们的广告宣传收到了100多份答复。"
+    },
+    {
+      "en": "This will make great copy for the advertisement.",
+      "zh": "这可当作这则广告的绝妙广告词。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[经]广告，宣传",
+      "words": [
+        "publicity",
+        "bill",
+        "propaganda",
+        "dissemination",
+        "drumbeating"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "word": "purple",
+  "found": true,
+  "phonetic_uk": "ˈpɜːp(ə)l",
+  "phonetic_us": "ˈpɜːrp(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=purple&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=purple&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "紫色的，紫红色的；（作品）词藻华丽的，华而不实的；帝王的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "紫色，紫红色；紫色衣服（或料子）；（古罗马，拜占庭）紫色衣服（the purple）；（从某些软体动物提取的）深红色染料；（古罗马）要职，高位，拥有特权的职位（the purple）；（红衣主教的）大红袍（the purple）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）成紫色，（使）发紫"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "purples"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "purples"
+    },
+    {
+      "name": "现在分词",
+      "value": "purpling"
+    },
+    {
+      "name": "过去式",
+      "value": "purpled"
+    },
+    {
+      "name": "过去分词",
+      "value": "purpled"
+    },
+    {
+      "name": "比较级",
+      "value": "purpler"
+    },
+    {
+      "name": "最高级",
+      "value": "purplest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She wore purple and green silk.",
+      "zh": "她穿着紫色和绿色的丝绸。"
+    },
+    {
+      "en": "His face was purple with rage.",
+      "zh": "他气得脸色发紫。"
+    },
+    {
+      "en": "She was dressed in purple.",
+      "zh": "她穿一身紫色衣裳。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "紫色的；帝王的；华而不实的",
+      "words": [
+        "regal",
+        "violet"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "紫色；紫袍",
+      "words": [
+        "lila",
+        "amethyst"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使成紫色",
+      "words": [
+        "empurple"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "word": "ought to",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˈɔːt tu",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ought%20to&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ought%20to&type=2",
+  "defs": [
+    {
+      "pos": "",
+      "meaning": "应该：用于表示有必要或是做某事是好事的情况。"
+    },
+    {
+      "pos": "",
+      "meaning": "预计会：用于表示你期望会发生某事。"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "You ought to give up smoking.",
+      "zh": "你应该戒烟。"
+    },
+    {
+      "en": "He ought to resign, I think.",
+      "zh": "我看他应该辞职。"
+    },
+    {
+      "en": "I ought to give up smoking.",
+      "zh": "我应该戒烟。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "",
+      "meaning": "应该",
+      "words": [
+        "want",
+        "would have",
+        "shalt"
+      ]
+    }
+  ]
+}

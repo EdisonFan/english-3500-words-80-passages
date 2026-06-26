@@ -1,0 +1,46 @@
+{
+  "word": "topic",
+  "found": true,
+  "phonetic_uk": "ˈtɒpɪk",
+  "phonetic_us": "ˈtɑːpɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=topic&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=topic&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "题目，主题；一般规则，总论"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "topics"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He spoke with authority on the topic.",
+      "zh": "他就这个课题发表权威意见。"
+    },
+    {
+      "en": "I have discussed this topic in some detail.",
+      "zh": "我已相当详细地讨论过这个话题。"
+    },
+    {
+      "en": "He returns to this topic later in the report.",
+      "zh": "他在报告中后来又提到这个话题。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "主题（等于theme）；题目；一般规则；总论",
+      "words": [
+        "theme",
+        "subject",
+        "titles",
+        "motive"
+      ]
+    }
+  ]
+}

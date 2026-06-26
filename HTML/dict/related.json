@@ -1,0 +1,50 @@
+{
+  "word": "related",
+  "found": true,
+  "phonetic_uk": "rɪˈleɪtɪd",
+  "phonetic_us": "rɪˈleɪtɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=related&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=related&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "相关的，有联系的；有亲戚关系的；（动植物、语言等）同类的，同族的；讲述的，叙述的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "联系，有关联；叙述，讲述；认同，理解（relate 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "These problems are closely related.",
+      "zh": "这些问题都是密切相关的。"
+    },
+    {
+      "en": "Are they by any chance related?",
+      "zh": "他们可能有关联吗？"
+    },
+    {
+      "en": "Are you related to Margaret?",
+      "zh": "你与玛格丽特是一家人吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "有关系的，有关联的；讲述的，叙述的",
+      "words": [
+        "participant",
+        "narrative"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "叙述（relate过去式）",
+      "words": [
+        "give an account of"
+      ]
+    }
+  ]
+}

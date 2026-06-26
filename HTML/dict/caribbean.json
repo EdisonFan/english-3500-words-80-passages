@@ -1,0 +1,42 @@
+{
+  "word": "caribbean",
+  "found": true,
+  "phonetic_uk": "ˌkærɪˈbiːən; kəˈrɪbiən",
+  "phonetic_us": "ˌkærɪˈbiːənˌkəˈrɪbiən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=caribbean&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=caribbean&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "加勒比海的；加勒比人的；加勒比语的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "加勒比海"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They sailed across the Caribbean with only a compass to guide them.",
+      "zh": "他们仅靠一只指南针来指引他们驶过了加勒比海。"
+    },
+    {
+      "en": "The Caribbean has become an important location for international banking because it is a tax haven.",
+      "zh": "加勒比海地区因其为避税安乐窝已成了国际银行业重地。"
+    },
+    {
+      "en": "It's called the Pan-Caribbean Disaster Preparedness and Prevention Project, which is quite a mouthful.",
+      "zh": "它被称为泛加勒比海灾难准备及预防计划，挺绕嘴的一个名字。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "加勒比海",
+      "words": [
+        "Caribbean Sea"
+      ]
+    }
+  ]
+}
