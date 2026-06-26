@@ -71,7 +71,21 @@ function loadDict(word){
     var file = 'dict/' + safeFilename(word) + '.json';
     return fetch(file)
         .then(function(r){ return r.ok ? r.json() : null; })
-        .then(function(d){ _dictCache[word] = d; return d; })
+        .then(function(d){
+            // 未找到时，尝试去掉所有格/复数后回退查原形
+            if(!d || !d.found){
+                var base = word.replace(/(’s|'s|s’|’)$/g, '').replace(/s$/i, '');
+                if(base && base !== word){
+                    return loadDict(base).then(function(d2){
+                        var result = d2 || d;
+                        _dictCache[word] = result;
+                        return result;
+                    });
+                }
+            }
+            _dictCache[word] = d;
+            return d;
+        })
         .catch(function(){ return null; });
 }
 

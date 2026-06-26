@@ -1,0 +1,72 @@
+{
+  "word": "own",
+  "found": true,
+  "phonetic_uk": "əʊn",
+  "phonetic_us": "oʊn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=own&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=own&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "有，拥有；<旧> 承认；为（某事）承担全责，承认为（某事）负全责；<美，非正式> 彻底击败，彻底羞辱"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "自己的，属于自己的；自己做的，为自己的；具有自己特点的，特有的"
+    },
+    {
+      "pos": "",
+      "meaning": "pronoun. 自己的，属于自己的；自己做的，自己生产的；具有自己特点的，特有的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Own）（阿拉伯）奥恩（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She makes her own clothes.",
+      "zh": "她自己做衣服。"
+    },
+    {
+      "en": "David accepts his own vulnerability.",
+      "zh": "戴维承认自己的脆弱。"
+    },
+    {
+      "en": "She made her own bread.",
+      "zh": "她自己做了面包。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "拥有；承认",
+      "words": [
+        "accept",
+        "agree",
+        "recognize",
+        "acknowledge",
+        "grant"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "承认",
+      "words": [
+        "accept",
+        "recognize"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "自己的；特有的",
+      "words": [
+        "typical",
+        "characteristic",
+        "proper",
+        "very"
+      ]
+    }
+  ]
+}

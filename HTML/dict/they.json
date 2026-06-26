@@ -1,0 +1,30 @@
+{
+  "word": "they",
+  "found": true,
+  "phonetic_uk": "ðeɪ",
+  "phonetic_us": "ðeɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=they&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=they&type=2",
+  "defs": [
+    {
+      "pos": "pron.",
+      "meaning": "他们；它们；她们"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They knew they had been rumbled.",
+      "zh": "他们知道自己已经被识破了。"
+    },
+    {
+      "en": "They knew they had acted wrongly.",
+      "zh": "他们知道他们做得不对。"
+    },
+    {
+      "en": "If they overestimate, they lose revenue.",
+      "zh": "如果他们过高地估算，就会损失收入。"
+    }
+  ],
+  "synonyms": []
+}

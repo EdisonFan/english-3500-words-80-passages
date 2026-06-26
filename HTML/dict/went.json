@@ -1,0 +1,34 @@
+{
+  "word": "went",
+  "found": true,
+  "phonetic_uk": "went",
+  "phonetic_us": "went",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=went&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=went&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "去，过去（go 的过去式）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Went）人名；（德、匈、荷）文特；（英）温特"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We went everywhere together.",
+      "zh": "我们到哪里都一起去。"
+    },
+    {
+      "en": "We went to Rome.",
+      "zh": "我们去了罗马。"
+    },
+    {
+      "en": "The interview went smoothly.",
+      "zh": "面谈进展顺利。"
+    }
+  ],
+  "synonyms": []
+}

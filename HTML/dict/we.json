@@ -1,0 +1,34 @@
+{
+  "word": "we",
+  "found": true,
+  "phonetic_uk": "wiː; wi",
+  "phonetic_us": "wiː; wi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=we&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=we&type=2",
+  "defs": [
+    {
+      "pos": "pron.",
+      "meaning": "我们（主格）；笔者，本人（作者或演讲人使用）；朕，寡人"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（We）人名；（缅）韦"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We thought we had them licked.",
+      "zh": "我们以为已经轻易地把他们对付过去了。"
+    },
+    {
+      "en": "We didn't win but we came close.",
+      "zh": "我们输了，但离赢只差了那么一小点儿。"
+    },
+    {
+      "en": "We can dress as we wish now.",
+      "zh": "我们如今想穿什么就可以穿什么。"
+    }
+  ],
+  "synonyms": []
+}

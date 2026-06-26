@@ -1,0 +1,44 @@
+{
+  "word": "teacher",
+  "found": true,
+  "phonetic_uk": "ˈtiːtʃə(r)",
+  "phonetic_us": "ˈtiːtʃər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=teacher&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=teacher&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "教师"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "teachers"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She's a very capable teacher.",
+      "zh": "她是一位能力很强的教师。"
+    },
+    {
+      "en": "'Be quiet,' said the teacher.",
+      "zh": "“安静点！”老师说道。"
+    },
+    {
+      "en": "As a teacher, he's a disaster.",
+      "zh": "他当老师压根儿就不称职。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "教师；导师",
+      "words": [
+        "professor",
+        "master"
+      ]
+    }
+  ]
+}

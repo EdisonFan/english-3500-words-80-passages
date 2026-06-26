@@ -1,0 +1,50 @@
+{
+  "word": "some",
+  "found": true,
+  "phonetic_uk": "sʌm; səm",
+  "phonetic_us": "sʌm; səm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=some&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=some&type=2",
+  "defs": [
+    {
+      "pos": "det.",
+      "meaning": "若干，一些；某个，某种；相当多，大量；少量的，不多的；了不起的，很不错的；不怎么样的，算不上……的"
+    },
+    {
+      "pos": "pron.",
+      "meaning": "有些，一部分"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "<美>有些，稍微；大约"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Some）（美、印）索梅（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Robin opened some champagne.",
+      "zh": "罗宾打开了一些香槟酒。"
+    },
+    {
+      "en": "I picked some flowers.",
+      "zh": "我摘了一些花。"
+    },
+    {
+      "en": "We'll eat some now and save some for tomorrow.",
+      "zh": "我们现在吃一些，留一些明天吃。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "一些；某一；大约",
+      "words": [
+        "certain"
+      ]
+    }
+  ]
+}

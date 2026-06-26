@@ -1,0 +1,60 @@
+{
+  "word": "to",
+  "found": true,
+  "phonetic_uk": "tuː; tə",
+  "phonetic_us": "tuː; tə",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=to&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=to&type=2",
+  "defs": [
+    {
+      "pos": "prep.",
+      "meaning": "朝；位于……；到某处；到某状态；差；给；对于；比；连着；对着；等于；向……表示敬意；伴随；为了给……；适合；按……的看法；（结算账目时）记入"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "（门等）关上"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（To）（汤霍特、丹）多（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I was trying to save money to go to college.",
+      "zh": "我当时正努力攒钱去上大学。"
+    },
+    {
+      "en": "She would like to talk to people one to one.",
+      "zh": "她想和人们一对一地谈话。"
+    },
+    {
+      "en": "He appealed to voters to go to the polls tomorrow.",
+      "zh": "他呼吁选民们明天去投票站。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "向前；（门等）关上",
+      "words": [
+        "forth",
+        "ahead",
+        "along",
+        "forwards",
+        "front"
+      ]
+    },
+    {
+      "pos": "prep.",
+      "meaning": "到；向；（表示时间、方向）朝…方向",
+      "words": [
+        "unto",
+        "towards",
+        "at",
+        "out"
+      ]
+    }
+  ]
+}

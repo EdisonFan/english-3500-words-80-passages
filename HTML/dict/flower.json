@@ -1,0 +1,87 @@
+{
+  "word": "flower",
+  "found": true,
+  "phonetic_uk": "ˈflaʊə(r)",
+  "phonetic_us": "ˈflaʊər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=flower&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=flower&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "花，开花植物；精华，最好的部分"
+    },
+    {
+      "pos": "v.",
+      "meaning": "开花；繁荣，兴旺"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Flower）（英）弗劳尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "flowers"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "flowers"
+    },
+    {
+      "name": "现在分词",
+      "value": "flowering"
+    },
+    {
+      "name": "过去式",
+      "value": "flowered"
+    },
+    {
+      "name": "过去分词",
+      "value": "flowered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The flower opens to reveal a bee.",
+      "zh": "花开了，露出来一只蜜蜂。"
+    },
+    {
+      "en": "I've been weeding the flower beds.",
+      "zh": "我一直在除花坛里的杂草。"
+    },
+    {
+      "en": "Cut the flower stems on the slant.",
+      "zh": "把花茎斜着切断。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[植]花；精华；开花植物",
+      "words": [
+        "essence",
+        "elite",
+        "prime",
+        "bloom",
+        "distillation"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "成熟，发育；开花；繁荣；旺盛",
+      "words": [
+        "mature",
+        "age",
+        "develop"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使开花；用花装饰",
+      "words": [
+        "bloom"
+      ]
+    }
+  ]
+}

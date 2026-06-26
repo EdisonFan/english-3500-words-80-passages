@@ -1,0 +1,63 @@
+{
+  "word": "thinking",
+  "found": true,
+  "phonetic_uk": "ˈθɪŋkɪŋ",
+  "phonetic_us": "ˈθɪŋkɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=thinking&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=thinking&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "想法，见解；思想，思考，思维"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "思想的，有理智的，有思考力的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "认为，以为；思考，思索；猜想，想象（think 的现在分词）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "thinkings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The news started me thinking.",
+      "zh": "那条消息让我思考起来。"
+    },
+    {
+      "en": "His quick thinking saved her life.",
+      "zh": "他敏捷的思考救了她一命。"
+    },
+    {
+      "en": "We need to start thinking globally.",
+      "zh": "我们需着手全面考虑。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "思考的；思想的；有理性的；好思考的",
+      "words": [
+        "ideological",
+        "noematic"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "思考；思想；想法；意见；见解",
+      "words": [
+        "idea",
+        "opinion",
+        "concepts",
+        "view",
+        "eye"
+      ]
+    }
+  ]
+}

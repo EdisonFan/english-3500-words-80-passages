@@ -1,0 +1,39 @@
+{
+  "word": "tastings",
+  "found": true,
+  "phonetic_uk": "ˈteɪstɪŋ",
+  "phonetic_us": "ˈteɪstɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tastings&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tastings&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "品尝，尝味"
+    },
+    {
+      "pos": "v.",
+      "meaning": "品尝（taste 的 ing 形式）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "tastings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "However, repeat blind tastings in 1978, 1986, and 2006 of the same vintages all favored the same Californian wines.",
+      "zh": "然而，在1978年、1986年和2006年重复进行的盲品会中，人们都选择了同样的加州葡萄酒。"
+    },
+    {
+      "en": "Food tastings in local restaurants.",
+      "zh": "在当地餐馆里面食物品尝。"
+    },
+    {
+      "en": "But it turned out he was doing tastings in Wuhan, Taiyuan, and Qingdao.",
+      "zh": "但是实际上她去的地方是武汉，太原以及青岛。"
+    }
+  ],
+  "synonyms": []
+}

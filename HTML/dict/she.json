@@ -1,0 +1,52 @@
+{
+  "word": "she",
+  "found": true,
+  "phonetic_uk": "ʃiː; ʃi",
+  "phonetic_us": "ʃiː; ʃi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=she&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=she&type=2",
+  "defs": [
+    {
+      "pos": "pron.",
+      "meaning": "她（主格）；它（用来指雌性动物或国家、船舶、地球、月亮等）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "女人；雌性动物"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（She）人名；（中）佘（普通话·威妥玛）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "they或shes"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She doesn't work here, does she?",
+      "zh": "她不在此地工作，对吧？"
+    },
+    {
+      "en": "She said that she couldn't come.",
+      "zh": "她说她来不了啦。"
+    },
+    {
+      "en": "She thought she could reform him.",
+      "zh": "她觉得她可以使他洗心革面。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "女人；雌性动物",
+      "words": [
+        "female",
+        "jenny"
+      ]
+    }
+  ]
+}

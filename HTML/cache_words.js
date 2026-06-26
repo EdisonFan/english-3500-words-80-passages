@@ -12,9 +12,27 @@ var cacheDir = '/workspace/HTML/dict';
 fs.mkdirSync(cacheDir, { recursive: true });
 
 var data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
-var words = (data.vocab || []).map(function(v){ return v.word; });
-// 去重
-words = Array.from(new Set(words));
+
+// 1. vocab 列表的单词
+var vocabWords = (data.vocab || []).map(function(v){ return v.word; });
+
+// 2. 正文中所有英文单词（含非高亮的普通词）
+var bodyWords = [];
+(data.paragraphs || []).forEach(function(p){
+    var en = p.en || '';
+    // 去掉 {word} 的大括号，保留词
+    var cleaned = en.replace(/\{([^}]+)\}/g, '$1');
+    // 提取所有英文单词（含撇号），去首尾撇号
+    var re = /[A-Za-z][A-Za-z']*/g;
+    var m;
+    while((m = re.exec(cleaned)) !== null){
+        var w = m[0].replace(/^'+|'+$/g, '');
+        if(w) bodyWords.push(w.toLowerCase());
+    }
+});
+
+// 合并去重
+var words = Array.from(new Set(vocabWords.concat(bodyWords)));
 
 console.log('Passage ' + num + ' 共 ' + words.length + ' 个单词，开始拉取...');
 
