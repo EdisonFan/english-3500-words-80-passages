@@ -1,0 +1,51 @@
+{
+  "word": "interested",
+  "found": true,
+  "phonetic_uk": "ˈɪntrəstɪd",
+  "phonetic_us": "ˈɪntrəstɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=interested&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=interested&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "感兴趣的，关心的；利益相关的，当事的；有私心的，有偏见的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使感兴趣，引起……的关注；劝说（某人）做（或参与）（interest 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more interested"
+    },
+    {
+      "name": "最高级",
+      "value": "most interested"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He sounded genuinely interested.",
+      "zh": "听他的口气，他真的感兴趣。"
+    },
+    {
+      "en": "I'm not interested in sport.",
+      "zh": "我对体育运动不感兴趣。"
+    },
+    {
+      "en": "Alex is not interested in girls yet.",
+      "zh": "亚历克斯对女孩子还不感兴趣。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "感兴趣的；有权益的；有成见的",
+      "words": [
+        "prejudiced"
+      ]
+    }
+  ]
+}

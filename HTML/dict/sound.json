@@ -1,0 +1,103 @@
+{
+  "word": "sound",
+  "found": true,
+  "phonetic_uk": "saʊnd",
+  "phonetic_us": "saʊnd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sound&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sound&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "声音，声响；听力范围，听距；乐音；（音乐演出、电影等的）音响录制和播出，音响制作；无线电广播；声音，音响；（个人或乐队的）音乐特色，音乐风格；<非正式>流行音乐（sounds）；海峡，海湾；厄勒海峡（the Sound）；印象，感觉；（检查体腔的）医用探子"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）发声，（使）作响；发出（警告等），（以……语调）发表；测量（水体）的深度；试探，探询；听起来像；（从嗓音中）听起来；（用于谈论印象或观点）听起来，似乎；发音；听诊（肺或其他体腔）；（医）用探子检查（人的膀胱或其他内腔）；（尤指鲸鱼）向深海潜入"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "无损伤的，健康的，坚实的；合理的，明智的，可靠的；全面的，透彻的；酣睡的，沉睡的；（惩罚）严厉的；不错的，实实在在的；资金充实的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "酣畅地"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "sounds"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "sounds"
+    },
+    {
+      "name": "现在分词",
+      "value": "sounding"
+    },
+    {
+      "name": "过去式",
+      "value": "sounded"
+    },
+    {
+      "name": "过去分词",
+      "value": "sounded"
+    },
+    {
+      "name": "比较级",
+      "value": "sounder或more sound"
+    },
+    {
+      "name": "最高级",
+      "value": "soundest或most sound"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You don't sound very sure.",
+      "zh": "听你这口气，你自己也不大肯定。"
+    },
+    {
+      "en": "Sound travels more slowly than light.",
+      "zh": "声比光传播得慢。"
+    },
+    {
+      "en": "Digital recording gives excellent sound reproduction.",
+      "zh": "数码录音的声音效果极佳。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "听（诊）；测量，测…深；使发声；试探；宣告",
+      "words": [
+        "hear",
+        "feel",
+        "scale"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[声]声音，语音；噪音；海峡；吵闹；听力范围；[医]探条",
+      "words": [
+        "voice",
+        "speech",
+        "noise",
+        "neck",
+        "row"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "健全的，健康的；合理的；可靠的；有效彻底的",
+      "words": [
+        "healthy",
+        "reasonable",
+        "responsible",
+        "honest",
+        "logical"
+      ]
+    }
+  ]
+}

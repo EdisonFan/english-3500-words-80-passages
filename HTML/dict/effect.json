@@ -1,0 +1,75 @@
+{
+  "word": "effect",
+  "found": true,
+  "phonetic_uk": "ɪˈfekt",
+  "phonetic_us": "ɪˈfekt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=effect&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=effect&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "作用，影响；（刻意制造的）效果，印象；所有物，财产；生效，实行"
+    },
+    {
+      "pos": "v.",
+      "meaning": "实现，引起"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "effects"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "effects"
+    },
+    {
+      "name": "现在分词",
+      "value": "effecting"
+    },
+    {
+      "name": "过去式",
+      "value": "effected"
+    },
+    {
+      "name": "过去分词",
+      "value": "effected"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His voice had an almost hypnotic effect.",
+      "zh": "他的声音有一种近乎催眠的作用。"
+    },
+    {
+      "en": "His words had exactly the opposite effect.",
+      "zh": "他的话产生了截然相反的效果。"
+    },
+    {
+      "en": "The effect is almost impossible to describe.",
+      "zh": "这影响几乎无法言表。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "影响；效果；作用",
+      "words": [
+        "impression",
+        "influence",
+        "infection",
+        "affection",
+        "impact"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "产生；达到目的",
+      "words": [
+        "form",
+        "inspire"
+      ]
+    }
+  ]
+}

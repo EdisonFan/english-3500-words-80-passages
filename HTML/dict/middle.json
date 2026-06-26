@@ -1,0 +1,87 @@
+{
+  "word": "middle",
+  "found": true,
+  "phonetic_uk": "ˈmɪd(ə)l",
+  "phonetic_us": "ˈmɪd(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=middle&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=middle&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "中间的，中等的；折中的，中庸之道的；（语言）中古的，介于现代与古代之间的；语法中动态的，中间反身态的；（英语及物动词）无被动态的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "中间，中部，中等；腰部；语法中动态，中间反身态"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（板球、网球等中）用球棒（或拍）中部击（球）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "middles"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "middles"
+    },
+    {
+      "name": "现在分词",
+      "value": "middling"
+    },
+    {
+      "name": "过去式",
+      "value": "middled"
+    },
+    {
+      "name": "过去分词",
+      "value": "middled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His middle name is Justin.",
+      "zh": "他的中间名叫朱斯丁。"
+    },
+    {
+      "en": "Pens are kept in the middle drawer.",
+      "zh": "钢笔在中间那个抽屉里。"
+    },
+    {
+      "en": "The curtains don't meet in the middle.",
+      "zh": "这窗帘中间合不拢。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "中间的，中部的；中级的，中等的",
+      "words": [
+        "medium",
+        "mid",
+        "intermediary",
+        "secondary",
+        "moderate"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "中间，中央；腰部",
+      "words": [
+        "center",
+        "waist"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "把…放在中间，把…对折",
+      "words": [
+        "double up",
+        "double back"
+      ]
+    }
+  ]
+}

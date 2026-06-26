@@ -1,0 +1,89 @@
+{
+  "word": "kid",
+  "found": true,
+  "phonetic_uk": "kɪd",
+  "phonetic_us": "kɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=kid&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=kid&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "小孩，年轻人；小山羊；小山羊皮革"
+    },
+    {
+      "pos": "v.",
+      "meaning": "戏弄，开玩笑；欺骗，哄骗；（山羊）分娩"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "较年幼的；小山羊皮制的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Kid）（英）基德（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "kids"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "kids"
+    },
+    {
+      "name": "现在分词",
+      "value": "kidding"
+    },
+    {
+      "name": "过去式",
+      "value": "kidded"
+    },
+    {
+      "name": "过去分词",
+      "value": "kidded"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She's a bright kid.",
+      "zh": "她是个聪明孩子。"
+    },
+    {
+      "en": "'Oh, she's just a kid,' he said scathingly.",
+      "zh": "“咳，她还是个孩子呢。”他尖刻地挖苦道。"
+    },
+    {
+      "en": "The kid can read words, but did miserably on the test.",
+      "zh": "这孩子能认字，但考试时却一塌糊涂。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "小孩；[畜牧]小山羊",
+      "words": [
+        "kiddie",
+        "pickin"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "欺骗；取笑；戏弄",
+      "words": [
+        "sell",
+        "guy",
+        "fox"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "欺骗；取笑；戏弄",
+      "words": [
+        "pull a fast one",
+        "give the shaft"
+      ]
+    }
+  ]
+}

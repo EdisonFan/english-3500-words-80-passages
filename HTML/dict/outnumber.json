@@ -1,0 +1,38 @@
+{
+  "word": "outnumber",
+  "found": true,
+  "phonetic_uk": "ˌaʊtˈnʌmbə(r)",
+  "phonetic_us": "ˌaʊtˈnʌmbər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=outnumber&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=outnumber&type=2",
+  "defs": [
+    {
+      "pos": "vt.",
+      "meaning": "数目超过；比……多"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Men still outnumber women in the paid workforce.",
+      "zh": "在上班挣钱的人口中，男性仍然多于女性。"
+    },
+    {
+      "en": "Here the poor greatly outnumber the wealthy.",
+      "zh": "在这里，穷人的数量远远超过富人。"
+    },
+    {
+      "en": "These stars vastly outnumber the other stars in a given galaxy.",
+      "zh": "在一个给定的星系中，这些恒星的数量远远超过其他恒星。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "[计划]数目超过；比…多",
+      "words": [
+        "overnumber"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "word": "restaurant",
+  "found": true,
+  "phonetic_uk": "ˈrestrɒnt",
+  "phonetic_us": "ˈrestrɑːnt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=restaurant&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=restaurant&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "餐馆，饭店"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "restaurants"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The restaurant was packed.",
+      "zh": "餐馆里坐满了客人。"
+    },
+    {
+      "en": "The restaurant is deservedly popular.",
+      "zh": "这餐馆为大众喜爱是理所当然的。"
+    },
+    {
+      "en": "The restaurant is under new ownership.",
+      "zh": "这个餐厅已换了新的东家。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[经]餐馆；饭店",
+      "words": [
+        "hotel",
+        "lokanta"
+      ]
+    }
+  ]
+}
