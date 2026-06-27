@@ -112,10 +112,10 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         keyword = f'{word} {suffix}'  # 加后缀，搜词义讲解类视频而非产品/新闻
         # 注意：B站搜索接口要求空格编码成 + 而非 %20，否则 412
         encoded_kw = urllib.parse.quote_plus(keyword)
-        # 每次只取前 20 条(用户要求),够用且减少风控压力
+        # 一次性取前 50 条,够过滤后还能剩足够多优质视频
         url = ('https://api.bilibili.com/x/web-interface/search/type'
                f'?search_type=video&keyword={encoded_kw}'
-               '&page=1&pagesize=20')
+               '&page=1&pagesize=50')
         logger.info(f'[search-video] 收到请求 word={word!r} keyword={keyword!r}')
         try:
             req = urllib.request.Request(url, headers={

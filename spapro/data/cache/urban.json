@@ -1,0 +1,42 @@
+{
+  "word": "urban",
+  "found": true,
+  "phonetic_uk": "ˈɜːbən",
+  "phonetic_us": "ˈɜːrbən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=urban&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=urban&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "城市的，城镇的；黑人音乐的；住在都市的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Urban）（英）厄本，（法）于尔邦（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Public order is primarily an urban problem.",
+      "zh": "公共秩序主要是一种城市问题。"
+    },
+    {
+      "en": "It seems reasonable to expect rapid urban growth.",
+      "zh": "看起来期待城市会飞速发展是有道理的。"
+    },
+    {
+      "en": "For a small state it has a large urban population.",
+      "zh": "作为一个小州，其城市人口算是很多了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "城市的；住在都市的",
+      "words": [
+        "city"
+      ]
+    }
+  ]
+}
