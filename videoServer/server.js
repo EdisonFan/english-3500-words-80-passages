@@ -178,13 +178,18 @@ const server = http.createServer(async (req, res) => {
   // 核心接口:流式代理 mp4,前端 <video src="/api/stream?bvid=xxx"> 直接用
   if (u.pathname === '/api/stream') {
     const bvid = u.searchParams.get('bvid');
-    if (!bvid) return send(res, 400, 'missing bvid');
+    const range = req.headers.range || '(无)';
+    console.log(`[stream] 收到请求 bvid=${bvid} range=${range}`);
+    if (!bvid) { console.log('[stream] ❌ 缺少 bvid'); return send(res, 400, 'missing bvid'); }
     try {
       const { cid } = await getCid(bvid);
-      const { url: mp4Url } = await getMp4Url(bvid, cid);
+      console.log(`[stream] 拿到 cid=${cid}`);
+      const { url: mp4Url, quality } = await getMp4Url(bvid, cid);
+      console.log(`[stream] 拿到直链 quality=${quality} url=${mp4Url.slice(0, 80)}...`);
       await pipeMp4(mp4Url, req, res);
+      console.log(`[stream] ✅ 流式传输完成 bvid=${bvid}`);
     } catch (e) {
-      console.error('[stream error]', e);
+      console.error(`[stream] ❌ 错误 bvid=${bvid}:`, e.message);
       if (!res.headersSent) send(res, 500, 'stream error: ' + e.message);
     }
     return;

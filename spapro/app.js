@@ -540,6 +540,7 @@ function openVideoStage(word) {
     _videoWord = word;
     _videoList = [];
     _videoIdx = 0;
+    console.log('[video] openVideoStage 开始, word=', word);
 
     // 关掉词典弹框
     modalBg.classList.remove('active');
@@ -549,20 +550,28 @@ function openVideoStage(word) {
     videoStage.classList.add('active');
 
     // 调 spapro 后端的搜索接口
+    console.log('[video] 发起搜索请求 /api/search-video?word=' + word);
     fetch('/api/search-video?word=' + encodeURIComponent(word))
-        .then(function(r) { return r.json(); })
+        .then(function(r) {
+            console.log('[video] 搜索响应 status=', r.status, 'ok=', r.ok);
+            return r.json();
+        })
         .then(function(j) {
+            console.log('[video] 搜索返回 ok=', j.ok, 'total=', j.total, 'list长度=', (j.list||[]).length);
             if (!j.ok) throw new Error(j.error || '搜索失败');
             if (!j.list || !j.list.length) {
+                console.log('[video] ⚠️ 搜索结果为空');
                 videoFeed.innerHTML = '<div class="video-loading"><div>没找到 "' + esc(word) + '" 的教学视频</div></div>';
                 return;
             }
             _videoList = j.list;
+            console.log('[video] 第一条 bvid=', _videoList[0].bvid, 'title=', _videoList[0].title);
             renderVideoFeed();
             // 播第一个
             setTimeout(function() { playVideoIdx(0); }, 100);
         })
         .catch(function(err) {
+            console.error('[video] ❌ 搜索失败:', err);
             videoFeed.innerHTML = '<div class="video-loading"><div>搜索失败: ' + esc(String(err.message || err)) + '</div><div style="margin-top:8px;font-size:12px;opacity:.6">可能是请求过快被限流,稍等几秒重试</div></div>';
         });
 }
@@ -599,13 +608,27 @@ function renderVideoFeed() {
 // 给当前视频设 src 并播放,其余暂停
 function playVideoIdx(idx) {
     var cards = videoFeed.children;
+    console.log('[video] playVideoIdx 切换到第', idx + 1, '个视频, bvid=', _videoList[idx] ? _videoList[idx].bvid : '(无)');
     for (var i = 0; i < cards.length; i++) {
         var video = cards[i].querySelector('video');
         if (i === idx) {
             if (!video.src) {
-                video.src = VIDEO_SERVER + '/api/stream?bvid=' + _videoList[i].bvid;
+                var srcUrl = VIDEO_SERVER + '/api/stream?bvid=' + _videoList[i].bvid;
+                console.log('[video] 设置 src=', srcUrl);
+                video.src = srcUrl;
+                // 监听错误事件(关键:定位不播放的原因)
+                video.onerror = function() {
+                    console.error('[video] ❌ video.onerror code=', video.error ? video.error.code : '(unknown)',
+                                  'src=', video.src);
+                };
+                video.onloadeddata = function() { console.log('[video] ✓ 数据已加载,开始解码'); };
+                video.oncanplay = function() { console.log('[video] ✓ 可播放'); };
             }
-            video.play().catch(function() {});
+            video.play().then(function() {
+                console.log('[video] ✓ play() 成功, idx=', idx);
+            }).catch(function(e) {
+                console.error('[video] ❌ play() 被拒:', e.name, e.message);
+            });
         } else {
             video.pause();
         }

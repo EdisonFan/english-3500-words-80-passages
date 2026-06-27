@@ -77,6 +77,7 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         url = ('https://api.bilibili.com/x/web-interface/search/type'
                f'?search_type=video&keyword={encoded_kw}'
                '&page=1&pagesize=30')
+        print(f'[search-video] 收到请求 word={word!r} keyword={keyword!r}', flush=True)
         try:
             req = urllib.request.Request(url, headers={
                 # B 站搜索接口风控较严，实测组合：
@@ -88,11 +89,15 @@ class Handler(http.server.SimpleHTTPRequestHandler):
             })
             with urllib.request.urlopen(req, timeout=10) as resp:
                 data = json.loads(resp.read().decode('utf-8'))
+            print(f'[search-video] B站返回 code={data.get("code")} '
+                  f'numResults={(data.get("data") or {}).get("numResults")}', flush=True)
         except Exception as e:
+            print(f'[search-video] ❌ 请求失败: {e}', flush=True)
             self._send_json(502, {'ok': False, 'error': f'B站搜索失败: {e}'})
             return
 
         if data.get('code') != 0:
+            print(f'[search-video] ❌ B站接口错误: {data.get("message")}', flush=True)
             self._send_json(502, {'ok': False, 'error': data.get('message', 'B站接口错误')})
             return
 
@@ -117,6 +122,9 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         # 按播放量降序，取前 10
         results.sort(key=lambda x: x['play'], reverse=True)
         results = results[:10]
+
+        print(f'[search-video] ✅ 过滤后返回 {len(results)} 条, '
+              f'前3: {[(r["bvid"], r["title"][:20]) for r in results[:3]]}', flush=True)
 
         self._send_json(200, {
             'ok': True,
