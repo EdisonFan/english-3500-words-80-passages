@@ -374,6 +374,11 @@ function showDictModal(word) {
 function renderDictModal(data) {
     var html = '<div class="modal-eyebrow">Dictionary</div>';
 
+    // 视频按钮:任意状态下都显示,点了关弹框去播教学视频
+    if (data.word) {
+        html += '<button class="modal-video-btn" onclick="openVideoStage(\'' + esc(data.word) + '\')"><span class="mv-icon">▶</span> 教学视频</button>';
+    }
+
     if (data.loading) {
         html += '<div class="modal-word">' + esc(data.word) + '</div>';
         html += '<div class="modal-dict-loading"><span class="dict-spinner"></span>查询中…</div>';
@@ -516,6 +521,111 @@ var TAG_LABEL = {
 modalClose.addEventListener('click', function() { modalBg.classList.remove('active'); });
 modalBg.addEventListener('click', function(e) {
     if (e.target === modalBg) modalBg.classList.remove('active');
+});
+
+/* === 单词教学视频层(抖音式上下滑动) === */
+var videoStage = document.getElementById('videoStage');
+var videoFeed = document.getElementById('videoFeed');
+var videoStageClose = document.getElementById('videoStageClose');
+// videoServer 端口(流式代理),spapro 在 8000,videoServer 在 3000,跨域已开 CORS
+var VIDEO_SERVER = 'http://localhost:3000';
+var _videoList = [];      // 搜索结果
+var _videoIdx = 0;        // 当前播放索引
+var _videoWord = '';      // 当前单词
+
+// 打开视频层:关词典弹框 → 搜索 → 渲染 → 播第一个
+function openVideoStage(word) {
+    word = String(word || '').toLowerCase().trim();
+    if (!word) return;
+    _videoWord = word;
+    _videoList = [];
+    _videoIdx = 0;
+
+    // 关掉词典弹框
+    modalBg.classList.remove('active');
+
+    // 显示视频层 + 加载状态
+    videoFeed.innerHTML = '<div class="video-loading"><div class="video-spin"></div><div>搜索 "' + esc(word) + '" 的教学视频…</div></div>';
+    videoStage.classList.add('active');
+
+    // 调 spapro 后端的搜索接口
+    fetch('/api/search-video?word=' + encodeURIComponent(word))
+        .then(function(r) { return r.json(); })
+        .then(function(j) {
+            if (!j.ok) throw new Error(j.error || '搜索失败');
+            if (!j.list || !j.list.length) {
+                videoFeed.innerHTML = '<div class="video-loading"><div>没找到 "' + esc(word) + '" 的教学视频</div></div>';
+                return;
+            }
+            _videoList = j.list;
+            renderVideoFeed();
+            // 播第一个
+            setTimeout(function() { playVideoIdx(0); }, 100);
+        })
+        .catch(function(err) {
+            videoFeed.innerHTML = '<div class="video-loading"><div>搜索失败: ' + esc(String(err.message || err)) + '</div><div style="margin-top:8px;font-size:12px;opacity:.6">可能是请求过快被限流,稍等几秒重试</div></div>';
+        });
+}
+
+// 渲染视频流:每屏一个视频
+function renderVideoFeed() {
+    var html = '';
+    _videoList.forEach(function(v, i) {
+        html += '<div class="video-card" data-idx="' + i + '">';
+        html += '<video playsinline webkit-playsinline="true" preload="none" loop';
+        if (v.pic) html += ' poster="https:' + v.pic + '"';
+        html += '></video>';
+        html += '<div class="video-card-idx">' + (i + 1) + '/' + _videoList.length + '</div>';
+        html += '<div class="video-card-info">';
+        html += '<div class="video-card-word">' + esc(_videoWord) + '</div>';
+        html += '<div class="video-card-title">' + esc(v.title) + '</div>';
+        html += '<div class="video-card-meta">@' + esc(v.author) + ' · 播放 ' + fmtPlayCount(v.play) + ' · ' + esc(v.duration) + '</div>';
+        html += '</div>';
+        html += '</div>';
+    });
+    videoFeed.innerHTML = html;
+
+    // 滚动监听(节流):停稳后切换播放
+    var scrollTimer;
+    videoFeed.onscroll = function() {
+        clearTimeout(scrollTimer);
+        scrollTimer = setTimeout(function() {
+            var idx = Math.round(videoFeed.scrollTop / videoFeed.clientHeight);
+            if (idx !== _videoIdx) playVideoIdx(idx);
+        }, 120);
+    };
+}
+
+// 给当前视频设 src 并播放,其余暂停
+function playVideoIdx(idx) {
+    var cards = videoFeed.children;
+    for (var i = 0; i < cards.length; i++) {
+        var video = cards[i].querySelector('video');
+        if (i === idx) {
+            if (!video.src) {
+                video.src = VIDEO_SERVER + '/api/stream?bvid=' + _videoList[i].bvid;
+            }
+            video.play().catch(function() {});
+        } else {
+            video.pause();
+        }
+    }
+    _videoIdx = idx;
+}
+
+function fmtPlayCount(n) {
+    n = Number(n) || 0;
+    return n >= 10000 ? (n / 10000).toFixed(1) + '万' : n;
+}
+
+// 关闭视频层:暂停所有视频
+videoStageClose.addEventListener('click', function() {
+    var cards = videoFeed.children;
+    for (var i = 0; i < cards.length; i++) {
+        var video = cards[i].querySelector('video');
+        if (video) { video.pause(); video.src = ''; }
+    }
+    videoStage.classList.remove('active');
 });
 
 /* === 上下篇导航 === */
