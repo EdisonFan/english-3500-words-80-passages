@@ -8,6 +8,11 @@
     3. 缓存未命中 → 调有道 jsonapi → 保存到 data/cache/ → 返回
     逐步积累本地词典库，避免依赖外网 API
     所有响应附加 CORS 头
+
+- 视频搜索代理：GET /api/search-video?word=<word>
+    代理调用 B 站搜索接口，关键词自动加 "单词 发音" 后缀，
+    过滤时长 10s~5min，按播放量降序，返回前 10 条。
+    返回结构里的 bvid 可直接喂给 videoServer 的 /api/stream 播放。
 """
 import http.server
 import socketserver
@@ -48,7 +53,90 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                 return
             self._proxy_dict(word)
             return
+        if parsed.path == '/api/search-video':
+            params = urllib.parse.parse_qs(parsed.query)
+            word = (params.get('word', [''])[0] or '').strip()
+            if not word:
+                self._send_json(400, {'error': '缺少参数 word'})
+                return
+            self._search_video(word)
+            return
         super().do_GET()
+
+    def _search_video(self, word):
+        """代理 B 站搜索，返回适合学单词的教学视频列表。
+
+        - 关键词加 "单词 发音" 后缀，过滤掉广告/产品视频
+        - 过滤时长 10s~5min（太短的广告切片、太长的完整课都不要）
+        - 按播放量降序，取前 10 条
+        - 返回的 bvid 直接喂给 videoServer 的 /api/stream 播放
+        """
+        keyword = f'{word} 发音'  # 加后缀，搜教学视频而非产品/新闻
+        # 注意：B站搜索接口要求空格编码成 + 而非 %20，否则 412
+        encoded_kw = urllib.parse.quote_plus(keyword)
+        url = ('https://api.bilibili.com/x/web-interface/search/type'
+               f'?search_type=video&keyword={encoded_kw}'
+               '&page=1&pagesize=30')
+        try:
+            req = urllib.request.Request(url, headers={
+                # B 站搜索接口风控较严，实测组合：
+                # - User-Agent 用短串 "Mozilla/5.0" 能过，长 UA 反而 412
+                # - 必须带 Cookie 占位(buvid3)，否则 412
+                # - 不能带 Referer，带 Referer 反而 412
+                'User-Agent': 'Mozilla/5.0',
+                'Cookie': 'buvid3=placeholder',
+            })
+            with urllib.request.urlopen(req, timeout=10) as resp:
+                data = json.loads(resp.read().decode('utf-8'))
+        except Exception as e:
+            self._send_json(502, {'ok': False, 'error': f'B站搜索失败: {e}'})
+            return
+
+        if data.get('code') != 0:
+            self._send_json(502, {'ok': False, 'error': data.get('message', 'B站接口错误')})
+            return
+
+        results = []
+        for item in (data.get('data') or {}).get('result') or []:
+            # 时长解析："3:45" → 秒数；过滤 10s~300s
+            dur_str = item.get('duration', '0:0')
+            secs = self._parse_duration(dur_str)
+            if secs < 10 or secs > 300:
+                continue
+            # 清理标题里的 <em> 高亮标签
+            title = re.sub(r'</?em[^>]*>', '', item.get('title', ''))
+            results.append({
+                'bvid': item.get('bvid', ''),
+                'title': title,
+                'author': item.get('author', ''),
+                'play': item.get('play', 0),
+                'duration': dur_str,
+                'pic': item.get('pic', ''),
+            })
+
+        # 按播放量降序，取前 10
+        results.sort(key=lambda x: x['play'], reverse=True)
+        results = results[:10]
+
+        self._send_json(200, {
+            'ok': True,
+            'word': word,
+            'keyword': keyword,
+            'total': len(results),
+            'list': results,
+        })
+
+    @staticmethod
+    def _parse_duration(s):
+        """'3:45' → 225 秒；'1:02:30' → 3750 秒"""
+        parts = s.split(':')
+        secs = 0
+        for p in parts:
+            try:
+                secs = secs * 60 + int(p)
+            except ValueError:
+                return 0
+        return secs
 
     def _proxy_dict(self, word):
         # 1. 查内存缓存（当前进程）
