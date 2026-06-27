@@ -1,0 +1,39 @@
+{
+  "word": "admittedly",
+  "found": true,
+  "phonetic_uk": "ədˈmɪtɪdli",
+  "phonetic_us": "ədˈmɪtɪdli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=admittedly&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=admittedly&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "诚然，不可否认地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Admittedly, those mighty forces are spiritual ones.",
+      "zh": "诚然，这些强大的力量是来自精神上的。"
+    },
+    {
+      "en": "Admittedly there has been a contraction of village commerce, but its vigour is still remarkable.",
+      "zh": "无可否认，农村的商业活动有所收缩，但其活力仍然惊人。"
+    },
+    {
+      "en": "Admittedly, turning to others for help and suggestion by no means refers to absolute and irresponsible dependence.",
+      "zh": "诚然，向别人寻求帮助和建议绝不是完全地和不负责任地依赖于他人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "公认地；无可否认地；明白地",
+      "words": [
+        "allowedly",
+        "acknowledgedly"
+      ]
+    }
+  ]
+}

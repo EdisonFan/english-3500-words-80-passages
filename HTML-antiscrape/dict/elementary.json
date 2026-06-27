@@ -1,0 +1,42 @@
+{
+  "word": "elementary",
+  "found": true,
+  "phonetic_uk": "ˌelɪˈmentri",
+  "phonetic_us": "ˌelɪˈmentri",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=elementary&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=elementary&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "简单的，基本的；基础的，初级的；小学的；单一元素的，非化合物的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Literacy now includes elementary computer skills.",
+      "zh": "有文化现在包括基本的计算机技能。"
+    },
+    {
+      "en": "A proton is an elementary particle of matter that possesses a positive charge.",
+      "zh": "质子是带正电荷的物质的基本粒子。"
+    },
+    {
+      "en": "The move from elementary school to middle school or junior high can be difficult.",
+      "zh": "从小学进入中学或者初中的这种变动可能会有困难。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "基本的；初级的；[化学]元素的",
+      "words": [
+        "basic",
+        "fundamental",
+        "essential",
+        "primary",
+        "first"
+      ]
+    }
+  ]
+}

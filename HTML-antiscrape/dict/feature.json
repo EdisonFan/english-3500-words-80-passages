@@ -1,0 +1,71 @@
+{
+  "word": "feature",
+  "found": true,
+  "phonetic_uk": "ˈfiːtʃə(r)",
+  "phonetic_us": "ˈfiːtʃər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=feature&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=feature&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "特点，特征；五官，面貌（特征）；地貌；特写，专题节目；正片； 特点，特征"
+    },
+    {
+      "pos": "v.",
+      "meaning": "以……为特色，以……为主要组成；起重要作用，占重要地位；放映，上演；担任主演"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "features"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "features"
+    },
+    {
+      "name": "现在分词",
+      "value": "featuring"
+    },
+    {
+      "name": "过去式",
+      "value": "featured"
+    },
+    {
+      "name": "过去分词",
+      "value": "featured"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His eyes are his most notable feature.",
+      "zh": "他的双眼是他最明显的特征。"
+    },
+    {
+      "en": "This feature is designed to aid inexperienced users.",
+      "zh": "这个特色是为帮助没有经验的用户而设计的。"
+    },
+    {
+      "en": "Teamwork is a key feature of the training programme.",
+      "zh": "团队合作是这项训练计划的重要特点。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "特色，特征；容貌；特写或专题节目",
+      "words": [
+        "person",
+        "characteristic"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "特写；以…为特色；由…主��",
+      "words": [
+        "star"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "word": "dance",
+  "found": true,
+  "phonetic_uk": "dɑːns",
+  "phonetic_us": "dæns",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dance&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dance&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "跳舞；跳（某种舞）；跳跃，雀跃；和……共舞；（某物）摆动，摇晃；（某人眼睛）因快乐（或激动）而闪烁"
+    },
+    {
+      "pos": "n.",
+      "meaning": "舞蹈，舞步；舞蹈（艺术）；跳舞；舞会；舞曲"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Dance）人名，（英）丹斯，（法）当斯"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "dances"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "dances"
+    },
+    {
+      "name": "现在分词",
+      "value": "dancing"
+    },
+    {
+      "name": "过去式",
+      "value": "danced"
+    },
+    {
+      "name": "过去分词",
+      "value": "danced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Come on Doreen, let's dance.",
+      "zh": "来吧，多琳，我们跳舞吧。"
+    },
+    {
+      "en": "We spontaneously started to dance.",
+      "zh": "我们情不自禁地跳起舞来。"
+    },
+    {
+      "en": "He can't dance for toffee!",
+      "zh": "他根本不会跳舞！"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "舞蹈；舞会；舞曲",
+      "words": [
+        "ball",
+        "nautch"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "跳舞；跳跃；飘扬",
+      "words": [
+        "flow",
+        "foot",
+        "jump",
+        "stream"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "跳舞；使跳跃",
+      "words": [
+        "jump",
+        "bound"
+      ]
+    }
+  ]
+}

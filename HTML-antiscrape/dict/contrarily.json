@@ -1,0 +1,40 @@
+{
+  "word": "contrarily",
+  "found": true,
+  "phonetic_uk": "kənˈtreərɪli",
+  "phonetic_us": "kənˈtrerɪli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=contrarily&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=contrarily&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "相反地；反之；反对地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Contrarily to the nested loop join, indexes are no longer so important.",
+      "zh": "与嵌套循环联接相反，索引不再是非常重要的了。"
+    },
+    {
+      "en": "Man might think that few women fit him before his marriage, and contrarily when they get married.",
+      "zh": "男人在结婚前觉得适合自己的女人很少，结婚后觉得适合自己的女人很多。"
+    },
+    {
+      "en": "Men might think that few women fit them before their marriage, and contrarily when they get married.",
+      "zh": "男人在结婚前觉得适合自己的女人很少，结婚后觉得适合自己的女人很多。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "相反地；反之；反对地",
+      "words": [
+        "counter",
+        "backward",
+        "conversely"
+      ]
+    }
+  ]
+}

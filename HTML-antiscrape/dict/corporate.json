@@ -1,0 +1,46 @@
+{
+  "word": "corporate",
+  "found": true,
+  "phonetic_uk": "ˈkɔːpərət",
+  "phonetic_us": "ˈkɔːrpərət",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=corporate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=corporate&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "公司的；法人的；共同的，全体的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "公司，集团"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The BBC is a corporate body.",
+      "zh": "英国广播公司为法人团体。"
+    },
+    {
+      "en": "He lost his job in a corporate takeover.",
+      "zh": "他在一次公司收购中丢掉了工作。"
+    },
+    {
+      "en": "The number of corporate bankruptcies climbed in August.",
+      "zh": "企业破产的数量在8月份增加了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[法]法人的；共同的，全体的；社团的",
+      "words": [
+        "mutual",
+        "entire",
+        "common",
+        "collective",
+        "universal"
+      ]
+    }
+  ]
+}

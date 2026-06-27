@@ -1,0 +1,46 @@
+{
+  "word": "fits",
+  "found": true,
+  "phonetic_uk": "fɪts",
+  "phonetic_us": "fɪts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fits&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fits&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（癫痫等的）突发；一阵；（强烈感情）发作；匹配；合身的衣服（fit的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（衣服）合身；可容纳；试穿（衣服）；安装（在某处）；合上；和……相称；（使）胜任（某工作）；癫痫病发作（fit的第三人称单数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Fits）（俄）菲茨（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The description fits us to a tee.",
+      "zh": "这个描述恰好符合我们的情况。"
+    },
+    {
+      "en": "That jacket fits well.",
+      "zh": "那件短上衣很合身。"
+    },
+    {
+      "en": "Her fits are now controlled by drugs.",
+      "zh": "她的病现已用药物控制，没有发作。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "一阵（fit的复数）；阵发；合身的衣服",
+      "words": [
+        "puffs"
+      ]
+    }
+  ]
+}

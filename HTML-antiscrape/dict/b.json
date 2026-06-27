@@ -1,0 +1,35 @@
+{
+  "word": "b",
+  "found": true,
+  "phonetic_uk": "biː",
+  "phonetic_us": "biː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=b&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=b&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "乙等（成绩）；英语字母的第二个字母"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "b's或bs"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I got B plus (B+) in the test.",
+      "zh": "我考试得了个B+。"
+    },
+    {
+      "en": "I was assigned to B platoon.",
+      "zh": "我被派到B排工作。"
+    },
+    {
+      "en": "The 'b' in 'lamb' is silent.",
+      "zh": "lamb中的b不发音。"
+    }
+  ],
+  "synonyms": []
+}

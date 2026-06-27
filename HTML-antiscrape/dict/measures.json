@@ -1,0 +1,38 @@
+{
+  "word": "measures",
+  "found": true,
+  "phonetic_uk": "ˈmeʒəz",
+  "phonetic_us": "ˈmeʒərz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=measures&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=measures&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "措施；层组（measure 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "测量（measure 的第三人称单数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Measures）梅热斯（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Do these measures go far enough?",
+      "zh": "这些措施能不能解决问题？"
+    },
+    {
+      "en": "The measures were decried as useless.",
+      "zh": "这些措施受到指责，说是不起作用。"
+    },
+    {
+      "en": "Such security measures may be overkill.",
+      "zh": "如此安全措施可能是过分之举。"
+    }
+  ],
+  "synonyms": []
+}

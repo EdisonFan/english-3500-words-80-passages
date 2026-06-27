@@ -1,0 +1,87 @@
+{
+  "word": "league",
+  "found": true,
+  "phonetic_uk": "liːɡ",
+  "phonetic_us": "liːɡ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=league&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=league&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "联盟，同盟；（体育项目）联合会，社团；联赛；级别，水平；里格（旧时长度单位，约等于5公里）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（与……）组成联盟，加入联盟"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （League）（英）利格（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "leagues"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "leagues"
+    },
+    {
+      "name": "现在分词",
+      "value": "leaguing"
+    },
+    {
+      "name": "过去式",
+      "value": "leagued"
+    },
+    {
+      "name": "过去分词",
+      "value": "leagued"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They're top of the league.",
+      "zh": "他们是联赛的领头羊。"
+    },
+    {
+      "en": "United were league champions last season.",
+      "zh": "联队是上个赛季的联赛冠军。"
+    },
+    {
+      "en": "The New England team is the worst in the league.",
+      "zh": "该新英格兰队是联盟中最差劲的球队。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "联盟；社团；范畴",
+      "words": [
+        "alliance",
+        "union",
+        "association",
+        "society",
+        "corporation",
+        "category"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使…结盟；与…联合",
+      "words": [
+        "stand in with"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "团结；结盟",
+      "words": [
+        "rally",
+        "unite"
+      ]
+    }
+  ]
+}

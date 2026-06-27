@@ -1,0 +1,42 @@
+{
+  "word": "healthy",
+  "found": true,
+  "phonetic_uk": "ˈhelθi",
+  "phonetic_us": "ˈhelθi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=healthy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=healthy&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "健康的，健壮的；有益身心的；明智的，合理的；运作良好的，兴旺发达的；大量的，可观的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He has a healthy appetite.",
+      "zh": "他有健康的胃口。"
+    },
+    {
+      "en": "She was delivered of a healthy boy.",
+      "zh": "她生下一个健康的男孩儿。"
+    },
+    {
+      "en": "She's fanatical about healthy eating.",
+      "zh": "她对健康饮食着了迷。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "健康的，健全的；有益于健康的",
+      "words": [
+        "robust",
+        "fit",
+        "sound",
+        "fine",
+        "well"
+      ]
+    }
+  ]
+}

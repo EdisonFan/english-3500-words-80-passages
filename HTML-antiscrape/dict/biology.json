@@ -1,0 +1,44 @@
+{
+  "word": "biology",
+  "found": true,
+  "phonetic_uk": "baɪˈɒlədʒi",
+  "phonetic_us": "baɪˈɑːlədʒi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=biology&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=biology&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "生物学；生命机理，作用方式；生理习性；（某个地区的）生物"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "biologies"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Biology is my favourite subject.",
+      "zh": "生物是我最喜欢的学科。"
+    },
+    {
+      "en": "We dissected a frog in biology class.",
+      "zh": "我们在生物课上解剖了一只青蛙。"
+    },
+    {
+      "en": "I'm doing physics, biology and chemistry.",
+      "zh": "我在学物理、生物和化学。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "（一个地区全部的）[生物]生物；生物学",
+      "words": [
+        "life-form",
+        "living things"
+      ]
+    }
+  ]
+}

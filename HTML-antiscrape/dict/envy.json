@@ -1,0 +1,72 @@
+{
+  "word": "envy",
+  "found": true,
+  "phonetic_uk": "ˈenvi",
+  "phonetic_us": "ˈenvi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=envy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=envy&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "羡慕，忌妒；向往，渴望（别人的东西）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "妒忌，羡慕；令人羡慕的人（或事物）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "envies"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "envies"
+    },
+    {
+      "name": "现在分词",
+      "value": "envying"
+    },
+    {
+      "name": "过去式",
+      "value": "envied"
+    },
+    {
+      "name": "过去分词",
+      "value": "envied"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I envy you having such a close family.",
+      "zh": "我羡慕你有这么一个亲密的家庭。"
+    },
+    {
+      "en": "Their economy is the envy of the developing world.",
+      "zh": "他们的经济令发展中国家羡慕。"
+    },
+    {
+      "en": "I don't envy her that job.",
+      "zh": "我庆幸不必干她的那份工作。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "嫉妒，妒忌；羡慕",
+      "words": [
+        "jealousy",
+        "green-eyed monster"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "嫉妒，妒忌；羡慕",
+      "words": [
+        "green eyed",
+        "be jealous"
+      ]
+    }
+  ]
+}

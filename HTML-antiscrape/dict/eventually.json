@@ -1,0 +1,40 @@
+{
+  "word": "eventually",
+  "found": true,
+  "phonetic_uk": "ɪˈventʃuəli",
+  "phonetic_us": "ɪˈventʃuəli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=eventually&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=eventually&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "最终，结果"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The camera eventually tracked away.",
+      "zh": "摄影机最终将镜头推远。"
+    },
+    {
+      "en": "Eventually the search was called off.",
+      "zh": "搜查最后被取消了。"
+    },
+    {
+      "en": "They eventually rolled up two hours late.",
+      "zh": "他们最终晚来了两小时。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "最后，终于",
+      "words": [
+        "finally",
+        "ultimately",
+        "lastly"
+      ]
+    }
+  ]
+}

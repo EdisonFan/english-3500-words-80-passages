@@ -1,0 +1,70 @@
+{
+  "word": "craft",
+  "found": true,
+  "phonetic_uk": "krɑːft",
+  "phonetic_us": "kræft",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=craft&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=craft&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "工艺，手艺；船，艇，飞行器；诡计，骗术；行业，职业；手工艺品"
+    },
+    {
+      "pos": "v.",
+      "meaning": "精心制作"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Craft）（英、德、罗）克拉夫特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "crafts或craft"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "crafts"
+    },
+    {
+      "name": "现在分词",
+      "value": "crafting"
+    },
+    {
+      "name": "过去式",
+      "value": "crafted"
+    },
+    {
+      "name": "过去分词",
+      "value": "crafted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He has a genuine and abiding love of the craft.",
+      "zh": "他对这门手艺有着一种发自内心和持久不变的热爱。"
+    },
+    {
+      "en": "The distinction between craft and fine art is more controversial.",
+      "zh": "工艺和美术之间的区别更有争议。"
+    },
+    {
+      "en": "Craft Resources also sells yarn and embroidery floss.",
+      "zh": "“手工之家”也售卖纱线和绣花丝线。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "工艺；手艺；太空船",
+      "words": [
+        "technology",
+        "hand",
+        "ship",
+        "workmanship"
+      ]
+    }
+  ]
+}

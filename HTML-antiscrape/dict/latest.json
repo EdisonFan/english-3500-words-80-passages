@@ -1,0 +1,45 @@
+{
+  "word": "latest",
+  "found": true,
+  "phonetic_uk": "ˈleɪtɪst",
+  "phonetic_us": "ˈleɪtɪst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=latest&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=latest&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "最近的，最新的；<古>最迟的，最后的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "最新事物，最新消息（the latest）；最迟，最晚（at the latest）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Have you heard the latest news?",
+      "zh": "你得到最新消息了吗？"
+    },
+    {
+      "en": "The latest trend is gardening.",
+      "zh": "最新的时尚是园艺。"
+    },
+    {
+      "en": "His latest novel is a humdinger.",
+      "zh": "他最新的一部小说棒极了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "最新的，最近的；最迟的",
+      "words": [
+        "recent",
+        "current",
+        "last",
+        "nearest"
+      ]
+    }
+  ]
+}

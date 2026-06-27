@@ -1,0 +1,47 @@
+{
+  "word": "method",
+  "found": true,
+  "phonetic_uk": "ˈmeθəd",
+  "phonetic_us": "ˈmeθəd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=method&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=method&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "方法，办法；条理；体验派表演方法"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "methods"
+    }
+  ],
+  "examples": [
+    {
+      "en": "There is just one method that might work.",
+      "zh": "只有一个方法可能起作用。"
+    },
+    {
+      "en": "The most frequently used method is radiocarbon dating.",
+      "zh": "最常用的方法是放射性碳定年法。"
+    },
+    {
+      "en": "The pill is the most efficient method of birth control.",
+      "zh": "避孕药是最有效的节育办法。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "方法；条理；类函数",
+      "words": [
+        "approach",
+        "way",
+        "system",
+        "medium",
+        "how"
+      ]
+    }
+  ]
+}

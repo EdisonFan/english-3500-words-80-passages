@@ -1,0 +1,43 @@
+{
+  "word": "don't",
+  "found": true,
+  "phonetic_uk": "dəʊnt",
+  "phonetic_us": "doʊnt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=don't&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=don't&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "禁忌（等于do not）"
+    },
+    {
+      "pos": "aux.",
+      "meaning": "表示否定（等于do not）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Heck, if you don't like it, don't vote for him.",
+      "zh": "真是的！如果你不喜欢，就不要投他的票。"
+    },
+    {
+      "en": "Don't be afraid to ask if you don't understand.",
+      "zh": "你要是不懂，尽管问好了。"
+    },
+    {
+      "en": "Don't lower yourself, don't be the way they are.",
+      "zh": "不要贬低自己的身份，别像他们那样。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "禁忌（等于do not）",
+      "words": [
+        "ban",
+        "no-no"
+      ]
+    }
+  ]
+}

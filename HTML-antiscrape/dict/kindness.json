@@ -1,0 +1,49 @@
+{
+  "word": "kindness",
+  "found": true,
+  "phonetic_uk": "ˈkaɪndnəs",
+  "phonetic_us": "ˈkaɪndnəs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=kindness&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=kindness&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "友好，仁慈，善良；善行，善举"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Kindness）（英）坎德尼斯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "kindnesses"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He is kindness personified.",
+      "zh": "他是仁慈的化身。"
+    },
+    {
+      "en": "He is entranced by the kindness of her smile.",
+      "zh": "她善意的微笑令他着迷。"
+    },
+    {
+      "en": "His sweet nature and kindness made him a keeper, she said.",
+      "zh": "她说他的可爱和善良使他成为值得珍视的人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "仁慈；好意；友好的行为",
+      "words": [
+        "humanity",
+        "mercy",
+        "benevolence"
+      ]
+    }
+  ]
+}

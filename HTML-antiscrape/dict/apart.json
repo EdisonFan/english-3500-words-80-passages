@@ -1,0 +1,46 @@
+{
+  "word": "apart",
+  "found": true,
+  "phonetic_uk": "əˈpɑːt",
+  "phonetic_us": "əˈpɑːrt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=apart&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=apart&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "（空间或时间）相隔，相距；拆开，成碎片；解体，崩溃；分开，分离；与众不同地，独特地；除了……外；远远地"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "意见不一致的，有分歧的；分开的；与众不同的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "It's difficult to tell them apart.",
+      "zh": "很难把他们区分开来。"
+    },
+    {
+      "en": "I like all sports apart from football.",
+      "zh": "除足球外我喜欢所有的运动。"
+    },
+    {
+      "en": "They grew ever further apart.",
+      "zh": "他们愈发疏远了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "分离的；与众不同的",
+      "words": [
+        "unusual",
+        "different",
+        "distinctive",
+        "isolated",
+        "separating"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "word": "born",
+  "found": true,
+  "phonetic_uk": "bɔːn",
+  "phonetic_us": "bɔːrn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=born&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=born&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "天生的，生来就有的；出生的；产生的，（机构、想法等）问世的"
+    },
+    {
+      "pos": "",
+      "meaning": "comb. 以……的顺序（或方式、地点等）出生的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "忍受；承担；具有（bear 的过去分词形式）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Born）（英、美、德、爱、丹）博恩（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "My baby was born with listeria.",
+      "zh": "我的宝宝出生时感染有李斯特菌。"
+    },
+    {
+      "en": "Some people are born brainy.",
+      "zh": "有些人生来就聪明。"
+    },
+    {
+      "en": "I was born on Christmas Day.",
+      "zh": "我出生在圣诞节。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "天生的",
+      "words": [
+        "natural",
+        "inborn"
+      ]
+    }
+  ]
+}

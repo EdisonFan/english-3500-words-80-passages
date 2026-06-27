@@ -1,0 +1,56 @@
+{
+  "word": "depress",
+  "found": true,
+  "phonetic_uk": "dɪˈpres",
+  "phonetic_us": "dɪˈpres",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=depress&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=depress&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "使抑郁，使沮丧；降低，抑制；使萧条，使不景气；按下，压下"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "depresses"
+    },
+    {
+      "name": "现在分词",
+      "value": "depressing"
+    },
+    {
+      "name": "过去式",
+      "value": "depressed"
+    },
+    {
+      "name": "过去分词",
+      "value": "depressed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Subsidies allow growers to undercut competitors and depress world prices.",
+      "zh": "补贴使得种植者能以低于竞争对手的价格出售并压低世界价格。"
+    },
+    {
+      "en": "The atmosphere began to depress me.",
+      "zh": "气氛开始使我感到压抑。"
+    },
+    {
+      "en": "Runaway inflation will depress the economy.",
+      "zh": "无法控制的通货膨胀将会使经济萧条。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "压低；使沮丧；使萧条",
+      "words": [
+        "drive down",
+        "weigh down"
+      ]
+    }
+  ]
+}

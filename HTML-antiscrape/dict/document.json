@@ -1,0 +1,64 @@
+{
+  "word": "document",
+  "found": true,
+  "phonetic_uk": "ˈdɒkjumənt",
+  "phonetic_us": "ˈdɑːkjumənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=document&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=document&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "文件，公文，文献；证件，单据；（计算机）文件，文档"
+    },
+    {
+      "pos": "v.",
+      "meaning": "记录，记载（详情）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "documents"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "documents"
+    },
+    {
+      "name": "现在分词",
+      "value": "documenting"
+    },
+    {
+      "name": "过去式",
+      "value": "documented"
+    },
+    {
+      "name": "过去分词",
+      "value": "documented"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The document bore her signature.",
+      "zh": "文件上有她的签字。"
+    },
+    {
+      "en": "Has this document been proofread?",
+      "zh": "这份文件校对过没有？"
+    },
+    {
+      "en": "Press Exit to return to your document.",
+      "zh": "按“退出”键返回到你的文档。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "文件，公文；[计]文档；[管理]证件",
+      "words": [
+        "file",
+        "paper"
+      ]
+    }
+  ]
+}

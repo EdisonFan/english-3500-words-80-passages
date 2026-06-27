@@ -1,0 +1,57 @@
+{
+  "word": "following",
+  "found": true,
+  "phonetic_uk": "ˈfɒləʊɪŋ",
+  "phonetic_us": "ˈfɑːloʊɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=following&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=following&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "之后的，接下来的；下列的，以下的；顺风的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "追随者，拥护者"
+    },
+    {
+      "pos": "prep.",
+      "meaning": "在……之后，紧接着"
+    },
+    {
+      "pos": "v.",
+      "meaning": "跟随；沿行；（时间、顺序）排在……之后（follow 的现在分词形式）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "followings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The following is a summary of events.",
+      "zh": "现将重大事件综述如下。"
+    },
+    {
+      "en": "Underline the following that apply to you.",
+      "zh": "在以下适用于你的部分下面划线。"
+    },
+    {
+      "en": "Are the following statements true or false?",
+      "zh": "下面的说法对不对？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "下面的；其次的，接着的",
+      "words": [
+        "under",
+        "coming",
+        "next"
+      ]
+    }
+  ]
+}

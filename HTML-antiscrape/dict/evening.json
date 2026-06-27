@@ -1,0 +1,60 @@
+{
+  "word": "evening",
+  "found": true,
+  "phonetic_uk": "ˈiːvnɪŋ",
+  "phonetic_us": "ˈiːvnɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=evening&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=evening&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "晚上，傍晚；晚会，晚间活动；暮年，晚年"
+    },
+    {
+      "pos": "int.",
+      "meaning": "晚上好（good evening 的简称）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "在晚上的，为晚上的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "evenings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The evening passed enjoyably.",
+      "zh": "这个晚上过得很愉快。"
+    },
+    {
+      "en": "Doubts nagged me all evening.",
+      "zh": "我一晚上都没有摆脱心中的疑虑。"
+    },
+    {
+      "en": "I'll see you tomorrow evening.",
+      "zh": "我明天晚上见你。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "晚上；傍晚；（联欢性的）晚会；后期",
+      "words": [
+        "night",
+        "eve",
+        "sunset"
+      ]
+    },
+    {
+      "pos": "int.",
+      "meaning": "晚上好（等于good evening）",
+      "words": [
+        "bonsoir"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "word": "Internet",
+  "found": true,
+  "phonetic_uk": "ˈɪntənet",
+  "phonetic_us": "ˈɪntərnet",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=Internet&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=Internet&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "因特网，互联网"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I looked it up on the Internet.",
+      "zh": "我在互联网上查过此事。"
+    },
+    {
+      "en": "I'm jacking into the Internet now.",
+      "zh": "我正要接入互联网。"
+    },
+    {
+      "en": "Distance is no problem on the Internet.",
+      "zh": "在互联网上距离已不成为问题。"
+    }
+  ],
+  "synonyms": []
+}

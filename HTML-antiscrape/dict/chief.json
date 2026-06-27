@@ -1,0 +1,75 @@
+{
+  "word": "chief",
+  "found": true,
+  "phonetic_uk": "tʃiːf",
+  "phonetic_us": "tʃiːf",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=chief&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=chief&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "首要的，主要的；为首的，首席的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "领袖，首领；酋长；（纹章）上段（盾徽顶部的宽横带）"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "主要地；首要地"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "chiefs"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Unemployment was the chief cause of poverty.",
+      "zh": "失业是贫穷的主要原因。"
+    },
+    {
+      "en": "Rainey's chief interest in life is hunting with hounds.",
+      "zh": "雷尼一生中的主要嗜好是带着猎犬去打猎。"
+    },
+    {
+      "en": "Yesterday saw the resignation of the chief financial officer.",
+      "zh": "昨天，首席财政长官辞职了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "首领；酋长；主要部分",
+      "words": [
+        "leader",
+        "captain",
+        "boss"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "首席的；主要的；主任的",
+      "words": [
+        "primary",
+        "major",
+        "central",
+        "leading",
+        "great"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "主要地；首要地",
+      "words": [
+        "mainly",
+        "basically",
+        "largely",
+        "mostly",
+        "primarily"
+      ]
+    }
+  ]
+}

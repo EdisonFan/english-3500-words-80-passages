@@ -1,0 +1,48 @@
+{
+  "word": "desk",
+  "found": true,
+  "phonetic_uk": "desk",
+  "phonetic_us": "desk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=desk&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=desk&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "书桌，办公桌，写字台；服务台，问询台；（办理某项业务的）部门；乐谱架，演奏者席；<美>（报社）编辑部"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "书桌的，桌上适合用的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "desks"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The desk looked undisturbed.",
+      "zh": "那张书桌子看上去没有被动过。"
+    },
+    {
+      "en": "A phone trilled on the desk.",
+      "zh": "办公桌上的电话丁零零地响了。"
+    },
+    {
+      "en": "She was sitting at her desk.",
+      "zh": "她坐在书桌前。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[家具]办公桌；服务台；编辑部；（美）讲道台；乐谱架",
+      "words": [
+        "bureau",
+        "Information Counter"
+      ]
+    }
+  ]
+}

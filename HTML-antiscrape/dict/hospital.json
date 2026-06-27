@@ -1,0 +1,47 @@
+{
+  "word": "hospital",
+  "found": true,
+  "phonetic_uk": "ˈhɒspɪt(ə)l",
+  "phonetic_us": "ˈhɑːspɪt(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=hospital&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=hospital&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "医院；青年教育慈善机构；<史>（尤指僧侣骑士团所办的）慈善招待所"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Hospital）（英）霍斯皮特尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "hospitals"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The VA hospital needs renovation.",
+      "zh": "退伍军人管理局的医院需要进行整修。"
+    },
+    {
+      "en": "He died in (the) hospital.",
+      "zh": "他在医院里去世。"
+    },
+    {
+      "en": "I met her at the hospital.",
+      "zh": "我在医院遇见了她。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[医]医院",
+      "words": [
+        "infirmary"
+      ]
+    }
+  ]
+}

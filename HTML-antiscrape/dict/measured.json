@@ -1,0 +1,50 @@
+{
+  "word": "measured",
+  "found": true,
+  "phonetic_uk": "ˈmeʒəd",
+  "phonetic_us": "ˈmeʒərd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=measured&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=measured&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "慎重而缓慢的，慎重的；慢而稳的，有节奏的；量过的；基于标准的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "测量；（指尺寸、长短、数量等）量度为；估量，判定（重要性、价值或影响等）（measure 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "A ship's speed is measured in knots.",
+      "zh": "船速以节测量。"
+    },
+    {
+      "en": "In the US, distance is measured in miles.",
+      "zh": "在美国，测量距离以英里作单位。"
+    },
+    {
+      "en": "Can these effects be objectively measured?",
+      "zh": "这些结果能客观地衡量吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "量过的；慎重的；基于标准的；有规则的",
+      "words": [
+        "circumspective",
+        "deliberative"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "测量，判断（measure的过去分词）",
+      "words": [
+        "gauged"
+      ]
+    }
+  ]
+}

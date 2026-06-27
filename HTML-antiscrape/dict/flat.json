@@ -1,0 +1,103 @@
+{
+  "word": "flat",
+  "found": true,
+  "phonetic_uk": "flæt",
+  "phonetic_us": "flæt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=flat&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=flat&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "平的，水平的；平坦的；（水面）平静的，波澜不兴的；平滑的；平放的，平躺的，平卧的；足弓平坦的；扁平的；（鞋）平跟的，低跟的；断然的，直截了当的；（费率、价格等）统一的，固定的；（市场、价格等）疲软的，萧条的；枯燥的，无趣的，缺乏热情的；（饮品）走了气的；（轮胎）没气的，瘪的；（电池）电力不足的，没电的；平淡的，无变化的；（音符）降半音的；音调偏低的；色彩单调的，无反差的，无景深的；无光泽的；（图表上的线）平的，无变化的；（组织或系统）内部层次不多的；（关于）无障碍平地赛马的；（面包）未发酵的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "水平地；平整地；平贴着；正好；完全地，彻底地；音调偏低地"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<英>公寓，单元房；（通常指近水的）浅滩，洼地；（某物的）平面部份；（音符的）降半音；降半音符号；<美>浅箱，浅苗床；平底鞋，低跟鞋（flats）；漏气轮胎；平板列车，敞车，平台货车；平面布景，布景屏；无障碍平地赛马季节（the Flat）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "住公寓，伙住公寓；<美>（乐）把（音调）降半音"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Flat）（法）弗拉特，（英）弗莱特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "flats"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "flats"
+    },
+    {
+      "name": "现在分词",
+      "value": "flatting"
+    },
+    {
+      "name": "过去式",
+      "value": "flatted"
+    },
+    {
+      "name": "过去分词",
+      "value": "flatted"
+    },
+    {
+      "name": "比较级",
+      "value": "flatter"
+    },
+    {
+      "name": "最高级",
+      "value": "flattest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The cloth should be laid flat.",
+      "zh": "布应展开平放。"
+    },
+    {
+      "en": "Her voice was flat and expressionless.",
+      "zh": "她的声音平淡而呆板。"
+    },
+    {
+      "en": "The countryside is flat and featureless.",
+      "zh": "这乡村一马平川，平淡无奇。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "平坦的；扁平的；浅的；单调的",
+      "words": [
+        "even",
+        "low",
+        "level",
+        "shallow",
+        "blank"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "平直地；断然地",
+      "words": [
+        "positively",
+        "emphatically"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "平地；平面；公寓",
+      "words": [
+        "apartment",
+        "plane"
+      ]
+    }
+  ]
+}

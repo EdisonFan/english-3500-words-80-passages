@@ -1,0 +1,44 @@
+{
+  "word": "army",
+  "found": true,
+  "phonetic_uk": "ˈɑːmi",
+  "phonetic_us": "ˈɑːrmi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=army&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=army&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "陆军，军队；大批，大群"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "armies"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They were old army comrades.",
+      "zh": "他们是部队的老战友。"
+    },
+    {
+      "en": "Perkins joined the Army in 1990.",
+      "zh": "珀金斯于1990年加入了陆军。"
+    },
+    {
+      "en": "He has applied to join the army.",
+      "zh": "他已报名参军。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "陆军，[军]军队",
+      "words": [
+        "battalion",
+        "heer"
+      ]
+    }
+  ]
+}

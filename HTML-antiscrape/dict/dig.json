@@ -1,0 +1,83 @@
+{
+  "word": "dig",
+  "found": true,
+  "phonetic_uk": "dɪɡ",
+  "phonetic_us": "dɪɡ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dig&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dig&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "搜寻，寻找；<非正式，旧>喜欢；挖，掘"
+    },
+    {
+      "pos": "n.",
+      "meaning": "挖苦，嘲讽；（用手指或肘部）轻碰，轻戳；考古发掘"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Dig）（罗）迪格（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "digs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "digs"
+    },
+    {
+      "name": "现在分词",
+      "value": "digging"
+    },
+    {
+      "name": "过去式",
+      "value": "dug"
+    },
+    {
+      "name": "过去分词",
+      "value": "dug"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She gave him a dig in the ribs.",
+      "zh": "她轻轻地戳了一下他的肋部。"
+    },
+    {
+      "en": "I'll dig some potatoes for lunch.",
+      "zh": "我要挖点土豆作午餐。"
+    },
+    {
+      "en": "Will you dig a little into his past and see what you find?",
+      "zh": "你稍微探究一下他的过去看看能发现什么，好吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "挖，掘；探究",
+      "words": [
+        "tunnel",
+        "pick"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "挖掘",
+      "words": [
+        "tap into"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "戳，刺；挖苦",
+      "words": [
+        "spine",
+        "thrust"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "word": "basis",
+  "found": true,
+  "phonetic_uk": "ˈbeɪsɪs",
+  "phonetic_us": "ˈbeɪsɪs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=basis&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=basis&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "基础，要素；基准，方式；理由，根据；主要成分（或部分）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "bases"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The basis of a good marriage is trust.",
+      "zh": "美满婚姻的基础是信赖。"
+    },
+    {
+      "en": "Education is the basis of a democratic society.",
+      "zh": "教育是民主社会的基础。"
+    },
+    {
+      "en": "Pay is reviewed on a yearly basis.",
+      "zh": "工资每年审查一次。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "基础；底部；主要成分；基本原则或原理",
+      "words": [
+        "elements",
+        "foundation",
+        "base",
+        "bed",
+        "bottom"
+      ]
+    }
+  ]
+}

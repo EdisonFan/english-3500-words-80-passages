@@ -1,0 +1,43 @@
+{
+  "word": "boxing",
+  "found": true,
+  "phonetic_uk": "ˈbɒksɪŋ",
+  "phonetic_us": "ˈbɑːksɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=boxing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=boxing&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "拳击（运动）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "将……装入盒中（box 的现在分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I chose boxing because it is my favourite sport.",
+      "zh": "我选择了拳击，因为那是我最喜爱的运动。"
+    },
+    {
+      "en": "He was once the great white hope of British boxing.",
+      "zh": "他一度曾是英国拳击的希望所在。"
+    },
+    {
+      "en": "He will never again be allowed inside a boxing ring.",
+      "zh": "他将再也不会被允许进入拳击场了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "拳击；[交]装箱；围模；[轻]做箱的材料",
+      "words": [
+        "pugilism",
+        "incasement"
+      ]
+    }
+  ]
+}

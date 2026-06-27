@@ -1,0 +1,76 @@
+{
+  "word": "bunch",
+  "found": true,
+  "phonetic_uk": "bʌntʃ",
+  "phonetic_us": "bʌntʃ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bunch&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bunch&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "束，串，扎；一伙，一群；大量；<英>发辫（bunches）；突起"
+    },
+    {
+      "pos": "v.",
+      "meaning": "捆，扎，使集中；收紧，起褶"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Bunch）（英）邦奇（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "bunches"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "bunches"
+    },
+    {
+      "name": "现在分词",
+      "value": "bunching"
+    },
+    {
+      "name": "过去式",
+      "value": "bunched"
+    },
+    {
+      "name": "过去分词",
+      "value": "bunched"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They're a great bunch of guys.",
+      "zh": "他们是一群很棒的小伙子。"
+    },
+    {
+      "en": "She picked me a bunch of flowers.",
+      "zh": "她给我采了一束鲜花。"
+    },
+    {
+      "en": "She was given a huge bunch of flowers.",
+      "zh": "有人给她送了一大束花。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "群；串；突出物",
+      "words": [
+        "cluster",
+        "gang",
+        "qun"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "隆起；打褶；形成一串",
+      "words": [
+        "fix pleats"
+      ]
+    }
+  ]
+}

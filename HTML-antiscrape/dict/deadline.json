@@ -1,0 +1,35 @@
+{
+  "word": "deadline",
+  "found": true,
+  "phonetic_uk": "ˈdedlaɪn",
+  "phonetic_us": "ˈdedlaɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=deadline&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=deadline&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "最后期限，截止日期；<史>（监狱周围的）死线"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "deadlines"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I prefer to work to a deadline.",
+      "zh": "我喜欢按规定的期限完成工作。"
+    },
+    {
+      "en": "They were trying to beat the midnight deadline.",
+      "zh": "他们正在试图赶在午夜的最后期限前完成。"
+    },
+    {
+      "en": "I can't possibly meet that deadline.",
+      "zh": "我不可能如期完成。"
+    }
+  ],
+  "synonyms": []
+}

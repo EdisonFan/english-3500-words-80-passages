@@ -1,0 +1,75 @@
+{
+  "word": "fruit",
+  "found": true,
+  "phonetic_uk": "fruːt",
+  "phonetic_us": "fruːt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fruit&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fruit&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "水果；（植物的）果实；成果，结果，后果；（自然的）产物，物产；<古>子孙，后代；<美，非正式>男同性恋者"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）结果实"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Fruit）（英）弗鲁特，（法）弗吕（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "fruits或fruit"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "fruits"
+    },
+    {
+      "name": "现在分词",
+      "value": "fruiting"
+    },
+    {
+      "name": "过去式",
+      "value": "fruited"
+    },
+    {
+      "name": "过去分词",
+      "value": "fruited"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They eat mainly fruit and nuts.",
+      "zh": "他们主要吃水果和坚果。"
+    },
+    {
+      "en": "The fruit are small and round.",
+      "zh": "这种水果小而圆。"
+    },
+    {
+      "en": "The fruit was drowned in cream.",
+      "zh": "水果在奶油里泡过。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[食品]水果；产物",
+      "words": [
+        "child",
+        "creation"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "[植]结果实",
+      "words": [
+        "bear"
+      ]
+    }
+  ]
+}

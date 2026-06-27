@@ -1,0 +1,86 @@
+{
+  "word": "estimate",
+  "found": true,
+  "phonetic_uk": "ˈestɪmət; ˈestɪmeɪt",
+  "phonetic_us": "ˈestɪmət; ˈestɪmeɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=estimate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=estimate&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "估计；判断，评价"
+    },
+    {
+      "pos": "n.",
+      "meaning": "估计，估价；估价单；看法，判断"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "estimates"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "estimates"
+    },
+    {
+      "name": "现在分词",
+      "value": "estimating"
+    },
+    {
+      "name": "过去式",
+      "value": "estimated"
+    },
+    {
+      "name": "过去分词",
+      "value": "estimated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "My estimate was bang on target.",
+      "zh": "我的估计完全准确。"
+    },
+    {
+      "en": "That estimate was right on the mark.",
+      "zh": "那个估计分毫不差。"
+    },
+    {
+      "en": "Police estimate the crowd at 30 000.",
+      "zh": "警方估计聚集的人有3万。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "估计，估价",
+      "words": [
+        "evaluate",
+        "guess at"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "估计，估价；判断，看法",
+      "words": [
+        "computation",
+        "appraisal",
+        "calculation",
+        "assessment",
+        "judgment",
+        "evaluation",
+        "viewpoint"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "估计，[数]估量；判断，评价",
+      "words": [
+        "measure",
+        "value",
+        "score"
+      ]
+    }
+  ]
+}

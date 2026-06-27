@@ -1,0 +1,59 @@
+{
+  "word": "meowing",
+  "found": true,
+  "phonetic_uk": "miˈaʊ",
+  "phonetic_us": "miˈaʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=meowing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=meowing&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "<美>（猫）喵喵叫"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<美>（猫叫声）喵"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Meow）（俄、美、马、印、新）米奥（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "meows"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "meows"
+    },
+    {
+      "name": "现在分词",
+      "value": "meowing"
+    },
+    {
+      "name": "过去式",
+      "value": "meowed"
+    },
+    {
+      "name": "过去分词",
+      "value": "meowed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "A skinny little kitchen I heard meowing outside the house.",
+      "zh": "我听到在房子的外面猫叫的一个薄的小厨房。"
+    },
+    {
+      "en": "I heard some meowing, and discovered another kitten under the deck.",
+      "zh": "我听到一阵喵喵叫，发现平台底下还有一只小猫。"
+    },
+    {
+      "en": "He'd also stay up meowing for hours some nights, and we'd call it his' Elvis croon.",
+      "zh": "他还保持喵喵叫几个小时，我们会叫他猫王轻哼。"
+    }
+  ],
+  "synonyms": []
+}

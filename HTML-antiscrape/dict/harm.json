@@ -1,0 +1,77 @@
+{
+  "word": "harm",
+  "found": true,
+  "phonetic_uk": "hɑːm",
+  "phonetic_us": "hɑːrm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=harm&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=harm&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "伤害，损害"
+    },
+    {
+      "pos": "v.",
+      "meaning": "危害，损害（某事物）；伤害（人或动物）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Harm）（德）哈尔姆（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "harms"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "harms"
+    },
+    {
+      "name": "现在分词",
+      "value": "harming"
+    },
+    {
+      "name": "过去式",
+      "value": "harmed"
+    },
+    {
+      "name": "过去分词",
+      "value": "harmed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He would never harm anyone.",
+      "zh": "他永远不会伤害任何人。"
+    },
+    {
+      "en": "She could not believe that he wished her harm.",
+      "zh": "她不能相信他希望她受到伤害。"
+    },
+    {
+      "en": "Pollution can harm marine life.",
+      "zh": "污染会危及海洋生物。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "伤害；损害",
+      "words": [
+        "damage",
+        "detriment"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "伤害；危害；损害",
+      "words": [
+        "hurt",
+        "knife",
+        "injure"
+      ]
+    }
+  ]
+}

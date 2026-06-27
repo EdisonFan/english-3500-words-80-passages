@@ -1,0 +1,48 @@
+{
+  "word": "anybody",
+  "found": true,
+  "phonetic_uk": "ˈenibɒdi",
+  "phonetic_us": "ˈenibɑːdi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=anybody&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=anybody&type=2",
+  "defs": [
+    {
+      "pos": "pron.",
+      "meaning": "任何人；有人，别人；随便哪一个人"
+    },
+    {
+      "pos": "n.",
+      "meaning": "重要人物；平常人"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "anybodies"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Hello, is there anybody there?",
+      "zh": "喂，那里有人吗？"
+    },
+    {
+      "en": "Anybody can see that it's wrong.",
+      "zh": "随便哪个人都可以看出这是错的。"
+    },
+    {
+      "en": "Is there anybody who can help me?",
+      "zh": "有人能帮我吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "重要人物",
+      "words": [
+        "somebody",
+        "leading light"
+      ]
+    }
+  ]
+}

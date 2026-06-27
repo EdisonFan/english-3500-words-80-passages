@@ -1,0 +1,83 @@
+{
+  "word": "drag",
+  "found": true,
+  "phonetic_uk": "dræɡ",
+  "phonetic_us": "dræɡ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=drag&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=drag&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "拖，拽；生拉硬拽，强迫；硬撑着行进，费劲地移动；拖沓；用鼠标拖动；用网（或钩）搜索；（使）拖地而行；把……扯进（谈话中）；（船）拖锚，走锚"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<非正式>乏味无聊的事（人）；累赘，拖累；吸一口（烟）；阻力，抗力；穿异性服装；<非正式>街，路；<英，非正式>汽车；<美，非正式>（对其他人的）影响（力）；（用力或费力的）拖，曳；（拉钓线时引起的假蝇的）异动；<史>（四匹马拉的）高大私人马车；被拖（或拉）之物；<史>重型耙，耢；（拖在猎犬前面代替狐狸用的具有强烈气味的）人工臭迹；每次敲击前用另一只鼓槌先击两个装饰音（基本的击鼓模式之一）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Drag）（匈）德劳格（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "drags"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "drags"
+    },
+    {
+      "name": "现在分词",
+      "value": "dragging"
+    },
+    {
+      "name": "过去式",
+      "value": "dragged"
+    },
+    {
+      "name": "过去分词",
+      "value": "dragged"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Walking's a drag—let's drive there.",
+      "zh": "步行太累了—咱们开车去吧。"
+    },
+    {
+      "en": "I managed to drag myself out of bed.",
+      "zh": "我总算硬撑着从床上爬了起来。"
+    },
+    {
+      "en": "She took a long drag on her cigarette.",
+      "zh": "她长长地抽了一大口烟。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "拖累；拖拉；缓慢而吃力地行进",
+      "words": [
+        "cumber with",
+        "ball and chain"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "拖曳；缓慢而吃力地行进",
+      "words": [
+        "daggle"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "拖；拖累",
+      "words": [
+        "pull",
+        "tow"
+      ]
+    }
+  ]
+}

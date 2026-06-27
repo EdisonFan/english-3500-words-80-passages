@@ -1,0 +1,43 @@
+{
+  "word": "ninety",
+  "found": true,
+  "phonetic_uk": "ˈnaɪnti",
+  "phonetic_us": "ˈnaɪnti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ninety&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ninety&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "九十"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "九十的；九十岁的"
+    },
+    {
+      "pos": "num.",
+      "meaning": "九十"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "nineties"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Her weight was under ninety pounds.",
+      "zh": "她的体重不足90磅。"
+    },
+    {
+      "en": "You got here with ninety seconds to spare.",
+      "zh": "你们到达这里时还剩有90秒钟。"
+    },
+    {
+      "en": "You were never a ninety-eight pound weakling.",
+      "zh": "你从来就不是一个体重98磅、体质孱弱的人。"
+    }
+  ],
+  "synonyms": []
+}

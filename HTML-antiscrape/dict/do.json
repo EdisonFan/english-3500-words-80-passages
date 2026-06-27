@@ -1,0 +1,94 @@
+{
+  "word": "do",
+  "found": true,
+  "phonetic_uk": "duː; də",
+  "phonetic_us": "duː; də",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=do&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=do&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "做，干，办（某事）；行动，表现；顺利进行，进展；从事（工作）；执行（任务）；学习，研究；解答，解决，算出；制作，做出；演出，编排（戏剧等）；仿效，模仿；完成，做好；供给，提供；走过，行过；以……速度行进；达到（一定销售额）；参观，游览，旅行；处理；适合，足够；煮制；欺骗；惩罚；（从某地方）盗窃；护理；（非正式）吸（毒）；（非正式）性交；度过（一段时间）；导致，引起；（非正式）痛打，杀死；生长；整理"
+    },
+    {
+      "pos": "aux.",
+      "meaning": "与动词连用构成否定句和疑问句；用于构成疑问尾句；用于避免重复某一动词；用于强调主要动词；用于祈使句中表示礼貌；用于肯定或否定回答；用在倒装句中"
+    },
+    {
+      "pos": "n.",
+      "meaning": "聚会，社交活动；要求，规定; C 大调音阶中的第一音；（口语）事件；（主英国口语）诈骗；（主英国、新西兰口语）宴会；（口语）必须做到的事情；（女子）发型"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Do）多（人名Dorothea和Dorothy的昵称）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "dos或do's"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "does"
+    },
+    {
+      "name": "现在分词",
+      "value": "doing"
+    },
+    {
+      "name": "过去式",
+      "value": "did"
+    },
+    {
+      "name": "过去分词",
+      "value": "done"
+    }
+  ],
+  "examples": [
+    {
+      "en": "What do you propose to do now?",
+      "zh": "现在你打算做什么？"
+    },
+    {
+      "en": "What do you do for a living ?",
+      "zh": "你靠什么谋生？"
+    },
+    {
+      "en": "What do you want to do tomorrow?",
+      "zh": "明天你想做什么？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "要求；规定；C大调音阶中的第一音",
+      "words": [
+        "requirement",
+        "provision",
+        "need",
+        "desire",
+        "demand"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "做；进行；完成；解答",
+      "words": [
+        "accomplish",
+        "carry out",
+        "come",
+        "achieve",
+        "perform"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "做；进行；完成",
+      "words": [
+        "progress",
+        "wage"
+      ]
+    }
+  ]
+}

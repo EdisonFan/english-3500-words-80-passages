@@ -1,0 +1,65 @@
+{
+  "word": "clue",
+  "found": true,
+  "phonetic_uk": "kluː",
+  "phonetic_us": "kluː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=clue&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=clue&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "线索，提示；理解，想法"
+    },
+    {
+      "pos": "v.",
+      "meaning": "给（某人）提供线索，使（某人）了解"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "clues"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "clues"
+    },
+    {
+      "name": "现在分词",
+      "value": "clueing或cluing"
+    },
+    {
+      "name": "过去式",
+      "value": "clued"
+    },
+    {
+      "name": "过去分词",
+      "value": "clued"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The vital clue to the killer's identity was his nickname, Peanuts.",
+      "zh": "关于杀手身份的重大线索是他的绰号——花生。"
+    },
+    {
+      "en": "Geneticists in Canada have discovered a clue to the puzzle of why our cells get old and die.",
+      "zh": "加拿大的遗传学家已经发现了解开我们细胞衰老死亡之迷的线索。"
+    },
+    {
+      "en": "I'm sorry, I haven't a clue.",
+      "zh": "对不起，我一无所知。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "线索；（故事等的）情节",
+      "words": [
+        "action",
+        "plot",
+        "scenario"
+      ]
+    }
+  ]
+}

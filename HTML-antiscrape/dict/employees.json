@@ -1,0 +1,38 @@
+{
+  "word": "employees",
+  "found": true,
+  "phonetic_uk": "ɪmˈplɔɪiːz",
+  "phonetic_us": "ɪmˈplɔɪiːz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=employees&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=employees&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "员工；雇员；从业人员（employee 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The firm has over 500 employees.",
+      "zh": "这家公司有500多名雇员。"
+    },
+    {
+      "en": "All his employees fear him.",
+      "zh": "他的雇员都怕他。"
+    },
+    {
+      "en": "Employees hold 30% of the shares.",
+      "zh": "雇员持有30%的股份。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "员工；雇员；从业人员（emploee的复数）",
+      "words": [
+        "staffs"
+      ]
+    }
+  ]
+}

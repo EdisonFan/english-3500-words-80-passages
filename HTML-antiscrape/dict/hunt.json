@@ -1,0 +1,84 @@
+{
+  "word": "hunt",
+  "found": true,
+  "phonetic_uk": "hʌnt",
+  "phonetic_us": "hʌnt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=hunt&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=hunt&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "打猎，猎取；搜寻，搜索；追踪，追捕；（骑马用猎犬）猎（狐）；摆动，振荡"
+    },
+    {
+      "pos": "n.",
+      "meaning": "搜索，寻找；打猎，狩猎；（英国）猎狐活动；（英国经常举行猎狐运动的）猎狐队伍；猎区，狩猎场；摆动，振荡"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Hunt）（美）安（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "hunts"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "hunts"
+    },
+    {
+      "name": "现在分词",
+      "value": "hunting"
+    },
+    {
+      "name": "过去式",
+      "value": "hunted"
+    },
+    {
+      "name": "过去分词",
+      "value": "hunted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They sleep by day and hunt by night.",
+      "zh": "他们白天睡觉，夜晚捕猎。"
+    },
+    {
+      "en": "As a child I learned to hunt and fish.",
+      "zh": "我孩提时代就学会了打猎和捕鱼。"
+    },
+    {
+      "en": "Capt. Hunt asked which engine was on fire.",
+      "zh": "亨特上尉问是哪个引擎着火了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "打猎；搜索",
+      "words": [
+        "seek",
+        "beat for"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "打猎；搜寻",
+      "words": [
+        "search",
+        "nose about"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "狩猎；搜寻",
+      "words": [
+        "search",
+        "shoot"
+      ]
+    }
+  ]
+}

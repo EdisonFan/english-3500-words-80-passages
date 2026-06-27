@@ -1,0 +1,72 @@
+{
+  "word": "keyboard",
+  "found": true,
+  "phonetic_uk": "ˈkiːbɔːd",
+  "phonetic_us": "ˈkiːbɔːrd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=keyboard&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=keyboard&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（打字机或计算机的）键盘；（钢琴或风琴的）琴键；键盘乐器"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用键盘输入；用键盘操作"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "keyboards"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "keyboards"
+    },
+    {
+      "name": "现在分词",
+      "value": "keyboarding"
+    },
+    {
+      "name": "过去式",
+      "value": "keyboarded"
+    },
+    {
+      "name": "过去分词",
+      "value": "keyboarded"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Tanya's hands rippled over the keyboard.",
+      "zh": "坦尼娅的双手在键盘上起伏摆动。"
+    },
+    {
+      "en": "Treat your keyboard with care and it should last for years.",
+      "zh": "爱惜你的键盘，这样就可以使用很多年。"
+    },
+    {
+      "en": "You can enter text on the QWERTY keyboard or simply write on the screen.",
+      "zh": "你可以用标准键盘输入文本或者直接写在屏幕上。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计]键盘",
+      "words": [
+        "keyset",
+        "key panel",
+        "klavier"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "键入；用键盘式排字机排字",
+      "words": [
+        "key in"
+      ]
+    }
+  ]
+}

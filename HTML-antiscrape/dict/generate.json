@@ -1,0 +1,56 @@
+{
+  "word": "generate",
+  "found": true,
+  "phonetic_uk": "ˈdʒenəreɪt",
+  "phonetic_us": "ˈdʒenəreɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=generate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=generate&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "产生，引起"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "generates"
+    },
+    {
+      "name": "现在分词",
+      "value": "generating"
+    },
+    {
+      "name": "过去式",
+      "value": "generated"
+    },
+    {
+      "name": "过去分词",
+      "value": "generated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The research methods of social science generate two kinds of data.",
+      "zh": "社会科学的研究方法生成两类数据。"
+    },
+    {
+      "en": "The paradox of exercise is that while using a lot of energy it seems to generate more.",
+      "zh": "锻炼的矛盾之处在于消耗很多能量却似乎又产生更多能量。"
+    },
+    {
+      "en": "We need someone to generate new ideas.",
+      "zh": "我们需要有人出新主意。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "使形成；发生；[生物]生殖",
+      "words": [
+        "go on",
+        "call into being"
+      ]
+    }
+  ]
+}

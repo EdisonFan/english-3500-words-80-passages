@@ -1,0 +1,72 @@
+{
+  "word": "humor",
+  "found": true,
+  "phonetic_uk": "ˈhjuːmə(r)",
+  "phonetic_us": "ˈhjuːmər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=humor&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=humor&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "幽默，诙谐；心情"
+    },
+    {
+      "pos": "vt.",
+      "meaning": "迎合，迁就；顺应"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "humors"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "humors"
+    },
+    {
+      "name": "现在分词",
+      "value": "humoring"
+    },
+    {
+      "name": "过去式",
+      "value": "humored"
+    },
+    {
+      "name": "过去分词",
+      "value": "humored"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The movie mixes broad humor with romance.",
+      "zh": "那部电影把粗俗幽默和浪漫故事结合在一起。"
+    },
+    {
+      "en": "It's filled with a really fun sense of humor.",
+      "zh": "它充满了真正有趣的幽默感。"
+    },
+    {
+      "en": "Humor is vital to interpersonal relationships.",
+      "zh": "幽默感对人际关系至关重要。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "幽默，诙谐；心情",
+      "words": [
+        "breast",
+        "drollness"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "迎合，迁就；顺应",
+      "words": [
+        "cater for",
+        "pander to"
+      ]
+    }
+  ]
+}

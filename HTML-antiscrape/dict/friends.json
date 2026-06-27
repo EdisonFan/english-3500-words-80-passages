@@ -1,0 +1,30 @@
+{
+  "word": "friends",
+  "found": true,
+  "phonetic_uk": "frendz",
+  "phonetic_us": "frendz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=friends&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=friends&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "朋友，友人（friend 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She's got some nutty friends.",
+      "zh": "她有几个疯疯癫癫的朋友。"
+    },
+    {
+      "en": "We've been friends for years.",
+      "zh": "我们是多年的朋友了。"
+    },
+    {
+      "en": "Even friends disagree sometimes.",
+      "zh": "即便是朋友有时也有分歧。"
+    }
+  ],
+  "synonyms": []
+}

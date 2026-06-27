@@ -1,0 +1,52 @@
+{
+  "word": "initiative",
+  "found": true,
+  "phonetic_uk": "ɪˈnɪʃətɪv",
+  "phonetic_us": "ɪˈnɪʃətɪv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=initiative&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=initiative&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "措施，倡议；主动性，积极性；主动权；（美国某些州的）公民立法提案程序"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "initiatives"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We have the initiative; we intend to keep it.",
+      "zh": "我们拥有主动权；我们想要保持主动权。"
+    },
+    {
+      "en": "She was disappointed by his lack of initiative.",
+      "zh": "她对他缺乏主动性感到失望。"
+    },
+    {
+      "en": "He believed in giving his staff scope for initiative.",
+      "zh": "他赞成给他的员工主动的机会。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "主动权；首创精神",
+      "words": [
+        "pioneering spirit"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "主动的；自发的；起始的",
+      "words": [
+        "autonomous",
+        "active",
+        "spontaneous"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "word": "danger",
+  "found": true,
+  "phonetic_uk": "ˈdeɪndʒə(r)",
+  "phonetic_us": "ˈdeɪndʒər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=danger&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=danger&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "危险，风险；威胁，危险因素；（不愉快之事发生的）可能性，风险"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Danger）（法）当热（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The red triangle denotes danger.",
+      "zh": "红色三角形表示危险。"
+    },
+    {
+      "en": "There appeared no imminent danger.",
+      "zh": "眼前似乎没有危险。"
+    },
+    {
+      "en": "He looks about him, sensing danger.",
+      "zh": "他环顾四周，觉察到了危险。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[安全]危险；危险物，威胁",
+      "words": [
+        "threat",
+        "risk",
+        "hazard"
+      ]
+    }
+  ]
+}

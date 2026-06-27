@@ -1,0 +1,68 @@
+{
+  "word": "choice",
+  "found": true,
+  "phonetic_uk": "tʃɔɪs",
+  "phonetic_us": "tʃɔɪs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=choice&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=choice&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "选择，抉择；选择的机会，选择权；选择范围，选择余地；入选者，被选中的东西；精选品"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "上等的，优质的；尖刻的，刻薄的；精选的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "choices"
+    },
+    {
+      "name": "比较级",
+      "value": "choicer"
+    },
+    {
+      "name": "最高级",
+      "value": "choicest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I wouldn't go there by choice.",
+      "zh": "让我选择，我不会去那里。"
+    },
+    {
+      "en": "His choice was unsurprising.",
+      "zh": "他的选择并不出人意料。"
+    },
+    {
+      "en": "There wasn't much choice of colour.",
+      "zh": "可供选择的颜色不多。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "选择；选择权；精选品",
+      "words": [
+        "chose",
+        "selection",
+        "option",
+        "election",
+        "pick"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "精选的；仔细推敲的",
+      "words": [
+        "picked",
+        "select",
+        "chosen"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "word": "box",
+  "found": true,
+  "phonetic_uk": "bɒks",
+  "phonetic_us": "bɑːks",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=box&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=box&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "盒，箱，匣；（戏院的）包厢，（法庭的）专席；小亭，岗亭；方框，方格；邮箱；（运动场上的）区，特定区域；<英，非正式>电视（the box）；耳光；黄杨；<英>（运动员的）下体护身"
+    },
+    {
+      "pos": "v.",
+      "meaning": "把……装箱；（与……）斗拳，参加拳击比赛；<澳新>（非同群牲畜）混杂，混群（box sheep up）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Box）（英、法、西）博克斯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "boxes或box"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "boxes"
+    },
+    {
+      "name": "现在分词",
+      "value": "boxing"
+    },
+    {
+      "name": "过去式",
+      "value": "boxed"
+    },
+    {
+      "name": "过去分词",
+      "value": "boxed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The inside of the box was blue.",
+      "zh": "盒子的内面呈蓝色。"
+    },
+    {
+      "en": "Come and help me lift this box.",
+      "zh": "来帮我抬这个箱子。"
+    },
+    {
+      "en": "Can you reach me down that box?",
+      "zh": "你帮我把那个盒子拿下来好吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[包装]箱，盒子；包厢；一拳",
+      "words": [
+        "case",
+        "balcony"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "拳击",
+      "words": [
+        "spar"
+      ]
+    }
+  ]
+}

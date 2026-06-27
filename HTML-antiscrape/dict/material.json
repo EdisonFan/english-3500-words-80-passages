@@ -1,0 +1,63 @@
+{
+  "word": "material",
+  "found": true,
+  "phonetic_uk": "məˈtɪəriəl",
+  "phonetic_us": "məˈtɪriəl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=material&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=material&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "衣料，布料；材料，原料；素材；节目，剧目；（有指明特征的）人才；（某一活动所需的）材料"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "物质的，非精神上的；重要的，需予以考虑的；和推理内容有关的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Material）（美、意）妈特力娅丽（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "materials"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This material is 45% nylon.",
+      "zh": "这种材料含45%的尼龙。"
+    },
+    {
+      "en": "This material frays easily.",
+      "zh": "这布料容易磨损。"
+    },
+    {
+      "en": "The material is machined in a factory.",
+      "zh": "该材料在一家工厂用机器加工而成。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "重要的；[物]物质的，实质性的；肉体的",
+      "words": [
+        "crucial",
+        "important",
+        "considerable",
+        "big",
+        "major"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[材]材料，原料；[经]物资；布料",
+      "words": [
+        "stuff",
+        "ingredient"
+      ]
+    }
+  ]
+}

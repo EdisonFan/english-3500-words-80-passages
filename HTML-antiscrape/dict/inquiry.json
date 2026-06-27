@@ -1,0 +1,47 @@
+{
+  "word": "inquiry",
+  "found": true,
+  "phonetic_uk": "ɪnˈkwaɪəri",
+  "phonetic_us": "ˈɪnkwəri; ɪnˈkwaɪəri",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=inquiry&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=inquiry&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "询问，疑问；调查，审查； 探查，探询"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "inquiries"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The inquiry is by no means cut and dried.",
+      "zh": "调查之事远未盖棺定论。"
+    },
+    {
+      "en": "A judge has suspended the ban pending a full inquiry.",
+      "zh": "一名法官已暂时取消了此项禁令，等待一���全面调查。"
+    },
+    {
+      "en": "The board of inquiry is continuing its investigations.",
+      "zh": "调查委员会在继续做调查。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "探究；调查；质询",
+      "words": [
+        "investigation",
+        "exploration",
+        "probe",
+        "research",
+        "search"
+      ]
+    }
+  ]
+}

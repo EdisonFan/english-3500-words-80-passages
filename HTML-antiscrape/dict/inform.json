@@ -1,0 +1,64 @@
+{
+  "word": "inform",
+  "found": true,
+  "phonetic_uk": "ɪnˈfɔːm",
+  "phonetic_us": "ɪnˈfɔːrm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=inform&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=inform&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "通知，告知；告发，检举（inform on）；赋特征于，渗透；了解，熟悉；影响"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "informs"
+    },
+    {
+      "name": "现在分词",
+      "value": "informing"
+    },
+    {
+      "name": "过去式",
+      "value": "informed"
+    },
+    {
+      "name": "过去分词",
+      "value": "informed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They would inform him of any progress they had made.",
+      "zh": "他们将把自己所取得的任何进展都告诉他。"
+    },
+    {
+      "en": "Teachers inform me that Todd's behaviour has improved no end.",
+      "zh": "老师们告诉我托德的行为改善了许多。"
+    },
+    {
+      "en": "We regret to inform you that you are being furloughed indefinitely.",
+      "zh": "我们遗憾地通知你：你被无限期地停职了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "通知；告诉；报告",
+      "words": [
+        "message",
+        "bring in on"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "告发；告密",
+      "words": [
+        "tell on",
+        "blow the whistle"
+      ]
+    }
+  ]
+}

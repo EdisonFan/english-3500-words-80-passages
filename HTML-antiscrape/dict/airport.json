@@ -1,0 +1,44 @@
+{
+  "word": "airport",
+  "found": true,
+  "phonetic_uk": "ˈeəpɔːt",
+  "phonetic_us": "ˈerpɔːrt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=airport&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=airport&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "机场，航空站 （港）；空旅通俗读物"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "airports"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He was fogbound at JFK airport.",
+      "zh": "他因浓雾而被困在肯尼迪机场。"
+    },
+    {
+      "en": "Will you meet me at the airport?",
+      "zh": "你到机场接我好吗？"
+    },
+    {
+      "en": "They arrived late at the airport.",
+      "zh": "他们晚到了机场。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[航]机场；航空站",
+      "words": [
+        "landing field",
+        "aeroport"
+      ]
+    }
+  ]
+}

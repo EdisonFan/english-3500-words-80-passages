@@ -1,0 +1,69 @@
+{
+  "word": "blood",
+  "found": true,
+  "phonetic_uk": "blʌd",
+  "phonetic_us": "blʌd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=blood&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=blood&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "血，血液；出身，血统；成员，人员；杀戮，流血；气质，脾气；<旧>纨绔子弟，花花公子；血样，血检"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使取得初次经验；用猎物的血涂（新手的）脸；让（猎狗）第一次尝血"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Blood）（英、西）布拉德（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "bloods"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "bloods"
+    },
+    {
+      "name": "现在分词",
+      "value": "blooding"
+    },
+    {
+      "name": "过去式",
+      "value": "blooded"
+    },
+    {
+      "name": "过去分词",
+      "value": "blooded"
+    }
+  ],
+  "examples": [
+    {
+      "en": "What blood type do you have?",
+      "zh": "你是什么血型？"
+    },
+    {
+      "en": "The wound was oozing blood.",
+      "zh": "伤口流着血。"
+    },
+    {
+      "en": "Her blood count was normal.",
+      "zh": "她的血球指数正常。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[解剖]血，血液；血统",
+      "words": [
+        "birth",
+        "stem",
+        "stock"
+      ]
+    }
+  ]
+}

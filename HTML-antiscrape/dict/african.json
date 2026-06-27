@@ -1,0 +1,39 @@
+{
+  "word": "African",
+  "found": true,
+  "phonetic_uk": "ˈæfrɪkən",
+  "phonetic_us": "ˈæfrɪkən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=African&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=African&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "（与）非洲（有关）的；非洲人的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "非洲人（尤指黑人）；非洲黑人后裔"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "Africans"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She loved the African continent.",
+      "zh": "她热爱非洲大陆。"
+    },
+    {
+      "en": "Drums are basic to African music.",
+      "zh": "鼓是非洲音乐的基本乐器。"
+    },
+    {
+      "en": "Many African tribes believe in reincarnation.",
+      "zh": "很多非洲部落相信转世再生。"
+    }
+  ],
+  "synonyms": []
+}

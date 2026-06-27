@@ -1,0 +1,64 @@
+{
+  "word": "differentiate",
+  "found": true,
+  "phonetic_uk": "ˌdɪfəˈrenʃieɪt",
+  "phonetic_us": "ˌdɪfəˈrenʃieɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=differentiate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=differentiate&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "使不同；求……的微分；区别"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "differentiates"
+    },
+    {
+      "name": "现在分词",
+      "value": "differentiating"
+    },
+    {
+      "name": "过去式",
+      "value": "differentiated"
+    },
+    {
+      "name": "过去分词",
+      "value": "differentiated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I can't differentiate one variety from another.",
+      "zh": "我无法将这几个品种区别开来。"
+    },
+    {
+      "en": "A child may not differentiate between his imagination and the real world.",
+      "zh": "孩子也许无法区分想像与真实世界的差别。"
+    },
+    {
+      "en": "As a general rule, it's important to differentiate between effectiveness and absolute time commitments.",
+      "zh": "一般说来，区别效率和绝对的时间投入很重要。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "区分，区别",
+      "words": [
+        "to distinguish",
+        "tell apart"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "区分，区别",
+      "words": [
+        "to distinguish",
+        "tell apart"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "word": "examining",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ɪɡˈzæmɪnɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=examining&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=examining&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（仔细地）检查，审查；检查（身体）；测验（某人）；（尤指在法庭上）审问（examine 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The Queen had meanwhile been examining the roses.",
+      "zh": "与此同时，王后一直在仔细检查玫瑰花。"
+    },
+    {
+      "en": "You're examining the scarf, and you see the price tag.",
+      "zh": "你正检查着围巾，并且看到了价格标牌。"
+    },
+    {
+      "en": "\"It's a very clean cut,\" said the Rat, examining it again attentively.",
+      "zh": "“伤口很整齐。”水鼠兰特说，又仔细地检查了一遍。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "审查的；考试的",
+      "words": [
+        "censorial",
+        "investigatory"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "检查；审讯；进行考试（examine的ing形式）",
+      "words": [
+        "censoring",
+        "inspecting"
+      ]
+    }
+  ]
+}

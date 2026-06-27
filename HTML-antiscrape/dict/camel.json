@@ -1,0 +1,51 @@
+{
+  "word": "camel",
+  "found": true,
+  "phonetic_uk": "ˈkæm(ə)l",
+  "phonetic_us": "ˈkæm(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=camel&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=camel&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "骆驼；驼绒织品；驼色，浅黄褐色；打捞浮筒"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "驼色的，暗棕色的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Camel）（法）卡梅尔，（阿拉伯）卡迈勒（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "camels"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Was the camel carrying corn?",
+      "zh": "那头骆驼驮的是谷物吗？"
+    },
+    {
+      "en": "The camel that I rode had a bad temper.",
+      "zh": "我骑的骆驼脾气很坏。"
+    },
+    {
+      "en": "The camel is a mammal, but the kiwi is a bird.",
+      "zh": "骆驼是一种哺乳动物，但是几维鸟是一种鸟。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[畜牧][脊椎]骆驼；打捞浮筒；工作作风官僚",
+      "words": [
+        "oont"
+      ]
+    }
+  ]
+}

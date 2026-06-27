@@ -1,0 +1,42 @@
+{
+  "word": "decisive",
+  "found": true,
+  "phonetic_uk": "dɪˈsaɪsɪv",
+  "phonetic_us": "dɪˈsaɪsɪv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=decisive&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=decisive&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "果断的，决断的；决定性的，关键的；确定的，明确的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He is decisive and won't shrink from a fight.",
+      "zh": "他很果断，而且不会逃避战斗。"
+    },
+    {
+      "en": "The might of the army could prove a decisive factor.",
+      "zh": "军队的力量最终可能成为一个决定性的因素。"
+    },
+    {
+      "en": "This is a time of decisive action and quick thinking.",
+      "zh": "这个时刻需要行动果断、思维敏捷。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "决定性的；果断的，坚定的",
+      "words": [
+        "crucial",
+        "critical",
+        "final",
+        "committed",
+        "confirmed"
+      ]
+    }
+  ]
+}

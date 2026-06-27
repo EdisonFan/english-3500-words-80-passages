@@ -1,0 +1,43 @@
+{
+  "word": "astonished",
+  "found": true,
+  "phonetic_uk": "əˈstɒnɪʃt",
+  "phonetic_us": "əˈstɑːnɪʃt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=astonished&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=astonished&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "十分震惊的，非常惊讶的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使吃惊，使惊讶（astonish 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The news astonished everyone.",
+      "zh": "这消息使大家十分惊讶。"
+    },
+    {
+      "en": "She astonished us by saying she was leaving.",
+      "zh": "她说她要离开，令我们大为惊奇。"
+    },
+    {
+      "en": "Chris acted astonished as he examined the note.",
+      "zh": "在克里斯检查这张便条时，他假装很吃惊。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "吃惊的",
+      "words": [
+        "amazed",
+        "aghast"
+      ]
+    }
+  ]
+}

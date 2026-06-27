@@ -1,0 +1,47 @@
+{
+  "word": "impatient",
+  "found": true,
+  "phonetic_uk": "ɪmˈpeɪʃ(ə)nt",
+  "phonetic_us": "ɪmˈpeɪʃ(ə)nt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=impatient&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=impatient&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "不耐烦的，没有耐心的；迫不及待的，急切的；（对不愉快的事）不能容忍，不愿接受"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more impatient"
+    },
+    {
+      "name": "最高级",
+      "value": "most impatient"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They were impatient at the delay.",
+      "zh": "他们对拖延不耐烦了。"
+    },
+    {
+      "en": "He darted Vicky an impatient look.",
+      "zh": "他不耐烦地瞥了维基一眼。"
+    },
+    {
+      "en": "She was clearly impatient to leave.",
+      "zh": "她显然是迫不及待地想离开。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "焦躁的；不耐心的",
+      "words": [
+        "fretful"
+      ]
+    }
+  ]
+}

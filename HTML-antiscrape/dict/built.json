@@ -1,0 +1,42 @@
+{
+  "word": "built",
+  "found": true,
+  "phonetic_uk": "bɪlt",
+  "phonetic_us": "bɪlt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=built&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=built&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "具有……特性，适合做……；有……身材的； ……制造的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "建造；发展，建立；逐渐增强（build 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "My father built me a playhouse.",
+      "zh": "爸爸给我建了一间儿童游戏房。"
+    },
+    {
+      "en": "The school is built of brick.",
+      "zh": "那所学校是用砖建造的。"
+    },
+    {
+      "en": "The house was still being built.",
+      "zh": "房子还在建造中。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "建造（build的过去分词）",
+      "words": [
+        "structured"
+      ]
+    }
+  ]
+}

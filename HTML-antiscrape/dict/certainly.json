@@ -1,0 +1,40 @@
+{
+  "word": "certainly",
+  "found": true,
+  "phonetic_uk": "ˈsɜːt(ə)nli",
+  "phonetic_us": "ˈsɜːrt(ə)nli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=certainly&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=certainly&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "无疑，确定；当然，行（用于回答）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I certainly don't deal drugs.",
+      "zh": "我当然不做毒品生意。"
+    },
+    {
+      "en": "She certainly knows what's what.",
+      "zh": "她当然知道轻重缓急。"
+    },
+    {
+      "en": "I'm certainly never going there again.",
+      "zh": "我肯定不会再去那里了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "当然；行（用于回答）；必定",
+      "words": [
+        "surely",
+        "definitely",
+        "ok"
+      ]
+    }
+  ]
+}

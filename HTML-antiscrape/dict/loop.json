@@ -1,0 +1,75 @@
+{
+  "word": "loop",
+  "found": true,
+  "phonetic_uk": "luːp",
+  "phonetic_us": "luːp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=loop&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=loop&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "环形，环状物；循环胶片，循环磁带；（程序中）一套重复的指令；回线，回路；<英>（铁道或公路的）环线；<美，非正式>大环（指美国芝加哥市的商业中心）；<英>（可改道的）会车线；翻筋斗（一种飞行特技）；（滑冰）单刃转圈"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使成环，使绕成圈；成环形运动；播放一卷磁带，放一卷电影胶片，执行计算机指令"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Loop）（美、丹）劳鄱（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "loops"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "loops"
+    },
+    {
+      "name": "现在分词",
+      "value": "looping"
+    },
+    {
+      "name": "过去式",
+      "value": "looped"
+    },
+    {
+      "name": "过去分词",
+      "value": "looped"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It's a circle, a loop.",
+      "zh": "它是一个圆，一个循环。"
+    },
+    {
+      "en": "These things are usually stamped with the recycling loop.",
+      "zh": "这些东西通常都有盖有回收循环标志。"
+    },
+    {
+      "en": "This closed loop is part of a water-supply system in which \"every drop counts\".",
+      "zh": "这个封闭循环是供水系统的一部分，“滴滴珍贵”。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "打环；[航]翻筋斗",
+      "words": [
+        "somersault"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "环；圈；弯曲部分；[航]翻筋斗",
+      "words": [
+        "annulus",
+        "anulus"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "word": "interview",
+  "found": true,
+  "phonetic_uk": "ˈɪntəvjuː",
+  "phonetic_us": "ˈɪntərvjuː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=interview&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=interview&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "面试，面谈；采访，访问；讯问，��问；接见，会见"
+    },
+    {
+      "pos": "n.",
+      "meaning": "面试，面谈；采访，访谈；问讯，口头审讯；接见，会见"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "interviews"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "interviews"
+    },
+    {
+      "name": "现在分词",
+      "value": "interviewing"
+    },
+    {
+      "name": "过去式",
+      "value": "interviewed"
+    },
+    {
+      "name": "过去分词",
+      "value": "interviewed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She has just taped an interview.",
+      "zh": "她刚刚录制了一次采访。"
+    },
+    {
+      "en": "The interview went smoothly.",
+      "zh": "面谈进展顺利。"
+    },
+    {
+      "en": "She spruced up for the interview.",
+      "zh": "她为参加面试打扮了一番。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "接见，采访；面试，面谈",
+      "words": [
+        "audience"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "采访；接见；对…进行面谈；对某人进行面试",
+      "words": [
+        "cover",
+        "to receive"
+      ]
+    }
+  ]
+}

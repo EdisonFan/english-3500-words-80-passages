@@ -1,0 +1,43 @@
+{
+  "word": "beside",
+  "found": true,
+  "phonetic_uk": "bɪˈsaɪd",
+  "phonetic_us": "bɪˈsaɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=beside&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=beside&type=2",
+  "defs": [
+    {
+      "pos": "prep.",
+      "meaning": "在……旁边，在……附近；与……相比；除……以外（还），除……以外（不再）"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "在附近；况且，此外"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She kneeled down beside him.",
+      "zh": "她在他身边跪下。"
+    },
+    {
+      "en": "He crouched down beside her.",
+      "zh": "他在她的旁边蹲了下来。"
+    },
+    {
+      "en": "He sat beside her all night.",
+      "zh": "整个晚上他都坐在她的身边。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "prep.",
+      "meaning": "在旁边；与…相比；和…无关",
+      "words": [
+        "at the side of",
+        "in comparison to"
+      ]
+    }
+  ]
+}

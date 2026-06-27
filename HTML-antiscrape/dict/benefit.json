@@ -1,0 +1,75 @@
+{
+  "word": "benefit",
+  "found": true,
+  "phonetic_uk": "ˈbenɪfɪt",
+  "phonetic_us": "ˈbenɪfɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=benefit&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=benefit&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "好处，益处；救济金，补助金；额外奖励，保险金；慈善活动"
+    },
+    {
+      "pos": "v.",
+      "meaning": "对（某人）有用，使受益；得益于，得利于"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "benefits"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "benefits"
+    },
+    {
+      "name": "现在分词",
+      "value": "benefiting或benefitting"
+    },
+    {
+      "name": "过去式",
+      "value": "benefited或benefitted"
+    },
+    {
+      "name": "过去分词",
+      "value": "benefited或benefitted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I've had the benefit of a good education.",
+      "zh": "我得益于受过良好教育。"
+    },
+    {
+      "en": "I might benefit from getting my teeth fixed.",
+      "zh": "把牙齿补好可能对我有好处。"
+    },
+    {
+      "en": "He's not entitled to claim unemployment benefit.",
+      "zh": "他无权要求领取失业救济金。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "利益，好处；救济金",
+      "words": [
+        "behalf",
+        "sake",
+        "profit",
+        "advantage",
+        "plus"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "有益于，对…有益",
+      "words": [
+        "profit",
+        "be good for"
+      ]
+    }
+  ]
+}

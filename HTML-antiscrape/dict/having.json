@@ -1,0 +1,47 @@
+{
+  "word": "having",
+  "found": true,
+  "phonetic_uk": "ˈhævɪŋ",
+  "phonetic_us": "ˈhævɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=having&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=having&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "有，拥有（have 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Having a garden is therapeutic.",
+      "zh": "有个花园能让人放松心情。"
+    },
+    {
+      "en": "It's been lovely having you here.",
+      "zh": "有你在这儿真是太好了。"
+    },
+    {
+      "en": "He started having night sweats.",
+      "zh": "他开始夜间盗汗。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "所有；持有；占有",
+      "words": [
+        "occupation",
+        "possessiveness"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "具有的；所有的",
+      "words": [
+        "any",
+        "possessory"
+      ]
+    }
+  ]
+}

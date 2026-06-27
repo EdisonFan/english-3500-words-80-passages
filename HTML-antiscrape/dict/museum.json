@@ -1,0 +1,35 @@
+{
+  "word": "museum",
+  "found": true,
+  "phonetic_uk": "mjuˈziːəm",
+  "phonetic_us": "mjuˈziːəm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=museum&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=museum&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "博物馆"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "museums"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Is the museum open on Sundays?",
+      "zh": "博物馆每星期天都开放吗？"
+    },
+    {
+      "en": "The museum is open Mon.-Sun.",
+      "zh": "这个博物馆周一至周日开放。"
+    },
+    {
+      "en": "Entry to the museum is free.",
+      "zh": "这座博物馆免费参观。"
+    }
+  ],
+  "synonyms": []
+}

@@ -1,0 +1,53 @@
+{
+  "word": "completed",
+  "found": true,
+  "phonetic_uk": "kəmˈplitɪd",
+  "phonetic_us": "kəmˈpliːtɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=completed&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=completed&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "完成；填写（表格）；（使）完整；完成房地产的销售；（四分卫）成功地向前传球；（使）完美（complete 的过去式及过去分词）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "完成的；初次同房的；完整的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Nixon never completed his term of office.",
+      "zh": "尼克松没有完成自己的任期。"
+    },
+    {
+      "en": "She completed her formal education in 1995.",
+      "zh": "她在1995年完成正规学业。"
+    },
+    {
+      "en": "He had just completed his final solo album.",
+      "zh": "他刚刚完成他最后一张个人专辑。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "完整的；完全的",
+      "words": [
+        "whole",
+        "full",
+        "absolute",
+        "total",
+        "round"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "完成（complete的过去分词）",
+      "words": [
+        "finished"
+      ]
+    }
+  ]
+}

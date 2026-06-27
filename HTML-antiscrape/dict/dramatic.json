@@ -1,0 +1,39 @@
+{
+  "word": "dramatic",
+  "found": true,
+  "phonetic_uk": "drəˈmætɪk",
+  "phonetic_us": "drəˈmætɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dramatic&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dramatic&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "巨大而突然的，急剧的；激动人心的，引人注目的，给人深刻印象的；有关戏剧的，戏剧表演的；夸张的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She gave a dramatic shudder of repulsion.",
+      "zh": "她由于厌恶而身体剧烈发抖。"
+    },
+    {
+      "en": "He struck his breast in a dramatic gesture.",
+      "zh": "他以戏剧性的姿态捶他的胸。"
+    },
+    {
+      "en": "The nation is gripped by the dramatic story.",
+      "zh": "整个国家都被这个戏剧性的故事所吸引。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "戏剧的；引人注目的；激动人心的",
+      "words": [
+        "attractive",
+        "scenic"
+      ]
+    }
+  ]
+}

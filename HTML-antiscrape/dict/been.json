@@ -1,0 +1,42 @@
+{
+  "word": "been",
+  "found": true,
+  "phonetic_uk": "biːn",
+  "phonetic_us": "bɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=been&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=been&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "是，有（be的过去分词）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "(Been) （美）贝恩（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Where have you been? We've been looking for you.",
+      "zh": "你上哪儿去了？我们一直在找你。"
+    },
+    {
+      "en": "I think I've been very selfish. I've been mainly concerned with myself.",
+      "zh": "我觉得我一直很自私。我总是只关心自己。"
+    },
+    {
+      "en": "He's been super understanding.",
+      "zh": "他特别体谅人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "是，有（be的过去分词）",
+      "words": [
+        "had"
+      ]
+    }
+  ]
+}

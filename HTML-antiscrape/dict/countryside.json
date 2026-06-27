@@ -1,0 +1,39 @@
+{
+  "word": "countryside",
+  "found": true,
+  "phonetic_uk": "ˈkʌntrisaɪd",
+  "phonetic_us": "ˈkʌntrisaɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=countryside&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=countryside&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "乡村，农村；乡村居民"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I pine for the countryside.",
+      "zh": "我渴望乡下的生活。"
+    },
+    {
+      "en": "Moonlight was silvering the countryside.",
+      "zh": "月光下的乡村泛着银光。"
+    },
+    {
+      "en": "The countryside is flat and featureless.",
+      "zh": "这乡村一马平川，平淡无奇。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "农村，乡下；乡下的全体居民",
+      "words": [
+        "ruralarea",
+        "campagna"
+      ]
+    }
+  ]
+}

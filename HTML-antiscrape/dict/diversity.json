@@ -1,0 +1,44 @@
+{
+  "word": "diversity",
+  "found": true,
+  "phonetic_uk": "daɪˈvɜːsəti",
+  "phonetic_us": "daɪˈvɜːrsəti; dɪˈvɜːsɪti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=diversity&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=diversity&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "多样性，多样化；不同，差异"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "diversities"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Two of our greatest strengths are diversity and community.",
+      "zh": "我们的两个最大优点是多样性和团体精神。"
+    },
+    {
+      "en": "There is a need for greater diversity and choice in education.",
+      "zh": "教育方面需要更加多元化和更大的选择性。"
+    },
+    {
+      "en": "We have nothing against diversity; indeed, we want more of it.",
+      "zh": "我们并不反对多样化；其实，我们希望有更多的多样化。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "多样性；差异",
+      "words": [
+        "difference",
+        "multiplicity"
+      ]
+    }
+  ]
+}

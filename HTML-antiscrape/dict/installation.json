@@ -1,0 +1,47 @@
+{
+  "word": "installation",
+  "found": true,
+  "phonetic_uk": "ˌɪnstəˈleɪʃ(ə)n",
+  "phonetic_us": "ˌɪnstəˈleɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=installation&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=installation&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "安装，设置；装置，设备；（工业或军事）设施；就职，就职仪式；现代雕塑装置（除物体外用声、光等元素）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "installations"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Installation of the new system will take several days.",
+      "zh": "新系统的安装需要几天时间。"
+    },
+    {
+      "en": "Hundreds of lives could be saved if the installation of alarms was more widespread.",
+      "zh": "如果警报器的安装范围更为广泛，成百上千人的生命就可能获救。"
+    },
+    {
+      "en": "Create an SIS installation file for easy deployment of your application.",
+      "zh": "创建 SIS 安装文件，以便于部署您的应用程序。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[机]安装，装置；就职",
+      "words": [
+        "device",
+        "apparatus",
+        "unit",
+        "gear",
+        "appliance"
+      ]
+    }
+  ]
+}

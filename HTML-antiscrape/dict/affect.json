@@ -1,0 +1,84 @@
+{
+  "word": "affect",
+  "found": true,
+  "phonetic_uk": "əˈfekt",
+  "phonetic_us": "əˈfekt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=affect&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=affect&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "影响；（疾病）侵袭，感染；（在感情上）深深打动，震撼；<正式> 假装，佯装"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（尤指影响行为或行动的）情感，感情"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "affects"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "affects"
+    },
+    {
+      "name": "现在分词",
+      "value": "affecting"
+    },
+    {
+      "name": "过去式",
+      "value": "affected"
+    },
+    {
+      "name": "过去分词",
+      "value": "affected"
+    }
+  ],
+  "examples": [
+    {
+      "en": "How will these changes affect us?",
+      "zh": "这些变化对我们会有什么影响？"
+    },
+    {
+      "en": "Your opinion will not affect my decision.",
+      "zh": "你的意见不会影响我的决定。"
+    },
+    {
+      "en": "Does television affect children's behaviour?",
+      "zh": "电视对孩子的行为有影响吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "影响；感染；感动；假装",
+      "words": [
+        "influence",
+        "impact of",
+        "impact on",
+        "catch",
+        "contract"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "倾向；喜欢",
+      "words": [
+        "tend",
+        "prefer"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "情感；引起感情的因素",
+      "words": [
+        "emotion",
+        "will",
+        "sensibility"
+      ]
+    }
+  ]
+}

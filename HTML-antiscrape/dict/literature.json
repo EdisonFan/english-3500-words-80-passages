@@ -1,0 +1,39 @@
+{
+  "word": "literature",
+  "found": true,
+  "phonetic_uk": "ˈlɪtrətʃə(r); ˈlɪtərətʃə",
+  "phonetic_us": "ˈlɪtərətʃʊr; ˈlɪtrətʃər; ˈlɪtrətʃʊr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=literature&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=literature&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "文学，文学作品；（某一学科的）文献，著述；印刷品，宣传品"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She lectures in Russian literature.",
+      "zh": "她讲授俄罗斯文学。"
+    },
+    {
+      "en": "He was passionate about all literature.",
+      "zh": "他对所有文学作品都有热情。"
+    },
+    {
+      "en": "She has very eclectic tastes in literature.",
+      "zh": "她在文学方面的兴趣非常广泛。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[语]文学；[图情]文献；文艺；著作",
+      "words": [
+        "writing",
+        "letter"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "word": "asks",
+  "found": true,
+  "phonetic_uk": "ɑːsks",
+  "phonetic_us": "æsks",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=asks&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=asks&type=2",
+  "defs": [
+    {
+      "pos": "vt.",
+      "meaning": "问，询问；要求；需要；邀请；讨价（ask的第三人称单数）"
+    },
+    {
+      "pos": "vi.",
+      "meaning": "问，询问；要求（ask的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She sometimes asks if I want a back rub.",
+      "zh": "她有时问我是否想要一次背部按摩。"
+    },
+    {
+      "en": "He always asks after you in his letters.",
+      "zh": "他在信中总要问候你。"
+    },
+    {
+      "en": "Willy asks if I've ever flown a kite before.",
+      "zh": "威利问我以前是否放过风筝。"
+    }
+  ],
+  "synonyms": []
+}

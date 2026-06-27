@@ -1,0 +1,47 @@
+{
+  "word": "administration",
+  "found": true,
+  "phonetic_uk": "ədˌmɪnɪˈstreɪʃ(ə)n",
+  "phonetic_us": "ədˌmɪnɪˈstreɪʃn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=administration&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=administration&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "管理，行政；管理部门，行政部门；（某一任期的）政府；执行，监管；（药的）服用，配给；遗产管理，（债务人、其他个人或破产公司的）资产管理"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "administrations"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Too much time is spent on administration.",
+      "zh": "太多的时间花在了管理工作上。"
+    },
+    {
+      "en": "He has a Master's in Business Administration.",
+      "zh": "他获得了工商管理硕士学位。"
+    },
+    {
+      "en": "I work in the Sales Administration department.",
+      "zh": "我在销售管理部门工作。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[管理]管理；行政；实施；行政机构",
+      "words": [
+        "governance",
+        "management",
+        "supervision",
+        "regulation",
+        "enforcement"
+      ]
+    }
+  ]
+}

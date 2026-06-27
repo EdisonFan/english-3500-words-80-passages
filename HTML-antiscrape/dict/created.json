@@ -1,0 +1,46 @@
+{
+  "word": "created",
+  "found": true,
+  "phonetic_uk": "kriˈeɪtɪd",
+  "phonetic_us": "kriˈeɪtɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=created&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=created&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "创造；建立；造成（create 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The machinery of democracy could be created quickly.",
+      "zh": "民主体制很快就能建立起来。"
+    },
+    {
+      "en": "Recovery can't be sustained unless more jobs are created.",
+      "zh": "除非有更多的工作机会被创造出来，否则复苏无法保持下去。"
+    },
+    {
+      "en": "They have created an environment in which productivity should flourish.",
+      "zh": "他们创造了一种可以大大提高生产力的环境。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "创造的；引起的",
+      "words": [
+        "made"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "创造；建立；造成（creat的过去分词形式）",
+      "words": [
+        "founded",
+        "effected"
+      ]
+    }
+  ]
+}

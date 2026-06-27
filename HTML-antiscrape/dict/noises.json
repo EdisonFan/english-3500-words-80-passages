@@ -1,0 +1,42 @@
+{
+  "word": "noises",
+  "found": true,
+  "phonetic_uk": "ˈnɔɪzɪz",
+  "phonetic_us": "ˈnɔɪzɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=noises&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=noises&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[环境]噪音，响声，[环境]噪音（noise 的复数形式）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "谣传（noise 的第三人称单数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "There's a lot of noises.",
+      "zh": "这有很多噪音。"
+    },
+    {
+      "en": "We were spooked by the strange noises and lights.",
+      "zh": "那奇怪的声音和亮光把我们吓坏了。"
+    },
+    {
+      "en": "I trolled along to see Michael Frayn's play, \"Noises Off.\"",
+      "zh": "我慢步走着去看迈克尔·弗莱恩的戏剧《糊涂戏班》。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "谣传（noise的第三人称单数形式）",
+      "words": [
+        "rumors"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "word": "caring",
+  "found": true,
+  "phonetic_uk": "ˈkeərɪŋ",
+  "phonetic_us": "ˈkerɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=caring&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=caring&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "关心他人的，体贴的；护理的，看管的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "看护工作"
+    },
+    {
+      "pos": "v.",
+      "meaning": "照顾，照料；在意，担忧；喜欢，想要（care 的现在分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He's a very caring person.",
+      "zh": "他是个非常体贴人的人。"
+    },
+    {
+      "en": "Children need a caring environment.",
+      "zh": "儿童需要一个充满关怀的环境。"
+    },
+    {
+      "en": "She is very caring and very genuine.",
+      "zh": "她很有同情心，也非常诚实可靠。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "有同情心的；表示或感到关怀或关心的",
+      "words": [
+        "feeling"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "关心；照顾（care的现在分词）",
+      "words": [
+        "tending"
+      ]
+    }
+  ]
+}

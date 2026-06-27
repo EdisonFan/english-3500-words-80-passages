@@ -1,0 +1,39 @@
+{
+  "word": "fingertip",
+  "found": true,
+  "phonetic_uk": "ˈfɪŋɡətɪp",
+  "phonetic_us": "ˈfɪŋɡərtɪp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fingertip&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fingertip&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（手）指尖；指套"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "容易接近的；延长到指尖的（如外套或面纱）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "fingertips"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The subjects were asked to use their free right hand point with a baton to the location of each knuckle and fingertip of their left hand.",
+      "zh": "实验对象被要求用他们空出来的右手拿着一根指挥棒，指出他们左手每个指关节和指尖的位置。"
+    },
+    {
+      "en": "Officers continued a fingertip search of the area yesterday.",
+      "zh": "警察昨天继续对该区域进行了仔细搜查。"
+    },
+    {
+      "en": "My split fingertip is bleeding on my keyboard.",
+      "zh": "我不得不用开裂的指尖打着字，血洒键盘。"
+    }
+  ],
+  "synonyms": []
+}

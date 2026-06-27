@@ -1,0 +1,55 @@
+{
+  "word": "moving",
+  "found": true,
+  "phonetic_uk": "ˈmuːvɪŋ",
+  "phonetic_us": "ˈmuːvɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=moving&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=moving&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "动人的，感人的；活动的，移动的；促使某人采取行动的；搬家的，调动的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）改变位置，（使）移动；搬家，搬迁；（使）变换，调动（move 的现在分词）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Moving）（英、印、丹、挪、以、阿、加拿大）穆文英（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We're moving house next month.",
+      "zh": "我们下个月搬家。"
+    },
+    {
+      "en": "Things are moving painfully slowly.",
+      "zh": "事情进展得极其缓慢。"
+    },
+    {
+      "en": "Events are moving fast.",
+      "zh": "事件进展很快。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "移动的；动人的；活动的",
+      "words": [
+        "affecting",
+        "melting",
+        "travelling"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "移动（move的ing形式）",
+      "words": [
+        "transferring"
+      ]
+    }
+  ]
+}

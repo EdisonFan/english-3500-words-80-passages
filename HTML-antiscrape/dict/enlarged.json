@@ -1,0 +1,50 @@
+{
+  "word": "enlarged",
+  "found": true,
+  "phonetic_uk": "ɪnˈlɑːdʒd",
+  "phonetic_us": "ɪnˈlɑːrdʒd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=enlarged&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=enlarged&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "放大的；增大的；扩展的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "扩大，增大（enlarge 的过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We're going to have this picture enlarged.",
+      "zh": "我们准备将这张照片放大。"
+    },
+    {
+      "en": "During his administration, he immeasurably enlarged the power of the presidency.",
+      "zh": "在他执政期间，他无限地扩大了总统的权力。"
+    },
+    {
+      "en": "Large quantities of water may also be stored in limestones when joints and cracks have been enlarged to form cavities.",
+      "zh": "当接缝和裂缝扩大形成空洞时，大量的水也会被储存在石灰岩中。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "放大的；增大的；扩展的",
+      "words": [
+        "enhanced",
+        "expanding"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "扩大，增大（enlarge的过去分词）",
+      "words": [
+        "broadened"
+      ]
+    }
+  ]
+}

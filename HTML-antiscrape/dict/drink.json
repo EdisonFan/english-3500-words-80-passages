@@ -1,0 +1,81 @@
+{
+  "word": "drink",
+  "found": true,
+  "phonetic_uk": "drɪŋk",
+  "phonetic_us": "drɪŋk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=drink&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=drink&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "喝，饮；喝酒；饱览，欣赏；<非正式>吸收（水分）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "饮料；一杯，一口，一份（饮料）；酒，酒精饮料；酒会，酒宴；<非正式>一片水（the drink）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "drinks"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "drinks"
+    },
+    {
+      "name": "现在分词",
+      "value": "drinking"
+    },
+    {
+      "name": "过去式",
+      "value": "drank"
+    },
+    {
+      "name": "过去分词",
+      "value": "drunk或drank"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He's got a drink problem.",
+      "zh": "他有贪杯的毛病。"
+    },
+    {
+      "en": "Who's nabbed my drink?",
+      "zh": "谁动了我的饮料？"
+    },
+    {
+      "en": "I don't drink coffee.",
+      "zh": "我不喝咖啡。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "喝，饮；吸收；举杯庆贺",
+      "words": [
+        "eat",
+        "absorb"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "喝酒；饮水；干杯",
+      "words": [
+        "wine",
+        "liquor"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "酒，饮料；喝酒",
+      "words": [
+        "wine",
+        "liquor",
+        "beverage"
+      ]
+    }
+  ]
+}

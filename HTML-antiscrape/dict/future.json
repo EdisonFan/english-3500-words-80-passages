@@ -1,0 +1,56 @@
+{
+  "word": "future",
+  "found": true,
+  "phonetic_uk": "ˈfjuːtʃə(r)",
+  "phonetic_us": "ˈfjuːtʃər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=future&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=future&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "未来，将来；前途，前景；期货；（动词的）将来时态"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "将来的，未来的；（动词）将来时态的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "futures"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The movie is set in the future.",
+      "zh": "这部电影以未来为背景。"
+    },
+    {
+      "en": "The future is not without hope.",
+      "zh": "未来并非没有希望。"
+    },
+    {
+      "en": "Their future was full of promise.",
+      "zh": "他们的前途希望无穷。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "未来；前途；期货；将来时",
+      "words": [
+        "tomorrow",
+        "prospect"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "将来的，未来的",
+      "words": [
+        "prospective",
+        "ulterior"
+      ]
+    }
+  ]
+}

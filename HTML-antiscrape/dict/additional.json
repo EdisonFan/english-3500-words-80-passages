@@ -1,0 +1,42 @@
+{
+  "word": "additional",
+  "found": true,
+  "phonetic_uk": "əˈdɪʃən(ə)l",
+  "phonetic_us": "əˈdɪʃən(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=additional&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=additional&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "附加的，额外的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Additional cream would make it too rich.",
+      "zh": "额外的奶油会使它过于油腻。"
+    },
+    {
+      "en": "The filming imposed an additional strain on her.",
+      "zh": "影片拍摄使她承受了额外的压力。"
+    },
+    {
+      "en": "The U.S. is sending additional troops to the region.",
+      "zh": "美国正在往该地区派遣额外的部队。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "附加的，额外的",
+      "words": [
+        "attached",
+        "added",
+        "plus",
+        "more",
+        "excess"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "word": "neighborhood",
+  "found": true,
+  "phonetic_uk": "ˈneɪbəhʊd",
+  "phonetic_us": "ˈneɪbərhʊd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=neighborhood&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=neighborhood&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "附近；街坊；接近；街区"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "neighborhoods"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Our neighborhood is so dirty.",
+      "zh": "我们的社区太脏了。"
+    },
+    {
+      "en": "This neighborhood is your village.",
+      "zh": "这个社区就是你的村庄。"
+    },
+    {
+      "en": "She was called the Lark in the neighborhood.",
+      "zh": "她在附近被称为百灵鸟。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "附近；街坊；接近",
+      "words": [
+        "approach",
+        "proximity"
+      ]
+    }
+  ]
+}

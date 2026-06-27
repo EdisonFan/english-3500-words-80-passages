@@ -1,0 +1,64 @@
+{
+  "word": "juice",
+  "found": true,
+  "phonetic_uk": "dʒuːs",
+  "phonetic_us": "dʒuːs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=juice&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=juice&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（水果和蔬菜的）汁，水果（蔬菜）汁饮料；肉汁；<美，非正式>电，电能；胃液；精力，活力；<美，非正式>权势，影响力；<非正式>汽油；<美，非正式>酒"
+    },
+    {
+      "pos": "v.",
+      "meaning": "榨（果汁或蔬菜汁）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "juices"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "juices"
+    },
+    {
+      "name": "现在分词",
+      "value": "juicing"
+    },
+    {
+      "name": "过去式",
+      "value": "juiced"
+    },
+    {
+      "name": "过去分词",
+      "value": "juiced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The juice contains no added sugar.",
+      "zh": "这种果汁没有加糖。"
+    },
+    {
+      "en": "This juice contains no added sugar.",
+      "zh": "这种果汁没有加糖。"
+    },
+    {
+      "en": "Would you care for some orange juice?",
+      "zh": "你想要些橙汁吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "（水果）汁，液；果汁",
+      "words": [
+        "extract",
+        "syrup"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "word": "hole",
+  "found": true,
+  "phonetic_uk": "həʊl",
+  "phonetic_us": "hoʊl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=hole&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=hole&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "洞，坑；裂口，开口；（高尔夫球运动中的）球洞；（小动物的）洞穴；令人不舒适的地方；缺点，破绽；<非正式>困境，窘境；禁闭室，单人牢房；空缺的地方（或位置）；（两个守场员间的）空地，空隙"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（尤指给船）钻洞，打洞；击球入洞"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Hole）（瑞典、挪）霍勒，（英）霍尔（人名）；（Hole）（英）霍尔，（瑞典、挪）霍勒（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "holes"
+    },
+    {
+      "name": "第三人��单数",
+      "value": "holes"
+    },
+    {
+      "name": "现在分词",
+      "value": "holing"
+    },
+    {
+      "name": "过去式",
+      "value": "holed"
+    },
+    {
+      "name": "过去分词",
+      "value": "holed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "There's a hole in the crotch.",
+      "zh": "裤裆上有个洞。"
+    },
+    {
+      "en": "The hole has been filled in.",
+      "zh": "洞已填平。"
+    },
+    {
+      "en": "He poked his finger into the hole.",
+      "zh": "他把手指戳进洞里。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "洞，孔；洞穴，穴；突破口",
+      "words": [
+        "cavity",
+        "hollow",
+        "aperture"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "凿洞，穿孔；（高尔夫球等）进洞",
+      "words": [
+        "thirl"
+      ]
+    }
+  ]
+}

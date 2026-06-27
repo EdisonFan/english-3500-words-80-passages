@@ -1,0 +1,53 @@
+{
+  "word": "deciding",
+  "found": true,
+  "phonetic_uk": "dɪˈsaɪdɪŋ",
+  "phonetic_us": "dɪˈsaɪdɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=deciding&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=deciding&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "决定性的；无疑的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "决定；裁决；断定（decide 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The problem lies in deciding when to intervene.",
+      "zh": "问题在于决定何时介入。"
+    },
+    {
+      "en": "She will take soundings of the people's wishes before deciding on a course of action.",
+      "zh": "她会在决定行动方针之前征询一下大家的意愿。"
+    },
+    {
+      "en": "It's just a question of deciding what you really want.",
+      "zh": "那只是个确定你真正想要什么的问题。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "决定性的；无疑的",
+      "words": [
+        "crucial",
+        "critical",
+        "final",
+        "certain"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "决定（decide的现在分词）",
+      "words": [
+        "determining",
+        "choosing"
+      ]
+    }
+  ]
+}

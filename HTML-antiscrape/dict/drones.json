@@ -1,0 +1,42 @@
+{
+  "word": "drones",
+  "found": true,
+  "phonetic_uk": "drəʊnz",
+  "phonetic_us": "droʊnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=drones&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=drones&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "雄蜂；（英）懒汉；遥控飞机（drone 的复数形式）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "混（日子）；懒散地打发时间（drone 的三单形式）；闲散度日（drone 的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Drones can serve people coffee.",
+      "zh": "无人机可以为人们提供咖啡。"
+    },
+    {
+      "en": "Drones can also save lives.",
+      "zh": "无人机还可以拯救生命。"
+    },
+    {
+      "en": "Dubai-based operator Ecocoast has two drones.",
+      "zh": "总部位于迪拜的金融海岸公司有两架无人机。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "雄蜂；（英）懒汉；遥控飞机（drone的复数形式）",
+      "words": [
+        "slugs"
+      ]
+    }
+  ]
+}

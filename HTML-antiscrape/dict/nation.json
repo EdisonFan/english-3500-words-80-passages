@@ -1,0 +1,51 @@
+{
+  "word": "nation",
+  "found": true,
+  "phonetic_uk": "ˈneɪʃ(ə)n",
+  "phonetic_us": "ˈneɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=nation&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=nation&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "国家，民族；国民；（美洲土著居民的）部落，部族"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Nation）（英）内申（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "nations"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The article captured the mood of the nation.",
+      "zh": "这篇文章把国民的情绪把得很准。"
+    },
+    {
+      "en": "The entire nation, it seemed, was watching TV.",
+      "zh": "好像全国的人都在看电视。"
+    },
+    {
+      "en": "To force this agreement on the nation is wrong.",
+      "zh": "把这项协议强加于这个国家是错误的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "国家；民族；国民",
+      "words": [
+        "country",
+        "state",
+        "folk",
+        "people",
+        "soil"
+      ]
+    }
+  ]
+}

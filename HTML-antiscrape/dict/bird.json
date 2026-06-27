@@ -1,0 +1,81 @@
+{
+  "word": "bird",
+  "found": true,
+  "phonetic_uk": "bɜːd",
+  "phonetic_us": "bɜːrd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bird&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bird&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "鸟；年轻女子，姑娘；人，家伙；飞机，飞船，卫星；供捕猎（或食用）的鸟；羽毛球；<英，非正式>监狱，服刑期（doing bird）；喝倒彩，起哄（give sb. the bird）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Bird）（英、西）伯德（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "birds"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "birds"
+    },
+    {
+      "name": "现在分词",
+      "value": "birding"
+    },
+    {
+      "name": "过去式",
+      "value": "birded"
+    },
+    {
+      "name": "过去分词",
+      "value": "birded"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The bird continued to warble.",
+      "zh": "鸟儿继续啁啾。"
+    },
+    {
+      "en": "The bird gave a startled squawk.",
+      "zh": "鸟发出嘎嘎的惊叫声。"
+    },
+    {
+      "en": "The bird ruffled up its feathers.",
+      "zh": "这只鸟竖起了羽毛。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[鸟]鸟；家伙；羽毛球",
+      "words": [
+        "apple",
+        "customer",
+        "fellow",
+        "egg",
+        "guy"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "向…喝倒彩；起哄",
+      "words": [
+        "kick up a fuss"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "猎鸟；观察研究野鸟",
+      "words": [
+        "snipe"
+      ]
+    }
+  ]
+}

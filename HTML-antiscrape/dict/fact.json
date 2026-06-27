@@ -1,0 +1,45 @@
+{
+  "word": "fact",
+  "found": true,
+  "phonetic_uk": "fækt",
+  "phonetic_us": "fækt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fact&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fact&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "事实，真相；现实"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "facts"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Her argument was grounded in fact.",
+      "zh": "她的论述以事实为根据。"
+    },
+    {
+      "en": "That was a conjecture, not a fact.",
+      "zh": "那是个推测，不是事实。"
+    },
+    {
+      "en": "But was it, in fact, a hideous goof?",
+      "zh": "但其实这真的是很可笑的错误吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "事实；实际；真相",
+      "words": [
+        "truth",
+        "reality",
+        "actuality"
+      ]
+    }
+  ]
+}

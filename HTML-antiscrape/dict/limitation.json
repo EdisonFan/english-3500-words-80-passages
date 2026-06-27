@@ -1,0 +1,46 @@
+{
+  "word": "limitation",
+  "found": true,
+  "phonetic_uk": "ˌlɪmɪˈteɪʃ(ə)n",
+  "phonetic_us": "ˌlɪmɪˈteɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=limitation&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=limitation&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "限制，制约；起限制作用的规则（或事实、条件）；局限，缺陷；追诉时效"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "limitations"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They would resist any limitation of their powers.",
+      "zh": "他们会抵制对他们权力的任何限制。"
+    },
+    {
+      "en": "All the talk had been about the limitation of nuclear weapons.",
+      "zh": "整个会谈都是关于核武器的限制。"
+    },
+    {
+      "en": "This drug has one important limitation. Its effects only last six hours.",
+      "zh": "这种药物有一个很大的限制因素，其药效只能持续6个小时。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "限制；限度；极限；追诉时效；有效期限",
+      "words": [
+        "restriction",
+        "threshold",
+        "qualification",
+        "terminal"
+      ]
+    }
+  ]
+}

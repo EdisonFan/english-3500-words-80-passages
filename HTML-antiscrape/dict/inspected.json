@@ -1,0 +1,44 @@
+{
+  "word": "inspected",
+  "found": true,
+  "phonetic_uk": "ɪnˈspektɪd",
+  "phonetic_us": "ɪnˈspektɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=inspected&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=inspected&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "检查；调查（inspect 的过去式）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "已检查"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The machines are inspected twice daily.",
+      "zh": "机器每日检查两次。"
+    },
+    {
+      "en": "The plants are regularly inspected for disease.",
+      "zh": "对这些植物定期做病害检查。"
+    },
+    {
+      "en": "Have your parents ever inspected your room to see if you cleaned it properly.",
+      "zh": "你父母有没有检查过你的房间，看你是否打扫干净了？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "检查；调查（inspect的过去式）",
+      "words": [
+        "examined",
+        "checked",
+        "surveyed"
+      ]
+    }
+  ]
+}

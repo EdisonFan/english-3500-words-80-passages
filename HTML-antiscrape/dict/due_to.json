@@ -1,0 +1,39 @@
+{
+  "word": "due to",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=due%20to&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=due%20to&type=2",
+  "defs": [
+    {
+      "pos": "",
+      "meaning": "由于，因为：表示某事发生的原因或原因结果关系。"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The mare is due to foal today.",
+      "zh": "母马今天要下崽了。"
+    },
+    {
+      "en": "The accident was due to excessive speed.",
+      "zh": "事故的原因在于速度过快。"
+    },
+    {
+      "en": "They arrived late due to a motorway holdup.",
+      "zh": "因为高速公路上堵车，他们迟到了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "由于；应归于",
+      "words": [
+        "because of",
+        "as a result of"
+      ]
+    }
+  ]
+}

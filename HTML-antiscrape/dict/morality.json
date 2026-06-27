@@ -1,0 +1,44 @@
+{
+  "word": "morality",
+  "found": true,
+  "phonetic_uk": "məˈræləti",
+  "phonetic_us": "məˈræləti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=morality&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=morality&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "道德，品行；正当性"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "moralities"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Standards of morality seem to be dropping.",
+      "zh": "道德标准似乎在下降。"
+    },
+    {
+      "en": "He actively promoted the dissemination of scientific ideas about matters such as morality.",
+      "zh": "他积极地推动诸如道德之类的科学观念的传播。"
+    },
+    {
+      "en": "Wisdom without morality is like a ring without a gem.",
+      "zh": "没有道德的智慧就像没有宝石的戒指。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "道德；品行，美德",
+      "words": [
+        "virtue",
+        "excellence"
+      ]
+    }
+  ]
+}

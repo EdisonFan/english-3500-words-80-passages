@@ -1,0 +1,38 @@
+{
+  "word": "acts",
+  "found": true,
+  "phonetic_uk": "ækts",
+  "phonetic_us": "ækts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=acts&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=acts&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "行动；表现；起作用；扮演（角色）；担任；假装；代理（act的第三人称单数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "行为；假装；某种行为（或常规等）；法令；判决书；会议记录；（戏剧等的）幕；表演；演出团体（act的复数）"
+    },
+    {
+      "pos": "abbr.",
+      "meaning": "声控遥测系统 (Acoustic Control and Telemetry System)；声控制与遥测系统 (Acoustic Control and Telemetry System)"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She acts like she owns the place.",
+      "zh": "她的举动就像那地方是她的一样。"
+    },
+    {
+      "en": "Alcohol acts quickly on the brain.",
+      "zh": "酒精对大脑迅速产生影响。"
+    },
+    {
+      "en": "Beeswax acts as an emulsifying agent.",
+      "zh": "蜂蜡可以用作乳化剂。"
+    }
+  ],
+  "synonyms": []
+}

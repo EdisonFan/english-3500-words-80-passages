@@ -1,0 +1,67 @@
+{
+  "word": "funny",
+  "found": true,
+  "phonetic_uk": "ˈfʌni",
+  "phonetic_us": "ˈfʌni",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=funny&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=funny&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "滑稽的，有趣的；古怪的，难以解释的；微恙的，稍有不适的；生气的，不友好的；疯疯癫癫的；出故障的；可疑的，不诚实的；放肆的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<美>（报纸上的）滑稽连环漫画；<非正式>笑话"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "古怪地，奇怪地"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "funnies"
+    },
+    {
+      "name": "比较级",
+      "value": "funnier或more funny"
+    },
+    {
+      "name": "最高级",
+      "value": "funniest或most funny"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She found it hilariously funny.",
+      "zh": "她觉得这事儿滑稽极了。"
+    },
+    {
+      "en": "I'll tell you a funny story.",
+      "zh": "我将给你讲个好笑的故事。"
+    },
+    {
+      "en": "'What's so funny ?' she demanded.",
+      "zh": "“什么事这么好笑？”她问道。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "有趣的；滑稽的；奇异的",
+      "words": [
+        "colorful",
+        "fantastic"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "滑稽人物",
+      "words": [
+        "comedian"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "word": "alphago",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=alphago&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=alphago&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "一款围棋人工智能程序，由Google旗下DeepMind公司开发（AlphaGo）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "It's reported that Ke Jie was beaten by AlphaGo in May, 2017.",
+      "zh": "据报道，柯洁在2017年5月被阿尔法围棋打败。"
+    },
+    {
+      "en": "The world's best Go player Ke Jie lost all three games to Google's AlphaGo last month.",
+      "zh": "上个月，世界上最好的围棋选手柯洁在与谷歌的阿尔法狗的比赛中输掉了全部三局。"
+    },
+    {
+      "en": "Google program beat AlphaGo.",
+      "zh": "谷歌程序打败了 AlphaGo。"
+    }
+  ],
+  "synonyms": []
+}

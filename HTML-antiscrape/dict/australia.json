@@ -1,0 +1,38 @@
+{
+  "word": "Australia",
+  "found": true,
+  "phonetic_uk": "ɒˈstreɪliə",
+  "phonetic_us": "ɔːˈstreɪliə",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=Australia&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=Australia&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "澳大利亚，澳洲"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She's working out in Australia.",
+      "zh": "她远在澳大利亚工作。"
+    },
+    {
+      "en": "The koala is unique to Australia.",
+      "zh": "树袋熊是澳大利亚独有的。"
+    },
+    {
+      "en": "Australia finished 20 points ahead.",
+      "zh": "澳大利亚队终局领先20分。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "澳大利亚，[地理]澳洲",
+      "words": [
+        "Ossie"
+      ]
+    }
+  ]
+}

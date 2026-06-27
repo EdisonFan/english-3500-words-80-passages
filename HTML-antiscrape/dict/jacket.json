@@ -1,0 +1,64 @@
+{
+  "word": "jacket",
+  "found": true,
+  "phonetic_uk": "ˈdʒækɪt",
+  "phonetic_us": "ˈdʒækɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=jacket&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=jacket&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "夹克衫，短上衣；书皮，护封；<英> 马铃薯皮；（机器或设备的）绝热罩，隔离罩；碟片套；（海上采油平台的）支架"
+    },
+    {
+      "pos": "v.",
+      "meaning": "给……装护套；给……穿短上衣；<非正式>打"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "jackets"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "jackets"
+    },
+    {
+      "name": "现在分词",
+      "value": "jacketing"
+    },
+    {
+      "name": "过去式",
+      "value": "jacketed"
+    },
+    {
+      "name": "过去分词",
+      "value": "jacketed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Is your jacket real leather?",
+      "zh": "你的夹克是真皮的吗？"
+    },
+    {
+      "en": "The knife sliced his jacket.",
+      "zh": "那把刀划破了他的上衣。"
+    },
+    {
+      "en": "I zipped and buttoned my jacket.",
+      "zh": "我把夹克的拉链拉上，系好扣子。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "夹克；[服装]短上衣",
+      "words": [
+        "jerkin",
+        "lammy"
+      ]
+    }
+  ]
+}

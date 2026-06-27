@@ -1,0 +1,61 @@
+{
+  "word": "behind",
+  "found": true,
+  "phonetic_uk": "bɪˈhaɪnd",
+  "phonetic_us": "bɪˈhaɪnd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=behind&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=behind&type=2",
+  "defs": [
+    {
+      "pos": "prep.",
+      "meaning": "在（或向）……的后面；落后于；是……背后的原因；支持；（……的外表）之下；成为（某人的）过去；低于；在……死后"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "在后面；留在原地；落后（于）；拖欠，不按时"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<非正式>屁股；（澳橄）射门得分"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "behinds"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She heard footsteps behind her.",
+      "zh": "她听到背后有脚步声。"
+    },
+    {
+      "en": "Her scarf streamed behind her.",
+      "zh": "她的围巾在身后飘动。"
+    },
+    {
+      "en": "What's the idea behind this?",
+      "zh": "这背后的意图是什么？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "prep.",
+      "meaning": "落后于；支持；晚于",
+      "words": [
+        "with",
+        "past"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "屁股",
+      "words": [
+        "ass",
+        "rear",
+        "pratt"
+      ]
+    }
+  ]
+}

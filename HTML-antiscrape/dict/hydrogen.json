@@ -1,0 +1,30 @@
+{
+  "word": "hydrogen",
+  "found": true,
+  "phonetic_uk": "ˈhaɪdrədʒən",
+  "phonetic_us": "ˈhaɪdrədʒən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=hydrogen&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=hydrogen&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "氢，氢气"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Hydrogen and oxygen combine to form water.",
+      "zh": "氢与氧化合成水。"
+    },
+    {
+      "en": "Atoms of hydrogen are fused to make helium.",
+      "zh": "氢原子可熔合成氦。"
+    },
+    {
+      "en": "Hydrogen combines with oxygen to form water.",
+      "zh": "氢与氧化合成水。"
+    }
+  ],
+  "synonyms": []
+}

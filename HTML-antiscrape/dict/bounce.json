@@ -1,0 +1,75 @@
+{
+  "word": "bounce",
+  "found": true,
+  "phonetic_uk": "baʊns",
+  "phonetic_us": "baʊns",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bounce&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bounce&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "弹起，反弹；跳动，蹦；（使）上下晃动；（用膝盖）颠动（孩子）；蹦蹦跳跳地去；拒付，退回（支票等）；退回（电子邮件）；驱逐，解雇；（向某人）透露主意（以试探其反应）；反复跳槽，来回往返某地；（光线或声音）反射；撞击，碰撞"
+    },
+    {
+      "pos": "n.",
+      "meaning": "弹跳，跳动；弹性，弹力；活力，精力；（头发的）弹性，蓬松；突然的增长"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "bounces"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "bounces"
+    },
+    {
+      "name": "现在分词",
+      "value": "bouncing"
+    },
+    {
+      "name": "过去式",
+      "value": "bounced"
+    },
+    {
+      "name": "过去分词",
+      "value": "bounced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "There's not much bounce left in these balls.",
+      "zh": "这些球已没有多少弹性了。"
+    },
+    {
+      "en": "Players complained about the uneven bounce of the tennis court.",
+      "zh": "运动员抱怨说网球场的反弹力不均匀。"
+    },
+    {
+      "en": "There was a bounce to his step.",
+      "zh": "他的步伐矫健有力。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "跳；弹力；活力",
+      "words": [
+        "energy",
+        "vitality",
+        "spring",
+        "elasticity",
+        "vigor"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "弹跳；弹起，反跳；弹回",
+      "words": [
+        "rebound",
+        "resile"
+      ]
+    }
+  ]
+}

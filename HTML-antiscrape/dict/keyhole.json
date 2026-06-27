@@ -1,0 +1,39 @@
+{
+  "word": "keyhole",
+  "found": true,
+  "phonetic_uk": "ˈkiːhəʊl",
+  "phonetic_us": "ˈkiːhoʊl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=keyhole&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=keyhole&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "锁眼；[建] 键孔"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "显示内情的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "keyholes"
+    }
+  ],
+  "examples": [
+    {
+      "en": "A thread of light emerged from the keyhole.",
+      "zh": "从锁眼里透出一丝光亮。"
+    },
+    {
+      "en": "I looked through the keyhole.",
+      "zh": "我通过钥匙孔向里看。"
+    },
+    {
+      "en": "She was squinting through the keyhole.",
+      "zh": "她瞇着眼从锁眼往里看。"
+    }
+  ],
+  "synonyms": []
+}

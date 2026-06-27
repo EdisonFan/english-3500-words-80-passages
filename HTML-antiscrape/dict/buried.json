@@ -1,0 +1,42 @@
+{
+  "word": "buried",
+  "found": true,
+  "phonetic_uk": "ˈberid",
+  "phonetic_us": "ˈberid",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=buried&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=buried&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "埋葬的；埋藏的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "埋葬（bury 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She buried it under some leaves.",
+      "zh": "她把它埋藏在一些树叶下。"
+    },
+    {
+      "en": "She buried her face in the pillows.",
+      "zh": "她把脸埋进枕头中。"
+    },
+    {
+      "en": "She always has her head buried in a book.",
+      "zh": "她总是埋头读书。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "埋葬的；埋藏的",
+      "words": [
+        "funerary"
+      ]
+    }
+  ]
+}

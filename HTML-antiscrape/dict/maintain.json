@@ -1,0 +1,59 @@
+{
+  "word": "maintain",
+  "found": true,
+  "phonetic_uk": "meɪnˈteɪn",
+  "phonetic_us": "meɪnˈteɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=maintain&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=maintain&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "保持，维持；维修，保养；断言，主张；赡养，抚养；<旧>支持，维护"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "maintains"
+    },
+    {
+      "name": "现在分词",
+      "value": "maintaining"
+    },
+    {
+      "name": "过去式",
+      "value": "maintained"
+    },
+    {
+      "name": "过去分词",
+      "value": "maintained"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The house costs a fortune to maintain.",
+      "zh": "维修这房子花费巨大。"
+    },
+    {
+      "en": "It's hard to maintain competitive pricing.",
+      "zh": "很难保持有竞争力的定价。"
+    },
+    {
+      "en": "The government struggled to maintain law and order.",
+      "zh": "政府努力维持治安。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "维持；继续；维修；主张；供养",
+      "words": [
+        "pursue",
+        "submit",
+        "sustain",
+        "advocate",
+        "service"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "gosling",
+  "found": true,
+  "phonetic_uk": "ˈɡɒzlɪŋ",
+  "phonetic_us": "ˈɡɑːzlɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=gosling&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=gosling&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "小鹅；年轻无知者"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Gosling）人名；（英、德、葡）戈斯林"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "goslings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "During that month off, Cianfrance wanted to \"destroy the newness,\" Gosling says.",
+      "zh": "在停工的那个月，斯安弗朗斯希望能够“粉碎新鲜感，”高斯林说。"
+    },
+    {
+      "en": "Gosling goes on to talk about the trade-offs between throughput and determinism.",
+      "zh": "Gosling接着谈到了吞吐量和确定性之间的取舍。"
+    },
+    {
+      "en": "It's hard to tell it's even Gosling under that thinning hair and that sour demeanor, but it is.",
+      "zh": "很难相信那个拥有稀薄的头发和难堪的行为方式的人会是高斯林，但是他确实是。"
+    }
+  ],
+  "synonyms": []
+}

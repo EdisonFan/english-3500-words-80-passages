@@ -1,0 +1,43 @@
+{
+  "word": "influential",
+  "found": true,
+  "phonetic_uk": "ˌɪnfluˈenʃ(ə)l",
+  "phonetic_us": "ˌɪnfluˈenʃ(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=influential&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=influential&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "有影响力的，有势力的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "有影响力的人"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "This book was enormously influential.",
+      "zh": "这本书影响极大。"
+    },
+    {
+      "en": "He was one of the most influential performers of modern jazz.",
+      "zh": "他是最有影响力的现代爵士乐表演者之一。"
+    },
+    {
+      "en": "The West has gradually relaxed its hostile attitude to this influential state.",
+      "zh": "西方对这个有影响力的国家的敌对态度已趋缓和。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "有影响的；有势力的",
+      "words": [
+        "mighty",
+        "predominant"
+      ]
+    }
+  ]
+}

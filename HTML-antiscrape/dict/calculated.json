@@ -1,0 +1,54 @@
+{
+  "word": "calculated",
+  "found": true,
+  "phonetic_uk": "ˈkælkjuleɪtɪd",
+  "phonetic_us": "ˈkælkjuleɪtɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=calculated&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=calculated&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "计算出的；适合的；有计划的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "计算；估计；打算（calculate 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Benefit is calculated on the basis of average weekly earnings.",
+      "zh": "补助金按平均周收入计算。"
+    },
+    {
+      "en": "The time when a solar eclipse will occur can be calculated.",
+      "zh": "日食发生的时间可以推算出来。"
+    },
+    {
+      "en": "Her latest play is calculated to shock.",
+      "zh": "她最新推出的剧本故意要耸人听闻。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[计]计算出的；适合的；有计划的",
+      "words": [
+        "adaptive",
+        "planned",
+        "studied",
+        "designed",
+        "shaped"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "计算；估计；打算（calculate的过去式和过去分词）",
+      "words": [
+        "meant",
+        "computed"
+      ]
+    }
+  ]
+}

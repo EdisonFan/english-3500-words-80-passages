@@ -1,0 +1,39 @@
+{
+  "word": "domains",
+  "found": true,
+  "phonetic_uk": "də(ʊ)ˈmeɪns",
+  "phonetic_us": "doʊˈmeɪnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=domains&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=domains&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "域，域名；领域；网域（domain 的复数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Women's sports are breaking down the barriers in previously male-dominated domains.",
+      "zh": "女子体育运动正在打破障碍进入一些先前由男子占主导地位的领域。"
+    },
+    {
+      "en": "This was found across measures like self-esteem, life satisfaction, happiness and satisfaction with individual domains like job, neighborhood, or friends.",
+      "zh": "这是在一系列指标上发现的，如自尊、生活满意度、幸福感和对工作、邻居或朋友等个人领域的满意度等。"
+    },
+    {
+      "en": "Mauritius was a British colony for almost 200 years, excepting for the domains of administration and teaching, the English language was never really spoken on the island.",
+      "zh": "毛里求斯作为英国殖民地已有近200年的历史，除了在行政领域和教学领域，岛上从未真正使用过英语。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "域，域名；领域；网域（domain的复数形式）",
+      "words": [
+        "areas",
+        "regions"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "laboratory",
+  "found": true,
+  "phonetic_uk": "ləˈbɒrətri",
+  "phonetic_us": "ˈlæbrətɔːri",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=laboratory&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=laboratory&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "实验室，实验大楼"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "laboratories"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Laboratory and field tests have been conducted.",
+      "zh": "已进行实验室试验和现场试验。"
+    },
+    {
+      "en": "The blood samples are sent to the laboratory for analysis.",
+      "zh": "血样要送往实验室进行分析。"
+    },
+    {
+      "en": "This was demonstrated in a laboratory experiment with rats.",
+      "zh": "这点通过在实验室中用老鼠做试验得到证明。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[试验][临床]实验室，研究室",
+      "words": [
+        "lab"
+      ]
+    }
+  ]
+}

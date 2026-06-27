@@ -1,0 +1,30 @@
+{
+  "word": "earthquakes",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=earthquakes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=earthquakes&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[地震]地震（earthquake 的复数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Earthquakes leave scars in the Earth's crust.",
+      "zh": "地震会在地壳上留下痕迹。"
+    },
+    {
+      "en": "Earthquakes produce two types of seismic waves.",
+      "zh": "地震产生两种类型的地震波。"
+    },
+    {
+      "en": "All buildings are now reinforced to withstand earthquakes.",
+      "zh": "所有建筑现都已加固，以抗地震。"
+    }
+  ],
+  "synonyms": []
+}

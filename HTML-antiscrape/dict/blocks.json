@@ -1,0 +1,42 @@
+{
+  "word": "blocks",
+  "found": true,
+  "phonetic_uk": "blɒks",
+  "phonetic_us": "blɑːks",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=blocks&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=blocks&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[建]街区；积木；楼群（block 的复数）；黑金石；双头木鱼"
+    },
+    {
+      "pos": "v.",
+      "meaning": "阻碍；封锁；使成块（block 的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "It's only a couple blocks away.",
+      "zh": "那地方离这里只有几个街区。"
+    },
+    {
+      "en": "She walked four blocks down High Street.",
+      "zh": "她沿着高街走了4个街区。"
+    },
+    {
+      "en": "The blocks should be laid on a bed of concrete.",
+      "zh": "石块应该固定在混凝土基座上。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "阻碍；封锁；使成块（block的三单形式）",
+      "words": [
+        "hedges"
+      ]
+    }
+  ]
+}

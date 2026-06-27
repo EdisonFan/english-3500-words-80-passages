@@ -1,0 +1,59 @@
+{
+  "word": "dog",
+  "found": true,
+  "phonetic_uk": "dɒɡ",
+  "phonetic_us": "dɔːɡ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dog&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dog&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "狗，犬；公狗，公狐，公狼；质量极差的东西；卑鄙小人，无赖；<美，非正式>朋友"
+    },
+    {
+      "pos": "v.",
+      "meaning": "困扰，纠缠；跟踪，尾随"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The dog refused to budge.",
+      "zh": "狗不肯动弹。"
+    },
+    {
+      "en": "Does your dog bite?",
+      "zh": "你的狗咬人吗？"
+    },
+    {
+      "en": "The dog has worms.",
+      "zh": "这条狗体内有寄生虫。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "狗；卑鄙的人；雄兽；坏蛋",
+      "words": [
+        "insect",
+        "chien"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "跟踪；尾随",
+      "words": [
+        "shadow",
+        "tail after"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "狗的；雄的；劣等的",
+      "words": [
+        "jack",
+        "dogly"
+      ]
+    }
+  ]
+}

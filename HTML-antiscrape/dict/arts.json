@@ -1,0 +1,38 @@
+{
+  "word": "arts",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=arts&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=arts&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "技艺（art 的复数）；人文科学，文科"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "In his old age he became a benefactor of the arts.",
+      "zh": "他晚年成了一位艺术赞助人。"
+    },
+    {
+      "en": "He was clever, well-read and interested in the arts.",
+      "zh": "他聪明，博览群书，并且对艺术感兴趣。"
+    },
+    {
+      "en": "Public expenditure on the arts is woefully inadequate.",
+      "zh": "艺术上的公共支出严重不足。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "文科",
+      "words": [
+        "liberal art"
+      ]
+    }
+  ]
+}

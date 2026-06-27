@@ -1,0 +1,41 @@
+{
+  "word": "inappropriate",
+  "found": true,
+  "phonetic_uk": "ˌɪnəˈprəʊpriət",
+  "phonetic_us": "ˌɪnəˈproʊpriət",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=inappropriate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=inappropriate&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "不恰当的，不合适的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "It is inappropriate simply to throw money at these problems.",
+      "zh": "只是用钱去处理这些问题是不适当的。"
+    },
+    {
+      "en": "I feel the remark was inappropriate for such a serious issue.",
+      "zh": "我觉得对如此严肃的问题来说，这评论是不恰当的。"
+    },
+    {
+      "en": "He chose a singularly inappropriate moment to make his request.",
+      "zh": "他选在一个极其不恰当的时刻提出要求。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "不适当的；不相称的",
+      "words": [
+        "inadequate",
+        "unhappy",
+        "wrong",
+        "improper"
+      ]
+    }
+  ]
+}

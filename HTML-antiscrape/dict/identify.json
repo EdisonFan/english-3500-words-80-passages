@@ -1,0 +1,65 @@
+{
+  "word": "identify",
+  "found": true,
+  "phonetic_uk": "aɪˈdentɪfaɪ",
+  "phonetic_us": "aɪˈdentɪfaɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=identify&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=identify&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "认出，识别；查明，确认；发现；证明（身份），表明；认同，理解；认为……和……一致；和（某人）打成一片"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "identifies"
+    },
+    {
+      "name": "现在分词",
+      "value": "identifying"
+    },
+    {
+      "name": "过去式",
+      "value": "identified"
+    },
+    {
+      "name": "过去分词",
+      "value": "identified"
+    }
+  ],
+  "examples": [
+    {
+      "en": "First of all we must identify the problem areas.",
+      "zh": "首先我们必须找出问题所在。"
+    },
+    {
+      "en": "The new technique has been used to identify the sex of fetuses.",
+      "zh": "这项新技术已被用来鉴定胎儿的性别。"
+    },
+    {
+      "en": "Sales departments try to identify a product's USP or 'unique selling point'.",
+      "zh": "销售部门试图确定一种产品的“独有卖点”。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "确定；[计]识别；使参与；把…看成一样",
+      "words": [
+        "confirm",
+        "recognize",
+        "ascertain"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "确定；认同；一致",
+      "words": [
+        "cotton",
+        "square"
+      ]
+    }
+  ]
+}

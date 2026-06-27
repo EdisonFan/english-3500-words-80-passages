@@ -1,0 +1,70 @@
+{
+  "word": "characteristic",
+  "found": true,
+  "phonetic_uk": "ˌkærəktəˈrɪstɪk",
+  "phonetic_us": "ˌkærəktəˈrɪstɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=characteristic&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=characteristic&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "特征，特点，特色"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "独特的，典型的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "characteristics"
+    },
+    {
+      "name": "比较级",
+      "value": "more characteristic"
+    },
+    {
+      "name": "最高级",
+      "value": "most characteristic"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She spoke with characteristic enthusiasm.",
+      "zh": "她说话带着特有的热情。"
+    },
+    {
+      "en": "He replied with characteristic insouciance: \"So what?\"",
+      "zh": "他用特有的漫不经心的口吻答道：“那又怎么样？”"
+    },
+    {
+      "en": "The main characteristic of the strike has been its longevity.",
+      "zh": "这次罢工的主要特点是持续时间长。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "典型的；特有的；表示特性的",
+      "words": [
+        "typical",
+        "representative",
+        "proper",
+        "very",
+        "own"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "特征；特性；特色",
+      "words": [
+        "quality",
+        "identity",
+        "tang",
+        "specific",
+        "distinction"
+      ]
+    }
+  ]
+}

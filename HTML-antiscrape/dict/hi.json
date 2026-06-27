@@ -1,0 +1,43 @@
+{
+  "word": "hi",
+  "found": true,
+  "phonetic_uk": "haɪ",
+  "phonetic_us": "haɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=hi&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=hi&type=2",
+  "defs": [
+    {
+      "pos": "int.",
+      "meaning": "嗨！（表示问候或用以唤起注意）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Hi）人名；（柬）希"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "'Hi folks,' he said breezily.",
+      "zh": "“嗨，诸位。”他快活地说。"
+    },
+    {
+      "en": "'Hi!' she called brightly.",
+      "zh": "“嗨！”她轻快地招呼道。"
+    },
+    {
+      "en": "\"Hi, Liz,\" she said shyly.",
+      "zh": "“嗨，利兹，”她羞涩地说。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "int.",
+      "meaning": "嗨！（表示问候或用以唤起注意）",
+      "words": [
+        "come",
+        "heigh"
+      ]
+    }
+  ]
+}

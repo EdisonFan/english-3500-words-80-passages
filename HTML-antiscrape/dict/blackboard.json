@@ -1,0 +1,43 @@
+{
+  "word": "blackboard",
+  "found": true,
+  "phonetic_uk": "ˈblækbɔːd",
+  "phonetic_us": "ˈblækbɔːrd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=blackboard&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=blackboard&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "黑板"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "blackboards"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The menu was on a blackboard.",
+      "zh": "菜单在黑板上。"
+    },
+    {
+      "en": "He chalked the message on the blackboard.",
+      "zh": "他用粉笔把这条消息写在黑板上。"
+    },
+    {
+      "en": "On a blackboard, he drew five concentric circles.",
+      "zh": "他在黑板上画出五个同心圆。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "黑板",
+      "words": [
+        "chalkboard"
+      ]
+    }
+  ]
+}

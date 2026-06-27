@@ -1,0 +1,43 @@
+{
+  "word": "absolutely",
+  "found": true,
+  "phonetic_uk": "ˈæbsəluːtli",
+  "phonetic_us": "ˌæbsəˈluːtli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=absolutely&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=absolutely&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "绝对地，完全地；确实地，极其；（强调同意或允许）当然，对极了；专制地，独裁地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Joan is absolutely right.",
+      "zh": "琼绝对正确。"
+    },
+    {
+      "en": "That's absolutely right.",
+      "zh": "那是完全正确的。"
+    },
+    {
+      "en": "You're absolutely right.",
+      "zh": "你完全正确。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "绝对地；完全地",
+      "words": [
+        "totally",
+        "entirely",
+        "completely",
+        "thoroughly",
+        "strictly",
+        "fully"
+      ]
+    }
+  ]
+}

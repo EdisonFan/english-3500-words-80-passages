@@ -1,0 +1,40 @@
+{
+  "word": "areas",
+  "found": true,
+  "phonetic_uk": "ˈeəriəz",
+  "phonetic_us": "ˈeriəz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=areas&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=areas&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "区域，领域；面积（area 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Most urban areas are close to a park.",
+      "zh": "大多数城区都靠近公园。"
+    },
+    {
+      "en": "Aid will be sent to the afflicted areas.",
+      "zh": "将向受灾地区提供援助。"
+    },
+    {
+      "en": "These, then, are the main areas of concern.",
+      "zh": "总之，这些是人们主要关注的方面。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "区域，领域；面积（area的复数形式）",
+      "words": [
+        "zones",
+        "regions",
+        "districts"
+      ]
+    }
+  ]
+}

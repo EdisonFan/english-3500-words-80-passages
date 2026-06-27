@@ -1,0 +1,38 @@
+{
+  "word": "closest",
+  "found": true,
+  "phonetic_uk": "kləusɪst",
+  "phonetic_us": "ˈkloʊsɪst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=closest&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=closest&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "最靠近的（close 的最高级）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I count him among my closest friends.",
+      "zh": "我把他看作我一个最亲密的朋友。"
+    },
+    {
+      "en": "You are her closest friend and confidante.",
+      "zh": "你是她最亲密的朋友和红颜知己。"
+    },
+    {
+      "en": "The closest subway stop is Houston Street.",
+      "zh": "最近的地铁站是休斯敦街。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "最靠近的（close的最高级）",
+      "words": [
+        "hithermost"
+      ]
+    }
+  ]
+}

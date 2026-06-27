@@ -1,0 +1,43 @@
+{
+  "word": "clarity",
+  "found": true,
+  "phonetic_uk": "ˈklærəti",
+  "phonetic_us": "ˈklærəti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=clarity&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=clarity&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "清晰易懂；思路清晰；（画面或声音的）清晰，清楚；清澈，明净"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Clarity）（英）克拉里蒂（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "It was a model of clarity.",
+      "zh": "这是表达清晰的范例。"
+    },
+    {
+      "en": "For all its clarity of style, the book is not easy reading.",
+      "zh": "这本书虽然文体清晰，但读起来并不容易。"
+    },
+    {
+      "en": "You might use a yellow filter to improve the clarity of a hazy horizon.",
+      "zh": "你可以用一个黄色滤光器来提高模糊的地平线的清晰度。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "清楚，明晰；[化学]透明",
+      "words": [
+        "transparency",
+        "perspicuousness"
+      ]
+    }
+  ]
+}

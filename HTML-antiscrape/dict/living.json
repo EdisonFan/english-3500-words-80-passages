@@ -1,0 +1,78 @@
+{
+  "word": "living",
+  "found": true,
+  "phonetic_uk": "ˈlɪvɪŋ",
+  "phonetic_us": "ˈlɪvɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=living&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=living&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "活着的，活的；在使用的，在实施的；居住的，起居的；<文>（水）流淌不息的；活跃的；逼真的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "生计，收入；生活方式；活着的人（the living）；教区牧师的圣职（圣俸）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "居住；生活；生长；继续存在（live 的现在分词形式）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Living）（英）利文（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "livings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Whereabouts are you living?",
+      "zh": "你居住的确切地点是哪里？"
+    },
+    {
+      "en": "Where are you living now?",
+      "zh": "你现在住在哪里？"
+    },
+    {
+      "en": "She's living in hall(s).",
+      "zh": "她住在学生宿舍。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "活的；现存的；活跃的；逼真的",
+      "words": [
+        "realistic",
+        "existing",
+        "active",
+        "excited",
+        "going"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "生活；生存；生计",
+      "words": [
+        "life",
+        "existence",
+        "livelihood",
+        "keep",
+        "subsistence"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "生活；居住（live的ing形式）；度过",
+      "words": [
+        "spending",
+        "dwelling"
+      ]
+    }
+  ]
+}

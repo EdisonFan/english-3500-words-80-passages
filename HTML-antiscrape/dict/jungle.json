@@ -1,0 +1,51 @@
+{
+  "word": "jungle",
+  "found": true,
+  "phonetic_uk": "ˈdʒʌŋɡ(ə)l",
+  "phonetic_us": "ˈdʒʌŋɡ(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=jungle&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=jungle&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（热带）丛林；弱肉强食的地方；杂草丛生的地方；杂乱无章的一堆；丛林音乐（一种快速舞蹈音乐）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "jungles"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The tiger's home is in the jungle.",
+      "zh": "老虎栖息在丛林里。"
+    },
+    {
+      "en": "The lion is the king of the jungle.",
+      "zh": "狮子是丛林之王。"
+    },
+    {
+      "en": "We decided to go deeper into the jungle.",
+      "zh": "我们决定继续深入丛林。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "丛林，[林]密林；危险地带",
+      "words": [
+        "mott",
+        "chaparral"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "丛林的；蛮荒的",
+      "words": [
+        "backwoods"
+      ]
+    }
+  ]
+}

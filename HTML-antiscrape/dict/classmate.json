@@ -1,0 +1,35 @@
+{
+  "word": "classmate",
+  "found": true,
+  "phonetic_uk": "ˈklɑːsmeɪt",
+  "phonetic_us": "ˈklæsmeɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=classmate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=classmate&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "同班同学"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "classmates"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She felt like a fifth-grader who had snitched on a classmate.",
+      "zh": "她觉得自己就像个打同学小报告的小学五年级学生。"
+    },
+    {
+      "en": "My classmate has many notebooks.",
+      "zh": "我同学有许多本子。"
+    },
+    {
+      "en": "This is my classmate, Andy.",
+      "zh": "安迪，这是我同学。"
+    }
+  ],
+  "synonyms": []
+}

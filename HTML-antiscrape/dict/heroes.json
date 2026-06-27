@@ -1,0 +1,30 @@
+{
+  "word": "heroes",
+  "found": true,
+  "phonetic_uk": "ˈhɪərəʊz",
+  "phonetic_us": "ˈhɪroʊz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=heroes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=heroes&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "英雄（hero 的复数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They are among the unsung heroes of our time.",
+      "zh": "他们是我们这个时代未被赞颂的英雄当中的一群。"
+    },
+    {
+      "en": "The team members were greeted like conquering heroes.",
+      "zh": "队员像凯旋而归的英雄一样受到了人们的欢迎。"
+    },
+    {
+      "en": "The guest list reads like a roll-call of the nation's heroes.",
+      "zh": "客人名单念起来就像是在列数民族英雄。"
+    }
+  ],
+  "synonyms": []
+}

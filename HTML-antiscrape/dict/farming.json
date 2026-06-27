@@ -1,0 +1,51 @@
+{
+  "word": "farming",
+  "found": true,
+  "phonetic_uk": "ˈfɑːmɪŋ",
+  "phonetic_us": "ˈfɑːrmɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=farming&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=farming&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "农业，农场经营"
+    },
+    {
+      "pos": "v.",
+      "meaning": "耕种，养殖；（收取一定费用）将（税收）包出；承包，外包（farm 的现在分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "His father started him off farming.",
+      "zh": "他父亲指点他做农活儿。"
+    },
+    {
+      "en": "Organic farming is expanding everywhere.",
+      "zh": "有机农业在各处发展。"
+    },
+    {
+      "en": "The new technology was applied to farming.",
+      "zh": "这项新技术已应用于农业。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[农]农业，[农学]耕作",
+      "words": [
+        "agriculture",
+        "cultivation"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "[农学]耕种；出租（farm的ing形式）",
+      "words": [
+        "tilling",
+        "renting"
+      ]
+    }
+  ]
+}

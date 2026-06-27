@@ -1,0 +1,42 @@
+{
+  "word": "nails",
+  "found": true,
+  "phonetic_uk": "neɪlz",
+  "phonetic_us": "neɪlz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=nails&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=nails&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "钉子；指甲；（动物的）爪；（一些软喙鸟类）上喙的硬甲壳（nail 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "把……钉牢；（非正式）揭穿（某人）；（花费很多时间或精力而）得到（nail 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She has bitten her nails down to the quick.",
+      "zh": "她咬指甲都咬到了活肉。"
+    },
+    {
+      "en": "Keep your nails short and your hands clean.",
+      "zh": "指甲要短，保持双手清洁。"
+    },
+    {
+      "en": "He has the irritating habit of biting his nails.",
+      "zh": "他有咬指甲的讨厌习惯。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "钉子（nail的复数）",
+      "words": [
+        "pegs"
+      ]
+    }
+  ]
+}

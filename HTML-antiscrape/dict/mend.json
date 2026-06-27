@@ -1,0 +1,78 @@
+{
+  "word": "mend",
+  "found": true,
+  "phonetic_uk": "mend",
+  "phonetic_us": "mend",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mend&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mend&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "缝补，修补；修理；愈合，痊愈；弥合（分歧），解决（争端）；（给火）添燃料"
+    },
+    {
+      "pos": "n.",
+      "meaning": "好转，复苏；修理过的地方，补丁"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "mends"
+    },
+    {
+      "name": "现在分词",
+      "value": "mending"
+    },
+    {
+      "name": "过去式",
+      "value": "mended"
+    },
+    {
+      "name": "过去分词",
+      "value": "mended"
+    }
+  ],
+  "examples": [
+    {
+      "en": "My leg is definitely on the mend now.",
+      "zh": "我的腿确实在好转。"
+    },
+    {
+      "en": "They took a long time to mend the roof.",
+      "zh": "他们花了好长时间修缮房顶。"
+    },
+    {
+      "en": "Somebody helped me to mend the puncture.",
+      "zh": "有人帮我补了车胎上的洞。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "修理，修补；改善；修改",
+      "words": [
+        "improve",
+        "repair",
+        "doctor",
+        "modify"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "改善，好转",
+      "words": [
+        "change for the better",
+        "polish up"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "好转，改进；修补处",
+      "words": [
+        "reforming",
+        "improvement in"
+      ]
+    }
+  ]
+}

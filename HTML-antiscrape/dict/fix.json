@@ -1,0 +1,88 @@
+{
+  "word": "fix",
+  "found": true,
+  "phonetic_uk": "fɪks",
+  "phonetic_us": "fɪks",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fix&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fix&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "修理，维修；确定（时间、地点、价格等）；安排，组织；处理，解决（问题等）；固定，安装；使（目光、注意力或思想）集中于；牢记，铭记；把（枪、相机、雷达）瞄准；操纵，作弊；梳洗，整理；整容，矫正（牙齿）；提供，准备（饮食等）；<非正式>惩罚，收拾；固着（颜色），定（影）；<美>阉割（动物）；<非正式>介绍对象；<俚>注射毒品"
+    },
+    {
+      "pos": "n.",
+      "meaning": "解决方案（或措施）；窘境，困境；（毒品或致瘾物的）一次用量；方位确定，定位；理解，了解；受操纵的事，勾当"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Fix）（美）菲克斯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "fixes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "fixes"
+    },
+    {
+      "name": "现在分词",
+      "value": "fixing"
+    },
+    {
+      "name": "过去式",
+      "value": "fixed"
+    },
+    {
+      "name": "过去分词",
+      "value": "fixed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He cannot fix the electricity.",
+      "zh": "他不会修理电路。"
+    },
+    {
+      "en": "Don't worry, I'll fix it with Sarah.",
+      "zh": "别着急，我会和萨拉商量安排好的。"
+    },
+    {
+      "en": "Did you fix the gutter?",
+      "zh": "你修过排水槽了吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "使固定；修理；安装；准备",
+      "words": [
+        "provide",
+        "fit",
+        "repair",
+        "doctor"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "固定；注视",
+      "words": [
+        "watch",
+        "regard"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "困境；方位；贿赂",
+      "words": [
+        "difficulty",
+        "corner",
+        "dilemma",
+        "predicament"
+      ]
+    }
+  ]
+}

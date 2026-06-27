@@ -1,0 +1,53 @@
+{
+  "word": "files",
+  "found": true,
+  "phonetic_uk": "faɪlz",
+  "phonetic_us": "faɪlz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=files&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=files&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[计]文件；[图情][计]文档（file 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "提出（file 的第三人称单数）；发送；汇订"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Files）人名；（英）法尔斯；（法）菲勒"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Two files have gone missing.",
+      "zh": "两个档案不见了。"
+    },
+    {
+      "en": "She had unhindered access to the files.",
+      "zh": "她可任意使用档案。"
+    },
+    {
+      "en": "I've searched high and low for those files.",
+      "zh": "我为了找那些文件，四处都翻遍了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "文件；文档（file的复数）",
+      "words": [
+        "documents"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "提出（file的第三人称单数）；发送；汇订",
+      "words": [
+        "advances"
+      ]
+    }
+  ]
+}

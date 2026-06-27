@@ -1,0 +1,58 @@
+{
+  "word": "considering",
+  "found": true,
+  "phonetic_uk": "kənˈsɪdərɪŋ",
+  "phonetic_us": "kənˈsɪdərɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=considering&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=considering&type=2",
+  "defs": [
+    {
+      "pos": "prep.",
+      "meaning": "考虑到，鉴于"
+    },
+    {
+      "pos": "conj.",
+      "meaning": "考虑到，鉴于"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "<非正式>从各方面考虑，通盘考虑"
+    },
+    {
+      "pos": "v.",
+      "meaning": "考虑，斟酌；认为，视为；体贴，顾及（consider 的现在分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We're considering buying a new car.",
+      "zh": "我们在考虑买一辆新车。"
+    },
+    {
+      "en": "This idea is well worth considering.",
+      "zh": "这个想法很值得考虑。"
+    },
+    {
+      "en": "The recording sounds very crisp, considering its age.",
+      "zh": "考虑到这录音已年代久远，听起来声音还是挺清楚的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "prep.",
+      "meaning": "考虑到；就...而论",
+      "words": [
+        "given",
+        "saving"
+      ]
+    },
+    {
+      "pos": "conj.",
+      "meaning": "考虑到",
+      "words": [
+        "when"
+      ]
+    }
+  ]
+}

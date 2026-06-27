@@ -1,0 +1,53 @@
+{
+  "word": "drilling",
+  "found": true,
+  "phonetic_uk": "drɪlɪŋ",
+  "phonetic_us": "ˈdrɪlɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=drilling&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=drilling&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "钻孔；训练，教练；演练"
+    },
+    {
+      "pos": "v.",
+      "meaning": "钻孔；训练（drill 的 ing 形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They're drilling for oil off the Irish coast.",
+      "zh": "他们在爱尔兰沿海钻井采油。"
+    },
+    {
+      "en": "A highly inflammable liquid escaped into the drilling equipment.",
+      "zh": "一种高度易燃的液体漏进了钻孔设备。"
+    },
+    {
+      "en": "By drilling, geologists can take measurements at various depths.",
+      "zh": "通过钻孔，地质学家可以在不同深度测量。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[机]钻孔；训练，教练；演练",
+      "words": [
+        "training",
+        "discipline",
+        "coach",
+        "boring"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "[机]钻孔；训练（drill的ing形式）",
+      "words": [
+        "training",
+        "boring"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "word": "calorie",
+  "found": true,
+  "phonetic_uk": "ˈkæləri",
+  "phonetic_us": "ˈkæləri",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=calorie&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=calorie&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "卡（路里）（热量单位）；小卡（现一般定为4.1868焦耳）；大卡，千卡"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "calories"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Reduced-calorie cheese is a great substitute for cream cheese.",
+      "zh": "低卡路里干酪是奶油干酪的极好替代品。"
+    },
+    {
+      "en": "A glass or two of wine will not significantly add to the calorie count.",
+      "zh": "一两杯酒不会显著增加卡路里的数量。"
+    },
+    {
+      "en": "Nutritionists say only 33 percent of our calorie intake should be from fat.",
+      "zh": "营养学家说我们所摄入的卡路里中只应有33%来自脂肪。"
+    }
+  ],
+  "synonyms": []
+}

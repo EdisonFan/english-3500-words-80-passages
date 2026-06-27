@@ -1,0 +1,67 @@
+{
+  "word": "deep",
+  "found": true,
+  "phonetic_uk": "diːp",
+  "phonetic_us": "diːp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=deep&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=deep&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "深的，厚的；纵深的，宽的；有……深的；成……排的；深呼吸的；（声音）低沉的；深色的；酣睡的；严重的；（感情）深厚的；透彻的，深刻的；深奥的；全神贯注，深陷；（人）深沉的；（目光）锐利的，深邃的；靠近场地边界的；神秘的；<美>大幅下降的；<美>有很多优秀选手的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "深深地，至深处；有……深；成……排地；靠近场地边界地"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<文>海洋（the deep）；海洋深处（deeps）；<文>中间部分（the deep）；（板球）外围场地（the deep）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Deep）迪普（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He sank into deep melancholia.",
+      "zh": "他陷入了深深的忧郁。"
+    },
+    {
+      "en": "The wardrobe was very deep.",
+      "zh": "橱柜很深。"
+    },
+    {
+      "en": "She took a deep breath.",
+      "zh": "她深深地吸了一口气。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "深处；深渊",
+      "words": [
+        "depths",
+        "gulf"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "[地质]深的；低沉的；深奥的",
+      "words": [
+        "abstract",
+        "recondite"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "深入地；深深地；迟",
+      "words": [
+        "late",
+        "home"
+      ]
+    }
+  ]
+}

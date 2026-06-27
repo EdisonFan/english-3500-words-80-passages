@@ -1,0 +1,64 @@
+{
+  "word": "deny",
+  "found": true,
+  "phonetic_uk": "dɪˈnaɪ",
+  "phonetic_us": "dɪˈnaɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=deny&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=deny&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "否认；拒绝承认；拒绝给予"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "denies"
+    },
+    {
+      "name": "现在分词",
+      "value": "denying"
+    },
+    {
+      "name": "过去式",
+      "value": "denied"
+    },
+    {
+      "name": "过去分词",
+      "value": "denied"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Who can deny the justice of their cause?",
+      "zh": "谁能否认他们的追求是合理的呢？"
+    },
+    {
+      "en": "The White House was swift to deny the rumours.",
+      "zh": "白宫立刻对这些传言予以否认。"
+    },
+    {
+      "en": "They deny conspiring together to smuggle drugs.",
+      "zh": "他们否认共谋走私毒品。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "否定，否认；拒绝给予；拒绝…的要求",
+      "words": [
+        "negative",
+        "disavow"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "否认；拒绝",
+      "words": [
+        "object",
+        "refuse"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "word": "baskets",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=baskets&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=baskets&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "篮子（basket 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "把……放入篮内（basket 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The strips of willow are woven into baskets.",
+      "zh": "用柳条编成篮子。"
+    },
+    {
+      "en": "The baskets are woven from strips of willow.",
+      "zh": "这些篮子是用柳条编的。"
+    },
+    {
+      "en": "Anna arrived burdened by bags and food baskets.",
+      "zh": "安娜带着一些沉甸甸的袋子和食物篮子来了。"
+    }
+  ],
+  "synonyms": []
+}

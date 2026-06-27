@@ -1,0 +1,39 @@
+{
+  "word": "global",
+  "found": true,
+  "phonetic_uk": "ˈɡləʊbl",
+  "phonetic_us": "ˈɡləʊbl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=global&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=global&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "全球的，全世界的；全面的，整体的；（计算机）全局的；球形的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Global warming is a real problem.",
+      "zh": "全球变暖是个确实存在的问题。"
+    },
+    {
+      "en": "The commission is calling for a global ban on whaling.",
+      "zh": "委员会要求全球禁止捕鲸。"
+    },
+    {
+      "en": "On a global scale, 77% of energy is created from fossil fuels.",
+      "zh": "全球77%的能量产生自化石燃料。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "全球的；总体的；球形的",
+      "words": [
+        "spherical",
+        "ball-shaped"
+      ]
+    }
+  ]
+}

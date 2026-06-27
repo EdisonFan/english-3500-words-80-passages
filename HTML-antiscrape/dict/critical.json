@@ -1,0 +1,42 @@
+{
+  "word": "critical",
+  "found": true,
+  "phonetic_uk": "ˈkrɪtɪk(ə)l",
+  "phonetic_us": "ˈkrɪtɪk(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=critical&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=critical&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "批判的，爱挑剔的；极其重要的，关键的；严重的，危急的；病重的，重伤的；评论性的，评论家的；临界的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We need to become critical text-readers.",
+      "zh": "我们需要成为批判性的文本阅读者。"
+    },
+    {
+      "en": "She viewed the findings with a critical eye.",
+      "zh": "她以批评的眼光看待这些研究结果。"
+    },
+    {
+      "en": "The crisis is entering a crucial, critical phase.",
+      "zh": "危机正进入一个至关重要的决定性阶段。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "鉴定的；[核]临界的；批评的，爱挑剔的；危险的；决定性的；评论的",
+      "words": [
+        "dangerous",
+        "crucial",
+        "final",
+        "decisive",
+        "marginal"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "word": "leaf",
+  "found": true,
+  "phonetic_uk": "liːf",
+  "phonetic_us": "liːf",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=leaf&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=leaf&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "叶，叶子；纸页，书页；薄金属片，（尤指金或银）箔；活动桌板；（窗，门等）扇；空心墙（或双层窗）的内面（或外面）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "长新叶"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Leaf）（英）利夫（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "leaves或leafs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "leafs"
+    },
+    {
+      "name": "现在分词",
+      "value": "leafing"
+    },
+    {
+      "name": "过去式",
+      "value": "leafed"
+    },
+    {
+      "name": "过去分词",
+      "value": "leafed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The trees are coming into leaf.",
+      "zh": "树开始长叶子了。"
+    },
+    {
+      "en": "I was shaking like a leaf.",
+      "zh": "我像树叶似的直哆嗦。"
+    },
+    {
+      "en": "The trees are just coming into leaf.",
+      "zh": "树木正好在长叶子。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "叶子；（书籍等的）一张；扇页",
+      "words": [
+        "foliage"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "生叶；翻书页",
+      "words": [
+        "page"
+      ]
+    }
+  ]
+}

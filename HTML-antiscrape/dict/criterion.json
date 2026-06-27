@@ -1,0 +1,47 @@
+{
+  "word": "criterion",
+  "found": true,
+  "phonetic_uk": "kraɪˈtɪəriən",
+  "phonetic_us": "kraɪˈtɪriən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=criterion&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=criterion&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "尺度，标准，准则"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "criteria或criterions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The main criterion is value for money.",
+      "zh": "主要的标准是钱要用得划算。"
+    },
+    {
+      "en": "The most important criterion for entry is that applicants must design and make their own work.",
+      "zh": "参加的最重要标准就是申请人必须设计并制作自己的作品。"
+    },
+    {
+      "en": "Practice is the sole criterion of truth.",
+      "zh": "实践是检验真理的唯一标准。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "（批评判断的）[标准]标准；准则；规范；准据",
+      "words": [
+        "standard",
+        "formula",
+        "level",
+        "prototype",
+        "norm"
+      ]
+    }
+  ]
+}

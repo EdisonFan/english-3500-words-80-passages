@@ -1,0 +1,44 @@
+{
+  "word": "dumpling",
+  "found": true,
+  "phonetic_uk": "ˈdʌmplɪŋ",
+  "phonetic_us": "ˈdʌmplɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dumpling&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dumpling&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "汤团，饺子；水果布丁，水果馅点心；矮胖的人"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "dumplings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "My favorite food is dumpling.",
+      "zh": "我最喜欢的食物是饺子。"
+    },
+    {
+      "en": "The dumpling tastes really good.",
+      "zh": "这饺子尝起来味道很好。"
+    },
+    {
+      "en": "Let's do a dumpling party!",
+      "zh": "我们来办个饺子派对吧！"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "饺子，汤团；面团布丁",
+      "words": [
+        "jiaozi",
+        "tortellini"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "word": "major",
+  "found": true,
+  "phonetic_uk": "ˈmeɪdʒə(r)",
+  "phonetic_us": "ˈmeɪdʒər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=major&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=major&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "重大的，主要的；严重的；大调的，大音阶的； <旧>（公立学校中置于学生姓氏后，表示两兄弟中）大的，年长的；主修的；大（项）的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "主修科目，专业；陆军少校，（美国）空军少校；（某专业的）主修学生；<美，非正式>职业棒球大联盟；大型公司，重要企业；成年人，已达到法定年龄者；（军乐队中主管某一乐器部的）乐器长；大调，大音程； ���项，大前提；主要世界性组织（或公司、比赛）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（在美国大学）主修，专攻"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】  (Major) （英）梅杰，（西）马霍尔，（法）马若尔，（捷、德、塞、瑞典）马约尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "majors"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "majors"
+    },
+    {
+      "name": "现在分词",
+      "value": "majoring"
+    },
+    {
+      "name": "过去式",
+      "value": "majored"
+    },
+    {
+      "name": "过去分词",
+      "value": "majored"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Rotterdam is a major port.",
+      "zh": "鹿特丹是一个重要的港口城市。"
+    },
+    {
+      "en": "Tokyo is a major financial centre.",
+      "zh": "东京是主要的金融中心。"
+    },
+    {
+      "en": "She's an education major.",
+      "zh": "她主修教育学。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "主要的；重要的；主修的；较多的",
+      "words": [
+        "crucial",
+        "important",
+        "primary",
+        "considerable",
+        "central"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[人类]成年人；主修科目；陆军少校",
+      "words": [
+        "adult"
+      ]
+    }
+  ]
+}

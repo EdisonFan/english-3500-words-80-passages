@@ -1,0 +1,47 @@
+{
+  "word": "below",
+  "found": true,
+  "phonetic_uk": "bɪˈləʊ",
+  "phonetic_us": "bɪˈloʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=below&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=below&type=2",
+  "defs": [
+    {
+      "pos": "prep.",
+      "meaning": "（位置）在……下面； （数、量、水平等）在……以下；（职位、官衔等）低于"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "在下面；（数字或级别）在……以下；在下文中；在下层甲板"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Below）（英、德、芬、瑞、丹、加）贝洛（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "It's 15 degrees below freezing.",
+      "zh": "温度是零下15度。"
+    },
+    {
+      "en": "The sun sank below the horizon.",
+      "zh": "太阳落到了地平线下。"
+    },
+    {
+      "en": "The sun dipped below the horizon.",
+      "zh": "太阳落到地平线下了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "在下面，在较低处；在本页下面",
+      "words": [
+        "under",
+        "down"
+      ]
+    }
+  ]
+}

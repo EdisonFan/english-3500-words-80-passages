@@ -1,0 +1,77 @@
+{
+  "word": "care",
+  "found": true,
+  "phonetic_uk": "keə(r)",
+  "phonetic_us": "ker",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=care&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=care&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "照料，护理；小心，谨慎；忧虑，烦恼；收养，监护"
+    },
+    {
+      "pos": "v.",
+      "meaning": "照顾，照料；在意，担忧；喜欢，想要"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Care）（英）凯尔，（塞）察蕾（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "cares"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "cares"
+    },
+    {
+      "name": "现在分词",
+      "value": "caring"
+    },
+    {
+      "name": "过去式",
+      "value": "cared"
+    },
+    {
+      "name": "过去分词",
+      "value": "cared"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She chose her words with care.",
+      "zh": "她措辞谨慎。"
+    },
+    {
+      "en": "Joe Sixpack doesn't care about that.",
+      "zh": "普通工人不在意那事。"
+    },
+    {
+      "en": "Would you care for another drink?",
+      "zh": "您再来一杯好吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "关怀；照料；谨慎；忧虑",
+      "words": [
+        "disturbance",
+        "worries"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "照顾；关心；喜爱；顾虑",
+      "words": [
+        "tend",
+        "attend",
+        "think of"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "word": "membership",
+  "found": true,
+  "phonetic_uk": "ˈmembəʃɪp",
+  "phonetic_us": "ˈmembərʃɪp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=membership&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=membership&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "会员身份，会籍；会员数；（全体）会员"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "memberships"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Membership almost doubled in two years.",
+      "zh": "两年内会员数目几乎翻了一番。"
+    },
+    {
+      "en": "She had allowed her membership to lapse.",
+      "zh": "她的会员资格期满终止，没有再续。"
+    },
+    {
+      "en": "The club has a membership of more than 500.",
+      "zh": "俱乐部的会员人数超过了500名。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "资格；成员资格；会员身分",
+      "words": [
+        "qualification",
+        "capacity"
+      ]
+    }
+  ]
+}

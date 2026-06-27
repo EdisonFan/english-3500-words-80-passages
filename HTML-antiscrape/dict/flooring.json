@@ -1,0 +1,47 @@
+{
+  "word": "flooring",
+  "found": true,
+  "phonetic_uk": "ˈflɔːrɪŋ",
+  "phonetic_us": "ˈflɔːrɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=flooring&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=flooring&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "地板；地板材料；室内地面；铺地板"
+    },
+    {
+      "pos": "v.",
+      "meaning": "在……上铺地板；击败（floor 的 ing 形式）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "floorings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Quarry tiles are a popular kitchen flooring.",
+      "zh": "缸砖是一种流行的厨房地面材料。"
+    },
+    {
+      "en": "The client's choice of flooring is also pre-installed on top.",
+      "zh": "客户选择的地板也预先安装在顶部。"
+    },
+    {
+      "en": "In Aisle 34 is precut plastic flooring, the glue already in place.",
+      "zh": "34号走道有预先切割的塑料地板，胶水已经到位。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "地板；[建]地板材料；室内地面；铺地板",
+      "words": [
+        "planch"
+      ]
+    }
+  ]
+}

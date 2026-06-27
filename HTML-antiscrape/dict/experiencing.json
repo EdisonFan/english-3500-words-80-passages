@@ -1,0 +1,38 @@
+{
+  "word": "experiencing",
+  "found": true,
+  "phonetic_uk": "ɪkˈspɪəriənsɪŋ",
+  "phonetic_us": "ɪkˈspɪriənsɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=experiencing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=experiencing&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "经历；感受到……（experience 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Popular art is experiencing a renaissance.",
+      "zh": "通俗艺术正在复兴。"
+    },
+    {
+      "en": "The team is experiencing a mid-season wobble.",
+      "zh": "这支队正处于赛季中期的不稳定状态。"
+    },
+    {
+      "en": "The country is experiencing slow but steady economic growth.",
+      "zh": "国家经济正在缓慢但稳步地增长。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "体验（experience的现在分词）",
+      "words": [
+        "samples"
+      ]
+    }
+  ]
+}

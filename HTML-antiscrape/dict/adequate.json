@@ -1,0 +1,42 @@
+{
+  "word": "adequate",
+  "found": true,
+  "phonetic_uk": "ˈædɪkwət",
+  "phonetic_us": "ˈædɪkwət",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=adequate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=adequate&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "足够的，适当的，合乎需要的；（品质）足够好的，令人满意的；（质量）达到要求的，勉强过关的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Make sure that the firm's insurance cover is adequate.",
+      "zh": "要确保该公司的保险保障是足够的。"
+    },
+    {
+      "en": "She didn't give an adequate explanation for being late.",
+      "zh": "她没有给出充分的理由说明迟到的原因。"
+    },
+    {
+      "en": "We cannot guarantee adequate supplies of raw materials.",
+      "zh": "我们不能保证提供充足的原料。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "充足的；适当的；胜任的",
+      "words": [
+        "suitable",
+        "competent",
+        "appropriate",
+        "proper",
+        "becoming"
+      ]
+    }
+  ]
+}

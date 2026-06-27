@@ -1,0 +1,76 @@
+{
+  "word": "follow",
+  "found": true,
+  "phonetic_uk": "ˈfɒləʊ",
+  "phonetic_us": "ˈfɑːloʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=follow&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=follow&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "跟着，跟随；跟踪；（时间或顺序）在……后；循着，沿着（道路等）；沿着……伸延；遵循，听从；仿效，追随；理解，明白；可以推断；注视，密切关注；信奉，信仰；（电影、书等）呈现，描述；从事（行业、职业）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "跟随，追随"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "follows"
+    },
+    {
+      "name": "现在分词",
+      "value": "following"
+    },
+    {
+      "name": "过去式",
+      "value": "followed"
+    },
+    {
+      "name": "过去分词",
+      "value": "followed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She signalled him to follow.",
+      "zh": "她示意他跟她走。"
+    },
+    {
+      "en": "If you lead, I'll follow.",
+      "zh": "你领头，我跟着。"
+    },
+    {
+      "en": "Sorry—I don't quite follow.",
+      "zh": "对不起，我不太听懂你的话。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "跟随；遵循；追求；密切注意",
+      "words": [
+        "string along",
+        "ambition"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "跟随；接着",
+      "words": [
+        "string along",
+        "go on to"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "跟随；追随",
+      "words": [
+        "me-tooism",
+        "sycophancy"
+      ]
+    }
+  ]
+}

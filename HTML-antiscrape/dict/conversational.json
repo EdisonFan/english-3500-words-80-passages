@@ -1,0 +1,39 @@
+{
+  "word": "conversational",
+  "found": true,
+  "phonetic_uk": "ˌkɒnvəˈseɪʃənl",
+  "phonetic_us": "ˌkɑːnvərˈseɪʃənl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=conversational&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=conversational&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "（谈话的风格、用语等）会话式的，口语的；谈话的，会话的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I learnt conversational Spanish at evening classes.",
+      "zh": "我在夜校班学过西班牙语会话。"
+    },
+    {
+      "en": "It's possible that we all have compromised conversational intelligence.",
+      "zh": "我们都有可能会向会话智能妥协。"
+    },
+    {
+      "en": "Mary is ambitious enough to aspire to conversational fluency in Chinese in four months.",
+      "zh": "玛丽雄心很大， 竟立志在四个月里学会用汉语流利地会话。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "对话的；健谈的",
+      "words": [
+        "dialogic",
+        "communicative"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "word": "fundamental",
+  "found": true,
+  "phonetic_uk": "ˌfʌndəˈment(ə)l",
+  "phonetic_us": "ˌfʌndəˈment(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fundamental&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fundamental&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "根本的，基本的；必需的，必不可少的；不能再分的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "基本原理；基音，基频"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "fundamentals"
+    },
+    {
+      "name": "比较级",
+      "value": "more fundamental"
+    },
+    {
+      "name": "最高级",
+      "value": "most fundamental"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Hard work is fundamental to success.",
+      "zh": "勤奋工作是成功的基础。"
+    },
+    {
+      "en": "The argument is full of fundamental flaws.",
+      "zh": "这段论述充满根本性的错误。"
+    },
+    {
+      "en": "Clothes are a fundamental form of self-expression.",
+      "zh": "服饰是一种基本的自我表现形式。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "基本的，根本的",
+      "words": [
+        "elementary",
+        "basic",
+        "essential",
+        "organic",
+        "primary"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "基本原理；基本原则",
+      "words": [
+        "basic principle",
+        "ultimate",
+        "rationale"
+      ]
+    }
+  ]
+}

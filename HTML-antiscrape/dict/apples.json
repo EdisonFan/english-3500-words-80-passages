@@ -1,0 +1,39 @@
+{
+  "word": "apples",
+  "found": true,
+  "phonetic_uk": "ˈæplz",
+  "phonetic_us": "ˈæplz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=apples&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=apples&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[园艺] 苹果（复数）；井架小零件"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The trees were laden with apples.",
+      "zh": "树上都挂满了苹果。"
+    },
+    {
+      "en": "These are the last of our apples.",
+      "zh": "这是我们最后剩下的几个苹果。"
+    },
+    {
+      "en": "I'm waiting for the apples to ripen.",
+      "zh": "我在等这些苹果成熟。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "苹果（复数）；井架小零件",
+      "words": [
+        "pomme",
+        "manzana"
+      ]
+    }
+  ]
+}

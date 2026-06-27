@@ -1,0 +1,46 @@
+{
+  "word": "knowledge",
+  "found": true,
+  "phonetic_uk": "ˈnɒlɪdʒ",
+  "phonetic_us": "ˈnɑːlɪdʒ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=knowledge&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=knowledge&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "知识，学问；知道，了解；计算机系统存储的信息；（与见解相对的）认知"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Knowledge）（南非）诺利奇（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "His knowledge of music is extensive.",
+      "zh": "他音乐知识很广博。"
+    },
+    {
+      "en": "His knowledge of French is only fair.",
+      "zh": "他的法语知识还算可以。"
+    },
+    {
+      "en": "He denied all knowledge of the affair.",
+      "zh": "他否认知道此事。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "知识，学问；知道，认识；学科",
+      "words": [
+        "information",
+        "awareness",
+        "science",
+        "learning",
+        "discipline"
+      ]
+    }
+  ]
+}

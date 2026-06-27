@@ -1,0 +1,58 @@
+{
+  "word": "conducting",
+  "found": true,
+  "phonetic_uk": "kənˈdʌktɪŋ",
+  "phonetic_us": "kənˈdʌktɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=conducting&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=conducting&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "指挥；行为；传导（conduct 的 ing 形式）；指导"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "[物]传导的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "指挥；执行；传导"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Dennis had recently begun a successful career conducting opera.",
+      "zh": "丹尼斯最近成功地开始了指挥歌剧的生涯。"
+    },
+    {
+      "en": "John had recently begun a successful career conducting opera.",
+      "zh": "约翰最近成功地开始了指挥歌剧的生涯。"
+    },
+    {
+      "en": "He appeared hardly capable of conducting a coherent conversation.",
+      "zh": "他看起来几乎没有能力进行连贯的谈话。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "指挥；行为；[物]传导（conduct的ing形式）；指导",
+      "words": [
+        "guiding",
+        "supervising"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "指挥；执行；[物]传导",
+      "words": [
+        "enforcement",
+        "execution",
+        "performance",
+        "implementing",
+        "command"
+      ]
+    }
+  ]
+}

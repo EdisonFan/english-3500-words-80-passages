@@ -1,0 +1,44 @@
+{
+  "word": "greenery",
+  "found": true,
+  "phonetic_uk": "ˈɡriːnəri",
+  "phonetic_us": "ˈɡriːnəri",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=greenery&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=greenery&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "绿色植物；温室"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "greeneries"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The room was decorated with flowers and greenery.",
+      "zh": "屋里装点着花卉和绿叶植物。"
+    },
+    {
+      "en": "The aim is partly aesthetic, but also an attempt to increase the value of neighboring homes by replacing signs of blight with greenery.",
+      "zh": "该目的一部分是出于审美需求，而且也是为了通过用绿色植物取代荒芜的迹象，来尝试增加邻近房屋的价值。"
+    },
+    {
+      "en": "The new research, published in the American Journal of Preventive Medicine, isn't the first to associate greenery with better health, but it does get us closer to identifying what works and why.",
+      "zh": "这项发表在《美国预防医学杂志》上的新研究，并不是第一个将绿色植物与更好的健康状况联系起来的研究，但它确实让我们更接近于确定什么更奏效以及为什么会这样。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "绿色植物；温室",
+      "words": [
+        "heated housing",
+        "glasshouse"
+      ]
+    }
+  ]
+}

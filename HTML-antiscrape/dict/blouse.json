@@ -1,0 +1,55 @@
+{
+  "word": "blouse",
+  "found": true,
+  "phonetic_uk": "blaʊz",
+  "phonetic_us": "blaʊs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=blouse&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=blouse&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（女式）短上衣，衬衫；宽松上衣"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使（衣服）松垂"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "blouses"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "blouses"
+    },
+    {
+      "name": "现在分词",
+      "value": "blousing"
+    },
+    {
+      "name": "过去式",
+      "value": "bloused"
+    },
+    {
+      "name": "过去分词",
+      "value": "bloused"
+    }
+  ],
+  "examples": [
+    {
+      "en": "That blouse sets off the blue of her eyes.",
+      "zh": "那件上衣衬托出了她的蓝眼睛。"
+    },
+    {
+      "en": "Mary's blouse is smart.",
+      "zh": "玛丽的衬衫很整洁。"
+    },
+    {
+      "en": "Her blouse is blue.",
+      "zh": "她的上衣是蓝色的。"
+    }
+  ],
+  "synonyms": []
+}

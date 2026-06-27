@@ -1,0 +1,56 @@
+{
+  "word": "enable",
+  "found": true,
+  "phonetic_uk": "ɪˈneɪb(ə)l",
+  "phonetic_us": "ɪˈneɪb(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=enable&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=enable&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "使能够，使可能；激活，启动；准许，授权"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "enables"
+    },
+    {
+      "name": "现在分词",
+      "value": "enabling"
+    },
+    {
+      "name": "过去式",
+      "value": "enabled"
+    },
+    {
+      "name": "过去分词",
+      "value": "enabled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The new test should enable doctors to detect the disease early.",
+      "zh": "新的检验使医生能在早期发现该种疾病。"
+    },
+    {
+      "en": "This will enable the audience to sit in comfort while watching the shows.",
+      "zh": "这能使观众看演出时舒服地坐着。"
+    },
+    {
+      "en": "The spacecraft will enable scientists to study some dark corners of the solar system.",
+      "zh": "太空船使得科学家可以研究太阳系中一些不为人知的角落。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "使能够，使成为可能；授予权利或方法",
+      "words": [
+        "capacitate",
+        "empower"
+      ]
+    }
+  ]
+}

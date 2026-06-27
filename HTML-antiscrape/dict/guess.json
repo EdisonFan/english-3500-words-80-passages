@@ -1,0 +1,87 @@
+{
+  "word": "guess",
+  "found": true,
+  "phonetic_uk": "ɡes",
+  "phonetic_us": "ɡes",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=guess&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=guess&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "猜测，估计；猜中，猜到；认为，以为"
+    },
+    {
+      "pos": "n.",
+      "meaning": "猜测，推测"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Guess）（英）格斯，（德）居斯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "guesses"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "guesses"
+    },
+    {
+      "name": "现在分词",
+      "value": "guessing"
+    },
+    {
+      "name": "过去式",
+      "value": "guessed"
+    },
+    {
+      "name": "过去分词",
+      "value": "guessed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "'Guess what?' she said archly.",
+      "zh": "“猜猜看？”她调皮地说道。"
+    },
+    {
+      "en": "You'll never guess what's happened!",
+      "zh": "你根本猜不到出了什么事！"
+    },
+    {
+      "en": "Guess who I've just seen!",
+      "zh": "你猜我刚才见到谁了！"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "猜测；认为；推测；猜中",
+      "words": [
+        "expect",
+        "count",
+        "find",
+        "feel",
+        "make"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "猜；推测；猜中",
+      "words": [
+        "speculate"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "猜测；推测",
+      "words": [
+        "speculation",
+        "theory",
+        "projection"
+      ]
+    }
+  ]
+}

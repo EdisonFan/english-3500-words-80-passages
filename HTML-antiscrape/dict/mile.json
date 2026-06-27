@@ -1,0 +1,39 @@
+{
+  "word": "mile",
+  "found": true,
+  "phonetic_uk": "maɪl",
+  "phonetic_us": "maɪl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mile&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mile&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "英里；一英里赛跑；很长的距离；很多，远远地；英里"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】  （Mile）（塞、匈、法）米莱（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "miles或mile"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She lives just half a mile away.",
+      "zh": "她就住在半英里之外。"
+    },
+    {
+      "en": "After a mile, the slope steepened.",
+      "zh": "过了一英里后，山坡变陡了。"
+    },
+    {
+      "en": "It's less than a mile to the beach.",
+      "zh": "离海滩不足一英里远。"
+    }
+  ],
+  "synonyms": []
+}

@@ -1,0 +1,47 @@
+{
+  "word": "liter",
+  "found": true,
+  "phonetic_uk": "ˈliːtə(r)",
+  "phonetic_us": "ˈliːtər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=liter&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=liter&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[计量]公升（容量单位）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Liter）人名；（英）利特"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "liters"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We just harvest them and grow a bunch in a 42-gallon (160-liter) barrel, so we can spray it out in a food-rich environment.",
+      "zh": "我们只需要收割它们，然后在一42加仑（160升）的桶中种植一大批，这样我们就能把它们洒在一个食物丰富的环境里。"
+    },
+    {
+      "en": "Economics is precise about the tax that should, in principle, be levied to deal with negative externalities: the tax on a liter of fuel should be equal to the harm caused by using a liter of fuel.",
+      "zh": "从经济学的角度来看，为了应对负外部性，原则上应该征收的税收是准确的：对一升燃料征收的税应该等于使用一升燃料所造成的危害。"
+    },
+    {
+      "en": "Sadly, the scientists found 1800 pieces of microplastics per liter of (每升) snow.",
+      "zh": "遗憾的是，科学家们在每升雪里发现1800粒塑料微粒。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计量]公升（容量单位）",
+      "words": [
+        "litre"
+      ]
+    }
+  ]
+}

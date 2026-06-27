@@ -1,0 +1,62 @@
+{
+  "word": "harvest",
+  "found": true,
+  "phonetic_uk": "ˈhɑːvɪst",
+  "phonetic_us": "ˈhɑːrvɪst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=harvest&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=harvest&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "收获；收获量，捕获量；成果，收获"
+    },
+    {
+      "pos": "v.",
+      "meaning": "收割，收获；采集，搜集；收采（人的器官、细胞等）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The poor harvest caused prices to rise sharply.",
+      "zh": "收成不好导致物价急剧上涨。"
+    },
+    {
+      "en": "The vegetable harvest is disastrously behind schedule.",
+      "zh": "蔬菜收割灾难性地滞后于计划。"
+    },
+    {
+      "en": "Rice farmers here still plant and harvest their crops by hand.",
+      "zh": "这里的稻农仍然用手工种植和收割庄稼。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "收获；产量；结果",
+      "words": [
+        "outcome",
+        "product",
+        "event",
+        "crop",
+        "result"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "收割；得到",
+      "words": [
+        "gather",
+        "crop",
+        "net"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "收割庄稼",
+      "words": [
+        "mow"
+      ]
+    }
+  ]
+}

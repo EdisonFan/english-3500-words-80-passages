@@ -1,0 +1,44 @@
+{
+  "word": "charity",
+  "found": true,
+  "phonetic_uk": "ˈtʃærəti",
+  "phonetic_us": "ˈtʃærəti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=charity&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=charity&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "慈善组织，慈善机构；慈善事业；仁慈，宽厚；赈济，施舍"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "charities"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Are you collecting for charity?",
+      "zh": "你是在为慈善募捐吗？"
+    },
+    {
+      "en": "Do you give much to charity?",
+      "zh": "慈善捐助你捐得多吗？"
+    },
+    {
+      "en": "The charity is non-profit-making.",
+      "zh": "这个慈善团体不以营利为目的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "慈善；施舍；慈善团体；宽容；施舍物",
+      "words": [
+        "tolerance",
+        "mercy"
+      ]
+    }
+  ]
+}

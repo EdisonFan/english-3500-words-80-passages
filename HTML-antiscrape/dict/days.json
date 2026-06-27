@@ -1,0 +1,53 @@
+{
+  "word": "days",
+  "found": true,
+  "phonetic_uk": "deɪz",
+  "phonetic_us": "deɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=days&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=days&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "每天；在白天"
+    },
+    {
+      "pos": "n.",
+      "meaning": "天（day 的复数形式）；时期"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Days）人名；（英）戴斯"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Two days later tragedy struck.",
+      "zh": "两天后悲剧发生了。"
+    },
+    {
+      "en": "There's only four days left.",
+      "zh": "只剩下四天了。"
+    },
+    {
+      "en": "I'm still owed three days' leave.",
+      "zh": "还欠我三天假呢。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "每天；在白天",
+      "words": [
+        "diurnally"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "天（day的复数形式）；时期",
+      "words": [
+        "phases"
+      ]
+    }
+  ]
+}

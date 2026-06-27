@@ -1,0 +1,47 @@
+{
+  "word": "absent",
+  "found": true,
+  "phonetic_uk": "ˈæbsənt",
+  "phonetic_us": "ˈæbsənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=absent&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=absent&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "缺勤的，缺席的；不存在的，缺乏的；心不在焉的，出神的；不与子女一起住的"
+    },
+    {
+      "pos": "prep.",
+      "meaning": "<美，正式>缺乏，没有"
+    },
+    {
+      "pos": "v.",
+      "meaning": "缺席，离开"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "\"Nothing,\" Rosie said in an absent way.",
+      "zh": "“没什么，”罗茜心不在焉地说。"
+    },
+    {
+      "en": "She was absent for nine consecutive days.",
+      "zh": "她一连缺席了九天。"
+    },
+    {
+      "en": "The pictures, too, were absent from the walls.",
+      "zh": "那些照片也不在那些墙上了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "缺席的；缺少的；心不在焉的；茫然的",
+      "words": [
+        "missing",
+        "vacant"
+      ]
+    }
+  ]
+}

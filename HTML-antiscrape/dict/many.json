@@ -1,0 +1,71 @@
+{
+  "word": "many",
+  "found": true,
+  "phonetic_uk": "ˈmeni",
+  "phonetic_us": "ˈmeni",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=many&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=many&type=2",
+  "defs": [
+    {
+      "pos": "det.",
+      "meaning": "许多；（与单数名词及动词连用）许多，大量"
+    },
+    {
+      "pos": "pron.",
+      "meaning": "许多；许多人"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "许多的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "大多数人（the many）"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "多"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Many）（美、法、加、印）马尼（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more"
+    },
+    {
+      "name": "最高级",
+      "value": "most"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Many pesticides are irritants.",
+      "zh": "许多杀虫剂都有刺激性。"
+    },
+    {
+      "en": "Many Quebeckers are federalists.",
+      "zh": "很多魁北克人是联邦主义者。"
+    },
+    {
+      "en": "Many pesticides are highly toxic.",
+      "zh": "许多杀虫剂毒性很大。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "许多的",
+      "words": [
+        "numerous",
+        "multiple",
+        "hundred",
+        "lotsa",
+        "plentiful"
+      ]
+    }
+  ]
+}

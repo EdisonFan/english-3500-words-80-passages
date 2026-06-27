@@ -1,0 +1,75 @@
+{
+  "word": "gap",
+  "found": true,
+  "phonetic_uk": "ɡæp",
+  "phonetic_us": "ɡæp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=gap&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=gap&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "缝隙，缺口；（时间上的）间隔；空白，缺漏；隔阂，差距"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "gaps"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "gaps"
+    },
+    {
+      "name": "现在分词",
+      "value": "gapping"
+    },
+    {
+      "name": "过去式",
+      "value": "gapped"
+    },
+    {
+      "name": "过去分词",
+      "value": "gapped"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The product has filled a gap in the market.",
+      "zh": "这个产品填补了市场的空白。"
+    },
+    {
+      "en": "By 1973, this gap had narrowed almost to vanishing point.",
+      "zh": "到1973年，这一差距已缩小到几乎为零。"
+    },
+    {
+      "en": "The gap between the two teams has narrowed to three points.",
+      "zh": "两队之间的差距缩小到三分了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "间隙；缺口；空白",
+      "words": [
+        "separation",
+        "blank"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "裂开",
+      "words": [
+        "seam",
+        "spring off"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使成缺口",
+      "words": [
+        "jag"
+      ]
+    }
+  ]
+}

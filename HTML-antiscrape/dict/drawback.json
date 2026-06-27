@@ -1,0 +1,47 @@
+{
+  "word": "drawback",
+  "found": true,
+  "phonetic_uk": "ˈdrɔːbæk",
+  "phonetic_us": "ˈdrɔːbæk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=drawback&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=drawback&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "缺点，不利条件；出口退税"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "drawbacks"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The main drawback to it is the cost.",
+      "zh": "它的主要缺点是成本高。"
+    },
+    {
+      "en": "This is the one major drawback of the new system.",
+      "zh": "这是新系统的一大弊端。"
+    },
+    {
+      "en": "He felt the apartment's only drawback was that it was too small.",
+      "zh": "他感觉这个公寓惟一的缺点就是太小。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "缺点，不利条件；退税",
+      "words": [
+        "defect",
+        "deficiency",
+        "disadvantage",
+        "vice",
+        "fault"
+      ]
+    }
+  ]
+}

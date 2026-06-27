@@ -1,0 +1,47 @@
+{
+  "word": "environment",
+  "found": true,
+  "phonetic_uk": "ɪnˈvaɪrənmənt",
+  "phonetic_us": "ɪnˈvaɪrənmənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=environment&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=environment&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "自然环境，生态环境；周围状况，条件；工作平台，软件包"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "environments"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Children need a caring environment.",
+      "zh": "儿童需要一个充满关怀的环境。"
+    },
+    {
+      "en": "He has always been pro the environment.",
+      "zh": "他一向支持环境保护。"
+    },
+    {
+      "en": "The environment has become a very hot issue.",
+      "zh": "环境已成为很热门的话题。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[环境]环境，外界",
+      "words": [
+        "context",
+        "circumstance",
+        "setting",
+        "surrounding",
+        "condition"
+      ]
+    }
+  ]
+}

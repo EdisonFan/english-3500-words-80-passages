@@ -1,0 +1,83 @@
+{
+  "word": "approach",
+  "found": true,
+  "phonetic_uk": "əˈprəʊtʃ",
+  "phonetic_us": "əˈproʊtʃ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=approach&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=approach&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "靠近，临近；接洽，交谈；对付，处理；近似，接近于"
+    },
+    {
+      "pos": "n.",
+      "meaning": "方法，态度；靠近，接近；接洽，要求；通道，路径；进场着陆；近似物"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "approaches"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "approaches"
+    },
+    {
+      "name": "现在分词",
+      "value": "approaching"
+    },
+    {
+      "name": "过去式",
+      "value": "approached"
+    },
+    {
+      "name": "过去分词",
+      "value": "approached"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I have an analytical approach to every survey.",
+      "zh": "我对每项调查都采用一种分析的方法。"
+    },
+    {
+      "en": "There's a certain novelty value in this approach.",
+      "zh": "这种方法有一定的新意。"
+    },
+    {
+      "en": "He took a very scientific approach to management.",
+      "zh": "他采取了一种非常科学的管理方法。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "方法；途径；接近",
+      "words": [
+        "method",
+        "way",
+        "system",
+        "mechanism",
+        "medium"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "接近；着手处理",
+      "words": [
+        "border",
+        "go on for"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "靠近",
+      "words": [
+        "come near to",
+        "draw near"
+      ]
+    }
+  ]
+}

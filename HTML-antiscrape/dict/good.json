@@ -1,0 +1,83 @@
+{
+  "word": "good",
+  "found": true,
+  "phonetic_uk": "ɡʊd",
+  "phonetic_us": "ɡʊd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=good&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=good&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "优良的；能干的，擅长的；令人愉快的，满意的；合适的，方便的；有益的；乖的；虔诚的；健康的；善良的；正直的；相当大的，相当多的；至少；彻底的；明智的，合理的；划算的，收益可观的；赢得赞许的，令人尊敬的；（用于表示回应）好的；表示惊讶、生气或者加强语气；（用于打招呼）好；有趣的；有效的；能提供……的；（踢、射、投）命中；亲密的；<非正式>够了"
+    },
+    {
+      "pos": "n.",
+      "meaning": "善，正义；好事；商品，所有物；<英>（运载的）货物（goods）；优势，利益；<非正式>真货，正品（the goods）；好人，有道德的人（the good）"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "<非正式>好地；<美>彻底地，完全地"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Good）（英）古德，（瑞典）戈德（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "goods"
+    },
+    {
+      "name": "比较级",
+      "value": "better"
+    },
+    {
+      "name": "最高级",
+      "value": "best"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We remained good friends.",
+      "zh": "我们一直是好朋友。"
+    },
+    {
+      "en": "She speaks good English.",
+      "zh": "她英语说得很好。"
+    },
+    {
+      "en": "That tastes real good.",
+      "zh": "味道好极了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "好的；优良的；愉快的；虔诚的",
+      "words": [
+        "fine",
+        "Ok",
+        "great",
+        "religious",
+        "bright"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "好处；善行；慷慨的行为",
+      "words": [
+        "benefit",
+        "plus",
+        "mercy"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "好",
+      "words": [
+        "okey"
+      ]
+    }
+  ]
+}

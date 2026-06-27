@@ -1,0 +1,68 @@
+{
+  "word": "lawyer",
+  "found": true,
+  "phonetic_uk": "ˈlɔɪə(r)",
+  "phonetic_us": "ˈlɔɪər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=lawyer&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=lawyer&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "律师"
+    },
+    {
+      "pos": "v.",
+      "meaning": "从事法律工作，当律师；（律师）处理法律事务"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 (Lawyer)（英）劳耶（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "lawyers"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "lawyers"
+    },
+    {
+      "name": "现在分词",
+      "value": "lawyering"
+    },
+    {
+      "name": "过去式",
+      "value": "lawyered"
+    },
+    {
+      "name": "过去分词",
+      "value": "lawyered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I should like to call my lawyer.",
+      "zh": "我希望给我的律师打个电话。"
+    },
+    {
+      "en": "The lawyer was paid a huge salary.",
+      "zh": "这个律师拿了很高的薪金。"
+    },
+    {
+      "en": "I recommend (that) he see a lawyer.",
+      "zh": "我建议他去找个律师。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[法]律师；法学家",
+      "words": [
+        "advocate",
+        "lawer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "word": "campaign",
+  "found": true,
+  "phonetic_uk": "kæmˈpeɪn",
+  "phonetic_us": "kæmˈpeɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=campaign&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=campaign&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（有计划的）活动，运动；战役，战斗"
+    },
+    {
+      "pos": "v.",
+      "meaning": "领导（参加）运动，从事竞选活动"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "campaigns"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "campaigns"
+    },
+    {
+      "name": "现在分词",
+      "value": "campaigning"
+    },
+    {
+      "name": "过去式",
+      "value": "campaigned"
+    },
+    {
+      "name": "过去分词",
+      "value": "campaigned"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His campaign was not going well.",
+      "zh": "他的竞选活动进展得不顺利。"
+    },
+    {
+      "en": "He withdrew his support for our campaign.",
+      "zh": "他停止了对我们运动的支持。"
+    },
+    {
+      "en": "The campaign has entered its final stretch.",
+      "zh": "竞选已进入最后冲刺阶段。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "作战；参加竞选；参加活动",
+      "words": [
+        "war",
+        "battle"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "运动；活动；战役",
+      "words": [
+        "movement",
+        "activity",
+        "exercise",
+        "sport",
+        "battle"
+      ]
+    }
+  ]
+}

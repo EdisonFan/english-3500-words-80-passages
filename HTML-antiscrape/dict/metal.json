@@ -1,0 +1,71 @@
+{
+  "word": "metal",
+  "found": true,
+  "phonetic_uk": "ˈmet(ə)l",
+  "phonetic_us": "ˈmet(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=metal&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=metal&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "重金属音乐；金属色；筑路碎石；玻璃液；（铁路的）钢轨；金属，合金"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用金属做，用金属包；<英>用碎石筑路，用碎石修路"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "金属制的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Metal）（捷、瑞典）梅塔尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "metals"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "metals"
+    },
+    {
+      "name": "现在分词",
+      "value": "metalling或metaling"
+    },
+    {
+      "name": "过去式",
+      "value": "metalled或metaled"
+    },
+    {
+      "name": "过去分词",
+      "value": "metalled或metaled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Rust had eaten into the metal.",
+      "zh": "这金属已经锈坏。"
+    },
+    {
+      "en": "The metal felt smooth and cold.",
+      "zh": "这种金属摸上去光滑而冰冷。"
+    },
+    {
+      "en": "If metal gets hot it expands.",
+      "zh": "金属受热就膨胀。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[材]金属；合金",
+      "words": [
+        "alloy"
+      ]
+    }
+  ]
+}

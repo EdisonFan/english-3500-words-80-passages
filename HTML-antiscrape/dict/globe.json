@@ -1,0 +1,78 @@
+{
+  "word": "globe",
+  "found": true,
+  "phonetic_uk": "ɡləʊb",
+  "phonetic_us": "ɡloʊb",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=globe&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=globe&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "地球，世界；地球仪；球体，球状物"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）成球状"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "globes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "globes"
+    },
+    {
+      "name": "现在分词",
+      "value": "globing"
+    },
+    {
+      "name": "过去式",
+      "value": "globed"
+    },
+    {
+      "name": "过去分词",
+      "value": "globed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Dr. Russel is creating an elite herd by cross-breeding goats from around the globe.",
+      "zh": "罗素博士正在通过使来自世界各地的山羊杂交而创造一种精品羊群。"
+    },
+    {
+      "en": "He still wheels and deals around the globe.",
+      "zh": "他仍在世界各地钻营谋取。"
+    },
+    {
+      "en": "The overhead light was covered now with a white globe.",
+      "zh": "顶灯现在被一个白色的球状物罩了起来。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[天]地球；地球仪；球体",
+      "words": [
+        "this earthly round",
+        "terra"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使…成球形",
+      "words": [
+        "sphere"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "成球状",
+      "words": [
+        "conglobate"
+      ]
+    }
+  ]
+}

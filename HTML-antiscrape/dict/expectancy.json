@@ -1,0 +1,44 @@
+{
+  "word": "expectancy",
+  "found": true,
+  "phonetic_uk": "ɪkˈspektənsi",
+  "phonetic_us": "ɪkˈspektənsi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=expectancy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=expectancy&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "期待，期望"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "expectancies"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The average life expectancy was 40.",
+      "zh": "平均期望寿命曾是40岁。"
+    },
+    {
+      "en": "The supporters had a tremendous air of expectancy.",
+      "zh": "支持者满怀期待。"
+    },
+    {
+      "en": "Being taller is associated with longer life expectancy.",
+      "zh": "个子越高，寿命越长。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "期望，期待",
+      "words": [
+        "hope",
+        "looking forward to, be"
+      ]
+    }
+  ]
+}

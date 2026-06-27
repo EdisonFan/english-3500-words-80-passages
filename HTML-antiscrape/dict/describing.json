@@ -1,0 +1,49 @@
+{
+  "word": "describing",
+  "found": true,
+  "phonetic_uk": "dɪˈskraɪbɪŋ",
+  "phonetic_us": "dɪˈskraɪbɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=describing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=describing&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "描述；表示（describe 的 ing 形式）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "描述的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He developed a mathematical formula describing the distances of the planets from the Sun.",
+      "zh": "他提出了一个描述各行星与太阳之间距离的数学公式。"
+    },
+    {
+      "en": "I hope we can get used to describing our daily life in English.",
+      "zh": "我希望我们能逐渐习惯用英语来描述我们的日常生活。"
+    },
+    {
+      "en": "\"In such and such a house,\" said Tom, describing his own father's house.",
+      "zh": "“在这样这样的房子里。”汤姆说，描述的是他自己父亲的房子。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "描述；表示（describe的ing形式）",
+      "words": [
+        "representing"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "描述的",
+      "words": [
+        "depictive"
+      ]
+    }
+  ]
+}

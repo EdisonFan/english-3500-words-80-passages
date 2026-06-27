@@ -1,0 +1,39 @@
+{
+  "word": "meaningful",
+  "found": true,
+  "phonetic_uk": "ˈmiːnɪŋf(ə)l",
+  "phonetic_us": "ˈmiːnɪŋf(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=meaningful&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=meaningful&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "有意义的，重要的；（指眼神、姿势）意味深长的，意在言外的；浅显易懂的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She gave me a meaningful look.",
+      "zh": "她意味深长地看了我一眼。"
+    },
+    {
+      "en": "A sentence can be divided up into meaningful segments.",
+      "zh": "一个句子可以划分成有意义的各个部分。"
+    },
+    {
+      "en": "Instead of rushing at life, I wanted something more meaningful.",
+      "zh": "我不想在生活中忙忙碌碌，而想做更有意义的事。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "有意义的；意味深长的",
+      "words": [
+        "significant",
+        "eloquent"
+      ]
+    }
+  ]
+}

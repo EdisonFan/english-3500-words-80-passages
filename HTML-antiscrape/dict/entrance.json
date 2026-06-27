@@ -1,0 +1,66 @@
+{
+  "word": "entrance",
+  "found": true,
+  "phonetic_uk": "ˈentrəns",
+  "phonetic_us": "ˈentrəns",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=entrance&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=entrance&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "入口，进口；进入，进门；（演员的）登台，登场；进入权，进入许可；卷入，参与；着手，开始；就任，就职"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使入迷，使狂喜"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "entrances"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "entrances"
+    },
+    {
+      "name": "现在分词",
+      "value": "entrancing"
+    },
+    {
+      "name": "过去式",
+      "value": "entranced"
+    },
+    {
+      "name": "过去分词",
+      "value": "entranced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This entrance is in constant use.",
+      "zh": "此入口经常使用。"
+    },
+    {
+      "en": "The entrance hall is littered with toys.",
+      "zh": "入口大厅里散落着玩具。"
+    },
+    {
+      "en": "A lighthouse marks the entrance to the harbour.",
+      "zh": "灯塔是进入海港航道的标志。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[建]入口；进入",
+      "words": [
+        "threshold",
+        "access",
+        "portal",
+        "way in"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "carrot",
+  "found": true,
+  "phonetic_uk": "ˈkærət",
+  "phonetic_us": "ˈkærət",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=carrot&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=carrot&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "胡萝卜；（为鼓励某人做某事而作出的）诱人的承诺；<非正式，贬>红发人（carrots）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "carrots"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Her carrot cake is divine.",
+      "zh": "她的胡萝卜饼好吃极了。"
+    },
+    {
+      "en": "It's never a carrot or a peach.",
+      "zh": "从来没有胡萝卜或桃子。"
+    },
+    {
+      "en": "He made a snowman with a carrot nose!",
+      "zh": "他堆了一个长着胡萝卜鼻子的雪人！"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[园艺]胡萝卜",
+      "words": [
+        "carota"
+      ]
+    }
+  ]
+}

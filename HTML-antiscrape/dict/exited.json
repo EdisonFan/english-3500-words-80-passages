@@ -1,0 +1,30 @@
+{
+  "word": "exited",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˈeksɪtɪt; ˈeɡzɪtɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=exited&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=exited&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "[计]退出（exit 的过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I exited the database and switched off the computer.",
+      "zh": "我退出数据库后关掉了计算机。"
+    },
+    {
+      "en": "We exited via a fire door.",
+      "zh": "我们从防火安全门走了出去。"
+    },
+    {
+      "en": "As the actors exited the stage the lights went on.",
+      "zh": "演员们退场时灯光便亮了起来。"
+    }
+  ],
+  "synonyms": []
+}

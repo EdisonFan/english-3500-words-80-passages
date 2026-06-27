@@ -1,0 +1,67 @@
+{
+  "word": "manage",
+  "found": true,
+  "phonetic_uk": "ˈmænɪdʒ",
+  "phonetic_us": "ˈmænɪdʒ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=manage&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=manage&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "管理，处理；操纵，控制；设法做到，勉力完成；腾出时间参加；凑合着活下去，支撑；调教（人或动物）；竟搞得，竟做出"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "manages"
+    },
+    {
+      "name": "现在分词",
+      "value": "managing"
+    },
+    {
+      "name": "过去式",
+      "value": "managed"
+    },
+    {
+      "name": "过去分词",
+      "value": "managed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We'll manage as best we can.",
+      "zh": "我们将尽力处理。"
+    },
+    {
+      "en": "How did she manage to struggle free ?",
+      "zh": "她是如何设法逃脱的？"
+    },
+    {
+      "en": "Can you manage that suitcase?",
+      "zh": "你弄得动那个箱子吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "管理；经营；控制；设法",
+      "words": [
+        "possess",
+        "run",
+        "regulate",
+        "conduct",
+        "direct"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "处理；应付过去",
+      "words": [
+        "cope with",
+        "handle with"
+      ]
+    }
+  ]
+}

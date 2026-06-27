@@ -1,0 +1,91 @@
+{
+  "word": "go",
+  "found": true,
+  "phonetic_uk": "ɡəʊ",
+  "phonetic_us": "ɡoʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=go&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=go&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "去，走；（尤指与某人）去（某处或出席某项活动）；可能要，打算做；移动，行走；在移动中做；做某个动作；离开；（为某目的）去（某处）；去做（某事）；被发送，被传递；参加（电视或电台节目）；通向，延伸到；上升；放在（通常的位置上）；放得进，适合；相配，协调；除尽，除；进行，进展；被接受，被允许；开始做（某事），进入（某种状态）；变为，变得（尤指朝坏的方面）；处于（尤指令人不快的状况）；（故事、歌词等）内容是；发出（某种声音）；发出信号（或警告）；<非正式>说；开始（活动）；<非正式>走开，滚开；参与（表示对所提到行为不赞成）；运转，工作；停止正常运转；消失，不见；得辞掉，被扔掉；（官能）衰退，下降；死亡；用掉，花掉；卖掉，归于；出价购买；促成，显示；流逝，消逝；继续，持续；<非正式>上厕所；（某人的话）算数；（决定、判决等）对…...不利；取得（某成绩、比分等）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（游戏或活动中）轮到的机会；尝试；<英>精力，活力；<美>某事顺利进行；围棋"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "<非正式>运行正常的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "goes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "goes"
+    },
+    {
+      "name": "现在分词",
+      "value": "going"
+    },
+    {
+      "name": "过去式",
+      "value": "went"
+    },
+    {
+      "name": "过去分词",
+      "value": "gone或been"
+    }
+  ],
+  "examples": [
+    {
+      "en": "\"Go! Please go.\"—\"You must be joking!\"",
+      "zh": "“走吧！请走吧。”—“你一定是在开玩笑！”"
+    },
+    {
+      "en": "Very well, if you want to go, go you shall.",
+      "zh": "很好，如果你想走的话，你可以走了。"
+    },
+    {
+      "en": "Okay, let's go.",
+      "zh": "好了，咱们走吧。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "走；达到；运转；趋于",
+      "words": [
+        "walk",
+        "step",
+        "track"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "去；进行；尝试",
+      "words": [
+        "stroke",
+        "conduct",
+        "process",
+        "experiment",
+        "try"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "忍受；出产；以…打赌",
+      "words": [
+        "yield",
+        "stomach",
+        "stand",
+        "abide",
+        "tough"
+      ]
+    }
+  ]
+}

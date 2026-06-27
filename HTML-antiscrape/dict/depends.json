@@ -1,0 +1,38 @@
+{
+  "word": "depends",
+  "found": true,
+  "phonetic_uk": "dɪˈpendz",
+  "phonetic_us": "dɪˈpendz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=depends&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=depends&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "依赖；信赖（depend 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "It depends what you mean by 'hostile'.",
+      "zh": "那得看你所说的hostile的含义。"
+    },
+    {
+      "en": "Good education often depends on wealth.",
+      "zh": "良好的教育经常依靠良好的经济条件。"
+    },
+    {
+      "en": "It depends on the darkness of your skin.",
+      "zh": "这取决于你肤色的深浅。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "依赖；信赖（depend的三单形式）",
+      "words": [
+        "counts"
+      ]
+    }
+  ]
+}

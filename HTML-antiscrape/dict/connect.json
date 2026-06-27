@@ -1,0 +1,64 @@
+{
+  "word": "connect",
+  "found": true,
+  "phonetic_uk": "kəˈnekt",
+  "phonetic_us": "kəˈnekt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=connect&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=connect&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（使）连接；（使）相通；使接通（电源、水源等）；与……有关系；把……联系起来；衔接，联运；（使）换乘（飞机或火车）；给……接通电话；产生共鸣，契合；建立良好关系；击中"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "connects"
+    },
+    {
+      "name": "现在分词",
+      "value": "connecting"
+    },
+    {
+      "name": "过去式",
+      "value": "connected"
+    },
+    {
+      "name": "过去分词",
+      "value": "connected"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Click 'Continue' to connect to the Internet.",
+      "zh": "点击 Continue 连接到互联网。"
+    },
+    {
+      "en": "You can connect the speakers to your CD player.",
+      "zh": "你可以将这些扬声器与你的激光唱机连接起来。"
+    },
+    {
+      "en": "The canal was built to connect Sheffield with the Humber estuary.",
+      "zh": "修建这条运河是为了将设菲尔德和亨伯河河口连接起来。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "连接；联合；关连",
+      "words": [
+        "couple",
+        "hand in hand"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "连接，连结；联合",
+      "words": [
+        "band",
+        "combine"
+      ]
+    }
+  ]
+}

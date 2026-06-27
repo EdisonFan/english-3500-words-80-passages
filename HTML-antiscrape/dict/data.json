@@ -1,0 +1,34 @@
+{
+  "word": "data",
+  "found": true,
+  "phonetic_uk": "ˈdeɪtə; ˈdɑːtə",
+  "phonetic_us": "ˈdeɪtə; ˈdætə",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=data&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=data&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "数据，资料；（储存在计算机中的）数据资料"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Data）（日）驮太，（印、葡）达塔（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They had hacked secret data.",
+      "zh": "他们窃取了保密数据。"
+    },
+    {
+      "en": "Data is transmitted electronically.",
+      "zh": "数据是电子传输。"
+    },
+    {
+      "en": "He copied the data into a notebook.",
+      "zh": "他把资料抄在了笔记本上。"
+    }
+  ],
+  "synonyms": []
+}

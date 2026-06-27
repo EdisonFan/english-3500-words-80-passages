@@ -1,0 +1,55 @@
+{
+  "word": "fairly",
+  "found": true,
+  "phonetic_uk": "ˈfeəli",
+  "phonetic_us": "ˈferli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fairly&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fairly&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "相当地，颇；公平地，公正地；<旧>（用以强调）完全，简直；令人愉快地，让人喜欢地"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Fairly）（英）费尔利（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more fairly"
+    },
+    {
+      "name": "最高级",
+      "value": "most fairly"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Our plans are fairly elastic.",
+      "zh": "我们的计划有相当大的灵活性。"
+    },
+    {
+      "en": "The exam was fairly difficult.",
+      "zh": "这场考试相当难。"
+    },
+    {
+      "en": "The wheels are usually fairly large.",
+      "zh": "该机轮通常相当大。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "相当地；公平地；简直",
+      "words": [
+        "relatively",
+        "simply",
+        "comparatively",
+        "equally",
+        "reasonably"
+      ]
+    }
+  ]
+}

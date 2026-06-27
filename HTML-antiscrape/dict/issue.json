@@ -1,0 +1,80 @@
+{
+  "word": "issue",
+  "found": true,
+  "phonetic_uk": "ˈɪʃuː",
+  "phonetic_us": "ˈɪʃuː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=issue&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=issue&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "议题，争论点；（报纸、杂志等的）期，号；发放，分配；（新股票或邮票等的）发行；子女，后嗣；流出，发出；<旧>结果，后果"
+    },
+    {
+      "pos": "v.",
+      "meaning": "发表，颁布；分发，分配；正式发行；流出，发出；由……产生，由……得出"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "issues"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "issues"
+    },
+    {
+      "name": "现在分词",
+      "value": "issuing"
+    },
+    {
+      "name": "过去式",
+      "value": "issued"
+    },
+    {
+      "name": "过去分词",
+      "value": "issued"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You're just avoiding the issue.",
+      "zh": "你只不过是在回避问题。"
+    },
+    {
+      "en": "The issue engendered controversy.",
+      "zh": "这个问题引起了争论。"
+    },
+    {
+      "en": "The issue remains hotly disputed.",
+      "zh": "这个问题至今仍在激烈地辩论中。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "问题；流出；期号；[会计]发行物",
+      "words": [
+        "question",
+        "flux"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[会计]发行，发布；发给；放出，排出",
+      "words": [
+        "discharge",
+        "exhaust"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "[会计]发行；流出；造成…结果；传下",
+      "words": [
+        "discharge",
+        "shed"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "word": "achieve",
+  "found": true,
+  "phonetic_uk": "əˈtʃiːv",
+  "phonetic_us": "əˈtʃiːv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=achieve&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=achieve&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（经努力）达到，取得，实现；获得成功"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "achieves"
+    },
+    {
+      "name": "现在分词",
+      "value": "achieving"
+    },
+    {
+      "name": "过去式",
+      "value": "achieved"
+    },
+    {
+      "name": "过去分词",
+      "value": "achieved"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The medicine did not achieve the desired effect.",
+      "zh": "这种药未达到预期效果。"
+    },
+    {
+      "en": "Teamwork is required in order to achieve these aims.",
+      "zh": "要达到这些目标需要齐心协力。"
+    },
+    {
+      "en": "Set yourself targets that you can reasonably hope to achieve.",
+      "zh": "给自己制订有望达到的指标。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "达到；完成",
+      "words": [
+        "accomplish",
+        "carry out",
+        "perform",
+        "complete",
+        "fulfil"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "达到目的；如愿以偿",
+      "words": [
+        "gain one's ends",
+        "Make it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "word": "dependent",
+  "found": true,
+  "phonetic_uk": "dɪˈpendənt",
+  "phonetic_us": "dɪˈpendənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dependent&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dependent&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "依赖的，依靠的；取决于；有瘾的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "受供养者"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "dependents"
+    },
+    {
+      "name": "比较级",
+      "value": "more dependent"
+    },
+    {
+      "name": "最高级",
+      "value": "most dependent"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The area is heavily dependent on tourism.",
+      "zh": "这个地区非常依赖旅游业。"
+    },
+    {
+      "en": "She is still financially dependent on her parents.",
+      "zh": "她在经济上仍然依靠父母。"
+    },
+    {
+      "en": "She had grown ever more peevishly dependent on him.",
+      "zh": "她脾气变得更坏，对他的依赖更重了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "依靠的；从属的；取决于…的",
+      "words": [
+        "under",
+        "servient"
+      ]
+    }
+  ]
+}

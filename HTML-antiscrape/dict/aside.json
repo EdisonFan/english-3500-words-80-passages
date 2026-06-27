@@ -1,0 +1,63 @@
+{
+  "word": "aside",
+  "found": true,
+  "phonetic_uk": "əˈsaɪd",
+  "phonetic_us": "əˈsaɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=aside&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=aside&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "在旁边，到（或向）一边；积攒，留出；除……以外"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（戏剧或电影中的）旁白；低语，悄悄话；离题话，题外话"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "asides"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She pulled the curtain aside.",
+      "zh": "她把窗帘拉向一边。"
+    },
+    {
+      "en": "He shouldered the man aside.",
+      "zh": "他一膀子把那男人撞到了一旁。"
+    },
+    {
+      "en": "Aside from a few scratches, I'm OK.",
+      "zh": "除了几处擦伤外，我安然无恙。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "离开，撇开；在旁边",
+      "words": [
+        "away from",
+        "alongside"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "旁白；私语，悄悄话；离题的话",
+      "words": [
+        "voice-over",
+        "whisper"
+      ]
+    },
+    {
+      "pos": "prep.",
+      "meaning": "在…旁边",
+      "words": [
+        "at the side of"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "ancestors",
+  "found": true,
+  "phonetic_uk": "ˈænsestəz; ˈænsəstəz",
+  "phonetic_us": "ˈænsestərz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ancestors&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ancestors&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[生物]祖先，上代；先祖（ancestor 复数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "His ancestors had come to America from Ireland.",
+      "zh": "他的祖先从爱尔兰来到美国。"
+    },
+    {
+      "en": "There was Greek blood in his veins: his ancestors originally bore the name Karajannis.",
+      "zh": "他有希腊血统——他的祖先原来姓卡拉扬尼斯。"
+    },
+    {
+      "en": "Logic dictates that our ancestors could not have held a yearly festival until they figured what a year was.",
+      "zh": "依照逻辑推论，我们的祖先在弄清1年是什么意思之前，不可能举行过每年一度的节庆。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "祖先，上代；先祖（ancestor复数形式）",
+      "words": [
+        "father",
+        "root"
+      ]
+    }
+  ]
+}

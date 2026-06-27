@@ -1,0 +1,56 @@
+{
+  "word": "answering",
+  "found": true,
+  "phonetic_uk": "ˈɑːnsərɪŋ",
+  "phonetic_us": "ˈænsər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=answering&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=answering&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "回答，回应"
+    },
+    {
+      "pos": "v.",
+      "meaning": "回答，回应，回复；对……做出反应；适合，符合；满足（answer 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He paused before answering.",
+      "zh": "他在回答前停了下来。"
+    },
+    {
+      "en": "Greg thought for a bit before answering.",
+      "zh": "格雷格略微思考了一下才回答。"
+    },
+    {
+      "en": "He studiously avoided answering the question.",
+      "zh": "他刻意不去回答那个问题。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[通信]应答；回应",
+      "words": [
+        "respond"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "回答；回击；起反应（answer的ing形式）",
+      "words": [
+        "reacting"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "[通信]应答的；回应的",
+      "words": [
+        "responsive"
+      ]
+    }
+  ]
+}

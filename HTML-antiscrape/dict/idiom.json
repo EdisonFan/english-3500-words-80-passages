@@ -1,0 +1,44 @@
+{
+  "word": "idiom",
+  "found": true,
+  "phonetic_uk": "ˈɪdiəm",
+  "phonetic_us": "ˈɪdiəm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=idiom&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=idiom&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "习语，成语；方言，土话；（个人、艺术形式等的）风格，特色"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "idioms"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It's just the first half of an idiom.",
+      "zh": "它只是一个习语的前半部分。"
+    },
+    {
+      "en": "Let us look at an idiom: kill two birds with double-edged sword.",
+      "zh": "我们再看一个成语：一举两得/一箭双雕。"
+    },
+    {
+      "en": "An idiom is a group of words.",
+      "zh": "习语是一组单词。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "成语，习语；土话",
+      "words": [
+        "phrase",
+        "dialect"
+      ]
+    }
+  ]
+}

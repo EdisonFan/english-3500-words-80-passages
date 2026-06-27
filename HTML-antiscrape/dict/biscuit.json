@@ -1,0 +1,44 @@
+{
+  "word": "biscuit",
+  "found": true,
+  "phonetic_uk": "ˈbɪskɪt",
+  "phonetic_us": "ˈbɪskɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=biscuit&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=biscuit&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "<英> 饼干，薄薄一片的甜饼；<美> 松饼(食用时常佐以肉汁)；陶瓷素烧坯（经烧制但未上釉的陶瓷土坯）；淡褐色，灰黄色；（嵌入两块木板中的沟槽将其连接起来的）小木片，木榫"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "biscuits或biscuit"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Someone has selfishly emptied the biscuit jar.",
+      "zh": "有人自私地吃光了饼干罐里的饼干。"
+    },
+    {
+      "en": "He wolfed down the rest of the biscuit and cheese.",
+      "zh": "他狼吞虎咽地吃下了剩余的饼干和奶酪。"
+    },
+    {
+      "en": "Learn how to cook a curd biscuit with raisins.",
+      "zh": "学习如何用葡萄干做凝乳饼干。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "小点心，饼干",
+      "words": [
+        "munchies",
+        "cookie"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "word": "anything",
+  "found": true,
+  "phonetic_uk": "ˈeniθɪŋ",
+  "phonetic_us": "ˈeniθɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=anything&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=anything&type=2",
+  "defs": [
+    {
+      "pos": "pron.",
+      "meaning": "任何事物 （用于含有否定意义的陈述句中）；某事物（用于疑问句和条件分句中）；任一事物（强调）；任何……的事物（接后置修饰语）；任何（接近、像……的）事物；（某范围的）任何事物；重要东西，重要事物；某一限定范围之内的任何一个数量"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They'll eat almost anything.",
+      "zh": "他们几乎什么都吃。"
+    },
+    {
+      "en": "I never throw anything away.",
+      "zh": "我从来不扔任何东西。"
+    },
+    {
+      "en": "She'd forgive him anything.",
+      "zh": "她会原谅他的任何事。"
+    }
+  ],
+  "synonyms": []
+}

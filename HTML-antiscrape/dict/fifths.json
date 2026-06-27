@@ -1,0 +1,30 @@
+{
+  "word": "fifths",
+  "found": true,
+  "phonetic_uk": "fɪfθs",
+  "phonetic_us": "fɪfθs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fifths&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fifths&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "第五；五分之几；五等品（fifth 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She cut the cake into fifths.",
+      "zh": "她把蛋糕切成五块。"
+    },
+    {
+      "en": "About three fifths of them do.",
+      "zh": "大约五分之三的人这样做。"
+    },
+    {
+      "en": "Among all these books, three fifths of them are for children to read.",
+      "zh": "所有这些书中，有五分之三是给孩子们读的。"
+    }
+  ],
+  "synonyms": []
+}

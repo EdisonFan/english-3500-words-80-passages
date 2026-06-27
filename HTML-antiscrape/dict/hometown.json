@@ -1,0 +1,44 @@
+{
+  "word": "hometown",
+  "found": true,
+  "phonetic_uk": "ˈhəʊmtaʊn",
+  "phonetic_us": "ˈhoʊmtaʊn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=hometown&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=hometown&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "家乡，故乡"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "hometowns"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We asked Jason to write an essay about his hometown.",
+      "zh": "我们让杰森写一篇关于他家乡的短文。"
+    },
+    {
+      "en": "To introduce her hometown.",
+      "zh": "介绍她的家乡。"
+    },
+    {
+      "en": "It's my hometown, Xichang.",
+      "zh": "这是我的家乡，西昌。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "家乡；故乡",
+      "words": [
+        "country",
+        "native land"
+      ]
+    }
+  ]
+}

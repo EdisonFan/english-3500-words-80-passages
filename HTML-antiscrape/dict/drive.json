@@ -1,0 +1,81 @@
+{
+  "word": "drive",
+  "found": true,
+  "phonetic_uk": "draɪv",
+  "phonetic_us": "draɪv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=drive&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=drive&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "驾车送（人）；迫使，驱使；驱赶；敲，击；猛踢，猛击（球）；驱动；吹，刮；凿，挖掘；开车，驾驶"
+    },
+    {
+      "pos": "n.",
+      "meaning": "驱车出行；强烈欲望，本能需求；私人车道；有组织的努力，运动；干劲，驱动力；驱动器；猛踢，猛击；驱赶，围歼；（用于路名）路，大道；<英>（有组织的）惠斯特牌戏等的比赛；（有自动传动装置的汽车的）自动挡；（从球座上）发球"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "drives"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "drives"
+    },
+    {
+      "name": "现在分词",
+      "value": "driving"
+    },
+    {
+      "name": "过去式",
+      "value": "drove"
+    },
+    {
+      "name": "过去分词",
+      "value": "driven"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The drive seemed interminable.",
+      "zh": "这次开车好像没有尽头。"
+    },
+    {
+      "en": "You shouldn't drive so fast.",
+      "zh": "你不应该把车开得这么快。"
+    },
+    {
+      "en": "She never learned to drive.",
+      "zh": "她从未学过开车。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "开车；猛击；飞跑",
+      "words": [
+        "belt",
+        "jab at"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "推动，发动（机器等）；[交]驾驶（马车，汽车等）；驱赶",
+      "words": [
+        "launch",
+        "force",
+        "impulse"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[机]驱动器；驾车；[动][心理]内驱力，推进力；快车道",
+      "words": [
+        "driving mechanism",
+        "propulsion"
+      ]
+    }
+  ]
+}

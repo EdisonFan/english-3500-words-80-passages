@@ -1,0 +1,81 @@
+{
+  "word": "find",
+  "found": true,
+  "phonetic_uk": "faɪnd",
+  "phonetic_us": "faɪnd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=find&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=find&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "找到，找回；发现，发觉；（经过研究）找出，查明；感到，认为；生长在某处，存在于某地；设法获得；开始有……；裁决，判决；自然到达，达到；鼓起（勇气），振作（精神）；（猎人，猎犬）发现猎物（尤指发现狐狸）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "被发现的人，发现物（尤指有价值的人或物）；发现狐狸"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Find）（丹）芬（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "finds"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "finds"
+    },
+    {
+      "name": "现在分词",
+      "value": "finding"
+    },
+    {
+      "name": "过去式",
+      "value": "found"
+    },
+    {
+      "name": "过去分词",
+      "value": "found"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I find cooking very relaxing.",
+      "zh": "我发现烹饪非常令人放松。"
+    },
+    {
+      "en": "Whereabouts did you find it?",
+      "zh": "你在哪儿找到它的？"
+    },
+    {
+      "en": "He awoke to find her gone.",
+      "zh": "他醒来发现她已经走了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "发现；认为；感到；获得",
+      "words": [
+        "detect",
+        "earn",
+        "acquire",
+        "expect",
+        "count"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "发现",
+      "words": [
+        "discovery",
+        "occurrence",
+        "detection",
+        "anagnorisis"
+      ]
+    }
+  ]
+}

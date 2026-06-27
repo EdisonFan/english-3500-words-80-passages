@@ -1,0 +1,53 @@
+{
+  "word": "appealing",
+  "found": true,
+  "phonetic_uk": "əˈpiːlɪŋ",
+  "phonetic_us": "əˈpiːlɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=appealing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=appealing&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "吸引人的，有感染力的；恳求的，可怜的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "呼吁，恳求；上诉；引起兴趣（appeal 的现在分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "There was an appealing gravity to everything she said.",
+      "zh": "她说的一切都带有一种吸引人的严肃与庄重。"
+    },
+    {
+      "en": "'Would you really help?' he said with an appealing look.",
+      "zh": "“你真的愿意帮忙吗？”他满脸恳求地说。"
+    },
+    {
+      "en": "What is it about Tom Hanks that cinema-goers find so appealing?",
+      "zh": "汤姆·汉克斯哪点让电影观众觉得那么有吸引力？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "吸引人的；动人的；引起兴趣的；恳求似的",
+      "words": [
+        "attractive",
+        "affecting",
+        "moving",
+        "absorbing",
+        "melting"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "恳求（appeal的ing形式）；将…上诉",
+      "words": [
+        "soliciting"
+      ]
+    }
+  ]
+}

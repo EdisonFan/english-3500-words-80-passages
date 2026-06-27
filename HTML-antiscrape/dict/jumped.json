@@ -1,0 +1,30 @@
+{
+  "word": "jumped",
+  "found": true,
+  "phonetic_uk": "dʒʌmpt",
+  "phonetic_us": "dʒʌmpt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=jumped&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=jumped&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "跳跃（jump 的过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She jumped off the top board.",
+      "zh": "她从高层跳板上跳了下来。"
+    },
+    {
+      "en": "He jumped up from his chair.",
+      "zh": "他从椅子上跳起来。"
+    },
+    {
+      "en": "They jumped over the stream.",
+      "zh": "他们跳过了小溪。"
+    }
+  ],
+  "synonyms": []
+}

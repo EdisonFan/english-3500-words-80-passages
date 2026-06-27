@@ -1,0 +1,44 @@
+{
+  "word": "discrimination",
+  "found": true,
+  "phonetic_uk": "dɪˌskrɪmɪˈneɪʃn",
+  "phonetic_us": "dɪˌskrɪmɪˈneɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=discrimination&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=discrimination&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "歧视，区别对待；区分，辨别；辨别力，鉴赏力"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "discriminations"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Women's groups denounced sexual discrimination.",
+      "zh": "妇女组织谴责性别歧视。"
+    },
+    {
+      "en": "\"This,\" huffed Mr. Buthelezi, \"was discrimination.\"",
+      "zh": "“这么做” 布特莱齐先生愤怒地说，“是歧视。”"
+    },
+    {
+      "en": "Eventually, he came face to face with discrimination again.",
+      "zh": "最后，他再次直面歧视。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "歧视；区别，辨别；识别力",
+      "words": [
+        "distinction",
+        "differentiation"
+      ]
+    }
+  ]
+}

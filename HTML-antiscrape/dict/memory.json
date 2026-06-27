@@ -1,0 +1,48 @@
+{
+  "word": "memory",
+  "found": true,
+  "phonetic_uk": "ˈmeməri",
+  "phonetic_us": "ˈmeməri",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=memory&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=memory&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "记忆力，记性；记忆，回忆；（计算机存储器的）存储量；（计算机的）存储器；对死者的记忆；记忆所及的时间（或范围）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Memory）（英）梅默里（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "memories"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Memory is selective and fallible.",
+      "zh": "记忆有选择性而且会出错。"
+    },
+    {
+      "en": "Memory is constitutive of identity.",
+      "zh": "记忆是身份的一个重要构成部分。"
+    },
+    {
+      "en": "The dream wakened a forgotten memory.",
+      "zh": "那梦唤起了一段忘却的记忆。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[心理]记忆，记忆力；内存，[计]存储器；回忆",
+      "words": [
+        "mind",
+        "retention"
+      ]
+    }
+  ]
+}

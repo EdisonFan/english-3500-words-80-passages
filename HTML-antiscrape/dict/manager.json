@@ -1,0 +1,44 @@
+{
+  "word": "manager",
+  "found": true,
+  "phonetic_uk": "ˈmænɪdʒə(r)",
+  "phonetic_us": "ˈmænɪdʒər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=manager&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=manager&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（公司、部门等的）经理；（艺人或运动员的）经纪人；（运动队的）管理人，主教练；管理某物的人；（计算机）管理程序"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "managers"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The manager was fat and jolly.",
+      "zh": "经理胖乎乎乐呵呵的。"
+    },
+    {
+      "en": "I wish to speak to the manager.",
+      "zh": "我想跟经理说话。"
+    },
+    {
+      "en": "Did you see the manager himself?",
+      "zh": "你见到经理本人了吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "经理；管理人员",
+      "words": [
+        "executive",
+        "gerente"
+      ]
+    }
+  ]
+}

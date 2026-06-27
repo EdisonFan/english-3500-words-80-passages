@@ -1,0 +1,43 @@
+{
+  "word": "mitch",
+  "found": true,
+  "phonetic_uk": "mɪtʃ",
+  "phonetic_us": "mɪtʃ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mitch&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mitch&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（非正式）逃学；（非正式）逃课"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Mitch）（美、加、澳）米奇（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Mitch was a San Franciscan by birth.",
+      "zh": "米奇是在旧金山出生的。"
+    },
+    {
+      "en": "He is called Mitch, because his name is Mitchell.",
+      "zh": "他被叫做米奇，因为他的名字是米切尔。"
+    },
+    {
+      "en": "It has seemed unable to have what Indiana Governor Mitch Daniels has called an \"adult conversation\" about the consequences of spending so much more than is taken in.",
+      "zh": "像印第安纳州州长米奇·丹尼尔斯所说的那样，就过度消费的后果展开“成人对话”，似乎是不可能的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "逃学",
+      "words": [
+        "play hookey",
+        "play hooky"
+      ]
+    }
+  ]
+}

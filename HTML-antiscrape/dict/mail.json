@@ -1,0 +1,76 @@
+{
+  "word": "mail",
+  "found": true,
+  "phonetic_uk": "meɪl",
+  "phonetic_us": "meɪl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mail&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mail&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "邮政，邮递系统；邮件，信件；电子邮件；铠甲，锁子甲；（某些动物的）甲壳，鳞；<旧>邮车，邮政运输工具；<古>邮件包，邮袋；邮报（用于报纸名称）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "邮寄；用电子邮件发送；给……披上铠甲"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Mail）（法）马伊（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "mails"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "mails"
+    },
+    {
+      "name": "现在分词",
+      "value": "mailing"
+    },
+    {
+      "name": "过去式",
+      "value": "mailed"
+    },
+    {
+      "name": "过去分词",
+      "value": "mailed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You can contact us by e-mail.",
+      "zh": "你可以通过电子邮件跟我们联系。"
+    },
+    {
+      "en": "There isn't much mail today.",
+      "zh": "今天邮件不多。"
+    },
+    {
+      "en": "We do our business by mail.",
+      "zh": "我们通过邮递做生意。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "邮件；邮政，[邮]邮递；盔甲",
+      "words": [
+        "armour",
+        "dawk"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "邮寄；寄出",
+      "words": [
+        "send off",
+        "pack off"
+      ]
+    }
+  ]
+}

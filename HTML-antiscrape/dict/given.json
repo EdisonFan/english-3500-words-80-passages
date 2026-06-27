@@ -1,0 +1,72 @@
+{
+  "word": "given",
+  "found": true,
+  "phonetic_uk": "ˈɡɪv(ə)n",
+  "phonetic_us": "ˈɡɪv(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=given&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=given&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "规定的，指定的；倾向于；<古>（文件）（已在某日期由某人）签署的；赠送的；假定的，假设的"
+    },
+    {
+      "pos": "prep.",
+      "meaning": "考虑到；如果，倘若"
+    },
+    {
+      "pos": "n.",
+      "meaning": "假定事实"
+    },
+    {
+      "pos": "v.",
+      "meaning": "给予（give 的过去分词形式）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Given）（英、土）吉文（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "You've given me your cold.",
+      "zh": "你把感冒传染给我了。"
+    },
+    {
+      "en": "He was given extreme unction.",
+      "zh": "他接受了终傅圣事。"
+    },
+    {
+      "en": "He was given a blood transfusion.",
+      "zh": "他接受了输血。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "赠予的；沉溺的",
+      "words": [
+        "bathed"
+      ]
+    },
+    {
+      "pos": "prep.",
+      "meaning": "考虑到",
+      "words": [
+        "considering",
+        "saving",
+        "in consideration of",
+        "in mind"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "给予（give的过去分词）",
+      "words": [
+        "shown",
+        "gifted"
+      ]
+    }
+  ]
+}

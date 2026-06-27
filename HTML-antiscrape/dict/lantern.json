@@ -1,0 +1,43 @@
+{
+  "word": "lantern",
+  "found": true,
+  "phonetic_uk": "ˈlæntən",
+  "phonetic_us": "ˈlæntərn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=lantern&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=lantern&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "灯笼，提灯；（灯塔上的）灯室；天窗"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "lanterns"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The night lantern glowed softly in the darkness.",
+      "zh": "夜灯在黑暗中发出微弱的光。"
+    },
+    {
+      "en": "Let's make a pumpkin lantern!",
+      "zh": "我们来做个南瓜灯吧！"
+    },
+    {
+      "en": "When is the Lantern Festival?",
+      "zh": "什么时候是元宵节？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "灯笼；提灯；灯笼式天窗",
+      "words": [
+        "scaldfish"
+      ]
+    }
+  ]
+}

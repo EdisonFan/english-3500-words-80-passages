@@ -1,0 +1,64 @@
+{
+  "word": "blog",
+  "found": true,
+  "phonetic_uk": "blɒɡ",
+  "phonetic_us": "blɑːɡ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=blog&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=blog&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "网络日志，博客"
+    },
+    {
+      "pos": "v.",
+      "meaning": "写博客"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "blogs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "blogs"
+    },
+    {
+      "name": "现在分词",
+      "value": "blogging"
+    },
+    {
+      "name": "过去式",
+      "value": "blogged"
+    },
+    {
+      "name": "过去分词",
+      "value": "blogged"
+    }
+  ],
+  "examples": [
+    {
+      "en": "When Barbieux started his blog, his aspirations were small; he simply hoped to communicate with a few people.",
+      "zh": "当巴布开始他的博客时，他的期望并不大。他只是希望能与几个人交流。"
+    },
+    {
+      "en": "I have to shut down my blog.",
+      "zh": "我得关掉我的博客。"
+    },
+    {
+      "en": "Do you have a blog about running?",
+      "zh": "你有一个关于跑步的博客吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "博客；部落格；网络日志",
+      "words": [
+        "boke",
+        "weblog"
+      ]
+    }
+  ]
+}

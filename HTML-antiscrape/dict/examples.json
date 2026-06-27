@@ -1,0 +1,51 @@
+{
+  "word": "examples",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ɪɡˈzæmpl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=examples&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=examples&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "例子；列证（example 的复数形式）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "举例说明；作出榜样（example 的第三人称单数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "You should include some examples in your essay.",
+      "zh": "你应该在文章里举一些例子。"
+    },
+    {
+      "en": "Space does not permit the citation of the examples.",
+      "zh": "篇幅有限，示例从略。"
+    },
+    {
+      "en": "Standard examples were drummed into students' heads.",
+      "zh": "标准的例子被反复灌输到了学生的脑中。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "例子；列证（example的复数形式）",
+      "words": [
+        "samples",
+        "instances"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "举例说明；作出榜样（example的第三人称单数形式）",
+      "words": [
+        "illustrates",
+        "instances"
+      ]
+    }
+  ]
+}

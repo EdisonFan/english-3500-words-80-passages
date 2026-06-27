@@ -1,0 +1,64 @@
+{
+  "word": "dismiss",
+  "found": true,
+  "phonetic_uk": "dɪsˈmɪs",
+  "phonetic_us": "dɪsˈmɪs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dismiss&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dismiss&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "开除，解雇；不考虑，不理会；驳回，停止受理；让……离开，解散；（板球）使退场，使出局"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "dismisses"
+    },
+    {
+      "name": "现在分词",
+      "value": "dismissing"
+    },
+    {
+      "name": "过去式",
+      "value": "dismissed"
+    },
+    {
+      "name": "过去分词",
+      "value": "dismissed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He was so irresponsible that I decided to dismiss him.",
+      "zh": "他如此不负责任，我决定解雇他。"
+    },
+    {
+      "en": "I think we can safely dismiss their objections.",
+      "zh": "我认为我们对他们的异议完全可以不予理会。"
+    },
+    {
+      "en": "They were quick to dismiss rumours of an off-screen romance.",
+      "zh": "两人迅速否认了他们在现实生活中是情侣的传言。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "解散；解雇；开除；让...离开",
+      "words": [
+        "remove",
+        "fire out"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "解散",
+      "words": [
+        "disband",
+        "break up"
+      ]
+    }
+  ]
+}

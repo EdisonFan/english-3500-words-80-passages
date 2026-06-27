@@ -1,0 +1,72 @@
+{
+  "word": "detail",
+  "found": true,
+  "phonetic_uk": "ˈdiːteɪl",
+  "phonetic_us": "ˈdiːteɪl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=detail&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=detail&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "细节，细微之处；详情，资料；（军队中的）任务，特遣队"
+    },
+    {
+      "pos": "v.",
+      "meaning": "详细说明，详述；彻底清洗（汽车）；（尤指军队中）派遣，选派"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "details"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "details"
+    },
+    {
+      "name": "现在分词",
+      "value": "detailing"
+    },
+    {
+      "name": "过去式",
+      "value": "detailed"
+    },
+    {
+      "name": "过去分词",
+      "value": "detailed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The proposals were short on detail.",
+      "zh": "这些提议缺少细节。"
+    },
+    {
+      "en": "I can't remember every little detail.",
+      "zh": "我记不住每一个微小的细节。"
+    },
+    {
+      "en": "The project needs to be costed in detail.",
+      "zh": "这项工程需要作详细的成本估算。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "细节，详情",
+      "words": [
+        "specific",
+        "minutia"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "详述；选派",
+      "words": [
+        "expand on",
+        "enlarge on"
+      ]
+    }
+  ]
+}

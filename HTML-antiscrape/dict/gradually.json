@@ -1,0 +1,39 @@
+{
+  "word": "gradually",
+  "found": true,
+  "phonetic_uk": "ˈɡrædʒuəli",
+  "phonetic_us": "ˈɡrædʒuəli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=gradually&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=gradually&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "逐渐地，逐步地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The weather gradually improved.",
+      "zh": "天气逐渐好转。"
+    },
+    {
+      "en": "The water deepened gradually.",
+      "zh": "水渐渐变深了。"
+    },
+    {
+      "en": "My mood gradually lightened.",
+      "zh": "我的心情渐渐好起来。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "逐步地；渐渐地",
+      "words": [
+        "stage by stage",
+        "step by step"
+      ]
+    }
+  ]
+}

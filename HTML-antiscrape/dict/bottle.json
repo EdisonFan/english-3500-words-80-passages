@@ -1,0 +1,67 @@
+{
+  "word": "bottle",
+  "found": true,
+  "phonetic_uk": "ˈbɒt(ə)l",
+  "phonetic_us": "ˈbɑːt(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bottle&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bottle&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "瓶子；一瓶（的量）；酒；奶瓶，乳饮品；<英，非正式>信心，勇气；<非正式>酒癖，嗜酒"
+    },
+    {
+      "pos": "v.",
+      "meaning": "装瓶；<非正式>用玻璃瓶砸；<英，非正式>丧失勇气，泄气"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "bottles"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "bottles"
+    },
+    {
+      "name": "现在分词",
+      "value": "bottling"
+    },
+    {
+      "name": "过去式",
+      "value": "bottled"
+    },
+    {
+      "name": "过去分词",
+      "value": "bottled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We drank a whole bottle each.",
+      "zh": "我们每人都喝了整整一瓶。"
+    },
+    {
+      "en": "Shall I open another bottle?",
+      "zh": "要不要我再开一瓶？"
+    },
+    {
+      "en": "This is our last bottle of water.",
+      "zh": "这是我们最后的一瓶水了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "控制；把…装入瓶中",
+      "words": [
+        "possess",
+        "contain",
+        "regulate",
+        "bit",
+        "manage"
+      ]
+    }
+  ]
+}

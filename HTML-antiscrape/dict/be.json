@@ -1,0 +1,63 @@
+{
+  "word": "be",
+  "found": true,
+  "phonetic_uk": "biː; bi",
+  "phonetic_us": "biː; bi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=be&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=be&type=2",
+  "defs": [
+    {
+      "pos": "aux.",
+      "meaning": "被（用于被动语态）；正，正在（用于进行时）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "是；有，存在；做，成为；发生"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Be）（缅）拜；（日）部（姓）；（朝）培；（中非）贝（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "is"
+    },
+    {
+      "name": "现在分词",
+      "value": "being"
+    },
+    {
+      "name": "过去式",
+      "value": "was或were"
+    },
+    {
+      "name": "过去分词",
+      "value": "been"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I can be very persuasive when I want to be.",
+      "zh": "当我想要的时候，我会很有说服力的。"
+    },
+    {
+      "en": "Allah be praised.",
+      "zh": "感谢真主！"
+    },
+    {
+      "en": "Allah be praised!",
+      "zh": "赞美安拉！"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "prep.",
+      "meaning": "在，存在；是",
+      "words": [
+        "at"
+      ]
+    }
+  ]
+}

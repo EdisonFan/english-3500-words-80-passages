@@ -1,0 +1,34 @@
+{
+  "word": "developing",
+  "found": true,
+  "phonetic_uk": "dɪˈveləpɪŋ",
+  "phonetic_us": "dɪˈveləpɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=developing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=developing&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "（国家）发展中的；正在生长的，正在发展的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）成长，发展；研制，研发；形成（观点）（develop 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She is presently developing a number of projects.",
+      "zh": "她目前在开发好几个项目。"
+    },
+    {
+      "en": "Their economy is the envy of the developing world.",
+      "zh": "他们的经济令发展中国家羡慕。"
+    },
+    {
+      "en": "Scientists are constantly developing new terminologies.",
+      "zh": "科学家不断发展新的专门用语。"
+    }
+  ],
+  "synonyms": []
+}

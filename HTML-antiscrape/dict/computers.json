@@ -1,0 +1,30 @@
+{
+  "word": "computers",
+  "found": true,
+  "phonetic_uk": "kəmˈpjuːtəz",
+  "phonetic_us": "kəmˈpjuːtərz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=computers&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=computers&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[计]计算机，[计]电脑（computer 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I know damn all about computers.",
+      "zh": "我对计算机一窍不通。"
+    },
+    {
+      "en": "The computers were humming away.",
+      "zh": "计算机在嗡嗡作响。"
+    },
+    {
+      "en": "He's obsessed by computers.",
+      "zh": "他迷上了电脑。"
+    }
+  ],
+  "synonyms": []
+}

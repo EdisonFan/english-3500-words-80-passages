@@ -1,0 +1,77 @@
+{
+  "word": "chalk",
+  "found": true,
+  "phonetic_uk": "tʃɔːk",
+  "phonetic_us": "tʃɔːk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=chalk&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=chalk&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "白垩；粉笔；白垩地层；用粉笔划的记号"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用粉笔写（或画）；用粉笔做记号；用白垩粉擦（桌球杆等）；<英>把（酒钱）记于（某人）账上；获（胜），得（分）；变成白垩状"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Chalk）（美、英、加）乔克（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "chalks"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "chalks"
+    },
+    {
+      "name": "现在分词",
+      "value": "chalking"
+    },
+    {
+      "name": "过去式",
+      "value": "chalked"
+    },
+    {
+      "name": "过去分词",
+      "value": "chalked"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You may chalk it on the wall.",
+      "zh": "你可以用粉笔把它记在墙上。"
+    },
+    {
+      "en": "Think of a simple object—a piece of chalk, for example.",
+      "zh": "想象一个简单的物体，例如，一支粉笔。"
+    },
+    {
+      "en": "It's not over yet—not by a long chalk.",
+      "zh": "这事还没有了结—远远没有。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "用粉笔写；用白垩粉擦；记录；规划",
+      "words": [
+        "register",
+        "formulate",
+        "programme"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[轻]粉笔；[岩]白垩；用粉笔划的记号",
+      "words": [
+        "creta",
+        "pastille"
+      ]
+    }
+  ]
+}

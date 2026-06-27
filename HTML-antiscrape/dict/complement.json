@@ -1,0 +1,64 @@
+{
+  "word": "complement",
+  "found": true,
+  "phonetic_uk": "ˈkɒmplɪment",
+  "phonetic_us": "ˈkɑːmplɪment",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=complement&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=complement&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "补充，补足"
+    },
+    {
+      "pos": "n.",
+      "meaning": "补足物，衬托物；足数，足额；补语；余角；补体，防御素"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "complements"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "complements"
+    },
+    {
+      "name": "现在分词",
+      "value": "complementing"
+    },
+    {
+      "name": "过去式",
+      "value": "complemented"
+    },
+    {
+      "name": "过去分词",
+      "value": "complemented"
+    }
+  ],
+  "examples": [
+    {
+      "en": "There will be a written examination to complement the practical test.",
+      "zh": "会有一次书面考试来补充实践测试。"
+    },
+    {
+      "en": "The therapy can be a useful technique to complement traditional forms of psychotherapy.",
+      "zh": "这种疗法可以作为一个有效的技巧，作为传统心理疗法的补充。"
+    },
+    {
+      "en": "We must aim to complement the rationality of the machine, rather than to compete with it.",
+      "zh": "我们必须致力于补足机器的理性，而不是与它竞争。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "补足，补助",
+      "words": [
+        "make up a loss",
+        "make sth up"
+      ]
+    }
+  ]
+}

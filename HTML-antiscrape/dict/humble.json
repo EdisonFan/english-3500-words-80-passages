@@ -1,0 +1,59 @@
+{
+  "word": "humble",
+  "found": true,
+  "phonetic_uk": "ˈhʌmb(ə)l",
+  "phonetic_us": "ˈhʌmb(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=humble&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=humble&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "谦虚的，谦卑的；（级别或地位）低下的，卑微的；简陋的，没有特别之处的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使谦卑，使感到自惭；（轻易）击败（强敌）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "humbles"
+    },
+    {
+      "name": "现在分词",
+      "value": "humbling"
+    },
+    {
+      "name": "过去式",
+      "value": "humbled"
+    },
+    {
+      "name": "过去分词",
+      "value": "humbled"
+    },
+    {
+      "name": "比较级",
+      "value": "humbler或more humble"
+    },
+    {
+      "name": "最高级",
+      "value": "humblest或most humble"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He always makes much of his humble origins.",
+      "zh": "他总是非常在意他卑微的出身。"
+    },
+    {
+      "en": "His views come from his own humble beginnings.",
+      "zh": "他的观点源自于他卑微的出身。"
+    },
+    {
+      "en": "He gave a great performance, but he was very humble.",
+      "zh": "他的表演很精彩，但他却很谦逊。"
+    }
+  ],
+  "synonyms": []
+}

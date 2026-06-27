@@ -1,0 +1,68 @@
+{
+  "word": "mike",
+  "found": true,
+  "phonetic_uk": "maɪk",
+  "phonetic_us": "maɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mike&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mike&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "扩音器，麦克风；话筒；休息, 游手好闲"
+    },
+    {
+      "pos": "vi.",
+      "meaning": "使用扩音器；偷懒, 游手好闲"
+    },
+    {
+      "pos": "vt.",
+      "meaning": "用扩音器传送；用窃听器窃听"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "mikes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "mikes"
+    },
+    {
+      "name": "现在分词",
+      "value": "miking"
+    },
+    {
+      "name": "过去式",
+      "value": "miked"
+    },
+    {
+      "name": "过去分词",
+      "value": "miked"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Mike and Sue are always rowing.",
+      "zh": "迈克和休总是吵架。"
+    },
+    {
+      "en": "Will you tell Mike to shut up?",
+      "zh": "你让迈克闭嘴好不好？"
+    },
+    {
+      "en": "Hello, Peter, it's Mike here.",
+      "zh": "喂，彼得，我是迈克。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "扩音器，麦克风；话筒",
+      "words": [
+        "microphone",
+        "amplifier"
+      ]
+    }
+  ]
+}

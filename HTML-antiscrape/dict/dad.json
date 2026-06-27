@@ -1,0 +1,46 @@
+{
+  "word": "dad",
+  "found": true,
+  "phonetic_uk": "dæd",
+  "phonetic_us": "dæd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dad&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dad&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "爸爸；爹爹"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Dad）人名；（孟、巴基、阿富）达德；（泰）达"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Hi, Dad—can you put Nicky on?",
+      "zh": "您好，爸爸。您让尼基接电话好吗？"
+    },
+    {
+      "en": "Dad went out to milk the cows.",
+      "zh": "爸爸出去给牛挤奶去了。"
+    },
+    {
+      "en": "My dad took me to the circus.",
+      "zh": "我爸爸带我去看马戏。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "爸爸；爹爹",
+      "words": [
+        "father",
+        "daddy",
+        "da",
+        "pa",
+        "papa"
+      ]
+    }
+  ]
+}

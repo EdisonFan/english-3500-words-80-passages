@@ -1,0 +1,103 @@
+{
+  "word": "down",
+  "found": true,
+  "phonetic_uk": "daʊn",
+  "phonetic_us": "daʊn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=down&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=down&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "朝下，向下；（坐）下，（躺）下；倒，垮，塌；（写）下，（记）下；在下方，在低处；在南部，向南方；传下去（的）；在较低水平，下降；减到更小，变得更弱；失利，落后；不能动弹地，不能移动地；到，去，在；完全地，彻底地；初付，首付；在肚子里；已完成，已处理；（纵横填字游戏）由上至下；<英>离开学校（或大学）；<英>离开首都（或重要城市）；（美橄）（球或持球队员）成死球；（航海）顺水（或顺风）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "在低处的，在下方的；向下的；便宜的，低廉的；降低的，低于正常水平的；不活跃的，萧条的；比分落后于对手的；不运转的，出故障的；悲伤的，低落的；已完成的，完结了的；完全掌握的；正式签署（或记录）的；了解的，赞成的 ；（某人数）出局的；（美橄）成死球的；赶时髦的；（火车）从大的始发站出发的；（物理）（夸克）下的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "羽绒；绒毛，软毛，汗毛；（美橄）十码进攻；失败，挫折；<非正式>不快乐，沮丧；丘陵；唐斯锚地（the Downs）"
+    },
+    {
+      "pos": "prep.",
+      "meaning": "向下，朝下；沿着，顺；在……的那一端； 贯穿……时间，遍及……时期；<非正式>在（或往）（某地）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使掉落；喝下，吃下；击败，战胜；（美橄）使成死球"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Down）（美）唐（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "downs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "downs"
+    },
+    {
+      "name": "现在分词",
+      "value": "downing"
+    },
+    {
+      "name": "过去式",
+      "value": "downed"
+    },
+    {
+      "name": "过去分词",
+      "value": "downed"
+    },
+    {
+      "name": "比较级",
+      "value": "more down"
+    },
+    {
+      "name": "最高级",
+      "value": "most down"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Prices have gone down recently.",
+      "zh": "最近物价下降了。"
+    },
+    {
+      "en": "They knelt down and prayed.",
+      "zh": "他们跪下来祷告。"
+    },
+    {
+      "en": "The rain poured down.",
+      "zh": "雨瓢泼而下。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "向下，下去；在下面",
+      "words": [
+        "below",
+        "under"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "向下的",
+      "words": [
+        "descensive"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "软毛，[植]绒毛；[地质]开阔的高地",
+      "words": [
+        "pubescence",
+        "fur"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "word": "insufficient",
+  "found": true,
+  "phonetic_uk": "ˌɪnsəˈfɪʃ(ə)nt",
+  "phonetic_us": "ˌɪnsəˈfɪʃ(ə)nt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=insufficient&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=insufficient&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "不充分的，不够重要的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "His salary is insufficient to meet his needs.",
+      "zh": "他的薪水不够应付需要。"
+    },
+    {
+      "en": "Facilities for people with disabilities are still insufficient.",
+      "zh": "供残疾人使用的设施仍然不足。"
+    },
+    {
+      "en": "Our industry suffers through insufficient investment in research.",
+      "zh": "我们的工业因研究投入不足而大吃苦头。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "不足的，不充足的",
+      "words": [
+        "short",
+        "deficient",
+        "lacking",
+        "wanting"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "不足",
+      "words": [
+        "shortage",
+        "short of",
+        "lack",
+        "scarcity"
+      ]
+    }
+  ]
+}

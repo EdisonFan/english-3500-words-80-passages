@@ -1,0 +1,83 @@
+{
+  "word": "cure",
+  "found": true,
+  "phonetic_uk": "kjʊə(r)",
+  "phonetic_us": "kjʊr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cure&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cure&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "药物，疗法；对策，措施；治愈，治疗；（对橡胶、塑料或其他材料的）熟化；（基督教牧师的）牧师责任（或责任区）；教区"
+    },
+    {
+      "pos": "v.",
+      "meaning": "治愈（病人），治好（疾病）；解决；控制，消除（不良的习惯、情感或态度）；加工贮藏；变干硬"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Cure）（美、法）楚雷（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "cures"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "cures"
+    },
+    {
+      "name": "现在分词",
+      "value": "curing"
+    },
+    {
+      "name": "过去式",
+      "value": "cured"
+    },
+    {
+      "name": "过去分词",
+      "value": "cured"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The search for a cure goes on.",
+      "zh": "人们还在继续探寻治疗方法。"
+    },
+    {
+      "en": "Will you be able to cure him, Doctor?",
+      "zh": "医生，你能把他治好吗？"
+    },
+    {
+      "en": "The magic cure for inflation does not exist.",
+      "zh": "解决通货膨胀的神奇方法并不存在。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "[临床]治疗；治愈；[化学]使硫化；加工处理",
+      "words": [
+        "help",
+        "remedy"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "治病；痊愈；[临床]受治疗；[化学]被硫化；被加工处理",
+      "words": [
+        "heal up"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "治疗；治愈；[临床]疗法",
+      "words": [
+        "therapy",
+        "medical treatment"
+      ]
+    }
+  ]
+}

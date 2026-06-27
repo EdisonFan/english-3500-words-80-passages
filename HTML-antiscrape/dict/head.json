@@ -1,0 +1,88 @@
+{
+  "word": "head",
+  "found": true,
+  "phonetic_uk": "hed",
+  "phonetic_us": "hed",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=head&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=head&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "头；头脑，智力；顶部；排头；领导人，负责人；<英>校长，院长；人数，（动物的）头数；（植物的）叶球，头状花序；一头长，一头高；钉头，锤头；啤酒沫；（河流）源头；脓头；硬币正面（有人头像）；磁头；（短语的）中心词，主导词；水压，蒸汽压力；紧要关头；桌子的上首座位，床头；<非正式>头痛；蓄水高度，水头"
+    },
+    {
+      "pos": "v.",
+      "meaning": "朝（某方向）行进；领导，主管；居……之首；加标题；用头顶（球）；形成……的头或顶部；砍（植物或树木的）枝；（莴苣，卷心菜）结球，长成球状；发源"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "领头的，负责的；头的；在顶端的；从前方来的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "（硬币）有头像的一面朝上（heads）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Head）（英）黑德（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "heads"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "heads"
+    },
+    {
+      "name": "现在分词",
+      "value": "heading"
+    },
+    {
+      "name": "过去式",
+      "value": "headed"
+    },
+    {
+      "name": "过去分词",
+      "value": "headed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His head throbbed painfully.",
+      "zh": "他的头一抽一跳地痛。"
+    },
+    {
+      "en": "He shook his head tiredly.",
+      "zh": "他厌倦地摇了摇头。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[解剖]头；头痛；上端；最前的部分；理解力",
+      "words": [
+        "intelligence",
+        "understanding"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "前进；用头顶；作为…的首领；站在…的前头；给…加标题",
+      "words": [
+        "to go forward",
+        "make one's way"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "出发；成头状物；船驶往",
+      "words": [
+        "leave",
+        "set out"
+      ]
+    }
+  ]
+}

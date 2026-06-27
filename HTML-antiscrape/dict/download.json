@@ -1,0 +1,55 @@
+{
+  "word": "download",
+  "found": true,
+  "phonetic_uk": "ˌdaʊnˈləʊd",
+  "phonetic_us": "ˌdaʊnˈloʊd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=download&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=download&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "下载"
+    },
+    {
+      "pos": "n.",
+      "meaning": "下载，下载的文件或程序"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "downloads"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "downloads"
+    },
+    {
+      "name": "现在分词",
+      "value": "downloading"
+    },
+    {
+      "name": "过去式",
+      "value": "downloaded"
+    },
+    {
+      "name": "过去分词",
+      "value": "downloaded"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You can download the pictures as JPEGs.",
+      "zh": "你可以用JPEG格式下载这些图像。"
+    },
+    {
+      "en": "You can download the file and edit it on your word processor.",
+      "zh": "你可以把文件下载，用文字处理系统做编辑。"
+    },
+    {
+      "en": "Users can download their material to a desktop PC back in the office.",
+      "zh": "用户们可以将他们的资料下载到办公室的台式计算机上。"
+    }
+  ],
+  "synonyms": []
+}

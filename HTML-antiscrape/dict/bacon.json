@@ -1,0 +1,39 @@
+{
+  "word": "bacon",
+  "found": true,
+  "phonetic_uk": "ˈbeɪkən",
+  "phonetic_us": "ˈbeɪkən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bacon&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bacon&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "培根，烟熏咸肉片"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He could smell the bacon grease.",
+      "zh": "他闻到了一股熏肉的油脂味儿。"
+    },
+    {
+      "en": "Cook the bacon until it begins to crisp.",
+      "zh": "烤制熏肉直到变脆。"
+    },
+    {
+      "en": "Do you want bacon and eggs for breakfast ?",
+      "zh": "你早饭要吃熏咸肉和鸡蛋吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[食品]咸肉；腌肉；熏猪肉",
+      "words": [
+        "cured meat",
+        "salted meat"
+      ]
+    }
+  ]
+}

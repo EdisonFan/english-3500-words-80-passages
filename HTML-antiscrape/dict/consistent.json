@@ -1,0 +1,51 @@
+{
+  "word": "consistent",
+  "found": true,
+  "phonetic_uk": "kənˈsɪstənt",
+  "phonetic_us": "kənˈsɪstənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=consistent&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=consistent&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "始终如一的，一贯的；持续的，连续的；固守的，坚持的；一致的，吻合的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more consistent"
+    },
+    {
+      "name": "最高级",
+      "value": "most consistent"
+    }
+  ],
+  "examples": [
+    {
+      "en": "A theory should be internally consistent.",
+      "zh": "一套理论应当内在一致。"
+    },
+    {
+      "en": "We must be consistent in applying the rules.",
+      "zh": "我们在实施这些规则时必须保持一致。"
+    },
+    {
+      "en": "Graham is so solidly consistent.",
+      "zh": "格雷厄姆非常可靠稳定。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "始终如一的，[数]一致的；坚持的",
+      "words": [
+        "united",
+        "corresponding",
+        "uniform",
+        "matching",
+        "solid"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "word": "doctor",
+  "found": true,
+  "phonetic_uk": "ˈdɒktə(r)",
+  "phonetic_us": "ˈdɑːktər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=doctor&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=doctor&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "医生，大夫；诊所（the doctor）；博士；<美>牙医，兽医 (Dr)；博学的人；（钓鱼用）人造蝇；凉爽海风；<俚>船上的厨师"
+    },
+    {
+      "pos": "v.",
+      "meaning": "篡改，伪造；将有害物掺入（食物或饮料）中；阉割（动物）；为……治病，给……疗伤；授以博士学位；修理（机器等），修复；当医生，行医"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "doctors"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "doctors"
+    },
+    {
+      "name": "现在分词",
+      "value": "doctoring"
+    },
+    {
+      "name": "过去式",
+      "value": "doctored"
+    },
+    {
+      "name": "过去分词",
+      "value": "doctored"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She married a Bengali doctor.",
+      "zh": "她和一个孟加拉医生结婚了。"
+    },
+    {
+      "en": "\"Hell, no!\" the doctor snapped.",
+      "zh": "“该死，不！”医生厉声说。"
+    },
+    {
+      "en": "The doctor said so himself.",
+      "zh": "是医生本人这么说的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[医]医生；博士",
+      "words": [
+        "medical",
+        "hakeem"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "修理；窜改，伪造；为…治病；授以博士学位",
+      "words": [
+        "repair",
+        "perform maintenance"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "就医；行医",
+      "words": [
+        "practice medicine"
+      ]
+    }
+  ]
+}

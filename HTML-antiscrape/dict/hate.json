@@ -1,0 +1,76 @@
+{
+  "word": "hate",
+  "found": true,
+  "phonetic_uk": "heɪt",
+  "phonetic_us": "heɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=hate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=hate&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "厌恶，不喜欢；仇恨，憎恨；（表示不愿说某事，或客气地请求）不愿，不想"
+    },
+    {
+      "pos": "n.",
+      "meaning": "憎恶，憎恨；<非正式>所憎恶的人（或事物）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Hate）（法）阿特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "hates"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "hates"
+    },
+    {
+      "name": "现在分词",
+      "value": "hating"
+    },
+    {
+      "name": "过去式",
+      "value": "hated"
+    },
+    {
+      "name": "过去分词",
+      "value": "hated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The obverse of love is hate.",
+      "zh": "爱的反面是恨。"
+    },
+    {
+      "en": "I hate being photographed.",
+      "zh": "我讨厌被拍照。"
+    },
+    {
+      "en": "I hate unnecessary waste.",
+      "zh": "我憎恨不必要的浪费。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "憎恨；厌恶；遗憾",
+      "words": [
+        "detest",
+        "turn away from"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "憎恨；反感",
+      "words": [
+        "despite",
+        "hatred"
+      ]
+    }
+  ]
+}

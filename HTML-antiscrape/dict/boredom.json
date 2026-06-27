@@ -1,0 +1,39 @@
+{
+  "word": "boredom",
+  "found": true,
+  "phonetic_uk": "ˈbɔːdəm",
+  "phonetic_us": "ˈbɔːrdəm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=boredom&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=boredom&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "厌烦，无聊"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He had given up attending lectures out of sheer boredom.",
+      "zh": "他已经不再去听讲座了，纯粹出于厌倦。"
+    },
+    {
+      "en": "Where people were concerned, his threshold of boredom was low.",
+      "zh": "涉及人的事情，他便极易感到厌烦。"
+    },
+    {
+      "en": "Television helps to relieve the boredom of the long winter evenings.",
+      "zh": "电视有助于打发漫长无聊的冬夜。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "厌倦；令人厌烦的事物",
+      "words": [
+        "taedium",
+        "ennui"
+      ]
+    }
+  ]
+}

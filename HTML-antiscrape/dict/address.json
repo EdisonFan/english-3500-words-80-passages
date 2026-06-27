@@ -1,0 +1,74 @@
+{
+  "word": "address",
+  "found": true,
+  "phonetic_uk": "əˈdres",
+  "phonetic_us": "əˈdres",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=address&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=address&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "地址，住址；网址；电子邮箱地址；演讲，演说；（电子表格中某个单元格的）位置；<古>（对他人的）谈吐；<古>谦恭（或脉脉含情）的方式；<旧>机敏，迅速；位置存储编码"
+    },
+    {
+      "pos": "v.",
+      "meaning": "演说，演讲；处理，设法解决；在（信封、包裹等）上写姓名和地址，致函；<正式> 向……讲话；称呼；<正式>（向某人）提出（陈述、投诉等）；（高尔夫）就位击（球）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "addresses"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "addresses"
+    },
+    {
+      "name": "现在分词",
+      "value": "addressing"
+    },
+    {
+      "name": "过去式",
+      "value": "addressed"
+    },
+    {
+      "name": "过去分词",
+      "value": "addressed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They had no permanent address.",
+      "zh": "他们没有固定的地址。"
+    },
+    {
+      "en": "What's your email address ?",
+      "zh": "你的电邮地址是什么？"
+    },
+    {
+      "en": "Do you know his address?",
+      "zh": "你知道他的地址吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "演说；从事；忙于；写姓名地址；向…致辞",
+      "words": [
+        "undertake",
+        "pursue",
+        "have"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[计]地址；演讲；致辞；说话的技巧",
+      "words": [
+        "speech",
+        "lecture",
+        "talk"
+      ]
+    }
+  ]
+}

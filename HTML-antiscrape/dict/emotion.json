@@ -1,0 +1,47 @@
+{
+  "word": "emotion",
+  "found": true,
+  "phonetic_uk": "ɪˈməʊʃ(ə)n",
+  "phonetic_us": "ɪˈmoʊʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=emotion&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=emotion&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "情感，情绪；激情，强烈的情感"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "emotions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Jealousy is a primal emotion.",
+      "zh": "嫉妒是一种原始情感。"
+    },
+    {
+      "en": "Mandy's predominant emotion was confusion.",
+      "zh": "曼迪的主导情绪是困惑。"
+    },
+    {
+      "en": "Her voice wobbled with emotion.",
+      "zh": "她激动得声音发颤。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[心理]情感；情绪",
+      "words": [
+        "mood",
+        "will",
+        "spirit",
+        "affect",
+        "feeling"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "word": "celebrate",
+  "found": true,
+  "phonetic_uk": "ˈselɪbreɪt",
+  "phonetic_us": "ˈselɪbreɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=celebrate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=celebrate&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "庆祝，庆贺；赞扬，赞美；主持（宗教仪式）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "celebrates"
+    },
+    {
+      "name": "现在分词",
+      "value": "celebrating"
+    },
+    {
+      "name": "过去式",
+      "value": "celebrated"
+    },
+    {
+      "name": "过去分词",
+      "value": "celebrated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I was in a mood to celebrate.",
+      "zh": "我很想庆祝一番。"
+    },
+    {
+      "en": "Scottish champs celebrate victory!",
+      "zh": "苏格兰的冠军庆祝胜利！"
+    },
+    {
+      "en": "We went out to a restaurant to celebrate.",
+      "zh": "我们到一家饭店里庆祝了一番。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "庆祝；举行；赞美；祝贺",
+      "words": [
+        "stage",
+        "praise",
+        "bless",
+        "commemorate"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "庆祝；过节；举行宗教仪式",
+      "words": [
+        "rejoice",
+        "whoop it up"
+      ]
+    }
+  ]
+}

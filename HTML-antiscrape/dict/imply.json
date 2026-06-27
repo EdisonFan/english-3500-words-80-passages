@@ -1,0 +1,56 @@
+{
+  "word": "imply",
+  "found": true,
+  "phonetic_uk": "ɪmˈplaɪ",
+  "phonetic_us": "ɪmˈplaɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=imply&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=imply&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "暗示，暗指；意味着；必然包含"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "implies"
+    },
+    {
+      "name": "现在分词",
+      "value": "implying"
+    },
+    {
+      "name": "过去式",
+      "value": "implied"
+    },
+    {
+      "name": "过去分词",
+      "value": "implied"
+    }
+  ],
+  "examples": [
+    {
+      "en": "How dare she imply that I was lying?",
+      "zh": "她竟敢暗示我在撒谎？"
+    },
+    {
+      "en": "What does the woman imply?",
+      "zh": "这位女士在暗示什么？"
+    },
+    {
+      "en": "What does the man imply?",
+      "zh": "男子暗示什么？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "意味；暗示；隐含",
+      "words": [
+        "mean",
+        "hint at"
+      ]
+    }
+  ]
+}

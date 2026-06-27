@@ -1,0 +1,67 @@
+{
+  "word": "individual",
+  "found": true,
+  "phonetic_uk": "ˌɪndɪˈvɪdʒuəl",
+  "phonetic_us": "ˌɪndɪˈvɪdʒuəl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=individual&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=individual&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "单独的，个别的；个人的；独特的，与众不同的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "个人，个体；与众不同的人，有个性的人；某种类型的人"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "individuals"
+    },
+    {
+      "name": "比较级",
+      "value": "more individual"
+    },
+    {
+      "name": "最高级",
+      "value": "most individual"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Some individual investors exulted at the record.",
+      "zh": "一些个人投资者为这一记录欢欣鼓舞。"
+    },
+    {
+      "en": "It's impossible to hold any individual responsible.",
+      "zh": "不可能让任何个人承担责任。"
+    },
+    {
+      "en": "Each individual flower is tiny.",
+      "zh": "每一朵花都很小。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[经]个人的；个别的；独特的",
+      "words": [
+        "personal",
+        "different",
+        "subjective",
+        "distinct",
+        "unique"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[经]个人，[生物]个体",
+      "words": [
+        "unity",
+        "private person"
+      ]
+    }
+  ]
+}

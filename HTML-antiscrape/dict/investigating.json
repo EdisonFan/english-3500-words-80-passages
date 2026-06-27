@@ -1,0 +1,39 @@
+{
+  "word": "investigating",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ɪnˈvestɪɡeɪtɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=investigating&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=investigating&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "侦察（某事）；调查（某人）；研究（investigate 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They're still investigating the accident.",
+      "zh": "他们还在调查这个事故。"
+    },
+    {
+      "en": "The newspapers have shied away from investigating the story.",
+      "zh": "各家报纸纷纷退避，不敢调查详情。"
+    },
+    {
+      "en": "Police investigating the train derailment have not ruled out sabotage.",
+      "zh": "警方调查火车出轨事件，没有排除人为破坏的可能。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "调查；审查（investigate的ing形式）",
+      "words": [
+        "censoring",
+        "inquiring"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "capable",
+  "found": true,
+  "phonetic_uk": "ˈkeɪpəb(ə)l",
+  "phonetic_us": "ˈkeɪpəb(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=capable&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=capable&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "有能力的；有本领的，能干的；可以……的，容许……的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She's a very capable speaker.",
+      "zh": "她是一个非常有能力的演说者。"
+    },
+    {
+      "en": "She's a very capable teacher.",
+      "zh": "她是一位能力很强的教师。"
+    },
+    {
+      "en": "You are capable of better work than this.",
+      "zh": "你有能力做得比这更好。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "能干的，能胜任的；有才华���",
+      "words": [
+        "able",
+        "competent"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "word": "lived",
+  "found": true,
+  "phonetic_uk": "lɪvd; ˈlaɪvd",
+  "phonetic_us": "lɪvd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=lived&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=lived&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "有生命的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "居住（live 的过去分词）；活着；度过；以……为生"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He lived at 66 Bingfield Street.",
+      "zh": "他住在宾菲尔德街66号。"
+    },
+    {
+      "en": "We've lived here since 1994.",
+      "zh": "自1994年以来我们一直住在这里。"
+    },
+    {
+      "en": "She lived in a college dormitory.",
+      "zh": "她住在一幢大学宿舍楼里。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "有生命的",
+      "words": [
+        "zoetic",
+        "animate"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "居住（live的过去分词）；活着；度过；以…为生",
+      "words": [
+        "dwelt"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "word": "communicate",
+  "found": true,
+  "phonetic_uk": "kəˈmjuːnɪkeɪt",
+  "phonetic_us": "kəˈmjuːnɪkeɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=communicate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=communicate&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "传递信息，通讯；传达，传递（想法或感情）；传染（疾病）；（房间或建筑）相通，相连；传输（热，力），传递（运动）；领受圣餐"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "communicates"
+    },
+    {
+      "name": "现在分词",
+      "value": "communicating"
+    },
+    {
+      "name": "过去式",
+      "value": "communicated"
+    },
+    {
+      "name": "过去分词",
+      "value": "communicated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They can communicate even when they strongly disagree.",
+      "zh": "他们即使是在有较大分歧时也能相互交流。"
+    },
+    {
+      "en": "They successfully communicate their knowledge to others.",
+      "zh": "他们成功地把他们的知识传达给别人。"
+    },
+    {
+      "en": "Now he can only communicate through a voice synthesizer.",
+      "zh": "如今他只能通过声音合成器来进行交流。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "通讯，传达；相通；感染",
+      "words": [
+        "contract",
+        "intercommunicate"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "传达；感染；显露",
+      "words": [
+        "affect",
+        "catch",
+        "contract",
+        "convey"
+      ]
+    }
+  ]
+}

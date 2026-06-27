@@ -1,0 +1,91 @@
+{
+  "word": "neighbor",
+  "found": true,
+  "phonetic_uk": "ˈneɪbə(r)",
+  "phonetic_us": "ˈneɪbər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=neighbor&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=neighbor&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "邻居"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "邻近的"
+    },
+    {
+      "pos": "vi.",
+      "meaning": "友好；毗邻而居"
+    },
+    {
+      "pos": "vt.",
+      "meaning": "邻接"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Neighbor）人名；（英）内伯"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "neighbors"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "neighbors"
+    },
+    {
+      "name": "现在分词",
+      "value": "neighboring"
+    },
+    {
+      "name": "过去式",
+      "value": "neighbored"
+    },
+    {
+      "name": "过去分词",
+      "value": "neighbored"
+    }
+  ],
+  "examples": [
+    {
+      "en": "And he said unto him, \"Who is my neighbor?\"",
+      "zh": "同时他对他说：“我的邻居是谁？”"
+    },
+    {
+      "en": "My neighbor is a doctor.",
+      "zh": "我的邻居是个医生。"
+    },
+    {
+      "en": "Do not defraud your neighbor or rob him.",
+      "zh": "不可欺骗你的邻舍，也不可抢劫他。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "邻居",
+      "words": [
+        "joneses",
+        "vicinage"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "邻近的",
+      "words": [
+        "adjacent",
+        "nearby"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "友好；毗邻而居",
+      "words": [
+        "on speaking terms"
+      ]
+    }
+  ]
+}

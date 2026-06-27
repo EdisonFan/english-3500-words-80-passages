@@ -1,0 +1,34 @@
+{
+  "word": "gloves",
+  "found": true,
+  "phonetic_uk": "ɡlʌvz",
+  "phonetic_us": "ɡlʌvz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=gloves&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=gloves&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[服装]手套（glove 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "给……戴手套（glove 的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He donned his cloak and gloves.",
+      "zh": "他穿戴上他的披风和手套。"
+    },
+    {
+      "en": "He stuck his gloves in his pocket.",
+      "zh": "他把手套塞进了口袋里。"
+    },
+    {
+      "en": "My gloves have been missing for ages.",
+      "zh": "我的手套已经丢了很久了。"
+    }
+  ],
+  "synonyms": []
+}

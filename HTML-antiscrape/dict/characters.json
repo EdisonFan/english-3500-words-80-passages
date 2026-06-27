@@ -1,0 +1,46 @@
+{
+  "word": "characters",
+  "found": true,
+  "phonetic_uk": "ˈkærəktəz",
+  "phonetic_us": "ˈkærəktərz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=characters&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=characters&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "特性；人物角色（character 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "描述；表示……的特性（character 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I find the characters in the book very unconvincing.",
+      "zh": "我觉得书中的人物很不真实。"
+    },
+    {
+      "en": "The poem humorously describes local characters and traditions.",
+      "zh": "那首诗幽默地描述了当地的人物和传统。"
+    },
+    {
+      "en": "Her friends are all pretty unsavoury characters.",
+      "zh": "她的朋友尽是些不三不四的人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "特性；人物角色（character复数）",
+      "words": [
+        "quality",
+        "tang",
+        "identity",
+        "specific",
+        "distinction"
+      ]
+    }
+  ]
+}

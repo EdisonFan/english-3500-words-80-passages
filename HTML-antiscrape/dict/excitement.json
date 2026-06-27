@@ -1,0 +1,45 @@
+{
+  "word": "excitement",
+  "found": true,
+  "phonetic_uk": "ɪkˈsaɪtmənt",
+  "phonetic_us": "ɪkˈsaɪtmənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=excitement&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=excitement&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "令人激动（或兴奋）的事，刺激因素；激动，兴奋；性兴奋"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "excitements"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They yelled with excitement.",
+      "zh": "他们兴奋得喊叫起来。"
+    },
+    {
+      "en": "She tingled with excitement.",
+      "zh": "她感到非常兴奋。"
+    },
+    {
+      "en": "She was voluble with excitement.",
+      "zh": "她因为激动而变得很健谈。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "兴奋；刺激；令人兴奋的事物",
+      "words": [
+        "stimulus",
+        "incentive",
+        "needle"
+      ]
+    }
+  ]
+}

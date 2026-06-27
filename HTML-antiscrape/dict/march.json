@@ -1,0 +1,52 @@
+{
+  "word": "March",
+  "found": true,
+  "phonetic_uk": "mɑːtʃ",
+  "phonetic_us": "mɑːrtʃ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=March&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=March&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "三月"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "Marches"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We went skiing in France in March.",
+      "zh": "三月份我们去法国滑雪了。"
+    },
+    {
+      "en": "The trial reopened on 6 March.",
+      "zh": "审判在3月6日再次进行。"
+    },
+    {
+      "en": "I timed our visit for March 7.",
+      "zh": "我把我们访问时间定在3月7日。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "行军，进军；进行曲；示威游行",
+      "words": [
+        "demonstration",
+        "anabasis"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "进军；走过",
+      "words": [
+        "step by",
+        "road to"
+      ]
+    }
+  ]
+}

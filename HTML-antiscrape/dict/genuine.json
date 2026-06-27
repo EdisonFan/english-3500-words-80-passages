@@ -1,0 +1,51 @@
+{
+  "word": "genuine",
+  "found": true,
+  "phonetic_uk": "ˈdʒenjuɪn",
+  "phonetic_us": "ˈdʒenjuɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=genuine&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=genuine&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "真正的，非伪造的；真诚的，真心的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more genuine"
+    },
+    {
+      "name": "最高级",
+      "value": "most genuine"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Only genuine refugees can apply for asylum.",
+      "zh": "只有真正的难民才能申请政治避难。"
+    },
+    {
+      "en": "This isn't a genuine antique—you've been done.",
+      "zh": "这不是真正的古董—你上当了。"
+    },
+    {
+      "en": "If this offer is genuine, I will gladly accept it.",
+      "zh": "如果这份帮助是真诚的，我将愉快地接受它。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "真实的，真正的；诚恳的",
+      "words": [
+        "actual",
+        "sincere",
+        "true",
+        "real",
+        "positive"
+      ]
+    }
+  ]
+}

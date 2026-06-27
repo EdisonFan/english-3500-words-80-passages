@@ -1,0 +1,75 @@
+{
+  "word": "core",
+  "found": true,
+  "phonetic_uk": "kɔː(r)",
+  "phonetic_us": "kɔːr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=core&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=core&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "果核；中心部分；核心，要点；骨干，核心成员；地核，天体的核心；核反应堆堆芯；芯体"
+    },
+    {
+      "pos": "v.",
+      "meaning": "给……去核"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "核心的，最重要的；基础的，必修的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Core）（英）科尔，（西、意）科雷（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "cores"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "cores"
+    },
+    {
+      "name": "现在分词",
+      "value": "coring"
+    },
+    {
+      "name": "过去式",
+      "value": "cored"
+    },
+    {
+      "name": "过去分词",
+      "value": "cored"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We already have our core team in place.",
+      "zh": "我们的核心队伍已经就位。"
+    },
+    {
+      "en": "We need to concentrate on our core business.",
+      "zh": "我们需要集中在核心业务上。"
+    },
+    {
+      "en": "The core activities of social workers were reorganized.",
+      "zh": "社工的核心工作被重新安排了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[晶体]核心；要点；果心；[计]磁心",
+      "words": [
+        "quick",
+        "kernel",
+        "main",
+        "heart",
+        "essential"
+      ]
+    }
+  ]
+}

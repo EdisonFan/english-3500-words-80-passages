@@ -1,0 +1,82 @@
+{
+  "word": "excuse",
+  "found": true,
+  "phonetic_uk": "ɪkˈskjuːs",
+  "phonetic_us": "ɪkˈskjuːs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=excuse&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=excuse&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "借口，托词；正当理由；宽恕，赦免；拙劣样品，蹩脚货；<美>（医生或父母为学生写的）病假条，请假条"
+    },
+    {
+      "pos": "v.",
+      "meaning": "原谅，宽恕；辩解，开脱；准许……离开；同意免除"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "excuses"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "excuses"
+    },
+    {
+      "name": "现在分词",
+      "value": "excusing"
+    },
+    {
+      "name": "过去式",
+      "value": "excused"
+    },
+    {
+      "name": "过去分词",
+      "value": "excused"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She served up the usual excuse.",
+      "zh": "她给出的借口还是老一套。"
+    },
+    {
+      "en": "Excuse me, is this your seat?",
+      "zh": "对不起，这是您的座位吗？"
+    },
+    {
+      "en": "Excuse my interrupting you.",
+      "zh": "对不起，打扰你一下。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "借口；理由",
+      "words": [
+        "reason",
+        "sake",
+        "account",
+        "blind",
+        "occasion"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "原谅；为…申辩；给…免去",
+      "words": [
+        "forgive",
+        "pardon for"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "作为借口；请求宽恕；表示宽恕",
+      "words": [
+        "beg for mercy"
+      ]
+    }
+  ]
+}

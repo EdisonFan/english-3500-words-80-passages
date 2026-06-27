@@ -1,0 +1,48 @@
+{
+  "word": "habitat",
+  "found": true,
+  "phonetic_uk": "ˈhæbɪtæt",
+  "phonetic_us": "ˈhæbɪtæt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=habitat&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=habitat&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（动植物的）生活环境，栖息地"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Habitat）（德）哈比塔特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "habitats"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The panda's natural habitat is the bamboo forest.",
+      "zh": "大熊猫的天然栖息地是竹林。"
+    },
+    {
+      "en": "This species has nearly died out because its habitat is being destroyed.",
+      "zh": "因栖息地正受到破坏这一物种已濒于灭绝。"
+    },
+    {
+      "en": "To save remaining herds and habitat, the national parks department is planning to cull 2000 elephants.",
+      "zh": "为挽救余下的兽群及其栖息地，国家公园管理部门正计划杀掉2000头大象。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[生态]栖息地，[经]产地",
+      "words": [
+        "home",
+        "production place"
+      ]
+    }
+  ]
+}

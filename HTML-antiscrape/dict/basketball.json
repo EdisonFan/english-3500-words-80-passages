@@ -1,0 +1,35 @@
+{
+  "word": "basketball",
+  "found": true,
+  "phonetic_uk": "ˈbɑːskɪtbɔːl",
+  "phonetic_us": "ˈbæskɪtbɔːl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=basketball&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=basketball&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "篮球；篮球运动"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "basketballs"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I enjoy playing basketball.",
+      "zh": "我喜欢打篮球。"
+    },
+    {
+      "en": "He coaches basketball and soccer.",
+      "zh": "他执教篮球和足球。"
+    },
+    {
+      "en": "She knows a lot about basketball.",
+      "zh": "她对篮球很有研究。"
+    }
+  ],
+  "synonyms": []
+}

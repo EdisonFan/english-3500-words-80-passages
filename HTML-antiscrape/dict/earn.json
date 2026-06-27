@@ -1,0 +1,63 @@
+{
+  "word": "earn",
+  "found": true,
+  "phonetic_uk": "ɜːn",
+  "phonetic_us": "ɜːrn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=earn&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=earn&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "赚得，挣钱；盈（利），生（利）；赢得，博得"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Earn）（泰）炎（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "earns"
+    },
+    {
+      "name": "现在分词",
+      "value": "earning"
+    },
+    {
+      "name": "过去式",
+      "value": "earned"
+    },
+    {
+      "name": "过去分词",
+      "value": "earned或earnt"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He doesn't earn as much as me.",
+      "zh": "他挣的钱比我少。"
+    },
+    {
+      "en": "'How much (money) does she earn?",
+      "zh": "“她挣多少（钱）？”"
+    },
+    {
+      "en": "He must earn an absolute fortune.",
+      "zh": "他准会赚一大笔钱。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "赚，赚得；获得，挣得；使得到；博得",
+      "words": [
+        "acquire",
+        "buy",
+        "find",
+        "make",
+        "score"
+      ]
+    }
+  ]
+}

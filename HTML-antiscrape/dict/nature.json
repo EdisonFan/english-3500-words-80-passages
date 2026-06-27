@@ -1,0 +1,51 @@
+{
+  "word": "nature",
+  "found": true,
+  "phonetic_uk": "ˈneɪtʃə(r)",
+  "phonetic_us": "ˈneɪtʃər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=nature&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=nature&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "大自然，自然界；性格，秉性；本质，特点；类型，种类；<古>具有某种特性的人"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Nature）（法）纳蒂尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "natures"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He is by nature a contrarian.",
+      "zh": "他本质上就是个叛逆的人。"
+    },
+    {
+      "en": "Just let nature take its course.",
+      "zh": "就顺其自然吧。"
+    },
+    {
+      "en": "Dishonesty is foreign to his nature.",
+      "zh": "弄虚作假并非他的本性。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "自然；性质；本性；种类",
+      "words": [
+        "property",
+        "category",
+        "variety",
+        "manner",
+        "kind"
+      ]
+    }
+  ]
+}

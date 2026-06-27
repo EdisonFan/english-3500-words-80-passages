@@ -1,0 +1,46 @@
+{
+  "word": "eager",
+  "found": true,
+  "phonetic_uk": "ˈiːɡə(r)",
+  "phonetic_us": "ˈiːɡər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=eager&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=eager&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "热切的，渴望的，渴求的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Eager）（英）伊格（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He was eager to get into politics.",
+      "zh": "他渴望从政。"
+    },
+    {
+      "en": "Robert was eager to talk about life in the Army.",
+      "zh": "罗伯特渴望谈论军旅生活。"
+    },
+    {
+      "en": "He was eager to communicate his ideas to the group.",
+      "zh": "他急于把他的想法传达给小组。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "渴望的；热切的；热心的",
+      "words": [
+        "hungry",
+        "desired",
+        "anxious",
+        "sick",
+        "keen"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "extinction",
+  "found": true,
+  "phonetic_uk": "ɪkˈstɪŋkʃn",
+  "phonetic_us": "ɪkˈstɪŋkʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=extinction&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=extinction&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "灭绝，消亡；（债务的）偿清；消光"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The mountain gorilla is on the verge of extinction.",
+      "zh": "居住在山区的大猩猩已濒临灭绝。"
+    },
+    {
+      "en": "They have driven the rhino to the edge of extinction.",
+      "zh": "他们已经把犀牛逼到了灭绝的边缘。"
+    },
+    {
+      "en": "The loggers say their jobs are faced with extinction because of declining timber sales.",
+      "zh": "樵夫们说他们的工作因不断下降的木材销售而面临消亡。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "消失；消灭；废止",
+      "words": [
+        "evaporation",
+        "disappearance"
+      ]
+    }
+  ]
+}

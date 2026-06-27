@@ -1,0 +1,83 @@
+{
+  "word": "graduate",
+  "found": true,
+  "phonetic_uk": "ˈɡrædʒuət; ˈɡrædʒuˌeɪt",
+  "phonetic_us": "ˈɡrædʒuət; ˈgrædʒuˌeɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=graduate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=graduate&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "大学毕业生，学士学位获得者；毕业生"
+    },
+    {
+      "pos": "v.",
+      "meaning": "获得学位（尤指学士），大学毕业；毕业（尤指中学）；授予（某人）学位（或毕业文凭等）；（从……）进步到，升级到；按序列或规模安排；（在仪器或容器上）刻度，做标记；逐渐（或逐步）改变（某物，尤指颜色或色调）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "（课程、学业）研究生的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "graduates"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "graduates"
+    },
+    {
+      "name": "现在分词",
+      "value": "graduating"
+    },
+    {
+      "name": "过去式",
+      "value": "graduated"
+    },
+    {
+      "name": "过去分词",
+      "value": "graduated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "After all his hard work, he now needs only two credit hours to graduate.",
+      "zh": "通过努力学习，他现在只需再修两个学分就可以毕业了。"
+    },
+    {
+      "en": "The Voyager workload is divided among 157 scientists and scads of graduate students.",
+      "zh": "航行者的工作量被分给157位科学家和大批研究生。"
+    },
+    {
+      "en": "Fifty-nine percent of its residents have attended graduate school – quadruple the national average.",
+      "zh": "该地区59％的居民读过研究生–是全国平均水平的4倍。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "毕业；渐变",
+      "words": [
+        "shadow",
+        "to finish school"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "研究生；毕业生",
+      "words": [
+        "postgraduate",
+        "advanced student"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "毕业的；研究生的",
+      "words": [
+        "school-leaving"
+      ]
+    }
+  ]
+}

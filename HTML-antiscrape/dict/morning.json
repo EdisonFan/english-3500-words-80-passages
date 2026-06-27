@@ -1,0 +1,44 @@
+{
+  "word": "morning",
+  "found": true,
+  "phonetic_uk": "ˈmɔːnɪŋ",
+  "phonetic_us": "ˈmɔːrnɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=morning&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=morning&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "早晨；黎明；初期"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "mornings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I've been sneezing all morning.",
+      "zh": "我一上午直打喷嚏。"
+    },
+    {
+      "en": "The morning has just flashed by.",
+      "zh": "这个上午转眼就过去了。"
+    },
+    {
+      "en": "It was a beautiful morning.",
+      "zh": "那是个迷人的早晨。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "早晨；黎明；初期",
+      "words": [
+        "prime",
+        "sunrise"
+      ]
+    }
+  ]
+}

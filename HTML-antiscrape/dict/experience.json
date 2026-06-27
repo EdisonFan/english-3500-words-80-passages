@@ -1,0 +1,72 @@
+{
+  "word": "experience",
+  "found": true,
+  "phonetic_uk": "ɪkˈspɪəriəns",
+  "phonetic_us": "ɪkˈspɪriəns",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=experience&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=experience&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "经历，往事；经验，阅历；传统"
+    },
+    {
+      "pos": "v.",
+      "meaning": "经历，遭遇；体会到，感受到"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "experiences"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "experiences"
+    },
+    {
+      "name": "现在分词",
+      "value": "experiencing"
+    },
+    {
+      "name": "过去式",
+      "value": "experienced"
+    },
+    {
+      "name": "过去分词",
+      "value": "experienced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It was a chastening experience.",
+      "zh": "那是一次令人遗憾的经历。"
+    },
+    {
+      "en": "It was a cathartic experience.",
+      "zh": "那是一次情感宣泄的体验。"
+    },
+    {
+      "en": "It was a tremendous experience.",
+      "zh": "这是个了不起的经历。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "经验；经历；体验",
+      "words": [
+        "career"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "经验；经历；体验",
+      "words": [
+        "suffer",
+        "live",
+        "undergo"
+      ]
+    }
+  ]
+}

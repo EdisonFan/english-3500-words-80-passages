@@ -1,0 +1,39 @@
+{
+  "word": "Germany",
+  "found": true,
+  "phonetic_uk": "ˈdʒɜːməni",
+  "phonetic_us": "ˈdʒɜːrməni",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=Germany&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=Germany&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "德国"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Germany annexed Austria in 1938.",
+      "zh": "1938年德国吞并了奥地利。"
+    },
+    {
+      "en": "He had to go to Germany.",
+      "zh": "他不得不去德国。"
+    },
+    {
+      "en": "Germany hosted the World Cup finals.",
+      "zh": "德国主办了世界杯决赛。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "德国",
+      "words": [
+        "Deutschland",
+        "Reich"
+      ]
+    }
+  ]
+}

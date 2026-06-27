@@ -1,0 +1,47 @@
+{
+  "word": "euro",
+  "found": true,
+  "phonetic_uk": "ˈjʊərəʊ",
+  "phonetic_us": "ˈjʊroʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=euro&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=euro&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "欧元（欧盟中某些国家的货币单位）（=Euro）；岩大袋鼠"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "欧洲的（尤指欧盟的）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "euros或euro"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The euro hit a record low in trading today.",
+      "zh": "今天欧元的兑换价降到了历史最低水平。"
+    },
+    {
+      "en": "The euro is getting stronger against the dollar.",
+      "zh": "欧元对美元呈强势走向。"
+    },
+    {
+      "en": "The euro fell on the foreign exchanges yesterday.",
+      "zh": "欧元汇价昨天下跌。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "欧元（欧盟的统一货币单位）",
+      "words": [
+        "eur"
+      ]
+    }
+  ]
+}

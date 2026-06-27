@@ -1,0 +1,39 @@
+{
+  "word": "abnormal",
+  "found": true,
+  "phonetic_uk": "æbˈnɔːm(ə)l",
+  "phonetic_us": "æbˈnɔːrm(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=abnormal&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=abnormal&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "反常的，异常的，变态的；不规则的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They thought his behaviour was abnormal.",
+      "zh": "他们认为他行为反常。"
+    },
+    {
+      "en": "He concluded that Oswald was somewhat abnormal.",
+      "zh": "他断定奥斯瓦德有点不正常。"
+    },
+    {
+      "en": "The abnormal bleeding is your body's own red flag of danger.",
+      "zh": "这反常的流血是你身体本身的危险信号。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "反常的，不规则的；变态的",
+      "words": [
+        "unnatural",
+        "eccentric"
+      ]
+    }
+  ]
+}

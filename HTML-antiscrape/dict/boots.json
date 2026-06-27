@@ -1,0 +1,35 @@
+{
+  "word": "boots",
+  "found": true,
+  "phonetic_uk": "buːts",
+  "phonetic_us": "buːts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=boots&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=boots&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "靴子（boot 的复数）；（英）擦靴的仆役"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "boots"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Your boots are covered in mud.",
+      "zh": "你的靴子上都是泥。"
+    },
+    {
+      "en": "He sold boots at a market stall.",
+      "zh": "他在市场的一个摊位上卖靴子。"
+    },
+    {
+      "en": "She scraped the mud off her boots.",
+      "zh": "她刮掉了靴子上的泥。"
+    }
+  ],
+  "synonyms": []
+}

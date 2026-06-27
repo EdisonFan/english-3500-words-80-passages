@@ -1,0 +1,38 @@
+{
+  "word": "etc",
+  "found": true,
+  "phonetic_uk": "ˌet ˈsetərə; ˌɪt ˈsetərə",
+  "phonetic_us": "ˌet ˈsetərə; ˌɪt ˈsetərə",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=etc&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=etc&type=2",
+  "defs": [
+    {
+      "pos": "abbr.",
+      "meaning": "等等，及其他（et cetera）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We talked about the contract, pay, etc.",
+      "zh": "我们讨论了合同、工资等问题。"
+    },
+    {
+      "en": "Extreme skaters perform jumps, spins, flips, etc.",
+      "zh": "极限滑板运动员能做跳跃、旋转、空翻等动作。"
+    },
+    {
+      "en": "Have you moved yet? Pls. advise address, phone no., etc.",
+      "zh": "你已经搬家了吗？请告知你的地址、电话号码等。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "等等，及其他",
+      "words": [
+        "so on and so forth"
+      ]
+    }
+  ]
+}

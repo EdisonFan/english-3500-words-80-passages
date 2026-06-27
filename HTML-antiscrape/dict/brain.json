@@ -1,0 +1,69 @@
+{
+  "word": "brain",
+  "found": true,
+  "phonetic_uk": "breɪn",
+  "phonetic_us": "breɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=brain&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=brain&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "脑；<非正式>智力，智慧；聪明的人，智者；<非正式>电脑；（供食用的）动物脑髓"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<非正式>猛击……的头部"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Brain）（英）布雷恩（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "brains"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "brains"
+    },
+    {
+      "name": "现在分词",
+      "value": "braining"
+    },
+    {
+      "name": "过去式",
+      "value": "brained"
+    },
+    {
+      "name": "过去分词",
+      "value": "brained"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Alcohol acts quickly on the brain.",
+      "zh": "酒精对大脑迅速产生影响。"
+    },
+    {
+      "en": "Her father died of a brain tumour.",
+      "zh": "他的父亲死于脑瘤。"
+    },
+    {
+      "en": "They removed a clot from his brain.",
+      "zh": "他们从他的大脑里取出了血块。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "头脑，智力；脑袋",
+      "words": [
+        "intelligence",
+        "mind",
+        "mentality"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "halfway",
+  "found": true,
+  "phonetic_uk": "ˌhɑːfˈweɪ",
+  "phonetic_us": "ˌhæfˈweɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=halfway&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=halfway&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "在中间，在中途；还可以，过得去"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "在中间的，在中途的；不完全的，不彻底的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The car conked out halfway up the hill.",
+      "zh": "汽车在上坡时半途抛锚了。"
+    },
+    {
+      "en": "He was halfway up the ladder.",
+      "zh": "他梯子上到了一半。"
+    },
+    {
+      "en": "He left halfway through the ceremony.",
+      "zh": "他在仪式进行到一半时离开了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "中途的；不彻底的",
+      "words": [
+        "intermediary",
+        "inexhaustive"
+      ]
+    }
+  ]
+}

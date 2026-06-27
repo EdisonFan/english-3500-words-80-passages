@@ -1,0 +1,100 @@
+{
+  "word": "long",
+  "found": true,
+  "phonetic_uk": "lɒŋ",
+  "phonetic_us": "lɔːŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=long&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=long&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "长的；长久的，长期的；漫长的；长篇的；长音的；出界的；（面部表情）不高兴的，愁苦的；记得牢的，记得久的；（可能性，机会）小的，渺茫的；远期（获利）的；（酒与凉饮料）混合的，大量的；（运动中的球）长传的，远距离的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "长久地，长期地；很久（以前或以后）；整个（时间段）；（球扔得）远；整个 (时间段)"
+    },
+    {
+      "pos": "v.",
+      "meaning": "渴望"
+    },
+    {
+      "pos": "n.",
+      "meaning": "长时间，长时期；长音；远期证券；长期资本"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Long）（美、英、爱）隆（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "longs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "longs"
+    },
+    {
+      "name": "现在分词",
+      "value": "longing"
+    },
+    {
+      "name": "过去式",
+      "value": "longed"
+    },
+    {
+      "name": "过去分词",
+      "value": "longed"
+    },
+    {
+      "name": "比较级",
+      "value": "longer"
+    },
+    {
+      "name": "最高级",
+      "value": "longest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I don't intend staying long.",
+      "zh": "我不打算长期逗留。"
+    },
+    {
+      "en": "The long blades clashed together.",
+      "zh": "长刀相击铿然作响。"
+    },
+    {
+      "en": "Workers toiled long hours.",
+      "zh": "工人们长时间辛苦工作。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "长的；过长的；做多头的",
+      "words": [
+        "tall",
+        "full-bottomed"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "渴望；热望",
+      "words": [
+        "rare",
+        "aspire"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "长期地；始终",
+      "words": [
+        "chronically",
+        "ever more"
+      ]
+    }
+  ]
+}

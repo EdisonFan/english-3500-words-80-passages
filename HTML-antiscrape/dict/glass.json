@@ -1,0 +1,76 @@
+{
+  "word": "glass",
+  "found": true,
+  "phonetic_uk": "ɡlɑːs",
+  "phonetic_us": "ɡlæs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=glass&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=glass&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "玻璃；玻璃杯；一杯之量；玻璃器皿，玻璃制品；玻璃保护面；眼镜，透镜；<英>镜子；（计时）沙漏；气压表，晴雨表"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用玻璃覆盖，给……装玻璃；（尤指在打猎时）用望远镜观察（周围环境）；<英，非正式>用啤酒杯打（某人的脸）；反映；成玻璃状"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】  （Glass） （英、法、德、意）格拉斯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "glasses"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "glasses"
+    },
+    {
+      "name": "现在分词",
+      "value": "glassing"
+    },
+    {
+      "name": "过去式",
+      "value": "glassed"
+    },
+    {
+      "name": "过去分词",
+      "value": "glassed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Glass contracts as it cools.",
+      "zh": "玻璃遇冷收缩。"
+    },
+    {
+      "en": "Broken glass littered the streets.",
+      "zh": "街上到处是玻璃碎片。"
+    },
+    {
+      "en": "Let me refresh your glass.",
+      "zh": "我给你再斟一杯吧。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[玻璃]玻璃；玻璃制品；镜子",
+      "words": [
+        "mirror",
+        "vitrum"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "反映；给某物加玻璃",
+      "words": [
+        "image",
+        "to reflect"
+      ]
+    }
+  ]
+}

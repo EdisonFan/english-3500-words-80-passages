@@ -1,0 +1,44 @@
+{
+  "word": "headache",
+  "found": true,
+  "phonetic_uk": "ˈhedeɪk",
+  "phonetic_us": "ˈhedeɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=headache&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=headache&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "头痛；使人头痛的事，难题"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "headaches"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Red wine gives me a headache.",
+      "zh": "我喝红酒会头痛。"
+    },
+    {
+      "en": "He complained of a headache.",
+      "zh": "他说他头疼。"
+    },
+    {
+      "en": "I woke up with a slight headache.",
+      "zh": "我醒来时有点头痛。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[内科]头痛；麻烦；令人头痛之事",
+      "words": [
+        "trouble",
+        "cephalalgia"
+      ]
+    }
+  ]
+}

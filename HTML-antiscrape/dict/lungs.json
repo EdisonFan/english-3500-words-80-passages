@@ -1,0 +1,30 @@
+{
+  "word": "lungs",
+  "found": true,
+  "phonetic_uk": "lʌŋz",
+  "phonetic_us": "lʌŋz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=lungs&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=lungs&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[解剖]肺（lung 的复数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She gulped air into her lungs.",
+      "zh": "她大口地把空气吸入肺部。"
+    },
+    {
+      "en": "The doctor studied the X-rays of her lungs.",
+      "zh": "医生研究了她肺部的X光照片。"
+    },
+    {
+      "en": "The lungs consist of millions of tiny air sacs.",
+      "zh": "肺包含数百万个小肺泡。"
+    }
+  ],
+  "synonyms": []
+}

@@ -1,0 +1,55 @@
+{
+  "word": "acting",
+  "found": true,
+  "phonetic_uk": "ˈæktɪŋ",
+  "phonetic_us": "ˈæktɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=acting&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=acting&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "代理的；表演的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "表演，演技"
+    },
+    {
+      "pos": "v.",
+      "meaning": "行动；举动，表现；假装（act 的现在分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Acting comes naturally to her.",
+      "zh": "她天生就会表演。"
+    },
+    {
+      "en": "The acting was deplorable.",
+      "zh": "那演技糟透了。"
+    },
+    {
+      "en": "The acting was dire.",
+      "zh": "这表演糟透了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "代理的；装腔作势的",
+      "words": [
+        "agent",
+        "deputy"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "演技；演戏；假装",
+      "words": [
+        "simulation",
+        "histrionism"
+      ]
+    }
+  ]
+}

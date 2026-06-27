@@ -1,0 +1,39 @@
+{
+  "word": "aligned",
+  "found": true,
+  "phonetic_uk": "əˈlaɪnd",
+  "phonetic_us": "əˈlaɪnd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=aligned&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=aligned&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "结盟；支持；使成一直线；校准；安放，排列；使一致（align 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Make sure the shelf is aligned with the top of the cupboard.",
+      "zh": "务必使搁架与橱柜顶端对齐。"
+    },
+    {
+      "en": "If the horizontal line drawn is aligned with a polygon vertex, then only the segments that are below the line are counted.",
+      "zh": "如果所绘制的水平线与一个多边形顶点对齐，那么只计算位于该线下方的部分。"
+    },
+    {
+      "en": "Domestic prices have been aligned with those in world markets.",
+      "zh": "国内价格已调整到与世界市场一致。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "对齐的；均衡的",
+      "words": [
+        "uniform",
+        "proportional"
+      ]
+    }
+  ]
+}

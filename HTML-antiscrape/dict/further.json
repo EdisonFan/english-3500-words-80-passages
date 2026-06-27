@@ -1,0 +1,82 @@
+{
+  "word": "further",
+  "found": true,
+  "phonetic_uk": "ˈfɜːðə(r)",
+  "phonetic_us": "ˈfɜːrðər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=further&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=further&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "更远地，再往前地；进一步；此外，而且"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "更多的，进一步的；（距离上）更远的，较远的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "促进，推进"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "furthers"
+    },
+    {
+      "name": "现在分词",
+      "value": "furthering"
+    },
+    {
+      "name": "过去式",
+      "value": "furthered"
+    },
+    {
+      "name": "过去分词",
+      "value": "furthered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Let's consider this point further.",
+      "zh": "让我们更深入地考虑这一点。"
+    },
+    {
+      "en": "She refused to amplify further.",
+      "zh": "她拒绝提供详情。"
+    },
+    {
+      "en": "They grew ever further apart.",
+      "zh": "他们愈发疏远了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "进一步地；而且；更远地",
+      "words": [
+        "moreover",
+        "besides",
+        "also"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "更远的；深一层的",
+      "words": [
+        "farther"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "促进，助长；增进",
+      "words": [
+        "facilitate",
+        "promote",
+        "boost",
+        "improve"
+      ]
+    }
+  ]
+}

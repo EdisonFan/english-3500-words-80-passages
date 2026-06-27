@@ -1,0 +1,87 @@
+{
+  "word": "hike",
+  "found": true,
+  "phonetic_uk": "haɪk",
+  "phonetic_us": "haɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=hike&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=hike&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "徒步旅行，远足；（价格、花费等的）大幅度提高，猛增"
+    },
+    {
+      "pos": "v.",
+      "meaning": "远足，徒步旅行；突然增加，突然提高；拉起，提起（尤指衣物）；后传（发球）给四分卫"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Hike）（美、俄）海克（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "hikes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "hikes"
+    },
+    {
+      "name": "现在分词",
+      "value": "hiking"
+    },
+    {
+      "name": "过去式",
+      "value": "hiked"
+    },
+    {
+      "name": "过去分词",
+      "value": "hiked"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The site is reached by a 30-minute hike through dense forest.",
+      "zh": "要花30分钟徒步穿过密林才能到达那个地方。"
+    },
+    {
+      "en": "He had been bitten by a snake during a rough hike.",
+      "zh": "他在一次艰难的徒步旅行中被蛇咬了。"
+    },
+    {
+      "en": "Join a small group hike tour for an evening of exploration in the heart of Washington.",
+      "zh": "加入小型徒步旅行团，用一个晚上去探索华盛顿的中心。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "远足；徒步旅行；上升",
+      "words": [
+        "trip",
+        "arise",
+        "raise",
+        "go up",
+        "climb"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "提高；拉起；使…高涨",
+      "words": [
+        "enhance",
+        "raise"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "远足；徒步旅行；涨价",
+      "words": [
+        "walking tour",
+        "excursion"
+      ]
+    }
+  ]
+}

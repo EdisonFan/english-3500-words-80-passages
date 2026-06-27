@@ -1,0 +1,78 @@
+{
+  "word": "journey",
+  "found": true,
+  "phonetic_uk": "ˈdʒɜːni",
+  "phonetic_us": "ˈdʒɜːrni",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=journey&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=journey&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "旅行，旅程；历程，过程"
+    },
+    {
+      "pos": "v.",
+      "meaning": "旅行"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Journey）（英）朱尼，朱妮（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "journeys"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "journeys"
+    },
+    {
+      "name": "现在分词",
+      "value": "journeying"
+    },
+    {
+      "name": "过去式",
+      "value": "journeyed"
+    },
+    {
+      "name": "过去分词",
+      "value": "journeyed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The journey time is two hours.",
+      "zh": "旅程时间为两个小时。"
+    },
+    {
+      "en": "The long journey tired him.",
+      "zh": "漫长的旅程使他疲倦。"
+    },
+    {
+      "en": "The journey seemed endless.",
+      "zh": "旅程似乎没有尽头。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[交]旅行；行程",
+      "words": [
+        "tour",
+        "trip"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "[交]旅行",
+      "words": [
+        "travel",
+        "have a trip",
+        "go on a trip",
+        "wayfare"
+      ]
+    }
+  ]
+}

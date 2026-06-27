@@ -1,0 +1,64 @@
+{
+  "word": "female",
+  "found": true,
+  "phonetic_uk": "ˈfiːmeɪl",
+  "phonetic_us": "ˈfiːmeɪl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=female&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=female&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "女性的，妇女的；女性特有的；由女性组成的；内孔的；雌性的，母的；雌蕊的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "雌性动物，雌性植物；女子"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "females"
+    },
+    {
+      "name": "比较级",
+      "value": "more female"
+    },
+    {
+      "name": "最高级",
+      "value": "most female"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Oestrogen is a female sex hormone.",
+      "zh": "雌激素是一种雌性荷尔蒙。"
+    },
+    {
+      "en": "Two of the candidates must be female.",
+      "zh": "候选人中必须有两名是女性。"
+    },
+    {
+      "en": "The audience was almost entirely female.",
+      "zh": "观众几乎全是女性。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "女性的；[生物]雌性的；柔弱的，柔和的",
+      "words": [
+        "delicate",
+        "feminine"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "女人；[植][动]雌性动物",
+      "words": [
+        "she",
+        "jenny"
+      ]
+    }
+  ]
+}

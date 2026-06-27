@@ -1,0 +1,58 @@
+{
+  "word": "inner",
+  "found": true,
+  "phonetic_uk": "ˈɪnə(r)",
+  "phonetic_us": "ˈɪnər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=inner&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=inner&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "内部的，靠近中心的；内心的，未表达出来的；存在于性格中的，骨子里的；隐蔽的，内在的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "内部，内里；靶子内圈；命中靶子内圈的一发"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "inners"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His bedroom's his inner sanctum.",
+      "zh": "卧房是他的内室。"
+    },
+    {
+      "en": "'Coward!' a tiny inner voice insisted.",
+      "zh": "“胆小鬼！”内心一个小声音坚持说。"
+    },
+    {
+      "en": "She doesn't reveal much of her inner self.",
+      "zh": "她不大流露她的内心自我。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "内部的；内心的；精神的",
+      "words": [
+        "internal",
+        "mental",
+        "inside",
+        "spiritual"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "内部",
+      "words": [
+        "interior",
+        "inside"
+      ]
+    }
+  ]
+}

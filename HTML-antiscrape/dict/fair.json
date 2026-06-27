@@ -1,0 +1,107 @@
+{
+  "word": "fair",
+  "found": true,
+  "phonetic_uk": "feə(r)",
+  "phonetic_us": "fer",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fair&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fair&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "公平的；合理的，公正的；相当好的；（数量、大小）相当大的；浅色的，（肤色）白皙的，（头发）金色的；晴朗的；顺风的；普通的；美丽的；界内的；<旧>（手段，方法）温和的，非暴力的；<旧>（言语，谈话，许诺）花言巧语的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "公平地，公正地；非常；正面地，直接地；清楚地"
+    },
+    {
+      "pos": "n.",
+      "meaning": "集市，展览会；露天游乐场；庙会；义卖会；牲畜市场；美女；职业介绍会"
+    },
+    {
+      "pos": "v.",
+      "meaning": "变得晴朗；使��车辆，船舶，飞机）具有流线型"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Fair）（英、芬）费尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "fairs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "fairs"
+    },
+    {
+      "name": "现在分词",
+      "value": "fairing"
+    },
+    {
+      "name": "过去式",
+      "value": "faired"
+    },
+    {
+      "name": "过去分词",
+      "value": "faired"
+    },
+    {
+      "name": "比较级",
+      "value": "fairer"
+    },
+    {
+      "name": "最高级",
+      "value": "fairest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The punishment was very fair.",
+      "zh": "这个处罚很公正。"
+    },
+    {
+      "en": "Blue suited her fair colouring.",
+      "zh": "蓝色适合于她白皙的肤色。"
+    },
+    {
+      "en": "'It's not fair,' she complained.",
+      "zh": "“这不公平。”她抱怨道。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "公平的；美丽的，白皙的；[气象]晴朗的",
+      "words": [
+        "beautiful",
+        "fine",
+        "clear",
+        "just",
+        "impartial"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "公平地；直接地；清楚地",
+      "words": [
+        "definitely",
+        "directly",
+        "equally",
+        "immediately",
+        "straight"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[经]展览会；市集；美人",
+      "words": [
+        "expo",
+        "exhibition",
+        "beauty"
+      ]
+    }
+  ]
+}

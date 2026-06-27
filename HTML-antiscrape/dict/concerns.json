@@ -1,0 +1,42 @@
+{
+  "word": "concerns",
+  "found": true,
+  "phonetic_uk": "kənˈsɜːnz",
+  "phonetic_us": "kənˈsɜːrnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=concerns&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=concerns&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "涉及，与……相关；让……担心；对……感兴趣（concern 的第三人称单数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "担心；关心的事，关注点；企业，公司（concern 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "What are your main concerns as a writer?",
+      "zh": "作为一名作家，你主要关注的是哪些问题？"
+    },
+    {
+      "en": "They had concerns about the timing of the report.",
+      "zh": "他们对这个报道的时间安排有担忧。"
+    },
+    {
+      "en": "They represented their concerns to the authorities.",
+      "zh": "他们向当局陈述了他们关心的问题。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "使关心（concern的三单形式）；涉及；关系到…",
+      "words": [
+        "respects"
+      ]
+    }
+  ]
+}

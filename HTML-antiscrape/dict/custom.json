@@ -1,0 +1,57 @@
+{
+  "word": "custom",
+  "found": true,
+  "phonetic_uk": "ˈkʌstəm",
+  "phonetic_us": "ˈkʌstəm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=custom&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=custom&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "风俗，习俗；习惯；光顾，惠顾；<法律>惯例，习惯法；（经常性的）顾客"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "定做的，量身设计的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "customs"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It was her custom to rise early.",
+      "zh": "早起是她的习惯。"
+    },
+    {
+      "en": "The origin of the custom is obscure.",
+      "zh": "该习俗的起源鲜为人知。"
+    },
+    {
+      "en": "This quaint custom should be revived.",
+      "zh": "应该恢复这一独特的风俗。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "习惯；风俗；海关",
+      "words": [
+        "manner",
+        "habit",
+        "way"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "定制的，定做的",
+      "words": [
+        "made-to-order",
+        "tailored"
+      ]
+    }
+  ]
+}

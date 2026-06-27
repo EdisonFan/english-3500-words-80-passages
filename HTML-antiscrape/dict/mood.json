@@ -1,0 +1,51 @@
+{
+  "word": "mood",
+  "found": true,
+  "phonetic_uk": "muːd",
+  "phonetic_us": "muːd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mood&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mood&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "心境，情绪；气氛，情感基调；心情不好，坏脾气；想（做某事），有兴致（做某事）；（尤指音乐）激发……情感的，暗示……心境的；（群体的）态度，意愿；表达语气的动词屈折变化；（语法的）式，语气； 想（做某事），有兴致（做某事）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Mood）（英）穆德，（瑞典）莫德（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "moods"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The mood here is resolutely up.",
+      "zh": "这里的气氛十分热闹。"
+    },
+    {
+      "en": "My mood gradually lightened.",
+      "zh": "我的心情渐渐好起来。"
+    },
+    {
+      "en": "My sunny mood suddenly darkened.",
+      "zh": "我快乐的情绪突然黯淡下来。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "情绪，语气；心境；气氛",
+      "words": [
+        "emotion",
+        "atmosphere",
+        "tone",
+        "spirit",
+        "feeling"
+      ]
+    }
+  ]
+}

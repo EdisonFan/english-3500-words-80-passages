@@ -1,0 +1,83 @@
+{
+  "word": "bar",
+  "found": true,
+  "phonetic_uk": "bɑː(r)",
+  "phonetic_us": "bɑːr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bar&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bar&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "酒吧；吧台；小吃店；块，棒；（金属）条，栏杆；球门横梁；障碍；小节；条纹，带；功能条；律师职业；（法庭中的）围栏，被告席；电热棒；沙洲，暗礁；军阶杠；巴（气压单位）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "封，堵；阻挡，拦住；阻止，禁止；做条纹标记"
+    },
+    {
+      "pos": "prep.",
+      "meaning": "除……外"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Bar）（德、法、俄、罗、捷、波、葡、以、阿拉伯）巴尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "bars"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "bars"
+    },
+    {
+      "name": "现在分词",
+      "value": "barring"
+    },
+    {
+      "name": "过去式",
+      "value": "barred"
+    },
+    {
+      "name": "过去分词",
+      "value": "barred"
+    }
+  ],
+  "examples": [
+    {
+      "en": "At the bar he ordered a cider.",
+      "zh": "他在酒吧点了一杯苹果汁。"
+    },
+    {
+      "en": "She was sitting at the bar.",
+      "zh": "她坐在酒吧的柜台那里。"
+    },
+    {
+      "en": "Brian was ensconced behind the bar.",
+      "zh": "布莱恩安坐在吧台后。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[金融]条，棒；[建]酒吧；障碍",
+      "words": [
+        "rod",
+        "staff",
+        "obstacle",
+        "dam",
+        "let"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "禁止；阻拦",
+      "words": [
+        "inhibit",
+        "forbid"
+      ]
+    }
+  ]
+}

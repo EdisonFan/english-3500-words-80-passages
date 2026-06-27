@@ -1,0 +1,38 @@
+{
+  "word": "forests",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˈfɔːrɪsts; ˈfɑːrɪsts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=forests&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=forests&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "森林；森林经济（forest 的复数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The vast forests of West Africa have shrunk.",
+      "zh": "西非那片广袤的森林已经缩小了。"
+    },
+    {
+      "en": "These forests cover a broad span of latitudes.",
+      "zh": "这些森林绵延在多个纬度上。"
+    },
+    {
+      "en": "Thousands of acres of forests and scrubland have been burnt.",
+      "zh": "已有数千英亩森林和灌木丛林地被烧毁。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "森林；森林经济（forest的复数形式）",
+      "words": [
+        "woods"
+      ]
+    }
+  ]
+}

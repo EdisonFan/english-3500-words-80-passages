@@ -1,0 +1,65 @@
+{
+  "word": "in",
+  "found": true,
+  "phonetic_uk": "ɪn",
+  "phonetic_us": "ɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=in&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=in&type=2",
+  "defs": [
+    {
+      "pos": "prep.",
+      "meaning": "在……内；进……里；在……期间；在……以后；穿着；在……状态中；在……方面；包含在……中；从事……；用……语言，以……媒介；以……调；在（活动）过程中；在……岁数；当……时；（引出具某种品质的人的名字）；占……；在……之中（用于较大和较小数字之间）；以……的数量；带……颜色的；以……方式；具有……特性；按照（表示方式）"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "进入；在里头；到达；当选；涨潮；在屋里；在车站；收到；递交，送到；填写，着色；朝里，向中间；击球；（球）落在界内；（服装等）时髦"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "在里面的；时髦的；（用球）界内的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "执政者；门路"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "ins"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They lived in rooms in Kensington.",
+      "zh": "他们住在肯辛顿的出租房间。"
+    },
+    {
+      "en": "We went skiing in France in March.",
+      "zh": "三月份我们去法国滑雪了。"
+    },
+    {
+      "en": "He is now living in exile in Egypt.",
+      "zh": "他现在流亡在埃及。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "prep.",
+      "meaning": "按照（表示方式）；从事于；在…之内",
+      "words": [
+        "within",
+        "inside"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "在里面的；时髦的",
+      "words": [
+        "modern",
+        "fashionable",
+        "tony"
+      ]
+    }
+  ]
+}

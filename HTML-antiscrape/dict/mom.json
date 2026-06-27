@@ -1,0 +1,44 @@
+{
+  "word": "mom",
+  "found": true,
+  "phonetic_uk": "mɒm",
+  "phonetic_us": "mɑːm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mom&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mom&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "妈妈"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Mom）人名；（柬）蒙"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Mom wasn't very domesticated.",
+      "zh": "母亲不是很喜欢干家务。"
+    },
+    {
+      "en": "Johnnie snitched on me to his mom.",
+      "zh": "约翰尼在他妈妈那儿告了我的状。"
+    },
+    {
+      "en": "Are you listening, Mom?",
+      "zh": "妈，你在听吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "妈妈",
+      "words": [
+        "mama",
+        "mummy",
+        "momma"
+      ]
+    }
+  ]
+}

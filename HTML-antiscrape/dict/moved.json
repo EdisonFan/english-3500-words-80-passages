@@ -1,0 +1,34 @@
+{
+  "word": "moved",
+  "found": true,
+  "phonetic_uk": "muːvd",
+  "phonetic_us": "muːvd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=moved&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=moved&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "感动的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）改变位置，（使）移动；搬家，搬迁；（使）变换，调动（move 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Joe's lips moved soundlessly.",
+      "zh": "乔的嘴唇无声地动着。"
+    },
+    {
+      "en": "Share prices moved ahead today.",
+      "zh": "今天的股票价格上升了。"
+    },
+    {
+      "en": "He moved with noiseless steps.",
+      "zh": "他脚步轻轻地走动。"
+    }
+  ],
+  "synonyms": []
+}

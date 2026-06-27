@@ -1,0 +1,42 @@
+{
+  "word": "changeable",
+  "found": true,
+  "phonetic_uk": "ˈtʃeɪndʒəb(ə)l",
+  "phonetic_us": "ˈtʃeɪndʒəb(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=changeable&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=changeable&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "可改变的，可被改变的；变化无常的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The weather is very changeable at this time of year.",
+      "zh": "年年在这个时候天气都变化无常。"
+    },
+    {
+      "en": "These feelings are changeable, they said.",
+      "zh": "他们说，这些感觉是可以改变的。"
+    },
+    {
+      "en": "The weather of this island country is so changeable that the weather report is rarely correct.",
+      "zh": "这个岛国的天气变化无常，天气预报很少有准确的时候。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "无常的；可改变的；易变的；不定的",
+      "words": [
+        "uncertain",
+        "mobile",
+        "variable",
+        "liquid",
+        "unstable"
+      ]
+    }
+  ]
+}

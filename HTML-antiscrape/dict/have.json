@@ -1,0 +1,67 @@
+{
+  "word": "have",
+  "found": true,
+  "phonetic_uk": "hæv; həv",
+  "phonetic_us": "hæv; həv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=have&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=have&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "拥有；有（想法、主意、观点等）；显示出，带有（性质、特征）；做，进行（活动）；吃，喝，抽（烟）；患病，得病；得到，收到；经历，经受；担负（责任）；导致，产生（影响）；生，生育；包括；使保持，使处于；明白，懂得；抓住，紧握；<非正式>欺骗；让，叫，命令；照看；（在家中）招待，款待；允许，容忍；<非正式>辩过，胜过；已经，曾经（与过去分词连用构成完成时）；与（某人）性交"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<非正式>有钱人（the haves）；<英，非正式>诈骗"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Have）（德）哈弗，（芬）哈韦（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "has"
+    },
+    {
+      "name": "现在分词",
+      "value": "having"
+    },
+    {
+      "name": "过去式",
+      "value": "had"
+    },
+    {
+      "name": "过去分词",
+      "value": "had"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Times have changed and so have I.",
+      "zh": "时代变了，我也变了。"
+    },
+    {
+      "en": "Profits have stagnated.",
+      "zh": "利润原地踏步。"
+    },
+    {
+      "en": "Have you been able to have any kind of contact?",
+      "zh": "你取得任何联系了吗?"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "有；让；拿；从事；允许",
+      "words": [
+        "undertake",
+        "let",
+        "pursue",
+        "address",
+        "carry"
+      ]
+    }
+  ]
+}

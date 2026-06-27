@@ -1,0 +1,41 @@
+{
+  "word": "activities",
+  "found": true,
+  "phonetic_uk": "ækˈtɪvətiz",
+  "phonetic_us": "ækˈtɪvətiz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=activities&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=activities&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "行动；活动（activity 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Put a cross next to those activities you like.",
+      "zh": "在你喜欢的活动旁边划个叉。"
+    },
+    {
+      "en": "Local activities include walking, boating and golf.",
+      "zh": "当地的活动包括散步、划船以及打高尔夫球。"
+    },
+    {
+      "en": "She's involved in many extra-curricular activities.",
+      "zh": "她参加了许多课外活动。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "（activity复数形式）活动；活动区；活动性",
+      "words": [
+        "movement",
+        "doing",
+        "campaign",
+        "working"
+      ]
+    }
+  ]
+}

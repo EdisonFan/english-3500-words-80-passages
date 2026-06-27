@@ -1,0 +1,58 @@
+{
+  "word": "happy",
+  "found": true,
+  "phonetic_uk": "ˈhæpi",
+  "phonetic_us": "ˈhæpi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=happy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=happy&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "快乐的；幸福的，使人高兴的；满意的；乐意的；幸运的；合适的"
+    },
+    {
+      "pos": "",
+      "meaning": "comb. <非正式>滥用……的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Happy）（英、瑞典、喀）哈皮（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "happier"
+    },
+    {
+      "name": "最高级",
+      "value": "happiest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Happy birthday, sweetheart.",
+      "zh": "生日快乐，亲爱的。"
+    },
+    {
+      "en": "\"Happy Easter,\" he yelled.",
+      "zh": "“复活节快乐，”他喊道。"
+    },
+    {
+      "en": "She had a happy childhood.",
+      "zh": "她有一个幸福的童年。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "幸福的；高兴的；巧妙的",
+      "words": [
+        "pleased",
+        "glad",
+        "blessed",
+        "smart"
+      ]
+    }
+  ]
+}

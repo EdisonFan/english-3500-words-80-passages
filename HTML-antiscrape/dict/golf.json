@@ -1,0 +1,55 @@
+{
+  "word": "golf",
+  "found": true,
+  "phonetic_uk": "ɡɒlf",
+  "phonetic_us": "ɡɑːlf",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=golf&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=golf&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "高尔夫球运动；（无线通讯中的）字母G的代码"
+    },
+    {
+      "pos": "v.",
+      "meaning": "打高尔夫球"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Golf）（西、挪）戈尔夫（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "golfs"
+    },
+    {
+      "name": "现在分词",
+      "value": "golfing"
+    },
+    {
+      "name": "过去式",
+      "value": "golfed"
+    },
+    {
+      "name": "过去分词",
+      "value": "golfed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His favourite pastime is golf.",
+      "zh": "他最喜欢的消遣是打高尔夫。"
+    },
+    {
+      "en": "We had lunch at the golf club.",
+      "zh": "我们在高尔夫球俱乐部吃的午饭。"
+    },
+    {
+      "en": "She had become addicted to golf.",
+      "zh": "她已经对高尔夫球入迷了。"
+    }
+  ],
+  "synonyms": []
+}

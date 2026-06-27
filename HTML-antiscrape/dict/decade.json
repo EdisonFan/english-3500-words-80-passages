@@ -1,0 +1,44 @@
+{
+  "word": "decade",
+  "found": true,
+  "phonetic_uk": "ˈdekeɪd",
+  "phonetic_us": "ˈdekeɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=decade&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=decade&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "十年，十年期；十进"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "decades"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Women have become more assertive in the past decade.",
+      "zh": "妇女在过去十年已变得更坚定自信。"
+    },
+    {
+      "en": "At least one supernova occurs per decade in our galaxy.",
+      "zh": "每十年至少有一颗超新星在我们的银河系中出现。"
+    },
+    {
+      "en": "Her husband had played the trombone in the band for a decade.",
+      "zh": "她丈夫已在这支乐队吹了十年的长号。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "十年，十年期；十",
+      "words": [
+        "decennium",
+        "dix"
+      ]
+    }
+  ]
+}

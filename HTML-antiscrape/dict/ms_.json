@@ -1,0 +1,40 @@
+{
+  "word": "Ms.",
+  "found": true,
+  "phonetic_uk": "mɪz; məz",
+  "phonetic_us": "mɪz; məz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=Ms.&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=Ms.&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "女士；小姐"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The court could issue a citation and fine Ms. Robbins.",
+      "zh": "法庭可以发出传票并且罚罗宾斯女士的款。"
+    },
+    {
+      "en": "Ms. Nova is the proud possessor of a truly incredible voice.",
+      "zh": "诺娃女士引以为豪是她拥有一副美妙动听的嗓音。"
+    },
+    {
+      "en": "It somehow seems hardly surprising that Ms. Player is now his sworn enemy.",
+      "zh": "看来，普莱耶女士现在成了他不共戴天的仇敌似乎不足为奇了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "女士；小姐",
+      "words": [
+        "Miss",
+        "madam",
+        "senorita"
+      ]
+    }
+  ]
+}

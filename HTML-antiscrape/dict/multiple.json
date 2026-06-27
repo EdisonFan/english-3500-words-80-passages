@@ -1,0 +1,57 @@
+{
+  "word": "multiple",
+  "found": true,
+  "phonetic_uk": "ˈmʌltɪp(ə)l",
+  "phonetic_us": "ˈmʌltɪp(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=multiple&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=multiple&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "多个的，多种的；多人共有的；影响身体许多部位的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "倍数；<英>连锁商店；（电信）复联，复接"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "multiples"
+    }
+  ],
+  "examples": [
+    {
+      "en": "8 is the lowest common multiple of 8 and 4.",
+      "zh": "8是8和4的最小公倍数。"
+    },
+    {
+      "en": "She suffered multiple lacerations to the face.",
+      "zh": "她的面部多处被划伤。"
+    },
+    {
+      "en": "This digital audio player supports multiple formats.",
+      "zh": "这台数字音频播放器支持多种格式。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "多重的；多样的；许多的",
+      "words": [
+        "numerous",
+        "many",
+        "hundred"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[数]倍数；[电]并联",
+      "words": [
+        "time",
+        "paralleling"
+      ]
+    }
+  ]
+}

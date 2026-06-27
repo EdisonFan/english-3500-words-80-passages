@@ -1,0 +1,38 @@
+{
+  "word": "balloons",
+  "found": true,
+  "phonetic_uk": "bəˈluːn",
+  "phonetic_us": "bəˈluːnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=balloons&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=balloons&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "气球；轻气球（balloon 的复数形式）"
+    },
+    {
+      "pos": "vt.",
+      "meaning": "乘气球上升（balloon 的三单形式）"
+    },
+    {
+      "pos": "vi.",
+      "meaning": "如气球般膨胀（balloon 的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Huge balloons bobbed about in the sky above.",
+      "zh": "巨大的气球在上空上下浮动。"
+    },
+    {
+      "en": "10 000 balloons were released at the ceremony.",
+      "zh": "典礼上放飞了一万个气球。"
+    },
+    {
+      "en": "The room was decked out in flowers and balloons.",
+      "zh": "屋子里装点着鲜花和气球。"
+    }
+  ],
+  "synonyms": []
+}

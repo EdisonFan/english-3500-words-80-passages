@@ -1,0 +1,35 @@
+{
+  "word": "basket",
+  "found": true,
+  "phonetic_uk": "ˈbɑːskɪt",
+  "phonetic_us": "ˈbæskɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=basket&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=basket&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "篮子；一篮的量；（篮球运动的）篮；投篮得分"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "baskets"
+    }
+  ],
+  "examples": [
+    {
+      "en": "There was a complimentary basket of fruit in our room.",
+      "zh": "我们房间里有一篮免费赠送的水果。"
+    },
+    {
+      "en": "He saw the dog's twitching nose poke out of the basket.",
+      "zh": "他看见那条狗颤搐的鼻子从篮子里露出来。"
+    },
+    {
+      "en": "The dollar has fallen 6.5 percent this year against a basket of currencies from its largest trading partners.",
+      "zh": "美元对其最大贸易伙伴们的一篮子货币今年贬值了6.5%。"
+    }
+  ],
+  "synonyms": []
+}

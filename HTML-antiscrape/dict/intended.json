@@ -1,0 +1,64 @@
+{
+  "word": "intended",
+  "found": true,
+  "phonetic_uk": "ɪnˈtendɪd",
+  "phonetic_us": "ɪnˈtendɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=intended&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=intended&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "预期的，打算中的；为……打算（或设计）的；故意的，蓄意的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<非正式>未婚夫，未婚妻"
+    },
+    {
+      "pos": "v.",
+      "meaning": "意指，意思是；计划，打算；准备，预留（作某种用途或给某人用）（intend 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "It didn't turn out like I intended.",
+      "zh": "这结果与我的本意相悖。"
+    },
+    {
+      "en": "The article was intended to provoke discussion.",
+      "zh": "这篇文章旨在引发讨论。"
+    },
+    {
+      "en": "The book is intended for children.",
+      "zh": "这本书是为儿童写的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "故意的，有意的；打算中的",
+      "words": [
+        "studied",
+        "designed",
+        "conscious",
+        "minded"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "已订婚者",
+      "words": [
+        "betrothed"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "打算；准备（intend的过去分词）",
+      "words": [
+        "planned",
+        "prepared"
+      ]
+    }
+  ]
+}

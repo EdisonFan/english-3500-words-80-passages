@@ -1,0 +1,78 @@
+{
+  "word": "claim",
+  "found": true,
+  "phonetic_uk": "kleɪm",
+  "phonetic_us": "kleɪm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=claim&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=claim&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "声称，断言；索取，索要（钱）；要求（拥有），认领；使丧生，致命；赢得，获得；值得，需要（花时间或精力）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "声称，断言；索要，索赔；权利，所有权；要求得到的土地使用权；专利新特征申明"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "claims"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "claims"
+    },
+    {
+      "name": "现在分词",
+      "value": "claiming"
+    },
+    {
+      "name": "过去式",
+      "value": "claimed"
+    },
+    {
+      "name": "过去分词",
+      "value": "claimed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The judge allowed my claim.",
+      "zh": "法官同意我的要求。"
+    },
+    {
+      "en": "Critics claim the trucks are unsafe.",
+      "zh": "批评者声称这些卡车很危险。"
+    },
+    {
+      "en": "She is still pressing her claim for compensation.",
+      "zh": "她仍然坚持索赔。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "要求；声称；需要；认领",
+      "words": [
+        "exact",
+        "say",
+        "lack",
+        "desire",
+        "call for"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "要求；声称；[贸易]索赔；断言；值得",
+      "words": [
+        "requirement",
+        "do",
+        "assurance",
+        "need",
+        "desire"
+      ]
+    }
+  ]
+}

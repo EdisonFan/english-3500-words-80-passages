@@ -1,0 +1,46 @@
+{
+  "word": "creating",
+  "found": true,
+  "phonetic_uk": "kriːˈeɪtɪŋ",
+  "phonetic_us": "kriˈeɪtɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=creating&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=creating&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "创造（create 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We want to see that everyone is onside for creating change.",
+      "zh": "我们想看到的是每一个人都支持创造改变。"
+    },
+    {
+      "en": "He said this would prevent companies from creating new jobs.",
+      "zh": "他说这将阻止各公司创造新的职位。"
+    },
+    {
+      "en": "The building work is creating constant noise, dust and disturbance.",
+      "zh": "建筑施工不断制造噪音、灰尘和干扰。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "生成的",
+      "words": [
+        "generated",
+        "fruiting"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "创造（creat的现在分词）",
+      "words": [
+        "inventing"
+      ]
+    }
+  ]
+}

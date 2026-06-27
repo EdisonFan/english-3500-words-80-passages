@@ -1,0 +1,45 @@
+{
+  "word": "colleague",
+  "found": true,
+  "phonetic_uk": "ˈkɒliːɡ",
+  "phonetic_us": "ˈkɑːliːɡ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=colleague&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=colleague&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "同事，同僚"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "colleagues"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They rated him highly as a colleague.",
+      "zh": "作为同事，他们对他评价甚高。"
+    },
+    {
+      "en": "He grimaced and looked narrowly at his colleague.",
+      "zh": "他做了个鬼脸，然后仔细地看着同事。"
+    },
+    {
+      "en": "\"She's badly in need of some TLC,\" said one colleague.",
+      "zh": "“她迫切需要一些温暖的关怀，”一位同事说。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "同事，同僚",
+      "words": [
+        "brother",
+        "fellow",
+        "associate"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "word": "concept",
+  "found": true,
+  "phonetic_uk": "ˈkɒnsept",
+  "phonetic_us": "ˈkɑːnsept",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=concept&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=concept&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "概念，观念"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "（围绕）某主题的；为表达一种想法而创造的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<非正式>想象，设想"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "concepts"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "concepts"
+    },
+    {
+      "name": "现在分词",
+      "value": "concepting"
+    },
+    {
+      "name": "过去式",
+      "value": "concepted"
+    },
+    {
+      "name": "过去分词",
+      "value": "concepted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Ten years on, the original concept was wearing well.",
+      "zh": "十年过去，最初的观念依然适用。"
+    },
+    {
+      "en": "The concept of saturation marketing makes perfect sense.",
+      "zh": "饱和营销的概念很有道理。"
+    },
+    {
+      "en": "It's not a question of some abstract concept of justice.",
+      "zh": "这不是一个有关正义的某一抽象概念的问题。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "观念，概念",
+      "words": [
+        "idea",
+        "sense",
+        "notion",
+        "construct"
+      ]
+    }
+  ]
+}

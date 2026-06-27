@@ -1,0 +1,40 @@
+{
+  "word": "initially",
+  "found": true,
+  "phonetic_uk": "ɪˈnɪʃəli",
+  "phonetic_us": "ɪˈnɪʃəli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=initially&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=initially&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "开始，最初"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The chick initially has no fear of man.",
+      "zh": "小鸡最初不怕人。"
+    },
+    {
+      "en": "I initially dismissed the idea out of hand.",
+      "zh": "我起初不假思索地一口否决了这个主意。"
+    },
+    {
+      "en": "Initially the system was offline for a number of days.",
+      "zh": "最初系统有几天没有联网。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "最初，首先；开头",
+      "words": [
+        "originally",
+        "firstly",
+        "primarily"
+      ]
+    }
+  ]
+}

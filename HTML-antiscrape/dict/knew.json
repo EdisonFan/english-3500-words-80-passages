@@ -1,0 +1,42 @@
+{
+  "word": "knew",
+  "found": true,
+  "phonetic_uk": "njuː",
+  "phonetic_us": "nuː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=knew&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=knew&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "知道；认识；记得（know 的过去式）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Knew）人名；（英）纽"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They knew they had been rumbled.",
+      "zh": "他们知道自己已经被识破了。"
+    },
+    {
+      "en": "I knew where he was hiding.",
+      "zh": "我知道他藏在哪里。"
+    },
+    {
+      "en": "If only I knew her name.",
+      "zh": "我要是知道她的名字就好了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "知道；认识；记得（know的过去式）",
+      "words": [
+        "wist"
+      ]
+    }
+  ]
+}

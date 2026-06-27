@@ -1,0 +1,47 @@
+{
+  "word": "departure",
+  "found": true,
+  "phonetic_uk": "dɪˈpɑːtʃə(r)",
+  "phonetic_us": "dɪˈpɑːrtʃər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=departure&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=departure&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "背离；离开，启程"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "departures"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His departure passed unnoticed.",
+      "zh": "他神不知、鬼不觉地离开了。"
+    },
+    {
+      "en": "It was a radical departure from tradition.",
+      "zh": "这从根本上违背了传统。"
+    },
+    {
+      "en": "His departure, in fact, went almost unremarked.",
+      "zh": "事实上，他的离去几乎没被注意到。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "离开；出发；违背",
+      "words": [
+        "leaving",
+        "starting",
+        "violation",
+        "breach",
+        "quit"
+      ]
+    }
+  ]
+}

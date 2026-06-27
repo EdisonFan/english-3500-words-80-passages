@@ -1,0 +1,96 @@
+{
+  "word": "alert",
+  "found": true,
+  "phonetic_uk": "əˈlɜːt",
+  "phonetic_us": "əˈlɜːrt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=alert&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=alert&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "警惕的，警觉的；机敏的，敏捷的；意识到，注意到（alert to）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "向……报警，使警觉；提示，提醒（某人）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "警报，警示；警戒，警惕；（电子设备的）提示信号；警戒期"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Alert）（美、德、俄、西、印）阿莱尔特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "alerts"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "alerts"
+    },
+    {
+      "name": "现在分词",
+      "value": "alerting"
+    },
+    {
+      "name": "过去式",
+      "value": "alerted"
+    },
+    {
+      "name": "过去分词",
+      "value": "alerted"
+    },
+    {
+      "name": "比较级",
+      "value": "more alert"
+    },
+    {
+      "name": "最高级",
+      "value": "most alert"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The bank is alert to the danger.",
+      "zh": "该银行对这种危险有警觉。"
+    },
+    {
+      "en": "Her whole bearing was alert.",
+      "zh": "她整个人保持着戒备状态。"
+    },
+    {
+      "en": "We all have to stay alert.",
+      "zh": "我们都必须保持警觉。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "警告；使警觉，使意识到",
+      "words": [
+        "alarm",
+        "warn"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "[军]警惕的，警觉的；留心的",
+      "words": [
+        "vigilant",
+        "precautious"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[军]警戒，警惕；警报",
+      "words": [
+        "guard",
+        "vigilance"
+      ]
+    }
+  ]
+}

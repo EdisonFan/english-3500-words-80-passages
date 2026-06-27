@@ -1,0 +1,42 @@
+{
+  "word": "kids",
+  "found": true,
+  "phonetic_uk": "kidz",
+  "phonetic_us": "kɪdz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=kids&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=kids&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（非正式）小孩；（非正式）年轻人；小山羊，小山羊皮革；（尤指水手食堂盛格罗酒或配额食物用的）小木桶（kid 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "拿……开玩笑；（善意地）取笑；（山羊）产羔；欺骗（kid 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She spoils those kids of hers.",
+      "zh": "她那几个孩子给她宠坏了。"
+    },
+    {
+      "en": "Will you kids just behave!",
+      "zh": "孩子们，规矩点！"
+    },
+    {
+      "en": "Kids would rather play than study.",
+      "zh": "孩子们宁愿玩而不愿学习。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "开玩笑；产仔；欺骗（kid的三单形式）",
+      "words": [
+        "tricks"
+      ]
+    }
+  ]
+}

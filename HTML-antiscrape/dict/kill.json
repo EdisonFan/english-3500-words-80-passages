@@ -1,0 +1,83 @@
+{
+  "word": "kill",
+  "found": true,
+  "phonetic_uk": "kɪl",
+  "phonetic_us": "kɪl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=kill&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=kill&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "杀死；扼杀，终止；使痛苦，折磨；使减轻（疼痛）；消磨（时间），打发（时光）；使笑得前仰后合；（用开关）关闭；从文件（或计算机）中删除（行，段，文件）；（英式足球或其他球类比赛）停（球）；扣（球）；中和，抵消（效果，性质）；喝光（一瓶酒）；使倾倒，使折服"
+    },
+    {
+      "pos": "n.",
+      "meaning": "杀死，捕杀；被捕杀的动物，猎物；（敌机、敌潜水艇等的）击落，击沉，撞毁"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Kill）（德）基尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "kills"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "kills"
+    },
+    {
+      "name": "现在分词",
+      "value": "killing"
+    },
+    {
+      "name": "过去式",
+      "value": "killed"
+    },
+    {
+      "name": "过去分词",
+      "value": "killed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Is it ever right to kill?",
+      "zh": "有没有什么情况下，杀人是对的？"
+    },
+    {
+      "en": "Chlorine is added to kill bacteria.",
+      "zh": "加入氯以杀菌。"
+    },
+    {
+      "en": "Chlorine is widely used to kill germs.",
+      "zh": "氯广泛用于杀菌。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "杀死；扼杀；使终止；抵消",
+      "words": [
+        "drop",
+        "offset"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "杀死",
+      "words": [
+        "strike down",
+        "push about"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "杀戮；屠杀",
+      "words": [
+        "bloodshed"
+      ]
+    }
+  ]
+}

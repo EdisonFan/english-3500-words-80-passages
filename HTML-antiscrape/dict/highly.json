@@ -1,0 +1,42 @@
+{
+  "word": "highly",
+  "found": true,
+  "phonetic_uk": "ˈhaɪli",
+  "phonetic_us": "ˈhaɪli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=highly&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=highly&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "极其，非常；高度地，高水平地；钦佩地，赞赏地；在高处，地位高"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Flu is highly infectious.",
+      "zh": "流感的传染性很高。"
+    },
+    {
+      "en": "He's a highly intelligent man.",
+      "zh": "他是一个很有才智的人。"
+    },
+    {
+      "en": "Cigarettes are highly addictive.",
+      "zh": "香烟非常容易使人上瘾。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "高度地；非常；非常赞许地",
+      "words": [
+        "extremely",
+        "badly",
+        "greatly",
+        "too",
+        "most"
+      ]
+    }
+  ]
+}

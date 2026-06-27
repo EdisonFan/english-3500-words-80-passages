@@ -1,0 +1,56 @@
+{
+  "word": "devote",
+  "found": true,
+  "phonetic_uk": "dɪˈvəʊt",
+  "phonetic_us": "dɪˈvoʊt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=devote&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=devote&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "献身，致力；用于"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "devotes"
+    },
+    {
+      "name": "现在分词",
+      "value": "devoting"
+    },
+    {
+      "name": "过去式",
+      "value": "devoted"
+    },
+    {
+      "name": "过去分词",
+      "value": "devoted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The original intention was to devote three months to the project.",
+      "zh": "最初的计划是在这个项目上投入三个月的时间。"
+    },
+    {
+      "en": "It can't be denied that we need to devote more resources to this problem.",
+      "zh": "无可否认，我们必须投入更多的资源来解决这个问题。"
+    },
+    {
+      "en": "We devote several days to the exploration of the magnificent Maya sites of Copan.",
+      "zh": "我们投入了几天时间在科潘宏伟的玛雅遗址考察。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "致力于；奉献",
+      "words": [
+        "commit oneself to",
+        "bend oneself to"
+      ]
+    }
+  ]
+}

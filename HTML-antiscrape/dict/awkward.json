@@ -1,0 +1,39 @@
+{
+  "word": "awkward",
+  "found": true,
+  "phonetic_uk": "ˈɔːkwəd",
+  "phonetic_us": "ˈɔːkwərd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=awkward&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=awkward&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "令人尴尬的，使人难堪的；难对付的，难处理的；局促不安的；不方便的；笨��的，不雅观的；不舒适的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "15 is an awkward age.",
+      "zh": "15岁是个尴尬的年纪。"
+    },
+    {
+      "en": "Amy made an awkward gesture with her hands.",
+      "zh": "艾米用双手做了一个笨拙的手势。"
+    },
+    {
+      "en": "There was an awkward silence.",
+      "zh": "一阵令人尴尬的沉默。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "尴尬的；笨拙的；棘手的；不合适的",
+      "words": [
+        "testing",
+        "embarrassed"
+      ]
+    }
+  ]
+}

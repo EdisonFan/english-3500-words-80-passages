@@ -1,0 +1,64 @@
+{
+  "word": "challenge",
+  "found": true,
+  "phonetic_uk": "ˈtʃælɪndʒ",
+  "phonetic_us": "ˈtʃælɪndʒ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=challenge&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=challenge&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "挑战，难题；挑战书，比赛邀请；质疑，质询；喝停盘查"
+    },
+    {
+      "pos": "v.",
+      "meaning": "挑战，向……下战书；质疑，拒绝接受；盘问，查问；考验"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "challenges"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "challenges"
+    },
+    {
+      "name": "现在分词",
+      "value": "challenging"
+    },
+    {
+      "name": "过去式",
+      "value": "challenged"
+    },
+    {
+      "name": "过去分词",
+      "value": "challenged"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Bill was stimulated by the challenge.",
+      "zh": "比尔受到该挑战的激励。"
+    },
+    {
+      "en": "She beat off a challenge to her leadership.",
+      "zh": "她战胜了对她的领导地位的挑战。"
+    },
+    {
+      "en": "I hope that he proves equal to the challenge.",
+      "zh": "我希望他最后能应付这一挑战。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "挑战；怀疑",
+      "words": [
+        "dare",
+        "doubt"
+      ]
+    }
+  ]
+}

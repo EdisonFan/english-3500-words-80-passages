@@ -1,0 +1,43 @@
+{
+  "word": "imagined",
+  "found": true,
+  "phonetic_uk": "ɪˈmædʒɪnd",
+  "phonetic_us": "ɪˈmædʒɪnd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=imagined&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=imagined&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "想象（imagine 的过去分词）；猜测"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "想象的；构想的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She imagined walking into the office and handing in her resignation.",
+      "zh": "她想象着自己走进办公室，递上辞呈。"
+    },
+    {
+      "en": "Not speaking the language proved to be a bigger handicap than I'd imagined.",
+      "zh": "事实证明不会讲这种语言造成的障碍比我所想象的大。"
+    },
+    {
+      "en": "She finds that the sleepy town she moves to isn't the rural idyll she imagined.",
+      "zh": "她发现，她要搬入的这个宁静小镇并不是自己想象的那种乡村田园。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "想象的；构想的",
+      "words": [
+        "ideal",
+        "conceptional"
+      ]
+    }
+  ]
+}

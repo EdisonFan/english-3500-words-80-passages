@@ -1,0 +1,34 @@
+{
+  "word": "bigger",
+  "found": true,
+  "phonetic_uk": "bɪgə(r)",
+  "phonetic_us": "bɪgə(r)",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bigger&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bigger&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "更大的（big 的比较级）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Bigger）人名；（英）比格"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The bigger boys started scrapping.",
+      "zh": "年龄较大的男孩打了起来。"
+    },
+    {
+      "en": "We changed the car for a bigger one.",
+      "zh": "我们换了一辆较大的车。"
+    },
+    {
+      "en": "The company is growing bigger all the time.",
+      "zh": "这家公司在不断地扩大。"
+    }
+  ],
+  "synonyms": []
+}

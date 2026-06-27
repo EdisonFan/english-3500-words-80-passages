@@ -1,0 +1,39 @@
+{
+  "word": "illustrates",
+  "found": true,
+  "phonetic_uk": "ˈɪləstreɪts",
+  "phonetic_us": "ˈɪləstreɪts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=illustrates&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=illustrates&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "阐明；举例说明（illustrate 的三单形式）；给……加插图"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The incident illustrates the need for better security measures.",
+      "zh": "这次事件说明了加强安全措施的必要。"
+    },
+    {
+      "en": "The writer illustrates his point by quotation from a number of sources.",
+      "zh": "作者旁征博引以阐明自己的观点。"
+    },
+    {
+      "en": "Each of the eight chapters in this book illustrates this phenomenon.",
+      "zh": "本书的八个章节都阐述了这一现象。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "阐明；举例说明（illustrate的三单形式）；给…加插图",
+      "words": [
+        "examples",
+        "instances"
+      ]
+    }
+  ]
+}

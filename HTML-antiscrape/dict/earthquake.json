@@ -1,0 +1,44 @@
+{
+  "word": "earthquake",
+  "found": true,
+  "phonetic_uk": "ˈɜːθkweɪk",
+  "phonetic_us": "ˈɜːrθkweɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=earthquake&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=earthquake&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "地震；大动荡"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "earthquakes"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The town was rocked by an earthquake.",
+      "zh": "小镇受到地震的剧烈震动。"
+    },
+    {
+      "en": "Whole villages were wiped out by the earthquake.",
+      "zh": "地震把整座整座的村庄夷为平地。"
+    },
+    {
+      "en": "The earthquake registered 3 on the Richter scale.",
+      "zh": "地震震级为里氏3级。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[地震]地震；大动荡",
+      "words": [
+        "temblor",
+        "seismic event"
+      ]
+    }
+  ]
+}

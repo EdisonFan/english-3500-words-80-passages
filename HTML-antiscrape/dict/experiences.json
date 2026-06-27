@@ -1,0 +1,49 @@
+{
+  "word": "experiences",
+  "found": true,
+  "phonetic_uk": "ɪkˈspɪəriənsɪz",
+  "phonetic_us": "ɪkˈspɪrɪənsɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=experiences&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=experiences&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "经历（experience 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "经历；体验到（experience 的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "These were horrifying experiences.",
+      "zh": "这些都是令人震惊的经历。"
+    },
+    {
+      "en": "Her experiences had left her bitter and twisted.",
+      "zh": "她的经历使她变得愤愤不平，性情乖僻。"
+    },
+    {
+      "en": "He wrote a book documenting his prison experiences.",
+      "zh": "他写了一本书，记录他的牢狱经历。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "经历（experience的复数）",
+      "words": [
+        "antecedents"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "经历；体验到（experience的三单形式）",
+      "words": [
+        "fares"
+      ]
+    }
+  ]
+}

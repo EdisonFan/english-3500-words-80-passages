@@ -1,0 +1,43 @@
+{
+  "word": "films",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "fɪlmz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=films&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=films&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[电影]电影；薄膜；[感光]胶片（film 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "拍摄（film 的第三人称单数）；以薄膜覆盖"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I can't stomach violent films.",
+      "zh": "我不喜欢暴力片。"
+    },
+    {
+      "en": "He has now appeared in sixty odd films.",
+      "zh": "他如今已在六十部左右的电影中露过面。"
+    },
+    {
+      "en": "Lindsay, like his films, is hard to categorize.",
+      "zh": "就像他演的电影难于归类一样，很难说林赛属于哪一类演员。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "电影；薄膜；胶片（film的复数）",
+      "words": [
+        "movies",
+        "membranes"
+      ]
+    }
+  ]
+}

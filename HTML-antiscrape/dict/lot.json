@@ -1,0 +1,91 @@
+{
+  "word": "lot",
+  "found": true,
+  "phonetic_uk": "lɒt",
+  "phonetic_us": "lɑːt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=lot&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=lot&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "(常sing.) 一群，一批；小块土地；电影摄制场；（汽车经销处的）停车场；拍卖品；<英>全体成员；（尤指不太好的）命运, 处境；签，阄；一群，一批"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（拍卖前）将（商品）分成批组"
+    },
+    {
+      "pos": "pron.",
+      "meaning": "大量，许多；所有，全部"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "很多地，非常（a lot）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "lots"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "lots"
+    },
+    {
+      "name": "现在分词",
+      "value": "lotting"
+    },
+    {
+      "name": "过去式",
+      "value": "lotted"
+    },
+    {
+      "name": "过去分词",
+      "value": "lotted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I listened to a lot of people handing out a lot of advice.",
+      "zh": "我听了许多人给予的很多忠告。"
+    },
+    {
+      "en": "Gosh, there's a lot of noise.",
+      "zh": "天哪，有好多噪音呀。"
+    },
+    {
+      "en": "I'm feeling a whole lot better.",
+      "zh": "我觉得好得多了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "命运；一块地；一堆；抽签；份额",
+      "words": [
+        "fate",
+        "destiny",
+        "fortune",
+        "portion",
+        "crowd"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "划分",
+      "words": [
+        "plot",
+        "to divide"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "抽签；抓阄",
+      "words": [
+        "draw straws",
+        "draw cuts"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "word": "botanical",
+  "found": true,
+  "phonetic_uk": "bəˈtænɪk(ə)l",
+  "phonetic_us": "bəˈtænɪk(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=botanical&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=botanical&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "植物（学）的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "植物制剂"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "botanicals"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The area is of great botanical interest.",
+      "zh": "该地区很有植物学研究价值。"
+    },
+    {
+      "en": "200,000 specimens of fungus are kept at the Komarov Botanical Institute.",
+      "zh": "20万个真菌标本被保存在科马罗夫植物研究所。"
+    },
+    {
+      "en": "Plants are grouped into botanical \"families\" that have certain characteristics in common.",
+      "zh": "具有某些共同特点的植物被归为植物学的科。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "植物学的",
+      "words": [
+        "phytological"
+      ]
+    }
+  ]
+}

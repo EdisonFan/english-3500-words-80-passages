@@ -1,0 +1,50 @@
+{
+  "word": "implementing",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˈɪmplɪmentɪŋ; ˈɪmpləmentɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=implementing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=implementing&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "执行，贯彻；为……提供工具（implement 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "What should business leaders do before implementing new IT initiatives?",
+      "zh": "商业领袖在实施新的信息技术计划之前应该做什么？"
+    },
+    {
+      "en": "Nevertheless, implementing the plan will probably not reduce the money going to Aroca's schools.",
+      "zh": "然而，实施这项计划可能不会减少拨给阿罗卡学校的资金。"
+    },
+    {
+      "en": "The retail giant said the poor financial performance this year has pushed it to begin implementing $400 million in cost-cutting measures.",
+      "zh": "零售巨头说，今年糟糕的财务表现促使它开始实施4亿美元的成本削减措施。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "实施，执行；实现",
+      "words": [
+        "enforcement",
+        "execution",
+        "realization",
+        "administration",
+        "completion",
+        "performance"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "贯彻，执行（implement的现在分词）",
+      "words": [
+        "executing"
+      ]
+    }
+  ]
+}

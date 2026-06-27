@@ -1,0 +1,80 @@
+{
+  "word": "monkey",
+  "found": true,
+  "phonetic_uk": "ˈmʌŋki",
+  "phonetic_us": "ˈmʌŋki",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=monkey&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=monkey&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "猴子；顽皮儿童，淘气鬼；受支配的人，受控制的人；<英，非正式>五百英镑；锤式打桩机；<美，非正式>毒瘾"
+    },
+    {
+      "pos": "v.",
+      "meaning": "胡闹，捣蛋；<旧>模仿，学……的样子"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "monkeys"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "monkeys"
+    },
+    {
+      "name": "现在分词",
+      "value": "monkeying"
+    },
+    {
+      "name": "过去式",
+      "value": "monkeyed"
+    },
+    {
+      "name": "过去分词",
+      "value": "monkeyed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You cheeky monkey!",
+      "zh": "你这厚脸皮的猴崽子！"
+    },
+    {
+      "en": "The woolly spider monkey is the largest primate in the Americas.",
+      "zh": "绒毛蛛猴是美洲最大的灵长目动物。"
+    },
+    {
+      "en": "A monkey suddenly appeared!",
+      "zh": "有一只猴子突然间出现！"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "猴子；顽童",
+      "words": [
+        "urchin",
+        "simian"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "胡闹；捣蛋",
+      "words": [
+        "horse around",
+        "mess about"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "嘲弄",
+      "words": [
+        "guy",
+        "make game of"
+      ]
+    }
+  ]
+}

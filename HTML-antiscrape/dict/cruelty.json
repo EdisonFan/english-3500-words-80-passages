@@ -1,0 +1,44 @@
+{
+  "word": "cruelty",
+  "found": true,
+  "phonetic_uk": "ˈkruːəlti",
+  "phonetic_us": "ˈkruːəlti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cruelty&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cruelty&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "残酷，残忍；不公，虐待"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "cruelties"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Cruelty was quite alien to him.",
+      "zh": "他绝无残忍之心。"
+    },
+    {
+      "en": "Thomas Rane chastised Peters for his cruelty.",
+      "zh": "托马斯·瑞训斥了彼得斯的残忍。"
+    },
+    {
+      "en": "The deliberate cruelty of his words cut her like a knife.",
+      "zh": "他故意说的残酷无情的话对她像刀割一样。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "残酷；残忍；残酷的行为",
+      "words": [
+        "fellness",
+        "rigorousness"
+      ]
+    }
+  ]
+}

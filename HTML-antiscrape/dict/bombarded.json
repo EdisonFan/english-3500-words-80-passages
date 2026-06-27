@@ -1,0 +1,34 @@
+{
+  "word": "bombarded",
+  "found": true,
+  "phonetic_uk": "bɒmˈbɑːdɪd",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bombarded&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bombarded&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "轰炸（bombard 的过去分词）；炮击；向……连续提问题"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "被轰击的；频频不断的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We have been bombarded with letters of complaint.",
+      "zh": "我们接二连三收到了大批的投诉信件。"
+    },
+    {
+      "en": "He bombarded Catherine with questions to which he should have known the answers.",
+      "zh": "他不停地追问凯瑟琳他本该知道答案的问题。"
+    },
+    {
+      "en": "They were bombarded by more than 100 representatives firing questions on pollution.",
+      "zh": "他们遭到了一百多位代表就污染问题连珠炮似的发问。"
+    }
+  ],
+  "synonyms": []
+}

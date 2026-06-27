@@ -1,0 +1,86 @@
+{
+  "word": "bend",
+  "found": true,
+  "phonetic_uk": "bend",
+  "phonetic_us": "bend",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bend&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bend&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "弯曲（身体关节）；（路）转弯；歪曲（事实）；篡改；屈从；系，缚（帆，缆绳）；使弯曲，弄弯"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（道路或河流的）拐弯，弯道；（身体的）弯曲（动作）；（尤指潜水员的）潜涵病，减压病（the bends）；绑结；（纹章盾形）左上方至右下方的对角斜纹"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Bend）（美、丹、德）本德（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "bends"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "bends"
+    },
+    {
+      "name": "现在分词",
+      "value": "bending"
+    },
+    {
+      "name": "过去式",
+      "value": "bent"
+    },
+    {
+      "name": "过去分词",
+      "value": "bent"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It hurts when I bend my knee.",
+      "zh": "我的膝盖一弯就疼。"
+    },
+    {
+      "en": "Black faded on the final bend.",
+      "zh": "布莱克在最后一个弯道处速度慢了下来。"
+    },
+    {
+      "en": "We rounded the bend at high speed.",
+      "zh": "我们高速驶过这段弯路。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "使弯曲；使屈服；使致力；使朝向",
+      "words": [
+        "wind",
+        "curve"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "弯曲，转弯；屈服；倾向；专心于",
+      "words": [
+        "tend",
+        "affect"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "弯曲",
+      "words": [
+        "curve",
+        "give",
+        "winding",
+        "inflection"
+      ]
+    }
+  ]
+}

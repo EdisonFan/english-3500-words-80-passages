@@ -1,0 +1,72 @@
+{
+  "word": "next",
+  "found": true,
+  "phonetic_uk": "nekst",
+  "phonetic_us": "nekst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=next&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=next&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "下一个的，接下来的；（时间）紧接着来到的，下次的；紧邻的；其他的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "紧接着，随后；仅次于；下次，再次；（用于询问，表示吃惊或困惑）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "下一个人或事件"
+    },
+    {
+      "pos": "det.",
+      "meaning": "下一（年、月、星期等）"
+    },
+    {
+      "pos": "pron.",
+      "meaning": "下一个"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We're moving house next month.",
+      "zh": "我们下个月搬家。"
+    },
+    {
+      "en": "When is your next appointment?",
+      "zh": "你下一次预约时间是什么时候？"
+    },
+    {
+      "en": "We commence building next week.",
+      "zh": "我们下周破土动工。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "然后；下次；其次",
+      "words": [
+        "secondly",
+        "then",
+        "afterwards"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "下一个的；其次的；贴近的",
+      "words": [
+        "following",
+        "posterior"
+      ]
+    },
+    {
+      "pos": "prep.",
+      "meaning": "靠近；居于…之后",
+      "words": [
+        "near",
+        "anigh"
+      ]
+    }
+  ]
+}

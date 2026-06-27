@@ -1,0 +1,44 @@
+{
+  "word": "accident",
+  "found": true,
+  "phonetic_uk": "ˈæksɪdənt",
+  "phonetic_us": "ˈæksɪdənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=accident&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=accident&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "交通事故，车祸；（不幸的）意外遭遇，不测事件；意外，偶然的事；运气，机遇；大便（或小便）失禁；（亚里士多德思想中的）非本质属性"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "accidents"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It was an unfortunate accident.",
+      "zh": "那是一次不幸的事故。"
+    },
+    {
+      "en": "It was just a tragic accident.",
+      "zh": "这只是一场悲惨的事故。"
+    },
+    {
+      "en": "The accident happened at 3 p.m.",
+      "zh": "事故发生于下午3点钟。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[安全]事故；意外；[法]意外事件；机遇",
+      "words": [
+        "occurring",
+        "slip"
+      ]
+    }
+  ]
+}

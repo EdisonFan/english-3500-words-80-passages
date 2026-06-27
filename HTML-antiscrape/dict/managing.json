@@ -1,0 +1,54 @@
+{
+  "word": "managing",
+  "found": true,
+  "phonetic_uk": "ˈmænɪdʒɪŋ",
+  "phonetic_us": "ˈmænɪdʒɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=managing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=managing&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "主管的；节省的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "管理，处理；操纵，控制；设法做到，勉力完成（manage 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She's the Managing Director's PA.",
+      "zh": "她是总经理的私人助理。"
+    },
+    {
+      "en": "She's hopeless at managing people.",
+      "zh": "她对人事管理一窍不通。"
+    },
+    {
+      "en": "We need people who are good at managing.",
+      "zh": "我们需要擅长管理的人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[管理]管理的；节约的；爱管闲事的",
+      "words": [
+        "administrative",
+        "regulatory",
+        "economical",
+        "saving"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "管理；设法对付（manage的ing形式）",
+      "words": [
+        "engineering",
+        "controlling",
+        "guiding"
+      ]
+    }
+  ]
+}

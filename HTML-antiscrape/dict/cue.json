@@ -1,0 +1,69 @@
+{
+  "word": "cue",
+  "found": true,
+  "phonetic_uk": "kjuː",
+  "phonetic_us": "kjuː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cue&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cue&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "暗示，提示；（戏剧或电影中的）尾白，提示；（台球等的）球杆；线索；选听（或选看）键"
+    },
+    {
+      "pos": "v.",
+      "meaning": "提示，暗示；用球杆击球"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Cue）（西）库埃（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "cues"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "cues"
+    },
+    {
+      "name": "现在分词",
+      "value": "cueing或cuing"
+    },
+    {
+      "name": "过去式",
+      "value": "cued"
+    },
+    {
+      "name": "过去分词",
+      "value": "cued"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Can you cue me when you want me to begin speaking?",
+      "zh": "你要我开始讲话时能给我暗示一下吗？"
+    },
+    {
+      "en": "She stood in the wings and waited for her cue to go on.",
+      "zh": "她站在舞台侧面等待着出场的提示。"
+    },
+    {
+      "en": "He chalked his billiard cue again and again.",
+      "zh": "他一再用白垩粉擦他的球杆尖。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "提示，暗示；线索",
+      "words": [
+        "connotation",
+        "implication",
+        "reminder"
+      ]
+    }
+  ]
+}

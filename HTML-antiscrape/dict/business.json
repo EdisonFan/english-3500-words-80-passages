@@ -1,0 +1,47 @@
+{
+  "word": "business",
+  "found": true,
+  "phonetic_uk": "ˈbɪznəs",
+  "phonetic_us": "ˈbɪznəs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=business&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=business&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "商业，买卖，生意；商务，公事；公司，企业；行业，职业；事务，职责；私事；事情；（顾客对商店的）惠顾；系列事件"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "businesses"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The business seems legit.",
+      "zh": "这笔生意看起来是合法的。"
+    },
+    {
+      "en": "They flew business class.",
+      "zh": "他们乘坐商务舱旅行。"
+    },
+    {
+      "en": "Business was booming.",
+      "zh": "生意兴隆。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "商业；生意；[贸易]交易；事情",
+      "words": [
+        "commerce",
+        "thing",
+        "trade",
+        "affair",
+        "truck"
+      ]
+    }
+  ]
+}

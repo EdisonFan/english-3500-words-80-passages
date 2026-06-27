@@ -1,0 +1,69 @@
+{
+  "word": "instance",
+  "found": true,
+  "phonetic_uk": "ˈɪnstəns",
+  "phonetic_us": "ˈɪnstəns",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=instance&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=instance&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "例子，实例"
+    },
+    {
+      "pos": "v.",
+      "meaning": "举……为例"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "instances"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "instances"
+    },
+    {
+      "name": "现在分词",
+      "value": "instancing"
+    },
+    {
+      "name": "过去式",
+      "value": "instanced"
+    },
+    {
+      "name": "过去分词",
+      "value": "instanced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Can you quote me an instance of when this happened?",
+      "zh": "你能否给我举例说明一下发生这事的情况？"
+    },
+    {
+      "en": "What would you do, for instance, if you found a member of staff stealing?",
+      "zh": "比如说，如果你发现有职员偷东西，你��怎么办？"
+    },
+    {
+      "en": "Malcolm, for instance, works in isolation but I have no doubts about his abilities.",
+      "zh": "例如，马尔科姆虽然一个人独立工作，但我丝毫不怀疑他的能力。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "实例；情况；建议",
+      "words": [
+        "situation",
+        "case",
+        "circumstance",
+        "suggestion",
+        "advice",
+        "proposal",
+        "thing"
+      ]
+    }
+  ]
+}

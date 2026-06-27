@@ -1,0 +1,46 @@
+{
+  "word": "and",
+  "found": true,
+  "phonetic_uk": "ænd; ənd",
+  "phonetic_us": "ænd; ənd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=and&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=and&type=2",
+  "defs": [
+    {
+      "pos": "conj.",
+      "meaning": "和，与；就；而且；但是；然后"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（And）人名；（土、瑞典）安德"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "America and her partners are helping to rebuild roads and bridges and buildings.",
+      "zh": "美国及其伙伴正帮助重建道路、桥梁和楼房。"
+    },
+    {
+      "en": "The room was dim and cool and quiet.",
+      "zh": "这房间昏暗、阴冷且安静。"
+    },
+    {
+      "en": "She is devious and sly and manipulative.",
+      "zh": "她阴险、狡诈，而且爱操纵他人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "conj.",
+      "meaning": "和，与；就；而且；但是；然后",
+      "words": [
+        "granted",
+        "et",
+        "but",
+        "yet",
+        "only"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "word": "finish",
+  "found": true,
+  "phonetic_uk": "ˈfɪnɪʃ",
+  "phonetic_us": "ˈfɪnɪʃ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=finish&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=finish&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "完成，做好；（使）结束；消耗尽（所剩之物）；（比赛中）获得（名次）；（英式足球用语）进球；对（物件）做最后加工；杀死，歼灭；使精疲力竭；<旧>为（少女）进入上流社会做好准备；<非正式>使精疲力竭"
+    },
+    {
+      "pos": "n.",
+      "meaning": "结尾，结局；（赛跑、比赛的）终点；最后精细加工；饰面，饰面材料；（葡萄酒或啤酒的）余味"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "finishes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "finishes"
+    },
+    {
+      "name": "现在分词",
+      "value": "finishing"
+    },
+    {
+      "name": "过去式",
+      "value": "finished"
+    },
+    {
+      "name": "过去分词",
+      "value": "finished"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We reckon to finish by ten.",
+      "zh": "我们预计十点钟以前结束。"
+    },
+    {
+      "en": "Listen, I finish at one.",
+      "zh": "听着，我一点钟结束。"
+    },
+    {
+      "en": "I thought you'd never finish!",
+      "zh": "我还以为你会完成不了呢！"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "完成；结束；用完",
+      "words": [
+        "accomplish",
+        "carry out",
+        "achieve",
+        "perform",
+        "complete"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "完成；结束，终止；终结",
+      "words": [
+        "drop",
+        "determine"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "完成；结束；完美；磨光",
+      "words": [
+        "completion",
+        "achievement",
+        "execution",
+        "perfection",
+        "accomplishment"
+      ]
+    }
+  ]
+}

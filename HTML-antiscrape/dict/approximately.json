@@ -1,0 +1,39 @@
+{
+  "word": "approximately",
+  "found": true,
+  "phonetic_uk": "əˈprɒksɪmətli",
+  "phonetic_us": "əˈprɑːksɪmətli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=approximately&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=approximately&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "大约，大概"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The journey took approximately seven hours.",
+      "zh": "旅程大约花了七个小时。"
+    },
+    {
+      "en": "The flight takes approximately three hours.",
+      "zh": "飞行时间大约需要三小时。"
+    },
+    {
+      "en": "At approximately 11:30 p.m., Pollard finally gave his consent to the search.",
+      "zh": "大约晚上11:30的时候，波拉德终于对搜查予以同意。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "大约，近似地；近于",
+      "words": [
+        "around",
+        "something"
+      ]
+    }
+  ]
+}

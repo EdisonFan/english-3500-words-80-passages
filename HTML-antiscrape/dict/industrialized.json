@@ -1,0 +1,34 @@
+{
+  "word": "industrialized",
+  "found": true,
+  "phonetic_uk": "ɪnˈdʌstriəlaɪzd",
+  "phonetic_us": "ɪnˈdʌstriəlaɪzd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=industrialized&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=industrialized&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "工业化的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使工业化；将……组成产业（industrialize 的过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Industrialized countries must reduce carbon dioxide emissions.",
+      "zh": "工业化国家必须减少二氧化碳的排放。"
+    },
+    {
+      "en": "Rich industrialized countries have sown the seeds of global warming.",
+      "zh": "富裕的工业化国家已经播下了使全球变暖的种子。"
+    },
+    {
+      "en": "Many of the industrialized economies would be pushed into a cycle of stagflation.",
+      "zh": "许多工业化经济将被推入到一个滞胀的循环中。"
+    }
+  ],
+  "synonyms": []
+}

@@ -1,0 +1,44 @@
+{
+  "word": "muddled",
+  "found": true,
+  "phonetic_uk": "ˈmʌdld",
+  "phonetic_us": "ˈmʌdld",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=muddled&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=muddled&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "弄乱；（使）困惑；混淆；懵懵懂懂地白忙；调制（饮料）（muddle 的过去式及过去分词）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "糊涂的，混乱的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He got all muddled up about what went where.",
+      "zh": "他对什么东西放在哪里全然记不清了。"
+    },
+    {
+      "en": "I muddled the dates and arrived a week early.",
+      "zh": "我搞错了日期，早到了一个星期。"
+    },
+    {
+      "en": "I know that I am getting my words muddled up.",
+      "zh": "我知道我现在语无伦次了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "糊涂的；混乱的；头脑昏昏然的",
+      "words": [
+        "confused",
+        "chaotic",
+        "troubled"
+      ]
+    }
+  ]
+}
