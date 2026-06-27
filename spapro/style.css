@@ -943,11 +943,11 @@ footer {
     background: rgba(0,0,0,.4); padding: 4px 10px; border-radius: 10px;
 }
 
-/* 视频信息层(底部,半透明渐变) */
+/* 视频信息层(底部,半透明渐变) - padding-bottom 留出原生控制条空间 */
 .video-card-info {
     position: absolute; left: 0; right: 0; bottom: 0;
     padding: 20px 16px;
-    padding-bottom: max(24px, env(safe-area-inset-bottom));
+    padding-bottom: max(60px, env(safe-area-inset-bottom));
     background: linear-gradient(0deg, rgba(0,0,0,.75), rgba(0,0,0,0));
     color: #fff; pointer-events: none;
 }

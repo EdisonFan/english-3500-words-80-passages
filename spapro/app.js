@@ -572,7 +572,7 @@ function renderVideoFeed() {
     var html = '';
     _videoList.forEach(function(v, i) {
         html += '<div class="video-card" data-idx="' + i + '">';
-        html += '<video playsinline webkit-playsinline="true" preload="auto" loop';
+        html += '<video playsinline webkit-playsinline="true" preload="auto" loop controls controlslist="nodownload noplaybackrate noremoteplayback"';
         if (v.pic) html += ' poster="https:' + v.pic + '"';
         html += '></video>';
         html += '<div class="video-card-idx">' + (i + 1) + '/' + _videoList.length + '</div>';
