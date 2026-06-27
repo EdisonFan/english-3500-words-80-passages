@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>B站视频代理播放 Demo</title>
+  <style>
+    body { font-family: -apple-system, "Segoe UI", sans-serif; max-width: 900px; margin: 30px auto; padding: 0 20px; color: #333; }
+    h1 { font-size: 22px; }
+    .row { display: flex; gap: 8px; margin: 16px 0; align-items: center; }
+    input { flex: 1; padding: 8px; font-size: 14px; border: 1px solid #ccc; border-radius: 4px; }
+    button { padding: 8px 16px; font-size: 14px; border: none; border-radius: 4px; background: #00a1d6; color: #fff; cursor: pointer; }
+    button:hover { background: #0091c2; }
+    button.ghost { background: #eee; color: #333; }
+    video { width: 100%; max-width: 800px; background: #000; border-radius: 4px; margin-top: 12px; }
+    pre { background: #f5f5f5; padding: 12px; border-radius: 4px; white-space: pre-wrap; word-break: break-all; font-size: 12px; max-height: 240px; overflow: auto; }
+    .tip { color: #888; font-size: 13px; margin: 8px 0; }
+    .ok { color: #52c41a; } .err { color: #f5222d; }
+  </style>
+</head>
+<body>
+  <h1>B站视频代理播放 Demo</h1>
+  <div class="tip">前端只用 <code>&lt;video src="/api/stream?bvid=xxx"&gt;</code>,后端代理解决 CORS、防盗链、直链过期。</div>
+
+  <div class="row">
+    <input id="bvid" value="BV1LhcZz3En4" placeholder="输入 BV 号,如 BV1LhcZz3En4">
+    <button onclick="play()">播放</button>
+    <button class="ghost" onclick="resolve()">查看解析结果</button>
+  </div>
+
+  <video id="v" controls></video>
+
+  <h3 style="margin-top:24px;">解析结果</h3>
+  <pre id="out">点击"查看解析结果"调试</pre>
+
+  <script>
+    const $ = id => document.getElementById(id);
+
+    // 播放:直接把 src 指向后端流式接口
+    function play() {
+      const bvid = $('bvid').value.trim();
+      $('v').src = '/api/stream?bvid=' + encodeURIComponent(bvid);
+      $('v').load();
+      $('v').play().catch(() => {});
+      $('out').textContent = '已设置 src: /api/stream?bvid=' + bvid;
+    }
+
+    // 调试:看后端到底解析到了什么
+    async function resolve() {
+      const bvid = $('bvid').value.trim();
+      $('out').textContent = '解析中...';
+      try {
+        const r = await fetch('/api/resolve?bvid=' + encodeURIComponent(bvid));
+        const j = await r.json();
+        $('out').innerHTML = '<span class="' + (j.ok ? 'ok' : 'err') + '">' + (j.ok ? '✅ ' : '❌ ') + '</span>'
+          + JSON.stringify(j, null, 2);
+      } catch (e) {
+        $('out').textContent = '请求失败: ' + e.message;
+      }
+    }
+
+    play();
+  </script>
+</body>
+</html>
