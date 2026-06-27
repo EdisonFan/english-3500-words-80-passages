@@ -581,7 +581,7 @@ function renderVideoFeed() {
     var html = '';
     _videoList.forEach(function(v, i) {
         html += '<div class="video-card" data-idx="' + i + '">';
-        html += '<video playsinline webkit-playsinline="true" preload="none" loop';
+        html += '<video playsinline webkit-playsinline="true" preload="auto" loop';
         if (v.pic) html += ' poster="https:' + v.pic + '"';
         html += '></video>';
         html += '<div class="video-card-idx">' + (i + 1) + '/' + _videoList.length + '</div>';
@@ -608,32 +608,47 @@ function renderVideoFeed() {
 // 给当前视频设 src 并播放,其余暂停
 function playVideoIdx(idx) {
     var cards = videoFeed.children;
-    console.log('[video] playVideoIdx 切换到第', idx + 1, '个视频, bvid=', _videoList[idx] ? _videoList[idx].bvid : '(无)');
+    dbgLog('playVideoIdx 切换到第' + (idx + 1) + '个, bvid=' + (_videoList[idx] ? _videoList[idx].bvid : '(无)'));
     for (var i = 0; i < cards.length; i++) {
         var video = cards[i].querySelector('video');
         if (i === idx) {
-            if (!video.src) {
-                var srcUrl = VIDEO_SERVER + '/api/stream?bvid=' + _videoList[i].bvid;
-                console.log('[video] 设置 src=', srcUrl);
-                video.src = srcUrl;
-                // 监听错误事件(关键:定位不播放的原因)
-                video.onerror = function() {
-                    console.error('[video] ❌ video.onerror code=', video.error ? video.error.code : '(unknown)',
-                                  'src=', video.src);
-                };
-                video.onloadeddata = function() { console.log('[video] ✓ 数据已加载,开始解码'); };
-                video.oncanplay = function() { console.log('[video] ✓ 可播放'); };
-            }
+            var srcUrl = VIDEO_SERVER + '/api/stream?bvid=' + _videoList[i].bvid;
+            // 每次都重新设 src 并 load,确保触发请求
+            video.src = srcUrl;
+            dbgLog('设置 src=' + srcUrl);
+            // 监听事件(关键:定位不播放的原因)
+            video.onerror = function() {
+                var code = video.error ? video.error.code : '(unknown)';
+                dbgLog('❌ video.onerror code=' + code, true);
+            };
+            video.onloadedmetadata = function() { dbgLog('✓ 元数据已加载'); };
+            video.onloadeddata = function() { dbgLog('✓ 数据已加载'); };
+            video.oncanplay = function() { dbgLog('✓ 可播放'); };
+            video.load();   // 强制加载
             video.play().then(function() {
-                console.log('[video] ✓ play() 成功, idx=', idx);
+                dbgLog('✓ play() 成功');
             }).catch(function(e) {
-                console.error('[video] ❌ play() 被拒:', e.name, e.message);
+                dbgLog('❌ play()被拒: ' + e.name + ' ' + e.message, true);
             });
         } else {
             video.pause();
         }
     }
     _videoIdx = idx;
+}
+
+// 调试日志:同时输出到 console 和页面浮层
+function dbgLog(msg, isErr) {
+    if (isErr) console.error('[video] ' + msg);
+    else console.log('[video] ' + msg);
+    var box = document.getElementById('debugBox');
+    if (box) {
+        var line = document.createElement('div');
+        line.textContent = new Date().toLocaleTimeString() + ' ' + msg;
+        if (isErr) line.style.color = '#ff6b6b';
+        box.appendChild(line);
+        box.scrollTop = box.scrollHeight;
+    }
 }
 
 function fmtPlayCount(n) {
