@@ -1,0 +1,39 @@
+{
+  "word": "differently",
+  "found": true,
+  "phonetic_uk": "ˈdɪfrəntli",
+  "phonetic_us": "ˈdɪfrəntli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=differently&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=differently&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "不同地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Boys and girls may behave differently.",
+      "zh": "男孩儿和女孩儿的表现可能不同。"
+    },
+    {
+      "en": "I would have phrased it quite differently.",
+      "zh": "我则会用完全不同的话来表达它。"
+    },
+    {
+      "en": "We know the French order things differently.",
+      "zh": "我们知道法国人处理事情的方式是不同的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "不同地；差异；各种",
+      "words": [
+        "variously",
+        "dissimilarly"
+      ]
+    }
+  ]
+}

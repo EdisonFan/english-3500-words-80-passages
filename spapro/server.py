@@ -107,12 +107,15 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         - 按播放量降序排序，优质视频排前面，取前 10 条
         - 返回的 bvid 直接喂给 videoServer 的 /api/stream 播放
         """
-        keyword = f'{word} 单词'  # 加后缀，搜词义讲解类视频而非产品/新闻
+        # 后缀词固定为"单词",过滤时会用它做标题二次校验
+        suffix = '单词'
+        keyword = f'{word} {suffix}'  # 加后缀，搜词义讲解类视频而非产品/新闻
         # 注意：B站搜索接口要求空格编码成 + 而非 %20，否则 412
         encoded_kw = urllib.parse.quote_plus(keyword)
+        # 每次只取前 20 条(用户要求),够用且减少风控压力
         url = ('https://api.bilibili.com/x/web-interface/search/type'
                f'?search_type=video&keyword={encoded_kw}'
-               '&page=1&pagesize=30')
+               '&page=1&pagesize=20')
         logger.info(f'[search-video] 收到请求 word={word!r} keyword={keyword!r}')
         try:
             req = urllib.request.Request(url, headers={
@@ -148,8 +151,9 @@ class Handler(http.server.SimpleHTTPRequestHandler):
             return
 
         results = []
-        _filtered_out_title = 0  # 标题不含目标单词被过滤的数量(日志用)
+        _filtered_out_title = 0  # 标题不含目标单词/后缀被过滤的数量(日志用)
         _word_lower = word.lower()
+        _title_lower_cache = None
         for item in (data.get('data') or {}).get('result') or []:
             # 时长解析："3:45" → 秒数；过滤 10s~300s
             dur_str = item.get('duration', '0:0')
@@ -158,9 +162,10 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                 continue
             # 清理标题里的 <em> 高亮标签
             title = re.sub(r'</?em[^>]*>', '', item.get('title', ''))
-            # 过滤:标题必须包含目标单词(不区分大小写)
-            # 否则视为无关视频(游戏/MV/新闻混剪),即使搜到了也不返回
-            if _word_lower not in title.lower():
+            # 过滤:标题必须同时包含目标单词和后缀词"单词"
+            # 两者缺一不可,确保是针对该单词的讲解视频,而非通用背单词课/无关内容
+            _title_lower_cache = title.lower()
+            if _word_lower not in _title_lower_cache or suffix not in _title_lower_cache:
                 _filtered_out_title += 1
                 continue
             results.append({
