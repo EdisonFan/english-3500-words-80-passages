@@ -1,0 +1,44 @@
+{
+  "word": "week",
+  "found": true,
+  "phonetic_uk": "wiːk",
+  "phonetic_us": "wiːk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=week&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=week&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "星期，周；一个星期的时间，一周；一周工作时间，工作周；（除去星期六和星期日的）星期，周；活动周（举行某项活动的一周）；（从某天算起的）一周；（某天之前的）一周；一周又一周，接连好几个星期"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "weeks"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We commence building next week.",
+      "zh": "我们下周破土动工。"
+    },
+    {
+      "en": "The program aired last week.",
+      "zh": "该节目已于上周播出。"
+    },
+    {
+      "en": "The sale starts next week.",
+      "zh": "特价促销从下星期开始。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "周，[天]星期",
+      "words": [
+        "Zhou",
+        "Chou"
+      ]
+    }
+  ]
+}
