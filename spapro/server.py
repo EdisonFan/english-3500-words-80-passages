@@ -148,6 +148,8 @@ class Handler(http.server.SimpleHTTPRequestHandler):
             return
 
         results = []
+        _filtered_out_title = 0  # 标题不含目标单词被过滤的数量(日志用)
+        _word_lower = word.lower()
         for item in (data.get('data') or {}).get('result') or []:
             # 时长解析："3:45" → 秒数；过滤 10s~300s
             dur_str = item.get('duration', '0:0')
@@ -156,6 +158,11 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                 continue
             # 清理标题里的 <em> 高亮标签
             title = re.sub(r'</?em[^>]*>', '', item.get('title', ''))
+            # 过滤:标题必须包含目标单词(不区分大小写)
+            # 否则视为无关视频(游戏/MV/新闻混剪),即使搜到了也不返回
+            if _word_lower not in title.lower():
+                _filtered_out_title += 1
+                continue
             results.append({
                 'bvid': item.get('bvid', ''),
                 'title': title,
@@ -169,7 +176,8 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         results.sort(key=lambda x: x['play'], reverse=True)
         results = results[:10]
 
-        logger.info(f'[search-video] ✅ 过滤后返回 {len(results)} 条, '
+        logger.info(f'[search-video] ✅ 过滤后返回 {len(results)} 条 '
+                    f'(标题不含单词过滤掉 {_filtered_out_title} 条), '
                     f'前3: {[(r["bvid"], r["title"][:20]) for r in results[:3]]}')
 
         self._send_json(200, {

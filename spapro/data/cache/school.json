@@ -1,0 +1,55 @@
+{
+  "word": "school",
+  "found": true,
+  "phonetic_uk": "skuːl",
+  "phonetic_us": "skuːl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=school&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=school&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（中、小）学校；全校师生；上学时间；上学期间；专科学校；大学，大学期间；（大学的）系，学院；学派，流派；（鱼、鲸、海豚等的）群；<英>（牛津大学的）期末考试大厅；（牛津大学的）期末考试；<英>一伙赌徒；（轮番到酒吧请客喝酒的）酒友"
+    },
+    {
+      "pos": "v.",
+      "meaning": "教育，培养（儿童）；训练，教育；（尤指为竞赛）驯马；（鱼，海兽）成群；强迫自己（做难事）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "<南非>（科萨人）受过西化教育的；（名字）源自西方的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Which school do they attend?",
+      "zh": "他们上的是哪一所学校？"
+    },
+    {
+      "en": "Conditions vary from school to school.",
+      "zh": "各所学校的情况不同。"
+    },
+    {
+      "en": "He's in law school.",
+      "zh": "他在读法学院。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "学校；学院；学派；鱼群",
+      "words": [
+        "academy",
+        "college"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "教育",
+      "words": [
+        "breed",
+        "to educate"
+      ]
+    }
+  ]
+}
