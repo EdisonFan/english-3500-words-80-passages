@@ -596,19 +596,41 @@ function renderVideoFeed() {
     };
 }
 
-// 给当前视频设 src 并播放,其余暂停
+// 给当前视频设 src 并播放,预加载下一个,清理远处的释放带宽
 function playVideoIdx(idx) {
     var cards = videoFeed.children;
     for (var i = 0; i < cards.length; i++) {
         var video = cards[i].querySelector('video');
         if (i === idx) {
+            // 当前:设 src + 播放
             var srcUrl = VIDEO_SERVER + '/api/stream?bvid=' + _videoList[i].bvid;
-            // 每次都重新设 src 并 load,确保触发请求
-            video.src = srcUrl;
-            video.load();
+            // src 没变就不重设,避免重启播放
+            if (video.getAttribute('data-loaded') !== srcUrl) {
+                video.src = srcUrl;
+                video.setAttribute('data-loaded', srcUrl);
+                video.load();
+            }
             video.play().catch(function() {});
-        } else {
+        } else if (i === idx + 1) {
+            // 预加载下一个:设 src + load,但不 play(preload=auto 浏览器会预拉元数据和前段数据)
+            var nextUrl = VIDEO_SERVER + '/api/stream?bvid=' + _videoList[i].bvid;
+            if (video.getAttribute('data-loaded') !== nextUrl) {
+                video.src = nextUrl;
+                video.setAttribute('data-loaded', nextUrl);
+                video.load();
+            }
             video.pause();
+        } else if (i === idx - 1) {
+            // 上一个:已加载过,保留 src 但暂停(回滑时无需重新请求)
+            video.pause();
+        } else {
+            // 远处:清掉 src 释放带宽和连接,避免同时拉 10 个流
+            video.pause();
+            if (video.src) {
+                video.removeAttribute('src');
+                video.removeAttribute('data-loaded');
+                video.load();
+            }
         }
     }
     _videoIdx = idx;

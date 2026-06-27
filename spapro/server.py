@@ -102,12 +102,12 @@ class Handler(http.server.SimpleHTTPRequestHandler):
     def _search_video(self, word):
         """代理 B 站搜索，返回适合学单词的教学视频列表。
 
-        - 关键词加 "单词 发音" 后缀，过滤掉广告/产品视频
+        - 关键词加 "单词" 后缀，搜词义/用法讲解类视频（帮助记忆，而非发音教学）
         - 过滤时长 10s~5min（太短的广告切片、太长的完整课都不要）
-        - 按播放量降序，取前 10 条
+        - 按播放量降序排序，优质视频排前面，取前 10 条
         - 返回的 bvid 直接喂给 videoServer 的 /api/stream 播放
         """
-        keyword = f'{word} 发音'  # 加后缀，搜教学视频而非产品/新闻
+        keyword = f'{word} 单词'  # 加后缀，搜词义讲解类视频而非产品/新闻
         # 注意：B站搜索接口要求空格编码成 + 而非 %20，否则 412
         encoded_kw = urllib.parse.quote_plus(keyword)
         url = ('https://api.bilibili.com/x/web-interface/search/type'
