@@ -97,7 +97,6 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         url = ('https://api.bilibili.com/x/web-interface/search/type'
                f'?search_type=video&keyword={encoded_kw}'
                '&page=1&pagesize=30')
-        print(f'[search-video] 收到请求 word={word!r} keyword={keyword!r}', flush=True)
         try:
             req = urllib.request.Request(url, headers={
                 # B 站搜索接口风控较严，实测组合：
@@ -109,11 +108,7 @@ class Handler(http.server.SimpleHTTPRequestHandler):
             })
             with urllib.request.urlopen(req, timeout=10) as resp:
                 data = json.loads(resp.read().decode('utf-8'))
-            print(f'[search-video] B站返回 code={data.get("code")} '
-                  f'numResults={(data.get("data") or {}).get("numResults")}', flush=True)
         except Exception as e:
-            print(f'[search-video] ❌ 请求失败: {e}', flush=True)
-            print(f'[search-video] ⚠️ 降级:返回内置备用列表(本地环境不会触发此降级)', flush=True)
             # 降级:sandbox 出口 IP 被 B站风控拉黑,返回内置备用列表保证链路可验证
             # 本地电脑跑时不会触发,会走真实搜索
             self._send_json(200, {
@@ -127,7 +122,6 @@ class Handler(http.server.SimpleHTTPRequestHandler):
             return
 
         if data.get('code') != 0:
-            print(f'[search-video] ❌ B站接口错误: {data.get("message")}', flush=True)
             self._send_json(502, {'ok': False, 'error': data.get('message', 'B站接口错误')})
             return
 
@@ -152,9 +146,6 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         # 按播放量降序，取前 10
         results.sort(key=lambda x: x['play'], reverse=True)
         results = results[:10]
-
-        print(f'[search-video] ✅ 过滤后返回 {len(results)} 条, '
-              f'前3: {[(r["bvid"], r["title"][:20]) for r in results[:3]]}', flush=True)
 
         self._send_json(200, {
             'ok': True,
@@ -184,20 +175,15 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         ② mp4 直链有 Referer 防盗链,后端带 Referer 绕过
         ③ 直链 120 分钟过期,每次请求重新解析
         """
-        print(f'[stream] 收到请求 bvid={bvid} range={self.headers.get("Range", "(无)")}', flush=True)
         self._stream_headers_sent = False
         try:
             # 第一步:bvid → cid
             cid = self._get_cid(bvid)
-            print(f'[stream] 拿到 cid={cid}', flush=True)
             # 第二步:cid → mp4 直链
             mp4_url, quality = self._get_mp4_url(bvid, cid)
-            print(f'[stream] 拿到直链 quality={quality}', flush=True)
             # 第三步:流式转发(此方法内会调用 end_headers,之后就不能再发错误响应了)
             self._pipe_mp4(mp4_url)
-            print(f'[stream] ✅ 流式传输完成 bvid={bvid}', flush=True)
         except Exception as e:
-            print(f'[stream] ❌ 错误 bvid={bvid}: {e}', flush=True)
             if not self._stream_headers_sent:
                 self._send_json(502, {'ok': False, 'error': f'视频流错误: {e}'})
 

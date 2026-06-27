@@ -540,7 +540,6 @@ function openVideoStage(word) {
     _videoWord = word;
     _videoList = [];
     _videoIdx = 0;
-    console.log('[video] openVideoStage 开始, word=', word);
 
     // 关掉词典弹框
     modalBg.classList.remove('active');
@@ -550,28 +549,20 @@ function openVideoStage(word) {
     videoStage.classList.add('active');
 
     // 调 spapro 后端的搜索接口
-    console.log('[video] 发起搜索请求 /api/search-video?word=' + word);
     fetch('/api/search-video?word=' + encodeURIComponent(word))
-        .then(function(r) {
-            console.log('[video] 搜索响应 status=', r.status, 'ok=', r.ok);
-            return r.json();
-        })
+        .then(function(r) { return r.json(); })
         .then(function(j) {
-            console.log('[video] 搜索返回 ok=', j.ok, 'total=', j.total, 'list长度=', (j.list||[]).length);
             if (!j.ok) throw new Error(j.error || '搜索失败');
             if (!j.list || !j.list.length) {
-                console.log('[video] ⚠️ 搜索结果为空');
                 videoFeed.innerHTML = '<div class="video-loading"><div>没找到 "' + esc(word) + '" 的教学视频</div></div>';
                 return;
             }
             _videoList = j.list;
-            console.log('[video] 第一条 bvid=', _videoList[0].bvid, 'title=', _videoList[0].title);
             renderVideoFeed();
             // 播第一个
             setTimeout(function() { playVideoIdx(0); }, 100);
         })
         .catch(function(err) {
-            console.error('[video] ❌ 搜索失败:', err);
             videoFeed.innerHTML = '<div class="video-loading"><div>搜索失败: ' + esc(String(err.message || err)) + '</div><div style="margin-top:8px;font-size:12px;opacity:.6">可能是请求过快被限流,稍等几秒重试</div></div>';
         });
 }
@@ -608,47 +599,19 @@ function renderVideoFeed() {
 // 给当前视频设 src 并播放,其余暂停
 function playVideoIdx(idx) {
     var cards = videoFeed.children;
-    dbgLog('playVideoIdx 切换到第' + (idx + 1) + '个, bvid=' + (_videoList[idx] ? _videoList[idx].bvid : '(无)'));
     for (var i = 0; i < cards.length; i++) {
         var video = cards[i].querySelector('video');
         if (i === idx) {
             var srcUrl = VIDEO_SERVER + '/api/stream?bvid=' + _videoList[i].bvid;
             // 每次都重新设 src 并 load,确保触发请求
             video.src = srcUrl;
-            dbgLog('设置 src=' + srcUrl);
-            // 监听事件(关键:定位不播放的原因)
-            video.onerror = function() {
-                var code = video.error ? video.error.code : '(unknown)';
-                dbgLog('❌ video.onerror code=' + code, true);
-            };
-            video.onloadedmetadata = function() { dbgLog('✓ 元数据已加载'); };
-            video.onloadeddata = function() { dbgLog('✓ 数据已加载'); };
-            video.oncanplay = function() { dbgLog('✓ 可播放'); };
-            video.load();   // 强制加载
-            video.play().then(function() {
-                dbgLog('✓ play() 成功');
-            }).catch(function(e) {
-                dbgLog('❌ play()被拒: ' + e.name + ' ' + e.message, true);
-            });
+            video.load();
+            video.play().catch(function() {});
         } else {
             video.pause();
         }
     }
     _videoIdx = idx;
-}
-
-// 调试日志:同时输出到 console 和页面浮层
-function dbgLog(msg, isErr) {
-    if (isErr) console.error('[video] ' + msg);
-    else console.log('[video] ' + msg);
-    var box = document.getElementById('debugBox');
-    if (box) {
-        var line = document.createElement('div');
-        line.textContent = new Date().toLocaleTimeString() + ' ' + msg;
-        if (isErr) line.style.color = '#ff6b6b';
-        box.appendChild(line);
-        box.scrollTop = box.scrollHeight;
-    }
 }
 
 function fmtPlayCount(n) {
