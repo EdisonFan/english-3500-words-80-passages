@@ -24,6 +24,22 @@ import os
 import re
 import threading
 import ssl
+import logging
+from logging.handlers import RotatingFileHandler
+
+# 日志配置:写到文件,不在 stdout 输出(避免 sandbox 终端刷屏)
+LOG_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'logs')
+os.makedirs(LOG_DIR, exist_ok=True)
+logger = logging.getLogger('spapro')
+logger.setLevel(logging.INFO)
+_fh = RotatingFileHandler(
+    os.path.join(LOG_DIR, 'spapro.log'),
+    maxBytes=2 * 1024 * 1024,   # 2MB 切一个文件
+    backupCount=3,              # 保留 3 个历史
+    encoding='utf-8'
+)
+_fh.setFormatter(logging.Formatter('%(asctime)s [%(levelname)s] %(message)s'))
+logger.addHandler(_fh)
 
 PORT = 8000
 DIRECTORY = os.path.dirname(os.path.abspath(__file__))
@@ -97,6 +113,7 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         url = ('https://api.bilibili.com/x/web-interface/search/type'
                f'?search_type=video&keyword={encoded_kw}'
                '&page=1&pagesize=30')
+        logger.info(f'[search-video] 收到请求 word={word!r} keyword={keyword!r}')
         try:
             req = urllib.request.Request(url, headers={
                 # B 站搜索接口风控较严，实测组合：
@@ -108,7 +125,11 @@ class Handler(http.server.SimpleHTTPRequestHandler):
             })
             with urllib.request.urlopen(req, timeout=10) as resp:
                 data = json.loads(resp.read().decode('utf-8'))
+            logger.info(f'[search-video] B站返回 code={data.get("code")} '
+                        f'numResults={(data.get("data") or {}).get("numResults")}')
         except Exception as e:
+            logger.warning(f'[search-video] ❌ 请求失败: {e}')
+            logger.warning('[search-video] ⚠️ 降级:返回内置备用列表(本地环境不会触发此降级)')
             # 降级:sandbox 出口 IP 被 B站风控拉黑,返回内置备用列表保证链路可验证
             # 本地电脑跑时不会触发,会走真实搜索
             self._send_json(200, {
@@ -122,6 +143,7 @@ class Handler(http.server.SimpleHTTPRequestHandler):
             return
 
         if data.get('code') != 0:
+            logger.error(f'[search-video] ❌ B站接口错误: {data.get("message")}')
             self._send_json(502, {'ok': False, 'error': data.get('message', 'B站接口错误')})
             return
 
@@ -146,6 +168,9 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         # 按播放量降序，取前 10
         results.sort(key=lambda x: x['play'], reverse=True)
         results = results[:10]
+
+        logger.info(f'[search-video] ✅ 过滤后返回 {len(results)} 条, '
+                    f'前3: {[(r["bvid"], r["title"][:20]) for r in results[:3]]}')
 
         self._send_json(200, {
             'ok': True,
@@ -175,15 +200,20 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         ② mp4 直链有 Referer 防盗链,后端带 Referer 绕过
         ③ 直链 120 分钟过期,每次请求重新解析
         """
+        logger.info(f'[stream] 收到请求 bvid={bvid} range={self.headers.get("Range", "(无)")}')
         self._stream_headers_sent = False
         try:
             # 第一步:bvid → cid
             cid = self._get_cid(bvid)
+            logger.info(f'[stream] 拿到 cid={cid}')
             # 第二步:cid → mp4 直链
             mp4_url, quality = self._get_mp4_url(bvid, cid)
+            logger.info(f'[stream] 拿到直链 quality={quality}')
             # 第三步:流式转发(此方法内会调用 end_headers,之后就不能再发错误响应了)
             self._pipe_mp4(mp4_url)
+            logger.info(f'[stream] ✅ 流式传输完成 bvid={bvid}')
         except Exception as e:
+            logger.error(f'[stream] ❌ 错误 bvid={bvid}: {e}')
             if not self._stream_headers_sent:
                 self._send_json(502, {'ok': False, 'error': f'视频流错误: {e}'})
 
