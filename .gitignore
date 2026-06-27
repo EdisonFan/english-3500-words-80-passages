@@ -9,3 +9,6 @@ Thumbs.db
 # 编辑器
 .vscode/
 .idea/
+
+# 反爬字体映射表（含密钥，禁止提交/部署）
+HTML-antiscrape/mapping.json

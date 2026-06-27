@@ -73,6 +73,16 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         # 3. 调有道 jsonapi
         result = self._fetch_youdao(word)
 
+        # 3.5 如果原始词未找到且含撇号，尝试基础形式回退查询
+        if not result.get('found') and ("'" in word or "\u2019" in word):
+            base = self._strip_contraction(word)
+            if base and base != word:
+                base_result = self._fetch_youdao(base)
+                if base_result.get('found'):
+                    base_result['word'] = word
+                    base_result['base_form'] = base
+                    result = base_result
+
         if result.get('found'):
             # 保存到缓存文件（积累本地词典库）
             try:
@@ -86,6 +96,35 @@ class Handler(http.server.SimpleHTTPRequestHandler):
             _mem_cache[word] = result
 
         self._send_json(200, result)
+
+    def _strip_contraction(self, word):
+        """去除英语缩写/所有格后缀，返回基础形式
+
+        处理模式：
+          - xxx's  (所有格/缩写 is): child's → child, it's → it
+          - xxx't  (缩写 not):       don't → do, isn't → is
+          - xxx're (缩写 are):        they're → they
+          - xxx've (缩写 have):       they've → they
+          - xxx'll (缩写 will):       they'll → they
+          - xxx'd  (缩写 would/had):  they'd → they
+          - xxx'm  (缩写 am):         I'm → I
+        同时处理 ASCII 撇号 ' 和 Unicode 右弯引号 '
+        """
+        ap = r"['\u2019]"
+        patterns = [
+            (ap + r"s$", ''),       # 所有格 / is
+            (r"n" + ap + r"t$", ''),  # not (don't → do, isn't → is)
+            (ap + r"re$", ''),      # are
+            (ap + r"ve$", ''),      # have
+            (ap + r"ll$", ''),      # will
+            (ap + r"d$", ''),       # would / had
+            (ap + r"m$", ''),       # am
+        ]
+        for suffix, _ in patterns:
+            base = re.sub(suffix, '', word)
+            if base and base != word:
+                return base
+        return None
 
     def _safe_filename(self, word):
         """将单词转为安全的文件名（空格→_，特殊字符编码）"""

@@ -243,7 +243,7 @@ function highlightWords(enText, vocab) {
 function tokenizeAndWrap(text) {
     if (!text) return '';
     var html = '';
-    var re = /([A-Za-z][A-Za-z']*)/g;
+    var re = /([A-Za-z][A-Za-z''']*)/g;
     var lastIdx = 0;
     var match;
     while ((match = re.exec(text)) !== null) {
@@ -261,10 +261,9 @@ function tokenizeAndWrap(text) {
 
 /* 生成一个可点击的普通单词 span（走词典 API） */
 function makeRawWordSpan(word) {
-    // 去掉首尾单引号（如 students' ）
-    var display = String(word).replace(/^'+|'+$/g, '');
+    var display = String(word).replace(/^[''']+|[''']+$/g, '');
     if (!display) return esc(word);
-    var query = display.toLowerCase();
+    var query = display.replace(/['']/g, "'").toLowerCase();
     return '<span class="w-raw" data-word="' + esc(query) + '">' + esc(display) + '</span>';
 }
 
@@ -401,6 +400,11 @@ function renderDictModal(data) {
 
     // 单词
     html += '<div class="modal-word">' + esc(data.word) + '</div>';
+
+    // 基础形式提示（所有格/缩写回退查询时显示）
+    if (data.base_form) {
+        html += '<div class="modal-base-form">← ' + esc(data.base_form) + ' 的所有格/缩写形式</div>';
+    }
 
     // 音标 + 发音按钮（英式/美式分区）
     var phonRow = '<div class="modal-phon-row">';
