@@ -527,8 +527,8 @@ modalBg.addEventListener('click', function(e) {
 var videoStage = document.getElementById('videoStage');
 var videoFeed = document.getElementById('videoFeed');
 var videoStageClose = document.getElementById('videoStageClose');
-// videoServer 端口(流式代理),spapro 在 8000,videoServer 在 3000,跨域已开 CORS
-var VIDEO_SERVER = 'http://localhost:3000';
+// 视频流接口已合并进 spapro 同端口(8000),同源调用,无需跨域
+var VIDEO_SERVER = '';
 var _videoList = [];      // 搜索结果
 var _videoIdx = 0;        // 当前播放索引
 var _videoWord = '';      // 当前单词

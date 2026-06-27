@@ -18,10 +18,12 @@ import http.server
 import socketserver
 import urllib.request
 import urllib.parse
+import http.client
 import json
 import os
 import re
 import threading
+import ssl
 
 PORT = 8000
 DIRECTORY = os.path.dirname(os.path.abspath(__file__))
@@ -70,6 +72,14 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                 self._send_json(400, {'error': '缺少参数 word'})
                 return
             self._search_video(word)
+            return
+        if parsed.path == '/api/stream':
+            params = urllib.parse.parse_qs(parsed.query)
+            bvid = (params.get('bvid', [''])[0] or '').strip()
+            if not bvid:
+                self._send_json(400, {'error': '缺少参数 bvid'})
+                return
+            self._stream_video(bvid)
             return
         super().do_GET()
 
@@ -165,6 +175,121 @@ class Handler(http.server.SimpleHTTPRequestHandler):
             except ValueError:
                 return 0
         return secs
+
+    def _stream_video(self, bvid):
+        """视频流代理:bvid → cid → mp4直链 → 流式转发给浏览器,支持 Range 断点续传。
+
+        解决三个前端绕不过的问题:
+        ① B站 playurl 接口对前端 fetch 返回 403(检测 Origin)
+        ② mp4 直链有 Referer 防盗链,后端带 Referer 绕过
+        ③ 直链 120 分钟过期,每次请求重新解析
+        """
+        print(f'[stream] 收到请求 bvid={bvid} range={self.headers.get("Range", "(无)")}', flush=True)
+        self._stream_headers_sent = False
+        try:
+            # 第一步:bvid → cid
+            cid = self._get_cid(bvid)
+            print(f'[stream] 拿到 cid={cid}', flush=True)
+            # 第二步:cid → mp4 直链
+            mp4_url, quality = self._get_mp4_url(bvid, cid)
+            print(f'[stream] 拿到直链 quality={quality}', flush=True)
+            # 第三步:流式转发(此方法内会调用 end_headers,之后就不能再发错误响应了)
+            self._pipe_mp4(mp4_url)
+            print(f'[stream] ✅ 流式传输完成 bvid={bvid}', flush=True)
+        except Exception as e:
+            print(f'[stream] ❌ 错误 bvid={bvid}: {e}', flush=True)
+            if not self._stream_headers_sent:
+                self._send_json(502, {'ok': False, 'error': f'视频流错误: {e}'})
+
+    def _get_cid(self, bvid):
+        """BV 号 → cid,调 B站 pagelist 接口"""
+        url = f'https://api.bilibili.com/x/player/pagelist?bvid={bvid}'
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            data = json.loads(resp.read().decode('utf-8'))
+        if data.get('code') != 0:
+            raise Exception('pagelist 失败: ' + data.get('message', ''))
+        if not data.get('data'):
+            raise Exception('该视频无分P')
+        return data['data'][0]['cid']
+
+    def _get_mp4_url(self, bvid, cid):
+        """BV+cid → mp4 直链,调 B站 playurl 接口(必须带 Referer)"""
+        url = (f'https://api.bilibili.com/x/player/playurl'
+               f'?bvid={bvid}&cid={cid}&qn=80&type=mp4')
+        req = urllib.request.Request(url, headers={
+            'User-Agent': 'Mozilla/5.0',
+            'Referer': 'https://www.bilibili.com',
+        })
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            data = json.loads(resp.read().decode('utf-8'))
+        if data.get('code') != 0:
+            raise Exception('playurl 失败: ' + data.get('message', ''))
+        durl = (data.get('data') or {}).get('durl') or []
+        if not durl:
+            raise Exception('未返回 durl 直链')
+        return durl[0]['url'], data['data'].get('quality', 0)
+
+    def _pipe_mp4(self, mp4_url):
+        """流式拉取 mp4 并转发给浏览器,透传 Range 请求头和响应头。
+
+        用 urllib.request + ProxyHandler 走 sandbox 的 HTTPS 代理(CONNECT 隧道),
+        这样能正确连通 B站 CDN。urllib 自动读环境变量代理,但为稳妥显式构造 opener。
+        """
+        # 构造请求头:必须带 Referer,否则 CDN 403
+        headers = {
+            'User-Agent': 'Mozilla/5.0',
+            'Referer': 'https://www.bilibili.com',
+        }
+        # 透传浏览器的 Range 请求(支持拖进度条)
+        range_header = self.headers.get('Range')
+        if range_header:
+            headers['Range'] = range_header
+
+        req = urllib.request.Request(mp4_url, headers=headers)
+        # 显式构造 opener,带 ProxyHandler(读环境变量 HTTPS_PROXY/HTTP_PROXY)
+        proxy_url = os.environ.get('HTTPS_PROXY') or os.environ.get('https_proxy') or \
+                    os.environ.get('HTTP_PROXY') or os.environ.get('http_proxy')
+        if proxy_url:
+            opener = urllib.request.build_opener(urllib.request.ProxyHandler({
+                'http': proxy_url, 'https': proxy_url
+            }))
+        else:
+            opener = urllib.request.build_opener()
+        resp = opener.open(req, timeout=30)
+
+        # 读取 B站 CDN 的响应头,挑选需要透传给浏览器的
+        out_headers = []
+        for k, v in resp.getheaders():
+            k_lower = k.lower()
+            if k_lower in ('content-type', 'content-length', 'content-range', 'accept-ranges'):
+                out_headers.append((k, v))
+        # 兜底:如果没有 content-type,补一个
+        if not any(k.lower() == 'content-type' for k, _ in out_headers):
+            out_headers.append(('Content-Type', 'video/mp4'))
+        # 确保支持 Range
+        if not any(k.lower() == 'accept-ranges' for k, _ in out_headers):
+            out_headers.append(('Accept-Ranges', 'bytes'))
+
+        # 发响应头
+        self.send_response(resp.status)
+        for k, v in out_headers:
+            self.send_header(k, v)
+        self.end_headers()
+        self._stream_headers_sent = True
+
+        # 流式转发 body:边读边写,不缓存整个文件
+        while True:
+            chunk = resp.read(64 * 1024)  # 64KB 一块
+            if not chunk:
+                break
+            try:
+                self.wfile.write(chunk)
+                self.wfile.flush()
+            except (BrokenPipeError, ConnectionResetError):
+                # 浏览器拖进度条时会断开旧连接,属正常
+                break
+        resp.close()
 
     def _proxy_dict(self, word):
         # 1. 查内存缓存（当前进程）
