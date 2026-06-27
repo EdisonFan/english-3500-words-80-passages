@@ -10,7 +10,7 @@
     所有响应附加 CORS 头
 
 - 视频搜索代理：GET /api/search-video?word=<word>
-    代理调用 B 站搜索接口，关键词自动加 "单词 发音" 后缀，
+    代理调用 B 站搜索接口，关键词自动加 "单词" 后缀，
     过滤时长 10s~5min，按播放量降序，返回前 10 条。
     返回结构里的 bvid 可直接喂给 videoServer 的 /api/stream 播放。
 """
