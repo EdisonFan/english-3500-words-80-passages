@@ -1,0 +1,66 @@
+{
+  "word": "know",
+  "found": true,
+  "phonetic_uk": "nəʊ",
+  "phonetic_us": "noʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=know&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=know&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "知道；认识到，懂得；熟悉，了解；确信，确定；把……看作是；将……称为；认出，辨认出；能区分；精通，掌握；经历，体验"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "knows"
+    },
+    {
+      "name": "现在分词",
+      "value": "knowing"
+    },
+    {
+      "name": "过去式",
+      "value": "knew"
+    },
+    {
+      "name": "过去分词",
+      "value": "known"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You wouldn't know him.",
+      "zh": "你一定不认识他。"
+    },
+    {
+      "en": "You don't know jack.",
+      "zh": "你什么都不知道。"
+    },
+    {
+      "en": "I know Paris well.",
+      "zh": "我很熟悉巴黎。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "知道；认识；懂得",
+      "words": [
+        "weet",
+        "be aware of"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "了解；熟悉；确信",
+      "words": [
+        "wise",
+        "understand",
+        "make sure",
+        "learn about"
+      ]
+    }
+  ]
+}
