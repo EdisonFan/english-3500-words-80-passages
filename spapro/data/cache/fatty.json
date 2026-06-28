@@ -1,0 +1,64 @@
+{
+  "word": "fatty",
+  "found": true,
+  "phonetic_uk": "ˈfæti",
+  "phonetic_us": "ˈfæti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fatty&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fatty&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "脂肪的；肥胖的；多脂肪的；脂肪过多的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "胖子"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "fatties"
+    },
+    {
+      "name": "比较级",
+      "value": "fattier或more fatty"
+    },
+    {
+      "name": "最高级",
+      "value": "fattiest或most fatty"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I'm trying to keep off fatty foods.",
+      "zh": "我尽量不吃高脂肪食物。"
+    },
+    {
+      "en": "They eat too many fatty and sugary foods, but they are not eating enough to be fat.",
+      "zh": "他们吃了太多含脂肪和糖的食物，但他们吃的还不够他们变胖。"
+    },
+    {
+      "en": "This special fatty tissue, the only other place is found in the dolphin, is in the lower jaw.",
+      "zh": "而在海豚身上的其他地方，唯一发现有这种特殊的脂肪组织的地方就是下颌。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "脂肪的；肥胖的；多脂肪的；脂肪过多的",
+      "words": [
+        "round",
+        "obese"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "胖子",
+      "words": [
+        "fatso",
+        "crisco"
+      ]
+    }
+  ]
+}

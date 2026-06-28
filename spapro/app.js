@@ -589,6 +589,8 @@ function openVideoStage(word) {
         _videoList = _videoSearchCache[word];
         videoFeed.innerHTML = '';
         renderVideoFeed();
+        // 重置滚动位置到第一个(否则会保留上次滑动的位置)
+        videoFeed.scrollTop = 0;
         setTimeout(function() { playVideoIdx(0); }, 100);
         return;
     }
@@ -602,6 +604,7 @@ function openVideoStage(word) {
         }
         _videoList = _videoSearchCache[word];
         renderVideoFeed();
+        videoFeed.scrollTop = 0;
         setTimeout(function() { playVideoIdx(0); }, 100);
     });
 }
