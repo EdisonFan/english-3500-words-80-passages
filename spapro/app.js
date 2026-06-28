@@ -590,7 +590,7 @@ function isMobileDevice() {
 
 /* 点击"教学视频"按钮:
    - PC(非移动端):新标签页打开视频页,保留文章页
-   - 手机:replace 当前页面跳转视频页(手机切标签页不便) */
+   - 手机:当前页跳转视频页(可回退,不用replace) */
 function openVideoPage(word) {
     word = String(word || '').toLowerCase().trim();
     if (!word) return;
@@ -598,7 +598,7 @@ function openVideoPage(word) {
     // 关掉词典弹框
     modalBg.classList.remove('active');
     if (isMobileDevice()) {
-        location.replace(url);
+        location.href = url;
     } else {
         window.open(url, '_blank');
     }

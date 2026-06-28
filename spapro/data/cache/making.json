@@ -1,0 +1,58 @@
+{
+  "word": "making",
+  "found": true,
+  "phonetic_uk": "ˈmeɪkɪŋ",
+  "phonetic_us": "ˈmeɪkɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=making&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=making&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "制作，生产；素质，潜在能力；<美>材料，原料；使……成功的因素；<美，非正式>（自己动手卷烟用）纸和烟叶"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使得；进行；布置，准备，整理；制造（make 的现在分词形式）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "makings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You are making a big mistake.",
+      "zh": "你正在犯一个严重的错误。"
+    },
+    {
+      "en": "I'm not making any promises.",
+      "zh": "我不是在作任何承诺。"
+    },
+    {
+      "en": "You're making progress of a kind.",
+      "zh": "你也算是有点进步的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "发展；制造；形成",
+      "words": [
+        "development",
+        "growth",
+        "formation",
+        "advance",
+        "progress"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "制作（make的现在分词）",
+      "words": [
+        "fabricating"
+      ]
+    }
+  ]
+}
