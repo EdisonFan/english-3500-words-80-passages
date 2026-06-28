@@ -13,19 +13,17 @@
 </head>
 <body>
 <div class="video-page">
-    <!-- 返回按钮:PC新标签页可关,手机replace后回首页 -->
-    <button class="video-stage-close" id="backBtn">✕</button>
     <div class="video-feed" id="videoFeed"></div>
 </div>
 <script>
-/* 独立视频页:从 URL 取 word → 调搜索接口 → 渲染抖音式视频流 */
+/* 独立视频页:从 sessionStorage 取本页查好的视频列表,直接渲染抖音式视频流 */
 var VIDEO_SERVER = '';
 var _videoList = [];
 var _videoIdx = 0;
 var _videoWord = '';
 var videoFeed = document.getElementById('videoFeed');
 
-// 从 URL 取 word 参数
+// 从 URL 取 word 参数(仅作标识,实际数据从 sessionStorage 取)
 function getWordFromUrl() {
     var params = new URLSearchParams(location.search);
     return (params.get('word') || '').toLowerCase().trim();
@@ -40,19 +38,6 @@ function esc(text) {
 function fmtPlayCount(n) {
     n = Number(n) || 0;
     return n >= 10000 ? (n / 10000).toFixed(1) + '万' : n;
-}
-
-// 调搜索接口
-function fetchVideoList(word, callback) {
-    fetch(VIDEO_SERVER + '/api/search-video?word=' + encodeURIComponent(word))
-        .then(function(r) { return r.json(); })
-        .then(function(j) {
-            if (!j.ok) throw new Error(j.error || '搜索失败');
-            callback(j.list || []);
-        })
-        .catch(function(err) {
-            callback(null, err);
-        });
 }
 
 // 渲染视频流:每屏一个视频
@@ -123,31 +108,45 @@ function playVideoIdx(idx) {
     _videoIdx = idx;
 }
 
-// 返回按钮:回首页
-document.getElementById('backBtn').addEventListener('click', function() {
-    location.href = '/';
-});
-
-// 启动
+// 启动:优先从 sessionStorage 取本页查好的视频列表
 _videoWord = getWordFromUrl();
-if (!_videoWord) {
+var cachedList = null;
+var cachedWord = '';
+try {
+    cachedList = JSON.parse(sessionStorage.getItem('videoList') || 'null');
+    cachedWord = sessionStorage.getItem('videoWord') || '';
+    // 用完立即清,避免下次打开残留
+    sessionStorage.removeItem('videoList');
+    sessionStorage.removeItem('videoWord');
+} catch (e) {}
+
+if (cachedList && cachedList.length && cachedWord === _videoWord) {
+    // 命中缓存:直接渲染,不再调搜索接口
+    _videoList = cachedList;
+    renderVideoFeed();
+    videoFeed.scrollTop = 0;
+    setTimeout(function() { playVideoIdx(0); }, 100);
+} else if (!_videoWord) {
     videoFeed.innerHTML = '<div class="video-loading"><div>缺少单词参数</div></div>';
 } else {
+    // 兜底:sessionStorage 没数据(如直接访问 video.html),才调搜索接口
     videoFeed.innerHTML = '<div class="video-loading"><div class="video-spin"></div><div>搜索 "' + esc(_videoWord) + '" 的教学视频…</div></div>';
-    fetchVideoList(_videoWord, function(list, err) {
-        if (err) {
+    fetch(VIDEO_SERVER + '/api/search-video?word=' + encodeURIComponent(_videoWord))
+        .then(function(r) { return r.json(); })
+        .then(function(j) {
+            if (!j.ok) throw new Error(j.error || '搜索失败');
+            if (!j.list || !j.list.length) {
+                videoFeed.innerHTML = '<div class="video-loading"><div>没找到 "' + esc(_videoWord) + '" 的教学视频</div></div>';
+                return;
+            }
+            _videoList = j.list;
+            renderVideoFeed();
+            videoFeed.scrollTop = 0;
+            setTimeout(function() { playVideoIdx(0); }, 100);
+        })
+        .catch(function(err) {
             videoFeed.innerHTML = '<div class="video-loading"><div>搜索失败: ' + esc(String(err.message || err)) + '</div></div>';
-            return;
-        }
-        if (!list || !list.length) {
-            videoFeed.innerHTML = '<div class="video-loading"><div>没找到 "' + esc(_videoWord) + '" 的教学视频</div></div>';
-            return;
-        }
-        _videoList = list;
-        renderVideoFeed();
-        videoFeed.scrollTop = 0;
-        setTimeout(function() { playVideoIdx(0); }, 100);
-    });
+        });
 }
 </script>
 </body>

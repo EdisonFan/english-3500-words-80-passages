@@ -589,11 +589,18 @@ function isMobileDevice() {
 }
 
 /* 点击"教学视频"按钮:
+   - 把本页查到的视频列表存 sessionStorage,下个页面直接取,不再重查
    - PC(非移动端):新标签页打开视频页,保留文章页
    - 手机:当前页跳转视频页(可回退,不用replace) */
 function openVideoPage(word) {
     word = String(word || '').toLowerCase().trim();
     if (!word) return;
+    // 把视频列表存 sessionStorage,video.html 取出后立即删除
+    var list = _videoSearchCache[word] || [];
+    try {
+        sessionStorage.setItem('videoList', JSON.stringify(list));
+        sessionStorage.setItem('videoWord', word);
+    } catch (e) {}
     var url = '/video.html?word=' + encodeURIComponent(word);
     // 关掉词典弹框
     modalBg.classList.remove('active');
