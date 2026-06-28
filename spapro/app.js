@@ -414,7 +414,7 @@ function renderDictModal(data, videoList) {
     // 视频按钮:只有确认获取到非空视频列表才显示
     // videoList 为 undefined(还没查)或 [](查了但没结果/失败)都不显示
     if (data.word && videoList && videoList.length) {
-        html += '<button class="modal-video-btn" onclick="openVideoStage(\'' + esc(data.word) + '\')"><span class="mv-icon">▶</span> 教学视频</button>';
+        html += '<button class="modal-video-btn" onclick="openVideoPage(\'' + esc(data.word) + '\')"><span class="mv-icon">▶</span> 教学视频</button>';
     }
 
     if (data.loading) {
@@ -561,137 +561,48 @@ modalBg.addEventListener('click', function(e) {
     if (e.target === modalBg) modalBg.classList.remove('active');
 });
 
-/* === 单词教学视频层(抖音式上下滑动) === */
-var videoStage = document.getElementById('videoStage');
-var videoFeed = document.getElementById('videoFeed');
-var videoStageClose = document.getElementById('videoStageClose');
-// 视频流接口已合并进 spapro 同端口(8000),同源调用,无需跨域
-var VIDEO_SERVER = '';
-var _videoList = [];      // 搜索结果
-var _videoIdx = 0;        // 当前播放索引
-var _videoWord = '';      // 当前单词
+/* === 单词教学视频:跳转独立视频页 === */
+// 视频列表缓存:word -> 数组
+//   undefined = 还没查过; [] = 已查但无结果/失败; [item,...] = 有视频
+var _videoSearchCache = {};
 
-// 打开视频层:关词典弹框 → 搜索 → 渲染 → 播第一个
-function openVideoStage(word) {
+/* 查询单词的视频列表,结果存入 _videoSearchCache
+   后端 _search_video 自带日志,这里只负责判断结果决定按钮显隐 */
+function _fetchVideoList(word, callback) {
+    fetch('/api/search-video?word=' + encodeURIComponent(word))
+        .then(function(r) { return r.json(); })
+        .then(function(j) {
+            _videoSearchCache[word] = (j && j.ok && j.list && j.list.length) ? j.list : [];
+        })
+        .catch(function(err) {
+            // 获取失败也视为无视频,不显示按钮(后端日志已记录失败原因)
+            _videoSearchCache[word] = [];
+        })
+        .then(function() {
+            if (callback) callback();
+        });
+}
+
+/* 判断是否移动设备(用于决定视频页打开方式) */
+function isMobileDevice() {
+    return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|Mobile/i.test(navigator.userAgent);
+}
+
+/* 点击"教学视频"按钮:
+   - PC(非移动端):新标签页打开视频页,保留文章页
+   - 手机:replace 当前页面跳转视频页(手机切标签页不便) */
+function openVideoPage(word) {
     word = String(word || '').toLowerCase().trim();
     if (!word) return;
-    _videoWord = word;
-    _videoIdx = 0;
-
+    var url = '/video.html?word=' + encodeURIComponent(word);
     // 关掉词典弹框
     modalBg.classList.remove('active');
-
-    // 显示视频层
-    videoStage.classList.add('active');
-
-    // 优先用已缓存的视频列表(点按钮时通常已经查过了,避免重复请求)
-    if (_videoSearchCache[word] && _videoSearchCache[word].length) {
-        _videoList = _videoSearchCache[word];
-        videoFeed.innerHTML = '';
-        renderVideoFeed();
-        // 重置滚动位置到第一个(否则会保留上次滑动的位置)
-        videoFeed.scrollTop = 0;
-        setTimeout(function() { playVideoIdx(0); }, 100);
-        return;
+    if (isMobileDevice()) {
+        location.replace(url);
+    } else {
+        window.open(url, '_blank');
     }
-
-    // 兜底:没缓存才请求(理论上走到这的概率很低,因为按钮显示说明已查过)
-    videoFeed.innerHTML = '<div class="video-loading"><div class="video-spin"></div><div>搜索 "' + esc(word) + '" 的教学视频…</div></div>';
-    _fetchVideoList(word, function() {
-        if (!_videoSearchCache[word] || !_videoSearchCache[word].length) {
-            videoFeed.innerHTML = '<div class="video-loading"><div>没找到 "' + esc(word) + '" 的教学视频</div></div>';
-            return;
-        }
-        _videoList = _videoSearchCache[word];
-        renderVideoFeed();
-        videoFeed.scrollTop = 0;
-        setTimeout(function() { playVideoIdx(0); }, 100);
-    });
 }
-
-// 渲染视频流:每屏一个视频
-function renderVideoFeed() {
-    var html = '';
-    _videoList.forEach(function(v, i) {
-        html += '<div class="video-card" data-idx="' + i + '">';
-        html += '<video playsinline webkit-playsinline="true" preload="auto" loop controls controlslist="nodownload noplaybackrate noremoteplayback"';
-        if (v.pic) html += ' poster="https:' + v.pic + '"';
-        html += '></video>';
-        html += '<div class="video-card-idx">' + (i + 1) + '/' + _videoList.length + '</div>';
-        html += '<div class="video-card-info">';
-        html += '<div class="video-card-word">' + esc(_videoWord) + '</div>';
-        html += '<div class="video-card-title">' + esc(v.title) + '</div>';
-        html += '<div class="video-card-meta">@' + esc(v.author) + ' · 播放 ' + fmtPlayCount(v.play) + ' · ' + esc(v.duration) + '</div>';
-        html += '</div>';
-        html += '</div>';
-    });
-    videoFeed.innerHTML = html;
-
-    // 滚动监听(节流):停稳后切换播放
-    var scrollTimer;
-    videoFeed.onscroll = function() {
-        clearTimeout(scrollTimer);
-        scrollTimer = setTimeout(function() {
-            var idx = Math.round(videoFeed.scrollTop / videoFeed.clientHeight);
-            if (idx !== _videoIdx) playVideoIdx(idx);
-        }, 120);
-    };
-}
-
-// 给当前视频设 src 并播放,预加载下一个,清理远处的释放带宽
-function playVideoIdx(idx) {
-    var cards = videoFeed.children;
-    for (var i = 0; i < cards.length; i++) {
-        var video = cards[i].querySelector('video');
-        if (i === idx) {
-            // 当前:设 src + 播放
-            var srcUrl = VIDEO_SERVER + '/api/stream?bvid=' + _videoList[i].bvid;
-            // src 没变就不重设,避免重启播放
-            if (video.getAttribute('data-loaded') !== srcUrl) {
-                video.src = srcUrl;
-                video.setAttribute('data-loaded', srcUrl);
-                video.load();
-            }
-            video.play().catch(function() {});
-        } else if (i === idx + 1) {
-            // 预加载下一个:设 src + load,但不 play(preload=auto 浏览器会预拉元数据和前段数据)
-            var nextUrl = VIDEO_SERVER + '/api/stream?bvid=' + _videoList[i].bvid;
-            if (video.getAttribute('data-loaded') !== nextUrl) {
-                video.src = nextUrl;
-                video.setAttribute('data-loaded', nextUrl);
-                video.load();
-            }
-            video.pause();
-        } else if (i === idx - 1) {
-            // 上一个:已加载过,保留 src 但暂停(回滑时无需重新请求)
-            video.pause();
-        } else {
-            // 远处:清掉 src 释放带宽和连接,避免同时拉 10 个流
-            video.pause();
-            if (video.src) {
-                video.removeAttribute('src');
-                video.removeAttribute('data-loaded');
-                video.load();
-            }
-        }
-    }
-    _videoIdx = idx;
-}
-
-function fmtPlayCount(n) {
-    n = Number(n) || 0;
-    return n >= 10000 ? (n / 10000).toFixed(1) + '万' : n;
-}
-
-// 关闭视频层:暂停所有视频
-videoStageClose.addEventListener('click', function() {
-    var cards = videoFeed.children;
-    for (var i = 0; i < cards.length; i++) {
-        var video = cards[i].querySelector('video');
-        if (video) { video.pause(); video.src = ''; }
-    }
-    videoStage.classList.remove('active');
-});
 
 /* === 上下篇导航 === */
 function goPrev(id) { if (id > 1) location.hash = '#/' + (id - 1); }
