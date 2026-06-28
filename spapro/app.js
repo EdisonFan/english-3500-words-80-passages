@@ -346,6 +346,26 @@ function handleWordClick(e) {
 
 /* === 词典 API 查询（非 vocab 单词） === */
 var _dictCache = {};
+// 视频列表缓存:word -> 数组
+//   undefined = 还没查过; [] = 已查但无结果/失败; [item,...] = 有视频
+var _videoSearchCache = {};
+
+/* 查询单词的视频列表,结果存入 _videoSearchCache
+   后端 _search_video 自带日志,这里只负责判断结果决定按钮显隐 */
+function _fetchVideoList(word, callback) {
+    fetch('/api/search-video?word=' + encodeURIComponent(word))
+        .then(function(r) { return r.json(); })
+        .then(function(j) {
+            _videoSearchCache[word] = (j && j.ok && j.list && j.list.length) ? j.list : [];
+        })
+        .catch(function(err) {
+            // 获取失败也视为无视频,不显示按钮(后端日志已记录失败原因)
+            _videoSearchCache[word] = [];
+        })
+        .then(function() {
+            if (callback) callback();
+        });
+}
 
 function showDictModal(word) {
     word = String(word || '').toLowerCase().trim();
@@ -353,29 +373,47 @@ function showDictModal(word) {
 
     // 先查内存缓存
     if (_dictCache[word]) {
-        renderDictModal(_dictCache[word]);
+        renderDictModal(_dictCache[word], _videoSearchCache[word]);
+        // 视频列表没查过就异步补查,查完重新渲染弹窗(显示按钮)
+        if (_videoSearchCache[word] === undefined) {
+            _fetchVideoList(word, function() {
+                renderDictModal(_dictCache[word], _videoSearchCache[word]);
+            });
+        }
         return;
     }
 
-    // 显示 loading
+    // 显示 loading(此时视频还没查,不显示按钮)
     renderDictModal({ word: word, loading: true });
 
+    // 查词典
     fetch('/api/dict?q=' + encodeURIComponent(word))
         .then(function(r) { return r.json(); })
         .then(function(data) {
             _dictCache[word] = data;
-            renderDictModal(data);
+            renderDictModal(data, _videoSearchCache[word]);
         })
         .catch(function(err) {
             renderDictModal({ word: word, error: String(err.message || err) });
         });
+
+    // 同时查视频列表(后端 _search_video 自带日志,这里只判断结果决定按钮显隐)
+    if (_videoSearchCache[word] === undefined) {
+        _fetchVideoList(word, function() {
+            // 词典数据可能已回来,重新渲染弹窗(此时按钮按视频列表有无显示)
+            if (_dictCache[word]) {
+                renderDictModal(_dictCache[word], _videoSearchCache[word]);
+            }
+        });
+    }
 }
 
-function renderDictModal(data) {
+function renderDictModal(data, videoList) {
     var html = '<div class="modal-eyebrow">Dictionary</div>';
 
-    // 视频按钮:任意状态下都显示,点了关弹框去播教学视频
-    if (data.word) {
+    // 视频按钮:只有确认获取到非空视频列表才显示
+    // videoList 为 undefined(还没查)或 [](查了但没结果/失败)都不显示
+    if (data.word && videoList && videoList.length) {
         html += '<button class="modal-video-btn" onclick="openVideoStage(\'' + esc(data.word) + '\')"><span class="mv-icon">▶</span> 教学视频</button>';
     }
 
@@ -538,33 +576,34 @@ function openVideoStage(word) {
     word = String(word || '').toLowerCase().trim();
     if (!word) return;
     _videoWord = word;
-    _videoList = [];
     _videoIdx = 0;
 
     // 关掉词典弹框
     modalBg.classList.remove('active');
 
-    // 显示视频层 + 加载状态
-    videoFeed.innerHTML = '<div class="video-loading"><div class="video-spin"></div><div>搜索 "' + esc(word) + '" 的教学视频…</div></div>';
+    // 显示视频层
     videoStage.classList.add('active');
 
-    // 调 spapro 后端的搜索接口
-    fetch('/api/search-video?word=' + encodeURIComponent(word))
-        .then(function(r) { return r.json(); })
-        .then(function(j) {
-            if (!j.ok) throw new Error(j.error || '搜索失败');
-            if (!j.list || !j.list.length) {
-                videoFeed.innerHTML = '<div class="video-loading"><div>没找到 "' + esc(word) + '" 的教学视频</div></div>';
-                return;
-            }
-            _videoList = j.list;
-            renderVideoFeed();
-            // 播第一个
-            setTimeout(function() { playVideoIdx(0); }, 100);
-        })
-        .catch(function(err) {
-            videoFeed.innerHTML = '<div class="video-loading"><div>搜索失败: ' + esc(String(err.message || err)) + '</div><div style="margin-top:8px;font-size:12px;opacity:.6">可能是请求过快被限流,稍等几秒重试</div></div>';
-        });
+    // 优先用已缓存的视频列表(点按钮时通常已经查过了,避免重复请求)
+    if (_videoSearchCache[word] && _videoSearchCache[word].length) {
+        _videoList = _videoSearchCache[word];
+        videoFeed.innerHTML = '';
+        renderVideoFeed();
+        setTimeout(function() { playVideoIdx(0); }, 100);
+        return;
+    }
+
+    // 兜底:没缓存才请求(理论上走到这的概率很低,因为按钮显示说明已查过)
+    videoFeed.innerHTML = '<div class="video-loading"><div class="video-spin"></div><div>搜索 "' + esc(word) + '" 的教学视频…</div></div>';
+    _fetchVideoList(word, function() {
+        if (!_videoSearchCache[word] || !_videoSearchCache[word].length) {
+            videoFeed.innerHTML = '<div class="video-loading"><div>没找到 "' + esc(word) + '" 的教学视频</div></div>';
+            return;
+        }
+        _videoList = _videoSearchCache[word];
+        renderVideoFeed();
+        setTimeout(function() { playVideoIdx(0); }, 100);
+    });
 }
 
 // 渲染视频流:每屏一个视频
