@@ -1,0 +1,155 @@
+{
+  "word": "students",
+  "found": true,
+  "phonetic_uk": "ˈstjʊdnts",
+  "phonetic_us": "ˈstjʊdnts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=students&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=students&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "学生（student 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Most students live in college.",
+      "zh": "大多数学生住在学院里。"
+    },
+    {
+      "en": "Failure can demotivate students.",
+      "zh": "失败会挫伤学生的积极性。"
+    },
+    {
+      "en": "He tutors students in mathematics.",
+      "zh": "他教学生数学。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "（尤指大专院校的）学生（student的复数）",
+      "words": [
+        "pupils",
+        "schoolmen"
+      ]
+    }
+  ],
+  "prototype": "student",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研"
+  ],
+  "phrs": [
+    {
+      "phrase": "faculty and students",
+      "translations": [
+        "教师和学生"
+      ]
+    },
+    {
+      "phrase": "students enrollment",
+      "translations": [
+        "在校学生人数"
+      ]
+    },
+    {
+      "phrase": "dean of students",
+      "translations": [
+        "教导主任"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "stud（结构，建设）+ ent（表示某人）→ 知识的建构者 → 学生",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 1747,
+          "type": "阅读"
+        },
+        {
+          "time": 160,
+          "type": "短文填空"
+        },
+        {
+          "time": 237,
+          "type": "听力"
+        },
+        {
+          "time": 40,
+          "type": "翻译"
+        },
+        {
+          "time": 30,
+          "type": "情景对话"
+        },
+        {
+          "time": 104,
+          "type": "写作"
+        },
+        {
+          "time": 259,
+          "type": "完形填空"
+        },
+        {
+          "time": 182,
+          "type": "单项选择"
+        },
+        {
+          "time": 92,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 5,
+      "frequency": 2851
+    },
+    "pastExamSents": [
+      {
+        "en": "I'm Kevin, a student of Grade 9.",
+        "zh": "我叫凯文，是一名九年级的学生。",
+        "source": "2021·天津·阅读"
+      },
+      {
+        "en": "One afternoon a student was taking a walk with his teacher.",
+        "zh": "一天下午，一个学生和他的老师一起散步。",
+        "source": "2021·湖南-娄底·阅读"
+      },
+      {
+        "en": "He led a student team to join in a competition for the \"empty plate\" campaign.",
+        "zh": "他带领了一个学生团队参加“光盘“行动比赛。",
+        "source": "2021·辽宁-鞍山·阅读"
+      },
+      {
+        "en": "In the school, the girl is the only student living with her grandmother in a mountain village.",
+        "zh": "在学校里，这个女孩是唯一一个和她奶奶住在山村里的学生。",
+        "source": "2021·黑龙江-牡丹江、鸡西地区·阅读"
+      },
+      {
+        "en": "We've got a Chinese exchange student at our school, and he joined us in the band practice.",
+        "zh": "我们学校有一个中国交换生，他加入了我们的乐队练习。",
+        "source": "2021·江苏-徐州·短文填空"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "foreign student",
+        "zh": "外国学生"
+      },
+      {
+        "en": "international student",
+        "zh": "国际学生；留学生"
+      },
+      {
+        "en": "girl / boy student",
+        "zh": "女 / 男学生"
+      }
+    ]
+  }
+}

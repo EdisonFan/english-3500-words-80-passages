@@ -1,0 +1,43 @@
+{
+  "word": "at first",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=at%20first&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=at%20first&type=2",
+  "defs": [
+    {
+      "pos": "",
+      "meaning": "最初，开始阶段"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "At first the place was strange to me.",
+      "zh": "起先我对这个地方不熟悉。"
+    },
+    {
+      "en": "At first she was flattered by his devotion.",
+      "zh": "最初他的挚爱使她感到受宠若惊。"
+    },
+    {
+      "en": "At first I scoffed at the notion.",
+      "zh": "刚开始时我对那种想法嗤之以鼻。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "",
+      "meaning": "起先，首先；最初",
+      "words": [
+        "at the beginning",
+        "above all"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [],
+  "phrs": [],
+  "individual": {}
+}

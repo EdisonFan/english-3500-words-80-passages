@@ -1,0 +1,242 @@
+{
+  "word": "first",
+  "found": true,
+  "phonetic_uk": "fɜːst",
+  "phonetic_us": "fɜːrst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=first&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=first&type=2",
+  "defs": [
+    {
+      "pos": "det.",
+      "meaning": "第一位的，最先的；首（次）的；（某一时间或某事后的）紧接着来到的；（一列中）最前面的；最重要的；（用于工作或职位的头衔中）最高的；最迫切的，最合适的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "第一，最初；起初；第一次；（列举时用）首先；（强调不愿意）宁可；以身体的某一部位（或某人）在先（或为首）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "第一个人（或事物)；前所未有的事情；（汽车、自行车等的）最低档；（英国大学学位）最高成绩；（棒球）第一垒；一等品"
+    },
+    {
+      "pos": "pron.",
+      "meaning": "第一次"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （First）（美）菲尔斯特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "firsts"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We're expecting our first baby.",
+      "zh": "我们要生第一个孩子了。"
+    },
+    {
+      "en": "She won the first hole.",
+      "zh": "她在第一洞时领先。"
+    },
+    {
+      "en": "He landed feet first.",
+      "zh": "他落地时双脚先着地。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "第一；首先；优先；宁愿",
+      "words": [
+        "primarily",
+        "soon",
+        "initially",
+        "rather"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "第一；开始；冠军",
+      "words": [
+        "threshold",
+        "conception",
+        "beginning",
+        "opening",
+        "title"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "第一的；基本的；最早的",
+      "words": [
+        "elementary",
+        "premier",
+        "fundamental",
+        "basic",
+        "essential"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研"
+  ],
+  "phrs": [
+    {
+      "phrase": "first time",
+      "translations": [
+        "第一次；第一时间"
+      ]
+    },
+    {
+      "phrase": "at first",
+      "translations": [
+        "起先，首先；最初"
+      ]
+    },
+    {
+      "phrase": "quality first",
+      "translations": [
+        "质量第一"
+      ]
+    },
+    {
+      "phrase": "first of all",
+      "translations": [
+        "adv. 首先"
+      ]
+    },
+    {
+      "phrase": "customer first",
+      "translations": [
+        "客户至上；顾客至上"
+      ]
+    },
+    {
+      "phrase": "first step",
+      "translations": [
+        "第一步，首要步骤"
+      ]
+    },
+    {
+      "phrase": "first place",
+      "translations": [
+        "第一名"
+      ]
+    },
+    {
+      "phrase": "first day",
+      "translations": [
+        "n. 星期日"
+      ]
+    },
+    {
+      "phrase": "first half",
+      "translations": [
+        "上半时；前半场"
+      ]
+    },
+    {
+      "phrase": "first class",
+      "translations": [
+        "头等，第一流；最高级"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 1654,
+          "type": "阅读"
+        },
+        {
+          "time": 172,
+          "type": "短文填空"
+        },
+        {
+          "time": 93,
+          "type": "听力"
+        },
+        {
+          "time": 16,
+          "type": "翻译"
+        },
+        {
+          "time": 48,
+          "type": "情景对话"
+        },
+        {
+          "time": 18,
+          "type": "写作"
+        },
+        {
+          "time": 281,
+          "type": "完形填空"
+        },
+        {
+          "time": 130,
+          "type": "单项选择"
+        },
+        {
+          "time": 44,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 5,
+      "frequency": 2456
+    },
+    "pastExamSents": [
+      {
+        "en": "Once you've got your team together, always trust your first answer, and don't think about it too much.",
+        "zh": "一旦你的团队成立，要总是相信第一个答案，不要想太多。",
+        "source": "2021·江苏-南通·阅读"
+      },
+      {
+        "en": "Postma's first Repair Cafe opened on Oct. 18, 2009, in Amsterdam, and was a huge success.",
+        "zh": "波斯马的第一家修理咖啡馆于2009年10月18日在阿姆斯特丹开业，并取得了巨大的成功。",
+        "source": "2021·江苏-无锡·阅读"
+      },
+      {
+        "en": "It's the first professional dictionary about Weiqi in China.",
+        "zh": "这是中国第一本关于围棋的专业辞典。",
+        "source": "2021·湖北-宜昌·阅读"
+      },
+      {
+        "en": "About 45 minutes later, the first rescuers arrived. Paula and her husband were flown to a hospital.",
+        "zh": "大约45分钟后，第一批救援人员到达。宝拉和她的丈夫被送往医院。",
+        "source": "2021·江苏-扬州·阅读"
+      },
+      {
+        "en": "It was love at first sight.",
+        "zh": "那是一见钟情。",
+        "source": "2021·陕西·阅读"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "at first",
+        "zh": "起初"
+      },
+      {
+        "en": "first of all",
+        "zh": "首先"
+      },
+      {
+        "en": "first name (given name)",
+        "zh": "名"
+      }
+    ]
+  }
+}
