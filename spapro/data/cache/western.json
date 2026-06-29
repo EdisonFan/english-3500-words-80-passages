@@ -1,0 +1,211 @@
+{
+  "word": "western",
+  "found": true,
+  "phonetic_uk": "ˈwestən",
+  "phonetic_us": "ˈwestərn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=western&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=western&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "西方的，西部的；（Western）西方国家的（指与北美、西欧、北欧、南欧各国相关的）；美国西部的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（关于19世纪美国西部生活，尤指牛仔生活的）西部电影、西部小说；西方人"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Western）（英）韦斯顿（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Most Western societies are liberal in outlook.",
+      "zh": "西方社会大多思想观念开放。"
+    },
+    {
+      "en": "They have clearly embraced Western consumerism.",
+      "zh": "很明显他们已经接受了西方的消费主义观念。"
+    },
+    {
+      "en": "The single-engine plane landed in western Arizona.",
+      "zh": "单引擎飞机在亚利桑那州西部降落。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "西方的，西部的；有西方特征的",
+      "words": [
+        "hesperian"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "西方人；西部片，西部小说",
+      "words": [
+        "occidental"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研"
+  ],
+  "phrs": [
+    {
+      "phrase": "western countries",
+      "translations": [
+        "西方国家（western 西方；country 的复数形式）；西域"
+      ]
+    },
+    {
+      "phrase": "western medicine",
+      "translations": [
+        "西医；西药"
+      ]
+    },
+    {
+      "phrase": "western culture",
+      "translations": [
+        "西方文化"
+      ]
+    },
+    {
+      "phrase": "western europe",
+      "translations": [
+        "西欧"
+      ]
+    },
+    {
+      "phrase": "western development",
+      "translations": [
+        "西部大开发"
+      ]
+    },
+    {
+      "phrase": "western civilization",
+      "translations": [
+        "n. 西方文明；西方文化"
+      ]
+    },
+    {
+      "phrase": "western food",
+      "translations": [
+        "西餐；西方菜肴"
+      ]
+    },
+    {
+      "phrase": "western style",
+      "translations": [
+        "西方风格的；西方式；欧美风格"
+      ]
+    },
+    {
+      "phrase": "western hemisphere",
+      "translations": [
+        "西半球"
+      ]
+    },
+    {
+      "phrase": "western australia",
+      "translations": [
+        "西澳大利亚州；西澳洲（澳大利亚联邦的一个洲，位于澳大利亚西部）"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "west（西方）+ ern（表示方位）→ 西方的",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 102,
+          "type": "阅读"
+        },
+        {
+          "time": 15,
+          "type": "短文填空"
+        },
+        {
+          "time": 7,
+          "type": "听力"
+        },
+        {
+          "time": 0,
+          "type": "翻译"
+        },
+        {
+          "time": 1,
+          "type": "情景对话"
+        },
+        {
+          "time": 2,
+          "type": "写作"
+        },
+        {
+          "time": 11,
+          "type": "完形填空"
+        },
+        {
+          "time": 6,
+          "type": "单项选择"
+        },
+        {
+          "time": 8,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 3,
+      "frequency": 152
+    },
+    "pastExamSents": [
+      {
+        "en": "He was exploring how to spread Chinese culture abroad by translating Chinese beauty into Western beauty.",
+        "zh": "他正探索如何通过将中国美转化为西方美来传播中国文化。",
+        "source": "2021·广东-深圳·短文填空"
+      },
+      {
+        "en": "China grows a great deal of cotton, mostly in the western areas.",
+        "zh": "中国种植大量棉花，主要在西部地区。",
+        "source": "2021·江苏-常州·单项选择"
+      },
+      {
+        "en": "During the COVID-19 pandemic, she used her comics to explain why Chinese people prefer to wear masks while western people don't.",
+        "zh": "在新冠肺炎疫情期间，她用漫画解释了为什么中国人喜欢戴口罩，而西方人不喜欢。",
+        "source": "2021·辽宁-抚顺、本溪、辽阳·阅读"
+      },
+      {
+        "en": "Besides local food, some people eat Western food.",
+        "zh": "除了当地食物，有些人也吃西餐。",
+        "source": "2021·四川-成都·阅读"
+      },
+      {
+        "en": "In Russia and western countries, having a meal in a public place means you must keep your voice low.",
+        "zh": "在俄罗斯和西方国家，在公共场所用餐意味着你必须压低声音。",
+        "source": "2017，2021·四川-成都，湖北-黄石·短文填空，完形填空"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "western countries",
+        "zh": "西方国家"
+      },
+      {
+        "en": "western culture",
+        "zh": "西方文化"
+      },
+      {
+        "en": "western food",
+        "zh": "西餐"
+      }
+    ]
+  }
+}

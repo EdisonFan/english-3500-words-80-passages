@@ -1,0 +1,139 @@
+{
+  "word": "however",
+  "found": true,
+  "phonetic_uk": "haʊˈevə(r)",
+  "phonetic_us": "haʊˈevər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=however&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=however&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "然而，可是，不过；无论如何；（用于表示惊讶）究竟怎样；……左右，……上下"
+    },
+    {
+      "pos": "conj.",
+      "meaning": "不管怎样，无论如何；然而，可是"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "On one issue, however, she was immovable.",
+      "zh": "然而，就一点而言，她态度是坚决的。"
+    },
+    {
+      "en": "However, traders tended to discount the rumour.",
+      "zh": "但是，商人们倾向于不理会这个传闻。"
+    },
+    {
+      "en": "However, he underestimates the scale of the problem.",
+      "zh": "然而，他却低估了问题的严重性。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "无论如何；不管怎样",
+      "words": [
+        "anyway",
+        "at all events"
+      ]
+    },
+    {
+      "pos": "conj.",
+      "meaning": "然而；可是",
+      "words": [
+        "whereas",
+        "while",
+        "nevertheless",
+        "but",
+        "yet"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研",
+    "IELTS"
+  ],
+  "phrs": [],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "how（怎样）+ ever（永远）→ 无论怎样",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 568,
+          "type": "阅读"
+        },
+        {
+          "time": 104,
+          "type": "短文填空"
+        },
+        {
+          "time": 0,
+          "type": "听力"
+        },
+        {
+          "time": 5,
+          "type": "翻译"
+        },
+        {
+          "time": 5,
+          "type": "情景对话"
+        },
+        {
+          "time": 6,
+          "type": "写作"
+        },
+        {
+          "time": 163,
+          "type": "完形填空"
+        },
+        {
+          "time": 12,
+          "type": "单项选择"
+        },
+        {
+          "time": 2,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 5,
+      "frequency": 865
+    },
+    "pastExamSents": [
+      {
+        "en": "However, everyone must decide for themselves, the 83-year-old artist said.",
+        "zh": "然而，这位83岁的艺术家说，每个人都必须自己做决定。",
+        "source": "2020·江苏-无锡·阅读"
+      },
+      {
+        "en": "Often, however, the problem is solved when the noisy neighbor knows you are going to call the police.",
+        "zh": "然而，通常情况下，要是吵闹的邻居知道你要报警，问题就能解决了。",
+        "source": "2020·江苏-泰州·阅读"
+      },
+      {
+        "en": "However, at times, some negative (消极的) ideas may stop us.",
+        "zh": "然而，有时候，一些消极想法可能会阻止我们。",
+        "source": "2020·重庆-A卷·短文填空"
+      },
+      {
+        "en": "However, most students don't seem to like online classes.",
+        "zh": "然而，大多数学生似乎不喜欢线上课程。",
+        "source": "2020·四川-遂宁·阅读"
+      },
+      {
+        "en": "However, her playing volleyball is more difficult than being an actress.",
+        "zh": "然而，她打排球比当演员还难。",
+        "source": "2020·湖北-荆门·阅读"
+      }
+    ],
+    "idiomatic": []
+  }
+}

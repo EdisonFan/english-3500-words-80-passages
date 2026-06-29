@@ -1,0 +1,200 @@
+{
+  "word": "percent",
+  "found": true,
+  "phonetic_uk": "pəˈsent",
+  "phonetic_us": "pərˈsent",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=percent&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=percent&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "百分之……；部分"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "百分之……的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "以百分之……地，每一百中有……地"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "percent或percents"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Crime has gone down 70 percent.",
+      "zh": "犯罪率已下降了70%。"
+    },
+    {
+      "en": "57 percent complained of work overload.",
+      "zh": "57%的人抱怨工作负担过重。"
+    },
+    {
+      "en": "Sixty percent of people answered negatively.",
+      "zh": "60%的人做出了否定回答。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[数]百分比，百分率；部分；百分数",
+      "words": [
+        "proportion",
+        "part",
+        "portion",
+        "integral",
+        "fraction"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研",
+    "商务英语"
+  ],
+  "phrs": [
+    {
+      "phrase": "one hundred percent",
+      "translations": [
+        "百分之百；不折不扣"
+      ]
+    },
+    {
+      "phrase": "percent of pass",
+      "translations": [
+        "合格率，通过率"
+      ]
+    },
+    {
+      "phrase": "recovery percent",
+      "translations": [
+        "采收率"
+      ]
+    },
+    {
+      "phrase": "percent reduction",
+      "translations": [
+        "还原率，百分低减"
+      ]
+    },
+    {
+      "phrase": "a hundred percent",
+      "translations": [
+        "百分之百；完全"
+      ]
+    },
+    {
+      "phrase": "weight percent",
+      "translations": [
+        "重量百分数"
+      ]
+    },
+    {
+      "phrase": "percent conversion",
+      "translations": [
+        "转化率；反应率"
+      ]
+    },
+    {
+      "phrase": "mass percent",
+      "translations": [
+        "质量百分比"
+      ]
+    },
+    {
+      "phrase": "volume percent",
+      "translations": [
+        "容积百分数，容量百分比；体积百分比"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "per（每）+ cent（百）→ 每一百 → 百分比",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 181,
+          "type": "阅读"
+        },
+        {
+          "time": 15,
+          "type": "短文填空"
+        },
+        {
+          "time": 4,
+          "type": "听力"
+        },
+        {
+          "time": 12,
+          "type": "翻译"
+        },
+        {
+          "time": 2,
+          "type": "情景对话"
+        },
+        {
+          "time": 0,
+          "type": "写作"
+        },
+        {
+          "time": 13,
+          "type": "完形填空"
+        },
+        {
+          "time": 5,
+          "type": "单项选择"
+        },
+        {
+          "time": 0,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 3,
+      "frequency": 232
+    },
+    "pastExamSents": [
+      {
+        "en": "Twenty percent exercise only one to three times a week.",
+        "zh": "百分之二十的人每周只锻炼一至三次。",
+        "source": "2021·湖南-湘潭·翻译"
+      },
+      {
+        "en": "In summer, nearly 50 percent of these is ice.",
+        "zh": "在夏天，其中近50%是冰。",
+        "source": "2021·四川-成都·阅读"
+      },
+      {
+        "en": "Eighty-five percent watch TV every day!",
+        "zh": "85%的人每天都看电视！",
+        "source": "2020，2021·湖南-邵阳，湖南-湘潭·阅读，翻译"
+      },
+      {
+        "en": "Only 20 percent of teenagers do chores at home.",
+        "zh": "只有20%的青少年在家做家务。",
+        "source": "2021·山西·听力"
+      },
+      {
+        "en": "Protection of wetlands in China is very important, as China has wetlands with 65.9 million hectares, 10 percent of the world's wetland areas, which comes fourth in the world.",
+        "zh": "中国的湿地保护非常重要，中国的湿地面积达6590万公顷，占世界湿地面积的10%，湿地面积居世界第四。",
+        "source": "2021·江苏-镇江·阅读"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "数字 + percent of …",
+        "zh": "百分之……（数字）的……"
+      }
+    ]
+  }
+}

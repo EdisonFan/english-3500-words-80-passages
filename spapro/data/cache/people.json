@@ -1,0 +1,229 @@
+{
+  "word": "people",
+  "found": true,
+  "phonetic_uk": "ˈpiːp(ə)l",
+  "phonetic_us": "ˈpiːp(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=people&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=people&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "人，人类；人们，大家（the people）；平民，老百姓（the people）；民族，种族（peoples）；（具有共同品质、兴趣等的）人员，团体；与某人有联系的人们（one's people）；<美，非正式>各位，诸位；<美>（审判中的）公诉人（the People）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "居住在，定居于；充满，充斥着（某种类型的人）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "people或peoples"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "peoples"
+    },
+    {
+      "name": "现在分词",
+      "value": "peopling"
+    },
+    {
+      "name": "过去式",
+      "value": "peopled"
+    },
+    {
+      "name": "过去分词",
+      "value": "peopled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "People were talking animatedly.",
+      "zh": "人们热烈地交谈着。"
+    },
+    {
+      "en": "People are better educated now.",
+      "zh": "现在人们教育程度更高了。"
+    },
+    {
+      "en": "People idealize the past.",
+      "zh": "人们总是把过去理想化。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[人类]人；人类；民族；公民",
+      "words": [
+        "mankind",
+        "humanity",
+        "nation",
+        "citizen",
+        "folk"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "居住于；使住满人",
+      "words": [
+        "populate",
+        "inhabit"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研"
+  ],
+  "phrs": [
+    {
+      "phrase": "many people",
+      "translations": [
+        "许多人；很多人；好多人"
+      ]
+    },
+    {
+      "phrase": "some people",
+      "translations": [
+        "有些人；有人；一些人"
+      ]
+    },
+    {
+      "phrase": "other people",
+      "translations": [
+        "其他人"
+      ]
+    },
+    {
+      "phrase": "chinese people",
+      "translations": [
+        "中国人"
+      ]
+    },
+    {
+      "phrase": "young people",
+      "translations": [
+        "n. 年 年轻人"
+      ]
+    },
+    {
+      "phrase": "most people",
+      "translations": [
+        "多数人"
+      ]
+    },
+    {
+      "phrase": "common people",
+      "translations": [
+        "大众，平民"
+      ]
+    },
+    {
+      "phrase": "old people",
+      "translations": [
+        "老年人；老人"
+      ]
+    },
+    {
+      "phrase": "number of people",
+      "translations": [
+        "人数"
+      ]
+    },
+    {
+      "phrase": "ordinary people",
+      "translations": [
+        "普通人，一般人"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 5418,
+          "type": "阅读"
+        },
+        {
+          "time": 698,
+          "type": "短文填空"
+        },
+        {
+          "time": 188,
+          "type": "听力"
+        },
+        {
+          "time": 96,
+          "type": "翻译"
+        },
+        {
+          "time": 86,
+          "type": "情景对话"
+        },
+        {
+          "time": 41,
+          "type": "写作"
+        },
+        {
+          "time": 544,
+          "type": "完形填空"
+        },
+        {
+          "time": 306,
+          "type": "单项选择"
+        },
+        {
+          "time": 139,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 5,
+      "frequency": 7516
+    },
+    "pastExamSents": [
+      {
+        "en": "The decision is part of the city's purpose to become plastic waste-free by 2020. In order to encourage local people to take buses, the city also added the new Suroboyo buses.",
+        "zh": "这是该市为在2020年前实现无塑料垃圾目标而做出的决定。为了鼓励当地人乘坐公交车，该市还增加了新的苏罗博约巴士。",
+        "source": "2021·江苏-泰州·阅读"
+      },
+      {
+        "en": "To memorize Yuan Longping, Father of Hybrid Rice, people in our city will show you their greatest inventions on saving food.",
+        "zh": "为了纪念杂交水稻之父袁隆平，我们城市的人们将向你展示他们在节约粮食方面的伟大发明。",
+        "source": "2021·黑龙江-黑河、齐齐哈尔、大兴安岭·阅读"
+      },
+      {
+        "en": "Your address can make it much easier for bad people to find you.",
+        "zh": "你的地址会让坏人更容易找到你。",
+        "source": "2021·四川-绵阳·阅读"
+      },
+      {
+        "en": "For most areas of China, it marks the start of the coldest days of the year and people always start preparing for New Year.",
+        "zh": "对于中国大部分地区来说，这一天标志着一年中最冷日子的开始，人们总是从这一天开始为新年做准备。",
+        "source": "2021·湖南-衡阳·阅读"
+      },
+      {
+        "en": "If someone behaves \"like a bull in a china shop\", people say he or she is clumsy when he or she should be more careful.",
+        "zh": "如果一个人表现得“像在瓷器店的公牛”，人们是说他笨手笨脚，或者让他更小心些。",
+        "source": "2021·辽宁-抚顺、本溪、辽阳·阅读"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "the Great Hall of the People",
+        "zh": "人民大会堂"
+      },
+      {
+        "en": "common people",
+        "zh": "普通人"
+      }
+    ]
+  }
+}

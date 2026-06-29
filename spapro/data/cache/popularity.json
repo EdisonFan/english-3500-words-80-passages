@@ -1,0 +1,142 @@
+{
+  "word": "popularity",
+  "found": true,
+  "phonetic_uk": "ˌpɒpjuˈlærəti",
+  "phonetic_us": "ˌpɑːpjuˈlærəti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=popularity&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=popularity&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "流行，普及，受欢迎"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "His popularity has slipped recently.",
+      "zh": "近来他已不如过去那样受欢迎。"
+    },
+    {
+      "en": "Her popularity clearly shows no sign of waning.",
+      "zh": "她的受欢迎程度显然没有显示出下降的迹象。"
+    },
+    {
+      "en": "Her popularity has been on the wane for some time.",
+      "zh": "她的人气一段时间以来江河日下。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "普及，流行；名气；受大众欢迎",
+      "words": [
+        "prevalence",
+        "diffusedness"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "IELTS",
+    "GRE"
+  ],
+  "phrs": [
+    {
+      "phrase": "enjoy great popularity",
+      "translations": [
+        "享有盛誉"
+      ]
+    },
+    {
+      "phrase": "link popularity",
+      "translations": [
+        "链接广泛度"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "popular（流行的）+ ity（表示名词）→ 流行",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 28,
+          "type": "阅读"
+        },
+        {
+          "time": 1,
+          "type": "短文填空"
+        },
+        {
+          "time": 1,
+          "type": "听力"
+        },
+        {
+          "time": 0,
+          "type": "翻译"
+        },
+        {
+          "time": 0,
+          "type": "情景对话"
+        },
+        {
+          "time": 0,
+          "type": "写作"
+        },
+        {
+          "time": 0,
+          "type": "完形填空"
+        },
+        {
+          "time": 0,
+          "type": "单项选择"
+        },
+        {
+          "time": 0,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 1,
+      "frequency": 30
+    },
+    "pastExamSents": [
+      {
+        "en": "What's more, I have won more popularity for the videos I created.",
+        "zh": "而且，我创作的视频赢得了更多人气。",
+        "source": "2021·湖北-荆门·阅读"
+      },
+      {
+        "en": "The headline was not overstating (夸大) the popularity of Dickens.",
+        "zh": "标题没有夸大狄更斯的受欢迎程度。",
+        "source": "2020·湖南-长沙·阅读"
+      },
+      {
+        "en": "This helped to spread the popularity of tea to more places around the world.",
+        "zh": "这有助于将茶叶普及到世界上更多的地方。",
+        "source": "2019·广西-河池·阅读"
+      },
+      {
+        "en": "The increase in popularity of Chinese has been surprising.",
+        "zh": "汉语受欢迎程度的增加令人惊讶。",
+        "source": "2019·山西·阅读"
+      },
+      {
+        "en": "As the classes grew in popularity, Kang became the school's favorite teacher.",
+        "zh": "随着课程越来越受欢迎，康成了学校最受欢迎的老师。",
+        "source": "2019·江苏-镇江·阅读"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "sth. gain / grow / increase in popularity",
+        "zh": "某物人气增长"
+      }
+    ]
+  }
+}

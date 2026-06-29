@@ -1,0 +1,110 @@
+{
+  "word": "asia",
+  "found": true,
+  "phonetic_uk": "ˈeɪʒə; ˈeɪʃə",
+  "phonetic_us": "ˈeɪʒə; ˈeɪʃə",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=asia&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=asia&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "亚洲"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He has travelled widely in Asia.",
+      "zh": "他在亚洲许多地方旅行过。"
+    },
+    {
+      "en": "Where does Europe end and Asia begin?",
+      "zh": "欧洲和亚洲的交界处在哪里？"
+    },
+    {
+      "en": "He kept a journal of his travels across Asia.",
+      "zh": "他把自己的亚洲之行记录下来了。"
+    }
+  ],
+  "synonyms": [],
+  "prototype": "",
+  "exam_type": [
+    "初中"
+  ],
+  "phrs": [],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 51,
+          "type": "阅读"
+        },
+        {
+          "time": 4,
+          "type": "短文填空"
+        },
+        {
+          "time": 7,
+          "type": "听力"
+        },
+        {
+          "time": 1,
+          "type": "翻译"
+        },
+        {
+          "time": 0,
+          "type": "情景对话"
+        },
+        {
+          "time": 0,
+          "type": "写作"
+        },
+        {
+          "time": 2,
+          "type": "完形填空"
+        },
+        {
+          "time": 2,
+          "type": "单项选择"
+        },
+        {
+          "time": 3,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 2,
+      "frequency": 70
+    },
+    "pastExamSents": [
+      {
+        "en": "Yue is spoken in Guangdong, Hong Kong, Macao, Taiwan, all over Southeast Asia and by many Chinese living abroad.",
+        "zh": "粤语通行于广东、香港、澳门、台湾以及整个东南亚，许多生活在国外的中国人也讲粤语。",
+        "source": "2021·江苏-苏州·阅读"
+      },
+      {
+        "en": "Many people in Asia eat rice every day.",
+        "zh": "很多亚洲人每天都吃米饭。",
+        "source": "2021·贵州-黔东南·阅读"
+      },
+      {
+        "en": "I've been to many countries in Asia and know a lot about Asian cultures.",
+        "zh": "我去过很多亚洲国家，了解了很多亚洲文化。",
+        "source": "2021·浙江-金华·阅读"
+      },
+      {
+        "en": "Malnutrition is a great problem in some poor parts of Asia and Africa.",
+        "zh": "营养不良是亚洲和非洲一些贫困地区的一个大问题。",
+        "source": "2021·甘肃-兰州·阅读"
+      },
+      {
+        "en": "Over time, kites flew their way out of Asia.",
+        "zh": "随着时间的推移，风筝“飞”出了亚洲。",
+        "source": "2020·广东-广州·阅读"
+      }
+    ],
+    "idiomatic": []
+  }
+}

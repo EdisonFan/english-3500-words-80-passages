@@ -1,0 +1,154 @@
+{
+  "word": "countries",
+  "found": true,
+  "phonetic_uk": "ˈkʌntriz",
+  "phonetic_us": "ˈkʌntriz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=countries&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=countries&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "国家（country 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The countries are contiguous.",
+      "zh": "这些国家互相接壤。"
+    },
+    {
+      "en": "The two countries merged into one.",
+      "zh": "这两个国家合二为一了。"
+    },
+    {
+      "en": "Police in many countries carry guns.",
+      "zh": "许多国家的警察都带枪。"
+    }
+  ],
+  "synonyms": [],
+  "prototype": "country",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "商务英语"
+  ],
+  "phrs": [
+    {
+      "phrase": "other countries",
+      "translations": [
+        "其他国家；别国"
+      ]
+    },
+    {
+      "phrase": "western countries",
+      "translations": [
+        "西方国家（western 西方；country 的复数形式）；西域"
+      ]
+    },
+    {
+      "phrase": "european countries",
+      "translations": [
+        "欧洲国家"
+      ]
+    },
+    {
+      "phrase": "third world countries",
+      "translations": [
+        "第三世界国家"
+      ]
+    },
+    {
+      "phrase": "low countries",
+      "translations": [
+        "低地国家（指荷兰，比利时，卢森堡）"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "counter（相对）+ y（表示名词）→ 相对于他国而言的本国土地 → 国家",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 836,
+          "type": "阅读"
+        },
+        {
+          "time": 121,
+          "type": "短文填空"
+        },
+        {
+          "time": 36,
+          "type": "听力"
+        },
+        {
+          "time": 23,
+          "type": "翻译"
+        },
+        {
+          "time": 10,
+          "type": "情景对话"
+        },
+        {
+          "time": 10,
+          "type": "写作"
+        },
+        {
+          "time": 74,
+          "type": "完形填空"
+        },
+        {
+          "time": 97,
+          "type": "单项选择"
+        },
+        {
+          "time": 51,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 5,
+      "frequency": 1258
+    },
+    "pastExamSents": [
+      {
+        "en": "Our national hero Yue Fei promised to devote himself to the country at a young age.",
+        "zh": "我们的民族英雄岳飞在年少时便许诺要献身报国。",
+        "source": "2021·辽宁-抚顺、本溪、辽阳·单项选择"
+      },
+      {
+        "en": "Yuan Longping's death made the whole country sad.",
+        "zh": "袁隆平的去世让全国人民都很悲痛。",
+        "source": "2021·四川-德阳·句子填空"
+      },
+      {
+        "en": "Do you know in which country people like fast food best?",
+        "zh": "你知道在哪个国家的人们最喜欢快餐吗？",
+        "source": "2021·湖南-湘西·阅读"
+      },
+      {
+        "en": "No country is safe unless all countries are safe.",
+        "zh": "除非所有国家都安全，不然任何国家都不安全。",
+        "source": "2021·江苏-盐城·句子填空"
+      },
+      {
+        "en": "Linguists believed it helped a new country achieve unity and cultural independence at a time when most people cared about political freedom.",
+        "zh": "语言学家认为，在大多数人关心政治自由的时候，它帮助一个新国家实现了统一和文化独立。",
+        "source": "2021·湖北-十堰·阅读"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "all over / across the country",
+        "zh": "遍布全国"
+      },
+      {
+        "en": "in the country",
+        "zh": "在乡下"
+      }
+    ]
+  }
+}

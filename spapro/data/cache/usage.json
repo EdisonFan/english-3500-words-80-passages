@@ -1,0 +1,162 @@
+{
+  "word": "usage",
+  "found": true,
+  "phonetic_uk": "ˈjuːsɪdʒ",
+  "phonetic_us": "ˈjuːsɪdʒ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=usage&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=usage&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（词语的）用法；使用，用量；（尤指形成权利，义务，标准等的）常规做法，惯例；<正式>虐待，不公待遇"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "usages"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Car usage is predicted to increase.",
+      "zh": "汽车的使用率预计会增长。"
+    },
+    {
+      "en": "He was a stickler for the correct usage of English.",
+      "zh": "他是一个坚持英语的正确使用的人。"
+    },
+    {
+      "en": "Parts of the motor wore out because of constant usage.",
+      "zh": "发动机的一些部件由于不断使用而磨损了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "使用；[语]用法；惯例",
+      "words": [
+        "employment",
+        "utilization",
+        "tradition",
+        "use",
+        "convention"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "CET4",
+    "CET6",
+    "考研",
+    "IELTS",
+    "SAT"
+  ],
+  "phrs": [
+    {
+      "phrase": "usage rate",
+      "translations": [
+        "使用率"
+      ]
+    },
+    {
+      "phrase": "long term usage",
+      "translations": [
+        "长期使用"
+      ]
+    },
+    {
+      "phrase": "usage time",
+      "translations": [
+        "使用时间；通信传输时间"
+      ]
+    },
+    {
+      "phrase": "usage period",
+      "translations": [
+        "使用期"
+      ]
+    },
+    {
+      "phrase": "usage data",
+      "translations": [
+        "惯用数据；使用数据"
+      ]
+    },
+    {
+      "phrase": "usage factor",
+      "translations": [
+        "利用率，利用系数"
+      ]
+    },
+    {
+      "phrase": "usage scenario",
+      "translations": [
+        "使用场景"
+      ]
+    },
+    {
+      "phrase": "international usage",
+      "translations": [
+        "国际惯例；国际习惯"
+      ]
+    },
+    {
+      "phrase": "trade usage",
+      "translations": [
+        "贸易惯例，贸易习惯；商业习惯"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "四级",
+    "mnemonic": "use（使用）+ age（表示名词）→ 使用，用法",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 0,
+          "type": "写作"
+        },
+        {
+          "time": 1,
+          "type": "听力理解"
+        },
+        {
+          "time": 1,
+          "type": "阅读理解"
+        }
+      ],
+      "recommendationRate": 2,
+      "frequency": 2
+    },
+    "pastExamSents": [
+      {
+        "en": "As in past Pew Research Center surveys of library use, the April 2016 survey also measured Americans usage of and engagement with libraries.",
+        "zh": "与皮尤研究中心过去对图书馆使用情况的调查一样，2016年4月的调查还衡量了美国人的图书馆使用情况和参与程度。",
+        "source": "2018年12月·第1套·听力理解"
+      },
+      {
+        "en": "All languages have two general levels of usage—a formal level and an informal level.",
+        "zh": "所有语言都有两种基本的用法——正式用法和通俗用法。",
+        "source": "2006年12月·第1套·听力理解"
+      },
+      {
+        "en": "Overall, almost three in five people say they try to limit their usage of paper—including facial tissue and kitchen roll—to save money.",
+        "zh": "总体而言，近五分之三的人表示会尝试减少使用纸张，包括面巾纸和厨房用纸——为了省钱。",
+        "source": "2017年6月·第2套·阅读理解"
+      },
+      {
+        "en": "\"It helps us lower usage at peak power times,\" says solar expert Mike Keesee.",
+        "zh": "太阳能专家迈克·基西说：“它有助于我们在用电高峰时降低用电量。”",
+        "source": "2013年6月·第1套·阅读理解"
+      },
+      {
+        "en": "Market modification also means searching for increased usage among present customers or going for a different market, such as senior citizens.",
+        "zh": "市场调整还意味着要为现有客户提供更多的花样，或转向不同的市场，如中老年人市场。",
+        "source": "2001年6月·第1套·阅读理解"
+      }
+    ],
+    "idiomatic": []
+  }
+}

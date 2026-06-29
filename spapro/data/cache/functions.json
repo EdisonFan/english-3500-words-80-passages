@@ -1,0 +1,176 @@
+{
+  "word": "functions",
+  "found": true,
+  "phonetic_uk": "ˈfʌnkʃ(ə)nz",
+  "phonetic_us": "ˈfʌŋkʃnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=functions&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=functions&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "功能，职责；宴会，典礼；函数，应变量（function 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "My camera has manual and automatic functions.",
+      "zh": "我的照相机有手调和自动两种功能。"
+    },
+    {
+      "en": "Both motor and sensory functions are affected.",
+      "zh": "运动功能和感觉功能都受到影响。"
+    },
+    {
+      "en": "The shell surrounding the egg has many important functions.",
+      "zh": "包着蛋的外壳有很多重要功能。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "功能；函数（function的复数形式）",
+      "words": [
+        "capabilities"
+      ]
+    }
+  ],
+  "prototype": "function",
+  "exam_type": [
+    "高中",
+    "CET4",
+    "CET6",
+    "考研",
+    "IELTS",
+    "TOEFL",
+    "GRE",
+    "GMAT",
+    "商务英语"
+  ],
+  "phrs": [
+    {
+      "phrase": "and function",
+      "translations": [
+        "[计]与酌"
+      ]
+    },
+    {
+      "phrase": "objective function",
+      "translations": [
+        "目标函数"
+      ]
+    },
+    {
+      "phrase": "system function",
+      "translations": [
+        "系统功能；系统函数"
+      ]
+    },
+    {
+      "phrase": "transfer function",
+      "translations": [
+        "转移函数，传递函数"
+      ]
+    },
+    {
+      "phrase": "basic function",
+      "translations": [
+        "基本功能；基本函数"
+      ]
+    },
+    {
+      "phrase": "physiological function",
+      "translations": [
+        "生理机能"
+      ]
+    },
+    {
+      "phrase": "service function",
+      "translations": [
+        "服务功能"
+      ]
+    },
+    {
+      "phrase": "control function",
+      "translations": [
+        "[计]控制功能；控制函数；控制职能；控制操作控制功能"
+      ]
+    },
+    {
+      "phrase": "distribution function",
+      "translations": [
+        "分布函数；分配函数"
+      ]
+    },
+    {
+      "phrase": "social function",
+      "translations": [
+        "盛大的公共集会， 社会功能；正式社交集会"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "高考",
+    "mnemonic": "funct（活动）+ ion（表示名词，表示行为或行为的结果）→ 功能",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 0,
+          "type": "翻译"
+        },
+        {
+          "time": 0,
+          "type": "知识运用"
+        },
+        {
+          "time": 0,
+          "type": "写作"
+        },
+        {
+          "time": 5,
+          "type": "听力理解"
+        },
+        {
+          "time": 11,
+          "type": "阅读理解"
+        }
+      ],
+      "recommendationRate": 4,
+      "frequency": 16
+    },
+    "pastExamSents": [
+      {
+        "en": "What is the function of the sensors printed on plant leaves by MIT engineer?",
+        "zh": "麻省理工学院工程师打印在叶子上的传感器有什么作用？",
+        "source": "2020·新课标卷Ⅰ·阅读理解"
+      },
+      {
+        "en": "The engineers at the Massachusetts Institute of Technology have taken it a step further changing the actual composition of plants in order to get them to perform diverse, even unusual functions.",
+        "zh": "为了让它们执行多种多样的、甚至是不寻常的功能，麻省理工学院的工程师们进一步改变了植物的实际成分。",
+        "source": "2020·新课标卷Ⅰ·阅读理解"
+      },
+      {
+        "en": "They tended to lose cognitive function at a much slower rate than those with the least mentally challenging jobs.",
+        "zh": "相比那些从事智力挑战性最小的工作的人，他们丧失认知功能的速度往往要缓慢许多。",
+        "source": "2020·浙江卷·阅读理解"
+      },
+      {
+        "en": "It functions by analyzing the waves of the incoming sound and creating a second set of outgoing waves.",
+        "zh": "它的工作原理是分析传入声音的声波并产生新一轮向外扩散的声波。",
+        "source": "2020·天津卷·阅读理解"
+      },
+      {
+        "en": "Which function is the man most interested in?",
+        "zh": "那个男人最感兴趣的功能是什么？",
+        "source": "2020·江苏卷·听力"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "perform/fulfill a function",
+        "zh": "发挥功能"
+      }
+    ]
+  }
+}

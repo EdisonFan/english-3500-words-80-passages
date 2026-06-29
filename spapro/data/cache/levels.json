@@ -1,0 +1,149 @@
+{
+  "word": "levels",
+  "found": true,
+  "phonetic_uk": "ˈlev(ə)lz",
+  "phonetic_us": "ˈlevlz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=levels&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=levels&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "数量，程度；标准，水平；层次，级别（level 复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使平整；推倒，夷平；（使）比分相同（level 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Profits were at record levels.",
+      "zh": "利润水平是创纪录的。"
+    },
+    {
+      "en": "He's responsible for recruiting at all levels.",
+      "zh": "他负责各级征募工作。"
+    },
+    {
+      "en": "Low oestrogen levels are associated with stress.",
+      "zh": "雌激素分泌水平低与精神压力有关。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "水平，标准（level复数形式）；色阶调整；控制色阶",
+      "words": [
+        "criterion",
+        "standard",
+        "norms",
+        "plane",
+        "prototype"
+      ]
+    }
+  ],
+  "prototype": "level",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研",
+    "IELTS",
+    "TOEFL",
+    "商务英语"
+  ],
+  "phrs": [
+    {
+      "phrase": "at all levels",
+      "translations": [
+        "各个级别"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "lev（举起，升起，收集）+ el（表示名词，性质）→ 举起后的高度 → 水平，级别",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 151,
+          "type": "阅读"
+        },
+        {
+          "time": 7,
+          "type": "短文填空"
+        },
+        {
+          "time": 1,
+          "type": "听力"
+        },
+        {
+          "time": 0,
+          "type": "翻译"
+        },
+        {
+          "time": 0,
+          "type": "情景对话"
+        },
+        {
+          "time": 0,
+          "type": "写作"
+        },
+        {
+          "time": 9,
+          "type": "完形填空"
+        },
+        {
+          "time": 4,
+          "type": "单项选择"
+        },
+        {
+          "time": 2,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 3,
+      "frequency": 174
+    },
+    "pastExamSents": [
+      {
+        "en": "China had 899 national wetland parks by the end of 2020, and nearly half of the country's wetlands are protected by some level of government.",
+        "zh": "截至2020年底，中国已有899个国家湿地公园，并且近一半的湿地都受到各级政府的保护。",
+        "source": "2021·江苏-镇江·阅读"
+      },
+      {
+        "en": "Among them, players from China, Japan and South Korea have the highest level of Weiqi.",
+        "zh": "其中，中国、日本、韩国棋手的围棋水平最高。",
+        "source": "2021·湖北-宜昌·阅读"
+      },
+      {
+        "en": "The biggest problem to the world is rising sea levels, glaciers are responsible for 21% of sea level rise.",
+        "zh": "世界上最大的问题是海平面上升，冰川造成了21%的海平面上升。",
+        "source": "2021·甘肃-兰州·阅读"
+      },
+      {
+        "en": "Increasing your activity level will be good for you.",
+        "zh": "提高你的活动水平对你有好处。",
+        "source": "2021·辽宁-营口·阅读"
+      },
+      {
+        "en": "The endangered Asian elephant enjoys Class-A protection in China, the same level as the giant panda does.",
+        "zh": "濒临灭绝的亚洲象在中国享有一级保护，与大熊猫的保护级别一样。",
+        "source": "2021·四川-南充·完形填空"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "high / low level",
+        "zh": "高 / 低水平"
+      },
+      {
+        "en": "sea level",
+        "zh": "海平面"
+      }
+    ]
+  }
+}

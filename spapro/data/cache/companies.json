@@ -1,0 +1,170 @@
+{
+  "word": "companies",
+  "found": true,
+  "phonetic_uk": "ˈkʌmpəniz",
+  "phonetic_us": "ˈkʌmpəniz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=companies&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=companies&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "公司，企业；演出团，歌舞团；连队（company 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "陪伴，伴随（company 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Several companies remained in the bidding.",
+      "zh": "有几家公司仍在竞价。"
+    },
+    {
+      "en": "Many state-owned companies were privatized.",
+      "zh": "许多国有公司被私有化了。"
+    },
+    {
+      "en": "The two companies were amalgamated into one.",
+      "zh": "这两家公司合并成一家公司。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "公司，企业；伙伴（company的复数形式）；公司财产",
+      "words": [
+        "corporations",
+        "enterprises",
+        "firms",
+        "partners"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "陪伴，伴随（company的三单形式）",
+      "words": [
+        "chaperones"
+      ]
+    }
+  ],
+  "prototype": "company",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研"
+  ],
+  "phrs": [
+    {
+      "phrase": "group of companies",
+      "translations": [
+        "公司集团；联合企业"
+      ]
+    },
+    {
+      "phrase": "companies registry",
+      "translations": [
+        "公司注册处；公司登记"
+      ]
+    },
+    {
+      "phrase": "registrar of companies",
+      "translations": [
+        "公司注册官；企业监管局"
+      ]
+    },
+    {
+      "phrase": "companies act",
+      "translations": [
+        "公司法（英国颁布的法令）"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "com（共同）+ pan（面包）+ y（表示名词）→ 分食面包的人 → 同伴",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 355,
+          "type": "阅读"
+        },
+        {
+          "time": 27,
+          "type": "短文填空"
+        },
+        {
+          "time": 12,
+          "type": "听力"
+        },
+        {
+          "time": 5,
+          "type": "翻译"
+        },
+        {
+          "time": 9,
+          "type": "情景对话"
+        },
+        {
+          "time": 0,
+          "type": "写作"
+        },
+        {
+          "time": 48,
+          "type": "完形填空"
+        },
+        {
+          "time": 16,
+          "type": "单项选择"
+        },
+        {
+          "time": 12,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 4,
+      "frequency": 484
+    },
+    "pastExamSents": [
+      {
+        "en": "The company collected used chopsticks from restaurants, schools and shopping centers in Canada and the US and turned them into furniture and other artworks.",
+        "zh": "该公司从加拿大和美国的餐馆、学校和购物中心收集用过的筷子，并将它们制成家具和其他艺术品。",
+        "source": "2021·山西·阅读"
+      },
+      {
+        "en": "After more than 30 years of development, the company has now beaten Apple and become the world's second largest maker of smartphones.",
+        "zh": "经过30多年的发展，该公司现已击败苹果，成为全球第二大智能手机制造商。",
+        "source": "2021·四川-达州·阅读"
+      },
+      {
+        "en": "The company announced it would close one third of its bookstores the next year as more people chose to read e-books.",
+        "zh": "该公司宣布，由于越来越多的人选择阅读电子书，明年将关闭三分之一的书店。",
+        "source": "2021·江苏-无锡·单项选择"
+      },
+      {
+        "en": "A UK company called The Real Junk Food Project says that food that has passed its sell-by date is still safe to eat.",
+        "zh": "一家名为“真正的垃圾食品项目”的英国公司表示，过了保质期的食品仍然可以安全食用。",
+        "source": "2021·内蒙古-赤峰·阅读"
+      },
+      {
+        "en": "Friendship for a lot of foreigners is about spending time with someone whose company they really enjoy.",
+        "zh": "对很多外国人来说，友谊就是花时间和他们真正喜欢的人在一起。",
+        "source": "2021·江苏-泰州·阅读"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "international company",
+        "zh": "跨国公司"
+      },
+      {
+        "en": "in company with ...",
+        "zh": "与……一起"
+      }
+    ]
+  }
+}

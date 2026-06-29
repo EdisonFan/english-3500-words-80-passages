@@ -115,9 +115,6 @@ var cachedWord = '';
 try {
     cachedList = JSON.parse(sessionStorage.getItem('videoList') || 'null');
     cachedWord = sessionStorage.getItem('videoWord') || '';
-    // 用完立即清,避免下次打开残留
-    sessionStorage.removeItem('videoList');
-    sessionStorage.removeItem('videoWord');
 } catch (e) {}
 
 if (cachedList && cachedList.length && cachedWord === _videoWord) {

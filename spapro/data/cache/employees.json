@@ -1,0 +1,155 @@
+{
+  "word": "employees",
+  "found": true,
+  "phonetic_uk": "ɪmˈplɔɪiːz",
+  "phonetic_us": "ɪmˈplɔɪiːz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=employees&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=employees&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "员工；雇员；从业人员（employee 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The firm has over 500 employees.",
+      "zh": "这家公司有500多名雇员。"
+    },
+    {
+      "en": "All his employees fear him.",
+      "zh": "他的雇员都怕他。"
+    },
+    {
+      "en": "Employees hold 30% of the shares.",
+      "zh": "雇员持有30%的股份。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "员工；雇员；从业人员（emploee的复数）",
+      "words": [
+        "staffs"
+      ]
+    }
+  ],
+  "prototype": "employee",
+  "exam_type": [
+    "高中",
+    "CET4",
+    "CET6",
+    "考研",
+    "商务英语"
+  ],
+  "phrs": [
+    {
+      "phrase": "employee turnover",
+      "translations": [
+        "员工流动；职工离职"
+      ]
+    },
+    {
+      "phrase": "employee benefits",
+      "translations": [
+        "职工福利"
+      ]
+    },
+    {
+      "phrase": "employee stock ownership",
+      "translations": [
+        "员工股份持有制"
+      ]
+    },
+    {
+      "phrase": "employee stock ownership plan",
+      "translations": [
+        "（美国国内税务署批准的）职工股票所有权计划"
+      ]
+    },
+    {
+      "phrase": "employee involvement",
+      "translations": [
+        "员工参与；员工投入"
+      ]
+    },
+    {
+      "phrase": "employee orientation",
+      "translations": [
+        "员工向导；雇员上岗引导"
+      ]
+    },
+    {
+      "phrase": "senior employee",
+      "translations": [
+        "高级雇员"
+      ]
+    },
+    {
+      "phrase": "employee manual",
+      "translations": [
+        "员工手册"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "高考",
+    "mnemonic": "",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 0,
+          "type": "翻译"
+        },
+        {
+          "time": 1,
+          "type": "知识运用"
+        },
+        {
+          "time": 0,
+          "type": "写作"
+        },
+        {
+          "time": 0,
+          "type": "听力理解"
+        },
+        {
+          "time": 7,
+          "type": "阅读理解"
+        }
+      ],
+      "recommendationRate": 3,
+      "frequency": 8
+    },
+    "pastExamSents": [
+      {
+        "en": "Another company, Tim and Jerry's, which already offers employees personal trainers, now supplies a room with a bed and pillows that employees can use as needed.",
+        "zh": "另一家公司 Tim and Jerry's 已经为员工提供私人教练，现在还提供一间配有床和枕头的房间，员工可以根据需要使用。",
+        "source": "2021·上海卷·听力"
+      },
+      {
+        "en": "An IT firm, New Link, allows its employees to take a twenty-minute power nap at their desks.",
+        "zh": "IT 公司 New Link 允许员工趴在办公桌前小睡20分钟。",
+        "source": "2021·上海卷·听力"
+      },
+      {
+        "en": "UU Corporation, a consulting company, has a flexible approach: employees can take a nap for thirty minutes at most any time between 1 p.m. and 4 p.m.",
+        "zh": "咨询公司 UU Corporation 的做法很灵活：员工可以在下午1点到4点之间的任何时间小睡，时间不超过30分钟。",
+        "source": "2021·上海卷·听力"
+      },
+      {
+        "en": "The demand is there, with UneeQ seeing high adoption of its digital employees across the financial, health care, and commercial sectors.",
+        "zh": "需求仍然存在，UneeQ 公司发现其数字雇员在金融、医疗保健和商业行业的应用率很高。",
+        "source": "2021·天津卷·阅读理解"
+      },
+      {
+        "en": "I know they offer employees free pizzas for meals, but you could pack your own healthy lunch.",
+        "zh": "我知道他们为员工提供免费的披萨作为午餐，但你可以自带健康午餐。",
+        "source": "2021·上海卷·听力"
+      }
+    ],
+    "idiomatic": []
+  }
+}

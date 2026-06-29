@@ -64,5 +64,114 @@
         "holloo"
       ]
     }
-  ]
+  ],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研"
+  ],
+  "phrs": [
+    {
+      "phrase": "say hello",
+      "translations": [
+        "打招呼；问好"
+      ]
+    },
+    {
+      "phrase": "hello everyone",
+      "translations": [
+        "大家好"
+      ]
+    },
+    {
+      "phrase": "hello and welcome",
+      "translations": [
+        "欢迎莅临"
+      ]
+    },
+    {
+      "phrase": "hello again",
+      "translations": [
+        "回魂妻（电影名称）"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 38,
+          "type": "阅读"
+        },
+        {
+          "time": 6,
+          "type": "短文填空"
+        },
+        {
+          "time": 7,
+          "type": "听力"
+        },
+        {
+          "time": 0,
+          "type": "翻译"
+        },
+        {
+          "time": 98,
+          "type": "情景对话"
+        },
+        {
+          "time": 25,
+          "type": "写作"
+        },
+        {
+          "time": 10,
+          "type": "完形填空"
+        },
+        {
+          "time": 15,
+          "type": "单项选择"
+        },
+        {
+          "time": 1,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 3,
+      "frequency": 200
+    },
+    "pastExamSents": [
+      {
+        "en": "I wanted to say hello to him but I forgot his name.",
+        "zh": "我想跟他打个招呼，但忘记了他的名字。",
+        "source": "2021·广西-梧州·句子填空"
+      },
+      {
+        "en": "They're watched by millions, but I still find it strange when people I don't know say hello to me in the street.",
+        "zh": "成千上万的人都在看它们，但当我不认识的人在街上跟我打招呼的时候，我还是觉得很奇怪。",
+        "source": "2021·河北·阅读"
+      },
+      {
+        "en": "In Teahouse, the writer Lao She says goodbye to the old Chinese society and hello to the new one.",
+        "zh": "在《茶馆》中，作家老舍告别中国旧社会，迎接了新社会。",
+        "source": "2021·贵州-黔东南·阅读"
+      },
+      {
+        "en": "Sometimes we see some strangers so many times that we know their faces well, but we never even say hello to them.",
+        "zh": "有时我们见到一些陌生人太多次，所以我们很熟悉他们的脸，但我们甚至从来没有跟他们打招呼。",
+        "source": "2021·广西-北部湾·阅读"
+      },
+      {
+        "en": "She was scared to say hello to strangers.",
+        "zh": "她害怕和陌生人打招呼。",
+        "source": "2021·湖南-郴州·阅读"
+      }
+    ],
+    "idiomatic": []
+  }
 }

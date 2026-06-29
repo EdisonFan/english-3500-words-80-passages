@@ -1,0 +1,156 @@
+{
+  "word": "profiles",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˈproʊfaɪlz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=profiles&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=profiles&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "配置文件；剖面图（profile 的复数）；个人档案"
+    },
+    {
+      "pos": "v.",
+      "meaning": "扼要描述；给出轮廓；隐蔽行动（profile 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "A Washington newspaper published comparative profiles of the candidates' wives.",
+      "zh": "一家华盛顿的报纸刊登了候选人妻子们的对比简介。"
+    },
+    {
+      "en": "Google is trying to judge our needs and wants based on our social-media profiles.",
+      "zh": "谷歌试图根据我们在社交媒体上的个人资料来判断我们的需求和欲望。"
+    },
+    {
+      "en": "It reduces our curiosity by showing us exactly what we already want and think, based on our profiles and preferences.",
+      "zh": "它根据我们的个人资料和喜好，准确地向我们展示我们想要和考虑的东西，从而减少了我们的好奇心。"
+    }
+  ],
+  "synonyms": [],
+  "prototype": "profile",
+  "exam_type": [
+    "高中",
+    "CET6",
+    "考研",
+    "IELTS",
+    "TOEFL",
+    "GRE",
+    "GMAT",
+    "SAT",
+    "商务英语"
+  ],
+  "phrs": [
+    {
+      "phrase": "high profile",
+      "translations": [
+        "鲜明的姿态；引人注目的高姿态；明确的立场"
+      ]
+    },
+    {
+      "phrase": "low profile",
+      "translations": [
+        "低姿态；低姿态的人"
+      ]
+    },
+    {
+      "phrase": "company profile",
+      "translations": [
+        "公司简介；公司概况；企业介绍"
+      ]
+    },
+    {
+      "phrase": "tooth profile",
+      "translations": [
+        "齿形；齿廓"
+      ]
+    },
+    {
+      "phrase": "temperature profile",
+      "translations": [
+        "温度曲线；温度剖面图；温度轮廓"
+      ]
+    },
+    {
+      "phrase": "surface profile",
+      "translations": [
+        "表面轮廓"
+      ]
+    },
+    {
+      "phrase": "cam profile",
+      "translations": [
+        "凸轮轮廓；实际廓线"
+      ]
+    },
+    {
+      "phrase": "profile error",
+      "translations": [
+        "齿形误差；廓形误差"
+      ]
+    },
+    {
+      "phrase": "user profile",
+      "translations": [
+        "[计]用户预置文件"
+      ]
+    },
+    {
+      "phrase": "velocity profile",
+      "translations": [
+        "速度变化图"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "高考",
+    "mnemonic": "pro（向前，前面）+ file（线条）→ 前面的线条 → 轮廓",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 0,
+          "type": "翻译"
+        },
+        {
+          "time": 0,
+          "type": "知识运用"
+        },
+        {
+          "time": 0,
+          "type": "写作"
+        },
+        {
+          "time": 0,
+          "type": "听力理解"
+        },
+        {
+          "time": 0,
+          "type": "阅读理解"
+        }
+      ],
+      "recommendationRate": 1,
+      "frequency": 0
+    },
+    "pastExamSents": [
+      {
+        "en": "Below you will find a profile of each program.",
+        "zh": "下面你会看到每个项目的简介。",
+        "source": "2019·河南模拟"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "job/employee profile",
+        "zh": "工作／雇员简介"
+      },
+      {
+        "en": "a high/low profile",
+        "zh": "高／低姿态"
+      }
+    ]
+  }
+}

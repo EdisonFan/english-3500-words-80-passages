@@ -1,0 +1,134 @@
+{
+  "word": "talented",
+  "found": true,
+  "phonetic_uk": "ˈtæləntɪd",
+  "phonetic_us": "ˈtæləntɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=talented&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=talented&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "有天资的，有才能的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more talented"
+    },
+    {
+      "name": "最高级",
+      "value": "most talented"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Howard is a talented pianist.",
+      "zh": "霍华德是一名有天赋的钢琴家。"
+    },
+    {
+      "en": "Rose's father was a talented violinist.",
+      "zh": "罗斯的父亲是一位天才的小提琴手。"
+    },
+    {
+      "en": "She is a talented musician as well as being a photographer.",
+      "zh": "她不但是个摄影师而且还是个天才的音乐家。"
+    }
+  ],
+  "synonyms": [],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "CET4",
+    "CET6",
+    "GRE"
+  ],
+  "phrs": [
+    {
+      "phrase": "talented person",
+      "translations": [
+        "人才；有天赋的人"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "talent（才能）+ ed（表示形容词）→ 有才能的",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 35,
+          "type": "阅读"
+        },
+        {
+          "time": 4,
+          "type": "短文填空"
+        },
+        {
+          "time": 3,
+          "type": "听力"
+        },
+        {
+          "time": 0,
+          "type": "翻译"
+        },
+        {
+          "time": 0,
+          "type": "情景对话"
+        },
+        {
+          "time": 0,
+          "type": "写作"
+        },
+        {
+          "time": 2,
+          "type": "完形填空"
+        },
+        {
+          "time": 8,
+          "type": "单项选择"
+        },
+        {
+          "time": 4,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 1,
+      "frequency": 56
+    },
+    "pastExamSents": [
+      {
+        "en": "Just then Mario remembered his mother's words: \"You are talented in cooking.\"",
+        "zh": "就在这时，马里奥想起了妈妈的话：“你在烹饪方面很有天赋。”",
+        "source": "2021·山东-济南·完形填空"
+      },
+      {
+        "en": "A talented young team from Ireland, the creators of Memory Helper, developed this support app for people with dementia.",
+        "zh": "来自爱尔兰的一个年轻的天才团队，为痴呆症患者开发了一个可以帮助他们的应用软件，记忆助手（Memory Helper）。",
+        "source": "2021·湖北-武汉·阅读"
+      },
+      {
+        "en": "Wang Wei (701—761), a highly talented man of the Tang Dynasty, liked playing it in a bamboo forest on nights with moonlight most.",
+        "zh": "唐代才子王维（701-761）最喜欢在有月光的夜晚，在竹林中弹奏。",
+        "source": "2021·四川-南充·阅读"
+      },
+      {
+        "en": "In the film McFarland, USA, coach White notices some talented runners in his PE class.",
+        "zh": "在美国电影《麦克法兰》中，怀特教练在他的体育课上注意到一些有天赋的跑步者。",
+        "source": "2021·安徽·阅读"
+      },
+      {
+        "en": "Yuan was not only a great scientist but also a talented man.",
+        "zh": "袁先生不仅是一位伟大的科学家，也是一位有才华的人。",
+        "source": "2021·湖南-益阳·阅读"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "talented person",
+        "zh": "人才；有天赋的人"
+      }
+    ]
+  }
+}

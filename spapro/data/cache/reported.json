@@ -1,0 +1,156 @@
+{
+  "word": "reported",
+  "found": true,
+  "phonetic_uk": "rɪˈpɔːtɪd",
+  "phonetic_us": "rɪˈpɔːrtɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=reported&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=reported&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "报告的，声称的；已汇报的，已举报的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "报道；据说，传闻；述说，报告（report 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He reported the speech verbatim.",
+      "zh": "他逐字报道了那篇讲话。"
+    },
+    {
+      "en": "I reported the theft to the police.",
+      "zh": "我向警察报告了这起盗窃案。"
+    },
+    {
+      "en": "She has reported her daughter missing.",
+      "zh": "女儿失踪，她已经向警方报案。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "报告的；据报道的",
+      "words": [
+        "informational"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "报道（report的过去分词）；报告；记录",
+      "words": [
+        "recorded"
+      ]
+    }
+  ],
+  "prototype": "report",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研",
+    "商务英语"
+  ],
+  "phrs": [
+    {
+      "phrase": "be reported as",
+      "translations": [
+        "报道称之为"
+      ]
+    },
+    {
+      "phrase": "reported speech",
+      "translations": [
+        "n. 间接引语"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 277,
+          "type": "阅读"
+        },
+        {
+          "time": 18,
+          "type": "短文填空"
+        },
+        {
+          "time": 17,
+          "type": "听力"
+        },
+        {
+          "time": 3,
+          "type": "翻译"
+        },
+        {
+          "time": 12,
+          "type": "情景对话"
+        },
+        {
+          "time": 5,
+          "type": "写作"
+        },
+        {
+          "time": 33,
+          "type": "完形填空"
+        },
+        {
+          "time": 65,
+          "type": "单项选择"
+        },
+        {
+          "time": 21,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 4,
+      "frequency": 451
+    },
+    "pastExamSents": [
+      {
+        "en": "However, the new report finds, food waste is a big problem in nations rich and poor.",
+        "zh": "然而，这份新报告发现，无论富国还是穷国，食物浪费都是一个大问题。",
+        "source": "2021·安徽·阅读"
+      },
+      {
+        "en": "Whether from news reports or social media articles, you may know that 5G is coming.",
+        "zh": "无论是从新闻报道还是社交媒体的文章中，你可能都会得知 5G 即将到来。",
+        "source": "2020，2021·山东-滨州，内蒙古-通辽·阅读"
+      },
+      {
+        "en": "According to a report of the government, the fishermen said they would give up fishing along the Yangtze River to protect the \"mother river\".",
+        "zh": "据一份政府报告显示，渔民们说为了保护“母亲河”，他们将放弃在长江沿岸捕鱼。",
+        "source": "2021·广西-贵港·阅读"
+      },
+      {
+        "en": "After watching a news report about the first panda-themed tourist train from Chengdu to Zunyi, I am thirsty for an exciting trip on it.",
+        "zh": "看了一则关于首列从成都到遵义的熊猫主题旅游列车的新闻报道后，我渴望乘坐它体验一次令人兴奋的旅行。",
+        "source": "2021·四川-成都·句子填空"
+      },
+      {
+        "en": "At the end of the term, he returned home with a report card and pains all over his body.",
+        "zh": "学期结束时，他带着成绩单和全身的疼痛回到家。",
+        "source": "2021·江苏-泰州·阅读"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "report to sb.",
+        "zh": "向……报告"
+      },
+      {
+        "en": "weather report",
+        "zh": "天气预报"
+      }
+    ]
+  }
+}

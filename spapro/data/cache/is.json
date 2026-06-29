@@ -1,0 +1,186 @@
+{
+  "word": "is",
+  "found": true,
+  "phonetic_uk": "ɪz",
+  "phonetic_us": "ɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=is&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=is&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "是（be 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Today is Tuesday, so tomorrow is Wednesday.",
+      "zh": "今天是星期二，那么明天就是星期三。"
+    },
+    {
+      "en": "Where is Sophy? Is she safe?",
+      "zh": "索菲在哪儿？她没受到伤害吧？"
+    },
+    {
+      "en": "He is an asthmatic who is also anaemic.",
+      "zh": "他是一个哮喘病人，并且还贫血。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "存在",
+      "words": [
+        "presence",
+        "existence",
+        "being",
+        "entity"
+      ]
+    }
+  ],
+  "prototype": "be",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研"
+  ],
+  "phrs": [
+    {
+      "phrase": "which is",
+      "translations": [
+        "哪个是；从句的表达形式之一"
+      ]
+    },
+    {
+      "phrase": "that is",
+      "translations": [
+        "即；就是说；换言之"
+      ]
+    },
+    {
+      "phrase": "he is",
+      "translations": [
+        "他是…"
+      ]
+    },
+    {
+      "phrase": "what is",
+      "translations": [
+        "什么是"
+      ]
+    },
+    {
+      "phrase": "who is",
+      "translations": [
+        "谁是"
+      ]
+    },
+    {
+      "phrase": "she is",
+      "translations": [
+        "她是"
+      ]
+    },
+    {
+      "phrase": "is required",
+      "translations": [
+        "是必须的"
+      ]
+    },
+    {
+      "phrase": "as it is",
+      "translations": [
+        "实际上；事实上；既然如此"
+      ]
+    },
+    {
+      "phrase": "is coming",
+      "translations": [
+        "正过来"
+      ]
+    },
+    {
+      "phrase": "is likely to",
+      "translations": [
+        "有可能…"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 11362,
+          "type": "阅读"
+        },
+        {
+          "time": 1277,
+          "type": "短文填空"
+        },
+        {
+          "time": 1515,
+          "type": "听力"
+        },
+        {
+          "time": 215,
+          "type": "翻译"
+        },
+        {
+          "time": 539,
+          "type": "情景对话"
+        },
+        {
+          "time": 192,
+          "type": "写作"
+        },
+        {
+          "time": 1251,
+          "type": "完形填空"
+        },
+        {
+          "time": 2303,
+          "type": "单项选择"
+        },
+        {
+          "time": 782,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 5,
+      "frequency": 19436
+    },
+    "pastExamSents": [
+      {
+        "en": "There is a new TV on the wall.",
+        "zh": "墙上有一台新电视机。",
+        "source": "2021·广西-桂林·单项选择"
+      },
+      {
+        "en": "Rome is very busy, but Milan is busier than Rome.",
+        "zh": "罗马很热闹，但是米兰比罗马更热闹。",
+        "source": "2021·湖南-张家界·阅读"
+      },
+      {
+        "en": "Judy is an outgoing girl.",
+        "zh": "朱迪是一个外向的女孩。",
+        "source": "2021·贵州-黔东南·单项选择"
+      },
+      {
+        "en": "She is an excellent volunteer.",
+        "zh": "她是一名优秀的志愿者。",
+        "source": "2021·湖南-益阳·单项选择"
+      },
+      {
+        "en": "Attending the 2022 Beijing Winter Olympics is his dream.",
+        "zh": "参加2022年北京冬奥会是他的梦想。",
+        "source": "2021·黑龙江-龙东地区·句子填空"
+      }
+    ],
+    "idiomatic": []
+  }
+}
