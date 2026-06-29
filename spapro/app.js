@@ -360,8 +360,8 @@ function _fetchVideoList(word, callback) {
             _videoSearchCache[word] = (j && j.ok && j.list && j.list.length) ? j.list : [];
         })
         .catch(function (err) {
-            // 获取失败也视为无视频,不显示按钮(后端日志已记录失败原因)
-            // _videoSearchCache[word] = [];
+            // 获取失败也视为无视频,不显示按钮
+            _videoSearchCache[word] = [];
         })
         .then(function () {
             if (callback) callback();
@@ -390,7 +390,8 @@ function showDictModal(word) {
     renderDictModal({ word: word, loading: true });
 
     // 查词典,拿到结果后根据原型词决定用哪个词查视频
-    fetch('/api/dict?q=' + encodeURIComponent(word))
+    var dictUrl = '/api/dict?q=' + encodeURIComponent(word);
+    fetch(dictUrl)
         .then(function (r) { return r.json(); })
         .then(function (data) {
             if (data.found || !data.error) _dictCache[word] = data;
@@ -406,6 +407,7 @@ function showDictModal(word) {
             }
         })
         .catch(function (err) {
+            console.error('[dict] fetch failed url=', dictUrl, 'err=', err);
             renderDictModal({ word: word, error: String(err.message || err) });
         });
 }
@@ -655,29 +657,6 @@ modalBg.addEventListener('click', function (e) {
 });
 
 /* === 单词教学视频:跳转独立视频页 === */
-// 视频列表缓存:word -> 数组
-//   undefined = 还没查过; [] = 已查但无结果/失败; [item,...] = 有视频
-var _videoSearchCache = {};
-
-/* 查询单词的视频列表,结果存入 _videoSearchCache
-   后端 _search_video 自带日志,这里只负责判断结果决定按钮显隐 */
-function _fetchVideoList(word, callback) {
-    console.log('[search-video] _fetchVideoList called, word =', word, 'cache =', _videoSearchCache[word]);
-    fetch('/api/search-video?word=' + encodeURIComponent(word))
-        .then(function (r) { return r.json(); })
-        .then(function (j) {
-            console.log('[search-video] word =', word, 'j =', j);
-            (j && j.ok && j.list && j.list.length) && (_videoSearchCache[word] = (j && j.ok && j.list && j.list.length) ? j.list : []);
-        })
-        .catch(function (err) {
-            // 获取失败也视为无视频,不显示按钮(后端日志已记录失败原因)
-            _videoSearchCache[word] = [];
-        })
-        .then(function () {
-            if (callback) callback();
-        });
-}
-
 /* 判断是否移动设备(用于决定视频页打开方式) */
 function isMobileDevice() {
     return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|Mobile/i.test(navigator.userAgent);
