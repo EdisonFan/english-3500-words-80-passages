@@ -10,18 +10,17 @@
     html, body { width: 100%; height: 100%; margin: 0; padding: 0; background: #000; overflow: hidden; }
     .video-page { width: 100vw; height: 100vh; position: relative; }
 
-    /* 横屏切换按钮 */
+    /* 横屏切换按钮:始终显示 */
     .landscape-btn {
         position: absolute; top: 16px; right: 16px;
         width: 40px; height: 40px; border-radius: 50%;
         background: rgba(0,0,0,0.5); color: #fff;
         border: none; cursor: pointer;
-        display: none; /* 仅横屏视频显示 */
+        display: flex;
         align-items: center; justify-content: center;
         font-size: 18px; z-index: 10;
         -webkit-tap-highlight-color: transparent;
     }
-    .landscape-btn.show { display: flex; }
     .landscape-btn:active { background: rgba(255,255,255,0.25); }
 
     /* 横屏模式:整个 video-card 旋转 90deg 并放大铺满 */
@@ -128,16 +127,11 @@ function fetchVideoInfo(idx) {
 }
 
 function applyVideoInfo(idx, info) {
+    // 按钮始终显示,这里仅保留接口缓存逻辑,不再控制按钮显隐
+    // 切到新视频时还原竖屏模式
     var card = videoFeed.children[idx];
     if (!card) return;
-    var btn = card.querySelector('.landscape-btn');
-    if (!btn) return;
-    if (info && info.landscape) {
-        btn.classList.add('show');
-    } else {
-        btn.classList.remove('show');
-        card.classList.remove('landscape'); // 切到竖屏视频时还原
-    }
+    card.classList.remove('landscape');
 }
 
 // 给当前视频设 src 并播放,预加载下一个,清理远处的释放带宽
