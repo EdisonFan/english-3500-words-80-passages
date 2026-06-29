@@ -85,7 +85,8 @@ async function handleSearchVideo(word, res) {
   });
 }
 
-function getCid(bvid) {
+// 调 pagelist 拿 cid + dimension（宽高/旋转），供 handleStream 和 video-info 共用
+function getVideoInfo(bvid) {
   const apiUrl = `https://api.bilibili.com/x/player/pagelist?bvid=${bvid}`;
   return httpsGet(apiUrl, {
     'User-Agent': 'Mozilla/5.0',
@@ -94,8 +95,34 @@ function getCid(bvid) {
     const data = JSON.parse(body);
     if (data.code !== 0) throw new Error('pagelist 失败: ' + (data.message || ''));
     if (!data.data || data.data.length === 0) throw new Error('该视频无分P');
-    return data.data[0].cid;
+    const first = data.data[0];
+    const dim = first.dimension || { width: 0, height: 0, rotate: 0 };
+    return {
+      cid: first.cid,
+      width: dim.width || 0,
+      height: dim.height || 0,
+      rotate: dim.rotate || 0,
+    };
   });
+}
+
+function getCid(bvid) {
+  return getVideoInfo(bvid).then((info) => info.cid);
+}
+
+// /api/video-info 处理器：返回视频宽高，供前端判断横竖屏
+async function handleVideoInfo(bvid, res) {
+  try {
+    const info = await getVideoInfo(bvid);
+    const landscape = info.rotate === 0 ? info.width > info.height : info.width < info.height;
+    sendJson(res, 200, {
+      ok: true, bvid,
+      width: info.width, height: info.height, rotate: info.rotate,
+      landscape,
+    });
+  } catch (e) {
+    sendJson(res, 200, { ok: false, bvid, error: e.message });
+  }
 }
 
 function getMp4Url(bvid, cid) {
@@ -188,4 +215,4 @@ function handleStream(bvid, req, res) {
     });
 }
 
-module.exports = { handleSearchVideo, handleStream };
+module.exports = { handleSearchVideo, handleStream, handleVideoInfo };

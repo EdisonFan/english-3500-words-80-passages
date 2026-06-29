@@ -14,7 +14,7 @@ const fs = require('fs');
 const { PORT, CACHE_DIR } = require('./lib/config');
 const { sendJson } = require('./lib/http');
 const { handleDict } = require('./lib/dict');
-const { handleSearchVideo, handleStream } = require('./lib/video');
+const { handleSearchVideo, handleStream, handleVideoInfo } = require('./lib/video');
 const { serveStatic } = require('./lib/static');
 
 const server = http.createServer(async (req, res) => {
@@ -57,6 +57,20 @@ const server = http.createServer(async (req, res) => {
       return;
     }
     handleStream(bvid, req, res);
+    return;
+  }
+
+  if (pathname === '/api/video-info') {
+    const bvid = (params.bvid || '').trim();
+    if (!bvid) {
+      sendJson(res, 400, { error: '缺少参数 bvid' });
+      return;
+    }
+    try {
+      await handleVideoInfo(bvid, res);
+    } catch (e) {
+      sendJson(res, 500, { error: e.message });
+    }
     return;
   }
 
