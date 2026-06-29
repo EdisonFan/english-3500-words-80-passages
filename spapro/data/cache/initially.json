@@ -1,0 +1,93 @@
+{
+  "word": "initially",
+  "found": true,
+  "phonetic_uk": "ɪˈnɪʃəli",
+  "phonetic_us": "ɪˈnɪʃəli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=initially&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=initially&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "开始，最初"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The chick initially has no fear of man.",
+      "zh": "小鸡最初不怕人。"
+    },
+    {
+      "en": "I initially dismissed the idea out of hand.",
+      "zh": "我起初不假思索地一口否决了这个主意。"
+    },
+    {
+      "en": "Initially the system was offline for a number of days.",
+      "zh": "最初系统有几天没有联网。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "最初，首先；开头",
+      "words": [
+        "originally",
+        "firstly",
+        "primarily"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "高中",
+    "CET4",
+    "CET6",
+    "IELTS",
+    "GRE"
+  ],
+  "phrs": [],
+  "individual": {
+    "level": "高考",
+    "mnemonic": "initial（最初的）+ ly（表示副词）→ 最初",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 0,
+          "type": "翻译"
+        },
+        {
+          "time": 1,
+          "type": "知识运用"
+        },
+        {
+          "time": 0,
+          "type": "写作"
+        },
+        {
+          "time": 0,
+          "type": "听力理解"
+        },
+        {
+          "time": 1,
+          "type": "阅读理解"
+        }
+      ],
+      "recommendationRate": 1,
+      "frequency": 2
+    },
+    "pastExamSents": [
+      {
+        "en": "Google initially used the data collected from users to target advertising better.",
+        "zh": "谷歌最初使用从用户那里收集的数据来更精准地投放广告。",
+        "source": "2017·江苏卷"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "initially reveal",
+        "zh": "初步揭示"
+      }
+    ]
+  }
+}

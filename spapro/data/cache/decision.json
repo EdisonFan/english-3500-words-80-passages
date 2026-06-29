@@ -1,0 +1,200 @@
+{
+  "word": "decision",
+  "found": true,
+  "phonetic_uk": "dɪˈsɪʒ(ə)n",
+  "phonetic_us": "dɪˈsɪʒ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=decision&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=decision&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "决定，抉择；判决，裁定；果断，决断力；作决定，决策"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "decisions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Their decision was unanimous.",
+      "zh": "他们的决定是全体同意的。"
+    },
+    {
+      "en": "They stuck by their decision.",
+      "zh": "他们决心已下，矢志不渝。"
+    },
+    {
+      "en": "It was a collective decision.",
+      "zh": "这是集体的决定。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "决定，决心；决议",
+      "words": [
+        "determination",
+        "resolution",
+        "push",
+        "backbone"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "商务英语"
+  ],
+  "phrs": [
+    {
+      "phrase": "decision making",
+      "translations": [
+        "判定，决策"
+      ]
+    },
+    {
+      "phrase": "decision support",
+      "translations": [
+        "决策支持"
+      ]
+    },
+    {
+      "phrase": "make a decision",
+      "translations": [
+        "作决定"
+      ]
+    },
+    {
+      "phrase": "decision support system",
+      "translations": [
+        "决策支持系统；判定支援系统"
+      ]
+    },
+    {
+      "phrase": "final decision",
+      "translations": [
+        "最后决定"
+      ]
+    },
+    {
+      "phrase": "decision tree",
+      "translations": [
+        "决策树，决策图表"
+      ]
+    },
+    {
+      "phrase": "decision model",
+      "translations": [
+        "决策模型"
+      ]
+    },
+    {
+      "phrase": "make decision",
+      "translations": [
+        "作决定；下决心"
+      ]
+    },
+    {
+      "phrase": "strategic decision",
+      "translations": [
+        "战略决策"
+      ]
+    },
+    {
+      "phrase": "management decision",
+      "translations": [
+        "管理决策"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "decide（决心）+ ion（表示行为）→ 决定",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 102,
+          "type": "阅读"
+        },
+        {
+          "time": 9,
+          "type": "短文填空"
+        },
+        {
+          "time": 5,
+          "type": "听力"
+        },
+        {
+          "time": 0,
+          "type": "翻译"
+        },
+        {
+          "time": 1,
+          "type": "情景对话"
+        },
+        {
+          "time": 0,
+          "type": "写作"
+        },
+        {
+          "time": 49,
+          "type": "完形填空"
+        },
+        {
+          "time": 22,
+          "type": "单项选择"
+        },
+        {
+          "time": 13,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 3,
+      "frequency": 201
+    },
+    "pastExamSents": [
+      {
+        "en": "The decision is part of the city's purpose to become plastic waste-free by 2020. In order to encourage local people to take buses, the city also added the new Suroboyo buses.",
+        "zh": "这是该市为在2020年前实现无塑料垃圾目标而做出的决定。为了鼓励当地人乘坐公交车，该市还增加了新的苏罗博约巴士。",
+        "source": "2021·江苏-泰州·阅读"
+      },
+      {
+        "en": "Finally, Li Wen's parents made the decision to send him to a boarding school.",
+        "zh": "最后，李文的父母决定送他去寄宿学校。",
+        "source": "2020，2021·山东-枣庄，湖北-随州·阅读，短文填空"
+      },
+      {
+        "en": "We have to make a decision when we face life or death.",
+        "zh": "当我们面对生或死时，我们必须做出决定。",
+        "source": "2021·辽宁-营口·阅读"
+      },
+      {
+        "en": "She made a brave decision to go outside to work.",
+        "zh": "她做了一个勇敢的决定，去外面工作。",
+        "source": "2021·四川-凉山·短文填空"
+      },
+      {
+        "en": "He's made a decision to teach in the village school.",
+        "zh": "他已经决定在乡村学校教书。",
+        "source": "2021·四川-达州·句子填空"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "make a decision to do sth.",
+        "zh": "决定做某事"
+      },
+      {
+        "en": "make a decision on sth.",
+        "zh": "关于某事做决定"
+      }
+    ]
+  }
+}

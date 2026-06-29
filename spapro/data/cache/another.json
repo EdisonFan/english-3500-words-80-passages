@@ -1,0 +1,182 @@
+{
+  "word": "another",
+  "found": true,
+  "phonetic_uk": "əˈnʌðə(r)",
+  "phonetic_us": "əˈnʌðər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=another&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=another&type=2",
+  "defs": [
+    {
+      "pos": "det.",
+      "meaning": "（同类的）另一，又一；（不同类的）另外一个，其他一个；类似的（人或事物）"
+    },
+    {
+      "pos": "pron.",
+      "meaning": "又一个，再一个；另一个，另一种；不确切的事物，某些事物（用于与 one 或 some 构成的短语）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "再加一个的；另一的，不同的；另一类似的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She was expecting another baby.",
+      "zh": "她怀上又一个孩子了。"
+    },
+    {
+      "en": "I saw yet another doctor.",
+      "zh": "我还看了另一位医生。"
+    },
+    {
+      "en": "Time is another important consideration.",
+      "zh": "时间是另一个需要考虑的重要因素。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "又一，另一；另外的；不同的",
+      "words": [
+        "different",
+        "diverse",
+        "other",
+        "unlike",
+        "varying"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研"
+  ],
+  "phrs": [
+    {
+      "phrase": "one another",
+      "translations": [
+        "彼此，互相"
+      ]
+    },
+    {
+      "phrase": "for another",
+      "translations": [
+        "第二；其次"
+      ]
+    },
+    {
+      "phrase": "one after another",
+      "translations": [
+        "adv. 接连地；一个接一个地"
+      ]
+    },
+    {
+      "phrase": "another one",
+      "translations": [
+        "另一个"
+      ]
+    },
+    {
+      "phrase": "yet another",
+      "translations": [
+        "adv. 另一种"
+      ]
+    },
+    {
+      "phrase": "one way or another",
+      "translations": [
+        "adv. 无论如何；以某种方法"
+      ]
+    },
+    {
+      "phrase": "such another",
+      "translations": [
+        "同种类中的另一个[见 such]"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "an（表示否定）+ other（另一个）→ 在另一个之外的另一个 → 另外的，不同的",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 509,
+          "type": "阅读"
+        },
+        {
+          "time": 70,
+          "type": "短文填空"
+        },
+        {
+          "time": 6,
+          "type": "听力"
+        },
+        {
+          "time": 4,
+          "type": "翻译"
+        },
+        {
+          "time": 11,
+          "type": "情景对话"
+        },
+        {
+          "time": 1,
+          "type": "写作"
+        },
+        {
+          "time": 130,
+          "type": "完形填空"
+        },
+        {
+          "time": 38,
+          "type": "单项选择"
+        },
+        {
+          "time": 7,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 5,
+      "frequency": 776
+    },
+    "pastExamSents": [
+      {
+        "en": "That year, Daguerre, another Frenchman, took a picture of his reading room.",
+        "zh": "那一年，另一个法国人达盖尔，拍了一张其阅览室的照片。",
+        "source": "2021·黑龙江-黑河、齐齐哈尔、大兴安岭·阅读"
+      },
+      {
+        "en": "Your phone number is another important piece of personal information.",
+        "zh": "另一个重要的个人信息是你的电话号码。",
+        "source": "2021·四川-绵阳·阅读"
+      },
+      {
+        "en": "Finding ways to help our students connect with one another is important.",
+        "zh": "找到帮助我们的学生相互联系的方法是很重要的。",
+        "source": "2021·北京·阅读"
+      },
+      {
+        "en": "—This dress is too long, please give me another one.\n—Sure, madam.",
+        "zh": "——这条裙子太长了，请再给我拿一件。\n——当然可以，女士。",
+        "source": "2021·贵州-铜仁·单项选择"
+      },
+      {
+        "en": "Who knows? Perhaps you could be another Severn.",
+        "zh": "谁知道呢？也许你可以成为另一个珊文。",
+        "source": "2021·江苏-苏州·完形填空"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "one another",
+        "zh": "彼此，互相"
+      }
+    ]
+  }
+}

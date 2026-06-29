@@ -1,0 +1,123 @@
+{
+  "word": "ignore",
+  "found": true,
+  "phonetic_uk": "ɪɡˈnɔː(r)",
+  "phonetic_us": "ɪɡˈnɔːr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ignore&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ignore&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "佯装未见，不理睬；忽视，对……不予理会；<法律>（因证据不足）驳回（诉讼）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "ignores"
+    },
+    {
+      "name": "现在分词",
+      "value": "ignoring"
+    },
+    {
+      "name": "过去式",
+      "value": "ignored"
+    },
+    {
+      "name": "过去分词",
+      "value": "ignored"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It would be a mistake to ignore his opinion.",
+      "zh": "忽略他的意见是不对的。"
+    },
+    {
+      "en": "Such arguments ignore the question of where ultimate responsibility lay.",
+      "zh": "此类争论忽视了最终责任何在的问题。"
+    },
+    {
+      "en": "We cannot afford to ignore this warning.",
+      "zh": "我们对这个警告绝不能等闲视之。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "驳回诉讼；忽视；不理睬",
+      "words": [
+        "neglect",
+        "pass sb by"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "高中",
+    "CET4",
+    "CET6",
+    "考研",
+    "IELTS",
+    "TOEFL",
+    "GRE"
+  ],
+  "phrs": [
+    {
+      "phrase": "ignore all",
+      "translations": [
+        "全部忽略"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "高考",
+    "mnemonic": "i（不，无）+ gnor（知道）+ e → 不知道 → 忽视，不理睬",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 0,
+          "type": "翻译"
+        },
+        {
+          "time": 2,
+          "type": "知识运用"
+        },
+        {
+          "time": 0,
+          "type": "写作"
+        },
+        {
+          "time": 1,
+          "type": "听力理解"
+        },
+        {
+          "time": 6,
+          "type": "阅读理解"
+        }
+      ],
+      "recommendationRate": 4,
+      "frequency": 9
+    },
+    "pastExamSents": [
+      {
+        "en": "Many people think that positive thinking is mostly about keeping one's head in the sand and ignoring daily problems, trying to look optimistic.",
+        "zh": "许多人认为，乐观思维主要表现为逃避现实并忽视日常问题，试图让自己看起来乐观。",
+        "source": "2020·北京卷·阅读理解"
+      },
+      {
+        "en": "Last week a tennis ball hit me on the head, but I tried to ignore the pain, believing that it would go away sooner or later.",
+        "zh": "上周一个网球打在了我的头上，但我试着忽视疼痛，相信它迟早会好起来的。",
+        "source": "2014·浙江卷"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "ignore the signs",
+        "zh": "无视警示牌"
+      }
+    ]
+  }
+}

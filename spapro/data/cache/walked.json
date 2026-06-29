@@ -1,0 +1,192 @@
+{
+  "word": "walked",
+  "found": true,
+  "phonetic_uk": "wɔːkt",
+  "phonetic_us": "wɔːkt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=walked&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=walked&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "走路；散步（walk 的过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We walked home by starlight.",
+      "zh": "我们借着星光走回家。"
+    },
+    {
+      "en": "They walked around the lake.",
+      "zh": "他们绕着湖边行走。"
+    },
+    {
+      "en": "He walked across the field.",
+      "zh": "他走过田地。"
+    }
+  ],
+  "synonyms": [],
+  "prototype": "walk",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研"
+  ],
+  "phrs": [
+    {
+      "phrase": "walk in",
+      "translations": [
+        "走进去，供人走进"
+      ]
+    },
+    {
+      "phrase": "walk out",
+      "translations": [
+        "走出；罢工；退席；把（某人）领出"
+      ]
+    },
+    {
+      "phrase": "walk on",
+      "translations": [
+        "走下去；继续行走"
+      ]
+    },
+    {
+      "phrase": "walk along",
+      "translations": [
+        "散步；向前走；沿着…走"
+      ]
+    },
+    {
+      "phrase": "walk away",
+      "translations": [
+        "走开；离去"
+      ]
+    },
+    {
+      "phrase": "walk into",
+      "translations": [
+        "v. 走进；不慎陷入；痛斥"
+      ]
+    },
+    {
+      "phrase": "walk through",
+      "translations": [
+        "走过；轻松地初排；草率地处理"
+      ]
+    },
+    {
+      "phrase": "take a walk",
+      "translations": [
+        "散步"
+      ]
+    },
+    {
+      "phrase": "walk down",
+      "translations": [
+        "通过散步消除；在步行速度和距离上胜过"
+      ]
+    },
+    {
+      "phrase": "walk around",
+      "translations": [
+        "四处走动；绕走"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 603,
+          "type": "阅读"
+        },
+        {
+          "time": 102,
+          "type": "短文填空"
+        },
+        {
+          "time": 71,
+          "type": "听力"
+        },
+        {
+          "time": 6,
+          "type": "翻译"
+        },
+        {
+          "time": 33,
+          "type": "情景对话"
+        },
+        {
+          "time": 0,
+          "type": "写作"
+        },
+        {
+          "time": 240,
+          "type": "完形填空"
+        },
+        {
+          "time": 105,
+          "type": "单项选择"
+        },
+        {
+          "time": 33,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 5,
+      "frequency": 1193
+    },
+    "pastExamSents": [
+      {
+        "en": "Ant Financial can help people realize their wishes of improving the environment. Farmers in desert places in China often plant trees. The members of Ant Financial like walking, buying tickets online and taking public transportation.",
+        "zh": "蚂蚁金服可以帮助人们实现改善环境的愿望。中国沙漠地区的农民经常植树。蚂蚁金服的会员们喜欢步行、网上购票和乘坐公共交通。",
+        "source": "2021·四川-达州·阅读"
+      },
+      {
+        "en": "They can walk through the town, admire the old buildings and learn a lot about Chinese culture.",
+        "zh": "他们可以走路穿过小镇，欣赏古建筑，了解许多中国文化。",
+        "source": "2021·贵州-黔东南·情景对话"
+      },
+      {
+        "en": "It took villagers three days to walk to the nearest town.",
+        "zh": "村民们要花三天的时间才能走到最近的城镇。",
+        "source": "2021·辽宁-鞍山·阅读"
+      },
+      {
+        "en": "One afternoon a student was taking a walk with his teacher.",
+        "zh": "一天下午，一个学生和他的老师一起散步。",
+        "source": "2021·湖南-娄底·阅读"
+      },
+      {
+        "en": "It was late at night but he needed the walk to clear his thoughts.",
+        "zh": "已经很晚了，但他需要散步来理清思绪。",
+        "source": "2021·内蒙古-包头·短文填空"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "walk away",
+        "zh": "走开"
+      },
+      {
+        "en": "walk through",
+        "zh": "走过"
+      },
+      {
+        "en": "walk around",
+        "zh": "四处走动"
+      },
+      {
+        "en": "go for / take a walk",
+        "zh": "散步"
+      }
+    ]
+  }
+}

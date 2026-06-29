@@ -1,0 +1,192 @@
+{
+  "word": "income",
+  "found": true,
+  "phonetic_uk": "ˈɪnkʌm",
+  "phonetic_us": "ˈɪnkʌm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=income&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=income&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "收入，收益"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "incomes"
+    }
+  ],
+  "examples": [
+    {
+      "en": "All income must be declared.",
+      "zh": "所有收益必须申报。"
+    },
+    {
+      "en": "Income from sales tax went down.",
+      "zh": "来自销售税的收入下降了。"
+    },
+    {
+      "en": "Income per head rose perceptibly.",
+      "zh": "各人的收入明显提高了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "收入，[会计]收益；[经]所得",
+      "words": [
+        "revenue",
+        "proceeds",
+        "earning",
+        "yield",
+        "receipt"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "高中",
+    "CET4",
+    "CET6",
+    "考研",
+    "商务英语"
+  ],
+  "phrs": [
+    {
+      "phrase": "income tax",
+      "translations": [
+        "所得税"
+      ]
+    },
+    {
+      "phrase": "income gap",
+      "translations": [
+        "收入差距"
+      ]
+    },
+    {
+      "phrase": "income distribution",
+      "translations": [
+        "[经]收入分配"
+      ]
+    },
+    {
+      "phrase": "personal income",
+      "translations": [
+        "个人所得，个人收入"
+      ]
+    },
+    {
+      "phrase": "low income",
+      "translations": [
+        "低收入"
+      ]
+    },
+    {
+      "phrase": "national income",
+      "translations": [
+        "国民收入"
+      ]
+    },
+    {
+      "phrase": "income level",
+      "translations": [
+        "[经]收益水平"
+      ]
+    },
+    {
+      "phrase": "net income",
+      "translations": [
+        "净收益；收益净额"
+      ]
+    },
+    {
+      "phrase": "personal income tax",
+      "translations": [
+        "个人所得税"
+      ]
+    },
+    {
+      "phrase": "individual income tax",
+      "translations": [
+        "[经]个人所得税"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "高考",
+    "mnemonic": "in（进入，使）+ come（来）→ 钱入账 → 收入，收益",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 0,
+          "type": "翻译"
+        },
+        {
+          "time": 1,
+          "type": "知识运用"
+        },
+        {
+          "time": 0,
+          "type": "写作"
+        },
+        {
+          "time": 0,
+          "type": "听力理解"
+        },
+        {
+          "time": 4,
+          "type": "阅读理解"
+        }
+      ],
+      "recommendationRate": 3,
+      "frequency": 5
+    },
+    "pastExamSents": [
+      {
+        "en": "Higher-income parents tended to have children play with puzzles more frequently, and both boys and girls who played with puzzles had better spatial skills.",
+        "zh": "高收入的父母往往会让孩子多玩拼图，不论是男女孩都能通过玩拼图获得更好的空间方位感。",
+        "source": "2020·新课标卷Ⅱ·阅读理解"
+      },
+      {
+        "en": "Puzzle play was found to be a significant predictor of cognition after controlling for differences in parents' income, education and the amount of parent talk, Levine said.",
+        "zh": "莱文说，在控制了父母的收入、教育和交谈量的差异等因素后，发现拼图游戏是预测认知能力的一个重要因素。",
+        "source": "2020·新课标卷Ⅱ·阅读理解"
+      },
+      {
+        "en": "Regardless of the weather or the distance, Paul Wilson will make sure low-income students in his neighbourhood arrive at their college classes on time.",
+        "zh": "不管天气如何，距离有多远，保罗·威尔逊都会确保附近低收入家庭的学生准时上大学。",
+        "source": "2019·北京卷·知识运用"
+      },
+      {
+        "en": "This would make their yearly income more than the Prime Minister earns.",
+        "zh": "这将使他们的年收入超过首相的收入。",
+        "source": "2015·四川卷"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "high/low income ",
+        "zh": "高／低收入"
+      },
+      {
+        "en": "national/personal income",
+        "zh": "国民／个人收入"
+      },
+      {
+        "en": "source of income",
+        "zh": "收入来源"
+      },
+      {
+        "en": "income tax",
+        "zh": "所得税"
+      },
+      {
+        "en": "net income",
+        "zh": "净收益"
+      }
+    ]
+  }
+}
