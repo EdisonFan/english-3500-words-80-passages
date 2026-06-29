@@ -1166,3 +1166,42 @@
 2026-06-29T09:51:28.531Z [INFO] [search-video] 收到请求 word="most" keyword="most 单词"
 2026-06-29T09:51:29.086Z [INFO] [search-video] B站返回 code=0 numResults=1000
 2026-06-29T09:51:29.086Z [INFO] [search-video] ✅ 过滤后返回 2 条 (标题不含单词过滤掉 8 条)
+2026-06-29T10:38:35.385Z [INFO] [search-video] 收到请求 word="cabbage" keyword="cabbage 单词"
+2026-06-29T10:38:35.387Z [WARNING] [search-video] ⚠️ 请求失败，准备第1次重试: write EPROTO 40BD589BF97F0000:error:0A0000C6:SSL routines:tls_get_more_records:packet length too long:../deps/openssl/openssl/ssl/record/methods/tls_common.c:660:
+
+2026-06-29T10:38:35.690Z [WARNING] [search-video] ⚠️ 请求失败，准备第2次重试: write EPROTO 40BD589BF97F0000:error:0A0000C6:SSL routines:tls_get_more_records:packet length too long:../deps/openssl/openssl/ssl/record/methods/tls_common.c:660:
+
+2026-06-29T10:38:35.993Z [WARNING] [search-video] ⚠️ 请求失败，准备第3次重试: write EPROTO 40BD589BF97F0000:error:0A0000C6:SSL routines:tls_get_more_records:packet length too long:../deps/openssl/openssl/ssl/record/methods/tls_common.c:660:
+
+2026-06-29T10:38:36.297Z [WARNING] [search-video] ⚠️ 请求失败，准备第4次重试: write EPROTO 40BD589BF97F0000:error:0A0000C6:SSL routines:tls_get_more_records:packet length too long:../deps/openssl/openssl/ssl/record/methods/tls_common.c:660:
+
+2026-06-29T10:38:36.598Z [WARNING] [search-video] ⚠️ 请求失败，准备第5次重试: write EPROTO 40BD589BF97F0000:error:0A0000C6:SSL routines:tls_get_more_records:packet length too long:../deps/openssl/openssl/ssl/record/methods/tls_common.c:660:
+
+2026-06-29T10:38:36.901Z [WARNING] [search-video] ❌ 请求失败: write EPROTO 40BD589BF97F0000:error:0A0000C6:SSL routines:tls_get_more_records:packet length too long:../deps/openssl/openssl/ssl/record/methods/tls_common.c:660:
+
+2026-06-29T10:38:39.986Z [INFO] [search-video] 收到请求 word="tough" keyword="tough 单词"
+2026-06-29T10:38:39.988Z [WARNING] [search-video] ⚠️ 请求失败，准备第1次重试: write EPROTO 40BD589BF97F0000:error:0A0000C6:SSL routines:tls_get_more_records:packet length too long:../deps/openssl/openssl/ssl/record/methods/tls_common.c:660:
+
+2026-06-29T10:38:40.290Z [WARNING] [search-video] ⚠️ 请求失败，准备第2次重试: write EPROTO 40BD589BF97F0000:error:0A0000C6:SSL routines:tls_get_more_records:packet length too long:../deps/openssl/openssl/ssl/record/methods/tls_common.c:660:
+
+2026-06-29T10:38:40.593Z [WARNING] [search-video] ⚠️ 请求失败，准备第3次重试: write EPROTO 40BD589BF97F0000:error:0A0000C6:SSL routines:tls_get_more_records:packet length too long:../deps/openssl/openssl/ssl/record/methods/tls_common.c:660:
+
+2026-06-29T10:38:40.895Z [WARNING] [search-video] ⚠️ 请求失败，准备第4次重试: write EPROTO 40BD589BF97F0000:error:0A0000C6:SSL routines:tls_get_more_records:packet length too long:../deps/openssl/openssl/ssl/record/methods/tls_common.c:660:
+
+2026-06-29T10:38:41.197Z [WARNING] [search-video] ⚠️ 请求失败，准备第5次重试: write EPROTO 40BD589BF97F0000:error:0A0000C6:SSL routines:tls_get_more_records:packet length too long:../deps/openssl/openssl/ssl/record/methods/tls_common.c:660:
+
+2026-06-29T10:38:41.499Z [WARNING] [search-video] ❌ 请求失败: write EPROTO 40BD589BF97F0000:error:0A0000C6:SSL routines:tls_get_more_records:packet length too long:../deps/openssl/openssl/ssl/record/methods/tls_common.c:660:
+
+2026-06-29T10:38:46.658Z [INFO] [search-video] 收到请求 word="program" keyword="program 单词"
+2026-06-29T10:38:46.659Z [WARNING] [search-video] ⚠️ 请求失败，准备第1次重试: write EPROTO 40BD589BF97F0000:error:0A0000C6:SSL routines:tls_get_more_records:packet length too long:../deps/openssl/openssl/ssl/record/methods/tls_common.c:660:
+
+2026-06-29T10:38:46.962Z [WARNING] [search-video] ⚠️ 请求失败，准备第2次重试: write EPROTO 40BD589BF97F0000:error:0A0000C6:SSL routines:tls_get_more_records:packet length too long:../deps/openssl/openssl/ssl/record/methods/tls_common.c:660:
+
+2026-06-29T10:38:47.264Z [WARNING] [search-video] ⚠️ 请求失败，准备第3次重试: write EPROTO 40BD589BF97F0000:error:0A0000C6:SSL routines:tls_get_more_records:packet length too long:../deps/openssl/openssl/ssl/record/methods/tls_common.c:660:
+
+2026-06-29T10:38:47.568Z [WARNING] [search-video] ⚠️ 请求失败，准备第4次重试: write EPROTO 40BD589BF97F0000:error:0A0000C6:SSL routines:tls_get_more_records:packet length too long:../deps/openssl/openssl/ssl/record/methods/tls_common.c:660:
+
+2026-06-29T10:38:47.870Z [WARNING] [search-video] ⚠️ 请求失败，准备第5次重试: write EPROTO 40BD589BF97F0000:error:0A0000C6:SSL routines:tls_get_more_records:packet length too long:../deps/openssl/openssl/ssl/record/methods/tls_common.c:660:
+
+2026-06-29T10:38:48.172Z [WARNING] [search-video] ❌ 请求失败: write EPROTO 40BD589BF97F0000:error:0A0000C6:SSL routines:tls_get_more_records:packet length too long:../deps/openssl/openssl/ssl/record/methods/tls_common.c:660:
+
