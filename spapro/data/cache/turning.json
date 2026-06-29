@@ -1,0 +1,204 @@
+{
+  "word": "turning",
+  "found": true,
+  "phonetic_uk": "ˈtɜːnɪŋ",
+  "phonetic_us": "ˈtɜːrnɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=turning&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=turning&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "转弯处，岔路口；转向，旋转；车削，车工工艺；车削下脚，削屑（turnings）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使旋转，使转动；转身，扭转（身体部位）；翻动，翻转（turn 的现在分词）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "turnings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He sighed, turning away and surveying the sea.",
+      "zh": "他叹了口气，转过身去，眺望着大海。"
+    },
+    {
+      "en": "He sat turning the pages idly.",
+      "zh": "他坐在那里无所事事地翻着书。"
+    },
+    {
+      "en": "Not turning up was just a cop-out.",
+      "zh": "不露面只不过是在逃避而已。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "转向；旋转；回转；转弯处",
+      "words": [
+        "revolution",
+        "rotation",
+        "rolling"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "旋转（turn的ing形式）",
+      "words": [
+        "rotating",
+        "swimming",
+        "spinning"
+      ]
+    }
+  ],
+  "prototype": "turn",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研",
+    "商务英语"
+  ],
+  "phrs": [
+    {
+      "phrase": "turning point",
+      "translations": [
+        "转折点"
+      ]
+    },
+    {
+      "phrase": "turning tool",
+      "translations": [
+        "车刀"
+      ]
+    },
+    {
+      "phrase": "turning machine",
+      "translations": [
+        "车床；换向台，干燥炉搅拌机"
+      ]
+    },
+    {
+      "phrase": "turning radius",
+      "translations": [
+        "转弯半径，回转半径；旋转半径"
+      ]
+    },
+    {
+      "phrase": "diamond turning",
+      "translations": [
+        "金刚石车削；菱形光阑"
+      ]
+    },
+    {
+      "phrase": "turning center",
+      "translations": [
+        "车削中心；转向中心"
+      ]
+    },
+    {
+      "phrase": "rough turning",
+      "translations": [
+        "粗车削；粗镟"
+      ]
+    },
+    {
+      "phrase": "turning circle",
+      "translations": [
+        "回转圆"
+      ]
+    },
+    {
+      "phrase": "turning movement",
+      "translations": [
+        "迂回；转向交通量调查；旋转运动；回旋运动"
+      ]
+    },
+    {
+      "phrase": "finish turning",
+      "translations": [
+        "n. 精车"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 440,
+          "type": "阅读"
+        },
+        {
+          "time": 80,
+          "type": "短文填空"
+        },
+        {
+          "time": 28,
+          "type": "听力"
+        },
+        {
+          "time": 4,
+          "type": "翻译"
+        },
+        {
+          "time": 21,
+          "type": "情景对话"
+        },
+        {
+          "time": 2,
+          "type": "写作"
+        },
+        {
+          "time": 155,
+          "type": "完形填空"
+        },
+        {
+          "time": 188,
+          "type": "单项选择"
+        },
+        {
+          "time": 31,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 5,
+      "frequency": 949
+    },
+    "pastExamSents": [
+      {
+        "en": "Explain the problem in an honest way, and ask the neighbor to turn down the music, or not to hold parties until 3 a.m. You can also add that you realize they hear your noise too, and you are certainly willing to try to stop anything in your behavior that is creating extra noise.",
+        "zh": "诚实地说明这个问题，并要求邻居把音乐声音调低，或不要开派对开到凌晨三点。你还可以补充说，你意识到他们也听到了你的噪音，而你当然愿意尽量停止任何造成额外噪音的行为。",
+        "source": "2021·江苏-泰州·阅读"
+      },
+      {
+        "en": "It was not an easy task for her to turn an ancient classic into a one-hour stage show that connects with the people of today.",
+        "zh": "对她来说，把一部古老的经典作品变成一部能与现代人产生共鸣的1小时舞台剧，并不是一件容易的事。",
+        "source": "2021·湖南-娄底·阅读"
+      },
+      {
+        "en": "\"Silence it. Turn it off...Turn on Flying Mode,\" she writes.",
+        "zh": "“静音。关机……打开飞行模式。”她写道。",
+        "source": "2021·山东-烟台·阅读"
+      },
+      {
+        "en": "Please remember to turn off the TV before leaving the room.",
+        "zh": "离开房间前请记得关掉电视。",
+        "source": "2021·江苏-淮安·单项选择"
+      },
+      {
+        "en": "We asked many people what we should do to turn this sandbox into a space, then plants can grow in it.",
+        "zh": "我们问了很多人应该怎么做才能把这个沙坑变成一片阔地，然后让植物可以在里面生长。",
+        "source": "2021·湖北-宜昌·阅读"
+      }
+    ],
+    "idiomatic": []
+  }
+}

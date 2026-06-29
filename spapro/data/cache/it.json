@@ -1,0 +1,134 @@
+{
+  "word": "it",
+  "found": true,
+  "phonetic_uk": "ɪt",
+  "phonetic_us": "ɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=it&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=it&type=2",
+  "defs": [
+    {
+      "pos": "pron.",
+      "meaning": "它，这，那（指无生命的东西、动物、植物）；指已提到或将提及的事物、活动、经验、抽象观念等；在不分性别或情况不详时指代；作无人称动词的主语，表示天气、时日、距离、状态、温度等；用于替代通常出现在其后面的名词、短语或从句；用于强调其后的句子成分；用于指某人；用作直接宾语，几乎不具有或完全不具有任何含义；能力，素质"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（捉迷藏等儿童游戏中的）捉人者，找人者；意大利苦艾酒，味美思酒"
+    },
+    {
+      "pos": "abbr.",
+      "meaning": "（IT）信息技术（information technology）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "its"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It really isn't half bad, is it?",
+      "zh": "这的确很不错，对吗？"
+    },
+    {
+      "en": "Does it really matter who did it?",
+      "zh": "是谁干的真的很重要吗？"
+    },
+    {
+      "en": "Does it matter what colour it is?",
+      "zh": "它是什么颜色重要吗？"
+    }
+  ],
+  "synonyms": [],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研"
+  ],
+  "phrs": [
+    {
+      "phrase": "as it were",
+      "translations": [
+        "可以说是，似乎就是；好像"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 9536,
+          "type": "阅读"
+        },
+        {
+          "time": 1475,
+          "type": "短文填空"
+        },
+        {
+          "time": 748,
+          "type": "听力"
+        },
+        {
+          "time": 166,
+          "type": "翻译"
+        },
+        {
+          "time": 681,
+          "type": "情景对话"
+        },
+        {
+          "time": 120,
+          "type": "写作"
+        },
+        {
+          "time": 2044,
+          "type": "完形填空"
+        },
+        {
+          "time": 1663,
+          "type": "单项选择"
+        },
+        {
+          "time": 407,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 5,
+      "frequency": 16840
+    },
+    "pastExamSents": [
+      {
+        "en": "It is too old and it is broken.",
+        "zh": "它太旧了，而且已经坏了。",
+        "source": "2021·海南·情景对话"
+      },
+      {
+        "en": "\"Thank you for cleaning the attic,\" it said.",
+        "zh": "上面写着：“谢谢你打扫阁楼。”",
+        "source": "2021·辽宁-沈阳·完形填空"
+      },
+      {
+        "en": "They had so much in common, it seemed unlikely these were just coincidences.",
+        "zh": "他们有如此多的共同点，这看起来不太可能只是巧合。",
+        "source": "2021·江西·阅读"
+      },
+      {
+        "en": "Over the years, it has sent a number of increasingly challenging missions to the moon.",
+        "zh": "多年来，它已经安排了一系列越来越具有挑战性的月球飞行任务。",
+        "source": "2021·湖北-荆门·阅读"
+      },
+      {
+        "en": "She picked it up. It was dirty and rusty.",
+        "zh": "她把它捡了起来。它又脏又锈。",
+        "source": "2021·江苏-连云港·阅读"
+      }
+    ],
+    "idiomatic": []
+  }
+}
