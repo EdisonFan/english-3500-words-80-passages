@@ -694,7 +694,7 @@ body.show-trans .para .cn { display: block; }
     background: var(--bg);
     border-radius: 16px;
     padding: 32px;
-    max-width: 400px;
+    max-width: 560px;
     width: 100%;
     /* 高度限制：内容多时弹窗不超出视口 */
     max-height: calc(100vh - 48px);
@@ -743,6 +743,13 @@ body.show-trans .para .cn { display: block; }
     text-transform: uppercase;
     margin-bottom: 8px;
 }
+.modal-word-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 6px;
+}
 .modal-word {
     font-family: var(--font-display);
     font-size: 36px;
@@ -750,7 +757,7 @@ body.show-trans .para .cn { display: block; }
     color: var(--ink);
     letter-spacing: -1px;
     line-height: 1;
-    margin-bottom: 6px;
+    margin-bottom: 0;
 }
 .modal-base-form {
     font-size: 12px;
@@ -1059,12 +1066,12 @@ footer {
 
 /* 词典弹框里的"教学视频"按钮 */
 .modal-video-btn {
-    display: flex; align-items: center; justify-content: center;
-    gap: 6px; width: 100%;
-    padding: 10px 14px; margin: 8px 0 4px;
-    font-size: 14px; font-weight: 500;
+    display: inline-flex; align-items: center; justify-content: center;
+    gap: 5px; flex-shrink: 0;
+    padding: 6px 14px; margin: 0;
+    font-size: 13px; font-weight: 500;
     color: #fff; background: #ff6b35;
-    border: none; border-radius: 10px;
+    border: none; border-radius: 8px;
     cursor: pointer; -webkit-appearance: none;
 }
 .modal-video-btn:active { background: #e85a28; }
@@ -1151,5 +1158,5 @@ footer {
 
 /* 移动端优化 */
 @media (max-width: 600px) {
-    .modal-video-btn { font-size: 15px; padding: 12px 14px; }
+    .modal-video-btn { font-size: 13px; padding: 6px 14px; }
 }

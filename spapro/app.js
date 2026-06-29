@@ -415,13 +415,14 @@ function renderDictModal(data, videoList) {
 
     // 视频按钮:只有确认获取到非空视频列表才显示
     // videoList 为 undefined(还没查)或 [](查了但没结果/失败)都不显示
+    var videoBtnHtml = '';
     if (data.word && videoList && videoList.length) {
         var videoWord = (data.prototype || data.word).toLowerCase();
-        html += '<button class="modal-video-btn" onclick="openVideoPage(\'' + esc(videoWord) + '\')"><span class="mv-icon">▶</span> 教学视频</button>';
+        videoBtnHtml = '<button class="modal-video-btn" onclick="openVideoPage(\'' + esc(videoWord) + '\')"><span class="mv-icon">▶</span> 教学视频</button>';
     }
 
     if (data.loading) {
-        html += '<div class="modal-word">' + esc(data.word) + '</div>';
+        html += '<div class="modal-word-row"><div class="modal-word">' + esc(data.word) + '</div>' + videoBtnHtml + '</div>';
         html += '<div class="modal-dict-loading"><span class="dict-spinner"></span>查询中…</div>';
         modalContent.innerHTML = html;
         modalBg.classList.add('active');
@@ -429,7 +430,7 @@ function renderDictModal(data, videoList) {
     }
 
     if (data.error) {
-        html += '<div class="modal-word">' + esc(data.word) + '</div>';
+        html += '<div class="modal-word-row"><div class="modal-word">' + esc(data.word) + '</div>' + videoBtnHtml + '</div>';
         html += '<div class="modal-dict-error">查询失败：' + esc(data.error) + '</div>';
         modalContent.innerHTML = html;
         modalBg.classList.add('active');
@@ -437,7 +438,7 @@ function renderDictModal(data, videoList) {
     }
 
     if (!data.found) {
-        html += '<div class="modal-word">' + esc(data.word) + '</div>';
+        html += '<div class="modal-word-row"><div class="modal-word">' + esc(data.word) + '</div>' + videoBtnHtml + '</div>';
         html += '<div class="modal-dict-empty">未找到该词的释义</div>';
         modalContent.innerHTML = html;
         modalBg.classList.add('active');
@@ -445,7 +446,7 @@ function renderDictModal(data, videoList) {
     }
 
     // 单词
-    html += '<div class="modal-word">' + esc(data.word) + '</div>';
+    html += '<div class="modal-word-row"><div class="modal-word">' + esc(data.word) + '</div>' + videoBtnHtml + '</div>';
 
     // 基础形式提示（所有格/缩写回退查询时显示）
     if (data.base_form) {
@@ -696,8 +697,7 @@ function openVideoPage(word) {
         sessionStorage.setItem('videoWord', word);
     } catch (e) { }
     var url = '/video.html?word=' + encodeURIComponent(word);
-    // 关掉词典弹框
-    modalBg.classList.remove('active');
+    // 保留词典弹框:PC 新标签页打开视频后,原页面弹框仍在,方便看完视频回看释义
     if (isMobileDevice()) {
         location.href = url;
     } else {
