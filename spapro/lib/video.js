@@ -6,7 +6,7 @@
 const https = require('https');
 const { httpsGet, sendJson } = require('./http');
 const { parseDuration } = require('./utils');
-const logger = require('./logger');
+// const logger = require('./logger');  // 日志功能已禁用
 
 async function handleSearchVideo(word, res) {
   const suffix = '单词';
@@ -14,7 +14,7 @@ async function handleSearchVideo(word, res) {
   const encodedKw = encodeURIComponent(keyword).replace(/%20/g, '+');
   const apiUrl = `https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=${encodedKw}&page=1&pagesize=50`;
 
-  logger.info(`[search-video] 收到请求 word=${JSON.stringify(word)} keyword=${JSON.stringify(keyword)}`);
+  // logger.info(`[search-video] 收到请求 word=${JSON.stringify(word)} keyword=${JSON.stringify(keyword)}`);
 
   let data;
   let retryCount = 0;
@@ -25,25 +25,25 @@ async function handleSearchVideo(word, res) {
         'Cookie': 'buvid3=placeholder',
       });
       data = JSON.parse(resp.body);
-      console.log(data);
-      logger.info(`[search-video] B站返回 code=${data.code} numResults=${(data.data || {}).numResults}`);
+      // console.log(data);
+      // logger.info(`[search-video] B站返回 code=${data.code} numResults=${(data.data || {}).numResults}`);
       break;
     } catch (e) {
       retryCount++;
       if (retryCount > 5) {
-        logger.warning(`[search-video] ❌ 请求失败: ${e.message}`);
+        // logger.warning(`[search-video] ❌ 请求失败: ${e.message}`);
         sendJson(res, 200, {
           ok: true, word, keyword, total: 0, list: [], fallback: true,
         });
         return;
       }
-      logger.warning(`[search-video] ⚠️ 请求失败，准备第${retryCount}次重试: ${e.message}`);
+      // logger.warning(`[search-video] ⚠️ 请求失败，准备第${retryCount}次重试: ${e.message}`);
       await new Promise(r => setTimeout(r, 300));
     }
   }
 
   if (data.code !== 0) {
-    logger.error(`[search-video] ❌ B站接口错误: ${data.message}`);
+    // logger.error(`[search-video] ❌ B站接口错误: ${data.message}`);
     sendJson(res, 502, { ok: false, error: data.message || 'B站接口错误' });
     return;
   }
@@ -78,7 +78,7 @@ async function handleSearchVideo(word, res) {
   results.sort((a, b) => b.play - a.play);
   const top10 = results.slice(0, 10);
 
-  logger.info(`[search-video] ✅ 过滤后返回 ${top10.length} 条 (标题不含单词过滤掉 ${filteredOutTitle} 条)`);
+  // logger.info(`[search-video] ✅ 过滤后返回 ${top10.length} 条 (标题不含单词过滤掉 ${filteredOutTitle} 条)`);
 
   sendJson(res, 200, {
     ok: true, word, keyword, total: top10.length, list: top10,
@@ -187,21 +187,21 @@ function pipeMp4(mp4Url, req, res, onHeadersSent) {
 function handleStream(bvid, req, res) {
   let headersSent = false;
 
-  logger.info(`[stream] 收到请求 bvid=${bvid} range=${req.headers.range || '(无)'}`);
+  // logger.info(`[stream] 收到请求 bvid=${bvid} range=${req.headers.range || '(无)'}`);
 
   getCid(bvid)
     .then((cid) => {
-      logger.info(`[stream] 拿到 cid=${cid}`);
+      // logger.info(`[stream] 拿到 cid=${cid}`);
       return getMp4Url(bvid, cid).then(({ mp4Url, quality }) => {
-        logger.info(`[stream] 拿到直链 quality=${quality}`);
+        // logger.info(`[stream] 拿到直链 quality=${quality}`);
         return pipeMp4(mp4Url, req, res, (sent) => { headersSent = sent; });
       });
     })
     .then(() => {
-      logger.info(`[stream] ✅ 流式传输完成 bvid=${bvid}`);
+      // logger.info(`[stream] ✅ 流式传输完成 bvid=${bvid}`);
     })
     .catch((e) => {
-      logger.error(`[stream] ❌ 错误 bvid=${bvid}: ${e.message}`);
+      // logger.error(`[stream] ❌ 错误 bvid=${bvid}: ${e.message}`);
       if (!headersSent) {
         sendJson(res, 502, { ok: false, error: `视频流错误: ${e.message}` });
       }
