@@ -1,0 +1,208 @@
+{
+  "word": "quality",
+  "found": true,
+  "phonetic_uk": "ˈkwɒləti",
+  "phonetic_us": "ˈkwɑːləti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=quality&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=quality&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "质量，品质；优质，上乘；素质，品德；特征，特质；（语音）音质，音色；<英>（供有品位者阅读的）高质量报纸（=quality newspaper）；（占星）黄道宫运动三大特征之一"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "优质的，高质量的；<英>（报纸）内容严肃的，高级的；<英，俚>棒极了"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "qualities"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The quality is uniformly high.",
+      "zh": "质量一律很高。"
+    },
+    {
+      "en": "This is high quality stuff.",
+      "zh": "这是高品质的东西。"
+    },
+    {
+      "en": "This wine is of doubtful quality.",
+      "zh": "这酒的质量有问题。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "质量，[统计]品质；特性；才能",
+      "words": [
+        "talent",
+        "capability",
+        "ability",
+        "identity",
+        "character"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研",
+    "IELTS",
+    "TOEFL",
+    "商务英语"
+  ],
+  "phrs": [
+    {
+      "phrase": "high quality",
+      "translations": [
+        "高品质"
+      ]
+    },
+    {
+      "phrase": "product quality",
+      "translations": [
+        "产品质量"
+      ]
+    },
+    {
+      "phrase": "quality control",
+      "translations": [
+        "质量控制，质量管理"
+      ]
+    },
+    {
+      "phrase": "quality management",
+      "translations": [
+        "质量管理"
+      ]
+    },
+    {
+      "phrase": "quality first",
+      "translations": [
+        "质量第一"
+      ]
+    },
+    {
+      "phrase": "water quality",
+      "translations": [
+        "水质"
+      ]
+    },
+    {
+      "phrase": "good quality",
+      "translations": [
+        "良好品质，高品质；好质量"
+      ]
+    },
+    {
+      "phrase": "quality assurance",
+      "translations": [
+        "质量保证；品质保证"
+      ]
+    },
+    {
+      "phrase": "quality of life",
+      "translations": [
+        "生活质量；基本生活条件"
+      ]
+    },
+    {
+      "phrase": "quality system",
+      "translations": [
+        "质量体系；品质系统"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "qual（质量）+ ity（表示名词）→ 质量",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 108,
+          "type": "阅读"
+        },
+        {
+          "time": 6,
+          "type": "短文填空"
+        },
+        {
+          "time": 0,
+          "type": "听力"
+        },
+        {
+          "time": 0,
+          "type": "翻译"
+        },
+        {
+          "time": 3,
+          "type": "情景对话"
+        },
+        {
+          "time": 6,
+          "type": "写作"
+        },
+        {
+          "time": 9,
+          "type": "完形填空"
+        },
+        {
+          "time": 3,
+          "type": "单项选择"
+        },
+        {
+          "time": 4,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 3,
+      "frequency": 139
+    },
+    "pastExamSents": [
+      {
+        "en": "At China's Central Rural Work Conference in 2020, President Xi stressed that efforts must be made to increase the quality of agriculture.",
+        "zh": "在2020年的中央农村工作会议上，习主席强调要努力提高农业质量。",
+        "source": "2021·江苏-南通·阅读"
+      },
+      {
+        "en": "What's more, the area will improve the water quality of Baiyangdian Lake, one of the largest freshwater wetlands in North China.",
+        "zh": "此外，该区将改善白洋淀的水质，白洋淀是中国北方最大的淡水湿地之一。",
+        "source": "2021·辽宁-锦州·阅读"
+      },
+      {
+        "en": "Since 2012, he has helped more than 1,900 students and called on more teachers to work in poor areas to improve the quality of education.",
+        "zh": "自2012年以来，他已经帮助了1900多名学生，并呼吁更多的教师到贫困地区工作，以提高教育质量。",
+        "source": "2021·重庆-A卷·阅读"
+      },
+      {
+        "en": "Though the quality was excellent, his invention quickly died.",
+        "zh": "他的发明虽然质量很好，但是很快就夭折了。",
+        "source": "2021·上海·完形填空"
+      },
+      {
+        "en": "The comfortable shirt I bought yesterday is made of high quality cotton from Xinjiang, China.",
+        "zh": "我昨天买的这件舒适的衬衣是由中国新疆优质棉花制成的。",
+        "source": "2021·湖北-襄阳·句子填空"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "good / poor / top quality",
+        "zh": "质量好 / 次 / 上乘"
+      },
+      {
+        "en": "personal qualities",
+        "zh": "个人品质"
+      }
+    ]
+  }
+}
