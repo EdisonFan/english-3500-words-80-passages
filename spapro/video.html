@@ -5,24 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 <title>教学视频</title>
 <link rel="stylesheet" href="style.css">
-<!-- 西瓜播放器 xgplayer v3 (UMD, 全局变量 Player) -->
-<link rel="stylesheet" href="https://unpkg.com/xgplayer/dist/index.min.css">
-<script src="https://unpkg.com/xgplayer/dist/index.min.js"></script>
 <style>
+    /* 独立视频页:body 直接作为全屏容器 */
     html, body { width: 100%; height: 100%; margin: 0; padding: 0; background: #000; overflow: hidden; }
     .video-page { width: 100vw; height: 100vh; position: relative; }
-
-    /* xgplayer 容器:撑满 card */
-    .video-card .xg-box {
-        width: 100%; height: 100%;
-        background: #000;
-    }
-    /* xgplayer 内部 video 撑满、不裁切 */
-    .video-card .xg-box video {
-        width: 100% !important; height: 100% !important;
-        object-fit: contain !important;
-        background: #000;
-    }
 
     /* 右上角圆形按钮组:横屏 + 下载 */
     .card-corner-btns {
@@ -42,8 +28,31 @@
     .card-corner-btns button:active,
     .card-corner-btns a:active { background: rgba(255,255,255,0.25); }
 
-    /* xgplayer 控件层在 z-index 10 左右,corner 按钮要在其上 */
-    .video-card .xgplayer { z-index: 1; }
+    /* 横屏模式:旋转整个 video-card,video 撑满,隐藏其他 UI */
+    .video-card.landscape {
+        /* 旋转后宽高互换:card 宽度=屏高,高度=屏宽,定位到屏幕中心 */
+        width: 100vh; height: 100vw;
+        position: fixed; top: 50%; left: 50%;
+        transform: translate(-50%, -50%) rotate(90deg);
+        transform-origin: center center;
+        z-index: 20;
+    }
+    .video-card.landscape video {
+        width: 100%; height: 100%;
+        object-fit: contain;
+        position: static; /* 覆盖 style.css 里可能的绝对定位 */
+    }
+    /* 横屏时隐藏序号、标题等信息,避免错位 */
+    .video-card.landscape .video-card-idx,
+    .video-card.landscape .video-card-info {
+        display: none;
+    }
+    /* 右上角按钮反向旋转,保持按钮自身正立可点 */
+    .video-card.landscape .card-corner-btns {
+        transform: rotate(-90deg);
+        transform-origin: center center;
+        z-index: 31;
+    }
 </style>
 </head>
 <body>
@@ -51,43 +60,46 @@
     <div class="video-feed" id="videoFeed"></div>
 </div>
 <script>
-/* 独立视频页:用西瓜播放器 xgplayer 替代自写 video
-   - 横屏:点击右上角横屏按钮 → 触发 xgplayer 全屏(rotateFullscreen 自动旋转横屏)
-   - 下载:点击右上角下载按钮 → 走 /api/stream?bvid=xxx&download=1 (Content-Disposition 指定文件名)
-   - 抖音式竖屏视频流保留:滚动停稳后切换播放,远处销毁实例释放内存 */
+/* 独立视频页:从 sessionStorage 取本页查好的视频列表,直接渲染抖音式视频流
+   - 横屏:右上角按钮切换 landscape 类,旋转整个 card
+   - 下载:右上角下载按钮 → /api/stream?bvid=xxx&download=1 (Content-Disposition 指定文件名) */
 var VIDEO_SERVER = '';
 var _videoList = [];
 var _videoIdx = 0;
 var _videoWord = '';
 var videoFeed = document.getElementById('videoFeed');
-// 每个卡片的 xgplayer 实例:idx -> Player
-var _players = {};
 
+// 从 URL 取 word 参数(仅作标识,实际数据从 sessionStorage 取)
 function getWordFromUrl() {
     var params = new URLSearchParams(location.search);
     return (params.get('word') || '').toLowerCase().trim();
 }
+
+// HTML 转义
 function esc(text) {
     if (!text) return '';
     return String(text).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 }
+
 function fmtPlayCount(n) {
     n = Number(n) || 0;
     return n >= 10000 ? (n / 10000).toFixed(1) + '万' : n;
 }
 
-// 渲染视频流:每屏一个 card,内含 xgplayer 容器 + 右上角按钮组
+// 渲染视频流:每屏一个视频
 function renderVideoFeed() {
     var html = '';
     _videoList.forEach(function(v, i) {
         var dlHref = VIDEO_SERVER + '/api/stream?bvid=' + encodeURIComponent(v.bvid) + '&download=1';
         html += '<div class="video-card" data-idx="' + i + '">';
-        html += '<div class="xg-box" id="xg-' + i + '"></div>';
-        // 右上角按钮:横屏(全屏旋转) + 下载
+        // 右上角按钮:横屏 + 下载
         html += '<div class="card-corner-btns">';
         html += '<button class="card-landscape-btn" title="横屏播放" data-landscape-idx="' + i + '">&#x2B6E;</button>';
         html += '<a class="card-download-btn" title="下载视频" href="' + dlHref + '" download="' + esc(v.bvid) + '.mp4" target="_blank" rel="noopener">&#x2B07;</a>';
         html += '</div>';
+        html += '<video playsinline webkit-playsinline="true" preload="auto" loop controls controlslist="nodownload noplaybackrate noremoteplayback"';
+        if (v.pic) html += ' poster="https:' + v.pic + '"';
+        html += '></video>';
         html += '<div class="video-card-idx">' + (i + 1) + '/' + _videoList.length + '</div>';
         html += '<div class="video-card-info">';
         html += '<div class="video-card-word">' + esc(_videoWord) + '</div>';
@@ -98,29 +110,16 @@ function renderVideoFeed() {
     });
     videoFeed.innerHTML = html;
 
-    // 横屏按钮:触发对应 card 的 xgplayer 全屏(rotateFullscreen 自动横屏)
+    // 横屏按钮点击:切换当前 card 的 landscape 类
     videoFeed.addEventListener('click', function(e) {
         var btn = e.target.closest('.card-landscape-btn');
         if (!btn) return;
         e.stopPropagation();
         e.preventDefault();
         var idx = parseInt(btn.getAttribute('data-landscape-idx'), 10);
-        var p = _players[idx];
-        if (!p) return;
-        // 优先调用全屏 API;失败则点击 xgplayer 自带全屏按钮
-        try {
-            if (typeof p.getFullscreen === 'function') {
-                p.getFullscreen();
-            } else if (typeof p.exitFullscreen === 'function') {
-                p.fullscreen && p.fullscreen.getFullscreen && p.fullscreen.getFullscreen();
-            } else {
-                var fsBtn = videoFeed.children[idx].querySelector('.xgplayer-icon-fullscreen');
-                if (fsBtn) fsBtn.click();
-            }
-        } catch (err) {
-            var fsBtn2 = videoFeed.children[idx].querySelector('.xgplayer-icon-fullscreen');
-            if (fsBtn2) fsBtn2.click();
-        }
+        var card = videoFeed.children[idx];
+        if (!card) return;
+        card.classList.toggle('landscape');
     });
 
     // 滚动监听(节流):停稳后切换播放
@@ -134,73 +133,72 @@ function renderVideoFeed() {
     };
 }
 
-// 创建一个 xgplayer 实例
-function createPlayer(idx) {
+// 拉取视频宽高信息
+var _videoInfoCache = {};
+function fetchVideoInfo(idx) {
     var v = _videoList[idx];
-    if (!v || typeof window.Player === 'undefined') return null;
-    var streamUrl = VIDEO_SERVER + '/api/stream?bvid=' + encodeURIComponent(v.bvid);
-    var poster = v.pic ? ('https:' + v.pic) : '';
-    try {
-        var p = new window.Player({
-            id: 'xg-' + idx,
-            url: streamUrl,
-            poster: poster,
-            playsinline: true,
-            loop: true,
-            autoplay: false,
-            volume: 0.6,
-            lang: 'zh-cn',
-            fluid: false,
-            width: '100%',
-            height: '100%',
-            // 旋转控件(控制栏里) + 全屏时旋转横屏
-            rotate: true,
-            fullscreen: { rotateFullscreen: true },
-            // 移动端适配
-            'x5-video-player-type': 'h5',
-            'x5-video-orientation': 'portraint',
-        });
-        return p;
-    } catch (e) {
-        console.error('[xgplayer] create failed idx=' + idx, e);
-        return null;
+    if (!v) return;
+    var bvid = v.bvid;
+    if (_videoInfoCache[bvid] !== undefined) {
+        applyVideoInfo(idx, _videoInfoCache[bvid]);
+        return;
     }
+    fetch(VIDEO_SERVER + '/api/video-info?bvid=' + encodeURIComponent(bvid))
+        .then(function(r) { return r.json(); })
+        .then(function(j) {
+            var info = (j && j.ok) ? j : null;
+            _videoInfoCache[bvid] = info;
+            applyVideoInfo(idx, info);
+        })
+        .catch(function() {});
 }
 
-// 销毁实例释放内存
-function destroyPlayer(idx) {
-    var p = _players[idx];
-    if (!p) return;
-    try { p.destroy(); } catch (e) {}
-    delete _players[idx];
+function applyVideoInfo(idx, info) {
+    // 切到新视频时还原竖屏模式
+    var card = videoFeed.children[idx];
+    if (!card) return;
+    card.classList.remove('landscape');
 }
 
-// 切换播放:当前实例化并播放,预加载下一个,远处的销毁
+// 给当前视频设 src 并播放,预加载下一个,清理远处的释放带宽
 function playVideoIdx(idx) {
     var cards = videoFeed.children;
     for (var i = 0; i < cards.length; i++) {
+        var video = cards[i].querySelector('video');
         if (i === idx) {
-            // 当前:确保有实例,播放
-            if (!_players[i]) _players[i] = createPlayer(i);
-            var p = _players[i];
-            if (p) {
-                try { p.play(); } catch (e) {}
+            // 当前:设 src + 播放
+            var srcUrl = VIDEO_SERVER + '/api/stream?bvid=' + _videoList[i].bvid;
+            if (video.getAttribute('data-loaded') !== srcUrl) {
+                video.src = srcUrl;
+                video.setAttribute('data-loaded', srcUrl);
+                video.load();
             }
+            video.play().catch(function() {});
         } else if (i === idx + 1) {
-            // 预加载下一个:创建实例但不播放
-            if (!_players[i]) _players[i] = createPlayer(i);
-            var pn = _players[i];
-            if (pn) { try { pn.pause(); } catch (e) {} }
+            // 预加载下一个:设 src + load,不 play
+            var nextUrl = VIDEO_SERVER + '/api/stream?bvid=' + _videoList[i].bvid;
+            if (video.getAttribute('data-loaded') !== nextUrl) {
+                video.src = nextUrl;
+                video.setAttribute('data-loaded', nextUrl);
+                video.load();
+            }
+            video.pause();
         } else if (i === idx - 1) {
-            // 上一个:暂停保留
-            var pp = _players[i];
-            if (pp) { try { pp.pause(); } catch (e) {} }
+            // 上一个:保留 src 但暂停
+            video.pause();
         } else {
-            // 远处:销毁释放
-            destroyPlayer(i);
+            // 远处:清 src 释放带宽
+            video.pause();
+            if (video.src) {
+                video.removeAttribute('src');
+                video.removeAttribute('data-loaded');
+                video.load();
+            }
         }
     }
     _videoIdx = idx;
+    // 拉当前视频的宽高信息
+    fetchVideoInfo(idx);
 }
 
 // 启动:优先从 sessionStorage 取本页查好的视频列表
@@ -213,6 +211,7 @@ try {
 } catch (e) {}
 
 if (cachedList && cachedList.length && cachedWord === _videoWord) {
+    // 命中缓存:直接渲染,不再调搜索接口
     _videoList = cachedList;
     renderVideoFeed();
     videoFeed.scrollTop = 0;
@@ -220,6 +219,7 @@ if (cachedList && cachedList.length && cachedWord === _videoWord) {
 } else if (!_videoWord) {
     videoFeed.innerHTML = '<div class="video-loading"><div>缺少单词参数</div></div>';
 } else {
+    // 兜底:sessionStorage 没数据(如直接访问 video.html),才调搜索接口
     videoFeed.innerHTML = '<div class="video-loading"><div class="video-spin"></div><div>搜索 "' + esc(_videoWord) + '" 的教学视频…</div></div>';
     fetch(VIDEO_SERVER + '/api/search-video?word=' + encodeURIComponent(_videoWord))
         .then(function(r) { return r.json(); })

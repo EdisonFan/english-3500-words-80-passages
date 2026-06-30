@@ -1,0 +1,216 @@
+{
+  "word": "program",
+  "found": true,
+  "phonetic_uk": "ˈprəʊɡræm",
+  "phonetic_us": "ˈproʊɡræm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=program&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=program&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（计算机）程序（=programme）；计划，规划；（音乐会、戏剧等演出的）节目单，（体育运动、比赛等的）项目介绍；（电视或广播）节目；<美>课程，大纲"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（给计算机）编写程序，设计程序；设置，预设；使……有倾向；为……安排节目"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "programs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "programs"
+    },
+    {
+      "name": "现在分词",
+      "value": "programming或programing"
+    },
+    {
+      "name": "过去式",
+      "value": "programmed或programed"
+    },
+    {
+      "name": "过去分词",
+      "value": "programmed或programed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The program aired last week.",
+      "zh": "该节目已于上周播出。"
+    },
+    {
+      "en": "How much memory does the program occupy?",
+      "zh": "这个程序占用多少内存？"
+    },
+    {
+      "en": "The program won't load. What am I doing wrong ?",
+      "zh": "这程序载入不了。我哪里出错了？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计]程序；计划；大纲",
+      "words": [
+        "procedure",
+        "routine",
+        "plan",
+        "scheme",
+        "project"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6"
+  ],
+  "phrs": [
+    {
+      "phrase": "computer program",
+      "translations": [
+        "计算机程序"
+      ]
+    },
+    {
+      "phrase": "program design",
+      "translations": [
+        "n. 程序设计；程式设计"
+      ]
+    },
+    {
+      "phrase": "training program",
+      "translations": [
+        "n. 训练计划"
+      ]
+    },
+    {
+      "phrase": "tv program",
+      "translations": [
+        "电视节目"
+      ]
+    },
+    {
+      "phrase": "development program",
+      "translations": [
+        "n. 发展计划；开发方案"
+      ]
+    },
+    {
+      "phrase": "control program",
+      "translations": [
+        "控制程序"
+      ]
+    },
+    {
+      "phrase": "application program",
+      "translations": [
+        "[计]应用程序"
+      ]
+    },
+    {
+      "phrase": "design program",
+      "translations": [
+        "设计任务书"
+      ]
+    },
+    {
+      "phrase": "education program",
+      "translations": [
+        "教育计划；教育课程"
+      ]
+    },
+    {
+      "phrase": "simulation program",
+      "translations": [
+        "模拟程序"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "pro（向前，前面）+ gram（写）→ 需要提前写好的 → 纲要，计划",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 304,
+          "type": "阅读"
+        },
+        {
+          "time": 27,
+          "type": "短文填空"
+        },
+        {
+          "time": 28,
+          "type": "听力"
+        },
+        {
+          "time": 5,
+          "type": "翻译"
+        },
+        {
+          "time": 8,
+          "type": "情景对话"
+        },
+        {
+          "time": 3,
+          "type": "写作"
+        },
+        {
+          "time": 16,
+          "type": "完形填空"
+        },
+        {
+          "time": 19,
+          "type": "单项选择"
+        },
+        {
+          "time": 5,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 4,
+      "frequency": 415
+    },
+    "pastExamSents": [
+      {
+        "en": "Students who use the AI program might gradually form good habits of saving food.",
+        "zh": "使用该人工智能程序的学生可能会逐渐养成节约食物的好习惯。",
+        "source": "2021·辽宁-鞍山·阅读"
+      },
+      {
+        "en": "This program includes trips to local museums.",
+        "zh": "这个项目包括去当地博物馆。",
+        "source": "2021·湖北-襄阳·阅读"
+      },
+      {
+        "en": "I don't like waiting for a program to end.",
+        "zh": "我不喜欢等到节目结束。",
+        "source": "2021·贵州-铜仁·阅读"
+      },
+      {
+        "en": "Each school was in the gardening program for one school year.",
+        "zh": "每一所学校都参加了为期一学年的园艺项目。",
+        "source": "2021·北京·阅读"
+      },
+      {
+        "en": "New research suggests that a gardening program in schools can increase children's vegetable intake.",
+        "zh": "新的研究表明，学校的园艺项目可以增加孩子们的蔬菜摄入量。",
+        "source": "2021·北京·阅读"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "TV / news program",
+        "zh": "电视 / 新闻节目"
+      }
+    ]
+  }
+}
