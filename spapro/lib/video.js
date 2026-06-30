@@ -140,7 +140,7 @@ function getMp4Url(bvid, cid) {
   });
 }
 
-function pipeMp4(mp4Url, req, res, onHeadersSent) {
+function pipeMp4(mp4Url, req, res, onHeadersSent, downloadName) {
   return new Promise((resolve, reject) => {
     const headers = {
       'User-Agent': 'Mozilla/5.0',
@@ -166,11 +166,15 @@ function pipeMp4(mp4Url, req, res, onHeadersSent) {
         outHeaders['accept-ranges'] = 'bytes';
       }
 
-      // === A方案：客户端浏览器磁盘缓存 ===
-      // 同一 bvid 对应视频内容固定，URL 稳定 → 浏览器按 URL 缓存整文件
-      // 命中后循环播放/刷新页面/重开浏览器均走 disk cache，0 网络请求
-      // 仅对成功响应（200 完整 / 206 Range）加缓存，错误响应不缓存
-      if (statusCode === 200 || statusCode === 206) {
+      // 下载模式:加 Content-Disposition 强制浏览器下载并指定文件名
+      // 播放模式不加,保持浏览器内联播放
+      if (downloadName) {
+        outHeaders['Content-Disposition'] =
+          "attachment; filename=\"" + downloadName.replace(/[^\w.\-]/g, '_') + "\"";
+      } else if (statusCode === 200 || statusCode === 206) {
+        // === A方案：客户端浏览器磁盘缓存（仅播放模式）===
+        // 同一 bvid 对应视频内容固定，URL 稳定 → 浏览器按 URL 缓存整文件
+        // 命中后循环播放/刷新页面/重开浏览器均走 disk cache，0 网络请求
         outHeaders['Cache-Control'] = 'public, max-age=86400, immutable';
         if (upHeaders['last-modified']) {
           outHeaders['Last-Modified'] = upHeaders['last-modified'];
@@ -191,8 +195,9 @@ function pipeMp4(mp4Url, req, res, onHeadersSent) {
   });
 }
 
-function handleStream(bvid, req, res) {
+function handleStream(bvid, req, res, download) {
   let headersSent = false;
+  const downloadName = download ? (bvid + '.mp4') : '';
 
   // logger.info(`[stream] 收到请求 bvid=${bvid} range=${req.headers.range || '(无)'}`);
 
@@ -201,7 +206,7 @@ function handleStream(bvid, req, res) {
       // logger.info(`[stream] 拿到 cid=${cid}`);
       return getMp4Url(bvid, cid).then(({ mp4Url, quality }) => {
         // logger.info(`[stream] 拿到直链 quality=${quality}`);
-        return pipeMp4(mp4Url, req, res, (sent) => { headersSent = sent; });
+        return pipeMp4(mp4Url, req, res, (sent) => { headersSent = sent; }, downloadName);
       });
     })
     .then(() => {

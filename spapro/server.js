@@ -56,7 +56,8 @@ const server = http.createServer(async (req, res) => {
       sendJson(res, 400, { error: '缺少参数 bvid' });
       return;
     }
-    handleStream(bvid, req, res);
+    // download=1 时响应头加 Content-Disposition,触发浏览器下载并指定文件名
+    handleStream(bvid, req, res, params.download === '1' || params.download === 'true');
     return;
   }
 
