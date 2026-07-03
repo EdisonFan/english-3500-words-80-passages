@@ -1,0 +1,233 @@
+{
+  "word": "aim",
+  "found": true,
+  "phonetic_uk": "eɪm",
+  "phonetic_us": "eɪm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=aim&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=aim&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "目标，目的；瞄准，对准；枪法，击中目标的能力"
+    },
+    {
+      "pos": "v.",
+      "meaning": "瞄准，对准；旨在，致力于；针对，指向"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "aims"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "aims"
+    },
+    {
+      "name": "现在分词",
+      "value": "aiming"
+    },
+    {
+      "name": "过去式",
+      "value": "aimed"
+    },
+    {
+      "name": "过去分词",
+      "value": "aimed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His aim was to become president.",
+      "zh": "他的目的是当总统。"
+    },
+    {
+      "en": "His aim was to unite Italy.",
+      "zh": "他的目标是统一意大利。"
+    },
+    {
+      "en": "We aim to help the poorest families.",
+      "zh": "我们的目标是接济最贫困的家庭。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "目的在于；引导；把…对准",
+      "words": [
+        "be calculated to",
+        "boot"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "打算；对准目标",
+      "words": [
+        "propose",
+        "to intend"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "目的；目标；对准",
+      "words": [
+        "intention",
+        "purpose",
+        "sake",
+        "objective",
+        "target"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研",
+    "商务英语"
+  ],
+  "phrs": [
+    {
+      "phrase": "aim of",
+      "translations": [
+        "旨在；瞄准；致力于…"
+      ]
+    },
+    {
+      "phrase": "aim at",
+      "translations": [
+        "v. 针对；瞄准；目的在于"
+      ]
+    },
+    {
+      "phrase": "aim for",
+      "translations": [
+        "瞄准；以…为目标"
+      ]
+    },
+    {
+      "phrase": "aim high",
+      "translations": [
+        "胸怀大志，力争上游；向高处瞄准"
+      ]
+    },
+    {
+      "phrase": "take aim",
+      "translations": [
+        "瞄准"
+      ]
+    },
+    {
+      "phrase": "take aim at",
+      "translations": [
+        "瞄准；盯着；注意到；以…为目标"
+      ]
+    },
+    {
+      "phrase": "aim low",
+      "translations": [
+        "◎向低处瞄准(尤指拳击比赛中不道德的打法)",
+        "◎志向不高"
+      ]
+    },
+    {
+      "phrase": "cry aim",
+      "translations": [
+        "喝彩助威；予以鼓励"
+      ]
+    },
+    {
+      "phrase": "aim at doing sth",
+      "translations": [
+        "目的是做…"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 24,
+          "type": "阅读"
+        },
+        {
+          "time": 1,
+          "type": "短文填空"
+        },
+        {
+          "time": 1,
+          "type": "听力"
+        },
+        {
+          "time": 0,
+          "type": "翻译"
+        },
+        {
+          "time": 1,
+          "type": "情景对话"
+        },
+        {
+          "time": 0,
+          "type": "写作"
+        },
+        {
+          "time": 0,
+          "type": "完形填空"
+        },
+        {
+          "time": 1,
+          "type": "单项选择"
+        },
+        {
+          "time": 0,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 1,
+      "frequency": 28
+    },
+    "pastExamSents": [
+      {
+        "en": "Their aim is to comfort young people.",
+        "zh": "他们的目的是安慰年轻人。",
+        "source": "2021·内蒙古-赤峰·阅读"
+      },
+      {
+        "en": "\"But the aim is to support human care, not to take the place of it.\" says Brian Scassellati.",
+        "zh": "“但我们的目标是支持人文关怀，而非取而代之。”布莱恩·斯卡塞拉蒂如是说。",
+        "source": "2020·重庆-A卷·阅读"
+      },
+      {
+        "en": "My aim is to go to Wuhan University for further study.",
+        "zh": "我的目标是去武汉大学深造。",
+        "source": "2020·湖北-咸宁·单项选择"
+      },
+      {
+        "en": "He saw one woman pick up an arrow and shoot it after taking a moment to aim (瞄准).",
+        "zh": "他看到一个女人拿起一支箭，稍作瞄准后就射了出去。",
+        "source": "2020·辽宁-铁岭、葫芦岛·阅读"
+      },
+      {
+        "en": "The main aim of this activity is to improve our school members' knowledge about the importance of exercise.",
+        "zh": "这次活动的主要目的是提高我们学校成员对运动重要性的认识。",
+        "source": "2019·河北·阅读"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "aim at",
+        "zh": "瞄准；目的在于"
+      },
+      {
+        "en": "aim to do sth.",
+        "zh": "旨在做某事"
+      }
+    ]
+  }
+}
