@@ -1,0 +1,44 @@
+{
+  "word": "government",
+  "found": true,
+  "phonetic_uk": "ˈɡʌvənmənt",
+  "phonetic_us": "ˈɡʌvərnmənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=government&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=government&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "政府，内阁；政体，国家体制；（国家等的）治理，管理；政府掌控经济和社会活动的程度；（语法）支配关系"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "governments"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The government took swift action.",
+      "zh": "政府立即采取了行动。"
+    },
+    {
+      "en": "The government remained in control.",
+      "zh": "政府继续控制着局势。"
+    },
+    {
+      "en": "The government is ducking the issue.",
+      "zh": "政府在回避这个问题。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[管理]政府；政体；管辖",
+      "words": [
+        "regime",
+        "presidency"
+      ]
+    }
+  ]
+}
