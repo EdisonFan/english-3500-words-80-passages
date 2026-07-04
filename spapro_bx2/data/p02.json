@@ -1,0 +1,77 @@
+{
+  "id": 2,
+  "stats": {
+    "words": 40,
+    "core": 31
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "The air is thin and we have to rest several times on the short hike from camp. To our left, snow-covered mountains disappear into clouds that seem almost close enough to touch. On the {plain} in front of us, we can just {make out} a {herd} of graceful animals. This is why we're here—to {observe} {Tibetan antelopes}.",
+      "cn": "空气稀薄，在从营地出发的短途徒步中，我们不得不休息好几次。在我们的左边，白雪覆盖的山峦消失在云层之中，那些云朵近得仿佛触手可及。在我们前方的 <u> 平原 </u> 上，我们勉强 <u> 辨认出 </u> 一 <u> 群 </u> 身姿优雅的动物。这就是我们来到这里的原因—— <u> 观察 </u> <u> 藏羚羊 </u> 。"
+    },
+    {
+      "num": "02",
+      "en": "{Tibetan antelopes} live on the {plains} of Tibet, Xinjiang, and Qinghai. Watching them move slowly across the green grass, I'm struck by their {beauty}. I'm also {reminded} of the danger they are in. They are being {hunted}, {illegally}, for their valuable {fur}.",
+      "cn": "<u> 藏羚羊 </u> 生活在西藏、新疆和青海的 <u> 平原 </u> 上。看着它们在绿色的草地上缓缓移动，我被它们的 <u> 美丽 </u> 所震撼。我也不禁 <u> 想起 </u> 它们正面临的危险。因为它们珍贵的 <u> 皮毛 </u> ，正遭到 <u> 非法 </u> <u> 猎杀 </u> 。"
+    },
+    {
+      "num": "03",
+      "en": "My guide is Zhaxi, a villager from Changtang. He works at the Changtang National Nature {Reserve}. The {reserve} is a shelter for the animals and plants of northwestern Tibet. To Zhaxi, the land is {sacred} and protecting the wildlife is a way of life. \"We're not trying to save the animals,\" he says. \"Actually, we're trying to save ourselves.\"",
+      "cn": "我的向导是扎西，他是来自羌塘的一位村民。他在羌塘国家级自然 <u> 保护区 </u> 工作。这个 <u> 保护区 </u> 是西藏西北部动植物的庇护所。对扎西来说，这片土地是 <u> 神圣的 </u> ，保护野生动物是一种生活方式。“我们不是在试图拯救这些动物，”他说，“实际上，我们是在拯救我们自己。”"
+    },
+    {
+      "num": "04",
+      "en": "The 1980s and 1990s were bad times for the {Tibetan antelope}. The population dropped by more than 50 percent. {Hunters} were {shooting} {antelopes} to make {profits}. Their {habitats} were becoming smaller as new roads and railways were built.",
+      "cn": "20世纪80年代和90年代对 <u> 藏羚羊 </u> 来说是一段艰难的时期。它们的数量减少了超过50%。 <u> 猎人们 </u> 为了 <u> 获利 </u> 而 <u> 射杀 </u> <u> 羚羊 </u> 。随着新的公路和铁路的修建，它们的 <u> 栖息地 </u> 变得越来越小。"
+    },
+    {
+      "num": "05",
+      "en": "In order to save this {species} from {extinction}, the Chinese government placed it under national protection. Zhaxi and other volunteers {watched over} the antelopes {day and night} to keep them safe from {attacks}. Bridges and gates were added to let the antelopes move easily and keep them safe from cars and trains.",
+      "cn": "为了拯救这个 <u> 物种 </u> 免于 <u> 灭绝 </u> ，中国政府将其置于国家保护之下。扎西和其他志愿者 <u> 日夜 </u> <u> 守护 </u> 着羚羊，使它们免受 <u> 攻击 </u> 。人们增设了桥梁和通道，让羚羊可以轻松移动，并保护它们免受汽车和火车的伤害。"
+    },
+    {
+      "num": "06",
+      "en": "The {measures} were {effective}. The antelope population has {recovered} and in June 2015, the {Tibetan antelope} was {removed} from the {endangered} {species} list. The government, however, does not {intend} to stop the protection programmes, since the {threats} to the {Tibetan antelope} have not yet disappeared.",
+      "cn": "这些 <u> 措施 </u> 是 <u> 有效的 </u> 。羚羊的数量已经 <u> 恢复 </u> ，2015年6月， <u> 藏羚羊 </u> 被从 <u> 濒危 </u> <u> 物种 </u> 名单中 <u> 移除 </u> 。然而，政府并不 <u> 打算 </u> 停止这些保护项目，因为对 <u> 藏羚羊 </u> 的 <u> 威胁 </u> 尚未消失。"
+    },
+    {
+      "num": "07",
+      "en": "In the evening, I drink a cup of tea and watch the stars. I think about the {antelopes} and what Zhaxi told me. Much is being done to protect wildlife, but if we really want to save the planet, we must change our way of life. Only when we learn to {exist} in {harmony} with nature can we stop being a {threat} to wildlife and to our planet.",
+      "cn": "晚上，我喝着一杯茶，望着星空。我想着那些 <u> 羚羊 </u> 和扎西告诉我的话。为了保护野生动物，人们已经做了很多工作，但如果我们真的想要拯救地球，就必须改变我们的生活方式。只有当我们学会与自然 <u> 和谐 </u> <u> 共存 </u> 时，我们才能不再成为对野生动物和地球的 <u> 威胁 </u> 。"
+    }
+  ],
+  "vocab": [
+    { "word": "plain", "type": "outline", "ctx": "平原" },
+    { "word": "make out", "type": "outline", "ctx": "辨认出" },
+    { "word": "herd", "type": "outline", "ctx": "兽群" },
+    { "word": "observe", "type": "core", "ctx": "观察" },
+    { "word": "Tibetan antelope", "type": "core", "ctx": "藏羚羊" },
+    { "word": "antelope", "type": "core", "ctx": "羚羊" },
+    { "word": "beauty", "type": "outline", "ctx": "美丽" },
+    { "word": "remind", "type": "core", "ctx": "想起" },
+    { "word": "hunt", "type": "outline", "ctx": "猎杀" },
+    { "word": "illegally", "type": "outline", "ctx": "非法地" },
+    { "word": "fur", "type": "outline", "ctx": "毛皮" },
+    { "word": "reserve", "type": "core", "ctx": "保护区" },
+    { "word": "sacred", "type": "outline", "ctx": "神圣的" },
+    { "word": "hunter", "type": "outline", "ctx": "猎人" },
+    { "word": "shoot", "type": "core", "ctx": "射杀" },
+    { "word": "profit", "type": "outline", "ctx": "获利" },
+    { "word": "habitat", "type": "outline", "ctx": "栖息地" },
+    { "word": "species", "type": "outline", "ctx": "物种" },
+    { "word": "extinction", "type": "outline", "ctx": "灭绝" },
+    { "word": "watch over", "type": "outline", "ctx": "守护" },
+    { "word": "day and night", "type": "outline", "ctx": "日夜" },
+    { "word": "attack", "type": "core", "ctx": "攻击" },
+    { "word": "measure", "type": "outline", "ctx": "措施" },
+    { "word": "effective", "type": "outline", "ctx": "有效的" },
+    { "word": "recover", "type": "core", "ctx": "恢复" },
+    { "word": "remove", "type": "core", "ctx": "移除" },
+    { "word": "endanger", "type": "outline", "ctx": "濒危的" },
+    { "word": "intend", "type": "core", "ctx": "打算" },
+    { "word": "threat", "type": "outline", "ctx": "威胁" },
+    { "word": "exist", "type": "core", "ctx": "共存" },
+    { "word": "harmony", "type": "outline", "ctx": "和谐" }
+  ]
+}

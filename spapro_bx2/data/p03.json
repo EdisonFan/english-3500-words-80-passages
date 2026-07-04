@@ -1,0 +1,92 @@
+{
+  "id": 3,
+  "stats": {
+    "words": 60,
+    "core": 56
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "Much has been written about the {wonders} of the World Wide Web. There are {countless} {articles} telling us how the Internet has made our lives more {convenient}. We {no longer} have to wait in line or carry {cash} around when we go shopping. We can get the most {updated} {information} from large {databases}. We can download {software}, {documents}, and {images} whenever we need them. But the Internet has done much more for people than {simply} make life more {convenient}. People's lives have been changed by online {communities} and {social} {networks}.",
+      "cn": "关于万维网<u>奇迹</u>的著述浩如烟海。有<u>无数</u>的<u>文章</u>告诉我们互联网是如何使我们的生活更加<u>方便</u>的。我们<u>不再</u>需要排队等候，也不需要随身携带<u>现金</u>。我们可以从大型<u>数据库</u>获取<u>最新</u>的<u>信息</u>。我们可以随时下载<u>软件</u>、<u>文档</u>和<u>图像</u>。但互联网为人们所做的远不止于<u>仅仅</u>让生活更加<u>便利</u>。在线<u>社区</u>和<u>社交</u><u>网络</u>改变了人们的生活。"
+    },
+    {
+      "num": "02",
+      "en": "Jan Tchamani, an English teacher in Birmingham, UK, suddenly {developed} a {serious} {illness} and had to {quit} her job. At age 50, she found herself out of work and {stuck} at home with only her computer to keep her {company}. After a while, she discovered that {surfing} the Internet could help her feel less {lonely} and {bored}. She could listen to music, watch films, play games, and {explore} the world. She also joined an online group where she could talk about her problems and get {support} and {advice} from others. She {realised} that one of the greatest {benefits} of the Internet was its ability to {remove} the {distance} that usually {exists} between people.",
+      "cn": "英国伯明翰的英语教师简·夏曼尼突然<u>患了</u><u>严重</u>的<u>疾病</u>，不得不<u>辞去</u>工作。50岁时，她发现自己失业了，<u>困</u>在家里，只有电脑<u>陪伴</u>她。过了一段时间，她发现<u>浏览</u>互联网能让她感觉不那么<u>孤独</u>和<u>无聊</u>。她可以听音乐、看电影、玩游戏和<u>探索</u>世界。她还加入了一个在线群组，在那里她可以谈论自己的问题，并获得他人的<u>支持</u>和<u>建议</u>。她<u>意识到</u>互联网最大的<u>益处</u>之一是能够<u>消除</u>通常<u>存在</u>于人与人之间的<u>距离</u>。"
+    },
+    {
+      "num": "03",
+      "en": "She was so {inspired} by the people she met online that she decided to start an IT club to teach older people how to use computers and the Internet. She and her friends now {organise} events and {collect} money to pay for {private} teachers. Many people have been helped by the club. A 59-year-old man learnt how to {apply} for work online and found a great job. {Now that} he works and can take care of himself, his daughter has time to study at university. A 61-year-old woman who was living alone has started a small online company together with two friends. She {no longer} feels {lonely}, and her company has become quite {successful}.",
+      "cn": "她受到网友的<u>鼓舞</u>，决定成立一个IT俱乐部来教老年人如何使用电脑和互联网。如今，她和朋友们一起<u>组织</u>活动，并<u>募集</u>资金来支付<u>私人</u>教师的费用。许多人得到了俱乐部的帮助。一位59岁的男子学会了如何在线<u>申请</u>工作，并找到了一份不错的工作。<u>既然</u>他工作了并且能照顾自己，他的女儿就有时间在大学学习了。一位61岁独居妇女与两个朋友一起创办了一家小型在线公司。她<u>不再</u>感到<u>孤独</u>，她的公司也相当<u>成功</u>。"
+    },
+    {
+      "num": "04",
+      "en": "Jan has started taking online classes to learn more about how to use the Internet to make {society} better. She believes that it is highly important to {bridge} the {digital} {divide} and make sure that everyone has {access} to the Internet and knows how to use new {technology}. Her next {goal} is to start a {charity} {website} to {raise} money for children in poor countries.",
+      "cn": "简开始参加网络课程，学习更多关于如何利用互联网让<u>社会</u>变得更加美好。她认为，<u>消除</u><u>数字</u><u>鸿沟</u>、确保每个人都能<u>使用</u>互联网并知道如何运用新<u>技术</u>，是非常重要的。她的下一个<u>目标</u>是建立一个<u>慈善</u><u>网站</u>，为贫穷国家的儿童<u>筹集</u>资金。"
+    },
+    {
+      "num": "05",
+      "en": "Jan's life has been greatly {improved} by the Internet. \"When you {go through} {tough} times, you meet others who are facing similar {challenges},\" Jan says. \"Thinking about other people's {situations} {inspired} me to {offer} help.\"",
+      "cn": "互联网极大地<u>改善</u>了简的生活。\"当你<u>经历</u><u>艰难</u>时期时，你会遇到其他面临类似<u>挑战</u>的人，\"简说。\"想到其他人的<u>处境</u>，<u>鼓舞</u>了我去<u>提供</u>帮助。\""
+    }
+  ],
+  "vocab": [
+    { "word": "wonder", "type": "outline", "ctx": "奇迹" },
+    { "word": "countless", "type": "outline", "ctx": "无数的" },
+    { "word": "article", "type": "outline", "ctx": "文章" },
+    { "word": "convenient", "type": "core", "ctx": "方便的" },
+    { "word": "no longer", "type": "outline", "ctx": "不再" },
+    { "word": "cash", "type": "core", "ctx": "现金" },
+    { "word": "update", "type": "core", "ctx": "更新" },
+    { "word": "information", "type": "outline", "ctx": "信息" },
+    { "word": "database", "type": "core", "ctx": "数据库" },
+    { "word": "software", "type": "core", "ctx": "软件" },
+    { "word": "document", "type": "outline", "ctx": "文档" },
+    { "word": "image", "type": "outline", "ctx": "图像" },
+    { "word": "simply", "type": "outline", "ctx": "仅仅" },
+    { "word": "community", "type": "core", "ctx": "社区" },
+    { "word": "social", "type": "outline", "ctx": "社交的" },
+    { "word": "network", "type": "core", "ctx": "网络" },
+    { "word": "develop", "type": "outline", "ctx": "患病" },
+    { "word": "serious", "type": "outline", "ctx": "严重的" },
+    { "word": "illness", "type": "outline", "ctx": "疾病" },
+    { "word": "quit", "type": "outline", "ctx": "辞去" },
+    { "word": "stuck", "type": "core", "ctx": "困于" },
+    { "word": "company", "type": "core", "ctx": "陪伴" },
+    { "word": "surf", "type": "core", "ctx": "浏览" },
+    { "word": "lonely", "type": "outline", "ctx": "孤独的" },
+    { "word": "bored", "type": "outline", "ctx": "无聊的" },
+    { "word": "explore", "type": "outline", "ctx": "探索" },
+    { "word": "support", "type": "outline", "ctx": "支持" },
+    { "word": "advice", "type": "outline", "ctx": "建议" },
+    { "word": "realise", "type": "outline", "ctx": "意识到" },
+    { "word": "benefit", "type": "core", "ctx": "益处" },
+    { "word": "remove", "type": "outline", "ctx": "消除" },
+    { "word": "distance", "type": "core", "ctx": "距离" },
+    { "word": "exist", "type": "outline", "ctx": "存在" },
+    { "word": "inspire", "type": "core", "ctx": "鼓舞" },
+    { "word": "organise", "type": "outline", "ctx": "组织" },
+    { "word": "collect", "type": "outline", "ctx": "募集" },
+    { "word": "private", "type": "outline", "ctx": "私人的" },
+    { "word": "apply", "type": "outline", "ctx": "申请" },
+    { "word": "now that", "type": "core", "ctx": "既然" },
+    { "word": "successful", "type": "outline", "ctx": "成功的" },
+    { "word": "society", "type": "outline", "ctx": "社会" },
+    { "word": "bridge", "type": "outline", "ctx": "消除" },
+    { "word": "digital", "type": "outline", "ctx": "数字的" },
+    { "word": "divide", "type": "outline", "ctx": "鸿沟" },
+    { "word": "access", "type": "core", "ctx": "使用机会" },
+    { "word": "technology", "type": "outline", "ctx": "技术" },
+    { "word": "goal", "type": "outline", "ctx": "目标" },
+    { "word": "charity", "type": "core", "ctx": "慈善" },
+    { "word": "website", "type": "outline", "ctx": "网站" },
+    { "word": "raise", "type": "outline", "ctx": "筹集" },
+    { "word": "improve", "type": "outline", "ctx": "改善" },
+    { "word": "go through", "type": "core", "ctx": "经历" },
+    { "word": "tough", "type": "core", "ctx": "艰难的" },
+    { "word": "challenge", "type": "outline", "ctx": "挑战" },
+    { "word": "situation", "type": "outline", "ctx": "处境" },
+    { "word": "offer", "type": "outline", "ctx": "提供" }
+  ]
+}
