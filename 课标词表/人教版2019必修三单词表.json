@@ -34,3115 +34,5186 @@
       "word": "lantern",
       "phonetic": "ˈlæntən",
       "pos": "",
-      "meaning": "n.灯笼；提灯"
+      "meaning": "n.灯笼；提灯",
+      "subLevel": [
+        {
+          "matched_word": "lantern",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "carnival",
       "phonetic": "ˈkɑːnɪvəl",
       "pos": "",
-      "meaning": "n.狂欢节；嘉年华"
+      "meaning": "n.狂欢节；嘉年华",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "costume",
       "phonetic": "ˈkɒstjuːm",
       "pos": "",
-      "meaning": "n.(某地或某历史时期的)服装；戏装"
+      "meaning": "n.(某地或某历史时期的)服装；戏装",
+      "subLevel": [
+        {
+          "matched_word": "costume",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "dress...up",
       "phonetic": "drɛs...ʌp",
       "pos": "",
-      "meaning": "穿上盛装；装扮"
+      "meaning": "穿上盛装；装扮",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "march",
       "phonetic": "mɑːʧ",
       "pos": "",
-      "meaning": "vi.&n.行进；前进；示威游行"
+      "meaning": "vi.&n.行进；前进；示威游行",
+      "subLevel": [
+        {
+          "matched_word": "march",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "congratulation",
       "phonetic": "kənˌgrætjʊˈleɪʃən",
       "pos": "",
-      "meaning": "n.祝贺；恭喜"
+      "meaning": "n.祝贺；恭喜",
+      "subLevel": [
+        {
+          "matched_word": "congratulation",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "congratulate",
       "phonetic": "kənˈgrætjʊleɪt",
       "pos": "",
-      "meaning": "vt.向(某人)道贺，(因某事)为自己感到自豪"
+      "meaning": "vt.向(某人)道贺，(因某事)为自己感到自豪",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "riddle",
       "phonetic": "ˈrɪdl",
       "pos": "",
-      "meaning": "n.谜语；神秘事件"
+      "meaning": "n.谜语；神秘事件",
+      "subLevel": [
+        {
+          "matched_word": "riddle",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "ceremony",
       "phonetic": "ˈsɛrɪməni",
       "pos": "",
-      "meaning": "n.典礼；仪式"
+      "meaning": "n.典礼；仪式",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "samba",
       "phonetic": "ˈsæmbə",
       "pos": "",
-      "meaning": "n.桑巴舞；桑巴舞曲"
+      "meaning": "n.桑巴舞；桑巴舞曲",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "make-up",
       "phonetic": "ˈmeɪkʌp",
       "pos": "",
-      "meaning": "n.化妆品；性格；构成方式"
+      "meaning": "n.化妆品；性格；构成方式",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "after all",
       "phonetic": "ˈɑːftər ɔːl",
       "pos": "",
-      "meaning": "毕竟；别忘了"
+      "meaning": "毕竟；别忘了",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "range",
       "phonetic": "reɪnʤ",
       "pos": "",
-      "meaning": "n.一系列；范围、界限；vi.包括；(在一定范围内)变化"
+      "meaning": "n.一系列；范围、界限；vi.包括；(在一定范围内)变化",
+      "subLevel": [
+        {
+          "matched_word": "range",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "range",
       "phonetic": "",
       "pos": "",
-      "meaning": "from...to... 包括从……到……之间"
+      "meaning": "from...to... 包括从……到……之间",
+      "subLevel": [
+        {
+          "matched_word": "range",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "origin",
       "phonetic": "ˈɒrɪʤɪn",
       "pos": "",
-      "meaning": "n.起源；起因；出身"
+      "meaning": "n.起源；起因；出身",
+      "subLevel": [
+        {
+          "matched_word": "origin",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "religion",
       "phonetic": "rɪˈlɪʤən",
       "pos": "",
-      "meaning": "n.宗教；宗教信仰"
+      "meaning": "n.宗教；宗教信仰",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "religious",
       "phonetic": "rɪˈlɪʤəs",
       "pos": "",
-      "meaning": "adj.宗教的，笃信宗教的"
+      "meaning": "adj.宗教的，笃信宗教的",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "figure",
       "phonetic": "ˈfɪgə",
       "pos": "",
-      "meaning": "n.人物；数字；身材；vt.认为；认定"
+      "meaning": "n.人物；数字；身材；vt.认为；认定",
+      "subLevel": [
+        {
+          "matched_word": "figure",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "charm",
       "phonetic": "ʧɑːm",
       "pos": "",
-      "meaning": "n.魅力；迷人的特征；咒语"
+      "meaning": "n.魅力；迷人的特征；咒语",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "joy",
       "phonetic": "ʤɔɪ",
       "pos": "",
-      "meaning": "n.高兴；喜悦"
+      "meaning": "n.高兴；喜悦",
+      "subLevel": [
+        {
+          "matched_word": "joy",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "joyful",
       "phonetic": "ˈʤɔɪfʊl",
       "pos": "",
-      "meaning": "adj.高兴的；快乐的"
+      "meaning": "adj.高兴的；快乐的",
+      "subLevel": [
+        {
+          "matched_word": "joy",
+          "level": "*",
+          "strategy": "stem(-ful)"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "gratitude",
       "phonetic": "ˈgrætɪtjuːd",
       "pos": "",
-      "meaning": "n.感激之情；感谢"
+      "meaning": "n.感激之情；感谢",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "harvest",
       "phonetic": "ˈhɑːvɪst",
       "pos": "",
-      "meaning": "n.收获季节；收货；收成；vi.收割(庄稼)；捕猎(动物、鱼)"
+      "meaning": "n.收获季节；收货；收成；vi.收割(庄稼)；捕猎(动物、鱼)",
+      "subLevel": [
+        {
+          "matched_word": "harvest",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "agricultural",
       "phonetic": "ˌægrɪˈkʌlʧərəl",
       "pos": "",
-      "meaning": "adj.农业(劳动/生产)"
+      "meaning": "adj.农业(劳动/生产)",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "agriculture",
       "phonetic": "ˈægrɪkʌlʧə",
       "pos": "",
-      "meaning": "n.农业；农艺"
+      "meaning": "n.农业；农艺",
+      "subLevel": [
+        {
+          "matched_word": "agriculture",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "crop",
       "phonetic": "krɒp",
       "pos": "",
-      "meaning": "n.庄稼；作物；一季的收成"
+      "meaning": "n.庄稼；作物；一季的收成",
+      "subLevel": [
+        {
+          "matched_word": "crop",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "gather",
       "phonetic": "ˈgæðə",
       "pos": "",
-      "meaning": "vi.聚集；集合；vt.聚集，搜集，收割"
+      "meaning": "vi.聚集；集合；vt.聚集，搜集，收割",
+      "subLevel": [
+        {
+          "matched_word": "gather",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "grateful",
       "phonetic": "ˈgreɪtfʊl",
       "pos": "",
-      "meaning": "adj.感激的；表示感谢的"
+      "meaning": "adj.感激的；表示感谢的",
+      "subLevel": [
+        {
+          "matched_word": "grateful",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "feature",
       "phonetic": "ˈfiːʧə",
       "pos": "",
-      "meaning": "vt.以……为特色；n.特色；特征；特点"
+      "meaning": "vt.以……为特色；n.特色；特征；特点",
+      "subLevel": [
+        {
+          "matched_word": "feature",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "decorate",
       "phonetic": "ˈdɛkəreɪt",
       "pos": "",
-      "meaning": "vt.装饰；装潢"
+      "meaning": "vt.装饰；装潢",
+      "subLevel": [
+        {
+          "matched_word": "decorate",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "church",
       "phonetic": "ʧɜːʧ",
       "pos": "",
-      "meaning": "n.(基督教的)教堂；礼拜堂"
+      "meaning": "n.(基督教的)教堂；礼拜堂",
+      "subLevel": [
+        {
+          "matched_word": "church",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "significant",
       "phonetic": "sɪgˈnɪfɪkənt",
       "pos": "",
-      "meaning": "adj.有重大意义的；显著的"
+      "meaning": "adj.有重大意义的；显著的",
+      "subLevel": [
+        {
+          "matched_word": "significant",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "fade",
       "phonetic": "feɪd",
       "pos": "",
-      "meaning": "vi.&vt.逐渐消失；(使)褪色；(身体)变得虚弱"
+      "meaning": "vi.&vt.逐渐消失；(使)褪色；(身体)变得虚弱",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "fade away",
       "phonetic": "feɪd əˈweɪ",
       "pos": "",
-      "meaning": "逐渐消失；(身体)变得虚弱"
+      "meaning": "逐渐消失；(身体)变得虚弱",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "typical",
       "phonetic": "ˈtɪpɪk(ə)l",
       "pos": "",
-      "meaning": "adj.典型的；有代表性的；平常的"
+      "meaning": "adj.典型的；有代表性的；平常的",
+      "subLevel": [
+        {
+          "matched_word": "typical",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "firecracker",
       "phonetic": "ˈfaɪəˌkrækə",
       "pos": "",
-      "meaning": "n.鞭炮；爆竹"
+      "meaning": "n.鞭炮；爆竹",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "evil",
       "phonetic": "ˈiːvl",
       "pos": "",
-      "meaning": "adj.邪恶的；有害的；罪恶的；n.邪恶；罪恶；恶行"
+      "meaning": "adj.邪恶的；有害的；罪恶的；n.邪恶；罪恶；恶行",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "in spite of",
       "phonetic": "ɪn spaɪt ɒv",
       "pos": "",
-      "meaning": "不管；尽管"
+      "meaning": "不管；尽管",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "commercial",
       "phonetic": "kəˈmɜːʃəl",
       "pos": "",
-      "meaning": "adj.商业(化)的；以获利为目的的"
+      "meaning": "adj.商业(化)的；以获利为目的的",
+      "subLevel": [
+        {
+          "matched_word": "commercial",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "commercialise",
       "phonetic": "kəˈmɜːʃəlaɪz",
       "pos": "",
-      "meaning": "vt.使商业化；利用……牟利"
+      "meaning": "vt.使商业化；利用……牟利",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "commercialisation",
       "phonetic": "kəˌmɜːʃəlaɪˈzeɪʃ(ə)n",
       "pos": "",
-      "meaning": "n.商业化"
+      "meaning": "n.商业化",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "take",
       "phonetic": "",
       "pos": "",
-      "meaning": "advantage of 利用；欺骗；占……的便宜"
+      "meaning": "advantage of 利用；欺骗；占……的便宜",
+      "subLevel": [
+        {
+          "matched_word": "take",
+          "level": "",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "medium",
       "phonetic": "ˈmiːdiəm",
       "pos": "",
-      "meaning": "n.(pl.media)媒介；手段；方法"
+      "meaning": "n.(pl.media)媒介；手段；方法",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "the media",
       "phonetic": "ðə ˈmiːdiə",
       "pos": "",
-      "meaning": "大众传播媒介"
+      "meaning": "大众传播媒介",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "reflect",
       "phonetic": "rɪˈflɛkt",
       "pos": "",
-      "meaning": "vt.显示；反映；反射"
+      "meaning": "vt.显示；反映；反射",
+      "subLevel": [
+        {
+          "matched_word": "reflect",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "belief",
       "phonetic": "bɪˈliːf",
       "pos": "",
-      "meaning": "n.信仰；信心；信任"
+      "meaning": "n.信仰；信心；信任",
+      "subLevel": [
+        {
+          "matched_word": "belief",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "faith",
       "phonetic": "feɪθ",
       "pos": "",
-      "meaning": "n.宗教信仰；信任；相信"
+      "meaning": "n.宗教信仰；信任；相信",
+      "subLevel": [
+        {
+          "matched_word": "faith",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "occasion",
       "phonetic": "əˈkeɪʒən",
       "pos": "",
-      "meaning": "n.特别的事情(或仪式、庆典)；(适当的)机会"
+      "meaning": "n.特别的事情(或仪式、庆典)；(适当的)机会",
+      "subLevel": [
+        {
+          "matched_word": "occasion",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "have...in",
       "phonetic": "",
       "pos": "",
-      "meaning": "common (兴趣、想法等)相同；有相同的特征"
+      "meaning": "common (兴趣、想法等)相同；有相同的特征",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "atmosphere",
       "phonetic": "ˈætməsfɪə",
       "pos": "",
-      "meaning": "n.气氛、氛围；(地球的)大气(层)"
+      "meaning": "n.气氛、氛围；(地球的)大气(层)",
+      "subLevel": [
+        {
+          "matched_word": "atmosphere",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "lunar",
       "phonetic": "ˈluːnə",
       "pos": "",
-      "meaning": "adj.阴历的；月球的；月亮的"
+      "meaning": "adj.阴历的；月球的；月亮的",
+      "subLevel": [
+        {
+          "matched_word": "lunar",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "eve",
       "phonetic": "iːv",
       "pos": "",
-      "meaning": "n.前夕；前一天"
+      "meaning": "n.前夕；前一天",
+      "subLevel": [
+        {
+          "matched_word": "eve",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "envelope",
       "phonetic": "ˈɛnvələʊp",
       "pos": "",
-      "meaning": "n.信封；塑料封套"
+      "meaning": "n.信封；塑料封套",
+      "subLevel": [
+        {
+          "matched_word": "envelope",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "Christmas carol",
       "phonetic": "ˈkrɪsməs ˈkærəl",
       "pos": "",
-      "meaning": "圣诞颂歌"
+      "meaning": "圣诞颂歌",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "merry",
       "phonetic": "ˈmɛri",
       "pos": "",
-      "meaning": "adj.愉快的；高兴的"
+      "meaning": "adj.愉快的；高兴的",
+      "subLevel": [
+        {
+          "matched_word": "merry",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "Merry",
       "phonetic": "",
       "pos": "",
-      "meaning": "Christmas! [ˈmɛri ˈkrɪsməs!] 圣诞快乐!"
+      "meaning": "Christmas! [ˈmɛri ˈkrɪsməs!] 圣诞快乐!",
+      "subLevel": [
+        {
+          "matched_word": "merry",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "pumpkin",
       "phonetic": "ˈpʌmpkɪn",
       "pos": "",
-      "meaning": "n.南瓜"
+      "meaning": "n.南瓜",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "pudding",
       "phonetic": "ˈpʊdɪŋ",
       "pos": "",
-      "meaning": "n.布丁；(餐末的)甜食"
+      "meaning": "n.布丁；(餐末的)甜食",
+      "subLevel": [
+        {
+          "matched_word": "pudding",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "mashed potatoes",
       "phonetic": "mæʃt pəˈteɪtəʊz",
       "pos": "",
-      "meaning": "土豆泥"
+      "meaning": "土豆泥",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "roast",
       "phonetic": "rəʊst",
       "pos": "",
-      "meaning": "adj.烤的；焙的；vi.&vt.烘烤；焙"
+      "meaning": "adj.烤的；焙的；vi.&vt.烘烤；焙",
+      "subLevel": [
+        {
+          "matched_word": "roast",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "turkey",
       "phonetic": "ˈtɜːki",
       "pos": "",
-      "meaning": "n.火鸡；火鸡肉"
+      "meaning": "n.火鸡；火鸡肉",
+      "subLevel": [
+        {
+          "matched_word": "turkey",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "roast turkey",
       "phonetic": "rəʊst ˈtɜːki",
       "pos": "",
-      "meaning": "烤火鸡肉"
+      "meaning": "烤火鸡肉",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "pleased",
       "phonetic": "pliːzd",
       "pos": "",
-      "meaning": "adj.高兴地；满意的"
+      "meaning": "adj.高兴地；满意的",
+      "subLevel": [
+        {
+          "matched_word": "please",
+          "level": "",
+          "strategy": "stem(-d)"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "firework",
       "phonetic": "ˈfaɪəwɜːk",
       "pos": "",
-      "meaning": "n.烟火；烟花； [pl.]烟花表演"
+      "meaning": "n.烟火；烟花； [pl.]烟花表演",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "frank",
       "phonetic": "fræŋk",
       "pos": "",
-      "meaning": "adj.坦率的；直率的"
+      "meaning": "adj.坦率的；直率的",
+      "subLevel": [
+        {
+          "matched_word": "frank",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "to be frank",
       "phonetic": "tuː biː fræŋk",
       "pos": "",
-      "meaning": "坦白说；坦率地说"
+      "meaning": "坦白说；坦率地说",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "go off",
       "phonetic": "gəʊ ɒf",
       "pos": "",
-      "meaning": "爆炸；走火；离开"
+      "meaning": "爆炸；走火；离开",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "except for",
       "phonetic": "ɪkˈsɛpt fɔː",
       "pos": "",
-      "meaning": "除……之外"
+      "meaning": "除……之外",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "inner",
       "phonetic": "ˈɪnə",
       "pos": "",
-      "meaning": "adj.内部的；里面的；内心的"
+      "meaning": "adj.内部的；里面的；内心的",
+      "subLevel": [
+        {
+          "matched_word": "inner",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "autonomous",
       "phonetic": "ɔːˈtɒnəməs",
       "pos": "",
-      "meaning": "adj.自治的；有自治权的"
+      "meaning": "adj.自治的；有自治权的",
+      "subLevel": [
+        {
+          "matched_word": "autonomous",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "region",
       "phonetic": "ˈriːʤən",
       "pos": "",
-      "meaning": "n.地区；区域；地带"
+      "meaning": "n.地区；区域；地带",
+      "subLevel": [
+        {
+          "matched_word": "region",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "represent",
       "phonetic": "ˌrɛprɪˈzɛnt",
       "pos": "",
-      "meaning": "vt.象征；代表；相当于"
+      "meaning": "vt.象征；代表；相当于",
+      "subLevel": [
+        {
+          "matched_word": "represent",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "wrestling",
       "phonetic": "ˈrɛslɪŋ",
       "pos": "",
-      "meaning": "n.摔跤运动"
+      "meaning": "n.摔跤运动",
+      "subLevel": [
+        {
+          "matched_word": "wrestle",
+          "level": "**",
+          "strategy": "stem(-ng)"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "wrestle",
       "phonetic": "ˈrɛsl",
       "pos": "",
-      "meaning": "vt.摔跤；奋力对待"
+      "meaning": "vt.摔跤；奋力对待",
+      "subLevel": [
+        {
+          "matched_word": "wrestle",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "wrestler",
       "phonetic": "ˈrɛslə",
       "pos": "",
-      "meaning": "n.摔跤运动员"
+      "meaning": "n.摔跤运动员",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "archery",
       "phonetic": "ˈɑːʧəri",
       "pos": "",
-      "meaning": "n.射箭术；射箭运动"
+      "meaning": "n.射箭术；射箭运动",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "set off",
       "phonetic": "sɛt ɒf",
       "pos": "",
-      "meaning": "出发；动身；启程"
+      "meaning": "出发；动身；启程",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "fancy",
       "phonetic": "ˈfænsi",
       "pos": "",
-      "meaning": "adj.花哨的；精致的；昂贵的；vt.想要；倾慕；自认为是"
+      "meaning": "adj.花哨的；精致的；昂贵的；vt.想要；倾慕；自认为是",
+      "subLevel": [
+        {
+          "matched_word": "fancy",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "robe",
       "phonetic": "rəʊb",
       "pos": "",
-      "meaning": "n.袍服；礼袍"
+      "meaning": "n.袍服；礼袍",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "eagle",
       "phonetic": "ˈiːgl",
       "pos": "",
-      "meaning": "n.雕"
+      "meaning": "n.雕",
+      "subLevel": [
+        {
+          "matched_word": "eagle",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "grace",
       "phonetic": "greɪs",
       "pos": "",
-      "meaning": "n.优美；优雅；高尚"
+      "meaning": "n.优美；优雅；高尚",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "absolutely",
       "phonetic": "ˈæbsəluːtli",
       "pos": "",
-      "meaning": "adv.绝对地；完全地"
+      "meaning": "adv.绝对地；完全地",
+      "subLevel": [
+        {
+          "matched_word": "absolutely",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "moment",
       "phonetic": "ˈməʊmənt",
       "pos": "",
-      "meaning": "n.片刻；瞬间"
+      "meaning": "n.片刻；瞬间",
+      "subLevel": [
+        {
+          "matched_word": "moment",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "tent",
       "phonetic": "tɛnt",
       "pos": "",
-      "meaning": "n.帐篷"
+      "meaning": "n.帐篷",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "pot",
       "phonetic": "pɒt",
       "pos": "",
-      "meaning": "n.罐； 壶； 锅"
+      "meaning": "n.罐； 壶； 锅",
+      "subLevel": [
+        {
+          "matched_word": "pot",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "brief",
       "phonetic": "briːf",
       "pos": "",
-      "meaning": "adj.简洁的；简单的；短暂的"
+      "meaning": "adj.简洁的；简单的；短暂的",
+      "subLevel": [
+        {
+          "matched_word": "brief",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "branch",
       "phonetic": "brɑːnʧ",
       "pos": "",
-      "meaning": "n.树枝；分支；又流"
+      "meaning": "n.树枝；分支；又流",
+      "subLevel": [
+        {
+          "matched_word": "branch",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "wedding",
       "phonetic": "ˈwɛdɪŋ",
       "pos": "",
-      "meaning": "n.婚礼；结婚庆典"
+      "meaning": "n.婚礼；结婚庆典",
+      "subLevel": [
+        {
+          "matched_word": "wedding",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "clap",
       "phonetic": "klæp",
       "pos": "",
-      "meaning": "vt.鼓掌；拍手；击掌；n.鼓掌；拍手；掌声"
+      "meaning": "vt.鼓掌；拍手；击掌；n.鼓掌；拍手；掌声",
+      "subLevel": [
+        {
+          "matched_word": "clap",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "respect",
       "phonetic": "rɪsˈpɛkt",
       "pos": "",
-      "meaning": "n.&vt.尊重、尊敬"
+      "meaning": "n.&vt.尊重、尊敬",
+      "subLevel": [
+        {
+          "matched_word": "respect",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "horrible",
       "phonetic": "ˈhɒrəbl",
       "pos": "",
-      "meaning": "adj.令人震惊的；恐怖的；极坏的"
+      "meaning": "adj.令人震惊的；恐怖的；极坏的",
+      "subLevel": [
+        {
+          "matched_word": "horrible",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 1,
       "word": "Coming-of-Age Day",
       "phonetic": "ˈkʌmɪŋ-ɒv-eɪʤ deɪ",
       "pos": "",
-      "meaning": "成人节"
+      "meaning": "成人节",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "Rio",
       "phonetic": "rɪəʊ",
       "pos": "",
-      "meaning": "(全称 Rio de Janeiro)里约热内卢(巴西城市)"
+      "meaning": "(全称 Rio de Janeiro)里约热内卢(巴西城市)",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "Carla",
       "phonetic": "ˈkɑːlə",
       "pos": "",
-      "meaning": "卡拉"
+      "meaning": "卡拉",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "Halloween",
       "phonetic": "ˌhæləʊˈiːn",
       "pos": "",
-      "meaning": "n.万圣节前夕"
+      "meaning": "n.万圣节前夕",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "Thanksgiving Day",
       "phonetic": "ˈθæŋksˌgɪvɪŋ deɪ",
       "pos": "",
-      "meaning": "感恩节"
+      "meaning": "感恩节",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "La Tomatina",
       "phonetic": "ˌlɑː təʊmɑːˈtiːnɑː",
       "pos": "",
-      "meaning": "番茄大战"
+      "meaning": "番茄大战",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "Buñol",
       "phonetic": "ˌbuːˈnɒl",
       "pos": "",
-      "meaning": "布尼奥尔(西班牙小镇)"
+      "meaning": "布尼奥尔(西班牙小镇)",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "the Naadam Festival",
       "phonetic": "nɑːdəm",
       "pos": "",
-      "meaning": "“那达慕”大会"
+      "meaning": "“那达慕”大会",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "Inner Mongolia Autonomous Region",
       "phonetic": "ˈɪnə mɒŋˈgəʊlɪə ɔːˈtɒnəməs ˈriːʤən",
       "pos": "",
-      "meaning": "内蒙古自治区"
+      "meaning": "内蒙古自治区",
+      "subLevel": []
     },
     {
       "unit": 1,
       "word": "Mongolia",
       "phonetic": "mɒŋˈgəʊlɪə",
       "pos": "",
-      "meaning": "adj.蒙古人的；蒙古的，蒙古语的；n.蒙古语；蒙古人"
+      "meaning": "adj.蒙古人的；蒙古的，蒙古语的；n.蒙古语；蒙古人",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "moral",
       "phonetic": "ˈmɒrəl",
       "pos": "",
-      "meaning": "adj.道德的；道义上的；n.品行；道德；寓意"
+      "meaning": "adj.道德的；道义上的；n.品行；道德；寓意",
+      "subLevel": [
+        {
+          "matched_word": "moral",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "virtue",
       "phonetic": "ˈvɜːtjuː",
       "pos": "",
-      "meaning": "n.高尚的道德；美德；优秀品质"
+      "meaning": "n.高尚的道德；美德；优秀品质",
+      "subLevel": [
+        {
+          "matched_word": "virtue",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "dilemma",
       "phonetic": "dɪˈlɛmə",
       "pos": "",
-      "meaning": "n.进退两难的境地；困境"
+      "meaning": "n.进退两难的境地；困境",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "moral dilemma",
       "phonetic": "ˈmɒrəl dɪˈlɛmə",
       "pos": "",
-      "meaning": "道德困境"
+      "meaning": "道德困境",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "faint",
       "phonetic": "feɪnt",
       "pos": "",
-      "meaning": "vt.道德困境昏倒；晕厥；adj.不清楚的；微弱的"
+      "meaning": "vt.道德困境昏倒；晕厥；adj.不清楚的；微弱的",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "illustrate",
       "phonetic": "ˈɪləstreɪt",
       "pos": "",
-      "meaning": "vt.(举例)说明；阐明；给(书或文章)加插图"
+      "meaning": "vt.(举例)说明；阐明；给(书或文章)加插图",
+      "subLevel": [
+        {
+          "matched_word": "illustrate",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "precious",
       "phonetic": "ˈprɛʃəs",
       "pos": "",
-      "meaning": "adj.珍稀的；宝贵的"
+      "meaning": "adj.珍稀的；宝贵的",
+      "subLevel": [
+        {
+          "matched_word": "precious",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "entrust",
       "phonetic": "ɪnˈtrʌst",
       "pos": "",
-      "meaning": "vt.委托；交付"
+      "meaning": "vt.委托；交付",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "carry...through...",
       "phonetic": "",
       "pos": "",
-      "meaning": "帮助某人渡过难关"
+      "meaning": "帮助某人渡过难关",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "marriage",
       "phonetic": "ˈmærɪʤ",
       "pos": "",
-      "meaning": "n.结婚；婚姻"
+      "meaning": "n.结婚；婚姻",
+      "subLevel": [
+        {
+          "matched_word": "marriage",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "majority",
       "phonetic": "məˈʤɒrɪti",
       "pos": "",
-      "meaning": "n.大部分；大多数"
+      "meaning": "n.大部分；大多数",
+      "subLevel": [
+        {
+          "matched_word": "majority",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "complain",
       "phonetic": "kəmˈpleɪn",
       "pos": "",
-      "meaning": "vi.&vt.抱怨；发牢骚"
+      "meaning": "vi.&vt.抱怨；发牢骚",
+      "subLevel": [
+        {
+          "matched_word": "complain",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "tuition",
       "phonetic": "tju(ː)ˈɪʃən",
       "pos": "",
-      "meaning": "n.(小组)教学；讲课"
+      "meaning": "n.(小组)教学；讲课",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "fee",
       "phonetic": "fiː",
       "pos": "",
-      "meaning": "n.专业服务费；报酬"
+      "meaning": "n.专业服务费；报酬",
+      "subLevel": [
+        {
+          "matched_word": "fee",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "tuition fees",
       "phonetic": "tju(ː)ˈɪʃən fiːz",
       "pos": "",
-      "meaning": "学费"
+      "meaning": "学费",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "respond",
       "phonetic": "rɪsˈpɒnd",
       "pos": "",
-      "meaning": "n.回答；回复；vi.做出反应；回应"
+      "meaning": "n.回答；回复；vi.做出反应；回应",
+      "subLevel": [
+        {
+          "matched_word": "respond",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "response",
       "phonetic": "rɪsˈpɒns",
       "pos": "",
-      "meaning": "n.反应；回答；回复"
+      "meaning": "n.反应；回答；回复",
+      "subLevel": [
+        {
+          "matched_word": "response",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "union",
       "phonetic": "ˈjuːnjən",
       "pos": "",
-      "meaning": "n.协会；联合会；工会"
+      "meaning": "n.协会；联合会；工会",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "scholarship",
       "phonetic": "ˈskɒləʃɪp",
       "pos": "",
-      "meaning": "n.奖学金"
+      "meaning": "n.奖学金",
+      "subLevel": [
+        {
+          "matched_word": "scholarship",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "hire",
       "phonetic": "ˈhaɪə",
       "pos": "",
-      "meaning": "vt.聘任；雇佣；租用；n.租借；租用"
+      "meaning": "vt.聘任；雇佣；租用；n.租借；租用",
+      "subLevel": [
+        {
+          "matched_word": "hire",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "physician",
       "phonetic": "fɪˈzɪʃən",
       "pos": "",
-      "meaning": "n.医师； (尤指)内科医生"
+      "meaning": "n.医师； (尤指)内科医生",
+      "subLevel": [
+        {
+          "matched_word": "physician",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "resident physician",
       "phonetic": "ˈrɛzɪdənt fɪˈzɪʃən",
       "pos": "",
-      "meaning": "n.住院医师"
+      "meaning": "n.住院医师",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "colleague",
       "phonetic": "ˈkɒliːg",
       "pos": "",
-      "meaning": "n.同事；同僚"
+      "meaning": "n.同事；同僚",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "reject",
       "phonetic": "ˈriːʤɛkt",
       "pos": "",
-      "meaning": "vt.拒绝接受；不录用"
+      "meaning": "vt.拒绝接受；不录用",
+      "subLevel": [
+        {
+          "matched_word": "reject",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "rejection",
       "phonetic": "rɪˈʤɛkʃən",
       "pos": "",
-      "meaning": "n.拒绝接受；否决"
+      "meaning": "n.拒绝接受；否决",
+      "subLevel": [
+        {
+          "matched_word": "reject",
+          "level": "**",
+          "strategy": "stem(-ion)"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "appoint",
       "phonetic": "əˈpɔɪnt",
       "pos": "",
-      "meaning": "vt.任命；委派"
+      "meaning": "vt.任命；委派",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "clinic",
       "phonetic": "ˈklɪnɪk",
       "pos": "",
-      "meaning": "n.诊所；门诊部"
+      "meaning": "n.诊所；门诊部",
+      "subLevel": [
+        {
+          "matched_word": "clinic",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "faraway",
       "phonetic": "ˈfɑːrəˌweɪ",
       "pos": "",
-      "meaning": "adj.遥远的"
+      "meaning": "adj.遥远的",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "elect",
       "phonetic": "ɪˈlɛkt",
       "pos": "",
-      "meaning": "vt.选举；推选"
+      "meaning": "vt.选举；推选",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "election",
       "phonetic": "ɪˈlɛkʃən",
       "pos": "",
-      "meaning": "n.选举；推选；当选"
+      "meaning": "n.选举；推选；当选",
+      "subLevel": [
+        {
+          "matched_word": "election",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "decade",
       "phonetic": "ˈdɛkeɪd",
       "pos": "",
-      "meaning": "n.十年；十年期"
+      "meaning": "n.十年；十年期",
+      "subLevel": [
+        {
+          "matched_word": "decade",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "elsewhere",
       "phonetic": "ˈɛlsˈweə",
       "pos": "",
-      "meaning": "n.在别处；去别处"
+      "meaning": "n.在别处；去别处",
+      "subLevel": [
+        {
+          "matched_word": "elsewhere",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "tend",
       "phonetic": "tɛnd",
       "pos": "",
-      "meaning": "vt.照顾；照料；n.倾向；趋于"
+      "meaning": "vt.照顾；照料；n.倾向；趋于",
+      "subLevel": [
+        {
+          "matched_word": "tend",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "tend",
       "phonetic": "",
       "pos": "",
-      "meaning": "to do... 易于做某事；往往会发生某事"
+      "meaning": "to do... 易于做某事；往往会发生某事",
+      "subLevel": [
+        {
+          "matched_word": "tend",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "publish",
       "phonetic": "ˈpʌblɪʃ",
       "pos": "",
-      "meaning": "vt.发表(作品)；出版"
+      "meaning": "vt.发表(作品)；出版",
+      "subLevel": [
+        {
+          "matched_word": "publish",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "staff",
       "phonetic": "stɑːf",
       "pos": "",
-      "meaning": "n.员工；全体职员"
+      "meaning": "n.员工；全体职员",
+      "subLevel": [
+        {
+          "matched_word": "staff",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "retire",
       "phonetic": "rɪˈtaɪə",
       "pos": "",
-      "meaning": "vi.&vt.退休；退职；退出"
+      "meaning": "vi.&vt.退休；退职；退出",
+      "subLevel": [
+        {
+          "matched_word": "retire",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "saving",
       "phonetic": "ˈseɪvɪŋ",
       "pos": "",
-      "meaning": "n.节省物；节省；节约；[pl.] 储蓄金；存款"
+      "meaning": "n.节省物；节省；节约；[pl.] 储蓄金；存款",
+      "subLevel": [
+        {
+          "matched_word": "saving",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "kindergarten",
       "phonetic": "ˈkɪndəˌgɑːtn",
       "pos": "",
-      "meaning": "n.学前班；幼儿园"
+      "meaning": "n.学前班；幼儿园",
+      "subLevel": [
+        {
+          "matched_word": "kindergarten",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "principle",
       "phonetic": "ˈprɪnsəpl",
       "pos": "",
-      "meaning": "n.道德原则；法则；原则"
+      "meaning": "n.道德原则；法则；原则",
+      "subLevel": [
+        {
+          "matched_word": "principle",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "passive",
       "phonetic": "ˈpæsɪv",
       "pos": "",
-      "meaning": "adj.被动的； 服从的"
+      "meaning": "adj.被动的； 服从的",
+      "subLevel": [
+        {
+          "matched_word": "passive",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "scared",
       "phonetic": "skeəd",
       "pos": "",
-      "meaning": "adj.害怕的；对……感到惊慌或恐惧的"
+      "meaning": "adj.害怕的；对……感到惊慌或恐惧的",
+      "subLevel": [
+        {
+          "matched_word": "scare",
+          "level": "*",
+          "strategy": "stem(-d)"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "scare",
       "phonetic": "skeə",
       "pos": "",
-      "meaning": "vt.惊吓；使害怕；vi.受惊吓"
+      "meaning": "vt.惊吓；使害怕；vi.受惊吓",
+      "subLevel": [
+        {
+          "matched_word": "scare",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "sharp",
       "phonetic": "ʃɑːp",
       "pos": "",
-      "meaning": "adj.(增长、下跌等)急剧的；锋利的；明显的"
+      "meaning": "adj.(增长、下跌等)急剧的；锋利的；明显的",
+      "subLevel": [
+        {
+          "matched_word": "sharp",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "insurance",
       "phonetic": "ɪnˈʃʊərəns",
       "pos": "",
-      "meaning": "n.保险；保险业"
+      "meaning": "n.保险；保险业",
+      "subLevel": [
+        {
+          "matched_word": "insurance",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "energetic",
       "phonetic": "ˌɛnəˈʤɛtɪk",
       "pos": "",
-      "meaning": "adj.精力充沛的；充满活力的"
+      "meaning": "adj.精力充沛的；充满活力的",
+      "subLevel": [
+        {
+          "matched_word": "energetic",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "replace",
       "phonetic": "rɪˈpleɪs",
       "pos": "",
-      "meaning": "vt.接替；取代；更换"
+      "meaning": "vt.接替；取代；更换",
+      "subLevel": [
+        {
+          "matched_word": "replace",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "accident",
       "phonetic": "ˈæksɪdənt",
       "pos": "",
-      "meaning": "n.事故；车祸；失事"
+      "meaning": "n.事故；车祸；失事",
+      "subLevel": [
+        {
+          "matched_word": "accident",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "operation",
       "phonetic": "ˌɒpəˈreɪʃən",
       "pos": "",
-      "meaning": "n.手术；企业；经营"
+      "meaning": "n.手术；企业；经营",
+      "subLevel": [
+        {
+          "matched_word": "operation",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "whisper",
       "phonetic": "ˈwɪspə",
       "pos": "",
-      "meaning": "vi.&vt.悄声说；耳语；低语；n.耳语(声)；低语(声)；传言；谣传"
+      "meaning": "vi.&vt.悄声说；耳语；低语；n.耳语(声)；低语(声)；传言；谣传",
+      "subLevel": [
+        {
+          "matched_word": "whisper",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "midnight",
       "phonetic": "ˈmɪdnaɪt",
       "pos": "",
-      "meaning": "n.子夜；午夜"
+      "meaning": "n.子夜；午夜",
+      "subLevel": [
+        {
+          "matched_word": "midnight",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "export",
       "phonetic": "ˈɛkspɔːt",
       "pos": "",
-      "meaning": "n.出口；出口商品；vt.出口；输出；传播"
+      "meaning": "n.出口；出口商品；vt.出口；输出；传播",
+      "subLevel": [
+        {
+          "matched_word": "export",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "pole",
       "phonetic": "pəʊl",
       "pos": "",
-      "meaning": "n.(行星的)极；地极"
+      "meaning": "n.(行星的)极；地极",
+      "subLevel": [
+        {
+          "matched_word": "pole",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "lap",
       "phonetic": "læp",
       "pos": "",
-      "meaning": "n.(坐着时的)大腿部；(跑道等的) 一圈"
+      "meaning": "n.(坐着时的)大腿部；(跑道等的) 一圈",
+      "subLevel": [
+        {
+          "matched_word": "lap",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "bite",
       "phonetic": "baɪt",
       "pos": "",
-      "meaning": "vi.&vt.(bit，bitten)咬；叮；蛰；n.(咬下的)一口；咬伤"
+      "meaning": "vi.&vt.(bit，bitten)咬；叮；蛰；n.(咬下的)一口；咬伤",
+      "subLevel": [
+        {
+          "matched_word": "bite",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "lip",
       "phonetic": "lɪp",
       "pos": "",
-      "meaning": "n.嘴唇"
+      "meaning": "n.嘴唇",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "assist",
       "phonetic": "əˈsɪst",
       "pos": "",
-      "meaning": "vt.帮助；援助"
+      "meaning": "vt.帮助；援助",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "first aid",
       "phonetic": "fɜːst eɪd",
       "pos": "",
-      "meaning": "急救"
+      "meaning": "急救",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "pass away",
       "phonetic": "pɑːs əˈweɪ",
       "pos": "",
-      "meaning": "去世"
+      "meaning": "去世",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "chairman",
       "phonetic": "ˈʧeəmən",
       "pos": "",
-      "meaning": "n.主席；主持人；董事长"
+      "meaning": "n.主席；主持人；董事长",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "memory",
       "phonetic": "ˈmɛməri",
       "pos": "",
-      "meaning": "n.记忆力；回忆"
+      "meaning": "n.记忆力；回忆",
+      "subLevel": [
+        {
+          "matched_word": "memory",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "in memory of",
       "phonetic": "ɪn ˈmɛməri ɒv",
       "pos": "",
-      "meaning": "作为对……的纪念"
+      "meaning": "作为对……的纪念",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "chain",
       "phonetic": "ʧeɪn",
       "pos": "",
-      "meaning": "n.一连串(人或事)；链子；链条"
+      "meaning": "n.一连串(人或事)；链子；链条",
+      "subLevel": [
+        {
+          "matched_word": "chain",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "café",
       "phonetic": "ˈkæfeɪ",
       "pos": "",
-      "meaning": "n.咖啡馆；小餐馆"
+      "meaning": "n.咖啡馆；小餐馆",
+      "subLevel": [
+        {
+          "matched_word": "café",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "waitress",
       "phonetic": "ˈweɪtrɪs",
       "pos": "",
-      "meaning": "n.(餐馆的)女服务员；女侍者"
+      "meaning": "n.(餐馆的)女服务员；女侍者",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "pregnant",
       "phonetic": "ˈprɛgnənt",
       "pos": "",
-      "meaning": "adj.怀孕的；妊娠的"
+      "meaning": "adj.怀孕的；妊娠的",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "disguise",
       "phonetic": "dɪsˈgaɪz",
       "pos": "",
-      "meaning": "vt.装扮；假扮；掩盖；n.伪装；化妆用具"
+      "meaning": "vt.装扮；假扮；掩盖；n.伪装；化妆用具",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "maple",
       "phonetic": "ˈmeɪpl",
       "pos": "",
-      "meaning": "n.枫树；槭树"
+      "meaning": "n.枫树；槭树",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "cart",
       "phonetic": "kɑːt",
       "pos": "",
-      "meaning": "n.手推车；运货马车"
+      "meaning": "n.手推车；运货马车",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "spill",
       "phonetic": "spɪl",
       "pos": "",
-      "meaning": "vi.&vt.(使)洒出(使)溢出"
+      "meaning": "vi.&vt.(使)洒出(使)溢出",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "trip",
       "phonetic": "",
       "pos": "",
-      "meaning": "over 被……绊倒"
+      "meaning": "over 被……绊倒",
+      "subLevel": [
+        {
+          "matched_word": "trip",
+          "level": "",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "limp",
       "phonetic": "lɪmp",
       "pos": "",
-      "meaning": "vi.跛行；一瘸一拐的走"
+      "meaning": "vi.跛行；一瘸一拐的走",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "tear",
       "phonetic": "teə",
       "pos": "",
-      "meaning": "n.眼泪；泪水"
+      "meaning": "n.眼泪；泪水",
+      "subLevel": [
+        {
+          "matched_word": "tear",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "in tears",
       "phonetic": "ɪn teəz",
       "pos": "",
-      "meaning": "流着泪；含着泪"
+      "meaning": "流着泪；含着泪",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "harm",
       "phonetic": "hɑːm",
       "pos": "",
-      "meaning": "vi.&vt.伤害；损害"
+      "meaning": "vi.&vt.伤害；损害",
+      "subLevel": [
+        {
+          "matched_word": "harm",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "despair",
       "phonetic": "dɪsˈpeə",
       "pos": "",
-      "meaning": "n.绝望；vi.绝望；感到无望"
+      "meaning": "n.绝望；vi.绝望；感到无望",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "in despair",
       "phonetic": "ɪn dɪsˈpeə",
       "pos": "",
-      "meaning": "处于绝望中"
+      "meaning": "处于绝望中",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "might",
       "phonetic": "maɪt",
       "pos": "",
-      "meaning": "n.力量；威力"
+      "meaning": "n.力量；威力",
+      "subLevel": [
+        {
+          "matched_word": "might",
+          "level": "",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "a great deal of",
       "phonetic": "ə greɪt diːl ɒv",
       "pos": "",
-      "meaning": "大量"
+      "meaning": "大量",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "fable",
       "phonetic": "ˈfeɪbl",
       "pos": "",
-      "meaning": "n.寓言；寓言故事"
+      "meaning": "n.寓言；寓言故事",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "court",
       "phonetic": "kɔːt",
       "pos": "",
-      "meaning": "n.(网球等的)球场；法院；法庭"
+      "meaning": "n.(网球等的)球场；法院；法庭",
+      "subLevel": [
+        {
+          "matched_word": "court",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "flexible",
       "phonetic": "ˈflɛksəbl",
       "pos": "",
-      "meaning": "adj.灵活的；可变通的"
+      "meaning": "adj.灵活的；可变通的",
+      "subLevel": [
+        {
+          "matched_word": "flexible",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "income",
       "phonetic": "ˈɪnkʌm",
       "pos": "",
-      "meaning": "n.收入；收益"
+      "meaning": "n.收入；收益",
+      "subLevel": [
+        {
+          "matched_word": "income",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "per",
       "phonetic": "pɜː",
       "pos": "",
-      "meaning": "prep.每；每一"
+      "meaning": "prep.每；每一",
+      "subLevel": [
+        {
+          "matched_word": "per",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "therefore",
       "phonetic": "ˈðeəfɔː",
       "pos": "",
-      "meaning": "adv.因此；所以"
+      "meaning": "adv.因此；所以",
+      "subLevel": [
+        {
+          "matched_word": "therefore",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "tension",
       "phonetic": "ˈtɛnʃən",
       "pos": "",
-      "meaning": "n.紧张关系；紧张；焦虑"
+      "meaning": "n.紧张关系；紧张；焦虑",
+      "subLevel": [
+        {
+          "matched_word": "tension",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "Peking Union Medical College",
       "phonetic": "ˈpiːˈkɪŋ ˈjuːnjən ˈmɛdɪkəl ˈkɒlɪʤ",
       "pos": "",
-      "meaning": "北京协和医学院"
+      "meaning": "北京协和医学院",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "the Wenhai Scholarship",
       "phonetic": "ˈskɒləʃɪp",
       "pos": "",
-      "meaning": "“文海\"奖学金"
+      "meaning": "“文海\"奖学金",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "the OB-GYN department",
       "phonetic": "dɪˈpɑːtmənt",
       "pos": "",
-      "meaning": "(全称Department of Obstetrics and Gynecology )妇产科"
+      "meaning": "(全称Department of Obstetrics and Gynecology )妇产科",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "the People's Republic of China",
       "phonetic": "ðə ˈpiːplz rɪˈpʌblɪk ɒv ˈʧaɪnə",
       "pos": "",
-      "meaning": "中华人民共和国"
+      "meaning": "中华人民共和国",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "the National People's Congress",
       "phonetic": "ðə ˈnæʃənl ˈpiːplz ˈkɒŋgrɛs",
       "pos": "",
-      "meaning": "全国人民代表大会"
+      "meaning": "全国人民代表大会",
+      "subLevel": []
     },
     {
       "unit": 2,
       "word": "the",
       "phonetic": "",
       "pos": "",
-      "meaning": "North/South Pole [ðə nɔːθ/saʊθ pəʊl] 北极/南极"
+      "meaning": "North/South Pole [ðə nɔːθ/saʊθ pəʊl] 北极/南极",
+      "subLevel": [
+        {
+          "matched_word": "the",
+          "level": "",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 2,
       "word": "Henry Norman Bethune",
       "phonetic": "ˈhɛnri ˈnɔːmən bəˈθjuːn",
       "pos": "",
-      "meaning": "亨利·诺曼·白求恩"
+      "meaning": "亨利·诺曼·白求恩",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "diverse",
       "phonetic": "daɪˈvɜːs",
       "pos": "",
-      "meaning": "adj.不同的，多种多样的"
+      "meaning": "adj.不同的，多种多样的",
+      "subLevel": [
+        {
+          "matched_word": "diverse",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "diversity",
       "phonetic": "daɪˈvɜːsɪti",
       "pos": "",
-      "meaning": "n.差异(性) ；不同(点) ；多样性"
+      "meaning": "n.差异(性) ；不同(点) ；多样性",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "fortune",
       "phonetic": "ˈfɔːʧən",
       "pos": "",
-      "meaning": "n.机会；运气"
+      "meaning": "n.机会；运气",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "fortune cookie",
       "phonetic": "ˈfɔːʧən ˈkʊki",
       "pos": "",
-      "meaning": "幸运曲奇"
+      "meaning": "幸运曲奇",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "gumbo",
       "phonetic": "ˈgʌmbəʊ",
       "pos": "",
-      "meaning": "n.秋葵汤(用秋葵荚做的浓鸡汤或海鲜汤)"
+      "meaning": "n.秋葵汤(用秋葵荚做的浓鸡汤或海鲜汤)",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "nachos",
       "phonetic": "ˈnæʧəʊz",
       "pos": "",
-      "meaning": "n.[pl.]墨西哥玉米片"
+      "meaning": "n.[pl.]墨西哥玉米片",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "chip",
       "phonetic": "ʧɪp",
       "pos": "",
-      "meaning": "n.(英)炸土豆条；(美)炸薯片；芯片；碎片"
+      "meaning": "n.(英)炸土豆条；(美)炸薯片；芯片；碎片",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "cheese",
       "phonetic": "ʧiːz",
       "pos": "",
-      "meaning": "n.干酪；奶酪"
+      "meaning": "n.干酪；奶酪",
+      "subLevel": [
+        {
+          "matched_word": "cheese",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "spicy",
       "phonetic": "ˈspaɪsi",
       "pos": "",
-      "meaning": "n.加有香料的；辛辣的"
+      "meaning": "n.加有香料的；辛辣的",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "ethnic",
       "phonetic": "ˈɛθnɪk",
       "pos": "",
-      "meaning": "adj.具有民族特色的；异国风情的；民族的；种族的"
+      "meaning": "adj.具有民族特色的；异国风情的；民族的；种族的",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "admit",
       "phonetic": "ədˈmɪt",
       "pos": "",
-      "meaning": "vi.&vt.承认；vt.准许进入(或加入)"
+      "meaning": "vi.&vt.承认；vt.准许进入(或加入)",
+      "subLevel": [
+        {
+          "matched_word": "admit",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "definitely",
       "phonetic": "ˈdɛfɪnɪtli",
       "pos": "",
-      "meaning": "adv.肯定；确实"
+      "meaning": "adv.肯定；确实",
+      "subLevel": [
+        {
+          "matched_word": "definitely",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "occur",
       "phonetic": "əˈkɜː",
       "pos": "",
-      "meaning": "vi.发生；出现"
+      "meaning": "vi.发生；出现",
+      "subLevel": [
+        {
+          "matched_word": "occur",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "downtown",
       "phonetic": "ˈdaʊntaʊn",
       "pos": "",
-      "meaning": "adv.在市中心；往市中心"
+      "meaning": "adv.在市中心；往市中心",
+      "subLevel": [
+        {
+          "matched_word": "downtown",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "mission",
       "phonetic": "ˈmɪʃən",
       "pos": "",
-      "meaning": "n.传教(区)；重要任务；使命"
+      "meaning": "n.传教(区)；重要任务；使命",
+      "subLevel": [
+        {
+          "matched_word": "mission",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "district",
       "phonetic": "ˈdɪstrɪkt",
       "pos": "",
-      "meaning": "n.地区；区域"
+      "meaning": "n.地区；区域",
+      "subLevel": [
+        {
+          "matched_word": "district",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "graffiti",
       "phonetic": "græˈfiːti",
       "pos": "",
-      "meaning": "[pl.]涂鸦；胡写乱画"
+      "meaning": "[pl.]涂鸦；胡写乱画",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "comic",
       "phonetic": "ˈkɒmɪk",
       "pos": "",
-      "meaning": "n.连环画杂志；漫画杂志；喜剧演员；adj.滑稽的，使人发笑的"
+      "meaning": "n.连环画杂志；漫画杂志；喜剧演员；adj.滑稽的，使人发笑的",
+      "subLevel": [
+        {
+          "matched_word": "comic",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "afterwards",
       "phonetic": "ˈɑːftəwədz",
       "pos": "",
-      "meaning": "adv.以后；后来"
+      "meaning": "adv.以后；后来",
+      "subLevel": [
+        {
+          "matched_word": "afterward",
+          "level": "**",
+          "strategy": "stem(-s)"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "head",
       "phonetic": "",
       "pos": "",
-      "meaning": "to (朝……)前进；(向……)去"
+      "meaning": "to (朝……)前进；(向……)去",
+      "subLevel": [
+        {
+          "matched_word": "head",
+          "level": "",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "historical",
       "phonetic": "hɪsˈtɒrɪkəl",
       "pos": "",
-      "meaning": "adj.(有关)历史的"
+      "meaning": "adj.(有关)历史的",
+      "subLevel": [
+        {
+          "matched_word": "historic",
+          "level": "**",
+          "strategy": "stem(-al)"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "seek",
       "phonetic": "siːk",
       "pos": "",
-      "meaning": "vi.&vt.(sought，sought)寻找；寻求；争取；向(人)请求"
+      "meaning": "vi.&vt.(sought，sought)寻找；寻求；争取；向(人)请求",
+      "subLevel": [
+        {
+          "matched_word": "seek",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "seek",
       "phonetic": "",
       "pos": "",
-      "meaning": "one's fortune 寻找成功致富之路；闯世界"
+      "meaning": "one's fortune 寻找成功致富之路；闯世界",
+      "subLevel": [
+        {
+          "matched_word": "seek",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "earn",
       "phonetic": "ɜːn",
       "pos": "",
-      "meaning": "vi.&vt挣得；赚得；赢得；博得"
+      "meaning": "vi.&vt挣得；赚得；赢得；博得",
+      "subLevel": [
+        {
+          "matched_word": "earn",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "earn a living",
       "phonetic": "ɜːn ə ˈlɪvɪŋ",
       "pos": "",
-      "meaning": "谋生"
+      "meaning": "谋生",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "immigrant",
       "phonetic": "ˈɪmɪgrənt",
       "pos": "",
-      "meaning": "n.(外来)移民；外侨"
+      "meaning": "n.(外来)移民；外侨",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "select",
       "phonetic": "sɪˈlɛkt",
       "pos": "",
-      "meaning": "vt.选择；挑选；选拔"
+      "meaning": "vt.选择；挑选；选拔",
+      "subLevel": [
+        {
+          "matched_word": "select",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "china",
       "phonetic": "ˈʧaɪnə",
       "pos": "n.",
-      "meaning": "瓷；瓷器"
+      "meaning": "瓷；瓷器",
+      "subLevel": [
+        {
+          "matched_word": "china",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "jazz",
       "phonetic": "ʤæz",
       "pos": "",
-      "meaning": "n.爵士乐"
+      "meaning": "n.爵士乐",
+      "subLevel": [
+        {
+          "matched_word": "jazz",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "bar",
       "phonetic": "bɑː",
       "pos": "",
-      "meaning": "n.酒吧；小吃店；小馆子"
+      "meaning": "n.酒吧；小吃店；小馆子",
+      "subLevel": [
+        {
+          "matched_word": "bar",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "diagram",
       "phonetic": "ˈdaɪəgræm",
       "pos": "",
-      "meaning": "n.简图；图解；图表；示意图"
+      "meaning": "n.简图；图解；图表；示意图",
+      "subLevel": [
+        {
+          "matched_word": "diagram",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "journal",
       "phonetic": "ˈʤɜːnl",
       "pos": "",
-      "meaning": "n.日志；日记；报纸；刊物"
+      "meaning": "n.日志；日记；报纸；刊物",
+      "subLevel": [
+        {
+          "matched_word": "journal",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "claim",
       "phonetic": "kleɪm",
       "pos": "",
-      "meaning": "vt.&n.夺取(生命) ；宣称；断言"
+      "meaning": "vt.&n.夺取(生命) ；宣称；断言",
+      "subLevel": [
+        {
+          "matched_word": "claim",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "series",
       "phonetic": "ˈsɪəriːz",
       "pos": "",
-      "meaning": "n.一系列；连续；接连"
+      "meaning": "n.一系列；连续；接连",
+      "subLevel": [
+        {
+          "matched_word": "series",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "series",
       "phonetic": "",
       "pos": "",
-      "meaning": "of 一系列或一连串(事件)"
+      "meaning": "of 一系列或一连串(事件)",
+      "subLevel": [
+        {
+          "matched_word": "series",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "apart from",
       "phonetic": "əˈpɑːt frɒm",
       "pos": "",
-      "meaning": "除了……外(还) ；此外"
+      "meaning": "除了……外(还) ；此外",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "minority",
       "phonetic": "maɪˈnɒrɪti",
       "pos": "",
-      "meaning": "n.少数民族；少数派；少数人"
+      "meaning": "n.少数民族；少数派；少数人",
+      "subLevel": [
+        {
+          "matched_word": "minority",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "escape",
       "phonetic": "ɪsˈkeɪp",
       "pos": "",
-      "meaning": "vi.&vt.逃走；逃脱；避开；n.逃跑；逃脱；解脱"
+      "meaning": "vi.&vt.逃走；逃脱；避开；n.逃跑；逃脱；解脱",
+      "subLevel": [
+        {
+          "matched_word": "escape",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "bring about",
       "phonetic": "brɪŋ əˈbaʊt",
       "pos": "",
-      "meaning": "导致；引起"
+      "meaning": "导致；引起",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "Atlantic",
       "phonetic": "ətˈlæntɪk",
       "pos": "",
-      "meaning": "adj.大西洋的"
+      "meaning": "adj.大西洋的",
+      "subLevel": [
+        {
+          "matched_word": "Atlantic",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "financial",
       "phonetic": "faɪˈnænʃəl",
       "pos": "",
-      "meaning": "adj.财政的；财务的；金融的"
+      "meaning": "adj.财政的；财务的；金融的",
+      "subLevel": [
+        {
+          "matched_word": "financial",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "poetry",
       "phonetic": "ˈpəʊɪtri",
       "pos": "",
-      "meaning": "n.诗集；诗歌；诗作"
+      "meaning": "n.诗集；诗歌；诗作",
+      "subLevel": [
+        {
+          "matched_word": "poetry",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "jeans",
       "phonetic": "ʤiːnz",
       "pos": "",
-      "meaning": "n.牛仔裤"
+      "meaning": "n.牛仔裤",
+      "subLevel": [
+        {
+          "matched_word": "jeans",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "boot",
       "phonetic": "buːt",
       "pos": "",
-      "meaning": "n.靴子"
+      "meaning": "n.靴子",
+      "subLevel": [
+        {
+          "matched_word": "boot",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "mushroom",
       "phonetic": "ˈmʌʃrʊm",
       "pos": "",
-      "meaning": "n.蘑菇；蕈"
+      "meaning": "n.蘑菇；蕈",
+      "subLevel": [
+        {
+          "matched_word": "mushroom",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "poisonous",
       "phonetic": "ˈpɔɪznəs",
       "pos": "",
-      "meaning": "adj.引起中毒的；有毒的；分泌毒素的"
+      "meaning": "adj.引起中毒的；有毒的；分泌毒素的",
+      "subLevel": [
+        {
+          "matched_word": "poison",
+          "level": "*",
+          "strategy": "stem(-ous)"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "poison",
       "phonetic": "ˈpɔɪzn",
       "pos": "",
-      "meaning": "n.毒物；毒药；毒素；vt.毒死；毒害"
+      "meaning": "n.毒物；毒药；毒素；vt.毒死；毒害",
+      "subLevel": [
+        {
+          "matched_word": "poison",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "fold",
       "phonetic": "fəʊld",
       "pos": "",
-      "meaning": "vt.包；裹；折叠；vi.&vt.(可)折小；(可)叠平"
+      "meaning": "vt.包；裹；折叠；vi.&vt.(可)折小；(可)叠平",
+      "subLevel": [
+        {
+          "matched_word": "fold",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "super",
       "phonetic": "ˈs(j)uːpə",
       "pos": "",
-      "meaning": "adv.特别；格外；adj.顶好的；超级的"
+      "meaning": "adv.特别；格外；adj.顶好的；超级的",
+      "subLevel": [
+        {
+          "matched_word": "super",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "collection",
       "phonetic": "kəˈlɛkʃən",
       "pos": "",
-      "meaning": "n.作品集；收集物；收藏品"
+      "meaning": "n.作品集；收集物；收藏品",
+      "subLevel": [
+        {
+          "matched_word": "collection",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "accessory",
       "phonetic": "əkˈsɛsəri",
       "pos": "",
-      "meaning": "n.配饰；附件；配件"
+      "meaning": "n.配饰；附件；配件",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "souvenir",
       "phonetic": "ˈsuːvənɪə",
       "pos": "",
-      "meaning": "n.纪念物；纪念品"
+      "meaning": "n.纪念物；纪念品",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "percentage",
       "phonetic": "pəˈsɛntɪʤ",
       "pos": "",
-      "meaning": "n.百分率；百分比"
+      "meaning": "n.百分率；百分比",
+      "subLevel": [
+        {
+          "matched_word": "percentage",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "climate",
       "phonetic": "ˈklaɪmɪt",
       "pos": "",
-      "meaning": "n.气候"
+      "meaning": "n.气候",
+      "subLevel": [
+        {
+          "matched_word": "climate",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "mild",
       "phonetic": "maɪld",
       "pos": "",
-      "meaning": "adj.温和的；和善的；轻微的"
+      "meaning": "adj.温和的；和善的；轻微的",
+      "subLevel": [
+        {
+          "matched_word": "mild",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "settle",
       "phonetic": "ˈsɛtl",
       "pos": "",
-      "meaning": "vi.&vt.定居；结束(争论)；解决(纠纷)"
+      "meaning": "vi.&vt.定居；结束(争论)；解决(纠纷)",
+      "subLevel": [
+        {
+          "matched_word": "settle",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "construction",
       "phonetic": "kənˈstrʌkʃən",
       "pos": "",
-      "meaning": "n.建筑；建造；建造物；(句子，短语等的)结构"
+      "meaning": "n.建筑；建造；建造物；(句子，短语等的)结构",
+      "subLevel": [
+        {
+          "matched_word": "construction",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "material",
       "phonetic": "məˈtɪərɪəl",
       "pos": "",
-      "meaning": "n.材料；布料；素材；adj.物质的；实际的"
+      "meaning": "n.材料；布料；素材；adj.物质的；实际的",
+      "subLevel": [
+        {
+          "matched_word": "material",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "to",
       "phonetic": "",
       "pos": "",
-      "meaning": "name but a few 仅举几例"
+      "meaning": "name but a few 仅举几例",
+      "subLevel": [
+        {
+          "matched_word": "to",
+          "level": "",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "tai chi",
       "phonetic": "ˈtai ʧiː",
       "pos": "",
-      "meaning": "n.太极拳"
+      "meaning": "n.太极拳",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "clothing",
       "phonetic": "ˈkləʊðɪŋ",
       "pos": "",
-      "meaning": "n.衣服；服装"
+      "meaning": "n.衣服；服装",
+      "subLevel": [
+        {
+          "matched_word": "cloth",
+          "level": "**",
+          "strategy": "stem(-ing)"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "herbal",
       "phonetic": "ˈhɜːbəl",
       "pos": "",
-      "meaning": "adj.药草的；香草的"
+      "meaning": "adj.药草的；香草的",
+      "subLevel": [
+        {
+          "matched_word": "herb",
+          "level": "**",
+          "strategy": "stem(-al)"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "suit",
       "phonetic": "sjuːt",
       "pos": "",
-      "meaning": "vt.适合；满足……需要；相配；合身；n.西服；套装"
+      "meaning": "vt.适合；满足……需要；相配；合身；n.西服；套装",
+      "subLevel": [
+        {
+          "matched_word": "suit",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "at",
       "phonetic": "",
       "pos": "",
-      "meaning": "first hand 第一手；亲自"
+      "meaning": "first hand 第一手；亲自",
+      "subLevel": [
+        {
+          "matched_word": "at",
+          "level": "",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "item",
       "phonetic": "ˈaɪtəm",
       "pos": "",
-      "meaning": "项目；一件商品(或物品)；一条(新闻)"
+      "meaning": "项目；一件商品(或物品)；一条(新闻)",
+      "subLevel": [
+        {
+          "matched_word": "item",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "contain",
       "phonetic": "kənˈteɪn",
       "pos": "",
-      "meaning": "vt.包含；含有；容纳"
+      "meaning": "vt.包含；含有；容纳",
+      "subLevel": [
+        {
+          "matched_word": "contain",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "neat",
       "phonetic": "niːt",
       "pos": "",
-      "meaning": "adj.很好的；整洁的；整齐的"
+      "meaning": "adj.很好的；整洁的；整齐的",
+      "subLevel": [
+        {
+          "matched_word": "neat",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 3,
       "word": "San Francisco",
       "phonetic": "sæn frɑːnˈsiːskəʊ",
       "pos": "",
-      "meaning": "圣弗朗西斯科(旧金山) (美国城市)"
+      "meaning": "圣弗朗西斯科(旧金山) (美国城市)",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "Napa Valley",
       "phonetic": "ˈnæpə ˈvæli",
       "pos": "",
-      "meaning": "纳帕谷(美国)"
+      "meaning": "纳帕谷(美国)",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "the Golden Gate Bridge",
       "phonetic": "ðə ˈgəʊldən geɪt brɪʤ",
       "pos": "",
-      "meaning": "金门桥"
+      "meaning": "金门桥",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "the Mission District",
       "phonetic": "ðə ˈmɪʃən ˈdɪstrɪkt",
       "pos": "",
-      "meaning": "教会区(旧金山)"
+      "meaning": "教会区(旧金山)",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "Mexico",
       "phonetic": "ˈmɛksɪkəʊ",
       "pos": "",
-      "meaning": "墨西哥(北美洲国家)"
+      "meaning": "墨西哥(北美洲国家)",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "California",
       "phonetic": "ˌkæləˈfɔːniə",
       "pos": "",
-      "meaning": "加利福尼亚(美国州名)"
+      "meaning": "加利福尼亚(美国州名)",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "Cantonese",
       "phonetic": "ˌkæntəˈniːz",
       "pos": "",
-      "meaning": "adj.广东的;粤语的；n.粤语;广东人"
+      "meaning": "adj.广东的;粤语的；n.粤语;广东人",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "the Richmond District",
       "phonetic": "ðə ˈrɪʧmənd ˈdɪstrɪkt",
       "pos": "",
-      "meaning": "里士满区(旧金山)"
+      "meaning": "里士满区(旧金山)",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "Huangguoshu Waterfall",
       "phonetic": "ˈwɔːtəfɔːl",
       "pos": "",
-      "meaning": "黄果树瀑布"
+      "meaning": "黄果树瀑布",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "Journey to the West",
       "phonetic": "ˈʤɜːni tuː ðə wɛst",
       "pos": "",
-      "meaning": "《西游记》"
+      "meaning": "《西游记》",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "Tin How Temple",
       "phonetic": "tɪn haʊ ˈtɛmpl",
       "pos": "",
-      "meaning": "天后古庙"
+      "meaning": "天后古庙",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "Bank of Canton",
       "phonetic": "bæŋk ɒv ˈkæntɒn",
       "pos": "",
-      "meaning": "广东银行"
+      "meaning": "广东银行",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "Portsmouth Square",
       "phonetic": "ˈpɔːtsməθ skweə",
       "pos": "",
-      "meaning": "花园角广场(旧金山)"
+      "meaning": "花园角广场(旧金山)",
+      "subLevel": []
     },
     {
       "unit": 3,
       "word": "Robert Louis Stevenson",
       "phonetic": "ˈrɒbət ˈluːɪs ˈstiːvənsən",
       "pos": "",
-      "meaning": "罗伯特·路易斯·斯蒂文森(英国作家)"
+      "meaning": "罗伯特·路易斯·斯蒂文森(英国作家)",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "astronaut",
       "phonetic": "ˈæstrənɔːt",
       "pos": "",
-      "meaning": "n.宇航员；太空人"
+      "meaning": "n.宇航员；太空人",
+      "subLevel": [
+        {
+          "matched_word": "astronaut",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "procedure",
       "phonetic": "prəˈsiːʤə",
       "pos": "",
-      "meaning": "n.程序；步骤；手续"
+      "meaning": "n.程序；步骤；手续",
+      "subLevel": [
+        {
+          "matched_word": "procedure",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "mental",
       "phonetic": "ˈmɛntl",
       "pos": "",
-      "meaning": "adj.精神的，思想的"
+      "meaning": "adj.精神的，思想的",
+      "subLevel": [
+        {
+          "matched_word": "mental",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "cm",
       "phonetic": "",
       "pos": "abbr.",
-      "meaning": "(centimetre or centimeter)厘米"
+      "meaning": "(centimetre or centimeter)厘米",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "intelligent",
       "phonetic": "ɪnˈtɛlɪʤənt",
       "pos": "",
-      "meaning": "adj.有智慧的，聪明的，有智力的"
+      "meaning": "adj.有智慧的，聪明的，有智力的",
+      "subLevel": [
+        {
+          "matched_word": "intelligent",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "rocket",
       "phonetic": "ˈrɒkɪt",
       "pos": "",
-      "meaning": "n.火箭；火箭弹"
+      "meaning": "n.火箭；火箭弹",
+      "subLevel": [
+        {
+          "matched_word": "rocket",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "gravity",
       "phonetic": "ˈgrævɪti",
       "pos": "",
-      "meaning": "n.重力；引力"
+      "meaning": "n.重力；引力",
+      "subLevel": [
+        {
+          "matched_word": "gravity",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "frontier",
       "phonetic": "ˈfrʌntɪə",
       "pos": "",
-      "meaning": "n.边境；国界； 边远地区"
+      "meaning": "n.边境；国界； 边远地区",
+      "subLevel": [
+        {
+          "matched_word": "frontier",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "vehicle",
       "phonetic": "ˈviːɪkl",
       "pos": "",
-      "meaning": "n.交通工具；车辆"
+      "meaning": "n.交通工具；车辆",
+      "subLevel": [
+        {
+          "matched_word": "vehicle",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "universe",
       "phonetic": "ˈjuːnɪvɜːs",
       "pos": "",
-      "meaning": "n.宇宙；天地万物"
+      "meaning": "n.宇宙；天地万物",
+      "subLevel": [
+        {
+          "matched_word": "universe",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "determined",
       "phonetic": "dɪˈtɜːmɪnd",
       "pos": "",
-      "meaning": "adj.有决心的；意志坚定的"
+      "meaning": "adj.有决心的；意志坚定的",
+      "subLevel": [
+        {
+          "matched_word": "determine",
+          "level": "*",
+          "strategy": "stem(-d)"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "determine",
       "phonetic": "dɪˈtɜːmɪn",
       "pos": "",
-      "meaning": "vt.查明；确定；决定"
+      "meaning": "vt.查明；确定；决定",
+      "subLevel": [
+        {
+          "matched_word": "determine",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "satellite",
       "phonetic": "ˈsætəlaɪt",
       "pos": "",
-      "meaning": "n.人造卫星；卫星"
+      "meaning": "n.人造卫星；卫星",
+      "subLevel": [
+        {
+          "matched_word": "satellite",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "launch",
       "phonetic": "lɔːnʧ",
       "pos": "",
-      "meaning": "n.&vt.发射；发起；上市"
+      "meaning": "n.&vt.发射；发起；上市",
+      "subLevel": [
+        {
+          "matched_word": "launch",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "orbit",
       "phonetic": "ˈɔːbɪt",
       "pos": "",
-      "meaning": "n.(环绕地球、太阳等运行的)轨道；势力范围；vi.&vt.沿轨道运行、环绕……运行"
+      "meaning": "n.(环绕地球、太阳等运行的)轨道；势力范围；vi.&vt.沿轨道运行、环绕……运行",
+      "subLevel": [
+        {
+          "matched_word": "orbit",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "giant",
       "phonetic": "ˈʤaɪənt",
       "pos": "",
-      "meaning": "adj.巨大的；伟大的；n.巨人；巨兽；伟人"
+      "meaning": "adj.巨大的；伟大的；n.巨人；巨兽；伟人",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "leap",
       "phonetic": "liːp",
       "pos": "",
-      "meaning": "n.跳跃；剧增； 剧变；vi.&vt.跳过；跃过"
+      "meaning": "n.跳跃；剧增； 剧变；vi.&vt.跳过；跃过",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "mankind",
       "phonetic": "mænˈkaɪnd",
       "pos": "",
-      "meaning": "n.人类"
+      "meaning": "n.人类",
+      "subLevel": [
+        {
+          "matched_word": "mankind",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "agency",
       "phonetic": "ˈeɪʤənsi",
       "pos": "",
-      "meaning": "n.(政府的)专门机构；服务机构；代理处"
+      "meaning": "n.(政府的)专门机构；服务机构；代理处",
+      "subLevel": [
+        {
+          "matched_word": "agency",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "transmit",
       "phonetic": "trænzˈmɪt",
       "pos": "",
-      "meaning": "vi.&vt.传输；发送"
+      "meaning": "vi.&vt.传输；发送",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "data",
       "phonetic": "ˈdeɪtə",
       "pos": "",
-      "meaning": "n.[pl.]资料；数据"
+      "meaning": "n.[pl.]资料；数据",
+      "subLevel": [
+        {
+          "matched_word": "data",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "disappointed",
       "phonetic": "ˌdɪsəˈpɔɪntɪd",
       "pos": "",
-      "meaning": "adj.失望的；沮丧的"
+      "meaning": "adj.失望的；沮丧的",
+      "subLevel": [
+        {
+          "matched_word": "disappointed",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "desire",
       "phonetic": "dɪˈzaɪə",
       "pos": "",
-      "meaning": "n.渴望；欲望；vt.渴望；期望"
+      "meaning": "n.渴望；欲望；vt.渴望；期望",
+      "subLevel": [
+        {
+          "matched_word": "desire",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "carry on",
       "phonetic": "ˈkæri ɒn",
       "pos": "",
-      "meaning": "继续做，坚持干"
+      "meaning": "继续做，坚持干",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "ongoing",
       "phonetic": "ˈɒŋˌgəʊɪŋ",
       "pos": "",
-      "meaning": "adj.持续存在的； 仍在运行的； 不断发展的"
+      "meaning": "adj.持续存在的； 仍在运行的； 不断发展的",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "on board",
       "phonetic": "ɒn bɔːd",
       "pos": "",
-      "meaning": "在宇宙飞船上；在船上；在飞机上"
+      "meaning": "在宇宙飞船上；在船上；在飞机上",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "independently",
       "phonetic": "ˌɪndɪˈpɛndəntli",
       "pos": "",
-      "meaning": "adv.独立地；自立地"
+      "meaning": "adv.独立地；自立地",
+      "subLevel": [
+        {
+          "matched_word": "independent",
+          "level": "*",
+          "strategy": "stem(-ly)"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "independent",
       "phonetic": "ˌɪndɪˈpɛndənt",
       "pos": "",
-      "meaning": "adj.独立的；自立的"
+      "meaning": "adj.独立的；自立的",
+      "subLevel": [
+        {
+          "matched_word": "independent",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "spacecraft",
       "phonetic": "ˈspeɪskrɑːft",
       "pos": "",
-      "meaning": "n.航天器； 字宙飞船"
+      "meaning": "n.航天器； 字宙飞船",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "spacewalk",
       "phonetic": "ˈspeɪswɔːk",
       "pos": "",
-      "meaning": "n.太空行走；太空行走的时间"
+      "meaning": "n.太空行走；太空行走的时间",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "jade",
       "phonetic": "ʤeɪd",
       "pos": "",
-      "meaning": "n.玉；翡翠；玉器"
+      "meaning": "n.玉；翡翠；玉器",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "dock",
       "phonetic": "dɒk",
       "pos": "",
-      "meaning": "vi.&vt.(两架航天器)对接； (使)……进港；n.码头；船坞"
+      "meaning": "vi.&vt.(两架航天器)对接； (使)……进港；n.码头；船坞",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "signal",
       "phonetic": "ˈsɪgnl",
       "pos": "",
-      "meaning": "vi.&vt.标志着；标明；发信号；n.信号； 标志"
+      "meaning": "vi.&vt.标志着；标明；发信号；n.信号； 标志",
+      "subLevel": [
+        {
+          "matched_word": "signal",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "in",
       "phonetic": "",
       "pos": "",
-      "meaning": "the hope of doing... 抱着……的希望"
+      "meaning": "the hope of doing... 抱着……的希望",
+      "subLevel": [
+        {
+          "matched_word": "in",
+          "level": "",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "so",
       "phonetic": "",
       "pos": "",
-      "meaning": "as to do... 为了； 以便"
+      "meaning": "as to do... 为了； 以便",
+      "subLevel": [
+        {
+          "matched_word": "so",
+          "level": "",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "recycle",
       "phonetic": "ˌriːˈsaɪkl",
       "pos": "",
-      "meaning": "vt.回收利用； 再利用"
+      "meaning": "vt.回收利用； 再利用",
+      "subLevel": [
+        {
+          "matched_word": "recycle",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "muscle",
       "phonetic": "ˈmʌsl",
       "pos": "",
-      "meaning": "n.肌肉；实力；影响力"
+      "meaning": "n.肌肉；实力；影响力",
+      "subLevel": [
+        {
+          "matched_word": "muscle",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "lack",
       "phonetic": "læk",
       "pos": "",
-      "meaning": "n.缺乏；短缺；vt.没有；缺乏"
+      "meaning": "n.缺乏；短缺；vt.没有；缺乏",
+      "subLevel": [
+        {
+          "matched_word": "lack",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "float",
       "phonetic": "fləʊt",
       "pos": "",
-      "meaning": "vi.浮动；漂流；漂浮；vt.使浮动；使漂流"
+      "meaning": "vi.浮动；漂流；漂浮；vt.使浮动；使漂流",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "otherwise",
       "phonetic": "ˈʌðəwaɪz",
       "pos": "",
-      "meaning": "adv.否则；要不然"
+      "meaning": "adv.否则；要不然",
+      "subLevel": [
+        {
+          "matched_word": "otherwise",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "beyond",
       "phonetic": "bɪˈjɒnd",
       "pos": "",
-      "meaning": "prep.在更远处；超出"
+      "meaning": "prep.在更远处；超出",
+      "subLevel": [
+        {
+          "matched_word": "beyond",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "solar",
       "phonetic": "ˈsəʊlə",
       "pos": "",
-      "meaning": "adj.太阳的；太阳能的"
+      "meaning": "adj.太阳的；太阳能的",
+      "subLevel": [
+        {
+          "matched_word": "solar",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "solar system",
       "phonetic": "ˈsəʊlə ˈsɪstɪm",
       "pos": "",
-      "meaning": "太阳系；类太阳系"
+      "meaning": "太阳系；类太阳系",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "figure",
       "phonetic": "",
       "pos": "",
-      "meaning": "out 弄懂；弄清楚；弄明白"
+      "meaning": "out 弄懂；弄清楚；弄明白",
+      "subLevel": [
+        {
+          "matched_word": "figure",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "sufficient",
       "phonetic": "səˈfɪʃənt",
       "pos": "",
-      "meaning": "adj.足够的；充足的"
+      "meaning": "adj.足够的；充足的",
+      "subLevel": [
+        {
+          "matched_word": "sufficient",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "soap",
       "phonetic": "səʊp",
       "pos": "",
-      "meaning": "n.肥皂"
+      "meaning": "n.肥皂",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "towel",
       "phonetic": "ˈtaʊəl",
       "pos": "",
-      "meaning": "n.毛巾；抹布"
+      "meaning": "n.毛巾；抹布",
+      "subLevel": [
+        {
+          "matched_word": "towel",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "microwave",
       "phonetic": "ˈmaɪkrəʊweɪv",
       "pos": "",
-      "meaning": "n.(also microwave oven )微波炉"
+      "meaning": "n.(also microwave oven )微波炉",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "tissue",
       "phonetic": "ˈtɪʃuː",
       "pos": "",
-      "meaning": "n.纸巾； (人、动值物细胞的)组织"
+      "meaning": "n.纸巾； (人、动值物细胞的)组织",
+      "subLevel": [
+        {
+          "matched_word": "tissue",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "facility",
       "phonetic": "fəˈsɪlɪti",
       "pos": "",
-      "meaning": "n.设施；设备"
+      "meaning": "n.设施；设备",
+      "subLevel": [
+        {
+          "matched_word": "facility",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "keen",
       "phonetic": "kiːn",
       "pos": "",
-      "meaning": "adj.热衷的；渴望的"
+      "meaning": "adj.热衷的；渴望的",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "globe",
       "phonetic": "ˈgləʊb",
       "pos": "",
-      "meaning": "n.地球；世界；地球仪"
+      "meaning": "n.地球；世界；地球仪",
+      "subLevel": [
+        {
+          "matched_word": "globe",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "argue",
       "phonetic": "ˈɑːgjuː",
       "pos": "",
-      "meaning": "vt.&vi.论证；争辩；争论"
+      "meaning": "vt.&vi.论证；争辩；争论",
+      "subLevel": [
+        {
+          "matched_word": "argue",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "argument",
       "phonetic": "ˈɑːgjʊmənt",
       "pos": "",
-      "meaning": "n.争论；争吵；论点"
+      "meaning": "n.争论；争吵；论点",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "fatal",
       "phonetic": "ˈfeɪtl",
       "pos": "",
-      "meaning": "adj.致命的； 灾难性的"
+      "meaning": "adj.致命的； 灾难性的",
+      "subLevel": [
+        {
+          "matched_word": "fat",
+          "level": "",
+          "strategy": "stem(-al)"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "shallow",
       "phonetic": "ˈʃæləʊ",
       "pos": "",
-      "meaning": "adj.肤浅的；浅的"
+      "meaning": "adj.肤浅的；浅的",
+      "subLevel": [
+        {
+          "matched_word": "shallow",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "result in",
       "phonetic": "rɪˈzʌlt ɪn",
       "pos": "",
-      "meaning": "导致；造成"
+      "meaning": "导致；造成",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "pattern",
       "phonetic": "ˈpætən",
       "pos": "",
-      "meaning": "n.模式；模范；图案"
+      "meaning": "n.模式；模范；图案",
+      "subLevel": [
+        {
+          "matched_word": "pattern",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "analysis",
       "phonetic": "əˈnæləsɪs",
       "pos": "",
-      "meaning": "n.(pl.analyses)(对事物的)分析；分析结果"
+      "meaning": "n.(pl.analyses)(对事物的)分析；分析结果",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "as",
       "phonetic": "",
       "pos": "",
-      "meaning": "a result 所以；结果(是)"
+      "meaning": "a result 所以；结果(是)",
+      "subLevel": [
+        {
+          "matched_word": "as",
+          "level": "",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "high-end",
       "phonetic": "haɪ-ɛnd",
       "pos": "",
-      "meaning": "高端的"
+      "meaning": "高端的",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "monitor",
       "phonetic": "ˈmɒnɪtə",
       "pos": "",
-      "meaning": "n.监视器； 监测仪；vt.监视；监测；监控"
+      "meaning": "n.监视器； 监测仪；vt.监视；监测；监控",
+      "subLevel": [
+        {
+          "matched_word": "monitor",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "regularly",
       "phonetic": "ˈrɛgjʊləli",
       "pos": "",
-      "meaning": "adv.经常；定期地"
+      "meaning": "adv.经常；定期地",
+      "subLevel": [
+        {
+          "matched_word": "regular",
+          "level": "*",
+          "strategy": "stem(-ly)"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "regular",
       "phonetic": "ˈrɛgjʊlə",
       "pos": "",
-      "meaning": "adj.定期的；经常的；正常的"
+      "meaning": "adj.定期的；经常的；正常的",
+      "subLevel": [
+        {
+          "matched_word": "regular",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "foam",
       "phonetic": "fəʊm",
       "pos": "",
-      "meaning": "n.泡沫橡胶； 泡沫"
+      "meaning": "n.泡沫橡胶； 泡沫",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "pillow",
       "phonetic": "ˈpɪləʊ",
       "pos": "",
-      "meaning": "n.枕头"
+      "meaning": "n.枕头",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "smartphone",
       "phonetic": "ˈsmɑːtfəʊn",
       "pos": "",
-      "meaning": "n.智能手机"
+      "meaning": "n.智能手机",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "resource",
       "phonetic": "rɪˈsɔːs",
       "pos": "",
-      "meaning": "n.资源；财力；物力"
+      "meaning": "n.资源；财力；物力",
+      "subLevel": [
+        {
+          "matched_word": "resource",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "limited",
       "phonetic": "ˈlɪmɪtɪd",
       "pos": "",
-      "meaning": "adj.有限的"
+      "meaning": "adj.有限的",
+      "subLevel": [
+        {
+          "matched_word": "limited",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "provide",
       "phonetic": "",
       "pos": "",
-      "meaning": "for... 提供生活所需"
+      "meaning": "for... 提供生活所需",
+      "subLevel": [
+        {
+          "matched_word": "provide",
+          "level": "",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "closing",
       "phonetic": "ˈkləʊzɪŋ",
       "pos": "",
-      "meaning": "adj.结尾的； 结束的；n.停业；关闭；倒闭"
+      "meaning": "adj.结尾的； 结束的；n.停业；关闭；倒闭",
+      "subLevel": [
+        {
+          "matched_word": "close",
+          "level": "",
+          "strategy": "stem(-ng)"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "in closing",
       "phonetic": "ɪn ˈkləʊzɪŋ",
       "pos": "",
-      "meaning": "最后"
+      "meaning": "最后",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "mystery",
       "phonetic": "ˈmɪstəri",
       "pos": "",
-      "meaning": "n.神秘事物； 谜"
+      "meaning": "n.神秘事物； 谜",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "run",
       "phonetic": "",
       "pos": "",
-      "meaning": "out 用完；耗尽"
+      "meaning": "out 用完；耗尽",
+      "subLevel": [
+        {
+          "matched_word": "run",
+          "level": "",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "attach",
       "phonetic": "əˈtæʧ",
       "pos": "",
-      "meaning": "vt.系；绑；贴"
+      "meaning": "vt.系；绑；贴",
+      "subLevel": [
+        {
+          "matched_word": "attach",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "oxygen",
       "phonetic": "ˈɒksɪʤən",
       "pos": "",
-      "meaning": "n.氧；氧气"
+      "meaning": "n.氧；氧气",
+      "subLevel": [
+        {
+          "matched_word": "oxygen",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "Sputnik 1",
       "phonetic": "ˈspʊtnɪk 1",
       "pos": "",
-      "meaning": "“旅伴一号” (苏联发射的人类第一颗人造卫星)"
+      "meaning": "“旅伴一号” (苏联发射的人类第一颗人造卫星)",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "the",
       "phonetic": "",
       "pos": "",
-      "meaning": "USSR abbr. the Union of Soviet Socialist Republics苏联"
+      "meaning": "USSR abbr. the Union of Soviet Socialist Republics苏联",
+      "subLevel": [
+        {
+          "matched_word": "the",
+          "level": "",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "Yuri Gagarin",
       "phonetic": "ˈjuːri gəˈgɑːrɪn",
       "pos": "",
-      "meaning": "尤里·加加林(苏联宇航员)"
+      "meaning": "尤里·加加林(苏联宇航员)",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "Neil Armstrong",
       "phonetic": "niːl ˈɑːmˌstrɒŋ",
       "pos": "",
-      "meaning": "尼尔·阿姆斯特朗(美国宇航员)"
+      "meaning": "尼尔·阿姆斯特朗(美国宇航员)",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "NASA",
       "phonetic": "ˈnæsə",
       "pos": "abbr.",
-      "meaning": "National Aeronautics and Space Administration (美国)国家航空与航天局"
+      "meaning": "National Aeronautics and Space Administration (美国)国家航空与航天局",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "Voyager 1",
       "phonetic": "ˈvɔɪəʤə 1",
       "pos": "",
-      "meaning": "“旅行者一号”"
+      "meaning": "“旅行者一号”",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "Soyuz 11",
       "phonetic": "sɔɪˈjʊz 11",
       "pos": "",
-      "meaning": "“联盟11号”"
+      "meaning": "“联盟11号”",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "Challenger",
       "phonetic": "ˈʧælɪnʤə",
       "pos": "",
-      "meaning": "“挑战者”号航天飞机"
+      "meaning": "“挑战者”号航天飞机",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "the",
       "phonetic": "",
       "pos": "",
-      "meaning": "International Space Station 国际空间站"
+      "meaning": "International Space Station 国际空间站",
+      "subLevel": [
+        {
+          "matched_word": "the",
+          "level": "",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "Jade Rabbit",
       "phonetic": "ʤeɪd ˈræbɪt",
       "pos": "",
-      "meaning": "“玉兔”月球车"
+      "meaning": "“玉兔”月球车",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "Mars",
       "phonetic": "mɑːz",
       "pos": "",
-      "meaning": "n.火星"
+      "meaning": "n.火星",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "Jupiter",
       "phonetic": "ˈʤuːpɪtə",
       "pos": "",
-      "meaning": "n.木星"
+      "meaning": "n.木星",
+      "subLevel": []
     },
     {
       "unit": 4,
       "word": "Typhoon",
       "phonetic": "",
       "pos": "",
-      "meaning": "Goni 台风天鹅"
+      "meaning": "Goni 台风天鹅",
+      "subLevel": [
+        {
+          "matched_word": "typhoon",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 4,
       "word": "GPS",
       "phonetic": "ʤiː-piː-ɛs",
       "pos": "abbr.",
-      "meaning": "global positioning system全球(卫星)定位系统"
+      "meaning": "global positioning system全球(卫星)定位系统",
+      "subLevel": []
     },
     {
       "unit": 5,
       "word": "basis",
       "phonetic": "ˈbeɪsɪs",
       "pos": "",
-      "meaning": "n.基础；根据；基点"
+      "meaning": "n.基础；根据；基点",
+      "subLevel": [
+        {
+          "matched_word": "basis",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "on the basis of",
       "phonetic": "ɒn ðə ˈbeɪsɪs ɒv",
       "pos": "",
-      "meaning": "在某事的基础上；根据某事"
+      "meaning": "在某事的基础上；根据某事",
+      "subLevel": []
     },
     {
       "unit": 5,
       "word": "loan",
       "phonetic": "ləʊn",
       "pos": "",
-      "meaning": "n.贷款；借款"
+      "meaning": "n.贷款；借款",
+      "subLevel": [
+        {
+          "matched_word": "loan",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "take out a loan",
       "phonetic": "teɪk aʊt ə ləʊn",
       "pos": "",
-      "meaning": "取得贷款"
+      "meaning": "取得贷款",
+      "subLevel": []
     },
     {
       "unit": 5,
       "word": "plastic",
       "phonetic": "ˈplæstɪk",
       "pos": "",
-      "meaning": "n.塑料；adj.塑料制的，塑料制品"
+      "meaning": "n.塑料；adj.塑料制的，塑料制品",
+      "subLevel": [
+        {
+          "matched_word": "plastic",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "apologise",
       "phonetic": "əˈpɒləʤaɪz",
       "pos": "",
-      "meaning": "(also apologize) vi.道歉；谢罪"
+      "meaning": "(also apologize) vi.道歉；谢罪",
+      "subLevel": []
     },
     {
       "unit": 5,
       "word": "ignore",
       "phonetic": "ɪgˈnɔː",
       "pos": "",
-      "meaning": "vt.忽视；对……不予理会"
+      "meaning": "vt.忽视；对……不予理会",
+      "subLevel": [
+        {
+          "matched_word": "ignore",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "in",
       "phonetic": "",
       "pos": "",
-      "meaning": "return 作为回报；作为回应"
+      "meaning": "return 作为回报；作为回应",
+      "subLevel": [
+        {
+          "matched_word": "in",
+          "level": "",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "judge",
       "phonetic": "ˈʤʌʤ",
       "pos": "",
-      "meaning": "vi.&vt.评价；评判；判断；n.法官；审判员；裁判员"
+      "meaning": "vi.&vt.评价；评判；判断；n.法官；审判员；裁判员",
+      "subLevel": [
+        {
+          "matched_word": "judge",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "scene",
       "phonetic": "siːn",
       "pos": "",
-      "meaning": "n.(戏剧或歌剧的)场；现场；场面"
+      "meaning": "n.(戏剧或歌剧的)场；现场；场面",
+      "subLevel": [
+        {
+          "matched_word": "scene",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "narrator",
       "phonetic": "nəˈreɪtə",
       "pos": "",
-      "meaning": "n.(书，戏剧或电影中的)叙述者；讲述者；(电视节目中的)幕后解说员"
+      "meaning": "n.(书，戏剧或电影中的)叙述者；讲述者；(电视节目中的)幕后解说员",
+      "subLevel": []
     },
     {
       "unit": 5,
       "word": "narration",
       "phonetic": "nəˈreɪʃən",
       "pos": "",
-      "meaning": "n.叙述；讲述；解说"
+      "meaning": "n.叙述；讲述；解说",
+      "subLevel": []
     },
     {
       "unit": 5,
       "word": "bet",
       "phonetic": "bɛt",
       "pos": "",
-      "meaning": "n.打赌；赌注；(bet，bet)vi.&vt.下赌注，用……打赌；vt.敢说"
+      "meaning": "n.打赌；赌注；(bet，bet)vi.&vt.下赌注，用……打赌；vt.敢说",
+      "subLevel": [
+        {
+          "matched_word": "bet",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "make",
       "phonetic": "",
       "pos": "",
-      "meaning": "a bet 打个赌"
+      "meaning": "a bet 打个赌",
+      "subLevel": [
+        {
+          "matched_word": "make",
+          "level": "",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "servant",
       "phonetic": "ˈsɜːvənt",
       "pos": "",
-      "meaning": "n.仆人；佣人"
+      "meaning": "n.仆人；佣人",
+      "subLevel": [
+        {
+          "matched_word": "servant",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "as",
       "phonetic": "",
       "pos": "",
-      "meaning": "a matter of fact 事实上；其实；说真的"
+      "meaning": "a matter of fact 事实上；其实；说真的",
+      "subLevel": [
+        {
+          "matched_word": "as",
+          "level": "",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "by",
       "phonetic": "",
       "pos": "",
-      "meaning": "accident 偶然地；意外地"
+      "meaning": "accident 偶然地；意外地",
+      "subLevel": [
+        {
+          "matched_word": "by",
+          "level": "",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "sail",
       "phonetic": "seɪl",
       "pos": "",
-      "meaning": "vi.&vt.(船)航行；(人)乘船航行"
+      "meaning": "vi.&vt.(船)航行；(人)乘船航行",
+      "subLevel": [
+        {
+          "matched_word": "sail",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "spot",
       "phonetic": "spɒt",
       "pos": "",
-      "meaning": "vt.看见；注意到；发现；n.地点；处所；斑点；污迹"
+      "meaning": "vt.看见；注意到；发现；n.地点；处所；斑点；污迹",
+      "subLevel": [
+        {
+          "matched_word": "spot",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "consulate",
       "phonetic": "ˈkɒnsjʊlɪt",
       "pos": "",
-      "meaning": "n.领事馆"
+      "meaning": "n.领事馆",
+      "subLevel": []
     },
     {
       "unit": 5,
       "word": "dare",
       "phonetic": "deə",
       "pos": "",
-      "meaning": "v.胆敢；敢于"
+      "meaning": "v.胆敢；敢于",
+      "subLevel": [
+        {
+          "matched_word": "dare",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "sort",
       "phonetic": "sɔːt",
       "pos": "",
-      "meaning": "n.种类；类别"
+      "meaning": "n.种类；类别",
+      "subLevel": [
+        {
+          "matched_word": "sort",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "mining",
       "phonetic": "ˈmaɪnɪŋ",
       "pos": "",
-      "meaning": "n.采矿；采矿业"
+      "meaning": "n.采矿；采矿业",
+      "subLevel": [
+        {
+          "matched_word": "mine",
+          "level": "",
+          "strategy": "stem(-ng)"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "patience",
       "phonetic": "ˈpeɪʃəns",
       "pos": "",
-      "meaning": "n.耐心；忍耐力；毅力"
+      "meaning": "n.耐心；忍耐力；毅力",
+      "subLevel": [
+        {
+          "matched_word": "patience",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "to be honest",
       "phonetic": "tuː biː ˈɒnɪst",
       "pos": "",
-      "meaning": "说实话；坦率地说"
+      "meaning": "说实话；坦率地说",
+      "subLevel": []
     },
     {
       "unit": 5,
       "word": "ought to",
       "phonetic": "ɔːt tuː",
       "pos": "",
-      "meaning": "应该；应当"
+      "meaning": "应该；应当",
+      "subLevel": [
+        {
+          "matched_word": "ought to",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "be",
       "phonetic": "",
       "pos": "",
-      "meaning": "about to do... 即将或正要(做某事)"
+      "meaning": "about to do... 即将或正要(做某事)",
+      "subLevel": []
     },
     {
       "unit": 5,
       "word": "indicate",
       "phonetic": "ˈɪndɪkeɪt",
       "pos": "",
-      "meaning": "vt.&vi.表明；显示；vt.象征；暗示"
+      "meaning": "vt.&vi.表明；显示；vt.象征；暗示",
+      "subLevel": [
+        {
+          "matched_word": "indicate",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "beneath",
       "phonetic": "bɪˈniːθ",
       "pos": "",
-      "meaning": "adv.&prep.在(或往)……下面；在……的表面之下"
+      "meaning": "adv.&prep.在(或往)……下面；在……的表面之下",
+      "subLevel": [
+        {
+          "matched_word": "beneath",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "postpone",
       "phonetic": "pəʊstˈpəʊn",
       "pos": "",
-      "meaning": "vt.延迟；延期；延缓"
+      "meaning": "vt.延迟；延期；延缓",
+      "subLevel": [
+        {
+          "matched_word": "postpone",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "odd",
       "phonetic": "ɒd",
       "pos": "",
-      "meaning": "adj.奇怪的；怪异的；反常的"
+      "meaning": "adj.奇怪的；怪异的；反常的",
+      "subLevel": [
+        {
+          "matched_word": "odd",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "obligation",
       "phonetic": "ˌɒblɪˈgeɪʃən",
       "pos": "",
-      "meaning": "n.义务；职责；责任"
+      "meaning": "n.义务；职责；责任",
+      "subLevel": []
     },
     {
       "unit": 5,
       "word": "intention",
       "phonetic": "ɪnˈtɛnʃən",
       "pos": "",
-      "meaning": "n.打算；计划；意图；目的；"
+      "meaning": "n.打算；计划；意图；目的；",
+      "subLevel": [
+        {
+          "matched_word": "intention",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "nowhere",
       "phonetic": "ˈnəʊweə",
       "pos": "",
-      "meaning": "adv.无处；哪里都不"
+      "meaning": "adv.无处；哪里都不",
+      "subLevel": [
+        {
+          "matched_word": "nowhere",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "in",
       "phonetic": "",
       "pos": "",
-      "meaning": "case 以防；以防万一"
+      "meaning": "case 以防；以防万一",
+      "subLevel": [
+        {
+          "matched_word": "in",
+          "level": "",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "extent",
       "phonetic": "ɪksˈtɛnt",
       "pos": "",
-      "meaning": "n.程度；限度；大小；范围"
+      "meaning": "n.程度；限度；大小；范围",
+      "subLevel": [
+        {
+          "matched_word": "extent",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "to...extent",
       "phonetic": "",
       "pos": "",
-      "meaning": "到……程度；在……程度上"
+      "meaning": "到……程度；在……程度上",
+      "subLevel": []
     },
     {
       "unit": 5,
       "word": "opera",
       "phonetic": "ˈɒpərə",
       "pos": "",
-      "meaning": "歌剧"
+      "meaning": "歌剧",
+      "subLevel": [
+        {
+          "matched_word": "opera",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "musical",
       "phonetic": "ˈmjuːzɪkəl",
       "pos": "",
-      "meaning": "n.音乐剧；adj.音乐的"
+      "meaning": "n.音乐剧；adj.音乐的",
+      "subLevel": [
+        {
+          "matched_word": "music",
+          "level": "",
+          "strategy": "stem(-al)"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "dinosaur",
       "phonetic": "ˈdaɪnəʊsɔː",
       "pos": "",
-      "meaning": "n.恐龙"
+      "meaning": "n.恐龙",
+      "subLevel": [
+        {
+          "matched_word": "dinosaur",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "hug",
       "phonetic": "hʌg",
       "pos": "",
-      "meaning": "vi.&vt.拥抱；抱紧"
+      "meaning": "vi.&vt.拥抱；抱紧",
+      "subLevel": [
+        {
+          "matched_word": "hug",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "pursue",
       "phonetic": "pəˈsjuː",
       "pos": "",
-      "meaning": "vt.追求；致力于"
+      "meaning": "vt.追求；致力于",
+      "subLevel": [
+        {
+          "matched_word": "pursue",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "duty",
       "phonetic": "ˈdjuːti",
       "pos": "",
-      "meaning": "n.责任；义务；职责；值班"
+      "meaning": "n.责任；义务；职责；值班",
+      "subLevel": [
+        {
+          "matched_word": "duty",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "on",
       "phonetic": "",
       "pos": "",
-      "meaning": "duty 值班；执勤"
+      "meaning": "duty 值班；执勤",
+      "subLevel": [
+        {
+          "matched_word": "on",
+          "level": "",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "hesitate",
       "phonetic": "ˈhɛzɪteɪt",
       "pos": "",
-      "meaning": "vi.犹豫；迟疑；顾虑"
+      "meaning": "vi.犹豫；迟疑；顾虑",
+      "subLevel": [
+        {
+          "matched_word": "hesitate",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "sequence",
       "phonetic": "ˈsiːkwəns",
       "pos": "",
-      "meaning": "vt.按顺序排列；n.顺序；一系列"
+      "meaning": "vt.按顺序排列；n.顺序；一系列",
+      "subLevel": []
     },
     {
       "unit": 5,
       "word": "eventually",
       "phonetic": "ɪˈvɛnʧəli",
       "pos": "",
-      "meaning": "adv.最后；终于"
+      "meaning": "adv.最后；终于",
+      "subLevel": [
+        {
+          "matched_word": "eventually",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "tailor",
       "phonetic": "ˈteɪlə",
       "pos": "",
-      "meaning": "n.(男装)裁缝；vt.专门制作；定做"
+      "meaning": "n.(男装)裁缝；vt.专门制作；定做",
+      "subLevel": [
+        {
+          "matched_word": "tailor",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "clerk",
       "phonetic": "klɑːk",
       "pos": "",
-      "meaning": "n.职员；文书；店员"
+      "meaning": "n.职员；文书；店员",
+      "subLevel": [
+        {
+          "matched_word": "clerk",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "manner",
       "phonetic": "ˈmænə",
       "pos": "",
-      "meaning": "n.举止；行为方式；方法； [pl.]礼貌；礼仪"
+      "meaning": "n.举止；行为方式；方法； [pl.]礼貌；礼仪",
+      "subLevel": [
+        {
+          "matched_word": "manner",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "in",
       "phonetic": "",
       "pos": "",
-      "meaning": "a...manner 以一种……的方式；带着一副……的样子"
+      "meaning": "a...manner 以一种……的方式；带着一副……的样子",
+      "subLevel": [
+        {
+          "matched_word": "in",
+          "level": "",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "downstairs",
       "phonetic": "ˌdaʊnˈsteəz",
       "pos": "",
-      "meaning": "adv.顺楼梯而下；在楼下；往楼下"
+      "meaning": "adv.顺楼梯而下；在楼下；往楼下",
+      "subLevel": [
+        {
+          "matched_word": "downstairs",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "stair",
       "phonetic": "steə",
       "pos": "",
-      "meaning": "n.楼梯 ；梯级"
+      "meaning": "n.楼梯 ；梯级",
+      "subLevel": [
+        {
+          "matched_word": "stair",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "aside",
       "phonetic": "əˈsaɪd",
       "pos": "",
-      "meaning": "adv.到旁边；在旁边；留；存"
+      "meaning": "adv.到旁边；在旁边；留；存",
+      "subLevel": [
+        {
+          "matched_word": "aside",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "frown",
       "phonetic": "fraʊn",
       "pos": "",
-      "meaning": "n.&vi.皱眉"
+      "meaning": "n.&vi.皱眉",
+      "subLevel": []
     },
     {
       "unit": 5,
       "word": "in that case",
       "phonetic": "ɪn ðæt keɪs",
       "pos": "",
-      "meaning": "既然那样；假使那样的话"
+      "meaning": "既然那样；假使那样的话",
+      "subLevel": []
     },
     {
       "unit": 5,
       "word": "option",
       "phonetic": "ˈɒpʃən",
       "pos": "",
-      "meaning": "n.可选择的事物；选择；选择权"
+      "meaning": "n.可选择的事物；选择；选择权",
+      "subLevel": [
+        {
+          "matched_word": "option",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "broad",
       "phonetic": "brɔːd",
       "pos": "",
-      "meaning": "adj.宽阔的；广阔的；广泛的"
+      "meaning": "adj.宽阔的；广阔的；广泛的",
+      "subLevel": [
+        {
+          "matched_word": "broad",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "indeed",
       "phonetic": "ɪnˈdiːd",
       "pos": "",
-      "meaning": "adv.其实；实际上；当然；确实"
+      "meaning": "adv.其实；实际上；当然；确实",
+      "subLevel": [
+        {
+          "matched_word": "indeed",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "normal",
       "phonetic": "ˈnɔːməl",
       "pos": "",
-      "meaning": "adj.典型的；正常的；一般的；精神正常的；n.常态；通常标准；一般水平"
+      "meaning": "adj.典型的；正常的；一般的；精神正常的；n.常态；通常标准；一般水平",
+      "subLevel": [
+        {
+          "matched_word": "normal",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "willing",
       "phonetic": "ˈwɪlɪŋ",
       "pos": "",
-      "meaning": "adj.愿意；乐意"
+      "meaning": "adj.愿意；乐意",
+      "subLevel": [
+        {
+          "matched_word": "will",
+          "level": "",
+          "strategy": "stem(-ing)"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "be",
       "phonetic": "",
       "pos": "",
-      "meaning": "willing to do... 愿意或乐意做某事"
+      "meaning": "willing to do... 愿意或乐意做某事",
+      "subLevel": []
     },
     {
       "unit": 5,
       "word": "element",
       "phonetic": "ˈɛlɪmənt",
       "pos": "",
-      "meaning": "n.要素；基本部分"
+      "meaning": "n.要素；基本部分",
+      "subLevel": [
+        {
+          "matched_word": "element",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "plot",
       "phonetic": "plɒt",
       "pos": "",
-      "meaning": "n.故事情节；布局；阴谋"
+      "meaning": "n.故事情节；布局；阴谋",
+      "subLevel": [
+        {
+          "matched_word": "plot",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "ambassador",
       "phonetic": "æmˈbæsədə",
       "pos": "",
-      "meaning": "n.大使；使节；代表"
+      "meaning": "n.大使；使节；代表",
+      "subLevel": []
     },
     {
       "unit": 5,
       "word": "upper-class",
       "phonetic": "ˈʌpə-klɑːs",
       "pos": "",
-      "meaning": "adj.上流社会的；上等阶层的"
+      "meaning": "adj.上流社会的；上等阶层的",
+      "subLevel": []
     },
     {
       "unit": 5,
       "word": "upper",
       "phonetic": "ˈʌpə",
       "pos": "",
-      "meaning": "adj.上面的；上层的；靠上部的"
+      "meaning": "adj.上面的；上层的；靠上部的",
+      "subLevel": [
+        {
+          "matched_word": "upper",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "the upper class",
       "phonetic": "ði ˈʌpə klɑːs",
       "pos": "",
-      "meaning": "上流社会；上等阶层"
+      "meaning": "上流社会；上等阶层",
+      "subLevel": []
     },
     {
       "unit": 5,
       "word": "maintain",
       "phonetic": "meɪnˈteɪn",
       "pos": "",
-      "meaning": "vt.维持；保持；维修；保养"
+      "meaning": "vt.维持；保持；维修；保养",
+      "subLevel": [
+        {
+          "matched_word": "maintain",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "permission",
       "phonetic": "pəˈmɪʃən",
       "pos": "",
-      "meaning": "n.许可；准许；批准；许可证"
+      "meaning": "n.许可；准许；批准；许可证",
+      "subLevel": []
     },
     {
       "unit": 5,
       "word": "permit",
       "phonetic": "ˈpɜːmɪt",
       "pos": "",
-      "meaning": "vi.&vt.允许；准许；使有可能"
+      "meaning": "vi.&vt.允许；准许；使有可能",
+      "subLevel": [
+        {
+          "matched_word": "permit",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "saying",
       "phonetic": "ˈseɪɪŋ",
       "pos": "",
-      "meaning": "n.谚语；格言；警句"
+      "meaning": "n.谚语；格言；警句",
+      "subLevel": [
+        {
+          "matched_word": "saying",
+          "level": "**",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "external",
       "phonetic": "ɛksˈtɜːnl",
       "pos": "",
-      "meaning": "adj.外部的；外面的；外来的"
+      "meaning": "adj.外部的；外面的；外来的",
+      "subLevel": [
+        {
+          "matched_word": "external",
+          "level": "*",
+          "strategy": "exact"
+        }
+      ]
     },
     {
       "unit": 5,
       "word": "Roderick",
       "phonetic": "rɒdrɪk",
       "pos": "",
-      "meaning": "罗德里克"
+      "meaning": "罗德里克",
+      "subLevel": []
     },
     {
       "unit": 5,
       "word": "Oliver",
       "phonetic": "ˈɒlɪvə",
       "pos": "",
-      "meaning": "奥利弗"
+      "meaning": "奥利弗",
+      "subLevel": []
     },
     {
       "unit": 5,
       "word": "Henry Adams",
       "phonetic": "ˈhɛnri ˈædəmz",
       "pos": "",
-      "meaning": "亨利·亚当斯"
+      "meaning": "亨利·亚当斯",
+      "subLevel": []
     },
     {
       "unit": 5,
       "word": "The Phantom of the Opera",
       "phonetic": "ðə ˈfæntəm ɒv ði ˈɒpərə",
       "pos": "",
-      "meaning": "《歌剧魅影》 (音乐剧)"
+      "meaning": "《歌剧魅影》 (音乐剧)",
+      "subLevel": []
     },
     {
       "unit": 5,
       "word": "Reid",
       "phonetic": "riːd",
       "pos": "",
-      "meaning": "里德"
+      "meaning": "里德",
+      "subLevel": []
     },
     {
       "unit": 5,
       "word": "Todd",
       "phonetic": "tɒd",
       "pos": "",
-      "meaning": "托德"
+      "meaning": "托德",
+      "subLevel": []
     },
     {
       "unit": 5,
       "word": "Portia Langham",
       "phonetic": "ˈpɔːʃə læŋəm",
       "pos": "",
-      "meaning": "波希亚·兰厄姆"
+      "meaning": "波希亚·兰厄姆",
+      "subLevel": []
     }
   ]
 }
