@@ -1,0 +1,181 @@
+{
+  "id": 1,
+  "stats": {
+    "words": 43,
+    "core": 29
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "Economic development is necessary if we want to improve society. There comes a time when the old must {give way to} the new, and it is not possible to {preserve} everything from our past as we move towards the future. Finding and keeping the right balance between progress and the protection of cultural {sites} can be a big challenge.",
+      "cn": "社会进步需要经济发展。新旧更替的时代已经到来，在走向未来的过程中，我们不可能将过去的一切都<u>保存</u>下来。在发展与文化<u>遗址</u>保护之间找到恰当的平衡点，并加以保持，这可能是一项巨大的挑战。"
+    },
+    {
+      "num": "02",
+      "en": "Big challenges, however, can sometimes lead to great solutions. In the 1950s, the Egyptian government wanted to build a new {dam} across the Nile in order to {control} floods, {produce} electricity, and supply water to more farmers in the area. But the {proposal} led to {protests}. Water from the {dam} would {likely} damage a number of {temples} and destroy cultural {relics} that were an important part of Egypt's cultural {heritage}. After listening to the scientists who had studied the problem, and citizens who lived near the {dam}, the government {turned to} the United Nations for help in 1959.",
+      "cn": "然而，巨大的挑战有时会带来伟大的解决方案。20世纪50年代，埃及政府希望在尼罗河上修建一座新的<u>水坝</u>，以<u>控制</u>洪水，<u>生产</u>电力，并为该地区更多的农民供水。但是该<u>提议</u>引发了<u>抗议</u>。大坝中的水很可能会损坏许多<u>寺庙</u>，并摧毁一批<u>文物</u>，而这些文物是埃及文化<u>遗产</u>的重要组成部分。在听取了研究该问题的科学家以及大坝附近居民的意见后，政府于1959年向联合国<u>求助</u>。"
+    },
+    {
+      "num": "03",
+      "en": "A {committee} was {established} to {limit} damage to the Egyptian buildings and {prevent} the {loss} of cultural {relics}. The group asked for {contributions} from different {departments} and raised {funds} {within} the international community. Experts {investigated} the {issue}, {conducted} several tests, and then made a {proposal} for how the buildings could be saved. Finally, a {document} was signed, and the work began in 1960.",
+      "cn": "<u>委员会</u>成立了，以<u>限制</u>对埃及建筑物的破坏并<u>防止</u>文物的<u>损失</u>。该小组要求各<u>部门</u><u>捐款</u>，并在<u>国际</u>社会筹集<u>资金</u>。专家们<u>调查</u>了该<u>议题</u>，<u>开展</u>了多次测试，然后就如何保存这些建筑提出了一项<u>提议</u>。最后，签署了一份<u>文件</u>，这项工作于1960年开始动工。"
+    },
+    {
+      "num": "04",
+      "en": "The project brought together governments and environmentalists from around the world. {Temples} and other cultural {sites} were taken down piece by piece, and then moved and put back together again in a place where they were safe from the water. In 1961, German engineers moved the first {temple}. Over the next 20 years, thousands of engineers and workers {rescued} 22 {temples} and countless cultural {relics}. Fifty countries {donated} nearly $80 million to the project.",
+      "cn": "该项目汇集了来自世界各地的政府和环保人士。<u>寺庙</u>和其他文化<u>遗址</u>被逐块拆解，运至一个不受河水侵袭的安全地带。1961年，德国工程师搬迁了第一座<u>寺庙</u>。在接下来的20年里，成千上万的工程师和工人<u>拯救</u>了22座<u>寺庙</u>和不计其数的<u>文物</u>。五十个国家向该项目<u>捐赠</u>了近8000万美元。"
+    },
+    {
+      "num": "05",
+      "en": "When the project ended in 1980, it was considered a great success. Not only had the countries found a path to the future that did not run over the {relics} of the past, but they had also learnt that it was possible for countries to work together to build a better tomorrow. The spirit of the Aswan {Dam} project is still alive today. Perhaps the best example is shown by UNESCO, which runs a programme that {prevents} world cultural {heritage} {sites} around the world from {disappearing}. If a problem seems too difficult for a single nation, the global community can sometimes provide a solution.",
+      "cn": "该项目于1980年完工，被视为一个巨大的成功。这些国家不仅找到了一条不以牺牲<u>文物</u>为代价的未来发展之路，而且明白了多个国家合作共创美好未来的可能性。阿斯旺<u>水坝</u>工程的精神尚存。也许最好的例子就是联合国教科文组织，该组织开展了一项<u>防止</u>世界文化<u>遗产</u><u>遗址</u>在世界各地<u>消失</u>的计划。如果一个问题对一个国家而言似乎太困难，那么国际社会有时可以提供一个解决方案。"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "give way to",
+      "type": "outline",
+      "ctx": "让步;让位于"
+    },
+    {
+      "word": "preserve",
+      "type": "outline",
+      "ctx": "保存;保护"
+    },
+    {
+      "word": "site",
+      "type": "outline",
+      "ctx": "遗址;地点"
+    },
+    {
+      "word": "dam",
+      "type": "outline",
+      "ctx": "水坝"
+    },
+    {
+      "word": "control",
+      "type": "outline",
+      "ctx": "控制"
+    },
+    {
+      "word": "produce",
+      "type": "outline",
+      "ctx": "生产;制造"
+    },
+    {
+      "word": "proposal",
+      "type": "outline",
+      "ctx": "提议;建议"
+    },
+    {
+      "word": "protest",
+      "type": "outline",
+      "ctx": "抗议"
+    },
+    {
+      "word": "likely",
+      "type": "outline",
+      "ctx": "可能的"
+    },
+    {
+      "word": "temple",
+      "type": "outline",
+      "ctx": "寺庙"
+    },
+    {
+      "word": "relic",
+      "type": "outline",
+      "ctx": "文物;遗迹"
+    },
+    {
+      "word": "heritage",
+      "type": "outline",
+      "ctx": "遗产"
+    },
+    {
+      "word": "turn to",
+      "type": "outline",
+      "ctx": "向……求助"
+    },
+    {
+      "word": "committee",
+      "type": "outline",
+      "ctx": "委员会"
+    },
+    {
+      "word": "establish",
+      "type": "outline",
+      "ctx": "建立;成立"
+    },
+    {
+      "word": "limit",
+      "type": "outline",
+      "ctx": "限制;限度"
+    },
+    {
+      "word": "prevent",
+      "type": "outline",
+      "ctx": "阻止;防止"
+    },
+    {
+      "word": "loss",
+      "type": "outline",
+      "ctx": "损失;丧失"
+    },
+    {
+      "word": "contribution",
+      "type": "outline",
+      "ctx": "捐款;贡献"
+    },
+    {
+      "word": "department",
+      "type": "outline",
+      "ctx": "部门;部"
+    },
+    {
+      "word": "fund",
+      "type": "outline",
+      "ctx": "资金;基金"
+    },
+    {
+      "word": "within",
+      "type": "outline",
+      "ctx": "在……之内"
+    },
+    {
+      "word": "investigate",
+      "type": "outline",
+      "ctx": "调查;研究"
+    },
+    {
+      "word": "issue",
+      "type": "outline",
+      "ctx": "议题;问题"
+    },
+    {
+      "word": "conduct",
+      "type": "outline",
+      "ctx": "开展;实施"
+    },
+    {
+      "word": "document",
+      "type": "outline",
+      "ctx": "文件;文档"
+    },
+    {
+      "word": "rescue",
+      "type": "outline",
+      "ctx": "拯救;救援"
+    },
+    {
+      "word": "donate",
+      "type": "outline",
+      "ctx": "捐赠"
+    },
+    {
+      "word": "disappear",
+      "type": "outline",
+      "ctx": "消失"
+    }
+  ]
+}
