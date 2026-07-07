@@ -78,5 +78,119 @@
         "dirty"
       ]
     }
-  ]
+  ],
+  "prototype": "",
+  "exam_type": [
+    "高中",
+    "CET4",
+    "CET6",
+    "考研",
+    "GRE"
+  ],
+  "phrs": [
+    {
+      "phrase": "soil erosion",
+      "translations": [
+        "n. 水土流失；土壤侵蚀；土壤流失；泥土流失"
+      ]
+    },
+    {
+      "phrase": "soft soil",
+      "translations": [
+        "软土，软泥地"
+      ]
+    },
+    {
+      "phrase": "soil water",
+      "translations": [
+        "土壤水"
+      ]
+    },
+    {
+      "phrase": "soil moisture",
+      "translations": [
+        "土壤水分；土壤湿度"
+      ]
+    },
+    {
+      "phrase": "soil fertility",
+      "translations": [
+        "土壤肥力；地力"
+      ]
+    },
+    {
+      "phrase": "soil conservation",
+      "translations": [
+        "土壤保持"
+      ]
+    },
+    {
+      "phrase": "water and soil conservation",
+      "translations": [
+        "水土保持"
+      ]
+    },
+    {
+      "phrase": "soil layer",
+      "translations": [
+        "土层；土壤层次"
+      ]
+    },
+    {
+      "phrase": "frozen soil",
+      "translations": [
+        "冻土"
+      ]
+    },
+    {
+      "phrase": "soil pollution",
+      "translations": [
+        "土壤污染"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "高考",
+    "mnemonic": "",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 0,
+          "type": "翻译"
+        },
+        {
+          "time": 1,
+          "type": "知识运用"
+        },
+        {
+          "time": 0,
+          "type": "写作"
+        },
+        {
+          "time": 0,
+          "type": "听力理解"
+        },
+        {
+          "time": 2,
+          "type": "阅读理解"
+        }
+      ],
+      "recommendationRate": 2,
+      "frequency": 3
+    },
+    "pastExamSents": [
+      {
+        "en": "Moreover, the new growing techniques are contributing to acidic soil conditions.",
+        "zh": "此外，这一新技术也会导致土壤酸化。",
+        "source": "2015·陕西卷"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "poor/dry/acid/sandy/fertile soil",
+        "zh": "贫瘠／干旱／酸性／沙质／肥沃的土壤"
+      }
+    ]
+  }
 }

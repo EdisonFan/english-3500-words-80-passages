@@ -1,0 +1,211 @@
+{
+  "word": "vegetable",
+  "found": true,
+  "phonetic_uk": "ˈvedʒtəb(ə)l",
+  "phonetic_us": "ˈvedʒtəb(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=vegetable&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=vegetable&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "蔬菜；植物人；呆板懒散的人；植物"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "植物的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "vegetables"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Severe brain damage turned him into a vegetable.",
+      "zh": "严重的脑损伤使他变成了植物人。"
+    },
+    {
+      "en": "The vegetable harvest is disastrously behind schedule.",
+      "zh": "蔬菜收割灾难性地滞后于计划。"
+    },
+    {
+      "en": "Peas, beans and lentils are a good source of vegetable protein.",
+      "zh": "豌豆、豆荚和扁豆是植物蛋白质的大好来源。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[园艺]蔬菜；[植]植物；植物人",
+      "words": [
+        "plant",
+        "greenstuff"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "[园艺]蔬菜的；[植]植物的",
+      "words": [
+        "floral",
+        "botanic"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研",
+    "SAT"
+  ],
+  "phrs": [
+    {
+      "phrase": "vegetable oil",
+      "translations": [
+        "植物油"
+      ]
+    },
+    {
+      "phrase": "vegetable protein",
+      "translations": [
+        "n. 植物（性）蛋白"
+      ]
+    },
+    {
+      "phrase": "vegetable juice",
+      "translations": [
+        "蔬菜汁"
+      ]
+    },
+    {
+      "phrase": "vegetable garden",
+      "translations": [
+        "菜园"
+      ]
+    },
+    {
+      "phrase": "edible vegetable oil",
+      "translations": [
+        "食用植物油"
+      ]
+    },
+    {
+      "phrase": "green vegetable",
+      "translations": [
+        "青菜"
+      ]
+    },
+    {
+      "phrase": "fruit vegetable",
+      "translations": [
+        "果实蔬菜；果菜类"
+      ]
+    },
+    {
+      "phrase": "vegetable base",
+      "translations": [
+        "植物碱"
+      ]
+    },
+    {
+      "phrase": "pickled vegetable",
+      "translations": [
+        "n. 泡菜"
+      ]
+    },
+    {
+      "phrase": "vegetable soup",
+      "translations": [
+        "蔬菜汤"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 196,
+          "type": "阅读"
+        },
+        {
+          "time": 38,
+          "type": "短文填空"
+        },
+        {
+          "time": 24,
+          "type": "听力"
+        },
+        {
+          "time": 10,
+          "type": "翻译"
+        },
+        {
+          "time": 7,
+          "type": "情景对话"
+        },
+        {
+          "time": 4,
+          "type": "写作"
+        },
+        {
+          "time": 29,
+          "type": "完形填空"
+        },
+        {
+          "time": 14,
+          "type": "单项选择"
+        },
+        {
+          "time": 7,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 4,
+      "frequency": 329
+    },
+    "pastExamSents": [
+      {
+        "en": "Clearly the vegetable and flower garden was slowly becoming our dream garden.",
+        "zh": "显然，这个种有蔬菜和鲜花的园子正慢慢成为我们的梦想花园。",
+        "source": "2021·湖北-宜昌·阅读"
+      },
+      {
+        "en": "The study found that vegetable intake of the children who grew their own produce increased greatly across the year.",
+        "zh": "研究发现，如果孩子们自己种植农产品，他们一年的蔬菜摄入量会大大增加。",
+        "source": "2021·北京·阅读"
+      },
+      {
+        "en": "Mike and I talked about making a large vegetable garden somewhere in our yard, but we couldn't agree on where.",
+        "zh": "迈克和我讨论过在院子里的某个地方建一个能种蔬菜的大花园，但我们对园子该建在哪意见不一。",
+        "source": "2021·湖北-宜昌·阅读"
+      },
+      {
+        "en": "New research suggests that a gardening program in schools can increase children's vegetable intake.",
+        "zh": "新的研究表明，学校的园艺项目可以增加孩子们的蔬菜摄入量。",
+        "source": "2021·北京·阅读"
+      },
+      {
+        "en": "Related studies show that increased vegetable intake can improve health and cut the risk of chronic diseases.",
+        "zh": "相关研究表明，增加蔬菜摄入量可以改善健康，降低患慢性疾病的风险。",
+        "source": "2021·北京·阅读"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "vegetable oil",
+        "zh": "植物油"
+      },
+      {
+        "en": "vegetable salad",
+        "zh": "蔬菜沙拉"
+      }
+    ]
+  }
+}

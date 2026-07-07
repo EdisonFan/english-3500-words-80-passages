@@ -694,7 +694,7 @@ body.show-trans .para .cn { display: block; }
     background: var(--bg);
     border-radius: 16px;
     padding: 32px;
-    max-width: 400px;
+    max-width: 560px;
     width: 100%;
     /* 高度限制：内容多时弹窗不超出视口 */
     max-height: calc(100vh - 48px);
@@ -743,6 +743,13 @@ body.show-trans .para .cn { display: block; }
     text-transform: uppercase;
     margin-bottom: 8px;
 }
+.modal-word-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 6px;
+}
 .modal-word {
     font-family: var(--font-display);
     font-size: 36px;
@@ -750,7 +757,7 @@ body.show-trans .para .cn { display: block; }
     color: var(--ink);
     letter-spacing: -1px;
     line-height: 1;
-    margin-bottom: 6px;
+    margin-bottom: 0;
 }
 .modal-base-form {
     font-size: 12px;
@@ -758,6 +765,186 @@ body.show-trans .para .cn { display: block; }
     margin-bottom: 8px;
     font-style: italic;
 }
+
+/* === 词典弹窗：原型词 === */
+.modal-prototype {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 12px;
+    font-size: 13px;
+}
+.prototype-label {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    font-weight: 600;
+    color: var(--ink-4);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+.prototype-value {
+    font-family: var(--font-sans);
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--accent-deep);
+}
+
+/* === 词典弹窗：考试类型标签 === */
+.modal-exam-type {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-wrap: wrap;
+    margin-bottom: 14px;
+}
+.exam-type-label {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    font-weight: 600;
+    color: var(--ink-4);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+.exam-type-tag {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    font-weight: 600;
+    color: var(--accent-deep);
+    background: var(--accent-soft);
+    padding: 2px 8px;
+    border-radius: 10px;
+}
+
+/* === 词典弹窗：词组搭配 === */
+.modal-phrs-group {
+    margin-top: 14px;
+    padding: 10px 12px;
+    background: var(--bg-card);
+    border-radius: 8px;
+    font-size: 12.5px;
+    line-height: 1.8;
+}
+.phrs-label {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    font-weight: 600;
+    color: var(--ink-4);
+    margin-bottom: 4px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+.phr-item {
+    display: flex;
+    gap: 8px;
+    align-items: baseline;
+    margin-top: 2px;
+}
+.phr-phrase {
+    font-family: var(--font-sans);
+    font-weight: 600;
+    color: var(--ink-2);
+    white-space: nowrap;
+}
+.phr-trans {
+    color: var(--ink-3);
+    font-family: var(--font-cn);
+    font-size: 12px;
+}
+
+/* === 词典弹窗：考试/个人化信息 === */
+.modal-individual-group {
+    margin-top: 14px;
+    padding: 10px 12px;
+    background: var(--bg-card);
+    border-radius: 8px;
+    font-size: 12.5px;
+    line-height: 1.7;
+}
+.individual-label {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    font-weight: 600;
+    color: var(--ink-4);
+    margin-bottom: 6px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+.individual-meta {
+    color: var(--accent-deep);
+    font-size: 12px;
+    margin-bottom: 6px;
+}
+.individual-exam-info {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 6px;
+}
+.exam-stat {
+    font-size: 11.5px;
+    color: var(--ink-3);
+}
+.exam-stat b {
+    color: var(--accent-deep);
+    font-size: 13px;
+}
+.individual-qtypes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    margin-bottom: 8px;
+}
+.qtype-tag {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    color: var(--ink-4);
+    background: var(--bg);
+    padding: 2px 6px;
+    border-radius: 3px;
+}
+.individual-idiomatic {
+    margin-bottom: 8px;
+}
+.idiom-item {
+    display: flex;
+    gap: 8px;
+    align-items: baseline;
+    margin-top: 2px;
+}
+.idiom-en {
+    font-family: var(--font-sans);
+    font-weight: 600;
+    color: var(--ink-2);
+    white-space: nowrap;
+}
+.idiom-zh {
+    color: var(--ink-3);
+    font-family: var(--font-cn);
+    font-size: 12px;
+}
+.individual-past-sents {
+    margin-top: 8px;
+}
+.past-sents-label {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    font-weight: 600;
+    color: var(--ink-4);
+    margin-bottom: 4px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+.past-sent-item {
+    margin: 4px 0;
+    padding: 8px 10px;
+    background: var(--bg);
+    border-left: 2px solid var(--warm);
+    border-radius: 0 4px 4px 0;
+    font-size: 12px;
+    line-height: 1.6;
+}
+.past-sent-en { color: var(--ink-2); font-family: var(--font-sans); margin-bottom: 2px; }
+.past-sent-zh { color: var(--ink-3); font-family: var(--font-cn); }
+.past-sent-src { color: var(--ink-4); font-size: 10px; font-family: var(--font-mono); margin-top: 2px; }
 .modal-defs { display: flex; flex-direction: column; gap: 10px; }
 .modal-def {
     display: flex;
@@ -879,12 +1066,12 @@ footer {
 
 /* 词典弹框里的"教学视频"按钮 */
 .modal-video-btn {
-    display: flex; align-items: center; justify-content: center;
-    gap: 6px; width: 100%;
-    padding: 10px 14px; margin: 8px 0 4px;
-    font-size: 14px; font-weight: 500;
+    display: inline-flex; align-items: center; justify-content: center;
+    gap: 5px; flex-shrink: 0;
+    padding: 6px 14px; margin: 0;
+    font-size: 13px; font-weight: 500;
     color: #fff; background: #ff6b35;
-    border: none; border-radius: 10px;
+    border: none; border-radius: 8px;
     cursor: pointer; -webkit-appearance: none;
 }
 .modal-video-btn:active { background: #e85a28; }
@@ -971,5 +1158,5 @@ footer {
 
 /* 移动端优化 */
 @media (max-width: 600px) {
-    .modal-video-btn { font-size: 15px; padding: 12px 14px; }
+    .modal-video-btn { font-size: 13px; padding: 6px 14px; }
 }

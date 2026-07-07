@@ -1,0 +1,136 @@
+{
+  "word": "gardens",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=gardens&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=gardens&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[建]花园（garden 的复数形式）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "从事园艺（garden 的单三形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The gardens are a blaze of colour.",
+      "zh": "花园里姹紫嫣红。"
+    },
+    {
+      "en": "Small gardens can be high maintenance.",
+      "zh": "小花园也会有很高的维护费。"
+    },
+    {
+      "en": "The English have a passion for gardens.",
+      "zh": "英国人酷爱花园。"
+    }
+  ],
+  "synonyms": [],
+  "prototype": "garden",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研"
+  ],
+  "phrs": [
+    {
+      "phrase": "hanging gardens of babylon",
+      "translations": [
+        "空中花园（古巴比伦王国的世界七大奇观之一）"
+      ]
+    },
+    {
+      "phrase": "kew gardens",
+      "translations": [
+        "n. 英国皇家植物园"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 247,
+          "type": "阅读"
+        },
+        {
+          "time": 37,
+          "type": "短文填空"
+        },
+        {
+          "time": 38,
+          "type": "听力"
+        },
+        {
+          "time": 3,
+          "type": "翻译"
+        },
+        {
+          "time": 0,
+          "type": "情景对话"
+        },
+        {
+          "time": 4,
+          "type": "写作"
+        },
+        {
+          "time": 68,
+          "type": "完形填空"
+        },
+        {
+          "time": 20,
+          "type": "单项选择"
+        },
+        {
+          "time": 14,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 4,
+      "frequency": 431
+    },
+    "pastExamSents": [
+      {
+        "en": "In 2007, China Paper-cuts Museum opened to the public in the back garden of the Wang's Residence, Yangzhou, greatly helping the development of Yangzhou paper cutting.",
+        "zh": "2007年，中国剪纸博物馆在扬州王府后花园向公众开放，极大地促进了扬州剪纸的发展。",
+        "source": "2021·新疆·阅读"
+      },
+      {
+        "en": "The robin sat on the top of the garden wall.",
+        "zh": "知更鸟停在花园的墙头上。",
+        "source": "2021·江苏-连云港·阅读"
+      },
+      {
+        "en": "I'm going to the garden to weed your flowerbed.",
+        "zh": "我要去花园里给你的花圃除草。",
+        "source": "2021·浙江-湖州·阅读"
+      },
+      {
+        "en": "Mel helped Mrs. Maka make a garden and Mrs. Maka showed Mel how to make clay pots.",
+        "zh": "梅尔帮助玛卡太太建造了一座花园，玛卡太太向梅尔展示了如何制作陶罐。",
+        "source": "2021·辽宁-大连·阅读"
+      },
+      {
+        "en": "She went out of the house and ran around the garden ten times.",
+        "zh": "她走出房子，绕着花园跑了十圈。",
+        "source": "2021·江苏-连云港·阅读"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "front / back garden",
+        "zh": "前 / 后花园"
+      }
+    ]
+  }
+}
