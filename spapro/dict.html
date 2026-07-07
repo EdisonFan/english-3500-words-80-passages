@@ -59,7 +59,7 @@ function playAudio(btn, src) {
     } catch (e) { }
 }
 
-/* 跳到单词对应的视频页(PC 新标签页 / 手机当前页) */
+/* 跳到单词对应的视频页(PC 也走当前页跳转) */
 function isMobileDevice() {
     return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|Mobile/i.test(navigator.userAgent);
 }
@@ -71,10 +71,13 @@ function openVideoPage(word, list) {
         sessionStorage.setItem('videoWord', word);
     } catch (e) { }
     var url = '/video.html?word=' + encodeURIComponent(word);
+    // PC 之前用 window.open(_blank) 经常被浏览器弹窗拦截,改为 location.href
+    // 看完视频用 video.html 顶部的返回箭头回退
     if (isMobileDevice()) {
         location.href = url;
     } else {
-        window.open(url, '_blank');
+        console.log('[dict] 跳转到视频页:', url);
+        location.href = url;
     }
 }
 
@@ -291,6 +294,7 @@ function renderPage(data, videoList) {
 /* 全局函数:供按钮 inline onclick 调用,从按钮自身 data-* 读参数后跳转
    (用 inline onclick 而非 addEventListener,避免动态创建时 listener 绑定时机问题) */
 function openVideoFromBtn(btn) {
+    console.log('[dict] 视频按钮被点击,word=', btn && btn.getAttribute && btn.getAttribute('data-videoword'));
     var word = (btn.getAttribute('data-videoword') || '').toLowerCase().trim();
     var list = [];
     try { list = JSON.parse(btn.getAttribute('data-videolist') || '[]'); } catch (e) {}
