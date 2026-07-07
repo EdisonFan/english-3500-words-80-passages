@@ -285,6 +285,7 @@ function renderPage(data, videoList) {
 
     mainEl.innerHTML = html;
     bindVideoBtn();
+    wrapEnglishWords();
 }
 
 function bindVideoBtn() {
@@ -297,6 +298,64 @@ function bindVideoBtn() {
         openVideoPage(word, list);
     });
 }
+
+/* === 翻译页内英文单词点击 === */
+/* 把已知含英文的节点里的每个英文单词包成可点击 .dw
+   (与 app.js 的 tokenizeAndWrap 一致,但只读纯文本、不处理 {word} 标记) */
+var ENGLISH_TEXT_SELECTOR = [
+    '.example-en',       // 双语例句 英文
+    '.phr-phrase',       // 词组搭配 短语
+    '.syn-words',        // 同义词 词列表
+    '.idiom-en',         // 固定搭配 英文
+    '.past-sent-en',     // 真题例句 英文
+    '.prototype-value'   // 原型词
+].join(',');
+
+function wrapEnglishWords() {
+    var nodes = mainEl.querySelectorAll(ENGLISH_TEXT_SELECTOR);
+    for (var i = 0; i < nodes.length; i++) {
+        var el = nodes[i];
+        // 已经被包过(二次渲染)就跳过
+        if (el.getAttribute('data-wrapped') === '1') continue;
+        el.setAttribute('data-wrapped', '1');
+        el.innerHTML = tokenizeEnglish(el.textContent || '');
+    }
+}
+
+/* 把一段纯英文文本里的每个单词包成 <span class="dw" data-word="..."> */
+function tokenizeEnglish(text) {
+    if (!text) return '';
+    var re = /([A-Za-z][A-Za-z''']*)/g;
+    var html = '';
+    var lastIdx = 0;
+    var match;
+    while ((match = re.exec(text)) !== null) {
+        if (match.index > lastIdx) {
+            html += esc(text.slice(lastIdx, match.index));
+        }
+        var word = match[1];
+        var display = String(word).replace(/^[''']+|[''']+$/g, '');
+        var query = display.replace(/['']/g, "'").toLowerCase();
+        html += '<span class="dw" data-word="' + esc(query) + '">' + esc(display) + '</span>';
+        lastIdx = re.lastIndex;
+    }
+    if (lastIdx < text.length) {
+        html += esc(text.slice(lastIdx));
+    }
+    return html;
+}
+
+/* 翻译页内英文单词点击:跳转到自己(走 URL 兜底查接口) */
+mainEl.addEventListener('click', function (e) {
+    var target = e.target.closest('.dw');
+    if (!target) return;
+    e.stopPropagation();
+    e.preventDefault();
+    var word = target.getAttribute('data-word');
+    if (!word) return;
+    // 用 location.href 进入历史栈,方便用户逐词返回
+    location.href = '/dict.html?word=' + encodeURIComponent(word);
+});
 
 /* === 启动 === */
 (function init() {
