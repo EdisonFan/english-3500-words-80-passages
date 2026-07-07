@@ -288,6 +288,15 @@ function renderPage(data, videoList) {
     wrapEnglishWords();
 }
 
+/* 全局函数:供按钮 inline onclick 调用,从按钮自身 data-* 读参数后跳转
+   (用 inline onclick 而非 addEventListener,避免动态创建时 listener 绑定时机问题) */
+function openVideoFromBtn(btn) {
+    var word = (btn.getAttribute('data-videoword') || '').toLowerCase().trim();
+    var list = [];
+    try { list = JSON.parse(btn.getAttribute('data-videolist') || '[]'); } catch (e) {}
+    openVideoPage(word, list);
+}
+
 /* 创建/更新"教学视频"按钮(幂等:已存在则只刷新 data-videolist) */
 function insertVideoBtn(data, videoList) {
     var row = mainEl.querySelector('.dict-word-row');
@@ -299,7 +308,7 @@ function insertVideoBtn(data, videoList) {
         return;
     }
     var videoWord = (data.prototype || data.word).toLowerCase();
-    var listJson = JSON.stringify(videoList).replace(/'/g, '&#39;');
+    var listJson = JSON.stringify(videoList);
     if (existing) {
         existing.setAttribute('data-videoword', videoWord);
         existing.setAttribute('data-videolist', listJson);
@@ -308,12 +317,9 @@ function insertVideoBtn(data, videoList) {
         btn.className = 'dict-video-btn';
         btn.setAttribute('data-videoword', videoWord);
         btn.setAttribute('data-videolist', listJson);
+        // inline onclick 永远挂在按钮上,无论按钮何时被插入都能用
+        btn.setAttribute('onclick', 'openVideoFromBtn(this)');
         btn.innerHTML = '<span class="dv-icon">▶</span> 教学视频';
-        btn.addEventListener('click', function () {
-            var list = [];
-            try { list = JSON.parse(btn.getAttribute('data-videolist') || '[]'); } catch (e) {}
-            openVideoPage(btn.getAttribute('data-videoword') || '', list);
-        });
         row.appendChild(btn);
     }
 }
