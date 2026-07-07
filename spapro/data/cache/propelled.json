@@ -1,0 +1,96 @@
+{
+  "word": "propelled",
+  "found": true,
+  "phonetic_uk": "prəˈpeld",
+  "phonetic_us": "prəˈpeld",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=propelled&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=propelled&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "推进的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "推动；驱使（propel 的过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Fury propelled her into action.",
+      "zh": "怒火驱使她行动起来。"
+    },
+    {
+      "en": "He was grabbed from behind and propelled through the door.",
+      "zh": "有人从后面抓住他，把他推过门去。"
+    },
+    {
+      "en": "Medical spending, which typically rises faster than wages and the overall economy, is propelled by two things.",
+      "zh": "医疗支出的增长通常快于工资和整体经济的增长，其背后有两个推动因素。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "推进的",
+      "words": [
+        "driving",
+        "pulsive"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "推动；驱使（propel的过去分词）",
+      "words": [
+        "constrained"
+      ]
+    }
+  ],
+  "prototype": "propel",
+  "exam_type": [
+    "CET6",
+    "考研",
+    "IELTS",
+    "TOEFL",
+    "GRE",
+    "SAT"
+  ],
+  "phrs": [],
+  "individual": {
+    "level": "六级",
+    "mnemonic": "pro（向前，前面）+ pel（推进）→ 向前推动 → 推进，驱使，激励",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 0,
+          "type": "写作"
+        },
+        {
+          "time": 1,
+          "type": "听力理解"
+        },
+        {
+          "time": 0,
+          "type": "阅读理解"
+        }
+      ],
+      "recommendationRate": 2,
+      "frequency": 1
+    },
+    "pastExamSents": [
+      {
+        "en": "He also used ski poles in an unorthodox way—to propel himself as he skied.",
+        "zh": "他还以一种非正统的方式使用滑雪杖，就是在滑雪时用它推动自己。",
+        "source": "2019年6月·第1套·听力理解"
+      },
+      {
+        "en": "Medical spending, which typically rises faster than wages and the overall economy, is propelled by two things.",
+        "zh": "医疗支出的增长通常快于工资和整体经济的增长，其背后有两个推动因素。",
+        "source": "2016年6月·第2套·阅读理解"
+      }
+    ],
+    "idiomatic": []
+  }
+}
