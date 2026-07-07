@@ -78,6 +78,12 @@ const server = http.createServer(async (req, res) => {
   serveStatic(req, res);
 });
 
+const [major] = process.versions.node.split('.').map(Number);
+if (major < 18) {
+  console.error(`错误: 需要 Node.js >= 18，当前版本为 ${process.version}`);
+  process.exit(1);
+}
+
 const cacheCount = fs.readdirSync(CACHE_DIR).filter(n => n.endsWith('.json')).length;
 
 server.listen(PORT, '0.0.0.0', () => {

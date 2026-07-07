@@ -3,7 +3,7 @@
  */
 const path = require('path');
 
-const PORT = 8000;
+const PORT = 8001;
 const DIRECTORY = __dirname + path.sep + '..';
 const CACHE_DIR = path.join(DIRECTORY, 'data', 'cache');
 // const LOG_DIR = path.join(DIRECTORY, 'logs');  // 日志功能已禁用

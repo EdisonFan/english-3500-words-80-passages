@@ -1,0 +1,239 @@
+{
+  "word": "result",
+  "found": true,
+  "phonetic_uk": "rɪˈzʌlt",
+  "phonetic_us": "rɪˈzʌlt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=result&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=result&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "结果，后果；（比赛或选举的）结果；（通过调查、研究、计算而获得的）结果；<英> 考试成绩；成效，成果（results）；经营业绩（results）；<英，非正式>（体育比赛中）胜局，获胜"
+    },
+    {
+      "pos": "v.",
+      "meaning": "发生，产生；导致，造成（注明的结局或结果）"
+    },
+    {
+      "pos": "int.",
+      "meaning": "<非正式> 成功了！（Result!）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "results"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "results"
+    },
+    {
+      "name": "现在分词",
+      "value": "resulting"
+    },
+    {
+      "name": "过去式",
+      "value": "resulted"
+    },
+    {
+      "name": "过去分词",
+      "value": "resulted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They were elated at the result.",
+      "zh": "他们对这一结果感到欢欣鼓舞。"
+    },
+    {
+      "en": "She was delighted at the result.",
+      "zh": "对这个结果她感到高兴。"
+    },
+    {
+      "en": "Are you pleased with the result?",
+      "zh": "你对结果满意吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "结果；成绩；答案；比赛结果",
+      "words": [
+        "outcome",
+        "product",
+        "event",
+        "consequence",
+        "grade"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "结果；导致；产生",
+      "words": [
+        "set",
+        "account",
+        "breed"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研",
+    "商务英语"
+  ],
+  "phrs": [
+    {
+      "phrase": "result of",
+      "translations": [
+        "是…结果；由于…结果"
+      ]
+    },
+    {
+      "phrase": "as a result",
+      "translations": [
+        "结果"
+      ]
+    },
+    {
+      "phrase": "as a result of",
+      "translations": [
+        "adv. 因此，由于；作为…的结果"
+      ]
+    },
+    {
+      "phrase": "result in",
+      "translations": [
+        "导致，结果是"
+      ]
+    },
+    {
+      "phrase": "experimental result",
+      "translations": [
+        "实验结果"
+      ]
+    },
+    {
+      "phrase": "test result",
+      "translations": [
+        "试验结果"
+      ]
+    },
+    {
+      "phrase": "result from",
+      "translations": [
+        "起因于；由……造成"
+      ]
+    },
+    {
+      "phrase": "final result",
+      "translations": [
+        "最终结果；决赛成绩"
+      ]
+    },
+    {
+      "phrase": "with the result that",
+      "translations": [
+        "因此；从而；其结果是"
+      ]
+    },
+    {
+      "phrase": "end result",
+      "translations": [
+        "最终结果；归宿"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 257,
+          "type": "阅读"
+        },
+        {
+          "time": 24,
+          "type": "短文填空"
+        },
+        {
+          "time": 14,
+          "type": "听力"
+        },
+        {
+          "time": 2,
+          "type": "翻译"
+        },
+        {
+          "time": 1,
+          "type": "情景对话"
+        },
+        {
+          "time": 4,
+          "type": "写作"
+        },
+        {
+          "time": 44,
+          "type": "完形填空"
+        },
+        {
+          "time": 25,
+          "type": "单项选择"
+        },
+        {
+          "time": 2,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 4,
+      "frequency": 373
+    },
+    "pastExamSents": [
+      {
+        "en": "He showed them and as a result all the students laughed.",
+        "zh": "他演示给他们看，结果所有的学生都笑了。",
+        "source": "2021·辽宁-朝阳·完形填空"
+      },
+      {
+        "en": "As a result of his research, the Chinese people are no longer worried about getting hungry.",
+        "zh": "他的研究成果使中国人不用再担心挨饿了。",
+        "source": "2021·四川-泸州·短文填空"
+      },
+      {
+        "en": "The result shows that there are two main reasons about this problem.",
+        "zh": "结果表明，造成这一问题的原因主要有两个。",
+        "source": "2021·湖南-岳阳·短文填空"
+      },
+      {
+        "en": "Others think that gene editing is still in its experimental periods and could result in terrible changes.",
+        "zh": "其他人认为基因编辑仍处于实验阶段，可能会导致可怕的变化。",
+        "source": "2021·内蒙古-呼和浩特·阅读"
+      },
+      {
+        "en": "The old expert got a result that COVID-19 could be spread between humans.",
+        "zh": "这位老专家得出结论，新冠病毒可以在人与人之间传播。",
+        "source": "2021·广西-玉林·阅读"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "as a result",
+        "zh": "结果"
+      },
+      {
+        "en": "result in",
+        "zh": "造成，导致"
+      },
+      {
+        "en": "exam results",
+        "zh": "考试成绩"
+      }
+    ]
+  }
+}

@@ -1,57 +1,42 @@
 {
-  "word": "turning",
+  "word": "turned",
   "found": true,
-  "phonetic_uk": "ˈtɜːnɪŋ",
-  "phonetic_us": "ˈtɜːrnɪŋ",
-  "audio_uk": "https://dict.youdao.com/dictvoice?audio=turning&type=1",
-  "audio_us": "https://dict.youdao.com/dictvoice?audio=turning&type=2",
+  "phonetic_uk": "tɜːnd",
+  "phonetic_us": "tɜːrnd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=turned&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=turned&type=2",
   "defs": [
     {
-      "pos": "n.",
-      "meaning": "转弯处，岔路口；转向，旋转；车削，车工工艺；车削下脚，削屑（turnings）"
+      "pos": "adj.",
+      "meaning": "被转动的；变质的；车削的"
     },
     {
       "pos": "v.",
-      "meaning": "使旋转，使转动；转身，扭转（身体部位）；翻动，翻转（turn 的现在分词）"
+      "meaning": "使变成（turn 的过去式）；转动"
     }
   ],
-  "forms": [
-    {
-      "name": "复数",
-      "value": "turnings"
-    }
-  ],
+  "forms": [],
   "examples": [
     {
-      "en": "He sighed, turning away and surveying the sea.",
-      "zh": "他叹了口气，转过身去，眺望着大海。"
+      "en": "Her thoughts turned inwards.",
+      "zh": "她的思想转向了内省。"
     },
     {
-      "en": "He sat turning the pages idly.",
-      "zh": "他坐在那里无所事事地翻着书。"
+      "en": "He turned back somersaults.",
+      "zh": "他做了几个后空翻。"
     },
     {
-      "en": "Not turning up was just a cop-out.",
-      "zh": "不露面只不过是在逃避而已。"
+      "en": "Who turned the heating off?",
+      "zh": "谁把暖气关掉了？"
     }
   ],
   "synonyms": [
     {
-      "pos": "n.",
-      "meaning": "转向；旋转；回转；转弯处",
+      "pos": "adj.",
+      "meaning": "被转动的；变质的；车削的",
       "words": [
-        "revolution",
-        "rotation",
-        "rolling"
-      ]
-    },
-    {
-      "pos": "v.",
-      "meaning": "旋转（turn的ing形式）",
-      "words": [
-        "rotating",
-        "swimming",
-        "spinning"
+        "metamorphic",
+        "degenerative"
       ]
     }
   ],
@@ -66,63 +51,27 @@
   ],
   "phrs": [
     {
-      "phrase": "turning point",
+      "phrase": "turned out",
       "translations": [
-        "转折点"
+        "打扮好的；穿戴好的；结果证明（turn out的过去式）"
       ]
     },
     {
-      "phrase": "turning tool",
+      "phrase": "turned up",
       "translations": [
-        "车刀"
+        "出现；找到"
       ]
     },
     {
-      "phrase": "turning machine",
+      "phrase": "be turned into",
       "translations": [
-        "车床；换向台，干燥炉搅拌机"
+        "adj. 被转化为-"
       ]
     },
     {
-      "phrase": "turning radius",
+      "phrase": "turned in",
       "translations": [
-        "转弯半径，回转半径；旋转半径"
-      ]
-    },
-    {
-      "phrase": "diamond turning",
-      "translations": [
-        "金刚石车削；菱形光阑"
-      ]
-    },
-    {
-      "phrase": "turning center",
-      "translations": [
-        "车削中心；转向中心"
-      ]
-    },
-    {
-      "phrase": "rough turning",
-      "translations": [
-        "粗车削；粗镟"
-      ]
-    },
-    {
-      "phrase": "turning circle",
-      "translations": [
-        "回转圆"
-      ]
-    },
-    {
-      "phrase": "turning movement",
-      "translations": [
-        "迂回；转向交通量调查；旋转运动；回旋运动"
-      ]
-    },
-    {
-      "phrase": "finish turning",
-      "translations": [
-        "n. 精车"
+        "缩小；上床睡觉；包边"
       ]
     }
   ],

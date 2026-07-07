@@ -1,0 +1,234 @@
+{
+  "word": "experiment",
+  "found": true,
+  "phonetic_uk": "ɪkˈsperɪmənt",
+  "phonetic_us": "ɪkˈsperɪmənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=experiment&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=experiment&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "实验，试验；尝试，实践"
+    },
+    {
+      "pos": "v.",
+      "meaning": "进行实验，做试验；试，尝试"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "experiments"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "experiments"
+    },
+    {
+      "name": "现在分词",
+      "value": "experimenting"
+    },
+    {
+      "name": "过去式",
+      "value": "experimented"
+    },
+    {
+      "name": "过去分词",
+      "value": "experimented"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I decided to conduct an experiment.",
+      "zh": "我决定做一项实验。"
+    },
+    {
+      "en": "The experiment went horribly wrong.",
+      "zh": "实验弄得一塌糊涂。"
+    },
+    {
+      "en": "As an experiment, we bought Ted a watch.",
+      "zh": "作为尝试，我们给特德买了块手表。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "尝试；进行实验",
+      "words": [
+        "have a try",
+        "try one's hand"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[试验]实验，试验；尝试",
+      "words": [
+        "stroke",
+        "proof",
+        "try",
+        "go"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研",
+    "SAT",
+    "商务英语"
+  ],
+  "phrs": [
+    {
+      "phrase": "experiment on",
+      "translations": [
+        "vt. 对…进行实验；试用"
+      ]
+    },
+    {
+      "phrase": "simulation experiment",
+      "translations": [
+        "仿真实验；模拟实验"
+      ]
+    },
+    {
+      "phrase": "orthogonal experiment",
+      "translations": [
+        "正交试验"
+      ]
+    },
+    {
+      "phrase": "experiment with",
+      "translations": [
+        "进行实验；试用"
+      ]
+    },
+    {
+      "phrase": "field experiment",
+      "translations": [
+        "现场试验；野外试验"
+      ]
+    },
+    {
+      "phrase": "model experiment",
+      "translations": [
+        "模型试验，船模试验；模拟实验"
+      ]
+    },
+    {
+      "phrase": "experiment design",
+      "translations": [
+        "试验设计"
+      ]
+    },
+    {
+      "phrase": "laboratory experiment",
+      "translations": [
+        "室内试验；实验室实验"
+      ]
+    },
+    {
+      "phrase": "animal experiment",
+      "translations": [
+        "动物实验；动物试验"
+      ]
+    },
+    {
+      "phrase": "numerical experiment",
+      "translations": [
+        "数值实验"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "ex（向外）+ peri（试验，尝试）+ ment（表示名词）→ 不断尝试 → 实验",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 134,
+          "type": "阅读"
+        },
+        {
+          "time": 6,
+          "type": "短文填空"
+        },
+        {
+          "time": 2,
+          "type": "听力"
+        },
+        {
+          "time": 1,
+          "type": "翻译"
+        },
+        {
+          "time": 2,
+          "type": "情景对话"
+        },
+        {
+          "time": 1,
+          "type": "写作"
+        },
+        {
+          "time": 20,
+          "type": "完形填空"
+        },
+        {
+          "time": 3,
+          "type": "单项选择"
+        },
+        {
+          "time": 0,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 3,
+      "frequency": 169
+    },
+    "pastExamSents": [
+      {
+        "en": "An experiment in Switzerland found that some robots had learnt how to lie to each other.",
+        "zh": "瑞士的一项实验发现，一些机器人已经学会了如何对彼此说谎。",
+        "source": "2021·福建·阅读"
+      },
+      {
+        "en": "Singapore's government is funding the experiment of the robotic dog, which will last for two weeks at the park during off-peak hours",
+        "zh": "新加坡政府出资支持机器狗的实验。该实验将在非高峰时段的公园每天进行两小时，为期两周。",
+        "source": "2020·江苏-扬州·阅读"
+      },
+      {
+        "en": "In the experiment, each child was left alone in a room for fifteen minutes with a marshmallow on a table in front of them.",
+        "zh": "在这个实验中，每个孩子都独自待在一个房间内15分钟，在他们面前的桌子上放有棉花软糖。",
+        "source": "2020·浙江-台州，山东-德州·阅读，短文填空"
+      },
+      {
+        "en": "What can we know from the writer's experiment report?",
+        "zh": "从作者的实验报告中我们能知道什么？",
+        "source": "2020·贵州-安顺·阅读"
+      },
+      {
+        "en": "The experiment is still in progress.",
+        "zh": "实验仍在进行中。",
+        "source": "2020·江苏-扬州·阅读"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "do / carry out an experiment",
+        "zh": "做实验"
+      },
+      {
+        "en": "an experiment on sth.",
+        "zh": "关于……的实验"
+      },
+      {
+        "en": "a scientific experiment",
+        "zh": "科学实验"
+      }
+    ]
+  }
+}

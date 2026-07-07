@@ -1,0 +1,188 @@
+{
+  "word": "talked",
+  "found": true,
+  "phonetic_uk": "tɔːkt",
+  "phonetic_us": "tɔːkt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=talked&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=talked&type=2",
+  "defs": [
+    {
+      "pos": "",
+      "meaning": "交谈"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We talked plenty about our kids.",
+      "zh": "我们谈了很多关于孩子的事。"
+    },
+    {
+      "en": "I talked to him yesterday.",
+      "zh": "我昨天和他谈过。"
+    },
+    {
+      "en": "They talked for a bit.",
+      "zh": "他们谈了会儿。"
+    }
+  ],
+  "synonyms": [],
+  "prototype": "talk",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研"
+  ],
+  "phrs": [
+    {
+      "phrase": "talk about",
+      "translations": [
+        "谈论某事"
+      ]
+    },
+    {
+      "phrase": "talk to oneself",
+      "translations": [
+        "自言自语"
+      ]
+    },
+    {
+      "phrase": "talk with",
+      "translations": [
+        "与…交谈"
+      ]
+    },
+    {
+      "phrase": "talk of",
+      "translations": [
+        "谈论，议论；谈到，说到"
+      ]
+    },
+    {
+      "phrase": "talk on",
+      "translations": [
+        "继续谈"
+      ]
+    },
+    {
+      "phrase": "talk show",
+      "translations": [
+        "脱口秀；访谈节目"
+      ]
+    },
+    {
+      "phrase": "let's talk",
+      "translations": [
+        "大学英语基础口语教程"
+      ]
+    },
+    {
+      "phrase": "talking of",
+      "translations": [
+        "谈到"
+      ]
+    },
+    {
+      "phrase": "small talk",
+      "translations": [
+        "闲聊；聊天"
+      ]
+    },
+    {
+      "phrase": "talk over",
+      "translations": [
+        "讨论；详尽地商议；说服"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 739,
+          "type": "阅读"
+        },
+        {
+          "time": 114,
+          "type": "短文填空"
+        },
+        {
+          "time": 196,
+          "type": "听力"
+        },
+        {
+          "time": 14,
+          "type": "翻译"
+        },
+        {
+          "time": 58,
+          "type": "情景对话"
+        },
+        {
+          "time": 8,
+          "type": "写作"
+        },
+        {
+          "time": 173,
+          "type": "完形填空"
+        },
+        {
+          "time": 92,
+          "type": "单项选择"
+        },
+        {
+          "time": 30,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 5,
+      "frequency": 1424
+    },
+    "pastExamSents": [
+      {
+        "en": "Last Monday evening, I had a talk with my mother.",
+        "zh": "上周一晚上，我和妈妈谈了谈。",
+        "source": "2021·四川-宜宾·完形填空"
+      },
+      {
+        "en": "Why not talk with them?",
+        "zh": "为什么不跟他们谈谈呢？",
+        "source": "2021·湖北-黄石·单项选择"
+      },
+      {
+        "en": "If you are being bullied again and again, there's one \"Most Important Thing\" you should do: Talk to an adult.",
+        "zh": "如果你一次又一次被欺负，有一件你应该做的“最重要的事情”：跟大人谈谈。",
+        "source": "2021·贵州-黔东南·阅读"
+      },
+      {
+        "en": "Some people talk in their dreams.",
+        "zh": "有些人会说梦话。",
+        "source": "2021·陕西·阅读"
+      },
+      {
+        "en": "The film 2001: A Space Odyssey showed a computer that human astronauts could talk to.",
+        "zh": "电影《2001：太空漫游》展示了一台人类宇航员能与之对话的电脑。",
+        "source": "2021·湖南-郴州·阅读"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "talk with / to sb.",
+        "zh": "与某人交谈"
+      },
+      {
+        "en": "talk about sth.",
+        "zh": "谈论某事"
+      },
+      {
+        "en": "have a talk",
+        "zh": "谈话"
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "word": "healthy",
+  "found": true,
+  "phonetic_uk": "ˈhelθi",
+  "phonetic_us": "ˈhelθi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=healthy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=healthy&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "健康的，健壮的；有益身心的；明智的，合理的；运作良好的，兴旺发达的；大量的，可观的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He has a healthy appetite.",
+      "zh": "他有健康的胃口。"
+    },
+    {
+      "en": "She was delivered of a healthy boy.",
+      "zh": "她生下一个健康的男孩儿。"
+    },
+    {
+      "en": "She's fanatical about healthy eating.",
+      "zh": "她对健康饮食着了迷。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "健康的，健全的；有益于健康的",
+      "words": [
+        "robust",
+        "fit",
+        "sound",
+        "fine",
+        "well"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研",
+    "商务英语"
+  ],
+  "phrs": [
+    {
+      "phrase": "healthy life",
+      "translations": [
+        "健康人生"
+      ]
+    },
+    {
+      "phrase": "healthy food",
+      "translations": [
+        "有益健康的食物"
+      ]
+    },
+    {
+      "phrase": "keep healthy",
+      "translations": [
+        "保持健康"
+      ]
+    },
+    {
+      "phrase": "healthy lifestyle",
+      "translations": [
+        "健康的生活方式"
+      ]
+    },
+    {
+      "phrase": "stay healthy",
+      "translations": [
+        "保持健康"
+      ]
+    },
+    {
+      "phrase": "healthy eating",
+      "translations": [
+        "健康饮食；饮食与养生"
+      ]
+    },
+    {
+      "phrase": "healthy personality",
+      "translations": [
+        "健康人格；健全人格"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "health（健康）+ y（表示形容词）→ 健康的",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 248,
+          "type": "阅读"
+        },
+        {
+          "time": 17,
+          "type": "短文填空"
+        },
+        {
+          "time": 12,
+          "type": "听力"
+        },
+        {
+          "time": 5,
+          "type": "翻译"
+        },
+        {
+          "time": 6,
+          "type": "情景对话"
+        },
+        {
+          "time": 22,
+          "type": "写作"
+        },
+        {
+          "time": 35,
+          "type": "完形填空"
+        },
+        {
+          "time": 27,
+          "type": "单项选择"
+        },
+        {
+          "time": 13,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 4,
+      "frequency": 385
+    },
+    "pastExamSents": [
+      {
+        "en": "We have been at home, but I admire the healthcare workers who have risked their lives every day to help us stay healthy and safe.",
+        "zh": "我们一直在家里，但我钦佩医护人员，他们每天冒着生命危险帮助我们保持健康和安全。",
+        "source": "2021·湖南-永州·短文填空"
+      },
+      {
+        "en": "When my son asks me about my childhood, I tell him about how pleasant it was to fish in the rivers and how healthy people were.",
+        "zh": "当我儿子问起我的童年时，我告诉他那时在河里钓鱼是多么愉快，人们是多么健康。",
+        "source": "2021·湖北-荆州·短文填空"
+      },
+      {
+        "en": "So your body and mind will be healthy by using the colors you like. Or you'll be nervous or even get ill.",
+        "zh": "所以用你喜欢的颜色，你的身心会健康。否则你会紧张，甚至生病。",
+        "source": "2021·广西-北部湾·短文填空"
+      },
+      {
+        "en": "In the process, the tea loses nearly all of its healthy parts.",
+        "zh": "在这个过程中，茶几乎失去了所有的健康成分。",
+        "source": "2021·山东-临沂·阅读"
+      },
+      {
+        "en": "As Alan Arnette, a mountain climber from America, said \"Climbing mountains drives you to look deep inside yourself, and lets you find out whether you are healthy enough and strong enough in mind when you want to stop.\"",
+        "zh": "正如美国登山家阿兰·阿奈特所说：“爬山会让你审视自己的内心深处，当你想停下来的时候，你会发现自己的内心是否足够健康和强大。”",
+        "source": "2021·贵州-遵义·阅读"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "keep healthy",
+        "zh": "保持健康"
+      },
+      {
+        "en": "healthy lifestyle",
+        "zh": "健康的生活方式"
+      }
+    ]
+  }
+}
