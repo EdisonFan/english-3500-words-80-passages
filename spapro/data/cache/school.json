@@ -1,0 +1,209 @@
+{
+  "word": "school",
+  "found": true,
+  "phonetic_uk": "skuːl",
+  "phonetic_us": "skuːl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=school&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=school&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（中、小）学校；全校师生；上学时间；上学期间；专科学校；大学，大学期间；（大学的）系，学院；学派，流派；（鱼、鲸、海豚等的）群；<英>（牛津大学的）期末考试大厅；（牛津大学的）期末考试；<英>一伙赌徒；（轮番到酒吧请客喝酒的）酒友"
+    },
+    {
+      "pos": "v.",
+      "meaning": "教育，培养（儿童）；训练，教育；（尤指为竞赛）驯马；（鱼，海兽）成群；强迫自己（做难事）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "<南非>（科萨人）受过西化教育的；（名字）源自西方的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Which school do they attend?",
+      "zh": "他们上的是哪一所学校？"
+    },
+    {
+      "en": "Conditions vary from school to school.",
+      "zh": "各所学校的情况不同。"
+    },
+    {
+      "en": "He's in law school.",
+      "zh": "他在读法学院。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "学校；学院；学派；鱼群",
+      "words": [
+        "academy",
+        "college"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "教育",
+      "words": [
+        "breed",
+        "to educate"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研"
+  ],
+  "phrs": [
+    {
+      "phrase": "in school",
+      "translations": [
+        "在求学"
+      ]
+    },
+    {
+      "phrase": "at school",
+      "translations": [
+        "在学校；在上课；在求学"
+      ]
+    },
+    {
+      "phrase": "high school",
+      "translations": [
+        "中学"
+      ]
+    },
+    {
+      "phrase": "go to school",
+      "translations": [
+        "v. 上学"
+      ]
+    },
+    {
+      "phrase": "middle school",
+      "translations": [
+        "n. 中学"
+      ]
+    },
+    {
+      "phrase": "after school",
+      "translations": [
+        "放学后"
+      ]
+    },
+    {
+      "phrase": "primary school",
+      "translations": [
+        "小学"
+      ]
+    },
+    {
+      "phrase": "in the school",
+      "translations": [
+        "在学校"
+      ]
+    },
+    {
+      "phrase": "secondary school",
+      "translations": [
+        "中等学校"
+      ]
+    },
+    {
+      "phrase": "elementary school",
+      "translations": [
+        "小学"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 1800,
+          "type": "阅读"
+        },
+        {
+          "time": 258,
+          "type": "短文填空"
+        },
+        {
+          "time": 386,
+          "type": "听力"
+        },
+        {
+          "time": 33,
+          "type": "翻译"
+        },
+        {
+          "time": 130,
+          "type": "情景对话"
+        },
+        {
+          "time": 191,
+          "type": "写作"
+        },
+        {
+          "time": 365,
+          "type": "完形填空"
+        },
+        {
+          "time": 359,
+          "type": "单项选择"
+        },
+        {
+          "time": 157,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 5,
+      "frequency": 3679
+    },
+    "pastExamSents": [
+      {
+        "en": "The list of winners will put up on the school website.",
+        "zh": "获奖名单将在学校网站上公布。",
+        "source": "2021·黑龙江-大庆·句子填空"
+      },
+      {
+        "en": "If your homework involves going online and you don't have your own computer, make sure you \"book\" some time on the family computer, or can use one in your school library.",
+        "zh": "如果你的家庭作业涉及到上网，而你没有自己的电脑，那么一定要在家庭电脑上“预定”一些时间，或者可以在学校图书馆使用一台。",
+        "source": "2021·江苏-南京·短文填空"
+      },
+      {
+        "en": "Rong Sheng from the school's safety department said, \"In the past, our school safety guards had to stand in the middle of the road after school to stop the cars.\"",
+        "zh": "该校安全部门的荣生表示：“过去，我们学校的保安在放学后不得不站在路中间阻止汽车。”",
+        "source": "2021·江苏-宿迁·短文填空"
+      },
+      {
+        "en": "At Hengyang No.1 Middle School in Hunan Province, students are told to take no more food than they need.",
+        "zh": "在湖南省衡阳第一中学，学生们被告知不要拿超过所需的食物。",
+        "source": "2021·黑龙江-绥化·阅读"
+      },
+      {
+        "en": "We have a fantastic school hall.",
+        "zh": "我们有一个很棒的学校礼堂。",
+        "source": "2021·四川-南充·阅读"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "go to school",
+        "zh": "上学"
+      },
+      {
+        "en": "after school",
+        "zh": "放学后"
+      }
+    ]
+  }
+}
