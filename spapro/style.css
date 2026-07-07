@@ -369,9 +369,9 @@ body.no-gloss .para { padding-bottom: 32px; }
 }
 .w-raw:active { transform: scale(0.97); }
 
-/* === 词典弹窗内容 === */
-.modal-dict-loading {
-    padding: 24px 0;
+/* === 词典页面内容（dict.html 用） === */
+.dict-loading {
+    padding: 32px 0;
     text-align: center;
     color: var(--ink-3);
     font-size: 14px;
@@ -389,32 +389,17 @@ body.no-gloss .para { padding-bottom: 32px; }
 }
 @keyframes spin { to { transform: rotate(360deg); } }
 
-.modal-dict-error {
-    padding: 16px 0;
-    color: var(--warm);
-    font-size: 13px;
-    font-family: var(--font-cn);
-    line-height: 1.6;
-}
-.modal-dict-empty {
+.dict-empty {
     padding: 16px 0;
     color: var(--ink-4);
-    font-size: 13px;
-    font-family: var(--font-cn);
-}
-.modal-dict-explain {
-    margin-top: 4px;
-    padding: 14px 16px;
-    background: var(--bg-card);
-    border-radius: 8px;
     font-size: 14px;
-    line-height: 1.8;
-    color: var(--ink-2);
     font-family: var(--font-cn);
+    text-align: center;
 }
-.modal-dict-source {
-    margin-top: 16px;
-    padding-top: 12px;
+
+.dict-source {
+    margin-top: 24px;
+    padding-top: 14px;
     border-top: 1px solid var(--line);
     font-size: 10px;
     color: var(--ink-4);
@@ -422,8 +407,8 @@ body.no-gloss .para { padding-bottom: 32px; }
     text-align: right;
 }
 
-/* === 词典弹窗：音标 + 发音按钮（英式/美式分区） === */
-.modal-phon-row {
+/* === 词典页面：音标 + 发音按钮（英式/美式分区） === */
+.dict-phon-row {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
@@ -472,33 +457,17 @@ body.no-gloss .para { padding-bottom: 32px; }
 }
 .audio-icon { font-size: 12px; }
 
-/* === 词典弹窗：变形 === */
-.modal-forms-group {
-    margin-top: 12px;
-    padding: 8px 12px;
+/* === 词典页面：通用区段（变形/例句/同义词/词组/考试信息） === */
+.dict-section {
+    margin-top: 16px;
+    padding: 10px 14px;
     background: var(--bg-card);
     border-radius: 8px;
-    font-size: 12.5px;
+    font-size: 13px;
     line-height: 1.7;
     font-family: var(--font-cn);
-    color: var(--ink-2);
 }
-.forms-label {
-    display: inline-block;
-    font-family: var(--font-mono);
-    font-size: 10px;
-    font-weight: 600;
-    color: var(--ink-4);
-    margin-right: 8px;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-}
-
-/* === 词典弹窗：双语例句 === */
-.modal-examples-group {
-    margin-top: 16px;
-}
-.examples-label {
+.dict-section-label {
     font-family: var(--font-mono);
     font-size: 10px;
     font-weight: 600;
@@ -507,10 +476,24 @@ body.no-gloss .para { padding-bottom: 32px; }
     text-transform: uppercase;
     letter-spacing: 0.5px;
 }
-.modal-example {
+.dict-section-sub-label {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    font-weight: 600;
+    color: var(--ink-4);
+    margin: 6px 0 4px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+.dict-section-body {
+    color: var(--ink-2);
+}
+
+/* 双语例句 */
+.dict-example {
     margin: 6px 0;
     padding: 10px 12px;
-    background: var(--bg-card);
+    background: var(--bg);
     border-left: 2px solid var(--ink-4);
     border-radius: 0 6px 6px 0;
     font-size: 12.5px;
@@ -526,26 +509,8 @@ body.no-gloss .para { padding-bottom: 32px; }
     font-family: var(--font-cn);
 }
 
-/* === 词典弹窗：同义词 === */
-.modal-syn-group {
-    margin-top: 14px;
-    padding: 10px 12px;
-    background: var(--bg-card);
-    border-radius: 8px;
-    font-size: 12.5px;
-    line-height: 1.7;
-    font-family: var(--font-cn);
-}
-.modal-syn-group .syn-label {
-    font-family: var(--font-mono);
-    font-size: 10px;
-    font-weight: 600;
-    color: var(--ink-4);
-    margin-bottom: 4px;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-}
-.syn-item {
+/* 同义词 */
+.dict-syn-item {
     display: flex;
     flex-wrap: wrap;
     gap: 6px;
@@ -562,6 +527,25 @@ body.no-gloss .para { padding-bottom: 32px; }
 }
 .syn-meaning { color: var(--ink-3); font-size: 11.5px; }
 .syn-words { color: var(--ink-2); }
+
+/* 词组搭配 */
+.dict-phr-item {
+    display: flex;
+    gap: 8px;
+    align-items: baseline;
+    margin-top: 2px;
+}
+.phr-phrase {
+    font-family: var(--font-sans);
+    font-weight: 600;
+    color: var(--ink-2);
+    white-space: nowrap;
+}
+.phr-trans {
+    color: var(--ink-3);
+    font-family: var(--font-cn);
+    font-size: 12px;
+}
 
 /* === 词表 === */
 .vocab {
@@ -616,6 +600,7 @@ body.no-gloss .para { padding-bottom: 32px; }
     border-radius: 8px;
     padding: 14px 16px 12px;
     transition: all 0.18s ease;
+    cursor: pointer;
 }
 .card:hover {
     border-color: #c0d0f0;
@@ -672,70 +657,66 @@ body.show-trans .para .cn { display: block; }
     border-radius: 3px;
 }
 
-/* === 弹窗 === */
-.modal-bg {
-    display: none;
-    position: fixed;
-    inset: 0;
-    background: rgba(10,10,10,0.4);
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px);
-    z-index: 1000;
-    justify-content: center;
-    align-items: center;
-    padding: 24px;
-}
-.modal-bg.active { display: flex; }
-@keyframes rise {
-    from { transform: translateY(16px) scale(0.98); opacity: 0; }
-    to { transform: translateY(0) scale(1); opacity: 1; }
-}
-.modal {
+/* === 词典页面：顶栏（返回箭头 + 标题） === */
+.dict-page-body {
     background: var(--bg);
-    border-radius: 16px;
-    padding: 32px;
-    max-width: 560px;
-    width: 100%;
-    /* 高度限制：内容多时弹窗不超出视口 */
-    max-height: calc(100vh - 48px);
-    display: flex;
-    flex-direction: column;
-    box-shadow: 0 24px 60px rgba(0,0,0,0.2);
-    animation: rise 0.25s cubic-bezier(0.16,1,0.3,1);
-    position: relative;
 }
-/* 内容区滚动：关闭按钮固定在顶部不动 */
-#modalContent {
-    overflow-y: auto;
-    overflow-x: hidden;
-    -webkit-overflow-scrolling: touch;
-    /* 预留关闭按钮空间 */
-    padding-right: 4px;
-}
-/* 滚动条美化 */
-#modalContent::-webkit-scrollbar { width: 6px; }
-#modalContent::-webkit-scrollbar-track { background: transparent; }
-#modalContent::-webkit-scrollbar-thumb { background: var(--line-2); border-radius: 3px; }
-#modalContent::-webkit-scrollbar-thumb:hover { background: var(--ink-4); }
-.modal-close {
-    position: absolute;
-    top: 16px; right: 16px;
-    background: var(--bg-card);
-    border: none;
-    color: var(--ink-3);
-    cursor: pointer;
-    width: 32px; height: 32px;
-    border-radius: 8px;
-    font-size: 16px;
-    line-height: 1;
+.dict-topbar {
+    position: sticky;
+    top: 0;
     display: flex;
     align-items: center;
-    justify-content: center;
-    transition: all 0.15s;
-    font-family: var(--font-sans);
+    gap: 4px;
+    padding: 10px 16px;
+    padding-top: max(10px, env(safe-area-inset-top));
+    background: rgba(255,255,255,0.92);
+    backdrop-filter: saturate(180%) blur(20px);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    border-bottom: 1px solid var(--line);
+    z-index: 100;
 }
-.modal-close:hover { background: var(--ink); color: #fff; }
-.modal-eyebrow {
+.dict-back {
+    width: 36px; height: 36px;
+    display: flex; align-items: center; justify-content: center;
+    background: transparent;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    color: var(--ink-2);
+    -webkit-tap-highlight-color: transparent;
+    transition: background 0.15s;
+    flex-shrink: 0;
+}
+.dict-back:hover { background: var(--bg-card); }
+.dict-back:active { background: var(--line); }
+.dict-back-arrow {
+    font-size: 32px;
+    line-height: 1;
+    font-weight: 300;
+    /* 用 transform 调位置,让 "‹" 在按钮中心看起来不偏 */
+    transform: translateY(-2px);
+    display: inline-block;
+}
+.dict-topbar-title {
+    font-family: var(--font-mono);
+    font-size: 14px;
+    color: var(--ink-3);
+    letter-spacing: 0.5px;
+    flex: 1;
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.dict-main {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 24px 20px 64px;
+    font-family: var(--font-cn);
+}
+
+.dict-eyebrow {
     font-family: var(--font-mono);
     font-size: 10px;
     letter-spacing: 2px;
@@ -743,31 +724,33 @@ body.show-trans .para .cn { display: block; }
     text-transform: uppercase;
     margin-bottom: 8px;
 }
-.modal-word-row {
+.dict-word-row {
     display: flex;
     align-items: center;
     justify-content: space-between;
     gap: 12px;
     margin-bottom: 6px;
+    flex-wrap: wrap;
 }
-.modal-word {
+.dict-word {
     font-family: var(--font-display);
     font-size: 36px;
     font-weight: 700;
     color: var(--ink);
     letter-spacing: -1px;
-    line-height: 1;
+    line-height: 1.1;
     margin-bottom: 0;
+    word-break: break-word;
 }
-.modal-base-form {
+.dict-base-form {
     font-size: 12px;
-    color: var(--muted);
-    margin-bottom: 8px;
+    color: var(--ink-4);
+    margin: 4px 0 12px;
     font-style: italic;
 }
 
-/* === 词典弹窗：原型词 === */
-.modal-prototype {
+/* === 词典页面：原型词 === */
+.dict-prototype {
     display: flex;
     align-items: center;
     gap: 8px;
@@ -789,8 +772,8 @@ body.show-trans .para .cn { display: block; }
     color: var(--accent-deep);
 }
 
-/* === 词典弹窗：考试类型标签 === */
-.modal-exam-type {
+/* === 词典页面：考试类型标签 === */
+.dict-exam-type {
     display: flex;
     align-items: center;
     gap: 6px;
@@ -815,69 +798,17 @@ body.show-trans .para .cn { display: block; }
     border-radius: 10px;
 }
 
-/* === 词典弹窗：词组搭配 === */
-.modal-phrs-group {
-    margin-top: 14px;
-    padding: 10px 12px;
-    background: var(--bg-card);
-    border-radius: 8px;
-    font-size: 12.5px;
-    line-height: 1.8;
-}
-.phrs-label {
-    font-family: var(--font-mono);
-    font-size: 10px;
-    font-weight: 600;
-    color: var(--ink-4);
-    margin-bottom: 4px;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-}
-.phr-item {
-    display: flex;
-    gap: 8px;
-    align-items: baseline;
-    margin-top: 2px;
-}
-.phr-phrase {
-    font-family: var(--font-sans);
-    font-weight: 600;
-    color: var(--ink-2);
-    white-space: nowrap;
-}
-.phr-trans {
-    color: var(--ink-3);
-    font-family: var(--font-cn);
-    font-size: 12px;
-}
-
-/* === 词典弹窗：考试/个人化信息 === */
-.modal-individual-group {
-    margin-top: 14px;
-    padding: 10px 12px;
-    background: var(--bg-card);
-    border-radius: 8px;
-    font-size: 12.5px;
-    line-height: 1.7;
-}
-.individual-label {
-    font-family: var(--font-mono);
-    font-size: 10px;
-    font-weight: 600;
-    color: var(--ink-4);
-    margin-bottom: 6px;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-}
-.individual-meta {
+/* === 词典页面：考试/个人化信息 === */
+.dict-ind-meta {
     color: var(--accent-deep);
     font-size: 12px;
     margin-bottom: 6px;
 }
-.individual-exam-info {
+.dict-ind-exam-info {
     display: flex;
     gap: 16px;
     margin-bottom: 6px;
+    flex-wrap: wrap;
 }
 .exam-stat {
     font-size: 11.5px;
@@ -887,7 +818,7 @@ body.show-trans .para .cn { display: block; }
     color: var(--accent-deep);
     font-size: 13px;
 }
-.individual-qtypes {
+.dict-ind-qtypes {
     display: flex;
     flex-wrap: wrap;
     gap: 4px;
@@ -901,10 +832,7 @@ body.show-trans .para .cn { display: block; }
     padding: 2px 6px;
     border-radius: 3px;
 }
-.individual-idiomatic {
-    margin-bottom: 8px;
-}
-.idiom-item {
+.dict-idiom-item {
     display: flex;
     gap: 8px;
     align-items: baseline;
@@ -921,19 +849,10 @@ body.show-trans .para .cn { display: block; }
     font-family: var(--font-cn);
     font-size: 12px;
 }
-.individual-past-sents {
+.dict-ind-past-sents {
     margin-top: 8px;
 }
-.past-sents-label {
-    font-family: var(--font-mono);
-    font-size: 10px;
-    font-weight: 600;
-    color: var(--ink-4);
-    margin-bottom: 4px;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-}
-.past-sent-item {
+.dict-past-sent-item {
     margin: 4px 0;
     padding: 8px 10px;
     background: var(--bg);
@@ -945,15 +864,17 @@ body.show-trans .para .cn { display: block; }
 .past-sent-en { color: var(--ink-2); font-family: var(--font-sans); margin-bottom: 2px; }
 .past-sent-zh { color: var(--ink-3); font-family: var(--font-cn); }
 .past-sent-src { color: var(--ink-4); font-size: 10px; font-family: var(--font-mono); margin-top: 2px; }
-.modal-defs { display: flex; flex-direction: column; gap: 10px; }
-.modal-def {
+
+/* === 词典页面：词性+释义 === */
+.dict-defs { display: flex; flex-direction: column; gap: 10px; }
+.dict-def {
     display: flex;
     gap: 10px;
     align-items: baseline;
-    font-size: 14px;
+    font-size: 14.5px;
     line-height: 1.6;
 }
-.modal-def .pos {
+.dict-def .pos {
     font-family: var(--font-mono);
     font-size: 10px;
     color: var(--accent);
@@ -967,7 +888,23 @@ body.show-trans .para .cn { display: block; }
     text-align: center;
     flex-shrink: 0;
 }
-.modal-def .meaning { color: var(--ink); font-family: var(--font-cn); }
+.dict-def .meaning { color: var(--ink); font-family: var(--font-cn); }
+
+/* === 教学视频按钮（dict 页面 + 视频层复用） === */
+.dict-video-btn {
+    display: inline-flex; align-items: center; justify-content: center;
+    gap: 5px; flex-shrink: 0;
+    padding: 8px 16px; margin: 0;
+    font-size: 14px; font-weight: 500;
+    color: #fff; background: #ff6b35;
+    border: none; border-radius: 8px;
+    cursor: pointer; -webkit-appearance: none;
+    -webkit-tap-highlight-color: transparent;
+    transition: background 0.15s;
+}
+.dict-video-btn:hover { background: #e85a28; }
+.dict-video-btn:active { background: #d04a1f; }
+.dict-video-btn .dv-icon { font-size: 12px; }
 
 /* === 页脚 === */
 footer {
@@ -990,8 +927,9 @@ footer {
     .vocab { padding: 40px 0 56px; }
     .vocab-head h2 { font-size: 28px; }
     .vocab-grid { grid-template-columns: 1fr; }
-    .modal { padding: 24px 20px; max-width: calc(100vw - 32px); max-height: calc(100vh - 32px); }
-    .modal-word { font-size: 28px; }
+    .dict-main { padding: 20px 16px 48px; }
+    .dict-word { font-size: 30px; }
+    .dict-def { font-size: 14px; }
     .home { padding: 48px 20px 80px; }
     .home-head h1 { font-size: 32px; }
     /* 单词下方注释允许换行，避免长注释撑出横向滚动条 */
@@ -1011,7 +949,7 @@ footer {
 @media print {
     @page { size: A4; margin: 15mm 14mm 14mm 14mm; }
     /* 隐藏不需要的元素 */
-    .topbar, .modal-bg, .modal-bg.active, footer, .vocab-head .legend, .nav-btn, .gloss-toggle, .trans-toggle { display: none !important; }
+    .topbar, footer, .vocab-head .legend, .nav-btn, .gloss-toggle, .trans-toggle { display: none !important; }
 
     /* 保持页面原有字体和颜色 */
     html, body { background: #fff !important; color: #000 !important; }
@@ -1063,19 +1001,6 @@ footer {
 }
 
 /* ============ 单词教学视频层(抖音式上下滑动) ============ */
-
-/* 词典弹框里的"教学视频"按钮 */
-.modal-video-btn {
-    display: inline-flex; align-items: center; justify-content: center;
-    gap: 5px; flex-shrink: 0;
-    padding: 6px 14px; margin: 0;
-    font-size: 13px; font-weight: 500;
-    color: #fff; background: #ff6b35;
-    border: none; border-radius: 8px;
-    cursor: pointer; -webkit-appearance: none;
-}
-.modal-video-btn:active { background: #e85a28; }
-.modal-video-btn .mv-icon { font-size: 12px; }
 
 /* 全屏视频层 */
 .video-stage {
@@ -1158,5 +1083,5 @@ footer {
 
 /* 移动端优化 */
 @media (max-width: 600px) {
-    .modal-video-btn { font-size: 13px; padding: 6px 14px; }
+    .dict-video-btn { font-size: 13px; padding: 7px 14px; }
 }
