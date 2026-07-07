@@ -90,13 +90,9 @@ function renderPage(data, videoList) {
 
     var html = '<div class="dict-eyebrow">Dictionary</div>';
 
-    // 视频按钮:有视频列表才显示
+    // 视频按钮完全交给 insertVideoBtn 创建(它会绑 click listener);
+    // 之前在 HTML 字符串里拼接按钮会导致 insertVideoBtn 走 existing 分支跳过绑事件。
     var videoBtnHtml = '';
-    if (data && data.word && videoList && videoList.length) {
-        var videoWord = (data.prototype || data.word).toLowerCase();
-        var listJson = JSON.stringify(videoList).replace(/'/g, '&#39;');
-        videoBtnHtml = '<button class="dict-video-btn" data-videoword="' + esc(videoWord) + '" data-videolist="' + esc(listJson) + '"><span class="dv-icon">▶</span> 教学视频</button>';
-    }
 
     if (data && data.loading) {
         html += '<div class="dict-word-row"><div class="dict-word">' + esc(data.word) + '</div>' + videoBtnHtml + '</div>';
@@ -109,7 +105,7 @@ function renderPage(data, videoList) {
         html += '<div class="dict-word-row"><div class="dict-word">' + esc(data.word || '') + '</div>' + videoBtnHtml + '</div>';
         html += '<div class="dict-empty">查询失败：' + esc(data.error) + '</div>';
         mainEl.innerHTML = html;
-        bindVideoBtn();
+        insertVideoBtn(data, videoList);
         return;
     }
 
@@ -117,7 +113,7 @@ function renderPage(data, videoList) {
         html += '<div class="dict-word-row"><div class="dict-word">' + esc((data && data.word) || '') + '</div>' + videoBtnHtml + '</div>';
         html += '<div class="dict-empty">未找到该词的释义</div>';
         mainEl.innerHTML = html;
-        bindVideoBtn();
+        insertVideoBtn(data, videoList);
         return;
     }
 
@@ -291,8 +287,7 @@ function renderPage(data, videoList) {
     wrapEnglishWords();
 }
 
-/* 全局函数:供按钮 inline onclick 调用,从按钮自身 data-* 读参数后跳转
-   (用 inline onclick 而非 addEventListener,避免动态创建时 listener 绑定时机问题) */
+/* 全局函数:供按钮 inline onclick 调用,从按钮自身 data-* 读参数后跳转 */
 function openVideoFromBtn(btn) {
     console.log('[dict] 视频按钮被点击,word=', btn && btn.getAttribute && btn.getAttribute('data-videoword'));
     var word = (btn.getAttribute('data-videoword') || '').toLowerCase().trim();
@@ -321,9 +316,9 @@ function insertVideoBtn(data, videoList) {
         btn.className = 'dict-video-btn';
         btn.setAttribute('data-videoword', videoWord);
         btn.setAttribute('data-videolist', listJson);
-        // inline onclick 永远挂在按钮上,无论按钮何时被插入都能用
-        btn.setAttribute('onclick', 'openVideoFromBtn(this)');
         btn.innerHTML = '<span class="dv-icon">▶</span> 教学视频';
+        // addEventListener 注册的 listener 不受 innerHTML 设置影响
+        btn.addEventListener('click', function () { openVideoFromBtn(this); });
         row.appendChild(btn);
     }
 }
