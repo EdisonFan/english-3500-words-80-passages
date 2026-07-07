@@ -284,19 +284,55 @@ function renderPage(data, videoList) {
     }
 
     mainEl.innerHTML = html;
-    bindVideoBtn();
+    insertVideoBtn(data, videoList);
     wrapEnglishWords();
 }
 
-function bindVideoBtn() {
-    var btn = mainEl.querySelector('.dict-video-btn');
-    if (!btn) return;
-    btn.addEventListener('click', function () {
-        var word = btn.getAttribute('data-videoword') || '';
-        var list = [];
-        try { list = JSON.parse(btn.getAttribute('data-videolist') || '[]'); } catch (e) {}
-        openVideoPage(word, list);
-    });
+/* 创建/更新"教学视频"按钮(幂等:已存在则只刷新 data-videolist) */
+function insertVideoBtn(data, videoList) {
+    var row = mainEl.querySelector('.dict-word-row');
+    if (!row || !data || !data.word) return;
+    var existing = row.querySelector('.dict-video-btn');
+    if (!videoList || !videoList.length) {
+        // 没有视频,移除旧按钮
+        if (existing) existing.remove();
+        return;
+    }
+    var videoWord = (data.prototype || data.word).toLowerCase();
+    var listJson = JSON.stringify(videoList).replace(/'/g, '&#39;');
+    if (existing) {
+        existing.setAttribute('data-videoword', videoWord);
+        existing.setAttribute('data-videolist', listJson);
+    } else {
+        var btn = document.createElement('button');
+        btn.className = 'dict-video-btn';
+        btn.setAttribute('data-videoword', videoWord);
+        btn.setAttribute('data-videolist', listJson);
+        btn.innerHTML = '<span class="dv-icon">▶</span> 教学视频';
+        btn.addEventListener('click', function () {
+            var list = [];
+            try { list = JSON.parse(btn.getAttribute('data-videolist') || '[]'); } catch (e) {}
+            openVideoPage(btn.getAttribute('data-videoword') || '', list);
+        });
+        row.appendChild(btn);
+    }
+}
+
+/* sessionStorage 路径专用:app.js 跳转时可能没传 videoList,这里补查一次
+   查到了插入按钮,查不到就算了(走 URL 路径已在 init 里查过) */
+function maybeFetchAndInsertVideo(data) {
+    if (!data || !data.word) return;
+    var row = mainEl.querySelector('.dict-word-row');
+    if (row && row.querySelector('.dict-video-btn')) return; // 已有按钮
+    var videoWord = (data.prototype || data.word).toLowerCase();
+    fetch('/api/search-video?word=' + encodeURIComponent(videoWord))
+        .then(function (r) { return r.json(); })
+        .then(function (j) {
+            if (j && j.ok && j.list && j.list.length) {
+                insertVideoBtn(data, j.list);
+            }
+        })
+        .catch(function () { /* 查不到就算了 */ });
 }
 
 /* === 翻译页内英文单词点击 === */
@@ -371,6 +407,10 @@ mainEl.addEventListener('click', function (e) {
 
     if (payload && payload.word && payload.dictData) {
         renderPage(payload.dictData, payload.videoList || []);
+        // app.js 跳转时可能没传 videoList(用户首次点这个词),补查一次
+        if (!payload.videoList || !payload.videoList.length) {
+            maybeFetchAndInsertVideo(payload.dictData);
+        }
         return;
     }
 
