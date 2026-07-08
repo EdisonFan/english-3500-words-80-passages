@@ -12,3 +12,6 @@ Thumbs.db
 
 # 反爬字体映射表（含密钥，禁止提交/部署）
 HTML-antiscrape/mapping.json
+
+# 词典查询缓存(运行时自动生成,不要提交)
+spapro/data/cache/
