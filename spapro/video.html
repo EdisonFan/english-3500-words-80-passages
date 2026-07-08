@@ -28,6 +28,30 @@
     .card-corner-btns button:active,
     .card-corner-btns a:active { background: rgba(255,255,255,0.25); }
 
+    /* 视频页专用的返回箭头:深色背景,固定左上,浮在视频上面 */
+    .video-back {
+        position: fixed;
+        top: max(10px, env(safe-area-inset-top));
+        left: 10px;
+        width: 40px; height: 40px;
+        border-radius: 50%;
+        background: rgba(0,0,0,0.5);
+        border: none;
+        color: #fff;
+        cursor: pointer;
+        display: flex; align-items: center; justify-content: center;
+        z-index: 50;
+        -webkit-tap-highlight-color: transparent;
+        transition: background 0.15s;
+    }
+    .video-back:hover { background: rgba(0,0,0,0.7); }
+    .video-back:active { background: rgba(255,255,255,0.25); }
+    .video-back-arrow {
+        font-size: 28px; line-height: 1; font-weight: 300;
+        transform: translateY(-2px);
+        display: inline-block;
+    }
+
     /* 横屏模式:旋转整个 video-card,video 撑满,隐藏其他 UI */
     .video-card.landscape {
         /* 旋转后宽高互换:card 宽度=屏高,高度=屏宽,定位到屏幕中心 */
@@ -56,10 +80,21 @@
 </style>
 </head>
 <body>
+<button class="video-back" id="videoBack" onclick="goBack()" aria-label="返回">
+    <span class="video-back-arrow">‹</span>
+</button>
 <div class="video-page">
     <div class="video-feed" id="videoFeed"></div>
 </div>
 <script>
+/* 视频页返回:有上一页则 back,否则回首页 */
+function goBack() {
+    if (history.length > 1) {
+        history.back();
+    } else {
+        location.href = '/';
+    }
+}
 /* 独立视频页:从 sessionStorage 取本页查好的视频列表,直接渲染抖音式视频流
    - 横屏:右上角按钮切换 landscape 类,旋转整个 card
    - 下载:右上角下载按钮 → /api/stream?bvid=xxx&download=1 (Content-Disposition 指定文件名) */

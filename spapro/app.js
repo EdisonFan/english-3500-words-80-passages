@@ -1,8 +1,5 @@
 /* === 高考英语 3500 词 SPA === */
 var app = document.getElementById('app');
-var modalBg = document.getElementById('modalBg');
-var modalContent = document.getElementById('modalContent');
-var modalClose = document.getElementById('modalClose');
 var TOTAL = 80;  // 当前篇目数
 
 /* === 16 个单元划分 === */
@@ -135,7 +132,7 @@ function renderPassage(id) {
 function renderPassageContent(id, data) {
     var num = String(id).padStart(2, '0');
 
-    // 缓存当前词表数据供弹窗使用
+    // 缓存当前词表数据供跳转使用
     window._currentVocab = data.vocab;
 
     // 1. 顶栏
@@ -208,6 +205,8 @@ function renderPassageContent(id, data) {
 
     // 绑定高亮词点击（事件委托）
     app.addEventListener('click', handleWordClick);
+    // 绑定词表卡片点击（事件委托）
+    app.addEventListener('click', handleCardClick);
 }
 
 /* === 高亮词渲染：把 {word} 标记转为 .wn 结构，其余普通单词也做成可点击 === */
@@ -325,12 +324,12 @@ function renderVocabCard(v) {
     var star = v.type === 'outline' ? '<span class="star">*</span>' : '';
     var ctxHtml = v.ctx ? '<span class="card-ctx">' + esc(v.ctx) + '</span>' : '';
 
-    return '<div class="card' + outlineClass + '">' +
+    return '<div class="card' + outlineClass + '" data-word="' + esc(v.word) + '">' +
         '<div class="card-top"><span class="card-word">' + esc(v.word) + star + '</span></div>' +
         ctxHtml + '</div>';
 }
 
-/* === 单词点击 → 统一弹窗（事件委托） === */
+/* === 单词点击 → 跳转独立翻译页（事件委托） === */
 function handleWordClick(e) {
     var target = e.target.closest('.w, .w-raw');
     if (!target) return;
@@ -341,7 +340,15 @@ function handleWordClick(e) {
     target.classList.add('pulsed');
     // 获取单词：.w 用 data-key，.w-raw 用 data-word
     var word = target.getAttribute('data-key') || target.getAttribute('data-word');
-    if (word) showDictModal(word);
+    if (word) openDictPage(word);
+}
+
+/* === 词表卡片点击 → 跳转独立翻译页 === */
+function handleCardClick(e) {
+    var target = e.target.closest('.card');
+    if (!target) return;
+    var word = target.getAttribute('data-word');
+    if (word) openDictPage(word);
 }
 
 /* === 词典 API 查询（非 vocab 单词） === */
@@ -368,320 +375,41 @@ function _fetchVideoList(word, callback) {
         });
 }
 
-function showDictModal(word) {
+/* === 跳转独立翻译页 ===
+   - 把 word + (如有) 已缓存的词典数据 + (如有) 已缓存的视频列表打包塞 sessionStorage
+   - dict.html 取出后立即删除,避免下次打开残留
+   - PC:新标签页打开(保留文章页可回看);手机:当前页跳转(用浏览器返回) */
+function openDictPage(word) {
     word = String(word || '').toLowerCase().trim();
     if (!word) return;
 
-    // 先查内存缓存
+    var payload = { word: word, dictData: null, videoList: [] };
+
+    // 把已缓存的词典数据带过去(命中则 dict.html 零延迟渲染,未命中由 dict.html 走 URL 兜底查)
     if (_dictCache[word]) {
-        var dictData = _dictCache[word];
-        var videoWord = (dictData.prototype || word).toLowerCase();
-        renderDictModal(dictData, _videoSearchCache[videoWord]);
-        // 视频列表没查过就异步补查,用原型词(有则用,无则用word),查完重新渲染弹窗
-        if (_videoSearchCache[videoWord] === undefined) {
-            _fetchVideoList(videoWord, function () {
-                renderDictModal(_dictCache[word], _videoSearchCache[videoWord]);
-            });
+        payload.dictData = _dictCache[word];
+        var videoWord = (_dictCache[word].prototype || word).toLowerCase();
+        var cachedVideo = _videoSearchCache[videoWord];
+        if (cachedVideo && cachedVideo.length) {
+            payload.videoList = cachedVideo;
         }
-        return;
     }
 
-    // 显示 loading(此时视频还没查,不显示按钮)
-    renderDictModal({ word: word, loading: true });
-
-    // 查词典,拿到结果后根据原型词决定用哪个词查视频
-    var dictUrl = '/api/dict?q=' + encodeURIComponent(word);
-    fetch(dictUrl)
-        .then(function (r) { return r.json(); })
-        .then(function (data) {
-            if (data.found || !data.error) _dictCache[word] = data;
-            var videoWord = (data.prototype || word).toLowerCase();
-            renderDictModal(data, _videoSearchCache[videoWord]);
-            // 词典结果回来后再查视频,用原型词优先
-            if (_videoSearchCache[videoWord] === undefined) {
-                _fetchVideoList(videoWord, function () {
-                    if (_dictCache[word]) {
-                        renderDictModal(_dictCache[word], _videoSearchCache[videoWord]);
-                    }
-                });
-            }
-        })
-        .catch(function (err) {
-            console.error('[dict] fetch failed url=', dictUrl, 'err=', err);
-            renderDictModal({ word: word, error: String(err.message || err) });
-        });
-}
-
-function renderDictModal(data, videoList) {
-    var html = '<div class="modal-eyebrow">Dictionary</div>';
-
-    // 视频按钮:只有确认获取到非空视频列表才显示
-    // videoList 为 undefined(还没查)或 [](查了但没结果/失败)都不显示
-    var videoBtnHtml = '';
-    if (data.word && videoList && videoList.length) {
-        var videoWord = (data.prototype || data.word).toLowerCase();
-        videoBtnHtml = '<button class="modal-video-btn" onclick="openVideoPage(\'' + esc(videoWord) + '\')"><span class="mv-icon">▶</span> 教学视频</button>';
-    }
-
-    if (data.loading) {
-        html += '<div class="modal-word-row"><div class="modal-word">' + esc(data.word) + '</div>' + videoBtnHtml + '</div>';
-        html += '<div class="modal-dict-loading"><span class="dict-spinner"></span>查询中…</div>';
-        modalContent.innerHTML = html;
-        modalBg.classList.add('active');
-        return;
-    }
-
-    if (data.error) {
-        html += '<div class="modal-word-row"><div class="modal-word">' + esc(data.word) + '</div>' + videoBtnHtml + '</div>';
-        html += '<div class="modal-dict-error">查询失败：' + esc(data.error) + '</div>';
-        modalContent.innerHTML = html;
-        modalBg.classList.add('active');
-        return;
-    }
-
-    if (!data.found) {
-        html += '<div class="modal-word-row"><div class="modal-word">' + esc(data.word) + '</div>' + videoBtnHtml + '</div>';
-        html += '<div class="modal-dict-empty">未找到该词的释义</div>';
-        modalContent.innerHTML = html;
-        modalBg.classList.add('active');
-        return;
-    }
-
-    // 单词
-    html += '<div class="modal-word-row"><div class="modal-word">' + esc(data.word) + '</div>' + videoBtnHtml + '</div>';
-
-    // 基础形式提示（所有格/缩写回退查询时显示）
-    if (data.base_form) {
-        html += '<div class="modal-base-form">← ' + esc(data.base_form) + ' 的所有格/缩写形式</div>';
-    }
-
-    // 音标 + 发音按钮（英式/美式分区）
-    var phonRow = '<div class="modal-phon-row">';
-    if (data.phonetic_uk || data.audio_uk) {
-        phonRow += '<div class="phon-block">';
-        if (data.phonetic_uk) phonRow += '<span class="phon-text">' + esc(data.phonetic_uk) + '</span>';
-        if (data.audio_uk) phonRow += '<button class="audio-btn" onclick="playAudio(this, \'' + esc(data.audio_uk) + '\')"><span class="audio-icon">🔊</span>英</button>';
-        phonRow += '</div>';
-    }
-    if (data.phonetic_us || data.audio_us) {
-        phonRow += '<div class="phon-block">';
-        if (data.phonetic_us) phonRow += '<span class="phon-text">' + esc(data.phonetic_us) + '</span>';
-        if (data.audio_us) phonRow += '<button class="audio-btn" onclick="playAudio(this, \'' + esc(data.audio_us) + '\')"><span class="audio-icon">🔊</span>美</button>';
-        phonRow += '</div>';
-    }
-    phonRow += '</div>';
-    if (data.phonetic_uk || data.phonetic_us || data.audio_uk || data.audio_us) {
-        html += phonRow;
-    }
-
-    // 原型词
-    if (data.prototype) {
-        html += '<div class="modal-prototype"><span class="prototype-label">原型</span><span class="prototype-value">' + esc(data.prototype) + '</span></div>';
-    }
-
-    // 考试类型
-    if (data.exam_type && data.exam_type.length) {
-        html += '<div class="modal-exam-type">';
-        html += '<span class="exam-type-label">考试</span>';
-        data.exam_type.forEach(function (t) {
-            html += '<span class="exam-type-tag">' + esc(t) + '</span>';
-        });
-        html += '</div>';
-    }
-
-    // 中文释义（词性分区）
-    if (data.defs && data.defs.length) {
-        html += '<div class="modal-defs">';
-        data.defs.forEach(function (d) {
-            html += '<div class="modal-def">';
-            if (d.pos) html += '<span class="pos">' + esc(d.pos) + '</span>';
-            if (d.meaning) html += '<span class="meaning">' + esc(d.meaning) + '</span>';
-            html += '</div>';
-        });
-        html += '</div>';
-    }
-
-    // 变形（复数/过去式等）
-    if (data.forms && data.forms.length) {
-        html += '<div class="modal-forms-group">';
-        html += '<span class="forms-label">变形</span>';
-        var formsText = data.forms.map(function (f) {
-            return esc(f.name) + ': ' + esc(f.value);
-        }).join('；');
-        html += '<span class="forms-list">' + formsText + '</span>';
-        html += '</div>';
-    }
-
-    // 双语例句
-    if (data.examples && data.examples.length) {
-        html += '<div class="modal-examples-group">';
-        html += '<div class="examples-label">双语例句</div>';
-        data.examples.forEach(function (ex, idx) {
-            html += '<div class="modal-example">';
-            html += '<div class="example-en">' + esc(ex.en) + '</div>';
-            html += '<div class="example-zh">' + esc(ex.zh) + '</div>';
-            html += '</div>';
-        });
-        html += '</div>';
-    }
-
-    // 同义词
-    if (data.synonyms && data.synonyms.length) {
-        html += '<div class="modal-syn-group">';
-        html += '<div class="syn-label">同义词</div>';
-        data.synonyms.forEach(function (syn) {
-            html += '<div class="syn-item">';
-            if (syn.pos) html += '<span class="syn-pos">' + esc(syn.pos) + '</span>';
-            if (syn.meaning) html += '<span class="syn-meaning">' + esc(syn.meaning) + '</span>';
-            html += '<span class="syn-words">' + esc(syn.words.join(', ')) + '</span>';
-            html += '</div>';
-        });
-        html += '</div>';
-    }
-
-    // 词组搭配
-    if (data.phrs && data.phrs.length) {
-        html += '<div class="modal-phrs-group">';
-        html += '<div class="phrs-label">词组搭配</div>';
-        data.phrs.forEach(function (p) {
-            html += '<div class="phr-item">';
-            html += '<span class="phr-phrase">' + esc(p.phrase) + '</span>';
-            if (p.translations && p.translations.length) {
-                html += '<span class="phr-trans">' + esc(p.translations.join('；')) + '</span>';
-            }
-            html += '</div>';
-        });
-        html += '</div>';
-    }
-
-    // 考试/个人化信息
-    if (data.individual && Object.keys(data.individual).length) {
-        var ind = data.individual;
-        html += '<div class="modal-individual-group">';
-        html += '<div class="individual-label">考试信息</div>';
-
-        // 考试级别 + 助记
-        var indMeta = [];
-        if (ind.level) indMeta.push(esc(ind.level));
-        if (ind.mnemonic) indMeta.push(esc(ind.mnemonic));
-        if (indMeta.length) {
-            html += '<div class="individual-meta">' + indMeta.join(' · ') + '</div>';
-        }
-
-        // 考频统计
-        if (ind.examInfo && (ind.examInfo.frequency || ind.examInfo.year)) {
-            html += '<div class="individual-exam-info">';
-            if (ind.examInfo.frequency) html += '<span class="exam-stat">近' + esc(String(ind.examInfo.year || '')) + '年考频 <b>' + esc(String(ind.examInfo.frequency)) + '</b></span>';
-            if (ind.examInfo.recommendationRate) html += '<span class="exam-stat">推荐指数 <b>' + esc(String(ind.examInfo.recommendationRate)) + '</b></span>';
-            html += '</div>';
-            // 题型分布
-            if (ind.examInfo.questionTypeInfo && ind.examInfo.questionTypeInfo.length) {
-                html += '<div class="individual-qtypes">';
-                ind.examInfo.questionTypeInfo.forEach(function (q) {
-                    html += '<span class="qtype-tag">' + esc(q.type) + ' ' + q.time + '</span>';
-                });
-                html += '</div>';
-            }
-        }
-
-        // 固定搭配
-        if (ind.idiomatic && ind.idiomatic.length) {
-            html += '<div class="individual-idiomatic">';
-            ind.idiomatic.forEach(function (c) {
-                html += '<div class="idiom-item">';
-                html += '<span class="idiom-en">' + esc(c.en) + '</span>';
-                html += '<span class="idiom-zh">' + esc(c.zh) + '</span>';
-                html += '</div>';
-            });
-            html += '</div>';
-        }
-
-        // 真题例句
-        if (ind.pastExamSents && ind.pastExamSents.length) {
-            html += '<div class="individual-past-sents">';
-            html += '<div class="past-sents-label">真题例句</div>';
-            ind.pastExamSents.forEach(function (s) {
-                html += '<div class="past-sent-item">';
-                html += '<div class="past-sent-en">' + esc(s.en) + '</div>';
-                html += '<div class="past-sent-zh">' + esc(s.zh) + '</div>';
-                if (s.source) html += '<div class="past-sent-src">' + esc(s.source) + '</div>';
-                html += '</div>';
-            });
-            html += '</div>';
-        }
-
-        html += '</div>';
-    }
-
-    // 数据源
-    if (data.sources && data.sources.length) {
-        var sourceLabels = { 'youdao': '有道词典' };
-        var labels = data.sources.map(function (s) { return sourceLabels[s] || s; });
-        html += '<div class="modal-dict-source">数据来源：' + esc(labels.join(' + ')) + '</div>';
-    }
-
-    modalContent.innerHTML = html;
-    modalBg.classList.add('active');
-}
-
-/* 播放发音音频 */
-function playAudio(btn, src) {
-    // 阻止冒泡，避免触发弹窗关闭
-    if (event) event.stopPropagation();
     try {
-        var audio = new Audio(src);
-        audio.play().catch(function () { });
-        // 点击动画
-        btn.classList.add('playing');
-        setTimeout(function () { btn.classList.remove('playing'); }, 600);
+        sessionStorage.setItem('dictPayload', JSON.stringify(payload));
     } catch (e) { }
-}
 
-var TAG_LABEL = {
-    plural: '复数',
-    past: '过去式',
-    past_participle: '过去分词',
-    ing: '现在分词',
-    third_person: '第三人称单数',
-    comparative: '比较级',
-    superlative: '最高级',
-    variant: '变体',
-    abbrev: '缩写',
-    alias: '别名'
-};
-
-/* === 弹窗关闭 === */
-modalClose.addEventListener('click', function () { modalBg.classList.remove('active'); });
-modalBg.addEventListener('click', function (e) {
-    if (e.target === modalBg) modalBg.classList.remove('active');
-});
-
-/* === 单词教学视频:跳转独立视频页 === */
-/* 判断是否移动设备(用于决定视频页打开方式) */
-function isMobileDevice() {
-    return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|Mobile/i.test(navigator.userAgent);
-}
-
-/* 点击"教学视频"按钮:
-   - 把本页查到的视频列表存 sessionStorage,下个页面直接取,不再重查
-   - PC(非移动端):新标签页打开视频页,保留文章页
-   - 手机:当前页跳转视频页(可回退,不用replace) */
-function openVideoPage(word) {
-    word = String(word || '').toLowerCase().trim();
-    if (!word) return;
-    // 把视频列表存 sessionStorage,video.html 取出后立即删除
-    var list = _videoSearchCache[word] || [];
-    try {
-        sessionStorage.setItem('videoList', JSON.stringify(list));
-        sessionStorage.setItem('videoWord', word);
-    } catch (e) { }
-    var url = '/video.html?word=' + encodeURIComponent(word);
-    // 保留词典弹框:PC 新标签页打开视频后,原页面弹框仍在,方便看完视频回看释义
+    var url = '/dict.html?word=' + encodeURIComponent(word);
     if (isMobileDevice()) {
         location.href = url;
     } else {
         window.open(url, '_blank');
     }
+}
+
+/* === 移动端判断（用于决定翻译页/视频页打开方式） === */
+function isMobileDevice() {
+    return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|Mobile/i.test(navigator.userAgent);
 }
 
 /* === 上下篇导航 === */

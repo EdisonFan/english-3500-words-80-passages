@@ -1,0 +1,189 @@
+{
+  "word": "salad",
+  "found": true,
+  "phonetic_uk": "ˈsæləd",
+  "phonetic_us": "ˈsæləd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=salad&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=salad&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "色拉；尤指莴苣"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Salad）人名；（阿拉伯）萨拉德"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "salads"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The salad had lost its crispness.",
+      "zh": "这色拉已经不脆了。"
+    },
+    {
+      "en": "Can I help you to some more salad?",
+      "zh": "再给你来点色拉好吗？"
+    },
+    {
+      "en": "I think I'll go for the fruit salad.",
+      "zh": "我想要水果色拉。"
+    }
+  ],
+  "synonyms": [],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研"
+  ],
+  "phrs": [
+    {
+      "phrase": "fruit salad",
+      "translations": [
+        "水果沙拉"
+      ]
+    },
+    {
+      "phrase": "salad oil",
+      "translations": [
+        "色拉油"
+      ]
+    },
+    {
+      "phrase": "salad dressing",
+      "translations": [
+        "色拉酱调料"
+      ]
+    },
+    {
+      "phrase": "green salad",
+      "translations": [
+        "蔬菜沙拉"
+      ]
+    },
+    {
+      "phrase": "chicken salad",
+      "translations": [
+        "鸡沙律；鸡沙拉"
+      ]
+    },
+    {
+      "phrase": "salad bar",
+      "translations": [
+        "沙拉吧，沙拉台"
+      ]
+    },
+    {
+      "phrase": "potato salad",
+      "translations": [
+        "马铃薯沙拉；土豆沙拉；薯仔沙律"
+      ]
+    },
+    {
+      "phrase": "mixed salad",
+      "translations": [
+        "什锦沙拉"
+      ]
+    },
+    {
+      "phrase": "salad bowl",
+      "translations": [
+        "色拉盘"
+      ]
+    },
+    {
+      "phrase": "vegetable salad",
+      "translations": [
+        "蔬菜沙拉"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 22,
+          "type": "阅读"
+        },
+        {
+          "time": 0,
+          "type": "短文填空"
+        },
+        {
+          "time": 8,
+          "type": "听力"
+        },
+        {
+          "time": 0,
+          "type": "翻译"
+        },
+        {
+          "time": 0,
+          "type": "情景对话"
+        },
+        {
+          "time": 0,
+          "type": "写作"
+        },
+        {
+          "time": 5,
+          "type": "完形填空"
+        },
+        {
+          "time": 5,
+          "type": "单项选择"
+        },
+        {
+          "time": 2,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 1,
+      "frequency": 42
+    },
+    "pastExamSents": [
+      {
+        "en": "Three hours later, only two dishes were served on the table—a salad and a pancake in a strange shape.",
+        "zh": "三个小时后，桌上只有两道菜——一份沙拉和一份形状奇特的煎饼。",
+        "source": "2021·黑龙江-哈尔滨·完形填空"
+      },
+      {
+        "en": "She hadn't had breakfast that morning because the fruit salad on the blue dish didn't look delicious at all.",
+        "zh": "那天早上她没吃早饭，因为蓝色盘子里的水果沙拉看起来一点也不好吃。",
+        "source": "2020·江苏-泰州·阅读"
+      },
+      {
+        "en": "Who is going to order the salad?",
+        "zh": "谁要点沙拉？",
+        "source": "2020·河南·听力"
+      },
+      {
+        "en": "Uncle Zhu is making a vegetable salad for dinner now.",
+        "zh": "朱叔叔正在做蔬菜沙拉当晚餐。",
+        "source": "2020·重庆-B卷·句子填空"
+      },
+      {
+        "en": "Amber ate up all her fruit salad in the morning.",
+        "zh": "安布尔早上把水果沙拉吃光了。",
+        "source": "2020·江苏-泰州·阅读"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "fruit / potato salad",
+        "zh": "水果 / 马铃薯沙拉"
+      }
+    ]
+  }
+}

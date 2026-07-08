@@ -1,0 +1,117 @@
+{
+  "word": "grocery",
+  "found": true,
+  "phonetic_uk": "ˈɡrəʊsəri",
+  "phonetic_us": "ˈɡroʊsəri",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=grocery&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=grocery&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "食品杂货店，食品杂货业；食品杂货（groceries）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "groceries"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They run a small grocery store.",
+      "zh": "他们经营一家小食品杂货店。"
+    },
+    {
+      "en": "I worked stocking shelves in a grocery shop.",
+      "zh": "我在一家杂货店工作，给货架上货。"
+    },
+    {
+      "en": "The grocery shop is offering customers 5 cents for each shopping bag re-used.",
+      "zh": "该杂货店为顾客重复使用每个购物袋给5美分。"
+    }
+  ],
+  "synonyms": [],
+  "prototype": "",
+  "exam_type": [
+    "高中",
+    "CET4",
+    "CET6",
+    "IELTS",
+    "TOEFL",
+    "商务英语"
+  ],
+  "phrs": [
+    {
+      "phrase": "grocery store",
+      "translations": [
+        "杂货店"
+      ]
+    },
+    {
+      "phrase": "grocery bag",
+      "translations": [
+        "食品杂货袋"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "高考",
+    "mnemonic": "grocer（大量的）+ y → 大量出售商品的商人 → 食品杂货店",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 0,
+          "type": "翻译"
+        },
+        {
+          "time": 2,
+          "type": "知识运用"
+        },
+        {
+          "time": 0,
+          "type": "写作"
+        },
+        {
+          "time": 1,
+          "type": "听力理解"
+        },
+        {
+          "time": 5,
+          "type": "阅读理解"
+        }
+      ],
+      "recommendationRate": 3,
+      "frequency": 8
+    },
+    "pastExamSents": [
+      {
+        "en": "You run into the grocery store to pick up one bottle of water.",
+        "zh": "你跑进杂货店去买一瓶水。",
+        "source": "2021·浙江卷·阅读理解"
+      },
+      {
+        "en": "Grocery stores try to have enough employees at checkout to get all their customers through with minimum delay.",
+        "zh": "杂货店尽可能让结账台有足够的员工，以便所有顾客结账时耽误的时间最少。",
+        "source": "2021·浙江卷·阅读理解"
+      },
+      {
+        "en": "You have to organize the activities of the children and take care of the bills and groceries.",
+        "zh": "你必须为孩子们安排活动、处理账单和购买食品杂货。",
+        "source": "2020·浙江卷·阅读理解"
+      },
+      {
+        "en": "Grocery stores of the future might stock \"food\" that lasts years on end, freeing up shelf space and reducing transportation and storage requirements.",
+        "zh": "未来的食品杂货店可能会储存能保留数年的食品，这样可以腾出货架，减少运输和储存需求。",
+        "source": "2018·天津卷"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "grocery store ",
+        "zh": " 杂货店"
+      }
+    ]
+  }
+}

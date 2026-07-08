@@ -1,0 +1,226 @@
+{
+  "word": "action",
+  "found": true,
+  "phonetic_uk": "ˈækʃ(ə)n",
+  "phonetic_us": "ˈækʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=action&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=action&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "行动；行为；战斗；诉讼；<非正式>令人激动的事；动作；情节；惊险刺激的活动（或事件）；作用；开始（电影导演开拍的指令）；赚钱的机会；性交；运转方式"
+    },
+    {
+      "pos": "v.",
+      "meaning": "处理"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "动作（片）的，动作片中的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Action）（英）埃克申（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "actions"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "actions"
+    },
+    {
+      "name": "现在分词",
+      "value": "actioning"
+    },
+    {
+      "name": "过去式",
+      "value": "actioned"
+    },
+    {
+      "name": "过去分词",
+      "value": "actioned"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Take whatever action is needed.",
+      "zh": "采取任何必要的行动。"
+    },
+    {
+      "en": "Fury propelled her into action.",
+      "zh": "怒火驱使她行动起来。"
+    },
+    {
+      "en": "The government took swift action.",
+      "zh": "政府立即采取了行动。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "行动；活动；功能；战斗；情节",
+      "words": [
+        "movement",
+        "function",
+        "doing",
+        "campaign",
+        "working"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研",
+    "商务英语"
+  ],
+  "phrs": [
+    {
+      "phrase": "take action",
+      "translations": [
+        "采取行动；提出诉讼"
+      ]
+    },
+    {
+      "phrase": "action on",
+      "translations": [
+        "对…的作用"
+      ]
+    },
+    {
+      "phrase": "in action",
+      "translations": [
+        "在活动；在运转"
+      ]
+    },
+    {
+      "phrase": "action plan",
+      "translations": [
+        "行动计划；行动方案"
+      ]
+    },
+    {
+      "phrase": "mechanism of action",
+      "translations": [
+        "作用机制；作用机理"
+      ]
+    },
+    {
+      "phrase": "course of action",
+      "translations": [
+        "做法；行动步骤"
+      ]
+    },
+    {
+      "phrase": "legal action",
+      "translations": [
+        "法律诉讼"
+      ]
+    },
+    {
+      "phrase": "action research",
+      "translations": [
+        "行动研究；行为研究；动作研究"
+      ]
+    },
+    {
+      "phrase": "civil action",
+      "translations": [
+        "n. 民事诉讼"
+      ]
+    },
+    {
+      "phrase": "pharmacological action",
+      "translations": [
+        "药理作用"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "act（做）+ ion（表示名词）→ 动作",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 180,
+          "type": "阅读"
+        },
+        {
+          "time": 22,
+          "type": "短文填空"
+        },
+        {
+          "time": 13,
+          "type": "听力"
+        },
+        {
+          "time": 1,
+          "type": "翻译"
+        },
+        {
+          "time": 2,
+          "type": "情景对话"
+        },
+        {
+          "time": 3,
+          "type": "写作"
+        },
+        {
+          "time": 40,
+          "type": "完形填空"
+        },
+        {
+          "time": 24,
+          "type": "单项选择"
+        },
+        {
+          "time": 20,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 4,
+      "frequency": 305
+    },
+    "pastExamSents": [
+      {
+        "en": "Let’s take action to protect it.",
+        "zh": "让我们行动起来保护它。",
+        "source": "2021·云南-云南省·阅读"
+      },
+      {
+        "en": "It's easy, quick, and gets you in action.",
+        "zh": "它简单迅捷，能让你行动起来。",
+        "source": "2021·福建·阅读"
+      },
+      {
+        "en": "Without being a little angry, Socrates said, \"In this class I'll teach you how to learn this action well.",
+        "zh": "苏格拉底一点也没有生气，他说：“在这节课上，我将教你们如何学好这个动作。”",
+        "source": "2021·辽宁-朝阳·完形填空"
+      },
+      {
+        "en": "Actions speak louder than words.",
+        "zh": "行动胜于空谈。",
+        "source": "2019，2021·湖北-荆门，福建，内蒙古-呼伦贝尔·阅读，句子填空"
+      },
+      {
+        "en": "When his seawater rice research was successful, he was very excited, and copied the action of ducks with \"quack, quack, quack\", while passing a pond.",
+        "zh": "当他的海水水稻研究成功时，他非常兴奋，在经过一个池塘时模仿鸭子的动作，发出“嘎、嘎、嘎”的声音。",
+        "source": "2021·贵州-毕节·完形填空"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "take action",
+        "zh": "采取行动"
+      }
+    ]
+  }
+}
