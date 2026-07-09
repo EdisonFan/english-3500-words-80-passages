@@ -29,6 +29,16 @@
       "color": "#2EA887",
       "passageCount": 10,
       "unitCount": 5
+    },
+    {
+      "id": "pep3",
+      "path": "renjiao/pep3",
+      "title": "高中英语 必修第三册",
+      "subtitle": "人教版 (2019 版)",
+      "cover": null,
+      "color": "#D9644B",
+      "passageCount": 10,
+      "unitCount": 5
     }
   ]
 }

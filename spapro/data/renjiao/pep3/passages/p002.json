@@ -1,0 +1,645 @@
+{
+  "id": 2,
+  "stats": {
+    "words": 343,
+    "core": 15
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "I experienced the Naadam Festival in China's {Inner} Mongolia {Autonomous} {Region} for the first time this year. The festival falls on the fourth day of the six month of the {lunar} calendar, usually lasting for three days. Naadam means \"games\" in {Mongolian}, and it is represented by three events: horse racing, wresting, and {archery}, which are all so exciting to watch!",
+      "cn": "今年，我第一次体验了中国内蒙古自治区的那达慕大会。该节日于每年农历六月初四开始，通常为期3天。“那达慕”在蒙古语中的意思是“游戏”，主要表现为三大赛事：赛马、摔跤和射箭，每项运动都动人心魄！"
+    },
+    {
+      "num": "02",
+      "en": "On the first day, I set off to the games early with my friend Burin. I saw a lot of people wearing {fancy} {Mongolian} robes. Some were feeding their horses, some were practising {archery}, and others were chatting or taking photographs. Burin told me that Mongolians travel every year from near and far to attend the festival, just as their ancestors had done for centuries.",
+      "cn": "（那达慕大会的）第一天，我和好友布林早早出发来到了会场。我看到很多人穿着华丽的蒙古袍。有的在喂马，有的在练习射箭，还有的在聊天或拍照。布林告诉我说，与他们数百年前的祖先一样，蒙古人每年都会从四面八方赶来参加这一节日。"
+    },
+    {
+      "num": "03",
+      "en": "After the opening {ceremony} and some amazing performances, the {wrestling} competition began. {Mongolian} {wrestling} is different from the {wrestling} in the Olympic Games. There are no rounds, and wrestlers are not separated by weight. The {wrestler} loses if any part of his body above his knee touches the ground. After singing some songs, the competitors danced onto the green field, waving their arms in the air as if they were eagles. I was quite moved by their show of strength and {grace}.",
+      "cn": "在开幕式和几项精彩的表演之后，摔跤比赛开始了。蒙古式摔跤与奥运会的摔跤比赛有所不同：比赛不分回合，摔跤手不分体重。如果摔跤手膝盖以上任何部位着地即被判输。几首歌唱毕，选手们开始在草地上翩翩起舞，他们挥动着双臂，宛如雄鹰。这刚与柔的展示深深地打动了我。"
+    },
+    {
+      "num": "04",
+      "en": "I {absolutely} enjoyed the {archery}, too, but the horse races were my favourite part. However, I was surprised to see that the riders were boys and girls! I heard it is because children are lighter and the horses can run faster and farther. At first, I was a little worried about the children's safety, but Burin said, \"Don't worry. They've been riding horses all their lives. They'll be just fine.\" That was the {moment} I started to understand why people say \"Horses are at the heart of {Mongolian} culture\".",
+      "cn": "射箭同样令我叹为观止，但赛马才是我最喜爱的部分。然而，看到赛马选手们都是男孩和女孩，我十分惊讶！听说这是因为儿童体重更轻，马儿才能跑得更快、更远。刚开始的时候，我有点担心这些孩子的安全，但布林却说：“别担心，他们是在马背上长大的，不会有事的。”我顿时明白了为什么人们说“马是蒙古文化的核心”了。"
+    },
+    {
+      "num": "05",
+      "en": "I'm finally back home now, feeling really tired, but celebrating Naadam with my friend was totally worth it. He invited me back for the winter to stay in a traditional {Mongolian} {tent} and eat hot {pot}. I can't wait!",
+      "cn": "我现在已经回到家了，感到十分疲倦，但能和我的朋友一起庆祝那达慕，再累也是值得的。他邀请我冬天时再去住传统的蒙古包，吃火锅。我已经迫不及待了！"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "lantern",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "灯笼；提灯"
+    },
+    {
+      "word": "carnival",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "狂欢节；嘉年华"
+    },
+    {
+      "word": "costume",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "（某地或某历史时期的）服装；戏装"
+    },
+    {
+      "word": "march",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vi.&n.",
+      "meaning": "行进；前进；示威游行"
+    },
+    {
+      "word": "congratulation",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "祝贺；恭喜"
+    },
+    {
+      "word": "congratulate",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "向（某人）道贺；（因某事）为自己感到自豪"
+    },
+    {
+      "word": "riddle",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "谜语；神秘事件"
+    },
+    {
+      "word": "ceremony",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "典礼；仪式"
+    },
+    {
+      "word": "samba",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "桑巴舞；桑巴舞曲"
+    },
+    {
+      "word": "make-up",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "化妆品；性格；构成方式"
+    },
+    {
+      "word": "range",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n./vi.",
+      "meaning": "n. 一系列；范围，界限 / vi. 包括；（在一定范围内）变化"
+    },
+    {
+      "word": "origin",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "起源；起因；出身"
+    },
+    {
+      "word": "religion",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "宗教；宗教信仰"
+    },
+    {
+      "word": "religious",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "宗教的；笃信宗教的"
+    },
+    {
+      "word": "figure",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n./vt.",
+      "meaning": "n. 人物；数字；身材 / vt. 认为；认定"
+    },
+    {
+      "word": "charm",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "魅力；迷人的特征；咒语"
+    },
+    {
+      "word": "joy",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "高兴；喜悦"
+    },
+    {
+      "word": "joyful",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "高兴的；快乐的"
+    },
+    {
+      "word": "gratitude",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "感激之情；感谢"
+    },
+    {
+      "word": "harvest",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n./vi.&vt.",
+      "meaning": "n. 收获季节；收获；收成 / vi.&vt. 收割（庄稼）；捕猎（动物、鱼）"
+    },
+    {
+      "word": "agricultural",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "农业（劳动/生产）的"
+    },
+    {
+      "word": "agriculture",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "农业；农艺"
+    },
+    {
+      "word": "crop",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "庄稼；作物；一季的收成"
+    },
+    {
+      "word": "gather",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vi./vt.",
+      "meaning": "vi. 聚集；集合 / vt. 聚集；搜集；收割"
+    },
+    {
+      "word": "grateful",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "感激的；表示感谢的"
+    },
+    {
+      "word": "feature",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt./n.",
+      "meaning": "vt. 以……为特色 / n. 特色；特征；特点"
+    },
+    {
+      "word": "decorate",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "装饰；装潢"
+    },
+    {
+      "word": "church",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "（基督教的）教堂；礼拜堂"
+    },
+    {
+      "word": "significant",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "有重大意义的；显著的"
+    },
+    {
+      "word": "fade",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vi.&vt.",
+      "meaning": "逐渐消失；（使）褪色；（身体）变得虚弱"
+    },
+    {
+      "word": "typical",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "典型的；有代表性的；平常的"
+    },
+    {
+      "word": "firecracker",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "鞭炮；爆竹"
+    },
+    {
+      "word": "evil",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj./n.",
+      "meaning": "adj. 邪恶的；有害的；罪恶的 / n. 邪恶；罪恶；恶行"
+    },
+    {
+      "word": "commercial",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "商业（化）的；以获利为目的的"
+    },
+    {
+      "word": "commercialize",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "使商业化；利用……牟利（BrE 亦作 commercialise）"
+    },
+    {
+      "word": "medium",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n./adj.",
+      "meaning": "n.（pl. media）媒介；手段；方法 / adj. 中等的；中号的"
+    },
+    {
+      "word": "reflect",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "显示；反映；反射"
+    },
+    {
+      "word": "belief",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "信仰；信心；信任"
+    },
+    {
+      "word": "faith",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "宗教信仰；信任；相信"
+    },
+    {
+      "word": "occasion",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "特别的事情（或仪式、庆典）；（适当的）机会"
+    },
+    {
+      "word": "atmosphere",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "气氛；氛围；（地球的）大气（层）"
+    },
+    {
+      "word": "lunar",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "阴历的；月球的；月亮的"
+    },
+    {
+      "word": "eve",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "前夕；前一天"
+    },
+    {
+      "word": "envelope",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "信封；塑料封套"
+    },
+    {
+      "word": "Christmas carol",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "圣诞颂歌"
+    },
+    {
+      "word": "merry",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "愉快的；高兴的"
+    },
+    {
+      "word": "pumpkin",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "南瓜"
+    },
+    {
+      "word": "pudding",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "布丁；（餐末的）甜食"
+    },
+    {
+      "word": "mashed potatoes",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "土豆泥"
+    },
+    {
+      "word": "roast",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj./vi.&vt.",
+      "meaning": "adj. 烤的；焙的 / vi.&vt. 烘烤；焙"
+    },
+    {
+      "word": "turkey",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "火鸡；火鸡肉"
+    },
+    {
+      "word": "roast turkey",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "烤火鸡肉"
+    },
+    {
+      "word": "pleased",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "高兴的；满意的"
+    },
+    {
+      "word": "firework",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "烟火；烟花；[pl.] 烟花表演"
+    },
+    {
+      "word": "frank",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "坦率的；直率的"
+    },
+    {
+      "word": "inner",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "内部的；里面的；内心的"
+    },
+    {
+      "word": "autonomous",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "自治的；有自治权的"
+    },
+    {
+      "word": "region",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "地区；区域；地带"
+    },
+    {
+      "word": "represent",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "象征；代表；相当于"
+    },
+    {
+      "word": "wrestling",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "摔跤运动"
+    },
+    {
+      "word": "wrestle",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vi.&vt.",
+      "meaning": "摔跤；奋力对付"
+    },
+    {
+      "word": "wrestler",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "摔跤运动员"
+    },
+    {
+      "word": "archery",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "射箭术；射箭运动"
+    },
+    {
+      "word": "fancy",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj./vt.",
+      "meaning": "adj. 花哨的；精致的；昂贵的 / vt. 想要；倾慕；自认为是"
+    },
+    {
+      "word": "robe",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "袍服；礼袍"
+    },
+    {
+      "word": "eagle",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "雕"
+    },
+    {
+      "word": "grace",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "优美；优雅；高雅"
+    },
+    {
+      "word": "absolutely",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "绝对地；完全地"
+    },
+    {
+      "word": "moment",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "片刻；瞬间"
+    },
+    {
+      "word": "tent",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "帐篷"
+    },
+    {
+      "word": "pot",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "罐；壶；锅"
+    },
+    {
+      "word": "brief",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "简洁的；简单的；短暂的"
+    },
+    {
+      "word": "branch",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "树枝；分支；支流"
+    },
+    {
+      "word": "wedding",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "婚礼；结婚庆典"
+    },
+    {
+      "word": "clap",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt./n.",
+      "meaning": "vt. 鼓掌；拍手；击掌 / n. 鼓掌；拍手；掌声"
+    },
+    {
+      "word": "respect",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.&vt.",
+      "meaning": "尊敬；尊重"
+    },
+    {
+      "word": "horrible",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "令人震惊的；恐怖的；极坏的"
+    },
+    {
+      "word": "Coming-of-Age Day",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "成人节"
+    },
+    {
+      "word": "Rio",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "（全称 Rio de Janeiro）里约热内卢（巴西城市）"
+    },
+    {
+      "word": "Carla",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "卡拉"
+    },
+    {
+      "word": "Halloween",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "万圣节前夕"
+    },
+    {
+      "word": "Thanksgiving",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "感恩节"
+    },
+    {
+      "word": "La Tomatina",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "番茄大战"
+    },
+    {
+      "word": "Bunol",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "布尼奥尔（西班牙小镇）"
+    },
+    {
+      "word": "the Naadam Festival",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "“那达慕”大会"
+    },
+    {
+      "word": "Inner Mongolia Autonomous Region",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "内蒙古自治区"
+    },
+    {
+      "word": "Mongolian",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj./n.",
+      "meaning": "adj. 蒙古人的；蒙古的；蒙古语的 / n. 蒙古语；蒙古人"
+    }
+  ]
+}

@@ -1,0 +1,554 @@
+{
+  "id": 1,
+  "stats": {
+    "words": 473,
+    "core": 17
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "\"Are we alone? What's out there?\" Looking up at the stars, people have always wanted to learn more about space, and scientists work hard to find answers. They make vehicles to carry brave people into space to find out the secrets of the {universe}. They also really wish to discover other planets that are suitable enough to support life.",
+      "cn": "\"我们是孤独的吗？那里有什么？\"仰望星空，人们一直想更多地了解太空，而科学家们也在努力寻找答案。他们制造交通工具，把勇敢的人送入太空，去探寻宇宙的奥秘。他们也真心希望发现其他足以维系生命的行星。"
+    },
+    {
+      "num": "02",
+      "en": "Before the mid-20th century, most people felt travelling into space was an impossible dream. However, some scientists were {determined} to help humans realize their dream to explore space. After many experiments, they succeeded in making rockets that could escape Earth's {gravity}. On 4 October 1957, the Sputnik 1 {satellite} was launched by the USSR and successfully orbited around Earth. Afterwards, the USSR focused on sending people into space, and on 12 April 1961, Yuri Gagarin became the first person in the world to go into space. Over eight years later, on 20 July 1969, American {astronaut} Neil Armstrong stepped onto the moon, famously saying, \"That's one small step for (a) man, one giant leap for {mankind}.\" Following this, many more goals were achieved. For example, America's NASA space {agency} launched Voyager 1 on 5 September 1977 to study deep space, and it still transmits {data} today.",
+      "cn": "20世纪中叶之前，大多数人觉得进入太空是一个不可能实现的梦想。然而，一些科学家下定决心要帮助人类实现探索太空的梦想。经过多次实验，他们成功制造出能够摆脱地球引力的火箭。1957年10月4日，苏联发射了斯普特尼克1号人造卫星，并成功环绕地球运行。此后，苏联致力于将人类送入太空；1961年4月12日，尤里·加加林成为世界上进入太空的第一人。八年多之后，即1969年7月20日，美国宇航员尼尔·阿姆斯特朗踏上月球，说出了那句名言：\"这是一个人的一小步，却是人类的一大步。\"此后，更多目标得以实现。例如，美国航空航天局（NASA）于1977年9月5日发射了\"旅行者1号\"以研究深空，至今它仍在传回数据。"
+    },
+    {
+      "num": "03",
+      "en": "Although scientists try to make sure nothing goes wrong, accidents can still happen. All the astronauts on the USSR's Soyuz 11 and America's Challenger died during their missions. These disasters made everyone sad and {disappointed}, but the {desire} to explore the {universe} never died. This is because people believe in the importance of carrying on space exploration despite the huge risks. An example of this {ongoing} work is the International Space Station. It orbits Earth and has astronauts from different countries on board providing a continuous human presence in space.",
+      "cn": "尽管科学家努力确保万无一失，事故仍有可能发生。苏联\"联盟11号\"和美国\"挑战者号\"上的所有宇航员都在执行任务期间遇难。这些灾难让所有人感到悲伤和失望，但探索宇宙的渴望从未消失。这是因为人们相信，尽管面临巨大的风险，坚持太空探索至关重要。国际空间站就是这种持续开展的工作的一个例子。它环绕地球运行，并有来自不同国家的宇航员在站上，使人类在太空中保持持续的存在。"
+    },
+    {
+      "num": "04",
+      "en": "China's space programme started later than those of Russia and the US, but it has made great progress in a short time. China became the third country in the world to {independently} send humans into space in 2003, when Yang Liwei successfully orbited Earth in the Shenzhou 5 {spacecraft}. Then Shenzhou 6 and 7 completed a second manned {orbit} and the first Chinese {spacewalk}, followed by the {vehicle} {Jade} Rabbit being sent to the moon to study its surface. After that, China launched the Tiangong 2 space lab into space and Tianzhou 1 docked with it. This signalled one step further in China's plan to establish a space station in the future. More recently, China has sent Chang'e 4 to explore the surface of the far side of the moon to make measurements and observations.",
+      "cn": "中国的太空计划起步晚于俄罗斯和美国，但在短时间内取得了巨大进步。2003年，中国成为世界上第三个独立将人类送入太空的国家——当时杨利伟乘坐神舟五号飞船成功环绕地球飞行。随后，神舟六号和七号完成了第二次载人绕地飞行以及中国人的首次太空行走，紧接着月球车\"玉兔\"被送往月球以研究其表面。之后，中国将天宫二号空间实验室送入太空，并与天舟一号实现对接。这标志着中国未来建立空间站的计划又向前迈进了一步。最近，中国已发射嫦娥四号，去探索月球背面的表面，进行测量和观测。"
+    },
+    {
+      "num": "05",
+      "en": "The future of space exploration remains bright. Europe, the US, and China all have plans to further study and explore planets like Mars and Jupiter. Despite the difficulties, scientists hope future discoveries will not only enable us to understand how the {universe} began, but also help us survive well into the future.",
+      "cn": "太空探索的未来依然光明。欧洲、美国和中国都计划进一步研究和探索火星、木星等行星。尽管困难重重，科学家们希望未来的发现不仅能让我们了解宇宙是如何起源的，也能帮助我们更好地走向未来。"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "astronaut",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "宇航员；太空人"
+    },
+    {
+      "word": "procedure",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "程序；步骤；手续"
+    },
+    {
+      "word": "mental",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "精神的；思想的"
+    },
+    {
+      "word": "centimetre",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "厘米"
+    },
+    {
+      "word": "intelligent",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "有智慧的；聪明的；有智力的"
+    },
+    {
+      "word": "rocket",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "火箭；火箭弹"
+    },
+    {
+      "word": "gravity",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "重力；引力"
+    },
+    {
+      "word": "frontier",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "边境；国界；边远地区"
+    },
+    {
+      "word": "vehicle",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "交通工具；车辆"
+    },
+    {
+      "word": "universe",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "宇宙；天地万物"
+    },
+    {
+      "word": "determined",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "有决心的；意志坚定的"
+    },
+    {
+      "word": "determine",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "查明；确定；决定"
+    },
+    {
+      "word": "satellite",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "人造卫星；卫星"
+    },
+    {
+      "word": "launch",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.&n.",
+      "meaning": "发射；发起；上市"
+    },
+    {
+      "word": "orbit",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "(环绕地球、太阳等运行的)轨道；势力范围"
+    },
+    {
+      "word": "mankind",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "人类"
+    },
+    {
+      "word": "agency",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "(政府的)专门机构；服务机构；代理处"
+    },
+    {
+      "word": "data",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "[pl.] 资料；数据"
+    },
+    {
+      "word": "disappointed",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "失望的；沮丧的"
+    },
+    {
+      "word": "desire",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "渴望；欲望"
+    },
+    {
+      "word": "carry on",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "继续干；坚持干"
+    },
+    {
+      "word": "ongoing",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "持续存在的；继续进行的"
+    },
+    {
+      "word": "on board",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "在宇宙飞船上；在船上；在飞机上"
+    },
+    {
+      "word": "independently",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "独立地；自立地"
+    },
+    {
+      "word": "independent",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "独立的；自立的"
+    },
+    {
+      "word": "spacecraft",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "航天器；宇宙飞船"
+    },
+    {
+      "word": "spacewalk",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "太空行走"
+    },
+    {
+      "word": "jade",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "玉；翡翠；玉器"
+    },
+    {
+      "word": "dock",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vi.&vt.",
+      "meaning": "(两船)停靠；(使)……靠拢"
+    },
+    {
+      "word": "signal",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.&vi.",
+      "meaning": "标志着；标明；发信号"
+    },
+    {
+      "word": "in the hope of doing sth.",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "抱着……的希望"
+    },
+    {
+      "word": "so as to (do sth.)",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "为了；以便"
+    },
+    {
+      "word": "recycle",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "回收利用；再利用"
+    },
+    {
+      "word": "muscle",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "肌肉；实力；影响力"
+    },
+    {
+      "word": "lack",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "缺乏；短缺"
+    },
+    {
+      "word": "float",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vi.",
+      "meaning": "浮动；漂浮"
+    },
+    {
+      "word": "otherwise",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "否则；要不然"
+    },
+    {
+      "word": "beyond",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "prep.",
+      "meaning": "在更远处；超出"
+    },
+    {
+      "word": "solar",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "太阳的；太阳能的"
+    },
+    {
+      "word": "solar system",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "太阳系"
+    },
+    {
+      "word": "current",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "当前的；现在的"
+    },
+    {
+      "word": "figure out",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "弄懂；弄清楚；弄明白"
+    },
+    {
+      "word": "sufficient",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "足够的；充足的"
+    },
+    {
+      "word": "soap",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "肥皂"
+    },
+    {
+      "word": "towel",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "毛巾；抹布"
+    },
+    {
+      "word": "microwave",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "微波炉"
+    },
+    {
+      "word": "tissue",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "纸巾；(人、动植物细胞的)组织"
+    },
+    {
+      "word": "facility",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "设施；设备"
+    },
+    {
+      "word": "keen",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "热衷的；渴望的"
+    },
+    {
+      "word": "globe",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "地球；世界；地球仪"
+    },
+    {
+      "word": "argue",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.&vi.",
+      "meaning": "论证；争辩；争论"
+    },
+    {
+      "word": "argument",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "争论；争吵；论点"
+    },
+    {
+      "word": "fatal",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "致命的；灾难性的"
+    },
+    {
+      "word": "shallow",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "肤浅的；浅的"
+    },
+    {
+      "word": "result in",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "导致；造成"
+    },
+    {
+      "word": "pattern",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "模式；图案；模范"
+    },
+    {
+      "word": "analysis",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "(pl. analyses) (对事物的)分析；分析结果"
+    },
+    {
+      "word": "as a result",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "所以；结果(是)"
+    },
+    {
+      "word": "high-end",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "高端的"
+    },
+    {
+      "word": "monitor",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "监视器；监测仪；班长"
+    },
+    {
+      "word": "regularly",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "经常；定期地"
+    },
+    {
+      "word": "regular",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "定期的；经常的；正常的"
+    },
+    {
+      "word": "foam",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "泡沫橡胶；泡沫"
+    },
+    {
+      "word": "pillow",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "枕头"
+    },
+    {
+      "word": "smartphone",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "智能手机"
+    },
+    {
+      "word": "resource",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "资源；财力；物力"
+    },
+    {
+      "word": "limited",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "有限的"
+    },
+    {
+      "word": "provide for sb",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "提供生活所需"
+    },
+    {
+      "word": "closing",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "结尾的；结束的"
+    },
+    {
+      "word": "in closing",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "最后"
+    },
+    {
+      "word": "mystery",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "神秘事物；谜"
+    },
+    {
+      "word": "run out",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "用完；耗尽"
+    },
+    {
+      "word": "attach",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "系；绑；贴"
+    },
+    {
+      "word": "oxygen",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "氧；氧气"
+    }
+  ]
+}
