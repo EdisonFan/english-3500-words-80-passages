@@ -1,0 +1,568 @@
+{
+  "id": 1,
+  "stats": {
+    "words": 410,
+    "core": 20
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "Imagine having the {opportunity} to sing together with hundreds of other people while you are at home alone. You can do this in a {virtual} choir. {Virtual} choir members record themselves while they {perform} alone on video. These videos are uploaded {onto} the Internet, and then they are put together into one video that you can see online – a {virtual} choir. Anyone can take part in a {virtual} choir from anywhere – all you need is a video camera and an Internet connection. You do not even need a {studio}. A {virtual} choir helps connect {ordinary} people together. Many people do not have close friends or contacts who have the same interest in music. Many others do not have the chance to join a local choir. A {virtual} choir enables them to add their voices to those of other individuals and become part of the global community. It has proved to be a positive influence on the lives of many people. As one {virtual} choir member said, \"Music helps me to ... forget my problems. With music, I become someone else.\"",
+      "cn": "想象一下，独自在家时，你可以与数百人一起引吭高歌。虚拟合唱团能够让你的想象成为现实。虚拟合唱团的成员们把各自的歌唱视频录制下来，上传到互联网上，然后这些视频被合并成一个你可以在线观看的视频——虚拟合唱团。任何人，无论身处何地，都可以参加虚拟合唱团——你只需要一台摄像机和网络连接。你连录音棚都不需要。虚拟合唱团将普通人联系起来。许多人没有亲密的朋友，也没有志趣相投的私交，还有许多人没有机会参加当地的合唱团。虚拟合唱团让他们能够与其他人一起欢歌，成为全球社区的一部分。事实证明，虚拟合唱团对许多人的生活产生了积极的影响。正如一位虚拟合唱团成员所说：\"音乐帮助我……忘记自己的烦恼。音乐，让我脱胎换骨。\""
+    },
+    {
+      "num": "02",
+      "en": "The {virtual} choir was the idea of {award}-winning {composer} and {conductor} Eric Whitacre. Born in the USA on 2 January 1970, Whitacre began studying music at the University of {Nevada} in 1988. He fell in love with {Mozart}'s {classical} music when he sang for the university choir. Moved by this music, he said, \"It was like seeing color for the first time.\" He graduated from university in 1995, and then received a master's degree in musical {composition} from the Juilliard School in New York in 1997. Over the next 10 years, Whitacre's {original} compositions began to become quite popular among choirs and singers. This led to the creation of the {virtual} choir.",
+      "cn": "虚拟合唱团是屡获殊荣的作曲家兼指挥埃里克·惠塔克的创意。惠塔克于1970年1月2日出生在美国，1988年开始进入内华达大学学习音乐。在大学合唱团期间，他爱上了莫扎特的古典音乐。他被这段音乐打动了，他说：\"那种（兴奋的）感觉就如同第一次看见色彩一样。\"他于1995年大学毕业，随后于1997年获得纽约茱莉亚音乐学院音乐创作硕士学位。在接下来的十多年里，惠塔克的原创作品深受合唱团和歌手的欢迎，这促使了虚拟合唱团的创建。"
+    },
+    {
+      "num": "03",
+      "en": "In 2009, Whitacre received a video of a girl who was singing one of his works. Inspired, he asked his fans to make videos, which he then joined together into one {performance}. His first {virtual} choir, \"Lux Aurumque\", had 185 singers from 12 different countries. It has received millions of views on the Internet. Since then, the {virtual} choir has become a worldwide {phenomenon}.",
+      "cn": "2009年，惠塔克收到了一个女孩演唱他创作的一部作品的视频。受此启发，惠塔克邀请歌迷们录制视频，然后他把这些视频拼接成一场演出。他创办的首个虚拟合唱团\"金色之光\"拥有来自12个不同国家的185位歌手。该合唱团在互联网上的点击量已超过百万次。自此，虚拟合唱团风靡全球。"
+    },
+    {
+      "num": "04",
+      "en": "Whitacre's next effort was the {Virtual} Youth Choir for {UNICEF}, which was first seen on {stage} on 23 July 2014 in the UK. {Altogether}, 2,292 young people from 80 countries joined in to sing Whitacre's song \"What If\".",
+      "cn": "惠塔克的又一创举是打造联合国儿童基金会\"虚拟青年合唱团\"，该团于2014年7月23日在英国首次登台亮相。总共有来自80个国家的2292名青年参与演唱惠塔克的歌曲《假如》。"
+    },
+    {
+      "num": "05",
+      "en": "The {virtual} choir is a wonderful way for people around the world to sing with one voice and {thus} make the world a better place.",
+      "cn": "虚拟合唱团提供了一种绝妙的方式，让世界各地的人们能够同声歌唱，世界因此变得更加美好。"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "classical",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "古典的；经典的"
+    },
+    {
+      "word": "hip-hop",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "嘻哈音乐；嘻哈文化"
+    },
+    {
+      "word": "techno",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "泰克诺音乐（一种节奏快、通常无歌声相伴的音乐）"
+    },
+    {
+      "word": "energy",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "能源；能量；精力"
+    },
+    {
+      "word": "soul",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "灵魂；心灵；精神"
+    },
+    {
+      "word": "bagpipes",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n. [pl.]",
+      "meaning": "风笛"
+    },
+    {
+      "word": "stringed",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "有弦的"
+    },
+    {
+      "word": "stringed instrument",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "弦乐器"
+    },
+    {
+      "word": "virtual",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "很接近的；事实上的；虚拟的"
+    },
+    {
+      "word": "virtual choir",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "虚拟合唱团"
+    },
+    {
+      "word": "composition",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "成分；（音乐、艺术、诗歌的）作品"
+    },
+    {
+      "word": "opportunity",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "机会；时机"
+    },
+    {
+      "word": "perform",
+      "type": "core",
+      "phonetic": "",
+      "pos": "vt. & vi.",
+      "meaning": "表演；履行；执行"
+    },
+    {
+      "word": "performance",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "表演；演技；表现"
+    },
+    {
+      "word": "performer",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "表演者；演员"
+    },
+    {
+      "word": "onto",
+      "type": "core",
+      "phonetic": "",
+      "pos": "prep.",
+      "meaning": "（朝）向；到……上"
+    },
+    {
+      "word": "studio",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "演播室；（音乐的）录音棚；工作室"
+    },
+    {
+      "word": "ordinary",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "普通的；平凡的"
+    },
+    {
+      "word": "enable",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "使能够；使可能"
+    },
+    {
+      "word": "prove",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "证明；展现"
+    },
+    {
+      "word": "award",
+      "type": "core",
+      "phonetic": "",
+      "pos": "vt. & n.",
+      "meaning": "授予；奖品"
+    },
+    {
+      "word": "composer",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "作曲家"
+    },
+    {
+      "word": "conductor",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "（乐队、合唱团等的）指挥；（公共汽车的）售票员"
+    },
+    {
+      "word": "fall in love with",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "爱上"
+    },
+    {
+      "word": "original",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj. & n.",
+      "meaning": "原来的；独创的；原作的；原件；原作"
+    },
+    {
+      "word": "phenomenon",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "现象"
+    },
+    {
+      "word": "stage",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "（发展或进展的）时期；阶段；（多指剧场中的）舞台"
+    },
+    {
+      "word": "altogether",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "（用以强调）全部；总共"
+    },
+    {
+      "word": "thus",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "如此；因此"
+    },
+    {
+      "word": "band",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "乐队；带子"
+    },
+    {
+      "word": "rap",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n. & vi. & vt.",
+      "meaning": "快速敲击；说唱音乐；敲击；（说唱中的）念白"
+    },
+    {
+      "word": "nowadays",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "现在；目前"
+    },
+    {
+      "word": "gradual",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "逐渐的；渐进的"
+    },
+    {
+      "word": "capable",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "有能力的；有才能的"
+    },
+    {
+      "word": "relief",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "（焦虑、痛苦的）减轻或消除；（不快过后的）宽慰、轻松或解脱"
+    },
+    {
+      "word": "cure",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt. & n.",
+      "meaning": "治愈；治好（疾病）；解决（问题）；药物；治疗；（解决问题、改善糟糕情况的）措施"
+    },
+    {
+      "word": "absorbed in",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "被……吸引住；专心致志"
+    },
+    {
+      "word": "previous",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "先前的；以往的"
+    },
+    {
+      "word": "unemployed",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "失业的；待业的"
+    },
+    {
+      "word": "romantic",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj. & n.",
+      "meaning": "浪漫的；浪漫的人"
+    },
+    {
+      "word": "album",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "相册；集邮簿；音乐专辑"
+    },
+    {
+      "word": "impact",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "巨大影响；强大作用；冲击力"
+    },
+    {
+      "word": "aim",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n. & vi. & vt.",
+      "meaning": "目的；目标；力求达到；力争做到；瞄准；目的是；旨在"
+    },
+    {
+      "word": "set up",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "安装好（设备或机器）"
+    },
+    {
+      "word": "equipment",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "设备；装备"
+    },
+    {
+      "word": "try out",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "参加……选拔（或试演）"
+    },
+    {
+      "word": "talent",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "天才；天资；天赋"
+    },
+    {
+      "word": "piano",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "钢琴"
+    },
+    {
+      "word": "assume",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "以为；假设"
+    },
+    {
+      "word": "addition",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "添加；加法；增加物"
+    },
+    {
+      "word": "in addition to",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "除……以外（还）"
+    },
+    {
+      "word": "disease",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "疾病"
+    },
+    {
+      "word": "ache",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vi. & n.",
+      "meaning": "疼痛"
+    },
+    {
+      "word": "treatment",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "治疗；对待；处理"
+    },
+    {
+      "word": "from (then) on",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "从（那）时起"
+    },
+    {
+      "word": "lean",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "依靠；倾斜（过去式/过去分词 leant/leaned）"
+    },
+    {
+      "word": "get through",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "（设法）处理；完成"
+    },
+    {
+      "word": "moreover",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "而且；此外"
+    },
+    {
+      "word": "satisfaction",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "满足；满意；欣慰"
+    },
+    {
+      "word": "being",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "身心；存在；生物"
+    },
+    {
+      "word": "various",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "各种不同的；各种各样的"
+    },
+    {
+      "word": "somehow",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "以某种方式（或方法）；不知怎么地"
+    },
+    {
+      "word": "rhetorical",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "修辞的"
+    },
+    {
+      "word": "metaphor",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "暗喻；隐喻"
+    },
+    {
+      "word": "personification",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "拟人；人格化；化身"
+    },
+    {
+      "word": "repetition",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "重复；重做"
+    },
+    {
+      "word": "simile",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "明喻"
+    },
+    {
+      "word": "outline",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n. & vt.",
+      "meaning": "概述；概要"
+    },
+    {
+      "word": "reaction",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "反应；回应"
+    },
+    {
+      "word": "Eric Whitacre",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "埃里克·惠塔克（作曲家、指挥家）"
+    },
+    {
+      "word": "Nevada",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "内华达州（美国）"
+    },
+    {
+      "word": "Mozart",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "莫扎特（作曲家）"
+    },
+    {
+      "word": "Lux Aurumque",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "《金色光芒》（歌曲名）"
+    },
+    {
+      "word": "UNICEF",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "联合国儿童基金会"
+    },
+    {
+      "word": "Las Vegas",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "拉斯维加斯（美国城市）"
+    },
+    {
+      "word": "John A. Logan",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "约翰·洛根"
+    }
+  ]
+}

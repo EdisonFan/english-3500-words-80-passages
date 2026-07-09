@@ -1,0 +1,477 @@
+{
+  "id": 2,
+  "stats": {
+    "words": 315,
+    "core": 15
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "Today I thought I'd {blog} about a question that has been asked many times—how do you stay safe online and avoid bad experiences on the Internet? I'm not an expert, but many years as a {blogger} have taught me a thing or two.",
+      "cn": "今天，我想写篇博客谈谈一个多次被问到的问题——如何才能安全上网，避免在互联网上遇到不愉快呢？我并非专家，但身为博主多年，我已学会了一两招。"
+    },
+    {
+      "num": "02",
+      "en": "First of all, there's the golden rule of the Internet: If you see or read something that makes you feel uncomfortable, leave the site immediately. Don't post comments or {click} on anything. Second, protect your {privacy}. Don't give out your address or phone number. Someone might use the information to steal your {identity}. {Identity} {theft} is a common and serious problem. Third, be polite. Being online is no excuse for being {rude}, and you don't want to become a {target} for a {troll} or {cyberbully}. A {troll} is a person who posts comments or questions in order to stir up trouble online. Trolls often use several {false} names so that they can stay on a site. A {cyberbully} uses the Internet to be mean to others. Like a {troll}, a {cyberbully} will also write something mean but it is usually directed at {particular} people. He or she may also post {embarrassing} photos and information about those people. However, the more polite you are, the less likely it is you will be attacked.",
+      "cn": "首先，互联网的黄金法则是：如果你的所见所读让你反感，立即退出该网站。不要发表评论，也不要点击任何东西。其次，保护你的隐私。不要透露你的地址或电话号码。有人可能会利用这些信息来窃取你的身份。身份盗窃是一个普遍而严重的问题。最后，要有礼貌。上网不是行为粗鲁的借口，而且你也不想成为网络挑事者或网络恶霸的目标。网络挑事者就是在网上张贴评论或问题以挑起事端的人。为了长期待在一个网站上，网络挑事者经常使用多个假名。网络恶霸使用互联网来欺负别人。与网络挑事者一样，网络恶霸也会写一些恶意的东西，但通常是针对特定的人。网络恶霸也可能在网上发一些照片和信息，让这些人感到尴尬。然而，你越有礼貌，你被攻击的可能性就越小。"
+    },
+    {
+      "num": "03",
+      "en": "Have you had any bad experiences online, or do you have some good advice for staying safe? Post your comments below!",
+      "cn": "你在网上有过不愉快的经历吗？或是你有什么安全上网的好建议？请在下面发表你的评论！"
+    },
+    {
+      "num": "04",
+      "en": "Boy579: Last year, we were having problems in our {chat} room. Mean comments were being posted by someone we didn't know. I think he or she was only trying to make trouble.",
+      "cn": "男孩579：去年，我们聊天室出了一些问题。有个我们不认识的人发了一些恶意的评论。我觉得这家伙是想捣乱。"
+    },
+    {
+      "num": "05",
+      "en": "Amy: A girl at my school had a very bad experience online. A photo of her had been posted online and she was being made fun of. It seemed like a joke at first, but the girl was very {upset}.",
+      "cn": "艾米：我们学校的一个女生在网上有过不愉快经历。她的一张照片被传到网上，被人嘲弄。刚开始虽然像是在开玩笑，但是这个女生十分不快。"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "blog",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "博客；vt. 写博客"
+    },
+    {
+      "word": "blog post",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "博文；博客帖子"
+    },
+    {
+      "word": "blogger",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "博客作者；博主"
+    },
+    {
+      "word": "engine",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "引擎；发动机；火车头"
+    },
+    {
+      "word": "search engine",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "（互联网上的）搜索引擎"
+    },
+    {
+      "word": "chat",
+      "type": "core",
+      "phonetic": "",
+      "pos": "vi.",
+      "meaning": "聊天；闲聊"
+    },
+    {
+      "word": "stream",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "流播（不用下载直接在互联网上播放音视频）；流出；vi. 流动；n. 小河；溪流"
+    },
+    {
+      "word": "identity",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "身份；个性"
+    },
+    {
+      "word": "identity card",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "身份证"
+    },
+    {
+      "word": "convenient",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "方便的；近便的"
+    },
+    {
+      "word": "cash",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "现金；金钱"
+    },
+    {
+      "word": "update",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vi.",
+      "meaning": "更新；向……提供最新信息；n. 更新；最新消息"
+    },
+    {
+      "word": "database",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "数据库；资料库"
+    },
+    {
+      "word": "software",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "软件"
+    },
+    {
+      "word": "network",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "（互联）网络；网状系统；人际网；vt. 将……连接成网络；联播；vi. 建立工作关系"
+    },
+    {
+      "word": "stuck",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "卡住；陷（入）；困（于）"
+    },
+    {
+      "word": "keep sb company",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "陪伴某人"
+    },
+    {
+      "word": "surf",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt. & vi.",
+      "meaning": "浏览；冲浪"
+    },
+    {
+      "word": "benefit",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "益处；vt. 使受益；vi. 得益于"
+    },
+    {
+      "word": "distance",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "距离"
+    },
+    {
+      "word": "inspire",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "鼓舞；激励；启发思考"
+    },
+    {
+      "word": "now that",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "conj.",
+      "meaning": "既然；由于"
+    },
+    {
+      "word": "access",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "通道；（使用、查阅、接近或面见的）机会；vt. 进入；使用；获取"
+    },
+    {
+      "word": "charity",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "慈善；慈善机构（或组织）"
+    },
+    {
+      "word": "go through",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "经历；度过；通读"
+    },
+    {
+      "word": "tough",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "艰难的；严厉的"
+    },
+    {
+      "word": "province",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "省"
+    },
+    {
+      "word": "conference",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "会议；研讨会；正式会谈"
+    },
+    {
+      "word": "resident",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "居民；（美国的）住院医生；adj. （在某地）居住的"
+    },
+    {
+      "word": "plus",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "conj.",
+      "meaning": "而且；此外；n. 加号；优势；prep. 加；另加"
+    },
+    {
+      "word": "function",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "功能；作用；机能；vi. 起作用；正常工作；运转"
+    },
+    {
+      "word": "battery",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "电池"
+    },
+    {
+      "word": "confirm",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "确认；使确信"
+    },
+    {
+      "word": "Wi-Fi",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "无线保真（用无线电波而非网线在计算机网络传输数据的系统）"
+    },
+    {
+      "word": "press",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "按，压；敦促"
+    },
+    {
+      "word": "button",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "按钮；纽扣"
+    },
+    {
+      "word": "file",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "文件；文件夹；档案"
+    },
+    {
+      "word": "in shape",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "状况良好"
+    },
+    {
+      "word": "keep track of",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "掌握……的最新消息；了解……的动态"
+    },
+    {
+      "word": "discount",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "折扣；vt. 打折"
+    },
+    {
+      "word": "account",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "账户；描述"
+    },
+    {
+      "word": "click",
+      "type": "core",
+      "phonetic": "",
+      "pos": "vt. & vi.",
+      "meaning": "点击"
+    },
+    {
+      "word": "privacy",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "隐私；私密"
+    },
+    {
+      "word": "theft",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "偷（窃）；盗窃罪"
+    },
+    {
+      "word": "rude",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "粗鲁的；无礼的"
+    },
+    {
+      "word": "target",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "目标；对象；靶子；vt. 把……作为攻击目标"
+    },
+    {
+      "word": "troll",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "发挑衅帖子的人；恶意挑衅的帖子"
+    },
+    {
+      "word": "cyberbully",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "网霸；vt. & vi. 网络欺凌"
+    },
+    {
+      "word": "false",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "假的；错误的"
+    },
+    {
+      "word": "particular",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "特定的；特别的；讲究的"
+    },
+    {
+      "word": "embarrassing",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "让人难堪（尴尬；害羞）的"
+    },
+    {
+      "word": "make fun of",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "取笑；戏弄"
+    },
+    {
+      "word": "upset",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "心烦的；苦恼的；沮丧的；vt. (upset, upset) 使烦恼；使生气；搅乱"
+    },
+    {
+      "word": "guideline",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "准则；指导原则"
+    },
+    {
+      "word": "author",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "作者；作家"
+    },
+    {
+      "word": "tip",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "忠告；诀窍；实用的提示"
+    },
+    {
+      "word": "familiar",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "熟悉；熟知"
+    },
+    {
+      "word": "keep (... ) in mind",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "牢记"
+    },
+    {
+      "word": "define",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "给……下定义；界定；解释"
+    },
+    {
+      "word": "case",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "盒；箱；情况；案件"
+    },
+    {
+      "word": "the World Wide Web",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "abbr.",
+      "meaning": "WWW万维网；环球信息网"
+    },
+    {
+      "word": "Jan Tchamani",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "简·夏曼尼（人名）"
+    },
+    {
+      "word": "Birmingham",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "伯明翰（英国城市）"
+    }
+  ]
+}

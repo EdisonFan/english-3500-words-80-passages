@@ -19,6 +19,16 @@
       "color": "#6E4FBE",
       "passageCount": 12,
       "unitCount": 6
+    },
+    {
+      "id": "pep2",
+      "path": "renjiao/pep2",
+      "title": "高中英语 必修第二册",
+      "subtitle": "人教版 (2019 版)",
+      "cover": null,
+      "color": "#2EA887",
+      "passageCount": 10,
+      "unitCount": 5
     }
   ]
 }

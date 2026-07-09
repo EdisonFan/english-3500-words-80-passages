@@ -1,0 +1,654 @@
+{
+  "id": 2,
+  "stats": {
+    "words": 232,
+    "core": 7
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "Lanzhou, 9 August 2017. A group of researchers and scientists from China and other countries are working together to help increase knowledge and appreciation of China's ancient cultural {heritage}. They are recording and collecting {digital} images of cultural relics from the Mogao Caves, which were a key stop along the Silk Road {throughout} China's ancient history. Nearly 500,000 high-{quality} {digital} photographs have been produced since the international project started in 1994.",
+      "cn": "2017年8月9日，兰州。一组来自中国和其他国家的研究人员和科学家正在共同努力，以增加对中国古代文化遗产的了解和欣赏。他们正在记录和收集来自莫高窟文物的数字图像，莫高窟是中国古代历史上丝绸之路的一个重要站点。自1994年国际项目开始以来，已经制作了近50万张高质量的数码照片。"
+    },
+    {
+      "num": "02",
+      "en": "The Mogao Caves have long been a meeting point for different cultures and are part of the history of many countries. Today, the caves are just as international as they were at the time when people travelled the Silk Road. Tourists from all over the world visit Dunhuang to see the caves, and the Getty Museum in Los Angeles has even reproduced a copy of the caves and paintings for people to admire in America.",
+      "cn": "莫高窟长期以来一直是不同文化的交汇点，也是许多国家历史的一部分。如今，这些洞穴与人们穿越丝绸之路时一样具有国际性。来自世界各地的游客参观敦煌的洞穴，洛杉矶的盖蒂博物馆甚至还复制了这些洞穴和绘画作品，供美国人欣赏。"
+    },
+    {
+      "num": "03",
+      "en": "By sharing so many {digital} photos over the Internet, the group hopes to {promote} even wider interest around the world in China's ancient history, culture, and traditions. They also hope to {further} educate people about the importance of safeguarding {historic} and cultural relics for future generations to understand and appreciate.",
+      "cn": "这些科学家和研究者在网络上分享了大量（有关莫高窟的）电子照片，希望在世界范围内促使人们对中国古代历史和文化习俗产生更广泛的兴趣。他们还希望进一步教育人们认识保护历史文化遗迹以供后代了解和欣赏的重要性。"
+    },
+    {
+      "num": "04",
+      "en": "As one researcher who is working on the project explains, \"Appreciating one's own cultural {heritage} is very important for understanding oneself. Appreciating the cultural {heritage} of other countries is very important for international communication and understanding.\"",
+      "cn": "正如该项目的一位研究人员所解释的那样：\"欣赏自己的文化遗产对于了解自己非常重要。欣赏其他国家的文化遗产对于国际交流和理解是非常重要的。\""
+    }
+  ],
+  "vocab": [
+    {
+      "word": "heritage",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "遗产（指国家或社会长期形成的历史、传统和特色）"
+    },
+    {
+      "word": "creatively",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "创造性地；有创造力地"
+    },
+    {
+      "word": "creative",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "创造性的；有创造力的；有创意的"
+    },
+    {
+      "word": "temple",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "庙；寺"
+    },
+    {
+      "word": "relic",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "遗物；遗迹"
+    },
+    {
+      "word": "mount",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n. / v.",
+      "meaning": "山峰；爬上；骑上；爬；登上"
+    },
+    {
+      "word": "former",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "以前的；（两者中）前者的"
+    },
+    {
+      "word": "clue",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "线索；提示"
+    },
+    {
+      "word": "preserve",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "v.",
+      "meaning": "保存；保护；维持（n. 保护区）"
+    },
+    {
+      "word": "promote",
+      "type": "core",
+      "phonetic": "",
+      "pos": "v.",
+      "meaning": "促进；提升；推销；晋级"
+    },
+    {
+      "word": "cypress",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "柏树"
+    },
+    {
+      "word": "app",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "应用程序；应用软件（application的缩略形式）"
+    },
+    {
+      "word": "application",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "申请（表）；用途；运用；应用（程序）"
+    },
+    {
+      "word": "take part in",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "参与（某事）；参加（某活动）"
+    },
+    {
+      "word": "give way to",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "让步；屈服"
+    },
+    {
+      "word": "balance",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n. / v.",
+      "meaning": "平衡；均匀；使平衡"
+    },
+    {
+      "word": "keep a balance",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "保持平衡"
+    },
+    {
+      "word": "lead to",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "导致"
+    },
+    {
+      "word": "dam",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "水坝；拦河坝"
+    },
+    {
+      "word": "proposal",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "提议；建议（make a proposal 提出建议）"
+    },
+    {
+      "word": "make a proposal",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "提出建议"
+    },
+    {
+      "word": "protest",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n. / v.",
+      "meaning": "抗议；（公开）反对；抗议"
+    },
+    {
+      "word": "likely",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj. / adv.",
+      "meaning": "可能的；可能地"
+    },
+    {
+      "word": "turn to",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "向……求助"
+    },
+    {
+      "word": "committee",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "委员会"
+    },
+    {
+      "word": "establish",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "v.",
+      "meaning": "建立；创立"
+    },
+    {
+      "word": "limit",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n. / v.",
+      "meaning": "限度；限制；限定"
+    },
+    {
+      "word": "prevent",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "v.",
+      "meaning": "阻止；阻碍；阻挠"
+    },
+    {
+      "word": "prevent...from...",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "阻止；不准"
+    },
+    {
+      "word": "loss",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "丧失；损失"
+    },
+    {
+      "word": "contribution",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "捐款；贡献；捐赠"
+    },
+    {
+      "word": "contribute",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "v.",
+      "meaning": "捐献；捐助"
+    },
+    {
+      "word": "department",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "部；司；科"
+    },
+    {
+      "word": "fund",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "基金；专款"
+    },
+    {
+      "word": "within",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "prep. / adv.",
+      "meaning": "在（某段时间、距离或范围）之内"
+    },
+    {
+      "word": "investigate",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "v.",
+      "meaning": "调查；研究"
+    },
+    {
+      "word": "issue",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n. / v.",
+      "meaning": "重要议题；争论的问题；宣布；公布"
+    },
+    {
+      "word": "conduct",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n. / v.",
+      "meaning": "行为；举止；管理方法；组织；安排；带领"
+    },
+    {
+      "word": "document",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n. / v.",
+      "meaning": "文件；公文；（计算机）文档；记录；记载（详情）"
+    },
+    {
+      "word": "donate",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "v.",
+      "meaning": "（尤指向慈善机构）捐赠；赠送；献（血）"
+    },
+    {
+      "word": "donate...to...",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "向……捐赠……"
+    },
+    {
+      "word": "disappear",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "v.",
+      "meaning": "消失；灭绝；消亡"
+    },
+    {
+      "word": "attempt",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "v.",
+      "meaning": "企图；试图；尝试"
+    },
+    {
+      "word": "make sure",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "确保；设法保证"
+    },
+    {
+      "word": "worthwhile",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "值得做的；值得花时间的"
+    },
+    {
+      "word": "download",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "v. / n.",
+      "meaning": "下载；已下载的数据资料"
+    },
+    {
+      "word": "republic",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "共和国"
+    },
+    {
+      "word": "professional",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj. / n.",
+      "meaning": "专业的；职业的；专业人员；职业选手"
+    },
+    {
+      "word": "archaeologist",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "考古学家"
+    },
+    {
+      "word": "entrance",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "入口；进入"
+    },
+    {
+      "word": "pyramid",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "（古埃及的）金字塔；棱锥体"
+    },
+    {
+      "word": "process",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n. / v.",
+      "meaning": "过程；进程；步骤；处理；加工"
+    },
+    {
+      "word": "overseas",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj. / adv.",
+      "meaning": "海外的；在海外"
+    },
+    {
+      "word": "exit",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n. / v.",
+      "meaning": "出口；通道；出去；离去"
+    },
+    {
+      "word": "sheet",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "一张（纸）；床单；被单"
+    },
+    {
+      "word": "parade",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n. / v.",
+      "meaning": "游行；检阅；游行庆祝；游行示威"
+    },
+    {
+      "word": "mirror",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "镜子"
+    },
+    {
+      "word": "roof",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "顶部；屋顶"
+    },
+    {
+      "word": "chiwen",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "鸱吻（中国古代神兽，龙子之一）"
+    },
+    {
+      "word": "dragon",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "龙"
+    },
+    {
+      "word": "forgive",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "v.",
+      "meaning": "（forgave, forgiven）原谅；宽恕；对不起；请原谅"
+    },
+    {
+      "word": "digital",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "数码的；数字显示的"
+    },
+    {
+      "word": "image",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "形象；印象"
+    },
+    {
+      "word": "cave",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "山洞；洞穴"
+    },
+    {
+      "word": "throughout",
+      "type": "core",
+      "phonetic": "",
+      "pos": "prep.",
+      "meaning": "各处；遍及；自始自终"
+    },
+    {
+      "word": "quality",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n. / adj.",
+      "meaning": "质量；品质；素质；特征；优质的；高质量的"
+    },
+    {
+      "word": "all over the world",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "在世界各地"
+    },
+    {
+      "word": "tradition",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "传统；传统的信仰或风俗"
+    },
+    {
+      "word": "further",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj. / adv.",
+      "meaning": "（far的比较级）更远；进一步"
+    },
+    {
+      "word": "historic",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "历史上著名（或重要）的；有史时期的"
+    },
+    {
+      "word": "opinion",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "意见；想法；看法"
+    },
+    {
+      "word": "quote",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "v.",
+      "meaning": "引用"
+    },
+    {
+      "word": "paraphrase",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n. / v.",
+      "meaning": "（用更容易理解的文字）解释"
+    },
+    {
+      "word": "comparison",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "比较；相比"
+    },
+    {
+      "word": "contrast",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n. / v.",
+      "meaning": "对比；对照"
+    },
+    {
+      "word": "identify",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "v.",
+      "meaning": "确认；认出；找到"
+    },
+    {
+      "word": "forever",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "永远；长久地"
+    },
+    {
+      "word": "Aswan Dam",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "阿斯旺大坝"
+    },
+    {
+      "word": "the Nile",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "尼罗河"
+    },
+    {
+      "word": "Egypt",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "埃及（国家名）"
+    },
+    {
+      "word": "Egyptian",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "埃及的"
+    },
+    {
+      "word": "UNESCO",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "abbr.",
+      "meaning": "联合国教科文组织（United Nations Educational, Scientific and Cultural Organization）"
+    },
+    {
+      "word": "Cairo",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "开罗（埃及首都）"
+    },
+    {
+      "word": "Tanzania",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "坦桑尼亚（国家名）"
+    },
+    {
+      "word": "the Kremlin",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "克里姆林（宫）"
+    },
+    {
+      "word": "Moscow",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "莫斯科（俄罗斯首都）"
+    },
+    {
+      "word": "Saint Basil's Cathedral",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "圣瓦希里大教堂"
+    },
+    {
+      "word": "the Forbidden City",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "紫禁城"
+    },
+    {
+      "word": "Los Angeles",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "洛杉矶（美国城市）"
+    }
+  ]
+}
