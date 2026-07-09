@@ -266,6 +266,19 @@ function renderPassage(bookId, pid) {
                 return;
             }
             renderPassageContent(bookId, pid, j.passage);
+            // 从 dict.html 返回时恢复滚动位置(等一帧让 DOM 布局完成)
+            try {
+                var raw = sessionStorage.getItem('passageScroll');
+                if (raw) {
+                    var saved = JSON.parse(raw);
+                    if (saved && saved.hash === location.hash && saved.y > 0) {
+                        requestAnimationFrame(function () {
+                            window.scrollTo(0, saved.y);
+                        });
+                    }
+                    sessionStorage.removeItem('passageScroll');
+                }
+            } catch (e) { }
         })
         .catch(function (err) {
             app.innerHTML = '<div class="wrap"><div class="article"><p>加载失败：' + esc(err.message) + '</p></div></div>';
@@ -495,6 +508,16 @@ function _fetchVideoList(word, callback) {
 function openDictPage(word) {
     word = String(word || '').toLowerCase().trim();
     if (!word) return;
+
+    // 保存当前文章页滚动位置(从 dict.html 返回时恢复)
+    // 移动端用 location.href 跳转,SPA 状态全丢,需要显式存
+    // PC 用 _blank,理论上不用存,但存了也无害(恢复时 hash 一致才生效)
+    try {
+        sessionStorage.setItem('passageScroll', JSON.stringify({
+            hash: location.hash,
+            y: window.scrollY || 0
+        }));
+    } catch (e) { }
 
     var payload = { word: word, dictData: null, videoList: [] };
 
