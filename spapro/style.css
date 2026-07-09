@@ -557,95 +557,6 @@ body.no-gloss .para { padding-bottom: 32px; }
     font-size: 12px;
 }
 
-/* === 词表 === */
-.vocab {
-    padding: 64px 0 80px;
-    border-top: 1px solid var(--line);
-}
-.vocab-head {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
-    margin-bottom: 40px;
-    flex-wrap: wrap;
-    gap: 16px;
-}
-.vocab-head h2 {
-    font-family: var(--font-display);
-    font-size: 36px;
-    font-weight: 600;
-    letter-spacing: -1px;
-    color: var(--ink);
-}
-.vocab-head h2 em { font-style: normal; color: var(--accent); }
-.vocab-head .legend {
-    display: flex;
-    gap: 16px;
-    font-size: 12px;
-    color: var(--ink-4);
-    font-family: var(--font-mono);
-}
-.vocab-head .legend span {
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-}
-.vocab-head .legend span::before {
-    content: '';
-    width: 10px;
-    height: 10px;
-    border-radius: 2px;
-}
-.vocab-head .legend .l-core::before { background: var(--accent); }
-.vocab-head .legend .l-out::before { background: var(--warm); }
-
-.vocab-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 10px;
-}
-.card {
-    background: #fff;
-    border: 1px solid #e8eaed;
-    border-radius: 8px;
-    padding: 14px 16px 12px;
-    transition: all 0.18s ease;
-    cursor: pointer;
-}
-.card:hover {
-    border-color: #c0d0f0;
-    box-shadow: 0 3px 12px rgba(0,80,200,0.07);
-    transform: translateY(-1px);
-}
-.card.core { border-left: 3px solid #0066ff; }
-.card.outline { border-left: 3px solid #e87a40; }
-.card-top {
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    margin-bottom: 4px;
-    gap: 8px;
-}
-.card-word {
-    font-size: 17px;
-    font-weight: 600;
-    color: #1a1a1a;
-    letter-spacing: -0.2px;
-}
-.card-word .star {
-    color: #e87a40;
-    font-size: 12px;
-    font-weight: 400;
-    margin-left: 3px;
-}
-.card-ctx {
-    font-size: 12px;
-    color: #777;
-    font-family: var(--font-cn);
-    margin-top: 4px;
-    line-height: 1.4;
-}
-
 /* === 段落中文译文（默认隐藏，开关控制） === */
 .para .cn {
     display: none;
@@ -950,9 +861,6 @@ footer {
     .topbar-right { gap: 12px; font-size: 11px; }
     .article { padding: 28px 0 32px; }
     .eng { font-size: 15.5px; line-height: 44px; }
-    .vocab { padding: 40px 0 56px; }
-    .vocab-head h2 { font-size: 28px; }
-    .vocab-grid { grid-template-columns: 1fr; }
     .dict-main { padding: 20px 16px 48px; }
     .dict-word { font-size: 30px; }
     .dict-def { font-size: 14px; }
@@ -975,7 +883,7 @@ footer {
 @media print {
     @page { size: A4; margin: 15mm 14mm 14mm 14mm; }
     /* 隐藏不需要的元素 */
-    .topbar, footer, .vocab-head .legend, .nav-btn, .gloss-toggle, .trans-toggle { display: none !important; }
+    .topbar, footer, .nav-btn, .gloss-toggle, .trans-toggle { display: none !important; }
 
     /* 保持页面原有字体和颜色 */
     html, body { background: #fff !important; color: #000 !important; }
@@ -983,7 +891,6 @@ footer {
 
     /* 正文区域 - 保持原有间距和字号 */
     .article { padding: 20px 0 24px !important; }
-    .vocab { padding: 32px 0 40px !important; }
 
     /* 段落 - 保持边框和间距 */
     .para { margin-bottom: 24px !important; padding-bottom: 24px !important; border-bottom: 1px solid #e5e5e7 !important; break-inside: avoid; page-break-inside: avoid; }
@@ -1008,21 +915,13 @@ footer {
     .w.outline { color: #c05020 !important; background: linear-gradient(180deg, transparent 55%, #fff2ed 55%) !important; }
     .w-g { color: #555 !important; font-size: 9pt !important; line-height: 1.25 !important; height: auto !important; overflow: visible !important; white-space: nowrap !important; margin-top: 1px !important; }
 
-    /* 词表卡片 - 保持边框颜色 */
-    .card { background: #fff !important; border: 1px solid #e8eaed !important; box-shadow: none !important; transform: none !important; break-inside: avoid; page-break-inside: avoid; padding: 10px 12px 8px !important; }
-    .card.core { border-left: 3px solid #0066ff !important; }
-    .card.outline { border-left: 3px solid #e87a40 !important; }
-    .card:hover { box-shadow: none !important; transform: none !important; }
-    .card-word { font-size: 14pt !important; }
-    .card-def { font-size: 11pt !important; }
-
     /* extras 颜色保持 */
     .extra.col { background: #f5f6f7 !important; color: #333 !important; }
     .extra.mem { background: #edf7ef !important; color: #1a7a44 !important; }
     .extra.ex { background: #f0f6ff !important; color: #0055bb !important; }
 
     /* 标题避免分页 */
-    .section-tag, .vocab-head, h1, h2, h3 { break-after: avoid; page-break-after: avoid; }
+    .section-tag, h1, h2, h3 { break-after: avoid; page-break-after: avoid; }
     a, a:visited { color: #000 !important; text-decoration: none !important; }
 }
 

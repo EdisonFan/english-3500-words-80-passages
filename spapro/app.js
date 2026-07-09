@@ -277,7 +277,7 @@ function renderPassageContent(bookId, pid, data) {
     var num = String(id).padStart(2, '0');
 
     // 缓存当前词表数据供跳转使用
-    window._currentVocab = data.vocab;
+    // (词表 UI 已移除,但 highlightWords 仍需 vocab 用于 {word} 标记)
 
     // 1. 顶栏
     var html = '<div class="topbar"><div class="topbar-inner">' +
@@ -314,18 +314,6 @@ function renderPassageContent(bookId, pid, data) {
 
     html += '</article>';
 
-    // 3. 词表
-    html += '<section class="vocab"><div class="vocab-head">' +
-        '<h2>核心<em>词表</em></h2>' +
-        '<div class="legend"><span class="l-core">核心词</span><span class="l-out">大纲词 *</span></div>' +
-        '</div><div class="vocab-grid">';
-
-    data.vocab.forEach(function (v) {
-        html += renderVocabCard(v);
-    });
-
-    html += '</div></section></div>';
-
     // 4. 页脚
     html += '<footer>PASSAGE ' + num + ' · END</footer>';
 
@@ -349,8 +337,6 @@ function renderPassageContent(bookId, pid, data) {
 
     // 绑定高亮词点击（事件委托）
     app.addEventListener('click', handleWordClick);
-    // 绑定词表卡片点击（事件委托）
-    app.addEventListener('click', handleCardClick);
 }
 
 /* === 高亮词渲染：把 {word} 标记转为 .wn 结构，其余普通单词也做成可点击 === */
@@ -462,16 +448,7 @@ function findVocab(key, vocab) {
     return null;
 }
 
-/* === 词表卡片渲染（精简版：仅显示 word/type/ctx） === */
-function renderVocabCard(v) {
-    var outlineClass = v.type === 'outline' ? ' outline' : '';
-    var star = v.type === 'outline' ? '<span class="star">*</span>' : '';
-    var ctxHtml = v.ctx ? '<span class="card-ctx">' + esc(v.ctx) + '</span>' : '';
-
-    return '<div class="card' + outlineClass + '" data-word="' + esc(v.word) + '">' +
-        '<div class="card-top"><span class="card-word">' + esc(v.word) + star + '</span></div>' +
-        ctxHtml + '</div>';
-}
+/* === 词表卡片渲染（已删除 - 词表 UI 移除,单词通过正文点击查翻译） === */
 
 /* === 单词点击 → 跳转独立翻译页（事件委托） === */
 function handleWordClick(e) {
@@ -484,14 +461,6 @@ function handleWordClick(e) {
     target.classList.add('pulsed');
     // 获取单词：.w 用 data-key，.w-raw 用 data-word
     var word = target.getAttribute('data-key') || target.getAttribute('data-word');
-    if (word) openDictPage(word);
-}
-
-/* === 词表卡片点击 → 跳转独立翻译页 === */
-function handleCardClick(e) {
-    var target = e.target.closest('.card');
-    if (!target) return;
-    var word = target.getAttribute('data-word');
     if (word) openDictPage(word);
 }
 
