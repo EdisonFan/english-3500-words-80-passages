@@ -1,0 +1,407 @@
+{
+  "id": 1,
+  "stats": {
+    "words": 265,
+    "core": 14
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "Hi! My name is Adam and I'm a {freshman} at senior high school. Going from junior high school to senior high school is a really big {challenge}. The first week was a little {confusing}.",
+      "cn": "嗨！我叫亚当，是高中一年级的新生。从初中过渡到高中真是一项巨大的挑战。第一周有点让人困惑。"
+    },
+    {
+      "num": "02",
+      "en": "First, I had to think very carefully about which courses I wanted to take. The school adviser helped me choose the {suitable} ones: maths, English, chemistry, world history, and Chinese. I know that Chinese is a very difficult language, but I hope to be {fluent} when I {graduate}. My adviser recommended that I should sign up for {advanced} {literature} because I like English and I'm good at it.",
+      "cn": "首先，我必须非常认真地考虑我想选哪些课程。学校的指导老师帮我选了合适的：数学、英语、化学、世界史和中文。我知道中文是一门非常难学的语言，但我希望毕业时能说得很流利。因为我喜欢英语而且成绩不错，指导老师建议我选修高级文学。"
+    },
+    {
+      "num": "03",
+      "en": "I had to choose {{extra}-curricular} activities, too. I tried to join the school football team, but the coach told me that I didn't play well enough. {Obviously}, I was unhappy, but I won't {quit}. I'll find a way to improve on my own so that I can make the team next year. I joined a {volunteer} club instead. Every Wednesday, we work at a soup kitchen and hand out food to homeless people in the community.",
+      "cn": "我还得选择课外活动。我试图加入学校足球队，但教练说我踢得不够好。显然，我很不开心，但我不会放弃。我会自己想办法提高，这样明年就能入选球队了。于是我改参加了一个志愿者俱乐部。每个星期三，我们在施舍处干活，把食物分发给社区里无家可归的人。"
+    },
+    {
+      "num": "04",
+      "en": "I know I'll have to study harder as a senior high school student and get used to being {responsible} for a lot more. I'm a bit worried about keeping up with the other students in my {advanced} course, and it'll be quite difficult to get used to all the homework. Still, I'm happy to be here. Studying hard isn't always fun, but I'll be well prepared for university or whatever else comes in the future.",
+      "cn": "我知道，作为一名高中生，我必须更努力地学习，并习惯对更多的事情负责。我有点担心在高级课程中跟不上其他同学，而且适应所有的作业会相当困难。不过，我还是很高兴来到这里。努力学习并不总是有趣的，但我会为将来上大学或任何其他事情做好充分准备。"
+    },
+    {
+      "num": "05",
+      "en": "10 September 2018",
+      "cn": "2018 年 9 月 10 日"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "teenage",
+      "type": "outline",
+      "phonetic": "/ˈtiːneɪdʒ/",
+      "pos": "adj.",
+      "meaning": "十几岁的（13–19 岁）；青少年的"
+    },
+    {
+      "word": "teenager",
+      "type": "outline",
+      "phonetic": "/ˈtiːneɪdʒə(r)/",
+      "pos": "n.",
+      "meaning": "（13–19 岁之间的）青少年"
+    },
+    {
+      "word": "ballet",
+      "type": "outline",
+      "phonetic": "/ˈbæleɪ/",
+      "pos": "n.",
+      "meaning": "芭蕾舞；芭蕾舞剧"
+    },
+    {
+      "word": "volunteer",
+      "type": "core",
+      "phonetic": "/ˌvɒlənˈtɪə(r)/",
+      "pos": "n.",
+      "meaning": "志愿者"
+    },
+    {
+      "word": "debate",
+      "type": "outline",
+      "phonetic": "/dɪˈbeɪt/",
+      "pos": "n. / vt. / vi.",
+      "meaning": "辩论；争论"
+    },
+    {
+      "word": "prefer",
+      "type": "outline",
+      "phonetic": "/prɪˈfɜː(r)/",
+      "pos": "vt.",
+      "meaning": "较喜欢"
+    },
+    {
+      "word": "prefer … to …",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "喜欢……多于……"
+    },
+    {
+      "word": "content",
+      "type": "outline",
+      "phonetic": "/ˈkɒntent/",
+      "pos": "n.",
+      "meaning": "内容；[pl.] 目录；主题"
+    },
+    {
+      "word": "movement",
+      "type": "outline",
+      "phonetic": "/ˈmuːvmənt/",
+      "pos": "n.",
+      "meaning": "动作；运动；活动"
+    },
+    {
+      "word": "greenhouse",
+      "type": "outline",
+      "phonetic": "/ˈɡriːnhaʊs/",
+      "pos": "n.",
+      "meaning": "温室；暖房"
+    },
+    {
+      "word": "clean up",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "打扫（或清除）干净"
+    },
+    {
+      "word": "suitable",
+      "type": "core",
+      "phonetic": "/ˈsuːtəbl/",
+      "pos": "adj.",
+      "meaning": "适合的；适用的"
+    },
+    {
+      "word": "suitable for",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "对……适合的"
+    },
+    {
+      "word": "actually",
+      "type": "outline",
+      "phonetic": "/ˈæktʃuəli/",
+      "pos": "adv.",
+      "meaning": "事实上；的确"
+    },
+    {
+      "word": "challenge",
+      "type": "core",
+      "phonetic": "/ˈtʃæləndʒ/",
+      "pos": "n. / vt.",
+      "meaning": "挑战；艰巨任务；向……挑战"
+    },
+    {
+      "word": "title",
+      "type": "outline",
+      "phonetic": "/ˈtaɪtl/",
+      "pos": "n.",
+      "meaning": "名称；标题；职称；头衔"
+    },
+    {
+      "word": "topic",
+      "type": "outline",
+      "phonetic": "/ˈtɒpɪk/",
+      "pos": "n.",
+      "meaning": "话题；标题"
+    },
+    {
+      "word": "freshman",
+      "type": "core",
+      "phonetic": "/ˈfreʃmən/",
+      "pos": "n.",
+      "meaning": "（中学）九年级学生；（大学）一年级新生"
+    },
+    {
+      "word": "confusing",
+      "type": "core",
+      "phonetic": "/kənˈfjuːzɪŋ/",
+      "pos": "adj.",
+      "meaning": "难以理解的；不清楚的"
+    },
+    {
+      "word": "confuse",
+      "type": "outline",
+      "phonetic": "/kənˈfjuːz/",
+      "pos": "vt.",
+      "meaning": "使糊涂；使迷惑"
+    },
+    {
+      "word": "confused",
+      "type": "outline",
+      "phonetic": "/kənˈfjuːzd/",
+      "pos": "adj.",
+      "meaning": "糊涂的；迷惑的"
+    },
+    {
+      "word": "fluent",
+      "type": "core",
+      "phonetic": "/ˈfluːənt/",
+      "pos": "adj.",
+      "meaning": "（外语）流利的；熟练的"
+    },
+    {
+      "word": "graduate",
+      "type": "core",
+      "phonetic": "/ˈɡrædʒʊeɪt/",
+      "pos": "vi. / vt. / n.",
+      "meaning": "毕业；获得学位；毕业生"
+    },
+    {
+      "word": "recommend",
+      "type": "outline",
+      "phonetic": "/ˌrekəˈmend/",
+      "pos": "vt.",
+      "meaning": "建议；推荐；介绍"
+    },
+    {
+      "word": "sign up (for sth)",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "报名（参加课程）"
+    },
+    {
+      "word": "advanced",
+      "type": "core",
+      "phonetic": "/ədˈvɑːnst/",
+      "pos": "adj.",
+      "meaning": "高级的；高等的；先进的"
+    },
+    {
+      "word": "advance",
+      "type": "outline",
+      "phonetic": "/ədˈvɑːns/",
+      "pos": "n. / vi. / vt.",
+      "meaning": "前进；发展"
+    },
+    {
+      "word": "literature",
+      "type": "core",
+      "phonetic": "/ˈlɪtrətʃə(r)/",
+      "pos": "n.",
+      "meaning": "文学；文学作品"
+    },
+    {
+      "word": "extra-curricular",
+      "type": "core",
+      "phonetic": "/ˈekstrəkəˈrɪkjulə/",
+      "pos": "adj.",
+      "meaning": "课外的；课程以外的"
+    },
+    {
+      "word": "extra",
+      "type": "core",
+      "phonetic": "/ˈekstrə/",
+      "pos": "adj.",
+      "meaning": "额外的；附加的"
+    },
+    {
+      "word": "obviously",
+      "type": "core",
+      "phonetic": "/ˈɒbviəsli/",
+      "pos": "adv.",
+      "meaning": "显然地；明显地"
+    },
+    {
+      "word": "quit",
+      "type": "core",
+      "phonetic": "/kwɪt/",
+      "pos": "vi. / vt.",
+      "meaning": "停止；戒掉；离开"
+    },
+    {
+      "word": "responsible",
+      "type": "core",
+      "phonetic": "/rɪˈspɒnsəbl/",
+      "pos": "adj.",
+      "meaning": "负责的；有责任的"
+    },
+    {
+      "word": "responsibility",
+      "type": "outline",
+      "phonetic": "/rɪˌspɒnsəˈbɪləti/",
+      "pos": "n.",
+      "meaning": "责任；义务"
+    },
+    {
+      "word": "be responsible for",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "对……负责"
+    },
+    {
+      "word": "solution",
+      "type": "outline",
+      "phonetic": "/səˈluːʃn/",
+      "pos": "n.",
+      "meaning": "解决办法；答案"
+    },
+    {
+      "word": "schedule",
+      "type": "outline",
+      "phonetic": "/ˈʃedjuːl/",
+      "pos": "n. / vt.",
+      "meaning": "工作计划；日程安排；预定"
+    },
+    {
+      "word": "editor",
+      "type": "outline",
+      "phonetic": "/ˈedɪtə(r)/",
+      "pos": "n.",
+      "meaning": "主编；编辑；编者"
+    },
+    {
+      "word": "plate",
+      "type": "outline",
+      "phonetic": "/pleɪt/",
+      "pos": "n.",
+      "meaning": "盘子；碟子"
+    },
+    {
+      "word": "adventure",
+      "type": "outline",
+      "phonetic": "/ədˈventʃə(r)/",
+      "pos": "n.",
+      "meaning": "冒险；奇遇"
+    },
+    {
+      "word": "youth",
+      "type": "outline",
+      "phonetic": "/juːθ/",
+      "pos": "n.",
+      "meaning": "青年时期；青春"
+    },
+    {
+      "word": "survival",
+      "type": "outline",
+      "phonetic": "/səˈvaɪvl/",
+      "pos": "n.",
+      "meaning": "生存；幸存"
+    },
+    {
+      "word": "expert",
+      "type": "outline",
+      "phonetic": "/ˈekspɜːt/",
+      "pos": "n. / adj.",
+      "meaning": "专家；内行的；专家的"
+    },
+    {
+      "word": "behaviour",
+      "type": "outline",
+      "phonetic": "/bɪˈheɪvjə(r)/",
+      "pos": "n.",
+      "meaning": "行为；举止"
+    },
+    {
+      "word": "generation",
+      "type": "outline",
+      "phonetic": "/ˌdʒenəˈreɪʃn/",
+      "pos": "n.",
+      "meaning": "一代（人）"
+    },
+    {
+      "word": "attract",
+      "type": "outline",
+      "phonetic": "/əˈtrækt/",
+      "pos": "vt.",
+      "meaning": "吸引；引起注意"
+    },
+    {
+      "word": "be attracted to",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "喜爱"
+    },
+    {
+      "word": "focus",
+      "type": "outline",
+      "phonetic": "/ˈfəʊkəs/",
+      "pos": "vi. / vt. / n.",
+      "meaning": "集中（精力）；焦点"
+    },
+    {
+      "word": "focus on",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "集中；特别关注"
+    },
+    {
+      "word": "addicted",
+      "type": "outline",
+      "phonetic": "/əˈdɪktɪd/",
+      "pos": "adj.",
+      "meaning": "有瘾的；上瘾的"
+    },
+    {
+      "word": "addict",
+      "type": "outline",
+      "phonetic": "/ˈædɪkt/",
+      "pos": "n.",
+      "meaning": "入迷的人；吸毒成瘾的人"
+    },
+    {
+      "word": "addicted to",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "对……很入迷"
+    },
+    {
+      "word": "adult",
+      "type": "outline",
+      "phonetic": "/ˈædʌlt/",
+      "pos": "n. / adj.",
+      "meaning": "成年人；成年的；成熟的"
+    }
+  ]
+}

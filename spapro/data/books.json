@@ -2,12 +2,23 @@
   "books": [
     {
       "id": "3500",
+      "path": "3500",
       "title": "高考英语 3500 词",
       "subtitle": "80 篇精读",
       "cover": null,
       "color": "#3B6EE8",
       "passageCount": 80,
       "unitCount": 16
+    },
+    {
+      "id": "pep1",
+      "path": "renjiao/pep1",
+      "title": "高中英语 必修第一册",
+      "subtitle": "人教版 (2019 版)",
+      "cover": null,
+      "color": "#6E4FBE",
+      "passageCount": 12,
+      "unitCount": 6
     }
   ]
 }

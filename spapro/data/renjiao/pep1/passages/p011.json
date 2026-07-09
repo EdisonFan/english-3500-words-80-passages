@@ -1,0 +1,387 @@
+{
+  "id": 1,
+  "stats": {
+    "words": 312,
+    "core": 12
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "China is widely known for its ancient civilisation which has continued all the way through into modern times, {despite} the many ups and downs in its history. There are many reasons why this has been possible, but one of the main factors has been the Chinese writing {system}. At the beginning, written Chinese was a picture-{based} language. It dates back several thousand years to the use of *longgu* — animal bones and shells on which symbols were carved by ancient Chinese people. Some of the ancient symbols can still be seen in today's *hanzi*. By the Shang {Dynasty} (around 1600–1046 BCE), these symbols had become a well-developed writing {system}. Over the years, the {system} developed into different forms, as it was a time when people were divided geographically, leading to many varieties of dialects and characters. This, however, changed under Emperor Qinshihuang of the Qin {Dynasty} (221–207 BCE). Emperor Qinshihuang united the seven {major} states into one unified country where the Chinese writing {system} began to develop in one direction. That writing {system} was of great importance in uniting the Chinese people and culture. Even today, no matter where Chinese people live or what {dialect} they speak, they can all still communicate in writing. Written Chinese has also become an important {means} by which China's present is connected with its past. People in modern times can read the {classic} works which were written by Chinese in ancient times. The high {regard} for the Chinese writing {system} can be seen in the development of Chinese characters as an art form, known as Chinese {calligraphy}, which has become an important part of Chinese culture. Today, the Chinese writing {system} is still an important part of Chinese culture. As China plays a greater role in {global} affairs, an increasing number of international students are beginning to {appreciate} China's culture and history through this amazing language.",
+      "cn": "中国，因其一路绵延至今的古代文明而著称于世，尽管历史跌宕起伏（依然如此）。\"这种情况之所以可能出现\"的原因有很多，但主要因素之一就是汉语书写体系。 起初，书面汉字是一种基于图形的语言。它可以追溯至数千年前对\"龙骨\"（*longgu*）的使用——就是古代中国人刻下符号的动物骨头和甲壳。这些古代符号中的一部分在今天的汉字中依然可以看到。 到了商朝（大约公元前 1600—1046 年），这些符号已经演变为一套成熟完善的书写体系。经过了好些年，这套体系发展成了不同的形式，乃是由于当时人们在地理上是分隔开的，就导致方言和字体产生出了不同种类。这种情况却在秦朝（公元前 221—207 年）秦始皇治下发生了变化。 秦始皇将七个主要城邦统一成了一个整齐划一的国家，其中汉语书写体系开始朝着一个方向发展。这个书写体系对于中国人民和文化的统一有着巨大的重要性。即使在今天，无论中国人住在哪里、说着何种方言，都还能以书写的方式进行交流。 书面汉语，也已成为中国连接现在与过去的重要方式。现代中国人可以读懂古代中国人写的经典作品。对汉语书写体系的高度推崇，可以从汉字作为一种艺术形式的发展中看到；这被称作中国书法艺术，而它已经成为中国文化的一个重要组成部分。 今天，汉语书写体系依然是中国文化的重要组成部分。随着中国在全球事务中扮演的角色变得更为重要，越来越多的国际学生开始透过这种神奇的语言欣赏中国文化和历史。"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "billion",
+      "type": "outline",
+      "phonetic": "/ˈbɪljən/",
+      "pos": "n.",
+      "meaning": "十亿"
+    },
+    {
+      "word": "native",
+      "type": "outline",
+      "phonetic": "/ˈneɪtɪv/",
+      "pos": "adj. / n.",
+      "meaning": "出生地的；本地的；本地人"
+    },
+    {
+      "word": "attitude",
+      "type": "outline",
+      "phonetic": "/ˈætɪtjuːd/",
+      "pos": "n.",
+      "meaning": "态度；看法"
+    },
+    {
+      "word": "reference",
+      "type": "outline",
+      "phonetic": "/ˈrefrəns/",
+      "pos": "n.",
+      "meaning": "指称关系；参考"
+    },
+    {
+      "word": "refer",
+      "type": "outline",
+      "phonetic": "/rɪˈfɜː(r)/",
+      "pos": "vi. / vt.",
+      "meaning": "提到；参考；查阅"
+    },
+    {
+      "word": "refer to",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "指的是；描述；提到；查阅"
+    },
+    {
+      "word": "system",
+      "type": "core",
+      "phonetic": "/ˈsɪstəm/",
+      "pos": "n.",
+      "meaning": "体系；制度；系统"
+    },
+    {
+      "word": "civilisation (AmE civilization)",
+      "type": "outline",
+      "phonetic": "/ˌsɪvəlaɪˈzeɪʃn/",
+      "pos": "n.",
+      "meaning": "文明；文明世界"
+    },
+    {
+      "word": "despite",
+      "type": "core",
+      "phonetic": "/dɪˈspaɪt/",
+      "pos": "prep.",
+      "meaning": "即使；尽管"
+    },
+    {
+      "word": "ups and downs",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "浮沉；兴衰；荣辱"
+    },
+    {
+      "word": "factor",
+      "type": "outline",
+      "phonetic": "/ˈfæktə(r)/",
+      "pos": "n.",
+      "meaning": "因素；要素"
+    },
+    {
+      "word": "base",
+      "type": "outline",
+      "phonetic": "/beɪs/",
+      "pos": "vt. / n.",
+      "meaning": "以……为基础；底部"
+    },
+    {
+      "word": "based",
+      "type": "core",
+      "phonetic": "/beɪst/",
+      "pos": "adj.",
+      "meaning": "以（某事）为基础的"
+    },
+    {
+      "word": "date back (to ...)",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "追溯到"
+    },
+    {
+      "word": "bone",
+      "type": "outline",
+      "phonetic": "/bəʊn/",
+      "pos": "n.",
+      "meaning": "骨头；骨（质）"
+    },
+    {
+      "word": "shell",
+      "type": "outline",
+      "phonetic": "/ʃel/",
+      "pos": "n.",
+      "meaning": "壳；壳状物"
+    },
+    {
+      "word": "symbol",
+      "type": "outline",
+      "phonetic": "/ˈsɪmbl/",
+      "pos": "n.",
+      "meaning": "符号；象征"
+    },
+    {
+      "word": "carve",
+      "type": "outline",
+      "phonetic": "/kɑːv/",
+      "pos": "vt. & vi.",
+      "meaning": "雕刻"
+    },
+    {
+      "word": "dynasty",
+      "type": "core",
+      "phonetic": "/ˈdɪnəsti/",
+      "pos": "n.",
+      "meaning": "王朝；朝代"
+    },
+    {
+      "word": "variety",
+      "type": "outline",
+      "phonetic": "/vəˈraɪəti/",
+      "pos": "n.",
+      "meaning": "变体；异体；多样化"
+    },
+    {
+      "word": "major",
+      "type": "core",
+      "phonetic": "/ˈmeɪdʒə(r)/",
+      "pos": "adj. / n. / vi.",
+      "meaning": "主要的；主修；主修"
+    },
+    {
+      "word": "no matter where, who, what, etc.",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "不论……；不管……"
+    },
+    {
+      "word": "dialect",
+      "type": "core",
+      "phonetic": "/ˈdaɪəlekt/",
+      "pos": "n.",
+      "meaning": "地方话；方言"
+    },
+    {
+      "word": "means",
+      "type": "core",
+      "phonetic": "/miːnz/",
+      "pos": "n.",
+      "meaning": "方式；方法；途径"
+    },
+    {
+      "word": "classic",
+      "type": "core",
+      "phonetic": "/ˈklæsɪk/",
+      "pos": "adj. / n.",
+      "meaning": "传统的；典型的；经典作品"
+    },
+    {
+      "word": "regard",
+      "type": "core",
+      "phonetic": "/rɪˈɡɑːd/",
+      "pos": "n. / vt.",
+      "meaning": "尊重；关注；把……视为"
+    },
+    {
+      "word": "character",
+      "type": "outline",
+      "phonetic": "/ˈkærəktə(r)/",
+      "pos": "n.",
+      "meaning": "文字；符号；角色；品质"
+    },
+    {
+      "word": "calligraphy",
+      "type": "core",
+      "phonetic": "/kəˈlɪɡrəfi/",
+      "pos": "n.",
+      "meaning": "书法；书法艺术"
+    },
+    {
+      "word": "global",
+      "type": "core",
+      "phonetic": "/ˈɡləʊbl/",
+      "pos": "adj.",
+      "meaning": "全球的；全世界的"
+    },
+    {
+      "word": "affair",
+      "type": "outline",
+      "phonetic": "/əˈfeə(r)/",
+      "pos": "n.",
+      "meaning": "公共事务；事件；关系"
+    },
+    {
+      "word": "appreciate",
+      "type": "core",
+      "phonetic": "/əˈpriːʃieɪt/",
+      "pos": "vt. / vi.",
+      "meaning": "欣赏；重视；感激；领会"
+    },
+    {
+      "word": "specific",
+      "type": "outline",
+      "phonetic": "/spəˈsɪfɪk/",
+      "pos": "adj.",
+      "meaning": "特定的；明确的；具体的"
+    },
+    {
+      "word": "struggle",
+      "type": "outline",
+      "phonetic": "/ˈstrʌɡl/",
+      "pos": "n. & vi.",
+      "meaning": "斗争；奋斗；搏斗"
+    },
+    {
+      "word": "tongue",
+      "type": "outline",
+      "phonetic": "/tʌŋ/",
+      "pos": "n.",
+      "meaning": "舌头；语言"
+    },
+    {
+      "word": "point of view",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "观点；看法"
+    },
+    {
+      "word": "semester",
+      "type": "outline",
+      "phonetic": "/sɪˈmestə(r)/",
+      "pos": "n.",
+      "meaning": "学期"
+    },
+    {
+      "word": "gas",
+      "type": "outline",
+      "phonetic": "/ɡæs/",
+      "pos": "n.",
+      "meaning": "汽油；气体；燃气"
+    },
+    {
+      "word": "petrol",
+      "type": "outline",
+      "phonetic": "/ˈpetrəl/",
+      "pos": "n.",
+      "meaning": "（NAmE gas）汽油"
+    },
+    {
+      "word": "subway",
+      "type": "outline",
+      "phonetic": "/ˈsʌbweɪ/",
+      "pos": "n.",
+      "meaning": "（BrE underground）地铁"
+    },
+    {
+      "word": "apartment",
+      "type": "outline",
+      "phonetic": "/əˈpɑːtmənt/",
+      "pos": "n.",
+      "meaning": "（especially NAmE）公寓套房"
+    },
+    {
+      "word": "pants",
+      "type": "outline",
+      "phonetic": "/pænts/",
+      "pos": "n. [pl.]",
+      "meaning": "（BrE）内裤；（NAmE）裤子"
+    },
+    {
+      "word": "beg",
+      "type": "outline",
+      "phonetic": "/beɡ/",
+      "pos": "vt.",
+      "meaning": "恳求；祈求；哀求"
+    },
+    {
+      "word": "equal",
+      "type": "outline",
+      "phonetic": "/ˈiːkwəl/",
+      "pos": "n. / adj.",
+      "meaning": "同等的人；相同的"
+    },
+    {
+      "word": "gap",
+      "type": "outline",
+      "phonetic": "/ɡæp/",
+      "pos": "n.",
+      "meaning": "间隔；开口；差距"
+    },
+    {
+      "word": "demand",
+      "type": "outline",
+      "phonetic": "/dɪˈmɑːnd/",
+      "pos": "n. / vt.",
+      "meaning": "要求；需求；强烈要求"
+    },
+    {
+      "word": "vocabulary",
+      "type": "outline",
+      "phonetic": "/vəˈkæbjələri/",
+      "pos": "n.",
+      "meaning": "词汇"
+    },
+    {
+      "word": "description",
+      "type": "outline",
+      "phonetic": "/dɪˈskrɪpʃn/",
+      "pos": "n.",
+      "meaning": "描写（文字）；形容"
+    },
+    {
+      "word": "relate",
+      "type": "outline",
+      "phonetic": "/rɪˈleɪt/",
+      "pos": "vt.",
+      "meaning": "联系；讲述"
+    },
+    {
+      "word": "relate to",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "与……相关；涉及；谈到"
+    },
+    {
+      "word": "Korean",
+      "type": "outline",
+      "phonetic": "/kəˈriən/",
+      "pos": "n. / adj.",
+      "meaning": "朝鲜（或韩国）语；朝鲜（或韩国）的"
+    },
+    {
+      "word": "Danish",
+      "type": "outline",
+      "phonetic": "/ˈdeɪnɪʃ/",
+      "pos": "n. / adj.",
+      "meaning": "丹麦语；丹麦的"
+    },
+    {
+      "word": "Denmark",
+      "type": "outline",
+      "phonetic": "/ˈdenmɑːk/",
+      "pos": "n.",
+      "meaning": "丹麦（国家名）"
+    },
+    {
+      "word": "Arabic",
+      "type": "outline",
+      "phonetic": "/ˈærəbɪk/",
+      "pos": "n. / adj.",
+      "meaning": "阿拉伯语；阿拉伯的"
+    }
+  ]
+}

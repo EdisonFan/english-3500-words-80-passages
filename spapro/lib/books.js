@@ -53,7 +53,13 @@ async function handleBook(req, res, bookId) {
     sendJson(res, 400, { ok: false, error: 'bookId 不合法' });
     return;
   }
-  const bookDir = path.join(DATA_DIR, bookId);
+  // 从 books.json 查 entry 拿到 path（支持子目录布局）
+  const booksData = readJsonSilent(path.join(DATA_DIR, 'books.json'));
+  const entry = (booksData && booksData.books || []).find(b => b.id === bookId);
+  // 兼容：entry.path 优先（如 "renjiao/pep1"），否则 data/<bookId>/
+  const bookDir = entry && entry.path
+    ? path.join(DATA_DIR, entry.path)
+    : path.join(DATA_DIR, bookId);
   const book = readJsonSilent(path.join(bookDir, 'book.json'));
   if (!book) {
     sendJson(res, 404, { ok: false, error: '书不存在' });
@@ -83,7 +89,13 @@ async function handleBookPassage(req, res, bookId, pid) {
     sendJson(res, 400, { ok: false, error: '参数不合法' });
     return;
   }
-  const file = path.join(DATA_DIR, bookId, 'passages', pid + '.json');
+  // 同样的 path 解析
+  const booksData = readJsonSilent(path.join(DATA_DIR, 'books.json'));
+  const entry = (booksData && booksData.books || []).find(b => b.id === bookId);
+  const bookDir = entry && entry.path
+    ? path.join(DATA_DIR, entry.path)
+    : path.join(DATA_DIR, bookId);
+  const file = path.join(bookDir, 'passages', pid + '.json');
   if (!fs.existsSync(file)) {
     sendJson(res, 404, { ok: false, error: '文章不存在' });
     return;
@@ -93,9 +105,8 @@ async function handleBookPassage(req, res, bookId, pid) {
     sendJson(res, 500, { ok: false, error: '文章数据解析失败' });
     return;
   }
-  // 把 bookId 和 passageCount 注入响应里，前端不用额外查
   data._bookId = bookId;
-  const index = readJsonSilent(path.join(DATA_DIR, bookId, 'passages-index.json'));
+  const index = readJsonSilent(path.join(bookDir, 'passages-index.json'));
   if (index && Array.isArray(index.passages)) {
     data._bookPassageCount = index.passages.length;
   }

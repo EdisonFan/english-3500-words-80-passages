@@ -1,0 +1,429 @@
+{
+  "id": 2,
+  "stats": {
+    "words": 237,
+    "core": 0
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "Paul and I were on our school basketball team, The Lions. Paul's favourite player was Tyrone Bogues, a guy who played for the Charlotte Hornets. Bogues was only 1.6 metres tall, which made him the shortest player ever in the NBA. Guess what? Paul was only 1.6 metres tall too. That's the fatal weakness for a basketball player. The coach was not sure about Paul. Thus he was usually on the bench, being just a replacement. But Paul did not give up. He worked really hard and spent hours practising. He had a strong desire to play for the team. Then came the big game against The Bears — our main competitors, a team whose record that season had been perfect. They hadn't lost a single game. It would be a tough one. During the game, one of our players got hurt and could not play. \"Give him a shot, coach!\" someone shouted. \"He can't play!\" the coach replied. \"Let me try, coach! I won't let you down!\" Paul cried. \"OK, OK!\" the coach finally agreed. Paul jumped up and rushed onto the court. \"Don't let us down, Paul. It's your time to shine,\" the coach said. Paul made shot after shot. In the end, our team won by two points. \"Well,\" said the coach as he hit Paul on the shoulder, \"you've just earned your place on the team, big guy!\"",
+      "cn": "保罗和我是学校狮子篮球队的队员。保罗最喜欢的球员是特里·博格斯（Tyrone Bogues），一个效力于夏洛特黄蜂队的家伙。博格斯只有 1.6 米高，这使他成为 NBA 史上最矮的球员。你猜怎么着？保罗也只有 1.6 米高。对篮球运动员来说，那是致命的弱点。 教练对保罗并不看好。因此他通常坐在替补席上，只是个替补队员。但保罗没有放弃。他非常努力地训练，花大量时间练习。他有着为球队出战的强烈渴望。 接着，与熊队（The Bears）的大赛到来了——那是我们主要的竞争对手，那支球队那个赛季至今保持全胜。他们一场未输。这将是一场硬仗。 比赛进行中，我们的一名队员受伤，无法继续比赛。\"让他试试吧，教练！\"有人喊道。\"他不能上场！\"教练回答。 \"让我试试吧，教练！我不会让您失望的！\"保罗喊道。 \"好吧，好吧！\"教练终于同意了。 保罗跳起来冲上球场。\"别让我们失望，保罗。该你发光了。\"教练说。 保罗一个接一个地投篮命中。最终，我们队以两分优势获胜。 \"嗯，\"教练拍着保罗的肩膀说，\"你刚刚为自己在队里赢得了位置，大个子！\""
+    }
+  ],
+  "vocab": [
+    {
+      "word": "fitness",
+      "type": "outline",
+      "phonetic": "/ˈfɪtnəs/",
+      "pos": "n.",
+      "meaning": "健康；健壮；适合"
+    },
+    {
+      "word": "soccer",
+      "type": "outline",
+      "phonetic": "/ˈsɒkə(r)/",
+      "pos": "n.",
+      "meaning": "足球；足球运动"
+    },
+    {
+      "word": "stadium",
+      "type": "outline",
+      "phonetic": "/ˈsteɪdiəm/",
+      "pos": "n.",
+      "meaning": "体育场；运动场"
+    },
+    {
+      "word": "boxing",
+      "type": "outline",
+      "phonetic": "/ˈbɒksɪŋ/",
+      "pos": "n.",
+      "meaning": "拳击（运动）"
+    },
+    {
+      "word": "badminton",
+      "type": "outline",
+      "phonetic": "/ˈbædmɪntən/",
+      "pos": "n.",
+      "meaning": "羽毛球运动"
+    },
+    {
+      "word": "marathon",
+      "type": "outline",
+      "phonetic": "/ˈmærəθən/",
+      "pos": "n.",
+      "meaning": "马拉松赛跑"
+    },
+    {
+      "word": "event",
+      "type": "outline",
+      "phonetic": "/ɪˈvent/",
+      "pos": "n.",
+      "meaning": "比赛项目；大事"
+    },
+    {
+      "word": "come along",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "跟随；到达；进步"
+    },
+    {
+      "word": "ski",
+      "type": "outline",
+      "phonetic": "/skiː/",
+      "pos": "adj. / vi.",
+      "meaning": "滑雪的；滑雪"
+    },
+    {
+      "word": "host",
+      "type": "outline",
+      "phonetic": "/həʊst/",
+      "pos": "vt. / n.",
+      "meaning": "主办；主持；东道主"
+    },
+    {
+      "word": "track",
+      "type": "outline",
+      "phonetic": "/træk/",
+      "pos": "n. / vt. & vi.",
+      "meaning": "跑道；足迹；追踪"
+    },
+    {
+      "word": "track and field",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "田径"
+    },
+    {
+      "word": "gym",
+      "type": "outline",
+      "phonetic": "/dʒɪm/",
+      "pos": "n.",
+      "meaning": "健身房；体育馆"
+    },
+    {
+      "word": "gymnastics",
+      "type": "outline",
+      "phonetic": "/dʒɪmˈnæstɪks/",
+      "pos": "n.",
+      "meaning": "体操（训练）"
+    },
+    {
+      "word": "work out",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "锻炼；计算出"
+    },
+    {
+      "word": "sweat",
+      "type": "outline",
+      "phonetic": "/swet/",
+      "pos": "vt. / vi. / n.",
+      "meaning": "使出汗；汗水"
+    },
+    {
+      "word": "make it",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "获得成功；准时到达"
+    },
+    {
+      "word": "legend",
+      "type": "outline",
+      "phonetic": "/ˈledʒənd/",
+      "pos": "n.",
+      "meaning": "传奇故事（或人物）"
+    },
+    {
+      "word": "athlete",
+      "type": "outline",
+      "phonetic": "/ˈæθliːt/",
+      "pos": "n.",
+      "meaning": "运动员；运动健儿"
+    },
+    {
+      "word": "master",
+      "type": "outline",
+      "phonetic": "/ˈmɑːstə(r)/",
+      "pos": "n. / vt.",
+      "meaning": "高手；精通；掌握"
+    },
+    {
+      "word": "set an example",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "树立榜样"
+    },
+    {
+      "word": "honour (NAmE honor)",
+      "type": "outline",
+      "phonetic": "/ˈɒnə(r)/",
+      "pos": "n.",
+      "meaning": "荣誉；尊敬；荣幸"
+    },
+    {
+      "word": "glory",
+      "type": "outline",
+      "phonetic": "/ˈɡlɔːri/",
+      "pos": "n.",
+      "meaning": "荣誉；光荣；赞美"
+    },
+    {
+      "word": "medal",
+      "type": "outline",
+      "phonetic": "/ˈmedl/",
+      "pos": "n.",
+      "meaning": "奖章；勋章"
+    },
+    {
+      "word": "championship",
+      "type": "outline",
+      "phonetic": "/ˈtʃæmpiənʃɪp/",
+      "pos": "n.",
+      "meaning": "锦标赛；冠军称号"
+    },
+    {
+      "word": "champion",
+      "type": "outline",
+      "phonetic": "/ˈtʃæmpiən/",
+      "pos": "n.",
+      "meaning": "冠军；优胜者"
+    },
+    {
+      "word": "determination",
+      "type": "outline",
+      "phonetic": "/dɪˌtɜːmɪˈneɪʃn/",
+      "pos": "n.",
+      "meaning": "决心；决定"
+    },
+    {
+      "word": "apart",
+      "type": "outline",
+      "phonetic": "/əˈpɑːt/",
+      "pos": "adv.",
+      "meaning": "分离；分开"
+    },
+    {
+      "word": "fall apart",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "破裂；崩溃"
+    },
+    {
+      "word": "injure",
+      "type": "outline",
+      "phonetic": "/ˈɪndʒə(r)/",
+      "pos": "vt.",
+      "meaning": "使受伤；损害"
+    },
+    {
+      "word": "injured",
+      "type": "outline",
+      "phonetic": "/ˈɪndʒəd/",
+      "pos": "adj.",
+      "meaning": "受伤的；有伤的"
+    },
+    {
+      "word": "injury",
+      "type": "outline",
+      "phonetic": "/ˈɪndʒəri/",
+      "pos": "n.",
+      "meaning": "伤害；损伤"
+    },
+    {
+      "word": "captain",
+      "type": "outline",
+      "phonetic": "/ˈkæptɪn/",
+      "pos": "n.",
+      "meaning": "（运动队）队长；船长"
+    },
+    {
+      "word": "lose heart",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "丧失信心；泄气"
+    },
+    {
+      "word": "graceful",
+      "type": "outline",
+      "phonetic": "/ˈɡreɪsfl/",
+      "pos": "adj.",
+      "meaning": "优美的；优雅的"
+    },
+    {
+      "word": "strength",
+      "type": "outline",
+      "phonetic": "/streŋθ/",
+      "pos": "n.",
+      "meaning": "力量；体力"
+    },
+    {
+      "word": "failure",
+      "type": "outline",
+      "phonetic": "/ˈfeɪljə(r)/",
+      "pos": "n.",
+      "meaning": "失败；失败的人"
+    },
+    {
+      "word": "give up",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "放弃；投降"
+    },
+    {
+      "word": "compete",
+      "type": "outline",
+      "phonetic": "/kəmˈpiːt/",
+      "pos": "vi.",
+      "meaning": "竞争；对抗"
+    },
+    {
+      "word": "make sense",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "有道理；合乎情理"
+    },
+    {
+      "word": "pretend",
+      "type": "outline",
+      "phonetic": "/prɪˈtend/",
+      "pos": "vi. & vt.",
+      "meaning": "假装；装扮"
+    },
+    {
+      "word": "pretend to do sth",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "假装做某事"
+    },
+    {
+      "word": "even if / though",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "即使；虽然"
+    },
+    {
+      "word": "million",
+      "type": "outline",
+      "phonetic": "/ˈmɪljən/",
+      "pos": "num.",
+      "meaning": "一百万"
+    },
+    {
+      "word": "cheat",
+      "type": "outline",
+      "phonetic": "/tʃiːt/",
+      "pos": "vi. / vt. / n.",
+      "meaning": "作弊；欺骗；骗子"
+    },
+    {
+      "word": "audience",
+      "type": "outline",
+      "phonetic": "/ˈɔːdiəns/",
+      "pos": "n.",
+      "meaning": "观众；听众"
+    },
+    {
+      "word": "positive",
+      "type": "outline",
+      "phonetic": "/ˈpɒzətɪv/",
+      "pos": "adj.",
+      "meaning": "积极的；正面的；乐观的"
+    },
+    {
+      "word": "slim",
+      "type": "outline",
+      "phonetic": "/slɪm/",
+      "pos": "adj.",
+      "meaning": "苗条的；单薄的"
+    },
+    {
+      "word": "diet",
+      "type": "outline",
+      "phonetic": "/ˈdaɪət/",
+      "pos": "n. / vi.",
+      "meaning": "日常饮食；节食"
+    },
+    {
+      "word": "make a difference",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "有作用或影响"
+    },
+    {
+      "word": "rather",
+      "type": "outline",
+      "phonetic": "/ˈrɑːðə(r)/",
+      "pos": "adv.",
+      "meaning": "相当；有点儿"
+    },
+    {
+      "word": "rather than",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "而不是"
+    },
+    {
+      "word": "push-up",
+      "type": "outline",
+      "phonetic": "/ˈpʊʃʌp/",
+      "pos": "n.",
+      "meaning": "俯卧撑"
+    },
+    {
+      "word": "cut ... out",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "停止做（或使用）"
+    },
+    {
+      "word": "now and then",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "有时；偶尔"
+    },
+    {
+      "word": "compare … with / to …",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "与……比较"
+    },
+    {
+      "word": "jog",
+      "type": "outline",
+      "phonetic": "/dʒɒg/",
+      "pos": "vi. / n.",
+      "meaning": "慢跑"
+    },
+    {
+      "word": "stress",
+      "type": "outline",
+      "phonetic": "/stres/",
+      "pos": "n. / vt. / vi.",
+      "meaning": "压力；强调；使焦虑"
+    },
+    {
+      "word": "error",
+      "type": "outline",
+      "phonetic": "/ˈerə(r)/",
+      "pos": "n.",
+      "meaning": "错误；差错"
+    }
+  ]
+}

@@ -1,0 +1,477 @@
+{
+  "id": 1,
+  "stats": {
+    "words": 538,
+    "core": 12
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "Strange things were happening in the countryside of northeastern Hebei. For several days the water in the village wells rose and fell, rose and fell. There were deep cracks that appeared in the well walls. At least one well had some smelly gas coming out of it. Chickens and even pigs were too nervous to eat and dogs refused to go inside buildings. Mice ran out of the fields looking for places to hide and fish jumped out of the water. At about 3:00 a.m. on 28 July 1976, bright lights were seen in the sky outside the city of Tangshan and loud noises were heard. But the city's one million people were asleep as usual that night.",
+      "cn": "河北东北部的乡村里，怪事接连发生。一连数日，村中水井的井水忽升忽降。井壁上出现了深深的裂缝。至少有一口井冒出了臭气。鸡甚至猪都紧张得吃不下东西，狗也拒绝进屋。老鼠跑出田地寻找藏身之处，鱼也跃出水面。1976 年 7 月 28 日凌晨 3 点左右，唐山市上空出现了耀眼的亮光，并传来巨响。但是，这座城市的一百万居民当晚仍像往常一样安然入睡。"
+    },
+    {
+      "num": "02",
+      "en": "At 3:42 a.m., everything began to shake. It seemed as if the world were coming to an end! Eleven kilometers directly below the city, one of the most deadly earthquakes of the 20th century had begun, a quake that even caused {damage} more than 150 kilometers away in Beijing. Nearly one third of the whole nation felt it! A huge {crack}, eight kilometres long and 30 metres wide, cut across houses, roads, and waterways. Hard hills of rock became rivers of dirt. In less than one minute, a large city lay in ruins. Two thirds of the people who lived there were dead or injured. Thousands of children were left without parents. The number of people who were killed or badly injured in the quake was more than 400,000.",
+      "cn": "凌晨 3 点 42 分，一切都开始摇晃。仿佛世界末日到了！城市正下方 11 千米处，20 世纪最致命的地震之一爆发了，这场地震甚至在 150 多千米外的北京也造成了破坏。全国几乎三分之一的地区都有震感！一条长达 8 千米、宽 30 米的巨大裂缝横穿房屋、道路和水渠。坚硬的岩石山丘变成了泥沙的河流。不到一分钟，一座大城市便沦为废墟。那里三分之二的居民死亡或受伤。成千上万的儿童失去了父母。在地震中死亡或重伤的人数超过了 40 万。"
+    },
+    {
+      "num": "03",
+      "en": "Everywhere survivors looked, there was nothing but ruins. Nearly everything in the city was destroyed. About 75 {percent} of the city's factories and buildings, 90 {percent} of its homes and all of its hospitals were gone. Bricks covered the ground like red autumn leaves, but no wind could blow them away. Most bridges had fallen or were not safe to cross. The railway tracks were now useless pieces of {metal}. Tens of thousands of cows, hundreds of thousands of pigs and millions of chickens were dead. Sand now filled the wells instead of water. People were in {shock} — and then, later that afternoon, another big quake shook Tangshan again. Even more buildings fell down. Water, food, and {electricity} were hard to get. People began to wonder how long the {disaster} would last.",
+      "cn": "幸存者目光所及之处，除废墟外别无他物。城里几乎所有东西都被摧毁了。大约 75% 的工厂和楼房、90% 的住宅以及所有的医院都不复存在。砖块像秋天的红叶一样覆盖着地面，却没有风能把它们吹走。大多数桥梁已经倒塌，或已无法安全通行。铁轨如今成了没用的废铁。成千上万头牛、数十万头猪和数百万只鸡都死了。井里填满了沙子，而不再是水。人们震惊不已——接着，那天下午晚些时候，又一次强震再次震撼了唐山。更多的建筑倒塌了。水、食物和电都难以获得。人们开始想知道这场灾难还会持续多久。"
+    },
+    {
+      "num": "04",
+      "en": "But hope was not lost. Soon after the quakes, the army sent 150,000 soldiers to Tangshan to dig out those who were trapped and to {bury} the dead. More than 10,000 doctors and nurses came to provide medical care. Workers built shelters for survivors whose homes had been destroyed. Hundreds of thousands of people were helped. Water and food were brought into the city by train, truck, and plane. Slowly, the city began to {breathe} again.",
+      "cn": "但是希望并没有破灭。地震后不久，军队派出 15 万名士兵赶赴唐山，挖出被困者并掩埋死者。一万多名医生和护士前来提供医疗救助。工人们为那些家园被毁的幸存者建起避难所。数十万人得到了帮助。水和食物通过火车、卡车和飞机运进城市。慢慢地，这座城市又开始\"呼吸\"了。"
+    },
+    {
+      "num": "05",
+      "en": "Tangshan started to {revive} itself and get back up on its feet. With strong support from the government and the tireless efforts of the city's people, a new Tangshan was built upon the earthquake ruins. The new city has become a home to more than seven million people, with great improvements in transportation, industry, and environment. Tangshan city has proved to China and the rest of the world that in times of {disaster}, people must {unify} and show the {wisdom} to stay positive and rebuild for a brighter future.",
+      "cn": "唐山开始自我复苏，重新站了起来。在政府的强力支持和全市人民的不懈努力下，一座新唐山在地震废墟上建了起来。这座新城已成为 700 多万人口的家园，交通、工业和环境都得到了极大改善。唐山向中国乃至全世界证明：在灾难面前，人民必须团结一致，展现智慧，保持积极乐观，重建更美好的未来。"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "disaster",
+      "type": "core",
+      "phonetic": "/dɪˈzɑːstə(r)/",
+      "pos": "n.",
+      "meaning": "灾难；灾害"
+    },
+    {
+      "word": "tornado",
+      "type": "outline",
+      "phonetic": "/tɔːˈneɪdəʊ/",
+      "pos": "n.",
+      "meaning": "龙卷风；旋风"
+    },
+    {
+      "word": "drought",
+      "type": "outline",
+      "phonetic": "/draʊt/",
+      "pos": "n.",
+      "meaning": "旱灾；久旱"
+    },
+    {
+      "word": "landslide",
+      "type": "outline",
+      "phonetic": "/ˈlændslaɪd/",
+      "pos": "n.",
+      "meaning": "崩塌；滑坡"
+    },
+    {
+      "word": "slide",
+      "type": "outline",
+      "phonetic": "/slaɪd/",
+      "pos": "vi. & vt.",
+      "meaning": "（使）滑行；滑动"
+    },
+    {
+      "word": "tsunami",
+      "type": "outline",
+      "phonetic": "/tsuːˈnɑːmi/",
+      "pos": "n.",
+      "meaning": "海啸"
+    },
+    {
+      "word": "flood",
+      "type": "outline",
+      "phonetic": "/flʌd/",
+      "pos": "n.",
+      "meaning": "洪水；大量 vi. 淹没"
+    },
+    {
+      "word": "volcanic eruption",
+      "type": "outline",
+      "phonetic": "/vɒlˈkænɪk ɪˈrʌpʃn/",
+      "pos": "短语",
+      "meaning": "火山喷发"
+    },
+    {
+      "word": "magnitude",
+      "type": "outline",
+      "phonetic": "/ˈmæɡnɪtjuːd/",
+      "pos": "n.",
+      "meaning": "（地）震级；重大"
+    },
+    {
+      "word": "rescue",
+      "type": "outline",
+      "phonetic": "/ˈreskjuː/",
+      "pos": "n. & vt.",
+      "meaning": "营救；救援"
+    },
+    {
+      "word": "damage",
+      "type": "core",
+      "phonetic": "/ˈdæmɪdʒ/",
+      "pos": "vt. / n.",
+      "meaning": "损害；破坏；损失"
+    },
+    {
+      "word": "destroy",
+      "type": "outline",
+      "phonetic": "/dɪˈstrɔɪ/",
+      "pos": "vt.",
+      "meaning": "摧毁；毁灭"
+    },
+    {
+      "word": "evacuate",
+      "type": "outline",
+      "phonetic": "/ɪˈvækjueɪt/",
+      "pos": "vt.",
+      "meaning": "疏散；撤出"
+    },
+    {
+      "word": "helicopter",
+      "type": "outline",
+      "phonetic": "/ˈhelɪkɒptə(r)/",
+      "pos": "n.",
+      "meaning": "直升机"
+    },
+    {
+      "word": "death",
+      "type": "outline",
+      "phonetic": "/deθ/",
+      "pos": "n.",
+      "meaning": "死；死亡"
+    },
+    {
+      "word": "affect",
+      "type": "outline",
+      "phonetic": "/əˈfekt/",
+      "pos": "vt.",
+      "meaning": "影响；（疾病）侵袭"
+    },
+    {
+      "word": "shelter",
+      "type": "outline",
+      "phonetic": "/ˈʃeltə(r)/",
+      "pos": "n. / vt. / vi.",
+      "meaning": "避难处；庇护；躲避"
+    },
+    {
+      "word": "crack",
+      "type": "core",
+      "phonetic": "/kræk/",
+      "pos": "n. / vi. & vt.",
+      "meaning": "裂纹；裂缝；（使）破裂"
+    },
+    {
+      "word": "as if",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "似乎；好像；仿佛"
+    },
+    {
+      "word": "ruin",
+      "type": "outline",
+      "phonetic": "/ˈruːɪn/",
+      "pos": "n. & vt.",
+      "meaning": "破坏；毁坏"
+    },
+    {
+      "word": "in ruins",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "严重受损；破败不堪"
+    },
+    {
+      "word": "percent",
+      "type": "core",
+      "phonetic": "/pəˈsent/",
+      "pos": "n. / adj. / adv.",
+      "meaning": "百分之……"
+    },
+    {
+      "word": "brick",
+      "type": "outline",
+      "phonetic": "/brɪk/",
+      "pos": "n.",
+      "meaning": "砖；砖块"
+    },
+    {
+      "word": "metal",
+      "type": "core",
+      "phonetic": "/ˈmetl/",
+      "pos": "n.",
+      "meaning": "金属"
+    },
+    {
+      "word": "shock",
+      "type": "core",
+      "phonetic": "/ʃɒk/",
+      "pos": "n. / vt.",
+      "meaning": "震惊；休克；（使）震惊"
+    },
+    {
+      "word": "in shock",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "震惊；吃惊"
+    },
+    {
+      "word": "electricity",
+      "type": "core",
+      "phonetic": "/ɪˌlekˈtrɪsəti/",
+      "pos": "n.",
+      "meaning": "电；电能"
+    },
+    {
+      "word": "trap",
+      "type": "outline",
+      "phonetic": "/træp/",
+      "pos": "vt. / n.",
+      "meaning": "使落入险境；陷阱"
+    },
+    {
+      "word": "bury",
+      "type": "core",
+      "phonetic": "/ˈberi/",
+      "pos": "vt.",
+      "meaning": "埋葬；安葬"
+    },
+    {
+      "word": "breathe",
+      "type": "core",
+      "phonetic": "/briːð/",
+      "pos": "vi. & vt.",
+      "meaning": "呼吸"
+    },
+    {
+      "word": "revive",
+      "type": "core",
+      "phonetic": "/rɪˈvaɪv/",
+      "pos": "vt. & vi.",
+      "meaning": "复活；（使）苏醒"
+    },
+    {
+      "word": "revival",
+      "type": "outline",
+      "phonetic": "/rɪˈvaɪvl/",
+      "pos": "n.",
+      "meaning": "振兴；复苏"
+    },
+    {
+      "word": "effort",
+      "type": "outline",
+      "phonetic": "/ˈefət/",
+      "pos": "n.",
+      "meaning": "努力；艰难的尝试"
+    },
+    {
+      "word": "unify",
+      "type": "core",
+      "phonetic": "/ˈjuːnɪfaɪ/",
+      "pos": "vi. & vt.",
+      "meaning": "统一；（使）成一体"
+    },
+    {
+      "word": "wisdom",
+      "type": "core",
+      "phonetic": "/ˈwɪzdəm/",
+      "pos": "n.",
+      "meaning": "智慧；才智"
+    },
+    {
+      "word": "context",
+      "type": "outline",
+      "phonetic": "/ˈkɒntekst/",
+      "pos": "n.",
+      "meaning": "上下文；语境；背景"
+    },
+    {
+      "word": "suffer",
+      "type": "outline",
+      "phonetic": "/ˈsʌfə(r)/",
+      "pos": "vt. / vi.",
+      "meaning": "遭受；蒙受；受苦"
+    },
+    {
+      "word": "volcano",
+      "type": "outline",
+      "phonetic": "/vɒlˈkeɪnəʊ/",
+      "pos": "n.",
+      "meaning": "火山"
+    },
+    {
+      "word": "erupt",
+      "type": "outline",
+      "phonetic": "/ɪˈrʌpt/",
+      "pos": "vi. & vt.",
+      "meaning": "（火山）爆发；喷出"
+    },
+    {
+      "word": "supply",
+      "type": "outline",
+      "phonetic": "/səˈplaɪ/",
+      "pos": "n. / vt.",
+      "meaning": "供应（量）；补给；供给"
+    },
+    {
+      "word": "typhoon",
+      "type": "outline",
+      "phonetic": "/taɪˈfuːn/",
+      "pos": "n.",
+      "meaning": "台风"
+    },
+    {
+      "word": "in the open air",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "露天；在户外"
+    },
+    {
+      "word": "hurricane",
+      "type": "outline",
+      "phonetic": "/ˈhʌrɪkən/",
+      "pos": "n.",
+      "meaning": "（大西洋的）飓风"
+    },
+    {
+      "word": "survive",
+      "type": "outline",
+      "phonetic": "/səˈvaɪv/",
+      "pos": "vi. / vt.",
+      "meaning": "生存；幸存；艰难度过"
+    },
+    {
+      "word": "power",
+      "type": "outline",
+      "phonetic": "/ˈpaɪə(r)/",
+      "pos": "n.",
+      "meaning": "电力供应；力量；控制力"
+    },
+    {
+      "word": "tap",
+      "type": "outline",
+      "phonetic": "/tæp/",
+      "pos": "vi. / vt. / n.",
+      "meaning": "轻叩；轻敲；水龙头"
+    },
+    {
+      "word": "pipe",
+      "type": "outline",
+      "phonetic": "/paɪp/",
+      "pos": "n.",
+      "meaning": "管子；管道"
+    },
+    {
+      "word": "whistle",
+      "type": "outline",
+      "phonetic": "/ˈwɪsl/",
+      "pos": "vi. / vt. / n.",
+      "meaning": "吹口哨；哨子（声）"
+    },
+    {
+      "word": "emergency",
+      "type": "outline",
+      "phonetic": "/iˈmɜːdʒənsi/",
+      "pos": "n.",
+      "meaning": "突发事件；紧急情况"
+    },
+    {
+      "word": "calm",
+      "type": "outline",
+      "phonetic": "/kɑːm/",
+      "pos": "adj. / vt.",
+      "meaning": "镇静的；使平静"
+    },
+    {
+      "word": "aid",
+      "type": "outline",
+      "phonetic": "/eɪd/",
+      "pos": "n. / vi. & vt.",
+      "meaning": "援助；帮助；救援"
+    },
+    {
+      "word": "kit",
+      "type": "outline",
+      "phonetic": "/kɪt/",
+      "pos": "n.",
+      "meaning": "成套工具；成套设备"
+    },
+    {
+      "word": "first aid kit",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "急救箱"
+    },
+    {
+      "word": "on hand",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "现有（尤指帮助）"
+    },
+    {
+      "word": "crash",
+      "type": "outline",
+      "phonetic": "/kræʃ/",
+      "pos": "vt. & vi. / n.",
+      "meaning": "碰撞；撞击；撞车"
+    },
+    {
+      "word": "sweep",
+      "type": "outline",
+      "phonetic": "/swiːp/",
+      "pos": "vt. & vi.",
+      "meaning": "打扫；清扫"
+    },
+    {
+      "word": "sweep away",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "消灭；彻底消除"
+    },
+    {
+      "word": "wave",
+      "type": "outline",
+      "phonetic": "/weɪv/",
+      "pos": "n. / vi. & vt.",
+      "meaning": "海浪；波浪；挥手"
+    },
+    {
+      "word": "strike",
+      "type": "outline",
+      "phonetic": "/straɪk/",
+      "pos": "vi. & vt. / n.",
+      "meaning": "侵袭；突击；击打"
+    },
+    {
+      "word": "deliver",
+      "type": "outline",
+      "phonetic": "/dɪˈlɪvə(r)/",
+      "pos": "vt. & vi.",
+      "meaning": "递送；传达；发表"
+    },
+    {
+      "word": "summary",
+      "type": "outline",
+      "phonetic": "/ˈsʌməri/",
+      "pos": "n.",
+      "meaning": "总结；概括；概要"
+    },
+    {
+      "word": "effect",
+      "type": "outline",
+      "phonetic": "/ɪˈfekt/",
+      "pos": "n.",
+      "meaning": "影响；结果；效果"
+    },
+    {
+      "word": "length",
+      "type": "outline",
+      "phonetic": "/leŋθ/",
+      "pos": "n.",
+      "meaning": "长；长度"
+    }
+  ]
+}
