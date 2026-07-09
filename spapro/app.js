@@ -266,24 +266,41 @@ function renderPassage(bookId, pid) {
                 return;
             }
             renderPassageContent(bookId, pid, j.passage);
-            // 从 dict.html 返回时恢复滚动位置(等一帧让 DOM 布局完成)
-            try {
-                var raw = sessionStorage.getItem('passageScroll');
-                if (raw) {
-                    var saved = JSON.parse(raw);
-                    if (saved && saved.hash === location.hash && saved.y > 0) {
-                        requestAnimationFrame(function () {
-                            window.scrollTo(0, saved.y);
-                        });
-                    }
-                    sessionStorage.removeItem('passageScroll');
-                }
-            } catch (e) { }
+            // 从 dict.html / video.html 返回时恢复滚动位置
+            _tryRestoreScroll();
         })
         .catch(function (err) {
             app.innerHTML = '<div class="wrap"><div class="article"><p>加载失败：' + esc(err.message) + '</p></div></div>';
         });
 }
+
+/* === 滚动位置恢复(从 dict.html / video.html 返回时) ===
+   触发时机:
+   1) renderPassage 渲染完(覆盖 hash 改变的情况)
+   2) pageshow 事件(覆盖 hash 没变 + bfcache + 重新加载的所有情况)
+
+   多帧重试:DOM 还没完全布局时 scrollTo 会失效,延后 50ms / 200ms 再补一次 */
+function _tryRestoreScroll() {
+    try {
+        var raw = sessionStorage.getItem('passageScroll');
+        if (!raw) return;
+        var saved = JSON.parse(raw);
+        // 一次性,无论匹不匹配都清,避免脏数据
+        sessionStorage.removeItem('passageScroll');
+        if (!saved || saved.hash !== location.hash || !(saved.y > 0)) return;
+
+        // 立即 + 下一帧 + 50ms + 200ms,多重保险
+        window.scrollTo(0, saved.y);
+        requestAnimationFrame(function () { window.scrollTo(0, saved.y); });
+        setTimeout(function () { window.scrollTo(0, saved.y); }, 50);
+        setTimeout(function () { window.scrollTo(0, saved.y); }, 200);
+    } catch (e) { }
+}
+
+// 兜底:hash 没变时 hashchange 不触发,但 pageshow 会触发(覆盖 bfcache + 重新加载)
+window.addEventListener('pageshow', function () {
+    _tryRestoreScroll();
+});
 
 function renderPassageContent(bookId, pid, data) {
     var id = parseInt(String(pid).replace(/^p/, ''), 10) || data.id || 0;
@@ -509,9 +526,8 @@ function openDictPage(word) {
     word = String(word || '').toLowerCase().trim();
     if (!word) return;
 
-    // 保存当前文章页滚动位置(从 dict.html 返回时恢复)
-    // 移动端用 location.href 跳转,SPA 状态全丢,需要显式存
-    // PC 用 _blank,理论上不用存,但存了也无害(恢复时 hash 一致才生效)
+    // 保存当前文章页滚动位置(从 dict.html / video.html 返回时恢复)
+    // sessionStorage 跨页面跳转持久化,只有同源 tab 内有效
     try {
         sessionStorage.setItem('passageScroll', JSON.stringify({
             hash: location.hash,
