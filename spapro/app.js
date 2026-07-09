@@ -266,41 +266,11 @@ function renderPassage(bookId, pid) {
                 return;
             }
             renderPassageContent(bookId, pid, j.passage);
-            // 从 dict.html / video.html 返回时恢复滚动位置
-            _tryRestoreScroll();
         })
         .catch(function (err) {
             app.innerHTML = '<div class="wrap"><div class="article"><p>加载失败：' + esc(err.message) + '</p></div></div>';
         });
 }
-
-/* === 滚动位置恢复(从 dict.html / video.html 返回时) ===
-   触发时机:
-   1) renderPassage 渲染完(覆盖 hash 改变的情况)
-   2) pageshow 事件(覆盖 hash 没变 + bfcache + 重新加载的所有情况)
-
-   多帧重试:DOM 还没完全布局时 scrollTo 会失效,延后 50ms / 200ms 再补一次 */
-function _tryRestoreScroll() {
-    try {
-        var raw = sessionStorage.getItem('passageScroll');
-        if (!raw) return;
-        var saved = JSON.parse(raw);
-        // 一次性,无论匹不匹配都清,避免脏数据
-        sessionStorage.removeItem('passageScroll');
-        if (!saved || saved.hash !== location.hash || !(saved.y > 0)) return;
-
-        // 立即 + 下一帧 + 50ms + 200ms,多重保险
-        window.scrollTo(0, saved.y);
-        requestAnimationFrame(function () { window.scrollTo(0, saved.y); });
-        setTimeout(function () { window.scrollTo(0, saved.y); }, 50);
-        setTimeout(function () { window.scrollTo(0, saved.y); }, 200);
-    } catch (e) { }
-}
-
-// 兜底:hash 没变时 hashchange 不触发,但 pageshow 会触发(覆盖 bfcache + 重新加载)
-window.addEventListener('pageshow', function () {
-    _tryRestoreScroll();
-});
 
 function renderPassageContent(bookId, pid, data) {
     var id = parseInt(String(pid).replace(/^p/, ''), 10) || data.id || 0;
@@ -521,19 +491,11 @@ function _fetchVideoList(word, callback) {
 /* === 跳转独立翻译页 ===
    - 把 word + (如有) 已缓存的词典数据 + (如有) 已缓存的视频列表打包塞 sessionStorage
    - dict.html 取出后立即删除,避免下次打开残留
-   - PC:新标签页打开(保留文章页可回看);手机:当前页跳转(用浏览器返回) */
+   - 全平台统一 _blank 新标签页打开:主页面不被销毁,滚动位置浏览器天然保留
+     (旧版本移动端用 location.href 跳转会丢状态,弃用) */
 function openDictPage(word) {
     word = String(word || '').toLowerCase().trim();
     if (!word) return;
-
-    // 保存当前文章页滚动位置(从 dict.html / video.html 返回时恢复)
-    // sessionStorage 跨页面跳转持久化,只有同源 tab 内有效
-    try {
-        sessionStorage.setItem('passageScroll', JSON.stringify({
-            hash: location.hash,
-            y: window.scrollY || 0
-        }));
-    } catch (e) { }
 
     var payload = { word: word, dictData: null, videoList: [] };
 
@@ -552,11 +514,7 @@ function openDictPage(word) {
     } catch (e) { }
 
     var url = '/dict.html?word=' + encodeURIComponent(word);
-    if (isMobileDevice()) {
-        location.href = url;
-    } else {
-        window.open(url, '_blank');
-    }
+    window.open(url, '_blank');
 }
 
 /* === 移动端判断（用于决定翻译页/视频页打开方式） === */
