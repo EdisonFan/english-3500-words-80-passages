@@ -15,3 +15,6 @@ HTML-antiscrape/mapping.json
 
 # 词典查询缓存(运行时自动生成,不要提交)
 spapro/data/cache/
+
+# 测试脚本(临时调试用,不进库)
+spapro/_test/

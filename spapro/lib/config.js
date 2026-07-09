@@ -5,7 +5,8 @@ const path = require('path');
 
 const PORT = 8001;
 const DIRECTORY = __dirname + path.sep + '..';
-const CACHE_DIR = path.join(DIRECTORY, 'data', 'cache');
+const DATA_DIR = path.join(DIRECTORY, 'data');
+const CACHE_DIR = path.join(DATA_DIR, 'cache');
 // const LOG_DIR = path.join(DIRECTORY, 'logs');  // 日志功能已禁用
 
 const MIME_TYPES = {
@@ -30,4 +31,4 @@ const MIME_TYPES = {
   '.pdf': 'application/pdf',
 };
 
-module.exports = { PORT, DIRECTORY, CACHE_DIR, MIME_TYPES };
+module.exports = { PORT, DIRECTORY, DATA_DIR, CACHE_DIR, MIME_TYPES };

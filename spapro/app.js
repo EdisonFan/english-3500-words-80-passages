@@ -77,37 +77,172 @@ function esc(text) {
 window.addEventListener('hashchange', router);
 
 function router() {
-    var hash = location.hash;
-    var match = hash.match(/^#\/(\d+)$/);
-    if (match) {
-        renderPassage(parseInt(match[1], 10));
-    } else {
-        renderHome();
+    var hash = location.hash || '';
+
+    // 兼容老路径 #/数字 → 重定向到新路径 #/book/3500/passage/p001
+    var oldM = hash.match(/^#\/(\d+)$/);
+    if (oldM) {
+        var n = parseInt(oldM[1], 10);
+        if (n >= 1 && n <= 80) {
+            location.replace('#/book/3500/passage/p' + String(n).padStart(3, '0'));
+            return;
+        }
     }
+
+    // #/book/<bookId>/passage/<pid> 文章页
+    var pm = hash.match(/^#\/book\/([^/]+)\/passage\/([^/]+)$/);
+    if (pm) {
+        renderPassage(decodeURIComponent(pm[1]), decodeURIComponent(pm[2]));
+        return;
+    }
+
+    // #/book/<bookId> 单元目录页
+    var bm = hash.match(/^#\/book\/([^/]+)$/);
+    if (bm) {
+        renderBook(decodeURIComponent(bm[1]));
+        return;
+    }
+
+    // 默认：书列表
+    renderHome();
 }
 
-/* === 首页 === */
+/* === 书列表页（首页） === */
 function renderHome() {
-    var html = '<div class="home">' +
-        '<div class="home-head"><h1>高考英语 <em>3500 词</em></h1>' +
-        '<p>80 篇精读 · 16 个单元 · 单词下方带上下文释义</p></div>';
+    app.innerHTML = '<div class="home"><div class="home-head"><h1>英语精读 · 书房</h1>' +
+        '<p class="muted">选择一本书开始阅读</p></div><div id="bookGrid" class="book-grid">' +
+        '<div class="book-loading">正在加载书库…</div></div></div>';
+    window.scrollTo(0, 0);
 
-    UNITS.forEach(function (unit) {
+    fetch('/api/books')
+        .then(function (r) { return r.json(); })
+        .then(function (j) {
+            var grid = document.getElementById('bookGrid');
+            if (!grid) return;
+            if (!j || !j.ok || !j.books || !j.books.length) {
+                grid.innerHTML = '<div class="book-empty">书库是空的</div>';
+                return;
+            }
+            grid.innerHTML = j.books.map(renderBookCard).join('');
+        })
+        .catch(function (err) {
+            var grid = document.getElementById('bookGrid');
+            if (grid) grid.innerHTML = '<div class="book-empty">加载失败：' + esc(err.message) + '</div>';
+        });
+}
+
+function hashColor(id) {
+    var h = 0;
+    for (var i = 0; i < id.length; i++) h = (h * 31 + id.charCodeAt(i)) | 0;
+    var hue = Math.abs(h) % 360;
+    return 'hsl(' + hue + ', 60%, 55%)';
+}
+
+function pickFg(bg) {
+    // bg: '#RRGGBB' 或 'hsl(h, s%, l%)'
+    var rgb = parseColor(bg);
+    if (!rgb) return '#fff';
+    var lum = (0.2126 * rgb[0] + 0.7152 * rgb[1] + 0.0722 * rgb[2]) / 255;
+    return lum > 0.6 ? '#1a1a1a' : '#ffffff';
+}
+
+function parseColor(c) {
+    if (!c) return null;
+    var m = String(c).match(/^#([0-9a-f]{6})$/i);
+    if (m) {
+        return [parseInt(m[1].slice(0, 2), 16), parseInt(m[1].slice(2, 4), 16), parseInt(m[1].slice(4, 6), 16)];
+    }
+    var hm = String(c).match(/^hsl\(\s*\d+\s*,\s*\d+%\s*,\s*(\d+)%\s*\)$/);
+    if (hm) return null; // hsl 简化为亮色阈值判断
+    return null;
+}
+
+function renderBookCard(b) {
+    var initial = (b.title || b.id || '?').trim().charAt(0).toUpperCase();
+    var bg = b.color || hashColor(b.id);
+    var fg = b.cover ? '#fff' : pickFg(bg);
+    var coverHtml = b.cover
+        ? '<img class="book-img" src="' + esc(b.cover) + '" alt="' + esc(b.title) + '" ' +
+          'onerror="this.outerHTML=\'<span class=book-initial style=background:' + esc(bg) + ';color:' + esc(fg) + '>' + esc(initial) + '</span>\'">'
+        : '<span class="book-initial" style="background:' + esc(bg) + ';color:' + esc(fg) + '">' + esc(initial) + '</span>';
+
+    return '<a class="book-card" href="#/book/' + esc(b.id) + '">' +
+        '<div class="book-cover" style="background:' + esc(bg) + '">' + coverHtml + '</div>' +
+        '<div class="book-meta">' +
+        '<div class="book-title">' + esc(b.title) + '</div>' +
+        (b.subtitle ? '<div class="book-sub">' + esc(b.subtitle) + '</div>' : '') +
+        '<div class="book-stats">' +
+        '<span>' + (b.unitCount || 0) + ' 单元</span>' +
+        '<span class="dot">·</span>' +
+        '<span>' + (b.passageCount || 0) + ' 篇文章</span>' +
+        '</div></div></a>';
+}
+
+/* === 单元目录页 === */
+function renderBook(bookId) {
+    app.innerHTML = '<div class="book-page"><div class="book-page-head"><div class="muted">正在加载…</div></div></div>';
+    window.scrollTo(0, 0);
+
+    fetch('/api/book/' + encodeURIComponent(bookId))
+        .then(function (r) { return r.json(); })
+        .then(function (j) {
+            if (!j || !j.ok) {
+                app.innerHTML = '<div class="book-page"><p class="muted">书不存在或加载失败</p>' +
+                    '<p><a class="link" href="#">← 返回书库</a></p></div>';
+                return;
+            }
+            renderBookContent(j.book, j.passages);
+        })
+        .catch(function (err) {
+            app.innerHTML = '<div class="book-page"><p class="muted">加载失败：' + esc(err.message) + '</p></div>';
+        });
+}
+
+function renderBookContent(book, passages) {
+    var byId = {};
+    for (var i = 0; i < passages.length; i++) byId[passages[i].id] = passages[i];
+
+    var html = '<div class="topbar"><div class="topbar-inner">' +
+        '<div class="topbar-left" onclick="location.hash=\'\'">' +
+        '<span class="dot"></span><span>书库</span></div>' +
+        '<div class="topbar-right">' +
+        '<span class="book-page-name">' + esc(book.title) + '</span>' +
+        '</div></div></div>';
+
+    html += '<div class="wrap book-page"><div class="book-page-head">' +
+        '<div class="book-page-title">' + esc(book.title) + '</div>' +
+        (book.subtitle ? '<div class="book-page-sub muted">' + esc(book.subtitle) + '</div>' : '') +
+        (book.desc ? '<div class="book-page-desc muted">' + esc(book.desc) + '</div>' : '') +
+        '<div class="book-page-stats">' +
+        '<span>' + (book.units || []).length + ' 单元</span>' +
+        '<span class="dot">·</span>' +
+        '<span>' + (book.passageCount || 0) + ' 篇文章</span>' +
+        '</div></div>';
+
+    (book.units || []).forEach(function (unit) {
         html += '<div class="unit-section">' +
             '<div class="unit-head">' +
             '<span class="unit-num">UNIT ' + unit.num + '</span>' +
-            '<span class="unit-title">' + unit.title + '</span>' +
-            '<span class="unit-range">Passage ' + unit.start + '-' + unit.end + '</span>' +
+            '<span class="unit-title">' + esc(unit.title) + '</span>' +
+            '<span class="unit-range">' + unit.passages.length + ' 篇</span>' +
             '</div><div class="passage-list">';
 
-        for (var i = unit.start; i <= unit.end; i++) {
-            var num = String(i).padStart(2, '0');
-            html += '<a class="passage-item" href="#/' + i + '">' +
-                '<div class="pi-num">PASSAGE ' + num + '</div>' +
-                '<div class="pi-title">第 ' + i + ' 篇</div>' +
-                '<div class="pi-stats">点击阅读 →</div>' +
+        unit.passages.forEach(function (pid) {
+            var p = byId[pid];
+            if (!p) {
+                // 索引里没有，回退一个简单占位
+                html += '<a class="passage-item" href="#/book/' + esc(book.id) + '/passage/' + esc(pid) + '">' +
+                    '<div class="pi-num">PASSAGE ' + esc(pid.replace(/^p/, '')) + '</div>' +
+                    '<div class="pi-title muted">（摘要缺失）</div></a>';
+                return;
+            }
+            html += '<a class="passage-item" href="#/book/' + esc(book.id) + '/passage/' + esc(p.id) + '">' +
+                '<div class="pi-num">PASSAGE ' + String(p.num).padStart(2, '0') + '</div>' +
+                '<div class="pi-title">' + esc(p.title) + '</div>' +
+                (p.preview ? '<div class="pi-preview">' + esc(p.preview) + '</div>' : '') +
+                '<div class="pi-stats">词数 ' + (p.wordCount || 0) + ' · 核心 ' + (p.coreCount || 0) + '</div>' +
                 '</a>';
-        }
+        });
 
         html += '</div></div>';
     });
@@ -118,18 +253,27 @@ function renderHome() {
 }
 
 /* === 渲染单篇 === */
-function renderPassage(id) {
-    if (id < 1 || id > TOTAL) { renderHome(); return; }
+function renderPassage(bookId, pid) {
+    if (!bookId || !pid) { renderHome(); return; }
 
-    fetch('data/p' + String(id).padStart(2, '0') + '.json')
+    app.innerHTML = '<div class="wrap"><div class="article"><p class="muted">正在加载…</p></div></div>';
+
+    fetch('/api/book/' + encodeURIComponent(bookId) + '/passage/' + encodeURIComponent(pid))
         .then(function (r) { return r.json(); })
-        .then(function (data) { renderPassageContent(id, data); })
+        .then(function (j) {
+            if (!j || !j.ok) {
+                app.innerHTML = '<div class="wrap"><div class="article"><p>加载失败：' + esc((j && j.error) || '未知错误') + '</p></div></div>';
+                return;
+            }
+            renderPassageContent(bookId, pid, j.passage);
+        })
         .catch(function (err) {
-            app.innerHTML = '<div class="wrap"><div class="article"><p>加载失败：' + err.message + '</p></div></div>';
+            app.innerHTML = '<div class="wrap"><div class="article"><p>加载失败：' + esc(err.message) + '</p></div></div>';
         });
 }
 
-function renderPassageContent(id, data) {
+function renderPassageContent(bookId, pid, data) {
+    var id = parseInt(String(pid).replace(/^p/, ''), 10) || data.id || 0;
     var num = String(id).padStart(2, '0');
 
     // 缓存当前词表数据供跳转使用
@@ -137,17 +281,17 @@ function renderPassageContent(id, data) {
 
     // 1. 顶栏
     var html = '<div class="topbar"><div class="topbar-inner">' +
-        '<div class="topbar-left" onclick="location.hash=\'#/\'">' +
-        '<span class="dot"></span><span>PASSAGE ' + num + ' / ' + TOTAL + '</span></div>' +
+        '<div class="topbar-left" onclick="location.hash=\'#/book/' + esc(bookId) + '\'">' +
+        '<span class="dot"></span><span>PASSAGE ' + num + ' / ' + (data._bookPassageCount || '?') + '</span></div>' +
         '<div class="topbar-right">' +
         '<span class="gloss-toggle" id="glossToggle" title="显示/隐藏英文词下方中文注释">' +
         '<span class="g-dot"></span><span class="g-label">中文释义</span></span>' +
         '<span class="trans-toggle" id="transToggle" title="显示/隐藏段落中文翻译">' +
         '<span class="t-dot"></span><span class="t-label">中文译文</span></span>' +
-        '<span>Words <b>' + (data.stats.words || '') + '</b></span>' +
-        '<span>Core <b>' + (data.stats.core || '') + '</b></span>' +
-        '<button class="nav-btn" onclick="goPrev(' + id + ')" ' + (id <= 1 ? 'disabled' : '') + '>← 上一篇</button>' +
-        '<button class="nav-btn" onclick="goNext(' + id + ')" ' + (id >= TOTAL ? 'disabled' : '') + '>下一篇 →</button>' +
+        '<span>Words <b>' + ((data.stats && data.stats.words) || '') + '</b></span>' +
+        '<span>Core <b>' + ((data.stats && data.stats.core) || '') + '</b></span>' +
+        '<button class="nav-btn" onclick="goPrev(\'' + esc(bookId) + '\',' + id + ')">← 上一篇</button>' +
+        '<button class="nav-btn" onclick="goNext(\'' + esc(bookId) + '\',' + id + ')">下一篇 →</button>' +
         '</div></div></div>';
 
     // 2. 正文
@@ -413,8 +557,8 @@ function isMobileDevice() {
 }
 
 /* === 上下篇导航 === */
-function goPrev(id) { if (id > 1) location.hash = '#/' + (id - 1); }
-function goNext(id) { if (id < TOTAL) location.hash = '#/' + (id + 1); }
+function goPrev(bookId, id) { if (id > 1) location.hash = '#/book/' + bookId + '/passage/p' + String(id - 1).padStart(3, '0'); }
+function goNext(bookId, id) { if (id < TOTAL) location.hash = '#/book/' + bookId + '/passage/p' + String(id + 1).padStart(3, '0'); }
 
 /* === 启动 === */
 router();

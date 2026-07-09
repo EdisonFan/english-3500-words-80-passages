@@ -16,11 +16,34 @@ const { sendJson } = require('./lib/http');
 const { handleDict } = require('./lib/dict');
 const { handleSearchVideo, handleStream, handleVideoInfo } = require('./lib/video');
 const { serveStatic } = require('./lib/static');
+const { handleBooks, handleBook, handleBookPassage } = require('./lib/books');
 
 const server = http.createServer(async (req, res) => {
   const parsed = new URL(req.url, `http://${req.headers.host}`);
   const pathname = parsed.pathname;
   const params = Object.fromEntries(parsed.searchParams);
+
+  // 多本书 API：必须在 /api/dict 等通用路由前匹配
+  // /api/book/:bookId/passage/:pid
+  let m = pathname.match(/^\/api\/book\/([^/]+)\/passage\/([^/]+)$/);
+  if (m) {
+    try { await handleBookPassage(req, res, decodeURIComponent(m[1]), decodeURIComponent(m[2])); }
+    catch (e) { sendJson(res, 500, { error: e.message }); }
+    return;
+  }
+  // /api/book/:bookId
+  m = pathname.match(/^\/api\/book\/([^/]+)$/);
+  if (m) {
+    try { await handleBook(req, res, decodeURIComponent(m[1])); }
+    catch (e) { sendJson(res, 500, { error: e.message }); }
+    return;
+  }
+  // /api/books
+  if (pathname === '/api/books') {
+    try { await handleBooks(req, res); }
+    catch (e) { sendJson(res, 500, { error: e.message }); }
+    return;
+  }
 
   if (pathname === '/api/dict') {
     const word = (params.q || '').trim();

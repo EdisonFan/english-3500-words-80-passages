@@ -255,6 +255,16 @@ body.no-gloss .para { padding-bottom: 32px; }
     font-size: 11px;
     color: var(--ink-4);
 }
+.passage-item .pi-preview {
+    font-size: 13px;
+    color: var(--ink-3);
+    line-height: 1.55;
+    margin: 6px 0 8px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
 
 /* === 正文 === */
 .article { padding: 40px 0 48px; }
@@ -1100,4 +1110,134 @@ footer {
 /* 移动端优化 */
 @media (max-width: 600px) {
     .dict-video-btn { font-size: 13px; padding: 7px 14px; }
+}
+
+/* === 通用工具类 === */
+.muted { color: var(--ink-3); }
+.link {
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px dashed currentColor;
+}
+.link:hover { color: var(--accent-deep); }
+
+/* === 书列表页（首页） === */
+.book-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 28px 24px;
+}
+.book-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.2s ease;
+}
+.book-card:hover { transform: translateY(-4px); }
+.book-cover {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 3 / 4;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 14px;
+}
+.book-cover .book-img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+.book-cover .book-initial {
+    font-family: var(--font-display);
+    font-size: 72px;
+    font-weight: 700;
+    letter-spacing: -2px;
+    line-height: 1;
+    user-select: none;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+}
+.book-meta { padding: 0 2px; }
+.book-title {
+    font-family: var(--font-display);
+    font-size: 17px;
+    font-weight: 600;
+    color: var(--ink);
+    letter-spacing: -0.2px;
+    margin-bottom: 4px;
+}
+.book-sub {
+    font-size: 13px;
+    color: var(--ink-3);
+    margin-bottom: 6px;
+}
+.book-stats {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--ink-4);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+.book-stats .dot { color: var(--line-2); }
+.book-loading,
+.book-empty {
+    grid-column: 1 / -1;
+    padding: 40px 20px;
+    text-align: center;
+    color: var(--ink-3);
+    font-size: 14px;
+}
+
+/* === 单元目录页 === */
+.book-page-name {
+    font-family: var(--font-cn);
+    font-size: 13px;
+    color: var(--ink-3);
+}
+.book-page { padding: 40px 0 80px; }
+.book-page-head { margin-bottom: 40px; }
+.book-page-title {
+    font-family: var(--font-display);
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: -1px;
+    margin-bottom: 6px;
+}
+.book-page-sub {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.book-page-desc {
+    font-size: 14px;
+    line-height: 1.6;
+    max-width: 640px;
+    margin-bottom: 12px;
+}
+.book-page-stats {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    color: var(--ink-4);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+.book-page-stats .dot { color: var(--line-2); }
+
+/* === 移动端书列表 === */
+@media (max-width: 600px) {
+    .book-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 18px 14px;
+    }
+    .book-cover .book-initial { font-size: 48px; }
+    .book-title { font-size: 15px; }
+    .book-sub { font-size: 12px; }
+    .book-page-title { font-size: 24px; }
 }
