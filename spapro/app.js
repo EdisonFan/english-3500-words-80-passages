@@ -93,6 +93,7 @@ function router() {
     var pm = hash.match(/^#\/book\/([^/]+)\/passage\/([^/]+)$/);
     if (pm) {
         renderPassage(decodeURIComponent(pm[1]), decodeURIComponent(pm[2]));
+        mountAIAssistant(true);
         return;
     }
 
@@ -100,11 +101,13 @@ function router() {
     var bm = hash.match(/^#\/book\/([^/]+)$/);
     if (bm) {
         renderBook(decodeURIComponent(bm[1]));
+        mountAIAssistant(false);
         return;
     }
 
     // 默认：书列表
     renderHome();
+    mountAIAssistant(false);
 }
 
 /* === 书列表页（首页） === */
@@ -525,6 +528,264 @@ function isMobileDevice() {
 /* === 上下篇导航 === */
 function goPrev(bookId, id) { if (id > 1) location.hash = '#/book/' + bookId + '/passage/p' + String(id - 1).padStart(3, '0'); }
 function goNext(bookId, id) { if (id < TOTAL) location.hash = '#/book/' + bookId + '/passage/p' + String(id + 1).padStart(3, '0'); }
+
+/* === AI 助手:悬浮按钮 + 弹层(只在正文页显示) === */
+var _ai = { mounted: false, open: false, busy: false, history: [] };
+var _aiFab, _aiStage, _aiMessages, _aiInput, _aiSend, _aiClose;
+
+function mountAIAssistant(show) {
+    if (show) {
+        if (!_ai.mounted) {
+            _buildAIShells();
+            _ai.mounted = true;
+        }
+        _aiFab.classList.remove('ai-fab-hidden');
+    } else {
+        if (_ai.mounted) {
+            _aiFab.classList.add('ai-fab-hidden');
+            closeAIChat();
+        }
+    }
+}
+
+function _buildAIShells() {
+    // 悬浮按钮
+    _aiFab = document.createElement('button');
+    _aiFab.className = 'ai-fab';
+    _aiFab.textContent = 'AI';
+    _aiFab.title = 'AI 助手';
+    _aiFab.onclick = openAIChat;
+    document.body.appendChild(_aiFab);
+
+    // 弹层
+    _aiStage = document.createElement('div');
+    _aiStage.className = 'ai-stage';
+    _aiStage.innerHTML =
+        '<div class="ai-panel">' +
+            '<div class="ai-header">' +
+                '<div><span class="ai-header-title">AI 助手</span>' +
+                '<span class="ai-header-sub">Ling-2.6-flash</span></div>' +
+                '<button class="ai-close" title="关闭">✕</button>' +
+            '</div>' +
+            '<div class="ai-messages"></div>' +
+            '<div class="ai-input-wrap">' +
+                '<textarea class="ai-input" placeholder="输入消息,Enter 发送,Shift+Enter 换行" rows="1"></textarea>' +
+                '<button class="ai-send">发送</button>' +
+            '</div>' +
+        '</div>';
+    document.body.appendChild(_aiStage);
+
+    _aiMessages = _aiStage.querySelector('.ai-messages');
+    _aiInput = _aiStage.querySelector('.ai-input');
+    _aiSend = _aiStage.querySelector('.ai-send');
+    _aiClose = _aiStage.querySelector('.ai-close');
+
+    _aiClose.onclick = closeAIChat;
+    _aiSend.onclick = function () { _doSend(); };
+    _aiInput.addEventListener('keydown', function (e) {
+        if (e.key === 'Enter' && !e.shiftKey) {
+            e.preventDefault();
+            _doSend();
+        }
+    });
+    // 自动调整输入框高度
+    _aiInput.addEventListener('input', function () {
+        _aiInput.style.height = 'auto';
+        _aiInput.style.height = Math.min(120, _aiInput.scrollHeight) + 'px';
+    });
+    // 点背景关闭
+    _aiStage.addEventListener('click', function (e) {
+        if (e.target === _aiStage) closeAIChat();
+    });
+
+    _renderEmpty();
+}
+
+function _renderEmpty() {
+    if (_ai.history.length > 0) return;
+    _aiMessages.innerHTML =
+        '<div class="ai-empty">' +
+            '<div class="ai-empty-icon">AI</div>' +
+            '<div>有什么英语问题想问我?试试下面的快捷提问:</div>' +
+            '<div class="ai-quick-row">' +
+                '<button class="ai-quick" data-q="解释这篇文章的中心思想">解释中心思想</button>' +
+                '<button class="ai-quick" data-q="列出本文的语法重点">语法重点</button>' +
+                '<button class="ai-quick" data-q="给我 5 个高级词汇替换">高级替换</button>' +
+                '<button class="ai-quick" data-q="翻译成中文">翻译全文</button>' +
+            '</div>' +
+        '</div>';
+    var quicks = _aiMessages.querySelectorAll('.ai-quick');
+    for (var i = 0; i < quicks.length; i++) {
+        quicks[i].onclick = function () {
+            _aiInput.value = this.getAttribute('data-q');
+            _doSend();
+        };
+    }
+}
+
+function openAIChat() {
+    if (_ai.open) return;
+    _ai.open = true;
+    _aiStage.classList.add('ai-stage-open');
+    setTimeout(function () { _aiInput.focus(); }, 50);
+}
+
+function closeAIChat() {
+    if (!_ai.open) return;
+    _ai.open = false;
+    _aiStage.classList.remove('ai-stage-open');
+}
+
+function _escapeHtml(s) {
+    return String(s).replace(/[&<>"']/g, function (c) {
+        return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+    });
+}
+
+function _appendUserMsg(text) {
+    _clearEmpty();
+    var div = document.createElement('div');
+    div.style.alignSelf = 'flex-end';
+    div.style.maxWidth = '85%';
+    div.innerHTML =
+        '<div class="ai-msg ai-msg-user">' + _escapeHtml(text) + '</div>' +
+        '<div class="ai-msg-meta">' + _now() + '</div>';
+    _aiMessages.appendChild(div);
+    _scrollDown();
+}
+
+function _appendBotPlaceholder() {
+    _clearEmpty();
+    var holder = document.createElement('div');
+    holder.style.alignSelf = 'flex-start';
+    holder.style.maxWidth = '85%';
+    holder.innerHTML =
+        '<div class="ai-msg ai-msg-bot"><span class="ai-typing"><span></span><span></span><span></span></span></div>';
+    _aiMessages.appendChild(holder);
+    _scrollDown();
+    return holder;
+}
+
+function _updateBotContent(holder, text) {
+    var msg = holder.querySelector('.ai-msg');
+    if (!msg) return;
+    msg.textContent = text;
+    _scrollDown();
+}
+
+function _appendError(text) {
+    _clearEmpty();
+    var div = document.createElement('div');
+    div.style.alignSelf = 'flex-start';
+    div.style.maxWidth = '85%';
+    div.innerHTML =
+        '<div class="ai-msg ai-msg-error">' + _escapeHtml(text) + '</div>';
+    _aiMessages.appendChild(div);
+    _scrollDown();
+}
+
+function _clearEmpty() {
+    var empty = _aiMessages.querySelector('.ai-empty');
+    if (empty) empty.remove();
+}
+
+function _scrollDown() {
+    _aiMessages.scrollTop = _aiMessages.scrollHeight;
+}
+
+function _now() {
+    var d = new Date();
+    return d.getHours().toString().padStart(2, '0') + ':' + d.getMinutes().toString().padStart(2, '0');
+}
+
+function _doSend() {
+    if (_ai.busy) return;
+    var text = (_aiInput.value || '').trim();
+    if (!text) return;
+    _aiInput.value = '';
+    _aiInput.style.height = 'auto';
+
+    _appendUserMsg(text);
+    _ai.history.push({ role: 'user', content: text });
+
+    var holder = _appendBotPlaceholder();
+    _ai.busy = true;
+    _aiSend.disabled = true;
+    _aiInput.disabled = true;
+
+    _streamChat(_ai.history, holder)
+        .then(function () {
+            // ok
+        })
+        .catch(function (err) {
+            // 移除占位,改为错误提示
+            try { holder.remove(); } catch (e) { }
+            _appendError('请求失败: ' + (err && err.message || err));
+        })
+        .then(function () {
+            _ai.busy = false;
+            _aiSend.disabled = false;
+            _aiInput.disabled = false;
+            _aiInput.focus();
+        });
+}
+
+function _streamChat(history, holder) {
+    return new Promise(function (resolve, reject) {
+        var acc = '';
+        fetch('/api/chat', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ messages: history }),
+        }).then(function (res) {
+            if (!res.ok) {
+                res.text().then(function (t) {
+                    reject(new Error('HTTP ' + res.status + ' ' + (t || '').slice(0, 200)));
+                });
+                return;
+            }
+            var reader = res.body.getReader();
+            var decoder = new TextDecoder('utf-8');
+            var buf = '';
+            function pump() {
+                reader.read().then(function (r) {
+                    if (r.done) {
+                        // 流结束
+                        _updateBotContent(holder, acc || '(空响应)');
+                        _ai.history.push({ role: 'assistant', content: acc });
+                        resolve();
+                        return;
+                    }
+                    buf += decoder.decode(r.value, { stream: true });
+                    var lines = buf.split('\n');
+                    buf = lines.pop() || '';
+                    for (var i = 0; i < lines.length; i++) {
+                        var line = lines[i].trim();
+                        if (!line) continue;
+                        if (line.indexOf('data:') !== 0) continue;
+                        var payload = line.slice(5).trim();
+                        if (payload === '[DONE]') {
+                            _updateBotContent(holder, acc || '(空响应)');
+                            _ai.history.push({ role: 'assistant', content: acc });
+                            resolve();
+                            return;
+                        }
+                        try {
+                            var obj = JSON.parse(payload);
+                            var delta = obj.choices && obj.choices[0] && obj.choices[0].delta;
+                            if (delta && delta.content) {
+                                acc += delta.content;
+                                _updateBotContent(holder, acc);
+                            }
+                        } catch (e) { /* 忽略坏行 */ }
+                    }
+                    pump();
+                }, function (err) { reject(err); });
+            }
+            pump();
+        }, function (err) { reject(err); });
+    });
+}
 
 /* === 启动 === */
 router();

@@ -17,6 +17,7 @@ const { handleDict } = require('./lib/dict');
 const { handleSearchVideo, handleStream, handleVideoInfo } = require('./lib/video');
 const { serveStatic } = require('./lib/static');
 const { handleBooks, handleBook, handleBookPassage } = require('./lib/books');
+const { handleChat } = require('./lib/chat');
 
 const server = http.createServer(async (req, res) => {
   const parsed = new URL(req.url, `http://${req.headers.host}`);
@@ -81,6 +82,12 @@ const server = http.createServer(async (req, res) => {
     }
     // download=1 时响应头加 Content-Disposition,触发浏览器下载并指定文件名
     handleStream(bvid, req, res, params.download === '1' || params.download === 'true');
+    return;
+  }
+
+  if (pathname === '/api/chat') {
+    try { await handleChat(req, res); }
+    catch (e) { sendJson(res, 500, { error: e.message }); }
     return;
   }
 
