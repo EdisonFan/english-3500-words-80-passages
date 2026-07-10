@@ -51,22 +51,22 @@
       "unitCount": 5
     },
     {
-      "id": "sel3",
-      "path": "renjiao/sel3",
-      "title": "高中英语 选择性必修第三册",
-      "subtitle": "人教版 (2019 版)",
-      "cover": "/data/renjiao/sel3/cover.jpg",
-      "color": "#7A4E8C",
-      "passageCount": 10,
-      "unitCount": 5
-    },
-    {
       "id": "sel2",
       "path": "renjiao/sel2",
       "title": "高中英语 选择性必修第二册",
       "subtitle": "人教版 (2019 版)",
       "cover": "/data/renjiao/sel2/cover.jpg",
       "color": "#D17B3F",
+      "passageCount": 10,
+      "unitCount": 5
+    },
+    {
+      "id": "sel3",
+      "path": "renjiao/sel3",
+      "title": "高中英语 选择性必修第三册",
+      "subtitle": "人教版 (2019 版)",
+      "cover": "/data/renjiao/sel3/cover.jpg",
+      "color": "#7A4E8C",
       "passageCount": 10,
       "unitCount": 5
     }
