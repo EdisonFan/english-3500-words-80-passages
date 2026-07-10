@@ -5,7 +5,7 @@
       "path": "3500",
       "title": "高考英语 3500 词",
       "subtitle": "80 篇精读",
-      "cover": null,
+      "cover": "/data/3500/cover.jpg",
       "color": "#3B6EE8",
       "passageCount": 80,
       "unitCount": 16
@@ -15,7 +15,7 @@
       "path": "renjiao/pep1",
       "title": "高中英语 必修第一册",
       "subtitle": "人教版 (2019 版)",
-      "cover": null,
+      "cover": "/data/renjiao/pep1/cover.jpg",
       "color": "#6E4FBE",
       "passageCount": 12,
       "unitCount": 6
@@ -25,7 +25,7 @@
       "path": "renjiao/pep2",
       "title": "高中英语 必修第二册",
       "subtitle": "人教版 (2019 版)",
-      "cover": null,
+      "cover": "/data/renjiao/pep2/cover.jpg",
       "color": "#2EA887",
       "passageCount": 10,
       "unitCount": 5
@@ -35,7 +35,7 @@
       "path": "renjiao/pep3",
       "title": "高中英语 必修第三册",
       "subtitle": "人教版 (2019 版)",
-      "cover": null,
+      "cover": "/data/renjiao/pep3/cover.jpg",
       "color": "#D9644B",
       "passageCount": 10,
       "unitCount": 5
