@@ -645,8 +645,6 @@ function _escapeHtml(s) {
 function _appendUserMsg(text) {
     _clearEmpty();
     var div = document.createElement('div');
-    div.style.alignSelf = 'flex-end';
-    div.style.maxWidth = '85%';
     div.innerHTML =
         '<div class="ai-msg ai-msg-user">' + _escapeHtml(text) + '</div>' +
         '<div class="ai-msg-meta">' + _now() + '</div>';
@@ -657,8 +655,6 @@ function _appendUserMsg(text) {
 function _appendBotPlaceholder() {
     _clearEmpty();
     var holder = document.createElement('div');
-    holder.style.alignSelf = 'flex-start';
-    holder.style.maxWidth = '85%';
     holder.innerHTML =
         '<div class="ai-msg ai-msg-bot"><span class="ai-typing"><span></span><span></span><span></span></span></div>';
     _aiMessages.appendChild(holder);
@@ -759,8 +755,6 @@ function _renderMarkdown(text) {
 function _appendError(text) {
     _clearEmpty();
     var div = document.createElement('div');
-    div.style.alignSelf = 'flex-start';
-    div.style.maxWidth = '85%';
     div.innerHTML =
         '<div class="ai-msg ai-msg-error">' + _escapeHtml(text) + '</div>';
     _aiMessages.appendChild(div);
