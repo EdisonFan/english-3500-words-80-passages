@@ -1254,11 +1254,12 @@ footer {
 }
 .ai-msg-bot {
     align-self: flex-start;
-    background: #fff;
+    background: transparent;
     color: #1a1a1a;
-    border: 1px solid #e5e5e7;
+    border: none;
     border-bottom-left-radius: 2px;
     max-width: 100%;
+    padding: 6px 0;
 }
 .ai-msg-error {
     align-self: flex-start;
