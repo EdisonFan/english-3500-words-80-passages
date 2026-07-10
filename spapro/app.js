@@ -569,7 +569,7 @@ function _buildAIShells() {
             '</div>' +
             '<div class="ai-messages"></div>' +
             '<div class="ai-input-wrap">' +
-                '<textarea class="ai-input" placeholder="输入消息,Enter 发送,Shift+Enter 换行" rows="1"></textarea>' +
+                '<textarea class="ai-input" placeholder="输入消息…" rows="1"></textarea>' +
                 '<button class="ai-send">发送</button>' +
             '</div>' +
         '</div>';
