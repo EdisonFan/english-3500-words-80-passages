@@ -1231,12 +1231,10 @@ footer {
     overflow-y: auto;
     padding: 18px;
     background: #f7f7f8;
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
 }
 .ai-msg {
-    max-width: 100%;
+    display: block;
+    width: 100%;
     padding: 10px 14px;
     border-radius: 12px;
     line-height: 1.55;
@@ -1244,25 +1242,27 @@ footer {
     white-space: pre-wrap;
     word-break: break-word;
     box-sizing: border-box;
+    margin-bottom: 12px;
 }
 .ai-msg-user {
-    align-self: flex-end;
+    width: fit-content;
+    max-width: 75%;
+    margin-left: auto;
     background: #e53935;
     color: #fff;
     border-bottom-right-radius: 2px;
-    max-width: 75%;
 }
 .ai-msg-bot {
-    align-self: stretch;
+    display: block;
+    width: 100%;
     background: transparent;
     color: #1a1a1a;
     border: none;
-    border-bottom-left-radius: 2px;
-    width: 100%;
     padding: 6px 0;
 }
 .ai-msg-error {
-    align-self: flex-start;
+    width: fit-content;
+    max-width: 100%;
     background: #fff3f3;
     color: #b71c1c;
     border: 1px solid #ffcdd2;
