@@ -1,0 +1,234 @@
+{
+  "id": 2,
+  "stats": {
+    "words": 399,
+    "core": 11
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "This morning, I saw the shocking headline: \"Passenger Dies When Car Crashes in Driverless Mode\". In the article, various people said that the public should {oppose} the idea of developing driverless cars. They said that some advances in technology were unnecessary and could even be dangerous. {Hence}, we should {cease} accepting technology just because it is new. The newspaper reported that the car company had already apologised for the accident, but the families of the {deceased} said it was not enough. Nevertheless, the company still claimed that most people would be travelling in driverless cars one day soon.",
+      "cn": "今天早上，我看到了一个令人震惊的头条新闻：\"乘客在无人驾驶模式的汽车撞车事故中死亡\"。在文章中，许多人说公众应该反对发展无人驾驶汽车的想法。他们说，某些技术进步是不必要的，甚至可能很危险。因此，我们不应该仅仅因为技术是新的就去接受它。报纸报道说，汽车公司已经为这起事故道了歉，但死者的家属说这还不够。尽管如此，公司仍然声称，很快有一天大多数人将乘坐无人驾驶汽车出行。"
+    },
+    {
+      "num": "02",
+      "en": "On the one hand, there are many different groups of people around the world who live happily in the {absence} of new technology. Probably the most well known are the Amish, a group of Christians living in {rural} America. They do not own or drive cars, watch TV, or use the Internet. They have lived mainly as farmers since the 18th century, and they probably will be living the same way in the distant future. They {advocate} a simple life with an {emphasis} on hard work, family, and community. They think that is better than caring about luxuries or following the lives of the rich and famous. It could even be argued that the Amish's quality of life is better since they live in and appreciate the natural environment rather than living in large, polluted cities.",
+      "cn": "一方面，世界各地有许多不同的群体在没有新技术的情况下幸福地生活着。最著名的可能是阿米什人，一个生活在美国农村的基督教群体。他们不拥有也不驾驶汽车，不看电视，也不使用互联网。自 18 世纪以来，他们主要以农民的身份生活，而且在遥远的未来他们可能也会以同样的方式生活。他们提倡简单的生活，强调努力工作、家庭和社区。他们认为这比关心奢侈品或追随富人和名人的生活更好。甚至可以说，阿米什人的生活品质更好，因为他们生活在并欣赏自然环境，而不是生活在污染严重的大城市里。"
+    },
+    {
+      "num": "03",
+      "en": "On the other hand, new technology has provided people everywhere with many benefits over the years. For example, the latest weather-tracking computer programmes give people lots of warnings about potential natural disasters, which saves many lives. Moreover, the Internet has made it possible for friends and family to keep in touch easily even if they are on opposite sides of the world. It has also made finding opportunities in life much easier, as it allows people to make larger networks of friends through using social media.",
+      "cn": "另一方面，多年来，新技术为世界各地的人们带来了许多好处。例如，最新的天气追踪计算机程序给人们提供许多关于潜在自然灾害的警告，从而挽救了许多生命。此外，互联网使朋友和家人即使身处地球两端也能轻松保持联系。它还使人们更容易在生活中寻找机会，因为它允许人们通过使用社交媒体建立更大的朋友网络。"
+    },
+    {
+      "num": "04",
+      "en": "Personally, I have benefited quite a lot from technological advances. I found my {career} as an AI designer through a social media network. My health monitor, which I wear all the time, has also helped me get into the best shape of my life. Of course, when new technology changes the way we live, it can be a scary {prospect}. Nevertheless, I will always look on the positive side of change and accept it rather than {resist} it.",
+      "cn": "就我个人而言，我从技术进步中受益匪浅。我通过一个社交媒体网络找到了我作为人工智能设计师的职业。我一直佩戴的健康监测器也帮助我达到了人生最佳的身体状态。当然，当新技术改变我们的生活方式时，这可能是一个可怕的前景。尽管如此，我将永远看到变革积极的一面，接受它而不是抵制它。"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "predict",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "预测；预言；预料"
+    },
+    {
+      "word": "prediction",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "预测；预言"
+    },
+    {
+      "word": "forecast",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt. & n.",
+      "meaning": "预测；预报"
+    },
+    {
+      "word": "occupation",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "职业；占领"
+    },
+    {
+      "word": "oppose",
+      "type": "core",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "反对；抵制；阻挠"
+    },
+    {
+      "word": "hence",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "因此；由此"
+    },
+    {
+      "word": "cease",
+      "type": "core",
+      "phonetic": "",
+      "pos": "vi. & vt.",
+      "meaning": "（使）停止；终止"
+    },
+    {
+      "word": "deceased",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "已死的；亡故的"
+    },
+    {
+      "word": "absence",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "不存在；缺乏；缺席"
+    },
+    {
+      "word": "rural",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "农村的；乡村的"
+    },
+    {
+      "word": "advocate",
+      "type": "core",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "提倡；支持"
+    },
+    {
+      "word": "emphasis",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "强调；重视；重要性"
+    },
+    {
+      "word": "luxury",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "奢华"
+    },
+    {
+      "word": "career",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "生涯；职业"
+    },
+    {
+      "word": "prospect",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "可能性；前景；景象"
+    },
+    {
+      "word": "resist",
+      "type": "core",
+      "phonetic": "",
+      "pos": "vt. & vi.",
+      "meaning": "抵制；反抗；抵挡"
+    },
+    {
+      "word": "resistance",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "抵制；反对；抗拒"
+    },
+    {
+      "word": "paragraph",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "段；段落"
+    },
+    {
+      "word": "essay",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "文章；散文"
+    },
+    {
+      "word": "accurate",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "精确的；准确的"
+    },
+    {
+      "word": "librarian",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "图书馆馆长；图书管理员"
+    },
+    {
+      "word": "switch off",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "短语",
+      "meaning": "关上；断掉电源"
+    },
+    {
+      "word": "remote control",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "短语",
+      "meaning": "遥控器"
+    },
+    {
+      "word": "air conditioner",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "短语",
+      "meaning": "空调设备"
+    },
+    {
+      "word": "daily routine",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "短语",
+      "meaning": "日常生活"
+    },
+    {
+      "word": "catch fire",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "短语",
+      "meaning": "着火"
+    },
+    {
+      "word": "in this sense",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "短语",
+      "meaning": "从这种意义上说"
+    },
+    {
+      "word": "keep in touch",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "短语",
+      "meaning": "与……保持联系"
+    },
+    {
+      "word": "artificial intelligence",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "短语",
+      "meaning": "人工智能"
+    }
+  ]
+}
