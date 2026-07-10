@@ -1,0 +1,525 @@
+{
+  "id": 2,
+  "stats": {
+    "words": 429,
+    "core": 13
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "The Richfield Museum of Fine Art is proud to present our new {exhibition}, \"From Shang to Qing: Chinese Art Through the Ages.\" Join us as we explore more than 3,000 years of wonderful art from the Middle Kingdom. From {bronze} bowls to {ceramic} vases, and jade sculptures to {ink} wash paintings, our goal is to display the Chinese {artistic} genius from ancient times.",
+      "cn": "里奇菲尔德美术博物馆很荣幸为您介绍我们的新展览——\"从商朝到清朝：历代中国艺术\"。加入我们一起来探索来自中央王国（即中国）具有3000多年历史的美妙艺术。从青铜碗到陶瓷花瓶，从玉雕到水墨画，我们的目标是展示中国古代的艺术天分。"
+    },
+    {
+      "num": "02",
+      "en": "The highlight of this {exhibition} is the painting Clearing After Snow on a Mountain Pass, one of the great works of Tang Yin (1470-1524). Born during the Ming Dynasty, Tang sought and failed to gain {entry} into the {civil} service, so he turned to painting instead. In time, he gained {recognition} as one of the greatest artists China has ever known. This painting, showing high mountains, trees, and houses covered in snow, was made with extraordinary skill. Though it is over 500 years old, it looks as fresh and full of life as the day it was created.",
+      "cn": "本次展览的亮点是唐寅（1470—1524）的杰作之一——《函关雪霁图》。唐寅出生在明朝，他曾试图考取文官，但失败了，所以他转而从事绘画。最终，他被公认为中国有史以来最伟大的艺术家之一。这幅画运用了非凡的技巧，展现了高山、树木和被雪覆盖的房屋。虽然它已经有500多年的历史了，但看起来清新且充满生机，就像刚被创作出来一样。"
+    },
+    {
+      "num": "03",
+      "en": "Also of primary note is a collection of nearly 100 {bronze} objects from the Shang Dynasty (1600 BCE-1046 BCE). While the artists who made these great works are not known, they showed great skill in creating these beautiful pieces. Some of the items on display are thought to have come from the collection of Emperor Qianlong (1711-1799), a great admirer of Shang Dynasty {bronze}.",
+      "cn": "同样十分重要的（看点）是来自商代（公元前1600—公元前1046）的近百件青铜器藏品。虽然不清楚创作这些伟大作品的艺术家是谁，但他们在创作这些美丽的作品时表现出了高超的技艺。其中一些展品被认为是乾隆皇帝（1711—1799）的收藏品，乾隆皇帝十分赞赏商朝的青铜器。"
+    },
+    {
+      "num": "04",
+      "en": "Finally, we have many fine examples of Tang Dynasty (618-907) sculptures. Most of these are of {Buddhist} origin. Even though {Buddhism} entered China much earlier, it did not really begin to show {expansion} until the seventh century. During this same period, trade along the Silk Road also boomed. Chinese {sculpture} thus found itself highly influenced by {Buddhist} art brought from India and Central Asia through the Silk Road. These works were intended to spread {Buddhism} and they are of exceptional beauty and quality. Looking at the faces of the figures in these sculptures, one sees the faces of the past. History is brought to life.",
+      "cn": "最后，我们还有许多唐代（618—907）的雕塑精品。这些雕塑中大多数与佛教有关。虽然很早之前佛教便传入了中国，但直到公元7世纪它才真正开始传播开来。与此同时，丝绸之路沿线的贸易也蓬勃发展。因此，中国雕塑深受由印度和中亚经丝绸之路传来的佛教艺术的影响。这些作品是为了传播佛教，而且它们外观精美、品质上乘。看着这些雕塑中人物的脸，你会看到过去的面孔。历史被赋予了生命。"
+    },
+    {
+      "num": "05",
+      "en": "This is just a small taste of what is in store for you in this {exhibition}. We {guarantee} that \"From Shang to Qing: Chinese Art Through the Ages\" will transport you to another time with its amazing collection of works.",
+      "cn": "这只是本次展览供您参观的展品中的一小部分。我们保证\"从商朝到清朝：历代中国艺术\"展将凭借其令人惊叹的藏品让你穿越至另一个时代。"
+    },
+    {
+      "num": "06",
+      "en": "\"From Shang to Qing: Chinese Art Through the Ages\" will run until November 25.",
+      "cn": "\"从商朝到清朝：历代中国艺术\"展将持续到11月25日。"
+    },
+    {
+      "num": "07",
+      "en": "Opening hours are from 9:00 a.m. to 5:00 p.m., from Tuesday to Sunday (the museum is closed on Mondays). No one will be admitted into the {exhibition} after 4:30 p.m.",
+      "cn": "开放时间为星期二到星期日的上午9点到下午5点（博物馆星期一闭馆）。下午四点半以后不准任何人进入展馆。"
+    },
+    {
+      "num": "08",
+      "en": "Admission: $10 for adults; $8 for students; $5 for children under 12; free for children under 5.",
+      "cn": "门票：成人10美元；学生8美元；12岁以下儿童5美元；5岁以下儿童免费。"
+    },
+    {
+      "num": "09",
+      "en": "No photos or food and drink are allowed in the museum.",
+      "cn": "博物馆内禁止拍照和饮食。"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "precise",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "准确的；精确的"
+    },
+    {
+      "word": "precisely",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "准确地；精确地；的确如此"
+    },
+    {
+      "word": "Christianity",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "基督教"
+    },
+    {
+      "word": "realistic",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "现实的；逼真的"
+    },
+    {
+      "word": "realism",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "逼真；现实主义；务实作风"
+    },
+    {
+      "word": "realist",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "现实主义画家（或作家等）；现实主义者"
+    },
+    {
+      "word": "primitive",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "发展水平低的；原始的；远古的"
+    },
+    {
+      "word": "two-dimensional",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "二维的"
+    },
+    {
+      "word": "dimension",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "维；规模；范围"
+    },
+    {
+      "word": "in particular",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "尤其；特别"
+    },
+    {
+      "word": "set apart from",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "使与众不同；使突出；使优于……"
+    },
+    {
+      "word": "humanistic",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "人文主义的"
+    },
+    {
+      "word": "humanity",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "人性；人道；（统称）人类"
+    },
+    {
+      "word": "breakthrough",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "重大进展；突破"
+    },
+    {
+      "word": "influential",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "有很大影响力的；有支配力的"
+    },
+    {
+      "word": "reputation",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "名誉；名声"
+    },
+    {
+      "word": "noble",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "贵族成员；出身高贵的人"
+    },
+    {
+      "word": "rank",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "地位；级别；行列"
+    },
+    {
+      "word": "purchase",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "购买；采购"
+    },
+    {
+      "word": "mythology",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "神话；虚幻的想法"
+    },
+    {
+      "word": "client",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "委托人；当事人；客户"
+    },
+    {
+      "word": "photography",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "照相术；摄影"
+    },
+    {
+      "word": "emerge",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vi.",
+      "meaning": "出现；浮现；暴露"
+    },
+    {
+      "word": "sunrise",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "日出"
+    },
+    {
+      "word": "convey",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "表达；传递（思想、感情等）"
+    },
+    {
+      "word": "subjective",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "主观的"
+    },
+    {
+      "word": "outer",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "外表的；外边的；外围的"
+    },
+    {
+      "word": "subsequent",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "随后的；后来的；之后的"
+    },
+    {
+      "word": "fond",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "喜爱"
+    },
+    {
+      "word": "be fond of",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "喜爱；喜欢"
+    },
+    {
+      "word": "fine art",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "美术（尤其绘画和雕塑）"
+    },
+    {
+      "word": "sculpture",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "雕像；雕刻品；雕刻术"
+    },
+    {
+      "word": "sculptor",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "雕刻家；雕塑家"
+    },
+    {
+      "word": "visual",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "视觉的；视力的"
+    },
+    {
+      "word": "water lily",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "睡莲"
+    },
+    {
+      "word": "pond",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "池塘；水池"
+    },
+    {
+      "word": "arched",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "拱形的；弓形的"
+    },
+    {
+      "word": "arch",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "拱；拱形结构；拱门"
+    },
+    {
+      "word": "investment",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "投资额；投资"
+    },
+    {
+      "word": "bride",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "新娘"
+    },
+    {
+      "word": "permanent",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "永久的；永恒的；长久的"
+    },
+    {
+      "word": "memorial",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "纪念碑；纪念物"
+    },
+    {
+      "word": "humble",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "谦逊的；虚心的；卑微的"
+    },
+    {
+      "word": "criticise",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vi.",
+      "meaning": "批评；指责；评价"
+    },
+    {
+      "word": "criticism",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "批评；指责；评论"
+    },
+    {
+      "word": "representative",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "典型的；有代表性的"
+    },
+    {
+      "word": "ink",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "墨水；墨汁；油墨"
+    },
+    {
+      "word": "animation",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "动画制作；动画片"
+    },
+    {
+      "word": "frame",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "画面；框架"
+    },
+    {
+      "word": "symphony",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "交响乐；交响曲"
+    },
+    {
+      "word": "decline",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "减少；下降；衰落"
+    },
+    {
+      "word": "exhibition",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "展览"
+    },
+    {
+      "word": "bronze",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "青铜；深红褐色"
+    },
+    {
+      "word": "ceramic",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "陶瓷制品；制陶艺术"
+    },
+    {
+      "word": "vase",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "花瓶；装饰瓶"
+    },
+    {
+      "word": "artistic",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "艺术的；艺术家的"
+    },
+    {
+      "word": "entry",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "加入；进入；参与"
+    },
+    {
+      "word": "civil",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "国民的；民用的；民事的"
+    },
+    {
+      "word": "recognition",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "承认；认出；赞誉"
+    },
+    {
+      "word": "Buddhist",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "佛教的"
+    },
+    {
+      "word": "Buddhism",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "佛教"
+    },
+    {
+      "word": "expansion",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "扩张；扩展；扩大"
+    },
+    {
+      "word": "bring to life",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "赋予……生命；使……鲜活起来"
+    },
+    {
+      "word": "guarantee",
+      "type": "core",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "保证；确保"
+    },
+    {
+      "word": "contemporary",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "当代的；现代的"
+    },
+    {
+      "word": "worthy",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "值得……的；有价值的"
+    },
+    {
+      "word": "be worthy of",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "值得"
+    }
+  ]
+}

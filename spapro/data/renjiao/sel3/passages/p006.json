@@ -1,0 +1,458 @@
+{
+  "id": 2,
+  "stats": {
+    "words": 388,
+    "core": 9
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "The beautiful Li River and its amazing surrounding scenery is one of the most well-known tourist destinations in China's Guangxi Zhuang Autonomous Region. It attracts millions of domestic and foreign visitors each year. However, its reputation as a top destination has had negative effects on the river's water quality. This report looks at the problem of water pollution and some actions that have been taken to deal with it.",
+      "cn": "美丽的漓江及其令人赞叹的周边景色是中国广西壮族自治区最著名的旅游目的地之一，每年吸引了数百万国内外游客。然而，它作为顶级旅游目的地的名声给漓江的水质带来了负面影响。本报告着眼于水污染问题以及为解决该问题已采取的一些行动。"
+    },
+    {
+      "num": "02",
+      "en": "Previously, water quality in the Li River had suffered greatly from an increasing {volume} of tourists, many of whom {frequently} threw {garbage} into the river. Many tour boats contributed to the problem too. Kitchens on board were using lots of oil, which was often thrown into the water. The growth in tourism also meant the local population rose rapidly, as well as the number of commercial and industrial enterprises. Water pollution levels increased, with more household and commercial waste ending up in the river. In order to feed more people, more chemicals were used to increase crop production. These chemicals led to severe water quality issues, causing a decrease in the number of fish species. Local officials were concerned that the pollution was damaging the natural environment and felt that urgent steps should be taken to {restore} the river's original beauty.",
+      "cn": "过去，漓江的水质因游客数量的增加而严重恶化，许多游客经常将垃圾扔进江中。许多游船也加剧了这个问题。船上的厨房使用了大量的油，这些油经常被倒入水中。旅游业的发展也意味着当地人口迅速增加，工商企业的数量也是如此。水污染水平上升，更多的生活和商业垃圾最终流入江中。为了养活更多的人，使用了更多的化学品来提高农作物产量。这些化学品导致了严重的水质问题，造成鱼类种类减少。地方官员担心污染正在破坏自然环境，认为应采取紧急措施来恢复漓江原有的美丽。"
+    },
+    {
+      "num": "03",
+      "en": "A {comprehensive} initiative was started, with a number of measures that addressed the issues. The construction of waste water treatment facilities improved the water quality and water {conservation}. The collection and transport of household waste was also improved. Dozens of polluting enterprises were closed or moved. The local government set up strict regulations regarding further industrial development. New rules were also introduced regarding tour boat routes and {garbage} {disposal} methods. Furthermore, the local authorities began to use the media to spread environmental awareness and encourage greater use of clean energy. At the same time, they started to carry out inspections regularly and {fine} tourist organisations for abuses.",
+      "cn": "一个全面的治理行动启动了，包含一系列应对这些问题的措施。废水处理设施的建设改善了水质和水资源保护。生活垃圾的收集和运输也得到了改善。数十家污染企业被关闭或搬迁。当地政府制定了关于进一步工业发展的严格规定。还出台了关于游船路线和垃圾处理方法的新规定。此外，地方当局开始利用媒体传播环保意识，鼓励更多地使用清洁能源。同时，他们开始定期进行检查，并对旅游机构的违规行为处以罚款。"
+    },
+    {
+      "num": "04",
+      "en": "With these measures, it is believed that the beauty of the Li River will be preserved for generations to come. In addition, the ambitious \"Water Ten Plan\" is also now tackling water pollution across the country. Other initiatives, such as the \"River Chief System\", hold senior officials responsible for reducing water pollution. With such campaigns in effect, China's waterways are heading towards a clean and {sustainable} future.",
+      "cn": "有了这些措施，人们相信漓江的美丽将为子孙后代保存下来。此外，雄心勃勃的\"水十条计划\"也正在全国范围内解决水污染问题。其他倡议，如\"河长制\"，让高级官员负责减少水污染。随着这些运动的实施，中国的水道正走向一个清洁和可持续的未来。"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "graph",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "图；图表；曲线图"
+    },
+    {
+      "word": "emission",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "排放物；散发物；排放"
+    },
+    {
+      "word": "melt",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vi.",
+      "meaning": "融化；熔化"
+    },
+    {
+      "word": "starve",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vi.",
+      "meaning": "挨饿；饿死"
+    },
+    {
+      "word": "seal",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "海豹"
+    },
+    {
+      "word": "ecology",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "生态；生态学"
+    },
+    {
+      "word": "release",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "排放；释放；发布"
+    },
+    {
+      "word": "methane",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "甲烷；沼气"
+    },
+    {
+      "word": "carbon",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "碳"
+    },
+    {
+      "word": "dioxide",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "二氧化物"
+    },
+    {
+      "word": "carbon dioxide",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "二氧化碳"
+    },
+    {
+      "word": "habitable",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "适合居住的"
+    },
+    {
+      "word": "sustain",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "维持；承受"
+    },
+    {
+      "word": "sustainable",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "可持续的"
+    },
+    {
+      "word": "fossil",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "化石"
+    },
+    {
+      "word": "fuel",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "燃料"
+    },
+    {
+      "word": "fossil fuel",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "化石燃料"
+    },
+    {
+      "word": "comprehensive",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "全部的；详尽的"
+    },
+    {
+      "word": "worldwide",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "遍及全球地"
+    },
+    {
+      "word": "trend",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "趋势；趋向"
+    },
+    {
+      "word": "frequently",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "频繁地；经常"
+    },
+    {
+      "word": "broadcast",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "播送；广播；传播"
+    },
+    {
+      "word": "policy",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "政策；方针"
+    },
+    {
+      "word": "footprint",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "足迹；面积"
+    },
+    {
+      "word": "restrict",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "限制；限定"
+    },
+    {
+      "word": "restriction",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "限制规定"
+    },
+    {
+      "word": "seize",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "抓住；夺取"
+    },
+    {
+      "word": "basin",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "流域；盆地"
+    },
+    {
+      "word": "penguin",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "企鹅"
+    },
+    {
+      "word": "reform",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vi.",
+      "meaning": "改革；改造"
+    },
+    {
+      "word": "undergo",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "经历；经受"
+    },
+    {
+      "word": "implement",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "使生效；贯彻"
+    },
+    {
+      "word": "harmonious",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "和谐的"
+    },
+    {
+      "word": "moderate",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "适度的；温和的"
+    },
+    {
+      "word": "submit",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "提交；呈递"
+    },
+    {
+      "word": "annual",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "每年的"
+    },
+    {
+      "word": "tropical",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "热带的"
+    },
+    {
+      "word": "chaos",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "混乱；紊乱"
+    },
+    {
+      "word": "on behalf of",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "代表"
+    },
+    {
+      "word": "nuclear",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "原子能的；核能的"
+    },
+    {
+      "word": "sensitive",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "敏感的；善解人意的"
+    },
+    {
+      "word": "jungle",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "丛林；密林"
+    },
+    {
+      "word": "smog",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "烟雾"
+    },
+    {
+      "word": "originate",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vi.",
+      "meaning": "起源；发源"
+    },
+    {
+      "word": "volume",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "量；体积"
+    },
+    {
+      "word": "garbage",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "垃圾；废物"
+    },
+    {
+      "word": "enterprise",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "公司；企业"
+    },
+    {
+      "word": "restore",
+      "type": "core",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "恢复；修复"
+    },
+    {
+      "word": "conservation",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "保护"
+    },
+    {
+      "word": "dozen",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "(一)打；十二个"
+    },
+    {
+      "word": "dozens of",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "许多"
+    },
+    {
+      "word": "regulation",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "规章制度"
+    },
+    {
+      "word": "disposal",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "去掉；处理"
+    },
+    {
+      "word": "inspection",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "检查"
+    },
+    {
+      "word": "fine",
+      "type": "core",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "对……处以罚款"
+    },
+    {
+      "word": "campaign",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "运动"
+    },
+    {
+      "word": "waterway",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "水道；航道"
+    },
+    {
+      "word": "tolerate",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "忍受；包容"
+    },
+    {
+      "word": "agenda",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "议程表"
+    },
+    {
+      "word": "Norway",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "挪威"
+    },
+    {
+      "word": "Svalbard",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "斯瓦尔巴群岛"
+    }
+  ]
+}

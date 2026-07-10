@@ -1,0 +1,56 @@
+{
+  "id": "sel3",
+  "title": "高中英语 选择性必修第三册",
+  "subtitle": "人教版 (2019 版)",
+  "cover": null,
+  "color": "#7A4E8C",
+  "desc": "人民教育出版社 2019 版高中英语选择性必修第一册,10 篇主课文 + 单元单词表",
+  "passageCount": 10,
+  "units": [
+    {
+      "id": "u01",
+      "num": 1,
+      "title": "Art 艺术",
+      "passages": [
+        "p001",
+        "p002"
+      ]
+    },
+    {
+      "id": "u02",
+      "num": 2,
+      "title": "Healthy Lifestyle 健康的生活方式",
+      "passages": [
+        "p003",
+        "p004"
+      ]
+    },
+    {
+      "id": "u03",
+      "num": 3,
+      "title": "Environmental Protection 环境保护",
+      "passages": [
+        "p005",
+        "p006"
+      ]
+    },
+    {
+      "id": "u04",
+      "num": 4,
+      "title": "Adversity and Courage 逆境与勇气",
+      "passages": [
+        "p007",
+        "p008"
+      ]
+    },
+    {
+      "id": "u05",
+      "num": 5,
+      "title": "Poems 诗歌",
+      "passages": [
+        "p009",
+        "p010"
+      ]
+    }
+  ]
+}
