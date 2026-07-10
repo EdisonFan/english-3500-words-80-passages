@@ -17,441 +17,504 @@
       "type": "core",
       "phonetic": "/kwɪˈziːn/",
       "pos": "n.",
-      "meaning": "菜肴；风味；烹饪"
+      "meaning": "菜肴；风味；烹饪",
+      "ctx": "菜肴；烹饪"
     },
     {
       "word": "prior",
       "type": "core",
       "phonetic": "/ˈpraɪə(r)/",
       "pos": "adj.",
-      "meaning": "先前的；优先的"
+      "meaning": "先前的；优先的",
+      "ctx": "先前的；……之前"
     },
     {
       "word": "prior to",
       "type": "outline",
       "phonetic": "—",
       "pos": "短语",
-      "meaning": "在……之前的"
+      "meaning": "在……之前的",
+      "ctx": "在……之前"
     },
     {
       "word": "consist",
       "type": "outline",
       "phonetic": "/kənˈsɪst/",
       "pos": "vi.",
-      "meaning": "由……组成"
+      "meaning": "由……组成",
+      "ctx": "由……组成"
     },
     {
       "word": "consist of",
       "type": "outline",
       "phonetic": "—",
       "pos": "短语",
-      "meaning": "由……组成"
+      "meaning": "由……组成",
+      "ctx": "由……组成"
     },
     {
       "word": "pepper",
       "type": "outline",
       "phonetic": "/ˈpepə(r)/",
       "pos": "n.",
-      "meaning": "甜椒；灯笼椒；胡椒粉"
+      "meaning": "甜椒；灯笼椒；胡椒粉",
+      "ctx": "辣椒；胡椒粉"
     },
     {
       "word": "recipe",
       "type": "core",
       "phonetic": "/ˈresəpi/",
       "pos": "n.",
-      "meaning": "烹饪法；食谱"
+      "meaning": "烹饪法；食谱",
+      "ctx": "食谱；做法"
     },
     {
       "word": "bold",
       "type": "core",
       "phonetic": "/bəʊld/",
       "pos": "adj.",
-      "meaning": "大胆自信的；敢于冒险的"
+      "meaning": "大胆自信的；敢于冒险的",
+      "ctx": "大胆的；浓烈的"
     },
     {
       "word": "chef",
       "type": "core",
       "phonetic": "/ʃef/",
       "pos": "n.",
-      "meaning": "厨师；主厨"
+      "meaning": "厨师；主厨",
+      "ctx": "厨师"
     },
     {
       "word": "peppercorn",
       "type": "outline",
       "phonetic": "/ˈpepəkɔːn/",
       "pos": "n.",
-      "meaning": "胡椒粒"
+      "meaning": "胡椒粒",
+      "ctx": "花椒；胡椒粒"
     },
     {
       "word": "vinegar",
       "type": "core",
       "phonetic": "/ˈvɪnɪɡə(r)/",
       "pos": "n.",
-      "meaning": "醋"
+      "meaning": "醋",
+      "ctx": "醋"
     },
     {
       "word": "stuff",
       "type": "outline",
       "phonetic": "/stʌf/",
       "pos": "vt. / n.",
-      "meaning": "填满；塞进 / 东西；物品"
+      "meaning": "填满；塞进 / 东西；物品",
+      "ctx": "填满；卷入"
     },
     {
       "word": "slice",
       "type": "outline",
       "phonetic": "/slaɪs/",
       "pos": "n. / vt.",
-      "meaning": "薄片 / 把……切成薄片"
+      "meaning": "薄片 / 把……切成薄片",
+      "ctx": "薄片"
     },
     {
       "word": "onion",
       "type": "outline",
       "phonetic": "/ˈʌnjən/",
       "pos": "n.",
-      "meaning": "洋葱；葱头"
+      "meaning": "洋葱；葱头",
+      "ctx": "洋葱"
     },
     {
       "word": "lamb",
       "type": "core",
       "phonetic": "/læm/",
       "pos": "n.",
-      "meaning": "羊羔肉；羔羊"
+      "meaning": "羊羔肉；羔羊",
+      "ctx": "羊肉"
     },
     {
       "word": "lamb kebab",
       "type": "outline",
       "phonetic": "—",
       "pos": "n.",
-      "meaning": "烤羊肉串"
+      "meaning": "烤羊肉串",
+      "ctx": "烤羊肉串"
     },
     {
       "word": "elegant",
       "type": "core",
       "phonetic": "/ˈelɪɡənt/",
       "pos": "adj.",
-      "meaning": "精美的；讲究的；文雅的"
+      "meaning": "精美的；讲究的；文雅的",
+      "ctx": "精致的"
     },
     {
       "word": "dim sum",
       "type": "outline",
       "phonetic": "/ˌdɪmˈsʌm/",
       "pos": "n.",
-      "meaning": "点心（中国食品）"
+      "meaning": "点心（中国食品）",
+      "ctx": "点心"
     },
     {
       "word": "exceptional",
       "type": "core",
       "phonetic": "/ɪkˈsepʃənl/",
       "pos": "adj.",
-      "meaning": "特别的；罕见的"
+      "meaning": "特别的；罕见的",
+      "ctx": "独特的；特别的"
     },
     {
       "word": "minimum",
       "type": "core",
       "phonetic": "/ˈmɪnɪməm/",
       "pos": "n. / adj.",
-      "meaning": "最小值；最少量 / 最低的"
+      "meaning": "最小值；最少量 / 最低的",
+      "ctx": "至少；最低限度"
     },
     {
       "word": "consume",
       "type": "core",
       "phonetic": "/kənˈsjuːm/",
       "pos": "vt.",
-      "meaning": "吃；喝；饮；消耗"
+      "meaning": "吃；喝；饮；消耗",
+      "ctx": "吃；食用"
     },
     {
       "word": "temper",
       "type": "core",
       "phonetic": "/ˈtempə(r)/",
       "pos": "n.",
-      "meaning": "脾气；火气"
+      "meaning": "脾气；火气",
+      "ctx": "脾气"
     },
     {
       "word": "vegetarian",
       "type": "outline",
       "phonetic": "/ˌvedʒəˈteəriən/",
       "pos": "n.",
-      "meaning": "素食者"
+      "meaning": "素食者",
+      "ctx": "素食者"
     },
     {
       "word": "junk food",
       "type": "outline",
       "phonetic": "—",
       "pos": "短语",
-      "meaning": "垃圾食品"
+      "meaning": "垃圾食品",
+      "ctx": "垃圾食品"
     },
     {
       "word": "garlic",
       "type": "outline",
       "phonetic": "/ˈɡɑːlɪk/",
       "pos": "n.",
-      "meaning": "蒜"
+      "meaning": "蒜",
+      "ctx": "蒜"
     },
     {
       "word": "bacon",
       "type": "outline",
       "phonetic": "/ˈbeɪkən/",
       "pos": "n.",
-      "meaning": "熏猪肉；咸肉"
+      "meaning": "熏猪肉；咸肉",
+      "ctx": "培根；咸肉"
     },
     {
       "word": "ham",
       "type": "outline",
       "phonetic": "/hæm/",
       "pos": "n.",
-      "meaning": "火腿"
+      "meaning": "火腿",
+      "ctx": "火腿"
     },
     {
       "word": "sausage",
       "type": "outline",
       "phonetic": "/ˈsɒsɪdʒ/",
       "pos": "n.",
-      "meaning": "香肠；腊肠"
+      "meaning": "香肠；腊肠",
+      "ctx": "香肠"
     },
     {
       "word": "cabbage",
       "type": "outline",
       "phonetic": "/ˈkæbɪdʒ/",
       "pos": "n.",
-      "meaning": "甘蓝；卷心菜"
+      "meaning": "甘蓝；卷心菜",
+      "ctx": "卷心菜"
     },
     {
       "word": "bean curd",
       "type": "outline",
       "phonetic": "—",
       "pos": "n.",
-      "meaning": "豆腐（=tofu）"
+      "meaning": "豆腐（=tofu）",
+      "ctx": "豆腐"
     },
     {
       "word": "brand",
       "type": "outline",
       "phonetic": "/brænd/",
       "pos": "n.",
-      "meaning": "品牌"
+      "meaning": "品牌",
+      "ctx": "品牌"
     },
     {
       "word": "olive",
       "type": "outline",
       "phonetic": "/ˈɒlɪv/",
       "pos": "n.",
-      "meaning": "油橄榄；橄榄树"
+      "meaning": "油橄榄；橄榄树",
+      "ctx": "橄榄"
     },
     {
       "word": "fig",
       "type": "outline",
       "phonetic": "/fɪɡ/",
       "pos": "n.",
-      "meaning": "无花果"
+      "meaning": "无花果",
+      "ctx": "无花果"
     },
     {
       "word": "ingredient",
       "type": "outline",
       "phonetic": "/ɪnˈɡriːdiənt/",
       "pos": "n.",
-      "meaning": "（烹饪）材料；成分"
+      "meaning": "（烹饪）材料；成分",
+      "ctx": "食材；配料"
     },
     {
       "word": "dessert",
       "type": "outline",
       "phonetic": "/dɪˈzɜːt/",
       "pos": "n.",
-      "meaning": "（饭后）甜点"
+      "meaning": "（饭后）甜点",
+      "ctx": "甜点"
     },
     {
       "word": "dough",
       "type": "outline",
       "phonetic": "/dəʊ/",
       "pos": "n.",
-      "meaning": "生面团"
+      "meaning": "生面团",
+      "ctx": "面团"
     },
     {
       "word": "stable",
       "type": "outline",
       "phonetic": "/ˈsteɪbl/",
       "pos": "adj.",
-      "meaning": "稳定的；稳重的"
+      "meaning": "稳定的；稳重的",
+      "ctx": "稳定的"
     },
     {
       "word": "canteen",
       "type": "outline",
       "phonetic": "/kænˈtiːn/",
       "pos": "n.",
-      "meaning": "食堂；餐厅"
+      "meaning": "食堂；餐厅",
+      "ctx": "食堂"
     },
     {
       "word": "cafeteria",
       "type": "outline",
       "phonetic": "/ˌkæfəˈtɪəriə/",
       "pos": "n.",
-      "meaning": "自助餐厅"
+      "meaning": "自助餐厅",
+      "ctx": "自助餐厅"
     },
     {
       "word": "bun",
       "type": "outline",
       "phonetic": "/bʌn/",
       "pos": "n.",
-      "meaning": "圆面包；小圆甜饼"
+      "meaning": "圆面包；小圆甜饼",
+      "ctx": "圆面包；小圆饼"
     },
     {
       "word": "chilli",
       "type": "outline",
       "phonetic": "/ˈtʃɪli/",
       "pos": "n.",
-      "meaning": "辣椒"
+      "meaning": "辣椒",
+      "ctx": "辣椒"
     },
     {
       "word": "pork",
       "type": "outline",
       "phonetic": "/pɔːk/",
       "pos": "n.",
-      "meaning": "猪肉"
+      "meaning": "猪肉",
+      "ctx": "猪肉"
     },
     {
       "word": "red braised pork",
       "type": "outline",
       "phonetic": "—",
       "pos": "n.",
-      "meaning": "红烧肉"
+      "meaning": "红烧肉",
+      "ctx": "红烧肉"
     },
     {
       "word": "pearl",
       "type": "outline",
       "phonetic": "/pɜːl/",
       "pos": "n.",
-      "meaning": "珍珠"
+      "meaning": "珍珠",
+      "ctx": "珍珠"
     },
     {
       "word": "somewhat",
       "type": "outline",
       "phonetic": "/ˈsʌmwɒt/",
       "pos": "adv.",
-      "meaning": "有点；稍微"
+      "meaning": "有点；稍微",
+      "ctx": "有点；稍微"
     },
     {
       "word": "madam",
       "type": "outline",
       "phonetic": "/ˈmædəm/",
       "pos": "n.",
-      "meaning": "夫人；女士"
+      "meaning": "夫人；女士",
+      "ctx": "女士"
     },
     {
       "word": "calorie",
       "type": "outline",
       "phonetic": "/ˈkæləri/",
       "pos": "n.",
-      "meaning": "卡路里"
+      "meaning": "卡路里",
+      "ctx": "卡路里"
     },
     {
       "word": "association",
       "type": "outline",
       "phonetic": "/əˌsəʊsiˈeɪʃn/",
       "pos": "n.",
-      "meaning": "协会；关联"
+      "meaning": "协会；关联",
+      "ctx": "协会；关联"
     },
     {
       "word": "regardless",
       "type": "outline",
       "phonetic": "/rɪˈɡɑːdləs/",
       "pos": "adv.",
-      "meaning": "不顾；不加理会"
+      "meaning": "不顾；不加理会",
+      "ctx": "不管"
     },
     {
       "word": "regardless of",
       "type": "outline",
       "phonetic": "—",
       "pos": "短语",
-      "meaning": "不管；不顾"
+      "meaning": "不管；不顾",
+      "ctx": "不管；无论"
     },
     {
       "word": "category",
       "type": "outline",
       "phonetic": "/ˈkætəɡəri/",
       "pos": "n.",
-      "meaning": "类别；种类"
+      "meaning": "类别；种类",
+      "ctx": "类别"
     },
     {
       "word": "vitamin",
       "type": "outline",
       "phonetic": "/ˈvɪtəmɪn/",
       "pos": "n.",
-      "meaning": "维生素"
+      "meaning": "维生素",
+      "ctx": "维生素"
     },
     {
       "word": "fibre",
       "type": "outline",
       "phonetic": "/ˈfaɪbə(r)/",
       "pos": "n.",
-      "meaning": "纤维；纤维制品"
+      "meaning": "纤维；纤维制品",
+      "ctx": "纤维"
     },
     {
       "word": "quantity",
       "type": "outline",
       "phonetic": "/ˈkwɒntəti/",
       "pos": "n.",
-      "meaning": "数量；数额"
+      "meaning": "数量；数额",
+      "ctx": "数量"
     },
     {
       "word": "dairy",
       "type": "outline",
       "phonetic": "/ˈdeəri/",
       "pos": "adj. / n.",
-      "meaning": "奶制的；乳品的 / 乳制品"
+      "meaning": "奶制的；乳品的 / 乳制品",
+      "ctx": "乳制品"
     },
     {
       "word": "moderation",
       "type": "outline",
       "phonetic": "/ˌmɒdəˈreɪʃn/",
       "pos": "n.",
-      "meaning": "适度；合理"
+      "meaning": "适度；合理",
+      "ctx": "适度"
     },
     {
       "word": "ideal",
       "type": "outline",
       "phonetic": "/aɪˈdiːəl/",
       "pos": "adj. / n.",
-      "meaning": "完美的；理想的 / 理想"
+      "meaning": "完美的；理想的 / 理想",
+      "ctx": "理想的"
     },
     {
       "word": "fundamental",
       "type": "outline",
       "phonetic": "/ˌfʌndəˈmentl/",
       "pos": "adj. / n.",
-      "meaning": "根本的；基础的 / 基本规律"
+      "meaning": "根本的；基础的 / 基本规律",
+      "ctx": "根本的"
     },
     {
       "word": "chew",
       "type": "outline",
       "phonetic": "/tʃuː/",
       "pos": "vi. / vt. / n.",
-      "meaning": "咀嚼；嚼碎 / 咀嚼"
+      "meaning": "咀嚼；嚼碎 / 咀嚼",
+      "ctx": "咀嚼"
     },
     {
       "word": "consistent",
       "type": "outline",
       "phonetic": "/kənˈsɪstənt/",
       "pos": "adj.",
-      "meaning": "一致的；连续的"
+      "meaning": "一致的；连续的",
+      "ctx": "一致的"
     },
     {
       "word": "modest",
       "type": "outline",
       "phonetic": "/ˈmɒdɪst/",
       "pos": "adj.",
-      "meaning": "些许的；谦虚的；朴素的"
+      "meaning": "些许的；谦虚的；朴素的",
+      "ctx": "适度的；谦虚的"
     },
     {
       "word": "trick",
       "type": "outline",
       "phonetic": "/trɪk/",
       "pos": "n.",
-      "meaning": "诀窍；计谋；把戏"
+      "meaning": "诀窍；计谋；把戏",
+      "ctx": "诀窍；窍门"
     },
     {
       "word": "overall",
       "type": "outline",
       "phonetic": "/ˌəʊvərˈɔːl/",
       "pos": "adv. / adj.",
-      "meaning": "总体上 / 全面的；综合的"
+      "meaning": "总体上 / 全面的；综合的",
+      "ctx": "总体上"
     }
   ]
 }

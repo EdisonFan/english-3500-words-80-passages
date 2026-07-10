@@ -35,6 +35,7 @@
     {
       "word": "disaster",
       "type": "core",
+      "ctx": "灾难",
       "phonetic": "/dɪˈzɑːstə(r)/",
       "pos": "n.",
       "meaning": "灾难；灾害"
@@ -42,6 +43,7 @@
     {
       "word": "tornado",
       "type": "outline",
+      "ctx": "龙卷风",
       "phonetic": "/tɔːˈneɪdəʊ/",
       "pos": "n.",
       "meaning": "龙卷风；旋风"
@@ -49,6 +51,7 @@
     {
       "word": "drought",
       "type": "outline",
+      "ctx": "旱灾",
       "phonetic": "/draʊt/",
       "pos": "n.",
       "meaning": "旱灾；久旱"
@@ -56,6 +59,7 @@
     {
       "word": "landslide",
       "type": "outline",
+      "ctx": "滑坡",
       "phonetic": "/ˈlændslaɪd/",
       "pos": "n.",
       "meaning": "崩塌；滑坡"
@@ -63,6 +67,7 @@
     {
       "word": "slide",
       "type": "outline",
+      "ctx": "滑行；滑动",
       "phonetic": "/slaɪd/",
       "pos": "vi. & vt.",
       "meaning": "（使）滑行；滑动"
@@ -70,6 +75,7 @@
     {
       "word": "tsunami",
       "type": "outline",
+      "ctx": "海啸",
       "phonetic": "/tsuːˈnɑːmi/",
       "pos": "n.",
       "meaning": "海啸"
@@ -77,6 +83,7 @@
     {
       "word": "flood",
       "type": "outline",
+      "ctx": "洪水",
       "phonetic": "/flʌd/",
       "pos": "n.",
       "meaning": "洪水；大量 vi. 淹没"
@@ -84,6 +91,7 @@
     {
       "word": "volcanic eruption",
       "type": "outline",
+      "ctx": "火山喷发",
       "phonetic": "/vɒlˈkænɪk ɪˈrʌpʃn/",
       "pos": "短语",
       "meaning": "火山喷发"
@@ -91,6 +99,7 @@
     {
       "word": "magnitude",
       "type": "outline",
+      "ctx": "（地）震级",
       "phonetic": "/ˈmæɡnɪtjuːd/",
       "pos": "n.",
       "meaning": "（地）震级；重大"
@@ -98,6 +107,7 @@
     {
       "word": "rescue",
       "type": "outline",
+      "ctx": "营救；救援",
       "phonetic": "/ˈreskjuː/",
       "pos": "n. & vt.",
       "meaning": "营救；救援"
@@ -105,6 +115,7 @@
     {
       "word": "damage",
       "type": "core",
+      "ctx": "破坏；损害",
       "phonetic": "/ˈdæmɪdʒ/",
       "pos": "vt. / n.",
       "meaning": "损害；破坏；损失"
@@ -112,6 +123,7 @@
     {
       "word": "destroy",
       "type": "outline",
+      "ctx": "摧毁；毁灭",
       "phonetic": "/dɪˈstrɔɪ/",
       "pos": "vt.",
       "meaning": "摧毁；毁灭"
@@ -119,6 +131,7 @@
     {
       "word": "evacuate",
       "type": "outline",
+      "ctx": "疏散；撤出",
       "phonetic": "/ɪˈvækjueɪt/",
       "pos": "vt.",
       "meaning": "疏散；撤出"
@@ -126,6 +139,7 @@
     {
       "word": "helicopter",
       "type": "outline",
+      "ctx": "直升机",
       "phonetic": "/ˈhelɪkɒptə(r)/",
       "pos": "n.",
       "meaning": "直升机"
@@ -133,6 +147,7 @@
     {
       "word": "death",
       "type": "outline",
+      "ctx": "死亡",
       "phonetic": "/deθ/",
       "pos": "n.",
       "meaning": "死；死亡"
@@ -140,6 +155,7 @@
     {
       "word": "affect",
       "type": "outline",
+      "ctx": "影响；侵袭",
       "phonetic": "/əˈfekt/",
       "pos": "vt.",
       "meaning": "影响；（疾病）侵袭"
@@ -147,6 +163,7 @@
     {
       "word": "shelter",
       "type": "outline",
+      "ctx": "避难处；庇护",
       "phonetic": "/ˈʃeltə(r)/",
       "pos": "n. / vt. / vi.",
       "meaning": "避难处；庇护；躲避"
@@ -154,6 +171,7 @@
     {
       "word": "crack",
       "type": "core",
+      "ctx": "裂缝",
       "phonetic": "/kræk/",
       "pos": "n. / vi. & vt.",
       "meaning": "裂纹；裂缝；（使）破裂"
@@ -161,6 +179,7 @@
     {
       "word": "as if",
       "type": "outline",
+      "ctx": "似乎；好像",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "似乎；好像；仿佛"
@@ -168,6 +187,7 @@
     {
       "word": "ruin",
       "type": "outline",
+      "ctx": "毁坏；破坏",
       "phonetic": "/ˈruːɪn/",
       "pos": "n. & vt.",
       "meaning": "破坏；毁坏"
@@ -175,6 +195,7 @@
     {
       "word": "in ruins",
       "type": "outline",
+      "ctx": "严重受损；破败不堪",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "严重受损；破败不堪"
@@ -182,6 +203,7 @@
     {
       "word": "percent",
       "type": "core",
+      "ctx": "百分之……",
       "phonetic": "/pəˈsent/",
       "pos": "n. / adj. / adv.",
       "meaning": "百分之……"
@@ -189,6 +211,7 @@
     {
       "word": "brick",
       "type": "outline",
+      "ctx": "砖；砖块",
       "phonetic": "/brɪk/",
       "pos": "n.",
       "meaning": "砖；砖块"
@@ -196,6 +219,7 @@
     {
       "word": "metal",
       "type": "core",
+      "ctx": "金属",
       "phonetic": "/ˈmetl/",
       "pos": "n.",
       "meaning": "金属"
@@ -203,6 +227,7 @@
     {
       "word": "shock",
       "type": "core",
+      "ctx": "震惊",
       "phonetic": "/ʃɒk/",
       "pos": "n. / vt.",
       "meaning": "震惊；休克；（使）震惊"
@@ -210,6 +235,7 @@
     {
       "word": "in shock",
       "type": "outline",
+      "ctx": "震惊；吃惊",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "震惊；吃惊"
@@ -217,6 +243,7 @@
     {
       "word": "electricity",
       "type": "core",
+      "ctx": "电",
       "phonetic": "/ɪˌlekˈtrɪsəti/",
       "pos": "n.",
       "meaning": "电；电能"
@@ -224,6 +251,7 @@
     {
       "word": "trap",
       "type": "outline",
+      "ctx": "使落入险境；陷阱",
       "phonetic": "/træp/",
       "pos": "vt. / n.",
       "meaning": "使落入险境；陷阱"
@@ -231,6 +259,7 @@
     {
       "word": "bury",
       "type": "core",
+      "ctx": "掩埋；埋葬",
       "phonetic": "/ˈberi/",
       "pos": "vt.",
       "meaning": "埋葬；安葬"
@@ -238,6 +267,7 @@
     {
       "word": "breathe",
       "type": "core",
+      "ctx": "呼吸",
       "phonetic": "/briːð/",
       "pos": "vi. & vt.",
       "meaning": "呼吸"
@@ -245,6 +275,7 @@
     {
       "word": "revive",
       "type": "core",
+      "ctx": "复苏",
       "phonetic": "/rɪˈvaɪv/",
       "pos": "vt. & vi.",
       "meaning": "复活；（使）苏醒"
@@ -252,6 +283,7 @@
     {
       "word": "revival",
       "type": "outline",
+      "ctx": "振兴；复苏",
       "phonetic": "/rɪˈvaɪvl/",
       "pos": "n.",
       "meaning": "振兴；复苏"
@@ -259,6 +291,7 @@
     {
       "word": "effort",
       "type": "outline",
+      "ctx": "努力",
       "phonetic": "/ˈefət/",
       "pos": "n.",
       "meaning": "努力；艰难的尝试"
@@ -266,6 +299,7 @@
     {
       "word": "unify",
       "type": "core",
+      "ctx": "团结；统一",
       "phonetic": "/ˈjuːnɪfaɪ/",
       "pos": "vi. & vt.",
       "meaning": "统一；（使）成一体"
@@ -273,6 +307,7 @@
     {
       "word": "wisdom",
       "type": "core",
+      "ctx": "智慧",
       "phonetic": "/ˈwɪzdəm/",
       "pos": "n.",
       "meaning": "智慧；才智"
@@ -280,6 +315,7 @@
     {
       "word": "context",
       "type": "outline",
+      "ctx": "上下文；语境",
       "phonetic": "/ˈkɒntekst/",
       "pos": "n.",
       "meaning": "上下文；语境；背景"
@@ -287,6 +323,7 @@
     {
       "word": "suffer",
       "type": "outline",
+      "ctx": "遭受；受苦",
       "phonetic": "/ˈsʌfə(r)/",
       "pos": "vt. / vi.",
       "meaning": "遭受；蒙受；受苦"
@@ -294,6 +331,7 @@
     {
       "word": "volcano",
       "type": "outline",
+      "ctx": "火山",
       "phonetic": "/vɒlˈkeɪnəʊ/",
       "pos": "n.",
       "meaning": "火山"
@@ -301,6 +339,7 @@
     {
       "word": "erupt",
       "type": "outline",
+      "ctx": "（火山）爆发",
       "phonetic": "/ɪˈrʌpt/",
       "pos": "vi. & vt.",
       "meaning": "（火山）爆发；喷出"
@@ -308,6 +347,7 @@
     {
       "word": "supply",
       "type": "outline",
+      "ctx": "供应；供给",
       "phonetic": "/səˈplaɪ/",
       "pos": "n. / vt.",
       "meaning": "供应（量）；补给；供给"
@@ -315,6 +355,7 @@
     {
       "word": "typhoon",
       "type": "outline",
+      "ctx": "台风",
       "phonetic": "/taɪˈfuːn/",
       "pos": "n.",
       "meaning": "台风"
@@ -322,6 +363,7 @@
     {
       "word": "in the open air",
       "type": "outline",
+      "ctx": "露天；在户外",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "露天；在户外"
@@ -329,6 +371,7 @@
     {
       "word": "hurricane",
       "type": "outline",
+      "ctx": "飓风",
       "phonetic": "/ˈhʌrɪkən/",
       "pos": "n.",
       "meaning": "（大西洋的）飓风"
@@ -336,6 +379,7 @@
     {
       "word": "survive",
       "type": "outline",
+      "ctx": "生存；幸存",
       "phonetic": "/səˈvaɪv/",
       "pos": "vi. / vt.",
       "meaning": "生存；幸存；艰难度过"
@@ -343,6 +387,7 @@
     {
       "word": "power",
       "type": "outline",
+      "ctx": "电力供应；力量",
       "phonetic": "/ˈpaɪə(r)/",
       "pos": "n.",
       "meaning": "电力供应；力量；控制力"
@@ -350,6 +395,7 @@
     {
       "word": "tap",
       "type": "outline",
+      "ctx": "轻叩；水龙头",
       "phonetic": "/tæp/",
       "pos": "vi. / vt. / n.",
       "meaning": "轻叩；轻敲；水龙头"
@@ -357,6 +403,7 @@
     {
       "word": "pipe",
       "type": "outline",
+      "ctx": "管子；管道",
       "phonetic": "/paɪp/",
       "pos": "n.",
       "meaning": "管子；管道"
@@ -364,6 +411,7 @@
     {
       "word": "whistle",
       "type": "outline",
+      "ctx": "吹口哨；哨子",
       "phonetic": "/ˈwɪsl/",
       "pos": "vi. / vt. / n.",
       "meaning": "吹口哨；哨子（声）"
@@ -371,6 +419,7 @@
     {
       "word": "emergency",
       "type": "outline",
+      "ctx": "紧急情况",
       "phonetic": "/iˈmɜːdʒənsi/",
       "pos": "n.",
       "meaning": "突发事件；紧急情况"
@@ -378,6 +427,7 @@
     {
       "word": "calm",
       "type": "outline",
+      "ctx": "镇静的；使平静",
       "phonetic": "/kɑːm/",
       "pos": "adj. / vt.",
       "meaning": "镇静的；使平静"
@@ -385,6 +435,7 @@
     {
       "word": "aid",
       "type": "outline",
+      "ctx": "援助；帮助",
       "phonetic": "/eɪd/",
       "pos": "n. / vi. & vt.",
       "meaning": "援助；帮助；救援"
@@ -392,6 +443,7 @@
     {
       "word": "kit",
       "type": "outline",
+      "ctx": "成套工具",
       "phonetic": "/kɪt/",
       "pos": "n.",
       "meaning": "成套工具；成套设备"
@@ -399,6 +451,7 @@
     {
       "word": "first aid kit",
       "type": "outline",
+      "ctx": "急救箱",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "急救箱"
@@ -406,6 +459,7 @@
     {
       "word": "on hand",
       "type": "outline",
+      "ctx": "现有（尤指帮助）",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "现有（尤指帮助）"
@@ -413,6 +467,7 @@
     {
       "word": "crash",
       "type": "outline",
+      "ctx": "碰撞；撞车",
       "phonetic": "/kræʃ/",
       "pos": "vt. & vi. / n.",
       "meaning": "碰撞；撞击；撞车"
@@ -420,6 +475,7 @@
     {
       "word": "sweep",
       "type": "outline",
+      "ctx": "打扫；清扫",
       "phonetic": "/swiːp/",
       "pos": "vt. & vi.",
       "meaning": "打扫；清扫"
@@ -427,6 +483,7 @@
     {
       "word": "sweep away",
       "type": "outline",
+      "ctx": "消灭；彻底消除",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "消灭；彻底消除"
@@ -434,6 +491,7 @@
     {
       "word": "wave",
       "type": "outline",
+      "ctx": "海浪；波浪",
       "phonetic": "/weɪv/",
       "pos": "n. / vi. & vt.",
       "meaning": "海浪；波浪；挥手"
@@ -441,6 +499,7 @@
     {
       "word": "strike",
       "type": "outline",
+      "ctx": "侵袭；击打",
       "phonetic": "/straɪk/",
       "pos": "vi. & vt. / n.",
       "meaning": "侵袭；突击；击打"
@@ -448,6 +507,7 @@
     {
       "word": "deliver",
       "type": "outline",
+      "ctx": "递送；发表",
       "phonetic": "/dɪˈlɪvə(r)/",
       "pos": "vt. & vi.",
       "meaning": "递送；传达；发表"
@@ -455,6 +515,7 @@
     {
       "word": "summary",
       "type": "outline",
+      "ctx": "总结；概要",
       "phonetic": "/ˈsʌməri/",
       "pos": "n.",
       "meaning": "总结；概括；概要"
@@ -462,6 +523,7 @@
     {
       "word": "effect",
       "type": "outline",
+      "ctx": "影响；效果",
       "phonetic": "/ɪˈfekt/",
       "pos": "n.",
       "meaning": "影响；结果；效果"
@@ -469,6 +531,7 @@
     {
       "word": "length",
       "type": "outline",
+      "ctx": "长；长度",
       "phonetic": "/leŋθ/",
       "pos": "n.",
       "meaning": "长；长度"

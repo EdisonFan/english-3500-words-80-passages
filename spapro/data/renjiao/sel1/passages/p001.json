@@ -32,203 +32,232 @@
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "生理学；生理机能"
+      "meaning": "生理学；生理机能",
+      "ctx": "生理学；生理机能"
     },
     {
       "word": "artemisinin",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "青蒿素"
+      "meaning": "青蒿素",
+      "ctx": "青蒿素"
     },
     {
       "word": "crucial",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "至关重要的；关键性的"
+      "meaning": "至关重要的；关键性的",
+      "ctx": "至关重要的；关键性的"
     },
     {
       "word": "malaria",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "疟疾"
+      "meaning": "疟疾",
+      "ctx": "疟疾"
     },
     {
       "word": "vital",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "必不可少的；极其重要的"
+      "meaning": "必不可少的；极其重要的",
+      "ctx": "必不可少的；极其重要的"
     },
     {
       "word": "committed",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "坚定的；投入的"
+      "meaning": "坚定的；投入的",
+      "ctx": "坚定的；投入的"
     },
     {
       "word": "commit",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "承诺；保证；犯（错、罪）"
+      "meaning": "承诺；保证；犯（错、罪）",
+      "ctx": "承诺；犯（错、罪）"
     },
     {
       "word": "academy",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "专科院校；研究院；学会"
+      "meaning": "专科院校；研究院；学会",
+      "ctx": "研究院；学会"
     },
     {
       "word": "academic",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "学业的；学术的"
+      "meaning": "学业的；学术的",
+      "ctx": "学业的；学术的"
     },
     {
       "word": "objective",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "目标；目的"
+      "meaning": "目标；目的",
+      "ctx": "目标；目的"
     },
     {
       "word": "botanical",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "植物学的"
+      "meaning": "植物学的",
+      "ctx": "植物学的"
     },
     {
       "word": "evaluate",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "评价；评估"
+      "meaning": "评价；评估",
+      "ctx": "评价；评估"
     },
     {
       "word": "property",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "性质；特征；财产"
+      "meaning": "性质；特征；财产",
+      "ctx": "性质；特征"
     },
     {
       "word": "distinct",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "清晰的；有区别的"
+      "meaning": "清晰的；有区别的",
+      "ctx": "清晰的；有区别的"
     },
     {
       "word": "extract",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "提取物；摘录"
+      "meaning": "提取物；摘录",
+      "ctx": "提取物"
     },
     {
       "word": "wormwood",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "蒿；洋艾"
+      "meaning": "蒿；洋艾",
+      "ctx": "蒿；青蒿"
     },
     {
       "word": "boil",
       "type": "outline",
       "phonetic": "",
       "pos": "vt. & vi.",
-      "meaning": "沸腾；煮沸"
+      "meaning": "沸腾；煮沸",
+      "ctx": "煮沸；沸腾"
     },
     {
       "word": "liquid",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "液体"
+      "meaning": "液体",
+      "ctx": "液体"
     },
     {
       "word": "obtain",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "（经努力）获得；赢得"
+      "meaning": "（经努力）获得；赢得",
+      "ctx": "（经努力）获得"
     },
     {
       "word": "acknowledge",
       "type": "core",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "承认；告知收悉；感谢"
+      "meaning": "承认；告知收悉；感谢",
+      "ctx": "承认；告知收悉"
     },
     {
       "word": "defeat",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "失败；挫败"
+      "meaning": "失败；挫败",
+      "ctx": "失败；挫败"
     },
     {
       "word": "analyse",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "分析"
+      "meaning": "分析",
+      "ctx": "分析"
     },
     {
       "word": "apparently",
       "type": "core",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "显而易见；看来；显然"
+      "meaning": "显而易见；看来；显然",
+      "ctx": "看来；显然"
     },
     {
       "word": "substance",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "物质；物品"
+      "meaning": "物质；物品",
+      "ctx": "物质；物品"
     },
     {
       "word": "insist",
       "type": "outline",
       "phonetic": "",
       "pos": "vi. & vt.",
-      "meaning": "坚持；坚决要求"
+      "meaning": "坚持；坚决要求",
+      "ctx": "坚持；坚决要求"
     },
     {
       "word": "scientific",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "科学（上）的"
+      "meaning": "科学（上）的",
+      "ctx": "科学（上）的"
     },
     {
       "word": "mostly",
       "type": "outline",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "主要地；一般地"
+      "meaning": "主要地；一般地",
+      "ctx": "主要地；一般地"
     },
     {
       "word": "conclusion",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "结论；推论"
+      "meaning": "结论；推论",
+      "ctx": "结论；推论"
     },
     {
       "word": "penicillin",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "青霉素；盘尼西林"
+      "meaning": "青霉素；盘尼西林",
+      "ctx": "青霉素；盘尼西林"
     }
   ]
 }

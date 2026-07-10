@@ -17,378 +17,432 @@
       "type": "core",
       "phonetic": "/ˈeəlaɪn/",
       "pos": "n.",
-      "meaning": "航空公司"
+      "meaning": "航空公司",
+      "ctx": "航空公司"
     },
     {
       "word": "bay",
       "type": "core",
       "phonetic": "/beɪ/",
       "pos": "n.",
-      "meaning": "（海或湖的）湾"
+      "meaning": "（海或湖的）湾",
+      "ctx": "（海或湖的）湾"
     },
     {
       "word": "craft",
       "type": "outline",
       "phonetic": "/krɑːft/",
       "pos": "n.",
-      "meaning": "手艺；工艺；技艺"
+      "meaning": "手艺；工艺；技艺",
+      "ctx": "手艺"
     },
     {
       "word": "antique",
       "type": "outline",
       "phonetic": "/ænˈtiːk/",
       "pos": "n. / adj.",
-      "meaning": "古物；古董 / 古老的"
+      "meaning": "古物；古董 / 古老的",
+      "ctx": "古董"
     },
     {
       "word": "pleasant",
       "type": "core",
       "phonetic": "/ˈplezənt/",
       "pos": "adj.",
-      "meaning": "令人愉快的；友好的"
+      "meaning": "令人愉快的；友好的",
+      "ctx": "令人愉快的"
     },
     {
       "word": "arise",
       "type": "outline",
       "phonetic": "/əˈraɪz/",
       "pos": "vi.",
-      "meaning": "起身；出现；由……引起"
+      "meaning": "起身；出现；由……引起",
+      "ctx": "起身"
     },
     {
       "word": "massive",
       "type": "core",
       "phonetic": "/ˈmæsɪv/",
       "pos": "adj.",
-      "meaning": "大的；巨大的"
+      "meaning": "大的；巨大的",
+      "ctx": "巨大的"
     },
     {
       "word": "literally",
       "type": "core",
       "phonetic": "/ˈlɪtərəli/",
       "pos": "adv.",
-      "meaning": "字面上；真正地"
+      "meaning": "字面上；真正地",
+      "ctx": "真正地"
     },
     {
       "word": "breath",
       "type": "core",
       "phonetic": "/breθ/",
       "pos": "n.",
-      "meaning": "呼吸的空气"
+      "meaning": "呼吸的空气",
+      "ctx": "呼吸的空气"
     },
     {
       "word": "take sb's breath away",
       "type": "outline",
       "phonetic": "—",
       "pos": "短语",
-      "meaning": "令人惊叹"
+      "meaning": "令人惊叹",
+      "ctx": "令人惊叹"
     },
     {
       "word": "bound",
       "type": "core",
       "phonetic": "/baʊnd/",
       "pos": "adj.",
-      "meaning": "准备前往（某地）；一定会"
+      "meaning": "准备前往（某地）；一定会",
+      "ctx": "准备前往（某地）"
     },
     {
       "word": "scenery",
       "type": "core",
       "phonetic": "/ˈsiːnəri/",
       "pos": "n.",
-      "meaning": "风景；景色"
+      "meaning": "风景；景色",
+      "ctx": "风景"
     },
     {
       "word": "awesome",
       "type": "core",
       "phonetic": "/ˈɔːsəm/",
       "pos": "adj.",
-      "meaning": "令人惊叹的；很好的"
+      "meaning": "令人惊叹的；很好的",
+      "ctx": "令人惊叹的"
     },
     {
       "word": "spectacular",
       "type": "core",
       "phonetic": "/spekˈtækjələ(r)/",
       "pos": "adj.",
-      "meaning": "壮观的；壮丽的"
+      "meaning": "壮观的；壮丽的",
+      "ctx": "壮观的"
     },
     {
       "word": "peak",
       "type": "outline",
       "phonetic": "/piːk/",
       "pos": "n.",
-      "meaning": "顶峰；山峰"
+      "meaning": "顶峰；山峰",
+      "ctx": "山峰"
     },
     {
       "word": "highlight",
       "type": "core",
       "phonetic": "/ˈhaɪlaɪt/",
       "pos": "n. / vt.",
-      "meaning": "最好或最精彩的部分 / 突出；强调"
+      "meaning": "最好或最精彩的部分 / 突出；强调",
+      "ctx": "最精彩的部分"
     },
     {
       "word": "goat",
       "type": "outline",
       "phonetic": "/ɡəʊt/",
       "pos": "n.",
-      "meaning": "山羊"
+      "meaning": "山羊",
+      "ctx": "山羊"
     },
     {
       "word": "grizzly bear",
       "type": "outline",
       "phonetic": "—",
       "pos": "n.",
-      "meaning": "灰熊"
+      "meaning": "灰熊",
+      "ctx": "灰熊"
     },
     {
       "word": "drill",
       "type": "outline",
       "phonetic": "/drɪl/",
       "pos": "vi. / vt. / n.",
-      "meaning": "钻（孔） / 钻（头）；训练"
+      "meaning": "钻（孔） / 钻（头）；训练",
+      "ctx": "钻（孔）"
     },
     {
       "word": "freezing",
       "type": "core",
       "phonetic": "/ˈfriːzɪŋ/",
       "pos": "adj.",
-      "meaning": "极冷的；冰冻的"
+      "meaning": "极冷的；冰冻的",
+      "ctx": "极冷的"
     },
     {
       "word": "freeze",
       "type": "outline",
       "phonetic": "/friːz/",
       "pos": "vi. / vt.",
-      "meaning": "结冰；（使）冻住"
+      "meaning": "结冰；（使）冻住",
+      "ctx": "（使）冻住"
     },
     {
       "word": "mall",
       "type": "outline",
       "phonetic": "/mæl/",
       "pos": "n.",
-      "meaning": "购物商场；购物广场"
+      "meaning": "购物商场；购物广场",
+      "ctx": "购物商场"
     },
     {
       "word": "prairie",
       "type": "core",
       "phonetic": "/ˈpreəri/",
       "pos": "n.",
-      "meaning": "北美草原"
+      "meaning": "北美草原",
+      "ctx": "北美草原"
     },
     {
       "word": "anticipate",
       "type": "core",
       "phonetic": "/ænˈtɪsɪpeɪt/",
       "pos": "vt.",
-      "meaning": "预料；预见；期望"
+      "meaning": "预料；预见；期望",
+      "ctx": "预料"
     },
     {
       "word": "bunch",
       "type": "core",
       "phonetic": "/bʌntʃ/",
       "pos": "n.",
-      "meaning": "束；串；捆"
+      "meaning": "束；串；捆",
+      "ctx": "束"
     },
     {
       "word": "a bunch of",
       "type": "outline",
       "phonetic": "—",
       "pos": "短语",
-      "meaning": "一束；一串；一群；大量"
+      "meaning": "一束；一串；一群；大量",
+      "ctx": "一群；大量"
     },
     {
       "word": "thunder",
       "type": "outline",
       "phonetic": "/ˈθʌndə(r)/",
       "pos": "vi. / n.",
-      "meaning": "打雷；轰隆隆地响 / 雷声"
+      "meaning": "打雷；轰隆隆地响 / 雷声",
+      "ctx": "轰隆隆地响"
     },
     {
       "word": "frost",
       "type": "core",
       "phonetic": "/frɒst/",
       "pos": "n. / vt.",
-      "meaning": "霜；严寒天气 / 使蒙上霜"
+      "meaning": "霜；严寒天气 / 使蒙上霜",
+      "ctx": "霜"
     },
     {
       "word": "curtain",
       "type": "core",
       "phonetic": "/ˈkɜːtn/",
       "pos": "n.",
-      "meaning": "窗帘"
+      "meaning": "窗帘",
+      "ctx": "窗帘"
     },
     {
       "word": "border",
       "type": "core",
       "phonetic": "/ˈbɔːdə(r)/",
       "pos": "n.",
-      "meaning": "国界；边界（地区）"
+      "meaning": "国界；边界（地区）",
+      "ctx": "边界"
     },
     {
       "word": "duration",
       "type": "core",
       "phonetic": "/djʊˈreɪʃn/",
       "pos": "n.",
-      "meaning": "持续时间；期间"
+      "meaning": "持续时间；期间",
+      "ctx": "持续时间"
     },
     {
       "word": "harbour",
       "type": "outline",
       "phonetic": "/ˈhɑːbə(r)/",
       "pos": "n.",
-      "meaning": "（海）港；港口"
+      "meaning": "（海）港；港口",
+      "ctx": "（海）港"
     },
     {
       "word": "quarry",
       "type": "outline",
       "phonetic": "/ˈkwɒri/",
       "pos": "n.",
-      "meaning": "采石场"
+      "meaning": "采石场",
+      "ctx": "采石场"
     },
     {
       "word": "idiom",
       "type": "outline",
       "phonetic": "/ˈɪdiəm/",
       "pos": "n.",
-      "meaning": "习语；成语"
+      "meaning": "习语；成语",
+      "ctx": "习语"
     },
     {
       "word": "contrary",
       "type": "outline",
       "phonetic": "/ˈkɒntrəri/",
       "pos": "adj. / n.",
-      "meaning": "相反的 / 相反的事实"
+      "meaning": "相反的 / 相反的事实",
+      "ctx": "相反的"
     },
     {
       "word": "contrary to",
       "type": "outline",
       "phonetic": "—",
       "pos": "短语",
-      "meaning": "相反的；相对立的"
+      "meaning": "相反的；相对立的",
+      "ctx": "相反的"
     },
     {
       "word": "anyhow",
       "type": "outline",
       "phonetic": "/ˈenihaʊ/",
       "pos": "adv.",
-      "meaning": "不过；反正"
+      "meaning": "不过；反正",
+      "ctx": "不过；反正"
     },
     {
       "word": "alongside",
       "type": "outline",
       "phonetic": "/əˌlɒŋˈsaɪd/",
       "pos": "prep. / adv.",
-      "meaning": "在……旁边；与……一起"
+      "meaning": "在……旁边；与……一起",
+      "ctx": "在……旁边"
     },
     {
       "word": "proceed",
       "type": "outline",
       "phonetic": "/prəˈsiːd/",
       "pos": "vi.",
-      "meaning": "行进；继续做"
+      "meaning": "行进；继续做",
+      "ctx": "继续做"
     },
     {
       "word": "proceed to sth",
       "type": "outline",
       "phonetic": "—",
       "pos": "短语",
-      "meaning": "进而做（参加）"
+      "meaning": "进而做（参加）",
+      "ctx": "进而做"
     },
     {
       "word": "shore",
       "type": "outline",
       "phonetic": "/ʃɔː(r)/",
       "pos": "n.",
-      "meaning": "岸；滨"
+      "meaning": "岸；滨",
+      "ctx": "岸"
     },
     {
       "word": "astonish",
       "type": "outline",
       "phonetic": "/əˈstɒnɪʃ/",
       "pos": "vt.",
-      "meaning": "使十分惊讶；使吃惊"
+      "meaning": "使十分惊讶；使吃惊",
+      "ctx": "使十分惊讶"
     },
     {
       "word": "misty",
       "type": "outline",
       "phonetic": "/ˈmɪsti/",
       "pos": "adj.",
-      "meaning": "多雾的；模糊的"
+      "meaning": "多雾的；模糊的",
+      "ctx": "多雾的"
     },
     {
       "word": "mist",
       "type": "outline",
       "phonetic": "/mɪst/",
       "pos": "n.",
-      "meaning": "薄雾；水汽"
+      "meaning": "薄雾；水汽",
+      "ctx": "薄雾"
     },
     {
       "word": "steel",
       "type": "outline",
       "phonetic": "/stiːl/",
       "pos": "n.",
-      "meaning": "钢；钢铁工业"
+      "meaning": "钢；钢铁工业",
+      "ctx": "钢"
     },
     {
       "word": "dusk",
       "type": "outline",
       "phonetic": "/dʌsk/",
       "pos": "n.",
-      "meaning": "黄昏；傍晚"
+      "meaning": "黄昏；傍晚",
+      "ctx": "黄昏"
     },
     {
       "word": "advertisement",
       "type": "outline",
       "phonetic": "/ədˈvɜːtɪsmənt/",
       "pos": "n.",
-      "meaning": "广告；启事"
+      "meaning": "广告；启事",
+      "ctx": "广告"
     },
     {
       "word": "accent",
       "type": "outline",
       "phonetic": "/ˈæksənt/",
       "pos": "n.",
-      "meaning": "口音"
+      "meaning": "口音",
+      "ctx": "口音"
     },
     {
       "word": "photographer",
       "type": "outline",
       "phonetic": "/fəˈtɒɡrəfə(r)/",
       "pos": "n.",
-      "meaning": "摄影师"
+      "meaning": "摄影师",
+      "ctx": "摄影师"
     },
     {
       "word": "owe",
       "type": "outline",
       "phonetic": "/əʊ/",
       "pos": "vt.",
-      "meaning": "欠（账、债、情等）"
+      "meaning": "欠（账、债、情等）",
+      "ctx": "欠（账、债、情等）"
     },
     {
       "word": "owe sth to sb",
       "type": "outline",
       "phonetic": "—",
       "pos": "短语",
-      "meaning": "欠（某人情）；把……归功于"
+      "meaning": "欠（某人情）；把……归功于",
+      "ctx": "欠（某人情）"
     },
     {
       "word": "toast",
       "type": "outline",
       "phonetic": "/təʊst/",
       "pos": "n. / vt. / vi.",
-      "meaning": "烤面包片；吐司 / 为……干杯 / 烤"
+      "meaning": "烤面包片；吐司 / 为……干杯 / 烤",
+      "ctx": "烤面包片；吐司"
     },
     {
       "word": "cobblestone",
       "type": "outline",
       "phonetic": "/ˈkɒblstəʊn/",
       "pos": "adj.",
-      "meaning": "铺有鹅卵石的"
+      "meaning": "铺有鹅卵石的",
+      "ctx": "铺有鹅卵石的"
     },
     {
       "word": "coherent",
       "type": "outline",
       "phonetic": "/kəʊˈhɪərənt/",
       "pos": "adj.",
-      "meaning": "有条理的；清楚易懂的"
+      "meaning": "有条理的；清楚易懂的",
+      "ctx": "有条理的"
     }
   ]
 }

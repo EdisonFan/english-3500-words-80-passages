@@ -32,623 +32,712 @@
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "遗产（指国家或社会长期形成的历史、传统和特色）"
+      "meaning": "遗产（指国家或社会长期形成的历史、传统和特色）",
+      "ctx": "遗产"
     },
     {
       "word": "creatively",
       "type": "outline",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "创造性地；有创造力地"
+      "meaning": "创造性地；有创造力地",
+      "ctx": "创造性地"
     },
     {
       "word": "creative",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "创造性的；有创造力的；有创意的"
+      "meaning": "创造性的；有创造力的；有创意的",
+      "ctx": "创造性的；有创造力的"
     },
     {
       "word": "temple",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "庙；寺"
+      "meaning": "庙；寺",
+      "ctx": "庙；寺"
     },
     {
       "word": "relic",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "遗物；遗迹"
+      "meaning": "遗物；遗迹",
+      "ctx": "遗物；遗迹"
     },
     {
       "word": "mount",
       "type": "outline",
       "phonetic": "",
       "pos": "n. / v.",
-      "meaning": "山峰；爬上；骑上；爬；登上"
+      "meaning": "山峰；爬上；骑上；爬；登上",
+      "ctx": "山峰；爬上"
     },
     {
       "word": "former",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "以前的；（两者中）前者的"
+      "meaning": "以前的；（两者中）前者的",
+      "ctx": "以前的；前者的"
     },
     {
       "word": "clue",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "线索；提示"
+      "meaning": "线索；提示",
+      "ctx": "线索；提示"
     },
     {
       "word": "preserve",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "保存；保护；维持（n. 保护区）"
+      "meaning": "保存；保护；维持（n. 保护区）",
+      "ctx": "保存；保护"
     },
     {
       "word": "promote",
       "type": "core",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "促进；提升；推销；晋级"
+      "meaning": "促进；提升；推销；晋级",
+      "ctx": "促进；提升"
     },
     {
       "word": "cypress",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "柏树"
+      "meaning": "柏树",
+      "ctx": "柏树"
     },
     {
       "word": "app",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "应用程序；应用软件（application的缩略形式）"
+      "meaning": "应用程序；应用软件（application的缩略形式）",
+      "ctx": "应用程序"
     },
     {
       "word": "application",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "申请（表）；用途；运用；应用（程序）"
+      "meaning": "申请（表）；用途；运用；应用（程序）",
+      "ctx": "申请；应用"
     },
     {
       "word": "take part in",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "参与（某事）；参加（某活动）"
+      "meaning": "参与（某事）；参加（某活动）",
+      "ctx": "参与；参加"
     },
     {
       "word": "give way to",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "让步；屈服"
+      "meaning": "让步；屈服",
+      "ctx": "让步；屈服"
     },
     {
       "word": "balance",
       "type": "outline",
       "phonetic": "",
       "pos": "n. / v.",
-      "meaning": "平衡；均匀；使平衡"
+      "meaning": "平衡；均匀；使平衡",
+      "ctx": "平衡"
     },
     {
       "word": "keep a balance",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "保持平衡"
+      "meaning": "保持平衡",
+      "ctx": "保持平衡"
     },
     {
       "word": "lead to",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "导致"
+      "meaning": "导致",
+      "ctx": "导致"
     },
     {
       "word": "dam",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "水坝；拦河坝"
+      "meaning": "水坝；拦河坝",
+      "ctx": "水坝；拦河坝"
     },
     {
       "word": "proposal",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "提议；建议（make a proposal 提出建议）"
+      "meaning": "提议；建议（make a proposal 提出建议）",
+      "ctx": "提议；建议"
     },
     {
       "word": "make a proposal",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "提出建议"
+      "meaning": "提出建议",
+      "ctx": "提出建议"
     },
     {
       "word": "protest",
       "type": "outline",
       "phonetic": "",
       "pos": "n. / v.",
-      "meaning": "抗议；（公开）反对；抗议"
+      "meaning": "抗议；（公开）反对；抗议",
+      "ctx": "抗议；反对"
     },
     {
       "word": "likely",
       "type": "outline",
       "phonetic": "",
       "pos": "adj. / adv.",
-      "meaning": "可能的；可能地"
+      "meaning": "可能的；可能地",
+      "ctx": "可能的"
     },
     {
       "word": "turn to",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "向……求助"
+      "meaning": "向……求助",
+      "ctx": "向……求助"
     },
     {
       "word": "committee",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "委员会"
+      "meaning": "委员会",
+      "ctx": "委员会"
     },
     {
       "word": "establish",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "建立；创立"
+      "meaning": "建立；创立",
+      "ctx": "建立；创立"
     },
     {
       "word": "limit",
       "type": "outline",
       "phonetic": "",
       "pos": "n. / v.",
-      "meaning": "限度；限制；限定"
+      "meaning": "限度；限制；限定",
+      "ctx": "限制；限度"
     },
     {
       "word": "prevent",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "阻止；阻碍；阻挠"
+      "meaning": "阻止；阻碍；阻挠",
+      "ctx": "阻止；防止"
     },
     {
       "word": "prevent...from...",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "阻止；不准"
+      "meaning": "阻止；不准",
+      "ctx": "阻止……做"
     },
     {
       "word": "loss",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "丧失；损失"
+      "meaning": "丧失；损失",
+      "ctx": "损失；丧失"
     },
     {
       "word": "contribution",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "捐款；贡献；捐赠"
+      "meaning": "捐款；贡献；捐赠",
+      "ctx": "贡献；捐款"
     },
     {
       "word": "contribute",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "捐献；捐助"
+      "meaning": "捐献；捐助",
+      "ctx": "捐献；捐助"
     },
     {
       "word": "department",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "部；司；科"
+      "meaning": "部；司；科",
+      "ctx": "部；部门"
     },
     {
       "word": "fund",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "基金；专款"
+      "meaning": "基金；专款",
+      "ctx": "基金；专款"
     },
     {
       "word": "within",
       "type": "outline",
       "phonetic": "",
       "pos": "prep. / adv.",
-      "meaning": "在（某段时间、距离或范围）之内"
+      "meaning": "在（某段时间、距离或范围）之内",
+      "ctx": "在……之内"
     },
     {
       "word": "investigate",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "调查；研究"
+      "meaning": "调查；研究",
+      "ctx": "调查；研究"
     },
     {
       "word": "issue",
       "type": "outline",
       "phonetic": "",
       "pos": "n. / v.",
-      "meaning": "重要议题；争论的问题；宣布；公布"
+      "meaning": "重要议题；争论的问题；宣布；公布",
+      "ctx": "议题；问题"
     },
     {
       "word": "conduct",
       "type": "outline",
       "phonetic": "",
       "pos": "n. / v.",
-      "meaning": "行为；举止；管理方法；组织；安排；带领"
+      "meaning": "行为；举止；管理方法；组织；安排；带领",
+      "ctx": "行为；组织；带领"
     },
     {
       "word": "document",
       "type": "outline",
       "phonetic": "",
       "pos": "n. / v.",
-      "meaning": "文件；公文；（计算机）文档；记录；记载（详情）"
+      "meaning": "文件；公文；（计算机）文档；记录；记载（详情）",
+      "ctx": "文件；文档"
     },
     {
       "word": "donate",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "（尤指向慈善机构）捐赠；赠送；献（血）"
+      "meaning": "（尤指向慈善机构）捐赠；赠送；献（血）",
+      "ctx": "捐赠；赠送"
     },
     {
       "word": "donate...to...",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "向……捐赠……"
+      "meaning": "向……捐赠……",
+      "ctx": "向……捐赠"
     },
     {
       "word": "disappear",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "消失；灭绝；消亡"
+      "meaning": "消失；灭绝；消亡",
+      "ctx": "消失；消亡"
     },
     {
       "word": "attempt",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "企图；试图；尝试"
+      "meaning": "企图；试图；尝试",
+      "ctx": "尝试；试图"
     },
     {
       "word": "make sure",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "确保；设法保证"
+      "meaning": "确保；设法保证",
+      "ctx": "确保"
     },
     {
       "word": "worthwhile",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "值得做的；值得花时间的"
+      "meaning": "值得做的；值得花时间的",
+      "ctx": "值得做的"
     },
     {
       "word": "download",
       "type": "outline",
       "phonetic": "",
       "pos": "v. / n.",
-      "meaning": "下载；已下载的数据资料"
+      "meaning": "下载；已下载的数据资料",
+      "ctx": "下载"
     },
     {
       "word": "republic",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "共和国"
+      "meaning": "共和国",
+      "ctx": "共和国"
     },
     {
       "word": "professional",
       "type": "outline",
       "phonetic": "",
       "pos": "adj. / n.",
-      "meaning": "专业的；职业的；专业人员；职业选手"
+      "meaning": "专业的；职业的；专业人员；职业选手",
+      "ctx": "专业的；职业的"
     },
     {
       "word": "archaeologist",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "考古学家"
+      "meaning": "考古学家",
+      "ctx": "考古学家"
     },
     {
       "word": "entrance",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "入口；进入"
+      "meaning": "入口；进入",
+      "ctx": "入口；进入"
     },
     {
       "word": "pyramid",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "（古埃及的）金字塔；棱锥体"
+      "meaning": "（古埃及的）金字塔；棱锥体",
+      "ctx": "金字塔"
     },
     {
       "word": "process",
       "type": "outline",
       "phonetic": "",
       "pos": "n. / v.",
-      "meaning": "过程；进程；步骤；处理；加工"
+      "meaning": "过程；进程；步骤；处理；加工",
+      "ctx": "过程；进程"
     },
     {
       "word": "overseas",
       "type": "outline",
       "phonetic": "",
       "pos": "adj. / adv.",
-      "meaning": "海外的；在海外"
+      "meaning": "海外的；在海外",
+      "ctx": "海外的；在海外"
     },
     {
       "word": "exit",
       "type": "outline",
       "phonetic": "",
       "pos": "n. / v.",
-      "meaning": "出口；通道；出去；离去"
+      "meaning": "出口；通道；出去；离去",
+      "ctx": "出口；出去"
     },
     {
       "word": "sheet",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "一张（纸）；床单；被单"
+      "meaning": "一张（纸）；床单；被单",
+      "ctx": "一张（纸）；床单"
     },
     {
       "word": "parade",
       "type": "outline",
       "phonetic": "",
       "pos": "n. / v.",
-      "meaning": "游行；检阅；游行庆祝；游行示威"
+      "meaning": "游行；检阅；游行庆祝；游行示威",
+      "ctx": "游行；检阅"
     },
     {
       "word": "mirror",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "镜子"
+      "meaning": "镜子",
+      "ctx": "镜子"
     },
     {
       "word": "roof",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "顶部；屋顶"
+      "meaning": "顶部；屋顶",
+      "ctx": "屋顶；顶部"
     },
     {
       "word": "chiwen",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "鸱吻（中国古代神兽，龙子之一）"
+      "meaning": "鸱吻（中国古代神兽，龙子之一）",
+      "ctx": "鸱吻"
     },
     {
       "word": "dragon",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "龙"
+      "meaning": "龙",
+      "ctx": "龙"
     },
     {
       "word": "forgive",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "（forgave, forgiven）原谅；宽恕；对不起；请原谅"
+      "meaning": "（forgave, forgiven）原谅；宽恕；对不起；请原谅",
+      "ctx": "原谅；宽恕"
     },
     {
       "word": "digital",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "数码的；数字显示的"
+      "meaning": "数码的；数字显示的",
+      "ctx": "数码的；数字的"
     },
     {
       "word": "image",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "形象；印象"
+      "meaning": "形象；印象",
+      "ctx": "形象；印象"
     },
     {
       "word": "cave",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "山洞；洞穴"
+      "meaning": "山洞；洞穴",
+      "ctx": "山洞；洞穴"
     },
     {
       "word": "throughout",
       "type": "core",
       "phonetic": "",
       "pos": "prep.",
-      "meaning": "各处；遍及；自始自终"
+      "meaning": "各处；遍及；自始自终",
+      "ctx": "各处；遍及"
     },
     {
       "word": "quality",
       "type": "core",
       "phonetic": "",
       "pos": "n. / adj.",
-      "meaning": "质量；品质；素质；特征；优质的；高质量的"
+      "meaning": "质量；品质；素质；特征；优质的；高质量的",
+      "ctx": "质量；品质"
     },
     {
       "word": "all over the world",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "在世界各地"
+      "meaning": "在世界各地",
+      "ctx": "在世界各地"
     },
     {
       "word": "tradition",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "传统；传统的信仰或风俗"
+      "meaning": "传统；传统的信仰或风俗",
+      "ctx": "传统"
     },
     {
       "word": "further",
       "type": "core",
       "phonetic": "",
       "pos": "adj. / adv.",
-      "meaning": "（far的比较级）更远；进一步"
+      "meaning": "（far的比较级）更远；进一步",
+      "ctx": "更远；进一步"
     },
     {
       "word": "historic",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "历史上著名（或重要）的；有史时期的"
+      "meaning": "历史上著名（或重要）的；有史时期的",
+      "ctx": "历史上有名的；重要的"
     },
     {
       "word": "opinion",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "意见；想法；看法"
+      "meaning": "意见；想法；看法",
+      "ctx": "意见；看法"
     },
     {
       "word": "quote",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "引用"
+      "meaning": "引用",
+      "ctx": "引用"
     },
     {
       "word": "paraphrase",
       "type": "outline",
       "phonetic": "",
       "pos": "n. / v.",
-      "meaning": "（用更容易理解的文字）解释"
+      "meaning": "（用更容易理解的文字）解释",
+      "ctx": "解释；释义"
     },
     {
       "word": "comparison",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "比较；相比"
+      "meaning": "比较；相比",
+      "ctx": "比较；相比"
     },
     {
       "word": "contrast",
       "type": "outline",
       "phonetic": "",
       "pos": "n. / v.",
-      "meaning": "对比；对照"
+      "meaning": "对比；对照",
+      "ctx": "对比；对照"
     },
     {
       "word": "identify",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "确认；认出；找到"
+      "meaning": "确认；认出；找到",
+      "ctx": "确认；认出"
     },
     {
       "word": "forever",
       "type": "outline",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "永远；长久地"
+      "meaning": "永远；长久地",
+      "ctx": "永远；长久地"
     },
     {
       "word": "Aswan Dam",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "阿斯旺大坝"
+      "meaning": "阿斯旺大坝",
+      "ctx": "阿斯旺大坝"
     },
     {
       "word": "the Nile",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "尼罗河"
+      "meaning": "尼罗河",
+      "ctx": "尼罗河"
     },
     {
       "word": "Egypt",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "埃及（国家名）"
+      "meaning": "埃及（国家名）",
+      "ctx": "埃及"
     },
     {
       "word": "Egyptian",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "埃及的"
+      "meaning": "埃及的",
+      "ctx": "埃及的"
     },
     {
       "word": "UNESCO",
       "type": "outline",
       "phonetic": "",
       "pos": "abbr.",
-      "meaning": "联合国教科文组织（United Nations Educational, Scientific and Cultural Organization）"
+      "meaning": "联合国教科文组织（United Nations Educational, Scientific and Cultural Organization）",
+      "ctx": "联合国教科文组织"
     },
     {
       "word": "Cairo",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "开罗（埃及首都）"
+      "meaning": "开罗（埃及首都）",
+      "ctx": "开罗"
     },
     {
       "word": "Tanzania",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "坦桑尼亚（国家名）"
+      "meaning": "坦桑尼亚（国家名）",
+      "ctx": "坦桑尼亚"
     },
     {
       "word": "the Kremlin",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "克里姆林（宫）"
+      "meaning": "克里姆林（宫）",
+      "ctx": "克里姆林宫"
     },
     {
       "word": "Moscow",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "莫斯科（俄罗斯首都）"
+      "meaning": "莫斯科（俄罗斯首都）",
+      "ctx": "莫斯科"
     },
     {
       "word": "Saint Basil's Cathedral",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "圣瓦希里大教堂"
+      "meaning": "圣瓦希里大教堂",
+      "ctx": "圣瓦希里大教堂"
     },
     {
       "word": "the Forbidden City",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "紫禁城"
+      "meaning": "紫禁城",
+      "ctx": "紫禁城"
     },
     {
       "word": "Los Angeles",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "洛杉矶（美国城市）"
+      "meaning": "洛杉矶（美国城市）",
+      "ctx": "洛杉矶"
     }
   ]
 }

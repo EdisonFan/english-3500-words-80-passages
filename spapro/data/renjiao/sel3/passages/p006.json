@@ -32,427 +32,488 @@
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "图；图表；曲线图"
+      "meaning": "图；图表；曲线图",
+      "ctx": "图表"
     },
     {
       "word": "emission",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "排放物；散发物；排放"
+      "meaning": "排放物；散发物；排放",
+      "ctx": "排放"
     },
     {
       "word": "melt",
       "type": "outline",
       "phonetic": "",
       "pos": "vi.",
-      "meaning": "融化；熔化"
+      "meaning": "融化；熔化",
+      "ctx": "融化"
     },
     {
       "word": "starve",
       "type": "outline",
       "phonetic": "",
       "pos": "vi.",
-      "meaning": "挨饿；饿死"
+      "meaning": "挨饿；饿死",
+      "ctx": "饿死"
     },
     {
       "word": "seal",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "海豹"
+      "meaning": "海豹",
+      "ctx": "海豹"
     },
     {
       "word": "ecology",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "生态；生态学"
+      "meaning": "生态；生态学",
+      "ctx": "生态"
     },
     {
       "word": "release",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "排放；释放；发布"
+      "meaning": "排放；释放；发布",
+      "ctx": "释放"
     },
     {
       "word": "methane",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "甲烷；沼气"
+      "meaning": "甲烷；沼气",
+      "ctx": "甲烷"
     },
     {
       "word": "carbon",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "碳"
+      "meaning": "碳",
+      "ctx": "碳"
     },
     {
       "word": "dioxide",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "二氧化物"
+      "meaning": "二氧化物",
+      "ctx": "二氧化物"
     },
     {
       "word": "carbon dioxide",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "二氧化碳"
+      "meaning": "二氧化碳",
+      "ctx": "二氧化碳"
     },
     {
       "word": "habitable",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "适合居住的"
+      "meaning": "适合居住的",
+      "ctx": "适合居住的"
     },
     {
       "word": "sustain",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "维持；承受"
+      "meaning": "维持；承受",
+      "ctx": "维持"
     },
     {
       "word": "sustainable",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "可持续的"
+      "meaning": "可持续的",
+      "ctx": "可持续的"
     },
     {
       "word": "fossil",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "化石"
+      "meaning": "化石",
+      "ctx": "化石"
     },
     {
       "word": "fuel",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "燃料"
+      "meaning": "燃料",
+      "ctx": "燃料"
     },
     {
       "word": "fossil fuel",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "化石燃料"
+      "meaning": "化石燃料",
+      "ctx": "化石燃料"
     },
     {
       "word": "comprehensive",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "全部的；详尽的"
+      "meaning": "全部的；详尽的",
+      "ctx": "全面的"
     },
     {
       "word": "worldwide",
       "type": "outline",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "遍及全球地"
+      "meaning": "遍及全球地",
+      "ctx": "全球范围地"
     },
     {
       "word": "trend",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "趋势；趋向"
+      "meaning": "趋势；趋向",
+      "ctx": "趋势"
     },
     {
       "word": "frequently",
       "type": "core",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "频繁地；经常"
+      "meaning": "频繁地；经常",
+      "ctx": "频繁地"
     },
     {
       "word": "broadcast",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "播送；广播；传播"
+      "meaning": "播送；广播；传播",
+      "ctx": "播送"
     },
     {
       "word": "policy",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "政策；方针"
+      "meaning": "政策；方针",
+      "ctx": "政策"
     },
     {
       "word": "footprint",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "足迹；面积"
+      "meaning": "足迹；面积",
+      "ctx": "足迹"
     },
     {
       "word": "restrict",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "限制；限定"
+      "meaning": "限制；限定",
+      "ctx": "限制"
     },
     {
       "word": "restriction",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "限制规定"
+      "meaning": "限制规定",
+      "ctx": "限制规定"
     },
     {
       "word": "seize",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "抓住；夺取"
+      "meaning": "抓住；夺取",
+      "ctx": "抓住"
     },
     {
       "word": "basin",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "流域；盆地"
+      "meaning": "流域；盆地",
+      "ctx": "流域"
     },
     {
       "word": "penguin",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "企鹅"
+      "meaning": "企鹅",
+      "ctx": "企鹅"
     },
     {
       "word": "reform",
       "type": "outline",
       "phonetic": "",
       "pos": "vi.",
-      "meaning": "改革；改造"
+      "meaning": "改革；改造",
+      "ctx": "改革"
     },
     {
       "word": "undergo",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "经历；经受"
+      "meaning": "经历；经受",
+      "ctx": "经历"
     },
     {
       "word": "implement",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "使生效；贯彻"
+      "meaning": "使生效；贯彻",
+      "ctx": "贯彻"
     },
     {
       "word": "harmonious",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "和谐的"
+      "meaning": "和谐的",
+      "ctx": "和谐的"
     },
     {
       "word": "moderate",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "适度的；温和的"
+      "meaning": "适度的；温和的",
+      "ctx": "适度的"
     },
     {
       "word": "submit",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "提交；呈递"
+      "meaning": "提交；呈递",
+      "ctx": "提交"
     },
     {
       "word": "annual",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "每年的"
+      "meaning": "每年的",
+      "ctx": "每年的"
     },
     {
       "word": "tropical",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "热带的"
+      "meaning": "热带的",
+      "ctx": "热带的"
     },
     {
       "word": "chaos",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "混乱；紊乱"
+      "meaning": "混乱；紊乱",
+      "ctx": "混乱"
     },
     {
       "word": "on behalf of",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "代表"
+      "meaning": "代表",
+      "ctx": "代表"
     },
     {
       "word": "nuclear",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "原子能的；核能的"
+      "meaning": "原子能的；核能的",
+      "ctx": "核能的"
     },
     {
       "word": "sensitive",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "敏感的；善解人意的"
+      "meaning": "敏感的；善解人意的",
+      "ctx": "敏感的"
     },
     {
       "word": "jungle",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "丛林；密林"
+      "meaning": "丛林；密林",
+      "ctx": "丛林"
     },
     {
       "word": "smog",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "烟雾"
+      "meaning": "烟雾",
+      "ctx": "烟雾"
     },
     {
       "word": "originate",
       "type": "outline",
       "phonetic": "",
       "pos": "vi.",
-      "meaning": "起源；发源"
+      "meaning": "起源；发源",
+      "ctx": "起源"
     },
     {
       "word": "volume",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "量；体积"
+      "meaning": "量；体积",
+      "ctx": "量"
     },
     {
       "word": "garbage",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "垃圾；废物"
+      "meaning": "垃圾；废物",
+      "ctx": "垃圾"
     },
     {
       "word": "enterprise",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "公司；企业"
+      "meaning": "公司；企业",
+      "ctx": "企业"
     },
     {
       "word": "restore",
       "type": "core",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "恢复；修复"
+      "meaning": "恢复；修复",
+      "ctx": "恢复"
     },
     {
       "word": "conservation",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "保护"
+      "meaning": "保护",
+      "ctx": "保护"
     },
     {
       "word": "dozen",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "(一)打；十二个"
+      "meaning": "(一)打；十二个",
+      "ctx": "一打"
     },
     {
       "word": "dozens of",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "许多"
+      "meaning": "许多",
+      "ctx": "许多"
     },
     {
       "word": "regulation",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "规章制度"
+      "meaning": "规章制度",
+      "ctx": "规章制度"
     },
     {
       "word": "disposal",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "去掉；处理"
+      "meaning": "去掉；处理",
+      "ctx": "处理"
     },
     {
       "word": "inspection",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "检查"
+      "meaning": "检查",
+      "ctx": "检查"
     },
     {
       "word": "fine",
       "type": "core",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "对……处以罚款"
+      "meaning": "对……处以罚款",
+      "ctx": "罚款"
     },
     {
       "word": "campaign",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "运动"
+      "meaning": "运动",
+      "ctx": "运动"
     },
     {
       "word": "waterway",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "水道；航道"
+      "meaning": "水道；航道",
+      "ctx": "水道"
     },
     {
       "word": "tolerate",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "忍受；包容"
+      "meaning": "忍受；包容",
+      "ctx": "忍受"
     },
     {
       "word": "agenda",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "议程表"
+      "meaning": "议程表",
+      "ctx": "议程"
     },
     {
       "word": "Norway",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "挪威"
+      "meaning": "挪威",
+      "ctx": "挪威"
     },
     {
       "word": "Svalbard",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "斯瓦尔巴群岛"
+      "meaning": "斯瓦尔巴群岛",
+      "ctx": "斯瓦尔巴群岛"
     }
   ]
 }

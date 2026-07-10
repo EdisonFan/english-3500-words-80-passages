@@ -35,6 +35,7 @@
     {
       "word": "teenage",
       "type": "outline",
+      "ctx": "青少年的；十几岁的",
       "phonetic": "/ˈtiːneɪdʒ/",
       "pos": "adj.",
       "meaning": "十几岁的（13–19 岁）；青少年的"
@@ -42,6 +43,7 @@
     {
       "word": "teenager",
       "type": "outline",
+      "ctx": "青少年",
       "phonetic": "/ˈtiːneɪdʒə(r)/",
       "pos": "n.",
       "meaning": "（13–19 岁之间的）青少年"
@@ -49,6 +51,7 @@
     {
       "word": "ballet",
       "type": "outline",
+      "ctx": "芭蕾舞",
       "phonetic": "/ˈbæleɪ/",
       "pos": "n.",
       "meaning": "芭蕾舞；芭蕾舞剧"
@@ -56,6 +59,7 @@
     {
       "word": "volunteer",
       "type": "core",
+      "ctx": "志愿者",
       "phonetic": "/ˌvɒlənˈtɪə(r)/",
       "pos": "n.",
       "meaning": "志愿者"
@@ -63,6 +67,7 @@
     {
       "word": "debate",
       "type": "outline",
+      "ctx": "辩论；争论",
       "phonetic": "/dɪˈbeɪt/",
       "pos": "n. / vt. / vi.",
       "meaning": "辩论；争论"
@@ -70,6 +75,7 @@
     {
       "word": "prefer",
       "type": "outline",
+      "ctx": "较喜欢",
       "phonetic": "/prɪˈfɜː(r)/",
       "pos": "vt.",
       "meaning": "较喜欢"
@@ -77,6 +83,7 @@
     {
       "word": "prefer … to …",
       "type": "outline",
+      "ctx": "喜欢……多于……",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "喜欢……多于……"
@@ -84,6 +91,7 @@
     {
       "word": "content",
       "type": "outline",
+      "ctx": "内容；目录",
       "phonetic": "/ˈkɒntent/",
       "pos": "n.",
       "meaning": "内容；[pl.] 目录；主题"
@@ -91,6 +99,7 @@
     {
       "word": "movement",
       "type": "outline",
+      "ctx": "运动；活动",
       "phonetic": "/ˈmuːvmənt/",
       "pos": "n.",
       "meaning": "动作；运动；活动"
@@ -98,6 +107,7 @@
     {
       "word": "greenhouse",
       "type": "outline",
+      "ctx": "温室",
       "phonetic": "/ˈɡriːnhaʊs/",
       "pos": "n.",
       "meaning": "温室；暖房"
@@ -105,6 +115,7 @@
     {
       "word": "clean up",
       "type": "outline",
+      "ctx": "打扫干净",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "打扫（或清除）干净"
@@ -112,6 +123,7 @@
     {
       "word": "suitable",
       "type": "core",
+      "ctx": "合适的",
       "phonetic": "/ˈsuːtəbl/",
       "pos": "adj.",
       "meaning": "适合的；适用的"
@@ -119,6 +131,7 @@
     {
       "word": "suitable for",
       "type": "outline",
+      "ctx": "对……适合的",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "对……适合的"
@@ -126,6 +139,7 @@
     {
       "word": "actually",
       "type": "outline",
+      "ctx": "事实上",
       "phonetic": "/ˈæktʃuəli/",
       "pos": "adv.",
       "meaning": "事实上；的确"
@@ -133,6 +147,7 @@
     {
       "word": "challenge",
       "type": "core",
+      "ctx": "挑战",
       "phonetic": "/ˈtʃæləndʒ/",
       "pos": "n. / vt.",
       "meaning": "挑战；艰巨任务；向……挑战"
@@ -140,6 +155,7 @@
     {
       "word": "title",
       "type": "outline",
+      "ctx": "标题；名称",
       "phonetic": "/ˈtaɪtl/",
       "pos": "n.",
       "meaning": "名称；标题；职称；头衔"
@@ -147,6 +163,7 @@
     {
       "word": "topic",
       "type": "outline",
+      "ctx": "话题",
       "phonetic": "/ˈtɒpɪk/",
       "pos": "n.",
       "meaning": "话题；标题"
@@ -154,6 +171,7 @@
     {
       "word": "freshman",
       "type": "core",
+      "ctx": "（高一）新生",
       "phonetic": "/ˈfreʃmən/",
       "pos": "n.",
       "meaning": "（中学）九年级学生；（大学）一年级新生"
@@ -161,6 +179,7 @@
     {
       "word": "confusing",
       "type": "core",
+      "ctx": "令人困惑的",
       "phonetic": "/kənˈfjuːzɪŋ/",
       "pos": "adj.",
       "meaning": "难以理解的；不清楚的"
@@ -168,6 +187,7 @@
     {
       "word": "confuse",
       "type": "outline",
+      "ctx": "使糊涂",
       "phonetic": "/kənˈfjuːz/",
       "pos": "vt.",
       "meaning": "使糊涂；使迷惑"
@@ -175,6 +195,7 @@
     {
       "word": "confused",
       "type": "outline",
+      "ctx": "糊涂的",
       "phonetic": "/kənˈfjuːzd/",
       "pos": "adj.",
       "meaning": "糊涂的；迷惑的"
@@ -182,6 +203,7 @@
     {
       "word": "fluent",
       "type": "core",
+      "ctx": "流利的",
       "phonetic": "/ˈfluːənt/",
       "pos": "adj.",
       "meaning": "（外语）流利的；熟练的"
@@ -189,6 +211,7 @@
     {
       "word": "graduate",
       "type": "core",
+      "ctx": "毕业",
       "phonetic": "/ˈɡrædʒʊeɪt/",
       "pos": "vi. / vt. / n.",
       "meaning": "毕业；获得学位；毕业生"
@@ -196,6 +219,7 @@
     {
       "word": "recommend",
       "type": "outline",
+      "ctx": "建议；推荐",
       "phonetic": "/ˌrekəˈmend/",
       "pos": "vt.",
       "meaning": "建议；推荐；介绍"
@@ -203,6 +227,7 @@
     {
       "word": "sign up (for sth)",
       "type": "outline",
+      "ctx": "报名（参加）",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "报名（参加课程）"
@@ -210,6 +235,7 @@
     {
       "word": "advanced",
       "type": "core",
+      "ctx": "高级的",
       "phonetic": "/ədˈvɑːnst/",
       "pos": "adj.",
       "meaning": "高级的；高等的；先进的"
@@ -217,6 +243,7 @@
     {
       "word": "advance",
       "type": "outline",
+      "ctx": "前进；发展",
       "phonetic": "/ədˈvɑːns/",
       "pos": "n. / vi. / vt.",
       "meaning": "前进；发展"
@@ -224,6 +251,7 @@
     {
       "word": "literature",
       "type": "core",
+      "ctx": "文学",
       "phonetic": "/ˈlɪtrətʃə(r)/",
       "pos": "n.",
       "meaning": "文学；文学作品"
@@ -231,6 +259,7 @@
     {
       "word": "extra-curricular",
       "type": "core",
+      "ctx": "课外的",
       "phonetic": "/ˈekstrəkəˈrɪkjulə/",
       "pos": "adj.",
       "meaning": "课外的；课程以外的"
@@ -238,6 +267,7 @@
     {
       "word": "extra",
       "type": "core",
+      "ctx": "额外的",
       "phonetic": "/ˈekstrə/",
       "pos": "adj.",
       "meaning": "额外的；附加的"
@@ -245,6 +275,7 @@
     {
       "word": "obviously",
       "type": "core",
+      "ctx": "显然地",
       "phonetic": "/ˈɒbviəsli/",
       "pos": "adv.",
       "meaning": "显然地；明显地"
@@ -252,6 +283,7 @@
     {
       "word": "quit",
       "type": "core",
+      "ctx": "停止；放弃",
       "phonetic": "/kwɪt/",
       "pos": "vi. / vt.",
       "meaning": "停止；戒掉；离开"
@@ -259,6 +291,7 @@
     {
       "word": "responsible",
       "type": "core",
+      "ctx": "负责的",
       "phonetic": "/rɪˈspɒnsəbl/",
       "pos": "adj.",
       "meaning": "负责的；有责任的"
@@ -266,6 +299,7 @@
     {
       "word": "responsibility",
       "type": "outline",
+      "ctx": "责任",
       "phonetic": "/rɪˌspɒnsəˈbɪləti/",
       "pos": "n.",
       "meaning": "责任；义务"
@@ -273,6 +307,7 @@
     {
       "word": "be responsible for",
       "type": "outline",
+      "ctx": "对……负责",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "对……负责"
@@ -280,6 +315,7 @@
     {
       "word": "solution",
       "type": "outline",
+      "ctx": "解决办法",
       "phonetic": "/səˈluːʃn/",
       "pos": "n.",
       "meaning": "解决办法；答案"
@@ -287,6 +323,7 @@
     {
       "word": "schedule",
       "type": "outline",
+      "ctx": "日程安排",
       "phonetic": "/ˈʃedjuːl/",
       "pos": "n. / vt.",
       "meaning": "工作计划；日程安排；预定"
@@ -294,6 +331,7 @@
     {
       "word": "editor",
       "type": "outline",
+      "ctx": "编辑",
       "phonetic": "/ˈedɪtə(r)/",
       "pos": "n.",
       "meaning": "主编；编辑；编者"
@@ -301,6 +339,7 @@
     {
       "word": "plate",
       "type": "outline",
+      "ctx": "盘子",
       "phonetic": "/pleɪt/",
       "pos": "n.",
       "meaning": "盘子；碟子"
@@ -308,6 +347,7 @@
     {
       "word": "adventure",
       "type": "outline",
+      "ctx": "冒险",
       "phonetic": "/ədˈventʃə(r)/",
       "pos": "n.",
       "meaning": "冒险；奇遇"
@@ -315,6 +355,7 @@
     {
       "word": "youth",
       "type": "outline",
+      "ctx": "青年时期",
       "phonetic": "/juːθ/",
       "pos": "n.",
       "meaning": "青年时期；青春"
@@ -322,6 +363,7 @@
     {
       "word": "survival",
       "type": "outline",
+      "ctx": "生存",
       "phonetic": "/səˈvaɪvl/",
       "pos": "n.",
       "meaning": "生存；幸存"
@@ -329,6 +371,7 @@
     {
       "word": "expert",
       "type": "outline",
+      "ctx": "专家；内行的",
       "phonetic": "/ˈekspɜːt/",
       "pos": "n. / adj.",
       "meaning": "专家；内行的；专家的"
@@ -336,6 +379,7 @@
     {
       "word": "behaviour",
       "type": "outline",
+      "ctx": "行为",
       "phonetic": "/bɪˈheɪvjə(r)/",
       "pos": "n.",
       "meaning": "行为；举止"
@@ -343,6 +387,7 @@
     {
       "word": "generation",
       "type": "outline",
+      "ctx": "一代（人）",
       "phonetic": "/ˌdʒenəˈreɪʃn/",
       "pos": "n.",
       "meaning": "一代（人）"
@@ -350,6 +395,7 @@
     {
       "word": "attract",
       "type": "outline",
+      "ctx": "吸引",
       "phonetic": "/əˈtrækt/",
       "pos": "vt.",
       "meaning": "吸引；引起注意"
@@ -357,6 +403,7 @@
     {
       "word": "be attracted to",
       "type": "outline",
+      "ctx": "喜爱；被……吸引",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "喜爱"
@@ -364,6 +411,7 @@
     {
       "word": "focus",
       "type": "outline",
+      "ctx": "集中（注意力）",
       "phonetic": "/ˈfəʊkəs/",
       "pos": "vi. / vt. / n.",
       "meaning": "集中（精力）；焦点"
@@ -371,6 +419,7 @@
     {
       "word": "focus on",
       "type": "outline",
+      "ctx": "集中……于",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "集中；特别关注"
@@ -378,6 +427,7 @@
     {
       "word": "addicted",
       "type": "outline",
+      "ctx": "上瘾的",
       "phonetic": "/əˈdɪktɪd/",
       "pos": "adj.",
       "meaning": "有瘾的；上瘾的"
@@ -385,6 +435,7 @@
     {
       "word": "addict",
       "type": "outline",
+      "ctx": "入迷的人",
       "phonetic": "/ˈædɪkt/",
       "pos": "n.",
       "meaning": "入迷的人；吸毒成瘾的人"
@@ -392,6 +443,7 @@
     {
       "word": "addicted to",
       "type": "outline",
+      "ctx": "对……入迷",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "对……很入迷"
@@ -399,6 +451,7 @@
     {
       "word": "adult",
       "type": "outline",
+      "ctx": "成年人",
       "phonetic": "/ˈædʌlt/",
       "pos": "n. / adj.",
       "meaning": "成年人；成年的；成熟的"

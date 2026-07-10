@@ -47,168 +47,192 @@
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "教师；教育工作者；教育家"
+      "meaning": "教师；教育工作者；教育家",
+      "ctx": "教育工作者"
     },
     {
       "word": "tick",
       "type": "core",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "给……打钩号"
+      "meaning": "给……打钩号",
+      "ctx": "心思；动力"
     },
     {
       "word": "trend",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "趋势；倾向"
+      "meaning": "趋势；倾向",
+      "ctx": "倾向"
     },
     {
       "word": "lower",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "把……放低；降低"
+      "meaning": "把……放低；降低",
+      "ctx": "低下；放低"
     },
     {
       "word": "imply",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "意味着；暗示"
+      "meaning": "意味着；暗示",
+      "ctx": "意味着"
     },
     {
       "word": "barely",
       "type": "core",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "几乎不；勉强才能；刚刚"
+      "meaning": "几乎不；勉强才能；刚刚",
+      "ctx": "几乎不"
     },
     {
       "word": "perceive",
       "type": "core",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "察觉；看待；理解"
+      "meaning": "察觉；看待；理解",
+      "ctx": "察觉"
     },
     {
       "word": "inquire",
       "type": "core",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "询问；打听"
+      "meaning": "询问；打听",
+      "ctx": "询问"
     },
     {
       "word": "ultimately",
       "type": "core",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "最终；最后"
+      "meaning": "最终；最后",
+      "ctx": "最终"
     },
     {
       "word": "intervene",
       "type": "core",
       "phonetic": "",
       "pos": "vi.",
-      "meaning": "干预；介入"
+      "meaning": "干预；介入",
+      "ctx": "介入"
     },
     {
       "word": "component",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "组成部分；零件"
+      "meaning": "组成部分；零件",
+      "ctx": "组成部分"
     },
     {
       "word": "tone",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "语气；腔调；口吻"
+      "meaning": "语气；腔调；口吻",
+      "ctx": "语气"
     },
     {
       "word": "stare",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "盯着看；凝视"
+      "meaning": "盯着看；凝视",
+      "ctx": "凝视"
     },
     {
       "word": "ashamed",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "羞愧；惭愧"
+      "meaning": "羞愧；惭愧",
+      "ctx": "羞愧的"
     },
     {
       "word": "merely",
       "type": "core",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "只是；仅仅；只不过"
+      "meaning": "只是；仅仅；只不过",
+      "ctx": "只是"
     },
     {
       "word": "bother",
       "type": "core",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "费心；麻烦"
+      "meaning": "费心；麻烦",
+      "ctx": "费心"
     },
     {
       "word": "weep",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "哭泣；流泪"
+      "meaning": "哭泣；流泪",
+      "ctx": "哭泣"
     },
     {
       "word": "conflict",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "矛盾；冲突"
+      "meaning": "矛盾；冲突",
+      "ctx": "冲突"
     },
     {
       "word": "occupy",
       "type": "core",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "占据；占用"
+      "meaning": "占据；占用",
+      "ctx": "（使）忙于"
     },
     {
       "word": "distract",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "分散（注意力）；使分心"
+      "meaning": "分散（注意力）；使分心",
+      "ctx": "使分心"
     },
     {
       "word": "distinguish",
       "type": "core",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "区分；辨别"
+      "meaning": "区分；辨别",
+      "ctx": "分辨；辨别"
     },
     {
       "word": "anxiety",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "焦虑；担心；害怕"
+      "meaning": "焦虑；担心；害怕",
+      "ctx": "焦虑"
     },
     {
       "word": "embarrass",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "使窘迫；使尴尬"
+      "meaning": "使窘迫；使尴尬",
+      "ctx": "使尴尬"
     },
     {
       "word": "adjust",
       "type": "core",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "调整；调节"
+      "meaning": "调整；调节",
+      "ctx": "调整"
     }
   ]
 }

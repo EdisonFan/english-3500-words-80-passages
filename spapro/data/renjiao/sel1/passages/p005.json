@@ -32,294 +32,336 @@
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "连续猛击；打来打去"
+      "meaning": "连续猛击；打来打去",
+      "ctx": "（风）拍打"
     },
     {
       "word": "cloth",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "（一块）布；织物；布料"
+      "meaning": "（一块）布；织物；布料",
+      "ctx": "布料；布"
     },
     {
       "word": "edge",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "边；边缘；刀刃"
+      "meaning": "边；边缘；刀刃",
+      "ctx": "边缘"
     },
     {
       "word": "valley",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "谷；山谷；溪谷"
+      "meaning": "谷；山谷；溪谷",
+      "ctx": "山谷"
     },
     {
       "word": "vast",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "辽阔的；巨大的"
+      "meaning": "辽阔的；巨大的",
+      "ctx": "巨大的"
     },
     {
       "word": "glacier",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "冰川"
+      "meaning": "冰川",
+      "ctx": "冰川"
     },
     {
       "word": "reindeer",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "驯鹿"
+      "meaning": "驯鹿",
+      "ctx": "驯鹿"
     },
     {
       "word": "territory",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "领土；版图；领域"
+      "meaning": "领土；版图；领域",
+      "ctx": "（一片）土地"
     },
     {
       "word": "ban",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "明令禁止；取缔"
+      "meaning": "明令禁止；取缔",
+      "ctx": "禁止"
     },
     {
       "word": "boundary",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "边界；界限；分界线"
+      "meaning": "边界；界限；分界线",
+      "ctx": "边界"
     },
     {
       "word": "cottage",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "小屋；（尤指）村舍"
+      "meaning": "小屋；（尤指）村舍",
+      "ctx": "小屋"
     },
     {
       "word": "visible",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "看得见的；可见的"
+      "meaning": "看得见的；可见的",
+      "ctx": "可见的"
     },
     {
       "word": "accompany",
       "type": "core",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "陪同；陪伴；伴随"
+      "meaning": "陪同；陪伴；伴随",
+      "ctx": "伴随；陪伴"
     },
     {
       "word": "adopt",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "采用；采取；采纳"
+      "meaning": "采用；采取；采纳",
+      "ctx": "养成；采用"
     },
     {
       "word": "bless",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "祝福"
+      "meaning": "祝福",
+      "ctx": "使（感到）幸运"
     },
     {
       "word": "prohibit",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "（尤指以法令）禁止；阻止"
+      "meaning": "（尤指以法令）禁止；阻止",
+      "ctx": "禁止"
     },
     {
       "word": "prohibition",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "禁止；阻止；禁令"
+      "meaning": "禁止；阻止；禁令",
+      "ctx": "禁令"
     },
     {
       "word": "journalist",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "新闻记者"
+      "meaning": "新闻记者",
+      "ctx": "新闻记者"
     },
     {
       "word": "sneeze",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "打喷嚏"
+      "meaning": "打喷嚏",
+      "ctx": "打喷嚏"
     },
     {
       "word": "label",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "贴标签于；把……归类为"
+      "meaning": "贴标签于；把……归类为",
+      "ctx": "贴标签于"
     },
     {
       "word": "cream",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "奶油；乳脂；护肤霜"
+      "meaning": "奶油；乳脂；护肤霜",
+      "ctx": "护肤霜"
     },
     {
       "word": "leopard",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "豹"
+      "meaning": "豹",
+      "ctx": "豹"
     },
     {
       "word": "stretch",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "延伸；延续"
+      "meaning": "延伸；延续",
+      "ctx": "延伸"
     },
     {
       "word": "rewarding",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "值得做的；有益的"
+      "meaning": "值得做的；有益的",
+      "ctx": "值得的；有益的"
     },
     {
       "word": "bush",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "灌木"
+      "meaning": "灌木",
+      "ctx": "灌木"
     },
     {
       "word": "cycle",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "自行车；循环"
+      "meaning": "自行车；循环",
+      "ctx": "自行车"
     },
     {
       "word": "corridor",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "狭长地带；走廊；通道"
+      "meaning": "狭长地带；走廊；通道",
+      "ctx": "狭长地带"
     },
     {
       "word": "pedal",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "踏板"
+      "meaning": "踏板",
+      "ctx": "踏板"
     },
     {
       "word": "fountain",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "喷泉；喷水池"
+      "meaning": "喷泉；喷水池",
+      "ctx": "喷泉"
     },
     {
       "word": "route",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "路线；路途；途径"
+      "meaning": "路线；路途；途径",
+      "ctx": "路线"
     },
     {
       "word": "ahead",
       "type": "outline",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "向前；在前面；提前"
+      "meaning": "向前；在前面；提前",
+      "ctx": "向前；在前面"
     },
     {
       "word": "theme",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "主题；主题思想"
+      "meaning": "主题；主题思想",
+      "ctx": "主题"
     },
     {
       "word": "incredible",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "极好的；极大的；难以置信的"
+      "meaning": "极好的；极大的；难以置信的",
+      "ctx": "极好的；令人惊叹的"
     },
     {
       "word": "roller coaster",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "过山车；云霄飞车"
+      "meaning": "过山车；云霄飞车",
+      "ctx": "过山车"
     },
     {
       "word": "appeal",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "有吸引力；呼吁"
+      "meaning": "有吸引力；呼吁",
+      "ctx": "有吸引力"
     },
     {
       "word": "pirate",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "海盗；盗版者"
+      "meaning": "海盗；盗版者",
+      "ctx": "海盗"
     },
     {
       "word": "adorable",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "可爱的；讨人喜爱的"
+      "meaning": "可爱的；讨人喜爱的",
+      "ctx": "可爱的"
     },
     {
       "word": "wander",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "闲逛；漫游"
+      "meaning": "闲逛；漫游",
+      "ctx": "漫游"
     },
     {
       "word": "amusement",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "娱乐（活动）；愉悦"
+      "meaning": "娱乐（活动）；愉悦",
+      "ctx": "娱乐"
     },
     {
       "word": "amuse",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "（提供）消遣；（使）娱乐"
+      "meaning": "（提供）消遣；（使）娱乐",
+      "ctx": "使娱乐"
     },
     {
       "word": "enormous",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "巨大的；极大的"
+      "meaning": "巨大的；极大的",
+      "ctx": "巨大的"
     },
     {
       "word": "swing",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "（使）摆动；摇摆；转弯"
+      "meaning": "（使）摆动；摇摆；转弯",
+      "ctx": "摆动"
     }
   ]
 }

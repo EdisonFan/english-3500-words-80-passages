@@ -77,504 +77,576 @@
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "戏；剧；戏剧艺术"
+      "meaning": "戏；剧；戏剧艺术",
+      "ctx": "戏剧"
     },
     {
       "word": "sorrow",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "悲伤；悲痛；伤心事"
+      "meaning": "悲伤；悲痛；伤心事",
+      "ctx": "悲伤"
     },
     {
       "word": "imagery",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "形象的描述；意象"
+      "meaning": "形象的描述；意象",
+      "ctx": "意象"
     },
     {
       "word": "literary",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "文学的；爱好文学的"
+      "meaning": "文学的；爱好文学的",
+      "ctx": "文学的"
     },
     {
       "word": "rhyme",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "押韵词；押韵的短诗"
+      "meaning": "押韵词；押韵的短诗",
+      "ctx": "押韵"
     },
     {
       "word": "rhythm",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "节奏；韵律"
+      "meaning": "节奏；韵律",
+      "ctx": "节奏"
     },
     {
       "word": "nursery",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "幼儿教育的"
+      "meaning": "幼儿教育的",
+      "ctx": "幼儿的"
     },
     {
       "word": "nursery rhyme",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "童谣；儿歌"
+      "meaning": "童谣；儿歌",
+      "ctx": "童谣"
     },
     {
       "word": "folk",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "民间的；民俗的"
+      "meaning": "民间的；民俗的",
+      "ctx": "民间的"
     },
     {
       "word": "mockingbird",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "嘲鸫"
+      "meaning": "嘲鸫",
+      "ctx": "嘲鸫"
     },
     {
       "word": "diamond",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "钻石；金刚石"
+      "meaning": "钻石；金刚石",
+      "ctx": "钻石"
     },
     {
       "word": "brass",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "黄铜；黄铜制品"
+      "meaning": "黄铜；黄铜制品",
+      "ctx": "黄铜"
     },
     {
       "word": "billy goat",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "公山羊"
+      "meaning": "公山羊",
+      "ctx": "公山羊"
     },
     {
       "word": "bull",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "公牛"
+      "meaning": "公牛",
+      "ctx": "公牛"
     },
     {
       "word": "recite",
       "type": "core",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "背诵；吟诵"
+      "meaning": "背诵；吟诵",
+      "ctx": "背诵"
     },
     {
       "word": "bee",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "蜜蜂"
+      "meaning": "蜜蜂",
+      "ctx": "蜜蜂"
     },
     {
       "word": "dewdrop",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "露珠；水珠"
+      "meaning": "露珠；水珠",
+      "ctx": "露珠"
     },
     {
       "word": "dawn",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "黎明；开端"
+      "meaning": "黎明；开端",
+      "ctx": "黎明"
     },
     {
       "word": "clover",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "三叶草"
+      "meaning": "三叶草",
+      "ctx": "三叶草"
     },
     {
       "word": "butterfly",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "蝴蝶"
+      "meaning": "蝴蝶",
+      "ctx": "蝴蝶"
     },
     {
       "word": "lawn",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "草坪；草地"
+      "meaning": "草坪；草地",
+      "ctx": "草坪"
     },
     {
       "word": "amateur",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "业余爱好者"
+      "meaning": "业余爱好者",
+      "ctx": "业余爱好者"
     },
     {
       "word": "cinquain",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "五行诗"
+      "meaning": "五行诗",
+      "ctx": "五行诗"
     },
     {
       "word": "be made up of",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "由……组成"
+      "meaning": "由……组成",
+      "ctx": "由……组成"
     },
     {
       "word": "mood",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "情绪；心情；语气"
+      "meaning": "情绪；心情；语气",
+      "ctx": "心情"
     },
     {
       "word": "tease",
       "type": "outline",
       "phonetic": "",
       "pos": "vi.",
-      "meaning": "取笑；揶揄"
+      "meaning": "取笑；揶揄",
+      "ctx": "取笑"
     },
     {
       "word": "haiku",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "俳句"
+      "meaning": "俳句",
+      "ctx": "俳句"
     },
     {
       "word": "syllable",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "音节"
+      "meaning": "音节",
+      "ctx": "音节"
     },
     {
       "word": "format",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "格式；总体安排"
+      "meaning": "格式；总体安排",
+      "ctx": "格式"
     },
     {
       "word": "respectively",
       "type": "core",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "分别；各自"
+      "meaning": "分别；各自",
+      "ctx": "分别"
     },
     {
       "word": "respective",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "分别的；各自的"
+      "meaning": "分别的；各自的",
+      "ctx": "各自的"
     },
     {
       "word": "blossom",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "花朵；花簇"
+      "meaning": "花朵；花簇",
+      "ctx": "花朵"
     },
     {
       "word": "delicate",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "精美的；脆弱的"
+      "meaning": "精美的；脆弱的",
+      "ctx": "纤弱的"
     },
     {
       "word": "await",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "等候；期待"
+      "meaning": "等候；期待",
+      "ctx": "等候"
     },
     {
       "word": "revolve",
       "type": "core",
       "phonetic": "",
       "pos": "vi.",
-      "meaning": "旋转；环绕"
+      "meaning": "旋转；环绕",
+      "ctx": "旋转"
     },
     {
       "word": "utter",
       "type": "core",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "说；讲；发出（声音）"
+      "meaning": "说；讲；发出（声音）",
+      "ctx": "发出（声音）"
     },
     {
       "word": "comprehension",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "理解力；领悟力"
+      "meaning": "理解力；领悟力",
+      "ctx": "理解力"
     },
     {
       "word": "shelf",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "架子；搁板"
+      "meaning": "架子；搁板",
+      "ctx": "架子"
     },
     {
       "word": "core",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "核心；精髓"
+      "meaning": "核心；精髓",
+      "ctx": "核心"
     },
     {
       "word": "cherry",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "樱桃；樱桃树"
+      "meaning": "樱桃；樱桃树",
+      "ctx": "樱桃"
     },
     {
       "word": "cherry blossom",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "樱花"
+      "meaning": "樱花",
+      "ctx": "樱花"
     },
     {
       "word": "blank",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "空白的"
+      "meaning": "空白的",
+      "ctx": "空白的"
     },
     {
       "word": "verse",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "诗；韵文；诗节"
+      "meaning": "诗；韵文；诗节",
+      "ctx": "诗节"
     },
     {
       "word": "civilian",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "平民；老百姓"
+      "meaning": "平民；老百姓",
+      "ctx": "平民"
     },
     {
       "word": "prose",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "散文"
+      "meaning": "散文",
+      "ctx": "散文"
     },
     {
       "word": "sympathetic",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "同情的；有同情心的"
+      "meaning": "同情的；有同情心的",
+      "ctx": "同情的"
     },
     {
       "word": "sympathy",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "同情；赞同"
+      "meaning": "同情；赞同",
+      "ctx": "同情"
     },
     {
       "word": "version",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "版本"
+      "meaning": "版本",
+      "ctx": "版本"
     },
     {
       "word": "innocence",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "天真；单纯"
+      "meaning": "天真；单纯",
+      "ctx": "天真"
     },
     {
       "word": "innocent",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "天真无邪的；无辜的"
+      "meaning": "天真无邪的；无辜的",
+      "ctx": "天真的"
     },
     {
       "word": "era",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "时代；年代"
+      "meaning": "时代；年代",
+      "ctx": "时代"
     },
     {
       "word": "correspondence",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "来往信件"
+      "meaning": "来往信件",
+      "ctx": "来往信件"
     },
     {
       "word": "correspond",
       "type": "outline",
       "phonetic": "",
       "pos": "vi.",
-      "meaning": "相一致；符合"
+      "meaning": "相一致；符合",
+      "ctx": "符合"
     },
     {
       "word": "sow",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "播种；种"
+      "meaning": "播种；种",
+      "ctx": "播种"
     },
     {
       "word": "seed",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "种子；起源"
+      "meaning": "种子；起源",
+      "ctx": "种子"
     },
     {
       "word": "dominant",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "首要的；占支配地位的"
+      "meaning": "首要的；占支配地位的",
+      "ctx": "占支配地位的"
     },
     {
       "word": "sonnet",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "十四行诗"
+      "meaning": "十四行诗",
+      "ctx": "十四行诗"
     },
     {
       "word": "deadline",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "最后期限；截止日期"
+      "meaning": "最后期限；截止日期",
+      "ctx": "截止日期"
     },
     {
       "word": "contest",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "比赛；竞赛"
+      "meaning": "比赛；竞赛",
+      "ctx": "比赛"
     },
     {
       "word": "polish",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "修改；润色"
+      "meaning": "修改；润色",
+      "ctx": "润色"
     },
     {
       "word": "string",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "细绳；线"
+      "meaning": "细绳；线",
+      "ctx": "细绳"
     },
     {
       "word": "wherever",
       "type": "outline",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "无论何处"
+      "meaning": "无论何处",
+      "ctx": "无论何处"
     },
     {
       "word": "barren",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "贫瘠的；荒芜的"
+      "meaning": "贫瘠的；荒芜的",
+      "ctx": "贫瘠的"
     },
     {
       "word": "grief",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "悲伤；悲痛"
+      "meaning": "悲伤；悲痛",
+      "ctx": "悲痛"
     },
     {
       "word": "complicated",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "复杂的；难懂的"
+      "meaning": "复杂的；难懂的",
+      "ctx": "复杂的"
     },
     {
       "word": "variation",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "变化；变体"
+      "meaning": "变化；变体",
+      "ctx": "变体"
     },
     {
       "word": "racial",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "种族的；人种的"
+      "meaning": "种族的；人种的",
+      "ctx": "种族的"
     },
     {
       "word": "prejudice",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "偏见；成见"
+      "meaning": "偏见；成见",
+      "ctx": "偏见"
     },
     {
       "word": "compose",
       "type": "core",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "组成；创作"
+      "meaning": "组成；创作",
+      "ctx": "创作"
     },
     {
       "word": "contradictory",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "矛盾的；抵触的"
+      "meaning": "矛盾的；抵触的",
+      "ctx": "矛盾的"
     },
     {
       "word": "eventually",
       "type": "core",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "最终；最后"
+      "meaning": "最终；最后",
+      "ctx": "最终"
     },
     {
       "word": "transform",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "转换；转化"
+      "meaning": "转换；转化",
+      "ctx": "转化"
     }
   ]
 }

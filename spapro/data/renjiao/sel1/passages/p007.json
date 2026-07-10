@@ -52,273 +52,312 @@
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "交流；相互影响"
+      "meaning": "交流；相互影响",
+      "ctx": "交流；互动"
     },
     {
       "word": "vary",
       "type": "outline",
       "phonetic": "",
       "pos": "vi.",
-      "meaning": "（根据情况）变化；改变"
+      "meaning": "（根据情况）变化；改变",
+      "ctx": "（因……而）不同"
     },
     {
       "word": "appropriate",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "合适的；恰当的"
+      "meaning": "合适的；恰当的",
+      "ctx": "合适的"
     },
     {
       "word": "by contrast",
       "type": "outline",
       "phonetic": "",
       "pos": "短语",
-      "meaning": "相比之下"
+      "meaning": "相比之下",
+      "ctx": "相比之下"
     },
     {
       "word": "approve",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "赞成；同意"
+      "meaning": "赞成；同意",
+      "ctx": "认可；赞成"
     },
     {
       "word": "demonstrate",
       "type": "core",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "表现；表达；说明；证明"
+      "meaning": "表现；表达；说明；证明",
+      "ctx": "表示；体现"
     },
     {
       "word": "gesture",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "手势；姿势；姿态"
+      "meaning": "手势；姿势；姿态",
+      "ctx": "手势"
     },
     {
       "word": "witness",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "当场看到；目击"
+      "meaning": "当场看到；目击",
+      "ctx": "看到；目睹"
     },
     {
       "word": "employ",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "使用；应用；雇用"
+      "meaning": "使用；应用；雇用",
+      "ctx": "使用；做出"
     },
     {
       "word": "identical",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "相同的"
+      "meaning": "相同的",
+      "ctx": "相同的"
     },
     {
       "word": "interpret",
       "type": "core",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "把……理解（解释）为"
+      "meaning": "把……理解（解释）为",
+      "ctx": "理解为"
     },
     {
       "word": "differ",
       "type": "core",
       "phonetic": "",
       "pos": "vi.",
-      "meaning": "相异；不同于"
+      "meaning": "相异；不同于",
+      "ctx": "（含义）不同"
     },
     {
       "word": "by comparison",
       "type": "outline",
       "phonetic": "",
       "pos": "短语",
-      "meaning": "（与……）相比较"
+      "meaning": "（与……）相比较",
+      "ctx": "相比之下"
     },
     {
       "word": "cheek",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "面颊；脸颊"
+      "meaning": "面颊；脸颊",
+      "ctx": "脸颊"
     },
     {
       "word": "favour",
       "type": "core",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "较喜欢；选择"
+      "meaning": "较喜欢；选择",
+      "ctx": "更喜欢"
     },
     {
       "word": "bow",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "鞠躬；点头"
+      "meaning": "鞠躬；点头",
+      "ctx": "鞠躬"
     },
     {
       "word": "waist",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "腰；腰部"
+      "meaning": "腰；腰部",
+      "ctx": "腰"
     },
     {
       "word": "infer",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "推理；推断"
+      "meaning": "推理；推断",
+      "ctx": "推断"
     },
     {
       "word": "break down",
       "type": "outline",
       "phonetic": "",
       "pos": "短语",
-      "meaning": "消除；分解；打破"
+      "meaning": "消除；分解；打破",
+      "ctx": "消除；打破"
     },
     {
       "word": "barrier",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "隔阂；障碍"
+      "meaning": "隔阂；障碍",
+      "ctx": "隔阂"
     },
     {
       "word": "fake",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "假装的；假的；冒充的"
+      "meaning": "假装的；假的；冒充的",
+      "ctx": "假装的"
     },
     {
       "word": "anger",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "愤怒；怒气"
+      "meaning": "愤怒；怒气",
+      "ctx": "愤怒"
     },
     {
       "word": "reliable",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "可靠的；可信赖的"
+      "meaning": "可靠的；可信赖的",
+      "ctx": "可靠的"
     },
     {
       "word": "incident",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "发生的事情；严重事件；冲突"
+      "meaning": "发生的事情；严重事件；冲突",
+      "ctx": "事件"
     },
     {
       "word": "trial",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "审讯；审判；试验；试用"
+      "meaning": "审讯；审判；试验；试用",
+      "ctx": "审讯；审判"
     },
     {
       "word": "slight",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "轻微的；略微的"
+      "meaning": "轻微的；略微的",
+      "ctx": "轻微的"
     },
     {
       "word": "slightly",
       "type": "outline",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "略微；稍微"
+      "meaning": "略微；稍微",
+      "ctx": "略微"
     },
     {
       "word": "twin",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "双胞胎之一的"
+      "meaning": "双胞胎之一的",
+      "ctx": "双胞胎的"
     },
     {
       "word": "non-verbal",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "不涉及言语的；非言语的"
+      "meaning": "不涉及言语的；非言语的",
+      "ctx": "非言语的"
     },
     {
       "word": "assessment",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "评价；评定"
+      "meaning": "评价；评定",
+      "ctx": "评价"
     },
     {
       "word": "assess",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "评估；评价"
+      "meaning": "评估；评价",
+      "ctx": "评估"
     },
     {
       "word": "inner",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "内部的；里面的"
+      "meaning": "内部的；里面的",
+      "ctx": "内心的"
     },
     {
       "word": "straighten up",
       "type": "outline",
       "phonetic": "",
       "pos": "短语",
-      "meaning": "直起来；整理；收拾整齐"
+      "meaning": "直起来；整理；收拾整齐",
+      "ctx": "挺直身体"
     },
     {
       "word": "slump",
       "type": "outline",
       "phonetic": "",
       "pos": "vi.",
-      "meaning": "垂头弯腰地走（或坐等）"
+      "meaning": "垂头弯腰地走（或坐等）",
+      "ctx": "垂头弯腰地走"
     },
     {
       "word": "pose",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "故作姿态；姿势"
+      "meaning": "故作姿态；姿势",
+      "ctx": "姿势；姿态"
     },
     {
       "word": "bend",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "（使）弯曲；倾斜；偏向"
+      "meaning": "（使）弯曲；倾斜；偏向",
+      "ctx": "（使）弯曲"
     },
     {
       "word": "reveal",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "揭示；显示；露出"
+      "meaning": "揭示；显示；露出",
+      "ctx": "显露；显示"
     },
     {
       "word": "clarify",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "使更清晰易懂；阐明；澄清"
+      "meaning": "使更清晰易懂；阐明；澄清",
+      "ctx": "阐明"
     },
     {
       "word": "in other words",
       "type": "outline",
       "phonetic": "",
       "pos": "短语",
-      "meaning": "换句话说；也就是说"
+      "meaning": "换句话说；也就是说",
+      "ctx": "换句话说"
     }
   ]
 }

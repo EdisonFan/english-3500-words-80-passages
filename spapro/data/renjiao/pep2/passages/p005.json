@@ -37,441 +37,504 @@
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "博客；vt. 写博客"
+      "meaning": "博客；vt. 写博客",
+      "ctx": "博客；写博客"
     },
     {
       "word": "blog post",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "博文；博客帖子"
+      "meaning": "博文；博客帖子",
+      "ctx": "博文；博客帖子"
     },
     {
       "word": "blogger",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "博客作者；博主"
+      "meaning": "博客作者；博主",
+      "ctx": "博客作者；博主"
     },
     {
       "word": "engine",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "引擎；发动机；火车头"
+      "meaning": "引擎；发动机；火车头",
+      "ctx": "引擎；发动机"
     },
     {
       "word": "search engine",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "（互联网上的）搜索引擎"
+      "meaning": "（互联网上的）搜索引擎",
+      "ctx": "搜索引擎"
     },
     {
       "word": "chat",
       "type": "outline",
       "phonetic": "",
       "pos": "vi.",
-      "meaning": "聊天；闲聊"
+      "meaning": "聊天；闲聊",
+      "ctx": "聊天；闲聊"
     },
     {
       "word": "stream",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "流播（不用下载直接在互联网上播放音视频）；流出；vi. 流动；n. 小河；溪流"
+      "meaning": "流播（不用下载直接在互联网上播放音视频）；流出；vi. 流动；n. 小河；溪流",
+      "ctx": "流播；流动"
     },
     {
       "word": "identity",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "身份；个性"
+      "meaning": "身份；个性",
+      "ctx": "身份；个性"
     },
     {
       "word": "identity card",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "身份证"
+      "meaning": "身份证",
+      "ctx": "身份证"
     },
     {
       "word": "convenient",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "方便的；近便的"
+      "meaning": "方便的；近便的",
+      "ctx": "方便的"
     },
     {
       "word": "cash",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "现金；金钱"
+      "meaning": "现金；金钱",
+      "ctx": "现金"
     },
     {
       "word": "update",
       "type": "outline",
       "phonetic": "",
       "pos": "vi.",
-      "meaning": "更新；向……提供最新信息；n. 更新；最新消息"
+      "meaning": "更新；向……提供最新信息；n. 更新；最新消息",
+      "ctx": "更新；最新消息"
     },
     {
       "word": "database",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "数据库；资料库"
+      "meaning": "数据库；资料库",
+      "ctx": "数据库；资料库"
     },
     {
       "word": "software",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "软件"
+      "meaning": "软件",
+      "ctx": "软件"
     },
     {
       "word": "network",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "（互联）网络；网状系统；人际网；vt. 将……连接成网络；联播；vi. 建立工作关系"
+      "meaning": "（互联）网络；网状系统；人际网；vt. 将……连接成网络；联播；vi. 建立工作关系",
+      "ctx": "网络；人际网"
     },
     {
       "word": "stuck",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "卡住；陷（入）；困（于）"
+      "meaning": "卡住；陷（入）；困（于）",
+      "ctx": "困（于）；卡住"
     },
     {
       "word": "keep sb company",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "陪伴某人"
+      "meaning": "陪伴某人",
+      "ctx": "陪伴某人"
     },
     {
       "word": "surf",
       "type": "outline",
       "phonetic": "",
       "pos": "vt. & vi.",
-      "meaning": "浏览；冲浪"
+      "meaning": "浏览；冲浪",
+      "ctx": "浏览；冲浪"
     },
     {
       "word": "benefit",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "益处；vt. 使受益；vi. 得益于"
+      "meaning": "益处；vt. 使受益；vi. 得益于",
+      "ctx": "益处；使受益"
     },
     {
       "word": "distance",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "距离"
+      "meaning": "距离",
+      "ctx": "距离"
     },
     {
       "word": "inspire",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "鼓舞；激励；启发思考"
+      "meaning": "鼓舞；激励；启发思考",
+      "ctx": "鼓舞；激励"
     },
     {
       "word": "now that",
       "type": "outline",
       "phonetic": "",
       "pos": "conj.",
-      "meaning": "既然；由于"
+      "meaning": "既然；由于",
+      "ctx": "既然；由于"
     },
     {
       "word": "access",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "通道；（使用、查阅、接近或面见的）机会；vt. 进入；使用；获取"
+      "meaning": "通道；（使用、查阅、接近或面见的）机会；vt. 进入；使用；获取",
+      "ctx": "使用机会；获取"
     },
     {
       "word": "charity",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "慈善；慈善机构（或组织）"
+      "meaning": "慈善；慈善机构（或组织）",
+      "ctx": "慈善；慈善机构"
     },
     {
       "word": "go through",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "经历；度过；通读"
+      "meaning": "经历；度过；通读",
+      "ctx": "经历；度过"
     },
     {
       "word": "tough",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "艰难的；严厉的"
+      "meaning": "艰难的；严厉的",
+      "ctx": "艰难的"
     },
     {
       "word": "province",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "省"
+      "meaning": "省",
+      "ctx": "省"
     },
     {
       "word": "conference",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "会议；研讨会；正式会谈"
+      "meaning": "会议；研讨会；正式会谈",
+      "ctx": "会议；研讨会"
     },
     {
       "word": "resident",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "居民；（美国的）住院医生；adj. （在某地）居住的"
+      "meaning": "居民；（美国的）住院医生；adj. （在某地）居住的",
+      "ctx": "居民"
     },
     {
       "word": "plus",
       "type": "outline",
       "phonetic": "",
       "pos": "conj.",
-      "meaning": "而且；此外；n. 加号；优势；prep. 加；另加"
+      "meaning": "而且；此外；n. 加号；优势；prep. 加；另加",
+      "ctx": "而且；此外"
     },
     {
       "word": "function",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "功能；作用；机能；vi. 起作用；正常工作；运转"
+      "meaning": "功能；作用；机能；vi. 起作用；正常工作；运转",
+      "ctx": "功能；作用"
     },
     {
       "word": "battery",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "电池"
+      "meaning": "电池",
+      "ctx": "电池"
     },
     {
       "word": "confirm",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "确认；使确信"
+      "meaning": "确认；使确信",
+      "ctx": "确认；使确信"
     },
     {
       "word": "Wi-Fi",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "无线保真（用无线电波而非网线在计算机网络传输数据的系统）"
+      "meaning": "无线保真（用无线电波而非网线在计算机网络传输数据的系统）",
+      "ctx": "无线保真；无线网络"
     },
     {
       "word": "press",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "按，压；敦促"
+      "meaning": "按，压；敦促",
+      "ctx": "按，压；敦促"
     },
     {
       "word": "button",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "按钮；纽扣"
+      "meaning": "按钮；纽扣",
+      "ctx": "按钮；纽扣"
     },
     {
       "word": "file",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "文件；文件夹；档案"
+      "meaning": "文件；文件夹；档案",
+      "ctx": "文件；文件夹"
     },
     {
       "word": "in shape",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "状况良好"
+      "meaning": "状况良好",
+      "ctx": "状况良好"
     },
     {
       "word": "keep track of",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "掌握……的最新消息；了解……的动态"
+      "meaning": "掌握……的最新消息；了解……的动态",
+      "ctx": "了解……的动态"
     },
     {
       "word": "discount",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "折扣；vt. 打折"
+      "meaning": "折扣；vt. 打折",
+      "ctx": "折扣"
     },
     {
       "word": "account",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "账户；描述"
+      "meaning": "账户；描述",
+      "ctx": "账户；描述"
     },
     {
       "word": "click",
       "type": "outline",
       "phonetic": "",
       "pos": "vt. & vi.",
-      "meaning": "点击"
+      "meaning": "点击",
+      "ctx": "点击"
     },
     {
       "word": "privacy",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "隐私；私密"
+      "meaning": "隐私；私密",
+      "ctx": "隐私；私密"
     },
     {
       "word": "theft",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "偷（窃）；盗窃罪"
+      "meaning": "偷（窃）；盗窃罪",
+      "ctx": "偷窃；盗窃罪"
     },
     {
       "word": "rude",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "粗鲁的；无礼的"
+      "meaning": "粗鲁的；无礼的",
+      "ctx": "粗鲁的；无礼的"
     },
     {
       "word": "target",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "目标；对象；靶子；vt. 把……作为攻击目标"
+      "meaning": "目标；对象；靶子；vt. 把……作为攻击目标",
+      "ctx": "目标；对象"
     },
     {
       "word": "troll",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "发挑衅帖子的人；恶意挑衅的帖子"
+      "meaning": "发挑衅帖子的人；恶意挑衅的帖子",
+      "ctx": "发挑衅帖子的人"
     },
     {
       "word": "cyberbully",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "网霸；vt. & vi. 网络欺凌"
+      "meaning": "网霸；vt. & vi. 网络欺凌",
+      "ctx": "网霸；网络欺凌"
     },
     {
       "word": "false",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "假的；错误的"
+      "meaning": "假的；错误的",
+      "ctx": "假的；错误的"
     },
     {
       "word": "particular",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "特定的；特别的；讲究的"
+      "meaning": "特定的；特别的；讲究的",
+      "ctx": "特定的；特别的"
     },
     {
       "word": "embarrassing",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "让人难堪（尴尬；害羞）的"
+      "meaning": "让人难堪（尴尬；害羞）的",
+      "ctx": "令人难堪的；尴尬的"
     },
     {
       "word": "make fun of",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "取笑；戏弄"
+      "meaning": "取笑；戏弄",
+      "ctx": "取笑；戏弄"
     },
     {
       "word": "upset",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "心烦的；苦恼的；沮丧的；vt. (upset, upset) 使烦恼；使生气；搅乱"
+      "meaning": "心烦的；苦恼的；沮丧的；vt. (upset, upset) 使烦恼；使生气；搅乱",
+      "ctx": "心烦的；使烦恼"
     },
     {
       "word": "guideline",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "准则；指导原则"
+      "meaning": "准则；指导原则",
+      "ctx": "准则；指导原则"
     },
     {
       "word": "author",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "作者；作家"
+      "meaning": "作者；作家",
+      "ctx": "作者；作家"
     },
     {
       "word": "tip",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "忠告；诀窍；实用的提示"
+      "meaning": "忠告；诀窍；实用的提示",
+      "ctx": "忠告；提示"
     },
     {
       "word": "familiar",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "熟悉；熟知"
+      "meaning": "熟悉；熟知",
+      "ctx": "熟悉；熟知"
     },
     {
       "word": "keep (... ) in mind",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "牢记"
+      "meaning": "牢记",
+      "ctx": "牢记"
     },
     {
       "word": "define",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "给……下定义；界定；解释"
+      "meaning": "给……下定义；界定；解释",
+      "ctx": "给……下定义；界定"
     },
     {
       "word": "case",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "盒；箱；情况；案件"
+      "meaning": "盒；箱；情况；案件",
+      "ctx": "盒；情况"
     },
     {
       "word": "the World Wide Web",
       "type": "outline",
       "phonetic": "",
       "pos": "abbr.",
-      "meaning": "WWW万维网；环球信息网"
+      "meaning": "WWW万维网；环球信息网",
+      "ctx": "万维网"
     },
     {
       "word": "Jan Tchamani",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "简·夏曼尼（人名）"
+      "meaning": "简·夏曼尼（人名）",
+      "ctx": "简·夏曼尼"
     },
     {
       "word": "Birmingham",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "伯明翰（英国城市）"
+      "meaning": "伯明翰（英国城市）",
+      "ctx": "伯明翰"
     }
   ]
 }

@@ -62,385 +62,440 @@
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "烟草；烟叶"
+      "meaning": "烟草；烟叶",
+      "ctx": "烟草"
     },
     {
       "word": "alcohol",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "酒；酒精"
+      "meaning": "酒；酒精",
+      "ctx": "酒精"
     },
     {
       "word": "abuse",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "滥用；虐待；辱骂"
+      "meaning": "滥用；虐待；辱骂",
+      "ctx": "滥用"
     },
     {
       "word": "physical",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "身体的；客观存在的；物理学的"
+      "meaning": "身体的；客观存在的；物理学的",
+      "ctx": "身体的"
     },
     {
       "word": "dominate",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "支配；控制；占有优势"
+      "meaning": "支配；控制；占有优势",
+      "ctx": "支配"
     },
     {
       "word": "repeatedly",
       "type": "core",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "重复地"
+      "meaning": "重复地",
+      "ctx": "重复地"
     },
     {
       "word": "psychology",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "心理学；心理"
+      "meaning": "心理学；心理",
+      "ctx": "心理学"
     },
     {
       "word": "cue",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "提示；暗示；信号"
+      "meaning": "提示；暗示；信号",
+      "ctx": "信号"
     },
     {
       "word": "in response to",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "回答；答复"
+      "meaning": "回答；答复",
+      "ctx": "作为对……的回应"
     },
     {
       "word": "reward",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "回报；奖励；报酬"
+      "meaning": "回报；奖励；报酬",
+      "ctx": "回报"
     },
     {
       "word": "rely",
       "type": "outline",
       "phonetic": "",
       "pos": "vi.",
-      "meaning": "依赖；依靠；信赖"
+      "meaning": "依赖；依靠；信赖",
+      "ctx": "依赖"
     },
     {
       "word": "rely on",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "依赖；依靠"
+      "meaning": "依赖；依靠",
+      "ctx": "依赖"
     },
     {
       "word": "facilitate",
       "type": "core",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "促进；促使；使便利"
+      "meaning": "促进；促使；使便利",
+      "ctx": "促进"
     },
     {
       "word": "examine",
       "type": "core",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "检查；审查；测验"
+      "meaning": "检查；审查；测验",
+      "ctx": "审视"
     },
     {
       "word": "negative",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "消极的；有害的"
+      "meaning": "消极的；有害的",
+      "ctx": "消极的"
     },
     {
       "word": "escalator",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "自动扶梯；滚梯"
+      "meaning": "自动扶梯；滚梯",
+      "ctx": "自动扶梯"
     },
     {
       "word": "straight away",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "立即；马上"
+      "meaning": "立即；马上",
+      "ctx": "立刻"
     },
     {
       "word": "pessimistic",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "悲观的；悲观主义的"
+      "meaning": "悲观的；悲观主义的",
+      "ctx": "悲观的"
     },
     {
       "word": "discipline",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "自制力；纪律；学科"
+      "meaning": "自制力；纪律；学科",
+      "ctx": "自制力"
     },
     {
       "word": "pill",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "药丸；药片"
+      "meaning": "药丸；药片",
+      "ctx": "药丸"
     },
     {
       "word": "delete",
       "type": "core",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "删去；删除"
+      "meaning": "删去；删除",
+      "ctx": "删除"
     },
     {
       "word": "decide on",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "决定；选定"
+      "meaning": "决定；选定",
+      "ctx": "选定"
     },
     {
       "word": "make up one's mind",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "下定决心"
+      "meaning": "下定决心",
+      "ctx": "下定决心"
     },
     {
       "word": "compose",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "组成；作曲；撰写"
+      "meaning": "组成；作曲；撰写",
+      "ctx": "组成"
     },
     {
       "word": "be composed of",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "由……组成"
+      "meaning": "由……组成",
+      "ctx": "由……组成"
     },
     {
       "word": "surgeon",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "外科医生"
+      "meaning": "外科医生",
+      "ctx": "外科医生"
     },
     {
       "word": "surgery",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "外科手术；外科学"
+      "meaning": "外科手术；外科学",
+      "ctx": "外科手术"
     },
     {
       "word": "liberation",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "解放；摆脱"
+      "meaning": "解放；摆脱",
+      "ctx": "解放"
     },
     {
       "word": "shave",
       "type": "outline",
       "phonetic": "",
       "pos": "vi.",
-      "meaning": "剃（须发）；刮脸"
+      "meaning": "剃（须发）；刮脸",
+      "ctx": "剃"
     },
     {
       "word": "shave off",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "剃掉；刮去"
+      "meaning": "剃掉；刮去",
+      "ctx": "剃掉"
     },
     {
       "word": "beard",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "胡须；络腮胡子"
+      "meaning": "胡须；络腮胡子",
+      "ctx": "胡须"
     },
     {
       "word": "disturb",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "打扰；搅乱；使烦恼"
+      "meaning": "打扰；搅乱；使烦恼",
+      "ctx": "打扰"
     },
     {
       "word": "cigarette",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "香烟；卷烟"
+      "meaning": "香烟；卷烟",
+      "ctx": "香烟"
     },
     {
       "word": "specialist",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "专科医生；专家"
+      "meaning": "专科医生；专家",
+      "ctx": "专家"
     },
     {
       "word": "consultant",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "顾问；高级顾问医师"
+      "meaning": "顾问；高级顾问医师",
+      "ctx": "顾问"
     },
     {
       "word": "drug",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "毒品；药物"
+      "meaning": "毒品；药物",
+      "ctx": "毒品"
     },
     {
       "word": "skip",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "跳过；不参加"
+      "meaning": "跳过；不参加",
+      "ctx": "跳过"
     },
     {
       "word": "dizzy",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "头晕目眩的"
+      "meaning": "头晕目眩的",
+      "ctx": "头晕的"
     },
     {
       "word": "flu",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "流感"
+      "meaning": "流感",
+      "ctx": "流感"
     },
     {
       "word": "stimulate",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "激发；促进；刺激"
+      "meaning": "激发；促进；刺激",
+      "ctx": "激发"
     },
     {
       "word": "dentist",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "牙科医生"
+      "meaning": "牙科医生",
+      "ctx": "牙科医生"
     },
     {
       "word": "sugary",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "含糖的；甜的"
+      "meaning": "含糖的；甜的",
+      "ctx": "含糖的"
     },
     {
       "word": "nut",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "坚果"
+      "meaning": "坚果",
+      "ctx": "坚果"
     },
     {
       "word": "skateboard",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "滑板"
+      "meaning": "滑板",
+      "ctx": "滑板"
     },
     {
       "word": "dynamic",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "充满活力的；精力充沛的"
+      "meaning": "充满活力的；精力充沛的",
+      "ctx": "充满活力的"
     },
     {
       "word": "stressed out",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "焦虑不安；心力交瘁"
+      "meaning": "焦虑不安；心力交瘁",
+      "ctx": "焦虑不安的"
     },
     {
       "word": "worn out",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "筋疲力尽的；疲惫的"
+      "meaning": "筋疲力尽的；疲惫的",
+      "ctx": "筋疲力尽的"
     },
     {
       "word": "bowling",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "保龄球运动"
+      "meaning": "保龄球运动",
+      "ctx": "保龄球"
     },
     {
       "word": "comedy",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "喜剧；喜剧片"
+      "meaning": "喜剧；喜剧片",
+      "ctx": "喜剧"
     },
     {
       "word": "monthly",
       "type": "outline",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "每月"
+      "meaning": "每月",
+      "ctx": "每月"
     },
     {
       "word": "enhance",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "提高；增强；增进"
+      "meaning": "提高；增强；增进",
+      "ctx": "增强"
     },
     {
       "word": "refresh",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "使恢复精力；使凉爽"
+      "meaning": "使恢复精力；使凉爽",
+      "ctx": "使恢复精力"
     },
     {
       "word": "absorb",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "吸引全部注意力；吸收"
+      "meaning": "吸引全部注意力；吸收",
+      "ctx": "吸引"
     },
     {
       "word": "Aristotle",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "亚里士多德"
+      "meaning": "亚里士多德",
+      "ctx": "亚里士多德"
     },
     {
       "word": "Lao Zi",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "老子"
+      "meaning": "老子",
+      "ctx": "老子"
     }
   ]
 }

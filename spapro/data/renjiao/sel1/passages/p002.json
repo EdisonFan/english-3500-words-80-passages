@@ -42,259 +42,296 @@
       "type": "core",
       "phonetic": "",
       "pos": "vi. & vt.",
-      "meaning": "迅速离开；逃跑"
+      "meaning": "迅速离开；逃跑",
+      "ctx": "逃离；逃跑"
     },
     {
       "word": "circumstance",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "条件；环境；状况"
+      "meaning": "条件；环境；状况",
+      "ctx": "情况；境况"
     },
     {
       "word": "novelist",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "小说家"
+      "meaning": "小说家",
+      "ctx": "小说家"
     },
     {
       "word": "novel",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "（长篇）小说"
+      "meaning": "（长篇）小说",
+      "ctx": "（长篇）小说"
     },
     {
       "word": "flow",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "流；流动"
+      "meaning": "流；流动",
+      "ctx": "流动"
     },
     {
       "word": "chart",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "图表"
+      "meaning": "图表",
+      "ctx": "图表"
     },
     {
       "word": "found",
       "type": "core",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "创建；建立"
+      "meaning": "创建；建立",
+      "ctx": "创建；建立"
     },
     {
       "word": "infer",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "推断；推定"
+      "meaning": "推断；推定",
+      "ctx": "推断"
     },
     {
       "word": "politician",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "政治家；政客"
+      "meaning": "政治家；政客",
+      "ctx": "政治家"
     },
     {
       "word": "numerous",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "众多的；许多的"
+      "meaning": "众多的；许多的",
+      "ctx": "众多的；许多的"
     },
     {
       "word": "theory",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "理论；学说"
+      "meaning": "理论；学说",
+      "ctx": "理论；学说"
     },
     {
       "word": "relativity",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "相对论；相对性"
+      "meaning": "相对论；相对性",
+      "ctx": "相对论"
     },
     {
       "word": "formula",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "公式；方程式；配方"
+      "meaning": "公式；方程式；配方",
+      "ctx": "公式；方程式"
     },
     {
       "word": "genius",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "天才；天资；天赋"
+      "meaning": "天才；天资；天赋",
+      "ctx": "天才"
     },
     {
       "word": "gentle",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "温柔的；文静的"
+      "meaning": "温柔的；文静的",
+      "ctx": "文静的；温和的"
     },
     {
       "word": "patent",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "专利"
+      "meaning": "专利",
+      "ctx": "专利（局）"
     },
     {
       "word": "passion",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "激情；热情"
+      "meaning": "激情；热情",
+      "ctx": "热情；酷爱"
     },
     {
       "word": "doctorate",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "博士学位"
+      "meaning": "博士学位",
+      "ctx": "博士学位"
     },
     {
       "word": "extraordinary",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "非凡的；显著的"
+      "meaning": "非凡的；显著的",
+      "ctx": "非凡的；杰出的"
     },
     {
       "word": "gradually",
       "type": "core",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "逐渐地；逐步地"
+      "meaning": "逐渐地；逐步地",
+      "ctx": "逐渐地"
     },
     {
       "word": "photoelectric",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "光电的"
+      "meaning": "光电的",
+      "ctx": "光电的"
     },
     {
       "word": "institution",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "社会公共机构；制度"
+      "meaning": "社会公共机构；制度",
+      "ctx": "（学术）机构"
     },
     {
       "word": "institute",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "（教育、专业等）机构"
+      "meaning": "（教育、专业等）机构",
+      "ctx": "研究院；机构"
     },
     {
       "word": "consequence",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "结果；后果"
+      "meaning": "结果；后果",
+      "ctx": "结果；因此"
     },
     {
       "word": "moustache",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "髭；上唇的胡子"
+      "meaning": "髭；上唇的胡子",
+      "ctx": "髭；胡子"
     },
     {
       "word": "peculiarity",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "个性；特点；怪异性质"
+      "meaning": "个性；特点；怪异性质",
+      "ctx": "怪癖；古怪"
     },
     {
       "word": "encounter",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "偶然碰到；遇到"
+      "meaning": "偶然碰到；遇到",
+      "ctx": "偶遇；碰到"
     },
     {
       "word": "professor",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "教授"
+      "meaning": "教授",
+      "ctx": "教授"
     },
     {
       "word": "mourn",
       "type": "outline",
       "phonetic": "",
       "pos": "vt. & vi.",
-      "meaning": "哀悼；忧伤"
+      "meaning": "哀悼；忧伤",
+      "ctx": "哀悼"
     },
     {
       "word": "device",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "设备；仪器；装置"
+      "meaning": "设备；仪器；装置",
+      "ctx": "设备；装置"
     },
     {
       "word": "remarkable",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "显著的；非凡的"
+      "meaning": "显著的；非凡的",
+      "ctx": "非凡的；卓越的"
     },
     {
       "word": "sum",
       "type": "outline",
       "phonetic": "",
       "pos": "vi.",
-      "meaning": "总结；概括"
+      "meaning": "总结；概括",
+      "ctx": "总结；概括"
     },
     {
       "word": "draft",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "草稿；草案"
+      "meaning": "草稿；草案",
+      "ctx": "草稿；草案"
     },
     {
       "word": "commit oneself to",
       "type": "outline",
       "phonetic": "",
       "pos": "短语",
-      "meaning": "承诺；投身于"
+      "meaning": "承诺；投身于",
+      "ctx": "致力于；投身于"
     },
     {
       "word": "come to power",
       "type": "outline",
       "phonetic": "",
       "pos": "短语",
-      "meaning": "掌权"
+      "meaning": "掌权",
+      "ctx": "（开始）掌权"
     },
     {
       "word": "take up a position",
       "type": "outline",
       "phonetic": "",
       "pos": "短语",
-      "meaning": "担任职位"
+      "meaning": "担任职位",
+      "ctx": "担任（某）职位"
     },
     {
       "word": "sum up",
       "type": "outline",
       "phonetic": "",
       "pos": "短语",
-      "meaning": "总结；概括"
+      "meaning": "总结；概括",
+      "ctx": "总结；概括"
     }
   ]
 }

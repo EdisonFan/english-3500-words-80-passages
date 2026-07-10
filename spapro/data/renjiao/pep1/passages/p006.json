@@ -15,6 +15,7 @@
     {
       "word": "castle",
       "type": "outline",
+      "ctx": "城堡",
       "phonetic": "/ˈkɑːsl/",
       "pos": "n.",
       "meaning": "城堡；堡垒"
@@ -22,6 +23,7 @@
     {
       "word": "apply",
       "type": "outline",
+      "ctx": "申请；应用",
       "phonetic": "/əˈplaɪ/",
       "pos": "vi. & vt.",
       "meaning": "申请；请求；应用"
@@ -29,6 +31,7 @@
     {
       "word": "apply for",
       "type": "outline",
+      "ctx": "申请",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "申请"
@@ -36,6 +39,7 @@
     {
       "word": "visa",
       "type": "outline",
+      "ctx": "签证",
       "phonetic": "/ˈviːzə/",
       "pos": "n.",
       "meaning": "签证"
@@ -43,6 +47,7 @@
     {
       "word": "rent",
       "type": "outline",
+      "ctx": "租用；租金",
       "phonetic": "/rent/",
       "pos": "vt. / vi. / n.",
       "meaning": "租用；出租；租金"
@@ -50,6 +55,7 @@
     {
       "word": "pack",
       "type": "outline",
+      "ctx": "收拾（行李）",
       "phonetic": "/pæk/",
       "pos": "vi. & vt. / n.",
       "meaning": "收拾（行李）；包装"
@@ -57,6 +63,7 @@
     {
       "word": "amazing",
       "type": "core",
+      "ctx": "令人惊奇的",
       "phonetic": "/əˈmeɪzɪŋ/",
       "pos": "adj.",
       "meaning": "令人惊奇的；令人惊喜的"
@@ -64,6 +71,7 @@
     {
       "word": "amazed",
       "type": "outline",
+      "ctx": "惊叹的",
       "phonetic": "/əˈmeɪzd/",
       "pos": "adj.",
       "meaning": "惊奇的；惊喜的"
@@ -71,6 +79,7 @@
     {
       "word": "arrangement",
       "type": "outline",
+      "ctx": "安排",
       "phonetic": "/əˈreɪndʒmənt/",
       "pos": "n.",
       "meaning": "安排；筹备"
@@ -78,6 +87,7 @@
     {
       "word": "extremely",
       "type": "outline",
+      "ctx": "极其",
       "phonetic": "/ɪkˈstriːmli/",
       "pos": "adv.",
       "meaning": "极其；非常"
@@ -85,6 +95,7 @@
     {
       "word": "source",
       "type": "outline",
+      "ctx": "来源",
       "phonetic": "/sɔːs/",
       "pos": "n.",
       "meaning": "来源；出处"
@@ -92,6 +103,7 @@
     {
       "word": "narrow",
       "type": "outline",
+      "ctx": "狭窄的",
       "phonetic": "/ˈnærəʊ/",
       "pos": "adj. / vi. & vt.",
       "meaning": "狭窄的；（使）变窄"
@@ -99,6 +111,7 @@
     {
       "word": "flat",
       "type": "outline",
+      "ctx": "平坦的",
       "phonetic": "/flæt/",
       "pos": "adj. / n.",
       "meaning": "平坦的；公寓"
@@ -106,6 +119,7 @@
     {
       "word": "powerful",
       "type": "outline",
+      "ctx": "强大的",
       "phonetic": "/ˈpaʊəfl/",
       "pos": "adj.",
       "meaning": "强有力的；有权势的"
@@ -113,6 +127,7 @@
     {
       "word": "empire",
       "type": "outline",
+      "ctx": "帝国",
       "phonetic": "/ˈempaɪə(r)/",
       "pos": "n.",
       "meaning": "帝国"
@@ -120,6 +135,7 @@
     {
       "word": "emperor",
       "type": "outline",
+      "ctx": "皇帝",
       "phonetic": "/ˈempərə(r)/",
       "pos": "n.",
       "meaning": "皇帝"
@@ -127,6 +143,7 @@
     {
       "word": "site",
       "type": "outline",
+      "ctx": "遗址",
       "phonetic": "/saɪt/",
       "pos": "n.",
       "meaning": "地点；位置；现场"
@@ -134,6 +151,7 @@
     {
       "word": "take control of",
       "type": "outline",
+      "ctx": "控制；接管",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "控制；接管"
@@ -141,6 +159,7 @@
     {
       "word": "official",
       "type": "outline",
+      "ctx": "官方的",
       "phonetic": "/əˈfɪʃl/",
       "pos": "adj. / n.",
       "meaning": "官方的；正式的；官员"
@@ -148,6 +167,7 @@
     {
       "word": "recognise (NAmE -ize)",
       "type": "outline",
+      "ctx": "辨别；认可",
       "phonetic": "/ˈrekəgnaɪz/",
       "pos": "vt.",
       "meaning": "辨别出；承认；认可"
@@ -155,6 +175,7 @@
     {
       "word": "type",
       "type": "outline",
+      "ctx": "类型；打字",
       "phonetic": "/taɪp/",
       "pos": "n. / vi. & vt.",
       "meaning": "类型；打字"
@@ -162,6 +183,7 @@
     {
       "word": "flight",
       "type": "outline",
+      "ctx": "航班",
       "phonetic": "/flaɪt/",
       "pos": "n.",
       "meaning": "航班；航程"
@@ -169,6 +191,7 @@
     {
       "word": "accommodation",
       "type": "outline",
+      "ctx": "住处",
       "phonetic": "/əˌkɒməˈdeɪʃn/",
       "pos": "n.",
       "meaning": "住处；膳宿"
@@ -176,6 +199,7 @@
     {
       "word": "unique",
       "type": "outline",
+      "ctx": "独特的；特有的",
       "phonetic": "/juˈniːk/",
       "pos": "adj.",
       "meaning": "唯一的；独特的"
@@ -183,6 +207,7 @@
     {
       "word": "path",
       "type": "outline",
+      "ctx": "小路；道路",
       "phonetic": "/pɑːθ/",
       "pos": "n.",
       "meaning": "小路；路线；道路"
@@ -190,6 +215,7 @@
     {
       "word": "destination",
       "type": "outline",
+      "ctx": "目的地",
       "phonetic": "/ˌdestɪˈneɪʃn/",
       "pos": "n.",
       "meaning": "目的地；终点"
@@ -197,6 +223,7 @@
     {
       "word": "other than",
       "type": "outline",
+      "ctx": "除……以外",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "除……以外"
@@ -204,6 +231,7 @@
     {
       "word": "admire",
       "type": "outline",
+      "ctx": "欣赏",
       "phonetic": "/ədˈmaɪə(r)/",
       "pos": "vt.",
       "meaning": "钦佩；赞赏；欣赏"
@@ -211,6 +239,7 @@
     {
       "word": "architecture",
       "type": "outline",
+      "ctx": "建筑（风格）",
       "phonetic": "/ˈɑːkɪtektʃə(r)/",
       "pos": "n.",
       "meaning": "建筑学；建筑风格"
@@ -218,6 +247,7 @@
     {
       "word": "architect",
       "type": "outline",
+      "ctx": "建筑设计师",
       "phonetic": "/ˈɑːkɪtekt/",
       "pos": "n.",
       "meaning": "建筑设计师"
@@ -225,6 +255,7 @@
     {
       "word": "brochure",
       "type": "outline",
+      "ctx": "宣传手册",
       "phonetic": "/ˈbrəʊʃə(r)/",
       "pos": "n.",
       "meaning": "资料（或广告）手册"
@@ -232,6 +263,7 @@
     {
       "word": "package",
       "type": "outline",
+      "ctx": "包裹；包装",
       "phonetic": "/ˈpækɪdʒ/",
       "pos": "n. / vt.",
       "meaning": "包裹；包装"
@@ -239,6 +271,7 @@
     {
       "word": "package tour",
       "type": "outline",
+      "ctx": "包价旅游",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "包价旅游"
@@ -246,6 +279,7 @@
     {
       "word": "contact",
       "type": "outline",
+      "ctx": "联络；联系",
       "phonetic": "/ˈkɒntækt/",
       "pos": "vt. / n.",
       "meaning": "联络；联系"
@@ -253,6 +287,7 @@
     {
       "word": "civilisation (NAmE -ization)",
       "type": "outline",
+      "ctx": "文明",
       "phonetic": "/ˌsɪvəlaɪˈzeɪʃn/",
       "pos": "n.",
       "meaning": "文明；人类文明"
@@ -260,6 +295,7 @@
     {
       "word": "make up",
       "type": "outline",
+      "ctx": "构成；形成",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "构成；形成"
@@ -267,6 +303,7 @@
     {
       "word": "soldier",
       "type": "outline",
+      "ctx": "士兵",
       "phonetic": "/ˈsəʊldʒə(r)/",
       "pos": "n.",
       "meaning": "士兵；军人"
@@ -274,6 +311,7 @@
     {
       "word": "transport",
       "type": "outline",
+      "ctx": "交通运输；运输",
       "phonetic": "/ˈtrænspɔːt/",
       "pos": "n. / vt.",
       "meaning": "交通运输系统；运输"
@@ -281,6 +319,7 @@
     {
       "word": "hike",
       "type": "outline",
+      "ctx": "徒步旅行",
       "phonetic": "/haɪk/",
       "pos": "vi. / vt. / n.",
       "meaning": "徒步旅行；远足"
@@ -288,6 +327,7 @@
     {
       "word": "economy",
       "type": "outline",
+      "ctx": "经济",
       "phonetic": "/ɪˈkɒnəmi/",
       "pos": "n.",
       "meaning": "经济；节约"
@@ -295,6 +335,7 @@
     {
       "word": "economic",
       "type": "outline",
+      "ctx": "经济（上）的",
       "phonetic": "/ˌiːkəˈnɒmɪk/",
       "pos": "adj.",
       "meaning": "经济（上）的；经济学的"
@@ -302,6 +343,7 @@
     {
       "word": "credit",
       "type": "outline",
+      "ctx": "信用；借款",
       "phonetic": "/ˈkredɪt/",
       "pos": "n.",
       "meaning": "借款；信用；学分"
@@ -309,6 +351,7 @@
     {
       "word": "credit card",
       "type": "outline",
+      "ctx": "信用卡",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "信用卡"
@@ -316,6 +359,7 @@
     {
       "word": "detail",
       "type": "outline",
+      "ctx": "细节；详情",
       "phonetic": "/ˈdiːteɪl/",
       "pos": "n.",
       "meaning": "细节；详情"
@@ -323,6 +367,7 @@
     {
       "word": "check in",
       "type": "outline",
+      "ctx": "登记（入住）",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "（旅馆、机场等）登记"
@@ -330,6 +375,7 @@
     {
       "word": "check out",
       "type": "outline",
+      "ctx": "结账离开",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "结账离开（旅馆等）"
@@ -337,6 +383,7 @@
     {
       "word": "request",
       "type": "outline",
+      "ctx": "要求；请求",
       "phonetic": "/rɪˈkwest/",
       "pos": "n. / vt.",
       "meaning": "要求；请求"
@@ -344,6 +391,7 @@
     {
       "word": "view",
       "type": "outline",
+      "ctx": "视野；景色",
       "phonetic": "/vjuː/",
       "pos": "n.",
       "meaning": "视野；景色；看法"
@@ -351,6 +399,7 @@
     {
       "word": "sight",
       "type": "core",
+      "ctx": "景观；景象",
       "phonetic": "/saɪt/",
       "pos": "n.",
       "meaning": "景象；视野；视力"
@@ -358,6 +407,7 @@
     {
       "word": "statue",
       "type": "outline",
+      "ctx": "雕像",
       "phonetic": "/ˈstætʃuː/",
       "pos": "n.",
       "meaning": "雕塑；雕像"
@@ -365,6 +415,7 @@
     {
       "word": "BCE",
       "type": "outline",
+      "ctx": "公元前",
       "phonetic": "/ˌbiː siː ˈiː/",
       "pos": "—",
       "meaning": "公元前"
@@ -372,6 +423,7 @@
     {
       "word": "tomb",
       "type": "outline",
+      "ctx": "坟墓",
       "phonetic": "/tuːm/",
       "pos": "n.",
       "meaning": "坟墓"
@@ -379,6 +431,7 @@
     {
       "word": "unearth",
       "type": "outline",
+      "ctx": "挖掘；发掘",
       "phonetic": "/ʌnˈɜːθ/",
       "pos": "vt.",
       "meaning": "挖掘；发掘"
@@ -386,6 +439,7 @@
     {
       "word": "comment",
       "type": "outline",
+      "ctx": "评论",
       "phonetic": "/ˈkɒment/",
       "pos": "n. / vi. & vt.",
       "meaning": "议论；评论"

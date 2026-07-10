@@ -17,476 +17,544 @@
       "type": "outline",
       "phonetic": "/ˈkɒmpleks/",
       "pos": "adj.",
-      "meaning": "复杂的；难懂的"
+      "meaning": "复杂的；难懂的",
+      "ctx": "复杂的"
     },
     {
       "word": "recall",
       "type": "outline",
       "phonetic": "/rɪˈkɔːl/",
       "pos": "vt. / vi.",
-      "meaning": "记起；回想起"
+      "meaning": "记起；回想起",
+      "ctx": "回忆起"
     },
     {
       "word": "qualification",
       "type": "core",
       "phonetic": "/ˌkwɒlɪfɪˈkeɪʃn/",
       "pos": "n.",
-      "meaning": "资格；学历"
+      "meaning": "资格；学历",
+      "ctx": "资格证书"
     },
     {
       "word": "qualify",
       "type": "outline",
       "phonetic": "/ˈkwɒlɪfaɪ/",
       "pos": "vt. / vi.",
-      "meaning": "（使）具备资格"
+      "meaning": "（使）具备资格",
+      "ctx": "（使）取得资格"
     },
     {
       "word": "ambition",
       "type": "core",
       "phonetic": "/æmˈbɪʃn/",
       "pos": "n.",
-      "meaning": "追求的目标；夙愿；野心"
+      "meaning": "追求的目标；夙愿；野心",
+      "ctx": "志向；目标"
     },
     {
       "word": "ambitious",
       "type": "outline",
       "phonetic": "/æmˈbɪʃəs/",
       "pos": "adj.",
-      "meaning": "有野心的；有雄心的"
+      "meaning": "有野心的；有雄心的",
+      "ctx": "有抱负的"
     },
     {
       "word": "adaptation",
       "type": "core",
       "phonetic": "/ˌædæpˈteɪʃn/",
       "pos": "n.",
-      "meaning": "适应；改编本"
+      "meaning": "适应；改编本",
+      "ctx": "适应"
     },
     {
       "word": "comfort",
       "type": "outline",
       "phonetic": "/ˈkʌmfət/",
       "pos": "n. / vt.",
-      "meaning": "安慰；舒服 / 安慰；抚慰"
+      "meaning": "安慰；舒服 / 安慰；抚慰",
+      "ctx": "安慰"
     },
     {
       "word": "tutor",
       "type": "core",
       "phonetic": "/ˈtjuːtə(r)/",
       "pos": "n.",
-      "meaning": "助教；导师；家庭教师"
+      "meaning": "助教；导师；家庭教师",
+      "ctx": "导师；指导老师"
     },
     {
       "word": "cite",
       "type": "outline",
       "phonetic": "/saɪt/",
       "pos": "vt.",
-      "meaning": "引用；引述"
+      "meaning": "引用；引述",
+      "ctx": "引用"
     },
     {
       "word": "participation",
       "type": "core",
       "phonetic": "/pɑːˌtɪsɪˈpeɪʃn/",
       "pos": "n.",
-      "meaning": "参加；参与"
+      "meaning": "参加；参与",
+      "ctx": "参与"
     },
     {
       "word": "participate in",
       "type": "outline",
       "phonetic": "—",
       "pos": "短语",
-      "meaning": "参加；参与"
+      "meaning": "参加；参与",
+      "ctx": "参加"
     },
     {
       "word": "presentation",
       "type": "core",
       "phonetic": "/ˌpreznˈteɪʃn/",
       "pos": "n.",
-      "meaning": "报告；陈述；展示"
+      "meaning": "报告；陈述；展示",
+      "ctx": "展示；陈述"
     },
     {
       "word": "speak up",
       "type": "outline",
       "phonetic": "—",
       "pos": "短语",
-      "meaning": "大声点说；明确表态"
+      "meaning": "大声点说；明确表态",
+      "ctx": "大胆发言"
     },
     {
       "word": "feel at home",
       "type": "outline",
       "phonetic": "—",
       "pos": "短语",
-      "meaning": "舒服自在；不拘束"
+      "meaning": "舒服自在；不拘束",
+      "ctx": "自在；适应"
     },
     {
       "word": "engage",
       "type": "outline",
       "phonetic": "/ɪnˈɡeɪdʒ/",
       "pos": "vi. / vt.",
-      "meaning": "参加；参与 / 吸引"
+      "meaning": "参加；参与 / 吸引",
+      "ctx": "参与；融入"
     },
     {
       "word": "engage in",
       "type": "outline",
       "phonetic": "—",
       "pos": "短语",
-      "meaning": "（使）从事；参与"
+      "meaning": "（使）从事；参与",
+      "ctx": "参与；从事"
     },
     {
       "word": "involve",
       "type": "outline",
       "phonetic": "/ɪnˈvɒlv/",
       "pos": "vt.",
-      "meaning": "包含；需要；涉及；（使）参加"
+      "meaning": "包含；需要；涉及；（使）参加",
+      "ctx": "涉及；使参与"
     },
     {
       "word": "get involved in",
       "type": "outline",
       "phonetic": "—",
       "pos": "短语",
-      "meaning": "参与；卷入"
+      "meaning": "参与；卷入",
+      "ctx": "参与"
     },
     {
       "word": "messenger",
       "type": "core",
       "phonetic": "/ˈmesɪndʒə(r)/",
       "pos": "n.",
-      "meaning": "送信人；信使"
+      "meaning": "送信人；信使",
+      "ctx": "使者"
     },
     {
       "word": "edition",
       "type": "outline",
       "phonetic": "/ɪˈdɪʃn/",
       "pos": "n.",
-      "meaning": "一份；一期；版次"
+      "meaning": "一份；一期；版次",
+      "ctx": "（报刊）期"
     },
     {
       "word": "culture shock",
       "type": "outline",
       "phonetic": "—",
       "pos": "短语",
-      "meaning": "文化冲击"
+      "meaning": "文化冲击",
+      "ctx": "文化冲击"
     },
     {
       "word": "comfort zone",
       "type": "outline",
       "phonetic": "—",
       "pos": "短语",
-      "meaning": "舒适区"
+      "meaning": "舒适区",
+      "ctx": "舒适区"
     },
     {
       "word": "overwhelming",
       "type": "outline",
       "phonetic": "/ˌəʊvəˈwelmɪŋ/",
       "pos": "adj.",
-      "meaning": "无法抗拒的；巨大的；压倒性的"
+      "meaning": "无法抗拒的；巨大的；压倒性的",
+      "ctx": "巨大的"
     },
     {
       "word": "homesickness",
       "type": "outline",
       "phonetic": "/ˈhəʊmsɪknəs/",
       "pos": "n.",
-      "meaning": "思乡病；乡愁"
+      "meaning": "思乡病；乡愁",
+      "ctx": "思乡"
     },
     {
       "word": "motivated",
       "type": "outline",
       "phonetic": "/ˈməʊtɪveɪtɪd/",
       "pos": "adj.",
-      "meaning": "积极的；主动的"
+      "meaning": "积极的；主动的",
+      "ctx": "有积极性的"
     },
     {
       "word": "motivation",
       "type": "outline",
       "phonetic": "/ˌməʊtɪˈveɪʃn/",
       "pos": "n.",
-      "meaning": "动力；积极性；动机"
+      "meaning": "动力；积极性；动机",
+      "ctx": "动力"
     },
     {
       "word": "advisor",
       "type": "outline",
       "phonetic": "/ədˈvaɪzə(r)/",
       "pos": "n.",
-      "meaning": "顾问"
+      "meaning": "顾问",
+      "ctx": "顾问"
     },
     {
       "word": "reasonable",
       "type": "outline",
       "phonetic": "/ˈriːznəbl/",
       "pos": "adj.",
-      "meaning": "有道理的；合情合理的"
+      "meaning": "有道理的；合情合理的",
+      "ctx": "合理的"
     },
     {
       "word": "expectation",
       "type": "outline",
       "phonetic": "/ˌekspekˈteɪʃn/",
       "pos": "n.",
-      "meaning": "期望；预期；期待"
+      "meaning": "期望；预期；期待",
+      "ctx": "期望"
     },
     {
       "word": "applicant",
       "type": "outline",
       "phonetic": "/ˈæplɪkənt/",
       "pos": "n.",
-      "meaning": "申请人"
+      "meaning": "申请人",
+      "ctx": "申请人"
     },
     {
       "word": "firm",
       "type": "outline",
       "phonetic": "/fɜːm/",
       "pos": "n. / adj.",
-      "meaning": "公司；商行 / 结实的；坚定的"
+      "meaning": "公司；商行 / 结实的；坚定的",
+      "ctx": "公司"
     },
     {
       "word": "exposure",
       "type": "outline",
       "phonetic": "/ɪkˈspəʊʒə(r)/",
       "pos": "n.",
-      "meaning": "接触；体验；暴露"
+      "meaning": "接触；体验；暴露",
+      "ctx": "接触；体验"
     },
     {
       "word": "expose",
       "type": "outline",
       "phonetic": "/ɪkˈspəʊz/",
       "pos": "vt.",
-      "meaning": "使接触；使体验；显露"
+      "meaning": "使接触；使体验；显露",
+      "ctx": "使接触"
     },
     {
       "word": "insight",
       "type": "outline",
       "phonetic": "/ˈɪnsaɪt/",
       "pos": "n.",
-      "meaning": "洞察力；眼光"
+      "meaning": "洞察力；眼光",
+      "ctx": "深刻见解；洞察力"
     },
     {
       "word": "departure",
       "type": "outline",
       "phonetic": "/dɪˈpɑːtʃə(r)/",
       "pos": "n.",
-      "meaning": "离开；启程；出发"
+      "meaning": "离开；启程；出发",
+      "ctx": "出发；离开"
     },
     {
       "word": "setting",
       "type": "outline",
       "phonetic": "/ˈsetɪŋ/",
       "pos": "n.",
-      "meaning": "环境；背景"
+      "meaning": "环境；背景",
+      "ctx": "环境"
     },
     {
       "word": "grasp",
       "type": "outline",
       "phonetic": "/ɡrɑːsp/",
       "pos": "vt.",
-      "meaning": "理解；领会；抓紧"
+      "meaning": "理解；领会；抓紧",
+      "ctx": "理解；掌握"
     },
     {
       "word": "dramatic",
       "type": "outline",
       "phonetic": "/drəˈmætɪk/",
       "pos": "adj.",
-      "meaning": "巨大的；突然的；急剧的"
+      "meaning": "巨大的；突然的；急剧的",
+      "ctx": "巨大的"
     },
     {
       "word": "expense",
       "type": "outline",
       "phonetic": "/ɪkˈspens/",
       "pos": "n.",
-      "meaning": "费用；花费；开销"
+      "meaning": "费用；花费；开销",
+      "ctx": "花费"
     },
     {
       "word": "cost an arm and a leg",
       "type": "outline",
       "phonetic": "—",
       "pos": "短语",
-      "meaning": "（使）花一大笔钱"
+      "meaning": "（使）花一大笔钱",
+      "ctx": "极其昂贵"
     },
     {
       "word": "tremendous",
       "type": "outline",
       "phonetic": "/trəˈmendəs/",
       "pos": "adj.",
-      "meaning": "巨大的；极大的"
+      "meaning": "巨大的；极大的",
+      "ctx": "巨大的"
     },
     {
       "word": "behave",
       "type": "outline",
       "phonetic": "/bɪˈheɪv/",
       "pos": "vi. / vt.",
-      "meaning": "表现；表现得体"
+      "meaning": "表现；表现得体",
+      "ctx": "表现"
     },
     {
       "word": "surroundings",
       "type": "outline",
       "phonetic": "/səˈraʊndɪŋz/",
       "pos": "n.",
-      "meaning": "[pl.] 环境；周围的事物"
+      "meaning": "[pl.] 环境；周围的事物",
+      "ctx": "周围环境"
     },
     {
       "word": "mature",
       "type": "outline",
       "phonetic": "/məˈtʃʊə(r)/",
       "pos": "adj.",
-      "meaning": "成熟的"
+      "meaning": "成熟的",
+      "ctx": "成熟的"
     },
     {
       "word": "depressed",
       "type": "outline",
       "phonetic": "/dɪˈprest/",
       "pos": "adj.",
-      "meaning": "沮丧的；意志消沉的"
+      "meaning": "沮丧的；意志消沉的",
+      "ctx": "沮丧的"
     },
     {
       "word": "boom",
       "type": "outline",
       "phonetic": "/buːm/",
       "pos": "vi. / n.",
-      "meaning": "迅速发展；繁荣"
+      "meaning": "迅速发展；繁荣",
+      "ctx": "繁荣；迅速发展"
     },
     {
       "word": "strengthen",
       "type": "outline",
       "phonetic": "/ˈstreŋθn/",
       "pos": "vi. / vt.",
-      "meaning": "加强；增强；巩固"
+      "meaning": "加强；增强；巩固",
+      "ctx": "加强"
     },
     {
       "word": "deny",
       "type": "outline",
       "phonetic": "/dɪˈnaɪ/",
       "pos": "vt.",
-      "meaning": "否认；否定；拒绝"
+      "meaning": "否认；否定；拒绝",
+      "ctx": "否认"
     },
     {
       "word": "optimistic",
       "type": "outline",
       "phonetic": "/ˌɒptɪˈmɪstɪk/",
       "pos": "adj.",
-      "meaning": "乐观的"
+      "meaning": "乐观的",
+      "ctx": "乐观的"
     },
     {
       "word": "gain",
       "type": "outline",
       "phonetic": "/ɡeɪn/",
       "pos": "vt. / n.",
-      "meaning": "获得；赢得 / 好处；增加"
+      "meaning": "获得；赢得 / 好处；增加",
+      "ctx": "获得；得到"
     },
     {
       "word": "perspective",
       "type": "outline",
       "phonetic": "/pəˈspektɪv/",
       "pos": "n.",
-      "meaning": "（思考问题的）角度；观点"
+      "meaning": "（思考问题的）角度；观点",
+      "ctx": "角度；视角"
     },
     {
       "word": "competence",
       "type": "outline",
       "phonetic": "/ˈkɒmpɪtəns/",
       "pos": "n.",
-      "meaning": "能力；胜任；本领"
+      "meaning": "能力；胜任；本领",
+      "ctx": "能力"
     },
     {
       "word": "envoy",
       "type": "outline",
       "phonetic": "/ˈenvɔɪ/",
       "pos": "n.",
-      "meaning": "使者；使节；代表"
+      "meaning": "使者；使节；代表",
+      "ctx": "使者"
     },
     {
       "word": "cooperate",
       "type": "outline",
       "phonetic": "/kəʊˈɒpəreɪt/",
       "pos": "vi.",
-      "meaning": "合作；协作；配合"
+      "meaning": "合作；协作；配合",
+      "ctx": "合作"
     },
     {
       "word": "angle",
       "type": "outline",
       "phonetic": "/ˈæŋɡl/",
       "pos": "n.",
-      "meaning": "角；角度；立场"
+      "meaning": "角；角度；立场",
+      "ctx": "角度；立场"
     },
     {
       "word": "outlook",
       "type": "outline",
       "phonetic": "/ˈaʊtlʊk/",
       "pos": "n.",
-      "meaning": "前景；可能性；观点"
+      "meaning": "前景；可能性；观点",
+      "ctx": "前景；观点"
     },
     {
       "word": "initiative",
       "type": "outline",
       "phonetic": "/ɪˈnɪʃətɪv/",
       "pos": "n.",
-      "meaning": "倡议；新方案"
+      "meaning": "倡议；新方案",
+      "ctx": "倡议；举措"
     },
     {
       "word": "sincerely",
       "type": "outline",
       "phonetic": "/sɪnˈsɪəli/",
       "pos": "adv.",
-      "meaning": "真诚地；诚实地"
+      "meaning": "真诚地；诚实地",
+      "ctx": "真诚地"
     },
     {
       "word": "budget",
       "type": "outline",
       "phonetic": "/ˈbʌdʒɪt/",
       "pos": "n.",
-      "meaning": "预算"
+      "meaning": "预算",
+      "ctx": "预算"
     },
     {
       "word": "side with",
       "type": "outline",
       "phonetic": "—",
       "pos": "短语",
-      "meaning": "支持；站在……的一边"
+      "meaning": "支持；站在……的一边",
+      "ctx": "支持"
     },
     {
       "word": "logical",
       "type": "outline",
       "phonetic": "/ˈlɒdʒɪkl/",
       "pos": "adj.",
-      "meaning": "合乎逻辑的；合情合理的"
+      "meaning": "合乎逻辑的；合情合理的",
+      "ctx": "合乎逻辑的"
     },
     {
       "word": "as far as I know",
       "type": "outline",
       "phonetic": "—",
       "pos": "短语",
-      "meaning": "据我所知"
+      "meaning": "据我所知",
+      "ctx": "据我所知"
     },
     {
       "word": "as far as I am concerned",
       "type": "outline",
       "phonetic": "—",
       "pos": "短语",
-      "meaning": "就我而言；依我看来"
+      "meaning": "就我而言；依我看来",
+      "ctx": "就我而言"
     },
     {
       "word": "in summary",
       "type": "outline",
       "phonetic": "—",
       "pos": "短语",
-      "meaning": "总的来说；总之"
+      "meaning": "总的来说；总之",
+      "ctx": "总之"
     },
     {
       "word": "generally speaking",
       "type": "outline",
       "phonetic": "—",
       "pos": "短语",
-      "meaning": "一般来说"
+      "meaning": "一般来说",
+      "ctx": "一般来说"
     },
     {
       "word": "outcome",
       "type": "outline",
       "phonetic": "/ˈaʊtkʌm/",
       "pos": "n.",
-      "meaning": "结果；效果"
+      "meaning": "结果；效果",
+      "ctx": "结果"
     },
     {
       "word": "the Belt and Road Initiative",
       "type": "outline",
       "phonetic": "—",
       "pos": "短语",
-      "meaning": "\"一带一路\"倡议"
+      "meaning": "\"一带一路\"倡议",
+      "ctx": "“一带一路”倡议"
     }
   ]
 }

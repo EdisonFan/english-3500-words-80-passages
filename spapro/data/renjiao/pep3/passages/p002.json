@@ -37,609 +37,696 @@
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "灯笼；提灯"
+      "meaning": "灯笼；提灯",
+      "ctx": "灯笼"
     },
     {
       "word": "carnival",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "狂欢节；嘉年华"
+      "meaning": "狂欢节；嘉年华",
+      "ctx": "狂欢节"
     },
     {
       "word": "costume",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "（某地或某历史时期的）服装；戏装"
+      "meaning": "（某地或某历史时期的）服装；戏装",
+      "ctx": "（某地或某历史时期）服装；戏装"
     },
     {
       "word": "march",
       "type": "outline",
       "phonetic": "",
       "pos": "vi.&n.",
-      "meaning": "行进；前进；示威游行"
+      "meaning": "行进；前进；示威游行",
+      "ctx": "行进；前进"
     },
     {
       "word": "congratulation",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "祝贺；恭喜"
+      "meaning": "祝贺；恭喜",
+      "ctx": "祝贺；恭喜"
     },
     {
       "word": "congratulate",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "向（某人）道贺；（因某事）为自己感到自豪"
+      "meaning": "向（某人）道贺；（因某事）为自己感到自豪",
+      "ctx": "向（某人）道贺"
     },
     {
       "word": "riddle",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "谜语；神秘事件"
+      "meaning": "谜语；神秘事件",
+      "ctx": "谜语"
     },
     {
       "word": "ceremony",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "典礼；仪式"
+      "meaning": "典礼；仪式",
+      "ctx": "典礼；仪式"
     },
     {
       "word": "samba",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "桑巴舞；桑巴舞曲"
+      "meaning": "桑巴舞；桑巴舞曲",
+      "ctx": "桑巴舞"
     },
     {
       "word": "make-up",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "化妆品；性格；构成方式"
+      "meaning": "化妆品；性格；构成方式",
+      "ctx": "化妆品"
     },
     {
       "word": "range",
       "type": "outline",
       "phonetic": "",
       "pos": "n./vi.",
-      "meaning": "n. 一系列；范围，界限 / vi. 包括；（在一定范围内）变化"
+      "meaning": "n. 一系列；范围，界限 / vi. 包括；（在一定范围内）变化",
+      "ctx": "一系列；范围"
     },
     {
       "word": "origin",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "起源；起因；出身"
+      "meaning": "起源；起因；出身",
+      "ctx": "起源；起因"
     },
     {
       "word": "religion",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "宗教；宗教信仰"
+      "meaning": "宗教；宗教信仰",
+      "ctx": "宗教；宗教信仰"
     },
     {
       "word": "religious",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "宗教的；笃信宗教的"
+      "meaning": "宗教的；笃信宗教的",
+      "ctx": "宗教的"
     },
     {
       "word": "figure",
       "type": "outline",
       "phonetic": "",
       "pos": "n./vt.",
-      "meaning": "n. 人物；数字；身材 / vt. 认为；认定"
+      "meaning": "n. 人物；数字；身材 / vt. 认为；认定",
+      "ctx": "人物；数字"
     },
     {
       "word": "charm",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "魅力；迷人的特征；咒语"
+      "meaning": "魅力；迷人的特征；咒语",
+      "ctx": "魅力"
     },
     {
       "word": "joy",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "高兴；喜悦"
+      "meaning": "高兴；喜悦",
+      "ctx": "高兴；喜悦"
     },
     {
       "word": "joyful",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "高兴的；快乐的"
+      "meaning": "高兴的；快乐的",
+      "ctx": "高兴的；快乐的"
     },
     {
       "word": "gratitude",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "感激之情；感谢"
+      "meaning": "感激之情；感谢",
+      "ctx": "感激之情"
     },
     {
       "word": "harvest",
       "type": "outline",
       "phonetic": "",
       "pos": "n./vi.&vt.",
-      "meaning": "n. 收获季节；收获；收成 / vi.&vt. 收割（庄稼）；捕猎（动物、鱼）"
+      "meaning": "n. 收获季节；收获；收成 / vi.&vt. 收割（庄稼）；捕猎（动物、鱼）",
+      "ctx": "收获季节；收成"
     },
     {
       "word": "agricultural",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "农业（劳动/生产）的"
+      "meaning": "农业（劳动/生产）的",
+      "ctx": "农业的"
     },
     {
       "word": "agriculture",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "农业；农艺"
+      "meaning": "农业；农艺",
+      "ctx": "农业"
     },
     {
       "word": "crop",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "庄稼；作物；一季的收成"
+      "meaning": "庄稼；作物；一季的收成",
+      "ctx": "庄稼；作物"
     },
     {
       "word": "gather",
       "type": "outline",
       "phonetic": "",
       "pos": "vi./vt.",
-      "meaning": "vi. 聚集；集合 / vt. 聚集；搜集；收割"
+      "meaning": "vi. 聚集；集合 / vt. 聚集；搜集；收割",
+      "ctx": "聚集；集合"
     },
     {
       "word": "grateful",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "感激的；表示感谢的"
+      "meaning": "感激的；表示感谢的",
+      "ctx": "感激的"
     },
     {
       "word": "feature",
       "type": "outline",
       "phonetic": "",
       "pos": "vt./n.",
-      "meaning": "vt. 以……为特色 / n. 特色；特征；特点"
+      "meaning": "vt. 以……为特色 / n. 特色；特征；特点",
+      "ctx": "以……为特色；特色"
     },
     {
       "word": "decorate",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "装饰；装潢"
+      "meaning": "装饰；装潢",
+      "ctx": "装饰；装潢"
     },
     {
       "word": "church",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "（基督教的）教堂；礼拜堂"
+      "meaning": "（基督教的）教堂；礼拜堂",
+      "ctx": "教堂"
     },
     {
       "word": "significant",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "有重大意义的；显著的"
+      "meaning": "有重大意义的；显著的",
+      "ctx": "有重大意义的；显著的"
     },
     {
       "word": "fade",
       "type": "outline",
       "phonetic": "",
       "pos": "vi.&vt.",
-      "meaning": "逐渐消失；（使）褪色；（身体）变得虚弱"
+      "meaning": "逐渐消失；（使）褪色；（身体）变得虚弱",
+      "ctx": "逐渐消失"
     },
     {
       "word": "typical",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "典型的；有代表性的；平常的"
+      "meaning": "典型的；有代表性的；平常的",
+      "ctx": "典型的；有代表性的"
     },
     {
       "word": "firecracker",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "鞭炮；爆竹"
+      "meaning": "鞭炮；爆竹",
+      "ctx": "鞭炮"
     },
     {
       "word": "evil",
       "type": "outline",
       "phonetic": "",
       "pos": "adj./n.",
-      "meaning": "adj. 邪恶的；有害的；罪恶的 / n. 邪恶；罪恶；恶行"
+      "meaning": "adj. 邪恶的；有害的；罪恶的 / n. 邪恶；罪恶；恶行",
+      "ctx": "邪恶的；罪恶的"
     },
     {
       "word": "commercial",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "商业（化）的；以获利为目的的"
+      "meaning": "商业（化）的；以获利为目的的",
+      "ctx": "商业（化）的"
     },
     {
       "word": "commercialize",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "使商业化；利用……牟利（BrE 亦作 commercialise）"
+      "meaning": "使商业化；利用……牟利（BrE 亦作 commercialise）",
+      "ctx": "使商业化"
     },
     {
       "word": "medium",
       "type": "outline",
       "phonetic": "",
       "pos": "n./adj.",
-      "meaning": "n.（pl. media）媒介；手段；方法 / adj. 中等的；中号的"
+      "meaning": "n.（pl. media）媒介；手段；方法 / adj. 中等的；中号的",
+      "ctx": "媒介；手段"
     },
     {
       "word": "reflect",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "显示；反映；反射"
+      "meaning": "显示；反映；反射",
+      "ctx": "反映；显示"
     },
     {
       "word": "belief",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "信仰；信心；信任"
+      "meaning": "信仰；信心；信任",
+      "ctx": "信仰；信心"
     },
     {
       "word": "faith",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "宗教信仰；信任；相信"
+      "meaning": "宗教信仰；信任；相信",
+      "ctx": "信任；信仰"
     },
     {
       "word": "occasion",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "特别的事情（或仪式、庆典）；（适当的）机会"
+      "meaning": "特别的事情（或仪式、庆典）；（适当的）机会",
+      "ctx": "（适当的）机会；时刻"
     },
     {
       "word": "atmosphere",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "气氛；氛围；（地球的）大气（层）"
+      "meaning": "气氛；氛围；（地球的）大气（层）",
+      "ctx": "气氛；氛围"
     },
     {
       "word": "lunar",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "阴历的；月球的；月亮的"
+      "meaning": "阴历的；月球的；月亮的",
+      "ctx": "阴历的；月球的"
     },
     {
       "word": "eve",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "前夕；前一天"
+      "meaning": "前夕；前一天",
+      "ctx": "前夕；前一天"
     },
     {
       "word": "envelope",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "信封；塑料封套"
+      "meaning": "信封；塑料封套",
+      "ctx": "信封"
     },
     {
       "word": "Christmas carol",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "圣诞颂歌"
+      "meaning": "圣诞颂歌",
+      "ctx": "圣诞颂歌"
     },
     {
       "word": "merry",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "愉快的；高兴的"
+      "meaning": "愉快的；高兴的",
+      "ctx": "愉快的；高兴的"
     },
     {
       "word": "pumpkin",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "南瓜"
+      "meaning": "南瓜",
+      "ctx": "南瓜"
     },
     {
       "word": "pudding",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "布丁；（餐末的）甜食"
+      "meaning": "布丁；（餐末的）甜食",
+      "ctx": "布丁；甜食"
     },
     {
       "word": "mashed potatoes",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "土豆泥"
+      "meaning": "土豆泥",
+      "ctx": "土豆泥"
     },
     {
       "word": "roast",
       "type": "outline",
       "phonetic": "",
       "pos": "adj./vi.&vt.",
-      "meaning": "adj. 烤的；焙的 / vi.&vt. 烘烤；焙"
+      "meaning": "adj. 烤的；焙的 / vi.&vt. 烘烤；焙",
+      "ctx": "烤的；烘烤"
     },
     {
       "word": "turkey",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "火鸡；火鸡肉"
+      "meaning": "火鸡；火鸡肉",
+      "ctx": "火鸡；火鸡肉"
     },
     {
       "word": "roast turkey",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "烤火鸡肉"
+      "meaning": "烤火鸡肉",
+      "ctx": "烤火鸡肉"
     },
     {
       "word": "pleased",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "高兴的；满意的"
+      "meaning": "高兴的；满意的",
+      "ctx": "高兴的；满意的"
     },
     {
       "word": "firework",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "烟火；烟花；[pl.] 烟花表演"
+      "meaning": "烟火；烟花；[pl.] 烟花表演",
+      "ctx": "烟火；烟花"
     },
     {
       "word": "frank",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "坦率的；直率的"
+      "meaning": "坦率的；直率的",
+      "ctx": "坦率的；直率的"
     },
     {
       "word": "inner",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "内部的；里面的；内心的"
+      "meaning": "内部的；里面的；内心的",
+      "ctx": "内部的；里面的"
     },
     {
       "word": "autonomous",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "自治的；有自治权的"
+      "meaning": "自治的；有自治权的",
+      "ctx": "自治的"
     },
     {
       "word": "region",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "地区；区域；地带"
+      "meaning": "地区；区域；地带",
+      "ctx": "地区；区域"
     },
     {
       "word": "represent",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "象征；代表；相当于"
+      "meaning": "象征；代表；相当于",
+      "ctx": "代表；象征"
     },
     {
       "word": "wrestling",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "摔跤运动"
+      "meaning": "摔跤运动",
+      "ctx": "摔跤运动"
     },
     {
       "word": "wrestle",
       "type": "outline",
       "phonetic": "",
       "pos": "vi.&vt.",
-      "meaning": "摔跤；奋力对付"
+      "meaning": "摔跤；奋力对付",
+      "ctx": "摔跤；奋力对付"
     },
     {
       "word": "wrestler",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "摔跤运动员"
+      "meaning": "摔跤运动员",
+      "ctx": "摔跤运动员"
     },
     {
       "word": "archery",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "射箭术；射箭运动"
+      "meaning": "射箭术；射箭运动",
+      "ctx": "射箭运动"
     },
     {
       "word": "fancy",
       "type": "core",
       "phonetic": "",
       "pos": "adj./vt.",
-      "meaning": "adj. 花哨的；精致的；昂贵的 / vt. 想要；倾慕；自认为是"
+      "meaning": "adj. 花哨的；精致的；昂贵的 / vt. 想要；倾慕；自认为是",
+      "ctx": "花哨的；精致的"
     },
     {
       "word": "robe",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "袍服；礼袍"
+      "meaning": "袍服；礼袍",
+      "ctx": "袍服；礼袍"
     },
     {
       "word": "eagle",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "雕"
+      "meaning": "雕",
+      "ctx": "雕"
     },
     {
       "word": "grace",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "优美；优雅；高雅"
+      "meaning": "优美；优雅；高雅",
+      "ctx": "优美；优雅"
     },
     {
       "word": "absolutely",
       "type": "core",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "绝对地；完全地"
+      "meaning": "绝对地；完全地",
+      "ctx": "绝对地；完全地"
     },
     {
       "word": "moment",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "片刻；瞬间"
+      "meaning": "片刻；瞬间",
+      "ctx": "片刻；瞬间"
     },
     {
       "word": "tent",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "帐篷"
+      "meaning": "帐篷",
+      "ctx": "帐篷"
     },
     {
       "word": "pot",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "罐；壶；锅"
+      "meaning": "罐；壶；锅",
+      "ctx": "罐；壶；锅"
     },
     {
       "word": "brief",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "简洁的；简单的；短暂的"
+      "meaning": "简洁的；简单的；短暂的",
+      "ctx": "简洁的；短暂的"
     },
     {
       "word": "branch",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "树枝；分支；支流"
+      "meaning": "树枝；分支；支流",
+      "ctx": "树枝；分支"
     },
     {
       "word": "wedding",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "婚礼；结婚庆典"
+      "meaning": "婚礼；结婚庆典",
+      "ctx": "婚礼"
     },
     {
       "word": "clap",
       "type": "outline",
       "phonetic": "",
       "pos": "vt./n.",
-      "meaning": "vt. 鼓掌；拍手；击掌 / n. 鼓掌；拍手；掌声"
+      "meaning": "vt. 鼓掌；拍手；击掌 / n. 鼓掌；拍手；掌声",
+      "ctx": "鼓掌；拍手"
     },
     {
       "word": "respect",
       "type": "outline",
       "phonetic": "",
       "pos": "n.&vt.",
-      "meaning": "尊敬；尊重"
+      "meaning": "尊敬；尊重",
+      "ctx": "尊敬；尊重"
     },
     {
       "word": "horrible",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "令人震惊的；恐怖的；极坏的"
+      "meaning": "令人震惊的；恐怖的；极坏的",
+      "ctx": "恐怖的；极坏的"
     },
     {
       "word": "Coming-of-Age Day",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "成人节"
+      "meaning": "成人节",
+      "ctx": "成人节"
     },
     {
       "word": "Rio",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "（全称 Rio de Janeiro）里约热内卢（巴西城市）"
+      "meaning": "（全称 Rio de Janeiro）里约热内卢（巴西城市）",
+      "ctx": "里约热内卢"
     },
     {
       "word": "Carla",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "卡拉"
+      "meaning": "卡拉",
+      "ctx": "卡拉（人名）"
     },
     {
       "word": "Halloween",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "万圣节前夕"
+      "meaning": "万圣节前夕",
+      "ctx": "万圣节前夕"
     },
     {
       "word": "Thanksgiving",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "感恩节"
+      "meaning": "感恩节",
+      "ctx": "感恩节"
     },
     {
       "word": "La Tomatina",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "番茄大战"
+      "meaning": "番茄大战",
+      "ctx": "番茄大战"
     },
     {
       "word": "Bunol",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "布尼奥尔（西班牙小镇）"
+      "meaning": "布尼奥尔（西班牙小镇）",
+      "ctx": "布尼奥尔（西班牙小镇）"
     },
     {
       "word": "the Naadam Festival",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "“那达慕”大会"
+      "meaning": "“那达慕”大会",
+      "ctx": "“那达慕”大会"
     },
     {
       "word": "Inner Mongolia Autonomous Region",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "内蒙古自治区"
+      "meaning": "内蒙古自治区",
+      "ctx": "内蒙古自治区"
     },
     {
       "word": "Mongolian",
       "type": "core",
       "phonetic": "",
       "pos": "adj./n.",
-      "meaning": "adj. 蒙古人的；蒙古的；蒙古语的 / n. 蒙古语；蒙古人"
+      "meaning": "adj. 蒙古人的；蒙古的；蒙古语的 / n. 蒙古语；蒙古人",
+      "ctx": "蒙古的；蒙古人"
     }
   ]
 }

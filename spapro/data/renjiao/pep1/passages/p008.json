@@ -15,6 +15,7 @@
     {
       "word": "fitness",
       "type": "outline",
+      "ctx": "健康；健壮",
       "phonetic": "/ˈfɪtnəs/",
       "pos": "n.",
       "meaning": "健康；健壮；适合"
@@ -22,6 +23,7 @@
     {
       "word": "soccer",
       "type": "outline",
+      "ctx": "足球",
       "phonetic": "/ˈsɒkə(r)/",
       "pos": "n.",
       "meaning": "足球；足球运动"
@@ -29,6 +31,7 @@
     {
       "word": "stadium",
       "type": "outline",
+      "ctx": "体育场",
       "phonetic": "/ˈsteɪdiəm/",
       "pos": "n.",
       "meaning": "体育场；运动场"
@@ -36,6 +39,7 @@
     {
       "word": "boxing",
       "type": "outline",
+      "ctx": "拳击",
       "phonetic": "/ˈbɒksɪŋ/",
       "pos": "n.",
       "meaning": "拳击（运动）"
@@ -43,6 +47,7 @@
     {
       "word": "badminton",
       "type": "outline",
+      "ctx": "羽毛球",
       "phonetic": "/ˈbædmɪntən/",
       "pos": "n.",
       "meaning": "羽毛球运动"
@@ -50,6 +55,7 @@
     {
       "word": "marathon",
       "type": "outline",
+      "ctx": "马拉松",
       "phonetic": "/ˈmærəθən/",
       "pos": "n.",
       "meaning": "马拉松赛跑"
@@ -57,6 +63,7 @@
     {
       "word": "event",
       "type": "outline",
+      "ctx": "比赛项目；大事",
       "phonetic": "/ɪˈvent/",
       "pos": "n.",
       "meaning": "比赛项目；大事"
@@ -64,6 +71,7 @@
     {
       "word": "come along",
       "type": "outline",
+      "ctx": "跟随；到达；进步",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "跟随；到达；进步"
@@ -71,6 +79,7 @@
     {
       "word": "ski",
       "type": "outline",
+      "ctx": "滑雪",
       "phonetic": "/skiː/",
       "pos": "adj. / vi.",
       "meaning": "滑雪的；滑雪"
@@ -78,6 +87,7 @@
     {
       "word": "host",
       "type": "outline",
+      "ctx": "主办；东道主",
       "phonetic": "/həʊst/",
       "pos": "vt. / n.",
       "meaning": "主办；主持；东道主"
@@ -85,6 +95,7 @@
     {
       "word": "track",
       "type": "outline",
+      "ctx": "跑道；追踪",
       "phonetic": "/træk/",
       "pos": "n. / vt. & vi.",
       "meaning": "跑道；足迹；追踪"
@@ -92,6 +103,7 @@
     {
       "word": "track and field",
       "type": "outline",
+      "ctx": "田径",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "田径"
@@ -99,6 +111,7 @@
     {
       "word": "gym",
       "type": "outline",
+      "ctx": "健身房",
       "phonetic": "/dʒɪm/",
       "pos": "n.",
       "meaning": "健身房；体育馆"
@@ -106,6 +119,7 @@
     {
       "word": "gymnastics",
       "type": "outline",
+      "ctx": "体操",
       "phonetic": "/dʒɪmˈnæstɪks/",
       "pos": "n.",
       "meaning": "体操（训练）"
@@ -113,6 +127,7 @@
     {
       "word": "work out",
       "type": "outline",
+      "ctx": "锻炼",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "锻炼；计算出"
@@ -120,6 +135,7 @@
     {
       "word": "sweat",
       "type": "outline",
+      "ctx": "出汗；汗水",
       "phonetic": "/swet/",
       "pos": "vt. / vi. / n.",
       "meaning": "使出汗；汗水"
@@ -127,6 +143,7 @@
     {
       "word": "make it",
       "type": "outline",
+      "ctx": "获得成功；准时到达",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "获得成功；准时到达"
@@ -134,6 +151,7 @@
     {
       "word": "legend",
       "type": "outline",
+      "ctx": "传奇（人物）",
       "phonetic": "/ˈledʒənd/",
       "pos": "n.",
       "meaning": "传奇故事（或人物）"
@@ -141,6 +159,7 @@
     {
       "word": "athlete",
       "type": "outline",
+      "ctx": "运动员",
       "phonetic": "/ˈæθliːt/",
       "pos": "n.",
       "meaning": "运动员；运动健儿"
@@ -148,6 +167,7 @@
     {
       "word": "master",
       "type": "outline",
+      "ctx": "高手；掌握",
       "phonetic": "/ˈmɑːstə(r)/",
       "pos": "n. / vt.",
       "meaning": "高手；精通；掌握"
@@ -155,6 +175,7 @@
     {
       "word": "set an example",
       "type": "outline",
+      "ctx": "树立榜样",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "树立榜样"
@@ -162,6 +183,7 @@
     {
       "word": "honour (NAmE honor)",
       "type": "outline",
+      "ctx": "荣誉；尊敬",
       "phonetic": "/ˈɒnə(r)/",
       "pos": "n.",
       "meaning": "荣誉；尊敬；荣幸"
@@ -169,6 +191,7 @@
     {
       "word": "glory",
       "type": "outline",
+      "ctx": "荣誉",
       "phonetic": "/ˈɡlɔːri/",
       "pos": "n.",
       "meaning": "荣誉；光荣；赞美"
@@ -176,6 +199,7 @@
     {
       "word": "medal",
       "type": "outline",
+      "ctx": "奖章",
       "phonetic": "/ˈmedl/",
       "pos": "n.",
       "meaning": "奖章；勋章"
@@ -183,6 +207,7 @@
     {
       "word": "championship",
       "type": "outline",
+      "ctx": "锦标赛",
       "phonetic": "/ˈtʃæmpiənʃɪp/",
       "pos": "n.",
       "meaning": "锦标赛；冠军称号"
@@ -190,6 +215,7 @@
     {
       "word": "champion",
       "type": "outline",
+      "ctx": "冠军",
       "phonetic": "/ˈtʃæmpiən/",
       "pos": "n.",
       "meaning": "冠军；优胜者"
@@ -197,6 +223,7 @@
     {
       "word": "determination",
       "type": "outline",
+      "ctx": "决心",
       "phonetic": "/dɪˌtɜːmɪˈneɪʃn/",
       "pos": "n.",
       "meaning": "决心；决定"
@@ -204,6 +231,7 @@
     {
       "word": "apart",
       "type": "outline",
+      "ctx": "分开；分离",
       "phonetic": "/əˈpɑːt/",
       "pos": "adv.",
       "meaning": "分离；分开"
@@ -211,6 +239,7 @@
     {
       "word": "fall apart",
       "type": "outline",
+      "ctx": "崩溃；破裂",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "破裂；崩溃"
@@ -218,6 +247,7 @@
     {
       "word": "injure",
       "type": "outline",
+      "ctx": "使受伤",
       "phonetic": "/ˈɪndʒə(r)/",
       "pos": "vt.",
       "meaning": "使受伤；损害"
@@ -225,6 +255,7 @@
     {
       "word": "injured",
       "type": "outline",
+      "ctx": "受伤的",
       "phonetic": "/ˈɪndʒəd/",
       "pos": "adj.",
       "meaning": "受伤的；有伤的"
@@ -232,6 +263,7 @@
     {
       "word": "injury",
       "type": "outline",
+      "ctx": "伤害；损伤",
       "phonetic": "/ˈɪndʒəri/",
       "pos": "n.",
       "meaning": "伤害；损伤"
@@ -239,6 +271,7 @@
     {
       "word": "captain",
       "type": "outline",
+      "ctx": "队长",
       "phonetic": "/ˈkæptɪn/",
       "pos": "n.",
       "meaning": "（运动队）队长；船长"
@@ -246,6 +279,7 @@
     {
       "word": "lose heart",
       "type": "outline",
+      "ctx": "丧失信心",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "丧失信心；泄气"
@@ -253,6 +287,7 @@
     {
       "word": "graceful",
       "type": "outline",
+      "ctx": "优雅的",
       "phonetic": "/ˈɡreɪsfl/",
       "pos": "adj.",
       "meaning": "优美的；优雅的"
@@ -260,6 +295,7 @@
     {
       "word": "strength",
       "type": "outline",
+      "ctx": "力量；体力",
       "phonetic": "/streŋθ/",
       "pos": "n.",
       "meaning": "力量；体力"
@@ -267,6 +303,7 @@
     {
       "word": "failure",
       "type": "outline",
+      "ctx": "失败",
       "phonetic": "/ˈfeɪljə(r)/",
       "pos": "n.",
       "meaning": "失败；失败的人"
@@ -274,6 +311,7 @@
     {
       "word": "give up",
       "type": "outline",
+      "ctx": "放弃",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "放弃；投降"
@@ -281,6 +319,7 @@
     {
       "word": "compete",
       "type": "outline",
+      "ctx": "竞争；对抗",
       "phonetic": "/kəmˈpiːt/",
       "pos": "vi.",
       "meaning": "竞争；对抗"
@@ -288,6 +327,7 @@
     {
       "word": "make sense",
       "type": "outline",
+      "ctx": "有道理",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "有道理；合乎情理"
@@ -295,6 +335,7 @@
     {
       "word": "pretend",
       "type": "outline",
+      "ctx": "假装",
       "phonetic": "/prɪˈtend/",
       "pos": "vi. & vt.",
       "meaning": "假装；装扮"
@@ -302,6 +343,7 @@
     {
       "word": "pretend to do sth",
       "type": "outline",
+      "ctx": "假装做某事",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "假装做某事"
@@ -309,6 +351,7 @@
     {
       "word": "even if / though",
       "type": "outline",
+      "ctx": "即使；虽然",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "即使；虽然"
@@ -316,6 +359,7 @@
     {
       "word": "million",
       "type": "outline",
+      "ctx": "一百万",
       "phonetic": "/ˈmɪljən/",
       "pos": "num.",
       "meaning": "一百万"
@@ -323,6 +367,7 @@
     {
       "word": "cheat",
       "type": "outline",
+      "ctx": "作弊；欺骗",
       "phonetic": "/tʃiːt/",
       "pos": "vi. / vt. / n.",
       "meaning": "作弊；欺骗；骗子"
@@ -330,6 +375,7 @@
     {
       "word": "audience",
       "type": "outline",
+      "ctx": "观众",
       "phonetic": "/ˈɔːdiəns/",
       "pos": "n.",
       "meaning": "观众；听众"
@@ -337,6 +383,7 @@
     {
       "word": "positive",
       "type": "outline",
+      "ctx": "积极的；乐观的",
       "phonetic": "/ˈpɒzətɪv/",
       "pos": "adj.",
       "meaning": "积极的；正面的；乐观的"
@@ -344,6 +391,7 @@
     {
       "word": "slim",
       "type": "outline",
+      "ctx": "苗条的",
       "phonetic": "/slɪm/",
       "pos": "adj.",
       "meaning": "苗条的；单薄的"
@@ -351,6 +399,7 @@
     {
       "word": "diet",
       "type": "outline",
+      "ctx": "日常饮食；节食",
       "phonetic": "/ˈdaɪət/",
       "pos": "n. / vi.",
       "meaning": "日常饮食；节食"
@@ -358,6 +407,7 @@
     {
       "word": "make a difference",
       "type": "outline",
+      "ctx": "有作用；有影响",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "有作用或影响"
@@ -365,6 +415,7 @@
     {
       "word": "rather",
       "type": "outline",
+      "ctx": "相当；有点儿",
       "phonetic": "/ˈrɑːðə(r)/",
       "pos": "adv.",
       "meaning": "相当；有点儿"
@@ -372,6 +423,7 @@
     {
       "word": "rather than",
       "type": "outline",
+      "ctx": "而不是",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "而不是"
@@ -379,6 +431,7 @@
     {
       "word": "push-up",
       "type": "outline",
+      "ctx": "俯卧撑",
       "phonetic": "/ˈpʊʃʌp/",
       "pos": "n.",
       "meaning": "俯卧撑"
@@ -386,6 +439,7 @@
     {
       "word": "cut ... out",
       "type": "outline",
+      "ctx": "停止做",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "停止做（或使用）"
@@ -393,6 +447,7 @@
     {
       "word": "now and then",
       "type": "outline",
+      "ctx": "有时；偶尔",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "有时；偶尔"
@@ -400,6 +455,7 @@
     {
       "word": "compare … with / to …",
       "type": "outline",
+      "ctx": "与……比较",
       "phonetic": "—",
       "pos": "短语",
       "meaning": "与……比较"
@@ -407,6 +463,7 @@
     {
       "word": "jog",
       "type": "outline",
+      "ctx": "慢跑",
       "phonetic": "/dʒɒg/",
       "pos": "vi. / n.",
       "meaning": "慢跑"
@@ -414,6 +471,7 @@
     {
       "word": "stress",
       "type": "outline",
+      "ctx": "压力；强调",
       "phonetic": "/stres/",
       "pos": "n. / vt. / vi.",
       "meaning": "压力；强调；使焦虑"
@@ -421,6 +479,7 @@
     {
       "word": "error",
       "type": "outline",
+      "ctx": "错误；差错",
       "phonetic": "/ˈerə(r)/",
       "pos": "n.",
       "meaning": "错误；差错"

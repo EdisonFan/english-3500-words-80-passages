@@ -32,203 +32,232 @@
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "预测；预言；预料"
+      "meaning": "预测；预言；预料",
+      "ctx": "预测"
     },
     {
       "word": "prediction",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "预测；预言"
+      "meaning": "预测；预言",
+      "ctx": "预测"
     },
     {
       "word": "forecast",
       "type": "outline",
       "phonetic": "",
       "pos": "vt. & n.",
-      "meaning": "预测；预报"
+      "meaning": "预测；预报",
+      "ctx": "预报"
     },
     {
       "word": "occupation",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "职业；占领"
+      "meaning": "职业；占领",
+      "ctx": "职业"
     },
     {
       "word": "oppose",
       "type": "core",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "反对；抵制；阻挠"
+      "meaning": "反对；抵制；阻挠",
+      "ctx": "反对"
     },
     {
       "word": "hence",
       "type": "core",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "因此；由此"
+      "meaning": "因此；由此",
+      "ctx": "因此"
     },
     {
       "word": "cease",
       "type": "core",
       "phonetic": "",
       "pos": "vi. & vt.",
-      "meaning": "（使）停止；终止"
+      "meaning": "（使）停止；终止",
+      "ctx": "停止"
     },
     {
       "word": "deceased",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "已死的；亡故的"
+      "meaning": "已死的；亡故的",
+      "ctx": "已故的"
     },
     {
       "word": "absence",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "不存在；缺乏；缺席"
+      "meaning": "不存在；缺乏；缺席",
+      "ctx": "缺乏；没有"
     },
     {
       "word": "rural",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "农村的；乡村的"
+      "meaning": "农村的；乡村的",
+      "ctx": "乡村的"
     },
     {
       "word": "advocate",
       "type": "core",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "提倡；支持"
+      "meaning": "提倡；支持",
+      "ctx": "提倡"
     },
     {
       "word": "emphasis",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "强调；重视；重要性"
+      "meaning": "强调；重视；重要性",
+      "ctx": "强调"
     },
     {
       "word": "luxury",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "奢华"
+      "meaning": "奢华",
+      "ctx": "奢华"
     },
     {
       "word": "career",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "生涯；职业"
+      "meaning": "生涯；职业",
+      "ctx": "职业"
     },
     {
       "word": "prospect",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "可能性；前景；景象"
+      "meaning": "可能性；前景；景象",
+      "ctx": "前景"
     },
     {
       "word": "resist",
       "type": "core",
       "phonetic": "",
       "pos": "vt. & vi.",
-      "meaning": "抵制；反抗；抵挡"
+      "meaning": "抵制；反抗；抵挡",
+      "ctx": "抵制"
     },
     {
       "word": "resistance",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "抵制；反对；抗拒"
+      "meaning": "抵制；反对；抗拒",
+      "ctx": "抵制"
     },
     {
       "word": "paragraph",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "段；段落"
+      "meaning": "段；段落",
+      "ctx": "段落"
     },
     {
       "word": "essay",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "文章；散文"
+      "meaning": "文章；散文",
+      "ctx": "文章"
     },
     {
       "word": "accurate",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "精确的；准确的"
+      "meaning": "精确的；准确的",
+      "ctx": "准确的"
     },
     {
       "word": "librarian",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "图书馆馆长；图书管理员"
+      "meaning": "图书馆馆长；图书管理员",
+      "ctx": "图书管理员"
     },
     {
       "word": "switch off",
       "type": "outline",
       "phonetic": "",
       "pos": "短语",
-      "meaning": "关上；断掉电源"
+      "meaning": "关上；断掉电源",
+      "ctx": "关掉"
     },
     {
       "word": "remote control",
       "type": "outline",
       "phonetic": "",
       "pos": "短语",
-      "meaning": "遥控器"
+      "meaning": "遥控器",
+      "ctx": "遥控器"
     },
     {
       "word": "air conditioner",
       "type": "outline",
       "phonetic": "",
       "pos": "短语",
-      "meaning": "空调设备"
+      "meaning": "空调设备",
+      "ctx": "空调"
     },
     {
       "word": "daily routine",
       "type": "outline",
       "phonetic": "",
       "pos": "短语",
-      "meaning": "日常生活"
+      "meaning": "日常生活",
+      "ctx": "日常作息"
     },
     {
       "word": "catch fire",
       "type": "outline",
       "phonetic": "",
       "pos": "短语",
-      "meaning": "着火"
+      "meaning": "着火",
+      "ctx": "着火"
     },
     {
       "word": "in this sense",
       "type": "outline",
       "phonetic": "",
       "pos": "短语",
-      "meaning": "从这种意义上说"
+      "meaning": "从这种意义上说",
+      "ctx": "从这种意义上说"
     },
     {
       "word": "keep in touch",
       "type": "outline",
       "phonetic": "",
       "pos": "短语",
-      "meaning": "与……保持联系"
+      "meaning": "与……保持联系",
+      "ctx": "保持联系"
     },
     {
       "word": "artificial intelligence",
       "type": "outline",
       "phonetic": "",
       "pos": "短语",
-      "meaning": "人工智能"
+      "meaning": "人工智能",
+      "ctx": "人工智能"
     }
   ]
 }

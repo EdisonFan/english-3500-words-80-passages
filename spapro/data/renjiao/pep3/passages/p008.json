@@ -37,518 +37,592 @@
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "宇航员；太空人"
+      "meaning": "宇航员；太空人",
+      "ctx": "宇航员"
     },
     {
       "word": "procedure",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "程序；步骤；手续"
+      "meaning": "程序；步骤；手续",
+      "ctx": "程序；步骤"
     },
     {
       "word": "mental",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "精神的；思想的"
+      "meaning": "精神的；思想的",
+      "ctx": "精神的；思想的"
     },
     {
       "word": "centimetre",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "厘米"
+      "meaning": "厘米",
+      "ctx": "厘米"
     },
     {
       "word": "intelligent",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "有智慧的；聪明的；有智力的"
+      "meaning": "有智慧的；聪明的；有智力的",
+      "ctx": "有智慧的；聪明的"
     },
     {
       "word": "rocket",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "火箭；火箭弹"
+      "meaning": "火箭；火箭弹",
+      "ctx": "火箭"
     },
     {
       "word": "gravity",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "重力；引力"
+      "meaning": "重力；引力",
+      "ctx": "重力；引力"
     },
     {
       "word": "frontier",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "边境；国界；边远地区"
+      "meaning": "边境；国界；边远地区",
+      "ctx": "边境；边远地区"
     },
     {
       "word": "vehicle",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "交通工具；车辆"
+      "meaning": "交通工具；车辆",
+      "ctx": "交通工具；车辆"
     },
     {
       "word": "universe",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "宇宙；天地万物"
+      "meaning": "宇宙；天地万物",
+      "ctx": "宇宙"
     },
     {
       "word": "determined",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "有决心的；意志坚定的"
+      "meaning": "有决心的；意志坚定的",
+      "ctx": "有决心的；意志坚定的"
     },
     {
       "word": "determine",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "查明；确定；决定"
+      "meaning": "查明；确定；决定",
+      "ctx": "查明；确定"
     },
     {
       "word": "satellite",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "人造卫星；卫星"
+      "meaning": "人造卫星；卫星",
+      "ctx": "人造卫星；卫星"
     },
     {
       "word": "launch",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.&n.",
-      "meaning": "发射；发起；上市"
+      "meaning": "发射；发起；上市",
+      "ctx": "发射；发起"
     },
     {
       "word": "orbit",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "(环绕地球、太阳等运行的)轨道；势力范围"
+      "meaning": "(环绕地球、太阳等运行的)轨道；势力范围",
+      "ctx": "轨道"
     },
     {
       "word": "mankind",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "人类"
+      "meaning": "人类",
+      "ctx": "人类"
     },
     {
       "word": "agency",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "(政府的)专门机构；服务机构；代理处"
+      "meaning": "(政府的)专门机构；服务机构；代理处",
+      "ctx": "专门机构；代理处"
     },
     {
       "word": "data",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "[pl.] 资料；数据"
+      "meaning": "[pl.] 资料；数据",
+      "ctx": "资料；数据"
     },
     {
       "word": "disappointed",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "失望的；沮丧的"
+      "meaning": "失望的；沮丧的",
+      "ctx": "失望的；沮丧的"
     },
     {
       "word": "desire",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "渴望；欲望"
+      "meaning": "渴望；欲望",
+      "ctx": "渴望；欲望"
     },
     {
       "word": "carry on",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "继续干；坚持干"
+      "meaning": "继续干；坚持干",
+      "ctx": "继续；坚持"
     },
     {
       "word": "ongoing",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "持续存在的；继续进行的"
+      "meaning": "持续存在的；继续进行的",
+      "ctx": "持续的；进行的"
     },
     {
       "word": "on board",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "在宇宙飞船上；在船上；在飞机上"
+      "meaning": "在宇宙飞船上；在船上；在飞机上",
+      "ctx": "在飞船上；在船上"
     },
     {
       "word": "independently",
       "type": "outline",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "独立地；自立地"
+      "meaning": "独立地；自立地",
+      "ctx": "独立地"
     },
     {
       "word": "independent",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "独立的；自立的"
+      "meaning": "独立的；自立的",
+      "ctx": "独立的；自立的"
     },
     {
       "word": "spacecraft",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "航天器；宇宙飞船"
+      "meaning": "航天器；宇宙飞船",
+      "ctx": "航天器；宇宙飞船"
     },
     {
       "word": "spacewalk",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "太空行走"
+      "meaning": "太空行走",
+      "ctx": "太空行走"
     },
     {
       "word": "jade",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "玉；翡翠；玉器"
+      "meaning": "玉；翡翠；玉器",
+      "ctx": "玉；玉器"
     },
     {
       "word": "dock",
       "type": "outline",
       "phonetic": "",
       "pos": "vi.&vt.",
-      "meaning": "(两船)停靠；(使)……靠拢"
+      "meaning": "(两船)停靠；(使)……靠拢",
+      "ctx": "（使）停靠；靠拢"
     },
     {
       "word": "signal",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.&vi.",
-      "meaning": "标志着；标明；发信号"
+      "meaning": "标志着；标明；发信号",
+      "ctx": "标志着；发信号"
     },
     {
       "word": "in the hope of doing sth.",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "抱着……的希望"
+      "meaning": "抱着……的希望",
+      "ctx": "抱着……的希望"
     },
     {
       "word": "so as to (do sth.)",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "为了；以便"
+      "meaning": "为了；以便",
+      "ctx": "为了；以便"
     },
     {
       "word": "recycle",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "回收利用；再利用"
+      "meaning": "回收利用；再利用",
+      "ctx": "回收利用"
     },
     {
       "word": "muscle",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "肌肉；实力；影响力"
+      "meaning": "肌肉；实力；影响力",
+      "ctx": "肌肉；实力"
     },
     {
       "word": "lack",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "缺乏；短缺"
+      "meaning": "缺乏；短缺",
+      "ctx": "缺乏；短缺"
     },
     {
       "word": "float",
       "type": "outline",
       "phonetic": "",
       "pos": "vi.",
-      "meaning": "浮动；漂浮"
+      "meaning": "浮动；漂浮",
+      "ctx": "漂浮；浮动"
     },
     {
       "word": "otherwise",
       "type": "outline",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "否则；要不然"
+      "meaning": "否则；要不然",
+      "ctx": "否则；要不然"
     },
     {
       "word": "beyond",
       "type": "outline",
       "phonetic": "",
       "pos": "prep.",
-      "meaning": "在更远处；超出"
+      "meaning": "在更远处；超出",
+      "ctx": "在更远处；超出"
     },
     {
       "word": "solar",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "太阳的；太阳能的"
+      "meaning": "太阳的；太阳能的",
+      "ctx": "太阳的；太阳能的"
     },
     {
       "word": "solar system",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "太阳系"
+      "meaning": "太阳系",
+      "ctx": "太阳系"
     },
     {
       "word": "current",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "当前的；现在的"
+      "meaning": "当前的；现在的",
+      "ctx": "当前的；现在的"
     },
     {
       "word": "figure out",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "弄懂；弄清楚；弄明白"
+      "meaning": "弄懂；弄清楚；弄明白",
+      "ctx": "弄懂；弄清楚"
     },
     {
       "word": "sufficient",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "足够的；充足的"
+      "meaning": "足够的；充足的",
+      "ctx": "足够的；充足的"
     },
     {
       "word": "soap",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "肥皂"
+      "meaning": "肥皂",
+      "ctx": "肥皂"
     },
     {
       "word": "towel",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "毛巾；抹布"
+      "meaning": "毛巾；抹布",
+      "ctx": "毛巾"
     },
     {
       "word": "microwave",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "微波炉"
+      "meaning": "微波炉",
+      "ctx": "微波炉"
     },
     {
       "word": "tissue",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "纸巾；(人、动植物细胞的)组织"
+      "meaning": "纸巾；(人、动植物细胞的)组织",
+      "ctx": "纸巾；组织"
     },
     {
       "word": "facility",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "设施；设备"
+      "meaning": "设施；设备",
+      "ctx": "设施；设备"
     },
     {
       "word": "keen",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "热衷的；渴望的"
+      "meaning": "热衷的；渴望的",
+      "ctx": "热衷的；渴望的"
     },
     {
       "word": "globe",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "地球；世界；地球仪"
+      "meaning": "地球；世界；地球仪",
+      "ctx": "地球；地球仪"
     },
     {
       "word": "argue",
       "type": "core",
       "phonetic": "",
       "pos": "vt.&vi.",
-      "meaning": "论证；争辩；争论"
+      "meaning": "论证；争辩；争论",
+      "ctx": "论证；争论"
     },
     {
       "word": "argument",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "争论；争吵；论点"
+      "meaning": "争论；争吵；论点",
+      "ctx": "争论；论点"
     },
     {
       "word": "fatal",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "致命的；灾难性的"
+      "meaning": "致命的；灾难性的",
+      "ctx": "致命的；灾难性的"
     },
     {
       "word": "shallow",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "肤浅的；浅的"
+      "meaning": "肤浅的；浅的",
+      "ctx": "浅的；肤浅的"
     },
     {
       "word": "result in",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "导致；造成"
+      "meaning": "导致；造成",
+      "ctx": "导致；造成"
     },
     {
       "word": "pattern",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "模式；图案；模范"
+      "meaning": "模式；图案；模范",
+      "ctx": "模式；图案"
     },
     {
       "word": "analysis",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "(pl. analyses) (对事物的)分析；分析结果"
+      "meaning": "(pl. analyses) (对事物的)分析；分析结果",
+      "ctx": "分析；分析结果"
     },
     {
       "word": "as a result",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "所以；结果(是)"
+      "meaning": "所以；结果(是)",
+      "ctx": "所以；结果"
     },
     {
       "word": "high-end",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "高端的"
+      "meaning": "高端的",
+      "ctx": "高端的"
     },
     {
       "word": "monitor",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "监视器；监测仪；班长"
+      "meaning": "监视器；监测仪；班长",
+      "ctx": "监视器；监测仪"
     },
     {
       "word": "regularly",
       "type": "core",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "经常；定期地"
+      "meaning": "经常；定期地",
+      "ctx": "经常；定期地"
     },
     {
       "word": "regular",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "定期的；经常的；正常的"
+      "meaning": "定期的；经常的；正常的",
+      "ctx": "定期的；经常的"
     },
     {
       "word": "foam",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "泡沫橡胶；泡沫"
+      "meaning": "泡沫橡胶；泡沫",
+      "ctx": "泡沫"
     },
     {
       "word": "pillow",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "枕头"
+      "meaning": "枕头",
+      "ctx": "枕头"
     },
     {
       "word": "smartphone",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "智能手机"
+      "meaning": "智能手机",
+      "ctx": "智能手机"
     },
     {
       "word": "resource",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "资源；财力；物力"
+      "meaning": "资源；财力；物力",
+      "ctx": "资源；物力"
     },
     {
       "word": "limited",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "有限的"
+      "meaning": "有限的",
+      "ctx": "有限的"
     },
     {
       "word": "provide for sb",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "提供生活所需"
+      "meaning": "提供生活所需",
+      "ctx": "提供生活所需"
     },
     {
       "word": "closing",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "结尾的；结束的"
+      "meaning": "结尾的；结束的",
+      "ctx": "结尾的；结束的"
     },
     {
       "word": "in closing",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "最后"
+      "meaning": "最后",
+      "ctx": "最后"
     },
     {
       "word": "mystery",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "神秘事物；谜"
+      "meaning": "神秘事物；谜",
+      "ctx": "神秘事物；谜"
     },
     {
       "word": "run out",
       "type": "outline",
       "phonetic": "",
       "pos": "phr.",
-      "meaning": "用完；耗尽"
+      "meaning": "用完；耗尽",
+      "ctx": "用完；耗尽"
     },
     {
       "word": "attach",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "系；绑；贴"
+      "meaning": "系；绑；贴",
+      "ctx": "系；绑；贴"
     },
     {
       "word": "oxygen",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "氧；氧气"
+      "meaning": "氧；氧气",
+      "ctx": "氧气；氧"
     }
   ]
 }

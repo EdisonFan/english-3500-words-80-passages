@@ -32,280 +32,320 @@
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "杂交植（动）物；合成物"
+      "meaning": "杂交植（动）物；合成物",
+      "ctx": "杂交（稻）"
     },
     {
       "word": "devote",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "把……献给；专心于"
+      "meaning": "把……献给；专心于",
+      "ctx": "把……奉献"
     },
     {
       "word": "devote to",
       "type": "outline",
       "phonetic": "",
       "pos": "短语",
-      "meaning": "把……用于；献身；致力"
+      "meaning": "把……用于；献身；致力",
+      "ctx": "致力于"
     },
     {
       "word": "shortage",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "不足；缺少；短缺"
+      "meaning": "不足；缺少；短缺",
+      "ctx": "短缺"
     },
     {
       "word": "tackle",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "解决（难题）；应付；处理"
+      "meaning": "解决（难题）；应付；处理",
+      "ctx": "解决；应对"
     },
     {
       "word": "crisis",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "危机；危急关头"
+      "meaning": "危机；危急关头",
+      "ctx": "危机"
     },
     {
       "word": "boost",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "使增长；使兴旺"
+      "meaning": "使增长；使兴旺",
+      "ctx": "提高；增加"
     },
     {
       "word": "yield",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "产量；产出"
+      "meaning": "产量；产出",
+      "ctx": "产量"
     },
     {
       "word": "convince",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "使相信；使确信；说服"
+      "meaning": "使相信；使确信；说服",
+      "ctx": "使信服"
     },
     {
       "word": "characteristic",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "特征；特点"
+      "meaning": "特征；特点",
+      "ctx": "特点"
     },
     {
       "word": "attain",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "（经努力）获得；达到"
+      "meaning": "（经努力）获得；达到",
+      "ctx": "取得；达到"
     },
     {
       "word": "conventional",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "传统的；习惯的"
+      "meaning": "传统的；习惯的",
+      "ctx": "传统的"
     },
     {
       "word": "pollinate",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "授粉；传粉"
+      "meaning": "授粉；传粉",
+      "ctx": "授粉"
     },
     {
       "word": "assumption",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "假定；设定"
+      "meaning": "假定；设定",
+      "ctx": "假设"
     },
     {
       "word": "intense",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "热切的；十分强烈的；激烈的"
+      "meaning": "热切的；十分强烈的；激烈的",
+      "ctx": "强烈的"
     },
     {
       "word": "overcome",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "克服；战胜"
+      "meaning": "克服；战胜",
+      "ctx": "克服"
     },
     {
       "word": "expand",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "扩大；增加；扩展"
+      "meaning": "扩大；增加；扩展",
+      "ctx": "扩大"
     },
     {
       "word": "output",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "产量；输出"
+      "meaning": "产量；输出",
+      "ctx": "产量"
     },
     {
       "word": "estimate",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "估计；估价；估算"
+      "meaning": "估计；估价；估算",
+      "ctx": "估计"
     },
     {
       "word": "domestic",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "本国的；国内的；家用的"
+      "meaning": "本国的；国内的；家用的",
+      "ctx": "国内的"
     },
     {
       "word": "consumption",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "消耗；消耗量；消费"
+      "meaning": "消耗；消耗量；消费",
+      "ctx": "消耗"
     },
     {
       "word": "comprise",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "包括；包含；由……组成"
+      "meaning": "包括；包含；由……组成",
+      "ctx": "由……组成"
     },
     {
       "word": "be comprised of",
       "type": "outline",
       "phonetic": "",
       "pos": "短语",
-      "meaning": "包括；包含；由……组成"
+      "meaning": "包括；包含；由……组成",
+      "ctx": "由……组成"
     },
     {
       "word": "generate",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "产生；引起"
+      "meaning": "产生；引起",
+      "ctx": "产生"
     },
     {
       "word": "strain",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "（动、植物的）系；品种"
+      "meaning": "（动、植物的）系；品种",
+      "ctx": "（稻）种"
     },
     {
       "word": "leisure",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "闲暇；休闲；空闲"
+      "meaning": "闲暇；休闲；空闲",
+      "ctx": "闲暇"
     },
     {
       "word": "deep down",
       "type": "outline",
       "phonetic": "",
       "pos": "短语",
-      "meaning": "在内心深处；本质上"
+      "meaning": "在内心深处；本质上",
+      "ctx": "在内心深处"
     },
     {
       "word": "soil",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "泥土；土壤；国土"
+      "meaning": "泥土；土壤；国土",
+      "ctx": "土壤"
     },
     {
       "word": "celebrity",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "名望；名誉；名人"
+      "meaning": "名望；名誉；名人",
+      "ctx": "名望"
     },
     {
       "word": "envision",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "展望；想象"
+      "meaning": "展望；想象",
+      "ctx": "设想"
     },
     {
       "word": "sorghum",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "高粱；高粱米"
+      "meaning": "高粱；高粱米",
+      "ctx": "高粱"
     },
     {
       "word": "broom",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "扫把；扫帚"
+      "meaning": "扫把；扫帚",
+      "ctx": "扫帚"
     },
     {
       "word": "grain",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "谷物；谷粒；颗粒"
+      "meaning": "谷物；谷粒；颗粒",
+      "ctx": "谷粒"
     },
     {
       "word": "vision",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "想象；视力；视野；影像"
+      "meaning": "想象；视力；视野；影像",
+      "ctx": "设想；愿景"
     },
     {
       "word": "reality",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "现实；实际情况；事实"
+      "meaning": "现实；实际情况；事实",
+      "ctx": "现实"
     },
     {
       "word": "salty",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "含盐的；咸的"
+      "meaning": "含盐的；咸的",
+      "ctx": "咸的"
     },
     {
       "word": "urban",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "城市的；都市的"
+      "meaning": "城市的；都市的",
+      "ctx": "城市的"
     },
     {
       "word": "bomb",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "炸弹"
+      "meaning": "炸弹",
+      "ctx": "炸弹"
     },
     {
       "word": "tunnel",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "地下通道；地道；隧道"
+      "meaning": "地下通道；地道；隧道",
+      "ctx": "隧道"
     },
     {
       "word": "extension",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "扩建部分；扩大；电话分机"
+      "meaning": "扩建部分；扩大；电话分机",
+      "ctx": "扩建部分"
     }
   ]
 }

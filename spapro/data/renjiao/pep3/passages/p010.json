@@ -157,392 +157,448 @@
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "基础；根据；基点"
+      "meaning": "基础；根据；基点",
+      "ctx": "基础；根据"
     },
     {
       "word": "loan",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "贷款；借款"
+      "meaning": "贷款；借款",
+      "ctx": "贷款；借款"
     },
     {
       "word": "plastic",
       "type": "outline",
       "phonetic": "",
       "pos": "n./adj.",
-      "meaning": "塑料；塑料制的"
+      "meaning": "塑料；塑料制的",
+      "ctx": "塑料；塑料制的"
     },
     {
       "word": "apologise",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "道歉；谢罪"
+      "meaning": "道歉；谢罪",
+      "ctx": "道歉；谢罪"
     },
     {
       "word": "ignore",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "忽视；对……不予理会"
+      "meaning": "忽视；对……不予理会",
+      "ctx": "忽视；不理会"
     },
     {
       "word": "judge",
       "type": "core",
       "phonetic": "",
       "pos": "v./n.",
-      "meaning": "评价；评判；法官"
+      "meaning": "评价；评判；法官",
+      "ctx": "评价；评判"
     },
     {
       "word": "scene",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "（戏剧或歌剧）场；现场"
+      "meaning": "（戏剧或歌剧）场；现场",
+      "ctx": "（戏剧）场；现场"
     },
     {
       "word": "narrator",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "（书、戏剧）叙述者；讲述者"
+      "meaning": "（书、戏剧）叙述者；讲述者",
+      "ctx": "叙述者；讲述者"
     },
     {
       "word": "narration",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "叙述；讲述；解说"
+      "meaning": "叙述；讲述；解说",
+      "ctx": "叙述；讲述"
     },
     {
       "word": "bet",
       "type": "outline",
       "phonetic": "",
       "pos": "n./v.",
-      "meaning": "打赌；赌注；下赌注"
+      "meaning": "打赌；赌注；下赌注",
+      "ctx": "打赌；赌注"
     },
     {
       "word": "servant",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "仆人；用人"
+      "meaning": "仆人；用人",
+      "ctx": "仆人；用人"
     },
     {
       "word": "sail",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "（船）航行；（人）乘船航行"
+      "meaning": "（船）航行；（人）乘船航行",
+      "ctx": "航行；乘船航行"
     },
     {
       "word": "spot",
       "type": "outline",
       "phonetic": "",
       "pos": "v./n.",
-      "meaning": "看见；注意到；地点"
+      "meaning": "看见；注意到；地点",
+      "ctx": "看见；注意到"
     },
     {
       "word": "consulate",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "领事馆"
+      "meaning": "领事馆",
+      "ctx": "领事馆"
     },
     {
       "word": "dare",
       "type": "core",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "胆敢；敢于"
+      "meaning": "胆敢；敢于",
+      "ctx": "胆敢；敢于"
     },
     {
       "word": "sort",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "种类；类别"
+      "meaning": "种类；类别",
+      "ctx": "种类；类别"
     },
     {
       "word": "mining",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "采矿；采矿业"
+      "meaning": "采矿；采矿业",
+      "ctx": "采矿；采矿业"
     },
     {
       "word": "patience",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "耐心；忍耐力；毅力"
+      "meaning": "耐心；忍耐力；毅力",
+      "ctx": "耐心；忍耐力"
     },
     {
       "word": "indicate",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "表明；显示；象征"
+      "meaning": "表明；显示；象征",
+      "ctx": "表明；显示"
     },
     {
       "word": "beneath",
       "type": "outline",
       "phonetic": "",
       "pos": "prep.",
-      "meaning": "在（或往）……下面"
+      "meaning": "在（或往）……下面",
+      "ctx": "在……下面"
     },
     {
       "word": "postpone",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "延迟；延期；延缓"
+      "meaning": "延迟；延期；延缓",
+      "ctx": "延迟；延期"
     },
     {
       "word": "odd",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "奇怪的；怪异的；反常的"
+      "meaning": "奇怪的；怪异的；反常的",
+      "ctx": "奇怪的；怪异的"
     },
     {
       "word": "obligation",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "义务；职责；责任"
+      "meaning": "义务；职责；责任",
+      "ctx": "义务；责任"
     },
     {
       "word": "intention",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "打算；计划；意图；目的"
+      "meaning": "打算；计划；意图；目的",
+      "ctx": "打算；意图"
     },
     {
       "word": "nowhere",
       "type": "outline",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "无处；哪里都不"
+      "meaning": "无处；哪里都不",
+      "ctx": "无处；哪里都不"
     },
     {
       "word": "extent",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "程度；限度；大小；范围"
+      "meaning": "程度；限度；大小；范围",
+      "ctx": "程度；限度"
     },
     {
       "word": "opera",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "歌剧"
+      "meaning": "歌剧",
+      "ctx": "歌剧"
     },
     {
       "word": "musical",
       "type": "outline",
       "phonetic": "",
       "pos": "n./adj.",
-      "meaning": "音乐剧；音乐的"
+      "meaning": "音乐剧；音乐的",
+      "ctx": "音乐剧；音乐的"
     },
     {
       "word": "dinosaur",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "恐龙"
+      "meaning": "恐龙",
+      "ctx": "恐龙"
     },
     {
       "word": "hug",
       "type": "outline",
       "phonetic": "",
       "pos": "v./n.",
-      "meaning": "拥抱；抱紧"
+      "meaning": "拥抱；抱紧",
+      "ctx": "拥抱；抱紧"
     },
     {
       "word": "pursue",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "追求；致力于"
+      "meaning": "追求；致力于",
+      "ctx": "追求；致力于"
     },
     {
       "word": "duty",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "责任；义务；职责；值班"
+      "meaning": "责任；义务；职责；值班",
+      "ctx": "责任；职责"
     },
     {
       "word": "hesitate",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "犹豫；迟疑；顾虑"
+      "meaning": "犹豫；迟疑；顾虑",
+      "ctx": "犹豫；迟疑"
     },
     {
       "word": "sequence",
       "type": "outline",
       "phonetic": "",
       "pos": "vt./n.",
-      "meaning": "按顺序排列；顺序"
+      "meaning": "按顺序排列；顺序",
+      "ctx": "顺序排列；顺序"
     },
     {
       "word": "eventually",
       "type": "outline",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "最后；终于"
+      "meaning": "最后；终于",
+      "ctx": "最后；终于"
     },
     {
       "word": "tailor",
       "type": "core",
       "phonetic": "",
       "pos": "n./v.",
-      "meaning": "（男装）裁缝；专门制作"
+      "meaning": "（男装）裁缝；专门制作",
+      "ctx": "裁缝；专门制作"
     },
     {
       "word": "clerk",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "职员；文书；店员"
+      "meaning": "职员；文书；店员",
+      "ctx": "职员；店员"
     },
     {
       "word": "manner",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "举止；行为方式；礼貌"
+      "meaning": "举止；行为方式；礼貌",
+      "ctx": "举止；行为方式"
     },
     {
       "word": "downstairs",
       "type": "core",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "顺楼梯而下；在楼下"
+      "meaning": "顺楼梯而下；在楼下",
+      "ctx": "在楼下；下楼"
     },
     {
       "word": "stair",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "楼梯；梯级"
+      "meaning": "楼梯；梯级",
+      "ctx": "楼梯；梯级"
     },
     {
       "word": "aside",
       "type": "core",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "到旁边；在旁边；留；存"
+      "meaning": "到旁边；在旁边；留；存",
+      "ctx": "到旁边；在旁边"
     },
     {
       "word": "frown",
       "type": "core",
       "phonetic": "",
       "pos": "v./n.",
-      "meaning": "皱眉"
+      "meaning": "皱眉",
+      "ctx": "皱眉"
     },
     {
       "word": "option",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "可选择的事物；选择"
+      "meaning": "可选择的事物；选择",
+      "ctx": "可选择的事物；选择"
     },
     {
       "word": "broad",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "宽阔的；广阔的；广泛的"
+      "meaning": "宽阔的；广阔的；广泛的",
+      "ctx": "宽阔的；广泛的"
     },
     {
       "word": "indeed",
       "type": "core",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "其实；实际上；当然"
+      "meaning": "其实；实际上；当然",
+      "ctx": "其实；实际上"
     },
     {
       "word": "normal",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "典型的；正常的；常态"
+      "meaning": "典型的；正常的；常态",
+      "ctx": "正常的；常态"
     },
     {
       "word": "willing",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "愿意；乐意"
+      "meaning": "愿意；乐意",
+      "ctx": "愿意；乐意"
     },
     {
       "word": "element",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "要素；基本部分"
+      "meaning": "要素；基本部分",
+      "ctx": "要素；基本部分"
     },
     {
       "word": "plot",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "故事情节；布局；阴谋"
+      "meaning": "故事情节；布局；阴谋",
+      "ctx": "故事情节；布局"
     },
     {
       "word": "ambassador",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "大使；使节；代表"
+      "meaning": "大使；使节；代表",
+      "ctx": "大使；使节"
     },
     {
       "word": "upper",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "上面的；上层的"
+      "meaning": "上面的；上层的",
+      "ctx": "上面的；上层的"
     },
     {
       "word": "maintain",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "维持；保持；维修；保养"
+      "meaning": "维持；保持；维修；保养",
+      "ctx": "维持；保持"
     },
     {
       "word": "permission",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "准许；许可；批准；许可证"
+      "meaning": "准许；许可；批准；许可证",
+      "ctx": "准许；许可"
     },
     {
       "word": "permit",
       "type": "outline",
       "phonetic": "",
       "pos": "v.",
-      "meaning": "允许；准许；使可能"
+      "meaning": "允许；准许；使可能",
+      "ctx": "允许；准许"
     },
     {
       "word": "saying",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "谚语；格言；警句"
+      "meaning": "谚语；格言；警句",
+      "ctx": "谚语；格言"
     },
     {
       "word": "external",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "外部的；外面的；外来的"
+      "meaning": "外部的；外面的；外来的",
+      "ctx": "外部的；外面的"
     }
   ]
 }

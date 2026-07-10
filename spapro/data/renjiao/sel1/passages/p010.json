@@ -37,182 +37,208 @@
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "化学的"
+      "meaning": "化学的",
+      "ctx": "化学的"
     },
     {
       "word": "wheat",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "小麦；小麦籽"
+      "meaning": "小麦；小麦籽",
+      "ctx": "小麦"
     },
     {
       "word": "flavor",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "味道；特点；特色"
+      "meaning": "味道；特点；特色",
+      "ctx": "味道"
     },
     {
       "word": "fertilizer",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "肥料"
+      "meaning": "肥料",
+      "ctx": "肥料"
     },
     {
       "word": "nutritional",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "营养（物）的"
+      "meaning": "营养（物）的",
+      "ctx": "营养的"
     },
     {
       "word": "nutritious",
       "type": "outline",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "有营养的；营养丰富的"
+      "meaning": "有营养的；营养丰富的",
+      "ctx": "有营养的"
     },
     {
       "word": "nutrition",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "营养；滋养"
+      "meaning": "营养；滋养",
+      "ctx": "营养"
     },
     {
       "word": "alleviate",
       "type": "outline",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "减轻；缓解"
+      "meaning": "减轻；缓解",
+      "ctx": "缓解"
     },
     {
       "word": "poverty",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "贫穷；贫困"
+      "meaning": "贫穷；贫困",
+      "ctx": "贫穷"
     },
     {
       "word": "organic",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "有机的；不使用化肥的"
+      "meaning": "有机的；不使用化肥的",
+      "ctx": "有机的"
     },
     {
       "word": "pesticide",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "杀虫剂；除害药物"
+      "meaning": "杀虫剂；除害药物",
+      "ctx": "杀虫剂"
     },
     {
       "word": "widespread",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "分布广的；普遍的；广泛的"
+      "meaning": "分布广的；普遍的；广泛的",
+      "ctx": "广泛的"
     },
     {
       "word": "bacterium",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "细菌"
+      "meaning": "细菌",
+      "ctx": "细菌"
     },
     {
       "word": "in turn",
       "type": "outline",
       "phonetic": "",
       "pos": "短语",
-      "meaning": "相应地；转而；依次；轮流"
+      "meaning": "相应地；转而；依次；轮流",
+      "ctx": "进而；转而"
     },
     {
       "word": "digest",
       "type": "core",
       "phonetic": "",
       "pos": "vt.",
-      "meaning": "消化；领会"
+      "meaning": "消化；领会",
+      "ctx": "消化"
     },
     {
       "word": "essential",
       "type": "core",
       "phonetic": "",
       "pos": "adj.",
-      "meaning": "完全必要的；极其重要的"
+      "meaning": "完全必要的；极其重要的",
+      "ctx": "必需的"
     },
     {
       "word": "mineral",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "矿物；矿物质"
+      "meaning": "矿物；矿物质",
+      "ctx": "矿物质"
     },
     {
       "word": "alternative",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "可供选择的事物"
+      "meaning": "可供选择的事物",
+      "ctx": "替代（方法）"
     },
     {
       "word": "grocery",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "食品杂货店；食品杂货"
+      "meaning": "食品杂货店；食品杂货",
+      "ctx": "食品杂货店"
     },
     {
       "word": "instance",
       "type": "core",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "例子；实例；事例"
+      "meaning": "例子；实例；事例",
+      "ctx": "例子"
     },
     {
       "word": "for instance",
       "type": "outline",
       "phonetic": "",
       "pos": "短语",
-      "meaning": "例如；比如"
+      "meaning": "例如；比如",
+      "ctx": "例如"
     },
     {
       "word": "depth",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "深（度）；向下（或向里）的距离"
+      "meaning": "深（度）；向下（或向里）的距离",
+      "ctx": "深度"
     },
     {
       "word": "root",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "根；根茎；根源"
+      "meaning": "根；根茎；根源",
+      "ctx": "根"
     },
     {
       "word": "entirely",
       "type": "core",
       "phonetic": "",
       "pos": "adv.",
-      "meaning": "全部地；完整地；完全地"
+      "meaning": "全部地；完整地；完全地",
+      "ctx": "完全地"
     },
     {
       "word": "aspect",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "方面；层面"
+      "meaning": "方面；层面",
+      "ctx": "方面"
     },
     {
       "word": "Vietnam",
       "type": "outline",
       "phonetic": "",
       "pos": "n.",
-      "meaning": "越南（国家名）"
+      "meaning": "越南（国家名）",
+      "ctx": "越南"
     }
   ]
 }
