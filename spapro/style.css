@@ -1236,19 +1236,21 @@ footer {
     gap: 12px;
 }
 .ai-msg {
-    max-width: 85%;
+    max-width: 100%;
     padding: 10px 14px;
     border-radius: 12px;
     line-height: 1.55;
     font-size: 14px;
     white-space: pre-wrap;
     word-break: break-word;
+    box-sizing: border-box;
 }
 .ai-msg-user {
     align-self: flex-end;
     background: #e53935;
     color: #fff;
     border-bottom-right-radius: 2px;
+    max-width: 75%;
 }
 .ai-msg-bot {
     align-self: flex-start;
@@ -1256,6 +1258,7 @@ footer {
     color: #1a1a1a;
     border: 1px solid #e5e5e7;
     border-bottom-left-radius: 2px;
+    max-width: 100%;
 }
 .ai-msg-error {
     align-self: flex-start;
