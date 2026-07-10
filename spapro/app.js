@@ -671,7 +671,7 @@ function _updateBotContent(holder, text) {
     _scrollDown();
 }
 
-/* 轻量 markdown 渲染(只支持聊天常用语法:粗体/标题/列表/行内代码/分隔线/换行/段落) */
+/* 轻量 markdown 渲染(支持:粗体/标题/列表/行内代码/分隔线/换行/段落/GFM表格) */
 function _escapeHtml(s) {
     return s.replace(/[&<>"']/g, function (c) {
         return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
@@ -688,6 +688,21 @@ function _inlineMd(s) {
     t = t.replace(/(^|[^*])\*([^*\n]+?)\*/g, function (_, p, c) { return p + '<em>' + c + '</em>'; });
     return t;
 }
+// 检测一行是否为 GFM 表格行（以 | 开头/结尾）
+function _isTableRow(line) {
+    return /^\|(.+\|)+\s*$/.test(line.trim());
+}
+// 检测是否为表格分隔行 |---|---|
+function _isTableSep(line) {
+    return /^\|[-\s:|]+\s*$/.test(line.trim());
+}
+// 解析一个单元格内容
+function _parseTableCell(s) {
+    s = s.trim();
+    // 去掉首尾可能的空格
+    return _inlineMd(s);
+}
+
 function _renderMarkdown(text) {
     if (!text) return '';
     var lines = text.split('\n');
@@ -695,6 +710,8 @@ function _renderMarkdown(text) {
     var inList = false;
     var listType = null;   // 'ul' | 'ol'
     var para = [];
+    var inTable = false;
+    var tableRows = [];   // 收集表格行
 
     function flushPara() {
         if (para.length) {
@@ -705,14 +722,63 @@ function _renderMarkdown(text) {
     function flushList() {
         if (inList) { out.push('</' + listType + '>'); inList = false; listType = null; }
     }
+    function flushTable() {
+        if (!inTable || tableRows.length < 2) {
+            // 表格不完整，当普通文本输出
+            for (var t = 0; t < tableRows.length; t++) {
+                para.push(tableRows[t]);
+            }
+            tableRows = [];
+            inTable = false;
+            return;
+        }
+        // 解析表头（第一行）和数据行（跳过分隔行）
+        var headerCells = tableRows[0].split('|').filter(function(c){return c.trim()!=='';});
+        var dataStart = 2; // 跳过分隔行（索引1）
+        var html = '<table><thead><tr>';
+        for (var hi = 0; hi < headerCells.length; hi++) {
+            html += '<th>' + _parseTableCell(headerCells[hi]) + '</th>';
+        }
+        html += '</tr></thead><tbody>';
+        for (var di = dataStart; di < tableRows.length; di++) {
+            var cells = tableRows[di].split('|').filter(function(c){return c.trim()!=='';});
+            html += '<tr>';
+            for (var ci = 0; ci < cells.length; ci++) {
+                html += '<td>' + _parseTableCell(cells[ci]) + '</td>';
+            }
+            html += '</tr>';
+        }
+        html += '</tbody></table>';
+        out.push(html);
+        tableRows = [];
+        inTable = false;
+    }
 
     for (var i = 0; i < lines.length; i++) {
         var raw = lines[i];
         var line = raw.replace(/\s+$/, '');
-        if (!line.trim()) { flushPara(); flushList(); continue; }
+        var trimmed = line.trim();
+
+        // 空行
+        if (!trimmed) {
+            if (inTable) { flushTable(); }
+            flushPara(); flushList();
+            continue;
+        }
+
+        // 表格行检测
+        if (_isTableRow(trimmed) || (inTable && _isTableSep(trimmed))) {
+            flushPara(); flushList();
+            if (!inTable) { inTable = true; }
+            tableRows.push(trimmed);
+            continue;
+        }
+
+        // 非表格行：如果在表格中，先关闭表格
+        if (inTable) { flushTable(); }
 
         // 标题 ### / ##
-        var h = line.match(/^(#{1,4})\s+(.+)$/);
+        var h = trimmed.match(/^(#{1,4})\s+(.+)$/);
         if (h) {
             flushPara(); flushList();
             var level = Math.min(6, h[1].length + 1);  // ## → h3, ### → h4
@@ -721,14 +787,14 @@ function _renderMarkdown(text) {
         }
 
         // 分隔线 ---
-        if (/^-{3,}\s*$/.test(line)) {
+        if (/^-{3,}\s*$/.test(trimmed)) {
             flushPara(); flushList();
             out.push('<hr>');
             continue;
         }
 
         // 有序列表 1. / 2.
-        var ol = line.match(/^(\d+)\.\s+(.+)$/);
+        var ol = trimmed.match(/^(\d+)\.\s+(.+)$/);
         if (ol) {
             flushPara();
             if (!inList || listType !== 'ol') { flushList(); out.push('<ol>'); inList = true; listType = 'ol'; }
@@ -737,7 +803,7 @@ function _renderMarkdown(text) {
         }
 
         // 无序列表 - /* 
-        var ul = line.match(/^[-*+]\s+(.+)$/);
+        var ul = trimmed.match(/^[-*+]\s+(.+)$/);
         if (ul) {
             flushPara();
             if (!inList || listType !== 'ul') { flushList(); out.push('<ul>'); inList = true; listType = 'ul'; }
@@ -749,6 +815,8 @@ function _renderMarkdown(text) {
         flushList();
         para.push(line);
     }
+    // 结束时清理
+    if (inTable) { flushTable(); }
     flushPara();
     flushList();
     return out.join('');

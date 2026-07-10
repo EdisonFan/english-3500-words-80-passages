@@ -1298,6 +1298,32 @@ footer {
     border-top: 1px solid #e5e5e7;
     margin: 10px 0;
 }
+.ai-msg table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 8px 0;
+    font-size: 13.5px;
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+.ai-msg th,
+.ai-msg td {
+    padding: 7px 10px;
+    text-align: left;
+    border: 1px solid #e5e5e7;
+    white-space: normal;
+    word-break: break-word;
+    vertical-align: top;
+}
+.ai-msg th {
+    background: #f8f9fa;
+    font-weight: 600;
+    color: #333;
+}
+.ai-msg tr:nth-child(even) td {
+    background: #fafbfc;
+}
 .ai-msg-meta {
     font-size: 11px;
     color: #999;
