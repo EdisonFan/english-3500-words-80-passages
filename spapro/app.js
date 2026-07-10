@@ -669,8 +669,91 @@ function _appendBotPlaceholder() {
 function _updateBotContent(holder, text) {
     var msg = holder.querySelector('.ai-msg');
     if (!msg) return;
-    msg.textContent = text;
+    msg.innerHTML = _renderMarkdown(text);
     _scrollDown();
+}
+
+/* 轻量 markdown 渲染(只支持聊天常用语法:粗体/标题/列表/行内代码/分隔线/换行/段落) */
+function _escapeHtml(s) {
+    return s.replace(/[&<>"']/g, function (c) {
+        return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+    });
+}
+function _inlineMd(s) {
+    // 先转义,再放回受控标签
+    var t = _escapeHtml(s);
+    // 行内代码 `xxx`
+    t = t.replace(/`([^`]+?)`/g, function (_, c) { return '<code>' + c + '</code>'; });
+    // 粗体 **xxx** (非贪婪)
+    t = t.replace(/\*\*([^*\n]+?)\*\*/g, function (_, c) { return '<strong>' + c + '</strong>'; });
+    // 斜体 *xxx* (避免和 ** 冲突,只匹配单个 * 包围的非星号)
+    t = t.replace(/(^|[^*])\*([^*\n]+?)\*/g, function (_, p, c) { return p + '<em>' + c + '</em>'; });
+    return t;
+}
+function _renderMarkdown(text) {
+    if (!text) return '';
+    var lines = text.split('\n');
+    var out = [];
+    var inList = false;
+    var listType = null;   // 'ul' | 'ol'
+    var para = [];
+
+    function flushPara() {
+        if (para.length) {
+            out.push('<p>' + _inlineMd(para.join(' ')) + '</p>');
+            para = [];
+        }
+    }
+    function flushList() {
+        if (inList) { out.push('</' + listType + '>'); inList = false; listType = null; }
+    }
+
+    for (var i = 0; i < lines.length; i++) {
+        var raw = lines[i];
+        var line = raw.replace(/\s+$/, '');
+        if (!line.trim()) { flushPara(); flushList(); continue; }
+
+        // 标题 ### / ##
+        var h = line.match(/^(#{1,4})\s+(.+)$/);
+        if (h) {
+            flushPara(); flushList();
+            var level = Math.min(6, h[1].length + 1);  // ## → h3, ### → h4
+            out.push('<h' + level + '>' + _inlineMd(h[2]) + '</h' + level + '>');
+            continue;
+        }
+
+        // 分隔线 ---
+        if (/^-{3,}\s*$/.test(line)) {
+            flushPara(); flushList();
+            out.push('<hr>');
+            continue;
+        }
+
+        // 有序列表 1. / 2.
+        var ol = line.match(/^(\d+)\.\s+(.+)$/);
+        if (ol) {
+            flushPara();
+            if (!inList || listType !== 'ol') { flushList(); out.push('<ol>'); inList = true; listType = 'ol'; }
+            out.push('<li>' + _inlineMd(ol[2]) + '</li>');
+            continue;
+        }
+
+        // 无序列表 - /* 
+        var ul = line.match(/^[-*+]\s+(.+)$/);
+        if (ul) {
+            flushPara();
+            if (!inList || listType !== 'ul') { flushList(); out.push('<ul>'); inList = true; listType = 'ul'; }
+            out.push('<li>' + _inlineMd(ul[1]) + '</li>');
+            continue;
+        }
+
+        // 普通段落
+        flushList();
+        para.push(line);
+    }
+    flushPara();
+    flushList();
+    return out.join('');
 }
 
 function _appendError(text) {
