@@ -532,6 +532,8 @@ function goNext(bookId, id) { if (id < TOTAL) location.hash = '#/book/' + bookId
 /* === AI 助手:悬浮按钮 + 弹层(只在正文页显示) === */
 var _ai = { mounted: false, open: false, busy: false, history: [] };
 var _aiFab, _aiStage, _aiMessages, _aiInput, _aiSend, _aiClose;
+var _AI_SYSTEM_PROMPT = '你是一个高考英语学习助手,帮助用户精读英语文章、理解单词、解析语法和翻译。' +
+    '回答要简洁、准确,用中文解释。涉及单词时给出音标、词性、释义和例句。';
 
 function mountAIAssistant(show) {
     if (show) {
@@ -813,7 +815,7 @@ function _streamChat(history, holder) {
         fetch('/api/chat', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ messages: history }),
+            body: JSON.stringify({ messages: [{ role: 'system', content: _AI_SYSTEM_PROMPT }].concat(history) }),
         }).then(function (res) {
             if (!res.ok) {
                 res.text().then(function (t) {
