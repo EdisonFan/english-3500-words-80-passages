@@ -578,6 +578,16 @@ body.show-trans .para .cn { display: block; }
     border-radius: 3px;
 }
 
+/* === 词典覆盖层(SPA 内 keep-alive) === */
+.dict-layer {
+    position: fixed;
+    inset: 0;
+    z-index: 8000;
+    background: var(--bg);
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
 /* === 词典页面：顶栏（返回箭头 + 标题） === */
 .dict-page-body {
     background: var(--bg);
