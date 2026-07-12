@@ -18,6 +18,7 @@ const { handleSearchVideo, handleStream, handleVideoInfo } = require('./lib/vide
 const { serveStatic } = require('./lib/static');
 const { handleBooks, handleBook, handleBookPassage } = require('./lib/books');
 const { handleChat } = require('./lib/chat');
+const { handleSearch } = require('./lib/search');
 
 const server = http.createServer(async (req, res) => {
   const parsed = new URL(req.url, `http://${req.headers.host}`);
@@ -99,6 +100,16 @@ const server = http.createServer(async (req, res) => {
     }
     try {
       await handleVideoInfo(bvid, res);
+    } catch (e) {
+      sendJson(res, 500, { error: e.message });
+    }
+    return;
+  }
+
+  if (pathname === '/api/search') {
+    const q = (params.q || '').trim();
+    try {
+      await handleSearch(req, res, q);
     } catch (e) {
       sendJson(res, 500, { error: e.message });
     }

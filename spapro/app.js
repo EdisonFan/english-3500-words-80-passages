@@ -105,6 +105,15 @@ function router() {
         return;
     }
 
+    // #/search?q=<word> 全局搜词
+    var sm = hash.match(/^#\/search(\?.*)?$/);
+    if (sm) {
+        var sp = new URLSearchParams(sm[1] ? sm[1].slice(1) : '');
+        renderSearch(sp.get('q') || '');
+        mountAIAssistant(false);
+        return;
+    }
+
     // 默认：书列表
     renderHome();
     mountAIAssistant(false);
@@ -113,9 +122,24 @@ function router() {
 /* === 书列表页（首页） === */
 function renderHome() {
     app.innerHTML = '<div class="home"><div class="home-head"><h1>英语精读 · 书房</h1>' +
-        '<p class="muted">选择一本书开始阅读</p></div><div id="bookGrid" class="book-grid">' +
+        '<p class="muted">选择一本书开始阅读</p></div>' +
+        '<div class="search-box"><input id="globalSearchInput" type="text" placeholder="搜索单词，例如 action / permit" autocomplete="off">' +
+        '<button id="globalSearchBtn">搜索</button></div>' +
+        '<div id="bookGrid" class="book-grid">' +
         '<div class="book-loading">正在加载书库…</div></div></div>';
     window.scrollTo(0, 0);
+
+    // 搜索框：回车或点按钮跳转
+    var input = document.getElementById('globalSearchInput');
+    var btn = document.getElementById('globalSearchBtn');
+    function doSearch() {
+        var q = (input.value || '').trim();
+        if (q) location.hash = '#/search?q=' + encodeURIComponent(q);
+    }
+    input.addEventListener('keydown', function (e) {
+        if (e.key === 'Enter') doSearch();
+    });
+    btn.addEventListener('click', doSearch);
 
     fetch('/api/books')
         .then(function (r) { return r.json(); })
@@ -132,6 +156,98 @@ function renderHome() {
             var grid = document.getElementById('bookGrid');
             if (grid) grid.innerHTML = '<div class="book-empty">加载失败：' + esc(err.message) + '</div>';
         });
+}
+
+/* === 全局搜词页 === */
+function renderSearch(q) {
+    q = q || '';
+    var html = '<div class="topbar"><div class="topbar-inner">' +
+        '<div class="topbar-left" onclick="location.hash=\'\'">' +
+        '<span class="dot"></span><span>书库</span></div>' +
+        '<div class="topbar-right"><span>全局搜词</span></div></div></div>';
+
+    html += '<div class="wrap search-page">' +
+        '<div class="search-box"><input id="searchInput" type="text" placeholder="搜索单词" autocomplete="off">' +
+        '<button id="searchBtn">搜索</button></div>' +
+        '<div id="searchResults"></div></div>';
+
+    app.innerHTML = html;
+    window.scrollTo(0, 0);
+
+    var input = document.getElementById('searchInput');
+    var btn = document.getElementById('searchBtn');
+    input.value = q;
+
+    function doSearch() {
+        var v = (input.value || '').trim();
+        if (!v) return;
+        if (location.hash !== '#/search?q=' + encodeURIComponent(v)) {
+            location.hash = '#/search?q=' + encodeURIComponent(v);
+        } else {
+            runSearch(v);
+        }
+    }
+    input.addEventListener('keydown', function (e) {
+        if (e.key === 'Enter') doSearch();
+    });
+    btn.addEventListener('click', doSearch);
+
+    if (q) runSearch(q);
+
+    function runSearch(query) {
+        var box = document.getElementById('searchResults');
+        box.innerHTML = '<div class="muted">正在搜索…</div>';
+        fetch('/api/search?q=' + encodeURIComponent(query))
+            .then(function (r) { return r.json(); })
+            .then(function (j) {
+                if (!j || !j.ok) {
+                    box.innerHTML = '<div class="muted">搜索失败</div>';
+                    return;
+                }
+                renderSearchResults(query, j.results);
+            })
+            .catch(function (err) {
+                box.innerHTML = '<div class="muted">搜索失败：' + esc(err.message) + '</div>';
+            });
+    }
+
+    function renderSearchResults(query, results) {
+        var box = document.getElementById('searchResults');
+        if (!results || !results.length) {
+            box.innerHTML = '<div class="muted">未找到「' + esc(query) + '」相关的结果</div>';
+            return;
+        }
+        var html = '<div class="search-count">共 ' + results.length + ' 篇文章命中</div>';
+        results.forEach(function (r) {
+            html += '<div class="search-result-item">' +
+                '<div class="sri-head">' +
+                '<span class="sri-book">' + esc(r.bookTitle) + '</span>' +
+                '<a class="sri-link" href="#/book/' + encodeURIComponent(r.bookId) + '/passage/' + encodeURIComponent(r.pid) + '">' +
+                esc(r.passageTitle) + '</a>' +
+                '<span class="sri-count">' + r.matches.length + ' 处</span></div>';
+            html += '<div class="sri-matches">';
+            r.matches.forEach(function (m) {
+                if (m.type === 'vocab') {
+                    html += '<div class="sri-match">' +
+                        '<span class="search-tag search-tag-vocab">词汇表</span>' +
+                        '<span class="search-vocab-word">' + esc(m.word) + '</span>' +
+                        (m.pos ? '<span class="search-vocab-pos">' + esc(m.pos) + '</span>' : '') +
+                        (m.meaning ? '<span class="search-vocab-meaning">' + esc(m.meaning) + '</span>' : '') +
+                        '</div>';
+                } else if (m.type === 'marked') {
+                    html += '<div class="sri-match">' +
+                        '<span class="search-tag search-tag-marked">教学词 · 第' + esc(m.paraNum) + '段</span>' +
+                        '<div class="search-snippet">' + esc(m.snippet) + '</div></div>';
+                } else {
+                    html += '<div class="sri-match">' +
+                        '<span class="search-tag search-tag-text">正文 · 第' + esc(m.paraNum) + '段</span>' +
+                        '<div class="search-snippet">' + esc(m.snippet) + '</div></div>';
+                }
+            });
+            html += '</div></div>';
+        });
+        box.innerHTML = html;
+    }
 }
 
 function hashColor(id) {

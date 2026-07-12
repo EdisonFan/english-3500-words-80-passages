@@ -1428,3 +1428,90 @@ footer {
     .ai-fab { right: 16px; bottom: 16px; width: 50px; height: 50px; font-size: 16px; }
     .ai-panel { height: calc(100vh - 24px); border-radius: 10px; }
 }
+
+/* === 全局搜词 === */
+.search-box {
+    display: flex;
+    gap: 8px;
+    margin: 0 0 24px 0;
+}
+.search-box input {
+    flex: 1;
+    padding: 12px 14px;
+    font-size: 15px;
+    border: 1px solid var(--border, #e2e8f0);
+    border-radius: 10px;
+    outline: none;
+    background: var(--card, #fff);
+    color: var(--text, #1a1a1a);
+}
+.search-box input:focus { border-color: #3B6EE8; }
+.search-box button {
+    padding: 0 22px;
+    font-size: 15px;
+    border: none;
+    border-radius: 10px;
+    background: #3B6EE8;
+    color: #fff;
+    cursor: pointer;
+}
+.search-box button:hover { background: #2f5bc4; }
+
+.search-page { max-width: 820px; }
+.search-count { color: #888; font-size: 13px; margin: 4px 0 16px; }
+
+.search-result-item {
+    border: 1px solid var(--border, #e8edf3);
+    border-radius: 12px;
+    padding: 14px 16px;
+    margin-bottom: 12px;
+    background: var(--card, #fff);
+}
+.sri-head {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+.sri-book {
+    font-size: 12px;
+    color: #fff;
+    background: #6E4FBE;
+    padding: 2px 8px;
+    border-radius: 6px;
+}
+.sri-link {
+    font-weight: 600;
+    color: var(--text, #1a1a1a);
+    text-decoration: none;
+}
+.sri-link:hover { color: #3B6EE8; text-decoration: underline; }
+.sri-count { margin-left: auto; font-size: 12px; color: #999; }
+
+.sri-matches { display: flex; flex-direction: column; gap: 8px; }
+.sri-match { display: flex; flex-direction: column; gap: 4px; }
+.search-tag {
+    display: inline-block;
+    width: fit-content;
+    font-size: 11px;
+    padding: 2px 8px;
+    border-radius: 6px;
+    color: #fff;
+}
+.search-tag-marked { background: #3B6EE8; }
+.search-tag-text   { background: #888; }
+.search-tag-vocab  { background: #2EA887; }
+
+.search-snippet {
+    font-size: 13px;
+    color: var(--muted, #555);
+    line-height: 1.55;
+    padding-left: 4px;
+    border-left: 2px solid var(--border, #e8edf3);
+}
+.sri-match:has(.search-vocab-word) { flex-direction: row; align-items: center; flex-wrap: wrap; gap: 8px; }
+.search-vocab-word { font-weight: 600; color: var(--text, #1a1a1a); }
+.search-vocab-pos { font-size: 12px; color: #888; }
+.search-vocab-meaning { font-size: 13px; color: var(--muted, #555); }
+
