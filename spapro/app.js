@@ -89,27 +89,10 @@ function router() {
         }
     }
 
-    // #/dict/<word> 词典覆盖层(不销毁正文 DOM)
-    var dm = hash.match(/^#\/dict\/(.+)$/);
-    if (dm) {
-        renderDictLayer(decodeURIComponent(dm[1]));
-        return;
-    }
-
     // #/book/<bookId>/passage/<pid> 文章页
     var pm = hash.match(/^#\/book\/([^/]+)\/passage\/([^/]+)$/);
     if (pm) {
-        var bookId = decodeURIComponent(pm[1]);
-        var pid = decodeURIComponent(pm[2]);
-        // 从词典层返回到同一篇文章 → 不重新渲染,保留滚动位置
-        if (_dictLayerOpen && _renderedPassage &&
-            _renderedPassage.bookId === bookId && _renderedPassage.pid === pid) {
-            _hideDictLayer();
-            mountAIAssistant(true);
-            return;
-        }
-        _hideDictLayer();
-        renderPassage(bookId, pid);
+        renderPassage(decodeURIComponent(pm[1]), decodeURIComponent(pm[2]));
         mountAIAssistant(true);
         return;
     }
@@ -117,14 +100,12 @@ function router() {
     // #/book/<bookId> 单元目录页
     var bm = hash.match(/^#\/book\/([^/]+)$/);
     if (bm) {
-        _hideDictLayer();
         renderBook(decodeURIComponent(bm[1]));
         mountAIAssistant(false);
         return;
     }
 
     // 默认：书列表
-    _hideDictLayer();
     renderHome();
     mountAIAssistant(false);
 }
@@ -297,9 +278,6 @@ function renderPassage(bookId, pid) {
 function renderPassageContent(bookId, pid, data) {
     var id = parseInt(String(pid).replace(/^p/, ''), 10) || data.id || 0;
     var num = String(id).padStart(2, '0');
-
-    // 记录当前已渲染的文章(供 dict 返回时判断是否需要重新渲染)
-    _renderedPassage = { bookId: bookId, pid: pid };
 
     // 缓存当前词表数据供跳转使用
     // (词表 UI 已移除,但 highlightWords 仍需 vocab 用于 {word} 标记)
@@ -513,421 +491,33 @@ function _fetchVideoList(word, callback) {
         });
 }
 
-/* === 词典覆盖层(SPA 内 keep-alive,类似淘宝列表→详情) ===
-   - 点单词 → location.hash = '#/dict/<word>',不离开 SPA
-   - 正文 DOM 不销毁,仅被 dictLayer 覆盖
-   - 返回时 hash 变回 passage 路由,隐藏 dictLayer,正文滚动位置天然保留 */
-var _dictLayer = null;
-var _dictLayerOpen = false;
-var _renderedPassage = null;  // { bookId, pid } 当前已渲染的文章(用于判断返回时是否需要重新渲染)
-
+/* === 跳转独立翻译页 ===
+   - 把 word + (如有) 已缓存的词典数据 + (如有) 已缓存的视频列表打包塞 sessionStorage
+   - dict.html 取出后立即删除,避免下次打开残留
+   - 全平台统一 _blank 新标签页打开:主页面不被销毁,滚动位置浏览器天然保留
+     (旧版本移动端用 location.href 跳转会丢状态,弃用) */
 function openDictPage(word) {
     word = String(word || '').toLowerCase().trim();
     if (!word) return;
-    location.hash = '#/dict/' + encodeURIComponent(word);
-}
 
-function _ensureDictLayer() {
-    if (_dictLayer) return;
-    _dictLayer = document.getElementById('dictLayer');
-}
+    var payload = { word: word, dictData: null, videoList: [] };
 
-function _showDictLayer() {
-    _ensureDictLayer();
-    _dictLayer.style.display = '';
-    _dictLayerOpen = true;
-}
-
-function _hideDictLayer() {
-    if (!_dictLayer) _ensureDictLayer();
-    if (_dictLayer) _dictLayer.style.display = 'none';
-    _dictLayerOpen = false;
-}
-
-/* 播放发音音频 */
-function playAudio(btn, src) {
-    if (window.event) window.event.stopPropagation();
-    try {
-        var audio = new Audio(src);
-        audio.play().catch(function () { });
-        btn.classList.add('playing');
-        setTimeout(function () { btn.classList.remove('playing'); }, 600);
-    } catch (e) { }
-}
-
-/* 跳到单词对应的视频页(仍用独立 video.html) */
-function openVideoPage(word, list) {
-    word = String(word || '').toLowerCase().trim();
-    if (!word) return;
-    try {
-        sessionStorage.setItem('videoList', JSON.stringify(list || []));
-        sessionStorage.setItem('videoWord', word);
-    } catch (e) { }
-    location.href = '/video.html?word=' + encodeURIComponent(word);
-}
-
-function openVideoFromBtn(btn) {
-    var word = (btn.getAttribute('data-videoword') || '').toLowerCase().trim();
-    var list = [];
-    try { list = JSON.parse(btn.getAttribute('data-videolist') || '[]'); } catch (e) {}
-    openVideoPage(word, list);
-}
-
-/* 创建/更新"教学视频"按钮(幂等) */
-function _insertVideoBtn(data, videoList, container) {
-    var row = container.querySelector('.dict-word-row');
-    if (!row || !data || !data.word) return;
-    var existing = row.querySelector('.dict-video-btn');
-    if (!videoList || !videoList.length) {
-        if (existing) existing.remove();
-        return;
-    }
-    var videoWord = (data.prototype || data.word).toLowerCase();
-    var listJson = JSON.stringify(videoList);
-    if (existing) {
-        existing.setAttribute('data-videoword', videoWord);
-        existing.setAttribute('data-videolist', listJson);
-    } else {
-        var btn = document.createElement('button');
-        btn.className = 'dict-video-btn';
-        btn.setAttribute('data-videoword', videoWord);
-        btn.setAttribute('data-videolist', listJson);
-        btn.innerHTML = '<span class="dv-icon">\u25B6</span> 教学视频';
-        btn.addEventListener('click', function () { openVideoFromBtn(this); });
-        row.appendChild(btn);
-    }
-}
-
-/* sessionStorage 路径专用:补查视频 */
-function _maybeFetchAndInsertVideo(data, container) {
-    if (!data || !data.word) return;
-    var row = container.querySelector('.dict-word-row');
-    if (row && row.querySelector('.dict-video-btn')) return;
-    var videoWord = (data.prototype || data.word).toLowerCase();
-    fetch('/api/search-video?word=' + encodeURIComponent(videoWord))
-        .then(function (r) { return r.json(); })
-        .then(function (j) {
-            if (j && j.ok && j.list && j.list.length) {
-                _insertVideoBtn(data, j.list, container);
-            }
-        })
-        .catch(function () { });
-}
-
-/* 把翻译页内英文单词包成可点击 .dw */
-var _DICT_EN_SELECTOR = [
-    '.example-en', '.phr-phrase', '.syn-words', '.idiom-en', '.past-sent-en', '.prototype-value'
-].join(',');
-
-function _tokenizeEnglish(text) {
-    if (!text) return '';
-    var re = /([A-Za-z][A-Za-z''']*)/g;
-    var html = '';
-    var lastIdx = 0;
-    var match;
-    while ((match = re.exec(text)) !== null) {
-        if (match.index > lastIdx) {
-            html += esc(text.slice(lastIdx, match.index));
-        }
-        var word = match[1];
-        var display = String(word).replace(/^[''']+|[''']+$/g, '');
-        var query = display.replace(/['']/g, "'").toLowerCase();
-        html += '<span class="dw" data-word="' + esc(query) + '">' + esc(display) + '</span>';
-        lastIdx = re.lastIndex;
-    }
-    if (lastIdx < text.length) {
-        html += esc(text.slice(lastIdx));
-    }
-    return html;
-}
-
-function _wrapDictEnglish(container) {
-    var nodes = container.querySelectorAll(_DICT_EN_SELECTOR);
-    for (var i = 0; i < nodes.length; i++) {
-        var el = nodes[i];
-        if (el.getAttribute('data-wrapped') === '1') continue;
-        el.setAttribute('data-wrapped', '1');
-        el.innerHTML = _tokenizeEnglish(el.textContent || '');
-    }
-}
-
-/* 渲染词典内容到 dictLayer */
-function _renderDictPage(data, videoList) {
-    _ensureDictLayer();
-    var titleEl = _dictLayer.querySelector('.dict-topbar-title');
-    var mainEl = _dictLayer.querySelector('.dict-main');
-
-    if (data && data.word) {
-        if (titleEl) titleEl.textContent = data.word;
-        document.title = data.word + ' \u00B7 \u5355\u8BCD\u7FFB\u8BD91';
-    }
-
-    var html = '<div class="dict-eyebrow">Dictionary</div>';
-    var videoBtnHtml = '';
-
-    if (data && data.loading) {
-        html += '<div class="dict-word-row"><div class="dict-word">' + esc(data.word) + '</div>' + videoBtnHtml + '</div>';
-        html += '<div class="dict-loading"><span class="dict-spinner"></span>\u67E5\u8BE2\u4E2D\u2026</div>';
-        mainEl.innerHTML = html;
-        return;
-    }
-
-    if (data && data.error) {
-        html += '<div class="dict-word-row"><div class="dict-word">' + esc(data.word || '') + '</div>' + videoBtnHtml + '</div>';
-        html += '<div class="dict-empty">\u67E5\u8BE2\u5931\u8D25\uFF1A' + esc(data.error) + '</div>';
-        mainEl.innerHTML = html;
-        _insertVideoBtn(data, videoList, mainEl);
-        return;
-    }
-
-    if (!data || !data.found) {
-        html += '<div class="dict-word-row"><div class="dict-word">' + esc((data && data.word) || '') + '</div>' + videoBtnHtml + '</div>';
-        html += '<div class="dict-empty">\u672A\u627E\u5230\u8BE5\u8BCD\u7684\u91CA\u4E49</div>';
-        mainEl.innerHTML = html;
-        _insertVideoBtn(data, videoList, mainEl);
-        return;
-    }
-
-    html += '<div class="dict-word-row"><div class="dict-word">' + esc(data.word) + '</div>' + videoBtnHtml + '</div>';
-
-    if (data.base_form) {
-        html += '<div class="dict-base-form">\u2190 ' + esc(data.base_form) + ' \u7684\u6240\u6709\u683C/\u7F29\u5199\u5F62\u5F0F</div>';
-    }
-
-    var phonRow = '<div class="dict-phon-row">';
-    if (data.phonetic_uk || data.audio_uk) {
-        phonRow += '<div class="phon-block">';
-        if (data.phonetic_uk) phonRow += '<span class="phon-text">' + esc(data.phonetic_uk) + '</span>';
-        if (data.audio_uk) phonRow += '<button class="audio-btn" onclick="playAudio(this, \'' + esc(data.audio_uk) + '\')"><span class="audio-icon">\uD83D\uDD0A</span>\u82F1</button>';
-        phonRow += '</div>';
-    }
-    if (data.phonetic_us || data.audio_us) {
-        phonRow += '<div class="phon-block">';
-        if (data.phonetic_us) phonRow += '<span class="phon-text">' + esc(data.phonetic_us) + '</span>';
-        if (data.audio_us) phonRow += '<button class="audio-btn" onclick="playAudio(this, \'' + esc(data.audio_us) + '\')"><span class="audio-icon">\uD83D\uDD0A</span>\u7F8E</button>';
-        phonRow += '</div>';
-    }
-    phonRow += '</div>';
-    if (data.phonetic_uk || data.phonetic_us || data.audio_uk || data.audio_us) {
-        html += phonRow;
-    }
-
-    if (data.prototype) {
-        html += '<div class="dict-prototype"><span class="prototype-label">\u539F\u578B</span><span class="prototype-value">' + esc(data.prototype) + '</span></div>';
-    }
-
-    if (data.exam_type && data.exam_type.length) {
-        html += '<div class="dict-exam-type">';
-        html += '<span class="exam-type-label">\u8003\u8BD5</span>';
-        data.exam_type.forEach(function (t) {
-            html += '<span class="exam-type-tag">' + esc(t) + '</span>';
-        });
-        html += '</div>';
-    }
-
-    if (data.defs && data.defs.length) {
-        html += '<div class="dict-defs">';
-        data.defs.forEach(function (d) {
-            html += '<div class="dict-def">';
-            if (d.pos) html += '<span class="pos">' + esc(d.pos) + '</span>';
-            if (d.meaning) html += '<span class="meaning">' + esc(d.meaning) + '</span>';
-            html += '</div>';
-        });
-        html += '</div>';
-    }
-
-    if (data.forms && data.forms.length) {
-        html += '<div class="dict-section">';
-        html += '<div class="dict-section-label">\u53D8\u5F62</div>';
-        var formsText = data.forms.map(function (f) {
-            return esc(f.name) + ': ' + esc(f.value);
-        }).join('\uFF1B');
-        html += '<div class="dict-section-body">' + formsText + '</div>';
-        html += '</div>';
-    }
-
-    if (data.examples && data.examples.length) {
-        html += '<div class="dict-section">';
-        html += '<div class="dict-section-label">\u53CC\u8BED\u4F8B\u53E5</div>';
-        data.examples.forEach(function (ex) {
-            html += '<div class="dict-example">';
-            html += '<div class="example-en">' + esc(ex.en) + '</div>';
-            html += '<div class="example-zh">' + esc(ex.zh) + '</div>';
-            html += '</div>';
-        });
-        html += '</div>';
-    }
-
-    if (data.synonyms && data.synonyms.length) {
-        html += '<div class="dict-section">';
-        html += '<div class="dict-section-label">\u540C\u4E49\u8BCD</div>';
-        data.synonyms.forEach(function (syn) {
-            html += '<div class="dict-syn-item">';
-            if (syn.pos) html += '<span class="syn-pos">' + esc(syn.pos) + '</span>';
-            if (syn.meaning) html += '<span class="syn-meaning">' + esc(syn.meaning) + '</span>';
-            html += '<span class="syn-words">' + esc(syn.words.join(', ')) + '</span>';
-            html += '</div>';
-        });
-        html += '</div>';
-    }
-
-    if (data.phrs && data.phrs.length) {
-        html += '<div class="dict-section">';
-        html += '<div class="dict-section-label">\u8BCD\u7EC4\u642D\u914D</div>';
-        data.phrs.forEach(function (p) {
-            html += '<div class="dict-phr-item">';
-            html += '<span class="phr-phrase">' + esc(p.phrase) + '</span>';
-            if (p.translations && p.translations.length) {
-                html += '<span class="phr-trans">' + esc(p.translations.join('\uFF1B')) + '</span>';
-            }
-            html += '</div>';
-        });
-        html += '</div>';
-    }
-
-    if (data.individual && Object.keys(data.individual).length) {
-        var ind = data.individual;
-        html += '<div class="dict-section">';
-        html += '<div class="dict-section-label">\u8003\u8BD5\u4FE1\u606F</div>';
-
-        var indMeta = [];
-        if (ind.level) indMeta.push(esc(ind.level));
-        if (ind.mnemonic) indMeta.push(esc(ind.mnemonic));
-        if (indMeta.length) {
-            html += '<div class="dict-ind-meta">' + indMeta.join(' \u00B7 ') + '</div>';
-        }
-
-        if (ind.examInfo && (ind.examInfo.frequency || ind.examInfo.year)) {
-            html += '<div class="dict-ind-exam-info">';
-            if (ind.examInfo.frequency) html += '<span class="exam-stat">\u8FD1' + esc(String(ind.examInfo.year || '')) + '\u5E74\u8003\u9891 <b>' + esc(String(ind.examInfo.frequency)) + '</b></span>';
-            if (ind.examInfo.recommendationRate) html += '<span class="exam-stat">\u63A8\u8350\u6307\u6570 <b>' + esc(String(ind.examInfo.recommendationRate)) + '</b></span>';
-            html += '</div>';
-            if (ind.examInfo.questionTypeInfo && ind.examInfo.questionTypeInfo.length) {
-                html += '<div class="dict-ind-qtypes">';
-                ind.examInfo.questionTypeInfo.forEach(function (q) {
-                    html += '<span class="qtype-tag">' + esc(q.type) + ' ' + esc(String(q.time || '')) + '</span>';
-                });
-                html += '</div>';
-            }
-        }
-
-        if (ind.idiomatic && ind.idiomatic.length) {
-            ind.idiomatic.forEach(function (c) {
-                html += '<div class="dict-idiom-item">';
-                html += '<span class="idiom-en">' + esc(c.en) + '</span>';
-                html += '<span class="idiom-zh">' + esc(c.zh) + '</span>';
-                html += '</div>';
-            });
-        }
-
-        if (ind.pastExamSents && ind.pastExamSents.length) {
-            html += '<div class="dict-ind-past-sents">';
-            html += '<div class="dict-section-sub-label">\u771F\u9898\u4F8B\u53E5</div>';
-            ind.pastExamSents.forEach(function (s) {
-                html += '<div class="dict-past-sent-item">';
-                html += '<div class="past-sent-en">' + esc(s.en) + '</div>';
-                html += '<div class="past-sent-zh">' + esc(s.zh) + '</div>';
-                if (s.source) html += '<div class="past-sent-src">' + esc(s.source) + '</div>';
-                html += '</div>';
-            });
-            html += '</div>';
-        }
-        html += '</div>';
-    }
-
-    if (data.sources && data.sources.length) {
-        var sourceLabels = { 'youdao': '\u6709\u9053\u8BCD\u5178' };
-        var labels = data.sources.map(function (s) { return sourceLabels[s] || s; });
-        html += '<div class="dict-source">\u6570\u636E\u6765\u6E90\uFF1A' + esc(labels.join(' + ')) + '</div>';
-    }
-
-    mainEl.innerHTML = html;
-    _insertVideoBtn(data, videoList, mainEl);
-    _wrapDictEnglish(mainEl);
-}
-
-/* 打开词典覆盖层并加载指定单词 */
-function renderDictLayer(word) {
-    word = String(word || '').toLowerCase().trim();
-    if (!word) return;
-
-    _ensureDictLayer();
-    _showDictLayer();
-    _dictLayer.scrollTop = 0;
-
-    // 构建 topbar + main 骨架(每次重新构建以防残留)
-    _dictLayer.innerHTML =
-        '<header class="dict-topbar">' +
-            '<button class="dict-back" id="dictBackBtn" aria-label="\u8FD4\u56DE">' +
-                '<span class="dict-back-arrow">\u2039</span>' +
-            '</button>' +
-            '<div class="dict-topbar-title">' + esc(word) + '</div>' +
-        '</header>' +
-        '<main class="dict-main">' +
-            '<div class="dict-loading"><span class="dict-spinner"></span>\u52A0\u8F7D\u4E2D\u2026</div>' +
-        '</main>';
-
-    // 返回按钮:history.back()
-    var backBtn = _dictLayer.querySelector('#dictBackBtn');
-    if (backBtn) {
-        backBtn.addEventListener('click', function () {
-            if (history.length > 1) {
-                history.back();
-            } else {
-                location.hash = _renderedPassage
-                    ? ('#/book/' + _renderedPassage.bookId + '/passage/' + _renderedPassage.pid)
-                    : '';
-            }
-        });
-    }
-
-    // 翻译页内英文单词点击 → 跳到另一个词
-    var mainEl = _dictLayer.querySelector('.dict-main');
-    if (mainEl) {
-        mainEl.addEventListener('click', function (e) {
-            var target = e.target.closest('.dw');
-            if (!target) return;
-            e.stopPropagation();
-            e.preventDefault();
-            var w = target.getAttribute('data-word');
-            if (w) location.hash = '#/dict/' + encodeURIComponent(w);
-        });
-    }
-
-    // 优先用内存缓存(命中零延迟)
+    // 把已缓存的词典数据带过去(命中则 dict.html 零延迟渲染,未命中由 dict.html 走 URL 兜底查)
     if (_dictCache[word]) {
-        var data = _dictCache[word];
-        var videoWord = (data.prototype || word).toLowerCase();
+        payload.dictData = _dictCache[word];
+        var videoWord = (_dictCache[word].prototype || word).toLowerCase();
         var cachedVideo = _videoSearchCache[videoWord];
-        _renderDictPage(data, (cachedVideo && cachedVideo.length) ? cachedVideo : []);
-        // 没有视频缓存则补查
-        if (!cachedVideo || !cachedVideo.length) {
-            _maybeFetchAndInsertVideo(data, mainEl);
+        if (cachedVideo && cachedVideo.length) {
+            payload.videoList = cachedVideo;
         }
-        return;
     }
 
-    // 未命中缓存 → loading + fetch
-    _renderDictPage({ word: word, loading: true }, []);
-    fetch('/api/dict?q=' + encodeURIComponent(word))
-        .then(function (r) { return r.json(); })
-        .then(function (data) {
-            _dictCache[word] = data;
-            var vWord = (data && data.prototype ? data.prototype : word).toLowerCase();
-            return fetch('/api/search-video?word=' + encodeURIComponent(vWord))
-                .then(function (r) { return r.json(); })
-                .then(function (j) {
-                    var list = (j && j.ok && j.list) ? j.list : [];
-                    if (list && list.length) {
-                        _videoSearchCache[vWord] = list;
-                    }
-                    _renderDictPage(data, list);
-                })
-                .catch(function () { _renderDictPage(data, []); });
-        })
-        .catch(function (err) {
-            _renderDictPage({ word: word, error: String(err.message || err) }, []);
-        });
+    try {
+        sessionStorage.setItem('dictPayload', JSON.stringify(payload));
+    } catch (e) { }
+
+    var url = '/dict.html?word=' + encodeURIComponent(word);
+    window.open(url, '_blank');
 }
 
 /* === 移动端判断（用于决定翻译页/视频页打开方式） === */
