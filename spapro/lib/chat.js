@@ -10,16 +10,21 @@
  */
 const https = require('https');
 const { URL } = require('url');
-const { HttpsProxyAgent } = require('https-proxy-agent');
 const logger = require('./logger');
 
 const ANT_LING_URL = 'https://api.ant-ling.com/v1/chat/completions';
 const API_KEY = 'sk-studio-e74f74497f054887872e0ee05e7e0c74';
 const MODEL = 'Ling-2.6-flash';
 
-// 沙箱环境强制走代理(Node https.request 不读 HTTPS_PROXY)
 const PROXY = process.env.HTTPS_PROXY || process.env.HTTP_PROXY || '';
-const AGENT = PROXY ? new HttpsProxyAgent(PROXY) : undefined;
+let _agent = null;
+async function getAgent() {
+  if (_agent !== null) return _agent;
+  if (!PROXY) { _agent = undefined; return _agent; }
+  const { HttpsProxyAgent } = await import('https-proxy-agent');
+  _agent = new HttpsProxyAgent(PROXY);
+  return _agent;
+}
 
 function readBody(req) {
   return new Promise((resolve, reject) => {
@@ -69,12 +74,13 @@ async function handleChat(req, res) {
     (messages[messages.length - 1].content || '').slice(0, 80) + '"');
 
   const urlObj = new URL(ANT_LING_URL);
+  const agent = await getAgent();
   const options = {
     method: 'POST',
     hostname: urlObj.hostname,
     port: 443,
     path: urlObj.pathname,
-    agent: AGENT,
+    agent: agent,
     headers: {
       'Content-Type': 'application/json',
       'Authorization': 'Bearer ' + API_KEY,
