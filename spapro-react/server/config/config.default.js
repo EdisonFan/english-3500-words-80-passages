@@ -37,10 +37,16 @@ module.exports = () => {
     },
   };
 
-  // 静态文件：生产环境可让后端直接吐前端 dist
+  // 静态文件：分别暴露前端 dist（根路径）和 data 目录（/data 前缀，给封面图等用）
+  // 用 dirs 数组形式（egg-static 官方推荐），每个目录可独立配置 prefix
+  // dynamic:true 让运行时新增文件也能访问（dev 友好）
   config.static = {
-    prefix: '/',
-    dir: path.join(__dirname, '..', '..', 'web', 'dist'),
+    dynamic: true,
+    preload: false,
+    dirs: [
+      { prefix: '/', dir: path.join(__dirname, '..', '..', 'web', 'dist') },
+      { prefix: '/data/', dir: path.join(__dirname, '..', 'data') },
+    ],
   };
 
   return config;

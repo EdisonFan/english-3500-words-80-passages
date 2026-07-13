@@ -81,10 +81,11 @@
     }
   },
   "static": {
-    "prefix": "/workspace/spapro-react/server/config/config.default.js",
-    "dir": "/workspace/spapro-react/server/config/config.default.js",
-    "dynamic": "/workspace/spapro-react/server/node_modules/egg-static/config/config.default.js",
-    "preload": "/workspace/spapro-react/server/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/workspace/spapro-react/server/config/config.default.js",
+    "preload": "/workspace/spapro-react/server/config/config.default.js",
+    "dirs": "/workspace/spapro-react/server/config/config.default.js",
+    "prefix": "/workspace/spapro-react/server/node_modules/egg-static/config/config.default.js",
+    "dir": "/workspace/spapro-react/server/node_modules/egg-static/config/config.default.js",
     "buffer": "/workspace/spapro-react/server/node_modules/egg-static/config/config.default.js",
     "maxFiles": "/workspace/spapro-react/server/node_modules/egg-static/config/config.default.js"
   },

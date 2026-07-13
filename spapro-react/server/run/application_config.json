@@ -189,12 +189,22 @@
       "maxDays": 31
     },
     "static": {
-      "prefix": "/",
-      "dir": "/workspace/spapro-react/web/dist",
+      "prefix": "/public/",
+      "dir": "/workspace/spapro-react/server/app/public",
       "dynamic": true,
       "preload": false,
       "buffer": false,
-      "maxFiles": 1000
+      "maxFiles": 1000,
+      "dirs": [
+        {
+          "prefix": "/",
+          "dir": "/workspace/spapro-react/web/dist"
+        },
+        {
+          "prefix": "/data/",
+          "dir": "/workspace/spapro-react/server/data"
+        }
+      ]
     },
     "view": {
       "root": "/workspace/spapro-react/server/app/view",

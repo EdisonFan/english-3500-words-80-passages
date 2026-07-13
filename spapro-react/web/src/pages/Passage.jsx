@@ -1,16 +1,21 @@
-import React, { useState, useEffect, useRef } from 'react';
-import { useParams, useNavigate, Link } from 'react-router-dom';
+import React, { useState, useEffect } from 'react';
+import { useParams, Link } from 'react-router-dom';
 import HighlightedText from '../components/HighlightedText.jsx';
-import { fetchPassage } from '../api/client.js';
+import { fetchPassage, fetchDict } from '../api/client.js';
 import { useUIStore, useDictStore } from '../store/index.js';
 import { findUnitTitle } from '../utils/helpers.js';
 
 // 文章页：迁移自 app.js renderPassage / renderPassageContent
-// 顶栏 + 正文（每段英文用 HighlightedText 渲染，词点击 → 跳 /dict?word=）
+// 顶栏 + 正文（每段英文用 HighlightedText 渲染，词点击 → 新标签页打开 /dict?word=）
+//
+// ★点击单词用 window.open 新标签页打开（与旧版 app.js openDictPage 一致）
+//   - 主标签页（文章页）不被销毁，滚动位置浏览器天然保留
+//   - React Router 内 navigate 会卸载 Passage 组件导致滚动丢失，弃用
+//   - 同时预热词典缓存：拉到的数据塞 zustand，dict 新标签页打开后命中零延迟
 export default function Passage() {
   const { bookId, pid } = useParams();
-  const navigate = useNavigate();
   const [state, setState] = useState({ loading: true, passage: null, error: null });
+  const getDict = useDictStore(s => s.getDict);
   const setDict = useDictStore(s => s.setDict);
 
   useEffect(() => {
@@ -27,19 +32,24 @@ export default function Passage() {
       .catch(e => setState({ loading: false, passage: null, error: e.message }));
   }, [bookId, pid]);
 
-  // 单词点击 → 跳 /dict?word=（新标签页打开）
+  // 单词点击 → 新标签页打开 /dict?word=（与旧版一致）
   function handleWordClick(e, word) {
     e.stopPropagation();
-    // 脉冲动画（与旧版一致）
+    // 脉冲动画
     const target = e.currentTarget;
     target.classList.remove('pulsed');
     void target.offsetWidth;
     target.classList.add('pulsed');
-    if (word) {
-      // 兜底查词典并写缓存（dict 页会读这个缓存命中加速）
-      const w = String(word).toLowerCase().trim();
-      navigate(`/dict?word=${encodeURIComponent(w)}`);
+    if (!word) return;
+
+    const w = String(word).toLowerCase().trim();
+    // 预热词典缓存：未命中则后台拉取写入 zustand，dict 新标签页打开后命中零延迟
+    if (!getDict(w)) {
+      fetchDict(w).then(data => setDict(w, data)).catch(() => {});
     }
+    // 新标签页打开（不被弹窗拦截：用户点击触发，浏览器允许）
+    const url = `#/dict?word=${encodeURIComponent(w)}`;
+    window.open(url, '_blank');
   }
 
   if (state.loading) {
