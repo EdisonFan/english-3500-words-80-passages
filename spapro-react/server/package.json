@@ -1,0 +1,23 @@
+{
+  "name": "spapro-server",
+  "version": "1.0.0",
+  "description": "spapro React 重构后端 (Egg.js)",
+  "private": true,
+  "dependencies": {
+    "egg": "^3.29.0",
+    "egg-cors": "^3.0.1",
+    "https-proxy-agent": "^9.1.0"
+  },
+  "scripts": {
+    "dev": "egg-bin dev",
+    "start": "egg-scripts start --daemon --title=spapro-server",
+    "stop": "egg-scripts stop --title=spapro-server"
+  },
+  "devDependencies": {
+    "egg-bin": "^6.7.0"
+  },
+  "egg": {
+    "framework": null,
+    "declarations": false
+  }
+}

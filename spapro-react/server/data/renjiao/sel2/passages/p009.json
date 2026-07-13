@@ -1,0 +1,592 @@
+{
+  "id": 1,
+  "stats": {
+    "words": 341,
+    "core": 9
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "The skin is an essential part of your body and is its largest {organ}. Your skin acts as a barrier against disease, toxins, and the sun's rays. It also helps control your body temperature, prevents your body from losing too much water, warns you when things are too hot or cold, and gives you your sense of touch. As you can imagine, getting burnt can lead to very serious injuries. The first and most important step in the treatment of burns is giving first aid. You can get burnt by a variety of things: hot liquids, steam, fire, {radiation}, the sun, electricity, acids, or other chemicals. Burns are divided into three types, depending on the depth of skin damage. **First-degree burns** — These affect only the top few millimetres of the skin. These burns are not serious. Examples include mild sunburn and burns caused by other {minor} household incidents. **Second-degree burns** — These go below the top {layer} of the skin. They are serious and take a few weeks to get better. Examples include burns caused by hot liquids. **Third-degree burns** — These affect every {layer} of the skin, and sometimes the tissue under it. Examples include burns caused by {electric} shocks, burning clothes, or petrol fires. These burns cause very severe internal injuries and the {victim} must go to the hospital at once. 1. Place burns under cool running water, especially within the first ten minutes. The cool water stops the burning process and reduces the pain and swelling. 2. Dry the burnt area gently with a clean cloth. 3. Remove any clothes using scissors if necessary, unless you see the {fabric} sticking to the burnt skin. 4. Cover the burnt area with a {loose} clean cloth. Applying oil to the injured areas is a bad idea, as it will keep the heat in the wounds and may cause infection. 5. If burns are on the face, make sure the {victim} can still breathe. 6. If the {victim} is suffering from second or third-degree burns, there is an {urgent} need to take him/her to the hospital at once.",
+      "cn": "**第一部分 · 皮肤**：皮肤是人体的重要组成部分，也是人体最大的器官。你的皮肤是抵御疾病、毒素和阳光的屏障。它还有助于控制体温，防止身体失去太多的水分，当东西太热或太冷时，给你警告，并使你有触觉。正如你想象的那样，烧伤会导致非常严重的伤害。治疗烧伤的第一步也是最重要的一步是进行急救。 **第二部分 · 烧伤的原因**：你会被各种各样的东西灼伤：热的液体、蒸汽、火、辐射、太阳、电、酸或其他化学物质。 **第三部分 · 烧伤的种类**：根据皮肤损伤的深度，烧伤分为三类。**一度烧伤**：仅伤及最上层几毫米的皮肤。此类烧伤并不严重，如轻度的晒伤和其他轻微家庭事故造成的烧伤。**二度烧伤**：伤及最上层皮肤以下的部位。此类烧伤较为严重，需要数周时间才能康复，如灼热的液体造成的烧伤。**三度烧伤**：伤及每一层皮肤，有时甚至伤及皮下组织，如因电击灼伤、衣服着火造成的烧伤，或汽油起火造成的烧伤。此类烧伤会引起非常严重的内部损伤，伤者必须立即送往医院。 **第四部分 · 烧伤的特点**：| | 一度烧伤 | 二度烧伤 | 三度烧伤 | |---|---|---|---| | **外观** | 干燥、发红、微肿 | 发红、肿胀；起水疱；表层渗液 | 皮肤发黑或变白；肿胀；通常可见皮下组织 | | **疼痛感** | 微痛；受压时变白 | 极度疼痛 | 如神经受损，则微痛或无痛感；创面边缘或有痛感 | **第五部分 · 急救处理**：1. 将烧伤部位放在流动的冷水下冲洗，尤其在前十分钟。冷水冲洗可阻止烧伤进程，缓解疼痛和肿胀。2. 用干净的布轻轻吸干烧伤部位的水分。3. 如有必要，用剪刀剪掉烧伤部位的衣服，除非衣服与被烧伤的皮肤粘连在一起。4. 用宽松干净的布盖住烧伤部位。在受伤处涂抹油膏不可取，因为这会阻碍伤口散热，而且可能引发感染。5. 如果烧伤部位在脸上，应确保伤者仍可呼吸。6. 如果伤者是二度或三度烧伤，必须立刻送往医院。"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "technique",
+      "type": "outline",
+      "phonetic": "/tekˈniːk/",
+      "pos": "n.",
+      "meaning": "技能；技术；技艺",
+      "ctx": "技术"
+    },
+    {
+      "word": "leaflet",
+      "type": "outline",
+      "phonetic": "/ˈliːflɪt/",
+      "pos": "n.",
+      "meaning": "散页印刷品；传单；小册子",
+      "ctx": "小册子"
+    },
+    {
+      "word": "organ",
+      "type": "core",
+      "phonetic": "/ˈɔːɡən/",
+      "pos": "n.",
+      "meaning": "（人或动植物的）器官",
+      "ctx": "器官"
+    },
+    {
+      "word": "toxin",
+      "type": "outline",
+      "phonetic": "/ˈtɒksɪn/",
+      "pos": "n.",
+      "meaning": "毒素",
+      "ctx": "毒素"
+    },
+    {
+      "word": "ray",
+      "type": "outline",
+      "phonetic": "/reɪ/",
+      "pos": "n.",
+      "meaning": "光线；光束；射线",
+      "ctx": "射线"
+    },
+    {
+      "word": "sense of touch",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "触觉",
+      "ctx": "触觉"
+    },
+    {
+      "word": "radiation",
+      "type": "core",
+      "phonetic": "/ˌreɪdiˈeɪʃn/",
+      "pos": "n.",
+      "meaning": "辐射；放射线",
+      "ctx": "辐射"
+    },
+    {
+      "word": "acid",
+      "type": "outline",
+      "phonetic": "/ˈæsɪd/",
+      "pos": "n. / adj.",
+      "meaning": "酸 / 酸的；酸性的",
+      "ctx": "酸"
+    },
+    {
+      "word": "millimetre",
+      "type": "outline",
+      "phonetic": "/ˈmɪliˌmiːtə/",
+      "pos": "n.",
+      "meaning": "毫米",
+      "ctx": "毫米"
+    },
+    {
+      "word": "layer",
+      "type": "core",
+      "phonetic": "/ˈleɪə/",
+      "pos": "n.",
+      "meaning": "层；表层；层次",
+      "ctx": "层"
+    },
+    {
+      "word": "minor",
+      "type": "core",
+      "phonetic": "/ˈmaɪnə/",
+      "pos": "adj.",
+      "meaning": "较小的；次要的；轻微的",
+      "ctx": "轻微的"
+    },
+    {
+      "word": "electric",
+      "type": "core",
+      "phonetic": "/ɪˈlektrɪk/",
+      "pos": "adj.",
+      "meaning": "电的；用电的；电动的",
+      "ctx": "电的"
+    },
+    {
+      "word": "electric shock",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "触电；电击",
+      "ctx": "电击"
+    },
+    {
+      "word": "victim",
+      "type": "core",
+      "phonetic": "/ˈvɪktɪm/",
+      "pos": "n.",
+      "meaning": "受害者；患者",
+      "ctx": "伤者"
+    },
+    {
+      "word": "swell",
+      "type": "outline",
+      "phonetic": "/swel/",
+      "pos": "vi.",
+      "meaning": "膨胀；肿胀",
+      "ctx": "肿胀"
+    },
+    {
+      "word": "swollen",
+      "type": "outline",
+      "phonetic": "/ˈswəʊlən/",
+      "pos": "adj.",
+      "meaning": "（身体部位）肿起的；肿胀的",
+      "ctx": "肿胀的"
+    },
+    {
+      "word": "blister",
+      "type": "outline",
+      "phonetic": "/ˈblɪstə/",
+      "pos": "n.",
+      "meaning": "水疱",
+      "ctx": "水疱"
+    },
+    {
+      "word": "underneath",
+      "type": "outline",
+      "phonetic": "/ˌʌndəˈniːθ/",
+      "pos": "prep. / adv.",
+      "meaning": "在……底下；隐藏在下面",
+      "ctx": "在……底下"
+    },
+    {
+      "word": "nerve",
+      "type": "outline",
+      "phonetic": "/nɜːv/",
+      "pos": "n.",
+      "meaning": "神经",
+      "ctx": "神经"
+    },
+    {
+      "word": "fabric",
+      "type": "core",
+      "phonetic": "/ˈfæbrɪk/",
+      "pos": "n.",
+      "meaning": "织物；布料",
+      "ctx": "布料"
+    },
+    {
+      "word": "loose",
+      "type": "core",
+      "phonetic": "/luːs/",
+      "pos": "adj.",
+      "meaning": "松的；未系紧的；宽松的",
+      "ctx": "宽松的"
+    },
+    {
+      "word": "urgent",
+      "type": "core",
+      "phonetic": "/ˈɜːdʒənt/",
+      "pos": "adj.",
+      "meaning": "紧急的；急迫的",
+      "ctx": "紧急的"
+    },
+    {
+      "word": "ease",
+      "type": "outline",
+      "phonetic": "/iːz/",
+      "pos": "vi. / vt. / n.",
+      "meaning": "（使）宽慰；减轻；缓解",
+      "ctx": "缓解"
+    },
+    {
+      "word": "paramedic",
+      "type": "outline",
+      "phonetic": "/ˌpærəˈmedɪk/",
+      "pos": "n.",
+      "meaning": "急救医生；护理人员",
+      "ctx": "急救人员"
+    },
+    {
+      "word": "swallow",
+      "type": "outline",
+      "phonetic": "/ˈswɒləʊ/",
+      "pos": "vt. / vi.",
+      "meaning": "吞下；咽下",
+      "ctx": "吞下"
+    },
+    {
+      "word": "wrap",
+      "type": "outline",
+      "phonetic": "/ræp/",
+      "pos": "vt.",
+      "meaning": "包、裹；（用手臂等）围住",
+      "ctx": "包裹"
+    },
+    {
+      "word": "bathtub",
+      "type": "outline",
+      "phonetic": "/ˈbɑːθtʌb/",
+      "pos": "n.",
+      "meaning": "浴缸；浴盆",
+      "ctx": "浴缸"
+    },
+    {
+      "word": "slip",
+      "type": "outline",
+      "phonetic": "/slɪp/",
+      "pos": "vi. / n.",
+      "meaning": "滑倒；滑落；溜走",
+      "ctx": "滑倒"
+    },
+    {
+      "word": "mosquito",
+      "type": "outline",
+      "phonetic": "/məˈskiːtəʊ/",
+      "pos": "n.",
+      "meaning": "蚊子",
+      "ctx": "蚊子"
+    },
+    {
+      "word": "elderly",
+      "type": "outline",
+      "phonetic": "/ˈeldəli/",
+      "pos": "adj.",
+      "meaning": "年纪较大的；上了年纪的",
+      "ctx": "上了年纪的"
+    },
+    {
+      "word": "carpet",
+      "type": "outline",
+      "phonetic": "/ˈkɑːpɪt/",
+      "pos": "n.",
+      "meaning": "地毯",
+      "ctx": "地毯"
+    },
+    {
+      "word": "operator",
+      "type": "outline",
+      "phonetic": "/ˈɒpəreɪtə/",
+      "pos": "n.",
+      "meaning": "电话接线员；操作员",
+      "ctx": "接线员"
+    },
+    {
+      "word": "ambulance",
+      "type": "outline",
+      "phonetic": "/ˈæmbjələns/",
+      "pos": "n.",
+      "meaning": "救护车",
+      "ctx": "救护车"
+    },
+    {
+      "word": "delay",
+      "type": "outline",
+      "phonetic": "/dɪˈleɪ/",
+      "pos": "vi. / vt. / n.",
+      "meaning": "推迟；延期；耽误",
+      "ctx": "耽误"
+    },
+    {
+      "word": "needle",
+      "type": "outline",
+      "phonetic": "/ˈniːdl/",
+      "pos": "n.",
+      "meaning": "针；注射针；指针",
+      "ctx": "针"
+    },
+    {
+      "word": "ward",
+      "type": "outline",
+      "phonetic": "/wɔːd/",
+      "pos": "n.",
+      "meaning": "病房",
+      "ctx": "病房"
+    },
+    {
+      "word": "drown",
+      "type": "outline",
+      "phonetic": "/draʊn/",
+      "pos": "vi. / vt.",
+      "meaning": "（使）淹死；溺死；淹没",
+      "ctx": "溺死"
+    },
+    {
+      "word": "sprain",
+      "type": "outline",
+      "phonetic": "/spreɪn/",
+      "pos": "vt. / n.",
+      "meaning": "扭伤（关节）；扭伤",
+      "ctx": "扭伤"
+    },
+    {
+      "word": "ankle",
+      "type": "outline",
+      "phonetic": "/ˈæŋkl/",
+      "pos": "n.",
+      "meaning": "踝；踝关节",
+      "ctx": "踝关节"
+    },
+    {
+      "word": "bleed",
+      "type": "outline",
+      "phonetic": "/bliːd/",
+      "pos": "vi.",
+      "meaning": "流血；失血",
+      "ctx": "流血"
+    },
+    {
+      "word": "bleeding",
+      "type": "outline",
+      "phonetic": "/ˈbliːdɪŋ/",
+      "pos": "n.",
+      "meaning": "流血；失血",
+      "ctx": "流血"
+    },
+    {
+      "word": "panic",
+      "type": "outline",
+      "phonetic": "/ˈpænɪk/",
+      "pos": "vi. / vt. / n.",
+      "meaning": "（使）惊慌；惊恐；恐慌",
+      "ctx": "惊慌"
+    },
+    {
+      "word": "scream",
+      "type": "outline",
+      "phonetic": "/skriːm/",
+      "pos": "vi. / vt. / n.",
+      "meaning": "高声喊；大声叫；尖叫",
+      "ctx": "尖叫"
+    },
+    {
+      "word": "choke",
+      "type": "outline",
+      "phonetic": "/tʃəʊk/",
+      "pos": "vi. / vt.",
+      "meaning": "（使）窒息；（使）哽咽",
+      "ctx": "窒息"
+    },
+    {
+      "word": "slap",
+      "type": "outline",
+      "phonetic": "/slæp/",
+      "pos": "vt. / n.",
+      "meaning": "（用手掌）打、拍；拍击声",
+      "ctx": "拍打"
+    },
+    {
+      "word": "obstruction",
+      "type": "outline",
+      "phonetic": "/əbˈstrʌkʃən/",
+      "pos": "n.",
+      "meaning": "阻碍；堵塞；阻塞物",
+      "ctx": "堵塞"
+    },
+    {
+      "word": "fist",
+      "type": "outline",
+      "phonetic": "/fɪst/",
+      "pos": "n.",
+      "meaning": "拳；拳头",
+      "ctx": "拳头"
+    },
+    {
+      "word": "grab",
+      "type": "outline",
+      "phonetic": "/ɡræb/",
+      "pos": "vt. / n.",
+      "meaning": "抓住；攫取；抓取",
+      "ctx": "抓住"
+    },
+    {
+      "word": "motion",
+      "type": "outline",
+      "phonetic": "/ˈməʊʃən/",
+      "pos": "n.",
+      "meaning": "运动；移动",
+      "ctx": "移动"
+    },
+    {
+      "word": "welfare",
+      "type": "outline",
+      "phonetic": "/ˈwelfeə/",
+      "pos": "n.",
+      "meaning": "幸福；福祉；安康；福利",
+      "ctx": "福祉"
+    },
+    {
+      "word": "collapse",
+      "type": "outline",
+      "phonetic": "/kəˈlæps/",
+      "pos": "vi.",
+      "meaning": "（突然）倒塌；（因病等）昏倒",
+      "ctx": "昏倒"
+    },
+    {
+      "word": "manual",
+      "type": "outline",
+      "phonetic": "/ˈmænjuəl/",
+      "pos": "adj. / n.",
+      "meaning": "体力的；手控的 / 使用手册",
+      "ctx": "体力的"
+    },
+    {
+      "word": "suburb",
+      "type": "outline",
+      "phonetic": "/ˈsʌbɜːb/",
+      "pos": "n.",
+      "meaning": "郊区；城外",
+      "ctx": "郊区"
+    },
+    {
+      "word": "membership",
+      "type": "outline",
+      "phonetic": "/ˈmembəʃɪp/",
+      "pos": "n.",
+      "meaning": "全体会员；会员身份",
+      "ctx": "会员身份"
+    },
+    {
+      "word": "fellow",
+      "type": "outline",
+      "phonetic": "/ˈfeləʊ/",
+      "pos": "adj. / n.",
+      "meaning": "同类的；同事的 / 男人；家伙；同事",
+      "ctx": "同事的"
+    },
+    {
+      "word": "diner",
+      "type": "outline",
+      "phonetic": "/ˈdaɪnə/",
+      "pos": "n.",
+      "meaning": "（尤指餐馆的）就餐者",
+      "ctx": "就餐者"
+    },
+    {
+      "word": "steak",
+      "type": "outline",
+      "phonetic": "/steɪk/",
+      "pos": "n.",
+      "meaning": "牛排；肉排",
+      "ctx": "牛排"
+    },
+    {
+      "word": "throat",
+      "type": "outline",
+      "phonetic": "/θrəʊt/",
+      "pos": "n.",
+      "meaning": "咽喉；喉咙",
+      "ctx": "喉咙"
+    },
+    {
+      "word": "desperate",
+      "type": "outline",
+      "phonetic": "/ˈdespərət/",
+      "pos": "adj.",
+      "meaning": "绝望的；孤注一掷的",
+      "ctx": "绝望的"
+    },
+    {
+      "word": "interrupt",
+      "type": "outline",
+      "phonetic": "/ˌɪntəˈrʌpt/",
+      "pos": "vi. / vt.",
+      "meaning": "打断；打扰；使中断",
+      "ctx": "打断"
+    },
+    {
+      "word": "tight",
+      "type": "outline",
+      "phonetic": "/taɪt/",
+      "pos": "adj. / adv.",
+      "meaning": "紧身的；牢固的 / 紧紧地",
+      "ctx": "紧身的"
+    },
+    {
+      "word": "justify",
+      "type": "outline",
+      "phonetic": "/ˈdʒʌstɪfaɪ/",
+      "pos": "vt.",
+      "meaning": "证明……有道理；为……辩护",
+      "ctx": "证明……有道理"
+    },
+    {
+      "word": "fog",
+      "type": "outline",
+      "phonetic": "/fɒɡ/",
+      "pos": "n.",
+      "meaning": "雾；迷惑；困惑",
+      "ctx": "雾"
+    },
+    {
+      "word": "practice",
+      "type": "outline",
+      "phonetic": "/ˈpræktɪs/",
+      "pos": "n.",
+      "meaning": "练习；实践；惯例",
+      "ctx": "实践"
+    },
+    {
+      "word": "first aid",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "（对伤患者的）急救",
+      "ctx": "急救"
+    },
+    {
+      "word": "a variety of",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "各种各样的",
+      "ctx": "各种各样的"
+    },
+    {
+      "word": "stick to",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "坚持；粘住",
+      "ctx": "粘住"
+    },
+    {
+      "word": "ease pain",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "减轻疼痛",
+      "ctx": "减轻疼痛"
+    },
+    {
+      "word": "help sb to one's feet",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "帮助某人站起身来",
+      "ctx": "帮助某人站起身来"
+    },
+    {
+      "word": "face up/down",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "面朝上（朝下）",
+      "ctx": "面朝上（朝下）"
+    },
+    {
+      "word": "stand by",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "袖手旁观",
+      "ctx": "袖手旁观"
+    },
+    {
+      "word": "every minute counts",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "分秒必争",
+      "ctx": "分秒必争"
+    }
+  ]
+}

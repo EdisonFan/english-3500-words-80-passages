@@ -1,0 +1,473 @@
+{
+  "id": 1,
+  "stats": {
+    "words": 358,
+    "core": 15
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "**PERU** Peru is a country on the Pacific coast of South America with three main areas: {narrow}, dry, {flat} land running along the coast, the Andes Mountains, and the Amazon rainforest. In the 1400s and 1500s, Peru was the centre of the {powerful} ancient Inca {Empire}. The Inca {emperor} lived in the now-famous {site} Machu Picchu. Spain took control of Peru in the 16th century and ruled until 1821. It is for this reason that Spanish is the main {official} language of Peru.",
+      "cn": "**秘鲁**：秘鲁是位于南美洲太平洋海岸的国家，主要有三个地区：狭窄、干燥、平坦的沿海陆地，安第斯山脉，以及亚马孙雨林。在 15、16 世纪，秘鲁是强大的古印加帝国的中心。印加皇帝居住在如今著名的马丘比丘遗址。西班牙于 16 世纪控制了秘鲁，并一直统治到 1821 年。正因为如此，西班牙语才是秘鲁的主要官方语言。"
+    },
+    {
+      "num": "02",
+      "en": "**Amazon Rainforest Tour** A short {flight} from Cusco takes you from the Andes into the Amazon rainforest. From there, you'll spend one day travelling by boat to your {accommodation} in the middle of the forest. You can then spend three days exploring the rainforest with a local guide and enjoying the plants and animals {unique} to the rainforest.",
+      "cn": "**亚马孙雨林之旅**：从库斯科出发的一趟短途航班将带你从安第斯山脉进入亚马孙雨林。从那里，你将花一天时间乘船前往位于森林深处的住处。随后你可以在当地导游的陪同下，用三天时间探索雨林，欣赏雨林特有的动植物。"
+    },
+    {
+      "num": "03",
+      "en": "**Machu Picchu Tour** This four-day walking tour will take you on {amazing} paths through the Andes Mountains on the way to the city of Machu Picchu. After reaching your {destination}, you will have a day to explore and be {amazed} by this ancient city. Especially {amazing} is the Incas' dry stone method of building. Inca builders cut stones to exact sizes so that nothing was needed to hold walls together other than the perfect fit of the stones.",
+      "cn": "**马丘比丘之旅**：这次为期四天的徒步旅行将带你踏上穿越安第斯山脉、通往马丘比丘古城的神奇之路。到达目的地后，你将有一天时间探索这座令人惊叹的古城。尤其令人称奇的是印加人干式石头砌筑法。印加建筑工人把石头切割成精确的尺寸，除却石头之间完美的契合，不再需要任何东西来使墙体稳固。"
+    },
+    {
+      "num": "04",
+      "en": "**Cusco Tour** Spend four days enjoying the {unique} Spanish and local Indian culture high in the Andes at Cusco, the capital of the Inca {Empire} from the 13th until the 16th century. Stay in a local hotel, visit the museums, {admire} the {architecture}, enjoy the excellent local food, and go shopping at the local markets.",
+      "cn": "**库斯科之旅**：在安第斯山脉高处的库斯科，花四天时间享受独特的西班牙与当地印第安文化——库斯科是 13 世纪至 16 世纪印加帝国的首都。入住当地旅馆，参观博物馆，欣赏建筑，品尝当地美食，并在当地集市购物。"
+    },
+    {
+      "num": "05",
+      "en": "**Lake Titicaca Tour** Enjoy the beautiful countryside as you spend a day driving along the new highway connecting Cusco to Lake Titicaca. There, a boat will take you to stay with a local Uros family on an island for three days. Both the island and the Uros homes are made of water plants from the lake.",
+      "cn": "**的的喀喀湖之旅**：沿着连接库斯科与的的喀喀湖的新公路驱车一日，欣赏美丽的乡村风光。在那里，一艘小船将带你去湖中一座小岛，与当地的乌鲁斯人家庭同住三天。小岛和乌鲁斯人的房屋都是由湖中的水生植物建成的。"
+    },
+    {
+      "num": "06",
+      "en": "So come and experience what Peru has to offer: everything from the ancient Inca culture and centuries-old Spanish villages to deep rainforests, high mountains, and a beautiful coastline.",
+      "cn": "所以，来体验秘鲁所能提供的一切吧：从古老的印加文化、数百年历史的西班牙村庄，到深邃的雨林、高耸的山脉和美丽的海岸线。"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "castle",
+      "type": "outline",
+      "ctx": "城堡",
+      "phonetic": "/ˈkɑːsl/",
+      "pos": "n.",
+      "meaning": "城堡；堡垒"
+    },
+    {
+      "word": "apply",
+      "type": "outline",
+      "ctx": "申请；应用",
+      "phonetic": "/əˈplaɪ/",
+      "pos": "vi. & vt.",
+      "meaning": "申请；请求；应用"
+    },
+    {
+      "word": "apply for",
+      "type": "outline",
+      "ctx": "申请",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "申请"
+    },
+    {
+      "word": "visa",
+      "type": "outline",
+      "ctx": "签证",
+      "phonetic": "/ˈviːzə/",
+      "pos": "n.",
+      "meaning": "签证"
+    },
+    {
+      "word": "rent",
+      "type": "outline",
+      "ctx": "租用；租金",
+      "phonetic": "/rent/",
+      "pos": "vt. / vi. / n.",
+      "meaning": "租用；出租；租金"
+    },
+    {
+      "word": "pack",
+      "type": "outline",
+      "ctx": "收拾（行李）",
+      "phonetic": "/pæk/",
+      "pos": "vi. & vt. / n.",
+      "meaning": "收拾（行李）；包装"
+    },
+    {
+      "word": "amazing",
+      "type": "core",
+      "ctx": "令人惊奇的",
+      "phonetic": "/əˈmeɪzɪŋ/",
+      "pos": "adj.",
+      "meaning": "令人惊奇的；令人惊喜的"
+    },
+    {
+      "word": "amazed",
+      "type": "core",
+      "ctx": "惊叹的",
+      "phonetic": "/əˈmeɪzd/",
+      "pos": "adj.",
+      "meaning": "惊奇的；惊喜的"
+    },
+    {
+      "word": "arrangement",
+      "type": "outline",
+      "ctx": "安排",
+      "phonetic": "/əˈreɪndʒmənt/",
+      "pos": "n.",
+      "meaning": "安排；筹备"
+    },
+    {
+      "word": "extremely",
+      "type": "outline",
+      "ctx": "极其",
+      "phonetic": "/ɪkˈstriːmli/",
+      "pos": "adv.",
+      "meaning": "极其；非常"
+    },
+    {
+      "word": "source",
+      "type": "outline",
+      "ctx": "来源",
+      "phonetic": "/sɔːs/",
+      "pos": "n.",
+      "meaning": "来源；出处"
+    },
+    {
+      "word": "narrow",
+      "type": "core",
+      "ctx": "狭窄的",
+      "phonetic": "/ˈnærəʊ/",
+      "pos": "adj. / vi. & vt.",
+      "meaning": "狭窄的；（使）变窄"
+    },
+    {
+      "word": "flat",
+      "type": "core",
+      "ctx": "平坦的",
+      "phonetic": "/flæt/",
+      "pos": "adj. / n.",
+      "meaning": "平坦的；公寓"
+    },
+    {
+      "word": "powerful",
+      "type": "core",
+      "ctx": "强大的",
+      "phonetic": "/ˈpaʊəfl/",
+      "pos": "adj.",
+      "meaning": "强有力的；有权势的"
+    },
+    {
+      "word": "empire",
+      "type": "core",
+      "ctx": "帝国",
+      "phonetic": "/ˈempaɪə(r)/",
+      "pos": "n.",
+      "meaning": "帝国"
+    },
+    {
+      "word": "emperor",
+      "type": "core",
+      "ctx": "皇帝",
+      "phonetic": "/ˈempərə(r)/",
+      "pos": "n.",
+      "meaning": "皇帝"
+    },
+    {
+      "word": "site",
+      "type": "core",
+      "ctx": "遗址",
+      "phonetic": "/saɪt/",
+      "pos": "n.",
+      "meaning": "地点；位置；现场"
+    },
+    {
+      "word": "take control of",
+      "type": "outline",
+      "ctx": "控制；接管",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "控制；接管"
+    },
+    {
+      "word": "official",
+      "type": "core",
+      "ctx": "官方的",
+      "phonetic": "/əˈfɪʃl/",
+      "pos": "adj. / n.",
+      "meaning": "官方的；正式的；官员"
+    },
+    {
+      "word": "recognise (NAmE -ize)",
+      "type": "outline",
+      "ctx": "辨别；认可",
+      "phonetic": "/ˈrekəgnaɪz/",
+      "pos": "vt.",
+      "meaning": "辨别出；承认；认可"
+    },
+    {
+      "word": "type",
+      "type": "outline",
+      "ctx": "类型；打字",
+      "phonetic": "/taɪp/",
+      "pos": "n. / vi. & vt.",
+      "meaning": "类型；打字"
+    },
+    {
+      "word": "flight",
+      "type": "core",
+      "ctx": "航班",
+      "phonetic": "/flaɪt/",
+      "pos": "n.",
+      "meaning": "航班；航程"
+    },
+    {
+      "word": "accommodation",
+      "type": "core",
+      "ctx": "住处",
+      "phonetic": "/əˌkɒməˈdeɪʃn/",
+      "pos": "n.",
+      "meaning": "住处；膳宿"
+    },
+    {
+      "word": "unique",
+      "type": "core",
+      "ctx": "独特的；特有的",
+      "phonetic": "/juˈniːk/",
+      "pos": "adj.",
+      "meaning": "唯一的；独特的"
+    },
+    {
+      "word": "path",
+      "type": "outline",
+      "ctx": "小路；道路",
+      "phonetic": "/pɑːθ/",
+      "pos": "n.",
+      "meaning": "小路；路线；道路"
+    },
+    {
+      "word": "destination",
+      "type": "core",
+      "ctx": "目的地",
+      "phonetic": "/ˌdestɪˈneɪʃn/",
+      "pos": "n.",
+      "meaning": "目的地；终点"
+    },
+    {
+      "word": "other than",
+      "type": "outline",
+      "ctx": "除……以外",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "除……以外"
+    },
+    {
+      "word": "admire",
+      "type": "core",
+      "ctx": "欣赏",
+      "phonetic": "/ədˈmaɪə(r)/",
+      "pos": "vt.",
+      "meaning": "钦佩；赞赏；欣赏"
+    },
+    {
+      "word": "architecture",
+      "type": "core",
+      "ctx": "建筑（风格）",
+      "phonetic": "/ˈɑːkɪtektʃə(r)/",
+      "pos": "n.",
+      "meaning": "建筑学；建筑风格"
+    },
+    {
+      "word": "architect",
+      "type": "outline",
+      "ctx": "建筑设计师",
+      "phonetic": "/ˈɑːkɪtekt/",
+      "pos": "n.",
+      "meaning": "建筑设计师"
+    },
+    {
+      "word": "brochure",
+      "type": "outline",
+      "ctx": "宣传手册",
+      "phonetic": "/ˈbrəʊʃə(r)/",
+      "pos": "n.",
+      "meaning": "资料（或广告）手册"
+    },
+    {
+      "word": "package",
+      "type": "outline",
+      "ctx": "包裹；包装",
+      "phonetic": "/ˈpækɪdʒ/",
+      "pos": "n. / vt.",
+      "meaning": "包裹；包装"
+    },
+    {
+      "word": "package tour",
+      "type": "outline",
+      "ctx": "包价旅游",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "包价旅游"
+    },
+    {
+      "word": "contact",
+      "type": "outline",
+      "ctx": "联络；联系",
+      "phonetic": "/ˈkɒntækt/",
+      "pos": "vt. / n.",
+      "meaning": "联络；联系"
+    },
+    {
+      "word": "civilisation (NAmE -ization)",
+      "type": "outline",
+      "ctx": "文明",
+      "phonetic": "/ˌsɪvəlaɪˈzeɪʃn/",
+      "pos": "n.",
+      "meaning": "文明；人类文明"
+    },
+    {
+      "word": "make up",
+      "type": "outline",
+      "ctx": "构成；形成",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "构成；形成"
+    },
+    {
+      "word": "soldier",
+      "type": "outline",
+      "ctx": "士兵",
+      "phonetic": "/ˈsəʊldʒə(r)/",
+      "pos": "n.",
+      "meaning": "士兵；军人"
+    },
+    {
+      "word": "transport",
+      "type": "outline",
+      "ctx": "交通运输；运输",
+      "phonetic": "/ˈtrænspɔːt/",
+      "pos": "n. / vt.",
+      "meaning": "交通运输系统；运输"
+    },
+    {
+      "word": "hike",
+      "type": "outline",
+      "ctx": "徒步旅行",
+      "phonetic": "/haɪk/",
+      "pos": "vi. / vt. / n.",
+      "meaning": "徒步旅行；远足"
+    },
+    {
+      "word": "economy",
+      "type": "outline",
+      "ctx": "经济",
+      "phonetic": "/ɪˈkɒnəmi/",
+      "pos": "n.",
+      "meaning": "经济；节约"
+    },
+    {
+      "word": "economic",
+      "type": "outline",
+      "ctx": "经济（上）的",
+      "phonetic": "/ˌiːkəˈnɒmɪk/",
+      "pos": "adj.",
+      "meaning": "经济（上）的；经济学的"
+    },
+    {
+      "word": "credit",
+      "type": "outline",
+      "ctx": "信用；借款",
+      "phonetic": "/ˈkredɪt/",
+      "pos": "n.",
+      "meaning": "借款；信用；学分"
+    },
+    {
+      "word": "credit card",
+      "type": "outline",
+      "ctx": "信用卡",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "信用卡"
+    },
+    {
+      "word": "detail",
+      "type": "outline",
+      "ctx": "细节；详情",
+      "phonetic": "/ˈdiːteɪl/",
+      "pos": "n.",
+      "meaning": "细节；详情"
+    },
+    {
+      "word": "check in",
+      "type": "outline",
+      "ctx": "登记（入住）",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "（旅馆、机场等）登记"
+    },
+    {
+      "word": "check out",
+      "type": "outline",
+      "ctx": "结账离开",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "结账离开（旅馆等）"
+    },
+    {
+      "word": "request",
+      "type": "outline",
+      "ctx": "要求；请求",
+      "phonetic": "/rɪˈkwest/",
+      "pos": "n. / vt.",
+      "meaning": "要求；请求"
+    },
+    {
+      "word": "view",
+      "type": "outline",
+      "ctx": "视野；景色",
+      "phonetic": "/vjuː/",
+      "pos": "n.",
+      "meaning": "视野；景色；看法"
+    },
+    {
+      "word": "sight",
+      "type": "outline",
+      "ctx": "景象；视力",
+      "phonetic": "/saɪt/",
+      "pos": "n.",
+      "meaning": "景象；视野；视力"
+    },
+    {
+      "word": "statue",
+      "type": "outline",
+      "ctx": "雕像",
+      "phonetic": "/ˈstætʃuː/",
+      "pos": "n.",
+      "meaning": "雕塑；雕像"
+    },
+    {
+      "word": "BCE",
+      "type": "outline",
+      "ctx": "公元前",
+      "phonetic": "/ˌbiː siː ˈiː/",
+      "pos": "—",
+      "meaning": "公元前"
+    },
+    {
+      "word": "tomb",
+      "type": "outline",
+      "ctx": "坟墓",
+      "phonetic": "/tuːm/",
+      "pos": "n.",
+      "meaning": "坟墓"
+    },
+    {
+      "word": "unearth",
+      "type": "outline",
+      "ctx": "挖掘；发掘",
+      "phonetic": "/ʌnˈɜːθ/",
+      "pos": "vt.",
+      "meaning": "挖掘；发掘"
+    },
+    {
+      "word": "comment",
+      "type": "outline",
+      "ctx": "评论",
+      "phonetic": "/ˈkɒment/",
+      "pos": "n. / vi. & vt.",
+      "meaning": "议论；评论"
+    }
+  ]
+}

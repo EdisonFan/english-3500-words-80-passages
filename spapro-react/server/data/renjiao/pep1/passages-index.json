@@ -1,0 +1,125 @@
+{
+  "bookId": "pep1",
+  "passages": [
+    {
+      "id": "p001",
+      "num": 1,
+      "unitId": "u00",
+      "title": "Reading and Thinking",
+      "cnTitle": "FIRST IMPRESSIONS（第一印象）",
+      "preview": "**7:00 a.m.** So this is it — senior high school at last! I'm not outgoing so I'…",
+      "wordCount": 223,
+      "coreCount": 12
+    },
+    {
+      "id": "p002",
+      "num": 2,
+      "unitId": "u00",
+      "title": "Reading for Writing",
+      "cnTitle": "Student Profiles（学生简介范文）",
+      "preview": "**Ann, 15** — Lakeside High School, USA My name is Ann Wells and I'm a Grade 10…",
+      "wordCount": 160,
+      "coreCount": 2
+    },
+    {
+      "id": "p003",
+      "num": 1,
+      "unitId": "u01",
+      "title": "Reading and Thinking",
+      "cnTitle": "THE FRESHMAN CHALLENGE（新生的挑战）",
+      "preview": "Hi! My name is Adam and I'm a freshman at senior high school. Going from junior…",
+      "wordCount": 265,
+      "coreCount": 14
+    },
+    {
+      "id": "p004",
+      "num": 2,
+      "unitId": "u01",
+      "title": "Reading for Writing",
+      "cnTitle": "Letter of Advice（建议信范文）",
+      "preview": "**Dear Worried Friend,** You wrote that you are very worried about your friend,…",
+      "wordCount": 144,
+      "coreCount": 5
+    },
+    {
+      "id": "p005",
+      "num": 1,
+      "unitId": "u02",
+      "title": "Reading and Thinking",
+      "cnTitle": "TRAVEL PERU（秘鲁旅行）",
+      "preview": "**PERU** Peru is a country on the Pacific coast of South America with three main…",
+      "wordCount": 358,
+      "coreCount": 15
+    },
+    {
+      "id": "p006",
+      "num": 2,
+      "unitId": "u02",
+      "title": "Reading for Writing",
+      "cnTitle": "A Travel Plan to Xi'an（给朋友的旅行计划信）",
+      "preview": "Dear Xiao Li, My time here in China is going well. I love my new school and clas…",
+      "wordCount": 212,
+      "coreCount": 2
+    },
+    {
+      "id": "p007",
+      "num": 1,
+      "unitId": "u03",
+      "title": "Reading and Thinking",
+      "cnTitle": "LIVING LEGENDS（活着的传奇）",
+      "preview": "**LIVING LEGENDS** Help us choose some \"Living Legends of Sports\". They must be…",
+      "wordCount": 306,
+      "coreCount": 8
+    },
+    {
+      "id": "p008",
+      "num": 2,
+      "unitId": "u03",
+      "title": "Reading for Writing",
+      "cnTitle": "THE UNDERDOG（弱者）",
+      "preview": "Paul and I were on our school basketball team, The Lions. Paul's favourite playe…",
+      "wordCount": 237,
+      "coreCount": 0
+    },
+    {
+      "id": "p009",
+      "num": 1,
+      "unitId": "u04",
+      "title": "Reading and Thinking",
+      "cnTitle": "THE NIGHT THE EARTH DIDN'T SLEEP（地球的一个不眠之夜）",
+      "preview": "Strange things were happening in the countryside of northeastern Hebei. For seve…",
+      "wordCount": 538,
+      "coreCount": 12
+    },
+    {
+      "id": "p010",
+      "num": 2,
+      "unitId": "u04",
+      "title": "Reading for Writing",
+      "cnTitle": "TSUNAMI HITS ASIA: OVER 6,500 DEAD（海啸袭击亚洲：6500 多人丧生）",
+      "preview": "The most powerful earthquake in the past 40 years caused a tsunami that crashed…",
+      "wordCount": 223,
+      "coreCount": 4
+    },
+    {
+      "id": "p011",
+      "num": 1,
+      "unitId": "u05",
+      "title": "Reading and Thinking",
+      "cnTitle": "THE CHINESE WRITING SYSTEM: CONNECTING THE PAST AND THE PRESENT（汉语书写体系：连接过去与现在）",
+      "preview": "China is widely known for its ancient civilisation which has continued all the w…",
+      "wordCount": 312,
+      "coreCount": 12
+    },
+    {
+      "id": "p012",
+      "num": 2,
+      "unitId": "u05",
+      "title": "Reading for Writing",
+      "cnTitle": "LEARNING ENGLISH（学习英语·论坛讨论）",
+      "preview": "**Wang Le:** Hey, everybody, what are your biggest problems with learning Englis…",
+      "wordCount": 344,
+      "coreCount": 4
+    }
+  ]
+}

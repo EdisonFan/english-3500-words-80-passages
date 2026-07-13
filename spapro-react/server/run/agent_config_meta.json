@@ -1,0 +1,301 @@
+{
+  "cluster": {
+    "listen": {
+      "port": "/workspace/spapro-react/server/config/config.default.js",
+      "hostname": "/workspace/spapro-react/server/config/config.default.js",
+      "path": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js"
+    }
+  },
+  "security": {
+    "csrf": {
+      "enable": "/workspace/spapro-react/server/config/config.default.js",
+      "type": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js",
+      "useSession": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js",
+      "headerName": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js",
+      "queryName": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js",
+      "rotateWhenInvalid": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js",
+      "supportedRequests": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js",
+      "cookieOptions": {
+        "signed": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js"
+      }
+    },
+    "domainWhiteList": "/workspace/spapro-react/server/config/config.default.js",
+    "protocolWhiteList": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js",
+      "value": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/workspace/spapro-react/server/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js",
+      "value": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js",
+      "value": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js",
+      "policy": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js",
+      "hostnameExceptionList": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "cors": {
+    "origin": "/workspace/spapro-react/server/config/config.default.js",
+    "credentials": "/workspace/spapro-react/server/config/config.default.js",
+    "allowMethods": "/workspace/spapro-react/server/config/config.default.js"
+  },
+  "spapro": {
+    "dataDir": "/workspace/spapro-react/server/config/config.default.js",
+    "antLing": {
+      "url": "/workspace/spapro-react/server/config/config.default.js",
+      "apiKey": "/workspace/spapro-react/server/config/config.default.js",
+      "model": "/workspace/spapro-react/server/config/config.default.js"
+    }
+  },
+  "static": {
+    "prefix": "/workspace/spapro-react/server/config/config.default.js",
+    "dir": "/workspace/spapro-react/server/config/config.default.js",
+    "dynamic": "/workspace/spapro-react/server/node_modules/egg-static/config/config.default.js",
+    "preload": "/workspace/spapro-react/server/node_modules/egg-static/config/config.default.js",
+    "buffer": "/workspace/spapro-react/server/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/workspace/spapro-react/server/node_modules/egg-static/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/workspace/spapro-react/server/node_modules/egg-session/config/config.default.js",
+    "key": "/workspace/spapro-react/server/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/workspace/spapro-react/server/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/workspace/spapro-react/server/node_modules/egg-session/config/config.default.js",
+    "logValue": "/workspace/spapro-react/server/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/workspace/spapro-react/server/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/workspace/spapro-react/server/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/workspace/spapro-react/server/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/workspace/spapro-react/server/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/workspace/spapro-react/server/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/workspace/spapro-react/server/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/workspace/spapro-react/server/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/workspace/spapro-react/server/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/workspace/spapro-react/server/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/workspace/spapro-react/server/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/workspace/spapro-react/server/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/workspace/spapro-react/server/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/workspace/spapro-react/server/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/workspace/spapro-react/server/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/workspace/spapro-react/server/node_modules/egg-watcher/config/config.default.js",
+      "development": "/workspace/spapro-react/server/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/workspace/spapro-react/server/node_modules/egg-schedule/config/config.default.js",
+      "file": "/workspace/spapro-react/server/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/workspace/spapro-react/server/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/workspace/spapro-react/server/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/workspace/spapro-react/server/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/workspace/spapro-react/server/node_modules/egg-multipart/config/config.default.js",
+    "defaultParamCharset": "/workspace/spapro-react/server/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/workspace/spapro-react/server/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/workspace/spapro-react/server/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/workspace/spapro-react/server/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/workspace/spapro-react/server/node_modules/egg-multipart/config/config.default.js",
+    "files": "/workspace/spapro-react/server/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/workspace/spapro-react/server/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/workspace/spapro-react/server/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/workspace/spapro-react/server/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/workspace/spapro-react/server/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/workspace/spapro-react/server/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/workspace/spapro-react/server/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/workspace/spapro-react/server/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/workspace/spapro-react/server/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/workspace/spapro-react/server/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/workspace/spapro-react/server/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/workspace/spapro-react/server/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/workspace/spapro-react/server/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/workspace/spapro-react/server/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/workspace/spapro-react/server/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/workspace/spapro-react/server/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/workspace/spapro-react/server/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/workspace/spapro-react/server/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/workspace/spapro-react/server/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/workspace/spapro-react/server/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "view": {
+    "root": "/workspace/spapro-react/server/node_modules/egg-view/config/config.default.js",
+    "cache": "/workspace/spapro-react/server/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/workspace/spapro-react/server/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/workspace/spapro-react/server/node_modules/egg-view/config/config.default.js",
+    "mapping": "/workspace/spapro-react/server/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+  "name": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+  "keys": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+  "cookies": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+  "proxy": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "version": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "description": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "private": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+      "egg-cors": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+      "https-proxy-agent": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "dev": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+      "start": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+      "stop": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js"
+    },
+    "egg": {
+      "framework": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+      "declarations": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+  "HOME": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+  "rundir": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "timing": {
+      "slowBootActionMinDuration": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js"
+    }
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "notFound": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "sitefile": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "middlewares": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "httpClient": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "cacheControl": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "encoding": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "formLimit": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "textLimit": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "strict": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+      "depth": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "encoding": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "env": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "level": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "outputJSON": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "buffer": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "appLogName": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "coreLogName": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "agentLogName": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "errorLogName": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/workspace/spapro-react/server/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "enablePerformanceTimer": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "enableFastContextLogger": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+      "maxSockets": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+      "maxSockets": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js"
+    },
+    "useHttpClientNext": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js"
+  },
+  "meta": {
+    "enable": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "logging": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+  "clusterClient": {
+    "maxWaitTime": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/workspace/spapro-react/server/node_modules/egg/config/config.default.js"
+}

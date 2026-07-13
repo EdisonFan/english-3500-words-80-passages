@@ -1,0 +1,284 @@
+{
+  "id": 8,
+  "stats": {
+    "words": 298,
+    "core": 49
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "Not all great writers are great {speller}.If you want to be {publish}, it's {vital} to submit a perfect, {professionally} presented manuscript （原稿）.That {mean} good {grammar} and no {spelling} mistakes.No {editor} is likely to tolerate a writer who does not take the trouble to {spell} words {correctly}.",
+      "cn": "并非所有伟大的作家都是 <u> 拼写高手 </u> 。如果你想 <u> 发表 </u> 作品，提交一份完美且呈现得 <u> 专业的 </u> 原稿 <u> 至关重要 </u> 。这 <u> 意味着 </u> 要 <u> 语法 </u> 正确，没有 <u> 拼写 </u> 错误。没有哪个 <u> 编辑 </u> 会容忍一个不愿花心思把单词 <u> 拼写正确 </u> 的作者。"
+    },
+    {
+      "num": "02",
+      "en": "I keep two {reference} books close by on my {desk}: a {dictionary} and a thesaurus （同义词词典）.I don't trust my {laptop}’s spellchecker.It takes no {account} of the {context}.Of course, these days there are {plenty} of online dictionaries and thesauruses, but I'm old-fashioned enough to prefer a hard {cover} and pages I can {leaf} through with my {finger}.I use the Concise Oxford Dictionary and the Collins Thesaurus .",
+      "cn": "我 <u> 书桌 </u> 上常放着两本 <u> 参考 </u> 书：一本 <u> 词典 </u> 和一本同义词词典。我不相信 <u> 笔记本电脑 </u> 的拼写检查程序，它不 <u> 考虑上下文 </u> 。当然，现在有 <u> 很多 </u> 线上的词典和同义词词典，但我比较守旧，更喜欢传统的硬 <u> 皮 </u> 书和可以用 <u> 手指翻 </u> 阅的书页。我使用的是《牛津简明词典》和《柯林斯同义词词典》。"
+    },
+    {
+      "num": "03",
+      "en": "Of course, a dictionary is not only for spelling.It should give you a {precise} definition of each word, {thus} {differentiate} it from other words whose meanings are {similar}, {but} not {identical}.It will also usually {show} how the word is {pronounce}.",
+      "cn": "当然，词典不仅仅是用来查阅拼写的。它可以给出每个单词的 <u> 精确 </u> 含义， <u> 从而 </u> 将其与其他含义 <u> 相似但 </u> 不 <u> 相同的 </u> 单词 <u> 区分 </u> 开来。它通常还会 <u> 显示 </u> 单词的 <u> 发音 </u> 。"
+    },
+    {
+      "num": "04",
+      "en": "In {addition}, I have an old two-volume copy of the Shorter Oxford Dictionary , picked up a few years {ago} in a {bookshop} {sale} for just 99 {pence}.Of course, with its 2,672 pages, it's not exactly short.It contains {around} 163,000 words, {plus} word {combination} and idiomatic {phrase}.I don't often use this dictionary.However, if I need to {check} the {origin} of a word or to {look} up {example} of its {usage}, there's nothing better.",
+      "cn": "<u> 此外 </u> ，我还有一套老版的两卷本《牛津词典（简编本）》，是几年 <u> 前 </u> 在 <u> 书店促销 </u> 时买的，只花了99 <u> 便士 </u> 。当然，2672页的篇幅并不算短。它包含 <u> 约 </u> 163000个单词， <u> 以及 </u> 词 <u> 组 </u> 和惯用 <u> 短语 </u> 。我并不常用这本词典。不过，如果我需要 <u> 查 </u> 一个单词的 <u> 来源 </u> 或 <u> 找 </u> 这个单词的 <u> 用法示例 </u> 时，就没有比它更好的了。"
+    },
+    {
+      "num": "05",
+      "en": "For well over a hundred years the most {influential} English dictionary was Samuel Johnson's A Dictionary of the English Language published in 1755.“To make dictionaries is {dull} work,”wrote Johnson, {illustrate} one definition of “dull”.But a dictionary can be a {pleasure} to read.A few minutes spent {cast} your eye over a page or two can be a {rewarding} {experience} .",
+      "cn": "一百多年来，最 <u> 有影响力的 </u> 英语词典是塞缪尔·约翰逊的《英文词典》（俗称《约翰逊词典》），出版于1755年。约翰逊写道：“编写词典是一项 <u> 枯燥的 </u> 工作。”这句话 <u> 展示 </u> 了“dull”的一个释义。但是，阅读词典也可以是一件 <u> 乐事 </u> 。花几分钟时间翻 <u> 阅 </u> 一两页词典也是一种 <u> 让人有所收获的体验 </u> 。"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "speller",
+      "type": "core",
+      "ctx": "拼写能力强（或差）的人"
+    },
+    {
+      "word": "publish",
+      "type": "outline",
+      "ctx": "出版"
+    },
+    {
+      "word": "vital",
+      "type": "outline",
+      "ctx": "至关重要的"
+    },
+    {
+      "word": "professionally",
+      "type": "core",
+      "ctx": "老练地"
+    },
+    {
+      "word": "mean",
+      "type": "outline",
+      "ctx": "意味着"
+    },
+    {
+      "word": "grammar",
+      "type": "outline",
+      "ctx": "语法"
+    },
+    {
+      "word": "spelling",
+      "type": "core",
+      "ctx": "拼写"
+    },
+    {
+      "word": "editor",
+      "type": "outline",
+      "ctx": "编辑"
+    },
+    {
+      "word": "spell",
+      "type": "outline",
+      "ctx": "拼写"
+    },
+    {
+      "word": "correctly",
+      "type": "core",
+      "ctx": "正确地"
+    },
+    {
+      "word": "reference",
+      "type": "outline",
+      "ctx": "提及"
+    },
+    {
+      "word": "desk",
+      "type": "outline",
+      "ctx": "书桌"
+    },
+    {
+      "word": "dictionary",
+      "type": "outline",
+      "ctx": "词典"
+    },
+    {
+      "word": "laptop",
+      "type": "outline",
+      "ctx": "笔记本电脑"
+    },
+    {
+      "word": "account",
+      "type": "outline",
+      "ctx": "[C] 账目"
+    },
+    {
+      "word": "context",
+      "type": "outline",
+      "ctx": "背景"
+    },
+    {
+      "word": "plenty",
+      "type": "outline",
+      "ctx": "充足"
+    },
+    {
+      "word": "cover",
+      "type": "outline",
+      "ctx": "盖子"
+    },
+    {
+      "word": "leaf",
+      "type": "outline",
+      "ctx": "叶"
+    },
+    {
+      "word": "finger",
+      "type": "outline",
+      "ctx": "手指"
+    },
+    {
+      "word": "precise",
+      "type": "core",
+      "ctx": "精确的"
+    },
+    {
+      "word": "thus",
+      "type": "outline",
+      "ctx": "这样"
+    },
+    {
+      "word": "differentiate",
+      "type": "core",
+      "ctx": "区分"
+    },
+    {
+      "word": "similar",
+      "type": "outline",
+      "ctx": "相似的"
+    },
+    {
+      "word": "but",
+      "type": "outline",
+      "ctx": "但是"
+    },
+    {
+      "word": "identical",
+      "type": "outline",
+      "ctx": "完全相同的"
+    },
+    {
+      "word": "show",
+      "type": "outline",
+      "ctx": "给……看"
+    },
+    {
+      "word": "pronounce",
+      "type": "outline",
+      "ctx": "发音"
+    },
+    {
+      "word": "addition",
+      "type": "outline",
+      "ctx": "增加"
+    },
+    {
+      "word": "ago",
+      "type": "outline",
+      "ctx": "以前"
+    },
+    {
+      "word": "bookshop",
+      "type": "core",
+      "ctx": "书店"
+    },
+    {
+      "word": "sale",
+      "type": "outline",
+      "ctx": "卖"
+    },
+    {
+      "word": "penny",
+      "type": "core",
+      "ctx": "便士"
+    },
+    {
+      "word": "around",
+      "type": "outline",
+      "ctx": "在周围"
+    },
+    {
+      "word": "plus",
+      "type": "outline",
+      "ctx": "加"
+    },
+    {
+      "word": "combination",
+      "type": "core",
+      "ctx": "结合（体）"
+    },
+    {
+      "word": "phrase",
+      "type": "outline",
+      "ctx": "短语"
+    },
+    {
+      "word": "check",
+      "type": "outline",
+      "ctx": "检查"
+    },
+    {
+      "word": "origin",
+      "type": "outline",
+      "ctx": "起源"
+    },
+    {
+      "word": "look",
+      "type": "outline",
+      "ctx": "看"
+    },
+    {
+      "word": "example",
+      "type": "outline",
+      "ctx": "例子"
+    },
+    {
+      "word": "usage",
+      "type": "core",
+      "ctx": "使用"
+    },
+    {
+      "word": "influential",
+      "type": "outline",
+      "ctx": "有影响的"
+    },
+    {
+      "word": "dull",
+      "type": "core",
+      "ctx": "单调无味的"
+    },
+    {
+      "word": "illustrate",
+      "type": "outline",
+      "ctx": "说明"
+    },
+    {
+      "word": "pleasure",
+      "type": "outline",
+      "ctx": "高兴"
+    },
+    {
+      "word": "cast",
+      "type": "outline",
+      "ctx": "浏览"
+    },
+    {
+      "word": "rewarding",
+      "type": "core",
+      "ctx": "有益的"
+    },
+    {
+      "word": "experience",
+      "type": "outline",
+      "ctx": "经历"
+    }
+  ],
+  "audio": "https://pc-media.xdfsjj.com/758e5c95a27929ec5cda71e8ba24975e/6A3D411D/tm7345927_177738c526874b1b6ec186ef786a4c16aad30671.mp3",
+  "duration": "04:15",
+  "resourceId": "33187578"
+}

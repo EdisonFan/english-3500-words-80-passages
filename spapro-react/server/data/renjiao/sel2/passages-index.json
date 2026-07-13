@@ -1,0 +1,105 @@
+{
+  "bookId": "sel2",
+  "passages": [
+    {
+      "id": "p001",
+      "num": 1,
+      "unitId": "u01",
+      "title": "JOHN SNOW DEFEATS \"KING CHOLERA\"",
+      "cnTitle": "约翰·斯诺战胜\"霍乱王\"",
+      "preview": "Cholera used to be one of the most feared diseases in the world, until a British…",
+      "wordCount": 528,
+      "coreCount": 19
+    },
+    {
+      "id": "p002",
+      "num": 2,
+      "unitId": "u01",
+      "title": "THE FATHER OF CHINA'S AEROSPACE / A WORLD OF PURE THOUGHT",
+      "cnTitle": "中国航天之父 / 一个纯思维的世界",
+      "preview": "本课包含两篇科学家传记范文：钱学森和史蒂芬·霍金。 Perhaps no other scientist has had a greater impact on…",
+      "wordCount": 445,
+      "coreCount": 10
+    },
+    {
+      "id": "p003",
+      "num": 1,
+      "unitId": "u02",
+      "title": "\"WELCOME, XIE LEI!\" — BUSINESS STUDENT BUILDING BRIDGES",
+      "cnTitle": "\"欢迎你，谢蕾！\"——商科学生搭建文化桥梁",
+      "preview": "Six months ago, 19-year-old Xie Lei said goodbye to her family and friends and b…",
+      "wordCount": 580,
+      "coreCount": 7
+    },
+    {
+      "id": "p004",
+      "num": 2,
+      "unitId": "u02",
+      "title": "STUDYING ABROAD: IS IT A GOOD OR A BAD IDEA?",
+      "cnTitle": "留学：好主意，还是坏主意？",
+      "preview": "本课包含两封观点对立的议论文信件：王丽（反对留学）和张毅（支持留学）。 Dear Editor, In the past few decades, there…",
+      "wordCount": 282,
+      "coreCount": 8
+    },
+    {
+      "id": "p005",
+      "num": 1,
+      "unitId": "u03",
+      "title": "CULTURE AND CUISINE",
+      "cnTitle": "文化与美食",
+      "preview": "The French author Jean Anthelme Brillat-Savarin once wrote, \"Tell me what you ea…",
+      "wordCount": 583,
+      "coreCount": 12
+    },
+    {
+      "id": "p006",
+      "num": 2,
+      "unitId": "u03",
+      "title": "HEALTHY EATING",
+      "cnTitle": "健康饮食",
+      "preview": "There is much debate nowadays as to what makes up a healthy diet. For example, s…",
+      "wordCount": 540,
+      "coreCount": 11
+    },
+    {
+      "id": "p007",
+      "num": 1,
+      "unitId": "u04",
+      "title": "SEEING THE TRUE NORTH VIA RAIL: VANCOUVER AND THE HEART OF CANADA",
+      "cnTitle": "",
+      "preview": "Li Daiyu and her cousin Liu Qian went to Canada to visit their cousins in Halifa…",
+      "wordCount": 552,
+      "coreCount": 19
+    },
+    {
+      "id": "p008",
+      "num": 2,
+      "unitId": "u04",
+      "title": "SEEING THE TRUE NORTH VIA RAIL: TORONTO AND MONTREAL",
+      "cnTitle": "",
+      "preview": "After Li Daiyu and her cousin arrived in Toronto, the largest and wealthiest cit…",
+      "wordCount": 539,
+      "coreCount": 11
+    },
+    {
+      "id": "p009",
+      "num": 1,
+      "unitId": "u05",
+      "title": "FIRST AID FOR BURNS",
+      "cnTitle": "烧伤急救",
+      "preview": "The skin is an essential part of your body and is its largest organ. Your skin a…",
+      "wordCount": 341,
+      "coreCount": 9
+    },
+    {
+      "id": "p010",
+      "num": 2,
+      "unitId": "u05",
+      "title": "SHARE YOUR STORY ABOUT PROVIDING FIRST AID",
+      "cnTitle": "分享你的急救经历·陈伟海姆立克急救",
+      "preview": "课文讲述北京高中生陈伟（Chen Wei）在餐馆用海姆立克急救法救助噎食者张涛（Zhang Tao）的故事，并介绍海姆立克急救法的操作步骤。课本要求将 A-E…",
+      "wordCount": 403,
+      "coreCount": 11
+    }
+  ]
+}
