@@ -1,0 +1,160 @@
+{
+  "word": "despite",
+  "found": true,
+  "phonetic_uk": "dɪˈspaɪt",
+  "phonetic_us": "dɪˈspaɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=despite&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=despite&type=2",
+  "defs": [
+    {
+      "pos": "prep.",
+      "meaning": "尽管，即使；不由自主地，忍不住地"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<古>亵渎；<古>轻蔑，鄙视"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<古>蔑视；<古>激怒"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "despites"
+    },
+    {
+      "name": "现在分词",
+      "value": "despiting"
+    },
+    {
+      "name": "过去式",
+      "value": "despited"
+    },
+    {
+      "name": "过去分词",
+      "value": "despited"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Despite our worries everything turned out well.",
+      "zh": "尽管我们都很担心，结果一切都顺利。"
+    },
+    {
+      "en": "Despite being a big star, she's very approachable.",
+      "zh": "她虽然是个大明星，却非常平易近人。"
+    },
+    {
+      "en": "Despite being tortured she proclaimed her innocence.",
+      "zh": "尽管受到拷打，她仍声称自己是清白的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "prep.",
+      "meaning": "尽管，不管",
+      "words": [
+        "in spite of",
+        "for all that"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "轻视；憎恨；侮辱",
+      "words": [
+        "hate",
+        "hatred",
+        "contempt"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "高中",
+    "CET4",
+    "CET6",
+    "考研",
+    "IELTS",
+    "商务英语"
+  ],
+  "phrs": [
+    {
+      "phrase": "despite of",
+      "translations": [
+        "不管；不顾"
+      ]
+    },
+    {
+      "phrase": "in despite of",
+      "translations": [
+        "尽管；不管"
+      ]
+    },
+    {
+      "phrase": "despite all that",
+      "translations": [
+        "尽管如此"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "高考",
+    "mnemonic": "de（表示否定）+ spite（看）→ 看都不看 → 不管，不顾",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 0,
+          "type": "翻译"
+        },
+        {
+          "time": 0,
+          "type": "知识运用"
+        },
+        {
+          "time": 0,
+          "type": "写作"
+        },
+        {
+          "time": 0,
+          "type": "听力理解"
+        },
+        {
+          "time": 5,
+          "type": "阅读理解"
+        }
+      ],
+      "recommendationRate": 3,
+      "frequency": 5
+    },
+    "pastExamSents": [
+      {
+        "en": "Just in time for the trial performance, I was able to maintain power in my singing despite the switch to a head voice.",
+        "zh": "就在试演的时候，尽管换成了头声，我还是能够保持唱歌的能力。",
+        "source": "2021·天津卷·知识运用"
+      },
+      {
+        "en": "Despite the poor service of the hotel, the manager is reluctant to invest in sufficient training for his staff.",
+        "zh": "酒店服务已经很差了，经理仍不愿意为员工提供足够的培训。",
+        "source": "2018·江苏卷·知识运用"
+      },
+      {
+        "en": "In any case, despite so much evidence to the contrary, many managers still agree to Theory X.",
+        "zh": "无论如何，尽管有这么多相反的证据，许多经理仍然同意 X 理论。",
+        "source": "2016·上海卷·阅读理解"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "despite oneself",
+        "zh": "不由自主；不禁"
+      },
+      {
+        "en": "despite the fact that",
+        "zh": "尽管……"
+      }
+    ]
+  }
+}

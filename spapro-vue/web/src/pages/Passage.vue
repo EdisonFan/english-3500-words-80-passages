@@ -138,7 +138,10 @@ function handleWordClick(e, word) {
   router.push(`/dict?word=${encodeURIComponent(w)}`);
 }
 
-onMounted(loadPassage);
+onMounted(() => {
+  console.log('[Passage] onMounted, route=', route.params);
+  loadPassage();
+});
 watch(() => [route.params.bookId, route.params.pid], () => {
   const newKey = bookId.value + ':' + pid.value;
   if (newKey !== routeKey.value) loadPassage();
@@ -147,11 +150,15 @@ watch(() => [route.params.bookId, route.params.pid], () => {
 // ★★★ keep-alive 核心：切出时记滚动位置，切入时恢复 ★★★
 onDeactivated(() => {
   scrollTop.value = window.scrollY;
+  console.log('[Passage] onDeactivated, saved scrollTop=', scrollTop.value);
 });
 onActivated(() => {
-  nextTick(() => {
+  console.log('[Passage] onActivated, will restore scrollTop=', scrollTop.value);
+  // 用 requestAnimationFrame 确保在路由 scrollBehavior 之后执行
+  requestAnimationFrame(() => {
     if (scrollTop.value > 0) {
       window.scrollTo(0, scrollTop.value);
+      console.log('[Passage] restored scroll to', scrollTop.value);
     }
   });
 });

@@ -30,7 +30,12 @@ const routes = [
 const router = createRouter({
   history: createWebHashHistory(),
   routes,
+  // ★keep-alive 的 Passage 页面自己管理滚动（onActivated/onDeactivated）
+  // 这里只对非 Passage 路由处理；Passage 返回 false 让 router 不介入
   scrollBehavior(to, from, savedPosition) {
+    // Passage 路由：交给组件的 onActivated 处理，router 不滚动
+    if (to.name === 'passage') return false;
+    // 其他路由：有 savedPosition（浏览器前进/后退）就用，否则滚到顶
     if (savedPosition) return savedPosition;
     return { top: 0 };
   },

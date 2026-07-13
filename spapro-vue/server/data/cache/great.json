@@ -1,0 +1,214 @@
+{
+  "word": "great",
+  "found": true,
+  "phonetic_uk": "ɡreɪt",
+  "phonetic_us": "ɡreɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=great&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=great&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "伟大的，著名的；大型的，巨大的；（数量或程度）极大的，很大的；美妙的；身心健康的，精力充沛的；重要的，重大的；热心的，热衷的；和蔼的，随和的；（外）曾祖（或曾孙）的；<爱尔兰>（二人）亲近的，亲密的；擅长……的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "很好地，很棒地"
+    },
+    {
+      "pos": "n.",
+      "meaning": "伟人，伟大的事物；金曲"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "great或greats"
+    },
+    {
+      "name": "比较级",
+      "value": "greater"
+    },
+    {
+      "name": "最高级",
+      "value": "greatest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She's a great beauty.",
+      "zh": "她是个大美人。"
+    },
+    {
+      "en": "We are great friends.",
+      "zh": "我们是最要好的朋友。"
+    },
+    {
+      "en": "He's a great bloke.",
+      "zh": "他是个大好人。"
+    }
+  ],
+  "synonyms": [],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研",
+    "商务英语"
+  ],
+  "phrs": [
+    {
+      "phrase": "great deal",
+      "translations": [
+        "大量"
+      ]
+    },
+    {
+      "phrase": "a great deal of",
+      "translations": [
+        "大量"
+      ]
+    },
+    {
+      "phrase": "great wall",
+      "translations": [
+        "万里长城；中国长城计算机集团公司"
+      ]
+    },
+    {
+      "phrase": "of great importance",
+      "translations": [
+        "有着重要意义，十分重要"
+      ]
+    },
+    {
+      "phrase": "great success",
+      "translations": [
+        "巨大成功；非常成功"
+      ]
+    },
+    {
+      "phrase": "by the great",
+      "translations": [
+        "[方言]按批计价"
+      ]
+    },
+    {
+      "phrase": "a great number of",
+      "translations": [
+        "多数的，许多"
+      ]
+    },
+    {
+      "phrase": "great man",
+      "translations": [
+        "伟人；大人物"
+      ]
+    },
+    {
+      "phrase": "great britain",
+      "translations": [
+        "英国"
+      ]
+    },
+    {
+      "phrase": "great effort",
+      "translations": [
+        "巨大努力"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 971,
+          "type": "阅读"
+        },
+        {
+          "time": 152,
+          "type": "短文填空"
+        },
+        {
+          "time": 59,
+          "type": "听力"
+        },
+        {
+          "time": 16,
+          "type": "翻译"
+        },
+        {
+          "time": 135,
+          "type": "情景对话"
+        },
+        {
+          "time": 34,
+          "type": "写作"
+        },
+        {
+          "time": 174,
+          "type": "完形填空"
+        },
+        {
+          "time": 204,
+          "type": "单项选择"
+        },
+        {
+          "time": 76,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 5,
+      "frequency": 1821
+    },
+    "pastExamSents": [
+      {
+        "en": "We had great fun together.",
+        "zh": "我们在一起很开心。",
+        "source": "2021·江苏-常州·单项选择"
+      },
+      {
+        "en": "The Great Wall of China was begun in 214 B.C.",
+        "zh": "中国的长城始建于公元前214年。",
+        "source": "2021·辽宁-沈阳·阅读"
+      },
+      {
+        "en": "Thanks to our teachers, we've made great progress in the past four years.",
+        "zh": "多亏了我们的老师，我们在过去四年里取得了很大进步。",
+        "source": "2021·黑龙江-绥化·单项选择"
+      },
+      {
+        "en": "It is a great project.",
+        "zh": "这是一个伟大的项目。",
+        "source": "2021·湖北-随州·阅读"
+      },
+      {
+        "en": "A great deal of wastepaper ends up in rubbish and even landfills, where it can produce harmful gases.",
+        "zh": "大量的废纸最终被丢进垃圾堆，甚至废物填埋场，在那里会产生有害气体。",
+        "source": "2021·江苏-泰州·阅读"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "a great deal of ...",
+        "zh": "大量的……（不可数）"
+      },
+      {
+        "en": "a great number of ...",
+        "zh": "许多……，大量的……（可数）"
+      },
+      {
+        "en": "a great many ",
+        "zh": "许多，大量"
+      },
+      {
+        "en": "the Great Wall",
+        "zh": "长城"
+      }
+    ]
+  }
+}

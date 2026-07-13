@@ -1,0 +1,181 @@
+{
+  "word": "from",
+  "found": true,
+  "phonetic_uk": "frɒm; frəm",
+  "phonetic_us": "frʌm; frəm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=from&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=from&type=2",
+  "defs": [
+    {
+      "pos": "prep.",
+      "meaning": "从……起；从……开始；寄自，得自；来自；由……（制成）；（两地的距离）离；从；从……（到）；（使）免遭；由于；根据；与……（不同）；防；不在；从……来看；妨碍"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（From）（美）弗罗姆（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Cheap flights are available from budget travel agents from $240.",
+      "zh": "起价$240的廉价机票可从一些经济旅行社那里买到。"
+    },
+    {
+      "en": "Departure times are 08:15 from Baltimore, and 10:15 from Newark.",
+      "zh": "从巴尔的摩的出发时间是08:15，从纽瓦克的出发时间是10:15。"
+    },
+    {
+      "en": "The album was compiled from live recordings from last year's tour.",
+      "zh": "这套唱片选辑由去年巡回演出的实况录音汇编而成。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "prep.",
+      "meaning": "来自，从；由于；今后",
+      "words": [
+        "by virtue of",
+        "ex-"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研"
+  ],
+  "phrs": [
+    {
+      "phrase": "out from",
+      "translations": [
+        "从…中迸出"
+      ]
+    },
+    {
+      "phrase": "from then on",
+      "translations": [
+        "从那时起"
+      ]
+    },
+    {
+      "phrase": "go from",
+      "translations": [
+        "从…处出发"
+      ]
+    },
+    {
+      "phrase": "to and from",
+      "translations": [
+        "往返；来来回回"
+      ]
+    },
+    {
+      "phrase": "from out of",
+      "translations": [
+        "从…之中"
+      ]
+    },
+    {
+      "phrase": "due from",
+      "translations": [
+        "应收"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 4200,
+          "type": "阅读"
+        },
+        {
+          "time": 437,
+          "type": "短文填空"
+        },
+        {
+          "time": 257,
+          "type": "听力"
+        },
+        {
+          "time": 40,
+          "type": "翻译"
+        },
+        {
+          "time": 102,
+          "type": "情景对话"
+        },
+        {
+          "time": 98,
+          "type": "写作"
+        },
+        {
+          "time": 587,
+          "type": "完形填空"
+        },
+        {
+          "time": 292,
+          "type": "单项选择"
+        },
+        {
+          "time": 115,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 5,
+      "frequency": 6128
+    },
+    "pastExamSents": [
+      {
+        "en": "I thought of a number of names right away: the owner of our local bookstore, who let me and my little son in before the store opened and offered to play his favorite songs; our babysitter, who dropped off a bag of old board games for our kids to play; … While writing the notes, I realized how often I had spent my time on the phone moving from app to app, appreciating (欣赏) other people's lives.",
+        "zh": "我马上想到了许多名字：我们当地书店的老板，他在开店前让我和我的小儿子进去，并主动播放他最喜欢的歌曲；我们的保姆，她会放下一袋旧的棋盘游戏给我们的孩子玩；……在写这些笔记时，我意识到我有多少次花时间在手机上，从一个软件到另一个软件，欣赏着别人的生活。",
+        "source": "2021·浙江-嘉兴·阅读"
+      },
+      {
+        "en": "In nine minutes, the probe had to reduce its speed from 20,000 km per hour to zero, landing from 125 km above Mars.",
+        "zh": "在9分钟内，探测器必须将速度从每小时2万公里降至零，从火星上空125公里处着陆。",
+        "source": "2021·江苏-徐州·完形填空"
+      },
+      {
+        "en": "In 1988, Wang Chengbang retired from the army.",
+        "zh": "1988年，王成帮退役。",
+        "source": "2021·重庆-B卷·阅读"
+      },
+      {
+        "en": "\"Doing things ourselves gives us a strong sense of achievement,\" said Liu Jiawei, 13, from Jilin.",
+        "zh": "“自己动手做事给了我们一种强烈的成就感。”来自吉林的13岁的刘佳伟说。",
+        "source": "2021·山东-济宁·阅读"
+      },
+      {
+        "en": "Asked about the foods that sell best in the whole world, do you often hear about Coca-Cola and McDonald's Big Macs from America?",
+        "zh": "当被问及世界上最畅销的食品时，你是否经常听到美国的可口可乐和麦当劳巨无霸？",
+        "source": "2021·辽宁-抚顺、本溪、辽阳·阅读"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "come from",
+        "zh": "来自"
+      },
+      {
+        "en": "from ... to ...",
+        "zh": "从……到……"
+      },
+      {
+        "en": "from now on",
+        "zh": "从现在开始"
+      },
+      {
+        "en": "from then on",
+        "zh": "从那时开始"
+      }
+    ]
+  }
+}
