@@ -11,7 +11,7 @@
             class="gloss-toggle"
             :class="{ off: !glossOn }"
             title="显示/隐藏英文词下方中文注释"
-            @click="uiStore.toggleGloss()"
+            @click="toggleGloss"
           >
             <span class="g-dot"></span>
             <span class="g-label">{{ glossOn ? '中文释义' : '已隐藏' }}</span>
@@ -20,7 +20,7 @@
             class="trans-toggle"
             :class="{ off: !transOn }"
             title="显示/隐藏段落中文翻译"
-            @click="uiStore.toggleTrans()"
+            @click="toggleTrans"
           >
             <span class="t-dot"></span>
             <span class="t-label">{{ transOn ? '中文译文' : '译文隐藏' }}</span>
@@ -68,96 +68,104 @@
   </div>
 </template>
 
-<script setup>
-import { ref, computed, watch, onMounted, onActivated, onDeactivated, nextTick } from 'vue';
-import { useRoute, useRouter } from 'vue-router';
+<script>
+// ★ 用纯 Options API 声明组件，name 直接挂在外层对象上
+// Vue 3 keep-alive 的 include 按组件 options.name 匹配
+// 这种方式最稳，不会受 <script setup> 双块合并影响
 import HighlightedText from '../components/HighlightedText.vue';
 import { fetchPassage, fetchDict } from '../api/client.js';
 import { findUnitTitle } from '../utils/helpers.js';
 import { getDict, setDict, useUIStore } from '../store/index.js';
 
-// ★ 显式声明组件 name（Vue 3.3+ 的 defineOptions），keep-alive 按此名匹配
-defineOptions({ name: 'Passage' });
-
-const route = useRoute();
-const router = useRouter();
-const uiStore = useUIStore();
-
-const loading = ref(true);
-const passage = ref(null);
-const error = ref(null);
-const routeKey = ref('');
-// ★保存滚动位置（keep-alive 切出时记录，切入时恢复）
-const scrollTop = ref(0);
-
-const bookId = computed(() => route.params.bookId);
-const pid = computed(() => route.params.pid);
-const id = computed(() => {
-  const n = parseInt(String(pid.value).replace(/^p/, ''), 10);
-  return n || (passage.value ? passage.value.id : 0) || 0;
-});
-const num = computed(() => String(id.value).padStart(2, '0'));
-const unitTitle = computed(() => findUnitTitle(id.value));
-const glossOn = computed(() => uiStore.glossOn);
-const transOn = computed(() => uiStore.transOn);
-
-function loadPassage() {
-  routeKey.value = bookId.value + ':' + pid.value;
-  loading.value = true;
-  passage.value = null;
-  error.value = null;
-  window.scrollTo(0, 0); // 新进入文章：滚到顶
-  fetchPassage(bookId.value, pid.value)
-    .then(j => {
-      if (!j.ok) error.value = j.error || '未知错误';
-      else passage.value = j.passage;
-      loading.value = false;
-    })
-    .catch(e => {
-      error.value = e.message;
-      loading.value = false;
+export default {
+  name: 'Passage', // ★ 必须，与 App.vue 的 keep-alive include="Passage" 匹配
+  components: { HighlightedText },
+  data() {
+    return {
+      loading: true,
+      passage: null,
+      error: null,
+      routeKey: '',
+      scrollTop: 0,
+    };
+  },
+  computed: {
+    bookId() { return this.$route.params.bookId; },
+    pid() { return this.$route.params.pid; },
+    id() {
+      const n = parseInt(String(this.pid).replace(/^p/, ''), 10);
+      return n || (this.passage ? this.passage.id : 0) || 0;
+    },
+    num() { return String(this.id).padStart(2, '0'); },
+    unitTitle() { return findUnitTitle(this.id); },
+    glossOn() { return this.$store?.state?.ui?.glossOn ?? useUIStore().glossOn; },
+    transOn() { return this.$store?.state?.ui?.transOn ?? useUIStore().transOn; },
+  },
+  watch: {
+    '$route.params.bookId'() { this.checkRouteChange(); },
+    '$route.params.pid'() { this.checkRouteChange(); },
+  },
+  created() {
+    this.uiStore = useUIStore();
+    this.loadPassage();
+  },
+  // ★★★ keep-alive 核心 ★★★
+  // - deactivated：跳走前保存当前 scrollY
+  // - activated：返回时恢复 scrollY；首次进入不恢复
+  deactivated() {
+    this.scrollTop = window.scrollY;
+    console.log('[Passage] deactivated, saved scrollTop=', this.scrollTop);
+  },
+  activated() {
+    console.log('[Passage] activated, scrollTop=', this.scrollTop);
+    // 用 requestAnimationFrame 确保在路由 scrollBehavior 之后执行
+    requestAnimationFrame(() => {
+      if (this.scrollTop > 0) {
+        window.scrollTo(0, this.scrollTop);
+        console.log('[Passage] restored scroll to', this.scrollTop);
+      }
     });
-}
-
-function handleWordClick(e, word) {
-  e.stopPropagation();
-  // 脉冲动画（与旧版一致）
-  const target = e.currentTarget;
-  target.classList.remove('pulsed');
-  void target.offsetWidth;
-  target.classList.add('pulsed');
-  if (!word) return;
-  const w = String(word).toLowerCase().trim();
-  // 预热词典缓存（dict 页会读这个缓存命中加速）
-  if (!getDict(w)) {
-    fetchDict(w).then(data => setDict(w, data)).catch(() => {});
-  }
-  // SPA 内跳转（keep-alive 会保留 Passage 状态）
-  router.push(`/dict?word=${encodeURIComponent(w)}`);
-}
-
-onMounted(() => {
-  console.log('[Passage] onMounted, route=', route.params);
-  loadPassage();
-});
-watch(() => [route.params.bookId, route.params.pid], () => {
-  const newKey = bookId.value + ':' + pid.value;
-  if (newKey !== routeKey.value) loadPassage();
-});
-
-// ★★★ keep-alive 核心：切出时记滚动位置，切入时恢复 ★★★
-onDeactivated(() => {
-  scrollTop.value = window.scrollY;
-  console.log('[Passage] onDeactivated, saved scrollTop=', scrollTop.value);
-});
-onActivated(() => {
-  console.log('[Passage] onActivated, will restore scrollTop=', scrollTop.value);
-  // 用 requestAnimationFrame 确保在路由 scrollBehavior 之后执行
-  requestAnimationFrame(() => {
-    if (scrollTop.value > 0) {
-      window.scrollTo(0, scrollTop.value);
-      console.log('[Passage] restored scroll to', scrollTop.value);
-    }
-  });
-});
+  },
+  methods: {
+    toggleGloss() { this.uiStore.toggleGloss(); },
+    toggleTrans() { this.uiStore.toggleTrans(); },
+    checkRouteChange() {
+      const newKey = this.bookId + ':' + this.pid;
+      if (newKey !== this.routeKey) {
+        this.loadPassage();
+      }
+    },
+    loadPassage() {
+      this.routeKey = this.bookId + ':' + this.pid;
+      this.loading = true;
+      this.passage = null;
+      this.error = null;
+      window.scrollTo(0, 0);
+      fetchPassage(this.bookId, this.pid)
+        .then(j => {
+          if (!j.ok) this.error = j.error || '未知错误';
+          else this.passage = j.passage;
+          this.loading = false;
+        })
+        .catch(e => {
+          this.error = e.message;
+          this.loading = false;
+        });
+    },
+    handleWordClick(e, word) {
+      e.stopPropagation();
+      const target = e.currentTarget;
+      target.classList.remove('pulsed');
+      void target.offsetWidth;
+      target.classList.add('pulsed');
+      if (!word) return;
+      const w = String(word).toLowerCase().trim();
+      if (!getDict(w)) {
+        fetchDict(w).then(data => setDict(w, data)).catch(() => {});
+      }
+      // SPA 内跳转（keep-alive 会保留 Passage 状态）
+      this.$router.push(`/dict?word=${encodeURIComponent(w)}`);
+    },
+  },
+};
 </script>
