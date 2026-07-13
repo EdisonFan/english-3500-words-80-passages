@@ -1,0 +1,540 @@
+{
+  "id": 1,
+  "stats": {
+    "words": 419,
+    "core": 9
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "Much has been written about the wonders of the World Wide Web. There are countless articles telling us how the Internet has made our lives more {convenient}. We no longer have to wait in line or carry {cash} around when we go shopping. We can get the most updated information from large databases. We can download {software}, documents, and images whenever we need them. But the Internet has done much more for people than simply make life more {convenient}. People's lives have been changed by online communities and social networks.",
+      "cn": "关于万维网奇妙之处的著述浩如烟海。讲述互联网如何使我们的生活变得更加方便的文章数不胜数。购物的时候，我们不再需要排队等候，也不需要随身携带现金。我们可以从大型数据库中获得最新的信息。在任何需要的时候，我们可以下载软件、文档和图片。然而，互联网为人们做的事情还很多，并不仅仅是让生活变得更加方便而已。在线社区和社交网络已改变了人们的生活。"
+    },
+    {
+      "num": "02",
+      "en": "Jan Tchamani, an English teacher in {Birmingham}, UK, suddenly developed a serious illness and had to quit her job. At age 50, she found herself out of work and {stuck} at home with only her computer to keep her company. After a while, she discovered that surfing the Internet could help her feel less lonely and bored. She could listen to music, watch films, play games, and explore the world. She also joined an online group where she could talk about her problems and get support and advice from others. She realised that one of the greatest benefits of the Internet was its ability to remove the {distance} that usually exists between people.",
+      "cn": "英国伯明翰的一位英语教师简·夏曼尼突然身患重病，被迫辞去工作。50岁时，她发觉自己失业了，困在家里，只有电脑相伴。过了一阵子，她发现上网可以帮助她减轻孤独和无聊。她可以听音乐，看电影，玩游戏，探索世界。她还加入了一个在线群组；在群里，她可以谈论自己的问题，获得其他人的支持和建议。她意识到互联网的最大好处之一就是能够消除通常存在于人和人之间的距离感。"
+    },
+    {
+      "num": "03",
+      "en": "She was so inspired by the people she met online that she decided to start an IT club to teach older people how to use computers and the Internet. She and her friends now organise events and collect money to pay for private teachers. Many people have been helped by the club. A 59-year-old man learnt how to apply for work online and found a great job. Now that he works and can take care of himself, his daughter has time to study at university. A 61-year-old woman who was living alone has started a small online company together with two friends. She no longer feels lonely, and her company has become quite successful.",
+      "cn": "她受到网友的启发，决定成立一个IT俱乐部来教年长一些的人们学习使用电脑和互联网。如今，她与朋友们一起组织各种活动，并为（俱乐部）私人教师的工资筹集资金。许多人得到了俱乐部的帮助。一位59岁的男子学会了如何在网上申请工作，而且找到了一份不错的工作。由于他有事情可做，并能够照顾好自己，他的女儿就有时间上大学了。一位61岁的独居妇女与两位朋友一起创办了一家小型网络公司。她不再感到孤独，而且她的公司也相当成功。"
+    },
+    {
+      "num": "04",
+      "en": "Jan has started taking online classes to learn more about how to use the Internet to make society better. She believes that it is highly important to bridge the digital divide and make sure that everyone has {access} to the Internet and knows how to use new technology. Her next goal is to start a {charity} website to raise money for children in poor countries.",
+      "cn": "简开始参加网络课程，更多地学习如何利用互联网让社会变得更加美好。她认为，消除数字鸿沟、确保每个人都能使用互联网并且知晓如何运用新技术，是非常重要的。她的下一个目标是创建一个慈善网站，为贫穷国家的儿童募捐。"
+    },
+    {
+      "num": "05",
+      "en": "Jan's life has been greatly improved by the Internet. \"When you go through {tough} times, you meet others who are facing similar challenges,\" Jan says. \"Thinking about other people's situations inspired me to offer help.\"",
+      "cn": "简的生活因互联网而得到了极大的改善。\"当你身处逆境时，你会遇到面临相似挑战的人。\"简说道，\"想到别人的处境，我就会受到激励，伸出援助之手。\""
+    }
+  ],
+  "vocab": [
+    {
+      "word": "blog",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "博客；vt. 写博客",
+      "ctx": "博客；写博客"
+    },
+    {
+      "word": "blog post",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "博文；博客帖子",
+      "ctx": "博文；博客帖子"
+    },
+    {
+      "word": "blogger",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "博客作者；博主",
+      "ctx": "博客作者；博主"
+    },
+    {
+      "word": "engine",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "引擎；发动机；火车头",
+      "ctx": "引擎；发动机"
+    },
+    {
+      "word": "search engine",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "（互联网上的）搜索引擎",
+      "ctx": "搜索引擎"
+    },
+    {
+      "word": "chat",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vi.",
+      "meaning": "聊天；闲聊",
+      "ctx": "聊天；闲聊"
+    },
+    {
+      "word": "stream",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "流播（不用下载直接在互联网上播放音视频）；流出；vi. 流动；n. 小河；溪流",
+      "ctx": "流播；流动"
+    },
+    {
+      "word": "identity",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "身份；个性",
+      "ctx": "身份；个性"
+    },
+    {
+      "word": "identity card",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "身份证",
+      "ctx": "身份证"
+    },
+    {
+      "word": "convenient",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "方便的；近便的",
+      "ctx": "方便的"
+    },
+    {
+      "word": "cash",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "现金；金钱",
+      "ctx": "现金"
+    },
+    {
+      "word": "update",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vi.",
+      "meaning": "更新；向……提供最新信息；n. 更新；最新消息",
+      "ctx": "更新；最新消息"
+    },
+    {
+      "word": "database",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "数据库；资料库",
+      "ctx": "数据库；资料库"
+    },
+    {
+      "word": "software",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "软件",
+      "ctx": "软件"
+    },
+    {
+      "word": "network",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "（互联）网络；网状系统；人际网；vt. 将……连接成网络；联播；vi. 建立工作关系",
+      "ctx": "网络；人际网"
+    },
+    {
+      "word": "stuck",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "卡住；陷（入）；困（于）",
+      "ctx": "困（于）；卡住"
+    },
+    {
+      "word": "keep sb company",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "陪伴某人",
+      "ctx": "陪伴某人"
+    },
+    {
+      "word": "surf",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt. & vi.",
+      "meaning": "浏览；冲浪",
+      "ctx": "浏览；冲浪"
+    },
+    {
+      "word": "benefit",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "益处；vt. 使受益；vi. 得益于",
+      "ctx": "益处；使受益"
+    },
+    {
+      "word": "distance",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "距离",
+      "ctx": "距离"
+    },
+    {
+      "word": "inspire",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "鼓舞；激励；启发思考",
+      "ctx": "鼓舞；激励"
+    },
+    {
+      "word": "now that",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "conj.",
+      "meaning": "既然；由于",
+      "ctx": "既然；由于"
+    },
+    {
+      "word": "access",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "通道；（使用、查阅、接近或面见的）机会；vt. 进入；使用；获取",
+      "ctx": "使用机会；获取"
+    },
+    {
+      "word": "charity",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "慈善；慈善机构（或组织）",
+      "ctx": "慈善；慈善机构"
+    },
+    {
+      "word": "go through",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "经历；度过；通读",
+      "ctx": "经历；度过"
+    },
+    {
+      "word": "tough",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "艰难的；严厉的",
+      "ctx": "艰难的"
+    },
+    {
+      "word": "province",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "省",
+      "ctx": "省"
+    },
+    {
+      "word": "conference",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "会议；研讨会；正式会谈",
+      "ctx": "会议；研讨会"
+    },
+    {
+      "word": "resident",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "居民；（美国的）住院医生；adj. （在某地）居住的",
+      "ctx": "居民"
+    },
+    {
+      "word": "plus",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "conj.",
+      "meaning": "而且；此外；n. 加号；优势；prep. 加；另加",
+      "ctx": "而且；此外"
+    },
+    {
+      "word": "function",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "功能；作用；机能；vi. 起作用；正常工作；运转",
+      "ctx": "功能；作用"
+    },
+    {
+      "word": "battery",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "电池",
+      "ctx": "电池"
+    },
+    {
+      "word": "confirm",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "确认；使确信",
+      "ctx": "确认；使确信"
+    },
+    {
+      "word": "Wi-Fi",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "无线保真（用无线电波而非网线在计算机网络传输数据的系统）",
+      "ctx": "无线保真；无线网络"
+    },
+    {
+      "word": "press",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "按，压；敦促",
+      "ctx": "按，压；敦促"
+    },
+    {
+      "word": "button",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "按钮；纽扣",
+      "ctx": "按钮；纽扣"
+    },
+    {
+      "word": "file",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "文件；文件夹；档案",
+      "ctx": "文件；文件夹"
+    },
+    {
+      "word": "in shape",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "状况良好",
+      "ctx": "状况良好"
+    },
+    {
+      "word": "keep track of",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "掌握……的最新消息；了解……的动态",
+      "ctx": "了解……的动态"
+    },
+    {
+      "word": "discount",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "折扣；vt. 打折",
+      "ctx": "折扣"
+    },
+    {
+      "word": "account",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "账户；描述",
+      "ctx": "账户；描述"
+    },
+    {
+      "word": "click",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt. & vi.",
+      "meaning": "点击",
+      "ctx": "点击"
+    },
+    {
+      "word": "privacy",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "隐私；私密",
+      "ctx": "隐私；私密"
+    },
+    {
+      "word": "theft",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "偷（窃）；盗窃罪",
+      "ctx": "偷窃；盗窃罪"
+    },
+    {
+      "word": "rude",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "粗鲁的；无礼的",
+      "ctx": "粗鲁的；无礼的"
+    },
+    {
+      "word": "target",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "目标；对象；靶子；vt. 把……作为攻击目标",
+      "ctx": "目标；对象"
+    },
+    {
+      "word": "troll",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "发挑衅帖子的人；恶意挑衅的帖子",
+      "ctx": "发挑衅帖子的人"
+    },
+    {
+      "word": "cyberbully",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "网霸；vt. & vi. 网络欺凌",
+      "ctx": "网霸；网络欺凌"
+    },
+    {
+      "word": "false",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "假的；错误的",
+      "ctx": "假的；错误的"
+    },
+    {
+      "word": "particular",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "特定的；特别的；讲究的",
+      "ctx": "特定的；特别的"
+    },
+    {
+      "word": "embarrassing",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "让人难堪（尴尬；害羞）的",
+      "ctx": "令人难堪的；尴尬的"
+    },
+    {
+      "word": "make fun of",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "取笑；戏弄",
+      "ctx": "取笑；戏弄"
+    },
+    {
+      "word": "upset",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "心烦的；苦恼的；沮丧的；vt. (upset, upset) 使烦恼；使生气；搅乱",
+      "ctx": "心烦的；使烦恼"
+    },
+    {
+      "word": "guideline",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "准则；指导原则",
+      "ctx": "准则；指导原则"
+    },
+    {
+      "word": "author",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "作者；作家",
+      "ctx": "作者；作家"
+    },
+    {
+      "word": "tip",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "忠告；诀窍；实用的提示",
+      "ctx": "忠告；提示"
+    },
+    {
+      "word": "familiar",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "熟悉；熟知",
+      "ctx": "熟悉；熟知"
+    },
+    {
+      "word": "keep (... ) in mind",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "牢记",
+      "ctx": "牢记"
+    },
+    {
+      "word": "define",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "给……下定义；界定；解释",
+      "ctx": "给……下定义；界定"
+    },
+    {
+      "word": "case",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "盒；箱；情况；案件",
+      "ctx": "盒；情况"
+    },
+    {
+      "word": "the World Wide Web",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "abbr.",
+      "meaning": "WWW万维网；环球信息网",
+      "ctx": "万维网"
+    },
+    {
+      "word": "Jan Tchamani",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "简·夏曼尼（人名）",
+      "ctx": "简·夏曼尼"
+    },
+    {
+      "word": "Birmingham",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "伯明翰（英国城市）",
+      "ctx": "伯明翰"
+    }
+  ]
+}

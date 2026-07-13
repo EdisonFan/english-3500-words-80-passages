@@ -1,0 +1,689 @@
+{
+  "id": 1,
+  "stats": {
+    "words": 386,
+    "core": 18
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "Wednesday, 21 June",
+      "cn": "6月21日，星期三"
+    },
+    {
+      "num": "02",
+      "en": "Today was my first day back in San Francisco after camping in the Redwood Forest and visiting the wine country of Napa Valley. I have to {admit} that it {definitely} feels good to be back in the city again. And what a city—a city that was able to rebuild itself after the earthquake that occurred in 1906. There are so many beautiful old buildings—many sitting on top of big hills, offering great views of the city, the ocean, and the Golden Gate Bridge.",
+      "cn": "在红杉林露营并参观了纳帕谷酒乡后，今天是我回到旧金山的第一天。我得承认，再次回到城里的感觉实在是太棒了。多么神奇的一座城市啊——一座1906年大地震后重建的城市。这里有众多美丽的古建筑——不少坐落于大山之巅，城市、大海和金门大桥的美景尽收眼底。"
+    },
+    {
+      "num": "03",
+      "en": "My hotel is near {downtown}, in the {Mission} {District}, one of the oldest parts of the city. Many of the people living here are from {Mexico} or Central America. This {district} used to be a poor area of town, but is now a centre for art, music, and food. In fact, an art movement called the \"{Mission} School\" started here. It's influenced by {graffiti} art and {comic} art. I walked around looking at the street art for a few hours. It was quite modern and lively. {Afterwards}, I ate some delicious Mexican-Chinese noodles from a food truck. A real mix of cultures here!",
+      "cn": "我住的旅馆靠近市中心，位于教会区，这是旧金山最古老的街区之一。这里的许多居民来自墨西哥或中美洲。这个区过去是城里的一个贫困区域，而现在是艺术、音乐和美食中心。事实上，一场名为\"教会派\"的艺术运动就发源于此。这一运动深受涂鸦艺术和漫画艺术的影响。一连好几个小时，我四处走着，欣赏街头艺术。这些艺术十分现代，也很生动。随后，我吃了一份快餐车售卖的美味的墨西哥式中国面。这真是文化的交融啊！"
+    },
+    {
+      "num": "04",
+      "en": "In the afternoon, I headed to a local museum that showed the {historical} changes in {California}. I learnt that America got {California} from {Mexico} in 1848. In the same year, gold was discovered near San Francisco, which started a gold rush. Over 300,000 people came from all over the world to {seek} their {fortune}, and San Francisco quickly became a big city. Many Chinese arrived during this period. To {earn} a living, some opened up shops and restaurants in Chinatown. Many others found jobs on farms, joined the gold rush, or went to build the railway that joined {California} to the eastern region of the country. The museum did a really good job of showing how America was built by immigrants from different countries and cultures. When these immigrants left their countries, they carried a bit of home in their hearts, and built a new home here.",
+      "cn": "下午，我前往当地一家博物馆参观，博物馆展示了加利福尼亚的历史变迁。我了解到，1848年美国从墨西哥手中得到加利福尼亚。同年，旧金山附近发现黄金，引发了淘金热。世界各地30多万人蜂拥而至，在这里谋出路，旧金山迅速成为一座大都市。很多中国人也在这个时期来到此地。为了谋生，有些人在唐人街开商店、开餐馆。更多的人则在农场打工、加入淘金大军，或者参与修建加州通往美国东部的铁路。这家博物馆完美地展示了美国是如何由不同国家和文化的移民建设起来的。这些移民离开他们的祖国时，心中装着一片故土，最终在这里建立了新家园。"
+    },
+    {
+      "num": "05",
+      "en": "This evening, I went to Chinatown. There were so many cafés and restaurants to choose from. I selected a {Cantonese} restaurant that served its food on beautiful {china} plates. What great food!",
+      "cn": "今晚，我去了唐人街。这里有很多不错的咖啡馆和餐馆可供选择。我挑了一家粤菜馆，他们端出来的菜肴是放在精美的瓷盘子上的。太好吃了！"
+    },
+    {
+      "num": "06",
+      "en": "That's enough for today. Tomorrow evening, I'm going to a {jazz} {bar} in the Richmond {District}. Can't wait!",
+      "cn": "今天就写到这里吧。明天晚上，我要去里士满区的一家爵士酒吧。我已经迫不及待了！"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "diverse",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "不同的；多种多样的",
+      "ctx": "不同的；多种多样的"
+    },
+    {
+      "word": "diversity",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "差异(性)；不同(点)；多样性",
+      "ctx": "多样性；差异"
+    },
+    {
+      "word": "fortune",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "机会；运气",
+      "ctx": "财富；运气"
+    },
+    {
+      "word": "fortune cookie",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "幸运曲奇",
+      "ctx": "幸运曲奇"
+    },
+    {
+      "word": "gumbo",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "秋葵汤(用秋葵做的浓鸡汤或海鲜汤)",
+      "ctx": "秋葵汤"
+    },
+    {
+      "word": "nachos",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n. [pl.]",
+      "meaning": "墨西哥玉米片",
+      "ctx": "墨西哥玉米片"
+    },
+    {
+      "word": "chip",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "(英)炸土豆条；(美)炸薯片；芯片；碎片",
+      "ctx": "炸薯片；碎片"
+    },
+    {
+      "word": "cheese",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "干酪；奶酪",
+      "ctx": "干酪；奶酪"
+    },
+    {
+      "word": "spicy",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "加有香料的；辛辣的",
+      "ctx": "辛辣的；加香料的"
+    },
+    {
+      "word": "ethnic",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "具有民族特色的；异国风味的；民族的；种族的",
+      "ctx": "民族的；异国风味的"
+    },
+    {
+      "word": "admit",
+      "type": "core",
+      "phonetic": "",
+      "pos": "vi. & vt.",
+      "meaning": "承认 vt. 准许进入(或加入)",
+      "ctx": "承认；准许进入"
+    },
+    {
+      "word": "definitely",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "肯定；确实",
+      "ctx": "肯定；确实"
+    },
+    {
+      "word": "occur",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vi.",
+      "meaning": "发生；出现",
+      "ctx": "发生；出现"
+    },
+    {
+      "word": "downtown",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "在市中心；往市中心",
+      "ctx": "在市中心"
+    },
+    {
+      "word": "mission",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "传教(区)；重要任务；使命",
+      "ctx": "传教区；使命"
+    },
+    {
+      "word": "district",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "地区；区域",
+      "ctx": "地区；区域"
+    },
+    {
+      "word": "graffiti",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n. [pl.]",
+      "meaning": "涂鸦；胡写乱画",
+      "ctx": "涂鸦"
+    },
+    {
+      "word": "comic",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "连环画杂志；漫画杂志；喜剧演员 adj. 滑稽的；使人发笑的",
+      "ctx": "漫画；滑稽的"
+    },
+    {
+      "word": "afterwards",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "以后；后来",
+      "ctx": "以后；后来"
+    },
+    {
+      "word": "head to",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "(朝……)前进；(向……)去",
+      "ctx": "（朝……）前进"
+    },
+    {
+      "word": "historical",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "(有关)历史的",
+      "ctx": "（有关）历史的"
+    },
+    {
+      "word": "seek",
+      "type": "core",
+      "phonetic": "",
+      "pos": "vt. & vi.",
+      "meaning": "(sought, sought) 寻找；寻求；争取；(向人)请求",
+      "ctx": "寻找；寻求"
+    },
+    {
+      "word": "seek one's fortune",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "寻找成功致富之路；闯世界",
+      "ctx": "寻找成功致富之路；闯世界"
+    },
+    {
+      "word": "earn",
+      "type": "core",
+      "phonetic": "",
+      "pos": "vt. & vi.",
+      "meaning": "挣得；赚得；赢得；博得",
+      "ctx": "挣得；赚得"
+    },
+    {
+      "word": "earn a living",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "谋生",
+      "ctx": "谋生"
+    },
+    {
+      "word": "immigrant",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "(外来)移民；外侨",
+      "ctx": "（外来）移民"
+    },
+    {
+      "word": "select",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "选择；挑选；选拔",
+      "ctx": "选择；挑选"
+    },
+    {
+      "word": "china",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "瓷；瓷器",
+      "ctx": "瓷；瓷器"
+    },
+    {
+      "word": "jazz",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "爵士乐",
+      "ctx": "爵士乐"
+    },
+    {
+      "word": "bar",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "酒吧；小吃店；小馆子",
+      "ctx": "酒吧；小吃店"
+    },
+    {
+      "word": "diagram",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "简图；图解；图表；示意图",
+      "ctx": "简图；示意图"
+    },
+    {
+      "word": "journal",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "日志；日记；报纸；刊物",
+      "ctx": "日志；日记"
+    },
+    {
+      "word": "claim",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt. & n.",
+      "meaning": "夺取(生命)；宣称；断言",
+      "ctx": "夺取；宣称"
+    },
+    {
+      "word": "series",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "一系列；连续；接连",
+      "ctx": "一系列；连续"
+    },
+    {
+      "word": "a series of",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "一系列或一连串(事件)",
+      "ctx": "一系列"
+    },
+    {
+      "word": "apart from",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "除了……外(还)；此外",
+      "ctx": "除了……外（还）"
+    },
+    {
+      "word": "minority",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "少数民族；少数派；少数人",
+      "ctx": "少数民族；少数派"
+    },
+    {
+      "word": "escape",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vi. & vt.",
+      "meaning": "逃走；逃脱；避开 n. 逃跑；逃脱；解脱",
+      "ctx": "逃走；逃脱"
+    },
+    {
+      "word": "bring about",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "导致；引起",
+      "ctx": "导致；引起"
+    },
+    {
+      "word": "Atlantic",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "大西洋的",
+      "ctx": "大西洋的"
+    },
+    {
+      "word": "financial",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "财政的；财务的；金融的",
+      "ctx": "财政的；金融的"
+    },
+    {
+      "word": "poetry",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "诗集；诗歌；诗作",
+      "ctx": "诗歌；诗作"
+    },
+    {
+      "word": "jeans",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "牛仔裤",
+      "ctx": "牛仔裤"
+    },
+    {
+      "word": "boot",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "靴子",
+      "ctx": "靴子"
+    },
+    {
+      "word": "mushroom",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "蘑菇",
+      "ctx": "蘑菇"
+    },
+    {
+      "word": "poisonous",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "引起中毒的；有毒的；分泌毒素的",
+      "ctx": "有毒的；引起中毒的"
+    },
+    {
+      "word": "poison",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "毒物；毒药；毒素 vt. 毒死；毒害",
+      "ctx": "毒物；毒药"
+    },
+    {
+      "word": "fold",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt. & vi.",
+      "meaning": "包；裹；折叠；(可)折小；(可)叠平",
+      "ctx": "折叠；包；裹"
+    },
+    {
+      "word": "super",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "特别；格外 adj. 顶好的；超级的",
+      "ctx": "特别；超级的"
+    },
+    {
+      "word": "collection",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "作品集；收集物；收藏品",
+      "ctx": "作品集；收藏品"
+    },
+    {
+      "word": "accessory",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "配饰；附件；配件",
+      "ctx": "配饰；配件"
+    },
+    {
+      "word": "souvenir",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "纪念物；纪念品",
+      "ctx": "纪念物；纪念品"
+    },
+    {
+      "word": "percentage",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "百分率；百分比",
+      "ctx": "百分率；百分比"
+    },
+    {
+      "word": "climate",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "气候",
+      "ctx": "气候"
+    },
+    {
+      "word": "mild",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "温和的；和善的；轻微的",
+      "ctx": "温和的；轻微的"
+    },
+    {
+      "word": "settle",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt. & vi.",
+      "meaning": "定居；结束(争论)；解决(纠纷)",
+      "ctx": "定居；解决"
+    },
+    {
+      "word": "construction",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "建筑；建造；建造物；(句子、短语等的)结构",
+      "ctx": "建筑；建造"
+    },
+    {
+      "word": "material",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "材料；布料；素材 adj. 物质的；实际的",
+      "ctx": "材料；布料"
+    },
+    {
+      "word": "to name but a few",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "仅举几例",
+      "ctx": "仅举几例"
+    },
+    {
+      "word": "tai chi",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "太极拳",
+      "ctx": "太极拳"
+    },
+    {
+      "word": "clothing",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "衣服；服装",
+      "ctx": "衣服；服装"
+    },
+    {
+      "word": "herbal",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "药草的；香草的",
+      "ctx": "药草的；香草的"
+    },
+    {
+      "word": "suit",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "适合；满足……需要；相配；合身 n. 西服；套装",
+      "ctx": "适合；套装"
+    },
+    {
+      "word": "at first hand",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "第一手；亲自",
+      "ctx": "第一手；亲自"
+    },
+    {
+      "word": "item",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "项目；一件商品(或物品)；一条(新闻)",
+      "ctx": "项目；一件商品"
+    },
+    {
+      "word": "contain",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "包含；含有；容纳",
+      "ctx": "包含；容纳"
+    },
+    {
+      "word": "neat",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "极好的；整洁的；整齐的",
+      "ctx": "极好的；整洁的"
+    },
+    {
+      "word": "San Francisco",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "圣弗朗西斯科(旧金山)(美国城市)",
+      "ctx": "圣弗朗西斯科（旧金山）"
+    },
+    {
+      "word": "Napa Valley",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "纳帕谷(美国)",
+      "ctx": "纳帕谷"
+    },
+    {
+      "word": "the Golden Gate Bridge",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "金门桥",
+      "ctx": "金门桥"
+    },
+    {
+      "word": "the Mission District",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "教会区(旧金山)",
+      "ctx": "教会区（旧金山）"
+    },
+    {
+      "word": "Mexico",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "墨西哥(北美洲国家)",
+      "ctx": "墨西哥"
+    },
+    {
+      "word": "California",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "加利福尼亚(美国州名)",
+      "ctx": "加利福尼亚"
+    },
+    {
+      "word": "Cantonese",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj. & n.",
+      "meaning": "广东的；粤语的 n. 粤语；广东人",
+      "ctx": "广东的；粤语"
+    },
+    {
+      "word": "the Richmond District",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "里士满区(旧金山)",
+      "ctx": "里士满区（旧金山）"
+    },
+    {
+      "word": "Huangguoshu Waterfall",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "黄果树瀑布",
+      "ctx": "黄果树瀑布"
+    },
+    {
+      "word": "Journey to the West",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "《西游记》",
+      "ctx": "《西游记》"
+    },
+    {
+      "word": "Tin How Temple",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "天后古庙",
+      "ctx": "天后古庙"
+    },
+    {
+      "word": "Bank of Canton",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "广东银行",
+      "ctx": "广东银行"
+    },
+    {
+      "word": "Portsmouth Square",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "花园角广场(旧金山)",
+      "ctx": "花园角广场（旧金山）"
+    },
+    {
+      "word": "Robert Louis Stevenson",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "罗伯特·路易斯·斯蒂文森(英国作家)",
+      "ctx": "罗伯特·路易斯·斯蒂文森"
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "id": 2,
+  "stats": {
+    "words": 344,
+    "core": 4
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "**Wang Le:** Hey, everybody, what are your biggest problems with learning English? **Liu Wen:** Hi! I've been studying English since primary school. I used to get high marks in English, but now I'm having a lot of trouble with my listening. When I listen to {native} English speakers talking in a video, I can catch only a few words. I can never quite get the main idea. Any advice? **Jia Xin:** Listening to English radio programmes helps me get used to how fast {native} speakers talk. I also repeat what I hear to help myself to experience the feeling of the language. Sometimes I even record my voice so I can listen to myself and compare my pronunciation with the radio host's! My biggest headache is how to be polite in English. It's so much easier to just say \"Open the window!\", but in English that can sound really terrible. I have to think about who I'm talking to and then decide whether to say, \"Open the window, please!\" or \"Could you open the window, please?\" or even longer \"Would you mind opening the window, please?\" **Li Rui:** Yeah, that's really hard! I think it all depends on who you're talking to. If I'm talking to a close friend, I can use short requests, like \"Open the window\" — our relationship is close and we're equals, so I only need a few words to bridge the {gap} between us. But if I'm talking to someone who isn't very close to me, I must make my request longer — and I must make it a question, not a {demand}, e.g., \"Could you open the window, please?\" If I'm talking to someone senior to me, then I should say, \"Would you mind opening the window, please?\" For me, {vocabulary} is my biggest problem — there are just SO MANY new words! I can't keep all the new {vocabulary} straight in my head, and I certainly can't remember how to use them all properly. HELP!",
+      "cn": "**王乐：** 嘿，各位，你们学习英语时遇到的最大问题是什么？ **刘文：** 你好！我从小学起就一直在学英语。我以前英语成绩很好，但现在听力遇到了很大麻烦。当我听以英语为母语的人在视频里说话时，只能听清几个单词。我从来都抓不住大意。有什么建议吗？ **贾欣：** 听英语广播节目能帮我习惯母语人士的语速。我还会复述听到的内容，以此体会这门语言的感觉。有时我甚至把自己的声音录下来，这样就能听自己的发音，并和广播主持人的发音作比较！我最头疼的是怎样礼貌地说英语。直接说 \"Open the window!\" 容易多了，但在英语里听起来真的很糟糕。我得想想自己在跟谁说话，然后再决定说 \"Open the window, please!\" 还是 \"Could you open the window, please?\"，或者更长的 \"Would you mind opening the window, please?\" **李瑞：** 是啊，那真的很难！我觉得这完全取决于你在跟谁说话。如果和好朋友说话，我可以用简短的请求，比如 \"Open the window\"——我们关系亲近，彼此平等，所以只需几个词就能拉近距离。但如果和不太亲近的人说话，我就得把请求说得长一些——而且得把它变成问句，而不是命令，例如 \"Could you open the window, please?\" 如果和长辈说话，我就应该说 \"Would you mind opening the window, please?\" 对我来说，词汇是最大的问题——生词实在太多了！我没法在脑子里把所有生词理清楚，当然也记不住如何正确使用它们。帮帮我吧！"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "billion",
+      "type": "outline",
+      "phonetic": "/ˈbɪljən/",
+      "pos": "n.",
+      "meaning": "十亿",
+      "ctx": "十亿"
+    },
+    {
+      "word": "native",
+      "type": "core",
+      "phonetic": "/ˈneɪtɪv/",
+      "pos": "adj. / n.",
+      "meaning": "出生地的；本地的；本地人",
+      "ctx": "母语的；本地的"
+    },
+    {
+      "word": "attitude",
+      "type": "outline",
+      "phonetic": "/ˈætɪtjuːd/",
+      "pos": "n.",
+      "meaning": "态度；看法",
+      "ctx": "态度；看法"
+    },
+    {
+      "word": "reference",
+      "type": "outline",
+      "phonetic": "/ˈrefrəns/",
+      "pos": "n.",
+      "meaning": "指称关系；参考",
+      "ctx": "参考；指称"
+    },
+    {
+      "word": "refer",
+      "type": "outline",
+      "phonetic": "/rɪˈfɜː(r)/",
+      "pos": "vi. / vt.",
+      "meaning": "提到；参考；查阅",
+      "ctx": "提到；参考"
+    },
+    {
+      "word": "refer to",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "指的是；描述；提到；查阅",
+      "ctx": "指的是；提到；查阅"
+    },
+    {
+      "word": "system",
+      "type": "outline",
+      "phonetic": "/ˈsɪstəm/",
+      "pos": "n.",
+      "meaning": "体系；制度；系统",
+      "ctx": "体系；系统"
+    },
+    {
+      "word": "civilisation (AmE civilization)",
+      "type": "outline",
+      "phonetic": "/ˌsɪvəlaɪˈzeɪʃn/",
+      "pos": "n.",
+      "meaning": "文明；文明世界",
+      "ctx": "文明"
+    },
+    {
+      "word": "despite",
+      "type": "outline",
+      "phonetic": "/dɪˈspaɪt/",
+      "pos": "prep.",
+      "meaning": "即使；尽管",
+      "ctx": "尽管；即使"
+    },
+    {
+      "word": "ups and downs",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "浮沉；兴衰；荣辱",
+      "ctx": "浮沉；兴衰"
+    },
+    {
+      "word": "factor",
+      "type": "outline",
+      "phonetic": "/ˈfæktə(r)/",
+      "pos": "n.",
+      "meaning": "因素；要素",
+      "ctx": "因素；要素"
+    },
+    {
+      "word": "base",
+      "type": "outline",
+      "phonetic": "/beɪs/",
+      "pos": "vt. / n.",
+      "meaning": "以……为基础；底部",
+      "ctx": "以……为基础；底部"
+    },
+    {
+      "word": "based",
+      "type": "outline",
+      "phonetic": "/beɪst/",
+      "pos": "adj.",
+      "meaning": "以（某事）为基础的",
+      "ctx": "以……为基础的"
+    },
+    {
+      "word": "date back (to ...)",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "追溯到",
+      "ctx": "追溯到"
+    },
+    {
+      "word": "bone",
+      "type": "outline",
+      "phonetic": "/bəʊn/",
+      "pos": "n.",
+      "meaning": "骨头；骨（质）",
+      "ctx": "骨头"
+    },
+    {
+      "word": "shell",
+      "type": "outline",
+      "phonetic": "/ʃel/",
+      "pos": "n.",
+      "meaning": "壳；壳状物",
+      "ctx": "壳"
+    },
+    {
+      "word": "symbol",
+      "type": "outline",
+      "phonetic": "/ˈsɪmbl/",
+      "pos": "n.",
+      "meaning": "符号；象征",
+      "ctx": "符号；象征"
+    },
+    {
+      "word": "carve",
+      "type": "outline",
+      "phonetic": "/kɑːv/",
+      "pos": "vt. & vi.",
+      "meaning": "雕刻",
+      "ctx": "雕刻"
+    },
+    {
+      "word": "dynasty",
+      "type": "outline",
+      "phonetic": "/ˈdɪnəsti/",
+      "pos": "n.",
+      "meaning": "王朝；朝代",
+      "ctx": "朝代；王朝"
+    },
+    {
+      "word": "variety",
+      "type": "outline",
+      "phonetic": "/vəˈraɪəti/",
+      "pos": "n.",
+      "meaning": "变体；异体；多样化",
+      "ctx": "多样化；变体"
+    },
+    {
+      "word": "major",
+      "type": "outline",
+      "phonetic": "/ˈmeɪdʒə(r)/",
+      "pos": "adj. / n. / vi.",
+      "meaning": "主要的；主修；主修",
+      "ctx": "主要的；主修"
+    },
+    {
+      "word": "no matter where, who, what, etc.",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "不论……；不管……",
+      "ctx": "不论；不管"
+    },
+    {
+      "word": "dialect",
+      "type": "outline",
+      "phonetic": "/ˈdaɪəlekt/",
+      "pos": "n.",
+      "meaning": "地方话；方言",
+      "ctx": "方言"
+    },
+    {
+      "word": "means",
+      "type": "outline",
+      "phonetic": "/miːnz/",
+      "pos": "n.",
+      "meaning": "方式；方法；途径",
+      "ctx": "方式；方法"
+    },
+    {
+      "word": "classic",
+      "type": "outline",
+      "phonetic": "/ˈklæsɪk/",
+      "pos": "adj. / n.",
+      "meaning": "传统的；典型的；经典作品",
+      "ctx": "经典的；经典作品"
+    },
+    {
+      "word": "regard",
+      "type": "outline",
+      "phonetic": "/rɪˈɡɑːd/",
+      "pos": "n. / vt.",
+      "meaning": "尊重；关注；把……视为",
+      "ctx": "尊重；把……视为"
+    },
+    {
+      "word": "character",
+      "type": "outline",
+      "phonetic": "/ˈkærəktə(r)/",
+      "pos": "n.",
+      "meaning": "文字；符号；角色；品质",
+      "ctx": "文字；符号"
+    },
+    {
+      "word": "calligraphy",
+      "type": "outline",
+      "phonetic": "/kəˈlɪɡrəfi/",
+      "pos": "n.",
+      "meaning": "书法；书法艺术",
+      "ctx": "书法"
+    },
+    {
+      "word": "global",
+      "type": "outline",
+      "phonetic": "/ˈɡləʊbl/",
+      "pos": "adj.",
+      "meaning": "全球的；全世界的",
+      "ctx": "全球的"
+    },
+    {
+      "word": "affair",
+      "type": "outline",
+      "phonetic": "/əˈfeə(r)/",
+      "pos": "n.",
+      "meaning": "公共事务；事件；关系",
+      "ctx": "事务；事件"
+    },
+    {
+      "word": "appreciate",
+      "type": "outline",
+      "phonetic": "/əˈpriːʃieɪt/",
+      "pos": "vt. / vi.",
+      "meaning": "欣赏；重视；感激；领会",
+      "ctx": "欣赏；重视"
+    },
+    {
+      "word": "specific",
+      "type": "outline",
+      "phonetic": "/spəˈsɪfɪk/",
+      "pos": "adj.",
+      "meaning": "特定的；明确的；具体的",
+      "ctx": "特定的；具体的"
+    },
+    {
+      "word": "struggle",
+      "type": "outline",
+      "phonetic": "/ˈstrʌɡl/",
+      "pos": "n. & vi.",
+      "meaning": "斗争；奋斗；搏斗",
+      "ctx": "奋斗；斗争"
+    },
+    {
+      "word": "tongue",
+      "type": "outline",
+      "phonetic": "/tʌŋ/",
+      "pos": "n.",
+      "meaning": "舌头；语言",
+      "ctx": "语言；舌头"
+    },
+    {
+      "word": "point of view",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "观点；看法",
+      "ctx": "观点；看法"
+    },
+    {
+      "word": "semester",
+      "type": "outline",
+      "phonetic": "/sɪˈmestə(r)/",
+      "pos": "n.",
+      "meaning": "学期",
+      "ctx": "学期"
+    },
+    {
+      "word": "gas",
+      "type": "outline",
+      "phonetic": "/ɡæs/",
+      "pos": "n.",
+      "meaning": "汽油；气体；燃气",
+      "ctx": "气体；汽油"
+    },
+    {
+      "word": "petrol",
+      "type": "outline",
+      "phonetic": "/ˈpetrəl/",
+      "pos": "n.",
+      "meaning": "（NAmE gas）汽油",
+      "ctx": "汽油"
+    },
+    {
+      "word": "subway",
+      "type": "outline",
+      "phonetic": "/ˈsʌbweɪ/",
+      "pos": "n.",
+      "meaning": "（BrE underground）地铁",
+      "ctx": "地铁"
+    },
+    {
+      "word": "apartment",
+      "type": "outline",
+      "phonetic": "/əˈpɑːtmənt/",
+      "pos": "n.",
+      "meaning": "（especially NAmE）公寓套房",
+      "ctx": "公寓套房"
+    },
+    {
+      "word": "pants",
+      "type": "outline",
+      "phonetic": "/pænts/",
+      "pos": "n. [pl.]",
+      "meaning": "（BrE）内裤；（NAmE）裤子",
+      "ctx": "裤子；内裤"
+    },
+    {
+      "word": "beg",
+      "type": "outline",
+      "phonetic": "/beɡ/",
+      "pos": "vt.",
+      "meaning": "恳求；祈求；哀求",
+      "ctx": "恳求；哀求"
+    },
+    {
+      "word": "equal",
+      "type": "outline",
+      "phonetic": "/ˈiːkwəl/",
+      "pos": "n. / adj.",
+      "meaning": "同等的人；相同的",
+      "ctx": "平等的；同等的人"
+    },
+    {
+      "word": "gap",
+      "type": "core",
+      "phonetic": "/ɡæp/",
+      "pos": "n.",
+      "meaning": "间隔；开口；差距",
+      "ctx": "差距；间隔"
+    },
+    {
+      "word": "demand",
+      "type": "core",
+      "phonetic": "/dɪˈmɑːnd/",
+      "pos": "n. / vt.",
+      "meaning": "要求；需求；强烈要求",
+      "ctx": "要求；命令"
+    },
+    {
+      "word": "vocabulary",
+      "type": "core",
+      "phonetic": "/vəˈkæbjələri/",
+      "pos": "n.",
+      "meaning": "词汇",
+      "ctx": "词汇"
+    },
+    {
+      "word": "description",
+      "type": "outline",
+      "phonetic": "/dɪˈskrɪpʃn/",
+      "pos": "n.",
+      "meaning": "描写（文字）；形容",
+      "ctx": "描写；描述"
+    },
+    {
+      "word": "relate",
+      "type": "outline",
+      "phonetic": "/rɪˈleɪt/",
+      "pos": "vt.",
+      "meaning": "联系；讲述",
+      "ctx": "联系；讲述"
+    },
+    {
+      "word": "relate to",
+      "type": "outline",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "与……相关；涉及；谈到",
+      "ctx": "与……相关；涉及"
+    },
+    {
+      "word": "Korean",
+      "type": "outline",
+      "phonetic": "/kəˈriən/",
+      "pos": "n. / adj.",
+      "meaning": "朝鲜（或韩国）语；朝鲜（或韩国）的",
+      "ctx": "韩语；朝鲜（韩国）的"
+    },
+    {
+      "word": "Danish",
+      "type": "outline",
+      "phonetic": "/ˈdeɪnɪʃ/",
+      "pos": "n. / adj.",
+      "meaning": "丹麦语；丹麦的",
+      "ctx": "丹麦语；丹麦的"
+    },
+    {
+      "word": "Denmark",
+      "type": "outline",
+      "phonetic": "/ˈdenmɑːk/",
+      "pos": "n.",
+      "meaning": "丹麦（国家名）",
+      "ctx": "丹麦"
+    },
+    {
+      "word": "Arabic",
+      "type": "outline",
+      "phonetic": "/ˈærəbɪk/",
+      "pos": "n. / adj.",
+      "meaning": "阿拉伯语；阿拉伯的",
+      "ctx": "阿拉伯语；阿拉伯的"
+    }
+  ]
+}

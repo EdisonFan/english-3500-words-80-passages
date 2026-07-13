@@ -1,0 +1,56 @@
+{
+  "id": "sel1",
+  "title": "高中英语 选择性必修第一册",
+  "subtitle": "人教版 (2019 版)",
+  "cover": null,
+  "color": "#3A6FB0",
+  "desc": "人民教育出版社 2019 版高中英语选择性必修第一册,10 篇主课文 + 单元单词表",
+  "passageCount": 10,
+  "units": [
+    {
+      "id": "u01",
+      "num": 1,
+      "title": "People of Achievement 人物成就",
+      "passages": [
+        "p001",
+        "p002"
+      ]
+    },
+    {
+      "id": "u02",
+      "num": 2,
+      "title": "Looking into the Future 展望未来",
+      "passages": [
+        "p003",
+        "p004"
+      ]
+    },
+    {
+      "id": "u03",
+      "num": 3,
+      "title": "Fascinating Parks 迷人的公园",
+      "passages": [
+        "p005",
+        "p006"
+      ]
+    },
+    {
+      "id": "u04",
+      "num": 4,
+      "title": "Body Language 肢体语言",
+      "passages": [
+        "p007",
+        "p008"
+      ]
+    },
+    {
+      "id": "u05",
+      "num": 5,
+      "title": "Working the Land 耕耘土地",
+      "passages": [
+        "p009",
+        "p010"
+      ]
+    }
+  ]
+}

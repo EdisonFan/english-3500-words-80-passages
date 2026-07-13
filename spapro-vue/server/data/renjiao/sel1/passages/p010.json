@@ -1,0 +1,244 @@
+{
+  "id": 2,
+  "stats": {
+    "words": 479,
+    "core": 11
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "{Chemical} pesticides and artificial fertilisers have been in {widespread} use in farming since the middle of the 20th century. When they were first introduced, many farmers welcomed them as a great way to fight crop disease and increase production. Over time, however, what some scientists have found is that their long-term use can sometimes harm both the land and people's health.",
+      "cn": "自二十世纪中叶以来，化学农药和人工肥料便在农业中广泛使用。它们刚被引入时，许多农民把它们当作抵御作物病害、提高产量的好方法而欣然接受。然而久而久之，一些科学家发现，长期使用它们有时会既危害土地，又危害人体健康。"
+    },
+    {
+      "num": "02",
+      "en": "For example, pesticides can damage the land by killing not only harmful bacteria and insects, but also helpful ones. In addition, these chemicals can stay in the soil and underground water sources for a long time. This affects the crops grown on the land and, in turn, the animals and humans who {digest} them. Many people worry that these chemicals may make them ill and even cause cancer. In fact, some pesticides like DDT have been prohibited in most countries because of the damage they cause to people and the environment. As for {chemical} fertilisers, crops grown with them usually grow too fast to be rich in {nutrition}. They may look beautiful on the outside, but inside there is usually more water than {essential} minerals, and they often have less flavour as well.",
+      "cn": "例如，农药在杀死有害细菌和昆虫的同时，也会杀死有益的细菌和昆虫，从而破坏土地。此外，这些化学物质会在土壤和地下水源中长期残留。这会影响地里生长的作物，进而影响消化这些作物的人和动物。许多人担心这些化学品会让他们生病，甚至引发癌症。事实上，由于对人体和环境造成危害，像滴滴涕（DDT）这样的农药已在大多数国家被禁用。至于化学肥料，施用了它们的作物通常生长过快，以致营养不足。它们外表可能好看，但内部往往水分多于必需的矿物质，而且常常味道也不够好。"
+    },
+    {
+      "num": "03",
+      "en": "As an {alternative}, some farmers have switched to {organic} farming, and many customers have turned to {organic} food when they shop at the local {grocery}. {Organic} farming is simply farming without using any chemicals. {Organic} farmers focus on keeping their soil rich and free of disease through natural means. For example, many {organic} farmers use natural waste from animals as fertiliser. This makes the soil in their fields richer in minerals. It also keeps the air, soil, water, and crops free of chemicals.",
+      "cn": "作为一种替代，一些农民已转向有机耕作，许多顾客在本地食品店购物时也转而购买有机食品。有机耕作就是不使用任何化学品的耕作。有机耕作者注重通过天然方式保持土壤肥沃、无病害。例如，许多有机耕作者用天然的畜粪作肥料，这使田里的土壤富含矿物质，也使空气、土壤、水和作物免遭化学品污染。"
+    },
+    {
+      "num": "04",
+      "en": "{Organic} farmers also use many other methods to produce rich soil. They often change the kind of crop grown in each field every year. For {instance}, they may grow corn or {wheat} in a field one year, and then grow beans there the next. Why different crops are grown is because they put important minerals back into the ground, making it ready for the next batch of crops. {Organic} farmers also plant diverse crops that use different depths of soil to help keep it rich. For example, peanuts grow on the ground's surface, but many other vegetables put down deep roots. The goal of using different {organic} farming methods is to grow good food while avoiding damage to the environment or to people's health.",
+      "cn": "有机耕作者还采用许多其他方法来培育肥沃的土壤。他们通常每年更换每块田里所种作物的种类。例如，他们可能一年在田里种玉米或小麦，第二年改种豆类。种植不同作物的原因是它们能把重要的矿物质归还土壤，使土壤为下一批作物做好准备。有机耕作者还种植利用不同土层深度的多样化作物，以帮助保持土壤肥沃。例如，花生长在地表，而许多其他蔬菜则扎根深处。采用不同有机耕作方法的目的在于生产优质食物，同时避免损害环境或人体健康。"
+    },
+    {
+      "num": "05",
+      "en": "Some people would prefer to stop the use of man-made chemicals in agriculture {entirely}. What keeps them from doing so is the fact that {chemical} farming serves the high demand for food around the world. {Organic} farming is nowhere near able to meet that need. Therefore, there is still a long way to find a suitable solution that puts sufficient food on the dinner table while keeping people and the environment as healthy as possible.",
+      "cn": "有些人更愿意在农业中完全停止使用人造化学品。使他们未能如愿的原因是，化学耕作满足了全世界对食物的高需求，而有机耕作还远远不能满足这一需求。因此，要找到一个既让人和环境尽可能健康、又能让餐桌上有充足食物的恰当解决办法，还有很长的路要走。"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "chemical",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "化学的",
+      "ctx": "化学的"
+    },
+    {
+      "word": "wheat",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "小麦；小麦籽",
+      "ctx": "小麦"
+    },
+    {
+      "word": "flavor",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "味道；特点；特色",
+      "ctx": "味道"
+    },
+    {
+      "word": "fertilizer",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "肥料",
+      "ctx": "肥料"
+    },
+    {
+      "word": "nutritional",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "营养（物）的",
+      "ctx": "营养的"
+    },
+    {
+      "word": "nutritious",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "有营养的；营养丰富的",
+      "ctx": "有营养的"
+    },
+    {
+      "word": "nutrition",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "营养；滋养",
+      "ctx": "营养"
+    },
+    {
+      "word": "alleviate",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "减轻；缓解",
+      "ctx": "缓解"
+    },
+    {
+      "word": "poverty",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "贫穷；贫困",
+      "ctx": "贫穷"
+    },
+    {
+      "word": "organic",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "有机的；不使用化肥的",
+      "ctx": "有机的"
+    },
+    {
+      "word": "pesticide",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "杀虫剂；除害药物",
+      "ctx": "杀虫剂"
+    },
+    {
+      "word": "widespread",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "分布广的；普遍的；广泛的",
+      "ctx": "广泛的"
+    },
+    {
+      "word": "bacterium",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "细菌",
+      "ctx": "细菌"
+    },
+    {
+      "word": "in turn",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "短语",
+      "meaning": "相应地；转而；依次；轮流",
+      "ctx": "进而；转而"
+    },
+    {
+      "word": "digest",
+      "type": "core",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "消化；领会",
+      "ctx": "消化"
+    },
+    {
+      "word": "essential",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "完全必要的；极其重要的",
+      "ctx": "必需的"
+    },
+    {
+      "word": "mineral",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "矿物；矿物质",
+      "ctx": "矿物质"
+    },
+    {
+      "word": "alternative",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "可供选择的事物",
+      "ctx": "替代（方法）"
+    },
+    {
+      "word": "grocery",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "食品杂货店；食品杂货",
+      "ctx": "食品杂货店"
+    },
+    {
+      "word": "instance",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "例子；实例；事例",
+      "ctx": "例子"
+    },
+    {
+      "word": "for instance",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "短语",
+      "meaning": "例如；比如",
+      "ctx": "例如"
+    },
+    {
+      "word": "depth",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "深（度）；向下（或向里）的距离",
+      "ctx": "深度"
+    },
+    {
+      "word": "root",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "根；根茎；根源",
+      "ctx": "根"
+    },
+    {
+      "word": "entirely",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "全部地；完整地；完全地",
+      "ctx": "完全地"
+    },
+    {
+      "word": "aspect",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "方面；层面",
+      "ctx": "方面"
+    },
+    {
+      "word": "Vietnam",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "越南（国家名）",
+      "ctx": "越南"
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "word": "morning",
+  "found": true,
+  "phonetic_uk": "ˈmɔːnɪŋ",
+  "phonetic_us": "ˈmɔːrnɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=morning&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=morning&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "早晨；黎明；初期"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "mornings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I've been sneezing all morning.",
+      "zh": "我一上午直打喷嚏。"
+    },
+    {
+      "en": "The morning has just flashed by.",
+      "zh": "这个上午转眼就过去了。"
+    },
+    {
+      "en": "It was a beautiful morning.",
+      "zh": "那是个迷人的早晨。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "早晨；黎明；初期",
+      "words": [
+        "prime",
+        "sunrise"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研"
+  ],
+  "phrs": [
+    {
+      "phrase": "in the morning",
+      "translations": [
+        "在清晨；次日上午"
+      ]
+    },
+    {
+      "phrase": "good morning",
+      "translations": [
+        "int. 早安，早上好"
+      ]
+    },
+    {
+      "phrase": "every morning",
+      "translations": [
+        "每天早晨"
+      ]
+    },
+    {
+      "phrase": "tomorrow morning",
+      "translations": [
+        "明天早上"
+      ]
+    },
+    {
+      "phrase": "next morning",
+      "translations": [
+        "第二天早晨；明天早晨"
+      ]
+    },
+    {
+      "phrase": "early morning",
+      "translations": [
+        "清晨；早上；早晨"
+      ]
+    },
+    {
+      "phrase": "yesterday morning",
+      "translations": [
+        "昨天早上"
+      ]
+    },
+    {
+      "phrase": "early in the morning",
+      "translations": [
+        "清晨；大清早"
+      ]
+    },
+    {
+      "phrase": "sunday morning",
+      "translations": [
+        "星期天早晨"
+      ]
+    },
+    {
+      "phrase": "monday morning",
+      "translations": [
+        "星期一的早晨"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 331,
+          "type": "阅读"
+        },
+        {
+          "time": 45,
+          "type": "短文填空"
+        },
+        {
+          "time": 130,
+          "type": "听力"
+        },
+        {
+          "time": 9,
+          "type": "翻译"
+        },
+        {
+          "time": 41,
+          "type": "情景对话"
+        },
+        {
+          "time": 15,
+          "type": "写作"
+        },
+        {
+          "time": 116,
+          "type": "完形填空"
+        },
+        {
+          "time": 81,
+          "type": "单项选择"
+        },
+        {
+          "time": 35,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 5,
+      "frequency": 803
+    },
+    "pastExamSents": [
+      {
+        "en": "She ran every morning so that she would realize her dream of being the best runner in the school.",
+        "zh": "她每天早上跑步，这样就可以实现她的梦想，成为学校里最快的跑步者。",
+        "source": "2021·浙江-金华·阅读"
+      },
+      {
+        "en": "My mother gets up at five o'clock every morning to cook breakfast for me.",
+        "zh": "我妈妈每天早上五点起床给我做早餐。",
+        "source": "2021·辽宁-铁岭、葫芦岛·单项选择"
+      },
+      {
+        "en": "It was a beautiful morning with a soft wind blowing.",
+        "zh": "那是一个美丽的清晨，微风轻拂。",
+        "source": "2021·江苏-连云港·完形填空"
+      },
+      {
+        "en": "On the morning of her birthday, the husband got up early, made her a nice breakfast and then took her to the local amusement park.",
+        "zh": "在她生日的那天早上，丈夫起得很早，给她做了一顿丰盛的早餐，然后带她去了当地的游乐园。",
+        "source": "2021·辽宁-朝阳·阅读"
+      },
+      {
+        "en": "I woke up in the morning and left for training. It's a new day with new tasks. I will continue to work hard to improve myself.",
+        "zh": "我早上醒来就去训练了。新的一天，新的任务。我会继续努力提高自己。",
+        "source": "2021·湖北-十堰·阅读"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "do morning exercises",
+        "zh": "做早操"
+      },
+      {
+        "en": "from morning till night",
+        "zh": "从早到晚"
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "sel2",
+  "title": "高中英语 选择性必修第二册",
+  "subtitle": "人教版 (2019 版)",
+  "cover": "/data/renjiao/sel2/cover.jpg",
+  "color": "#D17B3F",
+  "desc": "人民教育出版社 2019 版高中英语选择性必修第二册,10 篇主课文 + 单元单词表",
+  "passageCount": 10,
+  "units": [
+    {
+      "id": "u01",
+      "num": 1,
+      "title": "Science and Scientists 科学与科学家",
+      "passages": [
+        "p001",
+        "p002"
+      ]
+    },
+    {
+      "id": "u02",
+      "num": 2,
+      "title": "Bridging Cultures 沟通文化",
+      "passages": [
+        "p003",
+        "p004"
+      ]
+    },
+    {
+      "id": "u03",
+      "num": 3,
+      "title": "Food and Culture 饮食与文化",
+      "passages": [
+        "p005",
+        "p006"
+      ]
+    },
+    {
+      "id": "u04",
+      "num": 4,
+      "title": "Journey Across a Vast Land 穿越广袤大地",
+      "passages": [
+        "p007",
+        "p008"
+      ]
+    },
+    {
+      "id": "u05",
+      "num": 5,
+      "title": "First Aid 急救",
+      "passages": [
+        "p009",
+        "p010"
+      ]
+    }
+  ]
+}

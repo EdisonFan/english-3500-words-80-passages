@@ -1,0 +1,463 @@
+{
+  "id": 1,
+  "stats": {
+    "words": 223,
+    "core": 12
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "**7:00 a.m.** So this is it — {senior} high school at last! I'm not {outgoing} so I'm a little {anxious} right now. I want to make a good first {impression}. Will I make any friends? What if no one talks to me?",
+      "cn": "**上午 7:00**：终于，就这样开始了——高中生活！我性格不外向，所以现在有点儿焦虑。我想给人留下好的第一印象。我会交到朋友吗？要是没人跟我说话怎么办？"
+    },
+    {
+      "num": "02",
+      "en": "**12:30 p.m.** I just had my first maths class at {senior} high school! The class was difficult, but the teacher was kind and friendly. He even told us a funny story and everyone laughed so much! I found most of my classmates and teachers friendly and helpful.",
+      "cn": "**下午 12:30**：我刚刚上了高中的第一节数学课！这堂课很难，但老师很和蔼、友好。他甚至给我们讲了一个有趣的故事，大家都笑得前仰后合！我发现我的大多数同学和老师都很友好、乐于助人。"
+    },
+    {
+      "num": "03",
+      "en": "**5:32 p.m.** This afternoon, we had our chemistry class in the science lab. The lab is new and the lesson was great, but the {guy} next to me tried to talk to me the whole time. I couldn't {concentrate} on the {experiment}. I really wanted to tell him to please be quiet and leave me alone!",
+      "cn": "**下午 5:32**：今天下午，我们在科学实验室上了化学课。实验室是新的，课也很棒，但坐在我旁边的那个家伙一直试图跟我说话。我无法集中精力做实验。我真想让他安静点，别来打扰我！"
+    },
+    {
+      "num": "04",
+      "en": "**10:29 p.m.** What a day! This morning, I was worried that no one would talk to me. But I was wrong. I didn't feel {awkward} or {frightened} at all. I miss my friends from {junior} high school, but I believe I will make new friends here and there's a lot to {explore} at {senior} high. I feel much more {confident} than I felt this morning. I think that tomorrow will be a great day!",
+      "cn": "**晚上 10:29**：多好的一天啊！今天早上我还担心没人会跟我说话。但我错了。我一点儿也不觉得尴尬、害怕了。我想念初中的朋友们，但我相信我在这里会交到新朋友，而且高中有很多值得探索的东西。我感觉比今天早上自信多了。我想明天会是美好的一天！"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "exchange",
+      "type": "outline",
+      "ctx": "交换；交流",
+      "phonetic": "/ɪksˈtʃeɪndʒ/",
+      "pos": "n. / vt.",
+      "meaning": "交换；交流；交易；兑换"
+    },
+    {
+      "word": "lecture",
+      "type": "outline",
+      "ctx": "讲座；讲课",
+      "phonetic": "/ˈlektʃə(r)/",
+      "pos": "n. / vi. / vt.",
+      "meaning": "讲座；讲课；训斥"
+    },
+    {
+      "word": "registration",
+      "type": "outline",
+      "ctx": "登记；注册",
+      "phonetic": "/ˌredʒɪˈstreɪʃn/",
+      "pos": "n.",
+      "meaning": "登记；注册；挂号"
+    },
+    {
+      "word": "register",
+      "type": "outline",
+      "ctx": "登记；注册",
+      "phonetic": "/ˈredʒɪstə(r)/",
+      "pos": "vt. / vi.",
+      "meaning": "登记；注册"
+    },
+    {
+      "word": "sex",
+      "type": "outline",
+      "ctx": "性别",
+      "phonetic": "/seks/",
+      "pos": "n.",
+      "meaning": "性别"
+    },
+    {
+      "word": "female",
+      "type": "outline",
+      "ctx": "女性的；女子",
+      "phonetic": "/ˈfiːmeɪl/",
+      "pos": "adj. / n.",
+      "meaning": "女（性）的；雌的；女子"
+    },
+    {
+      "word": "male",
+      "type": "outline",
+      "ctx": "男性的；男子",
+      "phonetic": "/meɪl/",
+      "pos": "adj. / n.",
+      "meaning": "男（性）的；雄的；男子"
+    },
+    {
+      "word": "nationality",
+      "type": "outline",
+      "ctx": "国籍；民族",
+      "phonetic": "/ˌnæʃəˈnæləti/",
+      "pos": "n.",
+      "meaning": "国籍；民族"
+    },
+    {
+      "word": "nation",
+      "type": "outline",
+      "ctx": "国家；民族",
+      "phonetic": "/ˈneɪʃn/",
+      "pos": "n.",
+      "meaning": "国家；民族；国民"
+    },
+    {
+      "word": "designer",
+      "type": "outline",
+      "ctx": "设计者",
+      "phonetic": "/dɪˈzaɪnə(r)/",
+      "pos": "n.",
+      "meaning": "设计者"
+    },
+    {
+      "word": "design",
+      "type": "outline",
+      "ctx": "设计",
+      "phonetic": "/dɪˈzaɪn/",
+      "pos": "n. / vt.",
+      "meaning": "设计；设计方案"
+    },
+    {
+      "word": "campus",
+      "type": "outline",
+      "ctx": "校园",
+      "phonetic": "/ˈkæmpəs/",
+      "pos": "n.",
+      "meaning": "校园；校区"
+    },
+    {
+      "word": "formal",
+      "type": "outline",
+      "ctx": "正式的；正规的",
+      "phonetic": "/ˈfɔːml/",
+      "pos": "adj.",
+      "meaning": "正式的；正规的"
+    },
+    {
+      "word": "anxious",
+      "type": "core",
+      "ctx": "焦虑的",
+      "phonetic": "/ˈæŋkʃəs/",
+      "pos": "adj.",
+      "meaning": "焦虑的；不安的"
+    },
+    {
+      "word": "annoyed",
+      "type": "outline",
+      "ctx": "恼怒的；生气的",
+      "phonetic": "/əˈnɔɪd/",
+      "pos": "adj.",
+      "meaning": "恼怒的；生气的"
+    },
+    {
+      "word": "annoy",
+      "type": "outline",
+      "ctx": "使恼怒；打扰",
+      "phonetic": "/əˈnɔɪ/",
+      "pos": "vt.",
+      "meaning": "使恼怒；打扰"
+    },
+    {
+      "word": "frightened",
+      "type": "core",
+      "ctx": "害怕的",
+      "phonetic": "/ˈfraɪtnd/",
+      "pos": "adj.",
+      "meaning": "惊吓的；害怕的"
+    },
+    {
+      "word": "p.m.",
+      "type": "outline",
+      "ctx": "下午；午后",
+      "phonetic": "/ˌpiːˈem/",
+      "pos": "abbr.",
+      "meaning": "下午；午后"
+    },
+    {
+      "word": "a.m.",
+      "type": "outline",
+      "ctx": "上午；午前",
+      "phonetic": "/ˌeɪˈem/",
+      "pos": "abbr.",
+      "meaning": "上午；午前"
+    },
+    {
+      "word": "senior",
+      "type": "core",
+      "ctx": "级别高的；高年级的",
+      "phonetic": "/ˈsiːniə(r)/",
+      "pos": "adj. / n.",
+      "meaning": "级别（或地位）高的；较年长的人"
+    },
+    {
+      "word": "senior high school",
+      "type": "outline",
+      "ctx": "（美国）高中",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "（美国）高中"
+    },
+    {
+      "word": "at last",
+      "type": "outline",
+      "ctx": "终于；最终",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "终于；最终"
+    },
+    {
+      "word": "outgoing",
+      "type": "core",
+      "ctx": "外向的",
+      "phonetic": "/ˈaʊtɡəʊɪŋ/",
+      "pos": "adj.",
+      "meaning": "爱交际的；外向的"
+    },
+    {
+      "word": "impression",
+      "type": "core",
+      "ctx": "印象",
+      "phonetic": "/ɪmˈpreʃn/",
+      "pos": "n.",
+      "meaning": "印象；感想"
+    },
+    {
+      "word": "impress",
+      "type": "outline",
+      "ctx": "给……留下印象",
+      "phonetic": "/ɪmˈpres/",
+      "pos": "vt. / vi.",
+      "meaning": "给……留下深刻好印象"
+    },
+    {
+      "word": "make an impression",
+      "type": "outline",
+      "ctx": "留下好印象",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "留下好印象"
+    },
+    {
+      "word": "what if",
+      "type": "outline",
+      "ctx": "要是……会怎样？",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "要是……会怎么样呢？"
+    },
+    {
+      "word": "guy",
+      "type": "core",
+      "ctx": "家伙",
+      "phonetic": "/ɡaɪ/",
+      "pos": "n.",
+      "meaning": "小伙子；男人；家伙"
+    },
+    {
+      "word": "concentrate",
+      "type": "core",
+      "ctx": "集中（注意力）",
+      "phonetic": "/ˈkɒnsntreɪt/",
+      "pos": "vi. / vt.",
+      "meaning": "集中（注意力）；聚精会神"
+    },
+    {
+      "word": "concentrate on",
+      "type": "outline",
+      "ctx": "集中精力于",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "集中精力于"
+    },
+    {
+      "word": "experiment",
+      "type": "core",
+      "ctx": "实验",
+      "phonetic": "/ɪkˈsperɪmənt/",
+      "pos": "n.",
+      "meaning": "实验；试验"
+    },
+    {
+      "word": "leave ... alone",
+      "type": "outline",
+      "ctx": "不打扰；不惊动",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "不打扰；不惊动"
+    },
+    {
+      "word": "awkward",
+      "type": "core",
+      "ctx": "尴尬的",
+      "phonetic": "/ˈɔːkwəd/",
+      "pos": "adj.",
+      "meaning": "令人尴尬的；难对付的"
+    },
+    {
+      "word": "junior",
+      "type": "core",
+      "ctx": "低年级的；初中",
+      "phonetic": "/ˈdʒuːniə(r)/",
+      "pos": "adj. / n.",
+      "meaning": "地位低下的；职位较低者"
+    },
+    {
+      "word": "junior high school",
+      "type": "outline",
+      "ctx": "（美国）初中",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "（美国）初级中学"
+    },
+    {
+      "word": "explore",
+      "type": "core",
+      "ctx": "探索",
+      "phonetic": "/ɪkˈsplɔː(r)/",
+      "pos": "vt. / vi.",
+      "meaning": "探索；勘探"
+    },
+    {
+      "word": "confident",
+      "type": "core",
+      "ctx": "自信的",
+      "phonetic": "/ˈkɒnfɪdənt/",
+      "pos": "adj.",
+      "meaning": "自信的；有把握的"
+    },
+    {
+      "word": "confidence",
+      "type": "outline",
+      "ctx": "信心；信任",
+      "phonetic": "/ˈkɒnfɪdəns/",
+      "pos": "n.",
+      "meaning": "信心；信任"
+    },
+    {
+      "word": "forward",
+      "type": "outline",
+      "ctx": "向前；前进",
+      "phonetic": "/ˈfɔːwəd/",
+      "pos": "adv. / adj.",
+      "meaning": "向前；前进的"
+    },
+    {
+      "word": "look forward to",
+      "type": "outline",
+      "ctx": "盼望；期待",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "盼望；期待"
+    },
+    {
+      "word": "take notes",
+      "type": "outline",
+      "ctx": "记笔记",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "记笔记"
+    },
+    {
+      "word": "flash",
+      "type": "outline",
+      "ctx": "光；闪烁",
+      "phonetic": "/flæʃ/",
+      "pos": "n. / vi. / vt.",
+      "meaning": "光；信号；闪耀；闪光"
+    },
+    {
+      "word": "flash card",
+      "type": "outline",
+      "ctx": "教学卡片",
+      "phonetic": "—",
+      "pos": "短语",
+      "meaning": "教学卡片；识字卡"
+    },
+    {
+      "word": "organise",
+      "type": "outline",
+      "ctx": "组织；安排",
+      "phonetic": "/ˈɔːɡənaɪz/",
+      "pos": "vt. / vi.",
+      "meaning": "组织；筹备；安排"
+    },
+    {
+      "word": "organisation",
+      "type": "outline",
+      "ctx": "组织；团体",
+      "phonetic": "/ˌɔːɡənaɪˈzeɪʃn/",
+      "pos": "n.",
+      "meaning": "组织；团体；机构"
+    },
+    {
+      "word": "goal",
+      "type": "outline",
+      "ctx": "目标",
+      "phonetic": "/ɡəʊl/",
+      "pos": "n.",
+      "meaning": "目标；球门；射门"
+    },
+    {
+      "word": "strategy",
+      "type": "outline",
+      "ctx": "策略",
+      "phonetic": "/ˈstrætədʒi/",
+      "pos": "n.",
+      "meaning": "策略；策划"
+    },
+    {
+      "word": "partner",
+      "type": "outline",
+      "ctx": "同伴；伙伴",
+      "phonetic": "/ˈpɑːtnə(r)/",
+      "pos": "n.",
+      "meaning": "同伴；配偶；合伙人"
+    },
+    {
+      "word": "improve",
+      "type": "outline",
+      "ctx": "改进；改善",
+      "phonetic": "/ɪmˈpruːv/",
+      "pos": "vi. / vt.",
+      "meaning": "改进；改善"
+    },
+    {
+      "word": "curious",
+      "type": "outline",
+      "ctx": "好奇的",
+      "phonetic": "/ˈkjʊəriəs/",
+      "pos": "adj.",
+      "meaning": "好奇的；求知欲强的"
+    },
+    {
+      "word": "company",
+      "type": "outline",
+      "ctx": "公司；陪伴",
+      "phonetic": "/ˈkʌmpəni/",
+      "pos": "n.",
+      "meaning": "公司；商行；陪伴"
+    },
+    {
+      "word": "personality",
+      "type": "outline",
+      "ctx": "性格；个性",
+      "phonetic": "/ˌpɜːsəˈnæləti/",
+      "pos": "n.",
+      "meaning": "性格；个性"
+    },
+    {
+      "word": "style",
+      "type": "outline",
+      "ctx": "方式；作风",
+      "phonetic": "/staɪl/",
+      "pos": "n.",
+      "meaning": "方式；作风"
+    },
+    {
+      "word": "revise",
+      "type": "outline",
+      "ctx": "修改；复习",
+      "phonetic": "/rɪˈvaɪz/",
+      "pos": "vt. / vi.",
+      "meaning": "修改；修订；复习"
+    }
+  ]
+}

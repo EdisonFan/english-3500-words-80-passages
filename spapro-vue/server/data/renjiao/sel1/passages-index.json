@@ -1,0 +1,105 @@
+{
+  "bookId": "sel1",
+  "passages": [
+    {
+      "id": "p001",
+      "num": 1,
+      "unitId": "u01",
+      "title": "Tu Youyou Awarded Nobel Prize",
+      "cnTitle": "",
+      "preview": "This year's Nobel Prize for Physiology or Medicine has been awarded to Tu Youyou…",
+      "wordCount": 468,
+      "coreCount": 18
+    },
+    {
+      "id": "p002",
+      "num": 2,
+      "unitId": "u01",
+      "title": "The Man Who Changed Our Understanding of the Universe",
+      "cnTitle": "",
+      "preview": "Albert Einstein, who is perhaps the greatest scientist in modern physics, is oft…",
+      "wordCount": 444,
+      "coreCount": 18
+    },
+    {
+      "id": "p003",
+      "num": 1,
+      "unitId": "u02",
+      "title": "Smart Homes to Make Life Easier",
+      "cnTitle": "",
+      "preview": "Have you ever forgotten to lock the door of your house? Or, have you ever forgot…",
+      "wordCount": 477,
+      "coreCount": 24
+    },
+    {
+      "id": "p004",
+      "num": 2,
+      "unitId": "u02",
+      "title": "Should We Fight New Technology",
+      "cnTitle": "",
+      "preview": "This morning, I saw the shocking headline: \"Passenger Dies When Car Crashes in D…",
+      "wordCount": 399,
+      "coreCount": 11
+    },
+    {
+      "id": "p005",
+      "num": 1,
+      "unitId": "u03",
+      "title": "Sarek National Park — Europe's Hidden Natural Treasure",
+      "cnTitle": "",
+      "preview": "1 A Summer Where the Sun Never Sleeps I wake up to the sound of the wind buffeti…",
+      "wordCount": 489,
+      "coreCount": 9
+    },
+    {
+      "id": "p006",
+      "num": 2,
+      "unitId": "u03",
+      "title": "Theme Parks — Fun and More Than Fun",
+      "cnTitle": "",
+      "preview": "Which theme park would you like to visit? There are various kinds of theme parks…",
+      "wordCount": 466,
+      "coreCount": 10
+    },
+    {
+      "id": "p007",
+      "num": 1,
+      "unitId": "u04",
+      "title": "Listening to How Bodies Talk",
+      "cnTitle": "",
+      "preview": "We use both words and body language to express our thoughts and opinions in our…",
+      "wordCount": 449,
+      "coreCount": 9
+    },
+    {
+      "id": "p008",
+      "num": 2,
+      "unitId": "u04",
+      "title": "How Do I Know My Students",
+      "cnTitle": "",
+      "preview": "As an educator, people often ask me how I know what is going on in the minds of…",
+      "wordCount": 511,
+      "coreCount": 15
+    },
+    {
+      "id": "p009",
+      "num": 1,
+      "unitId": "u05",
+      "title": "A Pioneer for All People",
+      "cnTitle": "",
+      "preview": "Although he is one of China's most famous scientists, Yuan Longping considers hi…",
+      "wordCount": 483,
+      "coreCount": 5
+    },
+    {
+      "id": "p010",
+      "num": 2,
+      "unitId": "u05",
+      "title": "Chemical Versus Organic Farming",
+      "cnTitle": "",
+      "preview": "Chemical pesticides and artificial fertilisers have been in widespread use in fa…",
+      "wordCount": 479,
+      "coreCount": 11
+    }
+  ]
+}

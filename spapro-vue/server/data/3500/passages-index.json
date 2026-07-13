@@ -1,0 +1,725 @@
+{
+  "bookId": "3500",
+  "passages": [
+    {
+      "id": "p001",
+      "num": 1,
+      "unitId": "u01",
+      "title": "第 1 篇",
+      "preview": "Turning soil, pull weed , and harvesting cabbage sound like tough work for middl…",
+      "wordCount": 273,
+      "coreCount": 64
+    },
+    {
+      "id": "p002",
+      "num": 2,
+      "unitId": "u01",
+      "title": "第 2 篇",
+      "preview": "It's a joyful yet stressful time of year in the United States for students and their family as they make decision about where to attend college.…",
+      "wordCount": 298,
+      "coreCount": 69
+    },
+    {
+      "id": "p003",
+      "num": 3,
+      "unitId": "u01",
+      "title": "第 3 篇",
+      "preview": "technology use in class",
+      "wordCount": 256,
+      "coreCount": 73
+    },
+    {
+      "id": "p004",
+      "num": 4,
+      "unitId": "u01",
+      "title": "第 4 篇",
+      "preview": "\"I didn't like the ending,\"I said to my favorite college professor.It was my jun…",
+      "wordCount": 346,
+      "coreCount": 49
+    },
+    {
+      "id": "p005",
+      "num": 5,
+      "unitId": "u01",
+      "title": "第 5 篇",
+      "preview": "Our teacher, Miss Chevalier, was a small woman with a moon face, fatty fingers a…",
+      "wordCount": 418,
+      "coreCount": 65
+    },
+    {
+      "id": "p006",
+      "num": 6,
+      "unitId": "u02",
+      "title": "第 6 篇",
+      "preview": "Today's world is not an easy adjustment for young adult .The key skill set for s…",
+      "wordCount": 249,
+      "coreCount": 43
+    },
+    {
+      "id": "p007",
+      "num": 7,
+      "unitId": "u02",
+      "title": "第 7 篇",
+      "preview": "If the only reading you ever do is the novel or magazine, the speed at which you…",
+      "wordCount": 296,
+      "coreCount": 51
+    },
+    {
+      "id": "p008",
+      "num": 8,
+      "unitId": "u02",
+      "title": "第 8 篇",
+      "preview": "Not all great writers are great speller.If you want to be publish, it's vital to…",
+      "wordCount": 298,
+      "coreCount": 49
+    },
+    {
+      "id": "p009",
+      "num": 9,
+      "unitId": "u02",
+      "title": "第 9 篇",
+      "preview": "In the past few years, online learning has become a significant part of the university and college experience.A survey found that 29 percent of college students register for online courses.But are all online courses created equal?…",
+      "wordCount": 311,
+      "coreCount": 45
+    },
+    {
+      "id": "p010",
+      "num": 10,
+      "unitId": "u02",
+      "title": "第 10 篇",
+      "preview": "Staring at the bookcase in my study, packed with so many great books that had remain unread , I hear a loud voice in my head—“ shame on you!…",
+      "wordCount": 424,
+      "coreCount": 56
+    },
+    {
+      "id": "p011",
+      "num": 11,
+      "unitId": "u03",
+      "title": "第 11 篇",
+      "preview": "I'd just arrived at school, ready for another school day.I was reading a book in…",
+      "wordCount": 326,
+      "coreCount": 52
+    },
+    {
+      "id": "p012",
+      "num": 12,
+      "unitId": "u03",
+      "title": "第 12 篇",
+      "preview": "Who is a genius ?…",
+      "wordCount": 342,
+      "coreCount": 49
+    },
+    {
+      "id": "p013",
+      "num": 13,
+      "unitId": "u03",
+      "title": "第 13 篇",
+      "preview": "Habit formation is the process by which behaviors become automatic .People devel…",
+      "wordCount": 336,
+      "coreCount": 50
+    },
+    {
+      "id": "p014",
+      "num": 14,
+      "unitId": "u03",
+      "title": "第 14 篇",
+      "preview": "Would you BET on the future of this man?…",
+      "wordCount": 391,
+      "coreCount": 49
+    },
+    {
+      "id": "p015",
+      "num": 15,
+      "unitId": "u03",
+      "title": "第 15 篇",
+      "preview": "Imagine a child standing on a diving board four feet high and asking himself the…",
+      "wordCount": 358,
+      "coreCount": 51
+    },
+    {
+      "id": "p016",
+      "num": 16,
+      "unitId": "u04",
+      "title": "第 16 篇",
+      "preview": "My name is Alice.Early last year, I was troubled by an anxiety that crippled ( (…",
+      "wordCount": 339,
+      "coreCount": 44
+    },
+    {
+      "id": "p017",
+      "num": 17,
+      "unitId": "u04",
+      "title": "第 17 篇",
+      "preview": "We all want it … to accept and love ourselves.But at times it seems too difficult and too far out of reach.Where do you start?…",
+      "wordCount": 351,
+      "coreCount": 52
+    },
+    {
+      "id": "p018",
+      "num": 18,
+      "unitId": "u04",
+      "title": "第 18 篇",
+      "preview": "Here's a riddle : What do traffic jams , long lines and waiting for a vacation to start all have in common ?…",
+      "wordCount": 385,
+      "coreCount": 58
+    },
+    {
+      "id": "p019",
+      "num": 19,
+      "unitId": "u04",
+      "title": "第 19 篇",
+      "preview": "Do you usually find yourself falling short on time in completing assigned tasks?…",
+      "wordCount": 411,
+      "coreCount": 65
+    },
+    {
+      "id": "p020",
+      "num": 20,
+      "unitId": "u04",
+      "title": "第 20 篇",
+      "preview": "Taking responsibility for mistakes is a positive step, but don't beat yourself u…",
+      "wordCount": 441,
+      "coreCount": 58
+    },
+    {
+      "id": "p021",
+      "num": 21,
+      "unitId": "u05",
+      "title": "第 21 篇",
+      "preview": "When I was a little girl, I liked drawing, freely and joyously making marks on t…",
+      "wordCount": 350,
+      "coreCount": 69
+    },
+    {
+      "id": "p022",
+      "num": 22,
+      "unitId": "u05",
+      "title": "第 22 篇",
+      "preview": "Writing an essay is a difficult process for most people.However, the process can…",
+      "wordCount": 362,
+      "coreCount": 48
+    },
+    {
+      "id": "p023",
+      "num": 23,
+      "unitId": "u05",
+      "title": "第 23 篇",
+      "preview": "Terri Bolton is a dab hand when it comes to DIY (do-it-yourself).…",
+      "wordCount": 399,
+      "coreCount": 61
+    },
+    {
+      "id": "p024",
+      "num": 24,
+      "unitId": "u05",
+      "title": "第 24 篇",
+      "preview": "When people ask me how I started writing, I find myself describing an urgent nee…",
+      "wordCount": 374,
+      "coreCount": 54
+    },
+    {
+      "id": "p025",
+      "num": 25,
+      "unitId": "u05",
+      "title": "第 25 篇",
+      "preview": "I have a special place in my heart for libraries .I was always an enthusiastic r…",
+      "wordCount": 477,
+      "coreCount": 63
+    },
+    {
+      "id": "p026",
+      "num": 26,
+      "unitId": "u06",
+      "title": "第 26 篇",
+      "preview": "Cultural dining etiquette ( (礼节) ) might surprise you with some of its important…",
+      "wordCount": 265,
+      "coreCount": 44
+    },
+    {
+      "id": "p027",
+      "num": 27,
+      "unitId": "u06",
+      "title": "第 27 篇",
+      "preview": "Living in Iowa ( (爱荷华州) ) and trying to become a photographer specializing in la…",
+      "wordCount": 305,
+      "coreCount": 47
+    },
+    {
+      "id": "p028",
+      "num": 28,
+      "unitId": "u06",
+      "title": "第 28 篇",
+      "preview": "Ralph Emerson once said that the purpose of life is not to be happy, but to be u…",
+      "wordCount": 398,
+      "coreCount": 50
+    },
+    {
+      "id": "p029",
+      "num": 29,
+      "unitId": "u06",
+      "title": "第 29 篇",
+      "preview": "In an era where our lives are flooded with digital broadcasts of content, our po…",
+      "wordCount": 401,
+      "coreCount": 44
+    },
+    {
+      "id": "p030",
+      "num": 30,
+      "unitId": "u06",
+      "title": "第 30 篇",
+      "preview": "Live with roommates ?…",
+      "wordCount": 452,
+      "coreCount": 48
+    },
+    {
+      "id": "p031",
+      "num": 31,
+      "unitId": "u07",
+      "title": "第 31 篇",
+      "preview": "Health and fitness help a person live a good and healthy life.Often due to vario…",
+      "wordCount": 355,
+      "coreCount": 45
+    },
+    {
+      "id": "p032",
+      "num": 32,
+      "unitId": "u07",
+      "title": "第 32 篇",
+      "preview": "Nowadays , in many places around the world, kids play soccer less than before.On…",
+      "wordCount": 384,
+      "coreCount": 41
+    },
+    {
+      "id": "p033",
+      "num": 33,
+      "unitId": "u07",
+      "title": "第 33 篇",
+      "preview": "Race walking shares many fitness benefits with running, research shows, while mo…",
+      "wordCount": 378,
+      "coreCount": 45
+    },
+    {
+      "id": "p034",
+      "num": 34,
+      "unitId": "u07",
+      "title": "第 34 篇",
+      "preview": "What is moderation ( (适度) )?…",
+      "wordCount": 448,
+      "coreCount": 54
+    },
+    {
+      "id": "p035",
+      "num": 35,
+      "unitId": "u07",
+      "title": "第 35 篇",
+      "preview": "Higher life expectancy ( (预期寿命) ) means an increased duration of our lives.Even …",
+      "wordCount": 443,
+      "coreCount": 47
+    },
+    {
+      "id": "p036",
+      "num": 36,
+      "unitId": "u08",
+      "title": "第 36 篇",
+      "preview": "Is it true that our brain alone is responsible for human cognition ( (认知) )?…",
+      "wordCount": 402,
+      "coreCount": 49
+    },
+    {
+      "id": "p037",
+      "num": 37,
+      "unitId": "u08",
+      "title": "第 37 篇",
+      "preview": "If something that you're doing doesn't challenge you, then it doesn't change you…",
+      "wordCount": 413,
+      "coreCount": 47
+    },
+    {
+      "id": "p038",
+      "num": 38,
+      "unitId": "u08",
+      "title": "第 38 篇",
+      "preview": "I was about thirteen when an uncle gave me a copy of Jostein Gaarder's Sophie's …",
+      "wordCount": 426,
+      "coreCount": 44
+    },
+    {
+      "id": "p039",
+      "num": 39,
+      "unitId": "u08",
+      "title": "第 39 篇",
+      "preview": "If you want to develop maximum credibility ( (可信性) ), is it better to be a hedgehog ( (刺猬) ) or a fox ?…",
+      "wordCount": 420,
+      "coreCount": 48
+    },
+    {
+      "id": "p040",
+      "num": 40,
+      "unitId": "u09",
+      "title": "第 40 篇",
+      "preview": "The memorial to John Todd's environmental legacy lies in his revolutionary eco-m…",
+      "wordCount": 445,
+      "coreCount": 47
+    },
+    {
+      "id": "p041",
+      "num": 41,
+      "unitId": "u09",
+      "title": "第 41 篇",
+      "preview": "Dogs greet each other nose-first, as it were— sniffing each other from fore to a…",
+      "wordCount": 325,
+      "coreCount": 49
+    },
+    {
+      "id": "p042",
+      "num": 42,
+      "unitId": "u09",
+      "title": "第 42 篇",
+      "preview": "The elderly residents in care homes in Britain are being given hens to look afte…",
+      "wordCount": 351,
+      "coreCount": 43
+    },
+    {
+      "id": "p043",
+      "num": 43,
+      "unitId": "u09",
+      "title": "第 43 篇",
+      "preview": "Friendship needs care and attention to keep it in good health.Here are five ways…",
+      "wordCount": 324,
+      "coreCount": 42
+    },
+    {
+      "id": "p044",
+      "num": 44,
+      "unitId": "u09",
+      "title": "第 44 篇",
+      "preview": "Popularization has in some cases changed the original meaning of emotional intel…",
+      "wordCount": 377,
+      "coreCount": 46
+    },
+    {
+      "id": "p045",
+      "num": 45,
+      "unitId": "u09",
+      "title": "第 45 篇",
+      "preview": "During the rosy years of elementary school ( (小学) ), I enjoyed sharing my dolls …",
+      "wordCount": 477,
+      "coreCount": 55
+    },
+    {
+      "id": "p046",
+      "num": 46,
+      "unitId": "u10",
+      "title": "第 46 篇",
+      "preview": "Making a meaningful career choice is a crucial decision in life.There are many p…",
+      "wordCount": 376,
+      "coreCount": 38
+    },
+    {
+      "id": "p047",
+      "num": 47,
+      "unitId": "u10",
+      "title": "第 47 篇",
+      "preview": "In today's mad rush for success, many people believe that working to the maximum…",
+      "wordCount": 386,
+      "coreCount": 46
+    },
+    {
+      "id": "p048",
+      "num": 48,
+      "unitId": "u10",
+      "title": "第 48 篇",
+      "preview": "The concept of collective intelligence has fascinated researchers and politician…",
+      "wordCount": 397,
+      "coreCount": 39
+    },
+    {
+      "id": "p049",
+      "num": 49,
+      "unitId": "u10",
+      "title": "第 49 篇",
+      "preview": "Much of the work in today's world is accomplished ( (完成) ) in teams.Most people …",
+      "wordCount": 432,
+      "coreCount": 40
+    },
+    {
+      "id": "p050",
+      "num": 50,
+      "unitId": "u10",
+      "title": "第 50 篇",
+      "preview": "In Asia , messaging platforms are growing rapidly, with users in the hundreds of…",
+      "wordCount": 417,
+      "coreCount": 52
+    },
+    {
+      "id": "p051",
+      "num": 51,
+      "unitId": "u11",
+      "title": "第 51 篇",
+      "preview": "Travel promotes understanding , expands our minds, and makes us better people.But the rapid growth of travel has led to overtourism in certain regions and destinations.From ancient temples to areas along the coast , popular destinations are struggling with the virtual circus of crowds.While local economies and communities benefit from tourist spending in hotels , restaurants, and shops, the negative impacts on civilian life and cultural heritage are becoming apparent.Many cities are now implementing measures to prohibit certain tourist activities and ban new tourist shops around historic sites.So, should we stop traveling?…",
+      "wordCount": 367,
+      "coreCount": 44
+    },
+    {
+      "id": "p052",
+      "num": 52,
+      "unitId": "u11",
+      "title": "第 52 篇",
+      "preview": "In recent years, researchers from diverse fields have agreed that short-termism …",
+      "wordCount": 418,
+      "coreCount": 54
+    },
+    {
+      "id": "p053",
+      "num": 53,
+      "unitId": "u11",
+      "title": "第 53 篇",
+      "preview": "Like most of us, I try to be mindful of food that goes to waste.The arugula ( (芝…",
+      "wordCount": 419,
+      "coreCount": 53
+    },
+    {
+      "id": "p054",
+      "num": 54,
+      "unitId": "u11",
+      "title": "第 54 篇",
+      "preview": "Is comprehension the same whether a person reads a text onscreen or on paper?…",
+      "wordCount": 474,
+      "coreCount": 42
+    },
+    {
+      "id": "p055",
+      "num": 55,
+      "unitId": "u11",
+      "title": "第 55 篇",
+      "preview": "The Stanford marshmallow ( (棉花糖) ) test was originally conducted by psychologist…",
+      "wordCount": 488,
+      "coreCount": 55
+    },
+    {
+      "id": "p056",
+      "num": 56,
+      "unitId": "u12",
+      "title": "第 56 篇",
+      "preview": "Sometimes scientists are accused of conducting too many human-centered studies, and we feel guilty about not knowing how smart animals actually are.Recently, a team of researchers trained three Rhesus monkeys (（恒河猴）) to associate 26 clearly different symbols consisting of numbers and selective letters with 0-25 drops of water or juice as a bonus .The training procedure was thorough , as it ensured the monkeys understood that each symbol represented a specific quantity.The researchers then tested how the monkeys combined —or added—the symbols to get the reward.…",
+      "wordCount": 376,
+      "coreCount": 35
+    },
+    {
+      "id": "p057",
+      "num": 57,
+      "unitId": "u12",
+      "title": "第 57 篇",
+      "preview": "If you ever get the impression that your dog is so clever that it can“ tell ”whe…",
+      "wordCount": 381,
+      "coreCount": 36
+    },
+    {
+      "id": "p058",
+      "num": 58,
+      "unitId": "u12",
+      "title": "第 58 篇",
+      "preview": "Goffin's cockatoos, native to Australasia, are a kind of small parrot that has a white body with hints of yellow and orange .They mimic sounds and dance to music, which often amuses their owners.The cockatoos have been shown to have similar shape-recognition abilities to a human two-year-old.Though not known to use tools in the wild , the birds have proved skillful at tool use while being kept in cages .In a recent experiment, cockatoos were presented with a box with a nut inside it.The clear front of the box had a“ keyhole ”in a geometric shape, and the birds were given five differently shaped “keys” to choose from.…",
+      "wordCount": 353,
+      "coreCount": 37
+    },
+    {
+      "id": "p059",
+      "num": 59,
+      "unitId": "u12",
+      "title": "第 59 篇",
+      "preview": "Almost all animals have distinct vocals (（声音）) that they rely on to either ask for help, scare away any dangerous animals or look for shelter .When a dog barks loudly, it announces that something is wrong or that it needs help.…",
+      "wordCount": 397,
+      "coreCount": 41
+    },
+    {
+      "id": "p060",
+      "num": 60,
+      "unitId": "u12",
+      "title": "第 60 篇",
+      "preview": "Chimpanzees (（黑猩猩）) , the closest living relatives of mankind , exhibit superior…",
+      "wordCount": 420,
+      "coreCount": 42
+    },
+    {
+      "id": "p061",
+      "num": 61,
+      "unitId": "u13",
+      "title": "第 61 篇",
+      "preview": "Indoor plants might look as if they just sit around not doing much, but in many …",
+      "wordCount": 395,
+      "coreCount": 47
+    },
+    {
+      "id": "p062",
+      "num": 62,
+      "unitId": "u13",
+      "title": "第 62 篇",
+      "preview": "We all grew up hearing people tell us to “go out and get some fresh air.”But is fresh air really as good for you as your mother always said?…",
+      "wordCount": 376,
+      "coreCount": 43
+    },
+    {
+      "id": "p063",
+      "num": 63,
+      "unitId": "u13",
+      "title": "第 63 篇",
+      "preview": "Let's take a minute to think about how precious water is.It forms an important p…",
+      "wordCount": 380,
+      "coreCount": 41
+    },
+    {
+      "id": "p064",
+      "num": 64,
+      "unitId": "u13",
+      "title": "第 64 篇",
+      "preview": "Research sometimes proves, with data , what we more or less already know ( e.g.…",
+      "wordCount": 414,
+      "coreCount": 42
+    },
+    {
+      "id": "p065",
+      "num": 65,
+      "unitId": "u13",
+      "title": "第 65 篇",
+      "preview": "Rainforests are home to a rich variety of life and are some of the places with the greatest botanical diversity on Earth.Can you believe that a single bush in the Amazon may have more species of ants than the whole of Britain!…",
+      "wordCount": 416,
+      "coreCount": 42
+    },
+    {
+      "id": "p066",
+      "num": 66,
+      "unitId": "u14",
+      "title": "第 66 篇",
+      "preview": "Chinese cultural elements commemorating ( (纪念) ) Tang Xianzu, who is known as “t…",
+      "wordCount": 355,
+      "coreCount": 44
+    },
+    {
+      "id": "p067",
+      "num": 67,
+      "unitId": "u14",
+      "title": "第 67 篇",
+      "preview": "Music has long been considered to be an enjoyable pastime for many people.Attending a concert or a music festival brings us wonderful experiences.It is also highly popular due to the individualized effects on relieving stress and anxiety-and its mental health benefits can't be argued.…",
+      "wordCount": 357,
+      "coreCount": 37
+    },
+    {
+      "id": "p068",
+      "num": 68,
+      "unitId": "u14",
+      "title": "第 68 篇",
+      "preview": "Color is fundamental in home design—something you'll always have in every room.A grasp of how to manage color in your spaces is one of the first steps to creating rooms that reflect your preference .Do you want a room that's full of life?…",
+      "wordCount": 392,
+      "coreCount": 44
+    },
+    {
+      "id": "p069",
+      "num": 69,
+      "unitId": "u14",
+      "title": "第 69 篇",
+      "preview": "As an artist who shares her journey on social media, I'm often asked by curious followers how to begin an art journey.…",
+      "wordCount": 404,
+      "coreCount": 38
+    },
+    {
+      "id": "p070",
+      "num": 70,
+      "unitId": "u14",
+      "title": "第 70 篇",
+      "preview": "In 1916, two girls of wealthy families, best friends from Auburn, N.Y.—Dorothy W…",
+      "wordCount": 454,
+      "coreCount": 57
+    },
+    {
+      "id": "p071",
+      "num": 71,
+      "unitId": "u15",
+      "title": "第 71 篇",
+      "preview": "Straw weaving ( (草编) ) is an antique method of manufacturing daily items or artw…",
+      "wordCount": 279,
+      "coreCount": 41
+    },
+    {
+      "id": "p072",
+      "num": 72,
+      "unitId": "u15",
+      "title": "第 72 篇",
+      "preview": "Franz Boas's description of Inuit life in the 19th century illustrates the probable moral code of early humans.Here, norms ( (规范) ) were unwritten and rarely expressed clearly, but were well understood and taken to heart.…",
+      "wordCount": 373,
+      "coreCount": 50
+    },
+    {
+      "id": "p073",
+      "num": 73,
+      "unitId": "u15",
+      "title": "第 73 篇",
+      "preview": "If you want to tell the history of the whole world, a history that does not privilege one part of humanity, you cannot do it through written documents alone, because most of the world, for most of the time, has never had texts to record their emotions, customs or history.…",
+      "wordCount": 391,
+      "coreCount": 42
+    },
+    {
+      "id": "p074",
+      "num": 74,
+      "unitId": "u15",
+      "title": "第 74 篇",
+      "preview": "“I am not crazy ,”says Dr.William Farber, shortly after performing acupuncture (…",
+      "wordCount": 404,
+      "coreCount": 44
+    },
+    {
+      "id": "p075",
+      "num": 75,
+      "unitId": "u15",
+      "title": "第 75 篇",
+      "preview": "Human speech contains more than 2,000 different sounds, from the common “m” and “a” to the rare clicks of some southern African languages.But why are certain sounds more common than others?…",
+      "wordCount": 426,
+      "coreCount": 39
+    },
+    {
+      "id": "p076",
+      "num": 76,
+      "unitId": "u16",
+      "title": "第 76 篇",
+      "preview": "Given the astonishing potential of AI to transform our lives, from transport to …",
+      "wordCount": 368,
+      "coreCount": 36
+    },
+    {
+      "id": "p077",
+      "num": 77,
+      "unitId": "u16",
+      "title": "第 77 篇",
+      "preview": "Can a small group of drones ( (无人机) ) guarantee the safety and reliability of railways and, at the same time, help railway operators save billions of euros each year?…",
+      "wordCount": 400,
+      "coreCount": 43
+    },
+    {
+      "id": "p078",
+      "num": 78,
+      "unitId": "u16",
+      "title": "第 78 篇",
+      "preview": "What is life?…",
+      "wordCount": 444,
+      "coreCount": 42
+    },
+    {
+      "id": "p079",
+      "num": 79,
+      "unitId": "u16",
+      "title": "第 79 篇",
+      "preview": "According to the Solar Energy Industry Association, the number of solar panels i…",
+      "wordCount": 406,
+      "coreCount": 44
+    },
+    {
+      "id": "p080",
+      "num": 80,
+      "unitId": "u16",
+      "title": "第 80 篇",
+      "preview": "The notion that we live in someone else's video game, akin to a highly advanced …",
+      "wordCount": 482,
+      "coreCount": 47
+    }
+  ]
+}

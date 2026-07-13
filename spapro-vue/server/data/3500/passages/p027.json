@@ -1,0 +1,269 @@
+{
+  "id": 27,
+  "stats": {
+    "words": 305,
+    "core": 47
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "Living in Iowa ( (爱荷华州) ) and trying to become a {photographer} {specializing} in {landscape} can be quite a challenge, {mainly} because the {corn} state lacks {geographical} {variation} .",
+      "cn": "住在爱荷华州，并努力成为一名 <u> 专门拍摄风景 </u> 的 <u> 摄影师 </u> ，可谓是一个不小的挑战， <u> 主要 </u> 是因为这个 <u> 玉米 </u> 之州缺乏 <u> 地理上的多样性 </u> 。"
+    },
+    {
+      "num": "02",
+      "en": "Although landscapes in the Midwest {tend} to be quite similar, either {farm} fields or highways, sometimes I find {distinctive} character in the {hills} or {lakes} .To make some of my landscape shots, I have traveled up to four hours away to {shoot} within a 10-minute time frame.I tend to travel with a {few} of my friends to state {parks} or to the {countryside} to go on adventures and take {photos} {along} the way.",
+      "cn": "虽然中西部的风景 <u> 往往 </u> 颇为相似，要么是 <u> 农 </u> 田，要么是公路，但有时我也能在 <u> 山丘 </u> 或 <u> 湖泊 </u> 中发现 <u> 独特的 </u> 景致。为了拍摄一些风景照，我曾驱车长达四个小时，只为在10分钟的时间范围内进行 <u> 拍摄 </u> 。我通常会和 <u> 几个 </u> 朋友一起前往州立 <u> 公园 </u> 或 <u> 乡村 </u> 探险， <u> 沿 </u> 途拍 <u> 照 </u> 。"
+    },
+    {
+      "num": "03",
+      "en": "Being at the right place at the right time is {decisive} in any style of {photography} .I often leave early to {seek} the right {destinations} so I can set up early to avoid missing the moment I am {attempting} to {photograph} .I have missed plenty of {beautiful} {sunsets} / {sunrises due to} being on the {spot} only five minutes before the {best} moment.",
+      "cn": "在恰当的时机出现在恰当的地方，对于任何 <u> 摄影 </u> 风格而言都 <u> 至关重要 </u> 。我常常早早出发， <u> 寻找 </u> 合适的 <u> 目的地 </u> ，以便我能够提前准备好，避免错过我 <u> 想要拍摄 </u> 的瞬间。我曾 <u> 因为 </u> 仅在 <u> 最佳 </u> 时刻前五分钟才抵达 <u> 现场 </u> ，而错过了很多 <u> 美丽的日落 </u> 或 <u> 日出 </u> 。"
+    },
+    {
+      "num": "04",
+      "en": "One time my friends and I drove three hours to {Devil} 's Lake, Wisconsin, to {climb} the {purple} quartz ( (石英) ) {rock} around the lake.After we found a crazy-looking {road} that hung over a {bunch} of rocks, we decided to photograph the {scene} at sunset.The position {enabled} {us} to look over the lake with the sunset in the {background} .We {managed} to leave this spot to climb higher because of the {spare} time until sunset.However, we did not mark the {route} so we ended up almost missing the sunset entirely. {Once} we found the place, it was stressful getting lights and {cameras} set up in the {limited} time.Still, looking back on the photos, they are some of my best shots though they could have been so much better if I had been prepared and managed my time {wisely} .",
+      "cn": "有一次，我和朋友们驱车三个小时前往威斯康星州的 <u> 魔鬼 </u> 湖， <u> 攀爬 </u> 湖边的 <u> 紫色 </u> 石英 <u> 岩 </u> 。我们发现了一条看起来相当奇特，悬在一 <u> 堆 </u> 岩石上方的 <u> 道路 </u> 后，便决定在日落时分拍摄这个 <u> 场景 </u> 。这个位置 <u> 让我们能 </u> 以日落为 <u> 背景 </u> 俯瞰湖面。由于离日落还有 <u> 多余的 </u> 时间，我们 <u> 设法 </u> 离开此地，往更高的地方攀爬。然而，我们没有标记 <u> 路线 </u> ，结果差点完全错过了日落。 <u> 当 </u> 我们找到这个地方 <u> 时 </u> ，在 <u> 有限的 </u> 时间内架设灯光和 <u> 相机 </u> 让人倍感压力。尽管如此，回顾这些照片，它们仍然是我最好的一些作品，尽管如果我能准备得更充分，更能 <u> 明智地 </u> 安排我的时间，本可以拍得更好。 5NoOncib/NjiX02BpMIzP+Fxyt/ox+WDCb+dhfH7KaYaJ4u5RsVmLondVmcHiLum9J1BQErGzJvzqa5GEIz4ZA=="
+    }
+  ],
+  "vocab": [
+    {
+      "word": "photographer",
+      "type": "outline",
+      "ctx": "摄影师"
+    },
+    {
+      "word": "specialize",
+      "type": "core",
+      "ctx": "专攻，专门研究（或从事）"
+    },
+    {
+      "word": "landscape",
+      "type": "outline",
+      "ctx": "风景"
+    },
+    {
+      "word": "mainly",
+      "type": "core",
+      "ctx": "主要地，首要地"
+    },
+    {
+      "word": "corn",
+      "type": "outline",
+      "ctx": "玉米"
+    },
+    {
+      "word": "geographical",
+      "type": "core",
+      "ctx": "地理（学）的"
+    },
+    {
+      "word": "variation",
+      "type": "outline",
+      "ctx": "变化"
+    },
+    {
+      "word": "tend",
+      "type": "outline",
+      "ctx": "趋向"
+    },
+    {
+      "word": "farm",
+      "type": "outline",
+      "ctx": "农场"
+    },
+    {
+      "word": "distinctive",
+      "type": "core",
+      "ctx": "与众不同的"
+    },
+    {
+      "word": "hill",
+      "type": "outline",
+      "ctx": "小山，山丘"
+    },
+    {
+      "word": "lake",
+      "type": "outline",
+      "ctx": "湖"
+    },
+    {
+      "word": "shoot",
+      "type": "outline",
+      "ctx": "射击"
+    },
+    {
+      "word": "few",
+      "type": "outline",
+      "ctx": "几个"
+    },
+    {
+      "word": "park",
+      "type": "outline",
+      "ctx": "公园"
+    },
+    {
+      "word": "countryside",
+      "type": "outline",
+      "ctx": "乡下，农村"
+    },
+    {
+      "word": "photo",
+      "type": "outline",
+      "ctx": "（=photograph）照片"
+    },
+    {
+      "word": "along",
+      "type": "outline",
+      "ctx": "向前"
+    },
+    {
+      "word": "decisive",
+      "type": "core",
+      "ctx": "决定性的"
+    },
+    {
+      "word": "photography",
+      "type": "core",
+      "ctx": "摄影，照相术"
+    },
+    {
+      "word": "seek",
+      "type": "outline",
+      "ctx": "试图"
+    },
+    {
+      "word": "destination",
+      "type": "outline",
+      "ctx": "目的地"
+    },
+    {
+      "word": "attempt",
+      "type": "outline",
+      "ctx": "尝试"
+    },
+    {
+      "word": "photograph",
+      "type": "core",
+      "ctx": "照片"
+    },
+    {
+      "word": "beautiful",
+      "type": "outline",
+      "ctx": "美丽的"
+    },
+    {
+      "word": "sunset",
+      "type": "core",
+      "ctx": "日落"
+    },
+    {
+      "word": "sunrise",
+      "type": "core",
+      "ctx": "日出"
+    },
+    {
+      "word": "due to",
+      "type": "outline",
+      "ctx": "因为，由于"
+    },
+    {
+      "word": "spot",
+      "type": "outline",
+      "ctx": "斑点，污点"
+    },
+    {
+      "word": "best",
+      "type": "outline",
+      "ctx": "最好的"
+    },
+    {
+      "word": "devil",
+      "type": "core",
+      "ctx": "魔鬼，恶魔"
+    },
+    {
+      "word": "climb",
+      "type": "outline",
+      "ctx": "爬，攀登"
+    },
+    {
+      "word": "purple",
+      "type": "outline",
+      "ctx": "紫色的"
+    },
+    {
+      "word": "rock",
+      "type": "outline",
+      "ctx": "岩石"
+    },
+    {
+      "word": "road",
+      "type": "outline",
+      "ctx": "路，道路"
+    },
+    {
+      "word": "bunch",
+      "type": "outline",
+      "ctx": "串，束"
+    },
+    {
+      "word": "scene",
+      "type": "outline",
+      "ctx": "（戏剧、电影等的）一场"
+    },
+    {
+      "word": "enable",
+      "type": "outline",
+      "ctx": "使能够，使可能"
+    },
+    {
+      "word": "us",
+      "type": "outline",
+      "ctx": "（we的宾格）我们"
+    },
+    {
+      "word": "background",
+      "type": "outline",
+      "ctx": "背景"
+    },
+    {
+      "word": "manage",
+      "type": "outline",
+      "ctx": "勉力完成"
+    },
+    {
+      "word": "spare",
+      "type": "outline",
+      "ctx": "空闲的"
+    },
+    {
+      "word": "route",
+      "type": "outline",
+      "ctx": "路线"
+    },
+    {
+      "word": "once",
+      "type": "outline",
+      "ctx": "一次"
+    },
+    {
+      "word": "camera",
+      "type": "outline",
+      "ctx": "照相机，摄像机"
+    },
+    {
+      "word": "limited",
+      "type": "outline",
+      "ctx": "有限的"
+    },
+    {
+      "word": "wisely",
+      "type": "core",
+      "ctx": "明智地"
+    }
+  ],
+  "audio": "https://pc-media.xdfsjj.com/9d70d3cfaa72e96d02ec4a060f2d14ba/6A3D4122/tm7345927_4959647562dfa38014e2de2f6bebc5ef6206eeff.mp3",
+  "duration": "03:49",
+  "resourceId": "33187597"
+}
