@@ -1,0 +1,238 @@
+{
+  "word": "water",
+  "found": true,
+  "phonetic_uk": "ˈwɔːtə(r)",
+  "phonetic_us": "ˈwɔːtər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=water&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=water&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "水，雨水；水域，（江、河、湖、海等）大片的水；（某个国家的）领海，海域（waters）；不明朗（或未知的、困难、危险等）局面（waters）；羊水（waters）；（湖、海的）水面；水位；乘船，走水路"
+    },
+    {
+      "pos": "v.",
+      "meaning": "给……浇水，灌溉；给…...水喝，饮（动物）；（风等使眼睛）流泪；流口水；（江河）流经并给（某地区）供水；加水冲淡，稀释"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Water）（英）沃特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "waters"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "waters"
+    },
+    {
+      "name": "现在分词",
+      "value": "watering"
+    },
+    {
+      "name": "过去式",
+      "value": "watered"
+    },
+    {
+      "name": "过去分词",
+      "value": "watered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The water deepened gradually.",
+      "zh": "水渐渐变深了。"
+    },
+    {
+      "en": "Water gurgled through the pipes.",
+      "zh": "水汩汩地从管道中流过。"
+    },
+    {
+      "en": "Salt dissolves in water.",
+      "zh": "盐溶于水。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "水；海水；雨水；海域，大片的水",
+      "words": [
+        "seawater",
+        "eau"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "加水；流泪",
+      "words": [
+        "shed tears",
+        "pipe one's eye"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研"
+  ],
+  "phrs": [
+    {
+      "phrase": "water quality",
+      "translations": [
+        "水质"
+      ]
+    },
+    {
+      "phrase": "water supply",
+      "translations": [
+        "供水系统；水源"
+      ]
+    },
+    {
+      "phrase": "water treatment",
+      "translations": [
+        "水处理；水的处理"
+      ]
+    },
+    {
+      "phrase": "waste water",
+      "translations": [
+        "污水，废水"
+      ]
+    },
+    {
+      "phrase": "drinking water",
+      "translations": [
+        "饮用水"
+      ]
+    },
+    {
+      "phrase": "hot water",
+      "translations": [
+        "热水；困境"
+      ]
+    },
+    {
+      "phrase": "water pollution",
+      "translations": [
+        "水污染"
+      ]
+    },
+    {
+      "phrase": "water resource",
+      "translations": [
+        "水资源"
+      ]
+    },
+    {
+      "phrase": "water content",
+      "translations": [
+        "含水量"
+      ]
+    },
+    {
+      "phrase": "water system",
+      "translations": [
+        "水系；供水系统（等于water supply）"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 1066,
+          "type": "阅读"
+        },
+        {
+          "time": 140,
+          "type": "短文填空"
+        },
+        {
+          "time": 64,
+          "type": "听力"
+        },
+        {
+          "time": 8,
+          "type": "翻译"
+        },
+        {
+          "time": 14,
+          "type": "情景对话"
+        },
+        {
+          "time": 6,
+          "type": "写作"
+        },
+        {
+          "time": 221,
+          "type": "完形填空"
+        },
+        {
+          "time": 58,
+          "type": "单项选择"
+        },
+        {
+          "time": 27,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 5,
+      "frequency": 1604
+    },
+    "pastExamSents": [
+      {
+        "en": "It's well known for the Severn Bore—a tall wave of water that regularly—flows up the river from the sea.",
+        "zh": "它因塞文潮而闻名，塞文潮是一种定期从海里沿河向上流动的巨浪。",
+        "source": "2021·湖南-长沙·阅读"
+      },
+      {
+        "en": "As fog passes by, the nets catch the water drops.",
+        "zh": "当雾气经过时，这些网就收集水滴。",
+        "source": "2021·湖南-株洲·阅读"
+      },
+      {
+        "en": "Centuries before scientists created fog-catching nets, nature was making fog into water on its own.",
+        "zh": "早在科学家们发明雾收集网的几个世纪前，大自然自己就把雾转化成水了。",
+        "source": "2021·湖南-株洲·阅读"
+      },
+      {
+        "en": "Rivers can differ in size and there is no strict rule on how big a flow of water must be to be called as a river.",
+        "zh": "河流的流域会有不同，对于有多大的流量才能被称为河流没有严格的规定。",
+        "source": "2021·湖北-十堰·阅读"
+      },
+      {
+        "en": "By the time I climbed down to the rocks below, my husband had pulled Wyatt out of the water with the help of a young woman.",
+        "zh": "当我爬到下面的岩石上时，我丈夫已经在一个年轻女人的帮助下把怀亚特从水里拉了出来。",
+        "source": "2021·浙江-嘉兴·完形填空"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "water pipe",
+        "zh": "水管"
+      },
+      {
+        "en": "water pollution",
+        "zh": "水污染"
+      },
+      {
+        "en": "running water",
+        "zh": "自来水"
+      },
+      {
+        "en": "drink water",
+        "zh": "喝水"
+      }
+    ]
+  }
+}
