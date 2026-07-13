@@ -1,0 +1,155 @@
+{
+  "word": "colours",
+  "found": true,
+  "phonetic_uk": "ˈkʌləs",
+  "phonetic_us": "ˈkʌlərz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=colours&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=colours&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "颜色；特色；旗帜；外表（colour 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "影响（colour 的单三形式）；给……着色"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "You can't see colours at night.",
+      "zh": "你在夜间看不见颜色。"
+    },
+    {
+      "en": "Bright colours are his signature.",
+      "zh": "他总爱用亮丽的色彩。"
+    },
+    {
+      "en": "The colours blend smoothly together.",
+      "zh": "这些颜色可以均匀地配在一起。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "颜色；特色；旗帜；外表（colour的复数）",
+      "words": [
+        "characteristics",
+        "flags"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "影响（colour的单三形式）；给…着色",
+      "words": [
+        "affects"
+      ]
+    }
+  ],
+  "prototype": "colour",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6"
+  ],
+  "phrs": [
+    {
+      "phrase": "flying colours",
+      "translations": [
+        "大胜利"
+      ]
+    },
+    {
+      "phrase": "true colours",
+      "translations": [
+        "真面目"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "col（遮盖）+ u + or（表示名词，物）→ 油画画错了用另一种颜色遮盖 → 颜色",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 60,
+          "type": "阅读"
+        },
+        {
+          "time": 3,
+          "type": "短文填空"
+        },
+        {
+          "time": 7,
+          "type": "听力"
+        },
+        {
+          "time": 0,
+          "type": "翻译"
+        },
+        {
+          "time": 3,
+          "type": "情景对话"
+        },
+        {
+          "time": 0,
+          "type": "写作"
+        },
+        {
+          "time": 6,
+          "type": "完形填空"
+        },
+        {
+          "time": 8,
+          "type": "单项选择"
+        },
+        {
+          "time": 4,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 2,
+      "frequency": 91
+    },
+    "pastExamSents": [
+      {
+        "en": "It would give parents the ability to choose everything from their baby's eye colour to their IQ.",
+        "zh": "它将使父母有能力选择婴儿的一切，从眼睛的颜色到智商。",
+        "source": "2021·内蒙古-呼和浩特·阅读"
+      },
+      {
+        "en": "Which colour do you like best, purple, orange or pink?",
+        "zh": "你最喜欢哪种颜色，紫色、橙色还是粉色？",
+        "source": "2021·江苏-徐州·单项选择"
+      },
+      {
+        "en": "The foreign visitors felt the strong local colour as soon as they arrived in Shanghai.",
+        "zh": "外国游客们一到上海就感受到了浓郁的地方特色。",
+        "source": "2021·江苏-淮安·句子填空"
+      },
+      {
+        "en": "Mars is red in colour and is very cold.",
+        "zh": "火星是红色的，非常冷。",
+        "source": "2021·西藏自治区·阅读"
+      },
+      {
+        "en": "Its colours are too bright.",
+        "zh": "它的颜色太鲜艳了。",
+        "source": "2020·江西·听力"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "bright / dark / light colours",
+        "zh": "鲜艳的 / 深的 / 浅的颜色"
+      },
+      {
+        "en": "favourite / different colour",
+        "zh": "最喜爱的 / 不同的颜色"
+      }
+    ]
+  }
+}
