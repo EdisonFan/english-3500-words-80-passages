@@ -1,25 +1,32 @@
 import React, { useState, useEffect } from 'react';
-import { useParams, Link } from 'react-router-dom';
+import { useParams, Link, useNavigate, useNavigationType } from 'react-router-dom';
 import HighlightedText from '../components/HighlightedText.jsx';
 import { fetchPassage, fetchDict } from '../api/client.js';
 import { useUIStore, useDictStore } from '../store/index.js';
 import { findUnitTitle } from '../utils/helpers.js';
 
 // 文章页：迁移自 app.js renderPassage / renderPassageContent
-// 顶栏 + 正文（每段英文用 HighlightedText 渲染，词点击 → 新标签页打开 /dict?word=）
+// 顶栏 + 正文（每段英文用 HighlightedText 渲染，词点击 → 跳 /dict?word=）
 //
-// ★点击单词用 window.open 新标签页打开（与旧版 app.js openDictPage 一致）
-//   - 主标签页（文章页）不被销毁，滚动位置浏览器天然保留
-//   - React Router 内 navigate 会卸载 Passage 组件导致滚动丢失，弃用
-//   - 同时预热词典缓存：拉到的数据塞 zustand，dict 新标签页打开后命中零延迟
+// ★单词点击跳转策略（双保险，对齐旧版 app.js openDictPage 的体验）
+//   1) 优先 window.open 新标签页：标准浏览器里主标签页不销毁，滚动位置天然保留
+//   2) iframe / 预览环境里 window.open 会被拦截 → 回退 SPA 内 navigate
+//      此时 Passage 会被卸载，需在卸载前把 scrollY 存 sessionStorage
+//      返回时（POP）读取并恢复；新进入（PUSH）滚到顶
 export default function Passage() {
   const { bookId, pid } = useParams();
+  const navigate = useNavigate();
+  const navType = useNavigationType();
   const [state, setState] = useState({ loading: true, passage: null, error: null });
   const getDict = useDictStore(s => s.getDict);
   const setDict = useDictStore(s => s.setDict);
 
   useEffect(() => {
-    window.scrollTo(0, 0);
+    const scrollKey = `passage-scroll:${bookId}:${pid}`;
+    // 返回（POP）且有保存位置 → 恢复；否则滚到顶
+    const saved = navType === 'POP' ? sessionStorage.getItem(scrollKey) : null;
+    if (saved !== null) sessionStorage.removeItem(scrollKey);
+
     setState({ loading: true, passage: null, error: null });
     fetchPassage(bookId, pid)
       .then(j => {
@@ -27,12 +34,23 @@ export default function Passage() {
           setState({ loading: false, passage: null, error: j.error || '未知错误' });
         } else {
           setState({ loading: false, passage: j.passage, error: null });
+          // 数据加载完成 + DOM 渲染后恢复滚动位置
+          if (saved !== null) {
+            requestAnimationFrame(() => window.scrollTo(0, parseInt(saved, 10) || 0));
+          } else {
+            window.scrollTo(0, 0);
+          }
         }
       })
       .catch(e => setState({ loading: false, passage: null, error: e.message }));
-  }, [bookId, pid]);
 
-  // 单词点击 → 新标签页打开 /dict?word=（与旧版一致）
+    // 卸载或 bookId/pid 变化时：保存当前滚动位置（用于返回时恢复）
+    return () => {
+      sessionStorage.setItem(scrollKey, String(window.scrollY));
+    };
+  }, [bookId, pid, navType]);
+
+  // 单词点击 → 跳 /dict?word=
   function handleWordClick(e, word) {
     e.stopPropagation();
     // 脉冲动画
@@ -43,13 +61,20 @@ export default function Passage() {
     if (!word) return;
 
     const w = String(word).toLowerCase().trim();
-    // 预热词典缓存：未命中则后台拉取写入 zustand，dict 新标签页打开后命中零延迟
+    // 预热词典缓存：未命中则后台拉取写入 zustand，dict 页打开后命中零延迟
     if (!getDict(w)) {
       fetchDict(w).then(data => setDict(w, data)).catch(() => {});
     }
-    // 新标签页打开（不被弹窗拦截：用户点击触发，浏览器允许）
-    const url = `#/dict?word=${encodeURIComponent(w)}`;
-    window.open(url, '_blank');
+
+    const dictPath = `/dict?word=${encodeURIComponent(w)}`;
+    // 优先新标签页打开（标准浏览器里主标签页不销毁，滚动位置天然保留）
+    const fullUrl = `${window.location.origin}${window.location.pathname}#${dictPath}`;
+    const win = window.open(fullUrl, '_blank');
+    // iframe / 预览环境拦截弹窗 → win 为 null，回退 SPA 内跳转
+    // 卸载前的 cleanup 会把 scrollY 存入 sessionStorage，返回时（POP）恢复
+    if (!win) {
+      navigate(dictPath);
+    }
   }
 
   if (state.loading) {
