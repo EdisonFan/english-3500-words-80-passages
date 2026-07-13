@@ -1,0 +1,193 @@
+{
+  "word": "dried",
+  "found": true,
+  "phonetic_uk": "draɪd",
+  "phonetic_us": "draɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dried&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dried&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "（食物、花等）干的，除去水分的，脱水的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使变干（dry 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "His legs were caked with dried mud.",
+      "zh": "他的双腿结着干泥巴。"
+    },
+    {
+      "en": "We dried our boots off by the fire.",
+      "zh": "我们把靴子放在火旁烘干。"
+    },
+    {
+      "en": "The stream has dried up.",
+      "zh": "小溪已经干涸了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "干燥的；弄干了的",
+      "words": [
+        "pulpless",
+        "drouthy"
+      ]
+    }
+  ],
+  "prototype": "dry",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研"
+  ],
+  "phrs": [
+    {
+      "phrase": "dried up",
+      "translations": [
+        "adj. 干缩的，干枯的"
+      ]
+    },
+    {
+      "phrase": "dried fruit",
+      "translations": [
+        "干果；果脯"
+      ]
+    },
+    {
+      "phrase": "dried fish",
+      "translations": [
+        "鱼干；干鱼粉"
+      ]
+    },
+    {
+      "phrase": "air dried",
+      "translations": [
+        "风干的；晾干的"
+      ]
+    },
+    {
+      "phrase": "cut and dried",
+      "translations": [
+        "固定的；已成定局的；老生常谈"
+      ]
+    },
+    {
+      "phrase": "dried ginger",
+      "translations": [
+        "干姜块"
+      ]
+    },
+    {
+      "phrase": "dried beef",
+      "translations": [
+        "牛肉干"
+      ]
+    },
+    {
+      "phrase": "dried food",
+      "translations": [
+        "干制食品；干货"
+      ]
+    },
+    {
+      "phrase": "dried shrimp",
+      "translations": [
+        "干小虾；海米"
+      ]
+    },
+    {
+      "phrase": "dried mushroom",
+      "translations": [
+        "冬菇；龙船香菇"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 124,
+          "type": "阅读"
+        },
+        {
+          "time": 18,
+          "type": "短文填空"
+        },
+        {
+          "time": 2,
+          "type": "听力"
+        },
+        {
+          "time": 1,
+          "type": "翻译"
+        },
+        {
+          "time": 0,
+          "type": "情景对话"
+        },
+        {
+          "time": 1,
+          "type": "写作"
+        },
+        {
+          "time": 30,
+          "type": "完形填空"
+        },
+        {
+          "time": 4,
+          "type": "单项选择"
+        },
+        {
+          "time": 0,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 3,
+      "frequency": 180
+    },
+    "pastExamSents": [
+      {
+        "en": "Now, all the rivers and lakes are either dry or polluted.",
+        "zh": "现在，所有的河流和湖泊不是干涸就是被污染了。",
+        "source": "2021·湖北-荆州·短文填空"
+      },
+      {
+        "en": "He weighed the pot and the dry soil. It weighed just a bit less.",
+        "zh": "他掂量罐子和干土的重量。它只轻了一点点。",
+        "source": "2021·贵州-安顺，贵州-黔南·阅读"
+      },
+      {
+        "en": "He weighed the pot and the dry soil.",
+        "zh": "他称了盆和干土的重量。",
+        "source": "2021·贵州-六盘水，贵州-贵阳·阅读"
+      },
+      {
+        "en": "In his hand was a flower, a dry and dead one.",
+        "zh": "他手里拿着一朵花，一朵干枯的花。",
+        "source": "2021·山东-济南·短文填空"
+      },
+      {
+        "en": "Deserts can be hot and dry places.",
+        "zh": "沙漠炎热又干燥。",
+        "source": "2021·天津·阅读"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "dry season / land",
+        "zh": "旱季 / 地"
+      }
+    ]
+  }
+}

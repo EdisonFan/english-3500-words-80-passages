@@ -68,11 +68,6 @@
   </div>
 </template>
 
-<script>
-// ★必须 name: 'Passage'，与 App.vue 的 keep-alive :include="['Passage']" 对应
-export default { name: 'Passage' };
-</script>
-
 <script setup>
 import { ref, computed, watch, onMounted, onActivated, onDeactivated, nextTick } from 'vue';
 import { useRoute, useRouter } from 'vue-router';
@@ -80,6 +75,9 @@ import HighlightedText from '../components/HighlightedText.vue';
 import { fetchPassage, fetchDict } from '../api/client.js';
 import { findUnitTitle } from '../utils/helpers.js';
 import { getDict, setDict, useUIStore } from '../store/index.js';
+
+// ★ 显式声明组件 name（Vue 3.3+ 的 defineOptions），keep-alive 按此名匹配
+defineOptions({ name: 'Passage' });
 
 const route = useRoute();
 const router = useRouter();

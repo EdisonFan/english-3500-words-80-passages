@@ -1,0 +1,237 @@
+{
+  "word": "high",
+  "found": true,
+  "phonetic_uk": "haɪ",
+  "phonetic_us": "haɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=high&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=high&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "高的；富含……的；重要的；先进的，高级的；崇高的；高音的，声音尖锐的；兴高采烈的；喝醉了的，（吸毒后）极度兴奋的；十分赞同的，非常尊敬的；中间的，全盛的；开始变质的，开始发馊的；（宗教或政治观点）极端的，偏激的；（元音）舌位高的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "最高水平，最大数量；兴奋，高兴；高气压区；（毒品引致的）快感；高中，中学；强档；高音，高音符"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "（成本、价值、音量）高，（数量）大；在高处，向高处"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】  （High）（英）海伊（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "highs"
+    },
+    {
+      "name": "比较级",
+      "value": "higher"
+    },
+    {
+      "name": "最高级",
+      "value": "highest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The quality is uniformly high.",
+      "zh": "质量一律很高。"
+    },
+    {
+      "en": "The rooms had high ceilings.",
+      "zh": "那些房间的天花板很高。"
+    },
+    {
+      "en": "Oxygen has high reactivity.",
+      "zh": "氧的反应性很高。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "高的；高级的；崇高的；高音调的",
+      "words": [
+        "tall",
+        "senior",
+        "advanced",
+        "lofty"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "高水平；天空；由麻醉品引起的快感；高压地带",
+      "words": [
+        "heaven",
+        "sky",
+        "air"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "高；奢侈地",
+      "words": [
+        "luxuriously",
+        "sumptuously"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研"
+  ],
+  "phrs": [
+    {
+      "phrase": "high quality",
+      "translations": [
+        "高品质"
+      ]
+    },
+    {
+      "phrase": "high speed",
+      "translations": [
+        "高速全速"
+      ]
+    },
+    {
+      "phrase": "high temperature",
+      "translations": [
+        "高温"
+      ]
+    },
+    {
+      "phrase": "high school",
+      "translations": [
+        "中学"
+      ]
+    },
+    {
+      "phrase": "high efficiency",
+      "translations": [
+        "高效率"
+      ]
+    },
+    {
+      "phrase": "on high",
+      "translations": [
+        "在高处；在天空"
+      ]
+    },
+    {
+      "phrase": "high performance",
+      "translations": [
+        "高性能；高效能的"
+      ]
+    },
+    {
+      "phrase": "high pressure",
+      "translations": [
+        "高压，高气压；高度紧张"
+      ]
+    },
+    {
+      "phrase": "high precision",
+      "translations": [
+        "高精度"
+      ]
+    },
+    {
+      "phrase": "high level",
+      "translations": [
+        "高层；高电平"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 670,
+          "type": "阅读"
+        },
+        {
+          "time": 84,
+          "type": "短文填空"
+        },
+        {
+          "time": 39,
+          "type": "听力"
+        },
+        {
+          "time": 6,
+          "type": "翻译"
+        },
+        {
+          "time": 15,
+          "type": "情景对话"
+        },
+        {
+          "time": 20,
+          "type": "写作"
+        },
+        {
+          "time": 107,
+          "type": "完形填空"
+        },
+        {
+          "time": 113,
+          "type": "单项选择"
+        },
+        {
+          "time": 41,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 5,
+      "frequency": 1095
+    },
+    "pastExamSents": [
+      {
+        "en": "What’s the highest temperature today?",
+        "zh": "今天最高气温是多少？",
+        "source": "2021·广东-广东省·听力"
+      },
+      {
+        "en": "Helen didn't realize how wise her parents were until she entered high school.",
+        "zh": "直到上了高中，海伦才意识到她的父母是多么明智。",
+        "source": "2021·江苏-徐州·短文填空"
+      },
+      {
+        "en": "She set up the first free girls' high school in 2008.",
+        "zh": "2008年，她创办了第一所免费的女子高中。",
+        "source": "2021·湖南-湘潭·单项选择"
+      },
+      {
+        "en": "In English, daddy with a high rising tone means \"is that daddy?\"",
+        "zh": "在英语中，爸爸用高声调表示“是爸爸吗？”",
+        "source": "2021·浙江-杭州·阅读"
+      },
+      {
+        "en": "His ears were raised high and his tail was wagging as fast as it could.",
+        "zh": "他的耳朵高高竖起，尾巴拼命地摇晃着。",
+        "source": "2021·湖南-怀化·阅读"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "a high mountain / wall",
+        "zh": "高山 / 墙"
+      },
+      {
+        "en": "high school",
+        "zh": "中学"
+      }
+    ]
+  }
+}

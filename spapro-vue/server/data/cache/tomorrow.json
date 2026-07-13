@@ -1,0 +1,194 @@
+{
+  "word": "tomorrow",
+  "found": true,
+  "phonetic_uk": "təˈmɒrəʊ",
+  "phonetic_us": "təˈmɑːroʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tomorrow&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tomorrow&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "在明天，在明日；（尤指不久的）将来"
+    },
+    {
+      "pos": "n.",
+      "meaning": "明天，明日；未来"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "tomorrows"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I'll see you tomorrow evening.",
+      "zh": "我明天晚上见你。"
+    },
+    {
+      "en": "Snow is forecast for tomorrow.",
+      "zh": "预报明天有雪。"
+    },
+    {
+      "en": "Can you call back tomorrow?",
+      "zh": "明天你能回电话吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "明天；未来",
+      "words": [
+        "future",
+        "demain"
+      ]
+    }
+  ],
+  "prototype": "",
+  "exam_type": [
+    "初中",
+    "高中",
+    "CET4",
+    "CET6",
+    "考研"
+  ],
+  "phrs": [
+    {
+      "phrase": "tomorrow morning",
+      "translations": [
+        "明天早上"
+      ]
+    },
+    {
+      "phrase": "tomorrow afternoon",
+      "translations": [
+        "明天下午"
+      ]
+    },
+    {
+      "phrase": "tomorrow is another day",
+      "translations": [
+        "明天又是崭新的一天"
+      ]
+    },
+    {
+      "phrase": "day after tomorrow",
+      "translations": [
+        "n. 后天"
+      ]
+    },
+    {
+      "phrase": "tomorrow night",
+      "translations": [
+        "明天晚上"
+      ]
+    },
+    {
+      "phrase": "tomorrow evening",
+      "translations": [
+        "明天晚上"
+      ]
+    },
+    {
+      "phrase": "see you tomorrow",
+      "translations": [
+        "明天见"
+      ]
+    },
+    {
+      "phrase": "tomorrow never comes",
+      "translations": [
+        "切莫依赖明天"
+      ]
+    }
+  ],
+  "individual": {
+    "level": "中考",
+    "mnemonic": "",
+    "examInfo": {
+      "year": 5,
+      "questionTypeInfo": [
+        {
+          "time": 62,
+          "type": "阅读"
+        },
+        {
+          "time": 12,
+          "type": "短文填空"
+        },
+        {
+          "time": 91,
+          "type": "听力"
+        },
+        {
+          "time": 2,
+          "type": "翻译"
+        },
+        {
+          "time": 70,
+          "type": "情景对话"
+        },
+        {
+          "time": 1,
+          "type": "写作"
+        },
+        {
+          "time": 8,
+          "type": "完形填空"
+        },
+        {
+          "time": 90,
+          "type": "单项选择"
+        },
+        {
+          "time": 21,
+          "type": "句子填空"
+        }
+      ],
+      "recommendationRate": 4,
+      "frequency": 357
+    },
+    "pastExamSents": [
+      {
+        "en": "Kevin, it's Friday. You needn't get up early tomorrow morning.",
+        "zh": "凯文，今天星期五。明天早上你不用早起。",
+        "source": "2021·江苏-淮安·单项选择"
+      },
+      {
+        "en": "What will the weather be like tomorrow?",
+        "zh": "明天天气怎么样？",
+        "source": "2020，2021·安徽，辽宁-朝阳·听力，单项选择"
+      },
+      {
+        "en": "It is easier to put off today's duties to tomorrow than to do them at the right time.",
+        "zh": "把今天的事推到明天比在恰当的时间完成更加容易。",
+        "source": "2021·四川-绵阳·阅读"
+      },
+      {
+        "en": "They can learn how to improve from their mistakes and say tomorrow will be better than today.",
+        "zh": "他们可以学习如何从错误中改进，并且说着明天会比今天更好。",
+        "source": "2021·山东-烟台·阅读"
+      },
+      {
+        "en": "What will the world of tomorrow look like?",
+        "zh": "明天的世界会是什么样子？",
+        "source": "2021·河北·阅读"
+      }
+    ],
+    "idiomatic": [
+      {
+        "en": "tomorrow morning",
+        "zh": "明天早上"
+      },
+      {
+        "en": "see you tomorrow",
+        "zh": "明天见"
+      },
+      {
+        "en": "the day after tomorrow",
+        "zh": "后天"
+      }
+    ]
+  }
+}
