@@ -1,7 +1,5 @@
 // API 客户端：所有 fetch 调用集中在此
 
-import { useState, useCallback } from 'react';
-
 // fetch 简单封装：返回 json
 async function fetchJson(url) {
   const r = await fetch(url);
@@ -89,18 +87,4 @@ export async function streamChat(messages, { onDelta, signal } = {}) {
     }
   }
   return acc;
-}
-
-// 轻量 hook：通用 fetch 状态
-export function useAsync(asyncFn, deps = []) {
-  const [state, setState] = useState({ loading: true, data: null, error: null });
-  const reload = useCallback(() => {
-    setState({ loading: true, data: null, error: null });
-    return Promise.resolve()
-      .then(asyncFn)
-      .then(data => setState({ loading: false, data, error: null }))
-      .catch(error => setState({ loading: false, data: null, error }));
-  }, deps);
-
-  return { ...state, reload };
 }

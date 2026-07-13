@@ -1,6 +1,9 @@
-import React from 'react';
+<template>
+  <div v-html="html"></div>
+</template>
 
-// 轻量 markdown 渲染（迁移自 app.js _renderMarkdown）
+<script>
+// 轻量 markdown 渲染（迁移自 app.js _renderMarkdown / React Markdown.jsx）
 // 支持：粗体/斜体/标题/列表/行内代码/分隔线/GFM 表格
 
 function escapeHtml(s) {
@@ -122,6 +125,15 @@ function renderMarkdown(text) {
   return out.join('');
 }
 
-export default function Markdown({ text }) {
-  return <div dangerouslySetInnerHTML={{ __html: renderMarkdown(text) }} />;
-}
+export default {
+  name: 'Markdown',
+  props: {
+    text: { type: String, default: '' },
+  },
+  computed: {
+    html() {
+      return renderMarkdown(this.text);
+    },
+  },
+};
+</script>

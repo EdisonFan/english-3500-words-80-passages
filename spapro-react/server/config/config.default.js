@@ -37,10 +37,14 @@ module.exports = () => {
     },
   };
 
-  // 静态文件：生产环境可让后端直接吐前端 dist
+  // 静态文件：生产环境可让后端直接吐前端 dist + /data/ 数据目录
   config.static = {
-    prefix: '/',
-    dir: path.join(__dirname, '..', '..', 'web', 'dist'),
+    dynamic: true,
+    preload: false,
+    dirs: [
+      { prefix: '/', dir: path.join(__dirname, '..', '..', 'web', 'dist') },
+      { prefix: '/data/', dir: path.join(__dirname, '..', 'data') },
+    ],
   };
 
   return config;
