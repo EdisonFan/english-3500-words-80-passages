@@ -47,5 +47,8 @@ module.exports = () => {
     ],
   };
 
+  // 启用 SPA fallback 中间件：访问前端路由（如 /book/xxx）返回 index.html
+  config.middleware = ['spaFallback'];
+
   return config;
 };

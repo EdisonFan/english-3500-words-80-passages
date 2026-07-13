@@ -89,6 +89,7 @@
     "buffer": "/workspace/spapro-react/server/node_modules/egg-static/config/config.default.js",
     "maxFiles": "/workspace/spapro-react/server/node_modules/egg-static/config/config.default.js"
   },
+  "middleware": "/workspace/spapro-react/server/config/config.default.js",
   "session": {
     "maxAge": "/workspace/spapro-react/server/node_modules/egg-session/config/config.default.js",
     "key": "/workspace/spapro-react/server/node_modules/egg-session/config/config.default.js",
