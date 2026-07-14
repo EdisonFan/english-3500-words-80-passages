@@ -13,9 +13,16 @@ class DictController extends Controller {
       ctx.body = { error: '缺少参数 q' };
       return;
     }
-    const result = await ctx.service.dict.lookup(word);
-    ctx.logger.info('[dict] result word=%j found=%s error=%s', word, result.found, result.error || 'none');
-    ctx.body = result;
+    try {
+      const result = await ctx.service.dict.lookup(word);
+      ctx.logger.info('[dict] result word=%j found=%s error=%s', word, result.found, result.error || 'none');
+      ctx.body = result;
+    } catch (e) {
+      ctx.logger.error('[dict.show] UNCAUGHT word=%j err=%s stack=%s cause=%s',
+        word, e.message, e.stack, e.cause ? (e.cause.message + '/' + e.cause.code) : 'none');
+      ctx.status = 500;
+      ctx.body = { error: e.message };
+    }
   }
 }
 

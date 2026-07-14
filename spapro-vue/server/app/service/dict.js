@@ -165,6 +165,9 @@ class DictService extends Service {
 
       return result;
     } catch (e) {
+      // 打印完整错误堆栈，便于定位 "failed to build request" 等疑难问题
+      this.ctx.logger.error('[dict.fetchYoudao] word=%j error=%s stack=%s cause=%s',
+        word, e.message, e.stack, e.cause ? (e.cause.message + '/' + e.cause.code) : 'none');
       return {
         word,
         found: false,
