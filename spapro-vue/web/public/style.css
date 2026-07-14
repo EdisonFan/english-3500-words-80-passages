@@ -310,11 +310,13 @@ body.no-gloss .para { padding-bottom: 32px; }
     font-weight: 400;
 }
 
-/* === 高亮词 + 下方注释 — 纯 CSS flexbox === */
+/* === 高亮词 + 下方注释 — inline + absolute 定位 === */
+/* 注意：.wn 不能用 inline-flex/inline-block，否则 Chromium 复制选区时
+   会在每个 .wn 边界插入换行符，导致粘贴出现多余换行。改用 inline + 相对定位，
+   .w-g 用 absolute 定位到词的下方，视觉与原 flex 方案等价。 */
 .wn {
-    display: inline-flex;
-    flex-direction: column;
-    align-items: center;
+    position: relative;
+    display: inline;
     vertical-align: baseline;
     line-height: 30px;
 }
@@ -343,8 +345,10 @@ body.no-gloss .para { padding-bottom: 32px; }
 .w.pulsed { animation: pulse 0.35s ease-out; }
 
 .w-g {
-    height: 0;
-    overflow: visible;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
     white-space: nowrap;
     font-family: var(--font-cn);
     font-size: 10.5px;
@@ -916,8 +920,8 @@ footer {
     /* 段落中文译文 - 打印时显示 */
     .para .cn { display: block !important; font-size: 11pt !important; color: #333 !important; margin-top: 8px !important; padding-top: 8px !important; border-top: 1px dashed #ccc !important; }
 
-    /* 高亮词 - 保持蓝色和背景 */
-    .wn { display: inline-flex !important; flex-direction: column !important; align-items: center !important; vertical-align: baseline !important; line-height: 22px !important; }
+    /* 高亮词 - 保持蓝色和背景（与屏幕样式一致：inline + absolute） */
+    .wn { display: inline !important; position: relative !important; vertical-align: baseline !important; line-height: 22px !important; }
     .w {
         color: #0044cc !important;
         font-weight: 600 !important;
@@ -927,7 +931,7 @@ footer {
         border-radius: 2px !important;
     }
     .w.outline { color: #c05020 !important; background: linear-gradient(180deg, transparent 55%, #fff2ed 55%) !important; }
-    .w-g { color: #555 !important; font-size: 9pt !important; line-height: 1.25 !important; height: auto !important; overflow: visible !important; white-space: nowrap !important; margin-top: 1px !important; }
+    .w-g { color: #555 !important; font-size: 9pt !important; line-height: 1.25 !important; white-space: nowrap !important; margin-top: 1px !important; position: absolute !important; top: 100% !important; left: 50% !important; transform: translateX(-50%) !important; }
 
     /* extras 颜色保持 */
     .extra.col { background: #f5f6f7 !important; color: #333 !important; }
