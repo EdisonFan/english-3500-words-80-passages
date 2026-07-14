@@ -11,7 +11,7 @@ function loadFlag(key, def) {
 
 export const useUIStore = defineStore('ui', {
   state: () => ({
-    glossOn: loadFlag('spa_gloss', true),
+    glossOn: loadFlag('spa_gloss', false),
     transOn: loadFlag('spa_trans', false),
   }),
   actions: {

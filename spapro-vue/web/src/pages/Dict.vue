@@ -186,7 +186,6 @@ function loadVideo(videoWord) {
 }
 
 function loadDict(w) {
-  window.scrollTo(0, 0);
   videoList.value = null;
   const cached = getDict(w);
   if (cached) {

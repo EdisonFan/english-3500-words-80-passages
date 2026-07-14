@@ -40,7 +40,7 @@
       </div>
     </div>
 
-    <div class="wrap" v-if="loading">
+    <div class="wrap" v-if="loading" id="passage-loading">
       <div class="article">
         <p class="muted">正在加载…</p>
       </div>
@@ -60,7 +60,7 @@
           <p class="eng">
             <HighlightedText :text="p.en" :vocab="passage.vocab" @word-click="handleWordClick" />
           </p>
-          <p v-if="p.cn" class="cn">{{ p.cn }}</p>
+          <p v-if="p.cn" class="cn" v-html="p.cn"></p>
         </div>
       </article>
       <footer>PASSAGE {{ num }} · END</footer>
@@ -71,80 +71,88 @@
 <script>
 // ★ 用纯 Options API 声明组件，name 直接挂在外层对象上
 // Vue 3 keep-alive 的 include 按组件 options.name 匹配
-// 这种方式最稳，不会受 <script setup> 双块合并影响
 import HighlightedText from '../components/HighlightedText.vue';
 import { fetchPassage, fetchDict } from '../api/client.js';
 import { findUnitTitle } from '../utils/helpers.js';
 import { getDict, setDict, useUIStore } from '../store/index.js';
 
 export default {
-  name: 'Passage', // ★ 必须，与 App.vue 的 keep-alive include="Passage" 匹配
   components: { HighlightedText },
+
   data() {
     return {
+      /** 是否正在加载中 */
       loading: true,
+      /** 当前文章数据 */
       passage: null,
+      /** 加载错误信息 */
       error: null,
-      routeKey: '',
-      scrollTop: 0,
     };
   },
+
   computed: {
+    /** 当前书籍 ID（来自路由参数） */
     bookId() { return this.$route.params.bookId; },
-    pid() { return this.$route.params.pid; },
+    /** 当前文章 ID（来自路由参数，格式 p001） */
+    pid()    { return this.$route.params.pid; },
+    /**
+     * 路由唯一标识，用于 watch 监听。
+     * 当从“上一篇”切换到“下一篇”时，Vue 会复用 Passage 组件实例而不重新执行 created。
+     * 此时依赖 watch 监听这个组合 key 来触发重新加载文章数据。
+     */
+    routeKey() { return `${this.bookId}:${this.pid}`; },
+    /** 文章序号（数字），用于翻页导航 */
     id() {
       const n = parseInt(String(this.pid).replace(/^p/, ''), 10);
       return n || (this.passage ? this.passage.id : 0) || 0;
     },
-    num() { return String(this.id).padStart(2, '0'); },
+    /** 两位数字序号，用于显示 */
+    num()       { return String(this.id).padStart(2, '0'); },
+    /** 所属单元标题 */
     unitTitle() { return findUnitTitle(this.id); },
-    glossOn() { return this.$store?.state?.ui?.glossOn ?? useUIStore().glossOn; },
-    transOn() { return this.$store?.state?.ui?.transOn ?? useUIStore().transOn; },
+    /** 中文释义开关（读自 Pinia store） */
+    glossOn()   { return useUIStore().glossOn; },
+    /** 中文译文开关（读自 Pinia store） */
+    transOn()   { return useUIStore().transOn; },
   },
+
   watch: {
-    '$route.params.bookId'() { this.checkRouteChange(); },
-    '$route.params.pid'() { this.checkRouteChange(); },
+    routeKey() {
+      if (this.bookId && this.pid) {
+        this.loadPassage();
+      }
+    },
   },
+
   created() {
     this.uiStore = useUIStore();
     this.loadPassage();
   },
-  // ★★★ keep-alive 核心 ★★★
-  // - deactivated：跳走前保存当前 scrollY
-  // - activated：返回时恢复 scrollY；首次进入不恢复
-  deactivated() {
-    this.scrollTop = window.scrollY;
-    console.log('[Passage] deactivated, saved scrollTop=', this.scrollTop);
-  },
-  activated() {
-    console.log('[Passage] activated, scrollTop=', this.scrollTop);
-    // 用 requestAnimationFrame 确保在路由 scrollBehavior 之后执行
-    requestAnimationFrame(() => {
-      if (this.scrollTop > 0) {
-        window.scrollTo(0, this.scrollTop);
-        console.log('[Passage] restored scroll to', this.scrollTop);
-      }
-    });
-  },
+
   methods: {
+    /** 切换中文释义显隐 */
     toggleGloss() { this.uiStore.toggleGloss(); },
-    toggleTrans() { this.uiStore.toggleTrans(); },
-    checkRouteChange() {
-      const newKey = this.bookId + ':' + this.pid;
-      if (newKey !== this.routeKey) {
-        this.loadPassage();
-      }
-    },
+    /** 切换中文译文显隐 */
+    toggleTrans()  { this.uiStore.toggleTrans(); },
+
+    /**
+     * 加载文章数据。
+     * 首次进入（created）和真正切换文章（watch routeKey 且 key 不同）时调用。
+     * ★ _loadedKey 必须在函数开头立即赋值，这样 watch 在激活时触发，
+     *   对比 _loadedKey 就能正确判断「已加载过，跳过」。
+     */
     loadPassage() {
-      this.routeKey = this.bookId + ':' + this.pid;
       this.loading = true;
       this.passage = null;
-      this.error = null;
-      window.scrollTo(0, 0);
+      this.error   = null;
+      
       fetchPassage(this.bookId, this.pid)
         .then(j => {
-          if (!j.ok) this.error = j.error || '未知错误';
-          else this.passage = j.passage;
+          if (!j.ok) {
+            this.error = j.error || '未知错误';
+          } else {
+            this.passage = j.passage;
+          }
           this.loading = false;
         })
         .catch(e => {
@@ -152,18 +160,26 @@ export default {
           this.loading = false;
         });
     },
+
+    /**
+     * 处理单词点击：高亮动画 + 后台预取词典 + 跳转词典页。
+     * @param {MouseEvent} e - 点击事件
+     * @param {string} word - 被点击的单词
+     */
     handleWordClick(e, word) {
       e.stopPropagation();
+      // 触发点击波纹动画（移除再重新添加 class 以重置动画）
       const target = e.currentTarget;
       target.classList.remove('pulsed');
-      void target.offsetWidth;
+      void target.offsetWidth; // 强制回流，使 CSS 动画重新播放
       target.classList.add('pulsed');
       if (!word) return;
       const w = String(word).toLowerCase().trim();
+      // 后台预取词典数据，跳转后命中缓存，秒显示
       if (!getDict(w)) {
         fetchDict(w).then(data => setDict(w, data)).catch(() => {});
       }
-      // SPA 内跳转（keep-alive 会保留 Passage 状态）
+      // keep-alive 保留本页实例，返回时 activated 恢复滚动位置
       this.$router.push(`/dict?word=${encodeURIComponent(w)}`);
     },
   },
