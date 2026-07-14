@@ -1,4 +1,0 @@
-/* 全局基础样式补充（旧版 style.css 已包含主体） */
-* { box-sizing: border-box; }
-html, body { margin: 0; padding: 0; }
-#app { min-height: 100vh; }
