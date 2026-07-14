@@ -17,9 +17,13 @@ const _dictCache = {};
 const _videoSearchCache = {};
 
 export function getDict(word) {
-  return _dictCache[String(word).toLowerCase()];
+  const v = _dictCache[String(word).toLowerCase()];
+  // 跳过历史缓存的错误结果，让调用方重新请求
+  return (v && v.error) ? undefined : v;
 }
 export function setDict(word, data) {
+  // 不缓存错误结果（如"词典服务不可达"），否则后续请求会永久命中缓存里的错误
+  if (data && data.error) return;
   _dictCache[String(word).toLowerCase()] = data;
 }
 export function getVideos(word) {
