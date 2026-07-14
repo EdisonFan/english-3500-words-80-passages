@@ -3,7 +3,15 @@
 // fetch 简单封装：返回 json
 async function fetchJson(url) {
   const r = await fetch(url);
-  return r.json();
+  const text = await r.text();
+  if (!r.ok) {
+    throw new Error(`HTTP ${r.status} ${r.statusText}: ${text.slice(0, 200)}`);
+  }
+  try {
+    return JSON.parse(text);
+  } catch (e) {
+    throw new Error(`JSON解析失败: ${e.message}, 响应前200字符: ${text.slice(0, 200)}`);
+  }
 }
 
 // GET /api/books
