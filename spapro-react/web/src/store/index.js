@@ -1,8 +1,7 @@
-// 全局状态：替代原 app.js 中的全局变量
-// - glossOn / transOn：中文注释/译文显示开关（持久化到 localStorage）
-// - dictCache / videoSearchCache：词典和视频列表的内存缓存
-// - ai 助手状态：open/busy/history
-import { create } from 'zustand';
+import Vue from 'vue';
+import Vuex from 'vuex';
+
+Vue.use(Vuex);
 
 function loadFlag(key, def) {
   try {
@@ -13,52 +12,44 @@ function loadFlag(key, def) {
   }
 }
 
-export const useUIStore = create((set, get) => ({
-  glossOn: loadFlag('spa_gloss', true),
-  transOn: loadFlag('spa_trans', false),
-
-  toggleGloss() {
-    const next = !get().glossOn;
-    try { localStorage.setItem('spa_gloss', next ? 'on' : 'off'); } catch (e) {}
-    set({ glossOn: next });
-  },
-
-  toggleTrans() {
-    const next = !get().transOn;
-    try { localStorage.setItem('spa_trans', next ? 'on' : 'off'); } catch (e) {}
-    set({ transOn: next });
-  },
-}));
-
-// 词典内存缓存（替代原 _dictCache）
+// 词典/视频缓存（不响应式，跨组件 import 即可）
 const _dictCache = {};
-// 视频列表内存缓存（替代原 _videoSearchCache）
 const _videoSearchCache = {};
 
-export const useDictStore = create(() => ({
-  // 词典缓存
-  getDict(word) { return _dictCache[word.toLowerCase()]; },
-  setDict(word, data) { _dictCache[word.toLowerCase()] = data; },
+export function getDict(word) {
+  return _dictCache[String(word).toLowerCase()];
+}
+export function setDict(word, data) {
+  _dictCache[String(word).toLowerCase()] = data;
+}
+export function getVideos(word) {
+  return _videoSearchCache[String(word).toLowerCase()];
+}
+export function setVideos(word, list) {
+  _videoSearchCache[String(word).toLowerCase()] = list;
+}
 
-  // 视频缓存
-  getVideos(word) { return _videoSearchCache[word.toLowerCase()]; },
-  setVideos(word, list) { _videoSearchCache[word.toLowerCase()] = list; },
-}));
-
-// AI 助手状态
-export const useAIStore = create((set, get) => ({
-  open: false,
-  busy: false,
-  history: [],
-  setOpen(v) { set({ open: v }); },
-  pushUser(text) {
-    const h = get().history.concat([{ role: 'user', content: text }]);
-    set({ history: h });
+export default new Vuex.Store({
+  state: {
+    ui: {
+      glossOn: loadFlag('spa_gloss', true),
+      transOn: loadFlag('spa_trans', false),
+    },
+    ai: { open: false, busy: false, history: [] },
   },
-  pushAssistant(text) {
-    const h = get().history.concat([{ role: 'assistant', content: text }]);
-    set({ history: h });
+  mutations: {
+    toggleGloss(s) {
+      s.ui.glossOn = !s.ui.glossOn;
+      try { localStorage.setItem('spa_gloss', s.ui.glossOn ? 'on' : 'off'); } catch (e) {}
+    },
+    toggleTrans(s) {
+      s.ui.transOn = !s.ui.transOn;
+      try { localStorage.setItem('spa_trans', s.ui.transOn ? 'on' : 'off'); } catch (e) {}
+    },
+    aiSetOpen(s, v) { s.ai.open = v; },
+    aiSetBusy(s, v) { s.ai.busy = v; },
+    aiPushUser(s, t) { s.ai.history = s.ai.history.concat([{ role: 'user', content: t }]); },
+    aiPushAssistant(s, t) { s.ai.history = s.ai.history.concat([{ role: 'assistant', content: t }]); },
+    aiClearHistory(s) { s.ai.history = []; },
   },
-  setBusy(b) { set({ busy: b }); },
-  clearHistory() { set({ history: [] }); },
-}));
+});

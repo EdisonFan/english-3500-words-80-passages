@@ -18,3 +18,17 @@ spapro/data/cache/
 
 # 测试脚本(临时调试用,不进库)
 spapro/_test/
+
+# spapro-vue 运行时产物（Egg.js / Vite 自动生成）
+spapro-vue/server/run/
+spapro-vue/server/logs/
+spapro-vue/server/data/cache/
+spapro-vue/web/dist/
+spapro-vue/web/node_modules/
+
+# spapro-react 已废弃，但同样忽略其运行时产物
+spapro-react/server/run/
+spapro-react/server/logs/
+spapro-react/server/data/cache/
+spapro-react/web/dist/
+spapro-react/web/node_modules/

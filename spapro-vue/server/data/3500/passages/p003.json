@@ -1,0 +1,419 @@
+{
+  "id": 3,
+  "stats": {
+    "words": 256,
+    "core": 73
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "{technology} {use} {in} {class}",
+      "cn": "<u> 课堂上 </u> <u> 科技产品 </u> 的 <u> 使用 </u>"
+    },
+    {
+      "num": "02",
+      "en": "{you} will be {permit} to use {your} {favorite} type of technology (e.g., laptop, iPad) in class {if} you {choose} to do {so}, {since} {some} people {prefer} {take} notes {that} way.If you {decide} to use it, please avoid {distraction} such as checking {e-mail} or {access} {social} {media} during class.",
+      "cn": "<u> 如果选择这样 </u> 做， <u> 你 </u> 将被 <u> 允许 </u> 在课堂上使用 <u> 你最喜欢的 </u> 科技产品（如笔记本电脑、iPad）， <u> 因为有些 </u> 人 <u> 更喜欢 </u> 用 <u> 那种 </u> 方式 <u> 记 </u> 笔记。如果你 <u> 决定 </u> 使用它们，请不要在课堂上做 <u> 分散注意力的事 </u> ，比如查看 <u> 电子邮件 </u> 或 <u> 访问社交媒体 </u> 。"
+    },
+    {
+      "num": "03",
+      "en": "{academic} {integrity}",
+      "cn": "<u> 学术诚信 </u>"
+    },
+    {
+      "num": "04",
+      "en": "You will be expected to be the author of the {assignment} you {turn} in for {this} {course} .Your papers will {require} you to draw {upon} existing {research} to {inform} and {lend} {credibility} to your {argument}.To {credit} the {idea} of others {properly}, you must follow two main rules:",
+      "cn": "<u> 本课程 </u> 中，你所 <u> 提交 </u> 的 <u> 作业 </u> 应由你本人所写。你的论文 <u> 需要 </u> 借鉴现有的 <u> 研究 </u> ，以便为 <u> 论点提供依据 </u> 并 <u> 增强 </u> 其 <u> 可信度 </u> 。 <u> 适当引用 </u> 他人的 <u> 观点 </u> ，你必须遵守以下两条主要规则："
+    },
+    {
+      "num": "05",
+      "en": "● {always} {cite} the {source} of {a} finding, idea, or argument that is not your own, regardless of how much you have {reword} it.",
+      "cn": "● 无论你对非自己原创的研究结果、观点或论点进行了多少 <u> 改写 </u> ， <u> 都要注明 </u> 其 <u> 来源 </u> 。"
+    },
+    {
+      "num": "06",
+      "en": "● Always put the findings, ideas, and arguments you cite into your own {word}.If a {direct} {quote} is {absolutely} {necessary} , {put} the {text} in {quotation} {mark} and {include} a {page} number in your {citation}.",
+      "cn": "● 始终用自己的 <u> 话 </u> 表述你引用的研究结果、观点和论点。如果 <u> 非常有必要直接引用 </u> ，请将 <u> 原文放 </u> 在 <u> 引号 </u> 内，并在 <u> 引文 </u> 中 <u> 注明页 </u> 码。"
+    },
+    {
+      "num": "07",
+      "en": "{absence} and {late} assignments",
+      "cn": "<u> 缺勤 </u> 和 <u> 迟 </u> 交作业"
+    },
+    {
+      "num": "08",
+      "en": "You are expected to attend {every} class, since your {participation} in class will {count} {towards} your {final} {grade} . {student} with {excuse} absences will have a {chance} to complete {miss} class assignments (and participation) without {punishment}. {otherwise}, class participation can only be completed during class.Assignments {submit} after the deadline will be considered late assignments.Late assignments will be graded with ½ of the grade if submitted by no more than one {week} following the {original} deadline.If not submitted {within} one week following the original deadline, late assignments will not be graded.",
+      "cn": "你需要参加 <u> 每一 </u> 堂课，因为你的课堂 <u> 参与度 </u> 将 <u> 计入期末成绩 </u> 。有 <u> 正当理由 </u> 缺课的 <u> 学 </u> <u> 生 </u> 将有 <u> 机会 </u> 补做 <u> 错过的 </u> 课堂作业（以及课堂参与度相关任务），并且不会受到 <u> 惩罚 </u> 。 <u> 否则 </u> ，课堂参与只能在课堂上完成。在截止日期后 <u> 提交 </u> 的作业将被视为迟交作业。如果在 <u> 原 </u> 截止日期后一 <u> 周 </u> 内提交，迟交的作业将获得一半成绩。如未在原截止日期后一周 <u> 内 </u> 提交，迟交的作业将不予评分。"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "technology",
+      "type": "outline",
+      "ctx": "科技产品"
+    },
+    {
+      "word": "use",
+      "type": "outline",
+      "ctx": "使用"
+    },
+    {
+      "word": "in",
+      "type": "outline",
+      "ctx": "在……内"
+    },
+    {
+      "word": "class",
+      "type": "outline",
+      "ctx": "课堂"
+    },
+    {
+      "word": "you",
+      "type": "outline",
+      "ctx": "你"
+    },
+    {
+      "word": "permit",
+      "type": "outline",
+      "ctx": "被允许"
+    },
+    {
+      "word": "your",
+      "type": "outline",
+      "ctx": "你的"
+    },
+    {
+      "word": "favorite",
+      "type": "outline",
+      "ctx": "最喜欢的"
+    },
+    {
+      "word": "if",
+      "type": "outline",
+      "ctx": "如果"
+    },
+    {
+      "word": "choose",
+      "type": "outline",
+      "ctx": "选择"
+    },
+    {
+      "word": "so",
+      "type": "outline",
+      "ctx": "这样"
+    },
+    {
+      "word": "since",
+      "type": "outline",
+      "ctx": "因为"
+    },
+    {
+      "word": "some",
+      "type": "outline",
+      "ctx": "一些"
+    },
+    {
+      "word": "prefer",
+      "type": "outline",
+      "ctx": "更喜欢"
+    },
+    {
+      "word": "take",
+      "type": "outline",
+      "ctx": "记"
+    },
+    {
+      "word": "that",
+      "type": "outline",
+      "ctx": "那样"
+    },
+    {
+      "word": "decide",
+      "type": "outline",
+      "ctx": "决定"
+    },
+    {
+      "word": "distraction",
+      "type": "core",
+      "ctx": "分散注意力的事"
+    },
+    {
+      "word": "e-mail",
+      "type": "outline",
+      "ctx": "电子邮件"
+    },
+    {
+      "word": "access",
+      "type": "outline",
+      "ctx": "访问"
+    },
+    {
+      "word": "social",
+      "type": "outline",
+      "ctx": "社交的"
+    },
+    {
+      "word": "medium",
+      "type": "core",
+      "ctx": "大众传播媒介，大众传播工具"
+    },
+    {
+      "word": "academic",
+      "type": "outline",
+      "ctx": "学术的"
+    },
+    {
+      "word": "integrity",
+      "type": "outline",
+      "ctx": "诚信"
+    },
+    {
+      "word": "assignment",
+      "type": "core",
+      "ctx": "作业"
+    },
+    {
+      "word": "turn",
+      "type": "outline",
+      "ctx": "提交"
+    },
+    {
+      "word": "this",
+      "type": "outline",
+      "ctx": "这门"
+    },
+    {
+      "word": "course",
+      "type": "outline",
+      "ctx": "课程"
+    },
+    {
+      "word": "require",
+      "type": "outline",
+      "ctx": "需要"
+    },
+    {
+      "word": "upon",
+      "type": "outline",
+      "ctx": "在……上面"
+    },
+    {
+      "word": "research",
+      "type": "outline",
+      "ctx": "研究"
+    },
+    {
+      "word": "inform",
+      "type": "core",
+      "ctx": "为……提供依据"
+    },
+    {
+      "word": "lend",
+      "type": "outline",
+      "ctx": "增强"
+    },
+    {
+      "word": "credibility",
+      "type": "core",
+      "ctx": "可信性"
+    },
+    {
+      "word": "argument",
+      "type": "core",
+      "ctx": "论点"
+    },
+    {
+      "word": "credit",
+      "type": "outline",
+      "ctx": "注明出处"
+    },
+    {
+      "word": "idea",
+      "type": "outline",
+      "ctx": "观点"
+    },
+    {
+      "word": "properly",
+      "type": "core",
+      "ctx": "适当地"
+    },
+    {
+      "word": "always",
+      "type": "outline",
+      "ctx": "总是"
+    },
+    {
+      "word": "cite",
+      "type": "outline",
+      "ctx": "引用"
+    },
+    {
+      "word": "source",
+      "type": "outline",
+      "ctx": "来源"
+    },
+    {
+      "word": "a",
+      "type": "outline",
+      "ctx": "一（个）"
+    },
+    {
+      "word": "reword",
+      "type": "core",
+      "ctx": "改写"
+    },
+    {
+      "word": "word",
+      "type": "outline",
+      "ctx": "话"
+    },
+    {
+      "word": "direct",
+      "type": "outline",
+      "ctx": "直接的"
+    },
+    {
+      "word": "quote",
+      "type": "outline",
+      "ctx": "引语"
+    },
+    {
+      "word": "absolutely",
+      "type": "outline",
+      "ctx": "绝对"
+    },
+    {
+      "word": "necessary",
+      "type": "outline",
+      "ctx": "必需的"
+    },
+    {
+      "word": "put",
+      "type": "outline",
+      "ctx": "放"
+    },
+    {
+      "word": "text",
+      "type": "outline",
+      "ctx": "原文"
+    },
+    {
+      "word": "quotation",
+      "type": "core",
+      "ctx": "引语"
+    },
+    {
+      "word": "mark",
+      "type": "outline",
+      "ctx": "符号"
+    },
+    {
+      "word": "include",
+      "type": "outline",
+      "ctx": "包含"
+    },
+    {
+      "word": "page",
+      "type": "outline",
+      "ctx": "（书刊或纸张的）页"
+    },
+    {
+      "word": "citation",
+      "type": "core",
+      "ctx": "引用"
+    },
+    {
+      "word": "absence",
+      "type": "outline",
+      "ctx": "不在"
+    },
+    {
+      "word": "late",
+      "type": "outline",
+      "ctx": "迟的"
+    },
+    {
+      "word": "every",
+      "type": "outline",
+      "ctx": "每一个"
+    },
+    {
+      "word": "participation",
+      "type": "core",
+      "ctx": "参与度"
+    },
+    {
+      "word": "count",
+      "type": "outline",
+      "ctx": "计入"
+    },
+    {
+      "word": "towards",
+      "type": "outline",
+      "ctx": "计入"
+    },
+    {
+      "word": "final",
+      "type": "core",
+      "ctx": "最后的"
+    },
+    {
+      "word": "grade",
+      "type": "outline",
+      "ctx": "成绩"
+    },
+    {
+      "word": "student",
+      "type": "outline",
+      "ctx": "学生"
+    },
+    {
+      "word": "excuse",
+      "type": "outline",
+      "ctx": "正当理由的"
+    },
+    {
+      "word": "chance",
+      "type": "outline",
+      "ctx": "机会"
+    },
+    {
+      "word": "miss",
+      "type": "outline",
+      "ctx": "错过"
+    },
+    {
+      "word": "punishment",
+      "type": "core",
+      "ctx": "惩罚"
+    },
+    {
+      "word": "otherwise",
+      "type": "outline",
+      "ctx": "否则"
+    },
+    {
+      "word": "submit",
+      "type": "outline",
+      "ctx": "提交，递交"
+    },
+    {
+      "word": "week",
+      "type": "outline",
+      "ctx": "星期"
+    },
+    {
+      "word": "original",
+      "type": "outline",
+      "ctx": "原来的"
+    },
+    {
+      "word": "within",
+      "type": "outline",
+      "ctx": "在……里"
+    }
+  ],
+  "audio": "https://pc-media.xdfsjj.com/3f631a3ff581c47dbc55c7558d0b177d/6A3D411C/tm7345927_bf806db606505f3020cce7cb9ad49e6541118eed.mp3",
+  "duration": "04:57",
+  "resourceId": "33187851"
+}

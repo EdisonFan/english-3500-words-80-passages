@@ -1,0 +1,808 @@
+{
+  "id": 2,
+  "stats": {
+    "words": 393,
+    "core": 6
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "Once upon a time there was a king who often thought, \"Nothing good can come to a nation whose people only {complain} and expect others to solve their problems.\" One day, he had an idea.",
+      "cn": "从前有一位国王，他常常想：\"如果一个国家的人民只会抱怨，并指望别人来解决他们的问题，那么这个国家绝不会有好事。\"有一天，他想到一个主意。"
+    },
+    {
+      "num": "02",
+      "en": "Early one morning, the king disguised himself and went to a local village. He placed a large stone in the middle of the main street and hid gold coins under the stone. Then he hid behind a huge {maple} tree and watched.",
+      "cn": "一天清晨，国王乔装打扮后，去了当地的一个村庄。他把一块大石头放在主路中央，并在石头下面藏了金币。然后，他躲在一棵巨大的枫树后面观察。"
+    },
+    {
+      "num": "03",
+      "en": "The first person down the street was a milkman with his {cart}. He crashed into the stone, spilling the milk everywhere. \"What fool put this stone here?\" he shouted. He picked himself up and angrily went away.",
+      "cn": "沿街走来的第一个人是推着车的送奶工。他撞上了石头，牛奶洒了一地。\"哪个傻瓜把石头放这儿的？\"他喊道。他爬起来，气冲冲地走开了。"
+    },
+    {
+      "num": "04",
+      "en": "After a while, a group of women came along, each balancing a pot of water on her head. One woman tripped over the stone and her water pot went crashing to the ground. She picked herself up and limped away in tears. Neither she nor her friends thought about moving the stone out of the road.",
+      "cn": "过了一会儿，一群女人走了过来，每人头上顶着一罐水。其中一个女人被石头绊倒了，水罐摔落在地。她爬起来，流着泪一瘸一拐地走开了。她和她朋友们都没想过把石头从路上搬开。"
+    },
+    {
+      "num": "05",
+      "en": "The king watched all day as many people complained about the stone, but he found nobody making an attempt to move it. The king was in {despair}. \"Is there no one in this village who feels any responsibility to keep their neighbours from {harm}?\"",
+      "cn": "国王观察了一整天，看到许多人都抱怨这块石头，却没发现有人试着去搬动它。国王陷入了绝望。\"难道这个村子里没有一个人觉得有责任让邻居免遭伤害吗？\""
+    },
+    {
+      "num": "06",
+      "en": "Just then, the king saw a young girl coming along. She was the daughter of a local farmer. She had been working all day and was very tired. But when she saw the stone, she said to herself, \"This stone is a danger to anyone who comes down the street after dark. I'll move it out of the way.\"",
+      "cn": "就在这时，国王看到一个小女孩走了过来。她是当地一位农民家的女儿。她已经干了一整天的活，非常疲惫。但当她看到石头时，她对自己说：\"对于天黑后走在这条街上的人来说，这块石头是个危险。我要把它挪开。\""
+    },
+    {
+      "num": "07",
+      "en": "The girl pushed the stone with all her {might}. After a great deal of effort, she finally succeeded in moving it to the side of the street. Imagine her surprise when she saw the gold coins where the stone had been!",
+      "cn": "女孩用尽全力推石头。经过一番努力，她终于成功地把石头推到了路边。当她看到石头原来所在位置下的金币时，想象一下她有多惊讶吧！"
+    },
+    {
+      "num": "08",
+      "en": "Just then, the king stepped out from behind the tree. \"Oh sir,\" the girl said, \"does this gold belong to you? If not, we surely must find the owner, for he will certainly miss it.\"",
+      "cn": "就在这时，国王从树后走了出来。\"哦，先生，\"女孩说，\"这些金币是您的吗？如果不是，我们一定得找到失主，因为他肯定会想念它们的。\""
+    },
+    {
+      "num": "09",
+      "en": "The king said, \"My dear, the gold is mine. I put it in the road and moved the stone over it. Now the gold is yours, because you are the only person who has learnt the lesson I wanted to teach my people.\"",
+      "cn": "国王说：\"亲爱的，金币是我的。是我把它放在路上，再把石头压在上面。现在金币归你了，因为你是唯一一个学会了我想教给我的人民的道理的人。\""
+    }
+  ],
+  "vocab": [
+    {
+      "word": "moral",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj. / n.",
+      "meaning": "道德的；道义上的 / 品行；道德；寓意",
+      "ctx": "道德的；道德"
+    },
+    {
+      "word": "virtue",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "高尚的道德；美德；优秀品质",
+      "ctx": "美德；优秀品质"
+    },
+    {
+      "word": "dilemma",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "进退两难的境地；困境",
+      "ctx": "困境；进退两难"
+    },
+    {
+      "word": "moral dilemma",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "道德困境",
+      "ctx": "道德困境"
+    },
+    {
+      "word": "faint",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vi. / adj.",
+      "meaning": "昏倒；晕厥 / 不清楚的；微弱的",
+      "ctx": "昏倒；微弱的"
+    },
+    {
+      "word": "illustrate",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "（举例）说明；阐明；给（书或文章）加插图",
+      "ctx": "（举例）说明；阐明"
+    },
+    {
+      "word": "precious",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "珍稀的；宝贵的",
+      "ctx": "珍稀的；宝贵的"
+    },
+    {
+      "word": "entrust",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "委托；交付",
+      "ctx": "委托；交付"
+    },
+    {
+      "word": "carry sb through sth",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "帮助某人渡过难关",
+      "ctx": "帮助某人渡过难关"
+    },
+    {
+      "word": "marriage",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "结婚；婚姻",
+      "ctx": "结婚；婚姻"
+    },
+    {
+      "word": "majority",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "大部分；大多数",
+      "ctx": "大部分；大多数"
+    },
+    {
+      "word": "complain",
+      "type": "core",
+      "phonetic": "",
+      "pos": "vi. & vt.",
+      "meaning": "抱怨；发牢骚",
+      "ctx": "抱怨；发牢骚"
+    },
+    {
+      "word": "tuition",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "（小组）教学；讲课",
+      "ctx": "学费"
+    },
+    {
+      "word": "fee",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "专业服务费；报酬",
+      "ctx": "服务费；报酬"
+    },
+    {
+      "word": "tuition fees",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "学费",
+      "ctx": "学费"
+    },
+    {
+      "word": "respond",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt. / vi.",
+      "meaning": "回答；回复 / 做出反应；回应",
+      "ctx": "回答；回应"
+    },
+    {
+      "word": "response",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "反应；回答；回复",
+      "ctx": "回答；回复"
+    },
+    {
+      "word": "union",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "协会；联合会；工会",
+      "ctx": "协会；联合会"
+    },
+    {
+      "word": "scholarship",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "奖学金",
+      "ctx": "奖学金"
+    },
+    {
+      "word": "hire",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt. / n.",
+      "meaning": "聘任；雇用；租用 / 租借；租用",
+      "ctx": "聘任；雇用"
+    },
+    {
+      "word": "physician",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "医师；（尤指）内科医生",
+      "ctx": "医师；内科医生"
+    },
+    {
+      "word": "resident physician",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "住院医师",
+      "ctx": "住院医师"
+    },
+    {
+      "word": "colleague",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "同事；同僚",
+      "ctx": "同事；同僚"
+    },
+    {
+      "word": "reject",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "拒绝接受；不录用",
+      "ctx": "拒绝接受；不录用"
+    },
+    {
+      "word": "rejection",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "拒绝接受；否决",
+      "ctx": "拒绝；否决"
+    },
+    {
+      "word": "appoint",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "任命；委派",
+      "ctx": "任命；委派"
+    },
+    {
+      "word": "clinic",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "诊所；门诊部",
+      "ctx": "诊所；门诊部"
+    },
+    {
+      "word": "faraway",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "遥远的",
+      "ctx": "遥远的"
+    },
+    {
+      "word": "elect",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "选举；推选",
+      "ctx": "选举；推选"
+    },
+    {
+      "word": "election",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "选举；推选；当选",
+      "ctx": "选举；当选"
+    },
+    {
+      "word": "decade",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "十年；十年期",
+      "ctx": "十年；十年期"
+    },
+    {
+      "word": "elsewhere",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "在别处；去别处",
+      "ctx": "在别处；去别处"
+    },
+    {
+      "word": "tend",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt. / vi.",
+      "meaning": "照顾；照料 / 倾向；趋于",
+      "ctx": "照顾；照料"
+    },
+    {
+      "word": "tend to do sth",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "易于做某事；往往会发生某事",
+      "ctx": "易于做某事"
+    },
+    {
+      "word": "publish",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "发表（作品）；出版",
+      "ctx": "发表；出版"
+    },
+    {
+      "word": "staff",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "员工；全体职员",
+      "ctx": "员工；全体职员"
+    },
+    {
+      "word": "retire",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vi. & vt.",
+      "meaning": "退休；退职；退出",
+      "ctx": "退休；退职"
+    },
+    {
+      "word": "saving",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "节省物；节省；节约；[pl.]储蓄金；存款",
+      "ctx": "节省；储蓄金"
+    },
+    {
+      "word": "kindergarten",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "学前班；幼儿园",
+      "ctx": "幼儿园"
+    },
+    {
+      "word": "principle",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "道德原则；法则；原则",
+      "ctx": "原则；法则"
+    },
+    {
+      "word": "passive",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "被动的；顺从的",
+      "ctx": "被动的；顺从的"
+    },
+    {
+      "word": "scared",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "害怕的；对……感到惊慌或恐惧的",
+      "ctx": "害怕的；惊慌的"
+    },
+    {
+      "word": "scare",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt. / vi.",
+      "meaning": "惊吓；使害怕 / 受惊吓",
+      "ctx": "惊吓；使害怕"
+    },
+    {
+      "word": "sharp",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "（增长、下跌等）急剧的；锋利的；明显的",
+      "ctx": "急剧的；锋利的"
+    },
+    {
+      "word": "insurance",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "保险；保险业",
+      "ctx": "保险"
+    },
+    {
+      "word": "energetic",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "精力充沛的；充满活力的",
+      "ctx": "精力充沛的；充满活力的"
+    },
+    {
+      "word": "replace",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "接替；取代；更换",
+      "ctx": "接替；取代"
+    },
+    {
+      "word": "accident",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "事故；车祸；失事",
+      "ctx": "事故；车祸"
+    },
+    {
+      "word": "operation",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "手术；企业；经营",
+      "ctx": "手术；经营"
+    },
+    {
+      "word": "whisper",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vi. & vt. / n.",
+      "meaning": "悄声说；耳语；低语 / 耳语（声）；低语（声）；传言；谣传",
+      "ctx": "悄声说；耳语"
+    },
+    {
+      "word": "midnight",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "子夜；午夜",
+      "ctx": "子夜；午夜"
+    },
+    {
+      "word": "import",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n. / vt.",
+      "meaning": "进口；进口商品 / 进口；输入；引进",
+      "ctx": "进口；输入"
+    },
+    {
+      "word": "export",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n. / vt.",
+      "meaning": "出口；出口商品 / 出口；输出；传播",
+      "ctx": "出口；输出"
+    },
+    {
+      "word": "pole",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "（行星的）极；地极",
+      "ctx": "极；地极"
+    },
+    {
+      "word": "lap",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "（坐着时的）大腿部；（跑道等的）一圈",
+      "ctx": "（坐着时的）大腿部；一圈"
+    },
+    {
+      "word": "bite",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt. & vi. / n.",
+      "meaning": "咬；叮；蜇 / 咬；（咬下的）一口；咬伤",
+      "ctx": "咬；叮"
+    },
+    {
+      "word": "lip",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "嘴唇",
+      "ctx": "嘴唇"
+    },
+    {
+      "word": "assist",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "帮助；援助",
+      "ctx": "帮助；援助"
+    },
+    {
+      "word": "first aid",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "急救",
+      "ctx": "急救"
+    },
+    {
+      "word": "pass away",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "去世",
+      "ctx": "去世"
+    },
+    {
+      "word": "chairman",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "主席；主持人；董事长",
+      "ctx": "主席；董事长"
+    },
+    {
+      "word": "memory",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "记忆力；回忆",
+      "ctx": "记忆力；回忆"
+    },
+    {
+      "word": "in memory of",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "作为对……的纪念",
+      "ctx": "作为对……的纪念"
+    },
+    {
+      "word": "chain",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "一连串（人或事）；链子；链条",
+      "ctx": "一连串；链条"
+    },
+    {
+      "word": "cafe",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "咖啡馆；小餐馆",
+      "ctx": "咖啡馆；小餐馆"
+    },
+    {
+      "word": "waitress",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "（餐馆的）女服务员；女侍者",
+      "ctx": "女服务员；女侍者"
+    },
+    {
+      "word": "pregnant",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "怀孕的；妊娠的",
+      "ctx": "怀孕的；妊娠的"
+    },
+    {
+      "word": "disguise",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt. / n.",
+      "meaning": "装扮；假扮；掩盖 / 伪装；化装用具",
+      "ctx": "装扮；伪装"
+    },
+    {
+      "word": "maple",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "枫树；槭树",
+      "ctx": "枫树；槭树"
+    },
+    {
+      "word": "cart",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "手推车；运货马车",
+      "ctx": "手推车；运货马车"
+    },
+    {
+      "word": "spill",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt. & vi.",
+      "meaning": "使溢出；（使）溅出",
+      "ctx": "使溢出；溅出"
+    },
+    {
+      "word": "trip over",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "被……绊倒",
+      "ctx": "被……绊倒"
+    },
+    {
+      "word": "limp",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vi.",
+      "meaning": "跛行；一瘸一拐地走",
+      "ctx": "跛行；一瘸一拐地走"
+    },
+    {
+      "word": "tear",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "眼泪；泪水",
+      "ctx": "眼泪；泪水"
+    },
+    {
+      "word": "in tears",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "流着泪；含着泪",
+      "ctx": "流着泪；含着泪"
+    },
+    {
+      "word": "harm",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n. & vt.",
+      "meaning": "伤害；损害",
+      "ctx": "伤害；损害"
+    },
+    {
+      "word": "despair",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "绝望；感到无望",
+      "ctx": "绝望"
+    },
+    {
+      "word": "in despair",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "处于绝望中",
+      "ctx": "处于绝望中"
+    },
+    {
+      "word": "might",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "力量；威力",
+      "ctx": "力量；威力"
+    },
+    {
+      "word": "a great deal of",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "大量",
+      "ctx": "大量"
+    },
+    {
+      "word": "fable",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "寓言；寓言故事",
+      "ctx": "寓言；寓言故事"
+    },
+    {
+      "word": "court",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "（网球等的）球场；法院；法庭",
+      "ctx": "球场；法院；法庭"
+    },
+    {
+      "word": "flexible",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "灵活的；可变通的",
+      "ctx": "灵活的；可变通的"
+    },
+    {
+      "word": "income",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "收入；收益",
+      "ctx": "收入；收益"
+    },
+    {
+      "word": "per",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "prep.",
+      "meaning": "每；每一",
+      "ctx": "每；每一"
+    },
+    {
+      "word": "therefore",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "因此；所以",
+      "ctx": "因此；所以"
+    },
+    {
+      "word": "tension",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "紧张关系；紧张；焦虑",
+      "ctx": "紧张关系；紧张"
+    },
+    {
+      "word": "Peking Union Medical College",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "北京协和医学院",
+      "ctx": "北京协和医学院"
+    },
+    {
+      "word": "the Wenhai Scholarship",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "\"文海\"奖学金",
+      "ctx": "“文海”奖学金"
+    },
+    {
+      "word": "the OB-GYN department",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "妇产科（全称 Department of Obstetrics and Gynecology）",
+      "ctx": "妇产科"
+    },
+    {
+      "word": "the People's Republic of China",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "中华人民共和国",
+      "ctx": "中华人民共和国"
+    },
+    {
+      "word": "the National People's Congress",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "全国人民代表大会",
+      "ctx": "全国人民代表大会"
+    },
+    {
+      "word": "the North/South Pole",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "北极/南极",
+      "ctx": "北极/南极"
+    },
+    {
+      "word": "Henry Norman Bethune",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "亨利·诺曼·白求恩",
+      "ctx": "亨利·诺曼·白求恩"
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "id": 1,
+  "stats": {
+    "words": 468,
+    "core": 18
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "This year's Nobel Prize for {Physiology} or Medicine has been awarded to Tu Youyou (co-winner), whose research led to the discovery of {artemisinin}, a {crucial} new treatment for {malaria}. {Artemisinin} has saved hundreds of thousands of lives, and has led to improved health for millions of people. Over 200 million people around the world get {malaria} each year, and about 600,000 die from it. {Artemisinin} has become a {vital} part of the treatment for {malaria}, and is thought to save 100,000 lives a year in Africa alone.",
+      "cn": "今年的诺贝尔生理学或医学奖授予了屠呦呦（共同获奖者），她的研究促成了青蒿素的发现——一种至关重要的抗疟新疗法。青蒿素已拯救了数十万人的生命，并改善了数百万人的健康状况。全世界每年有超过 2 亿人感染疟疾，其中约 60 万人因此死亡。青蒿素已成为疟疾治疗中至关重要的一部分，据认为仅在非洲每年就能拯救 10 万人的生命。"
+    },
+    {
+      "num": "02",
+      "en": "Tu Youyou, a {committed} and patient scientist, was born in Ningbo, China, on 30 December 1930, and graduated from Peking University Medical School in 1955. After she graduated, she worked at the China {Academy} of Traditional Chinese Medicine in Beijing. In 1967, the Chinese government formed a team of scientists with the {objective} of discovering a new treatment for {malaria}, and Tu Youyou was among the first researchers chosen. In the beginning, Tu Youyou went to Hainan, where {malaria} was more common, to study {malaria} patients. In 1969, she became the head of the project in Beijing, and decided to review ancient Chinese medical texts to find traditional {botanical} treatments for the disease. Her team examined over 2,000 old medical texts, and evaluated 280,000 plants for their medical properties. From their research, they discovered and tested 380 {distinct} ancient Chinese medical treatments that showed promise in the fight against {malaria}.",
+      "cn": "屠呦呦是一位坚定而耐心的科学家，1930 年 12 月 30 日出生于中国宁波，1955 年毕业于北京大学医学院。毕业后，她在北京的中国中医研究院工作。1967 年，中国政府组建了一支科学家团队，目标是发现治疗疟疾的新方法，屠呦呦是首批入选的研究人员之一。起初，屠呦呦前往疟疾更为常见的海南，研究疟疾患者。1969 年，她成为该项目在北京的负责人，并决定查阅中国古代医籍，为这种疾病寻找传统的植物疗法。她的团队查阅了 2000 多份古老的医学文献，并评估了 28 万种植物的药用价值。通过研究，他们发现并测试了 380 种不同的中国古代疗法，这些疗法在对抗疟疾方面显示出了前景。"
+    },
+    {
+      "num": "03",
+      "en": "One medical text from the fourth century suggested using the {extract} from sweet {wormwood} to treat a fever. Tu's team tested a collection of dried {wormwood} leaves but found no effect. They then tried boiling fresh {wormwood}, and using the {liquid} obtained from this to treat {malaria}, but this did not work either. Their project got stuck. However, Tu Youyou would not {acknowledge} {defeat}. She analysed the medical texts again, and by chance, she found one sentence suggesting a different way to treat the {wormwood}. She concluded that boiling the sweet {wormwood} {apparently} destroyed its medical properties. Using a lower temperature to draw out the {extract}, she found a {substance} that worked. After failing more than 190 times, the team finally succeeded in 1971. Tu Youyou and her team members even insisted on testing the medicine on themselves to make sure that it was safe. Later, the medicine was tested on {malaria} patients, most of whom recovered. This medicine, which was called {artemisinin}, soon became a standard treatment for {malaria}.",
+      "cn": "公元四世纪的一份医学文献建议用青蒿提取物治疗发热。屠呦呦的团队测试了一批干艾叶，但没有发现效果。他们随后尝试煮沸新鲜的青蒿，并用由此得到的液体治疗疟疾，但这同样不起作用。他们的项目陷入了僵局。然而，屠呦呦不愿承认失败。她再次分析了医学文献，偶然间发现了一句话，提示了一种处理青蒿的不同方法。她得出结论：煮沸显然破坏了青蒿的药用特性。她用较低的温度提取出提取物，发现了一种有效的物质。在失败 190 多次之后，团队终于在 1971 年取得了成功。屠呦呦和团队成员甚至坚持在自己身上试药，以确保其安全性。后来，这种药物在疟疾患者身上进行了试验，其中大多数人康复了。这种名为青蒿素的药物很快成为治疗疟疾的标准疗法。"
+    },
+    {
+      "num": "04",
+      "en": "According to Tu Youyou, the discovery of {artemisinin} was a team effort. Upon hearing that she had been awarded the Nobel Prize, she said, \"The honour is not just mine. There is a team behind me, and all the people of my country. This success proves the great value of traditional Chinese medicine. It is indeed an honour for China's {scientific} research and Chinese medicine to be spread around the world.\"",
+      "cn": "据屠呦呦说，青蒿素的发现是团队共同努力的成果。一听到自己被授予诺贝尔奖，她说：\"这份荣誉不仅仅属于我。我的身后有一个团队，还有我祖国所有的人民。这一成功证明了中医的巨大价值。中国的科学研究和中医药传播到世界各地，这确实是一种荣耀。\""
+    }
+  ],
+  "vocab": [
+    {
+      "word": "physiology",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "生理学；生理机能",
+      "ctx": "生理学；生理机能"
+    },
+    {
+      "word": "artemisinin",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "青蒿素",
+      "ctx": "青蒿素"
+    },
+    {
+      "word": "crucial",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "至关重要的；关键性的",
+      "ctx": "至关重要的；关键性的"
+    },
+    {
+      "word": "malaria",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "疟疾",
+      "ctx": "疟疾"
+    },
+    {
+      "word": "vital",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "必不可少的；极其重要的",
+      "ctx": "必不可少的；极其重要的"
+    },
+    {
+      "word": "committed",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "坚定的；投入的",
+      "ctx": "坚定的；投入的"
+    },
+    {
+      "word": "commit",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "承诺；保证；犯（错、罪）",
+      "ctx": "承诺；犯（错、罪）"
+    },
+    {
+      "word": "academy",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "专科院校；研究院；学会",
+      "ctx": "研究院；学会"
+    },
+    {
+      "word": "academic",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "学业的；学术的",
+      "ctx": "学业的；学术的"
+    },
+    {
+      "word": "objective",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "目标；目的",
+      "ctx": "目标；目的"
+    },
+    {
+      "word": "botanical",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "植物学的",
+      "ctx": "植物学的"
+    },
+    {
+      "word": "evaluate",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "评价；评估",
+      "ctx": "评价；评估"
+    },
+    {
+      "word": "property",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "性质；特征；财产",
+      "ctx": "性质；特征"
+    },
+    {
+      "word": "distinct",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "清晰的；有区别的",
+      "ctx": "清晰的；有区别的"
+    },
+    {
+      "word": "extract",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "提取物；摘录",
+      "ctx": "提取物"
+    },
+    {
+      "word": "wormwood",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "蒿；洋艾",
+      "ctx": "蒿；青蒿"
+    },
+    {
+      "word": "boil",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt. & vi.",
+      "meaning": "沸腾；煮沸",
+      "ctx": "煮沸；沸腾"
+    },
+    {
+      "word": "liquid",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "液体",
+      "ctx": "液体"
+    },
+    {
+      "word": "obtain",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "（经努力）获得；赢得",
+      "ctx": "（经努力）获得"
+    },
+    {
+      "word": "acknowledge",
+      "type": "core",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "承认；告知收悉；感谢",
+      "ctx": "承认；告知收悉"
+    },
+    {
+      "word": "defeat",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "失败；挫败",
+      "ctx": "失败；挫败"
+    },
+    {
+      "word": "analyse",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "分析",
+      "ctx": "分析"
+    },
+    {
+      "word": "apparently",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "显而易见；看来；显然",
+      "ctx": "看来；显然"
+    },
+    {
+      "word": "substance",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "物质；物品",
+      "ctx": "物质；物品"
+    },
+    {
+      "word": "insist",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vi. & vt.",
+      "meaning": "坚持；坚决要求",
+      "ctx": "坚持；坚决要求"
+    },
+    {
+      "word": "scientific",
+      "type": "core",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "科学（上）的",
+      "ctx": "科学（上）的"
+    },
+    {
+      "word": "mostly",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "主要地；一般地",
+      "ctx": "主要地；一般地"
+    },
+    {
+      "word": "conclusion",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "结论；推论",
+      "ctx": "结论；推论"
+    },
+    {
+      "word": "penicillin",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "青霉素；盘尼西林",
+      "ctx": "青霉素；盘尼西林"
+    }
+  ]
+}

@@ -1,0 +1,545 @@
+{
+  "id": 2,
+  "stats": {
+    "words": 436,
+    "core": 4
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "We watched as Shackleton and the boat sailed away from Elephant Island. It was easy to imagine the danger ahead of them. Would they ever return to find us? What might happen to them? What if they were delayed? We felt so alone and desperate. But it was not for long. There was nothing like a good dinner and some music to cheer us up.",
+      "cn": "我们看着沙克尔顿和小船驶离象岛。不难想象他们要面临的危险。他们会回来找到我们吗？他们会发生什么事呢？如果他们被耽搁了，那怎么办？我们感到如此的孤独和绝望。不过，这种情绪并没有持续很久。没有什么比一顿丰盛的晚餐和一点音乐更能让我们振作起来了。"
+    },
+    {
+      "num": "02",
+      "en": "Life fell into a regular pattern. Staying alive took all our time and energy. For example, we needed water, and Elephant Island had none. We found that we could melt ice from the ocean and drink the water from it. But how could we make fire? There were no trees growing on {Antarctica} and no oil, so the only fuel we could use was animal fat. This gave off oily, black smoke, but it stayed burning even in strong winds.",
+      "cn": "生活陷入了一个固定的模式。求生耗费了我们所有的时间和精力。例如，我们需要水，而象岛没有。我们发现可以把海上的冰融化成水，然后饮用。可是我们怎么生火呢？南极没有树木，也没有石油，我们可以使用的唯一燃料就是动物脂肪。这种燃料会产生油腻的黑烟，但它在强风中仍能保持燃烧。"
+    },
+    {
+      "num": "03",
+      "en": "Food was also a problem, as we did not find any vegetables or fruit on the island. One of our group members, Lionel Greenstreet, noted in his diary about how bored he was with the meals: \"The food now is pretty well all meat of sea creatures.\" If it weren't for sea animals, we would all starve. As a chef, it was my duty to cook, so I tried to vary the meals in whatever way I could. But it was difficult.",
+      "cn": "食物也是个问题，因为在岛上我们找不到任何蔬菜或水果。我们的一位团队成员，莱昂内尔·格林斯特里特，在日记中写下了他对三餐的厌烦程度：\"现在的食物几乎全是海洋生物。\"要不是有海洋生物，我们都得挨饿。作为一名厨师，我的职责是烹饪食物，于是我想方设法变换三餐的花样。但是，这实在太难了。"
+    },
+    {
+      "num": "04",
+      "en": "We had to be careful not to go outside too often, as the changing temperatures could make us ill. It was almost as dangerous to become too hot from wearing too many clothes as to become too cold from wearing too few. The sweat could freeze very quickly. Many of us also became ill from the black smoke of the animal fat we burnt for our fires. It damaged our eyes and burnt our lungs.",
+      "cn": "我们十分小心，避免过于频繁地外出，因为气温变化会使人生病。衣服穿得太多造成过热与衣服穿得太少造成过冷几乎是一样危险的。汗水会迅速结冰。我们燃烧动物脂肪取火，冒出的黑烟使我们很多人都得病了。这种黑烟损害我们的眼睛，而且伤害我们的肺部。"
+    },
+    {
+      "num": "05",
+      "en": "The twenty-two of us lived like this in the cold for four months. Our discipline and team spirit kept us optimistic and helped us deal with our fears in a positive and successful way. We also celebrated our birthdays, festivals, and even the times when we caught a sea animal. This was an {episode} in my life that I would never forget.",
+      "cn": "我们22个人就这样在冰天雪地里度过了四个月。纪律和团队精神使我们保持乐观，帮助我们积极、成功地应对恐惧感。生日、节日甚至捕获海洋动物之时，我们都会庆祝一番。这是我生命中永远不会忘却的一段经历。"
+    },
+    {
+      "num": "06",
+      "en": "When we were finally rescued, we felt such relief and joy that many of us could not hide our tears. We were at last free to go home to warm beds, good food, and the care of our family and friends. Our optimism and faith in Shackleton had helped us {persevere} in staying alive. And he paid us back by his {commitment} to save us from a slow but painful death.",
+      "cn": "最终获救时，我们如释重负、喜不自禁，我们许多人都难掩泪水。我们终于可以回家了，回归温暖的被窝、（享受）可口的食物以及家人朋友的关爱。我们的乐观和对沙克尔顿的信任让我们顽强地活了下来，而他则用他的承诺回报了我们——把我们从缓慢而痛苦的死亡线上拯救回来。"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "adversity",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "逆境；困境",
+      "ctx": "逆境"
+    },
+    {
+      "word": "wage",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "工资",
+      "ctx": "工资"
+    },
+    {
+      "word": "bitter",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "严寒的；激烈而不愉快的；味苦的",
+      "ctx": "严寒的"
+    },
+    {
+      "word": "expedition",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "探险；远征；探险队",
+      "ctx": "探险"
+    },
+    {
+      "word": "endurance",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "忍耐力；耐久力",
+      "ctx": "忍耐力"
+    },
+    {
+      "word": "vigour",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "精力；力量；活力",
+      "ctx": "精力"
+    },
+    {
+      "word": "turn down",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "拒绝（某人）",
+      "ctx": "拒绝"
+    },
+    {
+      "word": "qualified",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "符合资格的",
+      "ctx": "符合资格的"
+    },
+    {
+      "word": "enthusiastic",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "热情的；热心的",
+      "ctx": "热情的"
+    },
+    {
+      "word": "aboard",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "上（船、飞机、公共汽车等）",
+      "ctx": "上（船）"
+    },
+    {
+      "word": "cupboard",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "橱柜；壁橱；衣柜",
+      "ctx": "橱柜"
+    },
+    {
+      "word": "assign",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "分派；布置；分配",
+      "ctx": "分派"
+    },
+    {
+      "word": "steward",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "（轮船、飞机或火车上的）乘务员；服务员",
+      "ctx": "服务员"
+    },
+    {
+      "word": "envy",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "羡慕；妒忌",
+      "ctx": "羡慕"
+    },
+    {
+      "word": "crush",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "毁坏；压坏；压碎",
+      "ctx": "压碎"
+    },
+    {
+      "word": "sink",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vi.",
+      "meaning": "沉没；下沉",
+      "ctx": "沉没"
+    },
+    {
+      "word": "abandon",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "舍弃；抛弃；放弃",
+      "ctx": "舍弃"
+    },
+    {
+      "word": "stove",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "炉具；厨房灶具",
+      "ctx": "炉具"
+    },
+    {
+      "word": "blanket",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "毯子",
+      "ctx": "毯子"
+    },
+    {
+      "word": "belongings",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "财物；动产",
+      "ctx": "财物"
+    },
+    {
+      "word": "banjo",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "班卓琴",
+      "ctx": "班卓琴"
+    },
+    {
+      "word": "miserable",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "痛苦的；令人难受的",
+      "ctx": "痛苦的"
+    },
+    {
+      "word": "voyage",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "航海；航行",
+      "ctx": "航行"
+    },
+    {
+      "word": "navy",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "海军",
+      "ctx": "海军"
+    },
+    {
+      "word": "decent",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "相当不错的；正派的",
+      "ctx": "相当不错的"
+    },
+    {
+      "word": "cosy",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "温馨的；舒适的",
+      "ctx": "温馨的"
+    },
+    {
+      "word": "selfish",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "自私的",
+      "ctx": "自私的"
+    },
+    {
+      "word": "bad-tempered",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "脾气坏的",
+      "ctx": "脾气坏的"
+    },
+    {
+      "word": "genuine",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "真正的；真诚的",
+      "ctx": "真诚的"
+    },
+    {
+      "word": "perseverance",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "毅力；韧性",
+      "ctx": "毅力"
+    },
+    {
+      "word": "persevere",
+      "type": "core",
+      "phonetic": "",
+      "pos": "vi.",
+      "meaning": "坚持；孜孜以求",
+      "ctx": "坚持"
+    },
+    {
+      "word": "resolve",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vi.",
+      "meaning": "决定；决心",
+      "ctx": "决心"
+    },
+    {
+      "word": "resolution",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "坚定",
+      "ctx": "坚定"
+    },
+    {
+      "word": "crew",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "全体工作人员",
+      "ctx": "全体船员"
+    },
+    {
+      "word": "cruel",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "残酷的；残忍的",
+      "ctx": "残忍的"
+    },
+    {
+      "word": "thorough",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "深入的；彻底的",
+      "ctx": "彻底的"
+    },
+    {
+      "word": "furniture",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "家具",
+      "ctx": "家具"
+    },
+    {
+      "word": "unfortunately",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "不幸地",
+      "ctx": "不幸地"
+    },
+    {
+      "word": "fortunately",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adv.",
+      "meaning": "幸运地",
+      "ctx": "幸运地"
+    },
+    {
+      "word": "bark",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vi.",
+      "meaning": "（狗）吠叫",
+      "ctx": "（狗）吠叫"
+    },
+    {
+      "word": "rugby",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "橄榄球运动",
+      "ctx": "橄榄球"
+    },
+    {
+      "word": "bat",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "球拍；蝙蝠",
+      "ctx": "球拍"
+    },
+    {
+      "word": "damp",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "潮湿的",
+      "ctx": "潮湿的"
+    },
+    {
+      "word": "recreation",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "娱乐；消遣",
+      "ctx": "娱乐"
+    },
+    {
+      "word": "guidance",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "指导；引导",
+      "ctx": "指导"
+    },
+    {
+      "word": "nephew",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "侄子；外甥",
+      "ctx": "侄子"
+    },
+    {
+      "word": "advertising",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "广告活动",
+      "ctx": "广告活动"
+    },
+    {
+      "word": "advertise",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "vt.",
+      "meaning": "公布；宣传",
+      "ctx": "宣传"
+    },
+    {
+      "word": "corporate",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "公司的；法人的",
+      "ctx": "公司的"
+    },
+    {
+      "word": "rough",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "汹涌的；粗糙的",
+      "ctx": "汹涌的"
+    },
+    {
+      "word": "navigator",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "领航员",
+      "ctx": "领航员"
+    },
+    {
+      "word": "loyal",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "adj.",
+      "meaning": "忠诚的；忠实的",
+      "ctx": "忠诚的"
+    },
+    {
+      "word": "motor",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "发动机；马达",
+      "ctx": "发动机"
+    },
+    {
+      "word": "candidate",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "候选人；应试者",
+      "ctx": "候选人"
+    },
+    {
+      "word": "make fire",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "生火",
+      "ctx": "生火"
+    },
+    {
+      "word": "give off",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "放出",
+      "ctx": "放出"
+    },
+    {
+      "word": "episode",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "（人生的）一段经历",
+      "ctx": "一段经历"
+    },
+    {
+      "word": "commitment",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "承诺；保证；奉献",
+      "ctx": "奉献"
+    },
+    {
+      "word": "motive",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "动机；原因；目的",
+      "ctx": "动机"
+    },
+    {
+      "word": "Confucianism",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "孔子学说",
+      "ctx": "孔子学说"
+    },
+    {
+      "word": "Ernest Shackleton",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "欧内斯特·沙克尔顿",
+      "ctx": "欧内斯特·沙克尔顿"
+    },
+    {
+      "word": "Antarctica",
+      "type": "core",
+      "phonetic": "",
+      "pos": "n.",
+      "meaning": "南极洲",
+      "ctx": "南极洲"
+    },
+    {
+      "word": "South Pole",
+      "type": "outline",
+      "phonetic": "",
+      "pos": "phr.",
+      "meaning": "南极",
+      "ctx": "南极"
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "id": 11,
+  "stats": {
+    "words": 326,
+    "core": 52
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "I'd just {arrived} at school, ready for another school day.I was reading a book in the {classroom} when there was an {announcement} .\" {Today} at 19:00 there {will} be auditions ( (试演) ) for a {musical} .\"My friend {jumped} up in {excitement} and asked me,\"Will you be going {tonight} , Amy?\"\"Sure,\"I said.I had no {interest} in {drama} , but it was {OK} to try it out because my friends were doing it.",
+      "cn": "我刚 <u> 到 </u> 学校，准备迎接又一个上学日。我正在 <u> 教室 </u> 里看书，这时听到广播 <u> 通知 </u> ：\" <u> 今天 </u> 19点 <u> 将 </u> 举行 <u> 音乐剧 </u> 试演。\"我的朋友 <u> 兴奋 </u> 地 <u> 跳 </u> 起来问我：\"艾米， <u> 今晚 </u> 你会去吗？\"我说：\"当然啦。\"我对 <u> 戏剧 </u> 并不感 <u> 兴趣 </u> ，但因为我的朋友们都要去，所以试试也 <u> 无妨 </u> 。"
+    },
+    {
+      "num": "02",
+      "en": "At 19:00, there was a line {outside} the drama {room} . {Everyone} looked {energetic} , holding their {entry} forms.I hadn't {expected} I'd be {standing} there that {morning} .But now that I was doing it, I {suddenly} felt {nervous} and clenched ( (攥紧) ) my {fists} .What if my {rating} was {below} average? Just then, my friend squeezed my {wrist} as a little encouragement.",
+      "cn": "19点时，戏剧教 <u> 室外 </u> 排起了长队。 <u> 每个人 </u> 都 <u> 神采奕奕 </u> ，手里拿着 <u> 报名 </u> 表。那天 <u> 早上 </u> 我原本没 <u> 想到 </u> 自己会 <u> 站 </u> 在那里。但既然已经这样做了，我 <u> 突然 </u> 感到 <u> 紧张 </u> ，于是攥紧了 <u> 拳头 </u> 。要是我的 <u> 评分低于 </u> 平均水平该怎么办？就在这时，我的朋友捏了捏我的 <u> 手腕 </u> ，以示鼓励。"
+    },
+    {
+      "num": "03",
+      "en": "I adjusted my {collar} and entered the room.The teachers made me say some lines from the musical.They then {tested} my singing {skills} and asked what {role} I wanted to play.The teachers were {smiling} and {praising} me.I felt like I had a chance, so I said,\"A big role.\"They said they'd look into it.I started getting really nervous.What if I didn't get a {main} role?",
+      "cn": "我调整好 <u> 衣领 </u> ，走进了教室。老师让我念几句音乐剧的台词。然后，他们 <u> 测试 </u> 了我的歌唱 <u> 技巧 </u> ，并问我想演什么 <u> 角色 </u> 。老师们 <u> 微笑 </u> 着 <u> 称赞 </u> 我。我觉得自己有机会，于是说：\"一个重要角色。\"他们说他们会考虑的。我开始变得非常紧张。要是我没有得到 <u> 主 </u> 角怎么办？"
+    },
+    {
+      "num": "04",
+      "en": "{Soon} , the cast list was posted.My friend checked and came back {shouting} ,\"Amy, you got the main role! {Congratulations} !\"Sure enough, my name was at the top.I just {stared} at it and started to {well} up.I was so {happy} .",
+      "cn": "<u> 很快 </u> ，演员名单就贴了出来。我朋友查看后回来 <u> 大喊 </u> ：\"艾米，你得到了主角！ <u> 恭喜 </u> ！\"果然，我的名字排在最上面。我只是 <u> 盯 </u> 着它看，热泪 <u> 盈 </u> 眶。我太 <u> 高兴 </u> 了。"
+    },
+    {
+      "num": "05",
+      "en": "After two months, we were all {prepared} and ready to go on {stage} in our {costumes} .And when people started {clapping} like rolling {thunder} , that gave me a {boost} of {confidence} .As I watched the {recording} of our performance, I realized how close I came to missing this incredible experience.It stayed with me and made me feel {braver} .Life isn't about waiting in the back {row} —I {realized} that by {trying} something new, I can have fun—even if it means {stepping} out of my comfort zone.",
+      "cn": "两个月后，我们都 <u> 准备 </u> 好了，穿着 <u> 戏服 </u> 准备上 <u> 台 </u> 。当人们如 <u> 雷 </u> 鸣般地 <u> 鼓掌 </u> 时，我感到 <u> 信心大增 </u> 。在我观看我们的表演 <u> 录像 </u> 时，我意识到自己差点就错过了这段令人难以置信的经历。这段经历令我刻骨铭心，让我感到 <u> 更加勇敢 </u> 。生活不是在后 <u> 排 </u> 等待——我 <u> 意识到 </u> ，通过 <u> 尝试 </u> 新事物，我可以获得乐趣——即使这意味着要 <u> 走 </u> 出自己的舒适区。 "
+    }
+  ],
+  "vocab": [
+    {
+      "word": "arrive",
+      "type": "outline",
+      "ctx": "到达"
+    },
+    {
+      "word": "classroom",
+      "type": "outline",
+      "ctx": "教室"
+    },
+    {
+      "word": "announcement",
+      "type": "core",
+      "ctx": "公告，通告"
+    },
+    {
+      "word": "today",
+      "type": "outline",
+      "ctx": "今天"
+    },
+    {
+      "word": "will",
+      "type": "outline",
+      "ctx": "将要"
+    },
+    {
+      "word": "musical",
+      "type": "core",
+      "ctx": "音乐的"
+    },
+    {
+      "word": "jump",
+      "type": "outline",
+      "ctx": "跳"
+    },
+    {
+      "word": "excitement",
+      "type": "core",
+      "ctx": "激动，兴奋"
+    },
+    {
+      "word": "tonight",
+      "type": "outline",
+      "ctx": "今晚"
+    },
+    {
+      "word": "interest",
+      "type": "outline",
+      "ctx": "兴趣"
+    },
+    {
+      "word": "drama",
+      "type": "outline",
+      "ctx": "戏剧，戏剧艺术"
+    },
+    {
+      "word": "OK",
+      "type": "outline",
+      "ctx": "好"
+    },
+    {
+      "word": "outside",
+      "type": "outline",
+      "ctx": "外面"
+    },
+    {
+      "word": "room",
+      "type": "outline",
+      "ctx": "房间，室"
+    },
+    {
+      "word": "everyone",
+      "type": "outline",
+      "ctx": "每人，人人"
+    },
+    {
+      "word": "energetic",
+      "type": "outline",
+      "ctx": "精力旺盛的"
+    },
+    {
+      "word": "entry",
+      "type": "outline",
+      "ctx": "进入"
+    },
+    {
+      "word": "expect",
+      "type": "outline",
+      "ctx": "预料"
+    },
+    {
+      "word": "stand",
+      "type": "outline",
+      "ctx": "站立"
+    },
+    {
+      "word": "morning",
+      "type": "outline",
+      "ctx": "早晨，上午"
+    },
+    {
+      "word": "suddenly",
+      "type": "core",
+      "ctx": "突然"
+    },
+    {
+      "word": "nervous",
+      "type": "outline",
+      "ctx": "紧张不安的"
+    },
+    {
+      "word": "fist",
+      "type": "outline",
+      "ctx": "拳头"
+    },
+    {
+      "word": "rating",
+      "type": "outline",
+      "ctx": "评分"
+    },
+    {
+      "word": "below",
+      "type": "outline",
+      "ctx": "在……下面"
+    },
+    {
+      "word": "wrist",
+      "type": "outline",
+      "ctx": "手腕，腕关节"
+    },
+    {
+      "word": "collar",
+      "type": "outline",
+      "ctx": "衣领"
+    },
+    {
+      "word": "test",
+      "type": "outline",
+      "ctx": "测试"
+    },
+    {
+      "word": "skill",
+      "type": "outline",
+      "ctx": "技能，技巧"
+    },
+    {
+      "word": "role",
+      "type": "outline",
+      "ctx": "[C]角色"
+    },
+    {
+      "word": "smile",
+      "type": "outline",
+      "ctx": "微笑"
+    },
+    {
+      "word": "praise",
+      "type": "outline",
+      "ctx": "赞扬"
+    },
+    {
+      "word": "main",
+      "type": "outline",
+      "ctx": "主要的"
+    },
+    {
+      "word": "soon",
+      "type": "outline",
+      "ctx": "不久，很快，一会儿"
+    },
+    {
+      "word": "shout",
+      "type": "outline",
+      "ctx": "呼喊"
+    },
+    {
+      "word": "congratulation",
+      "type": "outline",
+      "ctx": "[pl.]祝贺"
+    },
+    {
+      "word": "stare",
+      "type": "outline",
+      "ctx": "凝视"
+    },
+    {
+      "word": "well",
+      "type": "outline",
+      "ctx": "好地"
+    },
+    {
+      "word": "happy",
+      "type": "outline",
+      "ctx": "快乐的，幸福的"
+    },
+    {
+      "word": "prepared",
+      "type": "core",
+      "ctx": "做好准备的"
+    },
+    {
+      "word": "stage",
+      "type": "outline",
+      "ctx": "舞台"
+    },
+    {
+      "word": "costume",
+      "type": "outline",
+      "ctx": "服装"
+    },
+    {
+      "word": "clap",
+      "type": "outline",
+      "ctx": "鼓掌"
+    },
+    {
+      "word": "thunder",
+      "type": "outline",
+      "ctx": "雷声"
+    },
+    {
+      "word": "boost",
+      "type": "outline",
+      "ctx": "提高，使增长"
+    },
+    {
+      "word": "confidence",
+      "type": "outline",
+      "ctx": "信任"
+    },
+    {
+      "word": "recording",
+      "type": "outline",
+      "ctx": "录音带，录像"
+    },
+    {
+      "word": "brave",
+      "type": "outline",
+      "ctx": "勇敢的"
+    },
+    {
+      "word": "row",
+      "type": "outline",
+      "ctx": "排"
+    },
+    {
+      "word": "realize",
+      "type": "outline",
+      "ctx": "意识到"
+    },
+    {
+      "word": "try",
+      "type": "outline",
+      "ctx": "尝试"
+    },
+    {
+      "word": "step",
+      "type": "outline",
+      "ctx": "迈步"
+    }
+  ],
+  "audio": "https://pc-media.xdfsjj.com/2faa956fe64cd9c52bc11bc26a3ef030/6A3D411E/tm7345927_e27adfa09d65e4069db163fe53d0ff5d2741921f.mp3",
+  "duration": "04:34",
+  "resourceId": "33187581"
+}
