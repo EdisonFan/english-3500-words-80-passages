@@ -1,6 +1,6 @@
 <template>
   <button v-if="videoList && videoList.length" class="dict-video-btn" @click="go">
-    <span class="dv-icon">▶</span> 教学视频
+    <span class="dv-icon">▶</span> 视频
   </button>
 </template>
 
