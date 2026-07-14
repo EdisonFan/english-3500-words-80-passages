@@ -349,6 +349,9 @@ body.no-gloss .para { padding-bottom: 32px; }
     top: 100%;
     left: 50%;
     transform: translateX(-50%);
+    /* ★ width: max-content 让释义宽度按内容理想宽度计算，
+       不受包含块（.wn = 单词宽度）限制，避免短单词下方释义被挤成窄列换行 */
+    width: max-content;
     white-space: nowrap;
     font-family: var(--font-cn);
     font-size: 10.5px;
@@ -885,7 +888,7 @@ footer {
     .home { padding: 48px 20px 80px; }
     .home-head h1 { font-size: 32px; }
     /* 单词下方注释允许换行，避免长注释撑出横向滚动条 */
-    .w-g { white-space: normal; word-break: break-word; }
+    .w-g { white-space: normal; word-break: break-word; max-width: 200px; }
     /* 顶部导航在窄屏避免溢出 */
     .topbar-inner { flex-wrap: wrap; gap: 8px; }
 }
@@ -931,7 +934,7 @@ footer {
         border-radius: 2px !important;
     }
     .w.outline { color: #c05020 !important; background: linear-gradient(180deg, transparent 55%, #fff2ed 55%) !important; }
-    .w-g { color: #555 !important; font-size: 9pt !important; line-height: 1.25 !important; white-space: nowrap !important; margin-top: 1px !important; position: absolute !important; top: 100% !important; left: 50% !important; transform: translateX(-50%) !important; }
+    .w-g { color: #555 !important; font-size: 9pt !important; line-height: 1.25 !important; white-space: nowrap !important; margin-top: 1px !important; position: absolute !important; top: 100% !important; left: 50% !important; transform: translateX(-50%) !important; width: max-content !important; }
 
     /* extras 颜色保持 */
     .extra.col { background: #f5f6f7 !important; color: #333 !important; }
