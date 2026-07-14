@@ -55,12 +55,37 @@
     <div class="wrap" v-else>
       <article class="article">
         <div class="section-tag">English · {{ unitTitle }}</div>
-        <div class="para" v-for="p in passage.paragraphs" :key="p.num">
+        <div
+          class="para"
+          v-for="p in passage.paragraphs"
+          :key="p.num"
+          :class="{ 'para-gloss': !!paraGloss[p.num], 'para-trans': !!paraTrans[p.num] }"
+        >
           <div class="para-num">{{ p.num }}</div>
           <p class="eng">
             <HighlightedText :text="p.en" :vocab="passage.vocab" @word-click="handleWordClick" />
           </p>
           <p v-if="p.cn" class="cn" v-html="p.cn"></p>
+          <div class="para-toggles">
+            <span
+              class="gloss-toggle"
+              :class="{ off: !paraGloss[p.num] }"
+              title="显示/隐藏本段英文词下方中文注释"
+              @click="toggleParaGloss(p.num)"
+            >
+              <span class="g-dot"></span>
+              <span class="g-label">{{ paraGloss[p.num] ? '中文释义' : '已隐藏' }}</span>
+            </span>
+            <span
+              class="trans-toggle"
+              :class="{ off: !paraTrans[p.num] }"
+              title="显示/隐藏本段中文翻译"
+              @click="toggleParaTrans(p.num)"
+            >
+              <span class="t-dot"></span>
+              <span class="t-label">{{ paraTrans[p.num] ? '中文译文' : '译文隐藏' }}</span>
+            </span>
+          </div>
         </div>
       </article>
       <footer>PASSAGE {{ num }} · END</footer>
@@ -87,6 +112,10 @@ export default {
       passage: null,
       /** 加载错误信息 */
       error: null,
+      /** 段落级中文释义开关：按段落 num 索引，仅本组件内有效，不持久化 */
+      paraGloss: {},
+      /** 段落级中文译文开关：按段落 num 索引，仅本组件内有效，不持久化 */
+      paraTrans: {},
     };
   },
 
@@ -134,6 +163,10 @@ export default {
     toggleGloss() { this.uiStore.toggleGloss(); },
     /** 切换中文译文显隐 */
     toggleTrans()  { this.uiStore.toggleTrans(); },
+    /** 切换某段落中文释义显隐（局部状态，不持久化） */
+    toggleParaGloss(num) { this.paraGloss[num] = !this.paraGloss[num]; },
+    /** 切换某段落中文译文显隐（局部状态，不持久化） */
+    toggleParaTrans(num) { this.paraTrans[num] = !this.paraTrans[num]; },
 
     /**
      * 加载文章数据。
@@ -152,6 +185,14 @@ export default {
             this.error = j.error || '未知错误';
           } else {
             this.passage = j.passage;
+            // 段落开关重置为关闭（每次进入文章都是关闭状态，不记录）
+            const gloss = {}, trans = {};
+            (j.passage && j.passage.paragraphs || []).forEach(p => {
+              gloss[p.num] = false;
+              trans[p.num] = false;
+            });
+            this.paraGloss = gloss;
+            this.paraTrans = trans;
           }
           this.loading = false;
         })

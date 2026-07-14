@@ -1,28 +1,14 @@
 import { defineStore } from 'pinia';
 
-function loadFlag(key, def) {
-  try {
-    const v = localStorage.getItem(key);
-    return v === null ? def : v === 'on';
-  } catch (e) {
-    return def;
-  }
-}
-
 export const useUIStore = defineStore('ui', {
   state: () => ({
-    glossOn: loadFlag('spa_gloss', false),
-    transOn: loadFlag('spa_trans', false),
+    // 全局开关：初始始终为关闭，不读 localStorage
+    glossOn: false,
+    transOn: false,
   }),
   actions: {
-    toggleGloss() {
-      this.glossOn = !this.glossOn;
-      try { localStorage.setItem('spa_gloss', this.glossOn ? 'on' : 'off'); } catch (e) {}
-    },
-    toggleTrans() {
-      this.transOn = !this.transOn;
-      try { localStorage.setItem('spa_trans', this.transOn ? 'on' : 'off'); } catch (e) {}
-    },
+    toggleGloss() { this.glossOn = !this.glossOn; },
+    toggleTrans() { this.transOn = !this.transOn; },
   },
 });
 

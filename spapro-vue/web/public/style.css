@@ -569,6 +569,20 @@ body.no-gloss .para { padding-bottom: 32px; }
     border-top: 1px dashed var(--line);
 }
 body.show-trans .para .cn { display: block; }
+
+/* === 段落级开关（覆盖全局，单独控制本段落） === */
+/* 本段释义开：覆盖 body.no-gloss .w-g 的 display:none !important */
+.para.para-gloss .w-g { display: inline !important; }
+/* 本段译文开：覆盖 .para .cn 的默认 display:none */
+.para.para-trans .cn { display: block !important; }
+
+/* 段落末尾按钮容器 */
+.para-toggles {
+    display: flex;
+    gap: 8px;
+    margin-top: 16px;
+    justify-content: flex-end;
+}
 .para .cn u {
     color: var(--accent);
     font-weight: 500;
