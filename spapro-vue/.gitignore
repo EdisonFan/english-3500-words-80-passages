@@ -1,0 +1,17 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+
+# Egg.js / Vite 运行时产物
+server/run/
+server/logs/
+server/data/cache/
+web/dist/
+web/node_modules/
+
+# 依赖
+node_modules/

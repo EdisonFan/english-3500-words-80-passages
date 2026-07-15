@@ -1,4 +1,0 @@
-spapro 服务启动: http://localhost:8001
-  词典代理: /api/dict?q=<word>
-  数据源: 有道词典 jsonapi
-  本地缓存: /workspace/spapro/data/cache/  (0 个单词已缓存)
