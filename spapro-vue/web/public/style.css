@@ -165,31 +165,8 @@ body.no-gloss .para { padding-bottom: 32px; }
     padding: 80px 32px 120px;
     max-width: 1000px;
     margin: 0 auto;
-    position: relative;
 }
 .home-head { margin-bottom: 48px; }
-/* 首页右上角分享按钮（小尺寸，复制当前地址） */
-.home-share {
-    position: absolute;
-    top: 32px;
-    right: 32px;
-    background: var(--bg-card);
-    border: 1px solid var(--line);
-    border-radius: 16px;
-    padding: 4px 12px;
-    font-family: var(--font-mono);
-    font-size: 11px;
-    color: var(--ink-3);
-    cursor: pointer;
-    transition: all 0.15s ease;
-    line-height: 1.6;
-}
-.home-share:hover {
-    background: var(--accent-soft);
-    border-color: var(--accent-soft);
-    color: var(--accent-deep);
-}
-.home-share:active { transform: scale(0.96); }
 .home-head h1 {
     font-family: var(--font-display);
     font-size: 42px;
