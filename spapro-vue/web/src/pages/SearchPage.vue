@@ -23,10 +23,42 @@
       </form>
       <div>
         <div v-if="!q"></div>
-        <div v-else-if="loading" class="muted">正在搜索…</div>
-        <div v-else-if="error" class="muted">搜索失败：{{ error }}</div>
-        <div v-else-if="!results || !results.length" class="muted">未找到「{{ q }}」相关的结果</div>
         <template v-else>
+          <!-- 词典释义（来自有道） -->
+          <div class="search-dict">
+            <div v-if="dictLoading" class="muted">正在查询词典…</div>
+            <div v-else-if="dictError" class="muted">词典查询失败：{{ dictError }}</div>
+            <div v-else-if="dictData && dictData.found">
+              <div class="sd-head">
+                <span class="sd-word">{{ dictData.word || q }}</span>
+                <span v-if="dictData.phonetic_uk" class="sd-phon">{{ dictData.phonetic_uk }}</span>
+                <button
+                  v-if="dictData.audio_uk"
+                  class="sd-audio"
+                  @click="playAudio($event, dictData.audio_uk)"
+                >🔊英</button>
+                <span v-if="dictData.phonetic_us" class="sd-phon">{{ dictData.phonetic_us }}</span>
+                <button
+                  v-if="dictData.audio_us"
+                  class="sd-audio"
+                  @click="playAudio($event, dictData.audio_us)"
+                >🔊美</button>
+              </div>
+              <div v-if="dictData.defs && dictData.defs.length" class="sd-defs">
+                <div v-for="(d, i) in dictData.defs" :key="i" class="sd-def">
+                  <span v-if="d.pos" class="sd-pos">{{ d.pos }}</span>
+                  <span v-if="d.meaning" class="sd-meaning">{{ d.meaning }}</span>
+                </div>
+              </div>
+            </div>
+            <div v-else-if="dictData && !dictData.found" class="muted">词典未收录「{{ q }}」</div>
+          </div>
+
+          <!-- 文章命中结果 -->
+          <div v-if="loading" class="muted">正在搜索…</div>
+          <div v-else-if="error" class="muted">搜索失败：{{ error }}</div>
+          <div v-else-if="!results || !results.length" class="muted">未找到「{{ q }}」相关的结果</div>
+          <template v-else>
           <div class="search-count">共 {{ results.length }} 篇文章命中</div>
           <div
             v-for="(r, i) in results"
@@ -60,6 +92,7 @@
             </div>
           </div>
         </template>
+        </template>
       </div>
     </div>
   </div>
@@ -68,7 +101,7 @@
 <script setup>
 import { ref, computed, watch } from 'vue';
 import { useRoute, useRouter } from 'vue-router';
-import { fetchSearch } from '../api/client.js';
+import { fetchSearch, fetchDict } from '../api/client.js';
 
 const route = useRoute();
 const router = useRouter();
@@ -76,6 +109,11 @@ const input = ref('');
 const loading = ref(false);
 const results = ref(null);
 const error = ref(null);
+
+// 词典释义状态
+const dictData = ref(null);
+const dictLoading = ref(false);
+const dictError = ref(null);
 
 const q = computed(() => route.query.q || '');
 
@@ -85,11 +123,24 @@ function doSearch() {
   router.push({ path: '/search', query: { q: v } });
 }
 
+function playAudio(ev, src) {
+  const btn = ev.currentTarget;
+  try {
+    const audio = new Audio(src);
+    audio.play().catch(() => {});
+    btn.classList.add('playing');
+    setTimeout(() => btn.classList.remove('playing'), 600);
+  } catch (e) {}
+}
+
 function runSearch(query) {
   if (!query) {
     loading.value = false;
     results.value = null;
     error.value = null;
+    dictData.value = null;
+    dictLoading.value = false;
+    dictError.value = null;
     return;
   }
   window.scrollTo(0, 0);
@@ -108,6 +159,20 @@ function runSearch(query) {
     .catch(e => {
       error.value = e.message;
       loading.value = false;
+    });
+
+  // 同时查词典
+  dictData.value = null;
+  dictError.value = null;
+  dictLoading.value = true;
+  fetchDict(query)
+    .then(d => {
+      dictData.value = d;
+      dictLoading.value = false;
+    })
+    .catch(e => {
+      dictError.value = e.message;
+      dictLoading.value = false;
     });
 }
 
