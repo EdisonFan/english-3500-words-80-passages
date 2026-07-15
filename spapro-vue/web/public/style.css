@@ -1543,7 +1543,46 @@ footer {
     padding: 14px 16px;
     margin-bottom: 16px;
     background: var(--card, #fff);
+    position: relative;
 }
+/* 词典内容可折叠容器：折叠时限制高度约 30% 视口，加渐变遮罩；展开时全部可见 */
+.search-dict-body {
+    overflow: hidden;
+    transition: max-height 0.25s ease;
+}
+.search-dict-body.collapsed {
+    /* 折叠态：限制为视口高度的约 30%，超出部分隐藏 */
+    max-height: 30vh;
+    overflow: hidden;
+    /* 底部渐变遮罩，提示下方有更多内容 */
+    -webkit-mask-image: linear-gradient(to bottom, #000 0%, #000 calc(100% - 48px), transparent 100%);
+    mask-image: linear-gradient(to bottom, #000 0%, #000 calc(100% - 48px), transparent 100%);
+}
+.search-dict-body:not(.collapsed) {
+    max-height: none;
+}
+/* 展开/收起 按钮 */
+.search-dict-toggle {
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+    padding: 7px 12px;
+    border: 1px solid var(--line, #e5e5e7);
+    border-radius: 8px;
+    background: var(--bg-soft, #fafafa);
+    color: var(--ink-3, #525252);
+    font-family: var(--font-cn);
+    font-size: 12px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+    text-align: center;
+}
+.search-dict-toggle:hover {
+    background: var(--accent-soft, #e0ecff);
+    border-color: var(--accent-soft, #e0ecff);
+    color: var(--accent-deep, #0044cc);
+}
+.search-dict-toggle:active { transform: scale(0.99); }
 
 /* === 视频页（React 版独立路由，原 video.html 内联样式合并） === */
 .video-page {

@@ -29,6 +29,10 @@
             <div v-if="dictLoading" class="muted">正在查询词典…</div>
             <div v-else-if="dictError" class="muted">词典查询失败：{{ dictError }}</div>
             <div v-else-if="dictData && dictData.found">
+              <div
+                class="search-dict-body"
+                :class="{ collapsed: !dictExpanded }"
+              >
               <div v-if="dictData.base_form" class="dict-base-form">← {{ dictData.base_form }} 的所有格/缩写形式</div>
 
               <div class="dict-word-row">
@@ -115,6 +119,12 @@
               <div v-if="dictData.sources && dictData.sources.length" class="dict-source">
                 数据来源：{{ dictData.sources.map(sourceLabel).join(' + ') }}
               </div>
+              </div>
+              <button
+                v-if="dictHasMore"
+                class="search-dict-toggle"
+                @click="dictExpanded = !dictExpanded"
+              >{{ dictExpanded ? '收起 ▲' : '展开全部 ▼' }}</button>
             </div>
             <div v-else-if="dictData && !dictData.found" class="muted">词典未收录「{{ q }}」</div>
           </div>
@@ -180,6 +190,20 @@ const error = ref(null);
 const dictData = ref(null);
 const dictLoading = ref(false);
 const dictError = ref(null);
+// 词典区块默认折叠（仅展示约 30% 高度），点击按钮后展开全部
+const dictExpanded = ref(false);
+// 是否存在"额外内容"（变形/例句/同义词/词组/考试信息），有才需要折叠和按钮
+const dictHasMore = computed(() => {
+  const d = dictData.value;
+  if (!d || !d.found) return false;
+  return !!(
+    (d.forms && d.forms.length) ||
+    (d.examples && d.examples.length) ||
+    (d.synonyms && d.synonyms.length) ||
+    (d.phrs && d.phrs.length) ||
+    (d.individual && Object.keys(d.individual).length)
+  );
+});
 
 function sourceLabel(s) {
   return ({ youdao: '有道词典' })[s] || s;
@@ -211,9 +235,12 @@ function runSearch(query) {
     dictData.value = null;
     dictLoading.value = false;
     dictError.value = null;
+    dictExpanded.value = false;
     return;
   }
   window.scrollTo(0, 0);
+  // 每次新查询重置展开状态
+  dictExpanded.value = false;
   loading.value = true;
   results.value = null;
   error.value = null;
