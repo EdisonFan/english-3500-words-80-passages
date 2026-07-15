@@ -29,26 +29,91 @@
             <div v-if="dictLoading" class="muted">正在查询词典…</div>
             <div v-else-if="dictError" class="muted">词典查询失败：{{ dictError }}</div>
             <div v-else-if="dictData && dictData.found">
-              <div class="sd-head">
-                <span class="sd-word">{{ dictData.word || q }}</span>
-                <span v-if="dictData.phonetic_uk" class="sd-phon">{{ dictData.phonetic_uk }}</span>
-                <button
-                  v-if="dictData.audio_uk"
-                  class="sd-audio"
-                  @click="playAudio($event, dictData.audio_uk)"
-                >🔊英</button>
-                <span v-if="dictData.phonetic_us" class="sd-phon">{{ dictData.phonetic_us }}</span>
-                <button
-                  v-if="dictData.audio_us"
-                  class="sd-audio"
-                  @click="playAudio($event, dictData.audio_us)"
-                >🔊美</button>
+              <div v-if="dictData.base_form" class="dict-base-form">← {{ dictData.base_form }} 的所有格/缩写形式</div>
+
+              <div class="dict-word-row">
+                <div class="dict-word">{{ dictData.word || q }}</div>
               </div>
-              <div v-if="dictData.defs && dictData.defs.length" class="sd-defs">
-                <div v-for="(d, i) in dictData.defs" :key="i" class="sd-def">
-                  <span v-if="d.pos" class="sd-pos">{{ d.pos }}</span>
-                  <span v-if="d.meaning" class="sd-meaning">{{ d.meaning }}</span>
+
+              <div
+                v-if="dictData.phonetic_uk || dictData.audio_uk || dictData.phonetic_us || dictData.audio_us"
+                class="dict-phon-row"
+              >
+                <div v-if="dictData.phonetic_uk || dictData.audio_uk" class="phon-block">
+                  <span v-if="dictData.phonetic_uk" class="phon-text">{{ dictData.phonetic_uk }}</span>
+                  <button
+                    v-if="dictData.audio_uk"
+                    class="audio-btn"
+                    @click="playAudio($event, dictData.audio_uk)"
+                  ><span class="audio-icon">🔊</span>英</button>
                 </div>
+                <div v-if="dictData.phonetic_us || dictData.audio_us" class="phon-block">
+                  <span v-if="dictData.phonetic_us" class="phon-text">{{ dictData.phonetic_us }}</span>
+                  <button
+                    v-if="dictData.audio_us"
+                    class="audio-btn"
+                    @click="playAudio($event, dictData.audio_us)"
+                  ><span class="audio-icon">🔊</span>美</button>
+                </div>
+              </div>
+
+              <div v-if="dictData.prototype" class="dict-prototype">
+                <span class="prototype-label">原型</span>
+                <span class="prototype-value">{{ dictData.prototype }}</span>
+              </div>
+
+              <div v-if="dictData.exam_type && dictData.exam_type.length" class="dict-exam-type">
+                <span class="exam-type-label">考试</span>
+                <span v-for="(t, i) in dictData.exam_type" :key="i" class="exam-type-tag">{{ t }}</span>
+              </div>
+
+              <div v-if="dictData.defs && dictData.defs.length" class="dict-defs">
+                <div v-for="(d, i) in dictData.defs" :key="i" class="dict-def">
+                  <span v-if="d.pos" class="pos">{{ d.pos }}</span>
+                  <span v-if="d.meaning" class="meaning">{{ d.meaning }}</span>
+                </div>
+              </div>
+
+              <div v-if="dictData.forms && dictData.forms.length" class="dict-section">
+                <div class="dict-section-label">变形</div>
+                <div class="dict-section-body">
+                  <span v-for="(f, i) in dictData.forms" :key="i">
+                    <template v-if="i > 0">；</template>{{ f.name }}: {{ f.value }}
+                  </span>
+                </div>
+              </div>
+
+              <div v-if="dictData.examples && dictData.examples.length" class="dict-section">
+                <div class="dict-section-label">双语例句</div>
+                <div v-for="(ex, i) in dictData.examples" :key="i" class="dict-example">
+                  <div class="example-en">{{ ex.en }}</div>
+                  <div class="example-zh">{{ ex.zh }}</div>
+                </div>
+              </div>
+
+              <div v-if="dictData.synonyms && dictData.synonyms.length" class="dict-section">
+                <div class="dict-section-label">同义词</div>
+                <div v-for="(syn, i) in dictData.synonyms" :key="i" class="dict-syn-item">
+                  <span v-if="syn.pos" class="syn-pos">{{ syn.pos }}</span>
+                  <span v-if="syn.meaning" class="syn-meaning">{{ syn.meaning }}</span>
+                  <span class="syn-words">{{ (syn.words || []).join(', ') }}</span>
+                </div>
+              </div>
+
+              <div v-if="dictData.phrs && dictData.phrs.length" class="dict-section">
+                <div class="dict-section-label">词组搭配</div>
+                <div v-for="(p, i) in dictData.phrs" :key="i" class="dict-phr-item">
+                  <span class="phr-phrase">{{ p.phrase }}</span>
+                  <span v-if="p.translations && p.translations.length" class="phr-trans">
+                    {{ p.translations.join('；') }}
+                  </span>
+                </div>
+              </div>
+
+              <IndividualSection v-if="dictData.individual && Object.keys(dictData.individual).length" :data="dictData.individual" />
+
+              <div v-if="dictData.sources && dictData.sources.length" class="dict-source">
+                数据来源：{{ dictData.sources.map(sourceLabel).join(' + ') }}
               </div>
             </div>
             <div v-else-if="dictData && !dictData.found" class="muted">词典未收录「{{ q }}」</div>
@@ -102,6 +167,7 @@
 import { ref, computed, watch } from 'vue';
 import { useRoute, useRouter } from 'vue-router';
 import { fetchSearch, fetchDict } from '../api/client.js';
+import IndividualSection from '../components/IndividualSection.vue';
 
 const route = useRoute();
 const router = useRouter();
@@ -114,6 +180,10 @@ const error = ref(null);
 const dictData = ref(null);
 const dictLoading = ref(false);
 const dictError = ref(null);
+
+function sourceLabel(s) {
+  return ({ youdao: '有道词典' })[s] || s;
+}
 
 const q = computed(() => route.query.q || '');
 

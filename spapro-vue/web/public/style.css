@@ -1544,37 +1544,6 @@ footer {
     margin-bottom: 16px;
     background: var(--card, #fff);
 }
-.sd-head {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    flex-wrap: wrap;
-    margin-bottom: 8px;
-}
-.sd-word {
-    font-size: 20px;
-    font-weight: 700;
-    color: var(--text, #1a1a1a);
-}
-.sd-phon {
-    font-size: 13px;
-    color: #888;
-}
-.sd-audio {
-    border: 1px solid var(--border, #e2e8f0);
-    background: var(--bg-soft, #f8f9fa);
-    border-radius: 6px;
-    padding: 2px 8px;
-    font-size: 12px;
-    cursor: pointer;
-    color: var(--text, #1a1a1a);
-}
-.sd-audio:hover { background: var(--accent-soft, #e0ecff); }
-.sd-audio.playing { background: var(--accent-soft, #e0ecff); border-color: var(--accent, #0066ff); }
-.sd-defs { display: flex; flex-direction: column; gap: 4px; }
-.sd-def { font-size: 14px; line-height: 1.6; }
-.sd-pos { color: #888; margin-right: 6px; font-style: italic; }
-.sd-meaning { color: var(--text, #1a1a1a); }
 
 /* === 视频页（React 版独立路由，原 video.html 内联样式合并） === */
 .video-page {
