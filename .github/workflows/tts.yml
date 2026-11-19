@@ -108,6 +108,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout --orphan tts-audio
+          git rm -rf --cached . --quiet || true   # --orphan keeps the old index otherwise
           cp audio/*.mp3 audio/manifest.json .
           git add -- *.mp3 manifest.json
           git commit -m "TTS audio run #${{ github.run_number }} (voice and rate in manifest.json)"
