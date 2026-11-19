@@ -96,3 +96,19 @@ jobs:
           files: |
             audio/*.mp3
             audio/manifest.json
+
+      # Release/artifact binary hosts are blocked in some sandboxes, while
+      # codeload.github.com (ordinary repo archives) is reachable. Publish the
+      # mp3s as tracked files on a dedicated branch so they can be fetched as a
+      # branch ZIP. Force-pushed so every run replaces the previous audio set.
+      - name: Publish audio to tts-audio branch
+        if: success()
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan tts-audio
+          cp audio/*.mp3 audio/manifest.json .
+          git add -- *.mp3 manifest.json
+          git commit -m "TTS audio run #${{ github.run_number }} (voice and rate in manifest.json)"
+          git push -f origin tts-audio
