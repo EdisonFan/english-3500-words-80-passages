@@ -114,6 +114,7 @@ function renderHome() {
 
     html += '</div>';
     app.innerHTML = html;
+    if (window.Listen) { window.Listen.mountHome(); }
     window.scrollTo(0, 0);
 }
 
@@ -186,6 +187,7 @@ function renderPassageContent(id, data) {
     html += '<footer>PASSAGE ' + num + ' · END</footer>';
 
     app.innerHTML = html;
+    if (window.Listen) { window.Listen.mountPassage(id); }
     applyGloss();
     applyTrans();
     window.scrollTo(0, 0);
