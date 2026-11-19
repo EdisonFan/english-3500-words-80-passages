@@ -54,7 +54,7 @@ jobs:
         shell: bash
         run: |
           python scripts/gen_tts.py \
-            --rate  "${{ inputs.rate || '-20%' }}" \
+            --rate="${{ inputs.rate || '-20%' }}" \
             --voice "${{ inputs.voice || 'en-US-AriaNeural' }}" \
             --start "${{ inputs.start || '1' }}" \
             --end   "${{ inputs.end || '80' }}" \

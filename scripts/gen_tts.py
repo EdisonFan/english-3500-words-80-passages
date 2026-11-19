@@ -201,6 +201,30 @@ async def run(args: argparse.Namespace) -> int:
     return 1 if failed else 0
 
 
+def _normalise_negative_rates(argv: list[str]) -> list[str]:
+    """Rewrite ``--rate -20%`` to ``--rate=-20%``.
+
+    argparse treats a bare ``-20%`` as an option rather than a value and exits
+    with "expected one argument". Negative percentages are the normal input
+    here (slower speech), so handle both spellings. Also covers ``--volume``.
+    """
+    out: list[str] = []
+    i = 0
+    while i < len(argv):
+        current = argv[i]
+        if (
+            current in ("--rate", "--volume")
+            and i + 1 < len(argv)
+            and argv[i + 1].startswith("-")
+        ):
+            out.append(f"{current}={argv[i + 1]}")
+            i += 2
+        else:
+            out.append(current)
+            i += 1
+    return out
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__,
                                      formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -218,7 +242,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--dry-run", action="store_true", help="print cleaned text, no network")
     parser.add_argument("--limit", type=int, default=0, help="with --dry-run: max passages to print")
     parser.add_argument("--preview", type=int, default=700, help="with --dry-run: chars per passage")
-    return parser.parse_args()
+    return parser.parse_args(_normalise_negative_rates(sys.argv[1:]))
 
 
 if __name__ == "__main__":
