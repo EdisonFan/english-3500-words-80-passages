@@ -1,0 +1,34 @@
+{
+  "word": "happens",
+  "found": true,
+  "phonetic_uk": "ˈhæpənz",
+  "phonetic_us": "ˈhæpənz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=happens&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=happens&type=2",
+  "defs": [
+    {
+      "pos": "",
+      "meaning": "发生"
+    },
+    {
+      "pos": "",
+      "meaning": "碰巧"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I'll be there whatever happens.",
+      "zh": "不管发生什么事我都会到那儿的。"
+    },
+    {
+      "en": "Nothing ever happens here.",
+      "zh": "这儿从未发生过任何事。"
+    },
+    {
+      "en": "Click the link and see what happens.",
+      "zh": "点击那个链接，看看会发生什么。"
+    }
+  ],
+  "synonyms": []
+}

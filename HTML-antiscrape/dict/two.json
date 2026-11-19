@@ -1,0 +1,58 @@
+{
+  "word": "two",
+  "found": true,
+  "phonetic_uk": "tuː",
+  "phonetic_us": "tuː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=two&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=two&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "两个"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "两个的"
+    },
+    {
+      "pos": "num.",
+      "meaning": "二"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "twos"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Two prisoners have escaped.",
+      "zh": "两名犯人逃走了。"
+    },
+    {
+      "en": "They're two feet thick.",
+      "zh": "它们两英尺厚。"
+    },
+    {
+      "en": "Two of the men were leftists and two were centrists.",
+      "zh": "这些人其中两人是左派分子，两人是中间派。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "两个",
+      "words": [
+        "TWA"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "两个的",
+      "words": [
+        "both"
+      ]
+    }
+  ]
+}

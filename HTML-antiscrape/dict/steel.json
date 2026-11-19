@@ -1,0 +1,87 @@
+{
+  "word": "steel",
+  "found": true,
+  "phonetic_uk": "stiːl",
+  "phonetic_us": "stiːl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=steel&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=steel&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "钢，钢铁；钢铁工业；（用来磨刀的）钢棒；钢制器具；钢做的部分；<文>兵器；（钢铁般的）坚强，坚定"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使坚强地做（或面对）；钢化"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "钢制的；钢铁业的；坚强的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Steel）（德）施特尔，（英）斯蒂尔 （人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "steels"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "steels"
+    },
+    {
+      "name": "现在分词",
+      "value": "steeling"
+    },
+    {
+      "name": "过去式",
+      "value": "steeled"
+    },
+    {
+      "name": "过去分词",
+      "value": "steeled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The frame is made of steel.",
+      "zh": "这个架子是钢制的。"
+    },
+    {
+      "en": "Steel is made from iron.",
+      "zh": "钢是由铁炼成的。"
+    },
+    {
+      "en": "Coal and steel were the region's lifeblood.",
+      "zh": "煤炭和钢铁曾是这个地区的生命线。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "钢铁；钢制品；坚固",
+      "words": [
+        "durability",
+        "tightness"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "钢化；使冷酷",
+      "words": [
+        "indurate"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "钢制的；钢铁业的；坚强的",
+      "words": [
+        "strong",
+        "tough"
+      ]
+    }
+  ]
+}

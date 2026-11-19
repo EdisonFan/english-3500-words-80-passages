@@ -1,0 +1,88 @@
+{
+  "word": "winter",
+  "found": true,
+  "phonetic_uk": "ˈwɪntə(r)",
+  "phonetic_us": "ˈwɪntər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=winter&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=winter&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "冬季，（天文）从冬至点到春分点的期间；<文>年，岁"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "冬天的，冬天出现的；用于冬天的；（水果）冬季才成熟的；（麦等）秋季播种来年收获的，越冬的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（在某处）过冬，越冬；使度过冬季"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Winter）（英、德、西、法）温特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "winters"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "winters"
+    },
+    {
+      "name": "现在分词",
+      "value": "wintering"
+    },
+    {
+      "name": "过去式",
+      "value": "wintered"
+    },
+    {
+      "name": "过去分词",
+      "value": "wintered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It had been a wet raw winter.",
+      "zh": "那是一个寒冷潮湿的冬天。"
+    },
+    {
+      "en": "The lake freezes over in winter.",
+      "zh": "这个湖冬天全部封冻。"
+    },
+    {
+      "en": "Swallows migrate south in winter.",
+      "zh": "燕子在冬天迁徙到南方。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[气候]冬季；年岁；萧条期",
+      "words": [
+        "peret",
+        "years of age"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "过冬",
+      "words": [
+        "hibernate",
+        "overwinter"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "[气候]冬天的；越冬的",
+      "words": [
+        "brumous",
+        "hibernal"
+      ]
+    }
+  ]
+}

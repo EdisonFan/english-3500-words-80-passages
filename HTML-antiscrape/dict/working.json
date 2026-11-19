@@ -1,0 +1,76 @@
+{
+  "word": "working",
+  "found": true,
+  "phonetic_uk": "ˈwɜːkɪŋ",
+  "phonetic_us": "ˈwɜːrkɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=working&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=working&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "有工作的；处于就业年龄的；与工作有关的；上班时间的，工作时间的；公事上的（早餐或午餐等）；从事体力劳动的；（机器、系统等）运转的，运作的；初步的，暂定的；尚可应付工作的，基本够用的；（议会票数）足够多数的；（动物）用于农业的，用作打猎的，用于看守的；（农场或企业）经营性的，营利性的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（设备、组织或系统的）工作方式，运行方式；矿坑，（矿内）工作区；工作，干活，劳动；班次，线路；（数学题的）计算过程，解答"
+    },
+    {
+      "pos": "v.",
+      "meaning": "受雇于，从事……工作；工作，劳动；努力取得，力争（work 的现在分词）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Working）（美）沃金（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "workings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She's working out in Australia.",
+      "zh": "她远在澳大利亚工作。"
+    },
+    {
+      "en": "I'm working late tomorrow night.",
+      "zh": "明晚我要工作到很晚。"
+    },
+    {
+      "en": "She adores working with children.",
+      "zh": "她热爱为儿童工作。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "工作的；操作的；可行的",
+      "words": [
+        "operational",
+        "feasible",
+        "handling"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "工作；活动；制作；操纵",
+      "words": [
+        "activity",
+        "movement",
+        "job",
+        "pursuit",
+        "management"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "工作；影响；受雇用（work的ing形式）",
+      "words": [
+        "influencing",
+        "affecting"
+      ]
+    }
+  ]
+}

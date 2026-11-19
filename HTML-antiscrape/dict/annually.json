@@ -1,0 +1,38 @@
+{
+  "word": "annually",
+  "found": true,
+  "phonetic_uk": "ˈænjuəli",
+  "phonetic_us": "ˈænjuəli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=annually&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=annually&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "每年，一年一次地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The exhibition is held annually.",
+      "zh": "这个展览每年举行一次。"
+    },
+    {
+      "en": "Companies report to their shareholders annually.",
+      "zh": "各公司每年向其股东们汇报一次。"
+    },
+    {
+      "en": "Prune established plants annually as new shoots appear.",
+      "zh": "每年嫩芽长出来时，要给长成的植物剪枝。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "每年；一年一次",
+      "words": [
+        "yearly"
+      ]
+    }
+  ]
+}

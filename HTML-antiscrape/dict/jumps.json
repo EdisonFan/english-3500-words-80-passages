@@ -1,0 +1,50 @@
+{
+  "word": "jumps",
+  "found": true,
+  "phonetic_uk": "dʒʌmps",
+  "phonetic_us": "dʒʌmps",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=jumps&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=jumps&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "跳，跃；跨越；快速（突然）移动（jump 的第三人称单数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "跳，跃；惊跳；障碍物；激增（jump 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Extreme skaters perform jumps, spins, flips, etc.",
+      "zh": "极限滑板运动员能做跳跃、旋转、空翻等动作。"
+    },
+    {
+      "en": "The longest jumps by a man and a woman were witnessed in Sestriere, Italy, yesterday.",
+      "zh": "男女跳远项目最远的一跳都于昨天在意大利的塞斯特雷得以见证。"
+    },
+    {
+      "en": "He jumps very high.",
+      "zh": "他跳得很高。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "跳跃；暴增（jump的三单形式）",
+      "words": [
+        "bounds",
+        "leaps"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "跳跃；猛涨（jump的复数）",
+      "words": [
+        "leaps"
+      ]
+    }
+  ]
+}

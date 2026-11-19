@@ -1,0 +1,54 @@
+{
+  "word": "first-hand",
+  "found": true,
+  "phonetic_uk": "ˌfɜːst ˈhænd",
+  "phonetic_us": "ˌfɜːrst ˈhænd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=first-hand&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=first-hand&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "第一手的；直接的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "直接地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I can't make it until I have first-hand information on prices.",
+      "zh": "除非我有第一手的价格信息，否则我无法成功。"
+    },
+    {
+      "en": "We've been through Germany and seen first-hand what's happening there.",
+      "zh": "我们曾走遍德国，亲眼目睹了那里发生的事。"
+    },
+    {
+      "en": "I experienced Italian hospitality first-hand on a crowded railway.",
+      "zh": "在拥挤的火车上，我亲身体验到了意大利人的热情好客。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "第一手的；直接的",
+      "words": [
+        "immediate",
+        "direct",
+        "right"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "直接地",
+      "words": [
+        "directly",
+        "straight",
+        "immediately",
+        "fair"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "word": "staff",
+  "found": true,
+  "phonetic_uk": "stɑːf",
+  "phonetic_us": "stæf",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=staff&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=staff&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "全体员工，全体雇员；<美>（大、中、小学的）管理人员，行政人员；（军队的）全体参谋人员；陆军上士；手杖，拐杖；权杖，笏；旗杆；（测绘）标杆，标尺；<英>（钟表的）小轴杆；<英>（铁路的）路签；五线谱"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "职员的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "为……配备员工；是……的职员"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Staff）（德、匈）施塔夫，（瑞典、英）斯塔夫（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "staffs或staves"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "staffs"
+    },
+    {
+      "name": "现在分词",
+      "value": "staffing"
+    },
+    {
+      "name": "过去式",
+      "value": "staffed"
+    },
+    {
+      "name": "过去分词",
+      "value": "staffed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Staff say the decision was his.",
+      "zh": "员工们说那个决定是他做出的。"
+    },
+    {
+      "en": "The staff are very friendly.",
+      "zh": "这些工作人员非常友好。"
+    },
+    {
+      "en": "The staff were very good.",
+      "zh": "员工们都很棒。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "职员；参谋；棒；支撑",
+      "words": [
+        "rod",
+        "bar"
+      ]
+    }
+  ]
+}

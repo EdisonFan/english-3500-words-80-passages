@@ -1,0 +1,48 @@
+{
+  "word": "detective",
+  "found": true,
+  "phonetic_uk": "dɪˈtektɪv",
+  "phonetic_us": "dɪˈtektɪv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=detective&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=detective&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "侦探，警探；私家侦探"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "有关调查工作的；刑侦的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "detectives"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He plays a wisecracking detective.",
+      "zh": "他扮演一位满嘴俏皮话的侦探。"
+    },
+    {
+      "en": "It was a cunning piece of detective work.",
+      "zh": "那是一篇构思巧妙的侦探作品。"
+    },
+    {
+      "en": "The detective picked out the words with difficulty.",
+      "zh": "侦探费力地辨认出这些字。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "侦探",
+      "words": [
+        "tec",
+        "hawkshaw"
+      ]
+    }
+  ]
+}

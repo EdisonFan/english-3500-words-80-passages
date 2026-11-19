@@ -1,0 +1,85 @@
+{
+  "word": "mother",
+  "found": true,
+  "phonetic_uk": "ˈmʌðə(r)",
+  "phonetic_us": "ˈmʌðər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mother&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mother&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "母亲；大娘；女修道院院长"
+    },
+    {
+      "pos": "vt.",
+      "meaning": "生下；养育；像母亲般关怀或照管"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "母亲的；出生地的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "mothers"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "mothers"
+    },
+    {
+      "name": "现在分词",
+      "value": "mothering"
+    },
+    {
+      "name": "过去式",
+      "value": "mothered"
+    },
+    {
+      "name": "过去分词",
+      "value": "mothered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I'm friendly with his mother.",
+      "zh": "我和他的母亲很要好。"
+    },
+    {
+      "en": "Her mother had never remarried.",
+      "zh": "她的母亲没有再婚。"
+    },
+    {
+      "en": "His mother is partially blind.",
+      "zh": "他的母亲失去了部分视力。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "母亲；大娘；女修道院院长",
+      "words": [
+        "mater",
+        "madre"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "生下；养育；像母亲般关怀或照管",
+      "words": [
+        "raise",
+        "foster",
+        "breed"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "母亲的；出生地的",
+      "words": [
+        "maternal",
+        "natal"
+      ]
+    }
+  ]
+}

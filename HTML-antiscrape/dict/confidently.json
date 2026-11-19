@@ -1,0 +1,39 @@
+{
+  "word": "confidently",
+  "found": true,
+  "phonetic_uk": "ˈkɒnfɪdəntli",
+  "phonetic_us": "ˈkɑːnfɪdəntli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=confidently&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=confidently&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "自信地；安心地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "You must act boldly and confidently.",
+      "zh": "你必须表现得大胆、自信。"
+    },
+    {
+      "en": "She walked confidently across the hall.",
+      "zh": "她自信地走过大厅。"
+    },
+    {
+      "en": "She played the piano confidently but her timing was not good.",
+      "zh": "她钢琴弹得很自信，但是节奏掌握得不好。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "自信地；安心地",
+      "words": [
+        "assertorically",
+        "securely"
+      ]
+    }
+  ]
+}

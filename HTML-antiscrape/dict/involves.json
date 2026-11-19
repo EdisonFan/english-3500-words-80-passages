@@ -1,0 +1,40 @@
+{
+  "word": "involves",
+  "found": true,
+  "phonetic_uk": "ɪnˈvɒlvz",
+  "phonetic_us": "ɪnˈvɑːlvz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=involves&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=involves&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "包含；牵涉（involve 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The job involves a lot of entertaining.",
+      "zh": "这项工作需要经常设宴招待客人。"
+    },
+    {
+      "en": "My work involves translating from German.",
+      "zh": "我的工作包括德语翻译。"
+    },
+    {
+      "en": "Any investment involves an element of risk.",
+      "zh": "任何投资都有一定的风险。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "包含；牵涉（involve的第三人称单数形式）",
+      "words": [
+        "includes",
+        "contains",
+        "covers"
+      ]
+    }
+  ]
+}

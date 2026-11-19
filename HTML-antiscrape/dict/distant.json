@@ -1,0 +1,39 @@
+{
+  "word": "distant",
+  "found": true,
+  "phonetic_uk": "ˈdɪstənt",
+  "phonetic_us": "ˈdɪstənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=distant&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=distant&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "遥远的，久远的；冷淡的；心不在焉的；远亲的；不相似的，不同的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He's a distant cousin of mine.",
+      "zh": "他是我远房的一个表亲。"
+    },
+    {
+      "en": "Her manner was cold and distant.",
+      "zh": "她的态度冷漠而疏远。"
+    },
+    {
+      "en": "He's a distant relative of the mayor.",
+      "zh": "他是市长的远房亲戚。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "遥远的；冷漠的；远隔的",
+      "words": [
+        "remote",
+        "faraway"
+      ]
+    }
+  ]
+}

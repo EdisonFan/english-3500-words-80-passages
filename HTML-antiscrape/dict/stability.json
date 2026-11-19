@@ -1,0 +1,44 @@
+{
+  "word": "stability",
+  "found": true,
+  "phonetic_uk": "stəˈbɪləti",
+  "phonetic_us": "stəˈbɪləti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=stability&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=stability&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "稳定（性），稳固（性）；坚定，恒心"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "stabilities"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It was a time of political stability and progress.",
+      "zh": "那是一个政治稳定和进步的时期。"
+    },
+    {
+      "en": "Political stability, meanwhile, will be a prime concern.",
+      "zh": "与此同时，政治稳定将是头等大事。"
+    },
+    {
+      "en": "My father wanted me to become a professional and have more stability.",
+      "zh": "我父亲希望我成为一名专业人士，有更多稳定性。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "稳定性；坚定，恒心",
+      "words": [
+        "firmness",
+        "adament"
+      ]
+    }
+  ]
+}

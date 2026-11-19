@@ -1,0 +1,43 @@
+{
+  "word": "Christmas",
+  "found": true,
+  "phonetic_uk": "ˈkrɪsməs",
+  "phonetic_us": "ˈkrɪsməs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=Christmas&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=Christmas&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "圣诞节；圣诞节期间"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "Christmases"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Christmas is a time of reunion.",
+      "zh": "圣诞节是团聚的日子。"
+    },
+    {
+      "en": "Christmas is still months away.",
+      "zh": "离圣诞节还有几个月。"
+    },
+    {
+      "en": "They're here till Christmas.",
+      "zh": "他们将在这里一直住到圣诞节。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "圣诞节",
+      "words": [
+        "Xmas"
+      ]
+    }
+  ]
+}

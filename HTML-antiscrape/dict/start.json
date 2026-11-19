@@ -1,0 +1,86 @@
+{
+  "word": "start",
+  "found": true,
+  "phonetic_uk": "stɑːt",
+  "phonetic_us": "stɑːrt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=start&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=start&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "开始，着手；（使）发生；发动，启动；创办，开办；出发，启程；以……起步（或起家）；（由……）起，起始；突然一惊，吓一跳；<非正式>开始抱怨，开始争论；（比赛中）首发上场；（眼睛）突起，鼓出；使松动，使脱落；使（猎物）离巢"
+    },
+    {
+      "pos": "n.",
+      "meaning": "开始，开端；启程，启动；（事业的）最初机遇，起步机会；起点（the start）；比赛，上场；突然一惊；领先的时间（距离）；新工作，新企业，新手；先发上场"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "starts"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "starts"
+    },
+    {
+      "name": "现在分词",
+      "value": "starting"
+    },
+    {
+      "name": "过去式",
+      "value": "started"
+    },
+    {
+      "name": "过去分词",
+      "value": "started"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They determined to start early.",
+      "zh": "他们决定早点出发。"
+    },
+    {
+      "en": "When do the fireworks start?",
+      "zh": "什么时候开始放烟火？"
+    },
+    {
+      "en": "They start work at dawn.",
+      "zh": "天一亮他们就开始干活了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "开始；启动",
+      "words": [
+        "institute",
+        "initiate"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "出发",
+      "words": [
+        "leave",
+        "set out",
+        "go forth into",
+        "sally out",
+        "set off/out"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "开始；起点",
+      "words": [
+        "beginning",
+        "threshold",
+        "opening",
+        "conception",
+        "fresh"
+      ]
+    }
+  ]
+}

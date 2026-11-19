@@ -1,0 +1,35 @@
+{
+  "word": "dinosaur",
+  "found": true,
+  "phonetic_uk": "ˈdaɪnəsɔː(r)",
+  "phonetic_us": "ˈdaɪnəsɔːr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dinosaur&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dinosaur&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "恐龙；守旧落伍的人，过时落后的东西"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "dinosaurs"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The fossils at Dinosaur Cove are embedded in hard sandstone.",
+      "zh": "恐龙湾中的化石嵌在坚硬的砂岩中。"
+    },
+    {
+      "en": "'Dinosaur' combines CGI animation with live-action location shots.",
+      "zh": "《恐龙》结合了电脑生成的动画和外景地实地拍摄的画面。"
+    },
+    {
+      "en": "Then a dinosaur appeared.",
+      "zh": "然后一只恐龙出现了。"
+    }
+  ],
+  "synonyms": []
+}

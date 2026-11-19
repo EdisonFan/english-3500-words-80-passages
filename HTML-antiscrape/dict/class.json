@@ -1,0 +1,94 @@
+{
+  "word": "class",
+  "found": true,
+  "phonetic_uk": "klɑːs",
+  "phonetic_us": "klæs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=class&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=class&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "班级；（一节）课，上课时间；（某一科目的）课程；阶级，阶层；等级划分，等级制度；（货物、服务或人的）等级，类别；（飞机、火车等的）舱位等级，车厢等级；品味；同届毕业生；<英>（英国大学的）学位等级；（生物）（植物或动物分类的）纲；（比赛的）组别"
+    },
+    {
+      "pos": "v.",
+      "meaning": "把……归类，把……看作；把……编入某一班级；属于……类（或等级），被列为某类（或某级）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "<非正式>优秀的，出色的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Class）（英、德）克拉斯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "classes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "classes"
+    },
+    {
+      "name": "现在分词",
+      "value": "classing"
+    },
+    {
+      "name": "过去式",
+      "value": "classed"
+    },
+    {
+      "name": "过去分词",
+      "value": "classed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I've joined an aerobics class.",
+      "zh": "我参加了有氧健身班。"
+    },
+    {
+      "en": "The class burst out laughing.",
+      "zh": "全班爆发出笑声。"
+    },
+    {
+      "en": "I'm taking a typing class.",
+      "zh": "我在上一个打字班。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "阶级；班级；种类",
+      "words": [
+        "category",
+        "variety",
+        "manner",
+        "nature",
+        "kind"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "分类；把…分等级",
+      "words": [
+        "grade",
+        "categorize"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "极好的",
+      "words": [
+        "wonderful",
+        "excellent",
+        "famous",
+        "super",
+        "great"
+      ]
+    }
+  ]
+}

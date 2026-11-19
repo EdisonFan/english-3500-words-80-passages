@@ -1,0 +1,76 @@
+{
+  "word": "inch",
+  "found": true,
+  "phonetic_uk": "ɪntʃ",
+  "phonetic_us": "ɪntʃ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=inch&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=inch&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "英寸；（距离或数量）少许；<非正式>身高，腰围"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（数量）逐渐增加（或减少）；（使）缓慢移动"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Inch）（英）英奇（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "inches"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "inches"
+    },
+    {
+      "name": "现在分词",
+      "value": "inching"
+    },
+    {
+      "name": "过去式",
+      "value": "inched"
+    },
+    {
+      "name": "过去分词",
+      "value": "inched"
+    }
+  ],
+  "examples": [
+    {
+      "en": "There are 2.54 centimetres to an inch.",
+      "zh": "一英寸等于2.54厘米。"
+    },
+    {
+      "en": "Nick's grown almost an inch in the last month.",
+      "zh": "尼克这一个月来长高了差不多一英寸。"
+    },
+    {
+      "en": "An eight-week-old embryo is only an inch long.",
+      "zh": "一个8周大的胎儿仅1英寸长。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "英寸；身高；少许",
+      "words": [
+        "height",
+        "little",
+        "touch"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "慢慢前进",
+      "words": [
+        "worm"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "word": "noisy",
+  "found": true,
+  "phonetic_uk": "ˈnɔɪzi",
+  "phonetic_us": "ˈnɔɪzi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=noisy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=noisy&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "嗓门大的，聒噪的；嘈杂的，充满噪音的；吵吵嚷嚷的，哗众取宠的；（尤指电子设备的）干扰，干扰信息"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "noisier或more noisy"
+    },
+    {
+      "name": "最高级",
+      "value": "noisiest或most noisy"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She tried to hush her noisy father.",
+      "zh": "她试图让吵吵嚷嚷的父亲安静下来。"
+    },
+    {
+      "en": "The baggage hall was crowded and noisy.",
+      "zh": "行李大厅拥挤而嘈杂。"
+    },
+    {
+      "en": "The engine is very noisy at high speed.",
+      "zh": "这个发动机转速高时噪音非常大。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "嘈杂的；喧闹的；聒噪的",
+      "words": [
+        "furious",
+        "boisterous"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "响声；嘈杂声",
+      "words": [
+        "klang",
+        "babelism"
+      ]
+    }
+  ]
+}

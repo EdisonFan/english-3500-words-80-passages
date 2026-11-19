@@ -1,0 +1,86 @@
+{
+  "word": "brown",
+  "found": true,
+  "phonetic_uk": "braʊn",
+  "phonetic_us": "braʊn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=brown&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=brown&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "褐色的，棕色的；肤色深的，晒黑的；未去壳的，糙的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "褐色，棕色；褐色的东西；眼蝶，褐蝶"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）变成棕色，成褐色"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Brown）（英、意、芬、捷、德、法、西、葡）布朗（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "browns"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "browns"
+    },
+    {
+      "name": "现在分词",
+      "value": "browning"
+    },
+    {
+      "name": "过去式",
+      "value": "browned"
+    },
+    {
+      "name": "过去分词",
+      "value": "browned"
+    },
+    {
+      "name": "比较级",
+      "value": "browner"
+    },
+    {
+      "name": "最高级",
+      "value": "brownest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He was wearing a brown uniform.",
+      "zh": "他穿着一件棕色制服。"
+    },
+    {
+      "en": "He removed his brown slip-ons.",
+      "zh": "他脱掉了他的棕色无带鞋。"
+    },
+    {
+      "en": "He had deep-set brown eyes.",
+      "zh": "他拥有一双深邃的褐色眼睛。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "棕色的，褐色的；太阳晒黑的",
+      "words": [
+        "umber"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "褐色，棕色",
+      "words": [
+        "suntan"
+      ]
+    }
+  ]
+}

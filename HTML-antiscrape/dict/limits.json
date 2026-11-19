@@ -1,0 +1,50 @@
+{
+  "word": "limits",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˈlɪmɪts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=limits&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=limits&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "范围；极限（limit 的复数）；领土"
+    },
+    {
+      "pos": "v.",
+      "meaning": "限制；削减（limit 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He was driving without regard to speed limits.",
+      "zh": "他开着车，根本不理会速度限制。"
+    },
+    {
+      "en": "The EU has set strict limits on pollution levels.",
+      "zh": "欧盟对污染程度订下了严格的限制。"
+    },
+    {
+      "en": "She knew the limits of her power.",
+      "zh": "她知道自己的权限。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "范围；极限（limit的复数）；领土",
+      "words": [
+        "spectra",
+        "ranges"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "限制；削减（limit的第三人称单数）",
+      "words": [
+        "pares"
+      ]
+    }
+  ]
+}

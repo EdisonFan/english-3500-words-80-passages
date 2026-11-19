@@ -1,0 +1,38 @@
+{
+  "word": "abandoning",
+  "found": true,
+  "phonetic_uk": "əˈbændənɪŋ",
+  "phonetic_us": "əˈbændənɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=abandoning&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=abandoning&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "放弃；屈服（abandon 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She put forward some cogent reasons for abandoning the plan.",
+      "zh": "她为放弃这个计划提出了一些具有说服力的理由。"
+    },
+    {
+      "en": "It seemed as if the police had thrown in the towel and were abandoning the investigation.",
+      "zh": "看起来好象警察已经认输了，并且要放弃调查。"
+    },
+    {
+      "en": "Their movements through the region were calculated to terrify landowners into abandoning their holdings.",
+      "zh": "他们在整个地区的行动意在恐吓地主们放弃其财产。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "放弃；屈服（abandon的现在分词）",
+      "words": [
+        "waiving"
+      ]
+    }
+  ]
+}

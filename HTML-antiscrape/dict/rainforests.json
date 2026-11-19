@@ -1,0 +1,35 @@
+{
+  "word": "rainforests",
+  "found": true,
+  "phonetic_uk": "ˈreɪnfɒrɪst",
+  "phonetic_us": "ˈreɪnfɔːrɪst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=rainforests&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=rainforests&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（热带）雨林"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "rainforests"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The rainforests are disappearing at an alarming rate.",
+      "zh": "雨林正以惊人的速度消失。"
+    },
+    {
+      "en": "It is vital that we act to stop the destruction of the rainforests.",
+      "zh": "至关紧要的是，我们应当采取行动制止破坏雨林。"
+    },
+    {
+      "en": "Tropical rainforests have the most varied assemblage of plants in the world.",
+      "zh": "热带雨林集聚了世界上种类最繁多的植物。"
+    }
+  ],
+  "synonyms": []
+}

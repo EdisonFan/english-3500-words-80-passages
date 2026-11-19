@@ -1,0 +1,47 @@
+{
+  "word": "qualification",
+  "found": true,
+  "phonetic_uk": "ˌkwɒlɪfɪˈkeɪʃ(ə)n",
+  "phonetic_us": "ˌkwɑːlɪfɪˈkeɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=qualification&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=qualification&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（通过考试或学习课程取得的）资格，学历；（胜任某一工作或职位所需的）资历，技能条件；获得资格，达到标准；先决条件，正式要求；限制，限定性条件；（语法）（尤指对名词等的）限定，修饰"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "qualifications"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The plan was approved without qualification.",
+      "zh": "这项计划获得无条件批准。"
+    },
+    {
+      "en": "The qualification has gained currency all over the world.",
+      "zh": "这种资格在全世界都得到了普遍认可。"
+    },
+    {
+      "en": "There are two types of qualification—either is acceptable.",
+      "zh": "有两种资格证明—任何一种都可以接受。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "资格；条件；限制；赋予资格",
+      "words": [
+        "membership",
+        "limitation",
+        "capacity",
+        "condition",
+        "restriction"
+      ]
+    }
+  ]
+}

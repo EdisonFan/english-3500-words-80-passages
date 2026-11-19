@@ -1,0 +1,39 @@
+{
+  "word": "unborn",
+  "found": true,
+  "phonetic_uk": "ˌʌnˈbɔːn",
+  "phonetic_us": "ˌʌnˈbɔːrn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=unborn&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=unborn&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "未出生的，未出世的；未诞生的；未来的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Maternal smoking can damage the unborn child.",
+      "zh": "母亲吸烟可能会伤害未出生的孩子。"
+    },
+    {
+      "en": "Many factors can lead to growth retardation in unborn babies.",
+      "zh": "许多因素可以导致胎儿发育迟缓。"
+    },
+    {
+      "en": "A lack of oxygen may inhibit brain development in the unborn child.",
+      "zh": "缺氧可能阻碍胎儿的大脑发育。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "未来的；未诞生的",
+      "words": [
+        "future",
+        "prospective"
+      ]
+    }
+  ]
+}

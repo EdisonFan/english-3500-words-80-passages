@@ -1,0 +1,40 @@
+{
+  "word": "resisting",
+  "found": true,
+  "phonetic_uk": "rɪˈzɪstɪŋ",
+  "phonetic_us": "rɪˈzɪstɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=resisting&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=resisting&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "阻挡，抵制；抵抗，回击；耐得住，抵挡（resist 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Resisting automation is futile: it is as inevitable as industrialization was before it.",
+      "zh": "抵制自动化是徒劳的：它就像之前的工业化一样不可避免。"
+    },
+    {
+      "en": "One of his sixth-grade students, a recent immigrant, was gradually falling behind, resisting his teacher's best efforts.",
+      "zh": "他的一个六年级学生是一个新移民，这名学生抵制他老师付出的最大努力，逐渐掉队。"
+    },
+    {
+      "en": "She was charged with resisting arrest.",
+      "zh": "她被控拒捕。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "稳定的；坚固的",
+      "words": [
+        "steady",
+        "settled",
+        "stable"
+      ]
+    }
+  ]
+}

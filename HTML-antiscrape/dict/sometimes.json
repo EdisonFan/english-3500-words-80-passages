@@ -1,0 +1,39 @@
+{
+  "word": "sometimes",
+  "found": true,
+  "phonetic_uk": "ˈsʌmtaɪmz",
+  "phonetic_us": "ˈsʌmtaɪmz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sometimes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sometimes&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "有时，间或"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Life seems so unfair sometimes.",
+      "zh": "人生有时似乎非常不公平。"
+    },
+    {
+      "en": "I sometimes wear contact lenses.",
+      "zh": "我有时候戴隐形眼镜。"
+    },
+    {
+      "en": "Even friends disagree sometimes.",
+      "zh": "即便是朋友有时也有分歧。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "有时，间或",
+      "words": [
+        "occasionally",
+        "betweentimes"
+      ]
+    }
+  ]
+}

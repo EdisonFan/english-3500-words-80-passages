@@ -1,0 +1,57 @@
+{
+  "word": "gathering",
+  "found": true,
+  "phonetic_uk": "ˈɡæðərɪŋ",
+  "phonetic_us": "ˈɡæðərɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=gathering&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=gathering&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "聚集，聚会；搜集，采集"
+    },
+    {
+      "pos": "v.",
+      "meaning": "聚集，召集；收集，采集；认为，推断（gather 的现在分词形式）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "gatherings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We will be exploring different approaches to gathering information.",
+      "zh": "我们将探索收集信息的不同方法。"
+    },
+    {
+      "en": "The storm clouds were gathering.",
+      "zh": "暴风雨乌云正在聚集。"
+    },
+    {
+      "en": "The car was gathering speed.",
+      "zh": "汽车逐渐加速。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[涂料]聚集；集会；收款",
+      "words": [
+        "collection",
+        "assembly",
+        "clustering",
+        "meet"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "[涂料]聚集（gather的ing形式）",
+      "words": [
+        "aggregating"
+      ]
+    }
+  ]
+}

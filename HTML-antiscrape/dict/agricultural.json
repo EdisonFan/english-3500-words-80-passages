@@ -1,0 +1,39 @@
+{
+  "word": "agricultural",
+  "found": true,
+  "phonetic_uk": "ˌæɡrɪˈkʌltʃərəl",
+  "phonetic_us": "ˌæɡrɪˈkʌltʃərəl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=agricultural&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=agricultural&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "农业的，与农业有关的；务农的，农用的；<英，非正式>笨拙的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Rivers are a blessing for an agricultural country.",
+      "zh": "河流是农业国的福祉。"
+    },
+    {
+      "en": "France is the world's second-biggest exporter of agricultural products.",
+      "zh": "法国是世界第二大农产品出口国。"
+    },
+    {
+      "en": "Farmers struggling for survival strip the forests for agricultural land.",
+      "zh": "为生存而挣扎的农民们把森林伐光来作农业用地。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[农]农业的；农艺的",
+      "words": [
+        "geoponic",
+        "georgic"
+      ]
+    }
+  ]
+}

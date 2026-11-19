@@ -1,0 +1,45 @@
+{
+  "word": "aggression",
+  "found": true,
+  "phonetic_uk": "əˈɡreʃ(ə)n",
+  "phonetic_us": "əˈɡreʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=aggression&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=aggression&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "好斗性，攻击性；侵略，侵犯，挑衅"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "aggressions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Aggression is by no means a male-only trait.",
+      "zh": "攻击性决不是男性独有的特征。"
+    },
+    {
+      "en": "Sport became the perfect outlet for his aggression.",
+      "zh": "运动成为他攻击性心理的最佳出路。"
+    },
+    {
+      "en": "Last month he signed a new non-aggression pact with Germany.",
+      "zh": "上个月他与德国签署了一份新的互不侵犯条约。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "侵略；进攻；[心理]侵犯；侵害",
+      "words": [
+        "violence",
+        "invasion",
+        "infringement"
+      ]
+    }
+  ]
+}

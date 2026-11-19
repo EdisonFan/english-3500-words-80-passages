@@ -1,0 +1,90 @@
+{
+  "word": "cross",
+  "found": true,
+  "phonetic_uk": "krɒs",
+  "phonetic_us": "krɔːs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cross&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cross&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "反对；杂交；在（支票）上划线（表示只能转入银行帐户）；超过，超出（极限或范围）；（表情）掠过，闪过；（基督教徒）画十字；横传；（两封来往的信）相互错过，相互交错；做斗鸡眼；穿越，横渡；交叉"
+    },
+    {
+      "pos": "n.",
+      "meaning": "十字标记，十字形（或叉形）物；杂交，混合物；十字架；苦难；横传；（拳击中的）钩拳迎击"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "恼怒的；脾气坏的，易怒的；（街道）交叉的，十字的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "crosses"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "crosses"
+    },
+    {
+      "name": "现在分词",
+      "value": "crossing"
+    },
+    {
+      "name": "过去式",
+      "value": "crossed"
+    },
+    {
+      "name": "过去分词",
+      "value": "crossed"
+    },
+    {
+      "name": "比较级",
+      "value": "crosser"
+    },
+    {
+      "name": "最高级",
+      "value": "crossest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The roads cross just outside the town.",
+      "zh": "这些道路正好在城外交叉。"
+    },
+    {
+      "en": "I'm terribly cross with him.",
+      "zh": "我对他非常生气。"
+    },
+    {
+      "en": "I drove cross-country in his van.",
+      "zh": "我开着他的货车横穿了全国。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "交叉，十字；十字架，十字形物",
+      "words": [
+        "intersection",
+        "chiasm"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "交叉；[遗][农学]杂交；横过",
+      "words": [
+        "intercross"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[遗][农学]杂交；渡过；使相交",
+      "words": [
+        "bridge over"
+      ]
+    }
+  ]
+}

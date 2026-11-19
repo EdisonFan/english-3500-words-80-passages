@@ -1,0 +1,35 @@
+{
+  "word": "September",
+  "found": true,
+  "phonetic_uk": "sepˈtembə(r)",
+  "phonetic_us": "sepˈtembər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=September&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=September&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "九月"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "Septembers"
+    }
+  ],
+  "examples": [
+    {
+      "en": "September was a long way off.",
+      "zh": "那时离九月份还有很长一段时间。"
+    },
+    {
+      "en": "The rains come in September.",
+      "zh": "雨季九月份开始。"
+    },
+    {
+      "en": "Enrolment is the first week of September.",
+      "zh": "九月份的第一周注册。"
+    }
+  ],
+  "synonyms": []
+}

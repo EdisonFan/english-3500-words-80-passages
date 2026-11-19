@@ -1,0 +1,86 @@
+{
+  "word": "draw",
+  "found": true,
+  "phonetic_uk": "drɔː",
+  "phonetic_us": "drɔː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=draw&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=draw&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "画，绘画；草拟，制定；吸引，使注意；引起（反应）；获得，得到；推断出；抽出，吸出；（从银行账户）取出；拉，拖；利用，动用；抽（烟），吸（气）；放（血），抽（血）；拔出，掏出；以平局结束；抽签，抓阄；（向特定方向）移动；使说出，使吐露；作（比较或对比）；（船）吃（水）；（帆）吃饱风；（滚木球）使（球）朝预定的目标作弧线运动；（茶）被泡开"
+    },
+    {
+      "pos": "n.",
+      "meaning": "平局；抽彩，抽签；有吸引力的人（或事物）；吸烟；拔枪；（高尔夫）偏球；<非正式>大麻制品"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Draw）（英）德劳（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "draws"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "draws"
+    },
+    {
+      "name": "现在分词",
+      "value": "drawing"
+    },
+    {
+      "name": "过去式",
+      "value": "drew"
+    },
+    {
+      "name": "过去分词",
+      "value": "drawn"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They managed an honourable 2–2 draw.",
+      "zh": "他们奋力打成了2:2平局，值得敬佩。"
+    },
+    {
+      "en": "The children love to draw and colour.",
+      "zh": "儿童喜欢画画和涂颜色。"
+    },
+    {
+      "en": "We finally managed a hard-earned draw.",
+      "zh": "我们终于追成了平局。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "画；拉；吸引",
+      "words": [
+        "picture",
+        "absorb",
+        "pull",
+        "attract",
+        "engage"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "拉；拖",
+      "words": [
+        "pull"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "平局；抽签",
+      "words": [
+        "lot",
+        "tie"
+      ]
+    }
+  ]
+}

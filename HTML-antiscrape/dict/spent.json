@@ -1,0 +1,50 @@
+{
+  "word": "spent",
+  "found": true,
+  "phonetic_uk": "spent",
+  "phonetic_us": "spent",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=spent&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=spent&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "用过已废的，失效的；筋疲力尽的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用，花（钱）；花费，度过（一段时间）；用尽，耗尽（spend 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She spent her free time shopping.",
+      "zh": "她将空闲时间花在购物上。"
+    },
+    {
+      "en": "Detectives have spent months gathering evidence.",
+      "zh": "侦探花了数月时间搜集证据。"
+    },
+    {
+      "en": "He spent more on feeding the dog than he spent on feeding himself.",
+      "zh": "他养狗花的钱比养自己花的钱还多。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "耗尽了的；精疲力尽的",
+      "words": [
+        "dead-beat"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "花费（spend的过去分词）；浪费；耗费",
+      "words": [
+        "costed",
+        "misspent"
+      ]
+    }
+  ]
+}

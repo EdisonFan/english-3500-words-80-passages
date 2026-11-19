@@ -1,0 +1,34 @@
+{
+  "word": "kills",
+  "found": true,
+  "phonetic_uk": "kɪlz",
+  "phonetic_us": "kɪlz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=kills&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=kills&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "杀戮；杀敌数；歼敌数（kill 的复数形式）"
+    },
+    {
+      "pos": "vt.",
+      "meaning": "杀，杀戮；破坏；消减，消遣（时间等）（kill 的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Disinfectant kills germs.",
+      "zh": "消毒剂可杀菌。"
+    },
+    {
+      "en": "Do you agree that television kills conversation?",
+      "zh": "电视扼杀人与人之间的交谈，你同意这种说法吗？"
+    },
+    {
+      "en": "Guns do not kill, people kills.",
+      "zh": "枪不会杀人，人会杀人。"
+    }
+  ],
+  "synonyms": []
+}

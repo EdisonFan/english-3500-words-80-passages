@@ -1,0 +1,43 @@
+{
+  "word": "loved",
+  "found": true,
+  "phonetic_uk": "lʌvd",
+  "phonetic_us": "lʌvd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=loved&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=loved&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "热爱（love 的过去分词）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "恋爱的；受珍爱的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Pat has always loved gardening.",
+      "zh": "帕特一直喜爱园艺。"
+    },
+    {
+      "en": "The critics loved the movie.",
+      "zh": "评论家喜爱这部电影。"
+    },
+    {
+      "en": "He loved gossip and scandal.",
+      "zh": "他喜欢闲话和流言蜚语。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "恋爱的；受珍爱的",
+      "words": [
+        "amatory",
+        "amorous"
+      ]
+    }
+  ]
+}

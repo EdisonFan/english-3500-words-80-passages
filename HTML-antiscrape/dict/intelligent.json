@@ -1,0 +1,51 @@
+{
+  "word": "intelligent",
+  "found": true,
+  "phonetic_uk": "ɪnˈtelɪdʒənt",
+  "phonetic_us": "ɪnˈtelɪdʒənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=intelligent&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=intelligent&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "聪明的；有智力的；智能的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more intelligent"
+    },
+    {
+      "name": "最高级",
+      "value": "most intelligent"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She's formidably intelligent.",
+      "zh": "她聪明绝顶。"
+    },
+    {
+      "en": "The dolphin is an intelligent animal.",
+      "zh": "海豚是聪明的动物。"
+    },
+    {
+      "en": "She's even more intelligent than her sister.",
+      "zh": "她甚至比她姐姐还聪明。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "智能的；聪明的；理解力强的",
+      "words": [
+        "wise",
+        "bright",
+        "clever",
+        "smart",
+        "understanding"
+      ]
+    }
+  ]
+}

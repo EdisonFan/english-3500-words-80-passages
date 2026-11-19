@@ -1,0 +1,65 @@
+{
+  "word": "appreciate",
+  "found": true,
+  "phonetic_uk": "əˈpriːʃieɪt",
+  "phonetic_us": "əˈpriːʃieɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=appreciate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=appreciate&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "欣赏，鉴赏；理解，明白；感谢，感激；升值，增值"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "appreciates"
+    },
+    {
+      "name": "现在分词",
+      "value": "appreciating"
+    },
+    {
+      "name": "过去式",
+      "value": "appreciated"
+    },
+    {
+      "name": "过去分词",
+      "value": "appreciated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Anyone can appreciate our music.",
+      "zh": "任何人都能欣赏我们的音乐。"
+    },
+    {
+      "en": "I'd appreciate your input on this.",
+      "zh": "我将感激你在这方面的投入。"
+    },
+    {
+      "en": "I'd appreciate some help.",
+      "zh": "如果有人帮忙我将非常感激。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "欣赏；感激；领会；鉴别",
+      "words": [
+        "enjoy",
+        "see",
+        "grasp"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "增值；涨价",
+      "words": [
+        "value added",
+        "rise in price"
+      ]
+    }
+  ]
+}

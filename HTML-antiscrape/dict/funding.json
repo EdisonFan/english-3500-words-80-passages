@@ -1,0 +1,34 @@
+{
+  "word": "funding",
+  "found": true,
+  "phonetic_uk": "ˈfʌndɪŋ",
+  "phonetic_us": "ˈfʌndɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=funding&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=funding&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "专款，拨款"
+    },
+    {
+      "pos": "v.",
+      "meaning": "资助，为……提供资金（fund 的现在分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They risk losing the next tranche of funding.",
+      "zh": "他们冒着失去下一批资金的风险。"
+    },
+    {
+      "en": "Could we get back to the question of funding?",
+      "zh": "我们回到资金问题上来好吗？"
+    },
+    {
+      "en": "She's trying to rustle up some funding for the project.",
+      "zh": "她正设法尽快为这个项目筹集一些资金。"
+    }
+  ],
+  "synonyms": []
+}

@@ -1,0 +1,48 @@
+{
+  "word": "old",
+  "found": true,
+  "phonetic_uk": "əʊld",
+  "phonetic_us": "oʊld",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=old&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=old&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "（人）……岁的，（事物）存在……久的；年老的，年纪大的；衰老的；古老的，历史悠久的；陈旧的；过去的，从前的；原来（属于自己的）的；结识久的；<非正式>（表示亲昵）老……；（语言形式）古的，早期的；老派的，守旧的；老一套的，经历多次的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "老年人；某个年龄段的人；古时"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Old）（英）奥尔德（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Old houses are often damp.",
+      "zh": "老房子大多都潮湿。"
+    },
+    {
+      "en": "Old bones break easily.",
+      "zh": "老骨头容易骨折。"
+    },
+    {
+      "en": "It's a lovely old farm.",
+      "zh": "那是个宜人的老农场。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "陈旧的，古老的；年老的",
+      "words": [
+        "ancient",
+        "aged",
+        "advanced"
+      ]
+    }
+  ]
+}

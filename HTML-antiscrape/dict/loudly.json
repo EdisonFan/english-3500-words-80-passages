@@ -1,0 +1,39 @@
+{
+  "word": "loudly",
+  "found": true,
+  "phonetic_uk": "ˈlaʊdli",
+  "phonetic_us": "ˈlaʊdli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=loudly&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=loudly&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "大声地，响亮地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Guy sneezed loudly. 'Excuse me,' he said.",
+      "zh": "盖伊大声打了个喷嚏，然后说了声“对不起”。"
+    },
+    {
+      "en": "She fell over and swore loudly.",
+      "zh": "她摔倒了，大骂了一声。"
+    },
+    {
+      "en": "The shop bell jangled loudly.",
+      "zh": "商店的钟发出丁零当啷的巨大响声。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "大声地，响亮地",
+      "words": [
+        "aloud",
+        "ringingly"
+      ]
+    }
+  ]
+}

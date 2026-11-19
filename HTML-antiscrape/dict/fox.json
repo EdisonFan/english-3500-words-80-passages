@@ -1,0 +1,68 @@
+{
+  "word": "fox",
+  "found": true,
+  "phonetic_uk": "fɒks",
+  "phonetic_us": "fɑːks",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fox&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fox&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "狐狸；狐裘；狡猾的人；<非正式> 妖精，性感的人；福克斯族，福克斯族语；<非正式>妖精，性感的人"
+    },
+    {
+      "pos": "v.",
+      "meaning": "欺骗，耍弄；把……难住，使……猜不透"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】  （Fox） （英、美、德、丹、爱）福克斯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "foxes或fox"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He was as cunning as a fox.",
+      "zh": "他像狐狸一样狡猾。"
+    },
+    {
+      "en": "The boss is a wily old fox.",
+      "zh": "老板是个狡猾的老狐狸。"
+    },
+    {
+      "en": "He's a wily old fox.",
+      "zh": "他是个诡计多端的老狐狸。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "欺骗；使变酸",
+      "words": [
+        "sell",
+        "kid"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[脊椎]狐狸；狡猾的人",
+      "words": [
+        "renard",
+        "serpent"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "假装；耍狡猾手段",
+      "words": [
+        "act",
+        "make as if"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "frames",
+  "found": true,
+  "phonetic_uk": "freɪmz",
+  "phonetic_us": "freɪmz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=frames&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=frames&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[计][电子][通信] 帧，[电影] 画面；[建][计] 框架；眼镜架（frame 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The window frames had begun to warp.",
+      "zh": "窗框已经开始变形。"
+    },
+    {
+      "en": "The paint was peeling on the window frames.",
+      "zh": "窗框上的油漆正在剥落。"
+    },
+    {
+      "en": "He was wearing new glasses with gold wire frames.",
+      "zh": "他戴着一副新的金丝框眼镜。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "帧，画面；框架；眼镜架（frame的复数）",
+      "words": [
+        "formers"
+      ]
+    }
+  ]
+}

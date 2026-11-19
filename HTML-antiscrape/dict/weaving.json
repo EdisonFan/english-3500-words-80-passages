@@ -1,0 +1,55 @@
+{
+  "word": "weaving",
+  "found": true,
+  "phonetic_uk": "ˈwiːvɪŋ",
+  "phonetic_us": "ˈwiːvɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=weaving&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=weaving&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "编织；纺织物"
+    },
+    {
+      "pos": "v.",
+      "meaning": "编，织；（用……）编成；编造（故事等）；迂回行进（weave的现在分词）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Weaving）（美、英、加、澳、法）威文（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She is skilled at spinning and weaving.",
+      "zh": "她是纺织能手。"
+    },
+    {
+      "en": "Weaving and knitting are traditional cottage industries.",
+      "zh": "编织和针织是传统的家庭手工业。"
+    },
+    {
+      "en": "Originally, silkworm farming was solely restricted to women, and it was they who were responsible for the growing, harvesting and weaving.",
+      "zh": "最初，养蚕只是妇女的工作，她们负责养蚕、收割和织布。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "织动，编织",
+      "words": [
+        "intertexture",
+        "kintting"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "编织，组合（weave的ing形式）",
+      "words": [
+        "compounding",
+        "knitting"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "word": "rates",
+  "found": true,
+  "phonetic_uk": "reɪts",
+  "phonetic_us": "reɪts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=rates&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=rates&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "价格；[数]比率；等级（rate 的复数形式）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "认为，看做（rate 的第三人称单数形式）；评估；给……估价"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Rates）人名；（西）拉特斯"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Interest rates came down today.",
+      "zh": "利率今天下降了。"
+    },
+    {
+      "en": "Illegitimacy rates are soaring.",
+      "zh": "非婚生育率正在激增。"
+    },
+    {
+      "en": "Interest rates should come down.",
+      "zh": "利率应下降。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "价格；比率；等级（rate的复数形式）",
+      "words": [
+        "figures",
+        "prices",
+        "grades"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "认为，看做（rate的第三人称单数形式）；评估；给…估价",
+      "words": [
+        "believes",
+        "views"
+      ]
+    }
+  ]
+}

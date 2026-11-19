@@ -1,0 +1,51 @@
+{
+  "word": "messaging",
+  "found": true,
+  "phonetic_uk": "ˈmesɪdʒɪŋ",
+  "phonetic_us": "ˈmesɪdʒɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=messaging&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=messaging&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（计算机的）信息收发，电子邮件的发送和处理"
+    },
+    {
+      "pos": "v.",
+      "meaning": "发送；报信（message 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Messaging allows real-time communication by keyboard with up to five people at any one time.",
+      "zh": "信息的发送能使最多五个人同时通过键盘进行实时交流。"
+    },
+    {
+      "en": "I think text messaging actually sort of has to do with your age.",
+      "zh": "我觉得发短信实际上和你的年龄也有一定的关系。"
+    },
+    {
+      "en": "Yeah, I think text-messaging actually sort of has to do with your age.",
+      "zh": "是的，我觉得发短信实际上和你的年龄有关。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "消息传送；通知；信息传送",
+      "words": [
+        "advice",
+        "information",
+        "notice"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "发送；报信（message的ing形式）",
+      "words": [
+        "sending"
+      ]
+    }
+  ]
+}

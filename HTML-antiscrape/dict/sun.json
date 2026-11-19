@@ -1,0 +1,74 @@
+{
+  "word": "sun",
+  "found": true,
+  "phonetic_uk": "sʌn",
+  "phonetic_us": "sʌn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sun&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sun&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "太阳（the sun）；日光，阳光；恒星；<文>成功，荣耀；<文>一天，一年；<文>被视为荣誉（或灵感、理解）源泉的人（或物）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "晒太阳，（尤指）日光浴"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Sun）（中）孙（普通话·威妥玛），（柬）孙，（缅）素，（土）松（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "suns"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "suns"
+    },
+    {
+      "name": "现在分词",
+      "value": "sunning"
+    },
+    {
+      "name": "过去式",
+      "value": "sunned"
+    },
+    {
+      "name": "过去分词",
+      "value": "sunned"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The sun disappeared from view.",
+      "zh": "太阳看不见了。"
+    },
+    {
+      "en": "Clouds blotted out the sun.",
+      "zh": "云遮住了太阳。"
+    },
+    {
+      "en": "The sun came out, briefly.",
+      "zh": "太阳出来了，时间很短。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[天]太阳",
+      "words": [
+        "sonne"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "[天]晒太阳",
+      "words": [
+        "bask"
+      ]
+    }
+  ]
+}

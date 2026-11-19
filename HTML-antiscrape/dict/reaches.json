@@ -1,0 +1,30 @@
+{
+  "word": "reaches",
+  "found": true,
+  "phonetic_uk": "ˈriːtʃɪz",
+  "phonetic_us": "ˈriːtʃɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=reaches&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=reaches&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "到达，抵达；被看见，被听到；达到（特定的水平或数量）（reach 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The snake usually reaches a length of 100 cm.",
+      "zh": "蛇一般长达100厘米。"
+    },
+    {
+      "en": "An alarm sounds when the temperature reaches a predetermined level.",
+      "zh": "温度一达到预设的度数，警报就会响起来。"
+    },
+    {
+      "en": "Performance is lowest between 3 a.m. and 5 a.m., and reaches a peak near midday.",
+      "zh": "工作状态凌晨3点到5点最差，近中午时分达到最高点。"
+    }
+  ],
+  "synonyms": []
+}

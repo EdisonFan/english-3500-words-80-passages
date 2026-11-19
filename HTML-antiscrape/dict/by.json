@@ -1,0 +1,50 @@
+{
+  "word": "by",
+  "found": true,
+  "phonetic_uk": "baɪ",
+  "phonetic_us": "baɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=by&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=by&type=2",
+  "defs": [
+    {
+      "pos": "prep.",
+      "meaning": "由，被；通过，凭借……；相差；在……旁边；到……之前；抓着（身体或东西某个部位）；按照，依据；以……计；在……期间；在（某处）短暂停留；乘以，除以；以……名义（发誓）；就（本性、职业或出身）而言"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "经过"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "8 is divisible by 2 and 4, but not by 3.",
+      "zh": "8可被2和4除尽，但不能被3除尽。"
+    },
+    {
+      "en": "They sleep by day and hunt by night.",
+      "zh": "他们白天睡觉，夜晚捕猎。"
+    },
+    {
+      "en": "He was a loner by nature and by inclination.",
+      "zh": "他天性不喜交际，且自己也无意于此。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "prep.",
+      "meaning": "通过；被；依据；经由；在附近；在……之前",
+      "words": [
+        "via",
+        "THRU through"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "通过；经过；附近；白俄罗斯",
+      "words": [
+        "past"
+      ]
+    }
+  ]
+}

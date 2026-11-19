@@ -1,0 +1,39 @@
+{
+  "word": "stressful",
+  "found": true,
+  "phonetic_uk": "ˈstresf(ə)l",
+  "phonetic_us": "ˈstresf(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=stressful&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=stressful&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "紧张的，压力大的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Many people thrive on a stressful lifestyle.",
+      "zh": "许多人喜欢有压力的生活方式。"
+    },
+    {
+      "en": "It's a very stressful situation for everyone concerned.",
+      "zh": "这对所有相关人员来说都是一个非常有压力的情况。"
+    },
+    {
+      "en": "Having aged relatives to stay in your house can be quite stressful.",
+      "zh": "年迈的亲戚住在家里有时压力相当大。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "紧张的；有压力的",
+      "words": [
+        "intense",
+        "tense"
+      ]
+    }
+  ]
+}

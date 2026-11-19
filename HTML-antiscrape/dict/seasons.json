@@ -1,0 +1,39 @@
+{
+  "word": "seasons",
+  "found": true,
+  "phonetic_uk": "ˈsiːz(ə)nz",
+  "phonetic_us": "ˈsiːznz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=seasons&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=seasons&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[天] 季节，四季"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I love the seasons there.",
+      "zh": "我爱这里的四季。"
+    },
+    {
+      "en": "The seasons will change.",
+      "zh": "季节会改变。"
+    },
+    {
+      "en": "There're four seasons.",
+      "zh": "有四个季节。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "季节，四季",
+      "words": [
+        "Saison",
+        "Yoki"
+      ]
+    }
+  ]
+}

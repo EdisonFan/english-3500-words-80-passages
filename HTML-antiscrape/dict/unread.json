@@ -1,0 +1,38 @@
+{
+  "word": "unread",
+  "found": true,
+  "phonetic_uk": "ˌʌnˈred",
+  "phonetic_us": "ˌʌnˈred",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=unread&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=unread&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "未经阅读的；无学问的，读书不多的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I painfully realized most of my books went unread.",
+      "zh": "我痛苦地意识到我的大部分书都没读。"
+    },
+    {
+      "en": "The first has all the books that are unread and untouched.",
+      "zh": "第一种人所有的书都没读过也没碰过。"
+    },
+    {
+      "en": "The excessive emphasis on scholarship generates many unread books and mediocre articles in academic journals.",
+      "zh": "对学术的过度重视，导致学术期刊上出现了许多未读的书籍和平庸的文章。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "未经阅读的；无学问的，读书不多的",
+      "words": [
+        "unlettered"
+      ]
+    }
+  ]
+}

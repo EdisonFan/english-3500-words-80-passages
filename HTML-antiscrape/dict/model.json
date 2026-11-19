@@ -1,0 +1,86 @@
+{
+  "word": "model",
+  "found": true,
+  "phonetic_uk": "ˈmɒd(ə)l",
+  "phonetic_us": "ˈmɑːd(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=model&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=model&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "模型；模式；（机器等的）型号；模范，典型；模特儿；样本，范例；（小说中人物或地点的）原型；（著名设计师设计的）款式"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（为艺术家）当模特儿；模特儿展示（服装）；（用黏土、木头等）做……的模型，塑造；（用计算机）做出（情景、事件）的模型；使仿效，使模仿"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "模范的，榜样的；模型的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Model）（英、德、俄）莫德尔 (人名)"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "models"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "models"
+    },
+    {
+      "name": "现在分词",
+      "value": "modelling或modeling"
+    },
+    {
+      "name": "过去式",
+      "value": "modelled或modeled"
+    },
+    {
+      "name": "过去分词",
+      "value": "modelled或modeled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "There she began to model in clay.",
+      "zh": "她开始在那儿用黏土做模型。"
+    },
+    {
+      "en": "I made a full-size cardboard model.",
+      "zh": "我做了一个和原物一样大小的硬纸板模型。"
+    },
+    {
+      "en": "I got to drive the latest model.",
+      "zh": "我得以驾驶最新式的车。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "模型；典型；模范；模特儿；样式",
+      "words": [
+        "matrix",
+        "former",
+        "shape",
+        "fashion",
+        "type"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "模拟；塑造；模仿",
+      "words": [
+        "mold",
+        "simulate",
+        "pattern",
+        "form",
+        "imitate"
+      ]
+    }
+  ]
+}

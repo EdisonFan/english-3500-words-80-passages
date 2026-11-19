@@ -1,0 +1,42 @@
+{
+  "word": "equally",
+  "found": true,
+  "phonetic_uk": "ˈiːkwəli",
+  "phonetic_us": "ˈiːkwəli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=equally&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=equally&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "（程度）相当地，同样地；平均地，相等地；（用于补充观点）同样（重要）地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Diet and exercise are equally important.",
+      "zh": "饮食和锻炼同样重要。"
+    },
+    {
+      "en": "All these techniques are equally effective.",
+      "zh": "所有这些方法都同等有效。"
+    },
+    {
+      "en": "We try to treat every member of staff equally.",
+      "zh": "我们尽可能平等对待每一位工作人员。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "同样地；相等地，平等地；公平地",
+      "words": [
+        "similarly",
+        "fairly",
+        "same",
+        "as",
+        "likewise"
+      ]
+    }
+  ]
+}

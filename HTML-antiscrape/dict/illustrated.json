@@ -1,0 +1,43 @@
+{
+  "word": "illustrated",
+  "found": true,
+  "phonetic_uk": "ˈɪləstreɪtɪd",
+  "phonetic_us": "ˈɪləstreɪtɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=illustrated&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=illustrated&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "加插图于……；（用示例、图画等）说明；表明……的真实（或存在）；为……例证（illustrate 的过去式及过去分词）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "有插图的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Each book is beautifully illustrated.",
+      "zh": "每本书都配有精美的插图。"
+    },
+    {
+      "en": "An illustrated catalogue accompanies the exhibition.",
+      "zh": "展览会有插图目录。"
+    },
+    {
+      "en": "He's just written a book, nicely illustrated and not too technical.",
+      "zh": "他刚写完一本书，插图精美，专业性也不是太强。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "阐明；举例说明；给…加插图（illustrate的过去分词）",
+      "words": [
+        "stated",
+        "clarified"
+      ]
+    }
+  ]
+}

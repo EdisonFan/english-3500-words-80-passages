@@ -1,0 +1,51 @@
+{
+  "word": "spending",
+  "found": true,
+  "phonetic_uk": "ˈspendɪŋ",
+  "phonetic_us": "ˈspendɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=spending&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=spending&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（尤指政府或组织的）支出，开销，花费"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用，花（钱）；花（时间），度过；花费，消耗，用尽（精力等）（spend的现在分词形式）；花费，消耗，用尽（精力等）（spend 的现在分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "George was spending very freely.",
+      "zh": "乔治花钱大手大脚。"
+    },
+    {
+      "en": "Spending has increased year on year.",
+      "zh": "与去年同期比较，开销增加了。"
+    },
+    {
+      "en": "They announced cuts in public spending.",
+      "zh": "他们宣布缩减公共开支。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "花费；开销",
+      "words": [
+        "expenditure",
+        "payout"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "花费；度过（spend的现在分词形式）",
+      "words": [
+        "living",
+        "costing"
+      ]
+    }
+  ]
+}

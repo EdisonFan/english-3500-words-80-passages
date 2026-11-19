@@ -1,0 +1,48 @@
+{
+  "word": "rural",
+  "found": true,
+  "phonetic_uk": "ˈrʊərəl",
+  "phonetic_us": "ˈrʊrəl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=rural&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=rural&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "农村的，乡村的；有乡村特色的，有乡土气息的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more rural"
+    },
+    {
+      "name": "最高级",
+      "value": "most rural"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It was a delightful rural scene.",
+      "zh": "那是赏心悦目的乡村风光。"
+    },
+    {
+      "en": "He has a romantic view of rural society.",
+      "zh": "他对于乡村地区有种不切实际的看法。"
+    },
+    {
+      "en": "Agriculture forms the backbone of the rural economy.",
+      "zh": "农业是农村经济的基础。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "农村的，乡下的；田园的，有乡村风味的",
+      "words": [
+        "country",
+        "sylvan"
+      ]
+    }
+  ]
+}

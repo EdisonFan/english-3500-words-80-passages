@@ -1,0 +1,91 @@
+{
+  "word": "put",
+  "found": true,
+  "phonetic_uk": "pʊt",
+  "phonetic_us": "pʊt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=put&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=put&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "放，放置；猛推，用力插入；将……送往，安置；使与……连接，安装；写下；使处于（某状态或情况）；使受到……的影响，把……施加给；给予（重视、信任、价值等）；把……视为（或列为）；表述，提出；使工作，使用；投掷（铁饼），推（铅球）；（船）（沿某个方向）行驶；谱曲"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（铅球或铁饼的）投掷，推；（股票）put option 的简称"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "固定不动的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Put）（泰、缅）布（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "puts"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "puts"
+    },
+    {
+      "name": "现在分词",
+      "value": "putting"
+    },
+    {
+      "name": "过去式",
+      "value": "put"
+    },
+    {
+      "name": "过去分词",
+      "value": "put"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The operator will put you through.",
+      "zh": "接线员将为你接通电话。"
+    },
+    {
+      "en": "Danny put down his glass.",
+      "zh": "丹尼放下他的玻璃杯。"
+    },
+    {
+      "en": "She's put her hair up.",
+      "zh": "她把头发挽在头上。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "放；表达；移动；安置；赋予",
+      "words": [
+        "set",
+        "establish",
+        "voice",
+        "gift",
+        "station"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "出发；击；航行；发芽",
+      "words": [
+        "leave",
+        "set out"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "掷；笨蛋；投击；怪人",
+      "words": [
+        "simple",
+        "turkey"
+      ]
+    }
+  ]
+}

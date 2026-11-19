@@ -1,0 +1,87 @@
+{
+  "word": "bet",
+  "found": true,
+  "phonetic_uk": "bet",
+  "phonetic_us": "bet",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bet&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bet&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "打赌，赌博；<非正式>敢肯定"
+    },
+    {
+      "pos": "n.",
+      "meaning": "下注；赌金；预计，猜想；<非正式>有可能成功的人选（或备选行动）"
+    },
+    {
+      "pos": "abbr.",
+      "meaning": "在……之间（between）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Bet）（美）贝特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "bets"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "bets"
+    },
+    {
+      "name": "现在分词",
+      "value": "betting"
+    },
+    {
+      "name": "过去式",
+      "value": "bet或betted"
+    },
+    {
+      "name": "过去分词",
+      "value": "bet或betted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I'll bet they have yummy ice cream.",
+      "zh": "我打赌他们有好吃的冰激淋。"
+    },
+    {
+      "en": "It's a fair bet that they won't turn up.",
+      "zh": "我敢打赌，他们不会出席。"
+    },
+    {
+      "en": "What's he like? I bet he's really dreamy.",
+      "zh": "他长得如何？我敢说他一定很俊。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "打赌，赌注；被打赌的事物",
+      "words": [
+        "stake"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "打赌；敢断定，确信",
+      "words": [
+        "make sure",
+        "be sure of"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "打赌",
+      "words": [
+        "lay",
+        "stake"
+      ]
+    }
+  ]
+}

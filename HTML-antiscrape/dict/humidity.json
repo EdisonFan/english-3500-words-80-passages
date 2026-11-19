@@ -1,0 +1,39 @@
+{
+  "word": "humidity",
+  "found": true,
+  "phonetic_uk": "hjuːˈmɪdəti",
+  "phonetic_us": "hjuːˈmɪdəti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=humidity&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=humidity&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "潮湿，湿气；湿度"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The humidity is relatively low.",
+      "zh": "湿度相对较低。"
+    },
+    {
+      "en": "The humidity was becoming unbearable.",
+      "zh": "这种潮湿使人越来越��以忍受了。"
+    },
+    {
+      "en": "The heat and humidity were insufferable.",
+      "zh": "炎热与潮湿令人难以忍受。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[气象]湿度；湿气",
+      "words": [
+        "wet",
+        "moisture capacity"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "nervous",
+  "found": true,
+  "phonetic_uk": "ˈnɜːvəs",
+  "phonetic_us": "ˈnɜːrvəs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=nervous&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=nervous&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "神经紧张的，担忧的；神经质的，神经过敏的；神经的，神经系统的；（疾病）由精神紧张引起的，由精神压力造成的；易激动的，易兴奋的；强健有力的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more nervous"
+    },
+    {
+      "name": "最高级",
+      "value": "most nervous"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She flicked him a nervous glance.",
+      "zh": "她紧张不安地瞟了他一眼。"
+    },
+    {
+      "en": "She was of a nervous disposition.",
+      "zh": "她生性容易紧张。"
+    },
+    {
+      "en": "She gave a nervous giggle.",
+      "zh": "她发出紧张的傻笑。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[解剖]神经的；紧张不安的；强健有力的",
+      "words": [
+        "neural",
+        "jittery"
+      ]
+    }
+  ]
+}

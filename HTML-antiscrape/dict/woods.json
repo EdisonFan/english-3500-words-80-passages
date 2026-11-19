@@ -1,0 +1,46 @@
+{
+  "word": "woods",
+  "found": true,
+  "phonetic_uk": "wʊdz",
+  "phonetic_us": "wʊdz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=woods&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=woods&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（林）树林，森林；木头"
+    },
+    {
+      "pos": "v.",
+      "meaning": "供以木材；用树木覆盖（wood的第三人称单数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Woods）（美、加、英）伍兹（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Meadows bordered the path to the woods.",
+      "zh": "通往树林的小径两边都是草坪。"
+    },
+    {
+      "en": "They made themselves a den in the woods.",
+      "zh": "他们在树林里为自己搭了个窝，在里面玩。"
+    },
+    {
+      "en": "He trudged through the rain-soaked woods.",
+      "zh": "他在被雨淋透的树林里艰难地走着。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[林]树林；森林；木头（wood的复数）",
+      "words": [
+        "forests"
+      ]
+    }
+  ]
+}

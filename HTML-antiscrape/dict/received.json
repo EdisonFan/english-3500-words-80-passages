@@ -1,0 +1,34 @@
+{
+  "word": "received",
+  "found": true,
+  "phonetic_uk": "rɪˈsiːvd",
+  "phonetic_us": "rɪˈsiːvd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=received&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=received&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "<正式> 广为接受的，公认的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "得到，收到；遭受，经受（特定待遇）；对……作出反应（receive 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They received a negative reply.",
+      "zh": "他们得到一个否定的答复。"
+    },
+    {
+      "en": "They received no help whatever.",
+      "zh": "他们没有得到一丁点儿帮助。"
+    },
+    {
+      "en": "We received a letter of apology.",
+      "zh": "我们收到了一封道歉信。"
+    }
+  ],
+  "synonyms": []
+}

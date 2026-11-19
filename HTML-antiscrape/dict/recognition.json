@@ -1,0 +1,44 @@
+{
+  "word": "recognition",
+  "found": true,
+  "phonetic_uk": "ˌrekəɡˈnɪʃn",
+  "phonetic_us": "ˌrekəɡˈnɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=recognition&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=recognition&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "承认，接受；表彰，赞誉；认出，识别；（政府对他国的）外交认可"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "recognitions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She gained only minimal recognition for her work.",
+      "zh": "她的工作仅仅得到极少的赞誉。"
+    },
+    {
+      "en": "Her unusual talent gained her worldwide recognition.",
+      "zh": "她非凡的才能举世公认。"
+    },
+    {
+      "en": "There is a general recognition of the urgent need for reform.",
+      "zh": "人们普遍认识到迫切需要改革。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计][免疫]识别；承认，认出；重视；赞誉；公认",
+      "words": [
+        "identification",
+        "discernment"
+      ]
+    }
+  ]
+}

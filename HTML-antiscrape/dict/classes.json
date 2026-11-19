@@ -1,0 +1,43 @@
+{
+  "word": "classes",
+  "found": true,
+  "phonetic_uk": "ˈklɑːsɪz",
+  "phonetic_us": "ˈklæsɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=classes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=classes&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "等级；课程；种类；纲；（大学成绩的）等级（class 的复数）"
+    },
+    {
+      "pos": "vt.",
+      "meaning": "将……分类（class 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I'm taking classes in self-defence.",
+      "zh": "我在上课学防身术。"
+    },
+    {
+      "en": "Are there any classes I could observe?",
+      "zh": "有我可以观摩的课吗？"
+    },
+    {
+      "en": "Her mother enrolled her in acting classes.",
+      "zh": "她母亲给她报了表演班。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "级别，阶级（class复数形式）",
+      "words": [
+        "grade",
+        "totem pole"
+      ]
+    }
+  ]
+}

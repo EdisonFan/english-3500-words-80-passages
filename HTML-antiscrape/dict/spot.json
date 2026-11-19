@@ -1,0 +1,87 @@
+{
+  "word": "spot",
+  "found": true,
+  "phonetic_uk": "spɒt",
+  "phonetic_us": "spɑːt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=spot&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=spot&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "地点，场所；点，斑点；污点，污渍；丘疹，疱疹；某演员的固定节目；排名位置； <英>少量，一点；几滴，少许（液体）；困境，窘境；现货交易，现金交易；聚光灯（spotlight 的简称）；<美>（多米诺牌、纸牌或骰子上的）点；调灰泥板，调石膏板；<美，非正式>（特定面值的）钞票；（英足）点球点"
+    },
+    {
+      "pos": "v.",
+      "meaning": "看见，注意到；让分，让步；飘了几滴雨；<美，非正式>借（钱）给；使有斑点，使有污迹；稀疏地点缀；在场监护（运动员）；（军）确定敌人的位置；将（球）放在适当位置"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "现货交易的，立即支付的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "spots或spot"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "spots"
+    },
+    {
+      "name": "现在分词",
+      "value": "spotting"
+    },
+    {
+      "name": "过去式",
+      "value": "spotted"
+    },
+    {
+      "name": "过去分词",
+      "value": "spotted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He answered the question on the spot.",
+      "zh": "他当场就回答了那个问题。"
+    },
+    {
+      "en": "X marks the spot.",
+      "zh": "X标出了所说的地点。"
+    },
+    {
+      "en": "Vicenzo failed to spot the error.",
+      "zh": "维森佐没能发现这个错误。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "地点；斑点",
+      "words": [
+        "location",
+        "site",
+        "where"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "认出；弄脏；用灯光照射",
+      "words": [
+        "recognize",
+        "soil",
+        "mud",
+        "dirty"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "[贸易]现场的；现货买卖的",
+      "words": [
+        "on-the-spot",
+        "on-site"
+      ]
+    }
+  ]
+}

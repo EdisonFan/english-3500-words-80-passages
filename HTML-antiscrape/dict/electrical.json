@@ -1,0 +1,34 @@
+{
+  "word": "electrical",
+  "found": true,
+  "phonetic_uk": "ɪˈlektrɪk(ə)l",
+  "phonetic_us": "ɪˈlektrɪkl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=electrical&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=electrical&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "电的，与电有关的；生产或销售电器的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "电气设备，电路；电器公司发行的股票"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The company is a world leader in electrical goods.",
+      "zh": "这家公司的电器产品在全世界首屈一指。"
+    },
+    {
+      "en": "The fire was started by an electrical short-circuit.",
+      "zh": "火灾是由电线短路引发的。"
+    },
+    {
+      "en": "The test records the electrical activity of the brain.",
+      "zh": "这个测试显示出大脑的电流活动。"
+    }
+  ],
+  "synonyms": []
+}

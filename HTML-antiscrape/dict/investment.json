@@ -1,0 +1,44 @@
+{
+  "word": "investment",
+  "found": true,
+  "phonetic_uk": "ɪnˈvestmənt",
+  "phonetic_us": "ɪnˈvestmənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=investment&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=investment&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "投资；值得买的东西；（时间、精力的）投入；<旧>包围，封锁"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "investments"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Training is an investment not a cost.",
+      "zh": "培训是一种投资而不是一种花费。"
+    },
+    {
+      "en": "Investment is all about running risks.",
+      "zh": "投资就是要冒风险。"
+    },
+    {
+      "en": "Investment is becoming a chancy business.",
+      "zh": "投资正在成为一项冒险的事业。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[经]投资；投入；封锁",
+      "words": [
+        "input",
+        "introjection"
+      ]
+    }
+  ]
+}

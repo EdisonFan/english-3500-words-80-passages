@@ -1,0 +1,72 @@
+{
+  "word": "clone",
+  "found": true,
+  "phonetic_uk": "kləʊn",
+  "phonetic_us": "kloʊn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=clone&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=clone&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（动植物的）无性繁殖，克隆；极为相似的人（或事物），复制品；仿制品，山寨货；复制器，仿制机；<非正式>外表或着装夸大男性气概的男同性恋者"
+    },
+    {
+      "pos": "v.",
+      "meaning": "克隆，使无性繁殖；盗用（他人的手机号码），非法复制"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "clones"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "clones"
+    },
+    {
+      "name": "现在分词",
+      "value": "cloning"
+    },
+    {
+      "name": "过去式",
+      "value": "cloned"
+    },
+    {
+      "name": "过去分词",
+      "value": "cloned"
+    }
+  ],
+  "examples": [
+    {
+      "en": "A team from the UK were the first to successfully clone an animal.",
+      "zh": "英国的一个小组率先克隆动物成功。"
+    },
+    {
+      "en": "He knows her clone may not have her temperament.",
+      "zh": "他知道她的克隆品可能没有她的气质。"
+    },
+    {
+      "en": "Every man wants his son to be somewhat of a clone.",
+      "zh": "每个男人都希望自己的儿子在某种程度上是自己的克隆体。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[生物]克隆；[植][农学][遗]无性系；无性繁殖；靠营养生殖而由母体分离繁殖的植物",
+      "words": [
+        "klon",
+        "asexual propagation"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[遗]无性繁殖，复制",
+      "words": [
+        "repeat",
+        "to duplicate"
+      ]
+    }
+  ]
+}

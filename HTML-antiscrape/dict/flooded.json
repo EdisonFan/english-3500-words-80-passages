@@ -1,0 +1,49 @@
+{
+  "word": "flooded",
+  "found": true,
+  "phonetic_uk": "ˈflʌdɪd",
+  "phonetic_us": "ˈflʌdɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=flooded&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=flooded&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（使）淹没在洪水中；被水淹没；（因洪水）迫使（某人）离开家园（或生意）；（江河、海洋）泛滥；（使引擎）汽化器溢油；子宫出血；（洪水般）涌现；充斥；把……装满（flood 的过去式及过去分词）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "被水淹没的；有大量……的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "A dam burst and flooded their villages.",
+      "zh": "一个大坝决堤，淹没了他们的村子。"
+    },
+    {
+      "en": "The kitchen flooded.",
+      "zh": "厨房被水淹了。"
+    },
+    {
+      "en": "The markets were flooded with contraband goods.",
+      "zh": "市场上充斥着走私物品。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "浸没的，淹没的；充斥；洪水浸没的；灌溉",
+      "words": [
+        "submersed"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "淹没（flood的过去分词）；发生水灾",
+      "words": [
+        "drowned"
+      ]
+    }
+  ]
+}

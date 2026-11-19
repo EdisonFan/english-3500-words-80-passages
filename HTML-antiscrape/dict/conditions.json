@@ -1,0 +1,44 @@
+{
+  "word": "conditions",
+  "found": true,
+  "phonetic_uk": "kənˈdɪʃ(ə)nz",
+  "phonetic_us": "kənˈdɪʃ(ə)nz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=conditions&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=conditions&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "条件，环境；疾病；条款（condition 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "训练，使习惯于；控制，制约；护理，保养；影响；加条件于（condition 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Weather conditions were fair.",
+      "zh": "天气状况晴好。"
+    },
+    {
+      "en": "Sanitary conditions are appalling.",
+      "zh": "卫生条件非常恶劣。"
+    },
+    {
+      "en": "These conditions no longer obtain.",
+      "zh": "这些条件不再适用。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计]条件（condition的复数）；情况",
+      "words": [
+        "criteria",
+        "circumstances",
+        "cases"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "word": "bookcase",
+  "found": true,
+  "phonetic_uk": "ˈbʊkkeɪs",
+  "phonetic_us": "ˈbʊkkeɪs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bookcase&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bookcase&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[家具] 书柜，书架"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "bookcases"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The bookcase is screwed to the wall.",
+      "zh": "书架用螺丝固定在墙上了。"
+    },
+    {
+      "en": "The bookcase fits neatly into the alcove.",
+      "zh": "书架正好放得进壁凹。"
+    },
+    {
+      "en": "The microphone was cunningly concealed in the bookcase.",
+      "zh": "话筒被巧妙地隐藏在书柜里。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[家具]书柜，书架",
+      "words": [
+        "book cabinet",
+        "credenza"
+      ]
+    }
+  ]
+}

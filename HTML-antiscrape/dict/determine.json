@@ -1,0 +1,66 @@
+{
+  "word": "determine",
+  "found": true,
+  "phonetic_uk": "dɪˈtɜːmɪn",
+  "phonetic_us": "dɪˈtɜːrmɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=determine&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=determine&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "决定，控制；查明，确定；下定决心；判决，裁定；求出，解出；限定；<古>终止"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "determines"
+    },
+    {
+      "name": "现在分词",
+      "value": "determining"
+    },
+    {
+      "name": "过去式",
+      "value": "determined"
+    },
+    {
+      "name": "过去分词",
+      "value": "determined"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You alone should determine what is right for you.",
+      "zh": "只有你应该决定什么对你是合适的。"
+    },
+    {
+      "en": "Genes determine the characteristics of every living thing.",
+      "zh": "基因决定每个生物的特征。"
+    },
+    {
+      "en": "The Baltic people have a right to determine their own future.",
+      "zh": "波罗的海人民有权决定他们自己的未来。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "决定；判决；使…下定决心",
+      "words": [
+        "condition",
+        "conclude"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "确定；决定；判决，终止",
+      "words": [
+        "identify",
+        "drop",
+        "finish",
+        "judge"
+      ]
+    }
+  ]
+}

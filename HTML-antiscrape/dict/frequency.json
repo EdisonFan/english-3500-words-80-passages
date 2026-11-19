@@ -1,0 +1,43 @@
+{
+  "word": "frequency",
+  "found": true,
+  "phonetic_uk": "ˈfriːkwənsi",
+  "phonetic_us": "ˈfriːkwənsi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=frequency&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=frequency&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "出现次数；频繁；频率"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "frequencies"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You can't hear waves of such a high frequency.",
+      "zh": "你听不到这么高频率的声波。"
+    },
+    {
+      "en": "The frequency of Kara's phone calls increased rapidly.",
+      "zh": "卡拉打电话的频率迅速增加。"
+    },
+    {
+      "en": "Objects like this turn up at sales with surprising frequency.",
+      "zh": "这样的东西在拍卖会上出人意料地频繁出现。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[物]频率；频繁",
+      "words": [
+        "periodicity"
+      ]
+    }
+  ]
+}

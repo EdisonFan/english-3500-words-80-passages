@@ -1,0 +1,72 @@
+{
+  "word": "regret",
+  "found": true,
+  "phonetic_uk": "rɪˈɡret",
+  "phonetic_us": "rɪˈɡret",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=regret&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=regret&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "懊悔，惋惜；（用于正式书面语）对......感到抱歉，对......感到遗憾；<古>对（损失或缺乏）感到痛惜"
+    },
+    {
+      "pos": "n.",
+      "meaning": "遗憾，惋惜；（因无法出席会议、聚会等的）致歉语"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "regrets"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "regrets"
+    },
+    {
+      "name": "现在分词",
+      "value": "regretting"
+    },
+    {
+      "name": "过去式",
+      "value": "regretted"
+    },
+    {
+      "name": "过去分词",
+      "value": "regretted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I regret some of my posts about President @realDonaldTrump last week. They went too far.",
+      "zh": "我对上周发布的一些关于总统@realDonaldTrump的帖子感到后悔。它们太过分了。"
+    },
+    {
+      "en": "I deeply regret what I said.",
+      "zh": "我非常后悔说了那些话。"
+    },
+    {
+      "en": "I came to regret my unconsidered remarks.",
+      "zh": "我对我那些考虑不周的言辞开始感到后悔。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "遗憾；抱歉；悲叹",
+      "words": [
+        "pity",
+        "sorriness"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "后悔；惋惜；哀悼",
+      "words": [
+        "grieve over",
+        "mourn over"
+      ]
+    }
+  ]
+}

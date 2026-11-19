@@ -1,0 +1,79 @@
+{
+  "word": "companion",
+  "found": true,
+  "phonetic_uk": "kəmˈpænjən",
+  "phonetic_us": "kəmˈpænjən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=companion&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=companion&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "同伴，伴侣；（受雇照料老人或病人的）陪护；成对的物品之一；同甘共苦的伙伴；（用于书名）指南，手册；伴星；最低级爵士"
+    },
+    {
+      "pos": "v.",
+      "meaning": "陪伴"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Companion）（英）康帕宁（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "companions"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "companions"
+    },
+    {
+      "name": "现在分词",
+      "value": "companioning"
+    },
+    {
+      "name": "过去式",
+      "value": "companioned"
+    },
+    {
+      "name": "过去分词",
+      "value": "companioned"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He was a good friend, a dependable companion.",
+      "zh": "他是个好朋友，一个可以信赖的同伴。"
+    },
+    {
+      "en": "Claude was a charming, sophisticated companion.",
+      "zh": "克劳德是个有魅力、见多识广的伙伴。"
+    },
+    {
+      "en": "You come over as a capable and amusing companion.",
+      "zh": "你让人觉得是一个能干而有趣的同伴。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "同伴；朋友；指南；手册",
+      "words": [
+        "friend",
+        "guide",
+        "fellow",
+        "manual",
+        "notebook"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "陪伴",
+      "words": [
+        "attend",
+        "keep company"
+      ]
+    }
+  ]
+}

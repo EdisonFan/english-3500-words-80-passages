@@ -1,0 +1,67 @@
+{
+  "word": "route",
+  "found": true,
+  "phonetic_uk": "ruːt",
+  "phonetic_us": "ruːt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=route&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=route&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "路线，航线；道路，路途；常规路线，固定路线；<美>（尤指作为送货工作的）例行拜访，递送路线；途径，方法；（用于美国城市间干线公路编号前）公路（Route）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "按特定路线发送（车辆、货物或乘客）；以......线路发送（电话或其他电子信号）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "routes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "routes"
+    },
+    {
+      "name": "现在分词",
+      "value": "routing或routeing"
+    },
+    {
+      "name": "过去式",
+      "value": "routed"
+    },
+    {
+      "name": "过去分词",
+      "value": "routed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The route is well signposted.",
+      "zh": "这条路线路标设置完善。"
+    },
+    {
+      "en": "They kept to the preset route.",
+      "zh": "他们沿着事先规划的路线前进。"
+    },
+    {
+      "en": "Which is the best route to take?",
+      "zh": "哪一条是最佳路线？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "路线；[航]航线；通道",
+      "words": [
+        "door",
+        "vector",
+        "exit",
+        "channel",
+        "thread"
+      ]
+    }
+  ]
+}

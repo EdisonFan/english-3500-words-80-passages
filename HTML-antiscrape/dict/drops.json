@@ -1,0 +1,49 @@
+{
+  "word": "drops",
+  "found": true,
+  "phonetic_uk": "drɒps",
+  "phonetic_us": "drɑːps",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=drops&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=drops&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "下降；滴剂；滴状物；下落物（drop 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使掉下；滴下；随口漏出（drop 的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "A few drops of green food colouring were added.",
+      "zh": "几滴绿色的食品色素被加进去了。"
+    },
+    {
+      "en": "And he had to have these drops in his eyes as well.",
+      "zh": "而且他还必须把这些药水滴进眼睛里。"
+    },
+    {
+      "en": "Wire the thermometers up to trigger off an alarm bell if the temperature drops.",
+      "zh": "把温度计的电线连接上，当温度下降时，就会触发警报。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "下降；滴剂；滴状物；下落物（drop的复数）",
+      "words": [
+        "descents"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "使掉下；滴下；随口漏出（drop的三单形式）",
+      "words": [
+        "drips"
+      ]
+    }
+  ]
+}

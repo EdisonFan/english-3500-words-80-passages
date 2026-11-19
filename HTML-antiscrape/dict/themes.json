@@ -1,0 +1,38 @@
+{
+  "word": "themes",
+  "found": true,
+  "phonetic_uk": "θiːmz",
+  "phonetic_us": "θiːmz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=themes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=themes&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（谈话、书籍、电影等的）题目，主题；（音乐的）主旋律；（电影、电视节目、广播节目的）主题音乐，主题曲（theme 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The opera twins the themes of love and death.",
+      "zh": "这出歌剧把爱与死的主题紧密结合在一起。"
+    },
+    {
+      "en": "Immigrant tales have always been popular themes in fiction.",
+      "zh": "移民故事一直是小说的流行主题。"
+    },
+    {
+      "en": "The poem encapsulates many of the central themes of her writing.",
+      "zh": "这首诗是对她许多著作的核心主题的概括。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "主题（theme的复数）；布景主题；桌面主题",
+      "words": [
+        "subjects"
+      ]
+    }
+  ]
+}

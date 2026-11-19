@@ -1,0 +1,44 @@
+{
+  "word": "athlete",
+  "found": true,
+  "phonetic_uk": "ˈæθliːt",
+  "phonetic_us": "ˈæθliːt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=athlete&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=athlete&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "运动员，体育健将；擅长运动的人"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "athletes"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Mark Spitz was a great athlete.",
+      "zh": "马克·斯皮茨是一名伟大的运动员。"
+    },
+    {
+      "en": "She is a natural athlete.",
+      "zh": "她是个天生的运动健将。"
+    },
+    {
+      "en": "The athlete tested positive for steroids.",
+      "zh": "这个运动员类固醇检测呈阳性。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "运动员，体育家；身强力壮的人",
+      "words": [
+        "player",
+        "sportsman"
+      ]
+    }
+  ]
+}

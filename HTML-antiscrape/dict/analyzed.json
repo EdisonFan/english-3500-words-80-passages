@@ -1,0 +1,30 @@
+{
+  "word": "analyzed",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˈænlˌaɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=analyzed&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=analyzed&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "分析（analyze 的过去式和过去分词）；检讨"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "It should be carefully analyzed.",
+      "zh": "这应当被仔细分析。"
+    },
+    {
+      "en": "The Clovis point may be the most analyzed artifact in archaeology.",
+      "zh": "克洛维斯矛头可能是考古学中被分析得最多的手工艺品。"
+    },
+    {
+      "en": "Wadati saw a similar pattern when he analyzed data on the intensity of shaking.",
+      "zh": "Wadati 在分析地震强度数据时也看到了类似的模式。"
+    }
+  ],
+  "synonyms": []
+}

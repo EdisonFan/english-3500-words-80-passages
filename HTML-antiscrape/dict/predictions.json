@@ -1,0 +1,39 @@
+{
+  "word": "predictions",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "prɪˈdɪkʃən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=predictions&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=predictions&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "预测，预言（prediction 复数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Many of his predictions are coming true.",
+      "zh": "他的许多预言都在成为现实。"
+    },
+    {
+      "en": "These results accord closely with our predictions.",
+      "zh": "这些结果和我们的预测相当一致。"
+    },
+    {
+      "en": "Their predictions turned out to be wide of the mark.",
+      "zh": "他们的预测后来发现太离谱了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "预测，预言（prediction复数形式）",
+      "words": [
+        "forecast",
+        "message"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "word": "occupation",
+  "found": true,
+  "phonetic_uk": "ˌɒkjuˈpeɪʃ(ə)n",
+  "phonetic_us": "ˌɑːkjuˈpeɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=occupation&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=occupation&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "工作，职业；消遣，业余活动；（尤指军队的）占领，控制；（房屋等地方的）居住，使用"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "<英>仅供土地占有者使用的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "occupations"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Her main occupation seems to be shopping.",
+      "zh": "逛商店购物似乎是她的主要消遣。"
+    },
+    {
+      "en": "I suppose I was looking for an occupation which was going to be an adventure.",
+      "zh": "我想我那时在寻找一份冒险型职业。"
+    },
+    {
+      "en": "You will be asked to fill in a form with details of your birth and occupation.",
+      "zh": "你会被要求填写一张有关你的出生和职业详情的表格。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[劳经]职业；占有；消遣；占有期",
+      "words": [
+        "profession",
+        "employment",
+        "career",
+        "calling",
+        "pursuit",
+        "entertainment"
+      ]
+    }
+  ]
+}

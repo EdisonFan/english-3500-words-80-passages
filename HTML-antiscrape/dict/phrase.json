@@ -1,0 +1,64 @@
+{
+  "word": "phrase",
+  "found": true,
+  "phonetic_uk": "freɪz",
+  "phonetic_us": "freɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=phrase&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=phrase&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "短语，词组；惯用语，习语；乐句；（芭蕾）舞句"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用……方式表达，以……措辞表达；把（乐曲）分成短句"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "phrases"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "phrases"
+    },
+    {
+      "name": "现在分词",
+      "value": "phrasing"
+    },
+    {
+      "name": "过去式",
+      "value": "phrased"
+    },
+    {
+      "name": "过去分词",
+      "value": "phrased"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We bought a Danish phrase book.",
+      "zh": "我买了一本丹麦常用语手册。"
+    },
+    {
+      "en": "Who coined the phrase 'desktop publishing'?",
+      "zh": "谁创造了desktop publishing（桌面出版）这个词组？"
+    },
+    {
+      "en": "The Italian phrase can be rendered as 'I did my best'.",
+      "zh": "这个意大利语的短语可以译为“我尽力了”。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "成语；习语；措词",
+      "words": [
+        "idiom",
+        "diction"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "word": "drone",
+  "found": true,
+  "phonetic_uk": "drəʊn",
+  "phonetic_us": "droʊn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=drone&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=drone&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "嗡嗡叫，嗡嗡响；雄蜂，公蜂；（遥控的）无人驾驶飞机（或导弹）；<非正式>单调乏味的讲话；（不劳动，依赖他人为生的）寄生虫；伴音（如风笛等发出的持续音），伴音管（或弦等）；干单调工作的人"
+    },
+    {
+      "pos": "v.",
+      "meaning": "嗡嗡叫，嗡嗡响；（人）絮絮叨叨地说，喋喋不休地说；混日子"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】  （Drone）（法）德罗纳（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "drones"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "drones"
+    },
+    {
+      "name": "现在分词",
+      "value": "droning"
+    },
+    {
+      "name": "过去式",
+      "value": "droned"
+    },
+    {
+      "name": "过去分词",
+      "value": "droned"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It helps the drone to give coffee.",
+      "zh": "它帮助无人机送咖啡。"
+    },
+    {
+      "en": "Who should be allowed to have a drone?",
+      "zh": "应该允许谁拥有无人机？"
+    },
+    {
+      "en": "In minutes, a drone will do tasks for you.",
+      "zh": "几分钟后，无人机就会为你完成任务。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "雄蜂；嗡嗡的声音；懒惰者",
+      "words": [
+        "do-nothing"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "嗡嗡作声；混日子",
+      "words": [
+        "goof off",
+        "hell around"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "低沉地说",
+      "words": [
+        "rumble"
+      ]
+    }
+  ]
+}

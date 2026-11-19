@@ -1,0 +1,43 @@
+{
+  "word": "crews",
+  "found": true,
+  "phonetic_uk": "kruːz",
+  "phonetic_us": "kruːz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=crews&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=crews&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "一起工作的人，一群做同一工作的人"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Crews）人名；（英）克鲁斯"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The abuse was directed at the TV crews.",
+      "zh": "辱骂是针对电视台工作人员的。"
+    },
+    {
+      "en": "Crews are working to plug a major oil leak.",
+      "zh": "机组人员正在努力堵一个漏油的大洞。"
+    },
+    {
+      "en": "Ambulance crews were tending to the injured.",
+      "zh": "救护车上的救护人员在照料受伤者。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "一起工作的人，一群做同一工作的人",
+      "words": [
+        "gangman",
+        "workfellow"
+      ]
+    }
+  ]
+}

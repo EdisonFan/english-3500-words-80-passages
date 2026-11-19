@@ -1,0 +1,55 @@
+{
+  "word": "door",
+  "found": true,
+  "phonetic_uk": "dɔː(r)",
+  "phonetic_us": "dɔːr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=door&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=door&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "门；门口，门道；建筑，门户 ；（尤与 open 或 unlock 连用）机会，可能性"
+    },
+    {
+      "pos": "v.",
+      "meaning": "车门撞击（骑自行车经过的人）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Door）（英）多尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "doors"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The door opens outwards.",
+      "zh": "这个门向外开。"
+    },
+    {
+      "en": "The door opens inwards.",
+      "zh": "门向里开。"
+    },
+    {
+      "en": "The door squeaked open.",
+      "zh": "门嘎吱一声开了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[建]门；家，户；门口；通道",
+      "words": [
+        "home",
+        "exit",
+        "gateway",
+        "channel",
+        "route"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "chances",
+  "found": true,
+  "phonetic_uk": "tʃɑ:nsiz",
+  "phonetic_us": "ˈtʃænsɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=chances&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=chances&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "机会；[数]机遇（chance 的复数形式）；可能性"
+    },
+    {
+      "pos": "vi.",
+      "meaning": "偶然发生，碰巧（chance 的三单形式）"
+    },
+    {
+      "pos": "vt.",
+      "meaning": "冒……的险（chance 的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I rated my chances as zero.",
+      "zh": "我觉得我根本没有机会。"
+    },
+    {
+      "en": "I am sceptical about his chances of winning.",
+      "zh": "我怀疑他取胜的可能性。"
+    },
+    {
+      "en": "I was still very doubtful about the chances for success.",
+      "zh": "我仍然不能肯定成功的可能性有多大。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "机会；机遇（chance的复数形式）；可能性",
+      "words": [
+        "opportunities",
+        "possibilities",
+        "occasions"
+      ]
+    }
+  ]
+}

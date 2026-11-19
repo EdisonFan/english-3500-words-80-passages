@@ -1,0 +1,61 @@
+{
+  "word": "just",
+  "found": true,
+  "phonetic_uk": "dʒʌst",
+  "phonetic_us": "dʒʌst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=just&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=just&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "正好，恰好；正当……时；不少于，同样；差一点就不，勉强；刚才，刚刚；正在，正要；只是，仅仅是；确实，完全；请，就；可能，也许；表示赞同"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "正义的，公平的；应得的，合理的；正确的，精确的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Just）（英）贾斯特，（法）朱斯特，（德、匈、波、捷、挪）尤斯特，（西）胡斯特（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We've only just arrived.",
+      "zh": "我们刚到。"
+    },
+    {
+      "en": "We've just redecorated.",
+      "zh": "我们刚刚重新装修过。"
+    },
+    {
+      "en": "She just won't relax.",
+      "zh": "她就是不放松。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "只是，仅仅；刚才，刚刚；正好，恰好；实在；刚要",
+      "words": [
+        "merely",
+        "simply",
+        "only",
+        "indeed",
+        "but"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "[法]公正的，合理的；正直的，正义的；正确的；公平的；应得的",
+      "words": [
+        "judicial",
+        "reasonable",
+        "logical",
+        "rational",
+        "possible"
+      ]
+    }
+  ]
+}

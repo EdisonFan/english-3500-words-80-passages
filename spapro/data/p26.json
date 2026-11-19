@@ -1,0 +1,274 @@
+{
+  "id": 26,
+  "stats": {
+    "words": 265,
+    "core": 44
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "{Cultural} {dining} etiquette ( (礼节) ) {might} surprise you with some of its important rules Don't get caught making an {embarrassing} mistake at a restaurant.Knowing some tips will help {ensure} that you have an {enjoyable} meal with friends or family—no matter where you are in the world.",
+      "cn": "跨 <u> 文化餐饮 </u> 礼仪中的一些重要规则 <u> 可能 </u> 会让你感到惊讶。不要在餐厅里被人发现犯 <u> 令人尴尬的 </u> 错误。了解一些小贴士将有助于 <u> 确保 </u> 你与朋友或家人享受一段 <u> 愉快的 </u> 用餐时光——无论你身处世界何地。"
+    },
+    {
+      "num": "02",
+      "en": "{Chopstick} Rules",
+      "cn": "<u> 筷子的 </u> 使用规则"
+    },
+    {
+      "num": "03",
+      "en": "The way you {handle} chopsticks is important to avoid {annoying} your {companions} .When you put them {down} between bites, always put them together so they are {parallel} to the {edge} of the table in {front} of you.Never stick them {upright} in your food or cross them as you use them.",
+      "cn": "你 <u> 使用 </u> 筷子的方式很重要，要避免 <u> 惹恼 </u> 和你一起用餐的 <u> 同伴 </u> 。用餐间隙放 <u> 下 </u> 筷子时，一定要把它们 <u> 并排 </u> 放在你 <u> 面前 </u> 的桌子 <u> 边缘 </u> 处。切勿将筷子 <u> 直立 </u> 插在食物中，也不要交叉使用筷子。"
+    },
+    {
+      "num": "04",
+      "en": "Hands or Utensils ( (餐具) )",
+      "cn": "用手还是用餐具"
+    },
+    {
+      "num": "05",
+      "en": "In India and the Middle {East} , it's {considered} {very} {rude} to {eat} with your left hand.People in {France} expect you to eat with a utensil in each hand.Mexicans consider it {inappropriate} to eat certain foods with utensils, {instead} preferring to use their hands.In Chile, you may never touch {any} food with your fingers.People in Thailand generally use {forks} only to {push} food {onto} their {spoons} .",
+      "cn": "在印度和中 <u> 东 </u> ，用左手 <u> 吃 </u> 饭被 <u> 认为 </u> 是 <u> 非常不礼貌的 </u> 。在 <u> 法国 </u> ，人们希望你每只手各拿一个餐具用餐。墨西哥人认为用餐具吃某些食物 <u> 不合适 </u> ，他们 <u> 反而 </u> 更喜欢用手。在智利，绝对不能用手指触碰 <u> 任何 </u> 食物。泰国人通常只用 <u> 叉子 </u> 将食物 <u> 推到勺子上 </u> 。"
+    },
+    {
+      "num": "06",
+      "en": "Making {Requests}",
+      "cn": "提出 <u> 请求 </u>"
+    },
+    {
+      "num": "07",
+      "en": "It may seem like a simple request to ask for {salt} and {pepper} {at} a meal.In Portugal, this would be a {serious} mistake, because it shows the {chef} that you don't like their {seasoning} skills. {Similarly} , in {Italy} , never ask for extra {cheese} to add to your dish.",
+      "cn": "<u> 在 </u> 用餐时索要 <u> 盐 </u> 和 <u> 胡椒粉 </u> 似乎是一个简单的请求。但在葡萄牙，这会是个 <u> 严重的 </u> 错误，因为这表明你不喜欢 <u> 厨师 </u> 的 <u> 调味 </u> 技巧。 <u> 同样 </u> ，在 <u> 意大利 </u> ，千万不要要求在菜肴中额外添加 <u> 奶酪 </u> 。"
+    },
+    {
+      "num": "08",
+      "en": "Some of these cultural dining etiquette rules may seem {random} and {strange} , but they are important in {various} {countries} .The more time you spend in any {given} country, the more comfortable you'll begin to feel with its {foreign} cultural practices.",
+      "cn": "这些跨文化用餐礼仪规则中，有些看似 <u> 随意 </u> 又 <u> 奇怪 </u> ，但在 <u> 各个国家 </u> 都很重要。你在某个 <u> 特定 </u> 国家待的时间越长，就会越习惯其 <u> 异国 </u> 文化习俗。 5NoOncib/NjiX02BpMIzP+Fxyt/ox+WDCb+dhfH7KaYaJ4u5RsVmLondVmcHiLum9J1BQErGzJvzqa5GEIz4ZA=="
+    }
+  ],
+  "vocab": [
+    {
+      "word": "cultural",
+      "type": "core",
+      "ctx": "与文化有关的，文化的"
+    },
+    {
+      "word": "dining",
+      "type": "outline",
+      "ctx": "进餐"
+    },
+    {
+      "word": "might",
+      "type": "outline",
+      "ctx": "可能"
+    },
+    {
+      "word": "embarrassing",
+      "type": "core",
+      "ctx": "令人尴尬的"
+    },
+    {
+      "word": "ensure",
+      "type": "outline",
+      "ctx": "保证，确保"
+    },
+    {
+      "word": "enjoyable",
+      "type": "core",
+      "ctx": "令人愉快的，有乐趣的"
+    },
+    {
+      "word": "chopstick",
+      "type": "outline",
+      "ctx": "[pl.] 筷子"
+    },
+    {
+      "word": "handle",
+      "type": "outline",
+      "ctx": "处理"
+    },
+    {
+      "word": "annoy",
+      "type": "outline",
+      "ctx": "使烦恼，使生气"
+    },
+    {
+      "word": "companion",
+      "type": "core",
+      "ctx": "同伴"
+    },
+    {
+      "word": "down",
+      "type": "outline",
+      "ctx": "向下"
+    },
+    {
+      "word": "parallel",
+      "type": "core",
+      "ctx": "平行线"
+    },
+    {
+      "word": "edge",
+      "type": "outline",
+      "ctx": "边缘"
+    },
+    {
+      "word": "front",
+      "type": "outline",
+      "ctx": "前面的"
+    },
+    {
+      "word": "upright",
+      "type": "core",
+      "ctx": "垂直的"
+    },
+    {
+      "word": "east",
+      "type": "outline",
+      "ctx": "东方"
+    },
+    {
+      "word": "consider",
+      "type": "outline",
+      "ctx": "考虑"
+    },
+    {
+      "word": "very",
+      "type": "outline",
+      "ctx": "很，非常"
+    },
+    {
+      "word": "rude",
+      "type": "outline",
+      "ctx": "无礼的，粗鲁的"
+    },
+    {
+      "word": "eat",
+      "type": "outline",
+      "ctx": "吃，吃饭"
+    },
+    {
+      "word": "France",
+      "type": "outline",
+      "ctx": "法国"
+    },
+    {
+      "word": "inappropriate",
+      "type": "core",
+      "ctx": "不适当的，不合适的"
+    },
+    {
+      "word": "instead",
+      "type": "outline",
+      "ctx": "代替，顶替"
+    },
+    {
+      "word": "any",
+      "type": "outline",
+      "ctx": "任何的，任一的"
+    },
+    {
+      "word": "fork",
+      "type": "outline",
+      "ctx": "叉，餐叉"
+    },
+    {
+      "word": "push",
+      "type": "outline",
+      "ctx": "推"
+    },
+    {
+      "word": "onto",
+      "type": "outline",
+      "ctx": "到……上面"
+    },
+    {
+      "word": "spoon",
+      "type": "outline",
+      "ctx": "勺，匙，调羹"
+    },
+    {
+      "word": "request",
+      "type": "outline",
+      "ctx": "请求"
+    },
+    {
+      "word": "salt",
+      "type": "outline",
+      "ctx": "盐"
+    },
+    {
+      "word": "pepper",
+      "type": "outline",
+      "ctx": "胡椒粉"
+    },
+    {
+      "word": "at",
+      "type": "outline",
+      "ctx": "在"
+    },
+    {
+      "word": "serious",
+      "type": "outline",
+      "ctx": "严肃的"
+    },
+    {
+      "word": "chef",
+      "type": "outline",
+      "ctx": "主厨"
+    },
+    {
+      "word": "seasoning",
+      "type": "core",
+      "ctx": "调味品，作料"
+    },
+    {
+      "word": "similarly",
+      "type": "core",
+      "ctx": "同样地，类似地"
+    },
+    {
+      "word": "Italy",
+      "type": "core",
+      "ctx": "意大利"
+    },
+    {
+      "word": "cheese",
+      "type": "outline",
+      "ctx": "干酪，奶酪"
+    },
+    {
+      "word": "random",
+      "type": "outline",
+      "ctx": "随意的"
+    },
+    {
+      "word": "strange",
+      "type": "outline",
+      "ctx": "奇怪的"
+    },
+    {
+      "word": "various",
+      "type": "outline",
+      "ctx": "各种各样的，不同的"
+    },
+    {
+      "word": "country",
+      "type": "outline",
+      "ctx": "国家"
+    },
+    {
+      "word": "given",
+      "type": "core",
+      "ctx": "规定的"
+    },
+    {
+      "word": "foreign",
+      "type": "outline",
+      "ctx": "外国的"
+    }
+  ],
+  "audio": "https://pc-media.xdfsjj.com/8d19ea326c473502f73bbdc8291ce3ab/6A3D4121/tm7345927_21e8eee47446b33d3b293c47512da088d0c92cc8.mp3",
+  "duration": "03:40",
+  "resourceId": "33187596"
+}

@@ -1,0 +1,65 @@
+{
+  "word": "after",
+  "found": true,
+  "phonetic_uk": "ˈɑːftə(r)",
+  "phonetic_us": "ˈæftər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=after&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=after&type=2",
+  "defs": [
+    {
+      "pos": "prep.",
+      "meaning": "在……之后；紧接着；一次接着一次，持续不断地；跟随，在……身后；（按顺序、重要性）在……后面，仅次于；与……对照，对比；鉴于，由于；尽管；寻找，追捕；关于；模仿，依照；以……命名；（表示时间）（…点）过（…分）"
+    },
+    {
+      "pos": "conj.",
+      "meaning": "在……以后"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "后来，以后"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "<旧>后来的，以后的；靠近船尾的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The class reassembled after lunch.",
+      "zh": "午饭后，全班同学又集合起来。"
+    },
+    {
+      "en": "We'll leave after lunch.",
+      "zh": "我们将在午饭后动身。"
+    },
+    {
+      "en": "Everything changed after nine-eleven.",
+      "zh": "九一一事件发生后，一切都改变了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "后来，以后",
+      "words": [
+        "since",
+        "subsequently"
+      ]
+    },
+    {
+      "pos": "prep.",
+      "meaning": "在……之后",
+      "words": [
+        "in the back of"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "以后的",
+      "words": [
+        "succeeding"
+      ]
+    }
+  ]
+}

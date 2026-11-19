@@ -1,0 +1,42 @@
+{
+  "word": "races",
+  "found": true,
+  "phonetic_uk": "ˈreɪsɪz",
+  "phonetic_us": "ˈreɪsɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=races&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=races&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "竞赛（race 的复数形式）；赛马会"
+    },
+    {
+      "pos": "v.",
+      "meaning": "和……竞赛；参加竞赛；急行（race 的第三人称单数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I run so well I'm planning to enter some races.",
+      "zh": "我跑得如此快，正计划参加一些比赛。"
+    },
+    {
+      "en": "Jockeys are forbidden to bet on the outcome of races.",
+      "zh": "职业赛马骑师们被禁止对比赛结果下注。"
+    },
+    {
+      "en": "Now a special TV network gives live coverage of most races.",
+      "zh": "现在一个专门的电视网对大多数比赛进行现场报道。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "竞赛（race的复数形式）；赛马会",
+      "words": [
+        "contests"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "word": "electronic",
+  "found": true,
+  "phonetic_uk": "ɪˌlekˈtrɒnɪk",
+  "phonetic_us": "ɪˌlekˈtrɑːnɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=electronic&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=electronic&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "电子的，电子学的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "His desk is covered with electronic gadgetry.",
+      "zh": "他的书桌上摆满了各种电子装置。"
+    },
+    {
+      "en": "This dictionary is available in electronic form.",
+      "zh": "本词典有电子版。"
+    },
+    {
+      "en": "The electronic dictionary included some animations.",
+      "zh": "电子词典中有一些动画片。"
+    }
+  ],
+  "synonyms": []
+}

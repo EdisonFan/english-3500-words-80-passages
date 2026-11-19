@@ -1,0 +1,38 @@
+{
+  "word": "disapproval",
+  "found": true,
+  "phonetic_uk": "ˌdɪsəˈpruːv(ə)l",
+  "phonetic_us": "ˌdɪsəˈpruːvl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=disapproval&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=disapproval&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "不赞同，反对"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Her face registered disapproval.",
+      "zh": "她脸上流露出不赞同的神色。"
+    },
+    {
+      "en": "He shook his head in disapproval.",
+      "zh": "他摇了摇头，表示反对。"
+    },
+    {
+      "en": "She pursed her lips in disapproval.",
+      "zh": "她噘起嘴唇反对。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "不赞成；不喜欢",
+      "words": [
+        "disfavour"
+      ]
+    }
+  ]
+}

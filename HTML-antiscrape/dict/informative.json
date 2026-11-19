@@ -1,0 +1,42 @@
+{
+  "word": "informative",
+  "found": true,
+  "phonetic_uk": "ɪnˈfɔːmətɪv",
+  "phonetic_us": "ɪnˈfɔːrmətɪv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=informative&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=informative&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "提供有用信息的，增长见闻的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The text was informative and well written.",
+      "zh": "正文信息量大，写得很好。"
+    },
+    {
+      "en": "Burton's text is concise and informative.",
+      "zh": "伯顿的文章文字简洁、内容丰富。"
+    },
+    {
+      "en": "The talk was both informative and entertaining.",
+      "zh": "这次谈话既长见识又饶有趣味。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "教育性的，有益的；情报的；见闻广博的",
+      "words": [
+        "beneficial",
+        "helpful",
+        "useful",
+        "advantageous",
+        "conducive"
+      ]
+    }
+  ]
+}

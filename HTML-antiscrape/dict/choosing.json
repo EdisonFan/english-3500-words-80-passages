@@ -1,0 +1,39 @@
+{
+  "word": "choosing",
+  "found": true,
+  "phonetic_uk": "tʃuːzɪŋ",
+  "phonetic_us": "ˈtʃuːzɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=choosing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=choosing&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "选择，挑选；情愿，决定（choose 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "How do we go about choosing a good HMO?",
+      "zh": "我们如何着手选择一个好的健康维护组织呢？"
+    },
+    {
+      "en": "Many companies are choosing to display their wares online.",
+      "zh": "许多公司正选择在网上展示其产品。"
+    },
+    {
+      "en": "You must follow your own inclinations when choosing a career.",
+      "zh": "你必须按照自己的意愿选择职业。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "选择；决定（choose的ing形式）",
+      "words": [
+        "selecting",
+        "determining"
+      ]
+    }
+  ]
+}

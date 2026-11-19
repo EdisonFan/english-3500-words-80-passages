@@ -1,0 +1,44 @@
+{
+  "word": "expansion",
+  "found": true,
+  "phonetic_uk": "ɪkˈspænʃ(ə)n",
+  "phonetic_us": "ɪkˈspæn��(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=expansion&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=expansion&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "扩大，扩张；扩充，展开；扩张物；膨胀"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "expansions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The company intends a slow-down in expansion.",
+      "zh": "公司准备放慢扩展速度。"
+    },
+    {
+      "en": "Poor trading figures put back our plans for expansion.",
+      "zh": "贸易额不佳延缓了我们的扩张计划。"
+    },
+    {
+      "en": "The company is forging ahead with its plans for expansion.",
+      "zh": "公司的拓展计划正顺利进行。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "膨胀；阐述；扩张物",
+      "words": [
+        "inflation",
+        "exposition"
+      ]
+    }
+  ]
+}

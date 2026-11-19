@@ -1,0 +1,52 @@
+{
+  "word": "clothing",
+  "found": true,
+  "phonetic_uk": "ˈkləʊðɪŋ",
+  "phonetic_us": "ˈkloʊðɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=clothing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=clothing&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "衣服，（尤指某种）服装"
+    },
+    {
+      "pos": "v.",
+      "meaning": "给……穿衣，为……提供衣服，赋予（某人某品质）（clothe 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "His clothing was stained with mud.",
+      "zh": "他的衣服沾了泥。"
+    },
+    {
+      "en": "Do you get an allowance for clothing?",
+      "zh": "你有服装补贴吗？"
+    },
+    {
+      "en": "How many layers of clothing are you wearing?",
+      "zh": "你穿了几层衣服？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "（总称）[服装]服装；帆装",
+      "words": [
+        "wear",
+        "garment",
+        "apparel"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "覆盖（clothe的ing形式）；给…穿衣",
+      "words": [
+        "covering",
+        "dressing"
+      ]
+    }
+  ]
+}

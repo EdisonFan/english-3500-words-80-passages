@@ -1,0 +1,40 @@
+{
+  "word": "includes",
+  "found": true,
+  "phonetic_uk": "ɪnkˈluːdz",
+  "phonetic_us": "ɪnˈkluːdz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=includes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=includes&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "包含；把……列为一部分，把……算入（include 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Your bill includes line rental.",
+      "zh": "你的账单包括电话线路的租用费。"
+    },
+    {
+      "en": "The cost includes transit.",
+      "zh": "成本中包括运费。"
+    },
+    {
+      "en": "The price includes postage and packing.",
+      "zh": "本价格包括邮资和包装费。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "包含；包住（include的三单形式）",
+      "words": [
+        "involves",
+        "contains",
+        "covers"
+      ]
+    }
+  ]
+}

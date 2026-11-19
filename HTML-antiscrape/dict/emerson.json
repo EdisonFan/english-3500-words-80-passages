@@ -1,0 +1,30 @@
+{
+  "word": "emerson",
+  "found": true,
+  "phonetic_uk": "ˈeməsn",
+  "phonetic_us": "ˈemərsn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=emerson&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=emerson&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "爱默生（Ralph Waldo Emerson 美国思想家，诗人）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He read a passage from Emerson.",
+      "zh": "他读了一段爱默生的作品。"
+    },
+    {
+      "en": "Emerson would always set down new ideas that occurred to him.",
+      "zh": "爱默生总是把他突然想到的新想法写下来。"
+    },
+    {
+      "en": "Being learned in some branch of human knowledge is one thing; living in \"public and illustrious thoughts,\" as Emerson would say, is something else.",
+      "zh": "在人类知识的某个分支中被研究是一回事；如爱默生所说，生活在“公众的和杰出的思想中”是另一回事。"
+    }
+  ],
+  "synonyms": []
+}

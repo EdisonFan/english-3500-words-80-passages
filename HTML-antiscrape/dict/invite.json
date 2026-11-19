@@ -1,0 +1,75 @@
+{
+  "word": "invite",
+  "found": true,
+  "phonetic_uk": "ɪnˈvaɪt",
+  "phonetic_us": "ɪnˈvaɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=invite&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=invite&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "邀请，约请；征求，请求；引起，招致"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<非正式>请柬，请帖"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "invites"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "invites"
+    },
+    {
+      "name": "现在分词",
+      "value": "inviting"
+    },
+    {
+      "name": "过去式",
+      "value": "invited"
+    },
+    {
+      "name": "过去分词",
+      "value": "invited"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Who did you invite to the party?",
+      "zh": "你邀请了哪些人来参加聚会？"
+    },
+    {
+      "en": "It was nice of them to invite us.",
+      "zh": "他们真好，邀请了我们。"
+    },
+    {
+      "en": "I'm in a dither about who to invite.",
+      "zh": "我拿不定主意邀请谁。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "邀请，招待；招致",
+      "words": [
+        "serve",
+        "attend",
+        "ask",
+        "court",
+        "guest"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "邀请",
+      "words": [
+        "calling",
+        "invitation to"
+      ]
+    }
+  ]
+}

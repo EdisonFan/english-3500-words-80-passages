@@ -1,0 +1,35 @@
+{
+  "word": "guideline",
+  "found": true,
+  "phonetic_uk": "ˈɡaɪdlaɪn",
+  "phonetic_us": "ˈɡaɪdlaɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=guideline&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=guideline&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "指导方针，准则；参考"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "guidelines"
+    }
+  ],
+  "examples": [
+    {
+      "en": "A written IQ test is merely a guideline.",
+      "zh": "书面的智商测试只是个参考。"
+    },
+    {
+      "en": "The figures are a useful guideline when buying a house.",
+      "zh": "买房时这些数据很有参考价值。"
+    },
+    {
+      "en": "Height-weight tables give an approximate guideline as to whether one is simply overweight or has passed into the obese stage.",
+      "zh": "身高体重表为判断一个人是单纯超重还是进入肥胖阶段提供了大致的指南。"
+    }
+  ],
+  "synonyms": []
+}

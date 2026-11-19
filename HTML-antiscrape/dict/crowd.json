@@ -1,0 +1,83 @@
+{
+  "word": "crowd",
+  "found": true,
+  "phonetic_uk": "kraʊd",
+  "phonetic_us": "kraʊd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=crowd&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=crowd&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "人群；一伙人；百姓，凡夫俗子；（尤指体育运动赛事的）观众，听众"
+    },
+    {
+      "pos": "v.",
+      "meaning": "聚集，群集；靠近，盯着；催促，催逼（因而把人激怒或惹恼）；挤满，塞满"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "crowds"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "crowds"
+    },
+    {
+      "name": "现在分词",
+      "value": "crowding"
+    },
+    {
+      "name": "过去式",
+      "value": "crowded"
+    },
+    {
+      "name": "过去分词",
+      "value": "crowded"
+    }
+  ],
+  "examples": [
+    {
+      "en": "An expectant crowd gathered.",
+      "zh": "满怀期待的一群人聚在了一起。"
+    },
+    {
+      "en": "The crowd began throwing stones.",
+      "zh": "那群人开始扔石头。"
+    },
+    {
+      "en": "The crowd dispersed quickly.",
+      "zh": "人群很快便散开了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "挤满；将…塞进；催逼，催促",
+      "words": [
+        "burst at the seams",
+        "be packed with"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "人群；一堆；一帮",
+      "words": [
+        "lot",
+        "band"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "拥挤，挤；聚集",
+      "words": [
+        "concentrate",
+        "pile",
+        "collect",
+        "mass",
+        "pack"
+      ]
+    }
+  ]
+}

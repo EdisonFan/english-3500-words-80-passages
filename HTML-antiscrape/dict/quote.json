@@ -1,0 +1,84 @@
+{
+  "word": "quote",
+  "found": true,
+  "phonetic_uk": "kwəʊt",
+  "phonetic_us": "kwoʊt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=quote&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=quote&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "引用，引述；举例说明；将......描述为；开价，报价；为（股票、黄金或外汇）报价；为......打出（某投注赔率）； 为（企业的股份）上市，挂牌"
+    },
+    {
+      "pos": "n.",
+      "meaning": "引文，引语；报价，开价；（股票）报价，牌价；（建成某物或修理某物的）报价单；引号（quotes）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Quote）（美、俄、澳、马、荷）克奥特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "quotes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "quotes"
+    },
+    {
+      "name": "现在分词",
+      "value": "quoting"
+    },
+    {
+      "name": "过去式",
+      "value": "quoted"
+    },
+    {
+      "name": "过去分词",
+      "value": "quoted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We'll send you a quote without delay.",
+      "zh": "我们会立即向你方报价。"
+    },
+    {
+      "en": "The poem is too long to quote in its entirety.",
+      "zh": "这首诗太长，不能全部引用。"
+    },
+    {
+      "en": "The aim of the competition is to match the quote to the person who said it.",
+      "zh": "比赛的要求是把引文和它的作者配在一起。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "报价；引述；举证",
+      "words": [
+        "make offers",
+        "price quotation"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "报价；引用；引证",
+      "words": [
+        "reference",
+        "make offers"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "引用",
+      "words": [
+        "citing",
+        "citation"
+      ]
+    }
+  ]
+}

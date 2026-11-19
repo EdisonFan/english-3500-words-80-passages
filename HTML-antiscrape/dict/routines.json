@@ -1,0 +1,39 @@
+{
+  "word": "routines",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=routines&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=routines&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "常规，惯例（routine 的复数）；日常生活；日常活动"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They changed their routines in space.",
+      "zh": "他们在太空中改变了自己的日常生活习惯。"
+    },
+    {
+      "en": "They break routines, because \"autopilot is death\".",
+      "zh": "他们打破了常规，因为“自动驾驶就是死亡”。"
+    },
+    {
+      "en": "He would detach himself from the routines of life.",
+      "zh": "他要使自己脱离日常生活的常规。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "常规，惯例（routine的复数）；日常生活；日常活动",
+      "words": [
+        "conventions",
+        "usages"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "word": "certain",
+  "found": true,
+  "phonetic_uk": "ˈsɜːt(ə)n",
+  "phonetic_us": "ˈsɜːrt(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=certain&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=certain&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "必然的，必定的；确定的，无疑的；某个，特定的；某位，一位叫……的；一定程度上的，有点儿"
+    },
+    {
+      "pos": "pron.",
+      "meaning": "某些，某几个"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Certain）（美、法）塞尔坦（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more certain"
+    },
+    {
+      "name": "最高级",
+      "value": "most certain"
+    }
+  ],
+  "examples": [
+    {
+      "en": "That's true, to a certain extent.",
+      "zh": "在一定程度上的确如此。"
+    },
+    {
+      "en": "Are you absolutely certain about this?",
+      "zh": "你对这事绝对确信无疑吗？"
+    },
+    {
+      "en": "Certain people might disagree with this.",
+      "zh": "某些人对这事可能不会赞同。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "某一；必然的；确信；无疑的；有把握的",
+      "words": [
+        "inevitable",
+        "some",
+        "necessary",
+        "automatic",
+        "secure"
+      ]
+    }
+  ]
+}

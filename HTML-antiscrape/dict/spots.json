@@ -1,0 +1,47 @@
+{
+  "word": "spots",
+  "found": true,
+  "phonetic_uk": "spɒts",
+  "phonetic_us": "spɑːts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=spots&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=spots&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "点；斑点；丘疹，粉刺；少量，一点儿；地点，地方；某演员的固定节目（spot 的复数）"
+    },
+    {
+      "pos": "vt.",
+      "meaning": "看见，看出；（对比赛对手）让步（spot 的第三人称单数）"
+    },
+    {
+      "pos": "vi.",
+      "meaning": "下小雨（spot 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Spots of rain had begun to fall.",
+      "zh": "雨点已经开始落下来了。"
+    },
+    {
+      "en": "I felt a few spots of rain.",
+      "zh": "我感觉掉雨点了。"
+    },
+    {
+      "en": "Try this cream—it's great for spots.",
+      "zh": "试试这种乳霜吧—对皮肤斑点挺有效。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "斑点（spot的复数）；插播广告；花点布，点子花纹棉布；置球点",
+      "words": [
+        "blobs",
+        "specks"
+      ]
+    }
+  ]
+}

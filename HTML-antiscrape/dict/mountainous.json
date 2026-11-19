@@ -1,0 +1,42 @@
+{
+  "word": "mountainous",
+  "found": true,
+  "phonetic_uk": "ˈmaʊntənəs",
+  "phonetic_us": "ˈmaʊntənəs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mountainous&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mountainous&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "多山的；巨大的，山一般的；波涛汹涌的，万丈波涛的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Varese Ligure is a small town in mountainous country east of Genoa.",
+      "zh": "瓦雷泽·利古里亚是一座位于热那亚东部山区的小镇。"
+    },
+    {
+      "en": "We left the rough track and bumped our way over a rugged mountainous terrain.",
+      "zh": "我们驶离坎坷的小道，又颠簸过了崎岖多岩的山地。"
+    },
+    {
+      "en": "Planes parachuted food, clothing, blankets, medicine, and water into the rugged mountainous border region.",
+      "zh": "飞机把食物、衣服、毯子、药和水空投到崎岖的边界山区。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "多山的；巨大的；山一般的",
+      "words": [
+        "huge",
+        "tremendous",
+        "enormous",
+        "massive",
+        "macro"
+      ]
+    }
+  ]
+}

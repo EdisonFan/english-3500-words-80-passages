@@ -1,0 +1,64 @@
+{
+  "word": "dimension",
+  "found": true,
+  "phonetic_uk": "daɪˈmenʃ(ə)n",
+  "phonetic_us": "daɪˈmenʃn; dɪˈmenʃn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dimension&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dimension&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "大小，尺寸；（空间的）维度；范围，规模；方面，部分"
+    },
+    {
+      "pos": "v.",
+      "meaning": "切削（或制作）成特定尺寸；标出尺寸"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "dimensions"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "dimensions"
+    },
+    {
+      "name": "现在分词",
+      "value": "dimensioning"
+    },
+    {
+      "name": "过去式",
+      "value": "dimensioned"
+    },
+    {
+      "name": "过去分词",
+      "value": "dimensioned"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You will open a new dimension to your life.",
+      "zh": "你将为你的生活打开一个新的维度。"
+    },
+    {
+      "en": "Loutherbourg, like other contemporary painters, wanted to add the dimension of time to his paintings.",
+      "zh": "像其他当代画家一样，卢德堡想要在他的绘画中加入时间这一维度。"
+    },
+    {
+      "en": "The Vroom model emphasizes the participative dimension of leadership: how leaders go about making decisions.",
+      "zh": "弗鲁姆模型强调领导力的参与性维度：领导者如何进行决策。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[数]维；尺寸；次元；容积",
+      "words": [
+        "measurement",
+        "size"
+      ]
+    }
+  ]
+}

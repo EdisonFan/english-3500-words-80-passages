@@ -1,0 +1,39 @@
+{
+  "word": "increasing",
+  "found": true,
+  "phonetic_uk": "ɪnˈkriːsɪŋ",
+  "phonetic_us": "ɪnˈkriːsɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=increasing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=increasing&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "增长，增强，增大（increase 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Juvenile crime is increasing at a terrifying rate.",
+      "zh": "青少年犯罪在以惊人的速度增加。"
+    },
+    {
+      "en": "Nurses are leaving the profession in increasing numbers.",
+      "zh": "越来越多的护士退出这一职业。"
+    },
+    {
+      "en": "Recognition of the importance of career development is increasing.",
+      "zh": "对职业发展重要性的认可在不断增加。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "增加，加大（increase的ing形式）",
+      "words": [
+        "adding",
+        "building"
+      ]
+    }
+  ]
+}

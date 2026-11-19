@@ -1,0 +1,68 @@
+{
+  "word": "port",
+  "found": true,
+  "phonetic_uk": "pɔːt",
+  "phonetic_us": "pɔːrt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=port&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=port&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "港口，避风港；口岸，港口城市；（计算机）端口，接口；波尔图葡萄酒（产自葡萄牙）（=port wine）；（船、飞机等的）舷门，舷窗；射击孔，枪眼（=gun port）；通道，排气口；<苏格兰>城门，城门洞；（计算机）移植（软件）；<文>姿势，姿态；（军）斜持枪位置；<澳大利亚，非正式>旅行箱，旅行包"
+    },
+    {
+      "pos": "v.",
+      "meaning": "转移，移植（软件）；使（船，舵）向左转；（军）斜持枪"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Port）（英）波特，（法）波尔，（德、俄、匈、捷）波尔特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "ports"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "ports"
+    },
+    {
+      "name": "现在分词",
+      "value": "porting"
+    },
+    {
+      "name": "过去式",
+      "value": "ported"
+    },
+    {
+      "name": "过去分词",
+      "value": "ported"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The port is quiet and unspoiled.",
+      "zh": "这个港口很安静，有未受破坏的自然美。"
+    },
+    {
+      "en": "The ship steered into port.",
+      "zh": "船驶进港口。"
+    },
+    {
+      "en": "The ship spent four days in port.",
+      "zh": "这艘船在港口停泊了四天。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[水运]港口，口岸；（计算机的）[电子][计]端口；[航][船]左舷；舱门",
+      "words": [
+        "haven",
+        "bunder"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "word": "admit",
+  "found": true,
+  "phonetic_uk": "ədˈmɪt",
+  "phonetic_us": "ædˈmɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=admit&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=admit&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（勉强）承认；招认，招供；准许进入（某处）；接纳，接收（入学）；收治，接收入院；承认……有效；容许，为……留有余地"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "admits"
+    },
+    {
+      "name": "现在分词",
+      "value": "admitting"
+    },
+    {
+      "name": "过去式",
+      "value": "admitted"
+    },
+    {
+      "name": "过去分词",
+      "value": "admitted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Admit it! You were terrified!",
+      "zh": "承认了吧！你吓坏了！"
+    },
+    {
+      "en": "I must admit I am impressed.",
+      "zh": "我得承认我很佩服。"
+    },
+    {
+      "en": "I must admit I'm completely foxed.",
+      "zh": "我得承认我一点都不懂。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "承认；准许进入；可容纳",
+      "words": [
+        "accept",
+        "recognize",
+        "agree",
+        "acknowledge",
+        "grant"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "承认；容许",
+      "words": [
+        "accept",
+        "recognize"
+      ]
+    }
+  ]
+}

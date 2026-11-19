@@ -1,0 +1,54 @@
+{
+  "word": "engaging",
+  "found": true,
+  "phonetic_uk": "ɪnˈɡeɪdʒɪŋ",
+  "phonetic_us": "ɪnˈɡeɪdʒɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=engaging&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=engaging&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "迷人的，吸引人的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "雇用，聘请；参加，从事；吸引，引起；与……交战，开战（engage 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "His engaging personality made him popular with his peers.",
+      "zh": "他迷人的个性使他很受同龄人欢迎。"
+    },
+    {
+      "en": "The cogwheels are not engaging.",
+      "zh": "齿轮未啮合在一起。"
+    },
+    {
+      "en": "I was touched to find that he regards me as engaging.",
+      "zh": "让我感动的是，他认为我很有魅力。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "迷人的",
+      "words": [
+        "killing",
+        "taking",
+        "charming",
+        "fascinating",
+        "glamorous"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "参加（engage的ing形式）；保证；雇用",
+      "words": [
+        "ensuring",
+        "participating"
+      ]
+    }
+  ]
+}

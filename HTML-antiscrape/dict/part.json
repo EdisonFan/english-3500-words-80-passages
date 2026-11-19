@@ -1,0 +1,94 @@
+{
+  "word": "part",
+  "found": true,
+  "phonetic_uk": "pɑːt",
+  "phonetic_us": "pɑːrt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=part&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=part&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "部分；某物的部分（局部）；（书、戏剧、电视剧等的）部，篇，集；（动植物的）器官，部位；部件，零件；成员，参与人员；（世界、国家或城镇等的）区域，地区；（头发的）分缝；（角色的）台词和动作，角色；（在活动或事件中的）作用；（乐器或声音的）声部，音部；（等）份；<古>能力"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）分开，（使）分离；分别；分手；放弃，移交；给（头发）分缝"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "既有……又有……（part sth., part sth.）；不完全地，部分地"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "部分的，不完全的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Part）(英、瑞典）帕特，（泰）巴，（法）帕尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "parts"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "parts"
+    },
+    {
+      "name": "现在分词",
+      "value": "parting"
+    },
+    {
+      "name": "过去式",
+      "value": "parted"
+    },
+    {
+      "name": "过去分词",
+      "value": "parted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She was very good in the part.",
+      "zh": "她这个角色演得很好。"
+    },
+    {
+      "en": "Have you learned your part yet?",
+      "zh": "你记住你的台词了吗？"
+    },
+    {
+      "en": "She's part French, part English.",
+      "zh": "她是英法血统各半。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "部分；角色；零件",
+      "words": [
+        "role",
+        "workers",
+        "portion",
+        "proportion",
+        "character"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "分离；分配；分开",
+      "words": [
+        "portion",
+        "separate from"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "断裂；分手",
+      "words": [
+        "break it down"
+      ]
+    }
+  ]
+}

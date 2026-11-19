@@ -1,0 +1,30 @@
+{
+  "word": "km",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˌkeɪ ˈem",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=km&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=km&type=2",
+  "defs": [
+    {
+      "pos": "abbr.",
+      "meaning": "[计量] 公里（kilometer）；千米"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "If a spacecraft travels faster than 11 km a second, it escapes the Earth's gravitational pull.",
+      "zh": "如果一架宇宙飞船飞行超过每秒11公里，它就能摆脱地球引力。"
+    },
+    {
+      "en": "For those uninitiated in scientific ocean drilling, the previous record was a little over 4 km.",
+      "zh": "可以告诉没有海洋科学钻探知识的人，先前的纪录是四公里过一点儿。"
+    },
+    {
+      "en": "5 million km above the Earth.",
+      "zh": "距离地球表面5百万公里。"
+    }
+  ],
+  "synonyms": []
+}

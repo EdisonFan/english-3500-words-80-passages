@@ -1,0 +1,39 @@
+{
+  "word": "conciliation",
+  "found": true,
+  "phonetic_uk": "kənˌsɪliˈeɪʃn",
+  "phonetic_us": "kənˌsɪliˈeɪʃn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=conciliation&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=conciliation&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "调解；安抚；说服"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Resolving the dispute will require a mood of conciliation on both sides.",
+      "zh": "解决这场争端需要双方都抱有和解的态度。"
+    },
+    {
+      "en": "A conciliation service helps to settle disputes between employers and workers.",
+      "zh": "调解机构帮助解决劳资纠纷。"
+    },
+    {
+      "en": "I see here a possible point of conciliation.",
+      "zh": "我看到这里可能有一个调解点。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[法]调解；安抚；说服",
+      "words": [
+        "mediation",
+        "intermediation"
+      ]
+    }
+  ]
+}

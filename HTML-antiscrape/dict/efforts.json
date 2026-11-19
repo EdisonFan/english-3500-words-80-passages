@@ -1,0 +1,38 @@
+{
+  "word": "efforts",
+  "found": true,
+  "phonetic_uk": "ˈefəts",
+  "phonetic_us": "ˈefərts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=efforts&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=efforts&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "努力；尝试；有组织的活动；<非正式>质量不高的成果；努力的结果，成就（effort 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Their efforts were unavailing.",
+      "zh": "他们的努力都付诸东流。"
+    },
+    {
+      "en": "All our efforts were in vain.",
+      "zh": "我们的所有努力都付诸东流了。"
+    },
+    {
+      "en": "His efforts were unsuccessful.",
+      "zh": "他的努力没有成功。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "努力；转向力（effort的复数）",
+      "words": [
+        "trials"
+      ]
+    }
+  ]
+}

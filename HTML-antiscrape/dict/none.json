@@ -1,0 +1,59 @@
+{
+  "word": "none",
+  "found": true,
+  "phonetic_uk": "nʌn",
+  "phonetic_us": "nʌn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=none&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=none&type=2",
+  "defs": [
+    {
+      "pos": "pron.",
+      "meaning": "全无"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "毫无，绝不（none the）；（与 too 加形容词或副词连用）绝不"
+    },
+    {
+      "pos": "n.",
+      "meaning": "申初经（天主教七段祈祷时间中的一部分，通常在一天中的第九个小时 下午3点）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （None）（葡、罗）诺内（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "None of them could sing in tune.",
+      "zh": "他们中没有一个人能唱得合调。"
+    },
+    {
+      "en": "She has lost none of her naivety.",
+      "zh": "她丝毫没有失去那份天真烂漫。"
+    },
+    {
+      "en": "None of the passengers were badly hurt.",
+      "zh": "乘客中没有人严重受伤。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "没有的，一点没有的",
+      "words": [
+        "lacking",
+        "void of"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "决不，一点也不",
+      "words": [
+        "nothing",
+        "noway"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "word": "decision-making",
+  "found": true,
+  "phonetic_uk": "dɪˈsɪʒn meɪkɪŋ",
+  "phonetic_us": "dɪˈsɪʒn meɪkɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=decision-making&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=decision-making&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "决策的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "决策"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Employees should have a voice in the decision-making process.",
+      "zh": "雇员在决策的过程中应该有发言权。"
+    },
+    {
+      "en": "Midlife seems like the second big phase of decision-making.",
+      "zh": "中年似乎是第二个重要决策时期。"
+    },
+    {
+      "en": "Slowly, without any kind of direct decision-making, a new wall is built.",
+      "zh": "慢慢地，在没有任何直接决策的情况下，一堵新的墙被筑了起来。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "决策的",
+      "words": [
+        "policy-making"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "决策",
+      "words": [
+        "counsel",
+        "policy-making"
+      ]
+    }
+  ]
+}

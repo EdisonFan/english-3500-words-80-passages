@@ -1,0 +1,44 @@
+{
+  "word": "disappearance",
+  "found": true,
+  "phonetic_uk": "ˌdɪsəˈpɪərəns",
+  "phonetic_us": "ˌdɪsəˈpɪrəns",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=disappearance&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=disappearance&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "消失，失踪；消亡，灭绝"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "disappearances"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Mystery surrounds her disappearance.",
+      "zh": "她的失踪引起了重重疑团。"
+    },
+    {
+      "en": "Her disappearance has baffled police.",
+      "zh": "她的失踪令警方大为困惑。"
+    },
+    {
+      "en": "He was hard put to it to explain her disappearance.",
+      "zh": "他很难对她的消失作出解释。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "消失；不见",
+      "words": [
+        "extinction",
+        "evaporation"
+      ]
+    }
+  ]
+}

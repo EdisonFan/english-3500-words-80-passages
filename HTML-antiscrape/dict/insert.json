@@ -1,0 +1,72 @@
+{
+  "word": "insert",
+  "found": true,
+  "phonetic_uk": "ɪnˈsɜːt",
+  "phonetic_us": "ɪnˈsɜːrt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=insert&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=insert&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "插入，嵌入；（在文章中）添加，加插；使参与（活动）；（肌肉或其他器官）附着于（尤指移动部分）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "插入物；（尤指）插页，附加页；（电影等的）插入镜头"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "inserts"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "inserts"
+    },
+    {
+      "name": "现在分词",
+      "value": "inserting"
+    },
+    {
+      "name": "过去式",
+      "value": "inserted"
+    },
+    {
+      "name": "过去分词",
+      "value": "inserted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Open any of the layout templates, insert your text, make any other changes, and print.",
+      "zh": "打开任何一个设计模板，插入你的文本，做任何其他改动，然后打印。"
+    },
+    {
+      "en": "For every resource, insert one row into this table.",
+      "zh": "对于每个资源，在这个表中插入一行。"
+    },
+    {
+      "en": "You insert it into the machine and you are ready to make copies.",
+      "zh": "你把它插入机器，就可以复印了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "插入；[建]嵌入",
+      "words": [
+        "bed",
+        "build in"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[建]插入物",
+      "words": [
+        "inlet",
+        "impaler"
+      ]
+    }
+  ]
+}

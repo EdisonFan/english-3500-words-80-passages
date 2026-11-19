@@ -1,0 +1,93 @@
+{
+  "word": "damp",
+  "found": true,
+  "phonetic_uk": "dæmp",
+  "phonetic_us": "dæmp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=damp&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=damp&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "潮湿的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "湿气，潮气；沼气；气馁"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使潮湿，弄湿；减弱，抑制；把（火）调小；限止（钢琴或其他乐器琴弦）的音；减幅，阻尼"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "damps"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "damps"
+    },
+    {
+      "name": "现在分词",
+      "value": "damping"
+    },
+    {
+      "name": "过去式",
+      "value": "damped"
+    },
+    {
+      "name": "过去分词",
+      "value": "damped"
+    },
+    {
+      "name": "比较级",
+      "value": "damper或more damp"
+    },
+    {
+      "name": "最高级",
+      "value": "dampest或most damp"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The cottage was cold and damp.",
+      "zh": "这小屋又冷又湿。"
+    },
+    {
+      "en": "The outside walls are damp.",
+      "zh": "外墙潮湿。"
+    },
+    {
+      "en": "Old houses are often damp.",
+      "zh": "老房子大多都潮湿。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "[气象][物]使潮湿；使阻尼；使沮丧，抑制",
+      "words": [
+        "control",
+        "stay",
+        "restrain"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "减幅，阻尼；[气象][物]变潮湿",
+      "words": [
+        "moisturize"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[气象][物]潮湿，湿气",
+      "words": [
+        "moisture",
+        "humidity",
+        "wet"
+      ]
+    }
+  ]
+}

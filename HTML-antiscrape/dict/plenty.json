@@ -1,0 +1,72 @@
+{
+  "word": "plenty",
+  "found": true,
+  "phonetic_uk": "ˈplenti",
+  "phonetic_us": "ˈplenti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=plenty&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=plenty&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "富裕，充裕"
+    },
+    {
+      "pos": "pron.",
+      "meaning": "大量，众多"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "大量，很多；<非正式>非常，十分；<非正式>足够有余"
+    },
+    {
+      "pos": "det.",
+      "meaning": "<非正式>很多，大量"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Plenty）普伦蒂（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "plenties"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We talked plenty about our kids.",
+      "zh": "我们谈了很多关于孩子的事。"
+    },
+    {
+      "en": "Don't worry. We have plenty of time.",
+      "zh": "不必担心。我们有很多时间。"
+    },
+    {
+      "en": "Most businesses face plenty of competition.",
+      "zh": "多数企业都面临大量的竞争。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "丰富，大量；充足",
+      "words": [
+        "abundance",
+        "lots of",
+        "wealth",
+        "ocean",
+        "sea"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "足够的，很多的",
+      "words": [
+        "sufficient",
+        "numerous",
+        "competent"
+      ]
+    }
+  ]
+}

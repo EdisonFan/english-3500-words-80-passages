@@ -1,0 +1,54 @@
+{
+  "word": "ask",
+  "found": true,
+  "phonetic_uk": "ɑːsk",
+  "phonetic_us": "æsk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ask&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ask&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "询问，打听；要求，请求；邀请，约请 ；指望，期待"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Ask）（芬、瑞典）阿斯克（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Let's stop and ask for directions.",
+      "zh": "咱们停下来问问路吧。"
+    },
+    {
+      "en": "Can I ask you a favour?",
+      "zh": "我能请你帮个忙吗？"
+    },
+    {
+      "en": "Did you ask the price?",
+      "zh": "你问了价钱没有？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "问，询问；要求；需要；邀请；讨价",
+      "words": [
+        "invite",
+        "lack",
+        "question",
+        "desire",
+        "exact"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "问，询问；要求",
+      "words": [
+        "question",
+        "query"
+      ]
+    }
+  ]
+}

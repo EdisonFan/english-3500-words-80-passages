@@ -1,0 +1,54 @@
+{
+  "word": "infinite",
+  "found": true,
+  "phonetic_uk": "ˈɪnfɪnət",
+  "phonetic_us": "ˈɪnfɪnət",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=infinite&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=infinite&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "无限的，无穷尽的；（数量或程度上）极大的，无穷大的；非限定的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（空间或数量的）无穷大（the infinite）；上帝（the infinite）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Human beings have an infinite capacity for self-deception.",
+      "zh": "人类自欺的能力是无穷尽的。"
+    },
+    {
+      "en": "The most amazing thing about nature is its infinite variety.",
+      "zh": "大自然最让人惊叹的地方在于它的无限多样性。"
+    },
+    {
+      "en": "Via the Internet, we are exposed to infinite information.",
+      "zh": "通过互联网，我们接触到无限的信息。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "无限的，[数]无穷的；无数的；极大的",
+      "words": [
+        "huge",
+        "tremendous",
+        "thousand",
+        "million",
+        "boundless"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "无限；[数]无穷大；无限的东西（如空间，时间）",
+      "words": [
+        "Mugen",
+        "immenseness"
+      ]
+    }
+  ]
+}

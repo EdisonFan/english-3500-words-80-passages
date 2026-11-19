@@ -1,0 +1,38 @@
+{
+  "word": "rhesus",
+  "found": true,
+  "phonetic_uk": "ˈri:səs",
+  "phonetic_us": "ˈriːsəs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=rhesus&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=rhesus&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "恒河猴"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Caloric-restriction projects underway in two species more closely related to humans—rhesus and squirrel monkeys—have made scientists optimistic that CR mimetics could help people.",
+      "zh": "对与人类联系更密切的两个物种——猕猴和松鼠猴——进行热量限制的项目，使科学家对模拟热量限制可以帮助人类抱有乐观的态度。"
+    },
+    {
+      "en": "But this photo is not [of] a rhesus monkey.",
+      "zh": "但是照片当中的猴子并不是恒河猴。"
+    },
+    {
+      "en": "He and his colleagues trained two rhesus monkeys to follow a moving target on a computer screen.",
+      "zh": "他与同事们训练两只恒河猴注视电脑屏幕上移动的目标。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "恒河猴",
+      "words": [
+        "macaque"
+      ]
+    }
+  ]
+}

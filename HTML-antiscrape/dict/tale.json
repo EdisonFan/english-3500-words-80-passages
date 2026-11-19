@@ -1,0 +1,47 @@
+{
+  "word": "tale",
+  "found": true,
+  "phonetic_uk": "teɪl",
+  "phonetic_us": "teɪl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tale&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tale&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "故事，传说；（对真人真事精彩的或夸张的）描述，讲述；谎言；流言蜚语"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "tales"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He listened to my tale of woe.",
+      "zh": "他听了我悲伤的故事。"
+    },
+    {
+      "en": "She unfolded her tale to us.",
+      "zh": "她向我们倾吐了她的故事。"
+    },
+    {
+      "en": "He described it as an extraordinarily tangled and complicated tale.",
+      "zh": "他把它讲成了一个格外错综复杂的故事。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "故事；传说；叙述；流言蜚语",
+      "words": [
+        "relation",
+        "story",
+        "tradition",
+        "statement",
+        "narrative"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "excessive",
+  "found": true,
+  "phonetic_uk": "ɪkˈsesɪv; ekˈsesɪv",
+  "phonetic_us": "ɪkˈsesɪv; ekˈsesɪv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=excessive&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=excessive&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "过度的，过多的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Excessive conformity is usually caused by fear of disapproval.",
+      "zh": "过分随大流通常是由于担心不被认同造成的。"
+    },
+    {
+      "en": "Excessive pressure can lead to perforation of the stomach wall.",
+      "zh": "过大的压力会导致胃壁穿孔。"
+    },
+    {
+      "en": "The police vigorously denied that excessive force had been used.",
+      "zh": "警方坚决否认曾过度使用武力。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "过多的，极度的；过分的",
+      "words": [
+        "extreme",
+        "ultra",
+        "tall"
+      ]
+    }
+  ]
+}

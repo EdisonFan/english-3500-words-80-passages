@@ -1,0 +1,39 @@
+{
+  "word": "consumption",
+  "found": true,
+  "phonetic_uk": "kənˈsʌmpʃ(ə)n",
+  "phonetic_us": "kənˈsʌmpʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=consumption&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=consumption&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "消费，消耗；食用，引用，吸入；专用；<旧>肺痨，肺结核"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Energy consumption rises as countries industrialize.",
+      "zh": "能源消耗随着各国工业化而增加。"
+    },
+    {
+      "en": "Gas and oil consumption always increases in cold weather.",
+      "zh": "燃气和燃油的消耗量在天冷时总会增加。"
+    },
+    {
+      "en": "In the developing world cigarette consumption is increasing.",
+      "zh": "在发展中国家香烟消费正在增长。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[经]消费；消耗；肺痨",
+      "words": [
+        "expense",
+        "depletion"
+      ]
+    }
+  ]
+}

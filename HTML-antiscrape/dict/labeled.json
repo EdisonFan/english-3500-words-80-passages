@@ -1,0 +1,42 @@
+{
+  "word": "labeled",
+  "found": true,
+  "phonetic_uk": "ˈleɪb(ə)ld",
+  "phonetic_us": "ˈleɪb(ə)ld",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=labeled&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=labeled&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "贴标签于……；把……称为；（生化）示踪（label 的过去式和过去分词）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "有标签的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She even labeled everything.",
+      "zh": "她甚至把所有东西都贴上了标签。"
+    },
+    {
+      "en": "Why would anyone want to be labeled intolerant?",
+      "zh": "为什么有人想被贴上不宽容的标签呢？"
+    },
+    {
+      "en": "It was on the opinion page, it was signed by one of the editors, and was clearly labeled as commentary.",
+      "zh": "它在评论版上，由其中一位编辑签名，并清楚地标注为评论。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "有标签的；示踪的",
+      "words": [
+        "traced"
+      ]
+    }
+  ]
+}

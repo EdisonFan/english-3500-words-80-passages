@@ -1,0 +1,42 @@
+{
+  "word": "tastes",
+  "found": true,
+  "phonetic_uk": "teɪsts",
+  "phonetic_us": "teɪsts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tastes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tastes&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[食品]味道，品味（taste 的复数形式）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "体会，尝（taste 的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "This drink tastes like sherry.",
+      "zh": "这种酒味道像雪利酒。"
+    },
+    {
+      "en": "It tastes like chicken, only stronger.",
+      "zh": "这东西尝起来像鸡肉，只是味道浓一点。"
+    },
+    {
+      "en": "That tastes real good.",
+      "zh": "味道好极了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "体会，尝（taste的三单形式）",
+      "words": [
+        "feels"
+      ]
+    }
+  ]
+}

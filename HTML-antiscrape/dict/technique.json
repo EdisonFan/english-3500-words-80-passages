@@ -1,0 +1,46 @@
+{
+  "word": "technique",
+  "found": true,
+  "phonetic_uk": "tekˈniːk",
+  "phonetic_us": "tekˈniːk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=technique&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=technique&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "技巧，工艺；（尤指体育或艺术方面的）技巧，技术"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "techniques"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She showed her students the technique.",
+      "zh": "她向学生演示了那个技巧。"
+    },
+    {
+      "en": "She showed the technique to her students.",
+      "zh": "她向学生演示了那个技巧。"
+    },
+    {
+      "en": "This technique is useful but it has its limitations.",
+      "zh": "这种技术实用，但也有局限性。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "技巧，技术；手法",
+      "words": [
+        "skill",
+        "science",
+        "mechanics",
+        "tips"
+      ]
+    }
+  ]
+}

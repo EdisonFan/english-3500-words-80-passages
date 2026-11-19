@@ -1,0 +1,43 @@
+{
+  "word": "minutes",
+  "found": true,
+  "phonetic_uk": "ˈmɪnɪts",
+  "phonetic_us": "ˈmɪnɪts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=minutes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=minutes&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "分钟（minute 的复数）；会议记录；备忘录"
+    },
+    {
+      "pos": "v.",
+      "meaning": "把……记录在案；为……测定时间（minute 的单三形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The buses go every 10 minutes.",
+      "zh": "公共汽车每隔10分钟发一班车。"
+    },
+    {
+      "en": "The train was 40 minutes late.",
+      "zh": "火车晚点了40分钟。"
+    },
+    {
+      "en": "The bus came five minutes early.",
+      "zh": "公共汽车早到了五分钟。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "分钟（minute的复数）；会议记录；备忘录",
+      "words": [
+        "proceedings",
+        "memoranda"
+      ]
+    }
+  ]
+}

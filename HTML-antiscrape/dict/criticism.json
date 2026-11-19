@@ -1,0 +1,44 @@
+{
+  "word": "criticism",
+  "found": true,
+  "phonetic_uk": "ˈkrɪtɪsɪzəm",
+  "phonetic_us": "ˈkrɪtɪsɪzəm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=criticism&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=criticism&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "批评，批判；意见；评论，评价；（对文学作品和历史文献的）考证"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "criticisms"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He shrugged off the criticism.",
+      "zh": "他对批评不予理睬。"
+    },
+    {
+      "en": "I deeply resented her criticism.",
+      "zh": "我对她的批评感到非常气愤。"
+    },
+    {
+      "en": "She can't take criticism.",
+      "zh": "她受不了批评。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "批评；考证；苛求",
+      "words": [
+        "comment",
+        "animadversion"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "crisis",
+  "found": true,
+  "phonetic_uk": "ˈkraɪsɪs",
+  "phonetic_us": "ˈkraɪsɪs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=crisis&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=crisis&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "危机，紧要关头；决定性时刻，关键时刻；（病情的）转折点，危象"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "用于处理危机的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "crises"
+    }
+  ],
+  "examples": [
+    {
+      "en": "At home a crisis was brewing.",
+      "zh": "家里一场危机正在酝酿着。"
+    },
+    {
+      "en": "The fever has passed its crisis.",
+      "zh": "发烧已过危险期。"
+    },
+    {
+      "en": "There was a crisis looming.",
+      "zh": "危机迫在眉睫。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "危机；危险期；决定性时刻",
+      "words": [
+        "defining moment",
+        "critical stage"
+      ]
+    }
+  ]
+}

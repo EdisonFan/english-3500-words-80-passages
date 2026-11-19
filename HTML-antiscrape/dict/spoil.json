@@ -1,0 +1,81 @@
+{
+  "word": "spoil",
+  "found": true,
+  "phonetic_uk": "spɔɪl",
+  "phonetic_us": "spɔɪl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=spoil&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=spoil&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "破坏，糟蹋；溺爱，宠坏；善待，格外关照；（食物）变质，腐败；使（选票）作废；极度渴望，跃跃欲试；<古>抢劫（人，地方），掠夺"
+    },
+    {
+      "pos": "n.",
+      "meaning": "赃物，战利品（the spoils）；成功所带来的好处（spoils）；（开掘时挖出的）废土，废泥土"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "spoils"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "spoils"
+    },
+    {
+      "name": "现在分词",
+      "value": "spoiling"
+    },
+    {
+      "name": "过去式",
+      "value": "spoilt或spoiled"
+    },
+    {
+      "name": "过去分词",
+      "value": "spoilt或spoiled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Don't spoil the children.",
+      "zh": "不要溺爱孩子。"
+    },
+    {
+      "en": "Don't let him spoil your evening.",
+      "zh": "别让他搞得你一晚上不开心。"
+    },
+    {
+      "en": "We all know that fats spoil by becoming rancid.",
+      "zh": "我们都知道油脂发臭就变坏了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "溺爱；糟蹋；掠夺",
+      "words": [
+        "harry",
+        "dote upon"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "掠夺；变坏；腐败",
+      "words": [
+        "prey upon",
+        "take a turn for the worse"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "次品；奖品",
+      "words": [
+        "prize",
+        "award",
+        "inferior"
+      ]
+    }
+  ]
+}

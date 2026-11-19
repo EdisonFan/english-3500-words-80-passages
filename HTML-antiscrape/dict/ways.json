@@ -1,0 +1,45 @@
+{
+  "word": "ways",
+  "found": true,
+  "phonetic_uk": "weɪz",
+  "phonetic_us": "weɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ways&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ways&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "方法（way 的复数）；滑路"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Ways）人名；（吉布）瓦伊斯"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "There are various ways of doing this.",
+      "zh": "做这一工作的方法有很多。"
+    },
+    {
+      "en": "You can customize the software in several ways.",
+      "zh": "你可用几种方法按需要编制这个软件。"
+    },
+    {
+      "en": "Infectious diseases can be acquired in several ways.",
+      "zh": "传染病的感染途径有几种。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "方法（way的复数）；滑路",
+      "words": [
+        "methods",
+        "techniques",
+        "modes",
+        "means"
+      ]
+    }
+  ]
+}

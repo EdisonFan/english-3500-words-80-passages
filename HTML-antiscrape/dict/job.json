@@ -1,0 +1,78 @@
+{
+  "word": "job",
+  "found": true,
+  "phonetic_uk": "dʒɒb",
+  "phonetic_us": "dʒɑːb",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=job&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=job&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "工作，职业；零工，任务；职责，责任；<非正式>罪行，（尤指）盗窃；<非正式> 东西，物件；费力的事；幸运的事；刺，捅；<非正式>东西，物件"
+    },
+    {
+      "pos": "v.",
+      "meaning": "刺，捅；（尤指经纪人小规模操作）买卖股票；<非正式>欺骗，出卖；假公济私，营私舞弊"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Job）（英）乔布，（法、葡）若布，(?-1605)约伯<俄>俄罗斯正教会莫斯科牧首，（德、塞、捷、荷、意）约布（人名)"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "jobs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "jobs"
+    },
+    {
+      "name": "现在分词",
+      "value": "jobbing"
+    },
+    {
+      "name": "过去式",
+      "value": "jobbed"
+    },
+    {
+      "name": "过去分词",
+      "value": "jobbed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Her job is multifaceted.",
+      "zh": "她的工作涉及许多方面。"
+    },
+    {
+      "en": "Meg loves her job.",
+      "zh": "梅格热爱她的工作。"
+    },
+    {
+      "en": "She likes her job.",
+      "zh": "她爱她的工作。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "工作；[劳经]职业",
+      "words": [
+        "profession",
+        "employment",
+        "career",
+        "pursuit",
+        "work"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "承包；代客买卖",
+      "words": [
+        "contract with"
+      ]
+    }
+  ]
+}

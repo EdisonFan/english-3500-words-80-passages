@@ -1,0 +1,39 @@
+{
+  "word": "dishonest",
+  "found": true,
+  "phonetic_uk": "dɪsˈɒnɪst",
+  "phonetic_us": "dɪsˈɑːnɪst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dishonest&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dishonest&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "不诚实的；欺诈的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I don't like him, and it would be dishonest of me to pretend otherwise.",
+      "zh": "我不喜欢他，如果假装喜欢，那就是我不诚实了。"
+    },
+    {
+      "en": "In all fairness he had to admit that she was neither dishonest nor lazy.",
+      "zh": "公正地说，他不得不承认她既非不诚实也非懒惰。"
+    },
+    {
+      "en": "It would be dishonest to mislead people and not to present the data as fairly as possible.",
+      "zh": "误导人们、不尽可能公正地提供数据是不诚实的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "不诚实的；欺诈的",
+      "words": [
+        "insincere",
+        "deceptive"
+      ]
+    }
+  ]
+}

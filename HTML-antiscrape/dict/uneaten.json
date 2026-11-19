@@ -1,0 +1,38 @@
+{
+  "word": "uneaten",
+  "found": true,
+  "phonetic_uk": "ʌnˈiːtn",
+  "phonetic_us": "ʌnˈiːtn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=uneaten&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=uneaten&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "未吃的；剩下的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Bill put the uneaten food away.",
+      "zh": "比尔把没吃的食物收了起来。"
+    },
+    {
+      "en": "Some people, however, have concerns about the safety of the uneaten food.",
+      "zh": "然而，有些人担心未食用食品的安全性。"
+    },
+    {
+      "en": "She started a project to help her school dining hall to give away on uneaten food to homeless shelters in her community.",
+      "zh": "她创办了一个项目，帮助学校食堂将未吃过的食物分发给其所在社区的流浪者收容所。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "未吃的；剩下的",
+      "words": [
+        "remaining"
+      ]
+    }
+  ]
+}

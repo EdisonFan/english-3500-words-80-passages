@@ -1,0 +1,80 @@
+{
+  "word": "heart",
+  "found": true,
+  "phonetic_uk": "hɑːt",
+  "phonetic_us": "hɑːrt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=heart&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=heart&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "心，心脏；内心，感情；胸前；重点，核心；中心，中央；信心，勇气；（表示爱的）心形物；红桃牌，红心牌；菜心；同情，怜悯；爱情，情爱；（土地的）肥力"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<非正式>喜爱，深爱"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Heart）（英）哈特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "hearts"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "hearts"
+    },
+    {
+      "name": "现在分词",
+      "value": "hearting"
+    },
+    {
+      "name": "过去式",
+      "value": "hearted"
+    },
+    {
+      "name": "过去分词",
+      "value": "hearted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Her heart raced uncontrollably.",
+      "zh": "她的心脏难以控制地急速跳动起来。"
+    },
+    {
+      "en": "My heart was knocking wildly.",
+      "zh": "我的心怦怦直跳。"
+    },
+    {
+      "en": "Her heart beat faster.",
+      "zh": "她的心跳加快。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[内科][解剖]心脏；感情；勇气；心形；要点",
+      "words": [
+        "courage",
+        "affection",
+        "core",
+        "main",
+        "feeling"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "鼓励；铭记",
+      "words": [
+        "encourage",
+        "brand",
+        "uphold"
+      ]
+    }
+  ]
+}

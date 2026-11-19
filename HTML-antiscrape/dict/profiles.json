@@ -1,0 +1,34 @@
+{
+  "word": "profiles",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˈproʊfaɪlz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=profiles&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=profiles&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "配置文件；剖面图（profile 的复数）；个人档案"
+    },
+    {
+      "pos": "v.",
+      "meaning": "扼要描述；给出轮廓；隐蔽行动（profile 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "A Washington newspaper published comparative profiles of the candidates' wives.",
+      "zh": "一家华盛顿的报纸刊登了候选人妻子们的对比简介。"
+    },
+    {
+      "en": "Google is trying to judge our needs and wants based on our social-media profiles.",
+      "zh": "谷歌试图根据我们在社交媒体上的个人资料来判断我们的需求和欲望。"
+    },
+    {
+      "en": "It reduces our curiosity by showing us exactly what we already want and think, based on our profiles and preferences.",
+      "zh": "它根据我们的个人资料和喜好，准确地向我们展示我们想要和考虑的东西，从而减少了我们的好奇心。"
+    }
+  ],
+  "synonyms": []
+}

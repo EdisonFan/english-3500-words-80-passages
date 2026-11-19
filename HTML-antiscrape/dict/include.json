@@ -1,0 +1,57 @@
+{
+  "word": "include",
+  "found": true,
+  "phonetic_uk": "ɪnˈkluːd",
+  "phonetic_us": "ɪnˈkluːd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=include&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=include&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "包含；把……列为一部分，把……算入"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "includes"
+    },
+    {
+      "name": "现在分词",
+      "value": "including"
+    },
+    {
+      "name": "过去式",
+      "value": "included"
+    },
+    {
+      "name": "过去分词",
+      "value": "included"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Symptoms include a sore throat.",
+      "zh": "症状包括嗓子疼。"
+    },
+    {
+      "en": "Does the price include tax?",
+      "zh": "这个价钱是否包括税款？"
+    },
+    {
+      "en": "Telephone charges include line rental.",
+      "zh": "电话费包括线路租用费。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "包含，包括",
+      "words": [
+        "involve",
+        "contain",
+        "comprise"
+      ]
+    }
+  ]
+}

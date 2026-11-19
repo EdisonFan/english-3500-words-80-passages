@@ -1,0 +1,39 @@
+{
+  "word": "testament",
+  "found": true,
+  "phonetic_uk": "ˈtestəmənt",
+  "phonetic_us": "ˈtestəmənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=testament&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=testament&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "证明，证据；遗嘱，遗言；（人与上帝间的）圣约；（基督教的）圣约书（Testament）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "It's a set of images that couldn't be more foreign or more alien to the prophetic mode of the old testament prophets.",
+      "zh": "这是一组不能再背离旧约先知的形象的一组比喻了。"
+    },
+    {
+      "en": "The Old Testament prophet had said, \"All flesh is grass.\" It is an important verse for the new dispensation of Christianity.",
+      "zh": "旧约先知曾说:“凡有血气的，尽都如草”。这是基督教新派的重要经文。"
+    },
+    {
+      "en": "For him to win the game like that is a testament to his perseverance.",
+      "zh": "他能赢得那样的比赛证明了他的毅力。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[法]遗嘱；圣约；确实的证明",
+      "words": [
+        "will away",
+        "covenant"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "word": "strength",
+  "found": true,
+  "phonetic_uk": "streŋθ",
+  "phonetic_us": "streŋθ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=strength&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=strength&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "体力，力量；实力，影响力；长处，优势；意志力，毅力；（情感或意见的）强烈程度；（物体或物质的）强度；（食物、药等的）浓度，（酒的）烈度；（风等的）速度，力度；人数，人力；（货币的）价值，坚挺程度；球队的板凳深度，替补队员的水平；<文>力量源泉；（手中所持好牌数目和花色的）牌力"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "strengths"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Tact was never Mr. Moore's strength.",
+      "zh": "老练从来不是穆尔先生的长处。"
+    },
+    {
+      "en": "He checked the strength of the cables.",
+      "zh": "他检查了缆绳的强度。"
+    },
+    {
+      "en": "He gasped with surprise at her strength.",
+      "zh": "发现她有这么大的力气，他大吃一惊。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "力量；力气；兵力；长处",
+      "words": [
+        "force",
+        "might",
+        "excellence",
+        "muscle",
+        "power"
+      ]
+    }
+  ]
+}

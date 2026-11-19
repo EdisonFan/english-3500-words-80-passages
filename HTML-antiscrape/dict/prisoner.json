@@ -1,0 +1,31 @@
+{
+  "word": "prisoner",
+  "found": true,
+  "phonetic_uk": "ˈprɪz(ə)nə(r)",
+  "phonetic_us": "ˈprɪz(ə)nər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=prisoner&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=prisoner&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "犯人，囚犯；俘虏，战俘；为……所困的人"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "prisoners"
+    }
+  ],
+  "examples": [],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "囚犯，犯人；俘虏；刑事被告",
+      "words": [
+        "capture",
+        "galley slave"
+      ]
+    }
+  ]
+}

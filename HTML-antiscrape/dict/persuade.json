@@ -1,0 +1,74 @@
+{
+  "word": "persuade",
+  "found": true,
+  "phonetic_uk": "pəˈsweɪd",
+  "phonetic_us": "pərˈsweɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=persuade&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=persuade&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "说服，劝服；使相信，使信服；（情形，事件）驱使，敦促"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "persuades"
+    },
+    {
+      "name": "现在分词",
+      "value": "persuading"
+    },
+    {
+      "name": "过去式",
+      "value": "persuaded"
+    },
+    {
+      "name": "过去分词",
+      "value": "persuaded"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I did my damnedest to persuade her.",
+      "zh": "我已经全力以赴地去说服她了。"
+    },
+    {
+      "en": "How did you manage to persuade him?",
+      "zh": "你是怎么说服他的？"
+    },
+    {
+      "en": "I failed in my attempt to persuade her.",
+      "zh": "我未能说服她。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "说服，劝说；使某人相信；劝某人做（不做）某事",
+      "words": [
+        "satisfy",
+        "convince",
+        "argue"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "说服；被说服",
+      "words": [
+        "talk around",
+        "win over"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "空闲的，有闲的",
+      "words": [
+        "available",
+        "leisure",
+        "off"
+      ]
+    }
+  ]
+}

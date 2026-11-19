@@ -1,0 +1,41 @@
+{
+  "word": "noses",
+  "found": true,
+  "phonetic_uk": "ˈnəʊzɪz",
+  "phonetic_us": "ˈnoʊzɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=noses&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=noses&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "鼻子（nose 复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Seals have very special noses.",
+      "zh": "海豹有很特殊的鼻子。"
+    },
+    {
+      "en": "Have they got long noses?",
+      "zh": "他们有长长的鼻子吗？"
+    },
+    {
+      "en": "They had big, red noses.",
+      "zh": "他们有大大的红鼻子。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "鼻子（nose复数）",
+      "words": [
+        "boko",
+        "schnozzle",
+        "beezer",
+        "konk"
+      ]
+    }
+  ]
+}

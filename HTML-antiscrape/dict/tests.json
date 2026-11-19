@@ -1,0 +1,42 @@
+{
+  "word": "tests",
+  "found": true,
+  "phonetic_uk": "tests",
+  "phonetic_us": "tests",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tests&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tests&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "测验（test 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "测验（test 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He breezed through the tests.",
+      "zh": "他轻松顺利地通过了这些测试。"
+    },
+    {
+      "en": "The tests are scored by psychologists.",
+      "zh": "测验由心理学家评分。"
+    },
+    {
+      "en": "Police will conduct random breath tests.",
+      "zh": "警察会随机进行吹气酒精测试。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "测验（test的第三人称单数）",
+      "words": [
+        "quizzes"
+      ]
+    }
+  ]
+}

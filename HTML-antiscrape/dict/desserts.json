@@ -1,0 +1,38 @@
+{
+  "word": "desserts",
+  "found": true,
+  "phonetic_uk": "dɪˈzɜːts",
+  "phonetic_us": "dɪˈzɜːrts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=desserts&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=desserts&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（餐后）甜食，甜点（dessert 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Desserts are served with cream or ice cream.",
+      "zh": "甜点上加奶油或冰激凌。"
+    },
+    {
+      "en": "Desserts can be substituted by a portion of fresh fruit.",
+      "zh": "甜点可以替换成一份新鲜水果。"
+    },
+    {
+      "en": "I really do enjoy shooting desserts.",
+      "zh": "我真的很享受拍摄的甜品。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "甜点；甜品（dessert的复数）",
+      "words": [
+        "pastries"
+      ]
+    }
+  ]
+}

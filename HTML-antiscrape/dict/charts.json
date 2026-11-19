@@ -1,0 +1,43 @@
+{
+  "word": "charts",
+  "found": true,
+  "phonetic_uk": "tʃɑːts",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=charts&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=charts&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "图表；排行榜（chart 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "绘制……的海图；制订计划（chart 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The album went straight into the charts at number 1.",
+      "zh": "这张专辑一进入每周流行唱片排行榜便占首位。"
+    },
+    {
+      "en": "The charts in this article are for illustrative purposes only.",
+      "zh": "该文中的图表只用于说明的目的。"
+    },
+    {
+      "en": "Before you knew it, the single was at number 90 in the U.S. singles charts.",
+      "zh": "转眼间这张单曲唱片在美国单曲唱片排行榜上排第90位了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "图表；排行榜（chart的复数）",
+      "words": [
+        "figures",
+        "schematics"
+      ]
+    }
+  ]
+}

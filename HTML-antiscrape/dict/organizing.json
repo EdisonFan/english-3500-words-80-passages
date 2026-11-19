@@ -1,0 +1,54 @@
+{
+  "word": "organizing",
+  "found": true,
+  "phonetic_uk": "ˈɔ:ɡənaɪzɪŋ",
+  "phonetic_us": "ˈɔːrɡənaɪzɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=organizing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=organizing&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "组织（organize 的 ing 形式）；使有机化"
+    },
+    {
+      "pos": "n.",
+      "meaning": "组织"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "组织上的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He's a genius at organizing people.",
+      "zh": "他是人员组织方面的天才。"
+    },
+    {
+      "en": "I've been saddled with organizing the conference.",
+      "zh": "我被派担当组织会议的重任。"
+    },
+    {
+      "en": "He toured the country organizing revival meetings.",
+      "zh": "他巡游全国，组织奋兴布道会。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "组织（organize的ing形式）；使有机化",
+      "words": [
+        "structuring"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "组织",
+      "words": [
+        "fabric",
+        "tissu"
+      ]
+    }
+  ]
+}

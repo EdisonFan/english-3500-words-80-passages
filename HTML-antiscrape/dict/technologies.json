@@ -1,0 +1,38 @@
+{
+  "word": "technologies",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "tekˈnɑːlədʒiz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=technologies&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=technologies&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "技术；科技（technology 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Technologies diffuse rapidly.",
+      "zh": "技术普及非常快。"
+    },
+    {
+      "en": "Only gradually are technologies being developed to mechanize the task.",
+      "zh": "渐渐地科技才发展到能使这项任务机械化。"
+    },
+    {
+      "en": "They have yet to show that they can really deliver working technologies.",
+      "zh": "他们仍需证明他们确实能够实现可用的技术。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "技术；科技（technology的复数）",
+      "words": [
+        "skills"
+      ]
+    }
+  ]
+}

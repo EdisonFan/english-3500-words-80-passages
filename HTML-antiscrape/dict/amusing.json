@@ -1,0 +1,59 @@
+{
+  "word": "amusing",
+  "found": true,
+  "phonetic_uk": "əˈmjuːzɪŋ",
+  "phonetic_us": "əˈmjuːzɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=amusing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=amusing&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "逗人发笑的，有趣的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "逗乐，逗笑；（提供）消遣（amuse 的现在分词形式）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more amusing"
+    },
+    {
+      "name": "最高级",
+      "value": "most amusing"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It's a very amusing game to play.",
+      "zh": "这种游戏玩起来非常有趣。"
+    },
+    {
+      "en": "You come over as a capable and amusing companion.",
+      "zh": "你让人觉得是一个能干而有趣的同伴。"
+    },
+    {
+      "en": "The show is very amusing and the cast is very good.",
+      "zh": "表演非常有趣，演员都很优秀。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "有趣的，好玩的；引人发笑的",
+      "words": [
+        "colorful",
+        "funny"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "逗乐；打发；使…高兴（amuse的ing形式）",
+      "words": [
+        "sending"
+      ]
+    }
+  ]
+}

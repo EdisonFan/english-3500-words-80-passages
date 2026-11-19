@@ -1,0 +1,87 @@
+{
+  "word": "wish",
+  "found": true,
+  "phonetic_uk": "wɪʃ",
+  "phonetic_us": "wɪʃ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=wish&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=wish&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "希望（做某事），想要（某事发生）；祝，祝愿（某人好运、幸福等）；愿望，心愿；希望（不可能或可能性很小的事变成事实）；真希望（用于表示对做过某事或未做某事感到后悔或失望）；（用来表示对某人行为的厌烦）我希望……；（用于要说的话可能使人不快或担心等时）不想，无意；这是再好不过的，没有比这更好的了；希望……发生在……身上"
+    },
+    {
+      "pos": "n.",
+      "meaning": "希望，愿望；（靠魔术实现的）愿望，心愿；（书信或贺卡等中的）祝愿，祝福（wishes）；想要的东西，希望的事；请求，要求"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Wish）（美）威什（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "wishes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "wishes"
+    },
+    {
+      "name": "现在分词",
+      "value": "wishing"
+    },
+    {
+      "name": "过去式",
+      "value": "wished"
+    },
+    {
+      "name": "过去分词",
+      "value": "wished"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Pa, I wish you wouldn't shout.",
+      "zh": "爸，我但愿你不要嚷嚷了。"
+    },
+    {
+      "en": "The prince's wish came true.",
+      "zh": "王子的愿望实现了。"
+    },
+    {
+      "en": "We wish you every success.",
+      "zh": "我们祝你万事如意。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "希望；祝福；心愿",
+      "words": [
+        "hope",
+        "pleasure",
+        "promise",
+        "desire",
+        "will"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "祝愿；渴望；向…致问候语",
+      "words": [
+        "long for",
+        "die for"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "愿望；需要",
+      "words": [
+        "have need of",
+        "want for"
+      ]
+    }
+  ]
+}

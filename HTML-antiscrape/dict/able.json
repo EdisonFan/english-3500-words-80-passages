@@ -1,0 +1,53 @@
+{
+  "word": "able",
+  "found": true,
+  "phonetic_uk": "ˈeɪb(ə)l",
+  "phonetic_us": "ˈeɪb(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=able&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=able&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "能够，有能力的；聪明能干的，精通（某事）的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Able）（英）埃布尔，（伊朗）阿布勒（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "abler或more able"
+    },
+    {
+      "name": "最高级",
+      "value": "ablest或most able"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She was barely able to stand.",
+      "zh": "她勉强能站立。"
+    },
+    {
+      "en": "Will you be able to come?",
+      "zh": "你能来吗？"
+    },
+    {
+      "en": "These cells are able to reduplicate themselves.",
+      "zh": "这些细胞能自我复制。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "能；[经管]有能力的；能干的",
+      "words": [
+        "capable",
+        "efficient",
+        "competent"
+      ]
+    }
+  ]
+}

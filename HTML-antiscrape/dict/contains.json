@@ -1,0 +1,51 @@
+{
+  "word": "contains",
+  "found": true,
+  "phonetic_uk": "kənˈteɪnz",
+  "phonetic_us": "kənˈteɪnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=contains&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=contains&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "包含，容纳；遏制，防止……蔓延；抑制（感情）（contain 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Wine contains about 10% alcohol.",
+      "zh": "葡萄酒含有约10%的酒精。"
+    },
+    {
+      "en": "It contains real chocolate chips.",
+      "zh": "它里面含有纯正的巧克力颗粒。"
+    },
+    {
+      "en": "Only the yolk contains cholesterol.",
+      "zh": "只有蛋黄含胆固醇。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "包含；容纳；包含某字符串（contain的单三形式）",
+      "words": [
+        "involves",
+        "includes",
+        "covers",
+        "stores"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "包含",
+      "words": [
+        "involved in",
+        "involvement",
+        "inclusion",
+        "comprehension"
+      ]
+    }
+  ]
+}

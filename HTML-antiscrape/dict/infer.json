@@ -1,0 +1,65 @@
+{
+  "word": "infer",
+  "found": true,
+  "phonetic_uk": "ɪnˈfɜː(r)",
+  "phonetic_us": "ɪnˈfɜːr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=infer&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=infer&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "推断，推论；暗示，暗指"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "infers"
+    },
+    {
+      "name": "现在分词",
+      "value": "inferring"
+    },
+    {
+      "name": "过去式",
+      "value": "inferred"
+    },
+    {
+      "name": "过去分词",
+      "value": "inferred"
+    }
+  ],
+  "examples": [
+    {
+      "en": "What can we infer about the author from the text?",
+      "zh": "从文章中我们能推断出作者的什么信息？"
+    },
+    {
+      "en": "What can we infer from the passage about the author?",
+      "zh": "我们可以从文章中推断出关于作者的什么信息？"
+    },
+    {
+      "en": "You should learn how to infer a conclusion from statistics.",
+      "zh": "你应该学会如何从数据中推断出一个结论。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "推断；推论",
+      "words": [
+        "understand",
+        "conclude",
+        "reason"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "推断；作出推论",
+      "words": [
+        "conclude",
+        "deduce from"
+      ]
+    }
+  ]
+}

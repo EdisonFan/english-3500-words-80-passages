@@ -1,0 +1,89 @@
+{
+  "word": "study",
+  "found": true,
+  "phonetic_uk": "ˈstʌdi",
+  "phonetic_us": "ˈstʌdi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=study&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=study&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（专题）研究，调查；（尤指通过书本的）学习，攻读；用于某些学科名称（studies）；功课，课业，学业（studies）；学术专著，专题论文；<美>学习者；学习对象，研究对象；（绘画的）试画， 习作；书房，书斋；细致考虑，仔细检查，审视； 特别的事物（或人）；以特定速度背台词的演员（舞台俚语）；描写，描绘；练习曲"
+    },
+    {
+      "pos": "v.",
+      "meaning": "学习，攻读；认真阅读，仔细看；研究，调查；<西印度>仔细考虑，慎重思考；（演员）记住（或背下）（台词）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Study）（英）斯塔迪 （人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "studies"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "studies"
+    },
+    {
+      "name": "现在分词",
+      "value": "studying"
+    },
+    {
+      "name": "过去式",
+      "value": "studied"
+    },
+    {
+      "name": "过去分词",
+      "value": "studied"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She was accepted to study music.",
+      "zh": "她获准学习音乐。"
+    },
+    {
+      "en": "This study builds on earlier work.",
+      "zh": "这项研究是在以往工作的基础上进行的。"
+    },
+    {
+      "en": "Kids would rather play than study.",
+      "zh": "孩子们宁愿玩而不愿学习。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "学习，研究；课题；[建]书房；学问",
+      "words": [
+        "learning",
+        "knowledge",
+        "research",
+        "letter"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "学习；考虑；攻读；细察",
+      "words": [
+        "analyse",
+        "view",
+        "regard",
+        "think of",
+        "think about"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "研究；用功",
+      "words": [
+        "work over",
+        "research into"
+      ]
+    }
+  ]
+}

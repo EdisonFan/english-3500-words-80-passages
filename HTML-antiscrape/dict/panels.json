@@ -1,0 +1,43 @@
+{
+  "word": "panels",
+  "found": true,
+  "phonetic_uk": "ˈpænəlz",
+  "phonetic_us": "ˈpænlz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=panels&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=panels&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "面板（panel 的复数）；[建]嵌板；事务委员会"
+    },
+    {
+      "pos": "v.",
+      "meaning": "嵌镶（panel 的第三人称单数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Solar panels trap energy from the sun.",
+      "zh": "太阳能电池板吸收太阳能。"
+    },
+    {
+      "en": "Solar panels can only operate in sunlight.",
+      "zh": "太阳能电池板只能在日光下起作用。"
+    },
+    {
+      "en": "The decor is simple – black lacquer panels on white walls.",
+      "zh": "这种装修风格简约–白色的墙上装饰着漆成黑色的板。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "面板（panel的复数）；嵌板；事务委员会",
+      "words": [
+        "faceplates",
+        "skins"
+      ]
+    }
+  ]
+}

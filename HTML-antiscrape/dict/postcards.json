@@ -1,0 +1,35 @@
+{
+  "word": "postcards",
+  "found": true,
+  "phonetic_uk": "ˈpəʊstkɑːd",
+  "phonetic_us": "ˈpoʊstkɑːrd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=postcards&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=postcards&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "明信片"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "postcards"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I asked the woman behind the counter if they had any postcards.",
+      "zh": "我问柜台后面的女售货员是否有明信片。"
+    },
+    {
+      "en": "They buy postcards and sweets.",
+      "zh": "他们买明信片和糖果。"
+    },
+    {
+      "en": "I am collecting postcards.",
+      "zh": "我在收集明信片。"
+    }
+  ],
+  "synonyms": []
+}

@@ -1,0 +1,74 @@
+{
+  "word": "ranking",
+  "found": true,
+  "phonetic_uk": "ˈræŋkɪŋ",
+  "phonetic_us": "ˈræŋkɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ranking&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ranking&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "上级的；头等的；超群的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "等级；地位"
+    },
+    {
+      "pos": "v.",
+      "meaning": "排列；归类于（rank 的 ing 形式）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Ranking）人名；（英）兰金"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "rankings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She has retained her No.1 world ranking.",
+      "zh": "她保住了自己世界第一的排名。"
+    },
+    {
+      "en": "Agassi was playing well above his world ranking of 12.",
+      "zh": "阿加西的比赛表现大大超出了他在世界上第12位的排名。"
+    },
+    {
+      "en": "He has improved his ranking this season from 67th to 30th.",
+      "zh": "本赛季他将自己的排名从第67位提高到了第30位。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "上级的；头等的；超群的",
+      "words": [
+        "superior",
+        "top"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "等级；地位",
+      "words": [
+        "status",
+        "degree",
+        "classification",
+        "capacity",
+        "grade"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "排列；归类于（rank的ing形式）",
+      "words": [
+        "ranging"
+      ]
+    }
+  ]
+}

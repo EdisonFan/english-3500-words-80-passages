@@ -1,0 +1,44 @@
+{
+  "word": "attention",
+  "found": true,
+  "phonetic_uk": "əˈtenʃ(ə)n",
+  "phonetic_us": "əˈtenʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=attention&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=attention&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "注意；注意力；照料；兴趣；立正；殷勤，关心"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "attentions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "My shoes caught his attention.",
+      "zh": "我的鞋子引起了他的注意。"
+    },
+    {
+      "en": "You have my undivided attention.",
+      "zh": "我全部的注意力都在你身上。"
+    },
+    {
+      "en": "Can I have your attention please?",
+      "zh": "请注意听我讲话好吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "注意力；关心；立正！（口令）",
+      "words": [
+        "consideration",
+        "thought"
+      ]
+    }
+  ]
+}

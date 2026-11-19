@@ -1,0 +1,99 @@
+{
+  "word": "content",
+  "found": true,
+  "phonetic_uk": "ˈkɒntent; kənˈtent",
+  "phonetic_us": "ˈkɑːntent; kənˈtent",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=content&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=content&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "满足的，满意的，甘愿的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "目录；所含物，容纳的东西；（书、文章、演讲、电影等的）内容；含量；满足，满意；投赞成票的贵族院议员；网上信息，电子信息"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使满意，使满足"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Content）（法）孔唐（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "contents"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "contents"
+    },
+    {
+      "name": "现在分词",
+      "value": "contenting"
+    },
+    {
+      "name": "过去式",
+      "value": "contented"
+    },
+    {
+      "name": "过去分词",
+      "value": "contented"
+    },
+    {
+      "name": "比较级",
+      "value": "more content"
+    },
+    {
+      "name": "最高级",
+      "value": "most content"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He seemed more content, less bitter.",
+      "zh": "他看起来比较满意，不那么失望。"
+    },
+    {
+      "en": "He says his daughter is quite content.",
+      "zh": "他说他的女儿颇为满意。"
+    },
+    {
+      "en": "I'm perfectly content just to lie in the sun.",
+      "zh": "我在阳光下躺着就感到非常满足。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "内容，目录；满足；[物]容量",
+      "words": [
+        "satisfaction",
+        "directory",
+        "bulk",
+        "list",
+        "fill"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "满意的",
+      "words": [
+        "satisfactory",
+        "well-pleasing"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使满足",
+      "words": [
+        "gratify",
+        "appease"
+      ]
+    }
+  ]
+}

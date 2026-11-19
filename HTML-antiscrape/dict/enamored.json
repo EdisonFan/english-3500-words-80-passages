@@ -1,0 +1,42 @@
+{
+  "word": "enamored",
+  "found": true,
+  "phonetic_uk": "ɪˈnæməd",
+  "phonetic_us": "ɪˈnæmərd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=enamored&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=enamored&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "迷恋的；倾心的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "迷住，使迷恋（enamor 的过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They two are enamored.",
+      "zh": "他俩打得火热。"
+    },
+    {
+      "en": "\"Don't become totally enamored by the phone,\" he said.",
+      "zh": "别被手机迷花了双眼，“他说。”"
+    },
+    {
+      "en": "Not everyone is as enamored with design as designers are. I know, I know.",
+      "zh": "并不是所有人都像设计师一样崇拜设计的，停！"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "迷住，使迷恋（enamor的过去分词形式）",
+      "words": [
+        "charmed"
+      ]
+    }
+  ]
+}

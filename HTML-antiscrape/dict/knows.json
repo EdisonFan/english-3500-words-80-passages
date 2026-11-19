@@ -1,0 +1,30 @@
+{
+  "word": "knows",
+  "found": true,
+  "phonetic_uk": "nəʊz",
+  "phonetic_us": "noʊz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=knows&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=knows&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "知道（know 的第三人称单数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Assume A knows B is guilty.",
+      "zh": "假定甲知道乙应负罪责。"
+    },
+    {
+      "en": "Maggie knows how to quilt.",
+      "zh": "玛吉知道怎样缝被子。"
+    },
+    {
+      "en": "\"Where is he now?\"—\"God knows.\"",
+      "zh": "“他现在在哪里？”—“天晓得。”"
+    }
+  ],
+  "synonyms": []
+}

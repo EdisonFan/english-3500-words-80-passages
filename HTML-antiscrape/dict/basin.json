@@ -1,0 +1,48 @@
+{
+  "word": "basin",
+  "found": true,
+  "phonetic_uk": "ˈbeɪs(ə)n",
+  "phonetic_us": "ˈbeɪs(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=basin&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=basin&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "盆；洗涤槽；流域；盆地，海盆；内港，内湾"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Basin）（俄）巴辛，（法）巴赞（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "basins"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Water dripped into a basin at the back of the room.",
+      "zh": "水滴入房间后面的一个盆里。"
+    },
+    {
+      "en": "We were given a basin of water to wash our hands in.",
+      "zh": "我们得到了一盆水洗手。"
+    },
+    {
+      "en": "When he had finished washing he began to wipe the basin clean.",
+      "zh": "他洗漱完后开始把水盆擦干净。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "水池；[水文]流域；[地理]盆地；盆",
+      "words": [
+        "valley",
+        "pot"
+      ]
+    }
+  ]
+}

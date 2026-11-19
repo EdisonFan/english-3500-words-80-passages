@@ -1,0 +1,39 @@
+{
+  "word": "beans",
+  "found": true,
+  "phonetic_uk": "bi:nz",
+  "phonetic_us": "biːnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=beans&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=beans&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "豆类；豆子；黄豆（bean 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I usually soak the beans overnight.",
+      "zh": "我通常把豆子泡一夜。"
+    },
+    {
+      "en": "She slopped some beans onto a plate.",
+      "zh": "她往盘子里倒了一些豆子。"
+    },
+    {
+      "en": "I can't eat beans—they give me wind.",
+      "zh": "我不能吃豆子，吃了肚子就胀气。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "豆类；豆子；黄豆（bean的复数）",
+      "words": [
+        "legumes",
+        "soybeans"
+      ]
+    }
+  ]
+}

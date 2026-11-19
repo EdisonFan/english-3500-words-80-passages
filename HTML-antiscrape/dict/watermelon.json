@@ -1,0 +1,43 @@
+{
+  "word": "watermelon",
+  "found": true,
+  "phonetic_uk": "ˈwɔːtəmelən",
+  "phonetic_us": "ˈwɔːtərmelən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=watermelon&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=watermelon&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "西瓜"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "watermelons"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Watermelon contains vitamins and also potassium.",
+      "zh": "西瓜含有维生素也有钾。"
+    },
+    {
+      "en": "They planted some watermelon.",
+      "zh": "他们种了些西瓜。"
+    },
+    {
+      "en": "Insects will soon smell watermelon.",
+      "zh": "昆虫很快会嗅到西瓜味。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[园艺]西瓜",
+      "words": [
+        "sandia"
+      ]
+    }
+  ]
+}

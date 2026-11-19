@@ -1,0 +1,44 @@
+{
+  "word": "generator",
+  "found": true,
+  "phonetic_uk": "ˈdʒenəreɪtə(r)",
+  "phonetic_us": "ˈdʒenəreɪtər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=generator&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=generator&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "发电机；产生者；电力公司；母点，母线，母面"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "generators"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He brought it down, hooked it up, and we got the generator going.",
+      "zh": "他把它放倒，连接好，然后我们让发电机开始运转。"
+    },
+    {
+      "en": "Perhaps each home will have a solar generator to provide power for lighting and heating.",
+      "zh": "也许每个家庭都将有一个太阳能发电机来提供照明和取暖的电力。"
+    },
+    {
+      "en": "The company is a major generator of jobs.",
+      "zh": "这家公司创造了相当多的就业机会。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[电]发电机；[计][制冷]发生器；生产者",
+      "words": [
+        "producer",
+        "electrical machine"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "word": "confident",
+  "found": true,
+  "phonetic_uk": "ˈkɒnfɪdənt",
+  "phonetic_us": "ˈkɑːnfɪdənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=confident&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=confident&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "（性格，态度）自信的，充满信心的；坚信的，肯定的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<古>密友，知己"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "confidents"
+    },
+    {
+      "name": "比较级",
+      "value": "more confident"
+    },
+    {
+      "name": "最高级",
+      "value": "most confident"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Marina was a confident, happy child.",
+      "zh": "玛丽娜是个自信、快乐的孩子。"
+    },
+    {
+      "en": "She was in a relaxed, confident mood.",
+      "zh": "她的心态从容而自信。"
+    },
+    {
+      "en": "He feels more confident on home turf.",
+      "zh": "他在主场感到更有信心。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "自信的；确信的",
+      "words": [
+        "sure",
+        "convinced",
+        "assured"
+      ]
+    }
+  ]
+}

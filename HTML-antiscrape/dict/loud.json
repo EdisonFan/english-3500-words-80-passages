@@ -1,0 +1,64 @@
+{
+  "word": "loud",
+  "found": true,
+  "phonetic_uk": "laʊd",
+  "phonetic_us": "laʊd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=loud&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=loud&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "大声的，响亮的；（人或举止）吵闹的，聒噪的；大声疾呼的，坚定的；（衣服）花哨的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "大声地，响亮地"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Loud）（英）劳德（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "louder"
+    },
+    {
+      "name": "最高级",
+      "value": "loudest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Suddenly there was a loud bang.",
+      "zh": "突然发出砰的一声巨响。"
+    },
+    {
+      "en": "A loud bang made me jump.",
+      "zh": "砰的一声巨响吓我一跳。"
+    },
+    {
+      "en": "She gave a loud hiccup.",
+      "zh": "她打了一个响嗝。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "大声的，高声的；不断的；喧吵的",
+      "words": [
+        "ceaseless",
+        "unceasing"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "大声地，高声地，响亮地",
+      "words": [
+        "aloud",
+        "ringingly"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "word": "poem",
+  "found": true,
+  "phonetic_uk": "ˈpəʊɪm",
+  "phonetic_us": "ˈpoʊəm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=poem&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=poem&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "诗，韵文"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "poems"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The poem uses simple language.",
+      "zh": "这首诗用语简单。"
+    },
+    {
+      "en": "The poem has been set to music.",
+      "zh": "这首诗被谱了曲。"
+    },
+    {
+      "en": "He read a poem entitled 'Salt'.",
+      "zh": "他朗诵一首题为《盐》的诗。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "诗",
+      "words": [
+        "poetry",
+        "verse"
+      ]
+    }
+  ]
+}

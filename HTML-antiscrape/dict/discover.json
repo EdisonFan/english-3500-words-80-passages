@@ -1,0 +1,64 @@
+{
+  "word": "discover",
+  "found": true,
+  "phonetic_uk": "dɪˈskʌvə(r)",
+  "phonetic_us": "dɪˈskʌvər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=discover&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=discover&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "发现，找到；了解到，发觉，查明；发掘（人才）；初次接触"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "discovers"
+    },
+    {
+      "name": "现在分词",
+      "value": "discovering"
+    },
+    {
+      "name": "过去式",
+      "value": "discovered"
+    },
+    {
+      "name": "过去分词",
+      "value": "discovered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Only later did she discover a talent for writing.",
+      "zh": "她后来才发现自己的写作天分。"
+    },
+    {
+      "en": "We happened to discover we had a friend in common.",
+      "zh": "我们碰巧发现我们有个共同的朋友。"
+    },
+    {
+      "en": "It's exciting to discover traces of earlier civilizations.",
+      "zh": "发现以前文明的遗迹，真令人兴奋。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "发现；发觉",
+      "words": [
+        "detect",
+        "sniff out"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "发现",
+      "words": [
+        "sniff out",
+        "to find"
+      ]
+    }
+  ]
+}

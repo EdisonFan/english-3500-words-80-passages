@@ -1,0 +1,95 @@
+{
+  "word": "wrong",
+  "found": true,
+  "phonetic_uk": "rɒŋ",
+  "phonetic_us": "rɔːŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=wrong&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=wrong&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "错误的，不合乎事实的；（状况）有问题的，（身体）有毛病的；（决定、选择、行动等）错误的；（言论或想法）错的；不道德的，不能被社会所接受的；不合适的，不适宜的；（机器设备）出毛病的；上下（或前后、里外）颠倒的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "错误地，不符合事实地；（方式或方向）不适当地，不适宜地；出问题；不正当地"
+    },
+    {
+      "pos": "n.",
+      "meaning": "坏事，不道德行为， 错误的行为（或情况）；冤枉，不公平的行为"
+    },
+    {
+      "pos": "v.",
+      "meaning": "不公正地对待，冤枉"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Wrong）（美、俄、荷）朗（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "wrongs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "wrongs"
+    },
+    {
+      "name": "现在分词",
+      "value": "wronging"
+    },
+    {
+      "name": "过去式",
+      "value": "wronged"
+    },
+    {
+      "name": "过去分词",
+      "value": "wronged"
+    }
+  ],
+  "examples": [
+    {
+      "en": "'You're wrong!' she rejoined.",
+      "zh": "“你错了！”她反驳道。"
+    },
+    {
+      "en": "'You're wrong,' interjected Susan.",
+      "zh": "“你错了。”苏珊插嘴说。"
+    },
+    {
+      "en": "My name is spelt wrong.",
+      "zh": "我的名字给拼错了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "错误地；邪恶的，不正当地",
+      "words": [
+        "in error",
+        "incorrectly"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "坏事；不公正",
+      "words": [
+        "bad",
+        "injustice"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "错误的；失常的；不适当的",
+      "words": [
+        "false",
+        "incorrect",
+        "unhappy",
+        "improper",
+        "inadequate"
+      ]
+    }
+  ]
+}

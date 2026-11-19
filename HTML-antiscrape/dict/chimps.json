@@ -1,0 +1,35 @@
+{
+  "word": "chimps",
+  "found": true,
+  "phonetic_uk": "tʃɪmp",
+  "phonetic_us": "tʃɪmp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=chimps&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=chimps&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（非洲的）黑猩猩"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "chimps"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Chimps are truly selfish.",
+      "zh": "黑猩猩真的很自私。"
+    },
+    {
+      "en": "Chimps in the wild seek food for themselves.",
+      "zh": "野生黑猩猩要自己寻找食物。"
+    },
+    {
+      "en": "Chimps demonstrate highly developed skills of communication.",
+      "zh": "黑猩猩表现出高度发达的交流技能。"
+    }
+  ],
+  "synonyms": []
+}

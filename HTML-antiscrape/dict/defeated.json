@@ -1,0 +1,42 @@
+{
+  "word": "defeated",
+  "found": true,
+  "phonetic_uk": "dɪˈfiːtɪd",
+  "phonetic_us": "dɪˈfiːtɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=defeated&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=defeated&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "击败，挫败（defeat 的过去式和过去分词）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "被击败的；受挫的，泄气的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He can't endure being defeated.",
+      "zh": "他无法忍受失败。"
+    },
+    {
+      "en": "He handily defeated his challengers.",
+      "zh": "他轻而易举地打败了向他挑战的人。"
+    },
+    {
+      "en": "The team was soundly defeated.",
+      "zh": "这支队一败涂地。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "被击败，失败（defeat的过去式）",
+      "words": [
+        "failed"
+      ]
+    }
+  ]
+}

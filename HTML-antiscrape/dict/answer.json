@@ -1,0 +1,82 @@
+{
+  "word": "answer",
+  "found": true,
+  "phonetic_uk": "ˈɑːnsə(r)",
+  "phonetic_us": "ˈænsər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=answer&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=answer&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "回答，答复；回复；接电话；应门；答（题）；回应，反击；满足，适合；与……相符，相配；解决（问题）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "回答，答复；答案；解决办法；回信，回函；接听，应门；相当的人，对应物"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "answers"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "answers"
+    },
+    {
+      "name": "现在分词",
+      "value": "answering"
+    },
+    {
+      "name": "过去式",
+      "value": "answered"
+    },
+    {
+      "name": "过去分词",
+      "value": "answered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Your answer is exactly right.",
+      "zh": "你的回答完全正确。"
+    },
+    {
+      "en": "He couldn't answer the question.",
+      "zh": "他没有能回答那个问题。"
+    },
+    {
+      "en": "Neither answer is correct.",
+      "zh": "两个答案都不对。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "回答；符合",
+      "words": [
+        "reply",
+        "meet with"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "回答；符合",
+      "words": [
+        "reply",
+        "accord"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "回答；答案；[法]答辩",
+      "words": [
+        "response",
+        "defence",
+        "reply",
+        "result"
+      ]
+    }
+  ]
+}

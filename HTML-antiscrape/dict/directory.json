@@ -1,0 +1,57 @@
+{
+  "word": "directory",
+  "found": true,
+  "phonetic_uk": "dəˈrektəri",
+  "phonetic_us": "dəˈrektəri",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=directory&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=directory&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "名址录，电话号码簿；（计算机的）目录，文件夹；<史>（尤指长老会和罗马天主教会的）礼拜规则书"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "指导的，咨询的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "directories"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This command deletes files from the directory.",
+      "zh": "这一指令把文档从目录中删除。"
+    },
+    {
+      "en": "Yahoo is the oldest and best-known Web directory service.",
+      "zh": "雅虎是提供网上目录检索服务最早、最知名的网站。"
+    },
+    {
+      "en": "You can use a directory service to search for people on the Internet.",
+      "zh": "你可以使用目录服务在因特网上搜索人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计]目录；工商名录；姓名地址录",
+      "words": [
+        "content",
+        "list",
+        "catalogue"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "指导的；咨询的",
+      "words": [
+        "consulting",
+        "advisory"
+      ]
+    }
+  ]
+}

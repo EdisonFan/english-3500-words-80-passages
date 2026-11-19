@@ -1,0 +1,47 @@
+{
+  "word": "away",
+  "found": true,
+  "phonetic_uk": "əˈweɪ",
+  "phonetic_us": "əˈweɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=away&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=away&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "距离……有多远，距离……有多久；朝另一个方向；不在，离开；（放）在安全的地方；逐渐消失；一直，继续不断地；移走；（比赛）在客场"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "（球队比赛）客场的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "客场比赛，客场获胜"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She walked quickly away.",
+      "zh": "她迅速走开了。"
+    },
+    {
+      "en": "The car purred away.",
+      "zh": "汽车咕隆着开走了。"
+    },
+    {
+      "en": "The horses galloped away.",
+      "zh": "那些马疾驰而去。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "离去，离开；在远处",
+      "words": [
+        "aside",
+        "beyond"
+      ]
+    }
+  ]
+}

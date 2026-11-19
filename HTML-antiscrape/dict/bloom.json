@@ -1,0 +1,84 @@
+{
+  "word": "bloom",
+  "found": true,
+  "phonetic_uk": "bluːm",
+  "phonetic_us": "bluːm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bloom&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bloom&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "花，花朵；花期；青春焕发，风华正茂；（肤色的）红润；（一些水果和植物的）粉衣，粉霜；（尤指音乐录音中）饱满响亮的声音；方坯"
+    },
+    {
+      "pos": "v.",
+      "meaning": "开花，绽放；繁荣，兴旺；精神焕发；给（透镜）敷膜；把（铸块）铸成方坯"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Bloom）（英）布卢姆，（瑞典、西）布洛姆（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "blooms"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "blooms"
+    },
+    {
+      "name": "现在分词",
+      "value": "blooming"
+    },
+    {
+      "name": "过去式",
+      "value": "bloomed"
+    },
+    {
+      "name": "过去分词",
+      "value": "bloomed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The daffodils were in full bloom.",
+      "zh": "水仙花盛开了。"
+    },
+    {
+      "en": "Most roses will begin to bloom from late May.",
+      "zh": "大多数玫瑰从五月末开始开花。"
+    },
+    {
+      "en": "There are a lot of roses in bloom.",
+      "zh": "有许多盛开的玫瑰花。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[植]花；青春；旺盛",
+      "words": [
+        "youth",
+        "flower",
+        "green"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使开花；使茂盛",
+      "words": [
+        "flower"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "开花；茂盛",
+      "words": [
+        "blossom out",
+        "come into blossom"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "word": "over",
+  "found": true,
+  "phonetic_uk": "ˈəʊvə(r)",
+  "phonetic_us": "ˈoʊvər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=over&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=over&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "向下，倒下；翻过，翻转；越过；超过，以上；完全覆盖；在上方；剩下，余下；再，又；改变，掉换；结束，完；去，到（某处）；很，太；仔细地；度过一段时间"
+    },
+    {
+      "pos": "prep.",
+      "meaning": "盖在……上面；悬在……上面；从一边到另一边；翻越；在……的对面；从……落下；遍及；超过，多于；控制，支配；在……期间；渡过（难关等）；由于，关于；利用，通过；声音大于；胜过，优于；尽管；漏掉，略过；除以"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（板球）一轮投球"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "结束的；剩下的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "越过"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Over）（美、英、德）奥韦尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "overs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "overs"
+    },
+    {
+      "name": "现在分词",
+      "value": "overing"
+    },
+    {
+      "name": "过去式",
+      "value": "overed"
+    },
+    {
+      "name": "过去分词",
+      "value": "overed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He's over 50.",
+      "zh": "他已年过半百。"
+    },
+    {
+      "en": "Over the last decade, auto theft has increased by over 56 percent.",
+      "zh": "过去的10年来汽车盗窃案上升了56％以上。"
+    },
+    {
+      "en": "He plays the same songs over and over.",
+      "zh": "他反复演奏同样的几首歌曲。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "结束；越过；从头到尾",
+      "words": [
+        "all up"
+      ]
+    },
+    {
+      "pos": "prep.",
+      "meaning": "越过；在…之上；遍于…之上",
+      "words": [
+        "upon",
+        "onto",
+        "beyond",
+        "past",
+        "up"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "结束的；上面的",
+      "words": [
+        "ended",
+        "upper",
+        "closing",
+        "past",
+        "concluding"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "word": "tail",
+  "found": true,
+  "phonetic_uk": "teɪl",
+  "phonetic_us": "teɪl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tail&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tail&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（动物的）尾巴；（一些蝴蝶的）狭翅须；（物体的）尾状物，尾部；（离去事物的）末尾部分；<非正式>盯梢人，跟踪者；（男子）燕尾服（tails）；硬币的反面（tails）；（水池的）浅水端，（河流的）下游；（屋瓦的）叠余外露部分；（板球）最弱的击球手；（数）截尾"
+    },
+    {
+      "pos": "v.",
+      "meaning": "跟踪，盯梢；（飞行物体）曲线移动； 拉紧（绞索）；除去（水果或蔬菜的）梗"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "tails"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "tails"
+    },
+    {
+      "name": "现在分词",
+      "value": "tailing"
+    },
+    {
+      "name": "过去式",
+      "value": "tailed"
+    },
+    {
+      "name": "过去分词",
+      "value": "tailed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The dog ran up, wagging its tail.",
+      "zh": "那条狗摇着尾巴跑上前去。"
+    },
+    {
+      "en": "The pony swished its tail.",
+      "zh": "小马刷刷地甩着尾巴。"
+    },
+    {
+      "en": "The tail tapered to a rounded tip.",
+      "zh": "尾部越来越细，最后成了个圆尖。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "尾部；辫子；踪迹；燕尾服",
+      "words": [
+        "track",
+        "rump"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "尾随；装上尾巴",
+      "words": [
+        "dog",
+        "shadow"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "跟踪；变少或缩小",
+      "words": [
+        "follow up the scent"
+      ]
+    }
+  ]
+}

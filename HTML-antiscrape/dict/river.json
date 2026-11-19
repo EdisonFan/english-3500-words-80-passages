@@ -1,0 +1,47 @@
+{
+  "word": "river",
+  "found": true,
+  "phonetic_uk": "ˈrɪvə(r)",
+  "phonetic_us": "ˈrɪvər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=river&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=river&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "河，江"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（River）人名；（英）里弗"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "rivers"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The river was alive with birds.",
+      "zh": "这条河流周围满是各种鸟类。"
+    },
+    {
+      "en": "The river overflowed its banks.",
+      "zh": "河水涨出了堤岸。"
+    },
+    {
+      "en": "The river gurgled and burbled.",
+      "zh": "河水汩汩流淌。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "河，江",
+      "words": [
+        "kawa"
+      ]
+    }
+  ]
+}

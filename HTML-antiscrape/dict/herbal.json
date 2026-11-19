@@ -1,0 +1,39 @@
+{
+  "word": "herbal",
+  "found": true,
+  "phonetic_uk": "ˈhɜːb(ə)l",
+  "phonetic_us": "ˈɜːrb(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=herbal&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=herbal&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "药草的，香草的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "草本植物志，草药志"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "herbals"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Mom was a great believer in herbal medicines.",
+      "zh": "妈妈是个深信草药的人。"
+    },
+    {
+      "en": "Unlicensed steroids are being disguised as herbal medicines.",
+      "zh": "无许可的类固醇被伪装成为草药。"
+    },
+    {
+      "en": "Herbal remedies are remarkably successful in treating eczema.",
+      "zh": "草药疗法医治湿疹非常成功。"
+    }
+  ],
+  "synonyms": []
+}

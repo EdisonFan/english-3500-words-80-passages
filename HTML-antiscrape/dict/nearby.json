@@ -1,0 +1,59 @@
+{
+  "word": "nearby",
+  "found": true,
+  "phonetic_uk": "ˌnɪəˈbaɪ",
+  "phonetic_us": "ˌnɪrˈbaɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=nearby&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=nearby&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "附近的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "在附近"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Police evacuated nearby buildings.",
+      "zh": "警方已将附近大楼的居民疏散。"
+    },
+    {
+      "en": "The car is parked nearby.",
+      "zh": "车就停在附近。"
+    },
+    {
+      "en": "The peacocks roost in nearby shrubs.",
+      "zh": "那只孔雀在附近的灌木丛里栖息。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "附近的，邻近的",
+      "words": [
+        "adjacent",
+        "surrounding"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "在附近",
+      "words": [
+        "around",
+        "close by"
+      ]
+    },
+    {
+      "pos": "prep.",
+      "meaning": "在…附近",
+      "words": [
+        "in the shadow of",
+        "in the vicinity of"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "word": "more",
+  "found": true,
+  "phonetic_uk": "mɔː(r)",
+  "phonetic_us": "mɔːr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=more&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=more&type=2",
+  "defs": [
+    {
+      "pos": "det.",
+      "meaning": "（数、量等）更多的，更大的（much、a lot of 和 many 的比较级）；另外的，附加的"
+    },
+    {
+      "pos": "pron.",
+      "meaning": "（数、量等）更多的，更大的（much、a lot of 和 many 的比较级）；多了的部分"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "更；（程度上）更强，更多；继续，再；又一次；还有，再者；额外地；更像（前者）地"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "更多的，更大的；额外的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 【名】（More）人名；（英、法）莫尔；（意、西、以）莫雷"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "More and more people are using the Internet.",
+      "zh": "越来越多人在使用互联网。"
+    },
+    {
+      "en": "As time went on he grew more and more impatient.",
+      "zh": "时间长了，他越来越没有耐心。"
+    },
+    {
+      "en": "She spends more and more time alone in her room.",
+      "zh": "她一个人待在屋里的时间越来越多。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "更多；此外；更大程度地",
+      "words": [
+        "furthermore",
+        "again",
+        "besides",
+        "then",
+        "additionally"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "更多的；附加的",
+      "words": [
+        "additional",
+        "added",
+        "attached",
+        "plus",
+        "second"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "更多",
+      "words": [
+        "mehr"
+      ]
+    }
+  ]
+}

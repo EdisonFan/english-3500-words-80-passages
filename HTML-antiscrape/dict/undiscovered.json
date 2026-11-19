@@ -1,0 +1,39 @@
+{
+  "word": "undiscovered",
+  "found": true,
+  "phonetic_uk": "ˌʌndɪˈskʌvəd",
+  "phonetic_us": "ˌʌndɪˈskʌvərd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=undiscovered&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=undiscovered&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "未被发现的；未勘探的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The name Vulcan was given to the undiscovered planet.",
+      "zh": "“伏尔坎”这个名字被用来给未被发现的星体命名。"
+    },
+    {
+      "en": "In Juan's world, the unknown and undiscovered was vast and marvelous.",
+      "zh": "在 Juan 的世界里，未知和未被发现的东西是广阔而不可思议的。"
+    },
+    {
+      "en": "In any case, failure to find fossils of a predicted kind does not rule out their existence in an undiscovered deposit.",
+      "zh": "在任何情况下，没有发现预测到的化石并不表示它们不存在于未发现的矿床中。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "未被发现的；未勘探的",
+      "words": [
+        "undetected",
+        "unfound"
+      ]
+    }
+  ]
+}

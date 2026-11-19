@@ -1,0 +1,64 @@
+{
+  "word": "weaken",
+  "found": true,
+  "phonetic_uk": "ˈwiːkən",
+  "phonetic_us": "ˈwiːkən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=weaken&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=weaken&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（使）虚弱，（使）衰弱；（使）变弱，削弱；使（肯定程度）减弱，动摇，犹豫；（使）（大楼 、结构体等）不结实；（使）（股票等）疲弱，疲软"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "weakens"
+    },
+    {
+      "name": "现在分词",
+      "value": "weakening"
+    },
+    {
+      "name": "过去式",
+      "value": "weakened"
+    },
+    {
+      "name": "过去分词",
+      "value": "weakened"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Nothing could weaken his resolve to continue.",
+      "zh": "什么也不能削弱他继续下去的决心。"
+    },
+    {
+      "en": "He accused them of conniving with foreign companies to weaken employment rights.",
+      "zh": "他指控他们与外国公司共谋来削弱雇用权。"
+    },
+    {
+      "en": "She felt her legs weaken.",
+      "zh": "她觉得两腿无力。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "减少；使变弱；使变淡",
+      "words": [
+        "shorten",
+        "to cut down"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "变弱；畏缩；变软弱",
+      "words": [
+        "moderate",
+        "recoil from"
+      ]
+    }
+  ]
+}

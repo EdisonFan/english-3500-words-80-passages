@@ -1,0 +1,56 @@
+{
+  "word": "problem",
+  "found": true,
+  "phonetic_uk": "ˈprɒbləm",
+  "phonetic_us": "ˈprɑːbləm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=problem&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=problem&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "问题，难题，困难；疾病；（通过算数或仔细思考而解决的）题；（感觉上）不喜欢，不情愿；（尤指国际象棋等）棋式，排局"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "难对付的，成问题的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "problems"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Lawlessness is a major problem.",
+      "zh": "违反法律是一个严重的问题。"
+    },
+    {
+      "en": "She's a good problem solver.",
+      "zh": "她是解决问题的高手。"
+    },
+    {
+      "en": "The wider problem remains.",
+      "zh": "更广泛的问题依然存在。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "难题；引起麻烦的人",
+      "words": [
+        "conundrum",
+        "puzzler"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "成问题的；难处理的",
+      "words": [
+        "debatable",
+        "stubborn"
+      ]
+    }
+  ]
+}

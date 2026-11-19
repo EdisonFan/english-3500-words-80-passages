@@ -1,0 +1,254 @@
+{
+  "id": 16,
+  "stats": {
+    "words": 339,
+    "core": 44
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "My name is Alice.Early last year, I was troubled by an {anxiety} that crippled ( (削弱) ) my {ability} to do anything.I felt like a {storm cloud hung} over me.For almost a year I struggled on, {constantly} staring at this {wall} that faced me.My perfectionist ( (完美主义者) ) {tendencies} were the main {root} of this: I wanted to be {perfect} at whatever I did, which {obviously} in life is not possible, but it {consumed} me.",
+      "cn": "我的名字叫爱丽丝。去年年初，我被 <u> 焦虑 </u> 所困扰，这种焦虑削弱了我做任何事情的 <u> 能力 </u> 。我感觉自己就像被一片 <u> 暴风雨云笼罩 </u> 着。将近一年的时间里，我一直在努力挣扎， <u> 不停地 </u> 注视着这堵横亘在我面前的 <u> 墙 </u> 。我的完美主义 <u> 倾向 </u> 是这一切的主要 <u> 根源 </u> ：我希望自己做任何事都能 <u> 尽善尽美 </u> ，这在现实中 <u> 显然 </u> 是不可能的，但这种想法 <u> 消磨 </u> 着我。"
+    },
+    {
+      "num": "02",
+      "en": "One day, I {attended} a presentation by {wildlife} {conservationist} Grant Brown at my high school.His presentation not only {awed} and {inspired} me, but also helped an {inner} desire to make a difference in the world {emerge} .I joined a pre-presentation {dinner} with him and that smaller {setting} allowed me to {slowly} build up my {courage} to speak one-on-one with him—an idea that had seemed {completely} {impossible} .This first contact was where my story began.",
+      "cn": "有一天，我在我的高中 <u> 参加 </u> 了一场 <u> 野生动物保护主义者 </u> 格兰特·布朗的演讲。他的演讲不仅 <u> 让 </u> 我 <u> 惊叹 </u> ，使我受到 <u> 鼓舞 </u> ，还使我 <u> 内 </u> 心 <u> 浮现 </u> 出想要改变世界的愿望。我和他一起参加了演讲前的 <u> 晚宴 </u> ，在那个相对较小的 <u> 场合 </u> 里，我得以 <u> 慢慢 </u> 鼓起 <u> 勇气 </u> ，与他进行了一对一的交谈——这在之前似乎是 <u> 完全不可能的 </u> 事情。而这第一次的接触就是我的故事开始的地方。"
+    },
+    {
+      "num": "03",
+      "en": "A month later, Brown invited me to attend the World {Youth} Wildlife {Conference} .Looking back, I now see that this would be the first in a {series} of {timely} opportunities that my old self would have let pass, but that this new and more confident Alice {enthusiastically} {seized} .Shortly after I {received} his {invitation} , {applications} to join the Youth for Nature and the Youth for {Planet} groups were sent around through my high school.I decided to {commit} to completing the applications, and soon I was a part of a growing global {team} of young people working to {protect} nature.Each of these new steps continued to grow my confidence.",
+      "cn": "一个月后，布朗邀请我参加世界 <u> 青年 </u> 野生动物 <u> 大会 </u> 。如今回想起来，我意识到，这将是一 <u> 系列 </u> 我 <u> 及时 </u> 抓住的机会中的第一个，过去的我可能会错过这些机会，但这个新的、更自信的爱丽丝却 <u> 满怀热情地抓住 </u> 了它们。在我 <u> 收到 </u> 他的 <u> 邀请 </u> 后不久，加入“青年护自然”和“青年护 <u> 地球 </u> ”团体的 <u> 申请 </u> 就在我的高中传开了。我决定 <u> 努力 </u> 完成这些申请，不久，我就成为一个由年轻人组成的、致力于 <u> 保护 </u> 自然，且日益壮大的全球性 <u> 团队 </u> 中的一员。每迈出这样新的一步，我的信心都在不断增强。"
+    },
+    {
+      "num": "04",
+      "en": "I am writing this just six months since my journey began, and I've realized that my {biggest obstacle} this whole time was myself.It was that {voice} in the back of my head telling me that one phrase that has stopped so many people from reaching their {potential} : I can't.They say good things come to those who wait; I say: {grab} every opportunity with everything you have and be impatient.After all, nature does not require our patience, but our {action} .",
+      "cn": "我写下这些文字时，距离我的旅程开始只过去了六个月，我意识到一直以来我 <u> 最大的障碍 </u> 就是我自己。是我脑海深处的 <u> 声音 </u> 告诉我那句话，正是这句话阻止了许多人发挥他们的 <u> 潜力 </u> ：我做不到。人们常说，好事多磨；而我说，竭尽全力 <u> 抓住 </u> 每一个机会，并且要迫不及待。毕竟，大自然需要的不是我们的耐心，而是我们的 <u> 行动 </u> 。 "
+    }
+  ],
+  "vocab": [
+    {
+      "word": "anxiety",
+      "type": "outline",
+      "ctx": "[U]焦虑，忧虑"
+    },
+    {
+      "word": "ability",
+      "type": "outline",
+      "ctx": "能力"
+    },
+    {
+      "word": "storm",
+      "type": "outline",
+      "ctx": "暴风雨"
+    },
+    {
+      "word": "cloud",
+      "type": "outline",
+      "ctx": "云"
+    },
+    {
+      "word": "hang",
+      "type": "outline",
+      "ctx": "悬挂，吊着"
+    },
+    {
+      "word": "constantly",
+      "type": "core",
+      "ctx": "始终，一直"
+    },
+    {
+      "word": "wall",
+      "type": "outline",
+      "ctx": "墙"
+    },
+    {
+      "word": "tendency",
+      "type": "outline",
+      "ctx": "[C]倾向，趋势"
+    },
+    {
+      "word": "root",
+      "type": "outline",
+      "ctx": "根"
+    },
+    {
+      "word": "perfect",
+      "type": "outline",
+      "ctx": "完美的，极好的"
+    },
+    {
+      "word": "obviously",
+      "type": "outline",
+      "ctx": "显然，明显地，显而易见地"
+    },
+    {
+      "word": "consume",
+      "type": "outline",
+      "ctx": "消耗"
+    },
+    {
+      "word": "attend",
+      "type": "outline",
+      "ctx": "出席，参加"
+    },
+    {
+      "word": "wildlife",
+      "type": "core",
+      "ctx": "野生动物"
+    },
+    {
+      "word": "conservationist",
+      "type": "core",
+      "ctx": "自然环境保护主义者"
+    },
+    {
+      "word": "awe",
+      "type": "core",
+      "ctx": "使敬畏，使惊叹"
+    },
+    {
+      "word": "inspire",
+      "type": "outline",
+      "ctx": "鼓舞，激励"
+    },
+    {
+      "word": "inner",
+      "type": "outline",
+      "ctx": "内部的，里面的"
+    },
+    {
+      "word": "emerge",
+      "type": "outline",
+      "ctx": "出现，浮现"
+    },
+    {
+      "word": "dinner",
+      "type": "outline",
+      "ctx": "正餐，晚餐"
+    },
+    {
+      "word": "setting",
+      "type": "outline",
+      "ctx": "背景，环境"
+    },
+    {
+      "word": "slowly",
+      "type": "core",
+      "ctx": "慢速地，缓慢地，迟缓地"
+    },
+    {
+      "word": "courage",
+      "type": "outline",
+      "ctx": "[U]勇气，胆略"
+    },
+    {
+      "word": "completely",
+      "type": "core",
+      "ctx": "彻底地，完全地，完整地"
+    },
+    {
+      "word": "impossible",
+      "type": "outline",
+      "ctx": "不可能的"
+    },
+    {
+      "word": "youth",
+      "type": "outline",
+      "ctx": "青春"
+    },
+    {
+      "word": "conference",
+      "type": "outline",
+      "ctx": "会议"
+    },
+    {
+      "word": "series",
+      "type": "outline",
+      "ctx": "连续，一系列"
+    },
+    {
+      "word": "timely",
+      "type": "core",
+      "ctx": "及时的，适时的"
+    },
+    {
+      "word": "enthusiastically",
+      "type": "core",
+      "ctx": "热情地，激动地"
+    },
+    {
+      "word": "seize",
+      "type": "core",
+      "ctx": "抓住（时机等）"
+    },
+    {
+      "word": "receive",
+      "type": "outline",
+      "ctx": "收到，得到"
+    },
+    {
+      "word": "invitation",
+      "type": "core",
+      "ctx": "邀请"
+    },
+    {
+      "word": "application",
+      "type": "outline",
+      "ctx": "申请"
+    },
+    {
+      "word": "planet",
+      "type": "outline",
+      "ctx": "行星"
+    },
+    {
+      "word": "commit",
+      "type": "outline",
+      "ctx": "犯（错误），干（坏事）"
+    },
+    {
+      "word": "team",
+      "type": "outline",
+      "ctx": "队，组"
+    },
+    {
+      "word": "protect",
+      "type": "outline",
+      "ctx": "保护"
+    },
+    {
+      "word": "big",
+      "type": "outline",
+      "ctx": "大的"
+    },
+    {
+      "word": "obstacle",
+      "type": "core",
+      "ctx": "障碍"
+    },
+    {
+      "word": "voice",
+      "type": "outline",
+      "ctx": "嗓音，说话声"
+    },
+    {
+      "word": "potential",
+      "type": "outline",
+      "ctx": "潜在的，可能的"
+    },
+    {
+      "word": "grab",
+      "type": "outline",
+      "ctx": "抓住"
+    },
+    {
+      "word": "action",
+      "type": "outline",
+      "ctx": "行动"
+    }
+  ],
+  "audio": "https://pc-media.xdfsjj.com/a7479bda910be4adeb66df83c6c0d667/6A3D411F/tm7345927_ff5f02b62f294a8ab0823281a819e91771f0cc3f.mp3",
+  "duration": "04:05",
+  "resourceId": "33187586"
+}

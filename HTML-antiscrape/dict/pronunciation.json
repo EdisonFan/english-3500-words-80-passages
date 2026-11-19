@@ -1,0 +1,44 @@
+{
+  "word": "pronunciation",
+  "found": true,
+  "phonetic_uk": "prəˌnʌnsiˈeɪʃ(ə)n",
+  "phonetic_us": "prəˌnʌnsiˈeɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pronunciation&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pronunciation&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "发音方法，读法；（某人的）发音"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "pronunciations"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Your pronunciation is excellent.",
+      "zh": "你的发音好极了。"
+    },
+    {
+      "en": "She gave the word its French pronunciation.",
+      "zh": "她给出了这个单词的法语发音。"
+    },
+    {
+      "en": "There is more than one pronunciation of 'garage'.",
+      "zh": "garage的读音不止一种。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "发音；读法",
+      "words": [
+        "sonation",
+        "vocalization"
+      ]
+    }
+  ]
+}

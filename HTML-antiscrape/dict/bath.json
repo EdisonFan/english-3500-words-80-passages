@@ -1,0 +1,78 @@
+{
+  "word": "bath",
+  "found": true,
+  "phonetic_uk": "bɑːθ",
+  "phonetic_us": "bæθ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bath&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bath&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "浴缸，浴盆；洗澡，沐浴；浴室；池，盆"
+    },
+    {
+      "pos": "v.",
+      "meaning": "给……洗澡；洗澡，沐浴"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "baths"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "baths"
+    },
+    {
+      "name": "现在分词",
+      "value": "bathing"
+    },
+    {
+      "name": "过去式",
+      "value": "bathed"
+    },
+    {
+      "name": "过去分词",
+      "value": "bathed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The midwife gave him a warm bath.",
+      "zh": "助产士给他洗了个温水澡。"
+    },
+    {
+      "en": "He sluiced the bath and filled it.",
+      "zh": "他冲洗了浴缸，然后放满了一缸水。"
+    },
+    {
+      "en": "The baby loves bath time.",
+      "zh": "这婴儿喜欢洗澡的时候。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "沐浴；浴室；[建]浴盆",
+      "words": [
+        "ablutions",
+        "bagnio"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "洗澡",
+      "words": [
+        "wash oneself"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "洗澡",
+      "words": [
+        "wash oneself"
+      ]
+    }
+  ]
+}

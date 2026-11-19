@@ -1,0 +1,84 @@
+{
+  "word": "hire",
+  "found": true,
+  "phonetic_uk": "ˈhaɪə(r)",
+  "phonetic_us": "ˈhaɪər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=hire&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=hire&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "<英>租用，租借；聘用，录用"
+    },
+    {
+      "pos": "n.",
+      "meaning": "租借，租金；<美>被雇用的人"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Hire）（美、印）希尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "hires"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "hires"
+    },
+    {
+      "name": "现在分词",
+      "value": "hiring"
+    },
+    {
+      "name": "过去式",
+      "value": "hired"
+    },
+    {
+      "name": "过去分词",
+      "value": "hired"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Do you hire out bikes?",
+      "zh": "你们出租自行车吗？"
+    },
+    {
+      "en": "We had to hire maids through an agency.",
+      "zh": "我们得通过代理公司雇用女佣。"
+    },
+    {
+      "en": "The price includes the hire of the hall.",
+      "zh": "费用包括礼堂租金。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "雇用，租用；租金，工钱",
+      "words": [
+        "employment",
+        "rental",
+        "letting"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "雇用；出租",
+      "words": [
+        "rent",
+        "employ"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "雇用，租用；受雇",
+      "words": [
+        "take on"
+      ]
+    }
+  ]
+}

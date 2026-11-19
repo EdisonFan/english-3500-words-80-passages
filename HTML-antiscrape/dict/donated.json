@@ -1,0 +1,34 @@
+{
+  "word": "donated",
+  "found": true,
+  "phonetic_uk": "ˈdəʊneɪtɪd",
+  "phonetic_us": "ˈdoʊneɪtɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=donated&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=donated&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "捐赠的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "捐赠（donate 的过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He donated thousands of pounds to charity.",
+      "zh": "他向慈善事业捐款数千英镑。"
+    },
+    {
+      "en": "All donated blood is tested for HIV and other infections.",
+      "zh": "对所有捐献的血都要进行艾滋病病毒和其他传染病病毒检测。"
+    },
+    {
+      "en": "It is mandatory for blood banks to test all donated blood for the virus.",
+      "zh": "血库必须检查所有捐献的血是否含有这种病毒。"
+    }
+  ],
+  "synonyms": []
+}

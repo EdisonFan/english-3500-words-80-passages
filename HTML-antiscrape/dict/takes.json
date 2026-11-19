@@ -1,0 +1,38 @@
+{
+  "word": "takes",
+  "found": true,
+  "phonetic_uk": "teɪks",
+  "phonetic_us": "teɪks",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=takes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=takes&type=2",
+  "defs": [
+    {
+      "pos": "vt.",
+      "meaning": "取走，预备动作（take 第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He takes bends much too fast.",
+      "zh": "他拐弯时车开得太快。"
+    },
+    {
+      "en": "It only takes forty seconds.",
+      "zh": "这只需40秒。"
+    },
+    {
+      "en": "His mother always takes his part.",
+      "zh": "他母亲总是向着他。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "取走，预备动作（take第三人称单数）",
+      "words": [
+        "take away"
+      ]
+    }
+  ]
+}

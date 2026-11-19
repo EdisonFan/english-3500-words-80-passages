@@ -1,0 +1,42 @@
+{
+  "word": "farms",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "fɑːrmz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=farms&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=farms&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[农经]农场；庄园（farm 的复数形式）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "耕种，种植，养殖（farm 的第三人称单数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "More farms are selling direct to consumers.",
+      "zh": "更多的农场在直接向消费者销售产品。"
+    },
+    {
+      "en": "Ray will earn his keep on local farms while studying.",
+      "zh": "学习期间，雷将在当地农场挣取生活费。"
+    },
+    {
+      "en": "Mechanization happened years ago on the farms of Islay.",
+      "zh": "机械化数年前在艾莱的农场实现了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "耕种，种植，养殖（farm的第三人称单数形式）",
+      "words": [
+        "crops"
+      ]
+    }
+  ]
+}

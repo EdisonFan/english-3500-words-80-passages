@@ -1,0 +1,89 @@
+{
+  "word": "need",
+  "found": true,
+  "phonetic_uk": "niːd",
+  "phonetic_us": "niːd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=need&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=need&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "需要；（表示应该或不得不做）有必要；<古>需要"
+    },
+    {
+      "pos": "n.",
+      "meaning": "需要，必须； 特别需要，迫切要求；需要的事物，欲望；（食物、钱或生活来源的）短缺，缺乏"
+    },
+    {
+      "pos": "aux.",
+      "meaning": "必要（用于劝告或建议）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "needs"
+    },
+    {
+      "name": "第三人���单数",
+      "value": "needs"
+    },
+    {
+      "name": "现在分词",
+      "value": "needing"
+    },
+    {
+      "name": "过去式",
+      "value": "needed"
+    },
+    {
+      "name": "过去分词",
+      "value": "needed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Children need their parents.",
+      "zh": "孩子们需要父母。"
+    },
+    {
+      "en": "He'll need intensive physiotherapy.",
+      "zh": "他需要高强度的理疗。"
+    },
+    {
+      "en": "I need a shave.",
+      "zh": "我需要刮胡子了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "需要，要求；缺乏；必要之物",
+      "words": [
+        "necessity",
+        "shortage",
+        "want",
+        "do",
+        "deficiency"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "需要",
+      "words": [
+        "ask",
+        "lack",
+        "claim",
+        "to require"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "需要",
+      "words": [
+        "wish",
+        "to require"
+      ]
+    }
+  ]
+}

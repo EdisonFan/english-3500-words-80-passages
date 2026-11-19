@@ -1,0 +1,284 @@
+{
+  "id": 13,
+  "stats": {
+    "words": 336,
+    "core": 50
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "{Habit} {formation} is the {process} by which {behaviors} become {automatic} .People {develop} {countless} habits as they {explore} the world, whether they are {aware} of them or not.Understanding how habits take shape may be {helpful} in changing {bad} habits.",
+      "cn": "<u> 习惯 </u> 的 <u> 养成 </u> 是 <u> 行为 </u> 变得 <u> 无意识 </u> 的 <u> 过程 </u> 。人们在 <u> 探索 </u> 世界的过程中会 <u> 养成无数的 </u> 习惯，无论他们是否 <u> 意识到 </u> 这些习惯。了解习惯是如何形成的可能 <u> 有助 </u> 于改变 <u> 坏 </u> 习惯。"
+    },
+    {
+      "num": "02",
+      "en": "Habits are {built} through learning and {repetition} .A {person} is thought to develop a habit in the course of pursuing {goals} by beginning to {associate} certain environmental cues ( (暗示) ) with behavioral {responses} that help meet the goal.For example, you might associate the touch of the {kettle} {button} , or the taste of {ham} on {toast} to the start of a new day.Over time, thoughts of the behavior and {ultimately} the behavior itself are {likely} to be triggered ( (触发) ) by these cues.Therefore, if you want to make running part of your routine, try placing your running {socks} and shoes next to your bed as a visual trigger.",
+      "cn": "习惯是通过学习和 <u> 重复养成 </u> 的。人们认为，一个 <u> 人 </u> 在实现 <u> 目标 </u> 的过程中，会通过 <u> 开始 </u> 将某些环境暗示与有助于实现该目标的行为 <u> 反应联系 </u> 起来，从而养成习惯。例如，你可能会把 <u> 水壶按钮 </u> 的触感，或 <u> 吐司 </u> 上 <u> 火腿 </u> 的味道，与新一天的开始联系起来。随着时间的推移，对这种行为的想法，以及 <u> 最终 </u> 这种行为本身， <u> 很可能 </u> 会被这些暗示所触发。因此，如果你想让跑步成为你日常活动的一部分，可以试着将运动 <u> 袜 </u> 和跑鞋放在床边，作为视觉诱因。"
+    },
+    {
+      "num": "03",
+      "en": "A “habit loop ( (环) )”is a way of {describing} several {related} {elements} that produce habits.These elements are {called} the cue, the {routine} , and the reward.For example, stress could {serve} as a cue that one {responds} to by eating, which produces the reward—the {reduction} of stress.While a routine {involves} {repeated} behavior, it's not {necessarily} {performed} in response to a deep-rooted {urge} , much like a {postman} following the same route daily without conscious thought.",
+      "cn": "“习惯循环”是一种 <u> 描述 </u> 产生习惯的几个 <u> 相关要素 </u> 的方式。这些要素被 <u> 称为 </u> 暗示、 <u> 惯例 </u> 和奖赏。例如，压力可 <u> 当作 </u> 一种暗示，人们对此的 <u> 反应 </u> 是进食，而进食会产生奖励，即 <u> 减轻 </u> 压力。虽然惯例 <u> 涉及重复的 </u> 行为，但它不 <u> 一定 </u> 是在深层的 <u> 冲动 </u> 驱使下 <u> 进行 </u> 的，这很像 <u> 邮递员 </u> 每天不假思索地沿着同一条路线投递邮件。"
+    },
+    {
+      "num": "04",
+      "en": "Old habits can be {difficult} to {shake} , and {healthy} habits are often harder to develop.But through repetition, it's possible to form new habits.The {length} of time needed to build a habit will {depend} on {multiple} factors, including the {individual} and the intended behavior. {While} a bad habit can be formed in a few weeks, it takes many {months} , approximately {ninety} days, to build a healthy habit.Take some time to think about what leads to bad habits and re-evaluate what you get out of them (or don't).Consider and keep in mind why you want to make a change, including how the change {reflects} your values and {blesses} your life in meaningful ways.",
+      "cn": "旧习惯可能 <u> 难 </u> 以 <u> 摆脱 </u> ，而 <u> 健康的 </u> 习惯通常更难养成。但通过重复，新习惯是有可能养成的。养成一个习惯所需时间的 <u> 长短取决于多种 </u> 因素，包括 <u> 个人 </u> 和预期行为。 <u> 虽然 </u> 一个坏习惯在几周内就能养成，但要养成一个健康的习惯，却需要几个 <u> 月 </u> 的时间，大约是 <u> 九十 </u> 天。花点时间想想是什么导致了坏习惯的养成，并重新考虑你从中得到了什么（或没有得到什么）。思考并牢记你为什么想要做出改变，包括这种改变如何 <u> 反映 </u> 你的价值观以及如何以有意义的方式 <u> 造福 </u> 你的生活。 "
+    }
+  ],
+  "vocab": [
+    {
+      "word": "habit",
+      "type": "outline",
+      "ctx": "习惯"
+    },
+    {
+      "word": "formation",
+      "type": "core",
+      "ctx": "形成，构成"
+    },
+    {
+      "word": "process",
+      "type": "outline",
+      "ctx": "过程，进程"
+    },
+    {
+      "word": "behavior",
+      "type": "outline",
+      "ctx": "行为，举止"
+    },
+    {
+      "word": "automatic",
+      "type": "outline",
+      "ctx": "自动的"
+    },
+    {
+      "word": "develop",
+      "type": "outline",
+      "ctx": "发展"
+    },
+    {
+      "word": "countless",
+      "type": "core",
+      "ctx": "无数的"
+    },
+    {
+      "word": "explore",
+      "type": "outline",
+      "ctx": "探索，勘察"
+    },
+    {
+      "word": "aware",
+      "type": "outline",
+      "ctx": "知道的，意识到的"
+    },
+    {
+      "word": "helpful",
+      "type": "outline",
+      "ctx": "有帮助的，有益的"
+    },
+    {
+      "word": "bad",
+      "type": "outline",
+      "ctx": "令人不快的，坏的"
+    },
+    {
+      "word": "build",
+      "type": "outline",
+      "ctx": "建造"
+    },
+    {
+      "word": "repetition",
+      "type": "core",
+      "ctx": "重复"
+    },
+    {
+      "word": "person",
+      "type": "outline",
+      "ctx": "人，个人"
+    },
+    {
+      "word": "goal",
+      "type": "outline",
+      "ctx": "目标"
+    },
+    {
+      "word": "associate",
+      "type": "core",
+      "ctx": "联想，联系"
+    },
+    {
+      "word": "response",
+      "type": "outline",
+      "ctx": "回答，答复"
+    },
+    {
+      "word": "kettle",
+      "type": "outline",
+      "ctx": "水壶"
+    },
+    {
+      "word": "button",
+      "type": "outline",
+      "ctx": "（机器的）按钮"
+    },
+    {
+      "word": "ham",
+      "type": "outline",
+      "ctx": "火腿"
+    },
+    {
+      "word": "toast",
+      "type": "outline",
+      "ctx": "烤面包，吐司"
+    },
+    {
+      "word": "ultimately",
+      "type": "outline",
+      "ctx": "最终，最后"
+    },
+    {
+      "word": "likely",
+      "type": "outline",
+      "ctx": "很可能的"
+    },
+    {
+      "word": "sock",
+      "type": "outline",
+      "ctx": "[pl.]短袜"
+    },
+    {
+      "word": "describe",
+      "type": "outline",
+      "ctx": "描述"
+    },
+    {
+      "word": "related",
+      "type": "core",
+      "ctx": "相关的，有联系的"
+    },
+    {
+      "word": "element",
+      "type": "outline",
+      "ctx": "要素，基本部分"
+    },
+    {
+      "word": "call",
+      "type": "outline",
+      "ctx": "称呼"
+    },
+    {
+      "word": "routine",
+      "type": "outline",
+      "ctx": "常规，惯例，日常事务"
+    },
+    {
+      "word": "serve",
+      "type": "outline",
+      "ctx": "服务"
+    },
+    {
+      "word": "respond",
+      "type": "outline",
+      "ctx": "回答，回应"
+    },
+    {
+      "word": "reduction",
+      "type": "core",
+      "ctx": "减少，缩小"
+    },
+    {
+      "word": "involve",
+      "type": "outline",
+      "ctx": "包括"
+    },
+    {
+      "word": "repeat",
+      "type": "outline",
+      "ctx": "重说"
+    },
+    {
+      "word": "necessarily",
+      "type": "core",
+      "ctx": "必要地"
+    },
+    {
+      "word": "perform",
+      "type": "core",
+      "ctx": "表演"
+    },
+    {
+      "word": "urge",
+      "type": "outline",
+      "ctx": "冲动"
+    },
+    {
+      "word": "postman",
+      "type": "outline",
+      "ctx": "邮递员"
+    },
+    {
+      "word": "difficult",
+      "type": "outline",
+      "ctx": "难的，艰难的"
+    },
+    {
+      "word": "shake",
+      "type": "outline",
+      "ctx": "摇动"
+    },
+    {
+      "word": "healthy",
+      "type": "outline",
+      "ctx": "健康的，健壮的"
+    },
+    {
+      "word": "length",
+      "type": "outline",
+      "ctx": "长，长度"
+    },
+    {
+      "word": "depend",
+      "type": "outline",
+      "ctx": "依靠"
+    },
+    {
+      "word": "multiple",
+      "type": "outline",
+      "ctx": "多种多样的，数量多的"
+    },
+    {
+      "word": "individual",
+      "type": "outline",
+      "ctx": "个人"
+    },
+    {
+      "word": "while",
+      "type": "outline",
+      "ctx": "正当……的时候"
+    },
+    {
+      "word": "month",
+      "type": "outline",
+      "ctx": "月，月份"
+    },
+    {
+      "word": "ninety",
+      "type": "outline",
+      "ctx": "九十"
+    },
+    {
+      "word": "reflect",
+      "type": "outline",
+      "ctx": "反射"
+    },
+    {
+      "word": "bless",
+      "type": "outline",
+      "ctx": "求上帝降福于，祝福"
+    }
+  ],
+  "audio": "https://pc-media.xdfsjj.com/1c660e4bb7f3b34a9f554ab91f7a439b/6A3D411F/tm7345927_79a2f28cd6b61ecc53bdd75db2e658820458c638.mp3",
+  "duration": "04:22",
+  "resourceId": "33187583"
+}

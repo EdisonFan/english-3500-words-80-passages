@@ -1,0 +1,54 @@
+{
+  "word": "ahead",
+  "found": true,
+  "phonetic_uk": "əˈhed",
+  "phonetic_us": "əˈhed",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ahead&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ahead&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "在前面，朝前面；领先，占优势；提前，预先；在将来，今后；（数量或价值上）更多，更高；取得进步，获得成功；超出预期地，超前地"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "在前的，提前的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Already, she is thinking ahead.",
+      "zh": "她早就在考虑未来了。"
+    },
+    {
+      "en": "China's economy galloped ahead.",
+      "zh": "中国的经济飞速向前发展。"
+    },
+    {
+      "en": "Brett looked straight ahead.",
+      "zh": "布瑞特向前直视。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "领先；向前；预先",
+      "words": [
+        "forth",
+        "in advance",
+        "previously",
+        "to",
+        "along"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "领先的；向前的",
+      "words": [
+        "forward",
+        "antrorse"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "word": "subjects",
+  "found": true,
+  "phonetic_uk": "ˈsʌbdʒɪkts",
+  "phonetic_us": "ˈsʌbdʒekts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=subjects&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=subjects&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "学科；科目；主题；被试者（subject 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使服从；使经受；提交（subject 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The two subjects are closely connected.",
+      "zh": "这两门学科紧密相连。"
+    },
+    {
+      "en": "Students will normally take three A2 subjects.",
+      "zh": "学生通常要选三门A2证书考试科目。"
+    },
+    {
+      "en": "She took six subjects at O level.",
+      "zh": "她参加了六门课程的普通证书考试。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "学科；科目（subject的复数）；主题；被试者",
+      "words": [
+        "themes",
+        "disciplines"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "使服从；使经受；提交（subject的三单形式）",
+      "words": [
+        "submits"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "word": "straight",
+  "found": true,
+  "phonetic_uk": "streɪt",
+  "phonetic_us": "streɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=straight&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=straight&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "直的，笔直的；端正的，竖直的；（裙、裤等）直筒型的；坦诚的，直率的；简单的，非此即彼的；正中目标的；整洁的；连续的；（消息）正确的，可靠的；互不欠债的；不吸毒的，不酗酒的；（酒）纯的；纯正的，纯粹的；正统的，严肃的；<非正式>正经的；异性恋的；（神态）从容的；（思维）清晰的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "直线地，径直地；竖直地，直立地；立即，马上；诚实地，坦率地；连续地；准确地，清晰地"
+    },
+    {
+      "pos": "n.",
+      "meaning": "异性恋者；直线跑道；（扑克牌的）顺子；<南非，非正式>750毫升瓶装酒；<非正式>老实人；直立形态；直线"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使变直"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Straight）斯特雷特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "straights"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "straights"
+    },
+    {
+      "name": "现在分词",
+      "value": "straighting"
+    },
+    {
+      "name": "过去式",
+      "value": "straighted"
+    },
+    {
+      "name": "过去分词",
+      "value": "straighted"
+    },
+    {
+      "name": "比较级",
+      "value": "straighter或more straight"
+    },
+    {
+      "name": "最高级",
+      "value": "straightest或most straight"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Brett looked straight ahead.",
+      "zh": "布瑞特向前直视。"
+    },
+    {
+      "en": "His teeth were perfectly straight.",
+      "zh": "他的牙齿非常整齐。"
+    },
+    {
+      "en": "The signpost pointed straight ahead.",
+      "zh": "路标直指前方。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "直的；连续的；笔直的；正直的；整齐的",
+      "words": [
+        "continuing",
+        "endless",
+        "ordered",
+        "regular",
+        "running"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "直接地；不断地；立即；坦率地",
+      "words": [
+        "constantly",
+        "directly",
+        "forever",
+        "rapidly",
+        "continually"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "直；直线",
+      "words": [
+        "beeline",
+        "gerade"
+      ]
+    }
+  ]
+}

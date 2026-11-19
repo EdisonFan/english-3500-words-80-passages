@@ -1,0 +1,43 @@
+{
+  "word": "schoolhouse",
+  "found": true,
+  "phonetic_uk": "ˈskuːlhaʊs",
+  "phonetic_us": "ˈskuːlhaʊs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=schoolhouse&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=schoolhouse&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "校舍"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "schoolhouses"
+    }
+  ],
+  "examples": [
+    {
+      "en": "McCreary lives in a converted schoolhouse outside Charlottesville.",
+      "zh": "麦克里里住在夏洛茨维尔市外一幢校舍改建的小楼里。"
+    },
+    {
+      "en": "Alfred went musing into the deserted schoolhouse.",
+      "zh": "阿尔弗雷德若有所思地走进空寂无人的的校舍。"
+    },
+    {
+      "en": "I was asked to lead a small team of local people in building a new schoolhouse.",
+      "zh": "我被要求带领一个当地的小团队建造一个新的校舍。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "校舍",
+      "words": [
+        "knowledge-box"
+      ]
+    }
+  ]
+}

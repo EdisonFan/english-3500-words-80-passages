@@ -1,0 +1,87 @@
+{
+  "word": "club",
+  "found": true,
+  "phonetic_uk": "klʌb",
+  "phonetic_us": "klʌb",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=club&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=club&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "俱乐部，社团；活动室，俱乐部大楼；职业运动俱乐部；夜总会；高尔夫球杆；击棍；（纸牌中的）梅花"
+    },
+    {
+      "pos": "v.",
+      "meaning": "棒打；<非正式>泡夜总会；组成俱乐部；募集；集资"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Club）（巴、印、阿）克拉布（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "clubs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "clubs"
+    },
+    {
+      "name": "现在分词",
+      "value": "clubbing"
+    },
+    {
+      "name": "过去式",
+      "value": "clubbed"
+    },
+    {
+      "name": "过去分词",
+      "value": "clubbed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We had lunch at the golf club.",
+      "zh": "我们在高尔夫球俱乐部吃的午饭。"
+    },
+    {
+      "en": "He belongs to an exclusive club.",
+      "zh": "他参加的是一个上层人士俱乐部。"
+    },
+    {
+      "en": "The next player discarded a club.",
+      "zh": "接下来的那位玩家出了张梅花牌。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "俱乐部，社团；夜总会；棍棒；（扑克牌中的）梅花",
+      "words": [
+        "society",
+        "association",
+        "corporation",
+        "league",
+        "casino"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "用棍棒打；募集",
+      "words": [
+        "fustigate",
+        "cudgel"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "集资；组成俱乐部",
+      "words": [
+        "raise money",
+        "collect money"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "word": "clay",
+  "found": true,
+  "phonetic_uk": "kleɪ",
+  "phonetic_us": "kleɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=clay&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=clay&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "黏土，陶土；（网球场的）硬固泥地，红土网球场；<文>肉体；似黏土的东西；黄棕翼欧洲蛾"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用黏土处理"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Clay）（英、法、西、意、葡）克莱（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "clays"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "clays"
+    },
+    {
+      "name": "现在分词",
+      "value": "claying"
+    },
+    {
+      "name": "过去式",
+      "value": "clayed"
+    },
+    {
+      "name": "过去分词",
+      "value": "clayed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Clay is a plastic substance.",
+      "zh": "黏土是可塑物质。"
+    },
+    {
+      "en": "The tiles are made of clay.",
+      "zh": "这些砖是用陶土制成的。"
+    },
+    {
+      "en": "She fashioned a pot from the clay.",
+      "zh": "她用黏土制成一个罐。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[土壤]粘土；泥土；肉体；似黏土的东西",
+      "words": [
+        "earth",
+        "flesh",
+        "dirt"
+      ]
+    }
+  ]
+}

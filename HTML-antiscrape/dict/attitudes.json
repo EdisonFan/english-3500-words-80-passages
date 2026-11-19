@@ -1,0 +1,42 @@
+{
+  "word": "attitudes",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˈætətjʊd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=attitudes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=attitudes&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "态度，看法（attitude 复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Attitudes have changed radically.",
+      "zh": "态度发生了根本的变化。"
+    },
+    {
+      "en": "You cannot legislate to change attitudes.",
+      "zh": "你不能靠立法来让人们改变态度。"
+    },
+    {
+      "en": "Public attitudes to the strike have hardened.",
+      "zh": "公众对这次罢工所持的态度已强硬起来。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "态度，看法（attitude复数）",
+      "words": [
+        "viewpoint",
+        "behavior",
+        "perception",
+        "estimate",
+        "attitude towards"
+      ]
+    }
+  ]
+}

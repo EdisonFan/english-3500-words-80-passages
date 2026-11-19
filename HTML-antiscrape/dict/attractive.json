@@ -1,0 +1,48 @@
+{
+  "word": "attractive",
+  "found": true,
+  "phonetic_uk": "əˈtræktɪv",
+  "phonetic_us": "əˈtræktɪv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=attractive&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=attractive&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "吸引人的，有吸引力的；（人）迷人的，有魅力的；值得考虑的，值得做的；（与）引力（有关）的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more attractive"
+    },
+    {
+      "name": "最高级",
+      "value": "most attractive"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She's a very attractive woman.",
+      "zh": "她是个非常迷人的女子。"
+    },
+    {
+      "en": "He is a very attractive man.",
+      "zh": "他是个非常有吸引力的人。"
+    },
+    {
+      "en": "She finds him sexually attractive.",
+      "zh": "她觉得他富有性魅力。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "吸引人的；有魅力的；引人注目的",
+      "words": [
+        "dramatic",
+        "absorbing"
+      ]
+    }
+  ]
+}

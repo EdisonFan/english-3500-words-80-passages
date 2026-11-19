@@ -1,0 +1,74 @@
+{
+  "word": "habit",
+  "found": true,
+  "phonetic_uk": "ˈhæbɪt",
+  "phonetic_us": "ˈhæbɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=habit&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=habit&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "习惯；（吸毒、喝酒、抽烟的）瘾；道袍，道服；<古>体质，体型"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<古>给……穿衣"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "habits"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "habits"
+    },
+    {
+      "name": "现在分词",
+      "value": "habiting"
+    },
+    {
+      "name": "过去式",
+      "value": "habited"
+    },
+    {
+      "name": "过去分词",
+      "value": "habited"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I only do it out of habit.",
+      "zh": "我这么做只是出于习惯。"
+    },
+    {
+      "en": "He was not in the habit of ogling women.",
+      "zh": "他没有盯着女人看个没完的习惯。"
+    },
+    {
+      "en": "He has the irritating habit of biting his nails.",
+      "zh": "他有咬指甲的讨厌习惯。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "习惯，[生物]习性；嗜好",
+      "words": [
+        "manner",
+        "custom",
+        "behaviour",
+        "weakness",
+        "way"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使穿衣",
+      "words": [
+        "attire"
+      ]
+    }
+  ]
+}

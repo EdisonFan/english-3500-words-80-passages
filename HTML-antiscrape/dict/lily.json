@@ -1,0 +1,53 @@
+{
+  "word": "lily",
+  "found": true,
+  "phonetic_uk": "ˈlɪli",
+  "phonetic_us": "ˈlɪli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=lily&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=lily&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "百合；睡莲（water lily）；鸢尾花形的纹章"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "纯洁的，洁白的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Lily）（罗）莉莉（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "lilies"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Lily lives in a penthouse just off Park Avenue.",
+      "zh": "莉莉住在离公园大街不远的一处顶层公寓里。"
+    },
+    {
+      "en": "I have just lent it to Lily.",
+      "zh": "我刚刚把它借给了莉莉。"
+    },
+    {
+      "en": "What was Lily doing yesterday evening?",
+      "zh": "昨天晚上莉莉在做什么？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "洁白的，纯洁的",
+      "words": [
+        "stainless",
+        "pure",
+        "white"
+      ]
+    }
+  ]
+}

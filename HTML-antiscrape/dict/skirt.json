@@ -1,0 +1,79 @@
+{
+  "word": "skirt",
+  "found": true,
+  "phonetic_uk": "skɜːt",
+  "phonetic_us": "skɜːrt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=skirt&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=skirt&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "女裙，半身裙；（连衣裙、外衣等的）下摆（skirts）；（车辆或机器基座的）挡板，裙板；（供食用的）多筋动物肉；<英> 腰窝肉；（马鞍的）垂边"
+    },
+    {
+      "pos": "v.",
+      "meaning": "环绕……的四周，沿……的边缘走；绕开，回避（话题）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "skirts"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "skirts"
+    },
+    {
+      "name": "现在分词",
+      "value": "skirting"
+    },
+    {
+      "name": "过去式",
+      "value": "skirted"
+    },
+    {
+      "name": "过去分词",
+      "value": "skirted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "There's a mark on your skirt.",
+      "zh": "你裙子上有一块斑。"
+    },
+    {
+      "en": "The skirt has a side opening.",
+      "zh": "这裙子是侧面开口的。"
+    },
+    {
+      "en": "The skirt is cut on the bias.",
+      "zh": "这条裙子是斜裁的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "裙子",
+      "words": [
+        "petticoat"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "绕过，回避；位于…边缘",
+      "words": [
+        "move round",
+        "shun"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "沿边走，绕开；环绕",
+      "words": [
+        "steer clear of",
+        "circle round"
+      ]
+    }
+  ]
+}

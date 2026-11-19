@@ -1,0 +1,495 @@
+{
+  "voice": "en-US-AriaNeural",
+  "rate": "-20%",
+  "volume": "+0%",
+  "engine": "edge-tts (Microsoft Edge online neural voices)",
+  "passages": "01-80",
+  "total_words": 30594,
+  "ok": 80,
+  "skipped": 0,
+  "failed": 0,
+  "total_bytes": 86609808,
+  "elapsed_sec": 118.2,
+  "results": [
+    {
+      "id": 1,
+      "status": "ok",
+      "bytes": 792000,
+      "words": 273
+    },
+    {
+      "id": 2,
+      "status": "ok",
+      "bytes": 919440,
+      "words": 298
+    },
+    {
+      "id": 3,
+      "status": "ok",
+      "bytes": 749232,
+      "words": 256
+    },
+    {
+      "id": 4,
+      "status": "ok",
+      "bytes": 853344,
+      "words": 349
+    },
+    {
+      "id": 5,
+      "status": "ok",
+      "bytes": 1088784,
+      "words": 418
+    },
+    {
+      "id": 6,
+      "status": "ok",
+      "bytes": 801072,
+      "words": 248
+    },
+    {
+      "id": 7,
+      "status": "ok",
+      "bytes": 709776,
+      "words": 297
+    },
+    {
+      "id": 8,
+      "status": "ok",
+      "bytes": 874656,
+      "words": 292
+    },
+    {
+      "id": 9,
+      "status": "ok",
+      "bytes": 871632,
+      "words": 310
+    },
+    {
+      "id": 10,
+      "status": "ok",
+      "bytes": 1140768,
+      "words": 424
+    },
+    {
+      "id": 11,
+      "status": "ok",
+      "bytes": 924048,
+      "words": 329
+    },
+    {
+      "id": 12,
+      "status": "ok",
+      "bytes": 977904,
+      "words": 341
+    },
+    {
+      "id": 13,
+      "status": "ok",
+      "bytes": 908496,
+      "words": 335
+    },
+    {
+      "id": 14,
+      "status": "ok",
+      "bytes": 1054368,
+      "words": 393
+    },
+    {
+      "id": 15,
+      "status": "ok",
+      "bytes": 1050768,
+      "words": 366
+    },
+    {
+      "id": 16,
+      "status": "ok",
+      "bytes": 895248,
+      "words": 341
+    },
+    {
+      "id": 17,
+      "status": "ok",
+      "bytes": 966816,
+      "words": 345
+    },
+    {
+      "id": 18,
+      "status": "ok",
+      "bytes": 1058256,
+      "words": 377
+    },
+    {
+      "id": 19,
+      "status": "ok",
+      "bytes": 1085040,
+      "words": 407
+    },
+    {
+      "id": 20,
+      "status": "ok",
+      "bytes": 1167120,
+      "words": 440
+    },
+    {
+      "id": 21,
+      "status": "ok",
+      "bytes": 1022112,
+      "words": 346
+    },
+    {
+      "id": 22,
+      "status": "ok",
+      "bytes": 923904,
+      "words": 358
+    },
+    {
+      "id": 23,
+      "status": "ok",
+      "bytes": 1039104,
+      "words": 389
+    },
+    {
+      "id": 24,
+      "status": "ok",
+      "bytes": 958608,
+      "words": 379
+    },
+    {
+      "id": 25,
+      "status": "ok",
+      "bytes": 1201392,
+      "words": 468
+    },
+    {
+      "id": 26,
+      "status": "ok",
+      "bytes": 708192,
+      "words": 262
+    },
+    {
+      "id": 27,
+      "status": "ok",
+      "bytes": 755136,
+      "words": 301
+    },
+    {
+      "id": 28,
+      "status": "ok",
+      "bytes": 1044864,
+      "words": 399
+    },
+    {
+      "id": 29,
+      "status": "ok",
+      "bytes": 1101312,
+      "words": 398
+    },
+    {
+      "id": 30,
+      "status": "ok",
+      "bytes": 1118592,
+      "words": 437
+    },
+    {
+      "id": 31,
+      "status": "ok",
+      "bytes": 1007856,
+      "words": 359
+    },
+    {
+      "id": 32,
+      "status": "ok",
+      "bytes": 1086624,
+      "words": 373
+    },
+    {
+      "id": 33,
+      "status": "ok",
+      "bytes": 1100592,
+      "words": 375
+    },
+    {
+      "id": 34,
+      "status": "ok",
+      "bytes": 1229904,
+      "words": 432
+    },
+    {
+      "id": 35,
+      "status": "ok",
+      "bytes": 1262016,
+      "words": 446
+    },
+    {
+      "id": 36,
+      "status": "ok",
+      "bytes": 1116288,
+      "words": 397
+    },
+    {
+      "id": 37,
+      "status": "ok",
+      "bytes": 1107648,
+      "words": 416
+    },
+    {
+      "id": 38,
+      "status": "ok",
+      "bytes": 1156176,
+      "words": 427
+    },
+    {
+      "id": 39,
+      "status": "ok",
+      "bytes": 1163952,
+      "words": 429
+    },
+    {
+      "id": 40,
+      "status": "ok",
+      "bytes": 1300896,
+      "words": 443
+    },
+    {
+      "id": 41,
+      "status": "ok",
+      "bytes": 939888,
+      "words": 322
+    },
+    {
+      "id": 42,
+      "status": "ok",
+      "bytes": 937152,
+      "words": 354
+    },
+    {
+      "id": 43,
+      "status": "ok",
+      "bytes": 1011168,
+      "words": 330
+    },
+    {
+      "id": 44,
+      "status": "ok",
+      "bytes": 1159776,
+      "words": 384
+    },
+    {
+      "id": 45,
+      "status": "ok",
+      "bytes": 1366992,
+      "words": 482
+    },
+    {
+      "id": 46,
+      "status": "ok",
+      "bytes": 1120032,
+      "words": 381
+    },
+    {
+      "id": 47,
+      "status": "ok",
+      "bytes": 1116864,
+      "words": 396
+    },
+    {
+      "id": 48,
+      "status": "ok",
+      "bytes": 1203120,
+      "words": 397
+    },
+    {
+      "id": 49,
+      "status": "ok",
+      "bytes": 1252080,
+      "words": 429
+    },
+    {
+      "id": 50,
+      "status": "ok",
+      "bytes": 1312128,
+      "words": 419
+    },
+    {
+      "id": 51,
+      "status": "ok",
+      "bytes": 1194768,
+      "words": 381
+    },
+    {
+      "id": 52,
+      "status": "ok",
+      "bytes": 1252224,
+      "words": 417
+    },
+    {
+      "id": 53,
+      "status": "ok",
+      "bytes": 1222704,
+      "words": 426
+    },
+    {
+      "id": 54,
+      "status": "ok",
+      "bytes": 1417680,
+      "words": 479
+    },
+    {
+      "id": 55,
+      "status": "ok",
+      "bytes": 1408176,
+      "words": 491
+    },
+    {
+      "id": 56,
+      "status": "ok",
+      "bytes": 1051056,
+      "words": 371
+    },
+    {
+      "id": 57,
+      "status": "ok",
+      "bytes": 999072,
+      "words": 386
+    },
+    {
+      "id": 58,
+      "status": "ok",
+      "bytes": 997488,
+      "words": 361
+    },
+    {
+      "id": 59,
+      "status": "ok",
+      "bytes": 1039536,
+      "words": 399
+    },
+    {
+      "id": 60,
+      "status": "ok",
+      "bytes": 1275264,
+      "words": 425
+    },
+    {
+      "id": 61,
+      "status": "ok",
+      "bytes": 1125648,
+      "words": 402
+    },
+    {
+      "id": 62,
+      "status": "ok",
+      "bytes": 991440,
+      "words": 379
+    },
+    {
+      "id": 63,
+      "status": "ok",
+      "bytes": 1150416,
+      "words": 381
+    },
+    {
+      "id": 64,
+      "status": "ok",
+      "bytes": 1261152,
+      "words": 415
+    },
+    {
+      "id": 65,
+      "status": "ok",
+      "bytes": 1145232,
+      "words": 400
+    },
+    {
+      "id": 66,
+      "status": "ok",
+      "bytes": 1053936,
+      "words": 344
+    },
+    {
+      "id": 67,
+      "status": "ok",
+      "bytes": 995328,
+      "words": 359
+    },
+    {
+      "id": 68,
+      "status": "ok",
+      "bytes": 1124928,
+      "words": 398
+    },
+    {
+      "id": 69,
+      "status": "ok",
+      "bytes": 1155312,
+      "words": 413
+    },
+    {
+      "id": 70,
+      "status": "ok",
+      "bytes": 1244448,
+      "words": 445
+    },
+    {
+      "id": 71,
+      "status": "ok",
+      "bytes": 801936,
+      "words": 265
+    },
+    {
+      "id": 72,
+      "status": "ok",
+      "bytes": 1157328,
+      "words": 370
+    },
+    {
+      "id": 73,
+      "status": "ok",
+      "bytes": 1084176,
+      "words": 384
+    },
+    {
+      "id": 74,
+      "status": "ok",
+      "bytes": 1260288,
+      "words": 407
+    },
+    {
+      "id": 75,
+      "status": "ok",
+      "bytes": 1134720,
+      "words": 414
+    },
+    {
+      "id": 76,
+      "status": "ok",
+      "bytes": 1023552,
+      "words": 371
+    },
+    {
+      "id": 77,
+      "status": "ok",
+      "bytes": 1201824,
+      "words": 399
+    },
+    {
+      "id": 78,
+      "status": "ok",
+      "bytes": 1376928,
+      "words": 455
+    },
+    {
+      "id": 79,
+      "status": "ok",
+      "bytes": 1266480,
+      "words": 409
+    },
+    {
+      "id": 80,
+      "status": "ok",
+      "bytes": 1483632,
+      "words": 481
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "thirty",
+  "found": true,
+  "phonetic_uk": "ˈθɜːti",
+  "phonetic_us": "ˈθɜːrti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=thirty&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=thirty&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "三十年代"
+    },
+    {
+      "pos": "num.",
+      "meaning": "三十"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "三十个的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "thirties"
+    }
+  ],
+  "examples": [
+    {
+      "en": "By sunset we had covered thirty miles.",
+      "zh": "到日落时我们已走了三十英里。"
+    },
+    {
+      "en": "Some thirty people attended the funeral.",
+      "zh": "大约有三十人参加了葬礼。"
+    },
+    {
+      "en": "By this time he was thirty.",
+      "zh": "到这时他30岁了。"
+    }
+  ],
+  "synonyms": []
+}

@@ -1,0 +1,61 @@
+{
+  "word": "walking",
+  "found": true,
+  "phonetic_uk": "ˈwɔːkɪŋ",
+  "phonetic_us": "ˈwɔːkɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=walking&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=walking&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "步行；散步"
+    },
+    {
+      "pos": "v.",
+      "meaning": "步行（walk 的 ing 形式）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "步行的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I prefer walking to climbing.",
+      "zh": "我喜欢散步多于喜欢爬山。"
+    },
+    {
+      "en": "Is it within walking distance ?",
+      "zh": "那里步行走得到吗？"
+    },
+    {
+      "en": "I'm not walking—it's miles away.",
+      "zh": "我不会走着去的—太远了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "步行；散步",
+      "words": [
+        "pedestrism",
+        "ambulation"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "步行（walk的ing形式）",
+      "words": [
+        "footing"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "步行的",
+      "words": [
+        "gradient"
+      ]
+    }
+  ]
+}

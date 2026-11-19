@@ -1,0 +1,38 @@
+{
+  "word": "gardening",
+  "found": true,
+  "phonetic_uk": "ˈɡɑːdnɪŋ",
+  "phonetic_us": "ˈɡɑːrdnɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=gardening&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=gardening&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "园艺；园林工人的工作"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Pat has always loved gardening.",
+      "zh": "帕特一直喜爱园艺。"
+    },
+    {
+      "en": "The latest trend is gardening.",
+      "zh": "最新的时尚是园艺。"
+    },
+    {
+      "en": "She had a passion for gardening.",
+      "zh": "她对于园艺有一份热爱。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[园艺]园艺；园林工人的工作",
+      "words": [
+        "horticulture"
+      ]
+    }
+  ]
+}

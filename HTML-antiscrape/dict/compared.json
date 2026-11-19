@@ -1,0 +1,38 @@
+{
+  "word": "compared",
+  "found": true,
+  "phonetic_uk": "kəmˈpeəd",
+  "phonetic_us": "kəmˈperd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=compared&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=compared&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "比较的，对照的（compare 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We compared the two reports carefully.",
+      "zh": "我们仔细地比较了两个报告。"
+    },
+    {
+      "en": "It's much easier compared with last time.",
+      "zh": "这与上次相比容易得多。"
+    },
+    {
+      "en": "The room was light and lofty compared to the basement.",
+      "zh": "这个房间与地下室比起来更亮更高。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "比较的，对照的（compare的过去式和过去分词）",
+      "words": [
+        "contrapositive"
+      ]
+    }
+  ]
+}

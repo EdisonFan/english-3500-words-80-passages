@@ -1,0 +1,56 @@
+{
+  "word": "component",
+  "found": true,
+  "phonetic_uk": "kəmˈpəʊnənt",
+  "phonetic_us": "kəmˈpoʊnənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=component&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=component&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "组成部分，成分，部件"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "组成的，构成的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "components"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Attitudes have a behavioral component.",
+      "zh": "态度隐含着行为性的成分。"
+    },
+    {
+      "en": "Finally, attitudes have a behavioral component.",
+      "zh": "最后，态度具有行为上的成分。"
+    },
+    {
+      "en": "That said, curiosity does have a genetic component.",
+      "zh": "这就是说，好奇心确实有基因成分。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[天]组成的，构成的",
+      "words": [
+        "constituent"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "成分；组件；[电子]元件",
+      "words": [
+        "module",
+        "element",
+        "constituent"
+      ]
+    }
+  ]
+}

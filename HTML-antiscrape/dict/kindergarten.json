@@ -1,0 +1,44 @@
+{
+  "word": "kindergarten",
+  "found": true,
+  "phonetic_uk": "ˈkɪndəɡɑːt(ə)n",
+  "phonetic_us": "ˈkɪndərɡɑːrt(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=kindergarten&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=kindergarten&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "幼儿园"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "kindergartens"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She's in kindergarten now.",
+      "zh": "她现在在上幼儿园。"
+    },
+    {
+      "en": "My musical career consisted of playing the triangle in kindergarten.",
+      "zh": "我的音乐生涯包括在幼儿园演奏三角铁。"
+    },
+    {
+      "en": "Some drawings by kindergarten kids are excellent.",
+      "zh": "幼儿园小朋友画的一些画非常棒。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "幼儿园；幼稚园",
+      "words": [
+        "play school",
+        "nursery school"
+      ]
+    }
+  ]
+}

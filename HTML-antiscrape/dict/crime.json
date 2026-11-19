@@ -1,0 +1,65 @@
+{
+  "word": "crime",
+  "found": true,
+  "phonetic_uk": "kraɪm",
+  "phonetic_us": "kraɪm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=crime&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=crime&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "罪，罪行；犯罪，犯罪活动；可耻行为，错误"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<英，非正式>（尤指在军队里）指控……有罪，判……有罪"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "crimes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "crimes"
+    },
+    {
+      "name": "现在分词",
+      "value": "criming"
+    },
+    {
+      "name": "过去式",
+      "value": "crimed"
+    },
+    {
+      "name": "过去分词",
+      "value": "crimed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Crime has gone down 70 percent.",
+      "zh": "犯罪率已下降了70%。"
+    },
+    {
+      "en": "Crime figures are rising rapidly.",
+      "zh": "犯罪数字正在迅速上升。"
+    },
+    {
+      "en": "I have never committed any crime.",
+      "zh": "我从没有犯过任何罪。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "罪行，犯罪；罪恶；犯罪活动",
+      "words": [
+        "sin",
+        "evil",
+        "guilt"
+      ]
+    }
+  ]
+}

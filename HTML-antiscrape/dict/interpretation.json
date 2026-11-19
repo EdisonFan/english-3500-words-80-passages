@@ -1,0 +1,46 @@
+{
+  "word": "interpretation",
+  "found": true,
+  "phonetic_uk": "ɪnˌtɜːprəˈteɪʃ(ə)n",
+  "phonetic_us": "ɪnˌtɜːrprəˈteɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=interpretation&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=interpretation&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "解释，理解；表演，演奏，艺术处理；口译"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "interpretations"
+    }
+  ],
+  "examples": [
+    {
+      "en": "History is always a matter of interpretation.",
+      "zh": "历史总是一个诠释的问题。"
+    },
+    {
+      "en": "She stamped her own interpretation on the role.",
+      "zh": "她给那个角色注入了她自己的诠释。"
+    },
+    {
+      "en": "Her interpretation of the facts may be open to doubt.",
+      "zh": "她对事实的解释可能有待质疑。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计]解释；[语]翻译；演出",
+      "words": [
+        "explanation",
+        "translation",
+        "construction",
+        "account"
+      ]
+    }
+  ]
+}

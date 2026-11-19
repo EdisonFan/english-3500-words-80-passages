@@ -1,0 +1,75 @@
+{
+  "word": "pepper",
+  "found": true,
+  "phonetic_uk": "ˈpepə(r)",
+  "phonetic_us": "ˈpepər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pepper&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pepper&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "胡椒粉；辣椒，甜椒，灯笼椒；胡椒；辣椒粉；（棒球）热身投击球练习"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（在食物上）撒胡椒粉；连续射击；在……上撒，使布满； （演讲、文章等）充满……"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Pepper）（英、德、意）佩珀（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "peppers"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "peppers"
+    },
+    {
+      "name": "现在分词",
+      "value": "peppering"
+    },
+    {
+      "name": "过去式",
+      "value": "peppered"
+    },
+    {
+      "name": "过去分词",
+      "value": "peppered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She shook some pepper onto her sandwich.",
+      "zh": "她在她的三明治上撒了些胡椒。"
+    },
+    {
+      "en": "The officers blasted him with pepper spray.",
+      "zh": "该警察用胡椒粉喷雾剂喷他。"
+    },
+    {
+      "en": "Brush the eggplant with oil, add salt and pepper, and bake till soft. Meanwhile, heat the remaining oil in a heavy pan.",
+      "zh": "给茄子刷好油，加盐和胡椒粉，烤到软。同时，加热厚底锅中剩余的油。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[食品][植]胡椒；[园艺]辣椒；胡椒粉",
+      "words": [
+        "peper",
+        "capsicum"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[食品]加胡椒粉于；使布满",
+      "words": [
+        "besprinkle"
+      ]
+    }
+  ]
+}

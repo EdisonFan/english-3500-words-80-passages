@@ -1,0 +1,65 @@
+{
+  "word": "either",
+  "found": true,
+  "phonetic_uk": "ˈaɪðə(r)",
+  "phonetic_us": "ˈiːðər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=either&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=either&type=2",
+  "defs": [
+    {
+      "pos": "conj.",
+      "meaning": "或者，要么；两者都（不），既（不）"
+    },
+    {
+      "pos": "pron.",
+      "meaning": "（两者之中）任意一个；两者都（不）"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "也（不），亦（不）；而且，还"
+    },
+    {
+      "pos": "det.",
+      "meaning": "（两者中的）每个，各方"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "（两者中的）每个的，各方的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Pete can't go and I can't either.",
+      "zh": "皮特不能去，我也不能。"
+    },
+    {
+      "en": "Is there any hard evidence either way?",
+      "zh": "不管正反，有什么确凿证据吗？"
+    },
+    {
+      "en": "The offices on either side were empty.",
+      "zh": "两边的办公室都是空的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "conj.",
+      "meaning": "或者",
+      "words": [
+        "or",
+        "vel"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "也（用于否定句或否定词组后）；根本",
+      "words": [
+        "too",
+        "also",
+        "ultimately",
+        "likewise"
+      ]
+    }
+  ]
+}

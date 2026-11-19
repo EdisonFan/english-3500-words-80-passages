@@ -1,0 +1,75 @@
+{
+  "word": "air",
+  "found": true,
+  "phonetic_uk": "eə(r)",
+  "phonetic_us": "er",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=air&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=air&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "大气，空气；空中，天空；乘坐飞机，航空；神态，氛围；曲调，旋律；装腔作势，做作；空气媒质；气，风"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使公开，宣扬；（使）通风；（使）晾干，（使）烘干；播送，播放；<古>出去透气；<古>炫耀，夸示"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "airs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "airs"
+    },
+    {
+      "name": "现在分词",
+      "value": "airing"
+    },
+    {
+      "name": "过去式",
+      "value": "aired"
+    },
+    {
+      "name": "过去分词",
+      "value": "aired"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His hands clawed the air.",
+      "zh": "他的双手在空中乱抓。"
+    },
+    {
+      "en": "We have air superiority.",
+      "zh": "我们有空中优势。"
+    },
+    {
+      "en": "The air was circulated mechanically.",
+      "zh": "空气是用机械推动循环的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[气象]空气，[地物]大气；天空；样子；曲调",
+      "words": [
+        "atmosphere",
+        "heaven",
+        "sky",
+        "high",
+        "look"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使通风，晾干；夸耀",
+      "words": [
+        "sport",
+        "ventilate"
+      ]
+    }
+  ]
+}

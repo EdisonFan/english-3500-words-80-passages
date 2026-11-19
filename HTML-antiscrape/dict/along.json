@@ -1,0 +1,53 @@
+{
+  "word": "along",
+  "found": true,
+  "phonetic_uk": "əˈlɒŋ",
+  "phonetic_us": "əˈlɔːŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=along&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=along&type=2",
+  "defs": [
+    {
+      "pos": "prep.",
+      "meaning": "沿着，顺着；靠着……边；在某处"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "向前；一起，一道；进行，进展；（前）来，到某处；到相当的程度；传播"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Things are going along nicely.",
+      "zh": "情况进展良好。"
+    },
+    {
+      "en": "Claire hurried along the road.",
+      "zh": "克莱尔匆匆地沿路而行。"
+    },
+    {
+      "en": "The book's coming along nicely.",
+      "zh": "这本书愈来愈好看了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "一起；向前；来到",
+      "words": [
+        "forth",
+        "together",
+        "to",
+        "ahead",
+        "front"
+      ]
+    },
+    {
+      "pos": "prep.",
+      "meaning": "沿着；顺着",
+      "words": [
+        "down"
+      ]
+    }
+  ]
+}

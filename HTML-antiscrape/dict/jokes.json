@@ -1,0 +1,42 @@
+{
+  "word": "jokes",
+  "found": true,
+  "phonetic_uk": "dʒəʊks",
+  "phonetic_us": "dʒoʊks",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=jokes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=jokes&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "笑话（joke 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "说笑话（joke 的三单形式）；和……开玩笑"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Her jokes really creased me up.",
+      "zh": "她的笑话真让我笑死了。"
+    },
+    {
+      "en": "They all guffawed at his jokes.",
+      "zh": "他们听了他的笑话都一阵狂笑。"
+    },
+    {
+      "en": "You never laugh at my jokes!",
+      "zh": "你们听了我的笑话从不发笑！"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "笑话（joke的复数）",
+      "words": [
+        "funnies"
+      ]
+    }
+  ]
+}

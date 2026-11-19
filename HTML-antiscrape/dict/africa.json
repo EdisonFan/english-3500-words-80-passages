@@ -1,0 +1,38 @@
+{
+  "word": "Africa",
+  "found": true,
+  "phonetic_uk": "ˈæfrɪkə",
+  "phonetic_us": "ˈæfrɪkə",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=Africa&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=Africa&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "非洲"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The disease originated in Africa.",
+      "zh": "这种疾病起源于非洲。"
+    },
+    {
+      "en": "In Africa life can be hard.",
+      "zh": "在非洲生活可能是艰苦的。"
+    },
+    {
+      "en": "These flowers are found only in Africa.",
+      "zh": "这些花仅见于非洲。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[地理]非洲",
+      "words": [
+        "dark continent"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "inclusive",
+  "found": true,
+  "phonetic_uk": "ɪnˈkluːsɪv",
+  "phonetic_us": "ɪnˈkluːsɪv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=inclusive&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=inclusive&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "包容广阔的；包括一切费用在内的；包括的，包含的；无性别歧视的；对外开放的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The rent is inclusive of water and heating.",
+      "zh": "租金包括水费和暖气费。"
+    },
+    {
+      "en": "The academy is far more inclusive now than it used to be.",
+      "zh": "该学院如今比过去更为兼收并蓄。"
+    },
+    {
+      "en": "Answer questions 8 to 12 inclusive.",
+      "zh": "回答第8到第12题。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "包括的，包含的",
+      "words": [
+        "containing",
+        "encompassing"
+      ]
+    }
+  ]
+}

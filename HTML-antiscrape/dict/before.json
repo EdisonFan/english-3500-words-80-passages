@@ -1,0 +1,64 @@
+{
+  "word": "before",
+  "found": true,
+  "phonetic_uk": "bɪˈfɔː(r)",
+  "phonetic_us": "bɪˈfɔːr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=before&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=before&type=2",
+  "defs": [
+    {
+      "pos": "prep.",
+      "meaning": "（时间上）在……之前，早于；在（某个钟点）之前；（次序）在……之前；当面，在……面前；由……考虑中；面对（法院，法庭或其他官方机构）并受审；比……更重要；（位置）在……前面；（未来将发生的事）等待着，面临着；（宁可……而）不愿……；在……影响下，在……威慑下"
+    },
+    {
+      "pos": "conj.",
+      "meaning": "在……以前；到……为止；以免，不然；（先）……才……；（宁可……而）不愿"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "以前，过去；在（某时间或某事）以前；在前面"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She'd never done Pilates before.",
+      "zh": "她以前从未做过普拉提。"
+    },
+    {
+      "en": "He paused before answering.",
+      "zh": "他在回答前停了下来。"
+    },
+    {
+      "en": "We left before daybreak.",
+      "zh": "我们是在黎明前出发的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "prep.",
+      "meaning": "在…之前，先于",
+      "words": [
+        "avant"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "以前；在前",
+      "words": [
+        "previously",
+        "ago",
+        "formerly",
+        "prior",
+        "back"
+      ]
+    },
+    {
+      "pos": "conj.",
+      "meaning": "在…以前；在…之前",
+      "words": [
+        "until"
+      ]
+    }
+  ]
+}

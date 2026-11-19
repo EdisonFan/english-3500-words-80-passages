@@ -1,0 +1,34 @@
+{
+  "word": "ships",
+  "found": true,
+  "phonetic_uk": "ʃɪps",
+  "phonetic_us": "ʃɪps",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ships&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ships&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（大）船，舰；三（或多）桅帆船（ship 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（用船、飞机、卡车）运送，运输；遣送（某人）；推出（计算机商品），（使）上市（ship 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The ships were to be decommissioned.",
+      "zh": "这些船即将被停止使用。"
+    },
+    {
+      "en": "The government will commandeer ships only in wartime.",
+      "zh": "政府只在战争时期征用船只。"
+    },
+    {
+      "en": "Devereux ordered his men to hold their fire until the ships got closer.",
+      "zh": "德弗罗命令他的士兵等船驶近了再开火。"
+    }
+  ],
+  "synonyms": []
+}

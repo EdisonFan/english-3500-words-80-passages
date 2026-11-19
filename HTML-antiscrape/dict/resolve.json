@@ -1,0 +1,81 @@
+{
+  "word": "resolve",
+  "found": true,
+  "phonetic_uk": "rɪˈzɒlv",
+  "phonetic_us": "rɪˈzɑːlv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=resolve&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=resolve&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "解决（问题或困难）；决定，下定决心；作出决议，表决；分解，转化；（使）（症状、病情）消散，消退；解析，解离；分析；（不协和音）转向协和；（当远处物体看得更清楚时）变成；（光学仪器等）分辨；辨析（图表或光谱峰值）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<正式>决心，坚定的信念；<美>正式决定，决议；决定要做的事"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "resolves"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "resolves"
+    },
+    {
+      "name": "现在分词",
+      "value": "resolving"
+    },
+    {
+      "name": "过去式",
+      "value": "resolved"
+    },
+    {
+      "name": "过去分词",
+      "value": "resolved"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Nothing could weaken his resolve to continue.",
+      "zh": "什么也不能削弱他继续下去的决心。"
+    },
+    {
+      "en": "How can we resolve this apparent contradiction?",
+      "zh": "我们怎样才能解决这个明显的矛盾呢？"
+    },
+    {
+      "en": "We have to resolve this matter once and for all.",
+      "zh": "我们必须彻底解决这件事情。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "决定；溶解；使…分解；决心要做…",
+      "words": [
+        "solve",
+        "condition",
+        "conclude"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "解决；决心；分解",
+      "words": [
+        "settle",
+        "work out",
+        "figure out"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "坚决；决定要做的事",
+      "words": [
+        "determinateness"
+      ]
+    }
+  ]
+}

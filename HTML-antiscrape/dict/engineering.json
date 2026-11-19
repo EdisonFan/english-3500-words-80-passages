@@ -1,0 +1,52 @@
+{
+  "word": "engineering",
+  "found": true,
+  "phonetic_uk": "ˌendʒɪˈnɪərɪŋ",
+  "phonetic_us": "ˌendʒɪˈnɪrɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=engineering&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=engineering&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "工程，工程学；控制，引导，管理；筹划，出谋划策"
+    },
+    {
+      "pos": "v.",
+      "meaning": "设计，建造；策划，精心安排（engineer"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She works for an engineering company.",
+      "zh": "她在一家工程公司工作。"
+    },
+    {
+      "en": "He has not studied mechanics or engineering.",
+      "zh": "他没有学习过力学或者工程学。"
+    },
+    {
+      "en": "The bridge is a triumph of modern engineering.",
+      "zh": "这座桥是现代工程的一大成就。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "工程，工程学",
+      "words": [
+        "project"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "设计；管理（engineer的ing形式）；建造",
+      "words": [
+        "managing",
+        "planning",
+        "controlling",
+        "guiding"
+      ]
+    }
+  ]
+}

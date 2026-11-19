@@ -1,0 +1,60 @@
+{
+  "word": "timely",
+  "found": true,
+  "phonetic_uk": "ˈtaɪmli",
+  "phonetic_us": "ˈtaɪmli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=timely&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=timely&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "及时的，适时的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "及时地；<古>早"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "timelier或more timely"
+    },
+    {
+      "name": "最高级",
+      "value": "timeliest或most timely"
+    }
+  ],
+  "examples": [
+    {
+      "en": "A nasty incident was prevented by the timely arrival of the police.",
+      "zh": "警察的及时到来阻止了一次严重事故。"
+    },
+    {
+      "en": "The incident served as a timely reminder of just how dangerous mountaineering can be.",
+      "zh": "这次事故及时地提醒了人们登山运动有时会多么危险。"
+    },
+    {
+      "en": "The recent outbreaks of cholera are a timely reminder that this disease is still a serious health hazard.",
+      "zh": "最近几次爆发的霍乱是一个适时的提醒，该疾病依然是个严重的健康危害。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "及时的；适时的",
+      "words": [
+        "well-timed",
+        "realtime"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "及时地；早",
+      "words": [
+        "in good season",
+        "opportunely"
+      ]
+    }
+  ]
+}

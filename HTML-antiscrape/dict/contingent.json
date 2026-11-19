@@ -1,0 +1,64 @@
+{
+  "word": "contingent",
+  "found": true,
+  "phonetic_uk": "kənˈtɪndʒənt",
+  "phonetic_us": "kənˈtɪndʒənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=contingent&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=contingent&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（军队的）分遣队；代表团"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "附带的，依情况而定的；偶然（发生）的，可能的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "contingents"
+    },
+    {
+      "name": "比较级",
+      "value": "more contingent"
+    },
+    {
+      "name": "最高级",
+      "value": "most contingent"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The crowd included a big contingent from Cleveland.",
+      "zh": "人群中包括一个来自克利夫兰的大型代表团。"
+    },
+    {
+      "en": "The American contingent will stay overnight in London.",
+      "zh": "美国代表团将在伦敦留宿。"
+    },
+    {
+      "en": "The contingent marched in the direction of the Western Hills.",
+      "zh": "队伍朝西山的方向前进。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "因情况而异的；不一定的；偶然发生的",
+      "words": [
+        "occurrent",
+        "chancy"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "分遣队；偶然事件；分得部分",
+      "words": [
+        "happenchance",
+        "detachment"
+      ]
+    }
+  ]
+}

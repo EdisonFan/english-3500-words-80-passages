@@ -1,0 +1,30 @@
+{
+  "word": "grapes",
+  "found": true,
+  "phonetic_uk": "ɡreɪps",
+  "phonetic_us": "ɡreɪps",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=grapes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=grapes&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[园艺]葡萄（grape 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The grapes are made into wine.",
+      "zh": "这些葡萄用来做酒。"
+    },
+    {
+      "en": "Who scoffed all the grapes?",
+      "zh": "谁那么贪嘴，把葡萄全吃光了？"
+    },
+    {
+      "en": "Wine is made from grapes.",
+      "zh": "葡萄酒是用葡萄做的。"
+    }
+  ],
+  "synonyms": []
+}

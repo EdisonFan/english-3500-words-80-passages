@@ -1,0 +1,91 @@
+{
+  "word": "express",
+  "found": true,
+  "phonetic_uk": "ɪkˈspres",
+  "phonetic_us": "ɪkˈspres",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=express&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=express&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "表达，表露；表现，体现；（用数学方法）表示；压榨，挤压出（空气或液体）；特快发运"
+    },
+    {
+      "pos": "n.",
+      "meaning": "快车；快递；初速大的猎枪；专使；捷运公司"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "快递的，特快的；明确的；特意的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "用快递寄送"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "expresses"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "expresses"
+    },
+    {
+      "name": "现在分词",
+      "value": "expressing"
+    },
+    {
+      "name": "过去式",
+      "value": "expressed"
+    },
+    {
+      "name": "过去分词",
+      "value": "expressed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Words cannot express how pleased I am.",
+      "zh": "言语无法表达我的愉快心情。"
+    },
+    {
+      "en": "I'd like to send this express, please.",
+      "zh": "劳驾，我要寄快递。"
+    },
+    {
+      "en": "I could not express my innermost feelings to anyone.",
+      "zh": "我不能向任何人表达我内心深处的感情。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "表达；快递",
+      "words": [
+        "voice",
+        "put"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "明确的；迅速的；专门的",
+      "words": [
+        "precise",
+        "decided",
+        "technical",
+        "rapid",
+        "specific"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[交]快车，快递，专使；捷运公司",
+      "words": [
+        "rapido",
+        "flier"
+      ]
+    }
+  ]
+}

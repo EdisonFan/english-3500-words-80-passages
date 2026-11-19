@@ -1,0 +1,47 @@
+{
+  "word": "suggested",
+  "found": true,
+  "phonetic_uk": "səˈdʒestid",
+  "phonetic_us": "səˈdʒestɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=suggested&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=suggested&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "建议；推荐；（使）联想到；暗示；唤起（suggest 的过去式及过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I tactfully suggested he should see a doctor.",
+      "zh": "我婉转地建议他去看医生。"
+    },
+    {
+      "en": "He should have paid. He suggested it, after all.",
+      "zh": "他本来就应该付款。反正他自己也这么提出。"
+    },
+    {
+      "en": "Their friends suggested they should put up their prices.",
+      "zh": "他们的朋友们建议他们提高价格。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "建议的；暗示的",
+      "words": [
+        "implicit",
+        "propositional"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "建议；暗示（suggest的过去分词）",
+      "words": [
+        "recommended",
+        "advised"
+      ]
+    }
+  ]
+}

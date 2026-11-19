@@ -1,0 +1,68 @@
+{
+  "word": "consider",
+  "found": true,
+  "phonetic_uk": "kənˈsɪdə(r)",
+  "phonetic_us": "kənˈsɪdər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=consider&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=consider&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "考虑，斟酌；认为，视为；体贴，顾及；细看，端详；探讨，讨论"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "considers"
+    },
+    {
+      "name": "现在分词",
+      "value": "considering"
+    },
+    {
+      "name": "过去式",
+      "value": "considered"
+    },
+    {
+      "name": "过去分词",
+      "value": "considered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I'd like some time to consider.",
+      "zh": "我希望有些时间考虑一下。"
+    },
+    {
+      "en": "Let's consider this point further.",
+      "zh": "让我们更深入地考虑这一点。"
+    },
+    {
+      "en": "They sat down to consider the problem.",
+      "zh": "他们坐下来考虑这一问题。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "考虑；认为；考虑到；细想",
+      "words": [
+        "expect",
+        "find",
+        "guess",
+        "feel",
+        "view"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "考虑；认为；细想",
+      "words": [
+        "allow",
+        "think about",
+        "pore"
+      ]
+    }
+  ]
+}

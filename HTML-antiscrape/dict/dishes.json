@@ -1,0 +1,38 @@
+{
+  "word": "dishes",
+  "found": true,
+  "phonetic_uk": "ˈdɪʃɪz",
+  "phonetic_us": "ˈdɪʃɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dishes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dishes&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "菜肴；餐具（dish 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Their dishes were made of wood.",
+      "zh": "他们的盘子是用木头制成的。"
+    },
+    {
+      "en": "You wash the dishes and I'll dry.",
+      "zh": "你洗盘子，我来擦干。"
+    },
+    {
+      "en": "The kids offered to do the dishes.",
+      "zh": "孩子们主动要求洗盘子。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "菜肴；餐具（dish的复数）",
+      "words": [
+        "utensils"
+      ]
+    }
+  ]
+}

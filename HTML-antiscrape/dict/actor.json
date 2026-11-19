@@ -1,0 +1,35 @@
+{
+  "word": "actor",
+  "found": true,
+  "phonetic_uk": "ˈæktə(r)",
+  "phonetic_us": "ˈæktər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=actor&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=actor&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "演员；像在演戏的人；（行动或过程）参与者"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "actors"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Grodin is a fine comic actor.",
+      "zh": "格罗丁是一位好的滑稽演员。"
+    },
+    {
+      "en": "He failed miserably as an actor.",
+      "zh": "作为演员，他败得很惨。"
+    },
+    {
+      "en": "He was nominated (as) best actor.",
+      "zh": "他获得了最佳男演员的提名。"
+    }
+  ],
+  "synonyms": []
+}

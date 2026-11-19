@@ -1,0 +1,71 @@
+{
+  "word": "landscape",
+  "found": true,
+  "phonetic_uk": "ˈlændskeɪp",
+  "phonetic_us": "ˈlændskeɪp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=landscape&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=landscape&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（陆上，尤指乡村的）风景，景色；形势，情形；（陆上或乡村）风景画；横向打印格式"
+    },
+    {
+      "pos": "v.",
+      "meaning": "对……做景观美化，美化……的环境；从事景观美化工作"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "横向列印的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "landscapes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "landscapes"
+    },
+    {
+      "name": "现在分词",
+      "value": "landscaping"
+    },
+    {
+      "name": "过去式",
+      "value": "landscaped"
+    },
+    {
+      "name": "过去分词",
+      "value": "landscaped"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The landscape had a stark, unworldly beauty.",
+      "zh": "那景色有一种简朴、超凡的美。"
+    },
+    {
+      "en": "The landscape seemed to stretch into infinity.",
+      "zh": "风景似乎延伸到了无穷远处。"
+    },
+    {
+      "en": "The landscape is intersected with spectacular gorges.",
+      "zh": "在大地景色中点缀着壮观的峡谷。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "风景，景色；山水画",
+      "words": [
+        "scenery",
+        "view",
+        "picture",
+        "prospect",
+        "outlook"
+      ]
+    }
+  ]
+}

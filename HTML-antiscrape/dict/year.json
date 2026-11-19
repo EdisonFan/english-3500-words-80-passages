@@ -1,0 +1,43 @@
+{
+  "word": "year",
+  "found": true,
+  "phonetic_uk": "jɪə(r)",
+  "phonetic_us": "jɪr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=year&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=year&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "年，日历年；年，一年时间；与某事相关的一年，年度；学年；年级，某年级的学生；年龄，年纪，岁；很久，好长时间；年代，时代"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "years"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They separated last year.",
+      "zh": "他们于去年分居了。"
+    },
+    {
+      "en": "Spending has increased year on year.",
+      "zh": "与去年同期比较，开销增加了。"
+    },
+    {
+      "en": "The year was 1840.",
+      "zh": "那是1840年。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[天]年；年度；历年",
+      "words": [
+        "annum"
+      ]
+    }
+  ]
+}

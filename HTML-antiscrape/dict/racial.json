@@ -1,0 +1,39 @@
+{
+  "word": "racial",
+  "found": true,
+  "phonetic_uk": "ˈreɪʃ(ə)l",
+  "phonetic_us": "ˈreɪʃ(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=racial&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=racial&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "种族关系的，种族之间的；人种的，种族的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Racial prejudice is (an) anathema to me.",
+      "zh": "对我来说，种族歧视非常可恶。"
+    },
+    {
+      "en": "The city had faced racial crisis and come through it.",
+      "zh": "该城曾面临种族危机，但现已度过难关了。"
+    },
+    {
+      "en": "Longstanding poverty has been exacerbated by racial divisions.",
+      "zh": "由来已久的贫穷因种族分裂而更加恶化了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "种族的；人种的",
+      "words": [
+        "ethnic",
+        "tribal"
+      ]
+    }
+  ]
+}

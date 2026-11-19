@@ -1,0 +1,43 @@
+{
+  "word": "results",
+  "found": true,
+  "phonetic_uk": "rɪˈzʌlts",
+  "phonetic_us": "rɪˈzʌlts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=results&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=results&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "发生，产生；终归，导致（result 的第三人称单数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "结果，后果；得分，成绩；成功实现的事，成果；经营业绩（result 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The results were pretty good.",
+      "zh": "结果相当不错。"
+    },
+    {
+      "en": "The company wants quick results.",
+      "zh": "这公司要立竿见影的成果。"
+    },
+    {
+      "en": "The results were hotly disputed.",
+      "zh": "结果引起了极大争议。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "结果；成绩（result的复数）",
+      "words": [
+        "consequences",
+        "sequelae"
+      ]
+    }
+  ]
+}

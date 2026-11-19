@@ -1,0 +1,38 @@
+{
+  "word": "appears",
+  "found": true,
+  "phonetic_uk": "əˈpɪəz",
+  "phonetic_us": "əˈpɪrz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=appears&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=appears&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "出现；呈现；看上去好像（appear 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He appears to be thriving.",
+      "zh": "他看起来兴旺发达蒸蒸日上。"
+    },
+    {
+      "en": "There appears to have been a mistake.",
+      "zh": "看来有一个差错。"
+    },
+    {
+      "en": "It appears to be an idyllic domestic setup.",
+      "zh": "它看起来是一种田园式的家庭组织方式。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "出现；呈现；看上去好像（appear的三单形式）",
+      "words": [
+        "exists"
+      ]
+    }
+  ]
+}

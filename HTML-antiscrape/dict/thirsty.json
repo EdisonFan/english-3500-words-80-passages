@@ -1,0 +1,51 @@
+{
+  "word": "thirsty",
+  "found": true,
+  "phonetic_uk": "ˈθɜːsti",
+  "phonetic_us": "ˈθɜːrsti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=thirsty&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=thirsty&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "渴的，口渴的；渴望的，渴求的；（植物或土地）缺水的，干旱的；（引擎、植物或庄稼）耗油的，需水量大的；<非正式>（活动、天气或时段）使人口渴的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "thirstier"
+    },
+    {
+      "name": "最高级",
+      "value": "thirstiest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "When a baby is thirsty, it feeds more often.",
+      "zh": "婴儿口渴时，吃奶更频繁。"
+    },
+    {
+      "en": "They were all thirsty so I gave them a drink.",
+      "zh": "他们都口渴了，所以我给了他们一杯饮料。"
+    },
+    {
+      "en": "Drink whenever you feel thirsty during exercise.",
+      "zh": "锻炼时一感到口渴就喝水。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "口渴的，口干的；渴望的，热望的",
+      "words": [
+        "dry",
+        "eager",
+        "hungry",
+        "anxious",
+        "desired"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "clearly",
+  "found": true,
+  "phonetic_uk": "ˈklɪəli",
+  "phonetic_us": "ˈklɪrli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=clearly&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=clearly&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "清楚地，清晰地；毫无疑问，显然；明智地，清醒地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "My remarks clearly nettled her.",
+      "zh": "我的话显然惹恼了她。"
+    },
+    {
+      "en": "Reforms are clearly in order.",
+      "zh": "改革显然是顺理成章的。"
+    },
+    {
+      "en": "The question clearly angered him.",
+      "zh": "这个问题显然激怒了他。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "清晰地；明显地；无疑地；明净地",
+      "words": [
+        "obviously",
+        "easily",
+        "no doubt",
+        "broadly"
+      ]
+    }
+  ]
+}

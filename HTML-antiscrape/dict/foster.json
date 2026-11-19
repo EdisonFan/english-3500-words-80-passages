@@ -1,0 +1,50 @@
+{
+  "word": "foster",
+  "found": true,
+  "phonetic_uk": "ˈfɒstə(r)",
+  "phonetic_us": "ˈfɑːstər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=foster&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=foster&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "促进，培养；领养，收养"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "代养的，寄养的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Foster） 福斯特（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Mr. Foster romped home with 141 votes.",
+      "zh": "福斯特先生以141票轻松获胜。"
+    },
+    {
+      "en": "The children were placed with foster parents.",
+      "zh": "这些小孩已安顿好，交给寄养父母了。"
+    },
+    {
+      "en": "We couldn't adopt a child, so we decided to foster.",
+      "zh": "我们不能领养孩子，所以决定代养一个。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "培养；养育，抚育；抱（希望等）",
+      "words": [
+        "cultivate",
+        "rear",
+        "raise",
+        "plant",
+        "mother"
+      ]
+    }
+  ]
+}

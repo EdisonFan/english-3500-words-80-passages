@@ -1,0 +1,30 @@
+{
+  "word": "adaptively",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=adaptively&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=adaptively&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "适应性地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The popularization of emotional intelligence has helped both the public and researchers re-evaluate the functionality of emotions and how they serve people adaptively in everyday life.",
+      "zh": "情商的大众化帮助公众和研究人员重新评估情绪的功能，以及它们在日常生活中如何对应地为人们服务。"
+    },
+    {
+      "en": "Consider an e-learning application that adaptively presents its contents to the user.",
+      "zh": "我们将要设计一个可以适应性地向用户呈现内容的电子学习应用程序。"
+    },
+    {
+      "en": "Through the strong ability of ASP + ACCESS technology, it realizes online studying adaptively.",
+      "zh": "该系统主要利用了ASP强大的网络数据库访问技术，实现了网上排课的方便性。"
+    }
+  ],
+  "synonyms": []
+}

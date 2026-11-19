@@ -1,0 +1,78 @@
+{
+  "word": "mark",
+  "found": true,
+  "phonetic_uk": "mɑːk",
+  "phonetic_us": "mɑːrk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mark&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mark&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "痕迹，污点；标识，记号；印记，特征；（品质或情感的）标志，迹象；分数；水平，标准点；（后接数词）型号；<英>燃气挡，温度刻度；（代替签名的）画押；目标，靶子；（比赛的）起点；<美>容易受骗的人；（赛马）附加重量级；（业余英橄）截球后喊 \"Mark\"射门；马克（德国货币单位，合100芬尼）；马克（旧时西欧使用的金银重量单位）；波黑马克（波斯尼亚和黑塞哥维纳基本货币单位）；（尤指体育比赛的）最好成绩，纪录"
+    },
+    {
+      "pos": "v.",
+      "meaning": "做记号，做标记；留下痕迹，弄污；标明方位，标示；分隔，标出（区域）；纪念，庆贺；表明，是……的迹象；成为……的特征；打分，评成绩；注意，留心；盯人防守，盯住（对手）；挑选，指定（mark sb. out for）；认定……为（某一类人）（mark sb. down as）；划掉，勾销；（澳橄）接球；（对人或物）造成永久性伤害"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Mark）马克（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "marks"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "marks"
+    },
+    {
+      "name": "现在分词",
+      "value": "marking"
+    },
+    {
+      "name": "过去式",
+      "value": "marked"
+    },
+    {
+      "name": "过去分词",
+      "value": "marked"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Mark Spitz was a great athlete.",
+      "zh": "马克·斯皮茨是一名伟大的运动员。"
+    },
+    {
+      "en": "She claims Mark fathered her child.",
+      "zh": "她声称马克是她孩子的父亲。"
+    },
+    {
+      "en": "Mark was withdrawn and uncontrollable.",
+      "zh": "马克性格孤僻，无法管束。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "标志；马克；符号；痕迹",
+      "words": [
+        "symbol",
+        "sign",
+        "seal",
+        "flag",
+        "trace"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "标志；做标记于；打分数",
+      "words": [
+        "signal"
+      ]
+    }
+  ]
+}

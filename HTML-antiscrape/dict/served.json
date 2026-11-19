@@ -1,0 +1,42 @@
+{
+  "word": "served",
+  "found": true,
+  "phonetic_uk": "sɜːvd",
+  "phonetic_us": "sɜːrvd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=served&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=served&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "为……服务；提供（产品或服务）；任职，服刑，学徒；对……有用，起作用；供应（食物）；供……人食用；接待（客人）；送交（传票，令状）；对待；发球；操作（枪炮）（serve 的过去式与过去分词）"
+    },
+    {
+      "pos": "vi.",
+      "meaning": "服兵役（serve 的过去式与过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She served us a delicious lunch.",
+      "zh": "她招待我们吃了一顿可口的午餐。"
+    },
+    {
+      "en": "She served an ace.",
+      "zh": "她发球直接得分。"
+    },
+    {
+      "en": "He served up a delicious meal.",
+      "zh": "他端上一顿可口的饭菜。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "服务（serve的过去分词）；服役；招待；发球",
+      "words": [
+        "treated"
+      ]
+    }
+  ]
+}

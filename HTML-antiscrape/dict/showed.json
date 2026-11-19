@@ -1,0 +1,38 @@
+{
+  "word": "showed",
+  "found": true,
+  "phonetic_uk": "ʃəʊd",
+  "phonetic_us": "ʃoʊd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=showed&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=showed&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "显示；表现；展示（show 的过去式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He showed courage in adversity.",
+      "zh": "他在逆境中显示出了勇气。"
+    },
+    {
+      "en": "The clock showed midnight.",
+      "zh": "时钟显示已是午夜。"
+    },
+    {
+      "en": "Ferguson was unhappy and it showed.",
+      "zh": "弗格森不高兴，而且表现了出来。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "显示；表现；展示（show的过去式）",
+      "words": [
+        "revealed"
+      ]
+    }
+  ]
+}

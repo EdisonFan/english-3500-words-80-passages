@@ -1,0 +1,50 @@
+{
+  "word": "divided",
+  "found": true,
+  "phonetic_uk": "dɪˈvaɪdɪd",
+  "phonetic_us": "dɪˈvaɪdɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=divided&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=divided&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "分裂的，有分歧的；分配的，分享的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）分开，分散；分配，分享；是……的分界线，分隔（divide 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We divided the work between us.",
+      "zh": "我们共同分担这项工作。"
+    },
+    {
+      "en": "I've divided the money in half.",
+      "zh": "我把钱平均分成了两半。"
+    },
+    {
+      "en": "Opinion is divided on the issue.",
+      "zh": "大家对这件事意见分歧。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "分裂的；分开的；有分歧的",
+      "words": [
+        "separate",
+        "partite"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "分开（divide的过去分词）；分离",
+      "words": [
+        "uncoupled"
+      ]
+    }
+  ]
+}

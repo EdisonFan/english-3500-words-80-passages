@@ -1,0 +1,39 @@
+{
+  "word": "families",
+  "found": true,
+  "phonetic_uk": "ˈfæmɪlɪz",
+  "phonetic_us": "ˈfæməliz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=families&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=families&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "家庭（family 的复数）；家族"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The war separated many families.",
+      "zh": "这场战争使许多家庭离散。"
+    },
+    {
+      "en": "We aim to help the poorest families.",
+      "zh": "我们的目标是接济最贫困的家庭。"
+    },
+    {
+      "en": "Many families struggle to make ends meet.",
+      "zh": "许多家庭只能勉强维持生计。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "家庭（family的复数）；家族",
+      "words": [
+        "homes",
+        "households"
+      ]
+    }
+  ]
+}

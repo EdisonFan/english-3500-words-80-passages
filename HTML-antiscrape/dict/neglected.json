@@ -1,0 +1,50 @@
+{
+  "word": "neglected",
+  "found": true,
+  "phonetic_uk": "nɪˈɡlektɪd",
+  "phonetic_us": "nɪˈɡlektɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=neglected&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=neglected&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "被忽视的，被忽略的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "疏于照顾，未予看管；不予重视，忽视；漏做（neglect 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She has neglected her studies.",
+      "zh": "她忽视了自己的学习。"
+    },
+    {
+      "en": "The buildings had been neglected for years.",
+      "zh": "这些大楼多年来一直无人看管。"
+    },
+    {
+      "en": "At times they have been shamefully neglected.",
+      "zh": "有时他们被可耻地忽略了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "被忽视的；未被好好照管的",
+      "words": [
+        "ignored",
+        "unnoticed"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "忽视；疏忽（neglect的过去分词）",
+      "words": [
+        "bypassed"
+      ]
+    }
+  ]
+}

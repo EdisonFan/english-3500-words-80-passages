@@ -1,0 +1,51 @@
+{
+  "word": "definitely",
+  "found": true,
+  "phonetic_uk": "ˈdefɪnətli",
+  "phonetic_us": "ˈdefɪnətli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=definitely&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=definitely&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "肯定地，当然；明确地，确定地"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more definitely"
+    },
+    {
+      "name": "最高级",
+      "value": "most definitely"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I definitely remember sending the letter.",
+      "zh": "我记得这封信肯定发出去了。"
+    },
+    {
+      "en": "This site is definitely worth bookmarking.",
+      "zh": "这个网站绝对值得设电子书签。"
+    },
+    {
+      "en": "The exam was impossible! I definitely bombed it.",
+      "zh": "考试太难了！我肯定考砸了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "清楚地，当然；明确地，肯定地",
+      "words": [
+        "certainly",
+        "surely",
+        "specifically",
+        "particularly",
+        "plain"
+      ]
+    }
+  ]
+}

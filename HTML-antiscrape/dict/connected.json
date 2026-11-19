@@ -1,0 +1,51 @@
+{
+  "word": "connected",
+  "found": true,
+  "phonetic_uk": "kəˈnektɪd",
+  "phonetic_us": "kəˈnektɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=connected&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=connected&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "连接的，相连的，相通的；有关的，有联系的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）连接；（使）相通；使接通（电源、水源等）；与……有关系；把……联系起来（connect 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The two events are closely connected.",
+      "zh": "两起事件之间有密切的联系。"
+    },
+    {
+      "en": "Taste and smell are closely connected.",
+      "zh": "味觉和嗅觉有密切的联系。"
+    },
+    {
+      "en": "The two subjects are closely connected.",
+      "zh": "这两门学科紧密相连。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[数][计]连接的；有联系的；连贯的",
+      "words": [
+        "linked",
+        "joint",
+        "consecutive"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "[计]连接（connect的过去式）",
+      "words": [
+        "joined"
+      ]
+    }
+  ]
+}

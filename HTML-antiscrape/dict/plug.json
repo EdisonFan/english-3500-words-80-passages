@@ -1,0 +1,79 @@
+{
+  "word": "plug",
+  "found": true,
+  "phonetic_uk": "plʌɡ",
+  "phonetic_us": "plʌɡ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=plug&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=plug&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "插头；插座；（洗涤槽或浴缸的）塞子；堵塞物；棉球，药棉；螺钉楔子；（车辆引擎的）火花塞；推销，宣传；（压实的）块，口嚼烟；<美，非正式>（婴儿的）橡皮奶头；岩颈；（供移植的）幼苗，草皮；鱼饵；<美>消防栓；<美，非正式>疲惫的马"
+    },
+    {
+      "pos": "v.",
+      "meaning": "堵，塞；补足；接电源，插插头；推广，宣传；<美，非正式>射击，射杀；<非正式>艰难地走，埋头于"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "plugs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "plugs"
+    },
+    {
+      "name": "现在分词",
+      "value": "plugging"
+    },
+    {
+      "name": "过去式",
+      "value": "plugged"
+    },
+    {
+      "name": "过去分词",
+      "value": "plugged"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The plug broke, exposing live wires.",
+      "zh": "插头坏了，露出带电的电线。"
+    },
+    {
+      "en": "Check that the plug has not come loose.",
+      "zh": "检查一下别让插头松脱了。"
+    },
+    {
+      "en": "Is this plug fused?",
+      "zh": "这个插头有没有安装保险丝？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[电]插头；[核]塞子；栓",
+      "words": [
+        "male connector",
+        "tampion"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "塞住；用插头将与电源接通",
+      "words": [
+        "stop up"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "插入；塞住；[电]接插头",
+      "words": [
+        "build in",
+        "add on"
+      ]
+    }
+  ]
+}

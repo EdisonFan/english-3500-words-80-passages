@@ -1,0 +1,63 @@
+{
+  "word": "undervalue",
+  "found": true,
+  "phonetic_uk": "ˌʌndəˈvæljuː",
+  "phonetic_us": "ˌʌndərˈvæljuː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=undervalue&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=undervalue&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "低估……的价值；看轻，轻视"
+    },
+    {
+      "pos": "n.",
+      "meaning": "低于实际价值的价格"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "undervalues"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "undervalues"
+    },
+    {
+      "name": "现在分词",
+      "value": "undervaluing"
+    },
+    {
+      "name": "过去式",
+      "value": "undervalued"
+    },
+    {
+      "name": "过去分词",
+      "value": "undervalued"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We must never undervalue freedom.",
+      "zh": "我们决不可低估自由的价值。"
+    },
+    {
+      "en": "But rich countries undervalue women as well.",
+      "zh": "但在富裕国家中也同样低估女性的价值。"
+    },
+    {
+      "en": "I think people sort of undervalue emotional life anyway.",
+      "zh": "我认为人们低估了情感生活。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "低估...之价值；看轻",
+      "words": [
+        "make no account of"
+      ]
+    }
+  ]
+}

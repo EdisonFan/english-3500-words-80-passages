@@ -1,0 +1,43 @@
+{
+  "word": "spaces",
+  "found": true,
+  "phonetic_uk": "ˈspeɪsɪz",
+  "phonetic_us": "ˈspeɪsɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=spaces&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=spaces&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "空间；[计]空格；控制室（space 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "把……分隔开；留间隔（space 的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Their cars are shoehorned into tiny spaces.",
+      "zh": "他们的车被硬塞进了狭小的空间。"
+    },
+    {
+      "en": "It is cruel to keep animals in confined spaces.",
+      "zh": "把动物关在狭小的空间里是残酷的。"
+    },
+    {
+      "en": "Those are the empty spaces.",
+      "zh": "这些是空白的空间。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "空间；空格；控制室（space的复数）",
+      "words": [
+        "rooms",
+        "vacua"
+      ]
+    }
+  ]
+}

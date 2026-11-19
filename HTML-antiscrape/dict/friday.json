@@ -1,0 +1,35 @@
+{
+  "word": "Friday",
+  "found": true,
+  "phonetic_uk": "ˈfraɪdeɪ",
+  "phonetic_us": "ˈfraɪdeɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=Friday&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=Friday&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "星期五"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "Fridays"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Today is Friday, September 14th.",
+      "zh": "今天是9月14日，星期五。"
+    },
+    {
+      "en": "It's not doable by Friday.",
+      "zh": "这事星期五之前做不了。"
+    },
+    {
+      "en": "I work Monday to Friday.",
+      "zh": "我星期一到星期五上班。"
+    }
+  ],
+  "synonyms": []
+}

@@ -1,0 +1,38 @@
+{
+  "word": "fields",
+  "found": true,
+  "phonetic_uk": "ˈfiːldz",
+  "phonetic_us": "fiːldz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fields&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fields&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "田地，田野；专业，领域；现场，实地（field 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "组建，派出；担任守方；接（球），守（球）（field 的第三人称单数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Fields）人名；（德、英、葡）菲尔茨"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The house is backed by fields.",
+      "zh": "房子的后面是田野。"
+    },
+    {
+      "en": "There's a way across the fields.",
+      "zh": "有一条路穿过田地。"
+    },
+    {
+      "en": "Lambs frisked in the fields.",
+      "zh": "羊羔在田野里活蹦乱跳。"
+    }
+  ],
+  "synonyms": []
+}

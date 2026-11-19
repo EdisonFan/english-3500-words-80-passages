@@ -1,0 +1,67 @@
+{
+  "word": "understand",
+  "found": true,
+  "phonetic_uk": "ˌʌndəˈstænd",
+  "phonetic_us": "ˌʌndərˈstænd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=understand&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=understand&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "理解，懂得；了解，明白（某事物）；谅解，体谅；得知，听说；默认，默许；领会，推断出；解释"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "understands"
+    },
+    {
+      "name": "现在分词",
+      "value": "understanding"
+    },
+    {
+      "name": "过去式",
+      "value": "understood"
+    },
+    {
+      "name": "过去分词",
+      "value": "understood"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I fully understand your motives.",
+      "zh": "我完全理解你的动机。"
+    },
+    {
+      "en": "Can you understand French?",
+      "zh": "你懂法语吗？"
+    },
+    {
+      "en": "Do you understand the instructions?",
+      "zh": "你懂得这些指令的意思吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "理解；懂；获悉；推断；省略",
+      "words": [
+        "see",
+        "absorb",
+        "read",
+        "seize",
+        "conclude"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "理解；懂得；熟悉",
+      "words": [
+        "know",
+        "cotton on"
+      ]
+    }
+  ]
+}

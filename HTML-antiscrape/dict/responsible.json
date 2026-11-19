@@ -1,0 +1,51 @@
+{
+  "word": "responsible",
+  "found": true,
+  "phonetic_uk": "rɪˈspɒnsəb(ə)l",
+  "phonetic_us": "rɪˈspɑːnsəb(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=responsible&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=responsible&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "（对某人、某事）负责的；（对事故、错误、罪行等）负有责任的，应承担责任的；（工作或职位）重要的，责任重大的；可靠的，负责任的；作为缘由的，应受归咎的；向......负责的，向......汇报的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more responsible"
+    },
+    {
+      "name": "最高级",
+      "value": "most responsible"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He's directly responsible to the boss.",
+      "zh": "他直接对老板负责。"
+    },
+    {
+      "en": "He became solely responsible for the firm.",
+      "zh": "他成了公司唯一的负责人。"
+    },
+    {
+      "en": "He felt morally responsible for the accident.",
+      "zh": "他觉得在道义上应对这次事故负责。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[法]负责的，可靠的；有责任的",
+      "words": [
+        "honest",
+        "reliable",
+        "tried",
+        "safe",
+        "sure"
+      ]
+    }
+  ]
+}

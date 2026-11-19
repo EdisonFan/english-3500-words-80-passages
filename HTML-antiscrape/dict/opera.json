@@ -1,0 +1,39 @@
+{
+  "word": "opera",
+  "found": true,
+  "phonetic_uk": "ˈɒprə",
+  "phonetic_us": "ˈɑːprə",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=opera&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=opera&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "歌剧演出，歌剧表演；歌剧团，歌剧院；歌剧艺术，歌剧剧本"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Opera）（意）奥佩拉（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "operas"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Which opera did Verdi write first?",
+      "zh": "威尔第最早写的是哪一部歌剧？"
+    },
+    {
+      "en": "He was a regular attender at the opera.",
+      "zh": "他是歌剧院的常客。"
+    },
+    {
+      "en": "Opera productions are horrifically expensive.",
+      "zh": "歌剧的演出花销大得吓人。"
+    }
+  ],
+  "synonyms": []
+}

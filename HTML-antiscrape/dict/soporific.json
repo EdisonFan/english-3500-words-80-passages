@@ -1,0 +1,51 @@
+{
+  "word": "soporific",
+  "found": true,
+  "phonetic_uk": "ˌsɒpəˈrɪfɪk",
+  "phonetic_us": "ˌsɑːpəˈrɪfɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=soporific&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=soporific&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "催眠的，使人昏昏欲睡的；困倦的，昏昏欲睡的；枯燥的，单调乏味的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "催（安）眠药；使人昏睡的东西"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The election campaign was soporific but the results are startling.",
+      "zh": "竞选活动令人昏昏欲睡，但结果却令人吃惊。"
+    },
+    {
+      "en": "Providence, out of pity for mankind, has instilled a soporific charm into all tedious things.",
+      "zh": "老天爷悲悯世人，他在一切沉闷的东西上都施加了催眠般的魔力。"
+    },
+    {
+      "en": "In contrast to the blaze of sunlight outside, the inner light had a soporific effect, especially on the twins.",
+      "zh": "与户外灿烂的阳光相比，室内的光线有种催眠效果，这对双胞胎尤其明显。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "催眠剂；[药]安眠药",
+      "words": [
+        "hypnagogue",
+        "sleeping pill"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "[药]催眠的；想睡的",
+      "words": [
+        "somnolent",
+        "hypnogenetic"
+      ]
+    }
+  ]
+}

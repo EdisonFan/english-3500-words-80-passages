@@ -1,0 +1,42 @@
+{
+  "word": "objectives",
+  "found": true,
+  "phonetic_uk": "əbˈdʒektɪvz",
+  "phonetic_us": "əbˈdʒektɪvz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=objectives&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=objectives&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "目标，目的，宗旨；宾格；物镜（objective 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "These two objectives are mutually incompatible.",
+      "zh": "这两个目标相互矛盾。"
+    },
+    {
+      "en": "You must set realistic aims and objectives for yourself.",
+      "zh": "你必须给自己确定切实可行的目的和目标。"
+    },
+    {
+      "en": "Their objectives and methods require further elucidation.",
+      "zh": "他们的目标和方法都需要进一步阐明。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "目的（objective的复数形式）；目标；宗旨",
+      "words": [
+        "ends",
+        "purposes",
+        "targets",
+        "points",
+        "intentions"
+      ]
+    }
+  ]
+}

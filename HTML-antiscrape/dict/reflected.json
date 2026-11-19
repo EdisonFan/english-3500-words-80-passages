@@ -1,0 +1,46 @@
+{
+  "word": "reflected",
+  "found": true,
+  "phonetic_uk": "rɪˈflektɪd",
+  "phonetic_us": "rɪˈflektɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=reflected&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=reflected&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "反射（光、热或声音）；反映，照出（影像）；显示，表明；深思，反省（reflect 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The sun reflected off the snow-covered mountains.",
+      "zh": "阳光从被雪覆盖的山峦反射回来。"
+    },
+    {
+      "en": "Lights reflected off dust-covered walls creating a ghostly luminescence.",
+      "zh": "灯光照在满是灰尘的墙上，反射回苍白的冷光。"
+    },
+    {
+      "en": "His face was reflected in the mirror.",
+      "zh": "他的脸映照在镜子里。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[动][物]反射的；得自他人的",
+      "words": [
+        "catoptric",
+        "repercussive"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "[物]反射；思考（reflect的过去式和过去分词）",
+      "words": [
+        "thought"
+      ]
+    }
+  ]
+}

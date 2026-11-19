@@ -1,0 +1,70 @@
+{
+  "word": "only",
+  "found": true,
+  "phonetic_uk": "ˈəʊnli",
+  "phonetic_us": "ˈoʊnli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=only&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=only&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "只，只有；仅在……情况下（或地方等）；只是，不过（表示不重要、不严重等）；（强调数量少或时间段）仅仅，才；不早于，直到……才；（除此之外别无可为）只能；（用于说明事情的恶果）只会；不料，竟然；只能（希望或愿望等）；（强调行动恰当）完全，真正；刚刚（强调某事刚发生）；险些没，差点没"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "仅有的，唯一的；最好的，最适合的；独生的"
+    },
+    {
+      "pos": "conj.",
+      "meaning": "<非正式>不过，但是；<非正式>要不是，若非"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Cigarettes are my only vice.",
+      "zh": "我唯一的罪过就是爱抽烟。"
+    },
+    {
+      "en": "Only five people turned up.",
+      "zh": "只来了五个人。"
+    },
+    {
+      "en": "I was only average academically.",
+      "zh": "我的学业成绩只能算平平。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "只，仅仅；不料",
+      "words": [
+        "merely",
+        "simply",
+        "but",
+        "just",
+        "barely"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "唯一的，仅有的；最合适的",
+      "words": [
+        "unique",
+        "one",
+        "sole"
+      ]
+    },
+    {
+      "pos": "conj.",
+      "meaning": "但是；不过；可是",
+      "words": [
+        "granted",
+        "but",
+        "and",
+        "yet",
+        "however"
+      ]
+    }
+  ]
+}

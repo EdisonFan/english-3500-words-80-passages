@@ -1,0 +1,44 @@
+{
+  "word": "markman",
+  "found": true,
+  "phonetic_uk": "ˈmɑːkmən",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=markman&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=markman&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "神枪手（等于 marksman）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Markman）人名；（俄）马尔克曼"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "markmen"
+    }
+  ],
+  "examples": [
+    {
+      "en": "With almost evangelical fervour, Markman warns against sunbathing.",
+      "zh": "几乎是凭着一股疯狂的热情，马克曼提醒大家不要作日光浴。"
+    },
+    {
+      "en": "That’s why the fire department tells you to have a specific plan,” noted Markman.",
+      "zh": "这就是为什么消防部门告诉你要有一个具体的计划，”Markman（马克曼）说。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "神枪手（等于marksman）",
+      "words": [
+        "dead shot",
+        "sureshot"
+      ]
+    }
+  ]
+}

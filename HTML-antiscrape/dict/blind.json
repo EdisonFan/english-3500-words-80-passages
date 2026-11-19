@@ -1,0 +1,99 @@
+{
+  "word": "blind",
+  "found": true,
+  "phonetic_uk": "blaɪnd",
+  "phonetic_us": "blaɪnd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=blind&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=blind&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "失明的，盲的；未察觉的，视而不见的；未加思考的，莫名的（形容感情强烈）；（拐角）看不见的，隐蔽的；无窗的，无门的；（行动）未掌握一定信息的；<英，非正式>丝毫的，一丁点儿的；盲飞的；（植物）无芽的，无顶生花的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使变瞎，使失明；使眼花，使目眩；蒙蔽，使无辨别力"
+    },
+    {
+      "pos": "n.",
+      "meaning": "窗帘，（尤指）卷帘；<美>（狩猎时的）埋伏处，伏击处；借口，幌子"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "看不清地；失去理智地；盲目地，无准备地"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Blind）（法）布兰，（德、瑞典）布林德（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "blinds"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "blinds"
+    },
+    {
+      "name": "现在分词",
+      "value": "blinding"
+    },
+    {
+      "name": "过去式",
+      "value": "blinded"
+    },
+    {
+      "name": "过去分词",
+      "value": "blinded"
+    },
+    {
+      "name": "比较级",
+      "value": "blinder"
+    },
+    {
+      "name": "最高级",
+      "value": "blindest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Mark has been blind from birth.",
+      "zh": "马克先天失明。"
+    },
+    {
+      "en": "Doctors think he will go blind.",
+      "zh": "医生们认为他会失明。"
+    },
+    {
+      "en": "He was a teacher of the blind.",
+      "zh": "他过去是位教盲人的老师。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[生物]盲目的；瞎的",
+      "words": [
+        "eyeless",
+        "visionless"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "盲目地；看不见地",
+      "words": [
+        "invisibly"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "掩饰，借口；[建]百叶窗",
+      "words": [
+        "excuse",
+        "mask"
+      ]
+    }
+  ]
+}

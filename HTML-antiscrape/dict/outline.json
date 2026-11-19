@@ -1,0 +1,74 @@
+{
+  "word": "outline",
+  "found": true,
+  "phonetic_uk": "ˈaʊtlaɪn",
+  "phonetic_us": "ˈaʊtlaɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=outline&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=outline&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "轮廓，外形；轮廓图，草图；提纲，大纲；梗概，要点；（词的）速记形式"
+    },
+    {
+      "pos": "v.",
+      "meaning": "概述，略述；勾勒，描画……的轮廓"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "outlines"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "outlines"
+    },
+    {
+      "name": "现在分词",
+      "value": "outlining"
+    },
+    {
+      "name": "过去式",
+      "value": "outlined"
+    },
+    {
+      "name": "过去分词",
+      "value": "outlined"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She drew the figures in outline.",
+      "zh": "她简略地勾勒出人物的轮廓。"
+    },
+    {
+      "en": "Trees soften the outline of the house.",
+      "zh": "树木使房子的轮廓显得柔和。"
+    },
+    {
+      "en": "At last we could see the dim outline of an island.",
+      "zh": "我们终于能看到一小岛朦胧的轮廓了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "轮廓；大纲；概要；略图",
+      "words": [
+        "profile",
+        "program",
+        "brief",
+        "contour"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "概述；略述；描画…轮廓",
+      "words": [
+        "summarize",
+        "sum up"
+      ]
+    }
+  ]
+}

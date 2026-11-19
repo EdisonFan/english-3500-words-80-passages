@@ -1,0 +1,42 @@
+{
+  "word": "gradual",
+  "found": true,
+  "phonetic_uk": "ˈɡrædʒuəl",
+  "phonetic_us": "ˈɡrædʒuəl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=gradual&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=gradual&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "逐渐的，渐进的；平缓的，不陡的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "弥撒升阶圣歌集"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Losing weight is a slow, gradual process.",
+      "zh": "减肥是一个缓慢而逐渐的过程。"
+    },
+    {
+      "en": "The roads are built to accommodate gradual temperature changes.",
+      "zh": "这些道路是为适应气温的逐渐变化而建的。"
+    },
+    {
+      "en": "The greatest hope for reform is the gradual spread of information.",
+      "zh": "改革的最大希望就是信息的逐渐传播。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "逐渐的；平缓的",
+      "words": [
+        "piecemeal"
+      ]
+    }
+  ]
+}

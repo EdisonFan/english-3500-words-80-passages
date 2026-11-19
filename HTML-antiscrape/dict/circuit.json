@@ -1,0 +1,71 @@
+{
+  "word": "circuit",
+  "found": true,
+  "phonetic_uk": "ˈsɜːkɪt",
+  "phonetic_us": "ˈsɜːrkɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=circuit&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=circuit&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "电路，回路；巡回活动，巡回地；环道，环线；巡回赛；赛车道；（英国）巡回审判区，巡回上诉法院；（一套）体操动作；统一经营的连锁剧院（或影院）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（绕……）环行"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "circuits"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "circuits"
+    },
+    {
+      "name": "现在分词",
+      "value": "circuiting"
+    },
+    {
+      "name": "过去式",
+      "value": "circuited"
+    },
+    {
+      "name": "过去分词",
+      "value": "circuited"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Fewer workers are needed to solder circuit boards.",
+      "zh": "焊接电路板需要较少的工人。"
+    },
+    {
+      "en": "The fire was started by an electrical short-circuit.",
+      "zh": "火灾是由电线短路引发的。"
+    },
+    {
+      "en": "The switches close the contacts and complete the circuit.",
+      "zh": "这些开关可接通形成闭合电路。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[电子]电路，回路；巡回；一圈；环道",
+      "words": [
+        "electrocircuit",
+        "contour"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "环行",
+      "words": [
+        "round"
+      ]
+    }
+  ]
+}

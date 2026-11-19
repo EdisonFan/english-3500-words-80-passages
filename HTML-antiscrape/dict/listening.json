@@ -1,0 +1,42 @@
+{
+  "word": "listening",
+  "found": true,
+  "phonetic_uk": "ˈlɪsənɪŋ",
+  "phonetic_us": "ˈlɪsnɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=listening&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=listening&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "倾听"
+    },
+    {
+      "pos": "v.",
+      "meaning": "听，倾听；听从，听信（listen 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Sorry, I wasn't really listening.",
+      "zh": "对不起，我没注意听。"
+    },
+    {
+      "en": "Are you listening, Mom?",
+      "zh": "妈，你在听吗？"
+    },
+    {
+      "en": "She lay awake listening to his snores.",
+      "zh": "她没睡着，躺在那儿听他打呼噜。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "倾听",
+      "words": [
+        "ear"
+      ]
+    }
+  ]
+}

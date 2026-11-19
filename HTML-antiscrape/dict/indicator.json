@@ -1,0 +1,44 @@
+{
+  "word": "indicator",
+  "found": true,
+  "phonetic_uk": "ˈɪndɪkeɪtə(r)",
+  "phonetic_us": "ˈɪndɪkeɪtər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=indicator&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=indicator&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "标志，迹象；方向灯，转向指示灯；指示器，显示器；指示剂；指示（物）种"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "indicators"
+    }
+  ],
+  "examples": [
+    {
+      "en": "But it's not the only indicator and, paradoxically, its significance is declining.",
+      "zh": "但这并不是唯一的指标，而且矛盾的是，它的重要性正在下降。"
+    },
+    {
+      "en": "As an indicator of shifts in the Earth's climate, the isotope record has two advantages.",
+      "zh": "作为地球气候变化的指标，同位素记录有两个优势。"
+    },
+    {
+      "en": "Yes, the power indicator was on, and it was running, but somehow the sound didn't come through.",
+      "zh": "是的，电源指示灯是亮的，机器也正在运行，但是不知怎么的声音就是出不来。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[微][试剂][计][电][电子][机]指示器；指示剂；指示符；压力计",
+      "words": [
+        "pointer",
+        "viewer"
+      ]
+    }
+  ]
+}

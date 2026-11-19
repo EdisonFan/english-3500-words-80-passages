@@ -1,0 +1,68 @@
+{
+  "word": "riddle",
+  "found": true,
+  "phonetic_uk": "ˈrɪd(ə)l",
+  "phonetic_us": "ˈrɪd(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=riddle&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=riddle&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "谜语；谜一般的人（或事）；（筛分土石的）粗筛"
+    },
+    {
+      "pos": "v.",
+      "meaning": "猜（某人）出的（谜），为（某人）解（谜）；<古> 打谜语般地说，出谜；把……打得满是窟窿；（尤指令人不快之事）充斥，布满；用粗筛筛；摇动（炉栅）使灰落下"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Riddle）（美、英、加）里德尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "riddles"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "riddles"
+    },
+    {
+      "name": "现在分词",
+      "value": "riddling"
+    },
+    {
+      "name": "过去式",
+      "value": "riddled"
+    },
+    {
+      "name": "过去分词",
+      "value": "riddled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Scientists claimed yesterday to have solved the riddle of the birth of the universe.",
+      "zh": "科学家们昨天宣布已经解开了宇宙诞生之谜。"
+    },
+    {
+      "en": "Can you answer this riddle?",
+      "zh": "你能猜出这个谜语吗？"
+    },
+    {
+      "en": "This is the riddle you have to solve.",
+      "zh": "这是你必须要解决的谜题。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "谜语；[矿业]粗筛；谜一般的人、东西、事情等",
+      "words": [
+        "brainteaser",
+        "conundrum"
+      ]
+    }
+  ]
+}

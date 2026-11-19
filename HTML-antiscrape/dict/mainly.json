@@ -1,0 +1,42 @@
+{
+  "word": "mainly",
+  "found": true,
+  "phonetic_uk": "ˈmeɪnli",
+  "phonetic_us": "ˈmeɪnli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mainly&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mainly&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "主要地，首要地；大部分，大多"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Police work is mainly routine.",
+      "zh": "警察的工作主要都是按常规的。"
+    },
+    {
+      "en": "They eat mainly fruit and nuts.",
+      "zh": "他们主要吃水果和坚果。"
+    },
+    {
+      "en": "Small birds live mainly on insects.",
+      "zh": "小鸟主要靠食昆虫为生。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "主要地，大体上",
+      "words": [
+        "basically",
+        "mostly",
+        "largely",
+        "primarily",
+        "chief"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "word": "settle",
+  "found": true,
+  "phonetic_uk": "ˈset(ə)l",
+  "phonetic_us": "ˈset(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=settle&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=settle&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "解决，结束（争端等）；确定，决定；定居，安家；殖民，移居于；安置，安顿；（使）平静，（使）安定；降落，停留；（使）沉降，下陷；付清，结算；处理，分配（财产）；笼罩，稳定下来；把......放好，安放；（无可奈何地）接受（或答应）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "高背扶手木长椅"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Settle）（英）塞特尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "settles"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "settles"
+    },
+    {
+      "name": "现在分词",
+      "value": "settling"
+    },
+    {
+      "name": "过去式",
+      "value": "settled"
+    },
+    {
+      "name": "过去分词",
+      "value": "settled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It's time to settle this mano-a-mano.",
+      "zh": "现在是当面解决这个问题的时候了。"
+    },
+    {
+      "en": "She had decided to settle permanently in France.",
+      "zh": "她已经决定永久定居法国。"
+    },
+    {
+      "en": "This should settle your stomach.",
+      "zh": "这样你的胃应该就不难受了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "解决；定居；沉淀；下陷",
+      "words": [
+        "deposit",
+        "beach",
+        "work out",
+        "figure out"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "解决；安排；使…定居",
+      "words": [
+        "decide",
+        "schedule",
+        "budget",
+        "place in",
+        "work out"
+      ]
+    }
+  ]
+}

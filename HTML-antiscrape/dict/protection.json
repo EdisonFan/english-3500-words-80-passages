@@ -1,0 +1,47 @@
+{
+  "word": "protection",
+  "found": true,
+  "phonetic_uk": "prəˈtekʃ(ə)n",
+  "phonetic_us": "prəˈtekʃn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=protection&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=protection&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "保护，防护；保护物，护身符；保险；避孕（措施）；保护费；贸易保护，关税保护制；保护条例，保护措施；（登山）安全保护器材数量与质量"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "protections"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He asked to be put under police protection.",
+      "zh": "他请求警方保护。"
+    },
+    {
+      "en": "The wall gives some protection from the prevailing wind.",
+      "zh": "这堵墙挡着常刮的风，起到一些保护作用。"
+    },
+    {
+      "en": "Some animals roll themselves into a ball for protection.",
+      "zh": "有些动物蜷缩成一团以保护自己。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "保护；防卫；护照",
+      "words": [
+        "lee",
+        "safeguard",
+        "conservation",
+        "defence",
+        "pass"
+      ]
+    }
+  ]
+}

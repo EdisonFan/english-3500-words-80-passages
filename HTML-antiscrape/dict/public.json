@@ -1,0 +1,60 @@
+{
+  "word": "public",
+  "found": true,
+  "phonetic_uk": "ˈpʌblɪk",
+  "phonetic_us": "ˈpʌblɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=public&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=public&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "公众的，大众的；公共的，公用的；政府的，公众事务的；<英> 大学的，为大学的；（声明、事件等）公开的，公诸于众的；公开场合的，大庭广众的；上市的；众所周知的，广为人知的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "公众，大众（the public）；志趣相投（或从事同一类活动、具有共同特征）的群体；<非正式>（对某个艺术家、作家或表演家感兴趣的）读者，观众（one's public）；<英>（酒馆中的）低价吧台（=public bar），酒吧（=public house）；公共场所"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】  （Public）（英）帕布利克（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "publics"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She retreated from public life.",
+      "zh": "她放弃了社会生活。"
+    },
+    {
+      "en": "In public he remained inscrutable.",
+      "zh": "在公开场合他一直是个谜。"
+    },
+    {
+      "en": "She was a brilliant public speaker.",
+      "zh": "她很擅长在公开场合演讲。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "公众的；政府的；公用的；公立的",
+      "words": [
+        "governmental",
+        "commonable"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "公众；社会；公共场所",
+      "words": [
+        "society",
+        "ambiente"
+      ]
+    }
+  ]
+}

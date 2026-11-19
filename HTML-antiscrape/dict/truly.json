@@ -1,0 +1,44 @@
+{
+  "word": "truly",
+  "found": true,
+  "phonetic_uk": "ˈtruːli",
+  "phonetic_us": "ˈtruːli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=truly&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=truly&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "真实地，如实地；真正地，完全地；诚挚地，真诚地；准确地；非常，很"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Truly）特鲁利（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She was a truly remarkable woman.",
+      "zh": "她是一位真正非同凡响的女人。"
+    },
+    {
+      "en": "I really and truly am in love this time.",
+      "zh": "我这一次确确实实是恋爱了。"
+    },
+    {
+      "en": "He makes King Lear a truly tragic figure.",
+      "zh": "他把李尔王刻画成一位真正的悲剧人物。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "真实地，不假；真诚地",
+      "words": [
+        "sincerely",
+        "really",
+        "true"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "word": "basins",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˈbesn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=basins&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=basins&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "盆；[地理]盆地（basin 的复数）；脸盆"
+    },
+    {
+      "pos": "v.",
+      "meaning": "凹下成盆状（basin 的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They left behind their beds or basins as limestone formations that we can still see today.",
+      "zh": "它们留下了河床或盆地，形成了我们今天仍然可以看到的石灰岩地层。"
+    },
+    {
+      "en": "No very satisfactory account of the mechanism that caused the formation of the ocean basins has yet been given.",
+      "zh": "对于造成海洋盆地形成的机制，至今还没有给出非常令人满意的解释。"
+    },
+    {
+      "en": "Extreme changes in daily and seasonal climates preceded the retreat of the seas back into the major ocean basins.",
+      "zh": "在海洋退回到主要的海洋盆地之前，每日天气和季节性气候发生了剧烈的变化。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "盆；盆地（basin的复数）；脸盆",
+      "words": [
+        "lavatories"
+      ]
+    }
+  ]
+}

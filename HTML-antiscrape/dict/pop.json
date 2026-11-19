@@ -1,0 +1,96 @@
+{
+  "word": "pop",
+  "found": true,
+  "phonetic_uk": "pɒp",
+  "phonetic_us": "pɑːp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pop&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pop&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "流行音乐的；通俗的，大众的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "流行音乐；砰的响声；<非正式> 汽水；<非正式> 爸爸；鲜艳的一小块；（一系列事情中的）一次，一项；（棒球）小腾空球；打，敲击；<美> 通俗古典乐，流行古典乐（pops）；<非正式> 尝试，努力；<非正式> 批评；老人家（用作称呼）（pops）；枪击"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）砰地爆开，砰地脱落；迅速去，短暂逗留；突然出现，短暂出现；<非正式> 突然放置，迅速放入；（使）发出砰的响声，（使）啪的一声爆裂；（因飞机起飞、降落或上下陡坡等）耳压变化，耳胀；（因惊讶或兴奋而）瞪大眼睛；<非正式> 过于频繁地服用（药片）；打（某人）；爆（玉米花）；击出小腾空球；射击，开枪；打开瓶子喝（啤酒）；<英，非正式> 典当，抵押"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "砰的响声（go pop）"
+    },
+    {
+      "pos": "abbr.",
+      "meaning": "邮局协议 （post office protocol）；人口 （population）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Pop）（罗）波普（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "pops"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "pops"
+    },
+    {
+      "name": "现在分词",
+      "value": "popping"
+    },
+    {
+      "name": "过去式",
+      "value": "popped"
+    },
+    {
+      "name": "过去分词",
+      "value": "popped"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This CD is pure bubblegum pop.",
+      "zh": "这张CD纯粹是“泡泡糖”流行音乐。"
+    },
+    {
+      "en": "Pop stars are always news.",
+      "zh": "流行音乐明星总是新闻人物。"
+    },
+    {
+      "en": "Bang and pop are onomatopoeic words.",
+      "zh": "bang和pop是拟声词。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "流行音乐；汽水；砰然声；枪击",
+      "words": [
+        "world music",
+        "fizzwater"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "突然出现；爆开；射击；瞪大；发出爆裂声",
+      "words": [
+        "crop up",
+        "break out in"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "取出；开枪打；抛出；突然伸出；突然行动",
+      "words": [
+        "extract",
+        "take of"
+      ]
+    }
+  ]
+}

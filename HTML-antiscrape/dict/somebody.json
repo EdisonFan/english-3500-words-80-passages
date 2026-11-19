@@ -1,0 +1,48 @@
+{
+  "word": "somebody",
+  "found": true,
+  "phonetic_uk": "ˈsʌmbədi",
+  "phonetic_us": "ˈsʌmbɑːdi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=somebody&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=somebody&type=2",
+  "defs": [
+    {
+      "pos": "pron.",
+      "meaning": "某人，有人；重要人物，当权人物"
+    },
+    {
+      "pos": "n.",
+      "meaning": "大人物，重要人物"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "somebodies"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Somebody should have told me.",
+      "zh": "应该有人告诉我才是。"
+    },
+    {
+      "en": "Somebody had wiped all the tapes.",
+      "zh": "有人把所有磁带上录制的内容都抹掉了。"
+    },
+    {
+      "en": "Somebody was beating at the door.",
+      "zh": "有人在打门。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "大人物；重要人物",
+      "words": [
+        "anybody",
+        "big people"
+      ]
+    }
+  ]
+}

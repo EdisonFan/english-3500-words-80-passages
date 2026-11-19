@@ -1,0 +1,79 @@
+{
+  "word": "swallow",
+  "found": true,
+  "phonetic_uk": "ˈswɒləʊ",
+  "phonetic_us": "ˈswɑːloʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=swallow&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=swallow&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "吞下，咽下；（由于紧张等）做吞咽动作，咽口水；吞没，淹没；耗尽（金钱，资源）；完全相信，信以为真；抑制（感情、言语）；默默忍受（侮辱、批评等）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "吞，一口；燕子"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Swallow）（英）斯沃洛（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "swallows"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "swallows"
+    },
+    {
+      "name": "现在分词",
+      "value": "swallowing"
+    },
+    {
+      "name": "过去式",
+      "value": "swallowed"
+    },
+    {
+      "name": "过去分词",
+      "value": "swallowed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You are asked to swallow a capsule containing vitamin B.",
+      "zh": "你被要求吞下一颗含维生素B的胶囊。"
+    },
+    {
+      "en": "After the operation you may find it difficult to chew and swallow.",
+      "zh": "手术后你咀嚼和吞咽都会感到困难。"
+    },
+    {
+      "en": "Sometimes he regurgitates the food we give him because he cannot swallow.",
+      "zh": "有时他会倒嚼我们喂给他吃的食物，因为他无法吞咽。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "忍受；吞没",
+      "words": [
+        "stomach",
+        "go",
+        "stand",
+        "abide",
+        "tough"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "吞下；咽下",
+      "words": [
+        "get sth down",
+        "get down"
+      ]
+    }
+  ]
+}

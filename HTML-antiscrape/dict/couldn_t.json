@@ -1,0 +1,39 @@
+{
+  "word": "couldn't",
+  "found": true,
+  "phonetic_uk": "ˈkʊd(ə)nt",
+  "phonetic_us": "ˈkʊd(ə)nt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=couldn't&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=couldn't&type=2",
+  "defs": [
+    {
+      "pos": "",
+      "meaning": "contr. 不能（同 could not）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I couldn't trust him anymore.",
+      "zh": "我再不能相信他了。"
+    },
+    {
+      "en": "I couldn't stand that yowling.",
+      "zh": "我无法忍受那种哀嚎。"
+    },
+    {
+      "en": "She couldn't digest food properly.",
+      "zh": "她无法正常消化食物。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "不能（等于could not）",
+      "words": [
+        "be incapable of",
+        "can not"
+      ]
+    }
+  ]
+}

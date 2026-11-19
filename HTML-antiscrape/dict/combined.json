@@ -1,0 +1,51 @@
+{
+  "word": "combined",
+  "found": true,
+  "phonetic_uk": "kəmˈbaɪnd",
+  "phonetic_us": "kəmˈbaɪnd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=combined&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=combined&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "联合的，共同的；总和的，总计的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）结合，组合（combine 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "These elements can be combined in a multitude of different ways.",
+      "zh": "这些因素可以通过无数不同的方式进行组合。"
+    },
+    {
+      "en": "They combined against a common enemy.",
+      "zh": "他们联手对付共同的敌人。"
+    },
+    {
+      "en": "Several factors had combined to ruin our plans.",
+      "zh": "几种因素加在一起毁了我们的计划。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[数]结合的；组合的",
+      "words": [
+        "bonding",
+        "conjunct"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "使结合；联合（combine的过去分词）",
+      "words": [
+        "welded",
+        "mingled"
+      ]
+    }
+  ]
+}

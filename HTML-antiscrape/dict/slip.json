@@ -1,0 +1,87 @@
+{
+  "word": "slip",
+  "found": true,
+  "phonetic_uk": "slɪp",
+  "phonetic_us": "slɪp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=slip&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=slip&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "滑倒，失足；滑落，脱落；溜走，悄悄地走；偷偷塞进；滑行，打滑；下降，变差；陷入；迅速穿上，迅速脱下；摆脱，挣脱；飞逝，过得飞快；被（某人）忘记；放出（动物，尤指猎狗）；（身体部分）移位，脱臼；（编织）挑过一针不结；略微松动（汽车离合器）；（动物）流产"
+    },
+    {
+      "pos": "n.",
+      "meaning": "疏漏，差错；小纸条；滑，滑倒；滑动；衬裙；（击球员后侧的）守场员；（制陶器用的）泥浆，泥釉；（飞机飞行中的）侧滑；牵狗皮带；（两个码头之间）泊位；（编织）挑针；变糟，下跌；接枝，插枝；瘦小的年轻人"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Slip）（芬）斯利普（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "slips"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "slips"
+    },
+    {
+      "name": "现在分词",
+      "value": "slipping"
+    },
+    {
+      "name": "过去式",
+      "value": "slipped"
+    },
+    {
+      "name": "过去分词",
+      "value": "slipped"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She allowed victory to slip from her grasp.",
+      "zh": "她听任胜利从手中溜走。"
+    },
+    {
+      "en": "He removed his brown slip-ons.",
+      "zh": "他脱掉了他的棕色无带鞋。"
+    },
+    {
+      "en": "I put her name on the slip.",
+      "zh": "我把她的名字写在那张纸条上。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "[地质]滑动；滑倒；犯错；失足；减退",
+      "words": [
+        "slide",
+        "bowl"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[地质]使滑动；滑过；摆脱；塞入；闪开",
+      "words": [
+        "shed",
+        "slide"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "滑，滑倒；片，纸片；错误；下跌；事故",
+      "words": [
+        "error",
+        "accident",
+        "mistake",
+        "fault",
+        "sliding"
+      ]
+    }
+  ]
+}

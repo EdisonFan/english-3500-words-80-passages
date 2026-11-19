@@ -1,0 +1,45 @@
+{
+  "word": "added",
+  "found": true,
+  "phonetic_uk": "ˈædɪd",
+  "phonetic_us": "ˈædɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=added&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=added&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "更多的；额外的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "增加（add 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "'And don't be late,' she added.",
+      "zh": "“还有别迟到。”她补充说道。"
+    },
+    {
+      "en": "The juice contains no added sugar.",
+      "zh": "这种果汁没有加糖。"
+    },
+    {
+      "en": "This juice contains no added sugar.",
+      "zh": "这种果汁没有加糖。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "更多的；额外的",
+      "words": [
+        "additional",
+        "more",
+        "extra",
+        "excess"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "word": "ancestor",
+  "found": true,
+  "phonetic_uk": "ˈænsestə(r)",
+  "phonetic_us": "ˈænsestər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ancestor&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ancestor&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "祖先，祖宗；（动植物）原种；原型，雏形"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "ancestors"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Her Chinese friends referred to the empress as their venerable ancestor.",
+      "zh": "她的中国朋友们称那位皇后是令他们尊敬的祖先。"
+    },
+    {
+      "en": "Their ancestor is different from that of micro bats.",
+      "zh": "它们的祖先与微型蝙蝠的祖先不同。"
+    },
+    {
+      "en": "My ancestor was a preacher, traveling around the countryside.",
+      "zh": "我的祖先是一位游历于乡间的传教士。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "始祖，[生物]祖先；被继承人",
+      "words": [
+        "father",
+        "root",
+        "grandfather"
+      ]
+    }
+  ]
+}

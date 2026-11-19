@@ -1,0 +1,39 @@
+{
+  "word": "trousers",
+  "found": true,
+  "phonetic_uk": "ˈtraʊzəz",
+  "phonetic_us": "ˈtraʊzərz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=trousers&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=trousers&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "裤子，长裤； 裤子，长裤（trouser 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "These trousers are a bit tight.",
+      "zh": "这条裤子有点紧。"
+    },
+    {
+      "en": "He was dressed in khaki trousers.",
+      "zh": "他穿着一条卡其色的裤子。"
+    },
+    {
+      "en": "The trousers have a fly fastening.",
+      "zh": "这条裤子是前开口。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[服装]裤子，长裤",
+      "words": [
+        "pants",
+        "britches"
+      ]
+    }
+  ]
+}

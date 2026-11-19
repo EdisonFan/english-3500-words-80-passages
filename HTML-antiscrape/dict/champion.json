@@ -1,0 +1,91 @@
+{
+  "word": "champion",
+  "found": true,
+  "phonetic_uk": "ˈtʃæmpiən",
+  "phonetic_us": "ˈtʃæmpiən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=champion&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=champion&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "冠军，第一名；拥护者，斗士"
+    },
+    {
+      "pos": "v.",
+      "meaning": "捍卫，拥护，支持"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "<英，非正式>极好的；冠军的，得一等奖的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Champion）（英）钱皮恩，（法）尚皮翁（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "champions"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "champions"
+    },
+    {
+      "name": "现在分词",
+      "value": "championing"
+    },
+    {
+      "name": "过去式",
+      "value": "championed"
+    },
+    {
+      "name": "过去分词",
+      "value": "championed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Kasparov became world champion.",
+      "zh": "卡斯帕罗夫成了世界冠军。"
+    },
+    {
+      "en": "He defeated the champion in three sets.",
+      "zh": "他三盘击败了冠军。"
+    },
+    {
+      "en": "Tim Powell is a former champion powerboat racer.",
+      "zh": "蒂姆·鲍威尔曾是汽艇比赛的冠军。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "冠军；拥护者；战士",
+      "words": [
+        "title",
+        "first"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "支持；拥护",
+      "words": [
+        "encourage",
+        "second",
+        "back",
+        "carry",
+        "hand"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "优胜的；第一流的",
+      "words": [
+        "classical",
+        "royal"
+      ]
+    }
+  ]
+}

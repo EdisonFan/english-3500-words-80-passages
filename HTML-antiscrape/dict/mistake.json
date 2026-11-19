@@ -1,0 +1,83 @@
+{
+  "word": "mistake",
+  "found": true,
+  "phonetic_uk": "mɪˈsteɪk",
+  "phonetic_us": "mɪˈsteɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mistake&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mistake&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "错误，过失；（用词或数字上的）错误，口误，笔误；（令人后悔的）错误"
+    },
+    {
+      "pos": "v.",
+      "meaning": "误解，误会；错误判断；把……误认为"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "mistakes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "mistakes"
+    },
+    {
+      "name": "现在分词",
+      "value": "mistaking"
+    },
+    {
+      "name": "过去式",
+      "value": "mistook"
+    },
+    {
+      "name": "过去分词",
+      "value": "mistaken"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We've made a dreadful mistake.",
+      "zh": "我们犯了一个很大的错误。"
+    },
+    {
+      "en": "You are making a big mistake.",
+      "zh": "你正在犯一个严重的错误。"
+    },
+    {
+      "en": "I made a stupid mistake.",
+      "zh": "我犯了个愚蠢的错误。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "错误；误会；过失",
+      "words": [
+        "error",
+        "fault",
+        "sin",
+        "blame",
+        "misunderstanding"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "弄错；误解",
+      "words": [
+        "err in",
+        "go wrong"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "弄错；误解",
+      "words": [
+        "fault",
+        "err in"
+      ]
+    }
+  ]
+}

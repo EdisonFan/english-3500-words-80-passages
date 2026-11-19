@@ -1,0 +1,30 @@
+{
+  "word": "philosophers",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "fəˈlɑːsəfərz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=philosophers&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=philosophers&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "哲学家（philosopher 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The idea has been given short shrift by philosophers.",
+      "zh": "哲学家们不怎么关注这一观点。"
+    },
+    {
+      "en": "Philosophers did not use to make a distinction between arts and science.",
+      "zh": "哲学家过去习惯不把艺术和科学区别开来。"
+    },
+    {
+      "en": "He must have come to know those philosophers through secondary or tertiary sources.",
+      "zh": "他一定是通过第二手或第三手资料了解那些哲学家的。"
+    }
+  ],
+  "synonyms": []
+}

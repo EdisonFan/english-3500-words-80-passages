@@ -1,0 +1,51 @@
+{
+  "word": "subtle",
+  "found": true,
+  "phonetic_uk": "ˈsʌt(ə)l",
+  "phonetic_us": "ˈsʌt(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=subtle&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=subtle&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "不易察觉的，微妙的；敏锐的，有洞察力的；灵活的，巧妙的；含蓄的，隐晦的；<古>狡猾的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "subtler或more subtle"
+    },
+    {
+      "name": "最高级",
+      "value": "subtlest或most subtle"
+    }
+  ],
+  "examples": [
+    {
+      "en": "But TV images require subtle gradations of light and shade.",
+      "zh": "但是电视影像需要有细微的光影变化。"
+    },
+    {
+      "en": "Her paintings capture the subtle hues of the countryside in autumn.",
+      "zh": "她的油画捕捉住了秋天乡村的微妙色调。"
+    },
+    {
+      "en": "The job required a subtle mind.",
+      "zh": "那项工作需要一个头脑敏锐的人去做。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "微妙的；精细的；敏感的；狡猾的；稀薄的",
+      "words": [
+        "sensitive",
+        "delicate",
+        "detailed",
+        "refined",
+        "designing"
+      ]
+    }
+  ]
+}

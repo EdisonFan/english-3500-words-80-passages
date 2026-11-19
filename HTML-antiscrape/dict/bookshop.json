@@ -1,0 +1,43 @@
+{
+  "word": "bookshop",
+  "found": true,
+  "phonetic_uk": "ˈbʊkʃɒp",
+  "phonetic_us": "ˈbʊkʃɑːp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bookshop&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bookshop&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "书店"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "bookshops"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I found a lovely bookshop and bought two of his fairy tale books, The Little Mermaid and The Ugly Duckling.",
+      "zh": "我发现了一家可爱的书店，买了他的两本童话书，《小美人鱼》和《丑小鸭》。"
+    },
+    {
+      "en": "Guanghua Bookshop as a stand-alone bookshop may face a loss, because profits from selling print books are slim and rents in central London are high.",
+      "zh": "光华书店作为一家独立书店可能会面临亏损，因为出售纸质书的利润微薄，而且伦敦市中心的租金也很高。"
+    },
+    {
+      "en": "As he ran down the street with a light heart to the bookshop, he saw a poor German family, the father, mother and three children walking in the cold wind.",
+      "zh": "当他轻松地沿街跑向书店时，他看到一个贫穷的德国家庭，有爸爸、妈妈和三个孩子，在寒风中走着。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[贸易]书店",
+      "words": [
+        "libraire"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "cozy",
+  "found": true,
+  "phonetic_uk": "ˈkəʊzi",
+  "phonetic_us": "ˈkoʊzi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cozy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cozy&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "舒适的，温暖的；友好的，亲密无间的；密切的，互相勾结的；轻易得到的（但不一定是恰当的）；不提出（或不接受）挑战的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（茶壶的）保温罩；（角落里的）带蓬双人座"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（非正式）使感到舒适，使得意"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "This cozy workplace no longer exists here.",
+      "zh": "这个舒适的工作环境已经不复存在了。"
+    },
+    {
+      "en": "It brings you a cozy feeling with soft tactile.",
+      "zh": "它带给你惬意的感觉，柔软的触感。"
+    },
+    {
+      "en": "I found the lounge such a cozy place to study in.",
+      "zh": "我发现休息室是一个非常舒适的学习场所。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "舒适的，惬意的",
+      "words": [
+        "comfortable",
+        "pleasant",
+        "easy"
+      ]
+    }
+  ]
+}

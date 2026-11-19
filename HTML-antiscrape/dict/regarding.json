@@ -1,0 +1,46 @@
+{
+  "word": "regarding",
+  "found": true,
+  "phonetic_uk": "rɪˈɡɑːdɪŋ",
+  "phonetic_us": "rɪˈɡɑːrdɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=regarding&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=regarding&type=2",
+  "defs": [
+    {
+      "pos": "prep.",
+      "meaning": "关于，至于"
+    },
+    {
+      "pos": "v.",
+      "meaning": "看待，认为；<正式>（尤指以某种方式）注视，凝视；<古>注意，听从（regard 的现在分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She has said nothing regarding your request.",
+      "zh": "关于你的要求，她什么也没说。"
+    },
+    {
+      "en": "He refused to divulge any information regarding the man's whereabouts.",
+      "zh": "他拒绝透露任何关于那个男人下落的消息。"
+    },
+    {
+      "en": "The controversy regarding vitamin C is unlikely to be resolved in the near future.",
+      "zh": "关于维生素C的争论近期不大可能被解决。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "prep.",
+      "meaning": "关于，至于",
+      "words": [
+        "concerning",
+        "about",
+        "in the case of",
+        "with reference to",
+        "in relation to"
+      ]
+    }
+  ]
+}

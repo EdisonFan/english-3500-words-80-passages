@@ -1,0 +1,70 @@
+{
+  "word": "special",
+  "found": true,
+  "phonetic_uk": "ˈspeʃ(ə)l",
+  "phonetic_us": "ˈspeʃ(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=special&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=special&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "特殊的，特别的；格外看重的，特别要好的；专门的，特设的；特有的，独具特色的；格外的，分外的；（主题）研究深入的；（数）特殊（矩阵）的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "特色菜；特别节目；特价商品，折扣商品；特派员，临时警察，特约记者；专车"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Special）（印、美、俄）史派西娅乐（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "specials"
+    },
+    {
+      "name": "比较级",
+      "value": "more special"
+    },
+    {
+      "name": "最高级",
+      "value": "most special"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You're very special to me, darling.",
+      "zh": "你对我来说很特别，亲爱的。"
+    },
+    {
+      "en": "The task poses no special problems.",
+      "zh": "这项任务不会造成特别的问题。"
+    },
+    {
+      "en": "We don't want any special treatment.",
+      "zh": "我们不需要任何特殊待遇。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "特使，特派人员；特刊；特色菜；专车；特价商品",
+      "words": [
+        "bargain"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "特别的；专门的，专用的",
+      "words": [
+        "particular",
+        "extraordinary",
+        "technical",
+        "dedicated",
+        "express"
+      ]
+    }
+  ]
+}

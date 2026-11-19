@@ -1,0 +1,85 @@
+{
+  "word": "sheet",
+  "found": true,
+  "phonetic_uk": "ʃiːt",
+  "phonetic_us": "ʃiːt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sheet&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sheet&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "床单，被单；布罩，盖布；纸片，纸张；（Excel 中的）工作表；简要记录，纪要；一整版邮票；（尤指大地区系列地图的一部分的）一张地图；薄板，薄片；（冰或水的）一大片；（雨或火）一大片；拉帆绳，帆脚索；敞舱船的首尾区域"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（用布）盖上，裹上；把（帆）扣紧（或放松）；（雨）倾盆（或瓢泼）而下"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Sheet）（英）希特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "sheets"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "sheets"
+    },
+    {
+      "name": "现在分词",
+      "value": "sheeting"
+    },
+    {
+      "name": "过去式",
+      "value": "sheeted"
+    },
+    {
+      "name": "过去分词",
+      "value": "sheeted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This sheet has a tear in it.",
+      "zh": "这条床单上有个破洞。"
+    },
+    {
+      "en": "He was as white as a sheet.",
+      "zh": "他面无血色。"
+    },
+    {
+      "en": "I tore another sheet from the pad.",
+      "zh": "我从本子上又撕下一张纸。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "薄片，纸张；[材]薄板；床单",
+      "words": [
+        "slice",
+        "laminae"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "覆盖；盖上被单；使成大片",
+      "words": [
+        "invest",
+        "house",
+        "roof",
+        "cap"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "片状的",
+      "words": [
+        "lamellate"
+      ]
+    }
+  ]
+}

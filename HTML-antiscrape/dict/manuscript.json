@@ -1,0 +1,55 @@
+{
+  "word": "manuscript",
+  "found": true,
+  "phonetic_uk": "ˈmænjuskrɪpt",
+  "phonetic_us": "ˈmænjuskrɪpt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=manuscript&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=manuscript&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "手稿，原稿；手抄本，手写本"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "手写的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "manuscripts"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I read her poems in manuscript.",
+      "zh": "我读过她的诗作的手稿。"
+    },
+    {
+      "en": "He had seen a manuscript of the book.",
+      "zh": "他见过这本书的一份手稿。"
+    },
+    {
+      "en": "The original manuscript has been lost.",
+      "zh": "原稿已经遗失。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[图情]手稿；原稿",
+      "words": [
+        "scripture",
+        "autograph"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "[图情]手写的",
+      "words": [
+        "handwritten"
+      ]
+    }
+  ]
+}

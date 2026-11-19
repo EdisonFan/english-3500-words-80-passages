@@ -1,0 +1,65 @@
+{
+  "word": "peace",
+  "found": true,
+  "phonetic_uk": "piːs",
+  "phonetic_us": "piːs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=peace&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=peace&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "和平，太平；平静，安宁；（心情）平静，平和；和约；和平时期；治安；和睦，和谐；平安礼（the peace）；和平运动，裁军运动（尤指核裁军运动）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "安静"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Peace）（英）皮斯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "peaces"
+    },
+    {
+      "name": "现在分词",
+      "value": "peacing"
+    },
+    {
+      "name": "过去式",
+      "value": "peaced"
+    },
+    {
+      "name": "过去分词",
+      "value": "peaced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The people yearned for peace.",
+      "zh": "人民渴望和平。"
+    },
+    {
+      "en": "Peace is now within our grasp.",
+      "zh": "我们现在和平在望。"
+    },
+    {
+      "en": "The dove is symbolic of peace.",
+      "zh": "鸽子是和平的象征。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "和平；平静；和睦；秩序",
+      "words": [
+        "harmony",
+        "equilibrium",
+        "quiet"
+      ]
+    }
+  ]
+}

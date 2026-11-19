@@ -1,0 +1,51 @@
+{
+  "word": "session",
+  "found": true,
+  "phonetic_uk": "ˈseʃ(ə)n",
+  "phonetic_us": "ˈseʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=session&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=session&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（某项活动的）一段时间，一场；（议会等的）会议，（法庭的）开庭；学年，上课时间；（酒吧中）演奏会（尤指演奏爱尔兰音乐）；（计算机领域中的）会话；（尤指录音师的）灌录音乐时间；<非正式>酗酒期；基督教长老会的管理机构"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "（音乐家）伴奏的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "sessions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The court is now in session.",
+      "zh": "法庭现在正在开庭。"
+    },
+    {
+      "en": "The Arab League is meeting in emergency session today.",
+      "zh": "阿拉伯国家联盟今天正在举行紧急会议。"
+    },
+    {
+      "en": "From September until December, Congress remained in session.",
+      "zh": "9月到12月国会一直处在开会期。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "会议；（法庭的）[法]开庭；（议会等的）开会；学期；讲习会",
+      "words": [
+        "meeting",
+        "congress",
+        "term",
+        "sitting",
+        "semester"
+      ]
+    }
+  ]
+}

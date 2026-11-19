@@ -1,0 +1,42 @@
+{
+  "word": "translated",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "trænzˈleɪtɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=translated&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=translated&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "译本"
+    },
+    {
+      "pos": "v.",
+      "meaning": "翻译（translate 的过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He translated the letter into English.",
+      "zh": "他把这封信译成了英文。"
+    },
+    {
+      "en": "Her books have been translated into 24 languages.",
+      "zh": "她的书被译成了24种语言。"
+    },
+    {
+      "en": "All translated words should be enclosed in brackets.",
+      "zh": "所有译文都应用括号括起来。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "译本",
+      "words": [
+        "versions"
+      ]
+    }
+  ]
+}

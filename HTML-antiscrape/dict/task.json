@@ -1,0 +1,67 @@
+{
+  "word": "task",
+  "found": true,
+  "phonetic_uk": "tɑːsk",
+  "phonetic_us": "tæsk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=task&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=task&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（尤指困难的或必须定期做的）工作，任务；（尤指语言教学中旨在帮助达到某一学习目的的）活动"
+    },
+    {
+      "pos": "v.",
+      "meaning": "派给……任务；对（手段，能力）要求极高，考验"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "tasks"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "tasks"
+    },
+    {
+      "name": "现在分词",
+      "value": "tasking"
+    },
+    {
+      "name": "过去式",
+      "value": "tasked"
+    },
+    {
+      "name": "过去分词",
+      "value": "tasked"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The task was a formidable one.",
+      "zh": "这任务非常艰巨。"
+    },
+    {
+      "en": "They had an awesome task ahead.",
+      "zh": "他们就要有十分艰巨的任务。"
+    },
+    {
+      "en": "This is not an easy task.",
+      "zh": "这不是项容易的任务。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "工作，作业；[计]任务",
+      "words": [
+        "job",
+        "work",
+        "role",
+        "pursuit",
+        "labor"
+      ]
+    }
+  ]
+}

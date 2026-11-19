@@ -1,0 +1,80 @@
+{
+  "word": "review",
+  "found": true,
+  "phonetic_uk": "rɪˈvjuː",
+  "phonetic_us": "rɪˈvjuː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=review&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=review&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "审查，检查；评论，评论文章；（时事、艺术等的）评论期刊；述评，回顾；<美>复习，温习；<美>（一门课程的）材料，练习；阅兵，阅兵式；中止快速倒带（或卷带）重放装置"
+    },
+    {
+      "pos": "v.",
+      "meaning": "仔细研究，审视；给（书、戏剧、电影等）写评论；回顾，反思；<美>（为考试而）复习，温习；<美>校阅，审核；<英>复查（病人）；检阅（军队）；<法律>将（判决、案件等）提交上级法院（或权力机构）复审"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "reviews"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "reviews"
+    },
+    {
+      "name": "现在分词",
+      "value": "reviewing"
+    },
+    {
+      "name": "过去式",
+      "value": "reviewed"
+    },
+    {
+      "name": "过去分词",
+      "value": "reviewed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The case is subject to judicial review.",
+      "zh": "这个案子必须接受司法审查。"
+    },
+    {
+      "en": "He submitted his latest novel for review.",
+      "zh": "他提交了自己的最新小说供评论。"
+    },
+    {
+      "en": "The review is a brilliant piece of writing.",
+      "zh": "这篇评论很精彩。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "回顾；复习；评论；检讨；检阅",
+      "words": [
+        "comment",
+        "retrospection"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "回顾；检查；复审",
+      "words": [
+        "examine",
+        "inspect"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "回顾；复习功课；写评论",
+      "words": [
+        "look back to",
+        "look back on"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "word": "twenty",
+  "found": true,
+  "phonetic_uk": "ˈtwenti",
+  "phonetic_us": "ˈtwenti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=twenty&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=twenty&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "二十；二十年代"
+    },
+    {
+      "pos": "num.",
+      "meaning": "二十"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "二十的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "twenties"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Twenty-eight is divisible by seven.",
+      "zh": "二十八可以被七整除。"
+    },
+    {
+      "en": "It's twenty years since I've seen her.",
+      "zh": "我已经二十年没见她了。"
+    },
+    {
+      "en": "I've been waiting (for) twenty minutes.",
+      "zh": "我等了二十分钟。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "二十；二十年代",
+      "words": [
+        "score"
+      ]
+    }
+  ]
+}

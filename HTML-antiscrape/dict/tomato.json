@@ -1,0 +1,43 @@
+{
+  "word": "tomato",
+  "found": true,
+  "phonetic_uk": "təˈmɑːtəʊ",
+  "phonetic_us": "təˈmeɪtoʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tomato&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tomato&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "番茄，西红柿；番茄红，鲜红色；番茄植株；番茄，西红柿"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "tomatoes"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It's similar in size to a tomato.",
+      "zh": "大小和西红柿差不多。"
+    },
+    {
+      "en": "The tomato hit the wall with a splat.",
+      "zh": "西红柿啪的一声打在墙上。"
+    },
+    {
+      "en": "Norman cut open his pie and squirted tomato sauce into it.",
+      "zh": "诺曼切开他的馅饼，往里面挤了番茄酱。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[园艺]番茄，西红柿",
+      "words": [
+        "tamarillo"
+      ]
+    }
+  ]
+}

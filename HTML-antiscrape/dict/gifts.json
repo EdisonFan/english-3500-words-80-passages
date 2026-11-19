@@ -1,0 +1,43 @@
+{
+  "word": "gifts",
+  "found": true,
+  "phonetic_uk": "ɡɪfts",
+  "phonetic_us": "ɡɪfts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=gifts&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=gifts&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "礼品，[贸易]赠品；礼物；天赋（gift 的复数形式）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "赐予（gift 的三单形式）；给与"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I carefully packed up the gifts.",
+      "zh": "我小心翼翼地把礼品包好。"
+    },
+    {
+      "en": "He showered her with gifts.",
+      "zh": "他送给她许多礼物。"
+    },
+    {
+      "en": "He showered gifts on her.",
+      "zh": "他送给她许多礼物。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "礼品，赠品；礼物；天赋（gift的复数形式）",
+      "words": [
+        "talents",
+        "presents"
+      ]
+    }
+  ]
+}

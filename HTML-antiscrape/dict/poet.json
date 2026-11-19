@@ -1,0 +1,44 @@
+{
+  "word": "poet",
+  "found": true,
+  "phonetic_uk": "ˈpəʊɪt",
+  "phonetic_us": "ˈpoʊət",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=poet&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=poet&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "诗人"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "poets"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He is a very underrated poet.",
+      "zh": "他是个严重被低估了的诗人。"
+    },
+    {
+      "en": "He was determined to reinvent himself as a poet and writer.",
+      "zh": "他下决心把自己重塑成一个诗人兼作家。"
+    },
+    {
+      "en": "The poet fell in love with her and immortalized her in his verse.",
+      "zh": "诗人爱上了她，并以诗歌使她名传后世。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "诗人",
+      "words": [
+        "fili",
+        "metrist"
+      ]
+    }
+  ]
+}

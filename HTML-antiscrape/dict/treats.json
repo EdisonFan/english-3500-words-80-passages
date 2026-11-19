@@ -1,0 +1,43 @@
+{
+  "word": "treats",
+  "found": true,
+  "phonetic_uk": "triːts",
+  "phonetic_us": "triːts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=treats&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=treats&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "宴飨，款待（treat 的复数形式）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "对待，处理；治疗（treat 的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The way he treats me really burns me up.",
+      "zh": "他这样对待我真使我恼火。"
+    },
+    {
+      "en": "She treats the people who work for her as her equals.",
+      "zh": "她以平等的身份对待为她工作的人。"
+    },
+    {
+      "en": "She's not very consistent in the way she treats her children.",
+      "zh": "她对待孩子反复无常。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "对待，处理；治疗（treat的三单形式）",
+      "words": [
+        "processes",
+        "deals"
+      ]
+    }
+  ]
+}

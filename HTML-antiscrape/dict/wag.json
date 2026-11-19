@@ -1,0 +1,84 @@
+{
+  "word": "wag",
+  "found": true,
+  "phonetic_uk": "wæɡ",
+  "phonetic_us": "wæɡ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=wag&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=wag&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "摇摆（尾巴）；（手指或头部）摇摆；<澳新，非正式>逃学；议论纷纷（tongues are wagging）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "摇动，摆动；<旧>老开玩笑的人；老婆俱乐部"
+    },
+    {
+      "pos": "abbr.",
+      "meaning": "冈比亚（国际车辆登记代码）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "wags"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "wags"
+    },
+    {
+      "name": "现在分词",
+      "value": "wagging"
+    },
+    {
+      "name": "过去式",
+      "value": "wagged"
+    },
+    {
+      "name": "过去分词",
+      "value": "wagged"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Dogs wag their tails when they are pleased.",
+      "zh": "狗一高兴就摇尾巴。"
+    },
+    {
+      "en": "Now I growl when I'm pleased, and wag my tail when I'm angry.",
+      "zh": "现在我高兴时就咆哮，生气时就摇尾巴。"
+    },
+    {
+      "en": "Dogs, for example, will wag their tails, get down their front legs, and stick their behinds in the air to indicate \"what follows is just for play\".",
+      "zh": "例如，狗会摇尾巴，放下前腿，把屁股翘在空中，表示“以下的动作只是为了好玩”。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "摇摆；摇动；饶舌",
+      "words": [
+        "rock",
+        "shake"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "摆动；喋喋不休；蹒跚而行",
+      "words": [
+        "to oscillate",
+        "to swing"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "摇摆；爱说笑打趣的人",
+      "words": [
+        "swing",
+        "ricketiness"
+      ]
+    }
+  ]
+}

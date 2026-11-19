@@ -1,0 +1,35 @@
+{
+  "word": "practitioner",
+  "found": true,
+  "phonetic_uk": "prækˈtɪʃənə(r)",
+  "phonetic_us": "prækˈtɪʃənər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=practitioner&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=practitioner&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（医学界或法律界的）从业人员，执业者；<正式>从事者，实践者"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "practitioners"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They should then be able to refer you to the appropriate type of practitioner, whether it be your GP, dentist, or optician.",
+      "zh": "然后他们应当能够介绍你去见合适科别的执业医生，不管是你的全科医师、牙医还是配镜师。"
+    },
+    {
+      "en": "At Columbia, he was trained as a nurse practitioner.",
+      "zh": "在哥伦比亚，他被训练成一名执业护士。"
+    },
+    {
+      "en": "In fact, they are prescribed and they're given at a certain level, a dosage that is understood by a practitioner who's been trained.",
+      "zh": "实际上，这类补药属于处方药，须由经过训练的职业医师规定剂量。"
+    }
+  ],
+  "synonyms": []
+}

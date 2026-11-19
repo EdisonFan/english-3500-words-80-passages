@@ -1,0 +1,90 @@
+{
+  "word": "labor",
+  "found": true,
+  "phonetic_uk": "ˈleɪbə(r)",
+  "phonetic_us": "ˈleɪbər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=labor&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=labor&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "劳动；工作；劳工；分娩"
+    },
+    {
+      "pos": "vi.",
+      "meaning": "劳动；努力；苦干"
+    },
+    {
+      "pos": "vt.",
+      "meaning": "详细分析；使厌烦"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Labor）人名；（德、塞、法）拉博尔；（英）拉博"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "labors"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "labors"
+    },
+    {
+      "name": "现在分词",
+      "value": "laboring"
+    },
+    {
+      "name": "过去式",
+      "value": "labored"
+    },
+    {
+      "name": "过去分词",
+      "value": "labored"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The developments leave the airline with several problems, including an unsettled labor situation.",
+      "zh": "事情的发展给航空公司带来了一些问题，其中包括不安定的劳工状况。"
+    },
+    {
+      "en": "The fruit of labor is sweetest.",
+      "zh": "劳动的果实最甜美。"
+    },
+    {
+      "en": "After Labor Day we start classes.",
+      "zh": "劳动节之后我们就开学了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "劳动；工作；劳工；分娩",
+      "words": [
+        "delivery",
+        "pursuit",
+        "job",
+        "work",
+        "task"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "劳动；努力；苦干",
+      "words": [
+        "apply oneself",
+        "struggle"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "详细分析；使厌烦",
+      "words": [
+        "wear down"
+      ]
+    }
+  ]
+}

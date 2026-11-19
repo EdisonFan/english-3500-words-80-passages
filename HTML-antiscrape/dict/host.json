@@ -1,0 +1,83 @@
+{
+  "word": "host",
+  "found": true,
+  "phonetic_uk": "həʊst",
+  "phonetic_us": "hoʊst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=host&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=host&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "主人；主持人；主办者，东道主；寄主，宿主；接受移植组织（或器官）的受体；主机；（某种特别生物的）生存地；许多人（或物）；<古>军队；（圣餐仪式中的）圣饼，圣体"
+    },
+    {
+      "pos": "v.",
+      "meaning": "主办，做……的东道主；做节目主持人；作为主人组织（聚会），做东；（通常收费在与互联网连接的计算机上）存储网站"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "hosts"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "hosts"
+    },
+    {
+      "name": "现在分词",
+      "value": "hosting"
+    },
+    {
+      "name": "过去式",
+      "value": "hosted"
+    },
+    {
+      "name": "过去分词",
+      "value": "hosted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Shall I take my host family a gift?",
+      "zh": "我要不要给主人家带件礼物呢？"
+    },
+    {
+      "en": "Shall I take a gift to my host family?",
+      "zh": "我要不要给主人家带件礼物呢？"
+    },
+    {
+      "en": "Our host shook each of us warmly by the hand.",
+      "zh": "主人热情地和我们每个人握手。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计]主机；主人；主持人；许多",
+      "words": [
+        "lots of",
+        "sea",
+        "hundred",
+        "master",
+        "thousands of"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "主持；当主人招待",
+      "words": [
+        "to chair",
+        "preside over"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "群集；做主人",
+      "words": [
+        "pack",
+        "troop"
+      ]
+    }
+  ]
+}

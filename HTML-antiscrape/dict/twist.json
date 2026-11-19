@@ -1,0 +1,84 @@
+{
+  "word": "twist",
+  "found": true,
+  "phonetic_uk": "twɪst",
+  "phonetic_us": "twɪst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=twist&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=twist&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "使弯曲；（使）扭曲变形；扭动身体；扭伤（脚踝等）；旋转，转动；编织，捻在一起；缠绕；歪曲，曲解；蜿蜒，曲折；<英，非正式>欺诈；牌面朝上"
+    },
+    {
+      "pos": "n.",
+      "meaning": "扭动，转动；弯曲处，拐弯处；转折，变化；螺旋形物体；扭摆舞（the twist）；扭歪，（性格）反常；（棉，丝） 合股线；<英>混合酒；<英，非正式>欺诈；（棍棒或其他物体） 扭转度；扭转力，转矩；绕轴旋转前进"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Twist）（美、英、荷）特威斯特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "twists"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "twists"
+    },
+    {
+      "name": "现在分词",
+      "value": "twisting"
+    },
+    {
+      "name": "过去式",
+      "value": "twisted"
+    },
+    {
+      "name": "过去分词",
+      "value": "twisted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You always twist everything I say.",
+      "zh": "你总是歪曲我说的每一句话。"
+    },
+    {
+      "en": "She gave the lid another twist and it came off.",
+      "zh": "她又拧了一下，盖儿开了。"
+    },
+    {
+      "en": "The story has taken another twist.",
+      "zh": "故事情节再一次变化。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "捻；拧；扭伤；编织；使苦恼",
+      "words": [
+        "screw",
+        "harry"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[力]扭曲；拧；扭伤",
+      "words": [
+        "distortion",
+        "strain"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "扭动；弯曲",
+      "words": [
+        "bend",
+        "double up"
+      ]
+    }
+  ]
+}

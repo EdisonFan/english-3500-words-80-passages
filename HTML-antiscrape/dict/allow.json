@@ -1,0 +1,67 @@
+{
+  "word": "allow",
+  "found": true,
+  "phonetic_uk": "əˈlaʊ",
+  "phonetic_us": "əˈlaʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=allow&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=allow&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "允许，准许；使有可能；任凭；<正式>接受，认可；促使；（特地）酌留；承认，同意；让对方得分"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "allows"
+    },
+    {
+      "name": "现在分词",
+      "value": "allowing"
+    },
+    {
+      "name": "过去式",
+      "value": "allowed"
+    },
+    {
+      "name": "过去分词",
+      "value": "allowed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He won't allow himself to fail.",
+      "zh": "他不容许自己失败。"
+    },
+    {
+      "en": "We must allow for human error.",
+      "zh": "我们必须考虑到人为的失误。"
+    },
+    {
+      "en": "They wouldn't allow me to smoke.",
+      "zh": "他们不会允许我抽烟。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "允许；给予；认可",
+      "words": [
+        "afford",
+        "let",
+        "have",
+        "deal",
+        "extend"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "容许；考虑",
+      "words": [
+        "think of",
+        "think about"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "neolithic",
+  "found": true,
+  "phonetic_uk": "ˌniːəˈlɪθɪk",
+  "phonetic_us": "ˌniːəˈlɪθɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=neolithic&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=neolithic&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "[古] 新石器时代的；早先的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Long-handed Neolithic spoons of yew wood preserved in Alpine villages dating to 3000 B.C. have survived.",
+      "zh": "保存在阿尔卑斯山一带的村庄中的新石器时代的长柄紫杉木质勺子一直留存到现在，其历史可以追溯到公元前3000年。"
+    },
+    {
+      "en": "The technological knowledge needed to carve it was far superior to that for stamp seals, which had happened in the early Neolithic period.",
+      "zh": "雕刻它所需要的技术知识远远超过了新石器时代早期出现的印章。"
+    },
+    {
+      "en": "We are talking about the Neolithic period here, which was the time before stone tools began to be replaced by tools made of bronze and other metals.",
+      "zh": "我们这里在说的是新石器时代，是石器开始被青铜和其他金属制工具所取代之前的那个时代。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[古]新石器时代的；早先的",
+      "words": [
+        "previous"
+      ]
+    }
+  ]
+}

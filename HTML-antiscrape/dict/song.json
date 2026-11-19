@@ -1,0 +1,48 @@
+{
+  "word": "song",
+  "found": true,
+  "phonetic_uk": "sɒŋ",
+  "phonetic_us": "sɔːŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=song&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=song&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "歌，歌曲；歌唱，声乐；（鸟的）鸣啭，啼啭；押韵的诗歌"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Song）（英）桑，（汉语）宋（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "songs"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I wrote this sappy love song.",
+      "zh": "我写了这首愚蠢的爱情歌曲。"
+    },
+    {
+      "en": "The melancholy song died away.",
+      "zh": "哀婉的歌声渐渐消失了。"
+    },
+    {
+      "en": "Who owns the copyright on this song?",
+      "zh": "谁拥有这首歌曲的版权？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "歌曲；歌唱；诗歌；鸣声",
+      "words": [
+        "poems",
+        "melody"
+      ]
+    }
+  ]
+}

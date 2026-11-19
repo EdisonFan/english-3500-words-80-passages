@@ -1,0 +1,49 @@
+{
+  "word": "lives",
+  "found": true,
+  "phonetic_uk": "laɪvz; lɪvz",
+  "phonetic_us": "laɪvz; lɪvz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=lives&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=lives&type=2",
+  "defs": [
+    {
+      "pos": "",
+      "meaning": "生活，[生物] 生命（life的复数）"
+    },
+    {
+      "pos": "",
+      "meaning": "生活；居住（live的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She lives with her parents.",
+      "zh": "她同父母住在一起。"
+    },
+    {
+      "en": "Our lives were inseparably linked.",
+      "zh": "我们的生活息息相通。"
+    },
+    {
+      "en": "My aunt lives in Canada.",
+      "zh": "我的姑母住在加拿大。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "生活，生命（life的复数）",
+      "words": [
+        "daylights"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "生活（live的三单形式）；居住",
+      "words": [
+        "stays"
+      ]
+    }
+  ]
+}

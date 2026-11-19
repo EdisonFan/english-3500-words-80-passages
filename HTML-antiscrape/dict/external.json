@@ -1,0 +1,62 @@
+{
+  "word": "external",
+  "found": true,
+  "phonetic_uk": "ɪkˈstɜːn(ə)l",
+  "phonetic_us": "ɪkˈstɜːrn(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=external&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=external&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "外部的，外面的；对外的，与外国有关的；外来的，外聘的；（药品等类似物质）外用的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "外表，外部特征"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "externals"
+    }
+  ],
+  "examples": [
+    {
+      "en": "An external auditor will verify the accounts.",
+      "zh": "外部审计员将核实这些账目。"
+    },
+    {
+      "en": "Many external influences can affect your state of mind.",
+      "zh": "许多外在因素都可能影响人的心情。"
+    },
+    {
+      "en": "College lecturers acted as external assessors of the exam results.",
+      "zh": "学院讲师是考试成绩的校外考核人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[药][动]外部的；表面的；外用的；外国的；外面的",
+      "words": [
+        "foreign",
+        "outer",
+        "outside",
+        "surface",
+        "out"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "外部；外观；外面",
+      "words": [
+        "outside",
+        "without",
+        "surface",
+        "face",
+        "garment"
+      ]
+    }
+  ]
+}

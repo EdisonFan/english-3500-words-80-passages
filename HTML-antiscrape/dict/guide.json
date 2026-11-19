@@ -1,0 +1,76 @@
+{
+  "word": "guide",
+  "found": true,
+  "phonetic_uk": "ɡaɪd",
+  "phonetic_us": "ɡaɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=guide&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=guide&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "带领，引导（某人至某地）；任向导；指导，影响；解释，阐明"
+    },
+    {
+      "pos": "n.",
+      "meaning": "指南，手册；导游，向导；准则，指针；女童子军，女童子军成员"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Guide）（法、葡）吉德（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "guides"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "guides"
+    },
+    {
+      "name": "现在分词",
+      "value": "guiding"
+    },
+    {
+      "name": "过去式",
+      "value": "guided"
+    },
+    {
+      "name": "过去分词",
+      "value": "guided"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The guide flashed a light into the cave.",
+      "zh": "导游用手电筒照射洞穴。"
+    },
+    {
+      "en": "He should have let his instinct guide him.",
+      "zh": "他本该让直觉指导他的行动。"
+    },
+    {
+      "en": "Josie had offered her services as a guide.",
+      "zh": "乔西曾表示愿意当向导。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "指南；向导；入门书",
+      "words": [
+        "manual",
+        "enchiridion"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[计]引导；带领；操纵",
+      "words": [
+        "aim",
+        "man"
+      ]
+    }
+  ]
+}

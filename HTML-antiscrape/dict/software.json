@@ -1,0 +1,30 @@
+{
+  "word": "software",
+  "found": true,
+  "phonetic_uk": "ˈsɒftweə(r)",
+  "phonetic_us": "ˈsɔːftwer",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=software&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=software&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "软件"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Have you loaded the software?",
+      "zh": "你装上这种软件了吗？"
+    },
+    {
+      "en": "Will the software run on my machine?",
+      "zh": "这个软件在我的机器上能用吗？"
+    },
+    {
+      "en": "The company deals in computer software.",
+      "zh": "这个公司经营计算机软件。"
+    }
+  ],
+  "synonyms": []
+}

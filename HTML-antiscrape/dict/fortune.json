@@ -1,0 +1,79 @@
+{
+  "word": "fortune",
+  "found": true,
+  "phonetic_uk": "ˈfɔːtʃuːn",
+  "phonetic_us": "ˈfɔːrtʃən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fortune&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fortune&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "时运，命运；好运，机遇；财富，巨款；未来，前途"
+    },
+    {
+      "pos": "v.",
+      "meaning": "给予财富；偶然发生"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Fortune） （英）福琼，（法）福蒂纳（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "fortunes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "fortunes"
+    },
+    {
+      "name": "现在分词",
+      "value": "fortuning"
+    },
+    {
+      "name": "过去式",
+      "value": "fortuned"
+    },
+    {
+      "name": "过去分词",
+      "value": "fortuned"
+    }
+  ],
+  "examples": [
+    {
+      "en": "How had he amassed his fortune?",
+      "zh": "他是如何聚集起他的财富的？"
+    },
+    {
+      "en": "He amassed a fortune from silver mining.",
+      "zh": "他靠开采银矿积累了一笔财富。"
+    },
+    {
+      "en": "She inherited a fortune from her father.",
+      "zh": "她从她父亲那里继承了一大笔财富。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "财富；命运；运气",
+      "words": [
+        "wealth",
+        "treasure",
+        "money",
+        "fate",
+        "luck"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "偶然发生",
+      "words": [
+        "chance to",
+        "happen to"
+      ]
+    }
+  ]
+}

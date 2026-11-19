@@ -1,0 +1,80 @@
+{
+  "word": "post",
+  "found": true,
+  "phonetic_uk": "pəʊst",
+  "phonetic_us": "poʊst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=post&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=post&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "<英>邮政，邮递；<英>邮件，包裹；<英>收集（或投递）邮件，邮班；职位，要职；岗位，哨所；柱，杆，桩；（赛马的）终点；球门柱；邮报（用于某些报纸名称中）；帖子，在线留言板上的信息；篮球场上篮筐附近的区域；策应位置；<美>退伍军人协会地方分会"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<英>邮寄；把……放入（或塞入）；派驻，委派；使驻守，设置（岗哨等）；张贴，公布；发布，发帖子；交付（保释金）；（运动员，参赛队）取得（成绩），创造（纪录）；（记账用语）将……入账"
+    },
+    {
+      "pos": "prep.",
+      "meaning": "在……之后"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Post）（英、西、捷、瑞典、荷）波斯特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "posts"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "posts"
+    },
+    {
+      "name": "现在分词",
+      "value": "posting"
+    },
+    {
+      "name": "过去式",
+      "value": "posted"
+    },
+    {
+      "name": "过去分词",
+      "value": "posted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He was reinstated in his post.",
+      "zh": "他重新回到了自己的岗位。"
+    },
+    {
+      "en": "Have you opened your post yet?",
+      "zh": "你拆开邮件了没有？"
+    },
+    {
+      "en": "I went round to the post office.",
+      "zh": "我到邮局去了一趟。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[劳经]岗位；邮件；[测]标杆",
+      "words": [
+        "mail",
+        "dak"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "张贴；公布；邮递；布置",
+      "words": [
+        "paste",
+        "publish"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "word": "erupt",
+  "found": true,
+  "phonetic_uk": "ɪˈrʌpt",
+  "phonetic_us": "ɪˈrʌpt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=erupt&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=erupt&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "喷发；爆发，突然发生；（感情）迸发；（斑疹等）突然冒出；长牙"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "erupts"
+    },
+    {
+      "name": "现在分词",
+      "value": "erupting"
+    },
+    {
+      "name": "过去式",
+      "value": "erupted"
+    },
+    {
+      "name": "过去分词",
+      "value": "erupted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Ash began to erupt from the crater.",
+      "zh": "火山灰开始从火山口喷出。"
+    },
+    {
+      "en": "The volcano could erupt at any time.",
+      "zh": "这座火山随时可能爆发。"
+    },
+    {
+      "en": "He avers that chaos will erupt if he loses.",
+      "zh": "他断言如果他失败将会爆发动乱。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "爆发；喷出；发疹；长牙",
+      "words": [
+        "out break",
+        "blow up"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "爆发；喷出",
+      "words": [
+        "out break",
+        "blow up"
+      ]
+    }
+  ]
+}

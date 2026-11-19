@@ -1,0 +1,39 @@
+{
+  "word": "unfortunately",
+  "found": true,
+  "phonetic_uk": "ʌnˈfɔːtʃənətli",
+  "phonetic_us": "ʌnˈfɔːrtʃənətli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=unfortunately&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=unfortunately&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "不幸地，遗憾地；<正式>不恰当地，不合适地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I can't make it, unfortunately.",
+      "zh": "很遗憾，我来不及。"
+    },
+    {
+      "en": "Unfortunately the plan backfired.",
+      "zh": "不幸的是，计划产生了适得其反的结果。"
+    },
+    {
+      "en": "Unfortunately, my time is limited.",
+      "zh": "遗憾的是，我的时间有限。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "不幸地",
+      "words": [
+        "unhappily",
+        "unluckily"
+      ]
+    }
+  ]
+}

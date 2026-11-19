@@ -1,0 +1,43 @@
+{
+  "word": "owner",
+  "found": true,
+  "phonetic_uk": "ˈəʊnə(r)",
+  "phonetic_us": "ˈoʊnər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=owner&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=owner&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "所有人，物主"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "owners"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The dog looked mournfully after its owner.",
+      "zh": "狗悲伤地目送主人离去。"
+    },
+    {
+      "en": "The stolen car was returned to its rightful owner.",
+      "zh": "被盗的汽车还给了其合法的主人。"
+    },
+    {
+      "en": "The owner couldn't be bothered to brand the cattle.",
+      "zh": "主人懒得给这牛打上烙印。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[经]所有者；[法]物主",
+      "words": [
+        "proprietor"
+      ]
+    }
+  ]
+}

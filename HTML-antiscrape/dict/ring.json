@@ -1,0 +1,83 @@
+{
+  "word": "ring",
+  "found": true,
+  "phonetic_uk": "rɪŋ",
+  "phonetic_us": "rɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ring&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ring&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "戒指，指环；环状物，圈形物；圆圈；圆形表演场（或竞技场）；围成一圈的人（或物）；团伙，帮派；铃声，钟声，按铃，敲钟；（说法、讨论、辩论等的）特性；<英>圆形灶盘，炉头；<俚>肛门；（化）环；（数）环"
+    },
+    {
+      "pos": "v.",
+      "meaning": "包围；<英>绕……画圆，把……圈起来；（尤指在动物身上）套环；敲钟，按铃；<英>（给……）打电话；嗡嗡作响；回响；充满；<非正式>非法将（汽车）改头换面"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Ring） （美、挪、德、爱、英、波、丹）林（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "rings"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "rings"
+    },
+    {
+      "name": "现在分词",
+      "value": "ringing"
+    },
+    {
+      "name": "过去式",
+      "value": "ringed或rang"
+    },
+    {
+      "name": "过去分词",
+      "value": "ringed或rung"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I'll give you a ring tomorrow.",
+      "zh": "我明天给你打电话。"
+    },
+    {
+      "en": "That ring must be worth a fortune.",
+      "zh": "那枚戒指肯定要值好多钱。"
+    },
+    {
+      "en": "I could never part with this ring.",
+      "zh": "我永远也不摘掉这枚戒指。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "按铃；敲钟；回响；成环形",
+      "words": [
+        "sound"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "戒指；铃声，钟声；拳击场；环形物",
+      "words": [
+        "bell",
+        "annulus"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "按铃；包围；敲钟；套住",
+      "words": [
+        "invest",
+        "case"
+      ]
+    }
+  ]
+}

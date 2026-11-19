@@ -1,0 +1,64 @@
+{
+  "word": "privilege",
+  "found": true,
+  "phonetic_uk": "ˈprɪvəlɪdʒ",
+  "phonetic_us": "ˈprɪvəlɪdʒ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=privilege&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=privilege&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "特权，特殊待遇；荣幸，光荣；（富人或上层阶级的）权势；（律师、医生及其他专业人士的）保密权；言行免责权（尤指议员的权利）；<史>（授予个人，公司，某地的）特许经营权；（生活）优越"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<正式> 给予特权，特别优待；特免，免除（某人）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "privileges"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "privileges"
+    },
+    {
+      "name": "现在分词",
+      "value": "privileging"
+    },
+    {
+      "name": "过去式",
+      "value": "privileged"
+    },
+    {
+      "name": "过去分词",
+      "value": "privileged"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He arrogated the privilege to himself alone.",
+      "zh": "他只为自己捞取特权。"
+    },
+    {
+      "en": "She was cocooned in a private world of privilege.",
+      "zh": "她生活在与世隔绝的特权世界里。"
+    },
+    {
+      "en": "Her attitudes solidified through privilege and habit.",
+      "zh": "由于特权和习惯,她的态度愈来愈顽固。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计]特权；优待；基本权利",
+      "words": [
+        "franchise",
+        "peculiar"
+      ]
+    }
+  ]
+}

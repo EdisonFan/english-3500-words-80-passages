@@ -1,0 +1,66 @@
+{
+  "word": "profile",
+  "found": true,
+  "phonetic_uk": "ˈprəʊfaɪl",
+  "phonetic_us": "ˈproʊfaɪl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=profile&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=profile&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（人头部的）侧面（像），侧影；（某物的）外形，轮廓；（人、团体或组织的）简介，概况；（人或组织的）形象，姿态；纵断面，剖面；（地球表面纵断面的）轮廓（如河流走向）；（舞台的）平面布景；（以数量形式记录事物特点的）曲线图，数据图表；（记载个人心理或行为特点、喜好等的）档案"
+    },
+    {
+      "pos": "v.",
+      "meaning": "概述，扼要介绍；给……画侧面像，显出……侧面轮廓；显出……的轮廓（be profiled）；（尤指用模板）铣出轮廓，使……成形"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "profiles"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "profiles"
+    },
+    {
+      "name": "现在分词",
+      "value": "profiling"
+    },
+    {
+      "name": "过去式",
+      "value": "profiled"
+    },
+    {
+      "name": "过去分词",
+      "value": "profiled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This picture shows the girl in profile.",
+      "zh": "这张照片从侧面显示该女孩。"
+    },
+    {
+      "en": "Below you will find a profile of each program.",
+      "zh": "下面你会看到每个项目的简介。"
+    },
+    {
+      "en": "His handsome profile was turned away from us.",
+      "zh": "他英俊的侧面轮廓转离了我们。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "侧面；轮廓；外形；[建][地质]剖面",
+      "words": [
+        "configuration",
+        "side",
+        "shell",
+        "outline"
+      ]
+    }
+  ]
+}

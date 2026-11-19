@@ -1,0 +1,48 @@
+{
+  "word": "animal",
+  "found": true,
+  "phonetic_uk": "ˈænɪm(ə)l",
+  "phonetic_us": "ˈænɪm(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=animal&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=animal&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "动物；兽类；<非正式>衣冠禽兽，畜牲；某一类人或物"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "动物的；肉体的，肉欲的；取自动物的；（胚胎）动物极的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "animals"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The animal is hunted for its fur.",
+      "zh": "狩猎这种动物是为了获取其毛皮。"
+    },
+    {
+      "en": "The animal retracted into its shell.",
+      "zh": "这只动物缩回到自己的壳里。"
+    },
+    {
+      "en": "The dolphin is an intelligent animal.",
+      "zh": "海豚是聪明的动物。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[动]动物",
+      "words": [
+        "creature",
+        "zoon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "factors",
+  "found": true,
+  "phonetic_uk": "ˈfæktəz",
+  "phonetic_us": "ˈfæktərz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=factors&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=factors&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "因素（factor 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "做代理商；分解……的因子；把……作为因素考虑（factor 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The two factors are directly linked.",
+      "zh": "这两个因素直接联系在一起。"
+    },
+    {
+      "en": "All these factors must be allowed for.",
+      "zh": "所有这些因素都必须估计进去。"
+    },
+    {
+      "en": "Several factors had combined to ruin our plans.",
+      "zh": "几种因素加在一起毁了我们的计划。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "因素（factor的复数）",
+      "words": [
+        "opportunities",
+        "limitations"
+      ]
+    }
+  ]
+}

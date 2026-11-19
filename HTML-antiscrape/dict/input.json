@@ -1,0 +1,72 @@
+{
+  "word": "input",
+  "found": true,
+  "phonetic_uk": "ˈɪnpʊt",
+  "phonetic_us": "ˈɪnpʊt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=input&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=input&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "投入，输进；输入的信息；（为帮助某人做出决定而提供的）建议，意见；讯息输入端；（输入机器供其使用的）电力；输入框"
+    },
+    {
+      "pos": "v.",
+      "meaning": "输入（信息）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "inputs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "inputs"
+    },
+    {
+      "name": "现在分词",
+      "value": "inputting"
+    },
+    {
+      "name": "过去式",
+      "value": "input或inputted"
+    },
+    {
+      "name": "过去分词",
+      "value": "input或inputted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I'd appreciate your input on this.",
+      "zh": "我将感激你在这方面的投入。"
+    },
+    {
+      "en": "This program accepts input from most word processors.",
+      "zh": "这个程序可接受大多数文字处理系统输入的信息。"
+    },
+    {
+      "en": "There has been a big input of resources into the project from industry.",
+      "zh": "工业界对这个项目投入了大量资源。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "投入；输入电路",
+      "words": [
+        "investment",
+        "introjection"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[计][自][电子]输入；将…输入电脑",
+      "words": [
+        "type in",
+        "carry in"
+      ]
+    }
+  ]
+}

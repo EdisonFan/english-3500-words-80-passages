@@ -1,0 +1,75 @@
+{
+  "word": "mighty",
+  "found": true,
+  "phonetic_uk": "ˈmaɪti",
+  "phonetic_us": "ˈmaɪti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mighty&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mighty&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "强大的，巨大的；（动作）用力的，需用力的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "很，非常，十分"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "mightier或more mighty"
+    },
+    {
+      "name": "最高级",
+      "value": "mightiest或most mighty"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You know mighty well you can't.",
+      "zh": "你很清楚，你是做不到的。"
+    },
+    {
+      "en": "There was a flash and a mighty bang.",
+      "zh": "一道闪光伴随着一声轰然巨响。"
+    },
+    {
+      "en": "It's something you'll be mighty proud of.",
+      "zh": "这是个你会非常骄傲的事。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "有力的；强有力的；有势力的",
+      "words": [
+        "powerful",
+        "male",
+        "influential",
+        "vigorous",
+        "energetic"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "很；极；非常",
+      "words": [
+        "greatly",
+        "quite",
+        "badly",
+        "too",
+        "extremely",
+        "far",
+        "highly"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "有势力的人",
+      "words": [
+        "big guns"
+      ]
+    }
+  ]
+}

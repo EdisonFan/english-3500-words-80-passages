@@ -1,0 +1,43 @@
+{
+  "word": "vitamin",
+  "found": true,
+  "phonetic_uk": "ˈvɪtəmɪn",
+  "phonetic_us": "ˈvaɪtəmɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=vitamin&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=vitamin&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "维生素，维他命；维生素片，维生素丸"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "vitamins"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Oranges are rich in vitamin C.",
+      "zh": "橘子含有丰富的维生素C。"
+    },
+    {
+      "en": "Vitamin C is water soluble.",
+      "zh": "维生素C可溶于水。"
+    },
+    {
+      "en": "Heat gradually destroys vitamin C.",
+      "zh": "加热会逐渐破坏维生素C。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[生化]维生素；维他命",
+      "words": [
+        "thiamine hydrochloride"
+      ]
+    }
+  ]
+}

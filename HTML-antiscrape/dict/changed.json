@@ -1,0 +1,51 @@
+{
+  "word": "changed",
+  "found": true,
+  "phonetic_uk": "tʃeɪndʒd",
+  "phonetic_us": "tʃeɪndʒd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=changed&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=changed&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "经过改变的，变化了的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "改变，变化；更换，替换；换乘（change 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The shouts changed to laughter.",
+      "zh": "叫喊声变成了笑声。"
+    },
+    {
+      "en": "That incident changed their lives.",
+      "zh": "那次事件改变了他们的生活。"
+    },
+    {
+      "en": "Our ship changed course.",
+      "zh": "我们的船改变了航向。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "改变的；变化的",
+      "words": [
+        "varying",
+        "sliding",
+        "metabolic"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "改变（change的过去式和过去分词）",
+      "words": [
+        "varied"
+      ]
+    }
+  ]
+}

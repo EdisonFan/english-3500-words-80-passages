@@ -1,0 +1,38 @@
+{
+  "word": "disappearing",
+  "found": true,
+  "phonetic_uk": "ˌdɪsəˈpɪə(r)ɪŋ",
+  "phonetic_us": "ˌdɪsəˈpɪrɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=disappearing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=disappearing&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "消失（disappear 的 ing 形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "It's rare, but it's not disappearing.",
+      "zh": "它很稀有，但它并没有在消失。"
+    },
+    {
+      "en": "Obstacles are everywhere disappearing.",
+      "zh": "到处的障碍都在消失。"
+    },
+    {
+      "en": "Many people saw the UFO disappearing into the dark.",
+      "zh": "有许多人看见不明飞行物消失在黑暗中。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "消失（disappear的ing形式）",
+      "words": [
+        "blanking"
+      ]
+    }
+  ]
+}

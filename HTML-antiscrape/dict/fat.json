@@ -1,0 +1,95 @@
+{
+  "word": "fat",
+  "found": true,
+  "phonetic_uk": "fæt",
+  "phonetic_us": "fæt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fat&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fat&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "肥的，肥胖的；厚的，宽的；巨额的；<非正式>极少的，没有的；好打的，易中的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "脂肪，肥肉；食用油，烹调用油；多余的部分"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<旧>（使）长肥"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Fat）（法、西、塞）法特，（东南亚国家华语）发（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "fats"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "fats"
+    },
+    {
+      "name": "现在分词",
+      "value": "fatting"
+    },
+    {
+      "name": "过去式",
+      "value": "fatted"
+    },
+    {
+      "name": "过去分词",
+      "value": "fatted"
+    },
+    {
+      "name": "比较级",
+      "value": "fatter"
+    },
+    {
+      "name": "最高级",
+      "value": "fattest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Excess food is stored as fat.",
+      "zh": "多余的食物作为脂肪贮存起来。"
+    },
+    {
+      "en": "This dress makes me look fat.",
+      "zh": "这衣服我穿着显胖。"
+    },
+    {
+      "en": "The manager was fat and jolly.",
+      "zh": "经理胖乎乎乐呵呵的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "肥的，胖的；油腻的；丰满的",
+      "words": [
+        "full",
+        "fatter"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[生化]脂肪，肥肉",
+      "words": [
+        "lipo",
+        "fattiness"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "养肥；在…中加入脂肪",
+      "words": [
+        "fatten"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "sighted",
+  "found": true,
+  "phonetic_uk": "ˈsaɪtɪd",
+  "phonetic_us": "ˈsaɪtɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sighted&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sighted&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "有视力的；不盲的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "有视力的人"
+    },
+    {
+      "pos": "v.",
+      "meaning": "观测（sight 的过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Each blind student was paired with a sighted student.",
+      "zh": "每个盲人学员都配了一个有视力的学员。"
+    },
+    {
+      "en": "I think we're being very short-sighted in not exploiting our own coal.",
+      "zh": "我想我们不开采利用自己的煤矿实在是目光短浅。"
+    },
+    {
+      "en": "We still sighted nine yachts.",
+      "zh": "我们还是看到了九艘游艇。"
+    }
+  ],
+  "synonyms": []
+}

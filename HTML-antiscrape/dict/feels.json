@@ -1,0 +1,50 @@
+{
+  "word": "feels",
+  "found": true,
+  "phonetic_uk": "fiːlz",
+  "phonetic_us": "fiːlz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=feels&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=feels&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "觉得；体会；触摸（feel 的第三人称单数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "感觉；天性；鉴别力（feel 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He feels he is blameless.",
+      "zh": "他觉得自己是清白的。"
+    },
+    {
+      "en": "The team feels confident of winning.",
+      "zh": "这个队觉得有把握取胜。"
+    },
+    {
+      "en": "He feels more confident on home turf.",
+      "zh": "他在主场感到更有信心。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "觉得；体会；触摸（feel的第三人称单数）",
+      "words": [
+        "tastes"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "感觉；天性；鉴别力（feel的复数）",
+      "words": [
+        "senses",
+        "flairs"
+      ]
+    }
+  ]
+}

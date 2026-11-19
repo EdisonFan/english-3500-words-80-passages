@@ -1,0 +1,43 @@
+{
+  "word": "stressed",
+  "found": true,
+  "phonetic_uk": "strest",
+  "phonetic_us": "strest",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=stressed&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=stressed&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "焦虑的，紧张的；（物体）受重压的，受应力的；有重音的，重读的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "强调，着重；重读；焦虑，紧张（stress 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She stressed the importance of good teamwork.",
+      "zh": "她强调了团队合作的重要性。"
+    },
+    {
+      "en": "She stressed the need for constant vigilance.",
+      "zh": "她强调必须时常保持警惕。"
+    },
+    {
+      "en": "He stressed the importance of a good education.",
+      "zh": "他强调了接受良好教育的重要性。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "紧张的；感到有压力的",
+      "words": [
+        "intense",
+        "tense"
+      ]
+    }
+  ]
+}

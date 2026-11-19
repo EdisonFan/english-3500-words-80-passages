@@ -1,0 +1,101 @@
+{
+  "word": "true",
+  "found": true,
+  "phonetic_uk": "truː",
+  "phonetic_us": "truː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=true&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=true&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "真实的；正确的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "真实地；准确地"
+    },
+    {
+      "pos": "n.",
+      "meaning": "真实；准确"
+    },
+    {
+      "pos": "vt.",
+      "meaning": "装准"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（True）(英)特鲁（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "trues"
+    },
+    {
+      "name": "现在分词",
+      "value": "truing或trueing"
+    },
+    {
+      "name": "过去式",
+      "value": "trued"
+    },
+    {
+      "name": "过去分词",
+      "value": "trued"
+    },
+    {
+      "name": "比较级",
+      "value": "truer或more true"
+    },
+    {
+      "name": "最高级",
+      "value": "truest或most true"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The prince's wish came true.",
+      "zh": "王子的愿望实现了。"
+    },
+    {
+      "en": "It's not rubbish—it's true!",
+      "zh": "这不是瞎说—是真的！"
+    },
+    {
+      "en": "Joanna's denial rang true.",
+      "zh": "乔安娜的否认听上去像是真的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "真实的；正确的",
+      "words": [
+        "actual",
+        "sincere",
+        "genuine",
+        "real",
+        "right"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "真实地；准确地",
+      "words": [
+        "truly",
+        "accurately",
+        "really",
+        "spot"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "真实；准确",
+      "words": [
+        "reality",
+        "sincerity"
+      ]
+    }
+  ]
+}

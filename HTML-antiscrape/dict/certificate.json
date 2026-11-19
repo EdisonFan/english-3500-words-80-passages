@@ -1,0 +1,66 @@
+{
+  "word": "certificate",
+  "found": true,
+  "phonetic_uk": "səˈtɪfɪkət",
+  "phonetic_us": "sərˈtɪfɪkət",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=certificate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=certificate&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "证明，证书；文凭，成绩合格证书；电影放映许可证"
+    },
+    {
+      "pos": "v.",
+      "meaning": "发证书给……，用证书证明"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "certificates"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "certificates"
+    },
+    {
+      "name": "现在分词",
+      "value": "certificating"
+    },
+    {
+      "name": "过去式",
+      "value": "certificated"
+    },
+    {
+      "name": "过去分词",
+      "value": "certificated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He was shown a photocopy of the certificate.",
+      "zh": "给他看了证书的复印件。"
+    },
+    {
+      "en": "She's going in for the Cambridge First Certificate.",
+      "zh": "她打算参加剑桥初级证书考试。"
+    },
+    {
+      "en": "She didn't like the course but she stuck it out to get the certificate.",
+      "zh": "她并不喜欢这门课，但为了拿证书还是耐着性子学完了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[管理]证书；执照，文凭",
+      "words": [
+        "license",
+        "letter",
+        "patent",
+        "permit"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "word": "dot",
+  "found": true,
+  "phonetic_uk": "dɒt",
+  "phonetic_us": "dɑːt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dot&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dot&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "点，小圆点，点状物；顿音记号；（摩尔斯电码、因特网或电子邮件地址中的）点；嫁妆"
+    },
+    {
+      "pos": "v.",
+      "meaning": "加点；散布于，遍布；给音符加附点；<古>击打"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Dot）（英）多特（女子教名 Dorothea 和 Dorothy 的昵称），（中）多（广东话·威妥玛），（越）突（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "dots"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "dots"
+    },
+    {
+      "name": "现在分词",
+      "value": "dotting"
+    },
+    {
+      "name": "过去式",
+      "value": "dotted"
+    },
+    {
+      "name": "过去分词",
+      "value": "dotted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Why do you never dot your i's?",
+      "zh": "你为什么从不在字母i上加点呢？"
+    },
+    {
+      "en": "The taxi showed up on the dot.",
+      "zh": "出租车准时到了。"
+    },
+    {
+      "en": "The weaker dot-coms have collapsed.",
+      "zh": "实力较弱的网络公司倒闭了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[数]点，圆点；嫁妆",
+      "words": [
+        "dowry",
+        "tocher"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "word": "picking",
+  "found": true,
+  "phonetic_uk": "ˈpɪkɪŋ",
+  "phonetic_us": "ˈpɪkɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=picking&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=picking&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "采摘；掘，撬开；采得物；赃物"
+    },
+    {
+      "pos": "vt.",
+      "meaning": "采摘，挑选，挑剔（pick的ing形式）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "pickings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She decided to start picking up the house from the top down.",
+      "zh": "她决定开始彻底收拾那房子。"
+    },
+    {
+      "en": "The wind is picking up now.",
+      "zh": "现在风愈刮愈大了。"
+    },
+    {
+      "en": "Picking up a brush, Joanna parted her hair.",
+      "zh": "拿起一把刷子，乔安娜把头发分开了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "采摘；掘，撬开；采得物；赃物",
+      "words": [
+        "theft",
+        "booty"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "采摘，挑选，挑惕（pike的ing形式）",
+      "words": [
+        "drafting"
+      ]
+    }
+  ]
+}

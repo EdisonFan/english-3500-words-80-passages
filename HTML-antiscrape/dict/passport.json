@@ -1,0 +1,47 @@
+{
+  "word": "passport",
+  "found": true,
+  "phonetic_uk": "ˈpɑːspɔːt",
+  "phonetic_us": "ˈpæspɔːrt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=passport&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=passport&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "护照；途径，手段"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "passports"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He's gone off with my passport.",
+      "zh": "他拿走了我的护照。"
+    },
+    {
+      "en": "Do you have an American passport?",
+      "zh": "你有美国护照吗？"
+    },
+    {
+      "en": "She searched in vain for her passport.",
+      "zh": "她翻找自己的护照，但没找着。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[法]护照，通行证；手段",
+      "words": [
+        "protection",
+        "instrument",
+        "shift",
+        "road",
+        "tool"
+      ]
+    }
+  ]
+}

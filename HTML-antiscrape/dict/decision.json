@@ -1,0 +1,46 @@
+{
+  "word": "decision",
+  "found": true,
+  "phonetic_uk": "dɪˈsɪʒ(ə)n",
+  "phonetic_us": "dɪˈsɪʒ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=decision&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=decision&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "决定，抉择；判决，裁定；果断，决断力；作决定，决策"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "decisions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Their decision was unanimous.",
+      "zh": "他们的决定是全体同意的。"
+    },
+    {
+      "en": "They stuck by their decision.",
+      "zh": "他们决心已下，矢志不渝。"
+    },
+    {
+      "en": "The decision was reached overnight.",
+      "zh": "这个决定是夜间做出的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "决定，决心；决议",
+      "words": [
+        "determination",
+        "resolution",
+        "push",
+        "backbone"
+      ]
+    }
+  ]
+}

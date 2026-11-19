@@ -1,0 +1,50 @@
+{
+  "word": "onto",
+  "found": true,
+  "phonetic_uk": "ˈɒntə",
+  "phonetic_us": "ˈɑːntə",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=onto&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=onto&type=2",
+  "defs": [
+    {
+      "pos": "prep.",
+      "meaning": "到……之上，向……之上，到，朝；（建筑物、房间、门或窗）面朝，通向；发现（某人做了坏事）；了解，掌握，处于有利地位；与……谈话，询问；到（交通工具）上；（重心移动）到（身体某部位）上；成为（列表、系统等）的一部分；转到（其他话题）；抓住；（数）映射到的"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "映射的，映成的，满射的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We bundled out onto the street.",
+      "zh": "我们大伙急忙跑到街上。"
+    },
+    {
+      "en": "She turned over onto her front.",
+      "zh": "她翻过身俯卧着。"
+    },
+    {
+      "en": "Water splashed onto the floor.",
+      "zh": "水哗的一声泼洒在地板上。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "prep.",
+      "meaning": "在…之上；对…了解；映射到…上",
+      "words": [
+        "upon",
+        "up"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "映射的；自身的；映成的",
+      "words": [
+        "inhouse"
+      ]
+    }
+  ]
+}

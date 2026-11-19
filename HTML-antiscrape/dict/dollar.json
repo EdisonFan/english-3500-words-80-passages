@@ -1,0 +1,47 @@
+{
+  "word": "dollar",
+  "found": true,
+  "phonetic_uk": "ˈdɒlə(r)",
+  "phonetic_us": "ˈdɑːlər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dollar&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dollar&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "美元；元 (美国、加拿大、澳大利亚以及其他一些国家的货币单位)"
+    },
+    {
+      "pos": "n.",
+      "meaning": "(Dollar)人名；(英)多拉尔"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "dollars"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The dollar continued to slide.",
+      "zh": "美元继续下跌。"
+    },
+    {
+      "en": "The dollar closed two cents down.",
+      "zh": "收市时美元下降了二分。"
+    },
+    {
+      "en": "The dollar plunged precipitously.",
+      "zh": "美元直线下跌。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "美元",
+      "words": [
+        "peso"
+      ]
+    }
+  ]
+}

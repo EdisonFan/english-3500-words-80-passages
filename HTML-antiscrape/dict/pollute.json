@@ -1,0 +1,56 @@
+{
+  "word": "pollute",
+  "found": true,
+  "phonetic_uk": "pəˈluːt",
+  "phonetic_us": "pəˈluːt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pollute&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pollute&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "污染，弄脏；玷污，败坏"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "pollutes"
+    },
+    {
+      "name": "现在分词",
+      "value": "polluting"
+    },
+    {
+      "name": "过去式",
+      "value": "polluted"
+    },
+    {
+      "name": "过去分词",
+      "value": "polluted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Mining would pollute the lake and denude the forest.",
+      "zh": "采矿将会污染湖水并伐光森林。"
+    },
+    {
+      "en": "These gases pollute the atmosphere of towns and cities.",
+      "zh": "这些气体污染城镇的空气。"
+    },
+    {
+      "en": "They will pollute space now.",
+      "zh": "现在它们会污染太空。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "污染；玷污；败坏",
+      "words": [
+        "cloud",
+        "poison"
+      ]
+    }
+  ]
+}

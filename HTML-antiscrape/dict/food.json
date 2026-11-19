@@ -1,0 +1,45 @@
+{
+  "word": "food",
+  "found": true,
+  "phonetic_uk": "fuːd",
+  "phonetic_us": "fuːd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=food&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=food&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（植物生长的）养料；食物，食品"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "foods"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Food was scarce and expensive.",
+      "zh": "食物匮乏而且昂贵。"
+    },
+    {
+      "en": "Food aid is urgently needed.",
+      "zh": "迫切需要食物援助。"
+    },
+    {
+      "en": "Food stocks are running low.",
+      "zh": "贮存的食物快吃完了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[食品]食物；养料",
+      "words": [
+        "diet",
+        "eating",
+        "nourishment"
+      ]
+    }
+  ]
+}

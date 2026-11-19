@@ -1,0 +1,86 @@
+{
+  "word": "dark",
+  "found": true,
+  "phonetic_uk": "dɑːk",
+  "phonetic_us": "dɑːrk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dark&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dark&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "黑暗的，昏暗的；深色的，暗色的；恐怖的，悲惨的；神秘的，隐秘的；忧郁的，悲观的；邪恶的，阴险的；（头发、眼睛或皮肤）褐色的，黑色的；（剧院）关闭的，停业的；（嗓音）低沉圆润的；（语音）暗的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "黑暗，暗处；暗色，阴影；黄昏，夜幕"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Dark）（英）达克（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "darks"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "darks"
+    },
+    {
+      "name": "现在分词",
+      "value": "darking"
+    },
+    {
+      "name": "过去式",
+      "value": "darked"
+    },
+    {
+      "name": "过去分词",
+      "value": "darked"
+    },
+    {
+      "name": "比较级",
+      "value": "darker或more dark"
+    },
+    {
+      "name": "最高级",
+      "value": "darkest或most dark"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Her eyes gleamed in the dark.",
+      "zh": "她的眼睛在黑暗中闪烁。"
+    },
+    {
+      "en": "We should arrive before dark.",
+      "zh": "我们天黑以前应该能赶到。"
+    },
+    {
+      "en": "Hopefully, we'll arrive before dark.",
+      "zh": "我们有望在天黑前到达。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "黑暗的，深色的；模糊的；无知的；忧郁的",
+      "words": [
+        "fuzzy",
+        "blue",
+        "empty",
+        "gloomy"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "黑暗；夜；黄昏；模糊",
+      "words": [
+        "night",
+        "gloominess"
+      ]
+    }
+  ]
+}

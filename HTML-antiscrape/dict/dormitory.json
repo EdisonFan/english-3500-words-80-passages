@@ -1,0 +1,55 @@
+{
+  "word": "dormitory",
+  "found": true,
+  "phonetic_uk": "ˈdɔːmətri",
+  "phonetic_us": "ˈdɔːrmətɔːri",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dormitory&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dormitory&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "集体宿舍；<美>（学院或大学的）学生宿舍楼；<英>（为在附近城市里工作的人提供的）住宅城，郊外居住区"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "<英>（供在另一个城市工作的人）住宅的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "dormitories"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She lived in a college dormitory.",
+      "zh": "她住在一幢大学宿舍楼里。"
+    },
+    {
+      "en": "They raced back to the dormitory before the nine o'clock curfew.",
+      "zh": "他们在9点熄灯之前拼命跑回了宿舍。"
+    },
+    {
+      "en": "The students have barricaded themselves into their dormitory building.",
+      "zh": "学生们将自己堵在宿舍楼里。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "宿舍，学生宿舍",
+      "words": [
+        "lodging house",
+        "student hostel"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "住宅区的",
+      "words": [
+        "uptown"
+      ]
+    }
+  ]
+}

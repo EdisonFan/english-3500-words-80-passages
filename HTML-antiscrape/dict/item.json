@@ -1,0 +1,70 @@
+{
+  "word": "item",
+  "found": true,
+  "phonetic_uk": "ˈaɪtəm",
+  "phonetic_us": "ˈaɪtəm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=item&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=item&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "项目，条款；一件商品（或物品）；一则，一条（新闻）；（关系亲密的）一对"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "（用于介绍清单上逐个项目之前）又，此外还有"
+    },
+    {
+      "pos": "v.",
+      "meaning": "逐条列出，记下"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "items"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "items"
+    },
+    {
+      "name": "现在分词",
+      "value": "iteming"
+    },
+    {
+      "name": "过去式",
+      "value": "itemed"
+    },
+    {
+      "name": "过去分词",
+      "value": "itemed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This item should be hand washed.",
+      "zh": "这件物品要用手洗。"
+    },
+    {
+      "en": "What's the next item on the agenda?",
+      "zh": "议程的下一项是什么？"
+    },
+    {
+      "en": "The other item on the agenda is the tour.",
+      "zh": "另一项议程是旅行。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[法]条款，项目；一则",
+      "words": [
+        "event",
+        "provision",
+        "clause",
+        "article"
+      ]
+    }
+  ]
+}

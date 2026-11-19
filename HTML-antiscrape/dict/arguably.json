@@ -1,0 +1,38 @@
+{
+  "word": "arguably",
+  "found": true,
+  "phonetic_uk": "ˈɑːɡjuəbli",
+  "phonetic_us": "ˈɑːrɡjuəbli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=arguably&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=arguably&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "可论证地，按理"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Venus was arguably a cozier habitat for life than earth.",
+      "zh": "可以说金星是比地球更舒适的生命栖息地。"
+    },
+    {
+      "en": "China has arguably the fastest-growing operations in Antarctica.",
+      "zh": "可以说，中国在南极洲的业务是发展最快的。"
+    },
+    {
+      "en": "With Mars the scientific stakes are arguably higher than they have ever been.",
+      "zh": "对于火星来说，科学风险可以说比以往任何时候都要高。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "可论证地；可争辩地；正如可提出证据加以证明的那样地",
+      "words": [
+        "demonstrably"
+      ]
+    }
+  ]
+}

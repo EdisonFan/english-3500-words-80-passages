@@ -1,0 +1,53 @@
+{
+  "word": "western",
+  "found": true,
+  "phonetic_uk": "ˈwestən",
+  "phonetic_us": "ˈwestərn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=western&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=western&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "西方的，西部的；（Western）西方国家的（指与北美、西欧、北欧、南欧各国相关的）；美国西部的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（关于19世纪美国西部生活，尤指牛仔生活的）西部电影、西部小说；西方人"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Western）（英）韦斯顿（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Most Western societies are liberal in outlook.",
+      "zh": "西方社会大多思想观念开放。"
+    },
+    {
+      "en": "They have clearly embraced Western consumerism.",
+      "zh": "很明显他们已经接受了西方的消费主义观念。"
+    },
+    {
+      "en": "The single-engine plane landed in western Arizona.",
+      "zh": "单引擎飞机在亚利桑那州西部降落。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "西方的，西部的；有西方特征的",
+      "words": [
+        "hesperian"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "西方人；西部片，西部小说",
+      "words": [
+        "occidental"
+      ]
+    }
+  ]
+}

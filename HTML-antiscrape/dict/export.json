@@ -1,0 +1,76 @@
+{
+  "word": "export",
+  "found": true,
+  "phonetic_uk": "ɪkˈspɔːt; ˈekspɔːt",
+  "phonetic_us": "ɪkˈspɔːrt; ˈekspɔːrt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=export&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=export&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "出口；传播，输出；（在计算机中）导出，输出"
+    },
+    {
+      "pos": "n.",
+      "meaning": "出口，输出；出口物，输出品；出口量，出口收入"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "出口的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "exports"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "exports"
+    },
+    {
+      "name": "现在分词",
+      "value": "exporting"
+    },
+    {
+      "name": "过去式",
+      "value": "exported"
+    },
+    {
+      "name": "过去分词",
+      "value": "exported"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Ghana's main export is cocoa.",
+      "zh": "加纳的主要出口产品是可可。"
+    },
+    {
+      "en": "Our main export is rice.",
+      "zh": "我们主要出口大米。"
+    },
+    {
+      "en": "Export sales were up by 32% last year.",
+      "zh": "去年出口销售额增长了32%。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "输出，[贸易]出口；出口商品",
+      "words": [
+        "output",
+        "exit"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "输出，[贸易]出口",
+      "words": [
+        "output",
+        "bulk out"
+      ]
+    }
+  ]
+}

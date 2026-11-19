@@ -1,0 +1,48 @@
+{
+  "word": "beer",
+  "found": true,
+  "phonetic_uk": "bɪə(r)",
+  "phonetic_us": "bɪr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=beer&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=beer&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "啤酒；一杯（或一瓶，一罐）啤酒；根汁啤酒"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Beer）（法、德、俄、罗、捷、瑞典）贝尔，（英、西、南非）比尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "beers"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He upended the beer, and swallowed.",
+      "zh": "他把啤酒倒出来，大口喝了。"
+    },
+    {
+      "en": "Are you a beer drinker?",
+      "zh": "你经常喝啤酒吗？"
+    },
+    {
+      "en": "I brew my own beer.",
+      "zh": "我酿造自己的啤酒。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[食品]啤酒",
+      "words": [
+        "reeb",
+        "cerevisiae"
+      ]
+    }
+  ]
+}

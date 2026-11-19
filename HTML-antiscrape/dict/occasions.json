@@ -1,0 +1,51 @@
+{
+  "word": "occasions",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "əˈkeɪʒnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=occasions&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=occasions&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "场合；机会（occasion 的复数）；理由"
+    },
+    {
+      "pos": "v.",
+      "meaning": "致使；引起（occasion 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I've met him on several occasions.",
+      "zh": "我曾见过他几次。"
+    },
+    {
+      "en": "He has been late on numerous occasions.",
+      "zh": "他已经迟到过无数次了。"
+    },
+    {
+      "en": "It happened on three separate occasions.",
+      "zh": "这事在三个不同的场合发生过。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "场合；机会（occasion的复数）；理由",
+      "words": [
+        "opportunities",
+        "chances",
+        "reasons"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "致使；引起（occasion的第三人称单数）",
+      "words": [
+        "parents"
+      ]
+    }
+  ]
+}

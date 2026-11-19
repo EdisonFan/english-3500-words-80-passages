@@ -1,0 +1,44 @@
+{
+  "word": "communication",
+  "found": true,
+  "phonetic_uk": "kəˌmjuːnɪˈkeɪʃ(ə)n",
+  "phonetic_us": "kəˌmjuːnɪˈkeɪʃn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=communication&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=communication&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "表达，交流，交际；信息，书信，电话；通讯，交通联系；传播学"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "communications"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Good communication is key to our success.",
+      "zh": "良好的沟通是我们成功的关键。"
+    },
+    {
+      "en": "We are in regular communication by letter.",
+      "zh": "我们定期通信联系。"
+    },
+    {
+      "en": "Television is an effective means of communication.",
+      "zh": "电视是一种有效的通信手段。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "通讯，[通信]通信；交流",
+      "words": [
+        "telecommunications",
+        "exchange"
+      ]
+    }
+  ]
+}

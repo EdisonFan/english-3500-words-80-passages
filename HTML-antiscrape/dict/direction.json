@@ -1,0 +1,42 @@
+{
+  "word": "direction",
+  "found": true,
+  "phonetic_uk": "dəˈrekʃ(ə)n",
+  "phonetic_us": "dəˈrekʃn; daɪˈrekʃn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=direction&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=direction&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "方向，方位；趋势，动向；指示，说明；目标；方面；管理，指导；导演"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Which direction are you facing?",
+      "zh": "你面朝哪个方向？"
+    },
+    {
+      "en": "She glanced in his direction.",
+      "zh": "她朝他那个方向瞥了一眼。"
+    },
+    {
+      "en": "You deliberately went in the other direction.",
+      "zh": "你故意朝另一个方向走了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "方向；指导；趋势；用法说明",
+      "words": [
+        "orientation",
+        "guidance",
+        "aspect",
+        "tendency",
+        "instruction"
+      ]
+    }
+  ]
+}

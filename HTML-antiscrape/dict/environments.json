@@ -1,0 +1,39 @@
+{
+  "word": "environments",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=environments&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=environments&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[环境]环境；（计算机系统运行的）[环境]环境（environment 的复数）；生态环境"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "However, some birds thrive in noisy environments.",
+      "zh": "然而，有些鸟会在嘈杂的环境中茁壮成长。"
+    },
+    {
+      "en": "Conflict resolution can be used in many environments.",
+      "zh": "冲突解决方案可以在许多环境中使用。"
+    },
+    {
+      "en": "The FAA then recognised two types of operating environments.",
+      "zh": "联邦航空局随后识别出了两种操作环境。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "环境；（计算机系统运行的）环境（environment的复数）；生态环境",
+      "words": [
+        "circumstances",
+        "mediums"
+      ]
+    }
+  ]
+}

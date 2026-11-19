@@ -1,0 +1,72 @@
+{
+  "word": "floss",
+  "found": true,
+  "phonetic_uk": "flɒs",
+  "phonetic_us": "flɑːs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=floss&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=floss&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "牙线；丝棉；乱丝"
+    },
+    {
+      "pos": "vt.",
+      "meaning": "用牙线洁牙"
+    },
+    {
+      "pos": "vi.",
+      "meaning": "用牙线清洁"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Floss）人名；（英、德）弗洛斯"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "flosses"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "flosses"
+    },
+    {
+      "name": "现在分词",
+      "value": "flossing"
+    },
+    {
+      "name": "过去式",
+      "value": "flossed"
+    },
+    {
+      "name": "过去分词",
+      "value": "flossed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You know you should floss, but \"should\" is not enough.",
+      "zh": "你明白应当用牙线清洁牙齿，但“应当”是远远不够的。"
+    },
+    {
+      "en": "Hold the floss tightly between your thumbs and forefingers, with about an inch (2.5 cm) of floss between them.",
+      "zh": "两只手的食指和大拇指分别捏紧牙线的一端， 中间留出一英寸长（2.5厘米） 。"
+    },
+    {
+      "en": "Craft Resources also sells yarn and embroidery floss.",
+      "zh": "“手工之家”也售卖纱线和绣花丝线。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "牙线；丝棉；乱丝",
+      "words": [
+        "bombasine",
+        "filoselle"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "cognitive",
+  "found": true,
+  "phonetic_uk": "ˈkɒɡnətɪv",
+  "phonetic_us": "ˈkɑːɡnətɪv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cognitive&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cognitive&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "认识的，认知的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "As children grow older, their cognitive processes become sharper.",
+      "zh": "随着孩子们长大，他们的认知过程也变得越来越敏锐了。"
+    },
+    {
+      "en": "They lack the cognitive and memory skills.",
+      "zh": "他们缺乏认知和记忆能力。"
+    },
+    {
+      "en": "What kinds of cognitive abilities are we talking about?",
+      "zh": "我们所说的是哪些类型的认知能力呢？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "认知的，认识的",
+      "words": [
+        "recognitive",
+        "epistemic"
+      ]
+    }
+  ]
+}

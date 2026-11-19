@@ -1,0 +1,39 @@
+{
+  "word": "agriculture",
+  "found": true,
+  "phonetic_uk": "ˈæɡrɪkʌltʃə(r)",
+  "phonetic_us": "ˈæɡrɪkʌltʃər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=agriculture&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=agriculture&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "农业，农学，农艺"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The conditions were unfavourable for agriculture.",
+      "zh": "这些条件不利于农业。"
+    },
+    {
+      "en": "Agriculture forms the backbone of the rural economy.",
+      "zh": "农业是农村经济的基础。"
+    },
+    {
+      "en": "The seminar was to discuss diversification of agriculture.",
+      "zh": "该研讨会讨论的是农业多种经营。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[农]农业；农艺，[农学]农学",
+      "words": [
+        "farming",
+        "extractive industry"
+      ]
+    }
+  ]
+}

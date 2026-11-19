@@ -1,0 +1,46 @@
+{
+  "word": "today",
+  "found": true,
+  "phonetic_uk": "təˈdeɪ",
+  "phonetic_us": "təˈdeɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=today&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=today&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "今天，今日；现今，在当代"
+    },
+    {
+      "pos": "n.",
+      "meaning": "今天，今日；现在，当代"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Today）（印度、美、俄）托迪（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I'm revising Geography today.",
+      "zh": "我今天复习地理。"
+    },
+    {
+      "en": "It's flipping cold today!",
+      "zh": "今天冷得要命！"
+    },
+    {
+      "en": "She's much better today.",
+      "zh": "她今天好多了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "今天；现今",
+      "words": [
+        "nowadays"
+      ]
+    }
+  ]
+}

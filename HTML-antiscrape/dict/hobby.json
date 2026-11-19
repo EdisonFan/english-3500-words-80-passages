@@ -1,0 +1,50 @@
+{
+  "word": "hobby",
+  "found": true,
+  "phonetic_uk": "ˈhɒbi",
+  "phonetic_us": "ˈhɑːbi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=hobby&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=hobby&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "业余爱好，嗜好；<古> 小马，马驹；燕隼"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Hobby）（英）霍比（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "hobbies"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I only play jazz as a hobby.",
+      "zh": "我弹奏爵士乐只是一种业余爱好。"
+    },
+    {
+      "en": "His hobby is freefall parachuting.",
+      "zh": "他的业余爱好是自由落体式跳伞。"
+    },
+    {
+      "en": "He hasn't got any hobbies—unless you call watching TV a hobby.",
+      "zh": "他没有什么爱好—除非你把看电视也称作爱好。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "嗜好；业余爱好",
+      "words": [
+        "weakness",
+        "habit",
+        "appetite",
+        "liking"
+      ]
+    }
+  ]
+}

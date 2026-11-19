@@ -1,0 +1,44 @@
+{
+  "word": "dissection",
+  "found": true,
+  "phonetic_uk": "dɪˈsekʃn; daɪˈsekʃn",
+  "phonetic_us": "dɪˈsekʃnˌdaɪˈsekʃn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dissection&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dissection&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "解剖，切开；解剖体；详细查究"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "dissections"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Researchers need a growing supply of corpses for dissection.",
+      "zh": "研究者们为了解剖需要越来越多的尸体。"
+    },
+    {
+      "en": "Your enjoyment of a novel can suffer from too much analysis and dissection.",
+      "zh": "对一部小说过多的剖析可能会影响你对它的欣赏。"
+    },
+    {
+      "en": "Dissection induces changes, explained Dr Hansen.",
+      "zh": "汉森博士解释说，解剖会造成一些意想不到的变化。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[解剖]解剖，切开；解剖体；详细查究",
+      "words": [
+        "anatomy",
+        "incision"
+      ]
+    }
+  ]
+}

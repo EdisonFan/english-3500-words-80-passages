@@ -1,0 +1,76 @@
+{
+  "word": "finger",
+  "found": true,
+  "phonetic_uk": "ˈfɪŋɡə(r)",
+  "phonetic_us": "ˈfɪŋɡər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=finger&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=finger&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "手指；（手套的）手指部分；（酒在杯中的深度）一指宽；指状物；竖中指；指针"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用手指触摸；<美>告发，告密；拨弄（乐器）；用某种指法演奏（乐曲）；给（乐谱）标明指法符号"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Finger）（英、德、捷）芬格，（俄）芬格尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "fingers"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "fingers"
+    },
+    {
+      "name": "现在分词",
+      "value": "fingering"
+    },
+    {
+      "name": "过去式",
+      "value": "fingered"
+    },
+    {
+      "name": "过去分词",
+      "value": "fingered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He wagged a disapproving finger.",
+      "zh": "他摇摇手指表示不赞成。"
+    },
+    {
+      "en": "He poked his finger into the hole.",
+      "zh": "他把手指戳进洞里。"
+    },
+    {
+      "en": "She wiggled her finger.",
+      "zh": "她摆动着手指头。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "手指；指针，指状物",
+      "words": [
+        "index",
+        "pointer"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "伸出；用手指拨弄",
+      "words": [
+        "extend",
+        "reach out"
+      ]
+    }
+  ]
+}

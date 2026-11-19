@@ -1,0 +1,63 @@
+{
+  "word": "similar",
+  "found": true,
+  "phonetic_uk": "ˈsɪmələ(r)",
+  "phonetic_us": "ˈsɪmələr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=similar&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=similar&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "相像的，类似的；（几何图形）相似的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<古>相似之人（或物）；顺势药物（指疗效与某些疾病症状相似的药物，为顺势疗法的基础）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "similars"
+    },
+    {
+      "name": "比较级",
+      "value": "more similar"
+    },
+    {
+      "name": "最高级",
+      "value": "most similar"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They have uncannily similar voices.",
+      "zh": "他们有着出奇相似的嗓音。"
+    },
+    {
+      "en": "They themselves had had a similar experience.",
+      "zh": "他们本身就曾有过类似的经历。"
+    },
+    {
+      "en": "The brothers look very similar.",
+      "zh": "弟兄几个长得很像。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "相似的",
+      "words": [
+        "alike",
+        "like"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "类似物",
+      "words": [
+        "analog"
+      ]
+    }
+  ]
+}

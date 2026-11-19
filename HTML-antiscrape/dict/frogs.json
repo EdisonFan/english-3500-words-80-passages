@@ -1,0 +1,30 @@
+{
+  "word": "frogs",
+  "found": true,
+  "phonetic_uk": "frɒɡz",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=frogs&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=frogs&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "青蛙（frog 的复数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Frogs will usually breed in any convenient pond.",
+      "zh": "青蛙通常在任何适宜的水塘里繁殖。"
+    },
+    {
+      "en": "Thousands of frogs croaked in the reeds by the riverbank.",
+      "zh": "成千上万只青蛙在河岸的芦苇中呱呱地叫。"
+    },
+    {
+      "en": "I spent one whole night by a swamp behind the road listening to frogs.",
+      "zh": "我整个晚上都在这条路后面的一个沼泽地旁听蛙鸣。"
+    }
+  ],
+  "synonyms": []
+}

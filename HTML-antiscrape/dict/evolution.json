@@ -1,0 +1,44 @@
+{
+  "word": "evolution",
+  "found": true,
+  "phonetic_uk": "ˌiːvəˈluːʃ(ə)n",
+  "phonetic_us": "ˌevəˈluːʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=evolution&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=evolution&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "进化（论）；演变，发展；（气体的）释放，（热量的）散发；队形变换，位置变换；<旧>开方"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "evolutions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Darwin eventually put forward a model of biological evolution.",
+      "zh": "达尔文最终提出了一套生物进化的理论模式。"
+    },
+    {
+      "en": "We're dealing with probably the biggest missing link in what we know about human evolution.",
+      "zh": "我们正在解决的可能是我们所知的人类进化过程中缺失最大的一环。"
+    },
+    {
+      "en": "What is the first step in evolution?",
+      "zh": "进化的第一步是什么？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "演变；[进化]进化论；进展",
+      "words": [
+        "unfolding",
+        "Monkey to Man"
+      ]
+    }
+  ]
+}

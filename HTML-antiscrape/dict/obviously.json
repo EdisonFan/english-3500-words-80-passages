@@ -1,0 +1,42 @@
+{
+  "word": "obviously",
+  "found": true,
+  "phonetic_uk": "ˈɒbviəsli",
+  "phonetic_us": "ˈɑːbviəsli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=obviously&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=obviously&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "（用于强调）显然，显而易见；明显地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They're obviously not coming.",
+      "zh": "他们显然不会来了。"
+    },
+    {
+      "en": "She was obviously in a mood.",
+      "zh": "显然她心情不好。"
+    },
+    {
+      "en": "She was obviously going a bit dotty.",
+      "zh": "她显然变得有些疯疯癫癫的了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "明显地",
+      "words": [
+        "clearly",
+        "broadly",
+        "markedly",
+        "distinctly",
+        "visibly"
+      ]
+    }
+  ]
+}

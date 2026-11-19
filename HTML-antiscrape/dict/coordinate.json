@@ -1,0 +1,84 @@
+{
+  "word": "coordinate",
+  "found": true,
+  "phonetic_uk": "kəʊˈɔːdɪneɪt",
+  "phonetic_us": "koʊˈɔːrdɪneɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=coordinate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=coordinate&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "协调，配合；使身体协调；（使颜色、款式、风格等）搭配，配套；给 （原子或分子）配位，与……形成共价键"
+    },
+    {
+      "pos": "n.",
+      "meaning": "坐标；配套服装；同等级（或类别）的人（或事物）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "地位相当的，同等重要的；（语法）并列的；（化学）配位的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "coordinates"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "coordinates"
+    },
+    {
+      "name": "现在分词",
+      "value": "coordinating"
+    },
+    {
+      "name": "过去式",
+      "value": "coordinated"
+    },
+    {
+      "name": "过去分词",
+      "value": "coordinated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She'll show you how to coordinate pattern and colours.",
+      "zh": "她会向你展示如何搭配款式和颜色。"
+    },
+    {
+      "en": "They appointed a new manager to coordinate the work of the team.",
+      "zh": "为协调这个队的工作，他们任用了一位新经理。"
+    },
+    {
+      "en": "Government officials visited the earthquake zone on Thursday morning to coordinate the relief effort.",
+      "zh": "政府官员星期四上午视察了地震灾区以协调救灾工作。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "并列的；[物化]同等的",
+      "words": [
+        "paratactic",
+        "tantamount"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "调整；整合",
+      "words": [
+        "adjust",
+        "restructure"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "协调",
+      "words": [
+        "sort",
+        "concert"
+      ]
+    }
+  ]
+}

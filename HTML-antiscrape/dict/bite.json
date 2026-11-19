@@ -1,0 +1,84 @@
+{
+  "word": "bite",
+  "found": true,
+  "phonetic_uk": "baɪt",
+  "phonetic_us": "baɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bite&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bite&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "咬，咬伤；叮，蜇；卡紧，咬住；产生不良影响；接受，相信；咬饵，上钩；（酸）腐蚀；<非正式>使生气，使烦恼；（物体）刺痛，勒痛；使伤心，使痛苦"
+    },
+    {
+      "pos": "n.",
+      "meaning": "咬；一口的量；咬伤，叮伤；少量吃的东西，小吃；寒冷，刺骨；浓烈的味道；影响力，感染力；吞饵，上钩；咬合；简短的信息"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Bite）（匈）比泰（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "bites"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "bites"
+    },
+    {
+      "name": "现在分词",
+      "value": "biting"
+    },
+    {
+      "name": "过去式",
+      "value": "bit"
+    },
+    {
+      "name": "过去分词",
+      "value": "bit或bitten"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The dog gave me a playful bite.",
+      "zh": "狗闹着玩地咬了我一下。"
+    },
+    {
+      "en": "He took another bite of apple.",
+      "zh": "他又咬了一口苹果。"
+    },
+    {
+      "en": "Most European spiders don't bite.",
+      "zh": "大多数欧洲蜘蛛不咬人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "咬；刺痛",
+      "words": [
+        "cut",
+        "gnaw at"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "咬；一口；咬伤；刺痛",
+      "words": [
+        "smart",
+        "mouthful"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "咬；刺痛",
+      "words": [
+        "smart",
+        "gnaw at"
+      ]
+    }
+  ]
+}

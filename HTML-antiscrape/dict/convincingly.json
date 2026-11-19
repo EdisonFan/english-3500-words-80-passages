@@ -1,0 +1,39 @@
+{
+  "word": "convincingly",
+  "found": true,
+  "phonetic_uk": "kənˈvɪnsɪŋli",
+  "phonetic_us": "kənˈvɪnsɪŋli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=convincingly&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=convincingly&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "令人信服地；有说服力地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They won convincingly.",
+      "zh": "他们赢得令人信服。"
+    },
+    {
+      "en": "Her case was convincingly argued.",
+      "zh": "她的辩辞很有说服力。"
+    },
+    {
+      "en": "These results demonstrate convincingly that our campaign is working.",
+      "zh": "这些结果有力地证明，我们的运动正在发挥作用。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "令人信服地；有说服力地",
+      "words": [
+        "conceivably",
+        "persuasively"
+      ]
+    }
+  ]
+}

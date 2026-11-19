@@ -1,0 +1,62 @@
+{
+  "word": "accumulate",
+  "found": true,
+  "phonetic_uk": "əˈkjuːmjəleɪt",
+  "phonetic_us": "əˈkjuːmjəleɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=accumulate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=accumulate&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "积累，积攒"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "accumulates"
+    },
+    {
+      "name": "现在分词",
+      "value": "accumulating"
+    },
+    {
+      "name": "过去式",
+      "value": "accumulated"
+    },
+    {
+      "name": "过去分词",
+      "value": "accumulated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Lead can accumulate in the body until toxic levels are reached.",
+      "zh": "铅可以在体内积聚直至到达有毒的程度。"
+    },
+    {
+      "en": "It was his ambition to accumulate a million dollars before he turned thirty.",
+      "zh": "他的雄心是在30岁以前积攒100万美元。"
+    },
+    {
+      "en": "They accumulate essentially no body fat.",
+      "zh": "它们基本上不积累身体脂肪。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "累积；积聚",
+      "words": [
+        "store up"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "积攒",
+      "words": [
+        "scrape up"
+      ]
+    }
+  ]
+}

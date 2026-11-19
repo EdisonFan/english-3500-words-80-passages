@@ -1,0 +1,50 @@
+{
+  "word": "lost",
+  "found": true,
+  "phonetic_uk": "lɒst",
+  "phonetic_us": "lɔːst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=lost&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=lost&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "迷路的，迷失的；失去的，丢失的；不复存在的，不再拥有的；不知所措，一筹莫展；糊涂的，困惑的；全神贯注的；（时间或机会）浪费的，错过的；输了的；遭难的，阵亡的；彻底毁坏的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "遗失，丢失；失去；输掉（比赛、战斗、争论等）（lose 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Thousands have lost their jobs.",
+      "zh": "数千人都丢了工作。"
+    },
+    {
+      "en": "Harry was hopelessly lost.",
+      "zh": "哈里彻底迷路了。"
+    },
+    {
+      "en": "I've lost my keys.",
+      "zh": "我把钥匙丢了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "失去的；丧失的；迷惑的",
+      "words": [
+        "deceptive",
+        "delusory"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "遗失（lose的过去分词）；失败",
+      "words": [
+        "cracked"
+      ]
+    }
+  ]
+}

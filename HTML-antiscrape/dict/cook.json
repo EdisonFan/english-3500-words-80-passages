@@ -1,0 +1,68 @@
+{
+  "word": "cook",
+  "found": true,
+  "phonetic_uk": "kʊk",
+  "phonetic_us": "kʊk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cook&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cook&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "厨师，炊事员"
+    },
+    {
+      "pos": "v.",
+      "meaning": "煮，烧；烹饪，烹调；<非正式>发生，计划中；<美，非正式>干得起劲，干得好；<非正式>篡改，伪造"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Cook）（美）库克（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "cooks"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "cooks"
+    },
+    {
+      "name": "现在分词",
+      "value": "cooking"
+    },
+    {
+      "name": "过去式",
+      "value": "cooked"
+    },
+    {
+      "name": "过去分词",
+      "value": "cooked"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She was an amazingly good cook.",
+      "zh": "她曾是个好得惊人的厨师。"
+    },
+    {
+      "en": "She's an exceptionally good cook.",
+      "zh": "她是一个特别好的厨师。"
+    },
+    {
+      "en": "Jane is a fabulous cook.",
+      "zh": "简的烹饪技巧堪称一绝。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[劳经]厨师，厨子",
+      "words": [
+        "chef",
+        "kitchener"
+      ]
+    }
+  ]
+}

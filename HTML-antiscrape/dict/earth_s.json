@@ -1,0 +1,39 @@
+{
+  "word": "earth's",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=earth's&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=earth's&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "土地的；地球的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Water covers a large proportion of the earth's surface.",
+      "zh": "水覆盖了地球表面的大部分。"
+    },
+    {
+      "en": "Ozone is the earth's barrier against ultra-violet radiation.",
+      "zh": "臭氧是地球防止紫外线辐射的屏障。"
+    },
+    {
+      "en": "Earthquakes leave scars in the Earth's crust.",
+      "zh": "地震会在地壳上留下痕迹。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "土地的；地球的",
+      "words": [
+        "ground",
+        "agrarian"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "category",
+  "found": true,
+  "phonetic_uk": "ˈkætəɡəri",
+  "phonetic_us": "ˈkætəɡɔːri",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=category&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=category&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "种类，范畴"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "categories"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His pictures don't fit into any category.",
+      "zh": "他的画哪一类也算不上。"
+    },
+    {
+      "en": "The judges could not decide which category it belonged in.",
+      "zh": "法官们无法决定它属于哪一类别。"
+    },
+    {
+      "en": "Out of over 400 staff there are just 7 that fall into this category.",
+      "zh": "400多个职员中只有7人属于这一类。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "种类，分类；[数]范畴",
+      "words": [
+        "variety",
+        "classification",
+        "kind",
+        "manner",
+        "sort",
+        "nature"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "joined",
+  "found": true,
+  "phonetic_uk": "dʒɔɪnd",
+  "phonetic_us": "dʒɔɪnd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=joined&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=joined&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "加入；参加（join 的过去式，过去分词）；[计]连接"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She joined the company in 2002.",
+      "zh": "她于 2002 年加盟这家公司。"
+    },
+    {
+      "en": "I've joined an aerobics class.",
+      "zh": "我参加了有氧健身班。"
+    },
+    {
+      "en": "I joined a dating agency.",
+      "zh": "我加入了一家婚介所。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "加入；参加（join的过去式，过去分词）；连接",
+      "words": [
+        "connected"
+      ]
+    }
+  ]
+}

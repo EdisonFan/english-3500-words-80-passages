@@ -1,0 +1,47 @@
+{
+  "word": "explanation",
+  "found": true,
+  "phonetic_uk": "ˌekspləˈneɪʃ(ə)n",
+  "phonetic_us": "ˌekspləˈneɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=explanation&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=explanation&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "解释，说明；解释性说法，说明性文字；理由，原因"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "explanations"
+    }
+  ],
+  "examples": [
+    {
+      "en": "There was a logical explanation.",
+      "zh": "存在一个合理的解释。"
+    },
+    {
+      "en": "I think you owe us an explanation.",
+      "zh": "我认为你应当给我们一个解释。"
+    },
+    {
+      "en": "He didn't get a decent explanation.",
+      "zh": "他没有得到一个合理的解释。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "说明，解释；辩解",
+      "words": [
+        "notes",
+        "interpretation",
+        "construction",
+        "legend",
+        "account"
+      ]
+    }
+  ]
+}

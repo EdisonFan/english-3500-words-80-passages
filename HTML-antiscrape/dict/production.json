@@ -1,0 +1,47 @@
+{
+  "word": "production",
+  "found": true,
+  "phonetic_uk": "prəˈdʌkʃ(ə)n",
+  "phonetic_us": "prəˈdʌkʃn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=production&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=production&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（以销售为目的的）生产，制造；（对自然物的）加工，采集，生产；产量；（自然的）产生；（交通工具的）大量生产；（戏剧、电影、电视节目、唱片等的）制作；（戏剧、电影等的）上映，上演；（尤指从制作与公演等特点来看）影片，戏剧；音响效果，制作方式；<正式>出示，提供；<非正式>非常费力的事，非常复杂的事"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "productions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Demand is outpacing production.",
+      "zh": "需求正在超过生产。"
+    },
+    {
+      "en": "Production costs began to spiral.",
+      "zh": "生产成本开始加速上涨。"
+    },
+    {
+      "en": "Industrial production is stagnating.",
+      "zh": "工业生产停滞不前。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "成果；产品；[经]生产；作品",
+      "words": [
+        "feedback",
+        "outcome",
+        "writing",
+        "manufacture",
+        "work"
+      ]
+    }
+  ]
+}

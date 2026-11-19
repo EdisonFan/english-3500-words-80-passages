@@ -1,0 +1,43 @@
+{
+  "word": "remains",
+  "found": true,
+  "phonetic_uk": "rɪˈmeɪnz",
+  "phonetic_us": "rɪˈmeɪnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=remains&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=remains&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "剩余物，残留物；遗体，遗骸；古迹，遗迹"
+    },
+    {
+      "pos": "v.",
+      "meaning": "仍然是，保持不变；逗留，留下；剩余，余留（remain 的第三人称单数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The theory remains untested.",
+      "zh": "该理论仍未经过验证。"
+    },
+    {
+      "en": "His courage remains unquestioned.",
+      "zh": "他的勇敢仍然不容置疑。"
+    },
+    {
+      "en": "The issue remains hotly disputed.",
+      "zh": "这个问题至今仍在激烈地辩论中。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "残余；遗骸",
+      "words": [
+        "leaving",
+        "vestige"
+      ]
+    }
+  ]
+}

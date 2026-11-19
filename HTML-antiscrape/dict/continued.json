@@ -1,0 +1,43 @@
+{
+  "word": "continued",
+  "found": true,
+  "phonetic_uk": "kənˈtɪnjuːd",
+  "phonetic_us": "kənˈtɪnjuːd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=continued&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=continued&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "持续的，频繁的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）继续，（使）延续；继续说，接着说；移动，延伸（continue 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The bird continued to warble.",
+      "zh": "鸟儿继续啁啾。"
+    },
+    {
+      "en": "The dollar continued to slide.",
+      "zh": "美元继续下跌。"
+    },
+    {
+      "en": "His business continued to prosper.",
+      "zh": "他的生意持续兴隆。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "继续的；持久的",
+      "words": [
+        "sustained",
+        "lasting"
+      ]
+    }
+  ]
+}

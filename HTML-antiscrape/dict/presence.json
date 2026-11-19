@@ -1,0 +1,46 @@
+{
+  "word": "presence",
+  "found": true,
+  "phonetic_uk": "ˈprez(ə)ns",
+  "phonetic_us": "ˈprez(ə)ns",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=presence&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=presence&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "出席，存在；<正式>（某人的）所在地方；<文>感觉中的存在物（如鬼魂）；驻扎部队，驻扎的警力；风度，气质；（公司在某地的）工人（或产品），势力"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "presences"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His presence no longer signified.",
+      "zh": "他在不在场已不重要。"
+    },
+    {
+      "en": "He barely registered our presence.",
+      "zh": "他几乎没有注意到我们在场。"
+    },
+    {
+      "en": "His presence had a calming influence.",
+      "zh": "有他在场对大家的情绪起到了稳定作用。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[植]存在；出席；参加；风度；仪态",
+      "words": [
+        "existence",
+        "being",
+        "entity",
+        "is"
+      ]
+    }
+  ]
+}

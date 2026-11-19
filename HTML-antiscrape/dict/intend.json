@@ -1,0 +1,59 @@
+{
+  "word": "intend",
+  "found": true,
+  "phonetic_uk": "ɪnˈtend",
+  "phonetic_us": "ɪnˈtend",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=intend&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=intend&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "打算，想要；意指，意思是；准备，预留（作某种用途或给某人用）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "intends"
+    },
+    {
+      "name": "现在分词",
+      "value": "intending"
+    },
+    {
+      "name": "过去式",
+      "value": "intended"
+    },
+    {
+      "name": "过去分词",
+      "value": "intended"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They intend to sue for damages.",
+      "zh": "他们打算起诉，要求赔偿损失。"
+    },
+    {
+      "en": "I don't intend staying long.",
+      "zh": "我不打算长期逗留。"
+    },
+    {
+      "en": "We intend to appeal the verdict.",
+      "zh": "我们打算对此裁决提出申诉。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "打算；想要；意指",
+      "words": [
+        "feel like",
+        "propose",
+        "wanna",
+        "think",
+        "desire"
+      ]
+    }
+  ]
+}

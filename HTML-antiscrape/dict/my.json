@@ -1,0 +1,47 @@
+{
+  "word": "my",
+  "found": true,
+  "phonetic_uk": "maɪ",
+  "phonetic_us": "maɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=my&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=my&type=2",
+  "defs": [
+    {
+      "pos": "pron.",
+      "meaning": "我的"
+    },
+    {
+      "pos": "int.",
+      "meaning": "哎呀（表示惊奇等）；喔唷"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（My）人名；（越）美；（老、柬）米"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I let my feelings be my guide.",
+      "zh": "我是跟着感觉走。"
+    },
+    {
+      "en": "My shorts were chafing my thighs.",
+      "zh": "我的短裤蹭得我大腿疼。"
+    },
+    {
+      "en": "My sex life is my business.",
+      "zh": "我的性生活是我的私事。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "int.",
+      "meaning": "哎呀（表示惊奇等）；喔唷",
+      "words": [
+        "oh",
+        "dear"
+      ]
+    }
+  ]
+}

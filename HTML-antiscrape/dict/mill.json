@@ -1,0 +1,77 @@
+{
+  "word": "mill",
+  "found": true,
+  "phonetic_uk": "mɪl",
+  "phonetic_us": "mɪl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mill&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mill&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "磨坊，磨粉厂；工厂，制造厂；<非正式> 一百万；磨粉机，磨麪机；<美>密尔，厘；机器，铣床；<非正式>引擎；<非正式>一百万"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（用磨粉机）碾碎，磨成粉；（一大群人）闲逛，转悠；碾（轧，铣）（金属）；轧出（硬币的）边纹；使（羊毛或其他动物纤维）缩绒（或缩呢）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Mill）米尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "mills"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "mills"
+    },
+    {
+      "name": "现在分词",
+      "value": "milling"
+    },
+    {
+      "name": "过去式",
+      "value": "milled"
+    },
+    {
+      "name": "过去分词",
+      "value": "milled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His father worked shifts in a steel mill.",
+      "zh": "他的父亲在一家钢铁厂轮班工作。"
+    },
+    {
+      "en": "The old mill is now little more than a ruin.",
+      "zh": "老磨坊现在只剩下一点残垣断壁了。"
+    },
+    {
+      "en": "The steel mill was dismantled piece by piece.",
+      "zh": "钢厂已经一块块拆散了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[工经]工厂；磨坊；[化工][粮食][机]磨粉机；制造厂；压榨机",
+      "words": [
+        "factory",
+        "plant",
+        "work"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "搅拌；[机]碾磨；磨细；使乱转",
+      "words": [
+        "mix round",
+        "churn up"
+      ]
+    }
+  ]
+}

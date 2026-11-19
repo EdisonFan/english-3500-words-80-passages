@@ -1,0 +1,87 @@
+{
+  "word": "slap",
+  "found": true,
+  "phonetic_uk": "slæp",
+  "phonetic_us": "slæp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=slap&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=slap&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（用手掌）打，拍；拍打，拍击；（尤指生气地）啪的一声放下，随意扔放；（快速地、随意地或用力地）涂抹（某物）；甩击；侮辱"
+    },
+    {
+      "pos": "n.",
+      "meaning": "拍，掌击；掌击声，拍打声；<英，非正式>（厚厚地或随意涂抹的）化妆品；侮辱"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "<非正式> 直接地，猛然；<非正式> 恰好，正好"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "精力不足的，效率不高的；（食物）松软的，过于柔软的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "slaps"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "slaps"
+    },
+    {
+      "name": "现在分词",
+      "value": "slapping"
+    },
+    {
+      "name": "过去式",
+      "value": "slapped"
+    },
+    {
+      "name": "过去分词",
+      "value": "slapped"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She gave him a slap across the face.",
+      "zh": "她打了他一个耳光。"
+    },
+    {
+      "en": "The stinging slap almost caught his face.",
+      "zh": "这狠狠的一巴掌差点打在他的脸上。"
+    },
+    {
+      "en": "A stinging slap across the face jolted her.",
+      "zh": "火辣辣的一记巴掌使她惊呆了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "拍击；侮辱；掌击；掴…的耳光",
+      "words": [
+        "make a chump out of",
+        "insult"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "掴；侮辱；掌击；拍打声",
+      "words": [
+        "despite",
+        "indignity"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "掴；拍击",
+      "words": [
+        "spank"
+      ]
+    }
+  ]
+}

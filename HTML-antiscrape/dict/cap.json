@@ -1,0 +1,86 @@
+{
+  "word": "cap",
+  "found": true,
+  "phonetic_uk": "kæp",
+  "phonetic_us": "kæp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cap&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cap&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "帽子；（对物件起保护作用的）罩，盖，套；最高限额；国家队队员"
+    },
+    {
+      "pos": "v.",
+      "meaning": "覆盖；限额收取（或支出）；选入国家队；给（牙齿）上牙套；胜过，超过；脱帽致意"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Cap）（法、德、罗）卡普，（塞、捷）察普（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "caps"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "caps"
+    },
+    {
+      "name": "现在分词",
+      "value": "capping"
+    },
+    {
+      "name": "过去式",
+      "value": "capped"
+    },
+    {
+      "name": "过去分词",
+      "value": "capped"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He often wore a baseball cap.",
+      "zh": "他经常戴顶棒球帽。"
+    },
+    {
+      "en": "She screwed the cap back on the jar.",
+      "zh": "她又把广口瓶的盖子拧上。"
+    },
+    {
+      "en": "She tucked her hair (up) under her cap.",
+      "zh": "她把头发拢起来塞进帽子里。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[机]盖；帽子",
+      "words": [
+        "hat",
+        "operculum"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "脱帽致意",
+      "words": [
+        "uncap"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "覆盖；胜过；给…戴帽；加盖于",
+      "words": [
+        "invest",
+        "overcome",
+        "house",
+        "sheet",
+        "roof"
+      ]
+    }
+  ]
+}

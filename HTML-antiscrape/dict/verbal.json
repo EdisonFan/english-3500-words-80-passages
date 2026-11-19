@@ -1,0 +1,47 @@
+{
+  "word": "verbal",
+  "found": true,
+  "phonetic_uk": "ˈvɜːb(ə)l",
+  "phonetic_us": "ˈvɜːrb(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=verbal&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=verbal&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "口头的，非书面的；用言辞的，文字的；动词的；多话的，爱说话的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（语法）动词性单词（或短语、从句）；辱骂，侮辱；<非正式>话，（尤指）气话；<非正式>歌词，电影对话（verbals）；<英，非正式>（不利的）口头供认"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<英，非正式>（尤指不正当地）诱使（嫌疑犯）招供"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They had made a verbal agreement to sell.",
+      "zh": "他们达成了口头售货协定。"
+    },
+    {
+      "en": "They received a verbal offer to buy the company lock, stock and barrel.",
+      "zh": "他们收到全盘收购公司的口头承诺。"
+    },
+    {
+      "en": "The job applicant must have good verbal skills.",
+      "zh": "应聘这份工作的人必须具有良好的语言表达技能。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "口头的；言语的；动词的；照字面的",
+      "words": [
+        "oral",
+        "spoken"
+      ]
+    }
+  ]
+}

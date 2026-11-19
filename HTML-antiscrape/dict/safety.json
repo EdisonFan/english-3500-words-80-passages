@@ -1,0 +1,49 @@
+{
+  "word": "safety",
+  "found": true,
+  "phonetic_uk": "ˈseɪfti",
+  "phonetic_us": "ˈseɪfti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=safety&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=safety&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "安全；安全性；安全场所，安全的地方；安全方法，安全措施； <美>（枪炮的）保险栓，保险机（=safety catch ）；<美>安全分（持球进攻队员在己方端线后被拦截，防守方得两分）；<美>（位置远离争球线的）安全卫；<美，非正式> 安全套；（棒球）安打；安全设备"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "（特征、措施）保障安全的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "safeties"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Safety rules were disregarded.",
+      "zh": "安全规定被忽视了。"
+    },
+    {
+      "en": "They are anxious for her safety.",
+      "zh": "他们为她的安全担心。"
+    },
+    {
+      "en": "I managed to swim to safety.",
+      "zh": "我设法游到安全处。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[安全]安全；保险；安全设备；保险装置；安打",
+      "words": [
+        "insurance",
+        "security",
+        "assurance"
+      ]
+    }
+  ]
+}

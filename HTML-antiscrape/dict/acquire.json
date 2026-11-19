@@ -1,0 +1,59 @@
+{
+  "word": "acquire",
+  "found": true,
+  "phonetic_uk": "əˈkwaɪə(r)",
+  "phonetic_us": "əˈkwaɪər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=acquire&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=acquire&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "获得，得到；学到，习得；患上（疾病）；逐渐具有，开始学会"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "acquires"
+    },
+    {
+      "name": "现在分词",
+      "value": "acquiring"
+    },
+    {
+      "name": "过去式",
+      "value": "acquired"
+    },
+    {
+      "name": "过去分词",
+      "value": "acquired"
+    }
+  ],
+  "examples": [
+    {
+      "en": "People must acquire this skill somewhere.",
+      "zh": "人们必须从某个地方获得这种技能。"
+    },
+    {
+      "en": "They acquire knowledge not found in books.",
+      "zh": "他们获得书本以外的知识。"
+    },
+    {
+      "en": "Pury also believes that people can acquire courage.",
+      "zh": "普里还认为，人可以获得勇气。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "获得；取得；学到；捕获",
+      "words": [
+        "earn",
+        "buy",
+        "score",
+        "find",
+        "make"
+      ]
+    }
+  ]
+}

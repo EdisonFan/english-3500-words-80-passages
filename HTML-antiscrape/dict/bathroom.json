@@ -1,0 +1,45 @@
+{
+  "word": "bathroom",
+  "found": true,
+  "phonetic_uk": "ˈbɑːθruːm; ˈbɑːθrʊm",
+  "phonetic_us": "ˈbæθruːm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bathroom&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bathroom&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "浴室，盥洗室；<美>卫生间，厕所；（尤指成套出售的）浴室用具"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "bathrooms"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The bathroom floor was awash.",
+      "zh": "浴室地板浸在水中。"
+    },
+    {
+      "en": "I went next door to the bathroom.",
+      "zh": "我进了隔壁的洗手间。"
+    },
+    {
+      "en": "Are you done hogging the bathroom?",
+      "zh": "你要霸占浴室到什么时候？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "浴室；厕所；盥洗室",
+      "words": [
+        "john",
+        "convenience",
+        "toilet"
+      ]
+    }
+  ]
+}

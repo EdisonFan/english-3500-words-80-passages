@@ -1,0 +1,51 @@
+{
+  "word": "cheerful",
+  "found": true,
+  "phonetic_uk": "ˈtʃɪəf(ə)l",
+  "phonetic_us": "ˈtʃɪrf(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cheerful&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cheerful&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "欢快的，高兴的；令人高兴的，令人愉快的；乐观的，开朗的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more cheerful"
+    },
+    {
+      "name": "最高级",
+      "value": "most cheerful"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Why are you so bright and cheerful today?",
+      "zh": "你今天怎么这么高兴？"
+    },
+    {
+      "en": "He was a cheerful and uncomplaining travel companion.",
+      "zh": "他是一个快乐的不抱怨的旅伴。"
+    },
+    {
+      "en": "Paddy was always cheerful and jolly.",
+      "zh": "帕迪总是很高兴，很开心。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "快乐的；愉快的；高兴的",
+      "words": [
+        "happy",
+        "pleased",
+        "glad",
+        "good",
+        "bright"
+      ]
+    }
+  ]
+}

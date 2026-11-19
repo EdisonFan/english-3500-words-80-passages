@@ -1,0 +1,46 @@
+{
+  "word": "john",
+  "found": true,
+  "phonetic_uk": "dʒɒn",
+  "phonetic_us": "dʒɑːn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=john&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=john&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "<美，非正式>厕所；<美，非正式>嫖客"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （John）约翰（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Hello, this is John Thompson.",
+      "zh": "你好，我是约翰·汤普森。"
+    },
+    {
+      "en": "They named their son John.",
+      "zh": "他们给儿子起了个名字叫约翰。"
+    },
+    {
+      "en": "Hello John, how are you?",
+      "zh": "哈罗，约翰，你好吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "厕所",
+      "words": [
+        "convenience",
+        "bathroom",
+        "toilet",
+        "lavatory",
+        "crapper"
+      ]
+    }
+  ]
+}

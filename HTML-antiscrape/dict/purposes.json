@@ -1,0 +1,52 @@
+{
+  "word": "purposes",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=purposes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=purposes&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "目的，意图；目标，计划（purpose 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "有意，打算（purpose 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The charts in this article are for illustrative purposes only.",
+      "zh": "该文中的图表只用于说明的目的。"
+    },
+    {
+      "en": "The building is used for religious purposes.",
+      "zh": "这座建筑是用于宗教活动的。"
+    },
+    {
+      "en": "These gifts count as income for tax purposes.",
+      "zh": "这些赠与应属于纳税的收入。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "目的；意志（purpose的复数形式）",
+      "words": [
+        "objectives",
+        "ends",
+        "points",
+        "intentions"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "打算（purpose的第三人称单数形式）；企图",
+      "words": [
+        "means"
+      ]
+    }
+  ]
+}

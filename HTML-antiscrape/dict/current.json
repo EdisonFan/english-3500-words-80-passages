@@ -1,0 +1,74 @@
+{
+  "word": "current",
+  "found": true,
+  "phonetic_uk": "ˈkʌrənt",
+  "phonetic_us": "ˈkɜːrənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=current&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=current&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "现行的，当前的；通用的，流行的；最近的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "水流，气流；电流；思潮，趋势"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Current）（英）柯伦特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "currents"
+    },
+    {
+      "name": "比较级",
+      "value": "more current"
+    },
+    {
+      "name": "最高级",
+      "value": "most current"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We were rowing against the current.",
+      "zh": "我们划船逆流而上。"
+    },
+    {
+      "en": "The canoe found the current and swung around.",
+      "zh": "独木舟遇上了急流，打着转。"
+    },
+    {
+      "en": "What is the current thinking on this question?",
+      "zh": "目前对这个问题的看法是什么？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "现在的；流通的，通用的；最近的；草写的",
+      "words": [
+        "recent",
+        "now",
+        "universal",
+        "late",
+        "present"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "（水，气，电）[流]流；趋势；涌流",
+      "words": [
+        "tendency",
+        "direction",
+        "tide",
+        "trend",
+        "set"
+      ]
+    }
+  ]
+}

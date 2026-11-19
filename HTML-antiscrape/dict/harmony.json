@@ -1,0 +1,48 @@
+{
+  "word": "harmony",
+  "found": true,
+  "phonetic_uk": "ˈhɑːməni",
+  "phonetic_us": "ˈhɑːrməni",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=harmony&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=harmony&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "和声，和弦；融洽，和睦；和谐，协调；（内心的）平静；四福音书的对照统一文本，（内容相似文本的）统一对照本"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】  （Harmony）（英）哈莫尼（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "harmonies"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The book contrasts modern civilization with the ideal of the noble savage who lived in harmony with nature.",
+      "zh": "这本书将现代文明同与自然界和谐相处的高尚野蛮人的理想进行了对比。"
+    },
+    {
+      "en": "Was it on the train \"Harmony\" that John met with his girlfriend?",
+      "zh": "约翰是在“和谐号”列车上遇到他的女朋友的吗？"
+    },
+    {
+      "en": "The only way for us to survive is to live in harmony with nature.",
+      "zh": "我们生存的唯一途径就是与自然和谐相处。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "协调；和睦；融洽；调和",
+      "words": [
+        "peace",
+        "keeping"
+      ]
+    }
+  ]
+}

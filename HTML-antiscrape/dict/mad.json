@@ -1,0 +1,75 @@
+{
+  "word": "mad",
+  "found": true,
+  "phonetic_uk": "mæd",
+  "phonetic_us": "mæd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mad&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mad&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "生气的，气愤的；极愚蠢的，很不明智的；混乱的，失控的；疯癫的，患精神病的；狂热的，着迷的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "mads"
+    },
+    {
+      "name": "现在分词",
+      "value": "madding"
+    },
+    {
+      "name": "过去式",
+      "value": "madded"
+    },
+    {
+      "name": "过去分词",
+      "value": "madded"
+    },
+    {
+      "name": "比较级",
+      "value": "madder"
+    },
+    {
+      "name": "最高级",
+      "value": "maddest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She was afraid of going mad.",
+      "zh": "她担心变疯。"
+    },
+    {
+      "en": "He's mad keen on planes.",
+      "zh": "他对飞机十分着迷。"
+    },
+    {
+      "en": "\"You're mad,\" the driver blurted out.",
+      "zh": "司机脱口说道：“你疯了。”"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "疯狂的；发疯的；愚蠢的；着迷的",
+      "words": [
+        "crazy",
+        "possessed",
+        "foolish",
+        "stupid",
+        "bugs"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "狂怒",
+      "words": [
+        "fury",
+        "agriothymia"
+      ]
+    }
+  ]
+}

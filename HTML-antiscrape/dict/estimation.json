@@ -1,0 +1,47 @@
+{
+  "word": "estimation",
+  "found": true,
+  "phonetic_uk": "ˌestɪˈmeɪʃn",
+  "phonetic_us": "ˌestɪˈmeɪʃn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=estimation&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=estimation&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "估计，估算；判断，评价；尊重，尊敬"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "estimations"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Who is the best candidate in your estimation ?",
+      "zh": "你认为谁是最合适的人选？"
+    },
+    {
+      "en": "He has gone down considerably in my estimation.",
+      "zh": "我对他的评价已经大大降低了。"
+    },
+    {
+      "en": "Lyell's strategy for estimation of geologic dates was not very accurate.",
+      "zh": "莱尔估算地质年代的方法不是很准确。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[数]估计；尊重",
+      "words": [
+        "computation",
+        "calculation",
+        "appraisal",
+        "respect",
+        "regard"
+      ]
+    }
+  ]
+}

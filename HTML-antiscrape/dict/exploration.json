@@ -1,0 +1,40 @@
+{
+  "word": "exploration",
+  "found": true,
+  "phonetic_uk": "ˌekspləˈreɪʃ(ə)n",
+  "phonetic_us": "ˌekspləˈreɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=exploration&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=exploration&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "勘探，勘察；研究，探究"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The moon landing inaugurated a new era in space exploration.",
+      "zh": "登陆月球开创了太空探索的新纪元。"
+    },
+    {
+      "en": "China has earmarked more than $20 billion for oil exploration.",
+      "zh": "中国已留出二百多亿美元用于石油勘探。"
+    },
+    {
+      "en": "His exploration of the myth brings insight into the American psyche.",
+      "zh": "他对那个神话的探索揭示了美国人的心理。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "探测；探究；踏勘",
+      "words": [
+        "inquiry",
+        "detection",
+        "search"
+      ]
+    }
+  ]
+}

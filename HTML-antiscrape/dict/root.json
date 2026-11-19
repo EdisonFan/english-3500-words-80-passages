@@ -1,0 +1,89 @@
+{
+  "word": "root",
+  "found": true,
+  "phonetic_uk": "ruːt",
+  "phonetic_us": "ruːt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=root&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=root&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "根，根茎；（牙齿、头发等的）根部；底部，基部；根源，起因；起源，背景；根脉，祖籍（roots）；与……的特殊关联（roots in）；词根；（数学）方根；（圣经）根苗，苗裔；翻找，搜寻；（神经的）根；（乐）根音（=root note）；<澳新，俚>性交；根用作物；根音乐"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）生根；扎根于，在……中根深蒂固；根源在于，由……产生（be rooted in）；翻寻；使（某人）无法移动；（与某人）性交；使精疲力竭，挫败"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "（蔬菜、作物等）块根的，根茎可食用的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Root）（英）鲁特，（德、瑞典）罗特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "roots"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "roots"
+    },
+    {
+      "name": "现在分词",
+      "value": "rooting"
+    },
+    {
+      "name": "过去式",
+      "value": "rooted"
+    },
+    {
+      "name": "过去分词",
+      "value": "rooted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We got to the root of the problem.",
+      "zh": "我们触及了这个问题的根源。"
+    },
+    {
+      "en": "Most plants will root in about six to eight weeks.",
+      "zh": "大多数植物会在六到八周内生根。"
+    },
+    {
+      "en": "There would be a major drive to root out corruption.",
+      "zh": "将会有一场根除腐败的大规模的运动。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[数][植]根；根源；词根；祖先",
+      "words": [
+        "parent",
+        "principle",
+        "father",
+        "radix"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "生根；根除",
+      "words": [
+        "radicate"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "生根，固定；根源在于",
+      "words": [
+        "fix on",
+        "hold in place"
+      ]
+    }
+  ]
+}

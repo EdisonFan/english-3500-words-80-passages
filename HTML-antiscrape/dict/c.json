@@ -1,0 +1,38 @@
+{
+  "word": "c",
+  "found": true,
+  "phonetic_uk": "siː",
+  "phonetic_us": "siː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=c&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=c&type=2",
+  "defs": [
+    {
+      "pos": "",
+      "meaning": "symb. 碳 (carbon)"
+    },
+    {
+      "pos": "n.",
+      "meaning": "字母C"
+    },
+    {
+      "pos": "abbr.",
+      "meaning": "可数名词 (countable noun)"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Oranges are rich in vitamin C.",
+      "zh": "橘子含有丰富的维生素C。"
+    },
+    {
+      "en": "Vitamin C is water soluble.",
+      "zh": "维生素C可溶于水。"
+    },
+    {
+      "en": "Heat gradually destroys vitamin C.",
+      "zh": "加热会逐渐破坏维生素C。"
+    }
+  ],
+  "synonyms": []
+}

@@ -1,0 +1,56 @@
+{
+  "word": "organize",
+  "found": true,
+  "phonetic_uk": "ˈɔːɡənaɪz",
+  "phonetic_us": "ˈɔːrɡənaɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=organize&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=organize&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "组织，筹备；设法提供；（按某一体系）整理，安排；规划，照料；聚集，召集；（为特定人群）建立组织；<古>形成有机体"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "organizes"
+    },
+    {
+      "name": "现在分词",
+      "value": "organizing"
+    },
+    {
+      "name": "过去式",
+      "value": "organized"
+    },
+    {
+      "name": "过去分词",
+      "value": "organized"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They organize parties for singles.",
+      "zh": "他们为单身者组织聚会。"
+    },
+    {
+      "en": "He began to organize his materials.",
+      "zh": "他开始整理他的材料。"
+    },
+    {
+      "en": "Jill volunteered to organize a petition.",
+      "zh": "吉尔自告奋勇组织请愿。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "组织；使有系统化；给予生机；组织成立工会等",
+      "words": [
+        "structure",
+        "form"
+      ]
+    }
+  ]
+}

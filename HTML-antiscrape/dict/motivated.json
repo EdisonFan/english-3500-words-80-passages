@@ -1,0 +1,34 @@
+{
+  "word": "motivated",
+  "found": true,
+  "phonetic_uk": "ˈməʊtɪveɪtɪd",
+  "phonetic_us": "ˈmoʊtɪveɪtɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=motivated&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=motivated&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "积极的，主动的；有……动机的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "成为……的动机；激励；<正式>（就所说的话）给出理由（motivate 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They are motivated by a need to achieve.",
+      "zh": "他们被成功的需要激励着。"
+    },
+    {
+      "en": "The coach tried to get his charges motivated.",
+      "zh": "该教练设法激励他的队员们。"
+    },
+    {
+      "en": "His actions were motivated by greed.",
+      "zh": "他的作为是贪婪之心所驱使的。"
+    }
+  ],
+  "synonyms": []
+}

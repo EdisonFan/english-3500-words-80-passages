@@ -1,0 +1,42 @@
+{
+  "word": "fingers",
+  "found": true,
+  "phonetic_uk": "ˈfɪŋɡəz",
+  "phonetic_us": "ˈfɪŋɡərz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fingers&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fingers&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "手指头，指头（finger 复数）；梳状剔除器"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用指弹奏（finger 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Gold rings adorned his fingers.",
+      "zh": "他的手指上戴着几枚金戒指。"
+    },
+    {
+      "en": "She beat time with her fingers.",
+      "zh": "她用手指打拍子。"
+    },
+    {
+      "en": "His fingers were numb with cold.",
+      "zh": "他的手指冻麻了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[解剖]手指头，指头（finger复数）；梳状剔除器",
+      "words": [
+        "dito"
+      ]
+    }
+  ]
+}

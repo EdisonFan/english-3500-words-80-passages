@@ -1,0 +1,87 @@
+{
+  "word": "perfect",
+  "found": true,
+  "phonetic_uk": "ˈpɜːfɪkt",
+  "phonetic_us": "ˈpɜːrfɪkt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=perfect&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=perfect&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "无瑕的，完好的；完全正确的，极其准确的；完美的，理想的；最佳的，绝配的；十足的，完全的；通常的，大体的；（语法）完成时的，完成式的；（数字）完全的；（花）有雌雄蕊的；（昆虫）性成熟的；（真菌）有性孢子形成阶段的，有性的；完成时的，完成式的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "完善，使完美；双面印完（一页纸）；<法律>使（礼物、头衔等）合法转移"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（语法）完成时，完成体"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Perfect）（美、爱、英）珀费克特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "perfects"
+    },
+    {
+      "name": "现在分词",
+      "value": "perfecting"
+    },
+    {
+      "name": "过去式",
+      "value": "perfected"
+    },
+    {
+      "name": "过去分词",
+      "value": "perfected"
+    },
+    {
+      "name": "比较级",
+      "value": "more perfect"
+    },
+    {
+      "name": "最高级",
+      "value": "most perfect"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He always plays in perfect time.",
+      "zh": "他演奏的节奏总是准确无误。"
+    },
+    {
+      "en": "She speaks perfect English.",
+      "zh": "她讲一口地道的英语。"
+    },
+    {
+      "en": "He spoke perfect English.",
+      "zh": "他讲一口纯正的英语。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "完美的；最好的；精通的",
+      "words": [
+        "greatest",
+        "ideal",
+        "prime",
+        "best",
+        "full"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使完美；使熟练",
+      "words": [
+        "round off",
+        "polish up"
+      ]
+    }
+  ]
+}

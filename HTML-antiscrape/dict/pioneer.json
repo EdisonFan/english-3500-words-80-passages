@@ -1,0 +1,76 @@
+{
+  "word": "pioneer",
+  "found": true,
+  "phonetic_uk": "ˌpaɪəˈnɪə(r)",
+  "phonetic_us": "ˌpaɪəˈnɪr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pioneer&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pioneer&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "拓荒者；先锋；（前苏联等共产党国家的）少年先锋队队员；（先头部队的）工兵；<爱尔兰>（天主教禁欲团体）完全禁欲先锋联盟的成员；先锋号（Pioneer）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "先驱的；拓荒的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "做先锋，倡导；开辟（道路）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "pioneers"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "pioneers"
+    },
+    {
+      "name": "现在分词",
+      "value": "pioneering"
+    },
+    {
+      "name": "过去式",
+      "value": "pioneered"
+    },
+    {
+      "name": "过去分词",
+      "value": "pioneered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "What if I am a pioneer or even a genius?",
+      "zh": "要是我是个开拓者，甚至是个天才怎么办？"
+    },
+    {
+      "en": "Li Dong, 46, is a pioneer in this field.",
+      "zh": "46岁的李东是这一领域的先驱。"
+    },
+    {
+      "en": "In the US, California has been a pioneer.",
+      "zh": "在美国，加利福尼亚州是一个开拓者。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "先锋；拓荒者",
+      "words": [
+        "vanguard",
+        "avant-courier"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "开辟；倡导；提倡",
+      "words": [
+        "advocate",
+        "inaugurate"
+      ]
+    }
+  ]
+}

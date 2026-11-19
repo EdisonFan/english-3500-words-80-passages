@@ -1,0 +1,63 @@
+{
+  "word": "favorite",
+  "found": true,
+  "phonetic_uk": "ˈfeɪvərɪt",
+  "phonetic_us": "ˈfeɪvərɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=favorite&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=favorite&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "（同类中）最受喜爱的（等于favourite）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "受喜爱的人（或事物）；（比赛或竞赛中）最有希望的获胜者；收藏夹（等于favourite）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "把……添加到收藏夹（等于favourite）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Favorite）（美）费沃里特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "favorites"
+    }
+  ],
+  "examples": [
+    {
+      "en": "That's my favorite.",
+      "zh": "那是我的最爱。"
+    },
+    {
+      "en": "What's your favorite and less favorite Chinese food?",
+      "zh": "你最喜欢和不太喜欢的中国菜是什么？"
+    },
+    {
+      "en": "What's your favorite food? My favorite food is salad.",
+      "zh": "你最喜欢什么食物？我最喜欢的食物是沙拉。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "幸运儿；喜欢的事物；特别喜欢的人",
+      "words": [
+        "lucky dog"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "最喜爱的；中意的；宠爱的",
+      "words": [
+        "pet",
+        "fond"
+      ]
+    }
+  ]
+}

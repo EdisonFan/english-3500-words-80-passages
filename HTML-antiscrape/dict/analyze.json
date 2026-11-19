@@ -1,0 +1,55 @@
+{
+  "word": "analyze",
+  "found": true,
+  "phonetic_uk": "ˈænəlaɪz",
+  "phonetic_us": "ˈænəlaɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=analyze&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=analyze&type=2",
+  "defs": [
+    {
+      "pos": "vt.",
+      "meaning": "对……进行分析，分解（等于 analyse）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "analyzes"
+    },
+    {
+      "name": "现在分词",
+      "value": "analyzing"
+    },
+    {
+      "name": "过去式",
+      "value": "analyzed"
+    },
+    {
+      "name": "过去分词",
+      "value": "analyzed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "My main role was to analyze human excrement.",
+      "zh": "我的主要任务是分析人体排泄物。"
+    },
+    {
+      "en": "They took her a full year to track and analyze.",
+      "zh": "她花了整整一年的时间来追踪和分析他们。"
+    },
+    {
+      "en": "They analyze the echoes, how the waves bounce back.",
+      "zh": "他们分析回声，以及波是如何反弹回来的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "对…进行分析，分解（等于analyse）",
+      "words": [
+        "break down"
+      ]
+    }
+  ]
+}

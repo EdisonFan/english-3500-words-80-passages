@@ -1,0 +1,43 @@
+{
+  "word": "begun",
+  "found": true,
+  "phonetic_uk": "bɪˈɡʌn",
+  "phonetic_us": "bɪˈɡʌn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=begun&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=begun&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "开始（begin 的过去分词）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Begun）人名；（俄）别贡；（英）贝根"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Spots of rain had begun to fall.",
+      "zh": "雨点已经开始落下来了。"
+    },
+    {
+      "en": "The window frames had begun to warp.",
+      "zh": "窗框已经开始变形。"
+    },
+    {
+      "en": "The gold colouring had begun to rub off.",
+      "zh": "金黄色已经开始剥落了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "开始（begin的过去分词）",
+      "words": [
+        "commenced",
+        "inaugurated"
+      ]
+    }
+  ]
+}

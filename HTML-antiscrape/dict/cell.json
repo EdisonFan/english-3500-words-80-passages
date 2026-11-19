@@ -1,0 +1,48 @@
+{
+  "word": "cell",
+  "found": true,
+  "phonetic_uk": "sel",
+  "phonetic_us": "sel",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cell&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cell&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "细胞；小牢房；电解槽，电池；电芯；（政治组织的）小组，基层组织；（修道院中的）单人小室；（巢穴中单个的）巢室；（计算机屏幕上的）单元格"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Cell）（英）塞尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "cells"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Each cell of our bodies contains 46 chromosomes.",
+      "zh": "我们体内的每个细胞都有46条染色体。"
+    },
+    {
+      "en": "Stem cell research is supported by many doctors.",
+      "zh": "干细胞研究得到很多医生的支持。"
+    },
+    {
+      "en": "Sickle-cell anaemia is passed on through a recessive gene.",
+      "zh": "镰状细胞贫血通过隐性基因遗传给后代。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[细胞]细胞；[电]电池；蜂房的巢室；单人小室",
+      "words": [
+        "electric battery",
+        "electric element"
+      ]
+    }
+  ]
+}

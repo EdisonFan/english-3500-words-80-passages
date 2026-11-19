@@ -1,0 +1,48 @@
+{
+  "word": "fluent",
+  "found": true,
+  "phonetic_uk": "ˈfluːənt",
+  "phonetic_us": "ˈfluːənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fluent&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fluent&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "（说话）流利的；（表达思想）熟练的，流畅的；（做事）娴熟的；畅流的，能流动的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more fluent"
+    },
+    {
+      "name": "最高级",
+      "value": "most fluent"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She speaks fluent and idiomatic English.",
+      "zh": "她讲一口流利地道的英语。"
+    },
+    {
+      "en": "She's fluent in French and German. She also speaks a little Italian.",
+      "zh": "她的法语和德语讲得流利，也会说一点意大利语。"
+    },
+    {
+      "en": "Unusually, for a Japanese politician, he's a fluent English speaker.",
+      "zh": "不同寻常的是，作为一位日本政府官员，他能讲流利的英语。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "流畅的，流利的；液态的；畅流的",
+      "words": [
+        "fluid",
+        "mellifluous"
+      ]
+    }
+  ]
+}

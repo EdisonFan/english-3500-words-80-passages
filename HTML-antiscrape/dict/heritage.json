@@ -1,0 +1,50 @@
+{
+  "word": "heritage",
+  "found": true,
+  "phonetic_uk": "ˈherɪtɪdʒ",
+  "phonetic_us": "ˈherɪtɪdʒ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=heritage&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=heritage&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "遗产，传统，世袭财产；<美>（植物种类）纯种的，老品种的；<古>特殊（或个人）的所有物，（该有的）一份；<古>上帝选择的人（以色列人或基督教教会）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Heritage）（英）赫里蒂奇（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "heritages"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They take great pride in their heritage.",
+      "zh": "他们为自己的传统感到十分自豪。"
+    },
+    {
+      "en": "The building is part of our national heritage.",
+      "zh": "这个建筑是我们民族遗产的一部分。"
+    },
+    {
+      "en": "These buildings are part of our national heritage.",
+      "zh": "这些建筑是我们民族遗产的一部分。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "遗产；传统；继承物；继承权",
+      "words": [
+        "tradition",
+        "succession",
+        "inheritance",
+        "legacy"
+      ]
+    }
+  ]
+}

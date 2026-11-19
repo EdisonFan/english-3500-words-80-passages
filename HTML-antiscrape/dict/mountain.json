@@ -1,0 +1,43 @@
+{
+  "word": "mountain",
+  "found": true,
+  "phonetic_uk": "ˈmaʊntən",
+  "phonetic_us": "ˈmaʊnt(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mountain&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mountain&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "山，高山；许多，大量（a mountain/mountains of）；（食物的）过剩，积压"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Mountain）（英）芒廷（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He mimed climbing a mountain.",
+      "zh": "他用哑剧形式表示爬山。"
+    },
+    {
+      "en": "We rode the mountain trails.",
+      "zh": "我们骑着马走在山里的小路上。"
+    },
+    {
+      "en": "We're going down a mountain.",
+      "zh": "我们向山下走去。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[地理]山；山脉",
+      "words": [
+        "range",
+        "cordillera"
+      ]
+    }
+  ]
+}

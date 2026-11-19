@@ -1,0 +1,51 @@
+{
+  "word": "removing",
+  "found": true,
+  "phonetic_uk": "rɪˈmu:vɪŋ",
+  "phonetic_us": "rɪˈmuːvɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=removing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=removing&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "消除；拆迁"
+    },
+    {
+      "pos": "v.",
+      "meaning": "去除，移动（remove 的分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "It takes 15 minutes to convert the plane into a car by removing the wings and the tail.",
+      "zh": "拆除机翼和机尾，把那架飞机改成汽车需要15分钟的时间。"
+    },
+    {
+      "en": "We can help mend brains and minds by removing or reducing stress.",
+      "zh": "我们可以通过消除或减少压力，来帮助修复大脑和心灵。"
+    },
+    {
+      "en": "The new focus may be on removing existing dams and restoring natural habitats.",
+      "zh": "新的关注点可能是拆除现有的水坝，并恢复自然栖息地。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "消除；拆迁",
+      "words": [
+        "elimination",
+        "erasure"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "去除，移动（remove的分词形式）",
+      "words": [
+        "to shift",
+        "to move"
+      ]
+    }
+  ]
+}

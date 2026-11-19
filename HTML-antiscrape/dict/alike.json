@@ -1,0 +1,66 @@
+{
+  "word": "alike",
+  "found": true,
+  "phonetic_uk": "əˈlaɪk",
+  "phonetic_us": "əˈlaɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=alike&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=alike&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "相似的，相像的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "相似地，相同地；两者都，同样地"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Alike）（美、印）艾立凯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more alike"
+    },
+    {
+      "name": "最高级",
+      "value": "most alike"
+    }
+  ],
+  "examples": [
+    {
+      "en": "My sister and I do not look alike.",
+      "zh": "我和我妹妹外貌不相像。"
+    },
+    {
+      "en": "They even dressed alike.",
+      "zh": "他们甚至连穿着都相像。"
+    },
+    {
+      "en": "They tried to treat all their children alike.",
+      "zh": "他们尽量对自己的孩子一视同仁。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "相似的；相同的",
+      "words": [
+        "similar",
+        "same",
+        "uniform",
+        "like",
+        "parallel"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "以同样的方式；类似于",
+      "words": [
+        "similarly"
+      ]
+    }
+  ]
+}

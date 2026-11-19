@@ -1,0 +1,65 @@
+{
+  "word": "earth",
+  "found": true,
+  "phonetic_uk": "ɜːθ",
+  "phonetic_us": "ɜːrθ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=earth&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=earth&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "地球，世界；陆地，地面；泥土，土壤；地线，电线；<英，非正式>一大笔钱；尘世；兽穴"
+    },
+    {
+      "pos": "v.",
+      "meaning": "把（电线）接地；用土掩盖；追赶入洞穴"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "earths"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "earths"
+    },
+    {
+      "name": "现在分词",
+      "value": "earthing"
+    },
+    {
+      "name": "过去式",
+      "value": "earthed"
+    },
+    {
+      "name": "过去分词",
+      "value": "earthed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The earth revolves on its axis.",
+      "zh": "地球环绕自身的轴心转动。"
+    },
+    {
+      "en": "The Earth orbits in an ellipse.",
+      "zh": "地球沿椭圆形轨道运动。"
+    },
+    {
+      "en": "The earth moves round the sun.",
+      "zh": "地球围绕太阳旋转。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[天]地球；陆地；泥土；尘世；[电]地线",
+      "words": [
+        "land",
+        "clay",
+        "dirt"
+      ]
+    }
+  ]
+}

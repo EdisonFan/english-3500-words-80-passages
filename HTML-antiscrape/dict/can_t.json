@@ -1,0 +1,30 @@
+{
+  "word": "can't",
+  "found": true,
+  "phonetic_uk": "kɑːnt",
+  "phonetic_us": "kænt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=can't&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=can't&type=2",
+  "defs": [
+    {
+      "pos": "",
+      "meaning": "contr. 不能（can not）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Pete can't go and I can't either.",
+      "zh": "皮特不能去，我也不能。"
+    },
+    {
+      "en": "Can't you sit still ?",
+      "zh": "你就不能老老实实坐一会儿吗？"
+    },
+    {
+      "en": "Can't you just stop?",
+      "zh": "你就不能停一停吗？"
+    }
+  ],
+  "synonyms": []
+}

@@ -1,0 +1,39 @@
+{
+  "word": "bacteria",
+  "found": true,
+  "phonetic_uk": "bækˈtɪəriə",
+  "phonetic_us": "bækˈtɪriə",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bacteria&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bacteria&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "细菌（bacterium的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Chlorine is added to kill bacteria.",
+      "zh": "加入氯以杀菌。"
+    },
+    {
+      "en": "The bacteria are harmless to humans.",
+      "zh": "这些细菌对人无害。"
+    },
+    {
+      "en": "Warm milk is the ideal breeding ground for bacteria.",
+      "zh": "温牛奶是细菌理想的繁殖地。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "细菌",
+      "words": [
+        "microbe",
+        "bacilus"
+      ]
+    }
+  ]
+}

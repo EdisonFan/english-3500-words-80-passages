@@ -1,0 +1,79 @@
+{
+  "word": "horse",
+  "found": true,
+  "phonetic_uk": "hɔːs",
+  "phonetic_us": "hɔːrs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=horse&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=horse&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "马；<非正式>赛马；跳马，鞍马；锯木架；<非正式>马力；<美，非正式>主力队员；<非正式>海洛因；夹块，夹石；骑兵"
+    },
+    {
+      "pos": "v.",
+      "meaning": "给（人或车辆）提供马；使骑马"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "horses或horse"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "horses"
+    },
+    {
+      "name": "现在分词",
+      "value": "horsing"
+    },
+    {
+      "name": "过去式",
+      "value": "horsed"
+    },
+    {
+      "name": "过去分词",
+      "value": "horsed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This horse needs firm handling.",
+      "zh": "这匹马需要严加训练。"
+    },
+    {
+      "en": "The horse plunged and reared.",
+      "zh": "马猛然跃起，用后腿直立。"
+    },
+    {
+      "en": "Madigan's horse pawed the ground.",
+      "zh": "马迪根的马刨了地。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[畜牧]马；骑兵；脚架；海洛因",
+      "words": [
+        "prad",
+        "yarraman"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使骑马；系马于；捉弄",
+      "words": [
+        "play tricks on",
+        "play tricks with"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "骑马；作弄人",
+      "words": [
+        "ride"
+      ]
+    }
+  ]
+}

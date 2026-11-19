@@ -1,0 +1,38 @@
+{
+  "word": "vocals",
+  "found": true,
+  "phonetic_uk": "ˈvəʊkəlz",
+  "phonetic_us": "ˈvoʊklz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=vocals&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=vocals&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "元音；声乐作品；声乐节目（vocal 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Johnson now sings backing vocals for Mica Paris.",
+      "zh": "约翰逊现在为迈卡·帕里斯伴唱。"
+    },
+    {
+      "en": "In this recording Armstrong himself is on vocals.",
+      "zh": "在这个录音中阿姆斯特朗亲自唱。"
+    },
+    {
+      "en": "By the end of his life, Presley's vocals often descended close to self-parody.",
+      "zh": "在人生的最后阶段，猫王普雷斯利的歌曲大不如前，通常几近于自我嘲弄。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "元音；声乐作品；声乐节目（vocal的复数）",
+      "words": [
+        "vowels"
+      ]
+    }
+  ]
+}

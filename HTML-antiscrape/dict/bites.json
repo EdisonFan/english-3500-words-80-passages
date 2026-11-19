@@ -1,0 +1,46 @@
+{
+  "word": "bites",
+  "found": true,
+  "phonetic_uk": "baɪts",
+  "phonetic_us": "baɪts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bites&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bites&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "咬；咬伤；（酸）腐蚀；（人）上当；（工具）咬住（bite的第三人称单数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "咬；（咬下的）一口；咬伤；咬饵；（上下牙齿的）咬合（bite的复数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Bites）（美）比泰什（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Dog bites can get infected.",
+      "zh": "狗咬的伤口会感染。"
+    },
+    {
+      "en": "She took a couple of bites of the sandwich.",
+      "zh": "她咬了两口三明治。"
+    },
+    {
+      "en": "She scratched at the insect bites on her arm.",
+      "zh": "她挠了挠胳膊上虫咬的包。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "咬（bite的三单形式）",
+      "words": [
+        "chews"
+      ]
+    }
+  ]
+}

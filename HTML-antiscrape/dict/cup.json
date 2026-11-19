@@ -1,0 +1,64 @@
+{
+  "word": "cup",
+  "found": true,
+  "phonetic_uk": "kʌp",
+  "phonetic_us": "kʌp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cup&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cup&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "杯子；一杯（的量）；杯（烹饪的计量单位），量杯（金属或塑料量器）；优胜杯，奖杯；杯状物；（胸罩的）罩杯；（含酒精的）混合饮料；<美>（高尔夫球的）球洞；<美>（男子运动时穿的）护裆"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（用手）做成杯状；窝起手掌托住；<旧>为……拔火罐（或做吸杯治疗）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "cups"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "cups"
+    },
+    {
+      "name": "现在分词",
+      "value": "cupping"
+    },
+    {
+      "name": "过去式",
+      "value": "cupped"
+    },
+    {
+      "name": "过去分词",
+      "value": "cupped"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She pushed the cup towards me.",
+      "zh": "她把杯子推向我这边。"
+    },
+    {
+      "en": "She crumpled up her coffee cup.",
+      "zh": "她挤瘪了咖啡杯。"
+    },
+    {
+      "en": "Mind that cup, you clumsy oaf!",
+      "zh": "当心那个杯子，你这笨手笨脚的家伙！"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "杯子；奖杯；酒杯",
+      "words": [
+        "aleyard",
+        "tumblerful"
+      ]
+    }
+  ]
+}

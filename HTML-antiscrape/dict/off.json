@@ -1,0 +1,56 @@
+{
+  "word": "off",
+  "found": true,
+  "phonetic_uk": "ɒf",
+  "phonetic_us": "ɔːf",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=off&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=off&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "离开（某处），（在时间或空间上）距，离；从……移开，从……脱离；不再会发生，被取消；关掉，切断；没有，不再供应；不上课，不工作，休息；削价，减价；入睡；做完，光；获得，拥有；<英>（接在数词后）一次的产量；在剧院舞台的后面（或旁边）"
+    },
+    {
+      "pos": "prep.",
+      "meaning": "从……离开，向下；靠近，离……不远；从……去掉，从……移开；低于……水平；远离；不上课，不工作，休息；依靠……（过活）；（表示来源或原因）来自，由于"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "（食物）不新鲜的；<非正式>令人不快的，不公平的；<英，非正式>不友好的，敌对的；状态不如平常好的；<美>不正确的，不对的；微小的；不连接的，不盖在上面的；萧条的，淡季的；离开家的，不工作的；不运转的，不运作的；<英>（一对之中）右边的，右侧的；（某些体育比赛）越位的；在车辆离人行道边缘最远的一侧的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "起跑，开始，出发（the off）；（板球）击球手对面的半场"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<美>杀死（某人）；<非正式>离开"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The wedding is off.",
+      "zh": "婚礼被取消了。"
+    },
+    {
+      "en": "I'm off duty.",
+      "zh": "我下班了。"
+    },
+    {
+      "en": "The milk smells off.",
+      "zh": "这奶的味道不对劲。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "远离的；空闲的",
+      "words": [
+        "removed",
+        "available",
+        "leisure"
+      ]
+    }
+  ]
+}

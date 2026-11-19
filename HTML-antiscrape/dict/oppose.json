@@ -1,0 +1,64 @@
+{
+  "word": "oppose",
+  "found": true,
+  "phonetic_uk": "əˈpəʊz",
+  "phonetic_us": "əˈpoʊz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=oppose&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=oppose&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "反抗，阻碍；与……竞争，与……角逐"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "opposes"
+    },
+    {
+      "name": "现在分词",
+      "value": "opposing"
+    },
+    {
+      "name": "过去式",
+      "value": "opposed"
+    },
+    {
+      "name": "过去分词",
+      "value": "opposed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I would oppose changing the law.",
+      "zh": "我将反对改变这个法规。"
+    },
+    {
+      "en": "More people favour a single European currency than oppose it.",
+      "zh": "支持欧洲单一货币的人比反对的多。"
+    },
+    {
+      "en": "This party would bitterly oppose the re-introduction of the death penalty.",
+      "zh": "本党会强烈反对恢复死刑。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "反对；对抗，抗争",
+      "words": [
+        "combat",
+        "sit down on"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "反对",
+      "words": [
+        "object",
+        "sit down on"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "word": "leave",
+  "found": true,
+  "phonetic_uk": "liːv",
+  "phonetic_us": "liːv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=leave&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=leave&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "离开（某人或某处）；离开居住地点（或群体、工作单位等）；与……脱离关系， 离开（某人）；不立刻做，不马上处理；使保留，让……处于（某种状态、某地等）；给……留下（不愉快的东西）；留下（信息或答复）；遗留，遗忘；剩下（食物或饮料）；遗下（家人）；（去世时）遗赠，遗留；把……留交，交托；递送，递交；留（空隙或空白）；留给（指有限的机会）；不再谈论；（数学）剩余，余下"
+    },
+    {
+      "pos": "n.",
+      "meaning": "假期，休假；准许，许可；（斯努克、槌球等）收盘球势，（球被击后）停留的位置"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "leaves"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "leaves"
+    },
+    {
+      "name": "现在分词",
+      "value": "leaving"
+    },
+    {
+      "name": "过去式",
+      "value": "left"
+    },
+    {
+      "name": "过去分词",
+      "value": "left"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We didn't leave early enough.",
+      "zh": "我们离开得不够早。"
+    },
+    {
+      "en": "Williams ordered him to leave.",
+      "zh": "威廉斯命令他离开。"
+    },
+    {
+      "en": "I was preparing to leave.",
+      "zh": "我正准备离开。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "离开；留下；遗忘；委托",
+      "words": [
+        "split",
+        "quit",
+        "refer",
+        "get out"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "离开，出发；留下",
+      "words": [
+        "remain",
+        "split",
+        "quit",
+        "get out"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "许可，同意；休假",
+      "words": [
+        "agreement",
+        "permission",
+        "yes",
+        "liberty",
+        "Ok"
+      ]
+    }
+  ]
+}

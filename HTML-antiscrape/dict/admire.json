@@ -1,0 +1,65 @@
+{
+  "word": "admire",
+  "found": true,
+  "phonetic_uk": "ədˈmaɪə(r)",
+  "phonetic_us": "ədˈmaɪər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=admire&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=admire&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "钦佩，仰慕；欣赏，观赏"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "admires"
+    },
+    {
+      "name": "现在分词",
+      "value": "admiring"
+    },
+    {
+      "name": "过去式",
+      "value": "admired"
+    },
+    {
+      "name": "过去分词",
+      "value": "admired"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I really admire your enthusiasm.",
+      "zh": "我确实钦佩你的热情。"
+    },
+    {
+      "en": "We stopped to admire the scenery.",
+      "zh": "我们中途停下来欣赏一下风景。"
+    },
+    {
+      "en": "I admire his thoroughness.",
+      "zh": "我钦佩他办事认真仔细。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "钦佩；赞美",
+      "words": [
+        "praise",
+        "celebrate",
+        "bless"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "钦佩；称赞",
+      "words": [
+        "speak well of",
+        "think the world of"
+      ]
+    }
+  ]
+}

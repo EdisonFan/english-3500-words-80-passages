@@ -1,0 +1,80 @@
+{
+  "word": "anger",
+  "found": true,
+  "phonetic_uk": "ˈæŋɡə(r)",
+  "phonetic_us": "ˈæŋɡər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=anger&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=anger&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "愤怒，怒火"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使生气，激怒"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Anger）（法）安热，（德、捷、瑞典）安格尔，（罗）安杰尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "angers"
+    },
+    {
+      "name": "现在分词",
+      "value": "angering"
+    },
+    {
+      "name": "过去式",
+      "value": "angered"
+    },
+    {
+      "name": "过去分词",
+      "value": "angered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His eyes smouldered with anger.",
+      "zh": "他眼里冒着强压的怒火。"
+    },
+    {
+      "en": "His words ignited their anger.",
+      "zh": "他的话引发了他们的怒火。"
+    },
+    {
+      "en": "Anger smouldered in his eyes.",
+      "zh": "强压的怒火在他眼里燃烧。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "怒，[心理]愤怒；忿怒",
+      "words": [
+        "wrath",
+        "bile"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使发怒，激怒；恼火",
+      "words": [
+        "provoke",
+        "enrage"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "发怒；恼火",
+      "words": [
+        "chafe at",
+        "be hot under the collar"
+      ]
+    }
+  ]
+}

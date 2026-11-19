@@ -1,0 +1,52 @@
+{
+  "word": "where",
+  "found": true,
+  "phonetic_uk": "weə(r)",
+  "phonetic_us": "wer",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=where&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=where&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "在哪里"
+    },
+    {
+      "pos": "pron.",
+      "meaning": "哪里"
+    },
+    {
+      "pos": "conj.",
+      "meaning": "在……的地方"
+    },
+    {
+      "pos": "n.",
+      "meaning": "地点"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Where were you yesterday morning?",
+      "zh": "你昨天上午在哪儿？"
+    },
+    {
+      "en": "Where were you at uni ?",
+      "zh": "你在哪儿上的大学？"
+    },
+    {
+      "en": "This is where I live.",
+      "zh": "这是我住的地方。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "地点",
+      "words": [
+        "location",
+        "site",
+        "spot"
+      ]
+    }
+  ]
+}

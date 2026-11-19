@@ -1,0 +1,71 @@
+{
+  "word": "friendly",
+  "found": true,
+  "phonetic_uk": "ˈfrendli",
+  "phonetic_us": "ˈfrendli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=friendly&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=friendly&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "亲切的，友善的；朋友（般）的，要好的；为友谊的，非对抗性的；（国家或政府）友好的，无敌意的；（部队，装备）我军的，友军的；好用的，无害的；支持的，提供帮助的；令人愉快的；（公司的兼并）自愿的"
+    },
+    {
+      "pos": "",
+      "meaning": "cn. 友谊赛"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Friendly）（英）弗兰德利（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "friendlies"
+    },
+    {
+      "name": "比较级",
+      "value": "friendlier或more friendly"
+    },
+    {
+      "name": "最高级",
+      "value": "friendliest或most friendly"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The locals are very friendly.",
+      "zh": "当地人很友好。"
+    },
+    {
+      "en": "She waved a friendly greeting.",
+      "zh": "她友好地挥手致意。"
+    },
+    {
+      "en": "She smiled in a friendly way.",
+      "zh": "她友好地笑了笑。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "友好的；亲切的；支持的；融洽的，和睦的",
+      "words": [
+        "harmonious",
+        "united",
+        "sweet",
+        "supporting",
+        "benign"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "友善地；温和地",
+      "words": [
+        "gently",
+        "soft"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "word": "cottage",
+  "found": true,
+  "phonetic_uk": "ˈkɒtɪdʒ",
+  "phonetic_us": "ˈkɑːtɪdʒ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cottage&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cottage&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "小屋，村舍，乡间别墅"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "cottages"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "cottages"
+    },
+    {
+      "name": "现在分词",
+      "value": "cottaging"
+    },
+    {
+      "name": "过去式",
+      "value": "cottaged"
+    },
+    {
+      "name": "过去分词",
+      "value": "cottaged"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The cottage was cold and damp.",
+      "zh": "这小屋又冷又湿。"
+    },
+    {
+      "en": "The cottage sounds idyllic.",
+      "zh": "小屋看来恬静宜人。"
+    },
+    {
+      "en": "The cottage had exposed oak beams.",
+      "zh": "小屋的橡木梁裸露着。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "小屋；村舍；（农舍式的）小别墅",
+      "words": [
+        "shed",
+        "cabin"
+      ]
+    }
+  ]
+}

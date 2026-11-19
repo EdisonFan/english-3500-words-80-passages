@@ -1,0 +1,58 @@
+{
+  "word": "turning",
+  "found": true,
+  "phonetic_uk": "ˈtɜːnɪŋ",
+  "phonetic_us": "ˈtɜːrnɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=turning&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=turning&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "转弯处，岔路口；转向，旋转；车削，车工工艺；车削下脚，削屑（turnings）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使旋转，使转动；转身，扭转（身体部位）；翻动，翻转（turn 的现在分词）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "turnings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He sighed, turning away and surveying the sea.",
+      "zh": "他叹了口气，转过身去，眺望着大海。"
+    },
+    {
+      "en": "He sat turning the pages idly.",
+      "zh": "他坐在那里无所事事地翻着书。"
+    },
+    {
+      "en": "Not turning up was just a cop-out.",
+      "zh": "不露面只不过是在逃避而已。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "转向；旋转；回转；转弯处",
+      "words": [
+        "revolution",
+        "rotation",
+        "rolling"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "旋转（turn的ing形式）",
+      "words": [
+        "rotating",
+        "swimming",
+        "spinning"
+      ]
+    }
+  ]
+}

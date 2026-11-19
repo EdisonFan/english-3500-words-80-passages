@@ -1,0 +1,42 @@
+{
+  "word": "baths",
+  "found": true,
+  "phonetic_uk": "bɑːθs",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=baths&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=baths&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "洗澡；浴缸（bath 的复数形式）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "给……洗澡"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Hot baths are my favourite luxury.",
+      "zh": "热水浴是我钟爱而难得的享受。"
+    },
+    {
+      "en": "Seaweed baths can help to detoxify the body.",
+      "zh": "海草浴有助于身体解毒。"
+    },
+    {
+      "en": "The oil is used to flavour and perfume soaps, foam baths, and scents.",
+      "zh": "这种油用来给肥皂、泡沫浴液和香水添加特殊气味和香味。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "洗澡；浴缸（bath的复数形式）",
+      "words": [
+        "whirlpools"
+      ]
+    }
+  ]
+}

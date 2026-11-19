@@ -1,0 +1,38 @@
+{
+  "word": "uncontrolled",
+  "found": true,
+  "phonetic_uk": "ˌʌnkənˈtrəʊld",
+  "phonetic_us": "ˌʌnkənˈtroʊld",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=uncontrolled&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=uncontrolled&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "不受控制的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The US space station Skylab came back partially uncontrolled in 1979. Parts of the station fell in western Australia, but no one was hurt.",
+      "zh": "1979年，美国空间站“天空实验室”在返回时部分失控。部分空间站坠落在澳大利亚西部，但没有人受伤。"
+    },
+    {
+      "en": "The thoughts rushed into my mind uncontrolled.",
+      "zh": "各种想法如潮水般涌上我的心头。"
+    },
+    {
+      "en": "His uncontrolled behaviour disturbed the entire class.",
+      "zh": "他不加约束的行为扰乱了全班。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[计][自]不受控制的",
+      "words": [
+        "unbounded"
+      ]
+    }
+  ]
+}

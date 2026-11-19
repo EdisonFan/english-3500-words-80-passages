@@ -1,0 +1,44 @@
+{
+  "word": "magazine",
+  "found": true,
+  "phonetic_uk": "ˌmæɡəˈziːn",
+  "phonetic_us": "ˈmæɡəziːn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=magazine&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=magazine&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "杂志，期刊；（电视、广播）专题节目；弹匣，弹仓；胶卷盒，底片盒；弹药库，军火库"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "magazines"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She used to edit a women's magazine.",
+      "zh": "她曾主编过妇女杂志。"
+    },
+    {
+      "en": "The new magazine has really taken off.",
+      "zh": "这份新杂志真是大受欢迎。"
+    },
+    {
+      "en": "The magazine is still produced in-house.",
+      "zh": "该杂志仍然在机构内部出版。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "杂志；弹药库；胶卷盒",
+      "words": [
+        "journal",
+        "mags"
+      ]
+    }
+  ]
+}

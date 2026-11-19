@@ -1,0 +1,74 @@
+{
+  "word": "digest",
+  "found": true,
+  "phonetic_uk": "daɪˈdʒest",
+  "phonetic_us": "daɪˈdʒest",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=digest&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=digest&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "理解，领悟；消化"
+    },
+    {
+      "pos": "n.",
+      "meaning": "文摘，摘要；分解物，提炼物"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "digests"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "digests"
+    },
+    {
+      "name": "现在分词",
+      "value": "digesting"
+    },
+    {
+      "name": "过去式",
+      "value": "digested"
+    },
+    {
+      "name": "过去分词",
+      "value": "digested"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She couldn't digest food properly.",
+      "zh": "她无法正常消化食物。"
+    },
+    {
+      "en": "Humans cannot digest plants such as grass.",
+      "zh": "人不能消化草类植物。"
+    },
+    {
+      "en": "You should allow a little time after a meal for the food to digest.",
+      "zh": "饭后你应该留点时间让食物消化。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "消化；吸收；融会贯通",
+      "words": [
+        "absorb",
+        "drink in"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "文摘；摘要",
+      "words": [
+        "abstract",
+        "brief",
+        "summary",
+        "resume"
+      ]
+    }
+  ]
+}

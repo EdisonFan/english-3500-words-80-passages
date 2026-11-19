@@ -1,0 +1,79 @@
+{
+  "word": "structure",
+  "found": true,
+  "phonetic_uk": "ˈstrʌktʃə(r)",
+  "phonetic_us": "ˈstrʌktʃər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=structure&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=structure&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "结构，构造；结构体，（尤指）大型建筑物；周密安排，精心组织；机构，组织，体系"
+    },
+    {
+      "pos": "v.",
+      "meaning": "计划，组织，安排"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "structures"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "structures"
+    },
+    {
+      "name": "现在分词",
+      "value": "structuring"
+    },
+    {
+      "name": "过去式",
+      "value": "structured"
+    },
+    {
+      "name": "过去分词",
+      "value": "structured"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Your essay needs (a) structure.",
+      "zh": "你这篇文章组织不好。"
+    },
+    {
+      "en": "How well does the teacher structure the lessons?",
+      "zh": "老师对课程组织安排得如何？"
+    },
+    {
+      "en": "Sections of the structure have been left unsupported.",
+      "zh": "这个结构有几部分没有支撑。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "结构；构造；[建]建筑物",
+      "words": [
+        "configuration",
+        "mechanics",
+        "formation",
+        "framework",
+        "texture",
+        "construction",
+        "fabric"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "组织；构成；建造",
+      "words": [
+        "organize",
+        "constitute",
+        "form",
+        "frame"
+      ]
+    }
+  ]
+}

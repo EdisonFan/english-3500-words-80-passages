@@ -1,0 +1,53 @@
+{
+  "word": "confirmed",
+  "found": true,
+  "phonetic_uk": "kənˈfɜːmd",
+  "phonetic_us": "kənˈfɜːrmd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=confirmed&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=confirmed&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "坚定的，根深蒂固的；已被证实的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "确定，确认；证实，证明；批准，认可（confirm 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I'm a confirmed bachelor.",
+      "zh": "我是个坚定的独身主义者。"
+    },
+    {
+      "en": "Subsequent events confirmed our doubts.",
+      "zh": "后来发生的事证实了我们的怀疑。"
+    },
+    {
+      "en": "Rumours of job losses were later confirmed.",
+      "zh": "裁员的传言后来得到了证实。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "确认的；保兑的；坚定的；惯常的",
+      "words": [
+        "committed",
+        "frequent",
+        "firm",
+        "stable",
+        "decisive"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "确证；使坚定（confirm的过去分词）；批准",
+      "words": [
+        "authorized"
+      ]
+    }
+  ]
+}

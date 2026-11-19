@@ -1,0 +1,35 @@
+{
+  "word": "supercomputer",
+  "found": true,
+  "phonetic_uk": "ˈsuːpəkəmpjuːtə(r); ˈsjuːpəkəmpjuːtə(r)",
+  "phonetic_us": "ˈsuːpərkəmpjuːtər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=supercomputer&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=supercomputer&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[计] 巨型计算机，超级计算机"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "supercomputers"
+    }
+  ],
+  "examples": [
+    {
+      "en": "In fact, the brain is much more powerful than any supercomputer!",
+      "zh": "事实上，大脑比任何超级计算机都要强大得多！"
+    },
+    {
+      "en": "The company won a grant from America's Department of Energy to run simulations on Jaguar, a Cray XT-5 supercomputer at the Oak Ridge National Laboratory.",
+      "zh": "公司得到美国能源部许可，在橡树岭国家实验室使用克雷 XT-5 超级计算机捷豹进行模拟实验。"
+    },
+    {
+      "en": "The number one supercomputer?",
+      "zh": "第一名的超级计算机是谁？"
+    }
+  ],
+  "synonyms": []
+}

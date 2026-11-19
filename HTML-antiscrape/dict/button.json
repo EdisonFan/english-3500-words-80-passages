@@ -1,0 +1,83 @@
+{
+  "word": "button",
+  "found": true,
+  "phonetic_uk": "ˈbʌt(ə)n",
+  "phonetic_us": "ˈbʌt(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=button&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=button&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "纽扣，扣子；按钮；<美>徽章"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用纽扣扣住"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Button）（英）巴顿（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "buttons"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "buttons"
+    },
+    {
+      "name": "现在分词",
+      "value": "buttoning"
+    },
+    {
+      "name": "过去式",
+      "value": "buttoned"
+    },
+    {
+      "name": "过去分词",
+      "value": "buttoned"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I pushed the button for the top floor.",
+      "zh": "我按了到顶层的按钮。"
+    },
+    {
+      "en": "This button is for adjusting the volume.",
+      "zh": "这个按钮是调节音量的。"
+    },
+    {
+      "en": "Drago pressed a button and the door closed.",
+      "zh": "德拉戈按了一个按钮，门关上了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[电]按钮；钮扣",
+      "words": [
+        "pushbutton",
+        "press-button"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "扣住；扣紧；在…上装钮扣",
+      "words": [
+        "infibulate",
+        "buckle"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "扣住；装有钮扣；扣上钮扣",
+      "words": [
+        "buckle"
+      ]
+    }
+  ]
+}

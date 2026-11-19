@@ -1,0 +1,61 @@
+{
+  "word": "country",
+  "found": true,
+  "phonetic_uk": "ˈkʌntri",
+  "phonetic_us": "ˈkʌntri",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=country&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=country&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "国，国家；全国人民，全体国民（the country）；乡下，乡村；地区，区域；乡村音乐；故乡"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "乡下的，农村的；乡村音乐的；祖国的，故乡的；粗鲁的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "countries"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He entered the country illegally.",
+      "zh": "他通过非法途径进入了这个国家。"
+    },
+    {
+      "en": "Australia's a big country.",
+      "zh": "澳大利亚是一个幅员辽阔的国家。"
+    },
+    {
+      "en": "I'm a simple country girl.",
+      "zh": "我是一个普普通通的乡村姑娘。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "国家；故乡",
+      "words": [
+        "nation",
+        "state",
+        "soil",
+        "hometown"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "乡下的；粗野的",
+      "words": [
+        "rural",
+        "robust",
+        "gross",
+        "rough",
+        "bush"
+      ]
+    }
+  ]
+}

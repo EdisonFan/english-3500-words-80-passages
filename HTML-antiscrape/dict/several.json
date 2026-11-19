@@ -1,0 +1,47 @@
+{
+  "word": "several",
+  "found": true,
+  "phonetic_uk": "ˈsevrəl",
+  "phonetic_us": "ˈsevrəl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=several&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=several&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "不同的，各自的；<法律>单独，各个"
+    },
+    {
+      "pos": "pron.",
+      "meaning": "几个，数个"
+    },
+    {
+      "pos": "det.",
+      "meaning": "几个，数个"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "There are several conjectures.",
+      "zh": "有几种推测。"
+    },
+    {
+      "en": "The police made several arrests.",
+      "zh": "警方逮捕了好几人。"
+    },
+    {
+      "en": "I copied out several poems.",
+      "zh": "我抄录了几首诗歌。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "几个的；各自的",
+      "words": [
+        "respective",
+        "each"
+      ]
+    }
+  ]
+}

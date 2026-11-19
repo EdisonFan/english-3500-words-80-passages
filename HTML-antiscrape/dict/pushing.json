@@ -1,0 +1,62 @@
+{
+  "word": "pushing",
+  "found": true,
+  "phonetic_uk": "ˈpʊʃɪŋ",
+  "phonetic_us": "ˈpʊʃɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pushing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pushing&type=2",
+  "defs": [
+    {
+      "pos": "prep.",
+      "meaning": "接近（某个年龄）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "奋斗的，富有进取心的；莽撞的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "推，推动；按下（按钮、开关等）；鼓励，逼迫（push 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The kids were pushing the roundabout at a giddy speed.",
+      "zh": "孩子们推动着旋转平台快得令人眩晕。"
+    },
+    {
+      "en": "Pushing 40, he was an aging rock star.",
+      "zh": "快40岁的他是个慢慢老去的摇滚明星。"
+    },
+    {
+      "en": "He walked slowly up the hill pushing his bike.",
+      "zh": "他推着自行车缓缓爬上山。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "奋斗的；莽撞的；有精力的；富有进取心的",
+      "words": [
+        "struggling",
+        "saucy"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "推挤；推人犯规（篮球术语）",
+      "words": [
+        "squeezing"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "推；促进；逼迫（push的ing形式）",
+      "words": [
+        "facilitating",
+        "forwarding"
+      ]
+    }
+  ]
+}

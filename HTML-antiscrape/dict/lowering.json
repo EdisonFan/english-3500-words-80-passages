@@ -1,0 +1,43 @@
+{
+  "word": "lowering",
+  "found": true,
+  "phonetic_uk": "ˈləʊərɪŋ",
+  "phonetic_us": "ˈlaʊərɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=lowering&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=lowering&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（缓慢地）放下，降下；减少，降低；降下人或物"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "乌云密布的，阴沉的；黑暗的，昏暗的；使低劣的；减少体力的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She never cheapened herself by lowering her standards.",
+      "zh": "她从不降低标准来贬低自己。"
+    },
+    {
+      "en": "The Japanese are expert at lowering manufacturing costs.",
+      "zh": "日本人在降低生产成本方面很在行。"
+    },
+    {
+      "en": "The lowering of trade barriers has led to a free-for-all among exporters.",
+      "zh": "降低贸易壁垒导致出口商各自为政。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "使低劣的；昏暗的；减少体力的",
+      "words": [
+        "dingy",
+        "caliginous"
+      ]
+    }
+  ]
+}

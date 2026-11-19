@@ -1,0 +1,42 @@
+{
+  "word": "norms",
+  "found": true,
+  "phonetic_uk": "nɔːmz",
+  "phonetic_us": "nɔːrmz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=norms&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=norms&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[标准]标准，规范；基准（norm 复数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "About 32 percent of students meet national norms in reading.",
+      "zh": "大约32%的学生达到国家阅读标准。"
+    },
+    {
+      "en": "Norms have evolved and fragmented.",
+      "zh": "（着装）规范在不断演化且零散无序。"
+    },
+    {
+      "en": "What are the norms of your environment?",
+      "zh": "你所处环境的规范是什么？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "标准，规范；基准（norm复数形式）",
+      "words": [
+        "criterion",
+        "standard",
+        "level",
+        "prototype",
+        "Canon"
+      ]
+    }
+  ]
+}

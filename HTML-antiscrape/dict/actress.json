@@ -1,0 +1,35 @@
+{
+  "word": "actress",
+  "found": true,
+  "phonetic_uk": "ˈæktrəs",
+  "phonetic_us": "ˈæktrəs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=actress&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=actress&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "女演员"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "actresses"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Her vocation is her work as an actress.",
+      "zh": "她适合的职业就是当演员。"
+    },
+    {
+      "en": "She fancies herself (as) a serious actress.",
+      "zh": "她自以为是严肃的演员。"
+    },
+    {
+      "en": "Jane is determined to stake her claim as an actress.",
+      "zh": "简决心提出她作为一名女演员的应有权利。"
+    }
+  ],
+  "synonyms": []
+}

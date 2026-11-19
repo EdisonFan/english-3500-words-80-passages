@@ -1,0 +1,46 @@
+{
+  "word": "procedure",
+  "found": true,
+  "phonetic_uk": "prəˈsiːdʒə(r)",
+  "phonetic_us": "prəˈsiːdʒər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=procedure&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=procedure&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "手续，步骤；（商业、法律或政治上的）程序；外科手术；（电脑的）应用程式"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "procedures"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The next day I repeated the procedure.",
+      "zh": "第二天我重复了这个程序。"
+    },
+    {
+      "en": "He diverged from established procedure.",
+      "zh": "他违背了既定程序。"
+    },
+    {
+      "en": "Christina dimly recalled the procedure.",
+      "zh": "克里斯蒂娜隐约地记起了那个步骤。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "程序，[管理]手续；步骤",
+      "words": [
+        "routine",
+        "program",
+        "move",
+        "step"
+      ]
+    }
+  ]
+}

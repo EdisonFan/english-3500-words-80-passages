@@ -1,0 +1,47 @@
+{
+  "word": "smith",
+  "found": true,
+  "phonetic_uk": "smɪθ",
+  "phonetic_us": "smɪθ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=smith&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=smith&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "铁匠；锻工；制作者"
+    },
+    {
+      "pos": "vt.",
+      "meaning": "锻制"
+    },
+    {
+      "pos": "vi.",
+      "meaning": "锻打金属；当锻工"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Do you mean Ann Smith or Mary Smith?",
+      "zh": "你是说安•史密斯，还是说玛丽•史密斯？"
+    },
+    {
+      "en": "Smith met Jones in last year's final.",
+      "zh": "在去年的决赛中，史密斯与琼斯交锋。"
+    },
+    {
+      "en": "His name is Tom Smith.",
+      "zh": "他的名字叫汤姆•史密斯。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "铁匠；[机]锻工；制作者",
+      "words": [
+        "blacksmith",
+        "ironsmith"
+      ]
+    }
+  ]
+}

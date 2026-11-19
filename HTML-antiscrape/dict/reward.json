@@ -1,0 +1,74 @@
+{
+  "word": "reward",
+  "found": true,
+  "phonetic_uk": "rɪˈwɔːd",
+  "phonetic_us": "rɪˈwɔːrd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=reward&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=reward&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "奖励，回报；赏格，悬赏金；报偿，报应"
+    },
+    {
+      "pos": "v.",
+      "meaning": "酬谢，奖赏；奖励（行动，品质）；（理所当然地）获得，赢得（be rewarded）；值得（付出时间或精力）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "rewards"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "rewards"
+    },
+    {
+      "name": "现在分词",
+      "value": "rewarding"
+    },
+    {
+      "name": "过去式",
+      "value": "rewarded"
+    },
+    {
+      "name": "过去分词",
+      "value": "rewarded"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You deserve a reward for being so helpful.",
+      "zh": "你帮了这么大的忙，理应受到奖��。"
+    },
+    {
+      "en": "Winning the match was just reward for the effort the team had made.",
+      "zh": "赢得比赛的胜利是全队付出努力应得的回报。"
+    },
+    {
+      "en": "There is a reward for information leading to the recovery of the missing diamonds.",
+      "zh": "凡能为找回丢失的钻石提供线索者可获奖赏。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[劳经]报酬；报答；酬谢",
+      "words": [
+        "compensation",
+        "payment",
+        "consideration",
+        "return",
+        "remuneration"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[劳经]奖励；奖赏",
+      "words": [
+        "put a premium on"
+      ]
+    }
+  ]
+}

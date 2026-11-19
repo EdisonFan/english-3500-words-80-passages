@@ -1,0 +1,80 @@
+{
+  "word": "exchange",
+  "found": true,
+  "phonetic_uk": "ɪksˈtʃeɪndʒ",
+  "phonetic_us": "ɪksˈtʃeɪndʒ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=exchange&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=exchange&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "交换，互换；短暂的交谈，争吵；交战，交火；兑换，汇兑；交流，互访；交易所；（商品的）调换；电话局，电话交换台；换子，兑子"
+    },
+    {
+      "pos": "v.",
+      "meaning": "调换，更换；交流，交谈；交换，互换；兑换，交易"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "exchanges"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "exchanges"
+    },
+    {
+      "name": "现在分词",
+      "value": "exchanging"
+    },
+    {
+      "name": "过去式",
+      "value": "exchanged"
+    },
+    {
+      "name": "过去分词",
+      "value": "exchanged"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Shares soared on the New York stock exchange.",
+      "zh": "纽约证券交易所股票暴涨。"
+    },
+    {
+      "en": "Trading on the stock exchange may be suspended.",
+      "zh": "股票交易可能被暂停。"
+    },
+    {
+      "en": "What's the rate of exchange against the dollar?",
+      "zh": "与美元的兑换率是多少？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[通信][计]交换；交流；交易所；[金融]兑换",
+      "words": [
+        "communication",
+        "conversion"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[通信][计]交换；交易；[金融]兑换",
+      "words": [
+        "turn",
+        "truck"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "[通信][计]交换；交易；[金融]兑换",
+      "words": [
+        "trade",
+        "traffic"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "word": "client",
+  "found": true,
+  "phonetic_uk": "ˈklaɪənt",
+  "phonetic_us": "ˈklaɪənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=client&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=client&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "客户，委托人；客户机，用户端；（古罗马）贵族庇护下的平民；<古>受赡养者，食客"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "clients"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Do you have a client named Peters?",
+      "zh": "你们有一位名叫彼得斯的客户吗？"
+    },
+    {
+      "en": "I have a client with me right now.",
+      "zh": "我现在有个客户。"
+    },
+    {
+      "en": "He lunched with a client at the Ritz.",
+      "zh": "他与一位客户在里茨饭店共进了午餐。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计][经]客户；顾客；[审计]委托人",
+      "words": [
+        "customer",
+        "consumer",
+        "principal",
+        "guest",
+        "correspondent"
+      ]
+    }
+  ]
+}

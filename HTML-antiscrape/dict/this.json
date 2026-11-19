@@ -1,0 +1,59 @@
+{
+  "word": "this",
+  "found": true,
+  "phonetic_uk": "ðɪs",
+  "phonetic_us": "ðɪs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=this&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=this&type=2",
+  "defs": [
+    {
+      "pos": "pron.",
+      "meaning": "这，这个；这样；今，本；……的这个；有个"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "这，这个（离说话人较近的）"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "这样地，这么"
+    },
+    {
+      "pos": "det.",
+      "meaning": "这（指前面曾提及或暗指的人或物）； 这（指当前所处的地方或时间）；这（指即将要发生某事的时间）；这个（指说话或写字时使用的媒介）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "(This) （法、美、印、巴）蒂斯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "these"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This suggestion dumbfounded Joe.",
+      "zh": "这个建议使乔伊惊呆了。"
+    },
+    {
+      "en": "This carpet stains easily.",
+      "zh": "这块地毯不耐脏。"
+    },
+    {
+      "en": "This tastes foul.",
+      "zh": "这个味道很差。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "这样地；这么",
+      "words": [
+        "so much"
+      ]
+    }
+  ]
+}

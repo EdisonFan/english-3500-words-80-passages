@@ -1,0 +1,99 @@
+{
+  "word": "calm",
+  "found": true,
+  "phonetic_uk": "kɑːm",
+  "phonetic_us": "kɑːm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=calm&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=calm&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "镇静的，沉着的；平静的，稳定的；风平浪静的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（精神或情感状态的）镇静，平和；宁静，安静"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使平静，使镇静；冷静下来，镇静下来；恢复平静，恢复正常"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Calm）（法、德）卡尔姆（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "calms"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "calms"
+    },
+    {
+      "name": "现在分词",
+      "value": "calming"
+    },
+    {
+      "name": "过去式",
+      "value": "calmed"
+    },
+    {
+      "name": "过去分词",
+      "value": "calmed"
+    },
+    {
+      "name": "比较级",
+      "value": "calmer或more calm"
+    },
+    {
+      "name": "最高级",
+      "value": "calmest或most calm"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Her voice was surprisingly calm.",
+      "zh": "她的声音出人意料地平静。"
+    },
+    {
+      "en": "Calm descended on the crowd.",
+      "zh": "人群平静下来。"
+    },
+    {
+      "en": "Laura was very calm and composed.",
+      "zh": "劳拉非常冷静而镇定。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "静的，平静的；沉着的",
+      "words": [
+        "pacific",
+        "peaceful",
+        "composed",
+        "steady",
+        "still"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使平静；使镇定",
+      "words": [
+        "compose",
+        "pacify"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "平静下来；镇定下来",
+      "words": [
+        "quiet",
+        "wind down"
+      ]
+    }
+  ]
+}

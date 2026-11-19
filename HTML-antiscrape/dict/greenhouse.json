@@ -1,0 +1,48 @@
+{
+  "word": "greenhouse",
+  "found": true,
+  "phonetic_uk": "ˈɡriːnhaʊs",
+  "phonetic_us": "ˈɡriːnhaʊs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=greenhouse&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=greenhouse&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "温室，暖房"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "温室效应的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "greenhouses"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It sets targets for reduction of greenhouse-gas emissions.",
+      "zh": "它为减少温室气体排放设立了目标。"
+    },
+    {
+      "en": "The specific impact of the greenhouse effect is unknowable.",
+      "zh": "温室效应的具体影响尚不可知。"
+    },
+    {
+      "en": "You can make your flights carbon neutral by planting trees to make up for the greenhouse gas emissions.",
+      "zh": "你可以通过种树抵消温室气体排放，这样你的飞行就可以做到碳中和。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[园艺]温室",
+      "words": [
+        "heated housing",
+        "glasshouse"
+      ]
+    }
+  ]
+}

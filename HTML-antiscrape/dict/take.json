@@ -1,0 +1,75 @@
+{
+  "word": "take",
+  "found": true,
+  "phonetic_uk": "teɪk",
+  "phonetic_us": "teɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=take&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=take&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "携带，拿走；带去，引领；使达到，提升；拿，取；移走，拿开；偷走，误拿；取材于，收集；攻占，控制；选中，买下；订阅（报纸等）；吃，服用；减去；记录，摘录；照相，摄影；量取，测定；就（座）；以…...为例；接受，收取；接纳，接待（顾客、患者等）；遭受，经受；忍受，容忍；（以某种方式）对待，处理；理解，考虑；误以为；赢得（比赛、竞赛等）；产生（感情），持有（看法）；采取（措施），采用（方法）；做，拥有；采用（形式），就任（职位）；花费，占用（时间）； 需要，要求；使用；穿（特定尺码的鞋或衣物）；容纳；授课；学习，选修（课程）；参加（考试或测验）；走（路线），乘坐（交通工具）；跨过，跳过；踢，掷；举行投票，进行民意调查；成功，奏效；（语法）需带有（某种结构）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（一次拍摄的）镜头，场景；收入量；看法，态度；（印刷）一次排版量"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "takes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "takes"
+    },
+    {
+      "name": "现在分词",
+      "value": "taking"
+    },
+    {
+      "name": "过去式",
+      "value": "took"
+    },
+    {
+      "name": "过去分词",
+      "value": "taken"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I'll take my coat upstairs. Shall I take yours, Roberta?",
+      "zh": "我将把我的外套拿到楼上去。要我把你的拿上去吗，罗伯塔？"
+    },
+    {
+      "en": "I'll take the grey jacket.",
+      "zh": "我要那件灰色夹克衫。"
+    },
+    {
+      "en": "She can't take criticism.",
+      "zh": "她受不了批评。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "拿，取；采取；吃；接受",
+      "words": [
+        "carry",
+        "adopt",
+        "have",
+        "eat",
+        "assume"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "拿；获得",
+      "words": [
+        "pick up",
+        "get access to"
+      ]
+    }
+  ]
+}

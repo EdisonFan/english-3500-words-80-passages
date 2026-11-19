@@ -1,0 +1,77 @@
+{
+  "word": "inside",
+  "found": true,
+  "phonetic_uk": "ˌɪnˈsaɪd",
+  "phonetic_us": "ˌɪnˈsaɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=inside&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=inside&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "内部，内侧；<非正式>内脏，（尤指）胃；里道，内圈；（靠近路边的）慢车道"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "在（或向）里面；在监牢里"
+    },
+    {
+      "pos": "prep.",
+      "meaning": "在（或向）……内，在（或向）……里；在……时间之内；（足球、英式橄榄球等体育运动）（比另一队员）更靠近球场中心"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "里面的；从内部了解到的，内线干的；（马路车道）靠近路边的，慢（道）的；（曲棍球、足球等体育运动）场地中心附近的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "insides"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The tree trunk was hollow inside.",
+      "zh": "这树干里面是空的。"
+    },
+    {
+      "en": "Inside, Frannie was raging.",
+      "zh": "内心里，弗兰尼怒不可遏。"
+    },
+    {
+      "en": "You'll have to play inside today.",
+      "zh": "你今天只能在屋里玩耍。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "里面；内部；内情；内脏",
+      "words": [
+        "interior",
+        "within",
+        "inner"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "里面的；内部的；秘密的",
+      "words": [
+        "internal",
+        "inner",
+        "secret",
+        "underground",
+        "chamber"
+      ]
+    },
+    {
+      "pos": "prep.",
+      "meaning": "少于；在…之内",
+      "words": [
+        "within",
+        "under",
+        "in"
+      ]
+    }
+  ]
+}

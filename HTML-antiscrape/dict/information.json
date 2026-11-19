@@ -1,0 +1,42 @@
+{
+  "word": "information",
+  "found": true,
+  "phonetic_uk": "ˌɪnfəˈmeɪʃ(ə)n",
+  "phonetic_us": "ˌɪnfərˈmeɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=information&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=information&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "消息，资料，情报；（计算机程序储存和使用的）数据，信息；问讯处，信息台；（向治安法院提起的）控告，起诉；知识"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We pooled ideas and information.",
+      "zh": "我们汇集了意见和信息。"
+    },
+    {
+      "en": "This information could prove useful.",
+      "zh": "这条信息往后也许有用。"
+    },
+    {
+      "en": "The information was not easily classifiable.",
+      "zh": "此信息不易分类。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计][通信]信息，资料；知识；[图情]情报；通知",
+      "words": [
+        "feedback",
+        "advice",
+        "notice",
+        "knowledge of",
+        "cognition"
+      ]
+    }
+  ]
+}

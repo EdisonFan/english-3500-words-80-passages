@@ -1,0 +1,74 @@
+{
+  "word": "plate",
+  "found": true,
+  "phonetic_uk": "pleɪt",
+  "phonetic_us": "pleɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=plate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=plate&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "盘，碟；一盘（食物）；<美>一道主菜；奉献盘，捐款盘；金属护板（片）；金属牌；（车辆的）号码牌；镀金（或镀银）金属；金/银餐具；盾片，鳞甲；（地质）板块；（书中的）插图；印版；感光板；假牙托；牙箍；<非正式>全口假牙；（棒球）本垒板；（银质或金质）奖杯；杯赛；横木；（生物）培养皿；载物片，玻璃片；极板；<美>阳极"
+    },
+    {
+      "pos": "v.",
+      "meaning": "给……镀（金属）；给……加上装甲；用鳞片覆盖；摆盘；（棒球）跑垒得分；（生物）制作显微片"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Plate）（英、德、俄、西、意、瑞典）普拉特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "plates"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "plates"
+    },
+    {
+      "name": "现在分词",
+      "value": "plating"
+    },
+    {
+      "name": "过去式",
+      "value": "plated"
+    },
+    {
+      "name": "过去分词",
+      "value": "plated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She heaped my plate with food.",
+      "zh": "她往我的盘子里夹了很多食物。"
+    },
+    {
+      "en": "She heaped food on my plate.",
+      "zh": "她往我的盘子里夹了很多食物。"
+    },
+    {
+      "en": "Don't touch that plate—it's hot!",
+      "zh": "别碰那个盘子，烫手！"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "碟；金属板；金属牌；感光底片",
+      "words": [
+        "dish"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "电镀；给…装甲",
+      "words": [
+        "electro"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "misfortune",
+  "found": true,
+  "phonetic_uk": "ˌmɪsˈfɔːtʃuːn",
+  "phonetic_us": "ˌmɪsˈfɔːrtʃən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=misfortune&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=misfortune&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "厄运，不幸；不幸事件，灾难"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He has known great misfortune in his life.",
+      "zh": "他一生中经历过巨大的不幸。"
+    },
+    {
+      "en": "We had the misfortune to run into a violent storm.",
+      "zh": "我们不幸遭遇了猛烈的暴风雨。"
+    },
+    {
+      "en": "What misfortune has happened?",
+      "zh": "发生了什么不幸呢？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "不幸；灾祸，灾难",
+      "words": [
+        "disaster",
+        "evil",
+        "tragedy",
+        "grief"
+      ]
+    }
+  ]
+}

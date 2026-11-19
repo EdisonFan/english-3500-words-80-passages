@@ -1,0 +1,84 @@
+{
+  "word": "tongue",
+  "found": true,
+  "phonetic_uk": "tʌŋ",
+  "phonetic_us": "tʌŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tongue&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tongue&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "舌，舌头；（供食用的动物的）舌头，口条；语言，方言；说话方式，写作风格；鞋舌；舌状物；（延伸入湖、海等中的）长条状陆地，舌状陆地；榫舌，雄榫；（脊椎动物的）齿舌；（昆虫的）喙；钟锤；（乐器、风琴管的）簧片；搭扣销"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用运舌法吹奏（管乐器）；用舌头触碰，舔；说话；<旧>斥责"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Tongue）（英）唐（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "tongues"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "tongues"
+    },
+    {
+      "name": "现在分词",
+      "value": "tonguing"
+    },
+    {
+      "name": "过去式",
+      "value": "tongued"
+    },
+    {
+      "name": "过去分词",
+      "value": "tongued"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She stuck her tongue out at me.",
+      "zh": "她冲我吐了吐舌头。"
+    },
+    {
+      "en": "The dog's tongue was hanging out.",
+      "zh": "狗的舌头耷拉在外面。"
+    },
+    {
+      "en": "She ran her tongue over her lips.",
+      "zh": "她用舌头舔着嘴唇。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "舌头；语言",
+      "words": [
+        "language",
+        "longue"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "舔；斥责；用舌吹",
+      "words": [
+        "carpet",
+        "lick"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "说话；吹管乐器",
+      "words": [
+        "speak",
+        "fack"
+      ]
+    }
+  ]
+}

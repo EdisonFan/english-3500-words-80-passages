@@ -1,0 +1,39 @@
+{
+  "word": "cautious",
+  "found": true,
+  "phonetic_uk": "ˈkɔːʃəs",
+  "phonetic_us": "ˈkɔːʃəs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cautious&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cautious&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "小心的，谨慎的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They've taken a very cautious approach.",
+      "zh": "他们采取了十分谨慎的态度。"
+    },
+    {
+      "en": "He was cautious of his footing, wary of the edge.",
+      "zh": "他小心翼翼地站稳，注意着边缘。"
+    },
+    {
+      "en": "Employers may become overly cautious about taking on new staff.",
+      "zh": "雇主在雇用新员工的问题上可能会过于谨慎。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "谨慎的；十分小心的",
+      "words": [
+        "prudent",
+        "wary"
+      ]
+    }
+  ]
+}

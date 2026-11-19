@@ -1,0 +1,30 @@
+{
+  "word": "atoms",
+  "found": true,
+  "phonetic_uk": "ˈætəmz",
+  "phonetic_us": "ˈætəmz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=atoms&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=atoms&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[物]原子（atom 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Atoms of hydrogen are fused to make helium.",
+      "zh": "氢原子可熔合成氦。"
+    },
+    {
+      "en": "Ordered arrangements of large groups of atoms and molecules are highly improbable.",
+      "zh": "大的原子群和分子群的有序排列是极不可能的。"
+    },
+    {
+      "en": "Two atoms of hydrogen combine with one atom of oxygen to form a molecule of water.",
+      "zh": "两个氢原子和一个氧原子结合组成一个水分子。"
+    }
+  ],
+  "synonyms": []
+}

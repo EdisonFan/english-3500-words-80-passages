@@ -1,0 +1,42 @@
+{
+  "word": "perceived",
+  "found": true,
+  "phonetic_uk": "pəˈsiːvd",
+  "phonetic_us": "pərˈsiːvd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=perceived&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=perceived&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "感知到的；感观的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "感知；认为；领会（perceive 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They were widely perceived to have been unlucky.",
+      "zh": "人们普遍认为他们的运气不佳。"
+    },
+    {
+      "en": "No one perceived themself to be in a position to hire such a man.",
+      "zh": "无人认为自己能做主雇用这样一个人。"
+    },
+    {
+      "en": "Stress is widely perceived as contributing to coronary heart disease.",
+      "zh": "压力普遍被认为能造成冠心病。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "感知；认为（perceive的过去分词）；领会",
+      "words": [
+        "rated"
+      ]
+    }
+  ]
+}

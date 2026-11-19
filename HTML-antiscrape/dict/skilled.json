@@ -1,0 +1,51 @@
+{
+  "word": "skilled",
+  "found": true,
+  "phonetic_uk": "skɪld",
+  "phonetic_us": "skɪld",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=skilled&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=skilled&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "熟练的，有技能的；技术性的，需要熟练技术的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more skilled"
+    },
+    {
+      "name": "最高级",
+      "value": "most skilled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They are skilled debaters.",
+      "zh": "他们是娴熟的辩论家。"
+    },
+    {
+      "en": "We have a problem of skilled labour.",
+      "zh": "我们缺少熟练工。"
+    },
+    {
+      "en": "She is a skilled calligrapher.",
+      "zh": "她是个技艺高超的书法家。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "熟练的；有技能的；需要技能的",
+      "words": [
+        "experienced",
+        "accomplished",
+        "clever",
+        "practiced",
+        "master"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "wrist",
+  "found": true,
+  "phonetic_uk": "rɪst",
+  "phonetic_us": "rɪst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=wrist&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=wrist&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "手腕，腕关节；（四足动物前腿的）膝关节，（鸟翅膀的）腕；袖口，腕部；（机器的）曲柄销，肘节销"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "wrists"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Kay grasped him by the wrist.",
+      "zh": "凯紧紧抓住他的手腕。"
+    },
+    {
+      "en": "His fingers clawed at Blake's wrist.",
+      "zh": "他的手指使劲抓住布莱克的手腕。"
+    },
+    {
+      "en": "She's broken her wrist.",
+      "zh": "她的腕关节骨折了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "手腕；[解剖]腕关节",
+      "words": [
+        "savoir faire"
+      ]
+    }
+  ]
+}

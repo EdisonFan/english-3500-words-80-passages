@@ -1,0 +1,38 @@
+{
+  "word": "tied",
+  "found": true,
+  "phonetic_uk": "taɪd",
+  "phonetic_us": "taɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tied&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tied&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "（房屋）只出租给雇工的；（酒馆）专售特定牌子的酒的；（竞赛，比赛）打成平局的，得相同比分的；（两个或以上音符）连音演奏的；系紧的，包扎着的；（援助，国际贷款）用途受条件限制的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They tied for second place.",
+      "zh": "他们并列第二名。"
+    },
+    {
+      "en": "We tied his hands together with rope.",
+      "zh": "我们用绳子把他的手绑在一起。"
+    },
+    {
+      "en": "We tied up alongside the quay.",
+      "zh": "我们把船停靠在码头边上。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "系住的",
+      "words": [
+        "latched"
+      ]
+    }
+  ]
+}

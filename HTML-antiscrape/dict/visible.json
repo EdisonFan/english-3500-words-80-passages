@@ -1,0 +1,58 @@
+{
+  "word": "visible",
+  "found": true,
+  "phonetic_uk": "ˈvɪzəb(ə)l",
+  "phonetic_us": "ˈvɪzəb(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=visible&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=visible&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "看得见的；明显的，引人注目的；（进出口贸易）有形商品的；（物理）（光）可见的；现有的，可得到的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "有形进出口货物（visibles）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "visibles"
+    },
+    {
+      "name": "比较级",
+      "value": "more visible"
+    },
+    {
+      "name": "最高级",
+      "value": "most visible"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The warning lights were clearly visible.",
+      "zh": "警示灯清晰可见。"
+    },
+    {
+      "en": "He showed no visible sign of emotion.",
+      "zh": "他丝毫不露声色。"
+    },
+    {
+      "en": "They had no visible means of subsistence.",
+      "zh": "他们生计无着。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "明显的；看得见的；现有的；可得到的",
+      "words": [
+        "obvious",
+        "distinct",
+        "seen",
+        "evident"
+      ]
+    }
+  ]
+}

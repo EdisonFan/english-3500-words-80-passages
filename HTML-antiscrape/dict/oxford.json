@@ -1,0 +1,38 @@
+{
+  "word": "oxford",
+  "found": true,
+  "phonetic_uk": "ˈɒksfəd",
+  "phonetic_us": "ˈɑːksfərd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=oxford&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=oxford&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "牛津布（同 oxford cloth）；牛津布衬衫；（oxfords）牛津鞋（一种系鞋带的皮鞋）；（Oxford）牛津（英国城市，牛津大学位于此地）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "His stables are near Oxford.",
+      "zh": "他的养马场在牛津附近。"
+    },
+    {
+      "en": "We caught the 12.15 from Oxford.",
+      "zh": "我们赶上了12:15从牛津发出的火车。"
+    },
+    {
+      "en": "I read English at Oxford.",
+      "zh": "我在牛津攻读英语。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "牛津（英国城市）；牛津大学",
+      "words": [
+        "University of Oxford"
+      ]
+    }
+  ]
+}

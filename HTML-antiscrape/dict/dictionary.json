@@ -1,0 +1,44 @@
+{
+  "word": "dictionary",
+  "found": true,
+  "phonetic_uk": "ˈdɪkʃən(ə)ri",
+  "phonetic_us": "ˈdɪkʃəneri",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dictionary&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dictionary&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "字典，词典；专业词典，术语大全；电子词典；双语词典"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "dictionaries"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I looked it up in the dictionary.",
+      "zh": "我在词典里查过这个词。"
+    },
+    {
+      "en": "Can you suggest a good dictionary?",
+      "zh": "你能推荐一本好词典吗？"
+    },
+    {
+      "en": "Examples in this dictionary are in italics.",
+      "zh": "本词典中的例子用斜体显示。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "字典；[语][计]词典",
+      "words": [
+        "lexicon",
+        "wordbook"
+      ]
+    }
+  ]
+}

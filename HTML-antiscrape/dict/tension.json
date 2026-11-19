@@ -1,0 +1,73 @@
+{
+  "word": "tension",
+  "found": true,
+  "phonetic_uk": "ˈtenʃ(ə)n",
+  "phonetic_us": "ˈtenʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tension&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tension&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "紧张，焦虑；紧张关系，紧张局势；矛盾，冲突；（电线、绳子、肌肉等的）拉紧，绷紧；拉力，张力；（电影、书籍中的）紧张情绪，恐怖气氛；（编织的）针织密度；电压"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使拉紧，使紧张"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "tensions"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "tensions"
+    },
+    {
+      "name": "现在分词",
+      "value": "tensioning"
+    },
+    {
+      "name": "过去式",
+      "value": "tensioned"
+    },
+    {
+      "name": "过去分词",
+      "value": "tensioned"
+    }
+  ],
+  "examples": [
+    {
+      "en": "For several hours, tension mounted.",
+      "zh": "几个小时中，紧张局势加剧了。"
+    },
+    {
+      "en": "The tension was mounting perceptibly.",
+      "zh": "紧张状况明显在加剧。"
+    },
+    {
+      "en": "The atmosphere crackled with tension.",
+      "zh": "气氛顿时紧张了起来。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "张力，拉力；紧张，不安；电压",
+      "words": [
+        "strain",
+        "intensity",
+        "stress"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使紧张；使拉紧",
+      "words": [
+        "stress",
+        "wind up"
+      ]
+    }
+  ]
+}

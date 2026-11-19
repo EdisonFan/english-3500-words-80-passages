@@ -1,0 +1,43 @@
+{
+  "word": "muller",
+  "found": true,
+  "phonetic_uk": "ˈmʌlə(r)",
+  "phonetic_us": "ˈmʌlər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=muller&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=muller&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "研磨机；粉碎机；搅棒"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Muller）人名；（德、罗、俄、意）穆勒；（英）马勒；（法）米勒"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "\"With our study, we think we can now confidently conclude that at least some dogs can distinguish human facial expressions,\" Muller told Live Science.",
+      "zh": "穆勒告诉《生活科学》说：“通过我们的研究，我们认为我们现在可以自信地得出结论，至少有些狗可以分辨人类的面部表情。”"
+    },
+    {
+      "en": "\"We can rule out that the dogs simply distinguish between the pictures based on a simple cue, such as the sight of teeth,\" said study author Corsin Muller.",
+      "zh": "研究作者科辛·穆勒说：“我们可以排除狗只是根据简单的线索来区分图片，比如看到牙齿。”"
+    },
+    {
+      "en": "\"To us, the most likely explanation appears to be that the basis lies in their living with humans, which gives them a lot of exposure to human facial expressions,\" and this exposure has provided them with many chances to learn to distinguish between them, Muller said.",
+      "zh": "穆勒说：“对我们来说，最有可能的解释似乎是，这一现象的根源在于它们与人类生活在一起，这让它们接触了大量人类的面部表情。”而这种接触也为它们提供了很多机会来学习区分它们。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "研磨机；粉碎机；搅棒",
+      "words": [
+        "grinder",
+        "pulverizer"
+      ]
+    }
+  ]
+}

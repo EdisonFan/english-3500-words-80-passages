@@ -1,0 +1,66 @@
+{
+  "word": "threaten",
+  "found": true,
+  "phonetic_uk": "ˈθret(ə)n",
+  "phonetic_us": "ˈθret(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=threaten&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=threaten&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "威胁，恐吓；危及，对……构成威胁；预示凶兆，有……危险"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "threatens"
+    },
+    {
+      "name": "现在分词",
+      "value": "threatening"
+    },
+    {
+      "name": "过去式",
+      "value": "threatened"
+    },
+    {
+      "name": "过去分词",
+      "value": "threatened"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We are reproducing ourselves at such a rate that our numbers threaten the ecology of the planet.",
+      "zh": "我们繁衍得如此之快，以至于人口数量威胁到地球的生态系统。"
+    },
+    {
+      "en": "Humans also threaten carnivorous plants in other ways.",
+      "zh": "人类还以其他方式对食肉植物产生威胁。"
+    },
+    {
+      "en": "You could threaten to replace all their tunes with white noise.",
+      "zh": "你可以威胁用白噪音代替他们所有的曲调。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "威胁；恐吓；预示",
+      "words": [
+        "indicate",
+        "forecast",
+        "shadow",
+        "cow"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "威胁；可能来临",
+      "words": [
+        "to menace",
+        "hang over"
+      ]
+    }
+  ]
+}

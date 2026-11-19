@@ -1,0 +1,42 @@
+{
+  "word": "almost",
+  "found": true,
+  "phonetic_uk": "ˈɔːlməʊst",
+  "phonetic_us": "ˈɔːlmoʊst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=almost&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=almost&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "几乎，差不多"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They'll eat almost anything.",
+      "zh": "他们几乎什么都吃。"
+    },
+    {
+      "en": "She answered almost immediately.",
+      "zh": "她几乎立刻就回答了。"
+    },
+    {
+      "en": "Almost anything goes these days.",
+      "zh": "这个年月几乎是无奇不有。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "差不多，几乎",
+      "words": [
+        "nearly",
+        "most",
+        "virtually",
+        "practically",
+        "feckly"
+      ]
+    }
+  ]
+}

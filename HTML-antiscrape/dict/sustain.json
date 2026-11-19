@@ -1,0 +1,63 @@
+{
+  "word": "sustain",
+  "found": true,
+  "phonetic_uk": "səˈsteɪn",
+  "phonetic_us": "səˈsteɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sustain&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sustain&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "维持，保持；维持……的生命；遭受，经受；（在体力或精神方面）支持，支撑；承受住……的重量；证实，证明；认可，赞成，确认；（演员）充分表演（角色，人物），扮演"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（乐）延音"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "sustains"
+    },
+    {
+      "name": "现在分词",
+      "value": "sustaining"
+    },
+    {
+      "name": "过去式",
+      "value": "sustained"
+    },
+    {
+      "name": "过去分词",
+      "value": "sustained"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Which planets can sustain life?",
+      "zh": "哪些行星可以维持生命的存在？"
+    },
+    {
+      "en": "The ice will not sustain your weight.",
+      "zh": "这冰承受不了你的体重。"
+    },
+    {
+      "en": "The cash dividends they get from the cash crop would sustain them during the lean season.",
+      "zh": "他们从经济作物中得到的那些现金红利能支撑他们度过歉收季节。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "维持；支撑，承担；忍受；供养；证实",
+      "words": [
+        "maintain",
+        "undertake",
+        "support",
+        "accept",
+        "favor"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "word": "batteries",
+  "found": true,
+  "phonetic_uk": "ˈbætəris",
+  "phonetic_us": "ˈbætəriz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=batteries&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=batteries&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[电]电池（battery 的复数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The shavers come complete with batteries.",
+      "zh": "这些电动剃须刀带有电池。"
+    },
+    {
+      "en": "The shaver will run off batteries or mains.",
+      "zh": "这个剃须刀可用电池或电源驱动。"
+    },
+    {
+      "en": "The batteries had a life span of six hours.",
+      "zh": "电池的使用寿命是6小时。"
+    }
+  ],
+  "synonyms": []
+}

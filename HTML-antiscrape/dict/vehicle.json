@@ -1,0 +1,47 @@
+{
+  "word": "vehicle",
+  "found": true,
+  "phonetic_uk": "ˈviːəkl",
+  "phonetic_us": "ˈviːəkl; ˈviːhɪkl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=vehicle&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=vehicle&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "交通工具，车辆；（实现目的的）工具，媒介；（为展露主演者才华而）度身定制的创作（电影、电视节目、歌曲等）；赋形药，调漆料；（个人，组织从事经营、尤指投资的）公司"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "vehicles"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The vehicle was engulfed in flames.",
+      "zh": "汽车被大火吞没。"
+    },
+    {
+      "en": "Was the vehicle insured?",
+      "zh": "那辆车上保险了吗？"
+    },
+    {
+      "en": "The robbers drove off in a stolen vehicle.",
+      "zh": "劫匪驾驶着一辆偷来的汽车逃跑了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[车辆]车辆；工具；交通工具；运载工具；传播媒介；媒介物",
+      "words": [
+        "instrument",
+        "engine",
+        "tool",
+        "gear",
+        "implement"
+      ]
+    }
+  ]
+}

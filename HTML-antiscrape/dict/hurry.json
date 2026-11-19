@@ -1,0 +1,83 @@
+{
+  "word": "hurry",
+  "found": true,
+  "phonetic_uk": "ˈhʌri",
+  "phonetic_us": "ˈhɜːri",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=hurry&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=hurry&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "匆忙，急忙；催促；（朝某方向）迅速移动；迅速处理"
+    },
+    {
+      "pos": "n.",
+      "meaning": "急忙；紧急，赶紧的理由"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Hurry）（美、英、加、澳、法、丹）赫里（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "hurries"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "hurries"
+    },
+    {
+      "name": "现在分词",
+      "value": "hurrying"
+    },
+    {
+      "name": "过去式",
+      "value": "hurried"
+    },
+    {
+      "name": "过去分词",
+      "value": "hurried"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Take your time—there's no hurry.",
+      "zh": "悠着点—不用急。"
+    },
+    {
+      "en": "Hurry— there's no time to lose !",
+      "zh": "快点—抓紧时间吧！"
+    },
+    {
+      "en": "Hurry up or else you'll be late.",
+      "zh": "快点，否则你就要迟到了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "匆忙，急忙",
+      "words": [
+        "hasty indeed",
+        "haste"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使赶紧；使匆忙，使急忙",
+      "words": [
+        "hasten"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "赶紧，赶快；匆忙",
+      "words": [
+        "get a hump on",
+        "make haste"
+      ]
+    }
+  ]
+}

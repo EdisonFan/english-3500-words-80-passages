@@ -1,0 +1,43 @@
+{
+  "word": "struggled",
+  "found": true,
+  "phonetic_uk": "ˈstrʌɡ(ə)ld",
+  "phonetic_us": "ˈstrʌɡld",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=struggled&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=struggled&type=2",
+  "defs": [
+    {
+      "pos": "",
+      "meaning": "vbl. 奋斗；努力"
+    },
+    {
+      "pos": "v.",
+      "meaning": "奋斗；努力"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I struggled and screamed for help.",
+      "zh": "我挣扎着，高声呼救。"
+    },
+    {
+      "en": "I struggled to regain some dignity.",
+      "zh": "我努力恢复自己的一点儿尊严。"
+    },
+    {
+      "en": "Paul struggled out of his wheelchair.",
+      "zh": "保罗挣扎着下了轮椅。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "奋斗；努力",
+      "words": [
+        "apply oneself",
+        "strive after"
+      ]
+    }
+  ]
+}

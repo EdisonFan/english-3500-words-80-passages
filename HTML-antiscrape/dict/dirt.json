@@ -1,0 +1,45 @@
+{
+  "word": "dirt",
+  "found": true,
+  "phonetic_uk": "dɜːt",
+  "phonetic_us": "dɜːrt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dirt&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dirt&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "污物，尘土；泥土，松土；丑闻，流言蜚语"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "土的，泥的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I started to scrub off the dirt.",
+      "zh": "我开始擦除灰尘。"
+    },
+    {
+      "en": "His clothes were covered in dirt.",
+      "zh": "他的衣服沾满了污垢。"
+    },
+    {
+      "en": "He brushed the dirt off his jacket.",
+      "zh": "他拂掉衣服上的灰尘。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "污垢，泥土；灰尘，尘土；下流话",
+      "words": [
+        "earth",
+        "dust",
+        "clay",
+        "powder"
+      ]
+    }
+  ]
+}

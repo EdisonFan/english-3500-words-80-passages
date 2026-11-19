@@ -1,0 +1,82 @@
+{
+  "word": "bad",
+  "found": true,
+  "phonetic_uk": "bæd",
+  "phonetic_us": "bæd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bad&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bad&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "坏的，不好的，令人不悦的；难以接受的，令人遗憾的；粗鲁的，下流的；抱歉的，难过的；质量差的，不合格的；邪恶的，不道德的；顽皮的，不乖的；有病的，疼痛的；腐烂的，变质的；严重的，剧烈的；不明智的，不合适的；不利的，不幸的；拙于，不擅；无价值的，伪造的；<美，非正式> 非常好的（比较级badder，最高级baddest）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "坏人，坏事"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "<美，非正式>很，非常；<美，非正式>厉害地"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Bad）（罗）巴德（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "worse"
+    },
+    {
+      "name": "最高级",
+      "value": "worst"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Smoking gives you bad breath.",
+      "zh": "吸烟会导致口臭。"
+    },
+    {
+      "en": "The play was embarrassingly bad.",
+      "zh": "这出戏很糟，令人难堪。"
+    },
+    {
+      "en": "The report blames bad management.",
+      "zh": "报告归咎于管理不善。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "坏的；严重的；[气象]劣质的",
+      "words": [
+        "acute",
+        "serious",
+        "ill"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "坏事；坏人",
+      "words": [
+        "wrong",
+        "rascality"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "很，非常；坏地；邪恶地",
+      "words": [
+        "greatly",
+        "quite",
+        "badly",
+        "extremely",
+        "too",
+        "highly",
+        "far"
+      ]
+    }
+  ]
+}

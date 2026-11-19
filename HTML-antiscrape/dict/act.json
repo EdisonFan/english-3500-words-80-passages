@@ -1,0 +1,63 @@
+{
+  "word": "act",
+  "found": true,
+  "phonetic_uk": "ækt",
+  "phonetic_us": "ækt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=act&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=act&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "行动；举动，表现；假装；表演，演出；担任；起作用；代理；（心理分析）行为表现"
+    },
+    {
+      "pos": "n.",
+      "meaning": "行为，行动；法案；装模作样；（戏剧、歌剧等的）一幕；一段表演；节目；表演者，演出团体；发现某人正在（做某事）；判决书；<旧>会议记录，公报"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Can you act as interpreter?",
+      "zh": "你能担任口译吗？"
+    },
+    {
+      "en": "You must act boldly and confidently.",
+      "zh": "你必须表现得大胆、自信。"
+    },
+    {
+      "en": "This was a fiendish act of wickedness.",
+      "zh": "这是一种残忍邪恶的行为。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "扮演；装作，举动像",
+      "words": [
+        "play",
+        "take a part of"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "行动；扮演，充当；表现，举止；假装，演戏；起作用，见效",
+      "words": [
+        "operate",
+        "bear oneself",
+        "conduct oneself"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "行为，行动；[法]法令，法案；（戏剧，歌剧的）一幕，段；装腔作势",
+      "words": [
+        "behavior",
+        "dealing",
+        "action",
+        "going",
+        "bill"
+      ]
+    }
+  ]
+}

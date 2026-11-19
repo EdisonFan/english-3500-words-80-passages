@@ -1,0 +1,47 @@
+{
+  "word": "adjustment",
+  "found": true,
+  "phonetic_uk": "əˈdʒʌstmənt",
+  "phonetic_us": "əˈdʒʌstmənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=adjustment&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=adjustment&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "调整，校正；（行为、思想的）调节，适应；调节器"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "adjustments"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Some adjustment of the lens may be necessary.",
+      "zh": "可能需要调整一下镜头。"
+    },
+    {
+      "en": "Investment is up by 5.7% after adjustment for inflation.",
+      "zh": "投资在通货膨胀调整之后增长了5.7%。"
+    },
+    {
+      "en": "The dynamic of the market demands constant change and adjustment.",
+      "zh": "市场的动力要求有不断的变化和调整。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "调整，调节；调节器",
+      "words": [
+        "restructuring",
+        "conditioning",
+        "modulation",
+        "setup",
+        "accommodation"
+      ]
+    }
+  ]
+}

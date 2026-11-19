@@ -1,0 +1,45 @@
+{
+  "word": "appetite",
+  "found": true,
+  "phonetic_uk": "ˈæpɪtaɪt",
+  "phonetic_us": "ˈæpɪtaɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=appetite&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=appetite&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "食欲，胃口；欲望，爱好"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "appetites"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He has a healthy appetite.",
+      "zh": "他有健康的胃口。"
+    },
+    {
+      "en": "All otters have a voracious appetite.",
+      "zh": "所有的水獭都有一个贪吃的胃口。"
+    },
+    {
+      "en": "Go for a walk. It'll give you an appetite.",
+      "zh": "去散散步，你就有食欲了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[生理]食欲；嗜好",
+      "words": [
+        "weakness",
+        "habit",
+        "hobby"
+      ]
+    }
+  ]
+}

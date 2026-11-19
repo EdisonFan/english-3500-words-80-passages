@@ -1,0 +1,76 @@
+{
+  "word": "discount",
+  "found": true,
+  "phonetic_uk": "ˈdɪskaʊnt",
+  "phonetic_us": "ˈdɪskaʊnt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=discount&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=discount&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "减价，折扣；（汇票或期票到期前转手的）贴现率"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "打折的，减价出售的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "打折，减价；不重视，忽视；否定，怀疑；贴现；（持票人或受票人）把（票据）贴现"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "discounts"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "discounts"
+    },
+    {
+      "name": "现在分词",
+      "value": "discounting"
+    },
+    {
+      "name": "过去式",
+      "value": "discounted"
+    },
+    {
+      "name": "过去分词",
+      "value": "discounted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Do you give any discount?",
+      "zh": "你们打折吗？"
+    },
+    {
+      "en": "They are often available at a discount.",
+      "zh": "它们经常可以以折扣价买到。"
+    },
+    {
+      "en": "All full-time staff get a 20 percent discount.",
+      "zh": "所有全职员工都可以享受8折优惠。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[贸易]折扣；[金融]贴现率",
+      "words": [
+        "agio",
+        "rabato"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[贸易]打折扣；将…贴现；贬损",
+      "words": [
+        "water sth. down",
+        "preach down"
+      ]
+    }
+  ]
+}

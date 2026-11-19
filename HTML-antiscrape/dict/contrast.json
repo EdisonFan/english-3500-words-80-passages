@@ -1,0 +1,65 @@
+{
+  "word": "contrast",
+  "found": true,
+  "phonetic_uk": "ˈkɒntrɑːst",
+  "phonetic_us": "ˈkɑːntræst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=contrast&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=contrast&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "差异，对比；对照物，明显不同的事物；（摄影或绘画中的）颜色反差，明暗对比；（电视屏幕的）图像明暗对比度，反差"
+    },
+    {
+      "pos": "v.",
+      "meaning": "对比，对照；显出明显的差异，形成对比"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "contrasts"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "contrasts"
+    },
+    {
+      "name": "现在分词",
+      "value": "contrasting"
+    },
+    {
+      "name": "过去式",
+      "value": "contrasted"
+    },
+    {
+      "name": "过去分词",
+      "value": "contrasted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "There is also an artful contrast of shapes.",
+      "zh": "还有一种不同形状的巧妙对比。"
+    },
+    {
+      "en": "Contrast that approach with what goes on in most organizations.",
+      "zh": "对比这个方法与大多数组织运用的方法的不同之处。"
+    },
+    {
+      "en": "Careful contrast of the two plans shows some important differences.",
+      "zh": "把两个计划仔细地加以对比就可看出一些重要的差异。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "对比；差别；对照物",
+      "words": [
+        "parallel",
+        "distinction",
+        "differential"
+      ]
+    }
+  ]
+}

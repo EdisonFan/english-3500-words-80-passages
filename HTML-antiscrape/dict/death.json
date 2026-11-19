@@ -1,0 +1,44 @@
+{
+  "word": "death",
+  "found": true,
+  "phonetic_uk": "deθ",
+  "phonetic_us": "deθ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=death&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=death&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "死，死亡；破灭，终止；死神"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "deaths"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Doctors become inured to death.",
+      "zh": "医生们对死亡变得习以为常。"
+    },
+    {
+      "en": "His death followed hard on hers.",
+      "zh": "她死后不久，他也死了。"
+    },
+    {
+      "en": "He'd come close to death.",
+      "zh": "他曾与死神擦肩而过。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "死；[医]死亡；死神；毁灭",
+      "words": [
+        "destruction",
+        "dying"
+      ]
+    }
+  ]
+}

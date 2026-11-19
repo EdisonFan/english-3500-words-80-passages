@@ -1,0 +1,43 @@
+{
+  "word": "from",
+  "found": true,
+  "phonetic_uk": "frɒm; frəm",
+  "phonetic_us": "frʌm; frəm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=from&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=from&type=2",
+  "defs": [
+    {
+      "pos": "prep.",
+      "meaning": "从……起；从……开始；寄自，得自；来自；由……（制成）；（两地的距离）离；从；从……（到）；（使）免遭；由于；根据；与……（不同）；防；不在；从……来看；妨碍"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（From）（美）弗罗姆（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Cheap flights are available from budget travel agents from $240.",
+      "zh": "起价$240的廉价机票可从一些经济旅行社那里买到。"
+    },
+    {
+      "en": "Departure times are 08:15 from Baltimore, and 10:15 from Newark.",
+      "zh": "从巴尔的摩的出发时间是08:15，从纽瓦克的出发时间是10:15。"
+    },
+    {
+      "en": "The album was compiled from live recordings from last year's tour.",
+      "zh": "这套唱片选辑由去年巡回演出的实况录音汇编而成。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "prep.",
+      "meaning": "来自，从；由于；今后",
+      "words": [
+        "by virtue of",
+        "ex-"
+      ]
+    }
+  ]
+}

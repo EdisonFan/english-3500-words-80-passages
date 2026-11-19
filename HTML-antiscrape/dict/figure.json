@@ -1,0 +1,88 @@
+{
+  "word": "figure",
+  "found": true,
+  "phonetic_uk": "ˈfɪɡə(r)",
+  "phonetic_us": "ˈfɪɡjər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=figure&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=figure&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "数字，数目，数值；数字符号，位数；身材，体型；（远处的）人影；（重要的）人物；（绘画或模型中）人像；（书中的）图、表；（数学）图形；价格，金额"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（以重要地位）出现；<美，非正式>认为，估计；理解，弄懂；计算；用图画（或图形等）描绘，想象"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "figures"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "figures"
+    },
+    {
+      "name": "现在分词",
+      "value": "figuring"
+    },
+    {
+      "name": "过去式",
+      "value": "figured"
+    },
+    {
+      "name": "过去分词",
+      "value": "figured"
+    }
+  ],
+  "examples": [
+    {
+      "en": "My uncle was a Falstaffian figure.",
+      "zh": "我的叔叔是个福斯塔夫式的人物。"
+    },
+    {
+      "en": "Gandhi was an inspirational figure.",
+      "zh": "甘地是一位有感召力的人物。"
+    },
+    {
+      "en": "A cube is a solid figure.",
+      "zh": "立方体是一种立体图形。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[数]数字；人物；图形；价格；（人的）体形；画像",
+      "words": [
+        "digital",
+        "price",
+        "value",
+        "number",
+        "rate"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "计算；出现；扮演角色",
+      "words": [
+        "occur",
+        "cast",
+        "offer",
+        "come out"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "计算；认为；描绘；象征",
+      "words": [
+        "indicate",
+        "expect",
+        "guess",
+        "find",
+        "feel"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "word": "doesn't",
+  "found": true,
+  "phonetic_uk": "ˈdʌznt",
+  "phonetic_us": "ˈdʌznt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=doesn't&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=doesn't&type=2",
+  "defs": [
+    {
+      "pos": "aux.",
+      "meaning": "表示否定（等于 does not）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Politics doesn't interest me.",
+      "zh": "我对政治不感兴趣。"
+    },
+    {
+      "en": "This suitcase doesn't lock.",
+      "zh": "这手提箱锁不上。"
+    },
+    {
+      "en": "This clock doesn't go.",
+      "zh": "这钟不走了。"
+    }
+  ],
+  "synonyms": []
+}

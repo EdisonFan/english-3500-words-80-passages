@@ -1,0 +1,53 @@
+{
+  "word": "sending",
+  "found": true,
+  "phonetic_uk": "ˈsendɪŋ",
+  "phonetic_us": "ˈsendɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sending&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sending&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "邮寄；传达；派遣；推进；安排……去；（使）快速移动；（使）作出某种反应；（使）处于某种状态；（非正式）使着迷；（船）颠簸（send 的现在分词）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "发送；神降，天罚"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I definitely remember sending the letter.",
+      "zh": "我记得这封信肯定发出去了。"
+    },
+    {
+      "en": "I'm sending the files off to my boss tomorrow.",
+      "zh": "明天我要把这些档案给老板寄去。"
+    },
+    {
+      "en": "Sending flowers is a measure of how much you care.",
+      "zh": "你派人送花就说明你是多么关心。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计]发送；[通信]发射；信件",
+      "words": [
+        "emission",
+        "shot",
+        "launch",
+        "projection",
+        "loose"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "[计][通信]发送；派遣（send的ing形式）；打发",
+      "words": [
+        "messaging"
+      ]
+    }
+  ]
+}

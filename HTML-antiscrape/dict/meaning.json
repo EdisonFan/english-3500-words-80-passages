@@ -1,0 +1,63 @@
+{
+  "word": "meaning",
+  "found": true,
+  "phonetic_uk": "ˈmiːnɪŋ",
+  "phonetic_us": "ˈmiːnɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=meaning&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=meaning&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "意思，意义，含义；真正重要性，价值；原因"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "<旧>意味深长的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "表示……的意思，作……的解��；意味着；打算，意欲（mean 的现在分词形式）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "meanings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "What's the meaning of this word?",
+      "zh": "这个单词的意思是什么？"
+    },
+    {
+      "en": "What, pray, is the meaning of this?",
+      "zh": "请问，这是什么意思？"
+    },
+    {
+      "en": "We cogitated on the meaning of life.",
+      "zh": "我们深思生命的意义。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "意义；含义；意图",
+      "words": [
+        "significance",
+        "intention",
+        "will",
+        "import",
+        "offer"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "意味深长的",
+      "words": [
+        "significant",
+        "eloquent"
+      ]
+    }
+  ]
+}

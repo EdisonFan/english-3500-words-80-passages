@@ -1,0 +1,51 @@
+{
+  "word": "resolved",
+  "found": true,
+  "phonetic_uk": "rɪˈzɒlvd",
+  "phonetic_us": "rɪˈzɑːlvd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=resolved&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=resolved&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "下定决心的，坚决的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "解决；决定；（立法机构等）表决；分解；使（病症）消退；使（不协和音）转向协和音；（当远处物体看得更清楚时）变成；（光学仪器等）分辨（resolve 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He resolved not to tell her the truth.",
+      "zh": "他决定不告诉她真相。"
+    },
+    {
+      "en": "I resolved not to waste money on a hotel.",
+      "zh": "我决定不因住旅馆浪费钱。"
+    },
+    {
+      "en": "We had resolved on making an early start.",
+      "zh": "我们已经决定早点动身。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "下定决心的；已解决的；断然的",
+      "words": [
+        "locked",
+        "peremptory"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "解决；决定；分解；转变（resolve的过去分词）",
+      "words": [
+        "settled",
+        "determined"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "poems",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˈpoʊəmz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=poems&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=poems&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "诗歌，诗集（poem 复数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Her poems show great maturity.",
+      "zh": "她的诗歌显得非常成熟。"
+    },
+    {
+      "en": "I read her poems in manuscript.",
+      "zh": "我读过她的诗作的手稿。"
+    },
+    {
+      "en": "She wrote him several poems.",
+      "zh": "她为他写了几首诗。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "诗歌，诗集（poem复数形式）",
+      "words": [
+        "song",
+        "rune"
+      ]
+    }
+  ]
+}

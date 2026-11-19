@@ -1,0 +1,51 @@
+{
+  "word": "stylish",
+  "found": true,
+  "phonetic_uk": "ˈstaɪlɪʃ",
+  "phonetic_us": "ˈstaɪlɪʃ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=stylish&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=stylish&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "时髦的，流行的，有格调的；潇洒的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more stylish"
+    },
+    {
+      "name": "最高级",
+      "value": "most stylish"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Its shops are among the most stylish on the Continent.",
+      "zh": "其商店位列欧洲大陆最时尚的商店之中。"
+    },
+    {
+      "en": "What you wear should be stylish and clean, and must definitely fit well.",
+      "zh": "你的穿着应该时尚整洁，而且必须非常合体。"
+    },
+    {
+      "en": "She is wearing a noticeably stylish, feminine dress, plus discreet jewellery.",
+      "zh": "她穿着一条非常时髦、有女人味的连衣裙，配以小巧的首饰。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "时髦的；现代风格的；潇洒的",
+      "words": [
+        "modern",
+        "fashionable",
+        "tony",
+        "in",
+        "smart"
+      ]
+    }
+  ]
+}

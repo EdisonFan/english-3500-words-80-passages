@@ -1,0 +1,39 @@
+{
+  "word": "authoritative",
+  "found": true,
+  "phonetic_uk": "ɔːˈθɒrətətɪv",
+  "phonetic_us": "əˈθɔːrəteɪtɪv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=authoritative&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=authoritative&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "专断的，命令式的；可靠的，可信的，权威的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He has a commanding presence and deep, authoritative voice.",
+      "zh": "他仪态威严，声音深沉而有权威。"
+    },
+    {
+      "en": "The first authoritative study of polio was published in 1840.",
+      "zh": "关于小儿麻痹症的首篇权威研究报告发表于1840年。"
+    },
+    {
+      "en": "Amanda launched into an authoritative disquisition about contracts.",
+      "zh": "阿曼达开始了一番对合同的权威解释。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "有权威的；命令式的；当局的",
+      "words": [
+        "magisterial",
+        "cathedratic"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "word": "persevere",
+  "found": true,
+  "phonetic_uk": "ˌpɜːsəˈvɪə(r)",
+  "phonetic_us": "ˌpɜːrsəˈvɪr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=persevere&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=persevere&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "锲而不舍，坚持不懈；固执己见（在辩论中）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "perseveres"
+    },
+    {
+      "name": "现在分词",
+      "value": "persevering"
+    },
+    {
+      "name": "过去式",
+      "value": "persevered"
+    },
+    {
+      "name": "过去分词",
+      "value": "persevered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You have to persevere with difficult students.",
+      "zh": "对难教的学生你必须坚持诲人不倦的精神。"
+    },
+    {
+      "en": "Persevere and you'll succeed.",
+      "zh": "只要你坚持不懈，你自会成功。"
+    },
+    {
+      "en": "Being a close loser could greatly motivate one to persevere in their research.",
+      "zh": "成为惜败者会极大地激励他们坚持自己的研究。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "坚持；不屈不挠；固执己见（在辩论中）",
+      "words": [
+        "stay",
+        "stand on"
+      ]
+    }
+  ]
+}

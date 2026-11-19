@@ -1,0 +1,39 @@
+{
+  "word": "systematically",
+  "found": true,
+  "phonetic_uk": "ˌsɪstəˈmætɪkli",
+  "phonetic_us": "ˌsɪstəˈmætɪkli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=systematically&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=systematically&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "系统地，有条理地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "In order that training should be effective it must be planned systematically.",
+      "zh": "为使培训有成效，必须有系统的计划。"
+    },
+    {
+      "en": "Selective schools don't systematically employ better instructional approaches than less selective schools.",
+      "zh": "精英学校并没有系统地采用比普通学校更好的教学方法。"
+    },
+    {
+      "en": "The question is whether those kinds of experiences do so systematically across individuals and create exactly the same changes.",
+      "zh": "问题是，这样的经历是否会如此系统地影响不同个体，并产生完全相同的变化。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "有系统地；有组织地",
+      "words": [
+        "organically",
+        "methodically"
+      ]
+    }
+  ]
+}

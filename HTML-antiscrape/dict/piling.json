@@ -1,0 +1,44 @@
+{
+  "word": "piling",
+  "found": true,
+  "phonetic_uk": "ˈpaɪlɪŋ",
+  "phonetic_us": "ˈpaɪlɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=piling&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=piling&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "地桩；打桩；桩材；打桩工程"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "pilings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It just keeps piling up higher and higher.",
+      "zh": "它只会越堆越高。"
+    },
+    {
+      "en": "Meg was already covering the buckwheats and piling the bread into one big plate.",
+      "zh": "梅格已盖好荞麦饼，把面包堆放到一个大盘子里。"
+    },
+    {
+      "en": "In the past, whole cities grew from the arduous task of cutting and piling stone upon.",
+      "zh": "过去，整个城市都是由艰辛地切割和堆砌石头发展起来的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "打桩；桩材；打桩工程",
+      "words": [
+        "palification",
+        "pilework"
+      ]
+    }
+  ]
+}

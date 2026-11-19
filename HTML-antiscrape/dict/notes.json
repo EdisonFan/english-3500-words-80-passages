@@ -1,0 +1,46 @@
+{
+  "word": "notes",
+  "found": true,
+  "phonetic_uk": "nəʊts",
+  "phonetic_us": "noʊts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=notes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=notes&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "注释，说明，笔记（note 的复数）；票据"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Notes）（意）诺泰斯（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Did you take notes in the class?",
+      "zh": "你在课堂上做了笔记吗？"
+    },
+    {
+      "en": "Someone had scrawled all over my notes.",
+      "zh": "不知谁在我笔记上胡写乱画，弄得一塌糊涂。"
+    },
+    {
+      "en": "I took copious notes.",
+      "zh": "我做了详尽的笔记。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "注释，说明（note复数）；票据",
+      "words": [
+        "explanation",
+        "bill",
+        "legend",
+        "illustration",
+        "annotation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "word": "demonstrating",
+  "found": true,
+  "phonetic_uk": "ˈdemənstreɪtɪŋ",
+  "phonetic_us": "ˈdemənstreɪtɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=demonstrating&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=demonstrating&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "证明；演示；表露（感情）；解释；集会示威；（军队）示威；被聘为示范人员（demonstrate 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Her job involves demonstrating new educational software.",
+      "zh": "她的工作包括演示新的教学软件。"
+    },
+    {
+      "en": "Protesters found a novel way of demonstrating against steeply rising oil prices.",
+      "zh": "抗议者们找到一种新奇的示威方式来反对石油价格的飙升。"
+    },
+    {
+      "en": "They are demonstrating in favour of free higher education.",
+      "zh": "他们举行示威游行，要求实行免费高等教育。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "演示",
+      "words": [
+        "presentment"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "证明；示威（demonstrate的现在分词）；显示",
+      "words": [
+        "displaying",
+        "proving"
+      ]
+    }
+  ]
+}

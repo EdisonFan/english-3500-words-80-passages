@@ -1,0 +1,63 @@
+{
+  "word": "since",
+  "found": true,
+  "phonetic_uk": "sɪns",
+  "phonetic_us": "sɪns",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=since&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=since&type=2",
+  "defs": [
+    {
+      "pos": "prep.",
+      "meaning": "自……以后，自……以来；（表示气愤）何曾，什么时候"
+    },
+    {
+      "pos": "conj.",
+      "meaning": "在……以后，自……以来；因为，由于，既然"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "自……以后，自……以来；此后，后来"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Since）（法、美）新斯（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We've lived here since 1994.",
+      "zh": "自1994年以来我们一直住在这里。"
+    },
+    {
+      "en": "She's been off work since Tuesday.",
+      "zh": "星期二以来她一直没上班。"
+    },
+    {
+      "en": "Polling has been heavy since 8 a.m.",
+      "zh": "从早上8点以来投票很踊跃。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "conj.",
+      "meaning": "因为；由于；既然；自…以来；自…以后",
+      "words": [
+        "because",
+        "for",
+        "seeing",
+        "when",
+        "now"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "后来",
+      "words": [
+        "after",
+        "subsequently",
+        "later on"
+      ]
+    }
+  ]
+}

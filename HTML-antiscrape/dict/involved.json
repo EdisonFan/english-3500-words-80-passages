@@ -1,0 +1,46 @@
+{
+  "word": "involved",
+  "found": true,
+  "phonetic_uk": "ɪnˈvɒlvd",
+  "phonetic_us": "ɪnˈvɑːlvd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=involved&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=involved&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "复杂的；与……关系密切的；专心于……的，忙于……的；卷入的，参与的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "牵涉，包含（involve 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I was itching to get involved.",
+      "zh": "我渴望参与。"
+    },
+    {
+      "en": "He pondered over the difficulties involved.",
+      "zh": "他仔细思考了有关的种种困难。"
+    },
+    {
+      "en": "He quickly involved himself in local politics.",
+      "zh": "他很快就参与到地方政治活动中去了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "有关的；卷入的；复杂的",
+      "words": [
+        "relevant",
+        "concerned",
+        "complicated",
+        "detailed",
+        "sophisticated"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "word": "deserve",
+  "found": true,
+  "phonetic_uk": "dɪˈzɜːv",
+  "phonetic_us": "dɪˈzɜːrv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=deserve&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=deserve&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "值得，应受"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "deserves"
+    },
+    {
+      "name": "现在分词",
+      "value": "deserving"
+    },
+    {
+      "name": "过去式",
+      "value": "deserved"
+    },
+    {
+      "name": "过去分词",
+      "value": "deserved"
+    }
+  ],
+  "examples": [
+    {
+      "en": "These proposals deserve careful study.",
+      "zh": "这些建议值得认真研究。"
+    },
+    {
+      "en": "The players deserve a pat on the back.",
+      "zh": "运动员们值得表扬。"
+    },
+    {
+      "en": "What have I done to deserve this?",
+      "zh": "我做了什么事应该得到这种待遇呢？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "应受，应得",
+      "words": [
+        "be deserving of"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "应受，应得",
+      "words": [
+        "be deserving of"
+      ]
+    }
+  ]
+}

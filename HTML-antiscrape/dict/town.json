@@ -1,0 +1,48 @@
+{
+  "word": "town",
+  "found": true,
+  "phonetic_uk": "taʊn",
+  "phonetic_us": "taʊn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=town&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=town&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "城镇，市镇； （生活、工作或刚提到的）城镇；（城镇的）商业区，中心区；全体镇民，全镇人；城市生活（与乡村生活相对）；镇政府"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Town）（英）汤（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "towns"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The town was weirdly familiar.",
+      "zh": "这个城镇怪面熟的。"
+    },
+    {
+      "en": "The town lies on the coast.",
+      "zh": "这个小镇位于海滨。"
+    },
+    {
+      "en": "The town is boring and characterless.",
+      "zh": "这个镇乏味且毫无特色。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[建]城镇，市镇；市内商业区",
+      "words": [
+        "ville",
+        "burgh"
+      ]
+    }
+  ]
+}

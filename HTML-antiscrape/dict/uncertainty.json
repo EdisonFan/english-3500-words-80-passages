@@ -1,0 +1,44 @@
+{
+  "word": "uncertainty",
+  "found": true,
+  "phonetic_uk": "ʌnˈsɜːt(ə)nti",
+  "phonetic_us": "ʌnˈsɜːrt(ə)nti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=uncertainty&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=uncertainty&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "犹豫，无把握；拿不定的事，令人无把握的局面；紧张不安"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "uncertainties"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It was a time of terrible uncertainty.",
+      "zh": "那是一段非常不确定的时期。"
+    },
+    {
+      "en": "They hoped the waiting and the uncertainty would wear down my resistance.",
+      "zh": "他们希望这种等待和不确定性会削弱我的抵抗。"
+    },
+    {
+      "en": "That's not the only uncertainty.",
+      "zh": "这并不是唯一的不确定因素。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[数][物]不确定，不可靠",
+      "words": [
+        "indetermination",
+        "unsureness"
+      ]
+    }
+  ]
+}

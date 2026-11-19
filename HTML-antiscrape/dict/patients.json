@@ -1,0 +1,30 @@
+{
+  "word": "patients",
+  "found": true,
+  "phonetic_uk": "ˈpeɪʃ(ə)nts",
+  "phonetic_us": "ˈpeɪʃnts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=patients&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=patients&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "病人，患者；（语言学）受动者，承受者（patient 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He's one of Dr Shaw's patients.",
+      "zh": "他是肖医生的病人之一。"
+    },
+    {
+      "en": "These patients are not neurotics.",
+      "zh": "这些病人不是神经官能症患者。"
+    },
+    {
+      "en": "Which of the patients have recovered?",
+      "zh": "哪些患者已经康复了？"
+    }
+  ],
+  "synonyms": []
+}

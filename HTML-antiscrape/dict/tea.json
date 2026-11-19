@@ -1,0 +1,47 @@
+{
+  "word": "tea",
+  "found": true,
+  "phonetic_uk": "tiː",
+  "phonetic_us": "tiː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tea&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tea&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "茶，茶水；（用其他植物叶子沏的）饮料；茶叶；<英>茶点，下午茶；<英>便餐，晚点；<西印度>（咖啡、可可等）热饮；<西印度>（尤指带有热饮、面包的）早点"
+    },
+    {
+      "pos": "vi.",
+      "meaning": "<古>喝茶，吃下午茶"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Tea）（柬）迪（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Would you like tea or coffee?",
+      "zh": "你喝茶还是喝咖啡？"
+    },
+    {
+      "en": "There's hardly any tea left.",
+      "zh": "没有剩什么茶了。"
+    },
+    {
+      "en": "\"Tea or coffee?\" John asked.",
+      "zh": "“喝茶还是喝咖啡？” 约翰问。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "茶叶；茶树；茶点",
+      "words": [
+        "tealeaf",
+        "refreshments"
+      ]
+    }
+  ]
+}

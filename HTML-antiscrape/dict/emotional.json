@@ -1,0 +1,39 @@
+{
+  "word": "emotional",
+  "found": true,
+  "phonetic_uk": "ɪˈməʊʃən(ə)l",
+  "phonetic_us": "ɪˈmoʊʃən(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=emotional&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=emotional&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "情感的，情绪的；激动人心的，有感染力的；情绪激动的（尤指哭泣），情感流露的；（人）易动感情的，感情用事的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "My emotional turmoil had drained me.",
+      "zh": "困惑焦灼的情绪使我心力交瘁。"
+    },
+    {
+      "en": "They made an emotional appeal for help.",
+      "zh": "他们情绪激动地恳求救助。"
+    },
+    {
+      "en": "The debate was highly emotional at times.",
+      "zh": "辩论有时非常情绪化。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "情绪的；易激动的；感动人的",
+      "words": [
+        "excitable",
+        "nervy"
+      ]
+    }
+  ]
+}

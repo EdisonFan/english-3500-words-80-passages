@@ -1,0 +1,39 @@
+{
+  "word": "statistic",
+  "found": true,
+  "phonetic_uk": "stəˈtɪstɪk",
+  "phonetic_us": "stəˈtɪstɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=statistic&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=statistic&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "统计数字，统计资料；统计学（statistics）；（一项）统计数据"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "统计的，统计学的（同 statistical）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "statistics"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I felt I was no longer being treated as a person but as a statistic.",
+      "zh": "我感觉我不再被看作人，而被看作一个统计数字了。"
+    },
+    {
+      "en": "The statistic figures in the report are not accurate. You should not refer to them.",
+      "zh": "这篇报告中的统计数据不精确，你不应该参照他们。"
+    },
+    {
+      "en": "The most important statistic of the day, however, was the $100,000,000 in TV advertising fees.",
+      "zh": "然而，当天最重要的统计数字是1亿美元的电视广告费。"
+    }
+  ],
+  "synonyms": []
+}

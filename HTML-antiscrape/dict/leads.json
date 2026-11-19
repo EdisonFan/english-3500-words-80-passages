@@ -1,0 +1,50 @@
+{
+  "word": "leads",
+  "found": true,
+  "phonetic_uk": "liːdz",
+  "phonetic_us": "liːdz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=leads&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=leads&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "引线；领导者；管道（lead 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "领导；通往（lead 的第三人称单数）；指引"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "This path leads to the summit.",
+      "zh": "这条路通往山顶。"
+    },
+    {
+      "en": "A study of yoga leads naturally to meditation.",
+      "zh": "习练瑜珈自然地导致冥想。"
+    },
+    {
+      "en": "Which door leads to the yard?",
+      "zh": "哪扇门通向庭院？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "引线；领导者；管道（lead的复数）",
+      "words": [
+        "pipelines",
+        "ducts"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "领导；通往（lead的第三人称单数）；指引",
+      "words": [
+        "points"
+      ]
+    }
+  ]
+}

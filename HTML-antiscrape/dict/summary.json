@@ -1,0 +1,57 @@
+{
+  "word": "summary",
+  "found": true,
+  "phonetic_uk": "ˈsʌməri",
+  "phonetic_us": "ˈsʌməri",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=summary&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=summary&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "总结，概要"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "总结性的，概括的；（司法程序）即决的，简易的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "summaries"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The following is a summary of events.",
+      "zh": "现将重大事件综述如下。"
+    },
+    {
+      "en": "Viewers saw him anchoring a five-minute summary of regional news.",
+      "zh": "观众们看到了他主持地区新闻的5分钟综述。"
+    },
+    {
+      "en": "This option lets you search your current directory for files by date, contents, and document summary.",
+      "zh": "这一选项让你按日期、内容和文件摘要在当前目录中查找文件。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "简易的；扼要的",
+      "words": [
+        "condensed",
+        "terse"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "概要，[图情]摘要",
+      "words": [
+        "abstract",
+        "brief",
+        "resume"
+      ]
+    }
+  ]
+}

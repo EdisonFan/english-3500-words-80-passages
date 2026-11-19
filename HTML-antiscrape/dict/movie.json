@@ -1,0 +1,53 @@
+{
+  "word": "movie",
+  "found": true,
+  "phonetic_uk": "ˈmuːvi",
+  "phonetic_us": "ˈmuːvi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=movie&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=movie&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "<美>电影；<美>电影院（the movies）；<美>电影业（the movies）；<美>电影（总称）（the movies）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "movies"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The movie has just let out.",
+      "zh": "电影刚刚散场。"
+    },
+    {
+      "en": "That movie was really wack.",
+      "zh": "那部电影糟透了。"
+    },
+    {
+      "en": "It's a really neat movie.",
+      "zh": "这真是一部极好的电影。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[电影]电影；电影院；电影业",
+      "words": [
+        "film",
+        "cinema",
+        "theater"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "[电影]电影的",
+      "words": [
+        "motion-picture",
+        "cinematic"
+      ]
+    }
+  ]
+}

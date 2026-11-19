@@ -1,0 +1,47 @@
+{
+  "word": "enterprise",
+  "found": true,
+  "phonetic_uk": "ˈentəpraɪz",
+  "phonetic_us": "ˈentərpraɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=enterprise&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=enterprise&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "企业，事业单位；事业心，进取心；事业；创业，企业经营"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "enterprises"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Horse breeding is indeed a risky enterprise.",
+      "zh": "养马的确是一项有风险的事业。"
+    },
+    {
+      "en": "State bureaucracies can tend to stifle enterprise and initiative.",
+      "zh": "国家官僚体制会压抑人的进取心和积极性。"
+    },
+    {
+      "en": "Its geographical location stimulated overseas mercantile enterprise.",
+      "zh": "它的地理位置激发了海外商业企业的兴趣。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[经]企业；事业；进取心；事业心",
+      "words": [
+        "career",
+        "cause",
+        "undertaking",
+        "project",
+        "push"
+      ]
+    }
+  ]
+}

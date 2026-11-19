@@ -1,0 +1,38 @@
+{
+  "word": "revisions",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "rɪˈvɪʒən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=revisions&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=revisions&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "校订，[印刷]修正；复习（revision 的复数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He made some minor revisions to the report before printing it out.",
+      "zh": "在将报告打印出来之前，他作了一些小小的修改。"
+    },
+    {
+      "en": "I think we have to make some revisions.",
+      "zh": "我想我们得做些修改。"
+    },
+    {
+      "en": "I think we will have to make some revisions.",
+      "zh": "我想我们得做些修改。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "校订，修正；复习（revision的复数形式）",
+      "words": [
+        "amendments"
+      ]
+    }
+  ]
+}

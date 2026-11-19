@@ -1,0 +1,71 @@
+{
+  "word": "fresh",
+  "found": true,
+  "phonetic_uk": "freʃ",
+  "phonetic_us": "freʃ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fresh&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fresh&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "新鲜的；新近的，刚经历的；新的，不同的；新颖的，独创的；清新的，清爽的；（水）淡的，无盐的；（风）凉爽的，强劲的；洁净的，亮丽的；精力充沛的；刚来的；（对异性）放肆的，无礼的；年轻可爱但缺乏经验的；<西印度>气味难闻的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "刚刚，新近地"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "fresher"
+    },
+    {
+      "name": "最高级",
+      "value": "freshest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We sell only fresh local produce.",
+      "zh": "我们只售当地的新鲜农产品。"
+    },
+    {
+      "en": "Is this milk fresh?",
+      "zh": "这是鲜牛奶吗？"
+    },
+    {
+      "en": "Fresh groups of guests arrived.",
+      "zh": "新客成批到达了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "新鲜的；清新的；[水文]淡水的；无经验的",
+      "words": [
+        "new",
+        "raw"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "开始；新生；泛滥",
+      "words": [
+        "beginning",
+        "threshold",
+        "opening",
+        "conception",
+        "start"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "刚刚，才；最新地",
+      "words": [
+        "hardly",
+        "just"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "highways",
+  "found": true,
+  "phonetic_uk": "ˈhaɪweɪz",
+  "phonetic_us": "ˈhaɪweɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=highways&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=highways&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[公路]公路；高速公路（highway 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The police set up blockades on highways leading out of the city.",
+      "zh": "警察在城市出口的公路上设下路障。"
+    },
+    {
+      "en": "The president wants to improve the nation's highways and mass transport systems.",
+      "zh": "总统想要改善国家的公路和公共交通系统。"
+    },
+    {
+      "en": "Highways radiate in all directions.",
+      "zh": "公路四通八达。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "公路；高速公路（highway的复数）",
+      "words": [
+        "expressways",
+        "freeways"
+      ]
+    }
+  ]
+}

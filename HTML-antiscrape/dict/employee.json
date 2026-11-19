@@ -1,0 +1,43 @@
+{
+  "word": "employee",
+  "found": true,
+  "phonetic_uk": "ɪmˈplɔɪiː",
+  "phonetic_us": "ɪmˈplɔɪiː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=employee&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=employee&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "雇员"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "employees"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He is an employee of Fuji Bank.",
+      "zh": "他是富士银行的一位雇员。"
+    },
+    {
+      "en": "One of the main themes of TQM is employee involvement.",
+      "zh": "全员质量管理的一个主要原则之一是雇员参与。"
+    },
+    {
+      "en": "He found it demeaning to work for his former employee.",
+      "zh": "他觉得为自己以前的雇员工作有失体面。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[劳经]雇员；从业员工",
+      "words": [
+        "hireling"
+      ]
+    }
+  ]
+}

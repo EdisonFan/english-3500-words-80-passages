@@ -1,0 +1,40 @@
+{
+  "word": "reminder",
+  "found": true,
+  "phonetic_uk": "rɪˈmaɪndə(r)",
+  "phonetic_us": "rɪˈmaɪndər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=reminder&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=reminder&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "提醒物，引起回忆的事物；（提醒做某事的）提示信，通知单"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "This has been a timely reminder to us all.",
+      "zh": "对我们大家来说这个提醒非常及时。"
+    },
+    {
+      "en": "His words were a pointed reminder of her position.",
+      "zh": "他刻意提醒了她的身份。"
+    },
+    {
+      "en": "The accident was a salutary reminder of the dangers of climbing.",
+      "zh": "这次事故提醒人们注意登山的种种危险，倒也不无益处。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "暗示；提醒的人/物；催单",
+      "words": [
+        "connotation",
+        "implication",
+        "allusion"
+      ]
+    }
+  ]
+}

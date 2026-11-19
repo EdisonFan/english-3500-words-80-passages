@@ -1,0 +1,80 @@
+{
+  "word": "cry",
+  "found": true,
+  "phonetic_uk": "kraɪ",
+  "phonetic_us": "kraɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cry&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cry&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "哭，哭泣；喊叫，呼喊；（兽或鸟）大叫"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（表达强烈感情的）叫喊，叫声，哭声；大喊，大叫；抗议，请求；吠，嗥叫；哭，哭泣；急需；口号，公众舆论"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "cries"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "cries"
+    },
+    {
+      "name": "现在分词",
+      "value": "crying"
+    },
+    {
+      "name": "过去式",
+      "value": "cried"
+    },
+    {
+      "name": "过去分词",
+      "value": "cried"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Babies cry when they are tired.",
+      "zh": "婴儿疲倦时会哭。"
+    },
+    {
+      "en": "She let out an anguished cry.",
+      "zh": "她发出了一声极为痛苦的叫喊。"
+    },
+    {
+      "en": "His ears caught a faint cry.",
+      "zh": "他的耳朵听到微弱的哭声。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "叫喊；哭出；大声说",
+      "words": [
+        "Say It Loud",
+        "bawl out"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "叫喊；叫声；口号；呼叫",
+      "words": [
+        "call",
+        "wow"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "哭；叫；喊",
+      "words": [
+        "blub",
+        "stare after"
+      ]
+    }
+  ]
+}

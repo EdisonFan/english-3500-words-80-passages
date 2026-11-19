@@ -1,0 +1,44 @@
+{
+  "word": "university",
+  "found": true,
+  "phonetic_uk": "ˌjuːnɪˈvɜːsəti",
+  "phonetic_us": "ˌjuːnɪˈvɜːrsəti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=university&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=university&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "大学，综合性大学；大学校舍"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "universities"
+    }
+  ],
+  "examples": [
+    {
+      "en": "My daughter is at university.",
+      "zh": "我女儿在上大学。"
+    },
+    {
+      "en": "She goes to Duke University.",
+      "zh": "她上杜克大学。"
+    },
+    {
+      "en": "University was the making of Joe.",
+      "zh": "大学造就了乔。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "大学；综合性大学；大学校舍",
+      "words": [
+        "college",
+        "campus"
+      ]
+    }
+  ]
+}

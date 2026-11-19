@@ -1,0 +1,48 @@
+{
+  "word": "sunrise",
+  "found": true,
+  "phonetic_uk": "ˈsʌnraɪz",
+  "phonetic_us": "ˈsʌnraɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sunrise&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sunrise&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "日出（时分），黎明；晨曦，朝霞；（Sunrise）森赖斯（弗罗里达州一城市）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Sunrise）松里泽（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "sunrises"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The rain began before sunrise.",
+      "zh": "雨是在日出前开始下的。"
+    },
+    {
+      "en": "We got up at sunrise.",
+      "zh": "我们在日出时起床。"
+    },
+    {
+      "en": "I'll be at work by sunrise.",
+      "zh": "日出之前我就开始工作了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[天]日出；黎明",
+      "words": [
+        "morning",
+        "sunup"
+      ]
+    }
+  ]
+}

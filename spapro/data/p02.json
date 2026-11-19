@@ -1,0 +1,389 @@
+{
+  "id": 2,
+  "stats": {
+    "words": 298,
+    "core": 69
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "It's a {joyful} yet {stressful} time of {year} in the United States for students and {their} {family} as they {make} {decision} {about} {where} to attend {college}. Families {often} turn to {ranking} {system} to {help} make a decision. {however}, the rankings {ignore} a {critical} {factor}: the quality of teaching.",
+      "cn": "对于美国学生和 <u> 他们的家人 </u> 来说，这是一 <u> 年 </u> 中既 <u> 高兴 </u> 又 <u> 紧张 </u> 的一段时间，因为他们要 <u> 决定 </u> 去 <u> 哪里 </u> 上 <u> 大学 </u> 。家庭 <u> 通常 </u> 都会借助 <u> 排名系统 </u> 来 <u> 辅助 </u> 做决定。 <u> 然而 </u> ，这些排名 <u> 忽略 </u> 了一个 <u> 关键的因素 </u> ：教学质量。"
+    },
+    {
+      "num": "02",
+      "en": "When I {talk} to families as a {scholar} of higher {education}, they're often {surprised} that teaching {excellence} is not counted in rankings. They're {even} {more} surprised at how teaching is {undervalue} by universities.",
+      "cn": "当我作为一名高等 <u> 教育学者 </u> 与家庭 <u> 交谈 </u> 时，他们常常 <u> 惊讶 </u> 地发现，教学质量 <u> 优异 </u> 在排名中并未被纳入考量范畴。而大学对教学的 <u> 轻视更 </u> 令他们惊讶。"
+    },
+    {
+      "num": "03",
+      "en": "{emerging} research suggests that courses in lower-ranked universities, on average, {score} higher on teaching {than} courses in higher-ranked universities. In {fact}, universities often {shift} {emphasis} from teaching to other ranking factors. The absence of teaching excellence from the rankings is {surprising} given the {link} {between} high-quality teaching and student success. Quality teaching is one of the most important {predictor} of a {wide} range of college outcomes.",
+      "cn": "<u> 新兴的 </u> 研究表明，排名较低的大学在教学方面的平均 <u> 得分比 </u> 排名较高的大学高。 <u> 事实 </u> 上，大学通常会把 <u> 重点 </u> 从教学 <u> 转移 </u> 到其他排名因素上。考虑到高质量教学与学生成功 <u> 之间 </u> 的 <u> 联系 </u> ，排名中缺少教学质量优异这一因素实在 <u> 令人惊讶 </u> 。优质教学是 <u> 预测 </u> 大学 <u> 诸多 </u> 成果的最重要 <u> 因素 </u> 之一。"
+    },
+    {
+      "num": "04",
+      "en": "Rankings, however, are only one reason why a {low} value is {place} on teaching in higher education. {administrator} often don't {view} teaching excellence as a way to {increase} {enrollment} or {funding}. {therefore}, it's not {highly} valued in hiring or {promotion}. Research shows that the more time {instructor} spend on teaching, the lower their {salary}. What is the {result}? Many instructors {continue} to teach using {traditional} {lecture}, which {lead} to lower success rates.",
+      "cn": "然而，排名仅仅是高等教育中教学不受重视（教学被 <u> 赋予 </u> 较 <u> 低 </u> 的价值）的一个原因。 <u> 管理者 </u> 通常不 <u> 把 </u> 教学质量优异 <u> 视为增加入学率 </u> 或 <u> 经费 </u> 的途径。 <u> 因此 </u> ，在招聘或 <u> 晋升 </u> 时，教学并未受到 <u> 高度 </u> 重视。研究表明， <u> 教师 </u> 花在教学上的时间越多， <u> 工资 </u> 就越低。 <u> 结果 </u> 是什么呢？就是许多教师 <u> 继续 </u> 采用 <u> 传统的授课 </u> 方式， <u> 导致 </u> 了更低的成功率。"
+    },
+    {
+      "num": "05",
+      "en": "Quality teaching has been an important reputation-building factor. {nevertheless}, not {much} will change until schools with high-quality teaching are {reward} with more {resource}, higher rankings and increased enrollments. In the {long} term, universities, {organization} that rank schools, and others should {work} together to make teaching a valued, {core} {part} of the {mission}.",
+      "cn": "优质教学一直是建立大学声誉的一个重要因素。 <u> 然而 </u> ，除非那些教学质量高的学校能被 <u> 回报 </u> 以更多的 <u> 资源 </u> 、更高的排名和入学率，否则情况不会有太 <u> 大 </u> 的改变。从 <u> 长远 </u> 来看，大学、负责为学校排名的 <u> 机构 </u> 和其他机构应共同 <u> 努力 </u> ，让教学成为学校 <u> 使命 </u> 中重要的 <u> 核心 </u> <u> 部分 </u> 。"
+    },
+    {
+      "num": "06",
+      "en": "What {should} students and their families do? They should give {strong} {consideration} to universities where high-quality teaching is valued, even {though} the schools {may} be ranked lower.",
+      "cn": "学生和他们的家人 <u> 应该 </u> 怎么做呢？他们应该 <u> 认真考虑 </u> 那些重视高质量教学的大学， <u> 即使 </u> 这些学校的排名 <u> 可能 </u> 较低。"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "joyful",
+      "type": "core",
+      "ctx": "高兴的"
+    },
+    {
+      "word": "stressful",
+      "type": "core",
+      "ctx": "紧张的"
+    },
+    {
+      "word": "year",
+      "type": "outline",
+      "ctx": "年"
+    },
+    {
+      "word": "their",
+      "type": "outline",
+      "ctx": "他们的"
+    },
+    {
+      "word": "family",
+      "type": "outline",
+      "ctx": "家人"
+    },
+    {
+      "word": "make",
+      "type": "outline",
+      "ctx": "做"
+    },
+    {
+      "word": "decision",
+      "type": "outline",
+      "ctx": "决定"
+    },
+    {
+      "word": "about",
+      "type": "outline",
+      "ctx": "关于"
+    },
+    {
+      "word": "where",
+      "type": "outline",
+      "ctx": "哪里"
+    },
+    {
+      "word": "college",
+      "type": "outline",
+      "ctx": "大学"
+    },
+    {
+      "word": "often",
+      "type": "outline",
+      "ctx": "经常"
+    },
+    {
+      "word": "ranking",
+      "type": "core",
+      "ctx": "排名"
+    },
+    {
+      "word": "system",
+      "type": "outline",
+      "ctx": "系统"
+    },
+    {
+      "word": "help",
+      "type": "outline",
+      "ctx": "帮助"
+    },
+    {
+      "word": "however",
+      "type": "outline",
+      "ctx": "然而"
+    },
+    {
+      "word": "ignore",
+      "type": "outline",
+      "ctx": "忽略"
+    },
+    {
+      "word": "critical",
+      "type": "outline",
+      "ctx": "关键的"
+    },
+    {
+      "word": "factor",
+      "type": "outline",
+      "ctx": "因素"
+    },
+    {
+      "word": "talk",
+      "type": "outline",
+      "ctx": "交谈"
+    },
+    {
+      "word": "scholar",
+      "type": "core",
+      "ctx": "学者"
+    },
+    {
+      "word": "education",
+      "type": "outline",
+      "ctx": "教育"
+    },
+    {
+      "word": "surprised",
+      "type": "core",
+      "ctx": "惊讶的"
+    },
+    {
+      "word": "excellence",
+      "type": "core",
+      "ctx": "卓越"
+    },
+    {
+      "word": "even",
+      "type": "outline",
+      "ctx": "甚至"
+    },
+    {
+      "word": "more",
+      "type": "outline",
+      "ctx": "更"
+    },
+    {
+      "word": "undervalue",
+      "type": "core",
+      "ctx": "轻视"
+    },
+    {
+      "word": "emerging",
+      "type": "core",
+      "ctx": "新兴的"
+    },
+    {
+      "word": "score",
+      "type": "outline",
+      "ctx": "得分"
+    },
+    {
+      "word": "than",
+      "type": "outline",
+      "ctx": "比"
+    },
+    {
+      "word": "fact",
+      "type": "outline",
+      "ctx": "事实"
+    },
+    {
+      "word": "shift",
+      "type": "outline",
+      "ctx": "转移"
+    },
+    {
+      "word": "emphasis",
+      "type": "outline",
+      "ctx": "重点"
+    },
+    {
+      "word": "surprising",
+      "type": "core",
+      "ctx": "令人惊讶的"
+    },
+    {
+      "word": "link",
+      "type": "outline",
+      "ctx": "联系"
+    },
+    {
+      "word": "between",
+      "type": "outline",
+      "ctx": "之间"
+    },
+    {
+      "word": "predictor",
+      "type": "core",
+      "ctx": "预测（因素）"
+    },
+    {
+      "word": "wide",
+      "type": "outline",
+      "ctx": "广泛的"
+    },
+    {
+      "word": "low",
+      "type": "outline",
+      "ctx": "低的"
+    },
+    {
+      "word": "place",
+      "type": "outline",
+      "ctx": "赋予"
+    },
+    {
+      "word": "administrator",
+      "type": "core",
+      "ctx": "管理者"
+    },
+    {
+      "word": "view",
+      "type": "outline",
+      "ctx": "视为"
+    },
+    {
+      "word": "increase",
+      "type": "outline",
+      "ctx": "增加"
+    },
+    {
+      "word": "enrollment",
+      "type": "core",
+      "ctx": "入学率"
+    },
+    {
+      "word": "funding",
+      "type": "core",
+      "ctx": "经费"
+    },
+    {
+      "word": "therefore",
+      "type": "outline",
+      "ctx": "因此"
+    },
+    {
+      "word": "highly",
+      "type": "outline",
+      "ctx": "高度"
+    },
+    {
+      "word": "promotion",
+      "type": "core",
+      "ctx": "晋升"
+    },
+    {
+      "word": "instructor",
+      "type": "core",
+      "ctx": "教师"
+    },
+    {
+      "word": "salary",
+      "type": "outline",
+      "ctx": "工资"
+    },
+    {
+      "word": "result",
+      "type": "outline",
+      "ctx": "结果"
+    },
+    {
+      "word": "continue",
+      "type": "outline",
+      "ctx": "继续"
+    },
+    {
+      "word": "traditional",
+      "type": "outline",
+      "ctx": "传统的"
+    },
+    {
+      "word": "lecture",
+      "type": "outline",
+      "ctx": "授课"
+    },
+    {
+      "word": "lead",
+      "type": "outline",
+      "ctx": "导致"
+    },
+    {
+      "word": "nevertheless",
+      "type": "outline",
+      "ctx": "然而"
+    },
+    {
+      "word": "much",
+      "type": "outline",
+      "ctx": "多"
+    },
+    {
+      "word": "reward",
+      "type": "outline",
+      "ctx": "回报"
+    },
+    {
+      "word": "resource",
+      "type": "outline",
+      "ctx": "资源"
+    },
+    {
+      "word": "long",
+      "type": "outline",
+      "ctx": "长远"
+    },
+    {
+      "word": "organization",
+      "type": "outline",
+      "ctx": "机构"
+    },
+    {
+      "word": "work",
+      "type": "outline",
+      "ctx": "努力"
+    },
+    {
+      "word": "core",
+      "type": "outline",
+      "ctx": "核心"
+    },
+    {
+      "word": "part",
+      "type": "outline",
+      "ctx": "部分"
+    },
+    {
+      "word": "mission",
+      "type": "outline",
+      "ctx": "使命"
+    },
+    {
+      "word": "should",
+      "type": "outline",
+      "ctx": "应该"
+    },
+    {
+      "word": "strong",
+      "type": "outline",
+      "ctx": "认真的"
+    },
+    {
+      "word": "consideration",
+      "type": "core",
+      "ctx": "考虑"
+    },
+    {
+      "word": "though",
+      "type": "outline",
+      "ctx": "尽管"
+    },
+    {
+      "word": "may",
+      "type": "outline",
+      "ctx": "可能"
+    }
+  ],
+  "audio": "https://pc-media.xdfsjj.com/45be0b864bd4ec3f1b128616c95e0125/6A3D4104/tm7345927_7026a74e76da42144e1a3f0c656668d15655bed0.mp3",
+  "duration": "05:08",
+  "resourceId": "33187850"
+}

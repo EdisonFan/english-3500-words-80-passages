@@ -1,0 +1,64 @@
+{
+  "word": "declare",
+  "found": true,
+  "phonetic_uk": "dɪˈkleə(r)",
+  "phonetic_us": "dɪˈkler",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=declare&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=declare&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "宣布，声明；断言，宣称；申报；放弃击球，宣布结束赛局"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "declares"
+    },
+    {
+      "name": "现在分词",
+      "value": "declaring"
+    },
+    {
+      "name": "过去式",
+      "value": "declared"
+    },
+    {
+      "name": "过去分词",
+      "value": "declared"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I declare this festival open.",
+      "zh": "我宣布庆祝活动开始。"
+    },
+    {
+      "en": "Do you have anything to declare?",
+      "zh": "你有什么要申报的吗？"
+    },
+    {
+      "en": "I declare this bridge open.",
+      "zh": "我宣布大桥正式启用。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "宣布，声明；断言，宣称",
+      "words": [
+        "bill",
+        "state"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "声明，宣布",
+      "words": [
+        "to announce",
+        "hand down"
+      ]
+    }
+  ]
+}

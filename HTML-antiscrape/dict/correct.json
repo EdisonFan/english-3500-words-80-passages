@@ -1,0 +1,85 @@
+{
+  "word": "correct",
+  "found": true,
+  "phonetic_uk": "kəˈrekt",
+  "phonetic_us": "kəˈrekt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=correct&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=correct&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "正确的，无误的；恰当的，合适的；（行为）合乎礼节的，得体的；（行为）被人认可的，赞许的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "改正，纠正；批改；指出错误；（医疗）矫正"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "corrects"
+    },
+    {
+      "name": "现在分词",
+      "value": "correcting"
+    },
+    {
+      "name": "过去式",
+      "value": "corrected"
+    },
+    {
+      "name": "过去分词",
+      "value": "corrected"
+    },
+    {
+      "name": "比较级",
+      "value": "more correct"
+    },
+    {
+      "name": "最高级",
+      "value": "most correct"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Yes, that's basically correct.",
+      "zh": "对，基本正确。"
+    },
+    {
+      "en": "Only one of the answers is correct.",
+      "zh": "这些答案中只有一个是正确的。"
+    },
+    {
+      "en": "I think you've made the correct decision.",
+      "zh": "我认为你的决定是正确的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "改正；告诫",
+      "words": [
+        "rectify",
+        "admonish"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "调整；纠正错误",
+      "words": [
+        "adjust",
+        "adapt for"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "正确的；恰当的；端正的",
+      "words": [
+        "right",
+        "true",
+        "just"
+      ]
+    }
+  ]
+}

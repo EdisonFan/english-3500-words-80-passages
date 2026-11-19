@@ -1,0 +1,51 @@
+{
+  "word": "makes",
+  "found": true,
+  "phonetic_uk": "meɪks",
+  "phonetic_us": "meɪks",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=makes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=makes&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "做，制作（make 的第三人称单数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "品质；产量；制作过程（make 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He makes plastic reusable moulds.",
+      "zh": "他制作可再次使用的塑料模子。"
+    },
+    {
+      "en": "She makes her own clothes.",
+      "zh": "她自己做衣服。"
+    },
+    {
+      "en": "She always makes me laugh.",
+      "zh": "她总是让我发笑。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "做，制作（make的第三人称单数）",
+      "words": [
+        "does",
+        "forms",
+        "doth"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "品质；产量；制作过程（make的复数）",
+      "words": [
+        "sorts"
+      ]
+    }
+  ]
+}

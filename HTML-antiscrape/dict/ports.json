@@ -1,0 +1,30 @@
+{
+  "word": "ports",
+  "found": true,
+  "phonetic_uk": "pɔːts",
+  "phonetic_us": "pɔːrts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ports&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ports&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[水运]港口，[电子][计]端口（port 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The steamer calls at several palm-fringed ports along the way.",
+      "zh": "汽船一路上停靠过好几个棕榈树掩映的港口。"
+    },
+    {
+      "en": "Britain's trade figures can no longer be extracted from export-and-import documentation at ports.",
+      "zh": "英国的贸易数字再也不能从各港口的进出口文件中摘取了。"
+    },
+    {
+      "en": "Ships could be diverted to other ports and that would have a serious ripple effect through the local economy.",
+      "zh": "可以把货轮转向其他港口，那样的话可能会对当地经济造成严重的连锁反应。"
+    }
+  ],
+  "synonyms": []
+}

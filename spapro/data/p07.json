@@ -1,0 +1,294 @@
+{
+  "id": 7,
+  "stats": {
+    "words": 296,
+    "core": 51
+  },
+  "paragraphs": [
+    {
+      "num": "01",
+      "en": "If the {only} reading you {ever} do is the novel or {magazine}, the {speed} at which you read— {probably} does not {matter} very much.But if you have to read a great {deal} for study, you will {appreciate} the benefits of being {able} to read more {quickly}.Here are some tips to help {improve} your reading speed.",
+      "cn": "如果你 <u> 一直 </u> 以来 <u> 只 </u> 读小说或 <u> 杂志 </u> 的话，那阅读 <u> 速度可能 </u> 并不那么 <u> 重要 </u> 。但是，如果你必须为了学习而大 <u> 量 </u> 阅读，你就会 <u> 意识到能够快速 </u> 阅读的好处。以下是一些帮助你 <u> 提高 </u> 阅读速度的小技巧。"
+    },
+    {
+      "num": "02",
+      "en": "{before} you {open} the {book}, make {sure} that you are comfortable.You need a {seat} which {support} your back and the book should be at the right {distance} from your {eye}.Keep the room {cool} rather than {warm} to {avoid} feeling {sleepy}.",
+      "cn": "<u> 在 </u> 你 <u> 打开书之前 </u> ， <u> 确保 </u> 自己处于舒适的状态。你需要一个能 <u> 支撑 </u> 背部的 <u> 座位 </u> ，并且书与 <u> 眼睛 </u> 的 <u> 距离 </u> 要适中。室内不要太 <u> 暖和 </u> ， <u> 凉爽 </u> 一点更好，以 <u> 免 </u> 感到 <u> 困倦 </u> 。"
+    },
+    {
+      "num": "03",
+      "en": "Spend a few {minute} looking {through} the book.Look at the {table} of contents, the {preface}, the {chapter} {heading} , etc.This will help you to decide whether you {really} need to read the whole book or only certain parts of it.Ten minutes spent in this way could save you quite a lot of time in the long {run}.",
+      "cn": "先花几 <u> 分钟 </u> 时间浏览一下这本书。看看目录、 <u> 前言 </u> 、 <u> 章节标题 </u> 等。这将帮助你决定是否 <u> 真的 </u> 需要阅读整本书，还是只需阅读其中的某些部分。从长远来看，花十分钟这样做可以为你节省大量的时间。"
+    },
+    {
+      "num": "04",
+      "en": "If you decide that you need to read the whole book, decide how much you can read at a {time}.This depends on the {type} of book you are reading.A {history} book, which may {contain} the facts in {story} form, will be easier to read than one dealing with {scientific} {subject}.In the {former} {case} , you may be able to read a chapter.In the {latter}, you may only be able to read one page.",
+      "cn": "如果你决定需要阅读整本书，确定一下你一 <u> 次 </u> 能读多少内容。这取决于你阅读的书籍 <u> 类型 </u> 。 <u> 历史 </u> 类书籍可能 <u> 包含 </u> 以 <u> 故事 </u> 的形式讲述的事实，因此比探讨 <u> 科学题材 </u> 的书籍更容易阅读。在 <u> 前一种情况 </u> 下，你或许能够读完一章。而对于 <u> 后者 </u> ，你可能只能读完一页。"
+    },
+    {
+      "num": "05",
+      "en": "Always keep a {pencil} and {paper} {beside} you.Make a note of any page that is of special {importance}.Note also the facts important for your {purpose} as well as {anything} that leads you to {further} research.You don't have to write these things in {detail}.It is {enough} to write down the page {number} and one or two words as a reminder.",
+      "cn": "始终 <u> 在身边 </u> 准备好 <u> 铅笔 </u> 和 <u> 纸 </u> 。记下任何特别 <u> 重要 </u> 的页面。还要记下对你的阅读 <u> 目的 </u> 来说重要的事实，以及 <u> 任何 </u> 能引导你进行 <u> 进一步 </u> 研究的 <u> 内容 </u> 。你不必 <u> 详细 </u> 地记录这些内容。只要写上页 <u> 码 </u> 和一两个词作为提醒就 <u> 足够 </u> 了。"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "only",
+      "type": "outline",
+      "ctx": "唯一的"
+    },
+    {
+      "word": "ever",
+      "type": "outline",
+      "ctx": "在任何时候"
+    },
+    {
+      "word": "magazine",
+      "type": "outline",
+      "ctx": "杂志"
+    },
+    {
+      "word": "speed",
+      "type": "outline",
+      "ctx": "速度"
+    },
+    {
+      "word": "probably",
+      "type": "outline",
+      "ctx": "很可能"
+    },
+    {
+      "word": "matter",
+      "type": "outline",
+      "ctx": "事情"
+    },
+    {
+      "word": "deal",
+      "type": "outline",
+      "ctx": "大量"
+    },
+    {
+      "word": "appreciate",
+      "type": "outline",
+      "ctx": "欣赏"
+    },
+    {
+      "word": "able",
+      "type": "outline",
+      "ctx": "能"
+    },
+    {
+      "word": "quickly",
+      "type": "core",
+      "ctx": "迅速地"
+    },
+    {
+      "word": "improve",
+      "type": "outline",
+      "ctx": "改善"
+    },
+    {
+      "word": "before",
+      "type": "outline",
+      "ctx": "在……以前"
+    },
+    {
+      "word": "open",
+      "type": "outline",
+      "ctx": "开"
+    },
+    {
+      "word": "book",
+      "type": "outline",
+      "ctx": "书"
+    },
+    {
+      "word": "sure",
+      "type": "outline",
+      "ctx": "确信"
+    },
+    {
+      "word": "seat",
+      "type": "outline",
+      "ctx": "座位"
+    },
+    {
+      "word": "support",
+      "type": "outline",
+      "ctx": "支撑"
+    },
+    {
+      "word": "distance",
+      "type": "outline",
+      "ctx": "距离"
+    },
+    {
+      "word": "eye",
+      "type": "outline",
+      "ctx": "眼睛"
+    },
+    {
+      "word": "cool",
+      "type": "outline",
+      "ctx": "凉爽的"
+    },
+    {
+      "word": "warm",
+      "type": "outline",
+      "ctx": "温暖的"
+    },
+    {
+      "word": "avoid",
+      "type": "outline",
+      "ctx": "避免"
+    },
+    {
+      "word": "sleepy",
+      "type": "outline",
+      "ctx": "想睡的"
+    },
+    {
+      "word": "minute",
+      "type": "outline",
+      "ctx": "分"
+    },
+    {
+      "word": "through",
+      "type": "outline",
+      "ctx": "穿过"
+    },
+    {
+      "word": "table",
+      "type": "outline",
+      "ctx": "桌子"
+    },
+    {
+      "word": "preface",
+      "type": "core",
+      "ctx": "序言"
+    },
+    {
+      "word": "chapter",
+      "type": "outline",
+      "ctx": "章"
+    },
+    {
+      "word": "heading",
+      "type": "core",
+      "ctx": "标题"
+    },
+    {
+      "word": "really",
+      "type": "outline",
+      "ctx": "事实上"
+    },
+    {
+      "word": "run",
+      "type": "outline",
+      "ctx": "运行"
+    },
+    {
+      "word": "time",
+      "type": "outline",
+      "ctx": "[U]时间"
+    },
+    {
+      "word": "type",
+      "type": "outline",
+      "ctx": "类型"
+    },
+    {
+      "word": "history",
+      "type": "outline",
+      "ctx": "历史"
+    },
+    {
+      "word": "contain",
+      "type": "outline",
+      "ctx": "包含"
+    },
+    {
+      "word": "story",
+      "type": "outline",
+      "ctx": "故事"
+    },
+    {
+      "word": "scientific",
+      "type": "outline",
+      "ctx": "科学的"
+    },
+    {
+      "word": "subject",
+      "type": "outline",
+      "ctx": "题目"
+    },
+    {
+      "word": "former",
+      "type": "outline",
+      "ctx": "以前的"
+    },
+    {
+      "word": "case",
+      "type": "outline",
+      "ctx": "具体情况"
+    },
+    {
+      "word": "latter",
+      "type": "core",
+      "ctx": "（两者之中的）后者"
+    },
+    {
+      "word": "pencil",
+      "type": "outline",
+      "ctx": "铅笔"
+    },
+    {
+      "word": "paper",
+      "type": "outline",
+      "ctx": "纸"
+    },
+    {
+      "word": "beside",
+      "type": "outline",
+      "ctx": "在……旁边"
+    },
+    {
+      "word": "importance",
+      "type": "core",
+      "ctx": "重要性"
+    },
+    {
+      "word": "purpose",
+      "type": "outline",
+      "ctx": "目的"
+    },
+    {
+      "word": "anything",
+      "type": "outline",
+      "ctx": "某事（物）"
+    },
+    {
+      "word": "further",
+      "type": "outline",
+      "ctx": "更多的"
+    },
+    {
+      "word": "detail",
+      "type": "outline",
+      "ctx": "具体情况"
+    },
+    {
+      "word": "enough",
+      "type": "outline",
+      "ctx": "足够"
+    },
+    {
+      "word": "number",
+      "type": "outline",
+      "ctx": "数字"
+    }
+  ],
+  "audio": "https://pc-media.xdfsjj.com/d07b8912cc4d5bdd81812830e2836df0/6A3D411D/tm7345927_b64b06e1af8665a8d640d9e7168ef9ed8c47c44d.mp3",
+  "duration": "03:52",
+  "resourceId": "33187577"
+}

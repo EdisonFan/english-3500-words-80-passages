@@ -1,0 +1,38 @@
+{
+  "word": "pairs",
+  "found": true,
+  "phonetic_uk": "peəz",
+  "phonetic_us": "perz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pairs&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pairs&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "一对，一双，一副；对子（pair 的复数）"
+    },
+    {
+      "pos": "vt.",
+      "meaning": "把……组成一对；给……配对（pair 的第三人称单数）"
+    },
+    {
+      "pos": "vi.",
+      "meaning": "配成对；（动物）交配（pair 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They marched out singly or in pairs.",
+      "zh": "他们一个一个地或成双成对地走出去。"
+    },
+    {
+      "en": "He wore out two pairs of shoes last year.",
+      "zh": "去年他穿坏了两双鞋。"
+    },
+    {
+      "en": "He programmed his computer to compare the 1,431 possible combinations of pairs in this population.",
+      "zh": "他给他的计算机编了程来比较这些人中1431种可能的成对组合。"
+    }
+  ],
+  "synonyms": []
+}

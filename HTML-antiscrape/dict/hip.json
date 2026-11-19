@@ -1,0 +1,80 @@
+{
+  "word": "hip",
+  "found": true,
+  "phonetic_uk": "hɪp",
+  "phonetic_us": "hɪp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=hip&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=hip&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "臀部，髋；屋脊；野蔷薇果"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "时髦的"
+    },
+    {
+      "pos": "int.",
+      "meaning": "加油！ 好哇！"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Hip）（塞）希普，（中）协（广东话·威妥玛）（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "hips"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "hips"
+    },
+    {
+      "name": "现在分词",
+      "value": "hipping"
+    },
+    {
+      "name": "过去式",
+      "value": "hipped"
+    },
+    {
+      "name": "过去分词",
+      "value": "hipped"
+    },
+    {
+      "name": "比较级",
+      "value": "hipper或more hip"
+    },
+    {
+      "name": "最高级",
+      "value": "hippest或most hip"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He fell and fractured his hip.",
+      "zh": "他跌了一跤将髋关节摔裂。"
+    },
+    {
+      "en": "She broke her hip in the fall.",
+      "zh": "她摔倒时折断了髋骨。"
+    },
+    {
+      "en": "The car struck him a glancing blow on the hip.",
+      "zh": "轿车斜撞到他髋部。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "臀部；[植]蔷薇果；忧郁",
+      "words": [
+        "bottom",
+        "croup"
+      ]
+    }
+  ]
+}

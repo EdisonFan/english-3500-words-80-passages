@@ -1,0 +1,64 @@
+{
+  "word": "driving",
+  "found": true,
+  "phonetic_uk": "ˈdraɪvɪŋ",
+  "phonetic_us": "ˈdraɪvɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=driving&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=driving&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "推动的，强有力的；猛烈的，倾泻而下的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "驾驶，（某人的）驾车方式"
+    },
+    {
+      "pos": "v.",
+      "meaning": "开车，驾驶；驾车送人；迫使，促使（drive 的现在分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He admitted driving recklessly.",
+      "zh": "他承认鲁莽驾驶。"
+    },
+    {
+      "en": "Tiredness while driving can kill.",
+      "zh": "疲劳驾驶会出人命的。"
+    },
+    {
+      "en": "He failed his driving test.",
+      "zh": "他驾驶执照考试不及格。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "强劲的；推进的；精力旺盛的",
+      "words": [
+        "intruded",
+        "pulsive"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "驾驶；操纵",
+      "words": [
+        "management",
+        "manipulation",
+        "working",
+        "steering"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "驾驶（drive的ing形式）",
+      "words": [
+        "steering"
+      ]
+    }
+  ]
+}

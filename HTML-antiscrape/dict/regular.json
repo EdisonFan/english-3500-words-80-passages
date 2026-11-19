@@ -1,0 +1,79 @@
+{
+  "word": "regular",
+  "found": true,
+  "phonetic_uk": "ˈreɡjələ(r)",
+  "phonetic_us": "ˈreɡjələr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=regular&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=regular&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "定期的，规律的；经常的，频繁的；惯常的，通常的；持久的，固定的；标准尺寸的，中号的；普通的，平凡的；常备军的，正规军的；（动词）规则的；（人）正常通便的，月经正常的；完全的，彻底的；均匀的，端正的；正规的，正当的；（冲浪等）左腿在前的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "常客，老主顾；主演，主力队员；正规军人，职业军人；普通产品，普通装；（区别于世俗教士的）修道者，教士"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】  （Regular）（以）雷古拉尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "regulars"
+    },
+    {
+      "name": "比较级",
+      "value": "more regular"
+    },
+    {
+      "name": "最高级",
+      "value": "most regular"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Do you take regular exercise?",
+      "zh": "你经常锻炼吗？"
+    },
+    {
+      "en": "Regular exercise helps prevent weight gain.",
+      "zh": "经常锻炼有助于防止体重增加。"
+    },
+    {
+      "en": "Employees make regular donations to charity.",
+      "zh": "员工们定期向慈善机构捐赠物品。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "定期的；有规律的；合格的；[植]整齐的",
+      "words": [
+        "qualified",
+        "stated",
+        "ordered",
+        "straight",
+        "periodic"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "常客；正式队员；中坚分子",
+      "words": [
+        "familiar",
+        "elite"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "定期地；经常地",
+      "words": [
+        "frequently",
+        "periodically"
+      ]
+    }
+  ]
+}

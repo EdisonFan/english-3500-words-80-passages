@@ -1,0 +1,75 @@
+{
+  "word": "fork",
+  "found": true,
+  "phonetic_uk": "fɔːk",
+  "phonetic_us": "fɔːrk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fork&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fork&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "餐叉，叉子；耙，叉；岔路，支流；叉状部件，叉状物；（棋）一捉两，一捉多"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（道路、河流等）分岔，岔开；（用餐叉）叉起；耙地，叉掘；（不情愿地）大把花钱，付出；走岔路中的一条；用一个棋子同时进攻（两个棋子）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Fork）（英、德）福克（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "forks"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "forks"
+    },
+    {
+      "name": "现在分词",
+      "value": "forking"
+    },
+    {
+      "name": "过去式",
+      "value": "forked"
+    },
+    {
+      "name": "过去分词",
+      "value": "forked"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She stabbed the air with her fork.",
+      "zh": "她用叉子在空中比画。"
+    },
+    {
+      "en": "She popped a balloon with her fork.",
+      "zh": "她用叉子把气球砰的一声戳爆了。"
+    },
+    {
+      "en": "He poked at the spaghetti with a fork.",
+      "zh": "他用叉子拨弄着面条。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "叉；餐叉；耙",
+      "words": [
+        "harrow"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "分叉；分歧",
+      "words": [
+        "branch off",
+        "diverge"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "word": "humanity",
+  "found": true,
+  "phonetic_uk": "hjuːˈmænəti",
+  "phonetic_us": "hjuːˈmænəti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=humanity&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=humanity&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "人类（总称）；人性，人的属性；人道，仁慈；（历史、哲学、文学等）人文学科"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "humanities"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It helps engender a sense of common humanity.",
+      "zh": "它有助于引发一种共同的人道主义精神。"
+    },
+    {
+      "en": "The judge was praised for his courage and humanity.",
+      "zh": "法官的勇气和人道受到称赞。"
+    },
+    {
+      "en": "Each circle symbolically represents the whole of humanity.",
+      "zh": "每个圆圈都象征性地代表全人类。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[人类]人类；人道；仁慈；人文学科",
+      "words": [
+        "mankind",
+        "people",
+        "mercy",
+        "kindness"
+      ]
+    }
+  ]
+}

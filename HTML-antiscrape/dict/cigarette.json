@@ -1,0 +1,43 @@
+{
+  "word": "cigarette",
+  "found": true,
+  "phonetic_uk": "ˌsɪɡəˈret",
+  "phonetic_us": "ˈsɪɡəret",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cigarette&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cigarette&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "香烟，纸烟；麻醉烟，草药烟，药性烟"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "cigarettes"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He sucked on his cigarette.",
+      "zh": "他吸了吸他的香烟。"
+    },
+    {
+      "en": "He drew on an American cigarette.",
+      "zh": "他吸了一口美国香烟。"
+    },
+    {
+      "en": "Can I cadge a cigarette?",
+      "zh": "我可以讨一根香烟吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "香烟；纸烟",
+      "words": [
+        "coffin nail"
+      ]
+    }
+  ]
+}

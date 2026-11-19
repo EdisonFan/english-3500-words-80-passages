@@ -1,0 +1,38 @@
+{
+  "word": "savings",
+  "found": true,
+  "phonetic_uk": "ˈseɪvɪŋz",
+  "phonetic_us": "ˈseɪvɪŋz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=savings&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=savings&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "储蓄；存款；救助；节省物（saving 的复数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I'll have to draw on my savings.",
+      "zh": "我只得动用我的存款了。"
+    },
+    {
+      "en": "I paid for the damage out of my savings.",
+      "zh": "我用自己的积蓄赔偿了损失。"
+    },
+    {
+      "en": "We sank all our savings into the venture.",
+      "zh": "我们把所有的积蓄都投进了那家企业。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[金融]储蓄；存款；救助；节省物（saving的复数形式）",
+      "words": [
+        "deposits"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "word": "anxiety",
+  "found": true,
+  "phonetic_uk": "æŋˈzaɪəti",
+  "phonetic_us": "æŋˈzaɪəti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=anxiety&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=anxiety&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "焦虑，忧虑；令人焦虑的事；渴望；焦虑症"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "anxieties"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Her voice was full of anxiety.",
+      "zh": "她的声音饱含焦虑。"
+    },
+    {
+      "en": "Her face was careworn with anxiety.",
+      "zh": "她因焦虑而面露忧心之色。"
+    },
+    {
+      "en": "Anxiety can be caused by lack of sleep.",
+      "zh": "睡眠不足可能导致焦虑。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[心理]焦虑；渴望；挂念；令人焦虑的事",
+      "words": [
+        "solicitude",
+        "aspiration"
+      ]
+    }
+  ]
+}

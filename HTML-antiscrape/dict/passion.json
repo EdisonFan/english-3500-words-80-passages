@@ -1,0 +1,46 @@
+{
+  "word": "passion",
+  "found": true,
+  "phonetic_uk": "ˈpæʃ(ə)n",
+  "phonetic_us": "ˈpæʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=passion&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=passion&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "爱恋，情欲；激情，热情；酷爱，热衷的爱好（或活动等）；盛怒，激愤；耶稣的受难（the Passion）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "passions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Her passion for him was not reciprocated.",
+      "zh": "她对他的热情没有得到回应。"
+    },
+    {
+      "en": "He's outgrown his passion for rock music.",
+      "zh": "随着年龄的增长，他已对摇滚乐失去了热情。"
+    },
+    {
+      "en": "Age hadn't blunted his passion for adventure.",
+      "zh": "岁月没有冲淡他的冒险激情。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "激情；热情；酷爱；盛怒",
+      "words": [
+        "flame",
+        "love",
+        "fire",
+        "warmth"
+      ]
+    }
+  ]
+}

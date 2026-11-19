@@ -1,0 +1,72 @@
+{
+  "word": "lip",
+  "found": true,
+  "phonetic_uk": "lɪp",
+  "phonetic_us": "lɪp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=lip&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=lip&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "嘴唇；（伤口或洞口）边缘；容器边缘，开口；<非正式> 粗鲁无礼的话"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（水）拍打；（高尔夫）击球至（洞穴）的边缘（而未落入）；用嘴唇触及，吻；（在吹奏管乐器时）运唇"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "口头上的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Lip）（法）利普，（中）猎（广东话·威妥玛），(柬）利，（东南亚国家华语）立（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "lips"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "lips"
+    },
+    {
+      "name": "现在分词",
+      "value": "lipping"
+    },
+    {
+      "name": "过去式",
+      "value": "lipped"
+    },
+    {
+      "name": "过去分词",
+      "value": "lipped"
+    }
+  ],
+  "examples": [
+    {
+      "en": "How did you split your lip?",
+      "zh": "你怎么把嘴唇划破了？"
+    },
+    {
+      "en": "She bit her lip nervously.",
+      "zh": "她紧张地咬嘴唇。"
+    },
+    {
+      "en": "He chewed his lower lip nervously.",
+      "zh": "他紧张地咬着下唇。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "嘴唇；边缘",
+      "words": [
+        "margin",
+        "suburb"
+      ]
+    }
+  ]
+}

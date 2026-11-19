@@ -1,0 +1,52 @@
+{
+  "word": "cheap",
+  "found": true,
+  "phonetic_uk": "tʃiːp",
+  "phonetic_us": "tʃiːp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cheap&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cheap&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "便宜的，廉价的；价低质劣的；小气的，吝啬的；卑劣的，可耻的；无足轻重的；简单的，容易获取的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "低价地，便宜地"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "cheaper"
+    },
+    {
+      "name": "最高级",
+      "value": "cheapest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It wasn't cheap. Anything but.",
+      "zh": "它不便宜。绝对不。"
+    },
+    {
+      "en": "The meal was amazingly cheap.",
+      "zh": "这餐饭便宜得出奇。"
+    },
+    {
+      "en": "The hotel was anything but cheap.",
+      "zh": "这家旅馆根本不便宜。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[贸易]便宜的；小气的；不值钱的",
+      "words": [
+        "inexpensive",
+        "ten-cent"
+      ]
+    }
+  ]
+}

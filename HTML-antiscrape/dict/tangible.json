@@ -1,0 +1,55 @@
+{
+  "word": "tangible",
+  "found": true,
+  "phonetic_uk": "ˈtændʒəb(ə)l",
+  "phonetic_us": "ˈtændʒəb(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tangible&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tangible&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "明确的，真实的；可触摸的，可感知的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "可触知的东西"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "tangibles"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Unlike meditation, craft activities result in tangible and often useful products that can enhance self-esteem.",
+      "zh": "与冥想不同的是，手工活动会产生有形的、往往有用的产品，这些产品可以增强自尊。"
+    },
+    {
+      "en": "But unlike meditation, craft activities result in tangible and often useful products that can enhance self-esteem.",
+      "zh": "但与冥想不同的是，手工活动会产生有形的、往往有用的产品，可以增强自尊心。"
+    },
+    {
+      "en": "They would have to concentrate on natural processes that continue at a constant rate and that also leave some sort of tangible record in the rocks.",
+      "zh": "他们必须专注于以恒定速度持续的自然过程，并且在岩石中留下某种有形的记录。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "有形的；切实的；可触摸的",
+      "words": [
+        "concrete",
+        "bodied"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "有形资产",
+      "words": [
+        "material property"
+      ]
+    }
+  ]
+}

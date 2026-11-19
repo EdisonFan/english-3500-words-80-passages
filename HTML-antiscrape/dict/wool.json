@@ -1,0 +1,48 @@
+{
+  "word": "wool",
+  "found": true,
+  "phonetic_uk": "wʊl",
+  "phonetic_us": "wʊl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=wool&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=wool&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "羊毛，动物毛；毛线，绒线；毛料，毛织物；金属（或矿）丝"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Wool）（英）伍尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "wools"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Wool can be spun from fleeces.",
+      "zh": "羊毛可以纺成毛线。"
+    },
+    {
+      "en": "He wound the wool into a ball.",
+      "zh": "他把毛线缠绕成一团。"
+    },
+    {
+      "en": "This scarf is 100% wool.",
+      "zh": "这条披肩是纯毛的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "羊毛；毛线；[纺]绒线；毛织品；毛料衣物",
+      "words": [
+        "erio",
+        "Lana"
+      ]
+    }
+  ]
+}

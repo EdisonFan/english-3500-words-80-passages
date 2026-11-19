@@ -1,0 +1,39 @@
+{
+  "word": "occasionally",
+  "found": true,
+  "phonetic_uk": "əˈkeɪʒnəli",
+  "phonetic_us": "əˈkeɪʒ(ə)nəli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=occasionally&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=occasionally&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "偶然，偶尔"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I have a manicure occasionally.",
+      "zh": "我偶尔会做一次手甲护理。"
+    },
+    {
+      "en": "We all overindulge occasionally.",
+      "zh": "我们都偶尔放纵一下。"
+    },
+    {
+      "en": "He still misbehaves occasionally.",
+      "zh": "他仍偶尔行为不乖。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "偶而，间或",
+      "words": [
+        "sometimes",
+        "betweenwhiles"
+      ]
+    }
+  ]
+}

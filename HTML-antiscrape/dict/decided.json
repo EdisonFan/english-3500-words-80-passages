@@ -1,0 +1,62 @@
+{
+  "word": "decided",
+  "found": true,
+  "phonetic_uk": "dɪˈsaɪdɪd",
+  "phonetic_us": "dɪˈsaɪdɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=decided&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=decided&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "明显的，明白无误的；观点鲜明的，坚决的；（案件）判决了的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "决定，选定；影响（或决定）……的结果；裁决，判决（decide 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more decided"
+    },
+    {
+      "name": "最高级",
+      "value": "most decided"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He decided to turn himself in.",
+      "zh": "他决定到警察局去自首。"
+    },
+    {
+      "en": "He's decided to grow a beard.",
+      "zh": "他已经决定蓄胡须。"
+    },
+    {
+      "en": "I've decided to grow my hair.",
+      "zh": "我已决定留长发。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "明确的；显然的；坚决的，果断的",
+      "words": [
+        "apparent",
+        "precise",
+        "transparent",
+        "specific",
+        "express"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "决定（decide的过去式）",
+      "words": [
+        "resolution."
+      ]
+    }
+  ]
+}

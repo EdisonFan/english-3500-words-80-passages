@@ -1,0 +1,76 @@
+{
+  "word": "father",
+  "found": true,
+  "phonetic_uk": "ˈfɑːðə(r)",
+  "phonetic_us": "ˈfɑːðər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=father&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=father&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "父亲，爸爸；祖先；发明者，创始人；（Father）天父，上帝；（Father）（尤指天主教和东正教的）神父；父亲般的人；（城邦、市镇等的）元老；（动物的）父代；保护人，庇护人；（Father）（用于拟人化的专有名称）……老人；早期基督教神学家"
+    },
+    {
+      "pos": "v.",
+      "meaning": "是……的父亲；创立（新思想），创造，发明（新方法）；如父亲般对待（或抚养、照料）；确定（某人）的生父为……，确定（某事物）的责任应由……来承担"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "fathers"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "fathers"
+    },
+    {
+      "name": "现在分词",
+      "value": "fathering"
+    },
+    {
+      "name": "过去式",
+      "value": "fathered"
+    },
+    {
+      "name": "过去分词",
+      "value": "fathered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Joan still mourns her father.",
+      "zh": "琼还在哀悼她的父亲。"
+    },
+    {
+      "en": "I miss thee, beloved father.",
+      "zh": "亲爱的父亲，我想念您。"
+    },
+    {
+      "en": "He's very like his father.",
+      "zh": "他很像他的父亲。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "父亲，爸爸；神父；祖先；前辈",
+      "words": [
+        "dad",
+        "root",
+        "da",
+        "daddy",
+        "priest"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "发明，创立；当…的父亲",
+      "words": [
+        "found",
+        "construct",
+        "institute"
+      ]
+    }
+  ]
+}

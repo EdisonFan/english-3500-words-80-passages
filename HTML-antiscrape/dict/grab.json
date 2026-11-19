@@ -1,0 +1,79 @@
+{
+  "word": "grab",
+  "found": true,
+  "phonetic_uk": "ɡræb",
+  "phonetic_us": "ɡræb",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=grab&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=grab&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "攫取，抓住；（尤指匆忙地）取，吃，喝；霸占，强夺；利用，抓住（机会）；引人注意，吸引"
+    },
+    {
+      "pos": "n.",
+      "meaning": "攫取，赚取；抓具，抓斗；抓取（或截获、采集）的图像"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "grabs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "grabs"
+    },
+    {
+      "name": "现在分词",
+      "value": "grabbing"
+    },
+    {
+      "name": "过去式",
+      "value": "grabbed"
+    },
+    {
+      "name": "过去分词",
+      "value": "grabbed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He shot out his hand to grab her.",
+      "zh": "他猛地伸出手去抓她。"
+    },
+    {
+      "en": "I managed to grab her hand.",
+      "zh": "我设法抓住了她的手。"
+    },
+    {
+      "en": "Don't grab—there's plenty for everyone.",
+      "zh": "别抢—多着呢，人人都有。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "攫取；霸占；将…深深吸引",
+      "words": [
+        "pounce at",
+        "commandeer"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "攫取；夺取",
+      "words": [
+        "pounce at",
+        "snatch up"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "攫取；霸占；夺取之物",
+      "words": [
+        "arrogation"
+      ]
+    }
+  ]
+}

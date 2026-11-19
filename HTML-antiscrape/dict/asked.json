@@ -1,0 +1,30 @@
+{
+  "word": "asked",
+  "found": true,
+  "phonetic_uk": "ɑ:skt",
+  "phonetic_us": "æskt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=asked&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=asked&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "问，询问；请求，要求给予；邀请；要价；期望（ask 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "\"Did you?\" she asked earnestly.",
+      "zh": "“你呢？”她严肃地问。"
+    },
+    {
+      "en": "'What?' she asked snappily.",
+      "zh": "“什么？”她不耐烦地问。"
+    },
+    {
+      "en": "\"How is Frank?\" he asked.",
+      "zh": "“弗兰克怎么样？”他问道。"
+    }
+  ],
+  "synonyms": []
+}

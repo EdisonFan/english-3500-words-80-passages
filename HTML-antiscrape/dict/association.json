@@ -1,0 +1,48 @@
+{
+  "word": "association",
+  "found": true,
+  "phonetic_uk": "əˌsəʊsiˈeɪʃn; əˌsəʊʃiˈeɪʃn",
+  "phonetic_us": "əˌsəʊsiˈeɪʃn; əˌsəʊʃiˈeɪʃn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=association&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=association&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "协会，社团，联盟；交往，联合；联系，因果关系；联想"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "associations"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He has now become one of the patrons of the association.",
+      "zh": "他如今已成为该协会的名誉赞助人之一。"
+    },
+    {
+      "en": "The trade association promotes ethical business practices.",
+      "zh": "这个贸易协会提倡合乎道德标准的商业行为。"
+    },
+    {
+      "en": "Who is eligible to apply for membership of the association?",
+      "zh": "谁有资格申请加入这个协会？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "协会，联盟，社团；联合；[心理]联想",
+      "words": [
+        "union",
+        "alliance",
+        "society",
+        "corporation",
+        "unity",
+        "combination"
+      ]
+    }
+  ]
+}

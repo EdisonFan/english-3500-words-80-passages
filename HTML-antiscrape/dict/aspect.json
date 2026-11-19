@@ -1,0 +1,51 @@
+{
+  "word": "aspect",
+  "found": true,
+  "phonetic_uk": "ˈæspekt",
+  "phonetic_us": "ˈæspekt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=aspect&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=aspect&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "方面，特色；朝向，方位；外表，外观；（动词的）体"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（行星与另一天体）形成角度关系"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "aspects"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They were royally received in every aspect.",
+      "zh": "他们在各个方面都受到了隆重接待。"
+    },
+    {
+      "en": "Religion informs every aspect of their lives.",
+      "zh": "宗教影响着他们生活的各个方面。"
+    },
+    {
+      "en": "Climate and weather affect every aspect of our lives.",
+      "zh": "气候和天气影响我们生活的每个方面。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "方面；[建]方向；形势；外貌",
+      "words": [
+        "direction",
+        "orientation",
+        "situation",
+        "side",
+        "respect"
+      ]
+    }
+  ]
+}

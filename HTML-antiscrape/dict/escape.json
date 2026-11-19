@@ -1,0 +1,80 @@
+{
+  "word": "escape",
+  "found": true,
+  "phonetic_uk": "ɪˈskeɪp",
+  "phonetic_us": "ɪˈskeɪp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=escape&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=escape&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "逃跑，逃脱；逃避，摆脱；避开，避免（疾病或受伤等）；泄露，逸出；不自觉地说出；被遗忘，被忽略；去度假；退出"
+    },
+    {
+      "pos": "n.",
+      "meaning": "逃跑，逃离；逃避现实，暂时解脱；漏出，逸出；Esc退出键；度假；逃跑工具，逃跑方法；野化的植物（或宠物）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "escapes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "escapes"
+    },
+    {
+      "name": "现在分词",
+      "value": "escaping"
+    },
+    {
+      "name": "过去式",
+      "value": "escaped"
+    },
+    {
+      "name": "过去分词",
+      "value": "escaped"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They made no attempt to escape.",
+      "zh": "他们没有企图逃跑。"
+    },
+    {
+      "en": "She was lucky to escape punishment.",
+      "zh": "她逃脱惩罚真是幸运。"
+    },
+    {
+      "en": "The man made his escape.",
+      "zh": "那个人逃走了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "逃避，避免；被忘掉",
+      "words": [
+        "get out of",
+        "shun"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "逃脱；避开；溜走",
+      "words": [
+        "get away",
+        "keep clear of"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "逃跑；逃亡",
+      "words": [
+        "hijra",
+        "desertion"
+      ]
+    }
+  ]
+}

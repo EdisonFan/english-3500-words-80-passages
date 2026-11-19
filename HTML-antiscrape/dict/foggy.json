@@ -1,0 +1,49 @@
+{
+  "word": "foggy",
+  "found": true,
+  "phonetic_uk": "ˈfɒɡi",
+  "phonetic_us": "ˈfɑːɡi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=foggy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=foggy&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "有雾的，雾气茫茫的；迷糊的，朦胧的；模糊的，糊涂的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "foggier"
+    },
+    {
+      "name": "最高级",
+      "value": "foggiest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Get away from the foggy morning.",
+      "zh": "远离多雾的清晨。"
+    },
+    {
+      "en": "No area was spared or unaffected, from the foggy northern coast to the Sierra Nevada Mountains.",
+      "zh": "从雾蒙蒙的北部海岸到内华达山脉，没有一个地区幸免或不受影响。"
+    },
+    {
+      "en": "They can change their minds 200 times, but having only a foggy view of the future is of little good.",
+      "zh": "他们可以200次改变主意，但对未来只有模糊的想法是不好的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "有雾的；模糊的，朦胧的",
+      "words": [
+        "fuzzy",
+        "dark",
+        "vague"
+      ]
+    }
+  ]
+}

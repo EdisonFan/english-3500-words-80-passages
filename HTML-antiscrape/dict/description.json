@@ -1,0 +1,46 @@
+{
+  "word": "description",
+  "found": true,
+  "phonetic_uk": "dɪˈskrɪpʃn",
+  "phonetic_us": "dɪˈskrɪpʃn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=description&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=description&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "描述，形容，说明；类型"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "descriptions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The description was pretty vague.",
+      "zh": "这项描述是相当含糊的。"
+    },
+    {
+      "en": "The description fits us to a tee.",
+      "zh": "这个描述恰好符合我们的情况。"
+    },
+    {
+      "en": "They gave a general description of the man.",
+      "zh": "他们对这个男人作了大致的描述。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "描述，描写；类型；说明书",
+      "words": [
+        "presentation",
+        "type",
+        "style",
+        "characterization"
+      ]
+    }
+  ]
+}

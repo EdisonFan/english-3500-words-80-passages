@@ -1,0 +1,80 @@
+{
+  "word": "candy",
+  "found": true,
+  "phonetic_uk": "ˈkændi",
+  "phonetic_us": "ˈkændi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=candy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=candy&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "糖果，巧克力；冰糖；中看不中用的东西"
+    },
+    {
+      "pos": "v.",
+      "meaning": "把（水果）制成蜜饯；用糖煮；使结晶"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "candies"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "candies"
+    },
+    {
+      "name": "现在分词",
+      "value": "candying"
+    },
+    {
+      "name": "过去式",
+      "value": "candied"
+    },
+    {
+      "name": "过去分词",
+      "value": "candied"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Who wants the last piece of candy?",
+      "zh": "谁想要这最后一块糖？"
+    },
+    {
+      "en": "Eat this candy. All boys like candy.",
+      "zh": "吃吃这种糖。男孩子都喜欢吃糖。"
+    },
+    {
+      "en": "My sister likes candy.",
+      "zh": "我妹妹喜欢吃糖。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "用糖煮；使结晶为砂糖；美化",
+      "words": [
+        "glorify",
+        "glamorize"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[食品]糖果（等于sweets）；冰糖（等于sugar candy，rock candy）；毒品",
+      "words": [
+        "drug",
+        "sweet"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "新潮的（服饰）；甜言蜜语的",
+      "words": [
+        "together",
+        "honeylipped"
+      ]
+    }
+  ]
+}

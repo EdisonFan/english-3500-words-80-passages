@@ -1,0 +1,38 @@
+{
+  "word": "Europe",
+  "found": true,
+  "phonetic_uk": "ˈjʊərəp",
+  "phonetic_us": "ˈjʊrəp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=Europe&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=Europe&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "欧洲；欧盟；（除英国以外的）全欧洲"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They hitchhiked around Europe.",
+      "zh": "他们一路搭便车周游欧洲。"
+    },
+    {
+      "en": "CNN also broadcasts in Europe.",
+      "zh": "美国有线新闻网络也在欧洲进行广播。"
+    },
+    {
+      "en": "I'm not starry-eyed about Europe.",
+      "zh": "我对欧洲并不充满幻想。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "欧洲",
+      "words": [
+        "EUR"
+      ]
+    }
+  ]
+}

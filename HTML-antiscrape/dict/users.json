@@ -1,0 +1,30 @@
+{
+  "word": "users",
+  "found": true,
+  "phonetic_uk": "ˈjuːzəz",
+  "phonetic_us": "ˈjʊzər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=users&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=users&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "使用者；受限用户（user 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Ramps should be provided for wheelchair users.",
+      "zh": "应该给轮椅使用者提供坡道。"
+    },
+    {
+      "en": "Users can import files made in other packages.",
+      "zh": "用户能够导入其他程序包里的文件。"
+    },
+    {
+      "en": "This feature is designed to aid inexperienced users.",
+      "zh": "这个特色是为帮助没有经验的用户而设计的。"
+    }
+  ],
+  "synonyms": []
+}

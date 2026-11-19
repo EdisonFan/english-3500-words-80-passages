@@ -1,0 +1,88 @@
+{
+  "word": "front",
+  "found": true,
+  "phonetic_uk": "frʌnt",
+  "phonetic_us": "frʌnt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=front&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=front&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "前面，正面；前线，前方；方面，领域；掩护；锋；海滨，湖畔；封面，头版；建筑物的面；（装出的）样子；（政治组织名称）阵线；胆大，自信；胸部；<古>（人的）脸，前额"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "前面的，正面的；（足球等）踢前锋的；（元音）舌前位的；起掩护作用的；（18穴高尔夫球场的）前9穴的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "领导（机构、乐队）；主持（电视节目）；面向；用……覆盖正面；提供资金；<古，澳新>面临，对抗；<澳新>露面，到达；以舌前位发（元音）；（语言学）将（句子成分）前置；为……作掩护"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Front）（法）弗龙（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "fronts"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "fronts"
+    },
+    {
+      "name": "现在分词",
+      "value": "fronting"
+    },
+    {
+      "name": "过去式",
+      "value": "fronted"
+    },
+    {
+      "name": "过去分词",
+      "value": "fronted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Charlene sat in the front pew.",
+      "zh": "查伦坐在前排的靠背长椅上。"
+    },
+    {
+      "en": "The front cog has 44 teeth.",
+      "zh": "前齿轮有44个齿。"
+    },
+    {
+      "en": "There's someone at the front door.",
+      "zh": "前门有个人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "前面；正面；[军]前线",
+      "words": [
+        "frente",
+        "facade"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "面对；朝向；对付",
+      "words": [
+        "meet",
+        "confront"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "朝向",
+      "words": [
+        "give upon",
+        "look out upon"
+      ]
+    }
+  ]
+}

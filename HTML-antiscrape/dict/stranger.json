@@ -1,0 +1,64 @@
+{
+  "word": "stranger",
+  "found": true,
+  "phonetic_uk": "ˈstreɪndʒə(r)",
+  "phonetic_us": "ˈstreɪndʒər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=stranger&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=stranger&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "陌生人；新来者，异乡人；从未经历某事的人 ；稀客（用于和好久不见的人打招呼）；用于表示希望很快再见到某人；非众议院议员者，非众议院官员者"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Stranger）（瑞典）斯特朗格，（英）斯特兰杰（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "strangers"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "strangers"
+    },
+    {
+      "name": "现在分词",
+      "value": "strangering"
+    },
+    {
+      "name": "过去式",
+      "value": "strangered"
+    },
+    {
+      "name": "过去分词",
+      "value": "strangered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She married a practical stranger.",
+      "zh": "她等于是嫁了个陌生人。"
+    },
+    {
+      "en": "I don't know him—he's a perfect stranger.",
+      "zh": "我不认识他，他是百分之百的陌生人。"
+    },
+    {
+      "en": "He stared in astonishment at the stranger.",
+      "zh": "他惊愕地盯着陌生人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "陌生人；外地人；局外人",
+      "words": [
+        "provincial",
+        "foreigner"
+      ]
+    }
+  ]
+}

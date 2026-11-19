@@ -1,0 +1,46 @@
+{
+  "word": "attached",
+  "found": true,
+  "phonetic_uk": "əˈtætʃt",
+  "phonetic_us": "əˈtætʃt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=attached&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=attached&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "非常喜欢……的，热爱……的；为……工作的；隶属于……，附属的；连接的，附加的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "系上，贴上；赋予，认为……具有（attach 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The full transcription of the interview is attached.",
+      "zh": "现附上采访记录文本的全文。"
+    },
+    {
+      "en": "We've grown very attached to this house.",
+      "zh": "我们变得非常喜欢这座房子。"
+    },
+    {
+      "en": "The anchor was attached to a length of rope.",
+      "zh": "铁锚系在一段缆绳上。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "附加的；依恋的，充满爱心的",
+      "words": [
+        "additional",
+        "plus",
+        "more",
+        "second",
+        "excess"
+      ]
+    }
+  ]
+}

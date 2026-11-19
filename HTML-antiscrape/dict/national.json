@@ -1,0 +1,55 @@
+{
+  "word": "national",
+  "found": true,
+  "phonetic_uk": "ˈnæʃ(ə)nəl",
+  "phonetic_us": "ˈnæʃ(ə)nəl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=national&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=national&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "国家的，全国的；国家所有的，国立的；国内的，本国的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "国民，侨民；全国性比赛；全国性报纸"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "nationals"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The area has been declared a national park.",
+      "zh": "该地区已宣布为国家公园。"
+    },
+    {
+      "en": "Her savings were in the First National Bank.",
+      "zh": "她的存款以前在第一国民银行。"
+    },
+    {
+      "en": "The building is part of our national heritage.",
+      "zh": "这个建筑是我们民族遗产的一部分。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "国家的；国民的；民族的；国立的",
+      "words": [
+        "state",
+        "natl"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "国民",
+      "words": [
+        "subject"
+      ]
+    }
+  ]
+}

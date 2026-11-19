@@ -1,0 +1,39 @@
+{
+  "word": "allowing",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "əˈlaʊɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=allowing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=allowing&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "允许（allow 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Thank you for writing and allowing me to clarify the present position.",
+      "zh": "谢谢你来信并允许我澄清目前的状况。"
+    },
+    {
+      "en": "I would like to thank them for allowing me to develop their original idea.",
+      "zh": "我想感谢他们允许我展开他们最初的观点。"
+    },
+    {
+      "en": "Underdeveloped countries should be assisted by allowing them access to modern technology.",
+      "zh": "应该通过允许不发达国家使用现代技术来帮助它们。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "允许（allow的现在分词）",
+      "words": [
+        "letting",
+        "permitting"
+      ]
+    }
+  ]
+}

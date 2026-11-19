@@ -1,0 +1,53 @@
+{
+  "word": "breaking",
+  "found": true,
+  "phonetic_uk": "ˈbreɪkɪŋ",
+  "phonetic_us": "ˈbreɪkɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=breaking&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=breaking&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "破坏；阻断"
+    },
+    {
+      "pos": "v.",
+      "meaning": "破坏（break 的 ing 形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He fell through the window, breaking the glass.",
+      "zh": "他打破玻璃，从窗口摔了出去。"
+    },
+    {
+      "en": "Neal kept interrupting, breaking my concentration.",
+      "zh": "尼尔不断打扰，打断我的注意力。"
+    },
+    {
+      "en": "Fires were breaking out everywhere.",
+      "zh": "到处都在发生火灾。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "破坏；阻断",
+      "words": [
+        "destruction",
+        "blasting",
+        "disruption",
+        "demolition"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "破坏（break的ing形式）",
+      "words": [
+        "damaging",
+        "spoiling"
+      ]
+    }
+  ]
+}

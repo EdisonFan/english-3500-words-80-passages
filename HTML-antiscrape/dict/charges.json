@@ -1,0 +1,51 @@
+{
+  "word": "charges",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=charges&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=charges&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[会计]费用；手续费；运费"
+    },
+    {
+      "pos": "v.",
+      "meaning": "指控；[电]充电；命令；要价（charge 的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He may still face criminal charges.",
+      "zh": "他也许仍旧要面对刑事指控。"
+    },
+    {
+      "en": "Telephone charges include line rental.",
+      "zh": "电话费包括线路租用费。"
+    },
+    {
+      "en": "The banks' charges are unreasonably high.",
+      "zh": "银行的收费高得离谱。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "费用；手续费；运费",
+      "words": [
+        "carriage",
+        "exes"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "指控；充电；命令；要价（charge的三单形式）",
+      "words": [
+        "articles",
+        "orders"
+      ]
+    }
+  ]
+}

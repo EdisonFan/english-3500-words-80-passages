@@ -1,0 +1,34 @@
+{
+  "word": "beams",
+  "found": true,
+  "phonetic_uk": "biːmz",
+  "phonetic_us": "biːmz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=beams&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=beams&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "梁，横梁；光线，光柱；喜色，笑容（beam 的复数）；（Beams）（英）比姆斯（人名）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "v. 定向发出（无线电信号）；（光，光源）照耀；喜笑颜开，面露喜色（beam 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The cottage had exposed oak beams.",
+      "zh": "小屋的橡木梁裸露着。"
+    },
+    {
+      "en": "The beams are riddled with woodworm.",
+      "zh": "这些木梁被蛀虫蛀得都是洞。"
+    },
+    {
+      "en": "He bumped his head on the low beams.",
+      "zh": "他的头撞到了低矮的横梁上。"
+    }
+  ],
+  "synonyms": []
+}

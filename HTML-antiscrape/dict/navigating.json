@@ -1,0 +1,50 @@
+{
+  "word": "navigating",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˈnævɪɡeɪtɪŋ; ˈnævəɡeɪtɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=navigating&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=navigating&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "航行，操纵（navigate 的现在分词形式）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "航行的，航行中"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Captain Cook was responsible for safely navigating his ship without accident for 100 voyages.",
+      "zh": "库克船长负责了安全导航他的船，百次航行无事故。"
+    },
+    {
+      "en": "She is a beacon of hope for women navigating the darkest passage of their lives.",
+      "zh": "她是个指引女性们穿越她们生活最黑暗时光的希望的灯塔。"
+    },
+    {
+      "en": "Navigating the streets can be exhausting.",
+      "zh": "在街上穿行会让人筋疲力尽。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "航行，操纵（navigate的现在分词形式）",
+      "words": [
+        "manipulating",
+        "sailing"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "航行的，航行中",
+      "words": [
+        "sailing"
+      ]
+    }
+  ]
+}

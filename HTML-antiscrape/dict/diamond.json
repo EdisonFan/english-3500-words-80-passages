@@ -1,0 +1,71 @@
+{
+  "word": "diamond",
+  "found": true,
+  "phonetic_uk": "ˈdaɪmənd; ˈdaɪəmənd",
+  "phonetic_us": "ˈdaɪmənd; ˈdaɪəmənd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=diamond&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=diamond&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "钻石；菱形；（纸牌的）方块；（棒球场的）内场；菱形铁路道口"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Diamond）（英、意、葡）戴蒙德，（法）迪亚蒙（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "diamonds"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "diamonds"
+    },
+    {
+      "name": "现在分词",
+      "value": "diamonding"
+    },
+    {
+      "name": "过去式",
+      "value": "diamonded"
+    },
+    {
+      "name": "过去分词",
+      "value": "diamonded"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The diamond is mounted in gold.",
+      "zh": "这颗钻石镶在金饰物上。"
+    },
+    {
+      "en": "Diamond is the crystalline form of the element carbon.",
+      "zh": "钻石是碳元素的晶体结构。"
+    },
+    {
+      "en": "The cut of a diamond depends on the skill of its craftsman.",
+      "zh": "切割钻石的好坏取决于工匠的技艺。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[宝]钻石，[矿物]金刚石；[数]菱形；方块牌",
+      "words": [
+        "sparkler",
+        "adamas"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "[数]菱形的；金刚钻的",
+      "words": [
+        "rhombic"
+      ]
+    }
+  ]
+}

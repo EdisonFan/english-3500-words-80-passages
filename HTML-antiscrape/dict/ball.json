@@ -1,0 +1,68 @@
+{
+  "word": "ball",
+  "found": true,
+  "phonetic_uk": "bɔːl",
+  "phonetic_us": "bɔːl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ball&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ball&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "球，球状物；球类运动；踢出（或击出、投出）的一球；舞会；脚趾球，拇指球；勇气；弹丸；睾丸"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）成球状（或团块）；和（女人）发生性关系"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Ball）（英、西）鲍尔，（法、德、俄、罗、捷）巴尔，（土）巴勒（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "balls"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "balls"
+    },
+    {
+      "name": "现在分词",
+      "value": "balling"
+    },
+    {
+      "name": "过去式",
+      "value": "balled"
+    },
+    {
+      "name": "过去分词",
+      "value": "balled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The ball was uncontrollable.",
+      "zh": "球控制不住了。"
+    },
+    {
+      "en": "The ball curved through the air.",
+      "zh": "球在空中沿曲线运动。"
+    },
+    {
+      "en": "He pounced on a loose ball.",
+      "zh": "他猛然扑向一个无人控制的球。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "球；舞会",
+      "words": [
+        "dance",
+        "globus"
+      ]
+    }
+  ]
+}

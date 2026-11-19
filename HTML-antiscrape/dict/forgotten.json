@@ -1,0 +1,30 @@
+{
+  "word": "forgotten",
+  "found": true,
+  "phonetic_uk": "fəˈɡɒtn",
+  "phonetic_us": "fərˈɡɑːtn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=forgotten&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=forgotten&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "忘记（forget 的过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I've completely forgotten her name.",
+      "zh": "我完全把她的名字给忘了。"
+    },
+    {
+      "en": "I've forgotten where they live exactly.",
+      "zh": "我忘记了他们的确切住址。"
+    },
+    {
+      "en": "You surely haven't forgotten Dr. Walters?",
+      "zh": "你肯定还没忘记沃尔特斯博士吧？"
+    }
+  ],
+  "synonyms": []
+}

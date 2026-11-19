@@ -1,0 +1,43 @@
+{
+  "word": "routes",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ruːts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=routes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=routes&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "路途；（公共汽车和列车等的）常规路线；途径；（北美）推销路线；（用于美国城市间干线公路编号前）公路；巡访；（计算机）路由；（通信）路径（route的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "按某路线发送；为……规定路线（route的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Drivers are advised to seek alternative routes.",
+      "zh": "驾车者被告知需另寻其他路线。"
+    },
+    {
+      "en": "Such areas should also be served by dedicated cycle routes.",
+      "zh": "这些地区也应该可由自行车专用路线到达。"
+    },
+    {
+      "en": "The guide contains details of no less than 115 hiking routes.",
+      "zh": "这本导游指南包括多达115条徒步旅行路线的详细介绍。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "路由，路径；线路",
+      "words": [
+        "pathway",
+        "lanes"
+      ]
+    }
+  ]
+}

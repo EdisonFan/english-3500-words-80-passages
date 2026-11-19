@@ -1,0 +1,38 @@
+{
+  "word": "valleys",
+  "found": true,
+  "phonetic_uk": "ˈvæliz",
+  "phonetic_us": "ˈvæliz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=valleys&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=valleys&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "山谷（valley 的复数）；凹处"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Farmers worked the fertile valleys.",
+      "zh": "农民们开垦了这个肥沃的山谷。"
+    },
+    {
+      "en": "Wild boar are numerous in the valleys.",
+      "zh": "这些山谷里有无数的野猪。"
+    },
+    {
+      "en": "Glaciers gouged out valleys from the hills.",
+      "zh": "冰川把丘陵地带冲出一条条山谷。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "山谷（valley的复数）；凹处",
+      "words": [
+        "dales"
+      ]
+    }
+  ]
+}

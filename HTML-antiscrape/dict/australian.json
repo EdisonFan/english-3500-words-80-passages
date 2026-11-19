@@ -1,0 +1,54 @@
+{
+  "word": "Australian",
+  "found": true,
+  "phonetic_uk": "ɒˈstreɪliən",
+  "phonetic_us": "ɔːˈstreɪliən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=Australian&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=Australian&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "澳大利亚的，澳大利亚人的；（动物地理区划）澳新区的；澳大利亚植物区系界的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "澳大利亚人"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "Australians"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She spoke with a strong Australian accent.",
+      "zh": "她说话带有浓重的澳大利亚口音。"
+    },
+    {
+      "en": "The Australian team will be seated in business class.",
+      "zh": "澳大利亚队将乘坐商务舱。"
+    },
+    {
+      "en": "She's Italian by birth but is now an Australian citizen.",
+      "zh": "她生于意大利，但现在是澳大利亚公民。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "澳大利亚的，澳大利亚人的",
+      "words": [
+        "Ossie"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "澳大利亚人",
+      "words": [
+        "Digger"
+      ]
+    }
+  ]
+}

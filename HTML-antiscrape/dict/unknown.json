@@ -1,0 +1,56 @@
+{
+  "word": "unknown",
+  "found": true,
+  "phonetic_uk": "ˌʌnˈnəʊn",
+  "phonetic_us": "ˌʌnˈnoʊn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=unknown&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=unknown&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "未知的，未被确认的；不出名的，无名的；从未发生的，从不存在的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "无名者，不出名的人；不明情况，未知因素；不为人知的地方，未知的事物（the unknown）；（数）未知数，未知量"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "unknowns"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The motive for the killing is unknown.",
+      "zh": "杀人的动机不明。"
+    },
+    {
+      "en": "The immediate cause of death is unknown.",
+      "zh": "造成死亡的直接原因不明。"
+    },
+    {
+      "en": "Unknown attackers riddled two homes with gunfire.",
+      "zh": "不明来路的袭击者用枪把两座房屋打得千疮百孔。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[数]未知的；陌生的，默默无闻的",
+      "words": [
+        "strange",
+        "sealed"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[数]未知数；未知的事物，默默无闻的人",
+      "words": [
+        "XYZ",
+        "pronumeral"
+      ]
+    }
+  ]
+}

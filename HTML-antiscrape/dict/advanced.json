@@ -1,0 +1,63 @@
+{
+  "word": "advanced",
+  "found": true,
+  "phonetic_uk": "ədˈvɑːnst",
+  "phonetic_us": "ədˈvænst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=advanced&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=advanced&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "先进的；高级的，高等的；晚期的，状况不佳的；高龄的；新提出（尚未被广泛接受）的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "行进；发展，进步；预付（advance 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more advanced"
+    },
+    {
+      "name": "最高级",
+      "value": "most advanced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Oil shares advanced amid economic recovery hopes.",
+      "zh": "在一片经济复苏的希望中石油股票价格上涨。"
+    },
+    {
+      "en": "Students are categorized as novice, intermediate, or advanced.",
+      "zh": "学生分为新生、中级生或高级生。"
+    },
+    {
+      "en": "He was a man of advanced years.",
+      "zh": "他年事已高。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "先进的；高级的；晚期的；年老的",
+      "words": [
+        "senior",
+        "aged",
+        "high",
+        "old",
+        "ancient"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "前进；增加；上涨（advance的过去式和过去分词形式）",
+      "words": [
+        "rose",
+        "improved"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "curtains",
+  "found": true,
+  "phonetic_uk": "ˈkɜːtənz",
+  "phonetic_us": "ˈkɜːtənz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=curtains&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=curtains&type=2",
+  "defs": [
+    {
+      "pos": "",
+      "meaning": "窗帘（curtain的复数）"
+    },
+    {
+      "pos": "",
+      "meaning": "be curtains for sb，对某人而言是灾难"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The sun had faded the curtains.",
+      "zh": "太阳把窗帘晒退了色。"
+    },
+    {
+      "en": "The curtains were an impulse buy.",
+      "zh": "这窗帘是一时心血来潮买下的。"
+    },
+    {
+      "en": "They had the curtains open.",
+      "zh": "他们把窗帘开着。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "窗帘（curtain的复数）；灾难",
+      "words": [
+        "disasters",
+        "miseries"
+      ]
+    }
+  ]
+}

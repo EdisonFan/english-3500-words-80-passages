@@ -1,0 +1,51 @@
+{
+  "word": "presents",
+  "found": true,
+  "phonetic_uk": "ˈprez(ə)nts",
+  "phonetic_us": "ˈprez(ə)nts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=presents&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=presents&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "礼物（present 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "颁发；赠送；提交；展示；致谢（present 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I was delighted with my presents.",
+      "zh": "我对我收到的礼物很满意。"
+    },
+    {
+      "en": "On his birthday she sent him presents.",
+      "zh": "他生日那天，她送了他礼物。"
+    },
+    {
+      "en": "Her pockets were bulging with presents.",
+      "zh": "她的口袋里装满了礼物。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "礼物（present的复数）；出品",
+      "words": [
+        "gifts",
+        "tributes"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "显示（present的单三形式）；出席",
+      "words": [
+        "indicates",
+        "displays"
+      ]
+    }
+  ]
+}

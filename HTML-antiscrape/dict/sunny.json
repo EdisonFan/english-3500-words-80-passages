@@ -1,0 +1,48 @@
+{
+  "word": "sunny",
+  "found": true,
+  "phonetic_uk": "ˈsʌni",
+  "phonetic_us": "ˈsʌni",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sunny&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sunny&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "阳光充足的，（地方）暖和的；（人，性格）开朗的，阳光的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "sunnier"
+    },
+    {
+      "name": "最高级",
+      "value": "sunniest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It's a brilliantly sunny morning.",
+      "zh": "这是个阳光灿烂的早晨。"
+    },
+    {
+      "en": "It was brilliantly sunny.",
+      "zh": "阳光明媚。"
+    },
+    {
+      "en": "It's bound to be sunny again tomorrow.",
+      "zh": "明天肯定又是阳光灿烂。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "阳光充足的，和煦的；快活的；性情开朗的",
+      "words": [
+        "vernal",
+        "jocund"
+      ]
+    }
+  ]
+}

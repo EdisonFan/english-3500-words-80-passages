@@ -1,0 +1,85 @@
+{
+  "word": "nurse",
+  "found": true,
+  "phonetic_uk": "nɜːs",
+  "phonetic_us": "nɜːrs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=nurse&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=nurse&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "护士；<旧>保姆，奶妈；保育虫；（保护其他作物的）防护作物；沙锥齿鲨"
+    },
+    {
+      "pos": "v.",
+      "meaning": "看护，照料；细心打理；调养，调治；喂奶，哺乳；吃奶；怀有；慢慢地喝；爱惜地搂抱；<旧>（在某种特定条件下）被抚养长大；（台球，斯诺克）聚球，使球互相靠拢"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Nurse）（美、爱）纳斯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "nurses"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "nurses"
+    },
+    {
+      "name": "现在分词",
+      "value": "nursing"
+    },
+    {
+      "name": "过去式",
+      "value": "nursed"
+    },
+    {
+      "name": "过去分词",
+      "value": "nursed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The nurse cleaned the wound.",
+      "zh": "护士清洗了伤口。"
+    },
+    {
+      "en": "The nurse washed and shaved him.",
+      "zh": "护士给他洗了脸，刮了胡子。"
+    },
+    {
+      "en": "She had spent 29 years as a nurse.",
+      "zh": "她已当了29年护士。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "看护，护理；照顾；培养；给…喂奶",
+      "words": [
+        "cultivate",
+        "plant",
+        "rear"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "照料，护理；喂奶；当保姆",
+      "words": [
+        "fend for",
+        "attend on"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[医]护士；奶妈，保姆",
+      "words": [
+        "sister",
+        "amah"
+      ]
+    }
+  ]
+}

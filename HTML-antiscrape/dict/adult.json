@@ -1,0 +1,85 @@
+{
+  "word": "adult",
+  "found": true,
+  "phonetic_uk": "ˈædʌlt; əˈdʌlt",
+  "phonetic_us": "əˈdʌlt; ˈædʌlt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=adult&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=adult&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "成年人或动物"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "成年的，发育成熟的；成人的，理智的；（电影、杂志等）仅限于成人的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<非正式>像成年人一样表现；<非正式>变成熟"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "adults"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "adults"
+    },
+    {
+      "name": "现在分词",
+      "value": "adulting"
+    },
+    {
+      "name": "过去式",
+      "value": "adulted"
+    },
+    {
+      "name": "过去分词",
+      "value": "adulted"
+    },
+    {
+      "name": "比较级",
+      "value": "more adult"
+    },
+    {
+      "name": "最高级",
+      "value": "most adult"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Each ticket admits one adult.",
+      "zh": "每张票只准许一位成人入场。"
+    },
+    {
+      "en": "An adult hedgehog can boast 7,500 spines.",
+      "zh": "一只成年刺猬能有多达7500根刺。"
+    },
+    {
+      "en": "Children must be accompanied by an adult.",
+      "zh": "儿童必须要有大人陪同。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "成年的；成熟的",
+      "words": [
+        "developed",
+        "grown",
+        "mature"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "成年人",
+      "words": [
+        "major",
+        "grown-up"
+      ]
+    }
+  ]
+}

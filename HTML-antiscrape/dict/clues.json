@@ -1,0 +1,50 @@
+{
+  "word": "clues",
+  "found": true,
+  "phonetic_uk": "kluːz",
+  "phonetic_us": "kluːz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=clues&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=clues&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "线索，蛛丝马迹（clue 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "提示（clue 的第三人称单数）；暗示"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Police searched for clues in the area.",
+      "zh": "警察在那一地带查找线索。"
+    },
+    {
+      "en": "A forensic team was hunting for clues.",
+      "zh": "法医小组正在搜寻线索。"
+    },
+    {
+      "en": "There was a vast distance between psychological clues and concrete proof.",
+      "zh": "心理线索和现实证据之间存在着巨大差距。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "线索，蛛丝马迹（clue的复数）",
+      "words": [
+        "holds",
+        "cues"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "提示（clue的第三人称单数）；暗示",
+      "words": [
+        "hints"
+      ]
+    }
+  ]
+}

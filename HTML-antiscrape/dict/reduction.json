@@ -1,0 +1,45 @@
+{
+  "word": "reduction",
+  "found": true,
+  "phonetic_uk": "rɪˈdʌkʃ(ə)n",
+  "phonetic_us": "rɪˈdʌkʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=reduction&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=reduction&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "减小，降低；减价，折扣；（照片、地图、图片等的）缩图，缩版；归纳，简化；（数学）归约，约化；染色体减半；简编曲（管弦乐改编的钢琴曲或小乐队演奏曲）；浓汤，浓汁；脱臼（或断骨）复位；（化学）还原，被还原；（语音）弱化"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "reductions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "There has been some reduction in unemployment.",
+      "zh": "失业人数有所减少。"
+    },
+    {
+      "en": "This represents a reduction of 5% in real terms.",
+      "zh": "这相当于实际减少了5%。"
+    },
+    {
+      "en": "The company has made heroic efforts at cost reduction.",
+      "zh": "该公司在降低成本方面进行了艰苦卓绝的努力。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "减少；下降；缩小",
+      "words": [
+        "loss",
+        "decrease",
+        "decline"
+      ]
+    }
+  ]
+}

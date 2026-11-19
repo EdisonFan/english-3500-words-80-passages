@@ -1,0 +1,44 @@
+{
+  "word": "avenue",
+  "found": true,
+  "phonetic_uk": "ˈævənjuː",
+  "phonetic_us": "ˈævənuː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=avenue&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=avenue&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "大街；（通向大宅子的）林荫道；途径，渠道"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "avenues"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He walked up Fifth Avenue to clear his head.",
+      "zh": "他在第五大街上走，让头脑清醒清醒。"
+    },
+    {
+      "en": "Lily lives in a penthouse just off Park Avenue.",
+      "zh": "莉莉住在离公园大街不远的一处顶层公寓里。"
+    },
+    {
+      "en": "Bergdorf Goodman has opened a men's shop on Fifth Avenue.",
+      "zh": "伯格多夫·古德曼在第五大道上开了一家男装店。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[公路]大街；[建]林荫大道",
+      "words": [
+        "main street",
+        "high street"
+      ]
+    }
+  ]
+}

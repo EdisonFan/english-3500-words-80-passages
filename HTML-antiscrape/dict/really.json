@@ -1,0 +1,46 @@
+{
+  "word": "really",
+  "found": true,
+  "phonetic_uk": "ˈriːəli",
+  "phonetic_us": "ˈriːəli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=really&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=really&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "真正地，事实上；确实的，的确（用于加强语气）；很，十分；（用于带有隐含的否定回答的疑问句和感叹句）真的，是吗；用于缓和否定语气"
+    },
+    {
+      "pos": "int.",
+      "meaning": "真的（用来表示兴趣、惊奇或疑惑）；真是的！（用于表示生气或不赞成）；是啊！（用于表示同意某人的意见）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "You played really brilliantly.",
+      "zh": "你的表现真是棒极了。"
+    },
+    {
+      "en": "This sweater really itches.",
+      "zh": "这件毛衣真刺痒。"
+    },
+    {
+      "en": "The meeting really dragged.",
+      "zh": "这会议开得真拖拉。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "实际上，事实上；真正地，真实地；真的吗？（表语气）",
+      "words": [
+        "actually",
+        "truly",
+        "effectively",
+        "indeed",
+        "virtually"
+      ]
+    }
+  ]
+}

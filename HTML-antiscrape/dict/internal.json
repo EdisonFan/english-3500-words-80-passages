@@ -1,0 +1,46 @@
+{
+  "word": "internal",
+  "found": true,
+  "phonetic_uk": "ɪnˈtɜːn(ə)l",
+  "phonetic_us": "ɪnˈtɜːrn(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=internal&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=internal&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "内部的，体内的；内政的，国内的；本身的，本质的；内心的；<英>（大学生）本校生的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "内部部件，内部特征；内脏"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The medicine is not for internal use.",
+      "zh": "这种药不可内服。"
+    },
+    {
+      "en": "The country stepped up internal security.",
+      "zh": "该国加强了国内安全防卫。"
+    },
+    {
+      "en": "The doctor said the internal bleeding had been massive.",
+      "zh": "医生说内出血的量很大。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[药]内部的；内在的；国内的",
+      "words": [
+        "inner",
+        "inherent",
+        "domestic",
+        "inside",
+        "home"
+      ]
+    }
+  ]
+}

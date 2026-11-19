@@ -1,0 +1,77 @@
+{
+  "word": "fund",
+  "found": true,
+  "phonetic_uk": "fʌnd",
+  "phonetic_us": "fʌnd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fund&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fund&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "基金，专款；资金，钱款；基金会；储备量"
+    },
+    {
+      "pos": "v.",
+      "meaning": "资助，为……提供资金"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Fund)）（德）丰德（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "funds"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "funds"
+    },
+    {
+      "name": "现在分词",
+      "value": "funding"
+    },
+    {
+      "name": "过去式",
+      "value": "funded"
+    },
+    {
+      "name": "过去分词",
+      "value": "funded"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The fund is voluntarily administered.",
+      "zh": "这个基金是无偿管理的。"
+    },
+    {
+      "en": "He plans to recapitalize the insurance fund.",
+      "zh": "他计划调整保险基金的资本结构。"
+    },
+    {
+      "en": "A fund will be set up for the dead men's families.",
+      "zh": "将为死者家属设立一项基金。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[金融]基金；资金；存款",
+      "words": [
+        "capital",
+        "deposit",
+        "saving"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "投资；资助",
+      "words": [
+        "invent money in",
+        "to invest"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "word": "define",
+  "found": true,
+  "phonetic_uk": "dɪˈfaɪn",
+  "phonetic_us": "dɪˈfaɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=define&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=define&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "给……下定义，解释；阐明，使清楚；标明……界限，明确显出……轮廓；是……的特征，为……的特色"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Define）（英）德法恩，（葡）德菲内（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "defines"
+    },
+    {
+      "name": "现在分词",
+      "value": "defining"
+    },
+    {
+      "name": "过去式",
+      "value": "defined"
+    },
+    {
+      "name": "过去分词",
+      "value": "defined"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We need to define the task ahead very clearly.",
+      "zh": "我们需要明确今后的任务。"
+    },
+    {
+      "en": "It depends on how you define the term 'hostile'.",
+      "zh": "那得看你怎么定义hostile这个词。"
+    },
+    {
+      "en": "The term 'mental illness' is difficult to define.",
+      "zh": "“精神病”这个词很难下定义。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "定义；使明确；规定",
+      "words": [
+        "regulate",
+        "state",
+        "rule"
+      ]
+    }
+  ]
+}

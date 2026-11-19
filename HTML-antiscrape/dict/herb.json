@@ -1,0 +1,48 @@
+{
+  "word": "herb",
+  "found": true,
+  "phonetic_uk": "hɜːb",
+  "phonetic_us": "ɜːrb",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=herb&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=herb&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "药草，香草；草本植物"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Herb）（德、英、瑞典）赫布（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "herbs"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The dried herb is obtainable from health shops.",
+      "zh": "这种干药草在保健店里能买到。"
+    },
+    {
+      "en": "Cantaloup is belonged to cucurbitaceous, a year of rampant herb.",
+      "zh": "香瓜属葫芦科，一年蔓生草本植物。"
+    },
+    {
+      "en": "Technically speaking, a spice is part of an aromatic plant that is not a leaf or herb.",
+      "zh": "从技术上讲，香料是芳香植物的一部分，不只是叶子或药草。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "香草，[植]药草",
+      "words": [
+        "bouquet garni",
+        "vanilla"
+      ]
+    }
+  ]
+}

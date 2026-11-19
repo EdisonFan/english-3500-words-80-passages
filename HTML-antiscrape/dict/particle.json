@@ -1,0 +1,44 @@
+{
+  "word": "particle",
+  "found": true,
+  "phonetic_uk": "ˈpɑːtɪk(ə)l",
+  "phonetic_us": "ˈpɑːrtɪk(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=particle&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=particle&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "微粒；极少量；粒子（原子的极微小成分，如电子、质子或中子）；（数）质点；（语法中的）小品词"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "particles"
+    }
+  ],
+  "examples": [
+    {
+      "en": "A proton is an elementary particle of matter that possesses a positive charge.",
+      "zh": "质子是带正电荷的物质的基本粒子。"
+    },
+    {
+      "en": "Particle physicists and astronomers collaborate often.",
+      "zh": "粒子物理学家和天文学家经常合作。"
+    },
+    {
+      "en": "A fundamental particle is created when three ribbons are joined in a \"plait\".",
+      "zh": "当三条纽带织成一根“辫子”时，就产生了一个基本粒子。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "颗粒；[物]质点；极小量；小品词",
+      "words": [
+        "grain",
+        "granule"
+      ]
+    }
+  ]
+}

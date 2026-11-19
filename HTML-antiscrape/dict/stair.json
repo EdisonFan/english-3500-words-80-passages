@@ -1,0 +1,48 @@
+{
+  "word": "stair",
+  "found": true,
+  "phonetic_uk": "steə(r)",
+  "phonetic_us": "ster",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=stair&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=stair&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "楼梯，阶梯（stairs）；梯级；<文>（建筑物内的）楼梯"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Stair）（英、葡）斯泰尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "stairs"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The house had a panelled hall and a fine oak stair.",
+      "zh": "房子的门厅装有镶板墙裙，楼梯是用高级栎木建造的。"
+    },
+    {
+      "en": "We stepped down the stair.",
+      "zh": "我们走下楼梯。"
+    },
+    {
+      "en": "I often do stair climbing with my friends.",
+      "zh": "我经常和朋友一起爬楼梯。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "楼梯，阶梯；[建]梯级",
+      "words": [
+        "step",
+        "ladder"
+      ]
+    }
+  ]
+}

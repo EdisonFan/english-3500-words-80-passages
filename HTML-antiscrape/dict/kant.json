@@ -1,0 +1,30 @@
+{
+  "word": "kant",
+  "found": true,
+  "phonetic_uk": "kænt",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=kant&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=kant&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "康德（德国哲学家）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Kant thinks that's wrong.",
+      "zh": "康德认为这是错误的。"
+    },
+    {
+      "en": "One crucial aspect of Einstein's training that is overlooked is the years of philosophy he read as a teenager—Kant, Schopenhauer and Spinoza, among others.",
+      "zh": "爱因斯坦接受训练的一个关键方面被忽视了，那就是他十几岁时读过的哲学作品，包括康德、叔本华和斯宾诺莎等等。"
+    },
+    {
+      "en": "Aristotle disagrees with Kant and Rawls.",
+      "zh": "亚里士多德不同意康德和罗尔斯。"
+    }
+  ],
+  "synonyms": []
+}

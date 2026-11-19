@@ -1,0 +1,55 @@
+{
+  "word": "equate",
+  "found": true,
+  "phonetic_uk": "ɪˈkweɪt",
+  "phonetic_us": "ɪˈkweɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=equate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=equate&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（使）等同；使（两个或两个以上事物）相等，使平衡"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "equates"
+    },
+    {
+      "name": "现在分词",
+      "value": "equating"
+    },
+    {
+      "name": "过去式",
+      "value": "equated"
+    },
+    {
+      "name": "过去分词",
+      "value": "equated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I don't see how you can equate the two things.",
+      "zh": "我不明白你怎么能把这两件事等同起来。"
+    },
+    {
+      "en": "The author doesn't equate liberalism and conservatism.",
+      "zh": "该作者没有将自由主义等同于保守主义。"
+    },
+    {
+      "en": "It is a mistake to simply equate longevity with issues of old age.",
+      "zh": "把长寿简单地等同于老年问题是错误的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "使相等；视为平等",
+      "words": [
+        "even up"
+      ]
+    }
+  ]
+}

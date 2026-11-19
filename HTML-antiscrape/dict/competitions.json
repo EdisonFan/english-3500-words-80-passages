@@ -1,0 +1,39 @@
+{
+  "word": "competitions",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˌkɑːmpəˈtɪʃ(ə)nz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=competitions&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=competitions&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "比赛，[生态]竞争（competition 的复数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Spain swept the board in boys' team competitions.",
+      "zh": "西班牙队在男子组的竞赛中大获全胜。"
+    },
+    {
+      "en": "I've always entered as many photo competitions as I can.",
+      "zh": "我总是尽可能多地参加摄影比赛。"
+    },
+    {
+      "en": "As a boy soprano he entered many competitions, winning several gold medals.",
+      "zh": "作为一位童声高音歌手，他参加过很多比赛，获得过好几枚金牌。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "比赛，竞争（competition的复数形式）",
+      "words": [
+        "games",
+        "matches"
+      ]
+    }
+  ]
+}

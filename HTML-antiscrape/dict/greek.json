@@ -1,0 +1,55 @@
+{
+  "word": "greek",
+  "found": true,
+  "phonetic_uk": "ɡriːk",
+  "phonetic_us": "ɡriːk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=greek&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=greek&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "(Greek) 希腊人；希腊语；（有希腊字母名称的）大学生联谊会会员"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "(Greek) 希腊的；希腊人的，希腊语的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "(Greek) （美）格雷克（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He knew nothing of Greek drama.",
+      "zh": "他对希腊戏剧一无所知。"
+    },
+    {
+      "en": "He didn't speak anything but Greek.",
+      "zh": "他除了希腊语之外不会说其他任何语言。"
+    },
+    {
+      "en": "A Greek oil tanker has run aground.",
+      "zh": "一艘希腊油轮已经搁浅了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "希腊人；希腊语",
+      "words": [
+        "Hellene",
+        "Achaean"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "希腊的；希腊人的，希腊语的",
+      "words": [
+        "hellenic",
+        "Grecian"
+      ]
+    }
+  ]
+}

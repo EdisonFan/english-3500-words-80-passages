@@ -1,0 +1,45 @@
+{
+  "word": "education",
+  "found": true,
+  "phonetic_uk": "ˌedʒuˈkeɪʃ(ə)n",
+  "phonetic_us": "ˌedʒuˈkeɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=education&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=education&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（尤指学校）教育；培养，训练；教育机构，教育界人士；教育学；有教益的经历"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "educations"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Education is a top priority.",
+      "zh": "教育是当务之急。"
+    },
+    {
+      "en": "I've always worked in education.",
+      "zh": "我一直从事教育工作。"
+    },
+    {
+      "en": "The state provides free education.",
+      "zh": "政府提供免费教育。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "教育；培养；教育学",
+      "words": [
+        "cultivation",
+        "training",
+        "pedagogy"
+      ]
+    }
+  ]
+}

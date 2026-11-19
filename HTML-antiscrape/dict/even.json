@@ -1,0 +1,100 @@
+{
+  "word": "even",
+  "found": true,
+  "phonetic_uk": "ˈiːv(ə)n",
+  "phonetic_us": "ˈiːv(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=even&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=even&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "平坦的，水平的；平静的，平和的；平齐的，挨着的；无变化的，平稳的；势均力敌的，不相上下的；双数的，偶数的；平等的，公平的；不变的，恒定的；（某事发生的概率）对半的，各半的；扯平的，互不相欠的；匀称的，同样大小的；正好的，不多不少的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "甚至，即使；更加，愈加；其实，实际上"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使相等，使平均；变平坦；使变平，使平整"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<文>傍晚，晚上"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Even）（美、挪）埃旺（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "evens"
+    },
+    {
+      "name": "现在分词",
+      "value": "evening"
+    },
+    {
+      "name": "过去式",
+      "value": "evened"
+    },
+    {
+      "name": "过去分词",
+      "value": "evened"
+    },
+    {
+      "name": "比较级",
+      "value": "evener或more even"
+    },
+    {
+      "name": "最高级",
+      "value": "evenest或most even"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She can't even change a nappy.",
+      "zh": "她连换尿布都不会。"
+    },
+    {
+      "en": "Even his praise is double-edged.",
+      "zh": "即使他的赞扬也是可以有两种解释的。"
+    },
+    {
+      "en": "Even friends disagree sometimes.",
+      "zh": "即便是朋友有时也有分歧。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[数]偶数的；平坦的；相等的",
+      "words": [
+        "flat",
+        "equivalent",
+        "equal",
+        "level"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "甚至；即使；还；实际上",
+      "words": [
+        "actually",
+        "really",
+        "too",
+        "effectively",
+        "yet"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使平坦；使相等",
+      "words": [
+        "equate with"
+      ]
+    }
+  ]
+}

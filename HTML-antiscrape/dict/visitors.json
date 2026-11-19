@@ -1,0 +1,39 @@
+{
+  "word": "visitors",
+  "found": true,
+  "phonetic_uk": "ˈvɪzɪtəz",
+  "phonetic_us": "ˈvɪzɪtər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=visitors&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=visitors&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "访问者，游客（visitor 复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Visitors came from near and far.",
+      "zh": "游客来自四面八方。"
+    },
+    {
+      "en": "In summer visitors swamp the island.",
+      "zh": "夏天，这个岛上游客熙熙攘攘，人满为患。"
+    },
+    {
+      "en": "Are you expecting visitors?",
+      "zh": "你在等客人吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "访问者，游客（visitor 复数）",
+      "words": [
+        "fetcher",
+        "sightseer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "word": "crowds",
+  "found": true,
+  "phonetic_uk": "kraʊdz",
+  "phonetic_us": "kraʊdz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=crowds&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=crowds&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "人群；大众；一大堆；观众观众（crowd 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "聚集；涌向；推搡；塞满（crowd 的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They strolled among the crowds.",
+      "zh": "他们在人群中信步而行。"
+    },
+    {
+      "en": "I just didn't like being in crowds.",
+      "zh": "我只是不喜欢呆在人群中。"
+    },
+    {
+      "en": "The crowds were delirious with joy.",
+      "zh": "人群欣喜若狂。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "人群；大众；一大堆；观众观众（crowd的复数）",
+      "words": [
+        "herds"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "聚集；涌向；推搡；塞满（crowd的三单形式）",
+      "words": [
+        "masses"
+      ]
+    }
+  ]
+}

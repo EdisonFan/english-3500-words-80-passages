@@ -1,0 +1,59 @@
+{
+  "word": "holding",
+  "found": true,
+  "phonetic_uk": "ˈhəʊldɪŋ",
+  "phonetic_us": "ˈhoʊldɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=holding&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=holding&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "持有；召开；担任；握住（hold的现在分词）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "股份；私有财产；馆藏；租种的土地"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Holding）（美、英、加、澳）霍尔丁（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "holdings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They're holding a press briefing tomorrow.",
+      "zh": "他们明天将召开新闻发布会。"
+    },
+    {
+      "en": "She was holding a large box.",
+      "zh": "她提着一只大箱子。"
+    },
+    {
+      "en": "Why were you holding everyone up?",
+      "zh": "你为什么要耽搁大家？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "举办；支持",
+      "words": [
+        "support",
+        "adhesion"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "召开；担任（hold的ing形式）；握住",
+      "words": [
+        "undertaking"
+      ]
+    }
+  ]
+}

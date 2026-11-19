@@ -1,0 +1,75 @@
+{
+  "word": "station",
+  "found": true,
+  "phonetic_uk": "ˈsteɪʃ(ə)n",
+  "phonetic_us": "ˈsteɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=station&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=station&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（公共汽车、火车等的）车站；电视台，广播电台；站，所，局；<旧>社会地位，身份；须坚守的位置，岗位；驻地，基地；（电台或电视的）频率，频道；（澳大利亚或新西兰的）大牧场"
+    },
+    {
+      "pos": "vt.",
+      "meaning": "驻扎，派驻；派往，安置在"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "stations"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "stations"
+    },
+    {
+      "name": "现在分词",
+      "value": "stationing"
+    },
+    {
+      "name": "过去式",
+      "value": "stationed"
+    },
+    {
+      "name": "过去分词",
+      "value": "stationed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I get off at the next station.",
+      "zh": "我在下一站下车。"
+    },
+    {
+      "en": "The train pulled into a station.",
+      "zh": "那列火车驶入了一个车站。"
+    },
+    {
+      "en": "The train drew into the station.",
+      "zh": "火车徐徐驶入车站。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "站；驻地；地位；身分",
+      "words": [
+        "capacity",
+        "condition",
+        "standing"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "配置；安置；驻扎",
+      "words": [
+        "establish",
+        "put",
+        "bed",
+        "plant"
+      ]
+    }
+  ]
+}

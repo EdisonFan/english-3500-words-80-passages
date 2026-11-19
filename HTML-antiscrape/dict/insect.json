@@ -1,0 +1,44 @@
+{
+  "word": "insect",
+  "found": true,
+  "phonetic_uk": "ˈɪnsekt",
+  "phonetic_us": "ˈɪnsekt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=insect&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=insect&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "昆虫；类似昆虫的小动物（如蜘蛛）；卑鄙的人"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "insects"
+    }
+  ],
+  "examples": [
+    {
+      "en": "At rest the insect looks like a dead leaf.",
+      "zh": "这种昆虫不动时看上去像一片枯叶。"
+    },
+    {
+      "en": "She scratched at the insect bites on her arm.",
+      "zh": "她挠了挠胳膊上虫咬的包。"
+    },
+    {
+      "en": "The roof timbers were affected by rot and insect attack.",
+      "zh": "屋顶的木料已经腐朽并遭虫害。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[昆]昆虫；卑鄙的人",
+      "words": [
+        "ratfink",
+        "warb"
+      ]
+    }
+  ]
+}

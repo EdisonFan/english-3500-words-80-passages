@@ -1,0 +1,52 @@
+{
+  "word": "banana",
+  "found": true,
+  "phonetic_uk": "bəˈnɑːnə",
+  "phonetic_us": "bəˈnænə",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=banana&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=banana&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "香蕉；香蕉树"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "愚蠢的，发狂的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Banana）巴纳纳（姓氏）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "bananas"
+    }
+  ],
+  "examples": [
+    {
+      "en": "These companies are determined to keep a stranglehold on the banana industry.",
+      "zh": "这些公司决定对香蕉业进行压制。"
+    },
+    {
+      "en": "He slipped on a banana skin.",
+      "zh": "他踩在香蕉皮上滑倒了。"
+    },
+    {
+      "en": "This banana came from an apple tree.",
+      "zh": "这个香蕉来自于一棵苹果树。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[园艺]香蕉；喜剧演员；大鹰钩鼻",
+      "words": [
+        "pisang",
+        "comedian"
+      ]
+    }
+  ]
+}

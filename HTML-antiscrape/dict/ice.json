@@ -1,0 +1,58 @@
+{
+  "word": "ice",
+  "found": true,
+  "phonetic_uk": "aɪs",
+  "phonetic_us": "aɪs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ice&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ice&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "冰；冰块；冰冻甜食，刨冰；溜冰场；<美，非正式>钻石，珠宝；（态度，表情）冰冷；<英>一份冰淇淋"
+    },
+    {
+      "pos": "v.",
+      "meaning": "在（糕饼上）加糖霜；冷却，冰镇；<非正式>确保（胜利等）；<美，非正式>杀死；结冰；长射（冰球）过全场越过对方球门线"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "冰的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Ice）（英）艾斯，（法）伊斯（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I'll get you some ice cream.",
+      "zh": "我去给你拿些冰激凌。"
+    },
+    {
+      "en": "She was nicknamed 'The Ice Queen'.",
+      "zh": "她外号叫“冰上王后”。"
+    },
+    {
+      "en": "The ice started to crack.",
+      "zh": "冰开始裂了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[水文][制冷]冰；冰淇淋；矜持",
+      "words": [
+        "gelato",
+        "reservedness"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "冰的",
+      "words": [
+        "glacial"
+      ]
+    }
+  ]
+}

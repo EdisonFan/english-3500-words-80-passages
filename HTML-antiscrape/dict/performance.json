@@ -1,0 +1,51 @@
+{
+  "word": "performance",
+  "found": true,
+  "phonetic_uk": "pəˈfɔːməns",
+  "phonetic_us": "pərˈfɔːrməns",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=performance&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=performance&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "表演，演出；工作情况，表现；（投资的）业绩；执行，履行；麻烦，苦差事（a performance）；艺术上的表现，演技；（汽车的）性能；（语言学）语言表现，言语行为"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "性能卓越的，高性能的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "performances"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Her performance was mesmerizing.",
+      "zh": "她的表演让人入迷。"
+    },
+    {
+      "en": "Her performance displayed great art.",
+      "zh": "她的表演展现了精湛的技艺。"
+    },
+    {
+      "en": "He gave an electrifying performance.",
+      "zh": "他做了一场令人振奋的表演。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "性能；绩效；表演；执行",
+      "words": [
+        "property",
+        "capability",
+        "enforcement",
+        "execution",
+        "implementing"
+      ]
+    }
+  ]
+}

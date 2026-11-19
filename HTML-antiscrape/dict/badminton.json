@@ -1,0 +1,39 @@
+{
+  "word": "badminton",
+  "found": true,
+  "phonetic_uk": "ˈbædmɪntən",
+  "phonetic_us": "ˈbædmɪntən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=badminton&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=badminton&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "羽毛球"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "While playing badminton, I ruptured my Achilles tendon.",
+      "zh": "打羽毛球的时候，我把跟腱撕裂了。"
+    },
+    {
+      "en": "Try tennis, badminton or windsurfing. In short, anything challenging.",
+      "zh": "试试网球、羽毛球或帆板运动。简而言之，任何有挑战性的东西。"
+    },
+    {
+      "en": "I play badminton and football.",
+      "zh": "我打羽毛球、踢足球。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "羽毛球",
+      "words": [
+        "bird",
+        "shuttlecock"
+      ]
+    }
+  ]
+}

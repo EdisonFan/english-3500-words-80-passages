@@ -1,0 +1,43 @@
+{
+  "word": "candidate",
+  "found": true,
+  "phonetic_uk": "ˈkændɪdət",
+  "phonetic_us": "ˈkændɪdət",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=candidate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=candidate&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "候选人，申请者；有望体验（得到）……的人（物）；投考者，考生；攻读学位者"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "candidates"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Neither candidate won outright.",
+      "zh": "两个候选人谁也没干脆利落地获胜。"
+    },
+    {
+      "en": "He's a prime candidate for promotion.",
+      "zh": "他是最有望获得晋升的人选。"
+    },
+    {
+      "en": "She's the perfect candidate for the job.",
+      "zh": "她是这项工作的最佳人选。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "候选人，候补者；应试者",
+      "words": [
+        "examinee"
+      ]
+    }
+  ]
+}

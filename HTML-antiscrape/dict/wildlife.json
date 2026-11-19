@@ -1,0 +1,34 @@
+{
+  "word": "wildlife",
+  "found": true,
+  "phonetic_uk": "ˈwaɪldlaɪf",
+  "phonetic_us": "ˈwaɪldlaɪf",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=wildlife&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=wildlife&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "野生动植物"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "野生动植物的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The area is rich in wildlife.",
+      "zh": "这个地区的野生动植物很多。"
+    },
+    {
+      "en": "Development of the area would endanger wildlife.",
+      "zh": "开发这一地区将会危及野生生物。"
+    },
+    {
+      "en": "It takes time and patience to photograph wildlife.",
+      "zh": "拍摄野生动物要肯花时间，要有毅力。"
+    }
+  ],
+  "synonyms": []
+}

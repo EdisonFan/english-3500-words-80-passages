@@ -1,0 +1,50 @@
+{
+  "word": "nor",
+  "found": true,
+  "phonetic_uk": "nɔː(r)",
+  "phonetic_us": "nɔːr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=nor&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=nor&type=2",
+  "defs": [
+    {
+      "pos": "conj.",
+      "meaning": "也不（通常与 neither 连用）； （用于肯定动词前，表示同意刚提及的否定命题）也不"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "也不（通常与 neither 连用）；（用于肯定动词前，表示同意刚提及的否定命题）也不"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（电子）“或非”"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Nor）（中）挪（广东话·威妥玛），（马来、俄）诺尔，（柬）诺（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She doesn't like them and nor does Jeff.",
+      "zh": "她不喜欢他们，杰夫也不喜欢。"
+    },
+    {
+      "en": "She seemed neither surprised nor worried.",
+      "zh": "她似乎既不惊讶也不担心。"
+    },
+    {
+      "en": "I can give you neither an opinion nor any advice.",
+      "zh": "我既不能给你一个意见，也不能给你任何建议。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "conj.",
+      "meaning": "也不；也不是",
+      "words": [
+        "neither"
+      ]
+    }
+  ]
+}

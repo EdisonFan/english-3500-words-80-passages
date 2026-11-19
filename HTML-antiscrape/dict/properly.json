@@ -1,0 +1,42 @@
+{
+  "word": "properly",
+  "found": true,
+  "phonetic_uk": "ˈprɒpəli",
+  "phonetic_us": "ˈprɑːpərli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=properly&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=properly&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "正确地，适当地；得体地，恰当地；实际上，严格地说；彻底地，完全地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She couldn't digest food properly.",
+      "zh": "她无法正常消化食物。"
+    },
+    {
+      "en": "The television isn't working properly.",
+      "zh": "这台电视机运作不正常。"
+    },
+    {
+      "en": "Make sure the letter is properly addressed.",
+      "zh": "一定要正确书写信上的地址。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "适当地；正确地；恰当地",
+      "words": [
+        "correctly",
+        "exactly",
+        "well",
+        "appropriately",
+        "adequately"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "largest",
+  "found": true,
+  "phonetic_uk": "ˈlɑːdʒɪst",
+  "phonetic_us": "ˈlɑːrdʒɪst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=largest&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=largest&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "多量的，最大的（large 的最高级）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Which is the largest city in the world ?",
+      "zh": "世界上最大的城市是哪个？"
+    },
+    {
+      "en": "The elephant is the largest living land animal.",
+      "zh": "象是现今陆地上最大的动物。"
+    },
+    {
+      "en": "Chile is the world's largest producer of copper.",
+      "zh": "智利是世界上最大的产铜国。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "多量的，最大的（large的最高级）",
+      "words": [
+        "biggest",
+        "maximal"
+      ]
+    }
+  ]
+}

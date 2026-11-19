@@ -1,0 +1,63 @@
+{
+  "word": "pancake",
+  "found": true,
+  "phonetic_uk": "ˈpænkeɪk",
+  "phonetic_us": "ˈpænkeɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pancake&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pancake&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "薄煎（烤，烙）饼；<美>（当早点吃的）厚煎饼（通常和枫糖浆一起食用）；（尤为演员化装用的）粉饼；平坠降落（同 pancake landing）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（飞机）平坠降落；（飞行员）驾机平坠降落；<非正式>使平展，把……压平"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "pancakes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "pancakes"
+    },
+    {
+      "name": "现在分词",
+      "value": "pancaking"
+    },
+    {
+      "name": "过去式",
+      "value": "pancaked"
+    },
+    {
+      "name": "过去分词",
+      "value": "pancaked"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This pancake tastes delicious.",
+      "zh": "这煎饼尝起来味道不错。"
+    },
+    {
+      "en": "It's like an English pancake.",
+      "zh": "这很像英国的煎饼。"
+    },
+    {
+      "en": "You should roll the pancake.",
+      "zh": "你应该把薄煎饼卷起来。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "薄烤饼；粉饼；平降（全称pancake landing）",
+      "words": [
+        "pressed powder"
+      ]
+    }
+  ]
+}

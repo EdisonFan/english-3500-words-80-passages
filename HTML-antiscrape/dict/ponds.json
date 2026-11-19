@@ -1,0 +1,42 @@
+{
+  "word": "ponds",
+  "found": true,
+  "phonetic_uk": "pɒndz",
+  "phonetic_us": "pɑːndz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ponds&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ponds&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（人工或自然的）池塘（pond 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "拦截（或筑坝堵塞）（流水或其他流动液体）以形成小湖（pond 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The plant will soon choke ponds and waterways if left unchecked.",
+      "zh": "如不控制这种植物的生长，池塘和水道很快就要被阻塞。"
+    },
+    {
+      "en": "He's interested in sailing and learns about sailing on lakes, ponds, and rivers.",
+      "zh": "他喜欢航海，并在湖泊、池塘、河流里学习航行。"
+    },
+    {
+      "en": "He showed people how to make fish ponds to prevent starvation during the wet season.",
+      "zh": "他向人们展示如何建造鱼塘以防止在雨季挨饿。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "池塘（pond的复数）",
+      "words": [
+        "lagoons"
+      ]
+    }
+  ]
+}

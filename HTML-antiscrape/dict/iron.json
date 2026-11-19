@@ -1,0 +1,80 @@
+{
+  "word": "iron",
+  "found": true,
+  "phonetic_uk": "ˈaɪən",
+  "phonetic_us": "ˈaɪərn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=iron&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=iron&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "铁；熨斗；铁器，铁制工具；镣铐；（矫正畸形腿的）夹腿；<非正式>马蹬；陨铁，铁陨石；（高尔夫球）铁头球杆；刚强，毅力"
+    },
+    {
+      "pos": "v.",
+      "meaning": "熨，烫"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "铁的，铁制的；刚强的，坚强的；强硬的，严酷的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Iron）（英）艾恩（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "irons"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "irons"
+    },
+    {
+      "name": "现在分词",
+      "value": "ironing"
+    },
+    {
+      "name": "过去式",
+      "value": "ironed"
+    },
+    {
+      "name": "过去分词",
+      "value": "ironed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The huge, iron gate was locked.",
+      "zh": "那扇巨大的铁门被锁上了。"
+    },
+    {
+      "en": "She was known as the 'Iron Lady'.",
+      "zh": "大家都称她为“铁娘子”。"
+    },
+    {
+      "en": "Steel is made from iron.",
+      "zh": "钢是由铁炼成的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "熨斗；[服装]烙铁；坚强",
+      "words": [
+        "sadiron",
+        "flatiron"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "铁的；残酷的；刚强的",
+      "words": [
+        "cruel",
+        "ferrous"
+      ]
+    }
+  ]
+}

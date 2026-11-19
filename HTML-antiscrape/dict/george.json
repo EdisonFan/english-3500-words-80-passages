@@ -1,0 +1,30 @@
+{
+  "word": "george",
+  "found": true,
+  "phonetic_uk": "dʒɔːdʒ",
+  "phonetic_us": "dʒɔːrdʒ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=george&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=george&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "乔治（男子名）；自动操纵装置；英国最高勋爵勋章上的圣乔治诛龙图"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "George was spending very freely.",
+      "zh": "乔治花钱大手大脚。"
+    },
+    {
+      "en": "St George slew the dragon.",
+      "zh": "圣乔治杀死了那条龙。"
+    },
+    {
+      "en": "George was a fitter at the shipyard.",
+      "zh": "乔治曾是船坞的装配工。"
+    }
+  ],
+  "synonyms": []
+}

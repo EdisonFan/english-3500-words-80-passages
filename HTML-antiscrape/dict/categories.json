@@ -1,0 +1,39 @@
+{
+  "word": "categories",
+  "found": true,
+  "phonetic_uk": "ˈkætəɡəriz",
+  "phonetic_us": "ˈkætəɡɔːriz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=categories&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=categories&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "类别，范畴：将事物按照共同特征或属性分组的方式。"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "These categories are not well defined.",
+      "zh": "这些类别划分得不太明确。"
+    },
+    {
+      "en": "Patients are classified into three categories.",
+      "zh": "病人被归为三种类型。"
+    },
+    {
+      "en": "The problems generally fall into two categories.",
+      "zh": "这些问题一般属于两种类别。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "类别（category的复数）；分类",
+      "words": [
+        "labels",
+        "classifications"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "toolbox",
+  "found": true,
+  "phonetic_uk": "ˈtuːlbɒks",
+  "phonetic_us": "ˈtuːlbɑːks",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=toolbox&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=toolbox&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "工具箱"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Nick leaned back against my toolbox.",
+      "zh": "尼克靠在了我的工具箱上。"
+    },
+    {
+      "en": "The UNA toolbox can be downloaded here.",
+      "zh": "UNA工具箱可以在这里下载。"
+    },
+    {
+      "en": "Please put the hammer into the toolbox.",
+      "zh": "请把锤子放进工具箱里。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "工具箱",
+      "words": [
+        "kit",
+        "tool chest"
+      ]
+    }
+  ]
+}

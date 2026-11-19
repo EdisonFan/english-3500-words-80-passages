@@ -1,0 +1,34 @@
+{
+  "word": "located",
+  "found": true,
+  "phonetic_uk": "ləʊˈkeɪtɪd",
+  "phonetic_us": "ˈloʊkeɪtɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=located&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=located&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "位于，坐落在"
+    },
+    {
+      "pos": "v.",
+      "meaning": "确定……的位置，探明；设立，建立；迁居，开办公司（locate 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The hotel is centrally located for all major attractions.",
+      "zh": "这家旅馆位于中心地带，去往所有主要景点都很方便。"
+    },
+    {
+      "en": "The house is located in one of the city's prettiest squares.",
+      "zh": "该房子位于市区最漂亮的广场之一。"
+    },
+    {
+      "en": "It is located within reach of many important Norman towns, including Bayeux.",
+      "zh": "它位于诺曼许多重要城镇的附近，包括巴约。"
+    }
+  ],
+  "synonyms": []
+}

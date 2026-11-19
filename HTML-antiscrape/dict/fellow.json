@@ -1,0 +1,62 @@
+{
+  "word": "fellow",
+  "found": true,
+  "phonetic_uk": "ˈfeləʊ",
+  "phonetic_us": "ˈfeloʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fellow&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fellow&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "小伙子，家伙；同伴，同事，同学；研究员；男朋友；（研究期间领取津贴的）研究生；<英>（大学的）董事；（学术或专业团体）会员；对等者，对手"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "同类的，同伴的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Fellow）（美、英、印）费洛（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "fellows"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He was a young fellow, very green, very immature.",
+      "zh": "他是个年轻的家伙，没什么经验，很不成熟。"
+    },
+    {
+      "en": "He crossed out \"fellow subjects,\" and instead inserted \"fellow citizens.\"",
+      "zh": "他划掉了“国民同胞们”，而写进了“公民同胞们”。"
+    },
+    {
+      "en": "He was a meek, mild-mannered fellow.",
+      "zh": "他是一个性情温顺、举止文雅的小伙子。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "家伙；朋友；同事；会员",
+      "words": [
+        "apple",
+        "customer",
+        "friend",
+        "member",
+        "guy"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "同伴的，同事的；同道的",
+      "words": [
+        "companionate"
+      ]
+    }
+  ]
+}

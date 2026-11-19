@@ -1,0 +1,65 @@
+{
+  "word": "recite",
+  "found": true,
+  "phonetic_uk": "rɪˈsaɪt",
+  "phonetic_us": "rɪˈsaɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=recite&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=recite&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "背诵，朗诵；详述，列举"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "recites"
+    },
+    {
+      "name": "现在分词",
+      "value": "reciting"
+    },
+    {
+      "name": "过去式",
+      "value": "recited"
+    },
+    {
+      "name": "过去分词",
+      "value": "recited"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She can recite the whole poem from memory.",
+      "zh": "她能背诵全诗。"
+    },
+    {
+      "en": "Each child had to recite a poem to the class.",
+      "zh": "每个孩子都得在班上背诵一首诗。"
+    },
+    {
+      "en": "Did I recite words today?",
+      "zh": "今天我背单词了吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "背诵；叙述；列举",
+      "words": [
+        "repeat",
+        "specify",
+        "relate"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "背诵；叙述",
+      "words": [
+        "say over",
+        "learn sth by memory"
+      ]
+    }
+  ]
+}

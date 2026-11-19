@@ -1,0 +1,51 @@
+{
+  "word": "kingdom",
+  "found": true,
+  "phonetic_uk": "ˈkɪŋdəm",
+  "phonetic_us": "ˈkɪŋdəm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=kingdom&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=kingdom&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "王国；自然三界之一；（神统治的）天国；管辖范围，领域；界（生物的五大类别之一）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Kingdom）（英）金德姆（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "kingdoms"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Rome annexed the Nabatean kingdom in AD 106.",
+      "zh": "罗马帝国于公元106年并吞了纳巴泰王国。"
+    },
+    {
+      "en": "The animal kingdom is full of fine and glorious creatures.",
+      "zh": "动物界有很多精巧而美妙的生物。"
+    },
+    {
+      "en": "He taught his followers that they could all be members of the kingdom of God.",
+      "zh": "他教导他的信徒说他们都会成为天国的成员。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "王国；[生物][矿物]界；领域",
+      "words": [
+        "domain",
+        "province",
+        "territory",
+        "world",
+        "universe"
+      ]
+    }
+  ]
+}

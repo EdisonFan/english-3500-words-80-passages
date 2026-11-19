@@ -1,0 +1,55 @@
+{
+  "word": "cute",
+  "found": true,
+  "phonetic_uk": "kjuːt",
+  "phonetic_us": "kjuːt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cute&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cute&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "漂亮的，可爱的；<美>性感迷人的；<美>精明的，机灵的；<美，非正式>矫揉造作的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "cutes"
+    },
+    {
+      "name": "比较级",
+      "value": "cuter"
+    },
+    {
+      "name": "最高级",
+      "value": "cutest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Shame, she's so cute!",
+      "zh": "哇，她简直是太漂亮了！"
+    },
+    {
+      "en": "Isn't she cute?",
+      "zh": "它是不是很可爱？"
+    },
+    {
+      "en": "She is such a cute little thing.",
+      "zh": "她是个非常可爱的小东西。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "可爱的；漂亮的；聪明的，伶俐的",
+      "words": [
+        "lovely",
+        "pretty",
+        "intelligent",
+        "taking",
+        "wise"
+      ]
+    }
+  ]
+}

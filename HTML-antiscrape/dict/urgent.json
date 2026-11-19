@@ -1,0 +1,48 @@
+{
+  "word": "urgent",
+  "found": true,
+  "phonetic_uk": "ˈɜːdʒənt",
+  "phonetic_us": "ˈɜːrdʒənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=urgent&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=urgent&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "紧急的，急迫的；急切的，催促的；<正式>（尤指某人的行动）执着的，坚定的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more urgent"
+    },
+    {
+      "name": "最高级",
+      "value": "most urgent"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His voice was low and urgent.",
+      "zh": "他的声音低沉而急切。"
+    },
+    {
+      "en": "This condition requires urgent treatment.",
+      "zh": "这种情况得紧急处理。"
+    },
+    {
+      "en": "I have some urgent business to attend to.",
+      "zh": "我有一些急事要处理。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "紧急的；急迫的",
+      "words": [
+        "emergency",
+        "instant"
+      ]
+    }
+  ]
+}

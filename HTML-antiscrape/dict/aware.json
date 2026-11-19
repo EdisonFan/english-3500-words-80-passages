@@ -1,0 +1,43 @@
+{
+  "word": "aware",
+  "found": true,
+  "phonetic_uk": "əˈweə(r)",
+  "phonetic_us": "əˈwer",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=aware&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=aware&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "知道的，明白的；察觉到的，意识到的；有……意识的，有……知识的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Aware）（阿拉伯、索）阿瓦雷（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She is aware of her own failings.",
+      "zh": "她了解自己的弱点。"
+    },
+    {
+      "en": "He was well aware of the problem.",
+      "zh": "他很清楚这个问题。"
+    },
+    {
+      "en": "We are fully aware of the dangers.",
+      "zh": "我们充分意识到危险。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "意识到的；知道的；有…方面知识的；懂世故的",
+      "words": [
+        "conscious",
+        "sensible"
+      ]
+    }
+  ]
+}

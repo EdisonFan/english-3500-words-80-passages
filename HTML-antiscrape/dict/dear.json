@@ -1,0 +1,78 @@
+{
+  "word": "dear",
+  "found": true,
+  "phonetic_uk": "dɪə(r)",
+  "phonetic_us": "dɪr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dear&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dear&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "珍视的；(用于信函抬头名字或头衔前)亲爱的；昂贵的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（称呼所爱的人）亲爱的"
+    },
+    {
+      "pos": "int.",
+      "meaning": "啊，天呐"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "dears"
+    },
+    {
+      "name": "比较级",
+      "value": "dearer或more dear"
+    },
+    {
+      "name": "最高级",
+      "value": "dearest或most dear"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Would you like a drink, dear?",
+      "zh": "喝点什么吗，亲爱的？"
+    },
+    {
+      "en": "My dear girl, you're wrong.",
+      "zh": "我亲爱的姑娘，你错了。"
+    },
+    {
+      "en": "You're a lot like me, dear.",
+      "zh": "你和我太像了，亲爱的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "亲爱的；尊敬的；昂贵的",
+      "words": [
+        "loving",
+        "expensive",
+        "rich",
+        "costly"
+      ]
+    },
+    {
+      "pos": "int.",
+      "meaning": "哎呀",
+      "words": [
+        "oh",
+        "my",
+        "ohone"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "亲爱的人",
+      "words": [
+        "machree"
+      ]
+    }
+  ]
+}

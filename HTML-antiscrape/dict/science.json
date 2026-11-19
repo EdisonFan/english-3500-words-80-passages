@@ -1,0 +1,51 @@
+{
+  "word": "science",
+  "found": true,
+  "phonetic_uk": "ˈsaɪəns",
+  "phonetic_us": "ˈsaɪəns",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=science&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=science&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "科学，科学知识；专门科学；（大学学习的）学科；理科；技术，技巧"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Science）（英）赛恩斯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "sciences"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Economics is an inexact science.",
+      "zh": "经济学是一门不精确的科学。"
+    },
+    {
+      "en": "What turns teenagers off science?",
+      "zh": "是什么使青少年们对科学失去了兴趣？"
+    },
+    {
+      "en": "Forecasting was an inexact science.",
+      "zh": "预报是门不精确的科学。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "科学；技术；学科；理科",
+      "words": [
+        "technology",
+        "mechanics",
+        "skill",
+        "knowledge",
+        "discipline"
+      ]
+    }
+  ]
+}

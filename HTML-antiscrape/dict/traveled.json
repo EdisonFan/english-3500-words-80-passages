@@ -1,0 +1,43 @@
+{
+  "word": "traveled",
+  "found": true,
+  "phonetic_uk": "ˈtræv(ə)ld",
+  "phonetic_us": "ˈtrævld",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=traveled&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=traveled&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "长途旅行；经过（某地区）（travel 的过去式和过去分词）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "富有旅行经验的；旅客使用的；旅客多的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more traveled"
+    },
+    {
+      "name": "最高级",
+      "value": "most traveled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He was a very wealthy man who had traveled the world.",
+      "zh": "他是个非常富有的人，曾经周游过世界。"
+    },
+    {
+      "en": "He traveled Scotland last year.",
+      "zh": "他去年去苏格兰旅行。"
+    },
+    {
+      "en": "We traveled by train, not by bus.",
+      "zh": "我们是坐火车旅行的，不是坐公共汽车。"
+    }
+  ],
+  "synonyms": []
+}

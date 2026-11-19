@@ -1,0 +1,39 @@
+{
+  "word": "exchanges",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ɪksˈtʃeɪndʒɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=exchanges&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=exchanges&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "交易所，\t票据交换总额；市场，外币兑换（exchange 复数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "On the foreign exchanges, the U.S. dollar is up point forty-five.",
+      "zh": "在外汇交易所，美元上涨了0.45个百分点。"
+    },
+    {
+      "en": "Cultural exchanges are a way of building bridges between countries.",
+      "zh": "文化交流是各国之间建立联系的纽带。"
+    },
+    {
+      "en": "Exchanges are necessary.",
+      "zh": "交换是必要的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "交易所，\t票据交换总额；市场，外币兑换（exchange 复数形式）",
+      "words": [
+        "plaza",
+        "bourse"
+      ]
+    }
+  ]
+}

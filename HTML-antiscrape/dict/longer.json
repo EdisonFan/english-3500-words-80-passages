@@ -1,0 +1,30 @@
+{
+  "word": "longer",
+  "found": true,
+  "phonetic_uk": "lɒŋɡə(r)",
+  "phonetic_us": "lɔːŋɡər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=longer&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=longer&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "更长的（long 的比较级）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The nights are getting longer.",
+      "zh": "夜越来越长。"
+    },
+    {
+      "en": "I can't stay awake any longer.",
+      "zh": "我瞌睡得再也熬不住了。"
+    },
+    {
+      "en": "These conditions no longer obtain.",
+      "zh": "这些条件不再适用。"
+    }
+  ],
+  "synonyms": []
+}

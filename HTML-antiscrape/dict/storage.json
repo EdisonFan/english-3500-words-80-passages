@@ -1,0 +1,48 @@
+{
+  "word": "storage",
+  "found": true,
+  "phonetic_uk": "ˈstɔːrɪdʒ",
+  "phonetic_us": "ˈstɔːrɪdʒ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=storage&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=storage&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "储存，贮藏；（信息的）存储，存储空间；（家具等的）存放，保管；储存空间，储藏场所；仓库费，仓租"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "储存的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "storages"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We need more storage now.",
+      "zh": "现在我们需要更多的贮存场所。"
+    },
+    {
+      "en": "Bitmapped maps require huge storage space.",
+      "zh": "位元映射地图需要巨大的存储空间。"
+    },
+    {
+      "en": "The table collapses for easy storage.",
+      "zh": "这桌子可折叠起来方便存放。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计]存储；[建][经]仓库；[贸易]贮藏所",
+      "words": [
+        "warehouse",
+        "repository"
+      ]
+    }
+  ]
+}

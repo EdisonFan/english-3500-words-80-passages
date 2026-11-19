@@ -1,0 +1,53 @@
+{
+  "word": "weekend",
+  "found": true,
+  "phonetic_uk": "ˌwiːkˈend; ˈwiːkend",
+  "phonetic_us": "ˈwiːkend",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=weekend&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=weekend&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "周末；周末旅行，周末度假"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "周末的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "度周末"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Let's go fishing this weekend.",
+      "zh": "咱们这个周末去钓鱼吧。"
+    },
+    {
+      "en": "What shall we do this weekend?",
+      "zh": "这个周末我们要做什么呢？"
+    },
+    {
+      "en": "I went home for the weekend.",
+      "zh": "我回家过周末了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "周末，周末休假；周末聚会",
+      "words": [
+        "Saturday-to-Monday"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "周末的，周末用的",
+      "words": [
+        "Saturday-to-Monday"
+      ]
+    }
+  ]
+}

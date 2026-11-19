@@ -1,0 +1,75 @@
+{
+  "word": "thunder",
+  "found": true,
+  "phonetic_uk": "ˈθʌndə(r)",
+  "phonetic_us": "ˈθʌndər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=thunder&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=thunder&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "雷，雷声；雷鸣般的响声，轰隆声；怒容满面，（雷鸣般的）怒吼"
+    },
+    {
+      "pos": "v.",
+      "meaning": "打雷；发出雷鸣般的响声，轰隆地响；轰隆隆地快速移动，使快速移动；愤怒地大叫，怒吼；砰然重击"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "thunders"
+    },
+    {
+      "name": "现在分词",
+      "value": "thundering"
+    },
+    {
+      "name": "过去式",
+      "value": "thundered"
+    },
+    {
+      "name": "过去分词",
+      "value": "thundered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The thunder growled menacingly.",
+      "zh": "雷声轰鸣，叫人害怕。"
+    },
+    {
+      "en": "Thunder cracked in the sky.",
+      "zh": "空中雷声炸响。"
+    },
+    {
+      "en": "Thunder grumbled in the distance.",
+      "zh": "远处雷声隆隆。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[气象]雷；轰隆声；恐吓",
+      "words": [
+        "threat",
+        "intimidation"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "打雷；怒喝",
+      "words": [
+        "fulminate"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "轰隆地发出；大声喊出",
+      "words": [
+        "bark out",
+        "bellow out"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "word": "drove",
+  "found": true,
+  "phonetic_uk": "drəʊv",
+  "phonetic_us": "droʊv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=drove&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=drove&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（移动的）人群，畜群"
+    },
+    {
+      "pos": "v.",
+      "meaning": "驱赶（牲口），使（家畜）迁徙"
+    },
+    {
+      "pos": "v.",
+      "meaning": "开车；驾车送人；迫使，促使（drive 的过去式形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He drove past darkened houses.",
+      "zh": "他开过一座座漆黑的房子。"
+    },
+    {
+      "en": "We drove homewards in silence.",
+      "zh": "我们默默地开车回家。"
+    },
+    {
+      "en": "He drove around midtown, singing.",
+      "zh": "他一边哼着歌，一边绕市中心驱车前行。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "畜群；牛群、羊群等；移动的人群或大批的东西",
+      "words": [
+        "herd"
+      ]
+    }
+  ]
+}

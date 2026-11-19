@@ -1,0 +1,52 @@
+{
+  "word": "surprising",
+  "found": true,
+  "phonetic_uk": "səˈpraɪzɪŋ",
+  "phonetic_us": "sərˈpraɪzɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=surprising&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=surprising&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "令人惊讶的，出人意料的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使（某人）吃惊；意外发现，当场抓获，突然袭击；给……惊喜，使喜出望外（surprise 的现在分词）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more surprising"
+    },
+    {
+      "name": "最高级",
+      "value": "most surprising"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It's not surprising (that) they lost.",
+      "zh": "他们吃了败仗，不奇怪。"
+    },
+    {
+      "en": "She'd mentioned it casually once, surprising him by her unconcern.",
+      "zh": "她随意地提过一次这个事，她的漠不关心让他吃惊。"
+    },
+    {
+      "en": "It is not surprising that children learn to read at different rates.",
+      "zh": "孩子们以不同速度识字，这并不令人惊讶。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "令人惊讶的；意外的",
+      "words": [
+        "sudden",
+        "unexpected"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "resilience",
+  "found": true,
+  "phonetic_uk": "rɪˈzɪliəns",
+  "phonetic_us": "rɪˈzɪliəns",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=resilience&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=resilience&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "恢复力，复原力；（橡胶等的）弹性"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Do you feel that your muscles do not have the strength and resilience that they should have?",
+      "zh": "你觉得你的肌肉不具备它应有的力量和弹性了吗？"
+    },
+    {
+      "en": "How do we recover and build resilience?",
+      "zh": "我们应该如何恢复和锻炼复原力呢？"
+    },
+    {
+      "en": "So how do we recover and build resilience?",
+      "zh": "那么我们如何恢复和建立韧性呢？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "恢复力；[力]弹力；顺应力",
+      "words": [
+        "elasticity",
+        "elastic force"
+      ]
+    }
+  ]
+}

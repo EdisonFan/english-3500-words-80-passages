@@ -1,0 +1,42 @@
+{
+  "word": "sentences",
+  "found": true,
+  "phonetic_uk": "ˈsentənsɪz",
+  "phonetic_us": "ˈsentənsɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sentences&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sentences&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "句子； 宣判，判决，判刑（sentence 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "宣判，判决，判刑（sentence 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Sentences can be broken up into clauses.",
+      "zh": "句子可以分成从句。"
+    },
+    {
+      "en": "Spoken language contains many incomplete sentences.",
+      "zh": "口语中有很多不完整的句子。"
+    },
+    {
+      "en": "Here we have several sentences incorrectly joined by commas.",
+      "zh": "这里有几个误用逗号连接的句子。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "句子；宣判，判决（sentence的复数）；句型",
+      "words": [
+        "awards"
+      ]
+    }
+  ]
+}

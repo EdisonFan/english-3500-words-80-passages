@@ -1,0 +1,71 @@
+{
+  "word": "freeze",
+  "found": true,
+  "phonetic_uk": "friːz",
+  "phonetic_us": "friːz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=freeze&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=freeze&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "结冰；冻住；冷藏，冷冻；感到很冷，冻僵；突然停止，呆住；使（物价或工资等）固定不动；冻结（钱财）；使定格；（计算机屏幕因系统故障）被暂时锁定"
+    },
+    {
+      "pos": "n.",
+      "meaning": "冻结；停止；冰冻期；霜冻"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "freezes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "freezes"
+    },
+    {
+      "name": "现在分词",
+      "value": "freezing"
+    },
+    {
+      "name": "过去式",
+      "value": "froze"
+    },
+    {
+      "name": "过去分词",
+      "value": "frozen"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Can you freeze this cake?",
+      "zh": "你能不能把这个蛋糕冷藏起来？"
+    },
+    {
+      "en": "Some fruits freeze better than others.",
+      "zh": "有些水果比其他的适宜于冷藏。"
+    },
+    {
+      "en": "The trees were damaged by a freeze in December.",
+      "zh": "那些树被12月的一次冰冻冻坏了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "[物]冻结；冷冻；僵硬",
+      "words": [
+        "rigidize"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[物]冻结；凝固",
+      "words": [
+        "solidification",
+        "coagulation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "word": "land",
+  "found": true,
+  "phonetic_uk": "lænd",
+  "phonetic_us": "lænd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=land&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=land&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "陆地，地面；土地（尤指耕地或建筑用地）；地产，地皮；农耕，农村生活；国度，国土；想象（或虚构）的地方；（枪炮）阳膛线"
+    },
+    {
+      "pos": "v.",
+      "meaning": "着陆，降落；使（飞机）平稳着陆；登陆，上岸；（从船或飞机上）卸下（货物）；落下，跌落；<非正式>使陷入（困境）；<非正式>（令人不快的事）突然出现；<非正式>（尤指轻而易举或意外地）获得；打中（一拳）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Land）（英、德、葡、瑞典）兰德（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "lands"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "lands"
+    },
+    {
+      "name": "现在分词",
+      "value": "landing"
+    },
+    {
+      "name": "过去式",
+      "value": "landed"
+    },
+    {
+      "name": "过去分词",
+      "value": "landed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "90% of the land is cultivated.",
+      "zh": "90%的土地已耕种。"
+    },
+    {
+      "en": "They finally lost sight of land.",
+      "zh": "他们终于看不见陆地了。"
+    },
+    {
+      "en": "His land abuts onto a road.",
+      "zh": "他的土地紧靠公路。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "国土；[地理]陆地；地面",
+      "words": [
+        "floor",
+        "continent"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "登陆；到达",
+      "words": [
+        "come in",
+        "get in"
+      ]
+    }
+  ]
+}

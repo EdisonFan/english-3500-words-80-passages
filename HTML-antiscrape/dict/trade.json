@@ -1,0 +1,76 @@
+{
+  "word": "trade",
+  "found": true,
+  "phonetic_uk": "treɪd",
+  "phonetic_us": "treɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=trade&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=trade&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "贸易，买卖；行业；同行业者，同仁（the trade）；营业额，交易量；（尤指需要特殊技术和手工劳动的）职业，行当；交换，交易；<美> （体育界）转会，交换运动员；<英> 执照酒商；信风，贸易风（trades）；股票交易"
+    },
+    {
+      "pos": "v.",
+      "meaning": "做买卖，做生意；营运，营业；（在证券交易所）交易，买卖；用……进行交换，互相交换；（某物）替代（某物）；对打，对骂；<美> 将（运动员）转会（或转队）；交换，对换（位置或处境）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "trades"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "trades"
+    },
+    {
+      "name": "现在分词",
+      "value": "trading"
+    },
+    {
+      "name": "过去式",
+      "value": "traded"
+    },
+    {
+      "name": "过去分词",
+      "value": "traded"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Trade was very good last month.",
+      "zh": "上月的交易量很大。"
+    },
+    {
+      "en": "America's trade gap widened.",
+      "zh": "美国的贸易差额加大了。"
+    },
+    {
+      "en": "Carpentry is a highly skilled trade.",
+      "zh": "木工是需要纯熟技巧的职业。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "贸易，[贸易]交易；[劳经]行业；职业",
+      "words": [
+        "commerce",
+        "profession",
+        "employment",
+        "career",
+        "pursuit"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "[贸易]交易，买卖；以物易物",
+      "words": [
+        "traffic",
+        "exchange",
+        "truck"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "intentions",
+  "found": true,
+  "phonetic_uk": "ɪnˈtenʃ(ə)nz",
+  "phonetic_us": "ɪnˈtenʃən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=intentions&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=intentions&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "目的，意向，意图；打算（intention 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I admit that I mistook his intentions.",
+      "zh": "我承认我误解了他的意图。"
+    },
+    {
+      "en": "I completely misunderstood her intentions.",
+      "zh": "我完全误会了她的意图。"
+    },
+    {
+      "en": "He was uncertain about his brother's intentions.",
+      "zh": "他对他兄弟的意图心中无数。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "目的，意向，意图；打算（intention的复数）",
+      "words": [
+        "objectives",
+        "ends",
+        "purposes",
+        "points"
+      ]
+    }
+  ]
+}

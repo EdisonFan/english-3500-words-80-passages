@@ -1,0 +1,53 @@
+{
+  "word": "portrait",
+  "found": true,
+  "phonetic_uk": "ˈpɔːtreɪt",
+  "phonetic_us": "ˈpɔːrtrət",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=portrait&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=portrait&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（尤指只刻画脸、头和肩部的）肖像，照片，雕像；描绘，描述；（文件的）纵向打印格式"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "（纸张、页面、照片等）竖式的，纵向的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】  (Portrait）（法）波特雷（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "portraits"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We hung her portrait above the fireplace.",
+      "zh": "我们把她的画像挂在壁炉上方。"
+    },
+    {
+      "en": "She was beginning to make a name for herself as a portrait photographer.",
+      "zh": "她当时作为一名肖像摄影师开始出名。"
+    },
+    {
+      "en": "She told Whistler that his portrait of her was finished and to stop fiddling with it.",
+      "zh": "她告诉惠斯勒他为她画的肖像已经完成了，不要再改来改去了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "肖像；描写；半身雕塑像",
+      "words": [
+        "description",
+        "image",
+        "icon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "word": "jars",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=jars&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=jars&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "广口瓶；震动；刺耳声（jar 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "震惊；发刺耳声（jar 的第三人称单数形式）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Jars）人名；（法）雅尔"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "This gadget's great for opening jars.",
+      "zh": "这小玩意儿开广口瓶挺好。"
+    },
+    {
+      "en": "Machines now exist to pack olives in jars.",
+      "zh": "现在有可以把橄榄装进罐里的机器。"
+    },
+    {
+      "en": "Jars of all shapes and sizes were arrayed on the shelves.",
+      "zh": "在搁架上整齐地排列着大大小小各式各样的罐子。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "广口瓶；震动；刺耳声（jar的复数）",
+      "words": [
+        "shocks",
+        "convulsions"
+      ]
+    }
+  ]
+}

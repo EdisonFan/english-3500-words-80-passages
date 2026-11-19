@@ -1,0 +1,65 @@
+{
+  "word": "beyond",
+  "found": true,
+  "phonetic_uk": "bɪˈjɒnd",
+  "phonetic_us": "bɪˈjɑːnd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=beyond&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=beyond&type=2",
+  "defs": [
+    {
+      "pos": "prep.",
+      "meaning": "在（或向）……较远的一边；晚于，迟于；涵盖，包括；除……之外；超出（范围）；非（某人）所能理解"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "在另一边，在（或向）更远处；（延续）到……之后"
+    },
+    {
+      "pos": "n.",
+      "meaning": "来生，再世（the beyond）；远处的事物（the beyond）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Her honesty is beyond question.",
+      "zh": "她的诚实是毋庸置疑的。"
+    },
+    {
+      "en": "It won't go on beyond midnight.",
+      "zh": "这事不会延续到午夜以后。"
+    },
+    {
+      "en": "He irritated me beyond measure.",
+      "zh": "他使我非常生气。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "prep.",
+      "meaning": "超过；越过；那一边；在...较远的一边",
+      "words": [
+        "above",
+        "without",
+        "than",
+        "over",
+        "past"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "在远处；在更远处",
+      "words": [
+        "away",
+        "afar"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "远处",
+      "words": [
+        "yon"
+      ]
+    }
+  ]
+}

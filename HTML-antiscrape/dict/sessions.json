@@ -1,0 +1,39 @@
+{
+  "word": "sessions",
+  "found": true,
+  "phonetic_uk": "ˈseʃ(ə)nz",
+  "phonetic_us": "ˈseʃnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sessions&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sessions&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "会议；会期（session 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "After two late night sessions, the Security Council has failed to reach agreement.",
+      "zh": "开过两次深夜会议之后，安理会仍未能达成协议。"
+    },
+    {
+      "en": "\"Through one of the sessions, I discovered my personal bias,\" he recalls.",
+      "zh": "“在其中一次会议中，我发现了我个人的偏见。”他回忆道。"
+    },
+    {
+      "en": "Doing so reduces the possibility of idle sessions being hijacked by another user.",
+      "zh": "这样做可以降低空闲会话被另一个用户窃取的可能性。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "会议；会期（session的复数）",
+      "words": [
+        "meetings",
+        "conferences"
+      ]
+    }
+  ]
+}

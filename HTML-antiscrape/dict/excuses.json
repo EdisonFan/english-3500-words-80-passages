@@ -1,0 +1,43 @@
+{
+  "word": "excuses",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ɪkˈskjuːzɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=excuses&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=excuses&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "原谅；为……辩解；免除……的责任（excuse 的第三人称单数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "借口，理由；拙劣样品；假条（excuse 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He always gives the same old excuses.",
+      "zh": "他总是找那些老掉牙的借口。"
+    },
+    {
+      "en": "Don't let him fob you off with any more excuses.",
+      "zh": "别让他再以任何借口哄骗你了。"
+    },
+    {
+      "en": "She is not short of excuses when things go wrong.",
+      "zh": "事情出了差错，她老有借口。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "借口，理由（excuse的复数形式）",
+      "words": [
+        "reasons",
+        "grounds"
+      ]
+    }
+  ]
+}

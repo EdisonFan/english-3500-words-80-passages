@@ -1,0 +1,42 @@
+{
+  "word": "had",
+  "found": true,
+  "phonetic_uk": "hæd; həd",
+  "phonetic_us": "hæd; həd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=had&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=had&type=2",
+  "defs": [
+    {
+      "pos": "aux.",
+      "meaning": "已经（用于过去完成时态）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "拥有；有（想法、主意、观点等）；吃，喝（have 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They had used what money they had.",
+      "zh": "他们用尽了所有的钱。"
+    },
+    {
+      "en": "We had walked further than I had realized.",
+      "zh": "在我不知不觉中我们已走得很远。"
+    },
+    {
+      "en": "They had had their pet dog stuffed.",
+      "zh": "他们请人把他们的宠物狗制成了标本。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "有；使（have的过去分词）",
+      "words": [
+        "been"
+      ]
+    }
+  ]
+}

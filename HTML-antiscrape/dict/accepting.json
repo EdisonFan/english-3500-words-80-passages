@@ -1,0 +1,50 @@
+{
+  "word": "accepting",
+  "found": true,
+  "phonetic_uk": "əkˈseptɪŋ",
+  "phonetic_us": "əkˈseptɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=accepting&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=accepting&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "承兑的；易接受的；赞同的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "接受；同意；承担（责任等）（accept 的 ing 形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She was pressurized into accepting the job.",
+      "zh": "她被迫接受了这份工作。"
+    },
+    {
+      "en": "He was doubtful about accepting extra work.",
+      "zh": "他拿不定主意是否接受额外工作。"
+    },
+    {
+      "en": "They were browbeaten into accepting the offer.",
+      "zh": "他们被威逼接受了提议。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "承兑的；易接受的；赞同的",
+      "words": [
+        "susceptive"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "接受；同意；承担（责任等）（accept的ing形式）",
+      "words": [
+        "undertaking",
+        "granting"
+      ]
+    }
+  ]
+}

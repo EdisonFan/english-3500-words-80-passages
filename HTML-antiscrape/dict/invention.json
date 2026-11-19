@@ -1,0 +1,44 @@
+{
+  "word": "invention",
+  "found": true,
+  "phonetic_uk": "ɪnˈvenʃ(ə)n",
+  "phonetic_us": "ɪnˈvenʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=invention&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=invention&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "发明物；发明，创造；虚构，编造；发明才能，创造力；创意曲（短乐曲的题目）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "inventions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The spinning wheel was a Chinese invention.",
+      "zh": "纺车是中国人的一项发明。"
+    },
+    {
+      "en": "You can't fault them for lack of invention.",
+      "zh": "你不能因为他们没有发明而加以批评他们。"
+    },
+    {
+      "en": "His invention was not commercially successful.",
+      "zh": "他的发明从赢利角度看并不成功。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[专利]发明；发明物；虚构；发明才能",
+      "words": [
+        "fiction",
+        "contrivance"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "word": "distance",
+  "found": true,
+  "phonetic_uk": "ˈdɪstəns",
+  "phonetic_us": "ˈdɪstəns",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=distance&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=distance&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "远处；疏远，隔阂；（人或物之间的）差别，差距；进展；距离"
+    },
+    {
+      "pos": "v.",
+      "meaning": "疏远，远离"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "远距离的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "distances"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "distances"
+    },
+    {
+      "name": "现在分词",
+      "value": "distancing"
+    },
+    {
+      "name": "过去式",
+      "value": "distanced"
+    },
+    {
+      "name": "过去分词",
+      "value": "distanced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Alice stood staring into the distance.",
+      "zh": "艾丽斯站着凝视远方。"
+    },
+    {
+      "en": "Is it within walking distance ?",
+      "zh": "那里步行走得到吗？"
+    },
+    {
+      "en": "Mountains rose in the distance.",
+      "zh": "远处山峦叠起。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[数]距离；远方；疏远；间隔",
+      "words": [
+        "separation",
+        "space",
+        "interval",
+        "remove"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "疏远；把…远远甩在后面",
+      "words": [
+        "stand off",
+        "cold-shoulder"
+      ]
+    }
+  ]
+}

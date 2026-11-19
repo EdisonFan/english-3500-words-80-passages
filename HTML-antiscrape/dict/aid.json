@@ -1,0 +1,66 @@
+{
+  "word": "aid",
+  "found": true,
+  "phonetic_uk": "eɪd",
+  "phonetic_us": "eɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=aid&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=aid&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "帮助；援助，救助；辅助物，辅助设施；助手；特别津贴，国库税"
+    },
+    {
+      "pos": "v.",
+      "meaning": "帮助，援助；促进，有助于"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Aid）（英、阿拉伯、印）艾德（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Food aid is urgently needed.",
+      "zh": "迫切需要食物援助。"
+    },
+    {
+      "en": "They made a request for further aid.",
+      "zh": "他们要求再给一些帮助。"
+    },
+    {
+      "en": "I can walk without the aid of crutches.",
+      "zh": "我能够不借助拐杖走路。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "援助；帮助；助手；帮助者",
+      "words": [
+        "assistance",
+        "friend",
+        "hand",
+        "help",
+        "boost"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "援助；帮助；有助于",
+      "words": [
+        "facilitate",
+        "bolster up"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "帮助",
+      "words": [
+        "lend a hand",
+        "to help"
+      ]
+    }
+  ]
+}

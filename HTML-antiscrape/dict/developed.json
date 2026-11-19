@@ -1,0 +1,43 @@
+{
+  "word": "developed",
+  "found": true,
+  "phonetic_uk": "dɪˈveləpt",
+  "phonetic_us": "dɪˈveləpt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=developed&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=developed&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "发达的，高度发展的；先进的，成熟的；人体成规定比例的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "发展，壮大；养成，形成；开发，研制（develop 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "New products are continually being developed.",
+      "zh": "新产品正源源不断地开发出来。"
+    },
+    {
+      "en": "They are piggybacking onto developed technology.",
+      "zh": "他们利用已发展的科技。"
+    },
+    {
+      "en": "I developed an appalling headache.",
+      "zh": "我得了严重头疼。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "发达的（国家或地区）；成熟的",
+      "words": [
+        "mature",
+        "adult"
+      ]
+    }
+  ]
+}

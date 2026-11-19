@@ -1,0 +1,43 @@
+{
+  "word": "associated",
+  "found": true,
+  "phonetic_uk": "əˈsəʊsieɪtɪd; əˈsəʊʃieɪtɪd",
+  "phonetic_us": "əˈsoʊsieɪtɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=associated&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=associated&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "有关联的，相关的；联合的，联营的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "联想，联系；支持；交往（associate 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Low oestrogen levels are associated with stress.",
+      "zh": "雌激素分泌水平低与精神压力有关。"
+    },
+    {
+      "en": "Salaries and associated costs have risen substantially.",
+      "zh": "薪金与相关费用大大增加。"
+    },
+    {
+      "en": "I haven't been associated with the project over the last year.",
+      "zh": "我过去一年不曾跟这个项目有关联。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "关联的；联合的",
+      "words": [
+        "linked",
+        "joint"
+      ]
+    }
+  ]
+}

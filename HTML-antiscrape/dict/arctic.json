@@ -1,0 +1,54 @@
+{
+  "word": "arctic",
+  "found": true,
+  "phonetic_uk": "ˈɑːktɪk",
+  "phonetic_us": "ˈɑːrktɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=arctic&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=arctic&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "北极的；严寒的，极冷的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "北极，北极地区；防水套鞋"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Arctic）（英）阿克蒂克（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Have any fish been contaminated in the Arctic Ocean?",
+      "zh": "北冰洋里有鱼受到污染了吗?"
+    },
+    {
+      "en": "Whales are still being hunted and killed in the Arctic.",
+      "zh": "北冰洋的鲸类仍然遭到猎杀。"
+    },
+    {
+      "en": "Polar bears live in the Arctic.",
+      "zh": "北极熊生活在北极。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "北极的；极寒的",
+      "words": [
+        "hyperboloidal",
+        "gelid"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "北极圈；御寒防水套鞋",
+      "words": [
+        "the Arctic Circle"
+      ]
+    }
+  ]
+}

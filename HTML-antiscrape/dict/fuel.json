@@ -1,0 +1,68 @@
+{
+  "word": "fuel",
+  "found": true,
+  "phonetic_uk": "ˈfjuːəl",
+  "phonetic_us": "ˈfjuːəl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fuel&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fuel&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "燃料，燃烧剂；刺激因素，刺激性言行；（为身体提供能量的）食物，饮料，药剂"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（给……）提供燃料，加油；刺激，加剧"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Fuel）（美）傅爱乐（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "fuels"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "fuels"
+    },
+    {
+      "name": "现在分词",
+      "value": "fuelling或fueling"
+    },
+    {
+      "name": "过去式",
+      "value": "fuelled或fueled"
+    },
+    {
+      "name": "过去分词",
+      "value": "fuelled或fueled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We seem to be light on fuel.",
+      "zh": "我们好像燃料不多了。"
+    },
+    {
+      "en": "The boiler uses solid fuel.",
+      "zh": "这个锅炉烧固体燃料。"
+    },
+    {
+      "en": "Which fuel burns most efficiently?",
+      "zh": "哪种燃料燃烧效果最佳？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[能源]燃料；刺激因素",
+      "words": [
+        "catalyst",
+        "elding"
+      ]
+    }
+  ]
+}

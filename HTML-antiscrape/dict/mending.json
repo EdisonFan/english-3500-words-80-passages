@@ -1,0 +1,50 @@
+{
+  "word": "mending",
+  "found": true,
+  "phonetic_uk": "ˈmendɪŋ",
+  "phonetic_us": "ˈmendɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mending&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mending&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "��补；修补工作"
+    },
+    {
+      "pos": "v.",
+      "meaning": "修补（mend 的现在分词）；修理"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Who will then do the cooking, the washing, the mending?",
+      "zh": "那么，谁来做饭、洗衣、缝补呢？"
+    },
+    {
+      "en": "The shoes need mending.",
+      "zh": "这双鞋需要修理。"
+    },
+    {
+      "en": "Go in, for I can find what needs mending myself.",
+      "zh": "进去吧，因为我能自己找到需要修补的地方。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "修补；修补工作",
+      "words": [
+        "repair",
+        "patching"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "修补（mend的现在分词）；修理",
+      "words": [
+        "repairing"
+      ]
+    }
+  ]
+}

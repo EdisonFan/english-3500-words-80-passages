@@ -1,0 +1,65 @@
+{
+  "word": "chest",
+  "found": true,
+  "phonetic_uk": "tʃest",
+  "phonetic_us": "tʃest",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=chest&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=chest&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "胸部，胸膛；箱子，盒子，柜子；<英>金库，钱库"
+    },
+    {
+      "pos": "v.",
+      "meaning": "以胸部推（球）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "chests"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "chests"
+    },
+    {
+      "name": "现在分词",
+      "value": "chesting"
+    },
+    {
+      "name": "过去式",
+      "value": "chested"
+    },
+    {
+      "name": "过去分词",
+      "value": "chested"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The pain stabbed at his chest.",
+      "zh": "他胸部疼得像刀扎似的。"
+    },
+    {
+      "en": "The water came up to my chest.",
+      "zh": "水漫到了我的胸部。"
+    },
+    {
+      "en": "Hair sprouted from his chest.",
+      "zh": "他胸前长出了毛。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[解剖]胸，胸部；衣柜；箱子；金库",
+      "words": [
+        "bureau",
+        "treasury",
+        "breast"
+      ]
+    }
+  ]
+}

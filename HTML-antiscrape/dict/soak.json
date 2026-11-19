@@ -1,0 +1,80 @@
+{
+  "word": "soak",
+  "found": true,
+  "phonetic_uk": "səʊk",
+  "phonetic_us": "soʊk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=soak&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=soak&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "浸泡；使湿透，浸湿；（液体）渗入，渗透；（在浴缸里）长时间泡浴；<非正式>向……敲竹杠（征重税）；吸收，吸入；沉浸在（学习中）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "浸泡，浸透；（长时间的）泡浴，洗澡；<非正式>酒鬼；<澳新>积水洼地，水洼；<英，非正式>大雨"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "soaks"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "soaks"
+    },
+    {
+      "name": "现在分词",
+      "value": "soaking"
+    },
+    {
+      "name": "过去式",
+      "value": "soaked"
+    },
+    {
+      "name": "过去分词",
+      "value": "soaked"
+    }
+  ],
+  "examples": [
+    {
+      "en": "What I need is to soak in a hot tub.",
+      "zh": "我需要的是在浴盆里泡个热水澡。"
+    },
+    {
+      "en": "I'm going to go and soak in the bath.",
+      "zh": "我要去泡个澡。"
+    },
+    {
+      "en": "Give the shirt a good soak before you wash it.",
+      "zh": "把衬衫好好泡一泡再洗。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "吸收，吸入；沉浸在（工作或学习中）；使……上下湿透",
+      "words": [
+        "absorb",
+        "drink in"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "浸泡；渗透",
+      "words": [
+        "dip in",
+        "sink"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "浸；湿透；大雨",
+      "words": [
+        "drenching",
+        "downfall"
+      ]
+    }
+  ]
+}

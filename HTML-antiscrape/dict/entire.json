@@ -1,0 +1,50 @@
+{
+  "word": "entire",
+  "found": true,
+  "phonetic_uk": "ɪnˈtaɪə(r)",
+  "phonetic_us": "ɪnˈtaɪər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=entire&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=entire&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "全部的，整个的；完全的，绝对的；（公马）未经阉割的；（叶子）全缘的，边缘光滑的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "未经阉割的公马，种马"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Entire）（英）恩泰尔（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She spewed up the entire meal.",
+      "zh": "她把吃的饭全吐出来了。"
+    },
+    {
+      "en": "Double-space the entire list.",
+      "zh": "隔行写整个清单。"
+    },
+    {
+      "en": "She videotaped the entire trip.",
+      "zh": "她录下了整个旅程。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[生物]全部的，整个的；全体的",
+      "words": [
+        "overall",
+        "all",
+        "total",
+        "corporate",
+        "universal"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "word": "every",
+  "found": true,
+  "phonetic_uk": "ˈevri",
+  "phonetic_us": "ˈevri",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=every&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=every&type=2",
+  "defs": [
+    {
+      "pos": "det.",
+      "meaning": "每个，每一；每……之中的；每隔，每逢（表频率）；所有可能的，完全可能的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Every）（美、荷、瑞典）埃夫里（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Elections take place every year.",
+      "zh": "每年都进行各项选举。"
+    },
+    {
+      "en": "I go jogging every evening.",
+      "zh": "我每天晚上都慢跑锻炼。"
+    },
+    {
+      "en": "Every individual learns differently.",
+      "zh": "每个人的学习方式都不一样。"
+    }
+  ],
+  "synonyms": []
+}

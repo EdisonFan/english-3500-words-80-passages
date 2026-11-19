@@ -1,0 +1,30 @@
+{
+  "word": "pears",
+  "found": true,
+  "phonetic_uk": "peəz",
+  "phonetic_us": "perz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pears&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pears&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "梨（pear 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Apples, pears, and cherries can be pruned back when they've lost their leaves.",
+      "zh": "苹果树、梨树和樱桃树在落叶之后就可以被修剪。"
+    },
+    {
+      "en": "They've got fruit retailing down to a fine art. You can be sure that your pears will ripen in day.",
+      "zh": "他们精于水果零售之道。你可以放心，你那些梨一天之内就会熟。"
+    },
+    {
+      "en": "Sorry, I have no pears.",
+      "zh": "对不起，我没有梨。"
+    }
+  ],
+  "synonyms": []
+}

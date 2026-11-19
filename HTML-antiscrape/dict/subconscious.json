@@ -1,0 +1,42 @@
+{
+  "word": "subconscious",
+  "found": true,
+  "phonetic_uk": "ˌsʌbˈkɒnʃəs",
+  "phonetic_us": "ˌsʌbˈkɑːnʃəs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=subconscious&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=subconscious&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "下意识的，潜意识的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "下意识，潜意识"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He caught her arm in a subconscious attempt to detain her.",
+      "zh": "他下意识地抓住了她的胳膊，试图留住她。"
+    },
+    {
+      "en": "It is also fascinating how our subconscious mind shapes our health.",
+      "zh": "我们的潜意识影响我们健康的方式也是很有趣的。"
+    },
+    {
+      "en": "Your subconscious mind will give you compound interest in all these fields of expression.",
+      "zh": "你的潜意识将会为你带来所有这些领域的复合利息。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[心理]潜意识的；下意识的",
+      "words": [
+        "unconscious"
+      ]
+    }
+  ]
+}

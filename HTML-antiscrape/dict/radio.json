@@ -1,0 +1,67 @@
+{
+  "word": "radio",
+  "found": true,
+  "phonetic_uk": "ˈreɪdiəʊ",
+  "phonetic_us": "ˈreɪdioʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=radio&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=radio&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "收音机；无线电收发设备；无线电通讯；无线电广播节目；无线电广播事业；广播电台（或频道）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用无线电通讯（或发送信息）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Radio）（西）拉迪奥（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "radios"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "radios"
+    },
+    {
+      "name": "现在分词",
+      "value": "radioing"
+    },
+    {
+      "name": "过去式",
+      "value": "radioed"
+    },
+    {
+      "name": "过去分词",
+      "value": "radioed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He smashed the radio to pieces.",
+      "zh": "他啪的一声把收音机摔得稀巴烂。"
+    },
+    {
+      "en": "The radio crackled into life.",
+      "zh": "收音机嘎嘎地响了起来。"
+    },
+    {
+      "en": "My friend here writes for radio.",
+      "zh": "我身边这位朋友为电台撰稿。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[电讯]收音机；无线电广播设备",
+      "words": [
+        "receiving set"
+      ]
+    }
+  ]
+}

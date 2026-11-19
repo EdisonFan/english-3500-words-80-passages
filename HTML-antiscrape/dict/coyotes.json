@@ -1,0 +1,38 @@
+{
+  "word": "coyotes",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=coyotes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=coyotes&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "土狼（coyote 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The coyotes killed a large percentage of the park's red foxes, and completely drove away the park's beavers.",
+      "zh": "土狼杀死了公园里大部分的红狐，还赶走了所有的海狸。"
+    },
+    {
+      "en": "There are many coyotes in Arizona.",
+      "zh": "在亚利桑那有许多郊狼。"
+    },
+    {
+      "en": "He claimed he saw two coyotes chasing a doe across a road.",
+      "zh": "他声称，他发现两只郊狼追逐着一只雌鹿穿过了一条公路。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "土狼（coyote的复数）",
+      "words": [
+        "hyenas"
+      ]
+    }
+  ]
+}

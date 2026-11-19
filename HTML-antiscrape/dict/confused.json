@@ -1,0 +1,44 @@
+{
+  "word": "confused",
+  "found": true,
+  "phonetic_uk": "kənˈfjuːzd",
+  "phonetic_us": "kənˈfjuːzd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=confused&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=confused&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "困惑的，糊涂的；混乱的，难懂的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使糊涂，使迷惑；混淆，弄错；使复杂化（confuse 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I'm confused—say all that again.",
+      "zh": "我被搞糊涂了，把那件事从头到尾再说一遍吧。"
+    },
+    {
+      "en": "She was becoming confused.",
+      "zh": "她开始糊涂了。"
+    },
+    {
+      "en": "My words surprised and confused him.",
+      "zh": "我的话使他既惊讶又困惑。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "困惑的；[昆]混乱的；糊涂的",
+      "words": [
+        "troubled",
+        "chaotic",
+        "puzzled"
+      ]
+    }
+  ]
+}

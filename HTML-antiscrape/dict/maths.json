@@ -1,0 +1,42 @@
+{
+  "word": "maths",
+  "found": true,
+  "phonetic_uk": "mæθs",
+  "phonetic_us": "mæθs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=maths&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=maths&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "数学（等于 mathematics）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Maths）人名；（瑞典）马茨"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Naomi got a distinction in maths.",
+      "zh": "娜奥米的数学得了优等。"
+    },
+    {
+      "en": "Pupils are streamed for French and Maths.",
+      "zh": "学生上法语和数学课时按能力分成小组。"
+    },
+    {
+      "en": "Surprisingly, maths was voted their favourite subject.",
+      "zh": "令人吃惊的是，数学被评为他们喜爱的科目。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "数学（等于mathematics）",
+      "words": [
+        "arith"
+      ]
+    }
+  ]
+}

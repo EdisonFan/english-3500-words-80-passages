@@ -1,0 +1,40 @@
+{
+  "word": "circumstances",
+  "found": true,
+  "phonetic_uk": "ˈsɜːkəmstənsɪz",
+  "phonetic_us": "ˈsɜːrkəmstænsɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=circumstances&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=circumstances&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "环境，状况；（尤指经济上的）境况；原委（circumstance 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "It would depend on the circumstances.",
+      "zh": "这要视情况而定。"
+    },
+    {
+      "en": "Circumstances had conspired against them.",
+      "zh": "各种情况都凑在一起和他们作对。"
+    },
+    {
+      "en": "I grew up in rather unusual circumstances.",
+      "zh": "我在相当不寻常的环境中长大。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "情况（circumstance的复数）；环境；情形",
+      "words": [
+        "cases",
+        "conditions",
+        "environments"
+      ]
+    }
+  ]
+}

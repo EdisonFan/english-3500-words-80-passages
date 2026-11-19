@@ -1,0 +1,56 @@
+{
+  "word": "anticipate",
+  "found": true,
+  "phonetic_uk": "ænˈtɪsɪpeɪt",
+  "phonetic_us": "ænˈtɪsɪpeɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=anticipate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=anticipate&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "预期，预料；预见（并做准备）；期望，盼望；先于……做，早于……行动；提前使用；在期限内履行（义务），偿还（债务）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "anticipates"
+    },
+    {
+      "name": "现在分词",
+      "value": "anticipating"
+    },
+    {
+      "name": "过去式",
+      "value": "anticipated"
+    },
+    {
+      "name": "过去分词",
+      "value": "anticipated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We anticipate that sales will rise next year.",
+      "zh": "我们预料明年销售量将会增加。"
+    },
+    {
+      "en": "They anticipate moving to bigger premises by the end of the year.",
+      "zh": "他们预期年底前迁入较大的经营场址。"
+    },
+    {
+      "en": "Try to anticipate what your child will do and forestall problems.",
+      "zh": "尽量预见你的孩子会干什么，并预先阻止问题发生。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "预期，期望；占先，抢先；提前使用",
+      "words": [
+        "hope",
+        "presume upon"
+      ]
+    }
+  ]
+}

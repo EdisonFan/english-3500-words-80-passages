@@ -1,0 +1,42 @@
+{
+  "word": "advice",
+  "found": true,
+  "phonetic_uk": "ədˈvaɪs",
+  "phonetic_us": "ədˈvaɪs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=advice&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=advice&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "忠告，劝告，建议；（金融交易）正式通知；消息"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He offered some useful advice.",
+      "zh": "他提出了一些有益的建议。"
+    },
+    {
+      "en": "Why don't you ask his advice?",
+      "zh": "你为什么不征询他的意见？"
+    },
+    {
+      "en": "She's always ready with advice.",
+      "zh": "她总是乐于提出建议。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "建议；忠告；劝告；通知",
+      "words": [
+        "suggestion",
+        "proposal",
+        "information",
+        "instance",
+        "notice"
+      ]
+    }
+  ]
+}

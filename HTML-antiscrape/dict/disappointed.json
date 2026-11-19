@@ -1,0 +1,52 @@
+{
+  "word": "disappointed",
+  "found": true,
+  "phonetic_uk": "ˌdɪsəˈpɔɪntɪd",
+  "phonetic_us": "ˌdɪsəˈpɔɪntɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=disappointed&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=disappointed&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "失望的，沮丧的；（希望、期待）破灭的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使失望；使破灭，使落空（disappoint 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more disappointed"
+    },
+    {
+      "name": "最高级",
+      "value": "most disappointed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I'm disappointed, to be honest.",
+      "zh": "我很失望，说实在的。"
+    },
+    {
+      "en": "I for one was sorely disappointed.",
+      "zh": "拿我来说，我非常失望。"
+    },
+    {
+      "en": "He was feeling a shade disappointed.",
+      "zh": "他略感失望。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "失望的，沮丧的；受挫折的",
+      "words": [
+        "blue",
+        "depressed"
+      ]
+    }
+  ]
+}

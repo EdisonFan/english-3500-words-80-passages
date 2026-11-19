@@ -1,0 +1,51 @@
+{
+  "word": "remarkable",
+  "found": true,
+  "phonetic_uk": "rɪˈmɑːkəb(ə)l",
+  "phonetic_us": "rɪˈmɑːrkəb(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=remarkable&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=remarkable&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "引人注目的，非凡的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more remarkable"
+    },
+    {
+      "name": "最高级",
+      "value": "most remarkable"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She was a truly remarkable woman.",
+      "zh": "她是一位真正非同凡响的女人。"
+    },
+    {
+      "en": "She has a remarkable inner strength.",
+      "zh": "她有非凡的意志力。"
+    },
+    {
+      "en": "He was a remarkable man.",
+      "zh": "他是个非凡卓越的人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "卓越的；非凡的；值得注意的",
+      "words": [
+        "excellent",
+        "prominent",
+        "extraordinary",
+        "significant",
+        "wonder"
+      ]
+    }
+  ]
+}

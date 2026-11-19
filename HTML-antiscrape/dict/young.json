@@ -1,0 +1,68 @@
+{
+  "word": "young",
+  "found": true,
+  "phonetic_uk": "jʌŋ",
+  "phonetic_us": "jʌŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=young&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=young&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "幼小的，年轻的；存在不久的，新成立的；（显得）年轻的，（显得）岁数不大的；适合年轻人的；由年轻人（或儿童）构成的，青少年的，平均年龄小的；夭折的，早逝的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "年轻人（the young）；幼崽，雏鸟"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Young）（英、葡）扬，（柬）永，（中）杨，（广东话）威妥玛（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "young"
+    },
+    {
+      "name": "比较级",
+      "value": "younger"
+    },
+    {
+      "name": "最高级",
+      "value": "youngest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He's a brilliant young scientist.",
+      "zh": "他是一个才华横溢的青年科学家。"
+    },
+    {
+      "en": "Her grandchildren keep her young.",
+      "zh": "她的孙子孙女让她保持年轻。"
+    },
+    {
+      "en": "She is an articulate young woman.",
+      "zh": "她是个善表达的年轻女子。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "年轻的；初期的；没有经验的",
+      "words": [
+        "earlier",
+        "youthful"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "年轻人；（动物的）崽，仔",
+      "words": [
+        "stripling",
+        "sapling"
+      ]
+    }
+  ]
+}

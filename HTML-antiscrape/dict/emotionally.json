@@ -1,0 +1,39 @@
+{
+  "word": "emotionally",
+  "found": true,
+  "phonetic_uk": "ɪˈməʊʃənəli",
+  "phonetic_us": "ɪˈmoʊʃənəli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=emotionally&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=emotionally&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "感情上；情绪上；令人激动地；情绪冲动地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He was emotionally unstable.",
+      "zh": "他情绪多变。"
+    },
+    {
+      "en": "He said that we were emotionally immature.",
+      "zh": "他说我们在感情上是不成熟的。"
+    },
+    {
+      "en": "They have suffered physically and emotionally.",
+      "zh": "他们遭受了肉体上和感情上的折磨。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "感情上；情绪上；令人激动地；情绪冲动地",
+      "words": [
+        "thrillingly",
+        "breathtakingly"
+      ]
+    }
+  ]
+}

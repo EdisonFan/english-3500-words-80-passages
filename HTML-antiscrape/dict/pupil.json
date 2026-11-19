@@ -1,0 +1,39 @@
+{
+  "word": "pupil",
+  "found": true,
+  "phonetic_uk": "ˈpjuːp(ə)l",
+  "phonetic_us": "ˈpjuːp(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pupil&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pupil&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "学生，（尤指）小学生；弟子，门生；瞳孔；<英>见习律师；<法律>未成年人"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "These complex formulae are beyond the grasp of the average pupil.",
+      "zh": "这些复杂的公式是一般小学生不能理解的。"
+    },
+    {
+      "en": "Amy was a pupil in Grade Three.",
+      "zh": "艾米是一名三年级的学生。"
+    },
+    {
+      "en": "She is loved by every pupil.",
+      "zh": "她深受每个学生的喜爱。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "学生；[解剖]瞳孔；未成年人",
+      "words": [
+        "student",
+        "minor"
+      ]
+    }
+  ]
+}

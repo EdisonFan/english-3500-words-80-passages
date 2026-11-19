@@ -1,0 +1,75 @@
+{
+  "word": "conflict",
+  "found": true,
+  "phonetic_uk": "ˈkɒnflɪkt",
+  "phonetic_us": "ˈkɑːnflɪkt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=conflict&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=conflict&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "争执，争论，分歧；战斗，战争；抵触，矛盾"
+    },
+    {
+      "pos": "v.",
+      "meaning": "冲突，抵触"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "conflicts"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "conflicts"
+    },
+    {
+      "name": "现在分词",
+      "value": "conflicting"
+    },
+    {
+      "name": "过去式",
+      "value": "conflicted"
+    },
+    {
+      "name": "过去分词",
+      "value": "conflicted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She was unafraid of conflict.",
+      "zh": "她不怕发生冲突。"
+    },
+    {
+      "en": "These results conflict with earlier findings.",
+      "zh": "这些结果与早期的发现相矛盾。"
+    },
+    {
+      "en": "John often comes into conflict with his boss.",
+      "zh": "约翰经常和他的老板发生争执。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "冲突，矛盾；斗争；争执",
+      "words": [
+        "interference",
+        "difference",
+        "war",
+        "battle",
+        "collision"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "冲突，抵触；争执；战斗",
+      "words": [
+        "combat",
+        "collide with"
+      ]
+    }
+  ]
+}

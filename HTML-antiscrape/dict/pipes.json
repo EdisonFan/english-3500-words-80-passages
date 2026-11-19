@@ -1,0 +1,47 @@
+{
+  "word": "pipes",
+  "found": true,
+  "phonetic_uk": "paɪps",
+  "phonetic_us": "paɪps",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pipes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pipes&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "管子，管道；烟斗；管乐器；（管风琴的）音管（pipe 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用管道运输；传送，播送（音乐、录音）；用管乐器吹奏（pipe 的第三人称单数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Pipes）人名；（英）派普斯"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Water gurgled through the pipes.",
+      "zh": "水汩汩地从管道中流过。"
+    },
+    {
+      "en": "The pipes should be made of plastic.",
+      "zh": "这些管子应该是用塑料制作的。"
+    },
+    {
+      "en": "The pipes were built into the concrete.",
+      "zh": "管子已固定在混凝土里。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "管线，管道；管子（pipe复数形式）",
+      "words": [
+        "canal",
+        "ducting"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "never",
+  "found": true,
+  "phonetic_uk": "ˈnevə(r)",
+  "phonetic_us": "ˈnevər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=never&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=never&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "决不，永不；不会，不可能（表示惊讶或震惊）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Her determination never wavered.",
+      "zh": "她的决心从未动摇过。"
+    },
+    {
+      "en": "Her lectures never overrun.",
+      "zh": "她讲课从不拖堂。"
+    },
+    {
+      "en": "He never drinks alcohol.",
+      "zh": "他从来不喝酒。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "从未；决不",
+      "words": [
+        "none",
+        "nothing"
+      ]
+    }
+  ]
+}

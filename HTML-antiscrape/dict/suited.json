@@ -1,0 +1,46 @@
+{
+  "word": "suited",
+  "found": true,
+  "phonetic_uk": "ˈsuːtɪd; ˈsjuːtɪd",
+  "phonetic_us": "ˈsuːtɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=suited&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=suited&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "合适的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "适合（suit 的过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Blue suited her fair colouring.",
+      "zh": "蓝色适合于她白皙的肤色。"
+    },
+    {
+      "en": "She's ideally suited for this job.",
+      "zh": "她最适合这项工作。"
+    },
+    {
+      "en": "It's not really suited to absolute beginners.",
+      "zh": "这对于纯粹的初学者们不太适合。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "合适的",
+      "words": [
+        "becoming",
+        "shaped",
+        "applicable",
+        "likely",
+        "possible"
+      ]
+    }
+  ]
+}

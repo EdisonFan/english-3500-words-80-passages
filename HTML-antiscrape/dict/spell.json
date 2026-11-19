@@ -1,0 +1,88 @@
+{
+  "word": "spell",
+  "found": true,
+  "phonetic_uk": "spel",
+  "phonetic_us": "spel",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=spell&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=spell&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "一段时间；（疾病突然的）一次发作；咒语，符咒，着魔；魅力，魔力；轮班；<澳>休息期；（板球）（一个投手的）一轮投球时间；木片"
+    },
+    {
+      "pos": "v.",
+      "meaning": "拼写，拼缀出（单词）；拼作，拼成；招致，意味着（通常指坏事）；具有……的显著特征；替换，顶替；<澳>稍事休息"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Spell）斯佩尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "spells"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "spells"
+    },
+    {
+      "name": "现在分词",
+      "value": "spelling"
+    },
+    {
+      "name": "过去式",
+      "value": "spelt或spelled"
+    },
+    {
+      "name": "过去分词",
+      "value": "spelt或spelled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I've never been able to spell.",
+      "zh": "我一直不会拼写。"
+    },
+    {
+      "en": "How do you spell your surname?",
+      "zh": "你的姓怎么拼？"
+    },
+    {
+      "en": "Did I spell your name right?",
+      "zh": "你的名字我拼得对不对？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "拼，拼写；意味着；招致；拼成；迷住；轮值",
+      "words": [
+        "possess",
+        "invite",
+        "court",
+        "secure"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "符咒；一段时间；魅力",
+      "words": [
+        "cycle",
+        "grace",
+        "while",
+        "charm",
+        "period of time"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "拼字；轮替",
+      "words": [
+        "turn taking"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "word": "outputs",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˈaʊtpʊts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=outputs&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=outputs&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "输出（output 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Discovering the inputs and outputs of rivers is a matter of measuring the discharges of every inflowing and outflowing stream and river.",
+      "zh": "发现河流的输入和输出，就是测量每一条流入和流出的河流的流量。"
+    },
+    {
+      "en": "An array of tiny pieces of paraelectric material can sense the heat radiated by a person, and the pattern of the array's electrical outputs can then be used to construct an image.",
+      "zh": "一组微小的顺电材料可以感知一个人发出的热量，然后利用该阵列的电输出模式构建图像。"
+    },
+    {
+      "en": "Once all this information has been gathered, it becomes possible to judge whether a lake's flow is mainly due to its surface inputs and outputs or to its underground inputs and outputs.",
+      "zh": "一旦收集了所有这些信息，就有可能可以判断一个湖泊的流量主要是由其表面还是地下的输入和输出导致。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "输出；产出；产量（output复数）",
+      "words": [
+        "export",
+        "crop",
+        "harvest",
+        "yield"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "生产；制造（output的第三人称单数）",
+      "words": [
+        "yields",
+        "manufactures"
+      ]
+    }
+  ]
+}

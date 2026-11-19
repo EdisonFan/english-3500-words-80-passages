@@ -1,0 +1,43 @@
+{
+  "word": "skipping",
+  "found": true,
+  "phonetic_uk": "skɪpɪŋ",
+  "phonetic_us": "ˈskɪpɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=skipping&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=skipping&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "跳跃，跳绳"
+    },
+    {
+      "pos": "v.",
+      "meaning": "蹦蹦跳跳地走；跳绳；不做（应做的事等）（skip 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The girls were skipping in the playground.",
+      "zh": "姑娘们在操场上跳绳。"
+    },
+    {
+      "en": "She's skipping rope.",
+      "zh": "她在跳绳。"
+    },
+    {
+      "en": "They are skipping.",
+      "zh": "她们正在玩跳绳游戏。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计]跳跃；暂时把货物腾空",
+      "words": [
+        "jump",
+        "spring"
+      ]
+    }
+  ]
+}

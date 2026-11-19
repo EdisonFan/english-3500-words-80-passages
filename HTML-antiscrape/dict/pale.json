@@ -1,0 +1,102 @@
+{
+  "word": "pale",
+  "found": true,
+  "phonetic_uk": "peɪl",
+  "phonetic_us": "peɪl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pale&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pale&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "（脸色）苍白的；（颜色）浅的，淡的；（光线）暗淡的，微弱的；较差的，逊色的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（脸色）变苍白；（颜色）变淡，变浅；使褪色；显得逊色，相形见绌；用板条围"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（做桩篱用的）板条，尖桩；（喻）界限，范围；（纹章）（盾形中部的）垂直宽条；（俄国）犹太人居住区"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Pale）（塞）帕莱（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "pales"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "pales"
+    },
+    {
+      "name": "现在分词",
+      "value": "paling"
+    },
+    {
+      "name": "过去式",
+      "value": "paled"
+    },
+    {
+      "name": "过去分词",
+      "value": "paled"
+    },
+    {
+      "name": "比较级",
+      "value": "paler或more pale"
+    },
+    {
+      "name": "最高级",
+      "value": "palest或most pale"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Rachel looked pale and weary.",
+      "zh": "雷切尔看起来苍白而疲惫。"
+    },
+    {
+      "en": "She looked pale and tired.",
+      "zh": "她看起来苍白而疲惫。"
+    },
+    {
+      "en": "Veins showed through her pale skin.",
+      "zh": "她苍白的皮肤下一条条血管清晰可见。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "苍白的；无力的；暗淡的",
+      "words": [
+        "weak",
+        "gray",
+        "dirty",
+        "wan"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "前哨；栅栏；范围",
+      "words": [
+        "extent",
+        "boundary",
+        "region",
+        "spectrum",
+        "territory",
+        "area"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使失色；使变苍白；用栅栏围",
+      "words": [
+        "overshadow",
+        "wan"
+      ]
+    }
+  ]
+}

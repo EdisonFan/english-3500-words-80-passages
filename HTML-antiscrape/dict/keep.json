@@ -1,0 +1,88 @@
+{
+  "word": "keep",
+  "found": true,
+  "phonetic_uk": "kiːp",
+  "phonetic_us": "kiːp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=keep&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=keep&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（使）保持，（使）留在；继续，重复；耽搁，延误；保有，留下；存放，储存；经营，管理；保鲜；保守（秘密）；遵守；记录，记载；饲养；供养；保护；（按规定）纪念，庆祝；守门；尊重（法律或习俗）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "生活必需品，生活费用；城堡主楼"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Keep）（英）基普（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "keeps"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "keeps"
+    },
+    {
+      "name": "现在分词",
+      "value": "keeping"
+    },
+    {
+      "name": "过去式",
+      "value": "kept"
+    },
+    {
+      "name": "过去分词",
+      "value": "kept"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Her grandchildren keep her young.",
+      "zh": "她的孙子孙女让她保持年轻。"
+    },
+    {
+      "en": "Let's keep in touch.",
+      "zh": "咱们保持联系。"
+    },
+    {
+      "en": "You just have to keep yourself busy and keep going.",
+      "zh": "你只要让自己忙起来，就能坚持下去。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "保持；经营；遵守；饲养",
+      "words": [
+        "retain",
+        "operate",
+        "run",
+        "respect",
+        "work"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "保持；继续不断",
+      "words": [
+        "remain",
+        "to hold"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "保持；生计；生活费",
+      "words": [
+        "conservation",
+        "maintenance",
+        "livelihood"
+      ]
+    }
+  ]
+}

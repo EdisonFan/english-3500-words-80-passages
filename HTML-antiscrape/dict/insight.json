@@ -1,0 +1,48 @@
+{
+  "word": "insight",
+  "found": true,
+  "phonetic_uk": "ˈɪnsaɪt",
+  "phonetic_us": "ˈɪnsaɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=insight&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=insight&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "洞悉，了解；洞察力"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Insight）（英）因赛特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "insights"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He was a man of forceful character, with considerable insight and diplomatic skills.",
+      "zh": "他是个性格坚强的人，有着非凡的洞察力和交际手腕。"
+    },
+    {
+      "en": "I missed having unique insight into tiny details that make a life.",
+      "zh": "我怀念对生活中的微小细节拥有独到见解的能力。"
+    },
+    {
+      "en": "In business, his greatest skills were his insight and his management ability.",
+      "zh": "在商业上，他最大的技能是他的洞察力和管理能力。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "洞察力；洞悉",
+      "words": [
+        "perception",
+        "penetration"
+      ]
+    }
+  ]
+}

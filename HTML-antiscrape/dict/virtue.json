@@ -1,0 +1,50 @@
+{
+  "word": "virtue",
+  "found": true,
+  "phonetic_uk": "ˈvɜːtʃuː",
+  "phonetic_us": "ˈvɜːrtʃuː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=virtue&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=virtue&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "高尚的道德，德行；美德，优秀品质；优点，长处；<古>（尤指妇女的）贞操；功效；（传统基督教天使学）道德天使（天国九级制度的第七级）（virtues）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Virtue）弗丘（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "virtues"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His virtue is patience.",
+      "zh": "他的美德就是耐心。"
+    },
+    {
+      "en": "The plan has the virtue of simplicity.",
+      "zh": "这项计划的优点是简单。"
+    },
+    {
+      "en": "She was certainly no paragon of virtue !",
+      "zh": "她决不是道德高尚的典范！"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "美德；优点；贞操；功效",
+      "words": [
+        "asset",
+        "excellence",
+        "efficiency",
+        "morality"
+      ]
+    }
+  ]
+}

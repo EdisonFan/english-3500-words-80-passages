@@ -1,0 +1,51 @@
+{
+  "word": "learning",
+  "found": true,
+  "phonetic_uk": "ˈlɜːnɪŋ",
+  "phonetic_us": "ˈlɜːrnɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=learning&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=learning&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "学习；知识，学问"
+    },
+    {
+      "pos": "v.",
+      "meaning": "学习，学会；得知，获悉；背熟，熟记；认识到，（从……）吸取教训 （learn 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She's still learning to read.",
+      "zh": "她还在学习识字。"
+    },
+    {
+      "en": "Is he learning an instrument?",
+      "zh": "他在学习演奏乐器吗？"
+    },
+    {
+      "en": "I'm learning how to budget.",
+      "zh": "我正在学习怎样编制预算。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[心理]学习；学问",
+      "words": [
+        "knowledge",
+        "study",
+        "letter"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "[心理]学习（learn的现在分词）",
+      "words": [
+        "studying"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "word": "its",
+  "found": true,
+  "phonetic_uk": "ɪts",
+  "phonetic_us": "ɪts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=its&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=its&type=2",
+  "defs": [
+    {
+      "pos": "pron.",
+      "meaning": "它的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Its）人名；（俄）伊茨"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Its film industry operates in its own curiously hermetic way.",
+      "zh": "它的电影业以奇特而封闭的方式运作。"
+    },
+    {
+      "en": "This made its mini-computers incompatible with its mainframes.",
+      "zh": "这使得它的微型电脑与其主机不兼容。"
+    },
+    {
+      "en": "Her speech was memorable for its polemic rather than its substance.",
+      "zh": "她的演说之所以令人难忘，不是因其内容而是因其辩论方法。"
+    }
+  ],
+  "synonyms": []
+}

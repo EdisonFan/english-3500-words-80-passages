@@ -1,0 +1,42 @@
+{
+  "word": "wonderful",
+  "found": true,
+  "phonetic_uk": "ˈwʌndəf(ə)l",
+  "phonetic_us": "ˈwʌndərf(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=wonderful&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=wonderful&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "绝妙的，令人惊叹的，极好的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Ben's a wonderful father.",
+      "zh": "本是个极好的父亲。"
+    },
+    {
+      "en": "They've got a wonderful house.",
+      "zh": "他们有一座漂亮的房子。"
+    },
+    {
+      "en": "'How wonderful!' she trilled.",
+      "zh": "“太妙了！”她高兴地喊道。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "奇妙的；极好的",
+      "words": [
+        "excellent",
+        "famous",
+        "super",
+        "great",
+        "class"
+      ]
+    }
+  ]
+}

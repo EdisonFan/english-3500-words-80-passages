@@ -1,0 +1,54 @@
+{
+  "word": "ink",
+  "found": true,
+  "phonetic_uk": "ɪŋk",
+  "phonetic_us": "ɪŋk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ink&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ink&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "墨水，油墨；<非正式>文字宣传，纸媒宣传；（章鱼、乌贼等海洋生物分泌出的）墨汁"
+    },
+    {
+      "pos": "v.",
+      "meaning": "签订，签署（合同等）；涂墨水于（某物）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Ink）（美、俄、拉脱维亚）英克（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "These ink stains won't wash out.",
+      "zh": "这些墨渍洗不掉。"
+    },
+    {
+      "en": "The ink had run on the wet paper.",
+      "zh": "墨迹在那张湿纸上渗开了。"
+    },
+    {
+      "en": "The ink had faded to invisibility.",
+      "zh": "墨水已退色看不见了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "签署；涂墨水于",
+      "words": [
+        "sign",
+        "endorse"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[轻]墨水，墨汁；[印刷]油墨",
+      "words": [
+        "atrament"
+      ]
+    }
+  ]
+}

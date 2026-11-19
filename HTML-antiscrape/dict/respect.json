@@ -1,0 +1,80 @@
+{
+  "word": "respect",
+  "found": true,
+  "phonetic_uk": "rɪˈspekt",
+  "phonetic_us": "rɪˈspekt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=respect&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=respect&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "尊敬，敬重；重视，尊重；方面，着眼点；问候，敬意（respects）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "尊敬，敬佩；慎重对待，尊重；遵守；避免破坏（或干扰）"
+    },
+    {
+      "pos": "int.",
+      "meaning": "<非正式> 真了不起（因敬重或赞同而发出的感叹）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "respects"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "respects"
+    },
+    {
+      "name": "现在分词",
+      "value": "respecting"
+    },
+    {
+      "name": "过去式",
+      "value": "respected"
+    },
+    {
+      "name": "过去分词",
+      "value": "respected"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I respect him as a doctor.",
+      "zh": "我尊敬他这个医生。"
+    },
+    {
+      "en": "She promised to respect our wishes.",
+      "zh": "她保证尊重我们的愿望。"
+    },
+    {
+      "en": "He has no respect for her feelings.",
+      "zh": "他根本不尊重她的感受。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "尊敬，尊重；方面；敬意",
+      "words": [
+        "estimation",
+        "aspect",
+        "regard",
+        "side",
+        "worship"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "尊敬，尊重；遵守",
+      "words": [
+        "honor",
+        "esteem",
+        "worship"
+      ]
+    }
+  ]
+}

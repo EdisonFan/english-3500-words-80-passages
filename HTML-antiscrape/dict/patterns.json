@@ -1,0 +1,50 @@
+{
+  "word": "patterns",
+  "found": true,
+  "phonetic_uk": "ˈpætənz",
+  "phonetic_us": "ˈpætərn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=patterns&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=patterns&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "模式（pattern 的复数形式）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "摹制；用图案装饰；复写（pattern 的第三人称单数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Patterns of family life are diversifying.",
+      "zh": "家庭生活模式正在变得多样化。"
+    },
+    {
+      "en": "A wide range of colours and patterns are available.",
+      "zh": "一系列各种各样的颜色和图案都有。"
+    },
+    {
+      "en": "There is a wide variety of patterns to choose from.",
+      "zh": "有种类繁多的图案可供选择。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "模式（pattern的复数形式）",
+      "words": [
+        "modes",
+        "styles"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "摹制；用图案装饰；复写（pattern的第三人称单数形式）",
+      "words": [
+        "manifolds"
+      ]
+    }
+  ]
+}

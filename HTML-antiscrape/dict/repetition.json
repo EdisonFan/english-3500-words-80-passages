@@ -1,0 +1,44 @@
+{
+  "word": "repetition",
+  "found": true,
+  "phonetic_uk": "ˌrepəˈtɪʃ(ə)n",
+  "phonetic_us": "ˌrepəˈtɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=repetition&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=repetition&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "重复，重说，重做； 重做的事，重说的话；重复的事物，复制品；（乐）（章节或音节的）反复；<古>教师指定的背诵材料"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "repetitions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It is real prayer, and not mechanical repetition.",
+      "zh": "这是真正的祈祷���而不是机械式的重复。"
+    },
+    {
+      "en": "He could also have cut out much of the repetition and thus saved many pages.",
+      "zh": "他本来也可以删掉很多重复的语句，省去很多页数。"
+    },
+    {
+      "en": "Repetition helps improve our memory.",
+      "zh": "重复有助于提高我们的记忆力。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "重复；背诵；副本",
+      "words": [
+        "reiteration",
+        "iterance"
+      ]
+    }
+  ]
+}

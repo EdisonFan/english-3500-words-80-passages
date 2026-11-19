@@ -1,0 +1,43 @@
+{
+  "word": "steak",
+  "found": true,
+  "phonetic_uk": "steɪk",
+  "phonetic_us": "steɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=steak&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=steak&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "肉排，（尤指）牛排；鱼排，鱼块；（常指切成块出售、供炖焖用的）牛肉"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "steaks"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He dug his fork into the steak.",
+      "zh": "他把餐叉叉进牛排。"
+    },
+    {
+      "en": "What's the best way to cook steak?",
+      "zh": "牛排怎么做最好？"
+    },
+    {
+      "en": "How would you like your steak done?",
+      "zh": "你的牛排要几成熟？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "牛排；肉排；鱼排",
+      "words": [
+        "beefsteak"
+      ]
+    }
+  ]
+}

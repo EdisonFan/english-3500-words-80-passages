@@ -1,0 +1,84 @@
+{
+  "word": "judge",
+  "found": true,
+  "phonetic_uk": "dʒʌdʒ",
+  "phonetic_us": "dʒʌdʒ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=judge&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=judge&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "法官，审判官；裁判员，评判员；鉴定人，行家；士师（古犹太人领袖称谓）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "判断，认为；裁判，评判；估计，估算（数量、距离、尺寸等）；批评，指责；审判，审理"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Judge）（英、美、爱）贾奇（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "judges"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "judges"
+    },
+    {
+      "name": "现在分词",
+      "value": "judging"
+    },
+    {
+      "name": "过去式",
+      "value": "judged"
+    },
+    {
+      "name": "过去分词",
+      "value": "judged"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She's a good judge of character.",
+      "zh": "她很善于鉴定别人的性格。"
+    },
+    {
+      "en": "The judge allowed my claim.",
+      "zh": "法官同意我的要求。"
+    },
+    {
+      "en": "The judge kept nodding in agreement.",
+      "zh": "法官不断点头表示同意。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "判断；[法]审判",
+      "words": [
+        "estimate",
+        "pass upon"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "法官；[法]裁判员",
+      "words": [
+        "justice",
+        "bands"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "[法]审判；判决",
+      "words": [
+        "determine",
+        "sentence to"
+      ]
+    }
+  ]
+}

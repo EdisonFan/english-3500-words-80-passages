@@ -1,0 +1,82 @@
+{
+  "word": "trial",
+  "found": true,
+  "phonetic_uk": "ˈtraɪəl",
+  "phonetic_us": "ˈtraɪəl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=trial&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=trial&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "审判，审理；试验，试用；（对人的忍耐、自制力的）考验，磨练；烦人的事，惹麻烦的人；预赛，选拔赛；（检验车手技能的）摩托车障碍检验赛；（动物的）比赛，表演"
+    },
+    {
+      "pos": "v.",
+      "meaning": "测试，试验；（马、狗等动物）参加比赛"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "试验性的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Trial）（法）特里亚尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "trials"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "trials"
+    },
+    {
+      "name": "现在分词",
+      "value": "trialling或trialing"
+    },
+    {
+      "name": "过去式",
+      "value": "trialled或trialed"
+    },
+    {
+      "name": "过去分词",
+      "value": "trialled或trialed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Their trial will shortly begin.",
+      "zh": "他们的审讯很快就要开始。"
+    },
+    {
+      "en": "The trial was held in camera.",
+      "zh": "审判秘密进行。"
+    },
+    {
+      "en": "The trial reopened on 6 March.",
+      "zh": "审判在3月6日再次进行。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[试验]试验；审讯；努力；磨炼",
+      "words": [
+        "effort",
+        "hearing",
+        "pain",
+        "proof",
+        "experiment"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "[试验]试验的；审讯的",
+      "words": [
+        "testing"
+      ]
+    }
+  ]
+}

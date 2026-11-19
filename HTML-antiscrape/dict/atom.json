@@ -1,0 +1,35 @@
+{
+  "word": "atom",
+  "found": true,
+  "phonetic_uk": "ˈætəm",
+  "phonetic_us": "ˈætəm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=atom&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=atom&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "原子；微量，极小量"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "atoms"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Neutrons and protons are bound together in the nucleus of an atom.",
+      "zh": "在一个原子的核内，中子和质子聚合在一起。"
+    },
+    {
+      "en": "A molecule of water consists of two atoms of hydrogen and one atom of oxygen.",
+      "zh": "水分子由两个氢原子和一个氧原子构成。"
+    },
+    {
+      "en": "Two atoms of hydrogen combine with one atom of oxygen to form a molecule of water.",
+      "zh": "两个氢原子和一个氧原子结合组成一个水分子。"
+    }
+  ],
+  "synonyms": []
+}

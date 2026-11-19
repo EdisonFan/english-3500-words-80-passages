@@ -1,0 +1,90 @@
+{
+  "word": "hot",
+  "found": true,
+  "phonetic_uk": "hɒt",
+  "phonetic_us": "hɑːt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=hot&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=hot&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "热的，高温的；（使人）感到热的；辣的；活跃的，激烈的；棘手的，危险的；<非正式>热门的；有望成功的；性感的；暴躁的；过激的，过火的；<非正式>（某方面）极好的；重视；（音乐）节奏强的；偷来的，难以销赃的；快找到了，快猜中了；紧跟着的；带电的；明亮的，鲜艳的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<西印度>使热，变热（hot up）；变得激烈（hot up）"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "热；热切地，紧迫地"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Hot）（塞）霍特，（法）奥特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "hots"
+    },
+    {
+      "name": "现在分词",
+      "value": "hotting"
+    },
+    {
+      "name": "过去式",
+      "value": "hotted"
+    },
+    {
+      "name": "过去分词",
+      "value": "hotted"
+    },
+    {
+      "name": "比较级",
+      "value": "hotter"
+    },
+    {
+      "name": "最高级",
+      "value": "hottest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I was feeling uncomfortably hot.",
+      "zh": "我觉得酷热难当。"
+    },
+    {
+      "en": "He felt uncomfortably hot.",
+      "zh": "他感到热得难受。"
+    },
+    {
+      "en": "It's hot out – very hot, very humid.",
+      "zh": "外面热烘烘的–非常热，非常潮湿。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[通信]热的；辣的；热情的；激动的；紧迫的",
+      "words": [
+        "thermal",
+        "intense",
+        "excited",
+        "warm",
+        "tropical"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "增加；给…加温",
+      "words": [
+        "enhance",
+        "boost",
+        "jack",
+        "mount",
+        "gain"
+      ]
+    }
+  ]
+}

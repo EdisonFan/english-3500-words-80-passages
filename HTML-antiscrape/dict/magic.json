@@ -1,0 +1,90 @@
+{
+  "word": "magic",
+  "found": true,
+  "phonetic_uk": "ˈmædʒɪk",
+  "phonetic_us": "ˈmædʒɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=magic&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=magic&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "魔法，法术；魔术，戏法；魅力，魔力；杰出技能，罕见才能"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "魔术的，戏法的；魔法的，魔力的；神奇的，有奇效的；非常好的，令人十分愉快的；重要的，关键的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（像）用魔法变出（或使消失、使变成……等）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Magic）（美）马吉克（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "magics"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "magics"
+    },
+    {
+      "name": "现在分词",
+      "value": "magicking"
+    },
+    {
+      "name": "过去式",
+      "value": "magicked"
+    },
+    {
+      "name": "过去分词",
+      "value": "magicked ,"
+    },
+    {
+      "name": "比较级",
+      "value": "more magic"
+    },
+    {
+      "name": "最高级",
+      "value": "most magic"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He suddenly appeared as if by magic.",
+      "zh": "他突然神奇地出现了。"
+    },
+    {
+      "en": "They believe in magic.",
+      "zh": "他们相信魔力。"
+    },
+    {
+      "en": "I've got it! We'll call it 'Word Magic'.",
+      "zh": "我想到了！我们就叫它“文字魔术”吧。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "巫术；魔法；戏法",
+      "words": [
+        "medicine",
+        "witchcraft",
+        "wizardry"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "不可思议的；有魔力的；魔术的",
+      "words": [
+        "mysterious",
+        "fantastic",
+        "miraculous"
+      ]
+    }
+  ]
+}

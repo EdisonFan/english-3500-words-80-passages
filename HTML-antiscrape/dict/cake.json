@@ -1,0 +1,75 @@
+{
+  "word": "cake",
+  "found": true,
+  "phonetic_uk": "keɪk",
+  "phonetic_us": "keɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cake&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cake&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "饼状食物，饼；块，小块；<非正式>轻而易举的事；钱或资产总额；蛋糕"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（用会变干的东西厚厚地）覆盖；（干后）结成硬块"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Cake）（英）凯克，（塞）察凯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "cakes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "cakes"
+    },
+    {
+      "name": "现在分词",
+      "value": "caking"
+    },
+    {
+      "name": "过去式",
+      "value": "caked"
+    },
+    {
+      "name": "过去分词",
+      "value": "caked"
+    }
+  ],
+  "examples": [
+    {
+      "en": "That cake looks very tempting.",
+      "zh": "那蛋糕的样子让人嘴馋。"
+    },
+    {
+      "en": "She cut the cake into fifths.",
+      "zh": "她把蛋糕切成五块。"
+    },
+    {
+      "en": "This cake is very filling.",
+      "zh": "这种饼很能填饱肚子。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[食品]蛋糕；块状物；利益总额",
+      "words": [
+        "Swiss roll",
+        "torta"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使结块",
+      "words": [
+        "agglomerate"
+      ]
+    }
+  ]
+}

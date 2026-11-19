@@ -1,0 +1,50 @@
+{
+  "word": "unique",
+  "found": true,
+  "phonetic_uk": "juˈniːk",
+  "phonetic_us": "juˈniːk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=unique&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=unique&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "独一无二的，独特的；非常特别的，极不寻常的；（某人、地或事物）独具的，特有的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<古>独一无二的人（或事）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Unique）尤妮克（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Each person's signature is unique.",
+      "zh": "每个人的签名是独一无二的。"
+    },
+    {
+      "en": "Everyone's fingerprints are unique.",
+      "zh": "每个人的指纹都是独一无二的。"
+    },
+    {
+      "en": "They are priceless, unique and irreplaceable.",
+      "zh": "它们是无价的、独一无二的，不可替代的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "独特的，稀罕的；[数]唯一的，独一无二的",
+      "words": [
+        "distinct",
+        "individual",
+        "one",
+        "sole",
+        "picturesque"
+      ]
+    }
+  ]
+}

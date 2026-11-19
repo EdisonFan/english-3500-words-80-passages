@@ -1,0 +1,44 @@
+{
+  "word": "reflection",
+  "found": true,
+  "phonetic_uk": "rɪˈflekʃ(ə)n",
+  "phonetic_us": "rɪˈflekʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=reflection&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=reflection&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（光、热或声音的）反射；反射光，反射热，回声；（反射出来的）影像，倒影；深思，反省；（尤指见诸语言的）想法，意见；表现，反映；坏的印象；（数）镜射，反射"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "reflections"
+    }
+  ],
+  "examples": [
+    {
+      "en": "After days of reflection she decided to write back.",
+      "zh": "经过几天的认真思考，她决定回信。"
+    },
+    {
+      "en": "Your clothes are often a reflection of your personality.",
+      "zh": "穿着常常反映出一个人的个性。"
+    },
+    {
+      "en": "He admired his reflection in the mirror.",
+      "zh": "他欣赏着自己在镜中的影像。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[热][光][物]反射；沉思；映象",
+      "words": [
+        "meditation",
+        "contemplation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "word": "fitness",
+  "found": true,
+  "phonetic_uk": "ˈfɪtnəs",
+  "phonetic_us": "ˈfɪtnəs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fitness&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fitness&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "健康；（生物体的）环境适度；适合，胜任"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He's too hung up about fitness.",
+      "zh": "他对健身过于忧心忡忡。"
+    },
+    {
+      "en": "Fitness has become an obsession with him.",
+      "zh": "他迷上了健身。"
+    },
+    {
+      "en": "The long climb tested our fitness and stamina.",
+      "zh": "那次长距离爬山是对我们健康状况和耐力的考验。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "健康；适当；适合性",
+      "words": [
+        "health",
+        "adaptability",
+        "relevance",
+        "wellness"
+      ]
+    }
+  ]
+}

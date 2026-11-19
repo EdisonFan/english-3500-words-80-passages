@@ -1,0 +1,39 @@
+{
+  "word": "biggest",
+  "found": true,
+  "phonetic_uk": "bɪgɪst",
+  "phonetic_us": "bɪgɪst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=biggest&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=biggest&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "最大的（big 的最高级）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Money is my biggest bugbear.",
+      "zh": "钱是我最大的顾虑。"
+    },
+    {
+      "en": "Biggest doesn't necessarily mean best.",
+      "zh": "最大的不一定是最好的。"
+    },
+    {
+      "en": "It was the biggest pike I ever hooked.",
+      "zh": "那是我钓到的最大的狗鱼。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "最大的（big的最高级）",
+      "words": [
+        "largest",
+        "maximal"
+      ]
+    }
+  ]
+}

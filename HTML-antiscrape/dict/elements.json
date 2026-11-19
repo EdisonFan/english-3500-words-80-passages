@@ -1,0 +1,42 @@
+{
+  "word": "elements",
+  "found": true,
+  "phonetic_uk": "ˈelɪmənts",
+  "phonetic_us": "ˈelɪmənts; ˈeləmənts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=elements&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=elements&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "要素；元素；（群体或社会中的）一伙；（恶劣的）天气；基本原理（element 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "These elements can be combined in a multitude of different ways.",
+      "zh": "这些因素可以通过无数不同的方式进行组合。"
+    },
+    {
+      "en": "Callahan posits that chemical elements radiate electromagnetic signals.",
+      "zh": "卡拉汉假定化学元素放射电磁信号。"
+    },
+    {
+      "en": "He taught me the elements of map-reading.",
+      "zh": "他教我看地图的基本方法。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "基础；原理",
+      "words": [
+        "basis",
+        "foundation",
+        "theory",
+        "mechanism",
+        "base"
+      ]
+    }
+  ]
+}

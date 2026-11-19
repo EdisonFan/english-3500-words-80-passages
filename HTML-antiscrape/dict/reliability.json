@@ -1,0 +1,44 @@
+{
+  "word": "reliability",
+  "found": true,
+  "phonetic_uk": "rɪˌlaɪəˈbɪləti",
+  "phonetic_us": "rɪˌlaɪəˈbɪləti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=reliability&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=reliability&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "可靠性；可信度"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "reliabilities"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The incident cast doubt on her motives and reliability.",
+      "zh": "这件事使人怀疑她有何动机，以及她是否可靠。"
+    },
+    {
+      "en": "Car buyers are more interested in safety and reliability than speed.",
+      "zh": "比起速度，汽车买主更关注安全性和可靠性。"
+    },
+    {
+      "en": "Our goods compete in terms of product quality, reliability and above all variety.",
+      "zh": "我们的产品从质量、可靠性、尤其是多样性来看很有竞争力。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[自]可靠性",
+      "words": [
+        "dependability",
+        "relable"
+      ]
+    }
+  ]
+}

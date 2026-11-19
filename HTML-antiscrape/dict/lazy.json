@@ -1,0 +1,72 @@
+{
+  "word": "lazy",
+  "found": true,
+  "phonetic_uk": "ˈleɪzi",
+  "phonetic_us": "ˈleɪzi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=lazy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=lazy&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "懒惰的，不愿工作的；悠闲的，懒洋洋的；粗心的，马虎的；行进缓慢的，慢吞吞的；<美>（牲口身上的烙印）打在一侧的"
+    },
+    {
+      "pos": "vi.",
+      "meaning": "懒散地移动或躺下"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】  （Lazy）（德）拉齐（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "lazies"
+    },
+    {
+      "name": "现在分词",
+      "value": "lazying"
+    },
+    {
+      "name": "过去式",
+      "value": "lazied"
+    },
+    {
+      "name": "过去分词",
+      "value": "lazied"
+    },
+    {
+      "name": "比较级",
+      "value": "lazier"
+    },
+    {
+      "name": "最高级",
+      "value": "laziest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He was not stupid, just lazy.",
+      "zh": "他不笨，只是懒。"
+    },
+    {
+      "en": "Look how lazy we've become.",
+      "zh": "瞧我们变得有多懒。"
+    },
+    {
+      "en": "We spent a lazy day on the beach.",
+      "zh": "我们在海滩上懒洋洋地度过了一天。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "懒惰的；懒洋洋的；怠惰的；慢吞吞的",
+      "words": [
+        "idle",
+        "sluggardly"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "word": "maximum",
+  "found": true,
+  "phonetic_uk": "ˈmæksɪməm",
+  "phonetic_us": "ˈmæksɪməm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=maximum&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=maximum&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "最大限度的；（数量）极大的，极多的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "最大量，最大限度"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "最多，充其量"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "maxima或maximums"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We need an extra 6 grams a day maximum.",
+      "zh": "我们一天最多还需要6克。"
+    },
+    {
+      "en": "What is the absolute maximum you can afford to pay?",
+      "zh": "你最多能出多少钱？"
+    },
+    {
+      "en": "Both face maximum forfeitures of about $1.2 million.",
+      "zh": "双方都面临最高可达一百二十万美元的财产没收。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[数]极大，最大限度；最大量",
+      "words": [
+        "ceiling amount"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "最高的；最多的；最大极限的",
+      "words": [
+        "highest",
+        "supreme",
+        "peak",
+        "top",
+        "most"
+      ]
+    }
+  ]
+}

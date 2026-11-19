@@ -1,0 +1,65 @@
+{
+  "word": "few",
+  "found": true,
+  "phonetic_uk": "fjuː",
+  "phonetic_us": "fjuː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=few&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=few&type=2",
+  "defs": [
+    {
+      "pos": "det.",
+      "meaning": "一些，几个；很少，不多，几乎没有"
+    },
+    {
+      "pos": "pron.",
+      "meaning": "一些人（或物）；很少的人（或物）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "少数的；很少（的），几乎没有（的）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（尤指享有某种机遇等的）少数派，少数（the few） ；参加过不列颠之战的少数几个英国皇家空军飞行员（the Few）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Few）（英）菲尤（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "fewer"
+    },
+    {
+      "name": "最高级",
+      "value": "fewest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Few soldiers were in evidence.",
+      "zh": "几乎看不见有士兵。"
+    },
+    {
+      "en": "Matches cost only a few pence.",
+      "zh": "火柴只需几便士。"
+    },
+    {
+      "en": "It only took a few seconds.",
+      "zh": "那只需要几秒钟。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "很少的；几乎没有的",
+      "words": [
+        "tiny",
+        "little",
+        "small"
+      ]
+    }
+  ]
+}

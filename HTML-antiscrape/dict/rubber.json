@@ -1,0 +1,72 @@
+{
+  "word": "rubber",
+  "found": true,
+  "phonetic_uk": "ˈrʌbə(r)",
+  "phonetic_us": "ˈrʌbər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=rubber&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=rubber&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "橡胶，合成橡胶；<英> 橡皮擦；<英> 黑板擦；<美，非正式> 避孕套；<美，非正式> 橡胶套鞋；（桥牌或板球的）一盘，决胜局；（棒球比赛中投手站的）投手板；多轮决胜负的比赛（如三局两胜）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "橡胶制成的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "扭转脖子看，好奇地引颈而望"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Rubber）（西鲁）韦尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "rubbers"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "rubbers"
+    },
+    {
+      "name": "现在分词",
+      "value": "rubbering"
+    },
+    {
+      "name": "过去式",
+      "value": "rubbered"
+    },
+    {
+      "name": "过去分词",
+      "value": "rubbered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The boy was wearing rubber-soled shoes.",
+      "zh": "这个男孩儿穿着橡胶底的鞋。"
+    },
+    {
+      "en": "The smell of burning rubber filled the air.",
+      "zh": "空气中弥漫着橡胶燃烧的气味。"
+    },
+    {
+      "en": "The stench of burning rubber was overpowering.",
+      "zh": "燃烧橡胶散发出的臭味极其强烈。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[橡胶]橡胶；橡皮；合成橡胶；按摩师",
+      "words": [
+        "India-rubber",
+        "gum"
+      ]
+    }
+  ]
+}

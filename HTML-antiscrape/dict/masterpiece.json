@@ -1,0 +1,44 @@
+{
+  "word": "masterpiece",
+  "found": true,
+  "phonetic_uk": "ˈmɑːstəpiːs",
+  "phonetic_us": "ˈmæstərpiːs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=masterpiece&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=masterpiece&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "代表作，杰作；极好的例证；手艺人为取得大师资格并进入行会而制作的作品"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "masterpieces"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The work was acclaimed as a masterpiece.",
+      "zh": "该作品被誉为杰作。"
+    },
+    {
+      "en": "The painting is a masterpiece in the truest sense of the word.",
+      "zh": "这幅画是名副其实的杰作。"
+    },
+    {
+      "en": "The play was built up to be a masterpiece but I found it very disappointing.",
+      "zh": "那部戏被捧为杰作，可我却大失所望。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "杰作；绝无仅有的人",
+      "words": [
+        "chef-d'oeuvre",
+        "magnum opus"
+      ]
+    }
+  ]
+}

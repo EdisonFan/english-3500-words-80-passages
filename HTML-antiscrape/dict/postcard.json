@@ -1,0 +1,43 @@
+{
+  "word": "postcard",
+  "found": true,
+  "phonetic_uk": "ˈpəʊstkɑːd",
+  "phonetic_us": "ˈpoʊstkɑːrd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=postcard&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=postcard&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "明信片"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "postcards"
+    }
+  ],
+  "examples": [
+    {
+      "en": "In the sentence, 'I sent her a postcard', the word 'her' is in the dative.",
+      "zh": "在I sent her a postcard一句中，her一词处于与格。"
+    },
+    {
+      "en": "I got your postcard from the school.",
+      "zh": "你从学校寄来的明信片我已收到。"
+    },
+    {
+      "en": "Have you sent your mother a postcard yet?",
+      "zh": "你给你母亲寄明信片了没有？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "明信片",
+      "words": [
+        "postal card"
+      ]
+    }
+  ]
+}

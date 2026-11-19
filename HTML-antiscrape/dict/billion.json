@@ -1,0 +1,55 @@
+{
+  "word": "billion",
+  "found": true,
+  "phonetic_uk": "ˈbɪljən",
+  "phonetic_us": "ˈbɪljən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=billion&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=billion&type=2",
+  "defs": [
+    {
+      "pos": "num.",
+      "meaning": "十亿；<旧>万亿"
+    },
+    {
+      "pos": "n.",
+      "meaning": "十亿；亿万，大量（billions）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Billion）（法）比利翁（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "billions或billion"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Worldwide sales reached 2.5 billion.",
+      "zh": "全球销售额达到了25亿。"
+    },
+    {
+      "en": "The Galaxy consists of 100 billion stars.",
+      "zh": "银河系由1千亿颗恒星组成。"
+    },
+    {
+      "en": "Sales jumped from $2.7 billion to $3.5 billion.",
+      "zh": "销售额从27亿元猛增到35亿元。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "十亿；大量",
+      "words": [
+        "lots of",
+        "wealth",
+        "ocean",
+        "sea",
+        "body"
+      ]
+    }
+  ]
+}

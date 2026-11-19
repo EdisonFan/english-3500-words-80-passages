@@ -1,0 +1,46 @@
+{
+  "word": "parking",
+  "found": true,
+  "phonetic_uk": "ˈpɑːkɪŋ",
+  "phonetic_us": "ˈpɑːrkɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=parking&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=parking&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "停车，泊车；停车场，停车位"
+    },
+    {
+      "pos": "v.",
+      "meaning": "存放，寄存；停车，泊车；坐下（或站着）（park 的现在分词形式）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 【名】（Parking）（英）帕金（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Parking can be tricky downtown.",
+      "zh": "在市中心停车会很难。"
+    },
+    {
+      "en": "Ample free parking is available.",
+      "zh": "有宽敞的免费停车场。"
+    },
+    {
+      "en": "I managed to find a parking space.",
+      "zh": "我终于找到了一个停车位。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[交]停车",
+      "words": [
+        "power-off"
+      ]
+    }
+  ]
+}

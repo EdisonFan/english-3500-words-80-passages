@@ -1,0 +1,94 @@
+{
+  "word": "big",
+  "found": true,
+  "phonetic_uk": "bɪɡ",
+  "phonetic_us": "bɪɡ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=big&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=big&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "（尺寸、数量、规模或年龄）大的；重大的，严重的；有影响力的；糟糕的；有雄心的；受欢迎的；热衷于……的；程度深的，效果好的；大方的，大度的；生僻的，晦涩的；大写的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "大大，给人印象深地；夸口地；大量地"
+    },
+    {
+      "pos": "v.",
+      "meaning": "招摇"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Big）（土）比格（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "bigs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "bigs"
+    },
+    {
+      "name": "现在分词",
+      "value": "bigging"
+    },
+    {
+      "name": "过去式",
+      "value": "bigged或bug"
+    },
+    {
+      "name": "过去分词",
+      "value": "bigged或bug"
+    },
+    {
+      "name": "比较级",
+      "value": "bigger"
+    },
+    {
+      "name": "最高级",
+      "value": "biggest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This shirt isn't big enough.",
+      "zh": "这件衬衣不够大。"
+    },
+    {
+      "en": "They were earning big money.",
+      "zh": "他们在赚大钱。"
+    },
+    {
+      "en": "You're a big girl now.",
+      "zh": "你现在已长成大姑娘了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "大的；重要的；量大的",
+      "words": [
+        "larger",
+        "crucial",
+        "important",
+        "considerable",
+        "material"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "大量地；顺利；夸大地",
+      "words": [
+        "largely",
+        "freely",
+        "heavy",
+        "importantly",
+        "tall"
+      ]
+    }
+  ]
+}

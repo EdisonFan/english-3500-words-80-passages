@@ -1,0 +1,64 @@
+{
+  "word": "ankle",
+  "found": true,
+  "phonetic_uk": "ˈæŋk(ə)l",
+  "phonetic_us": "ˈæŋk(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ankle&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ankle&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "脚踝，踝关节"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<美，非正式>走；离开；（骑自行车时）踝关节曲起用力"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "ankles"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "ankles"
+    },
+    {
+      "name": "现在分词",
+      "value": "ankling"
+    },
+    {
+      "name": "过去式",
+      "value": "ankled"
+    },
+    {
+      "name": "过去分词",
+      "value": "ankled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "John twisted his ankle badly.",
+      "zh": "约翰的脚踝严重扭伤。"
+    },
+    {
+      "en": "He fell and sprained his ankle.",
+      "zh": "他跌了一跤，扭伤了脚踝。"
+    },
+    {
+      "en": "He fell and twisted his ankle.",
+      "zh": "他摔了一跤，扭伤了脚踝。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "踝关节，[解剖]踝",
+      "words": [
+        "gambrel",
+        "malleolus"
+      ]
+    }
+  ]
+}

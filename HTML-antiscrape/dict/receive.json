@@ -1,0 +1,63 @@
+{
+  "word": "receive",
+  "found": true,
+  "phonetic_uk": "rɪˈsiːv",
+  "phonetic_us": "rɪˈsiːv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=receive&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=receive&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "得到，收到；遭受，经受（特定待遇）；对……作出反应；接待，招待；接收（某人为成员）；接收，收听（信号）；（通过无线电）听到；购买，窝藏（赃物）；接（球）；领受（圣餐面包或葡萄酒）；接受（治疗）；形成（看法，印象）；容纳，承接"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "receives"
+    },
+    {
+      "name": "现在分词",
+      "value": "receiving"
+    },
+    {
+      "name": "过去式",
+      "value": "received"
+    },
+    {
+      "name": "过去分词",
+      "value": "received"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He will receive $6,000 in back pay.",
+      "zh": "他将收到$6000的欠薪。"
+    },
+    {
+      "en": "I didn't receive a letter from him yet.",
+      "zh": "我还没有收到过他的信。"
+    },
+    {
+      "en": "All joiners will receive a welcome pack.",
+      "zh": "每位入会者都会收到一个迎新包。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "收到；接待；接纳",
+      "words": [
+        "acknowledge receipt of",
+        "to hand"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "接收",
+      "words": [
+        "take over"
+      ]
+    }
+  ]
+}

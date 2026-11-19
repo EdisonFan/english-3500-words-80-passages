@@ -1,0 +1,41 @@
+{
+  "word": "tofu",
+  "found": true,
+  "phonetic_uk": "ˈtəʊfuː",
+  "phonetic_us": "ˈtoʊfuː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tofu&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tofu&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "豆腐"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Tofu and mushrooms have their own unique flavours.",
+      "zh": "豆腐和蘑菇有它们自己独特的风味。"
+    },
+    {
+      "en": "You can order a melon duo, tofu salad and grilled royal trumpet mushrooms with polenta.",
+      "zh": "你可以要一份瓜盅，豆腐沙拉和皇家烤喇叭菇配玉米粥。"
+    },
+    {
+      "en": "The textile is a lovely, silky fiber made from waste material left after soybeans are used to make Tofu.",
+      "zh": "这种纺织品是一种可爱的、柔滑的纤维，它是用大豆做豆腐剩下的废材制成的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "豆腐",
+      "words": [
+        "beancurd",
+        "doufu",
+        "soybean curd",
+        "Toufu"
+      ]
+    }
+  ]
+}

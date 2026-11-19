@@ -1,0 +1,47 @@
+{
+  "word": "connection",
+  "found": true,
+  "phonetic_uk": "kəˈnekʃn",
+  "phonetic_us": "kəˈnekʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=connection&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=connection&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "关系，联系；连接，接通；连接物，接头；联运，转车，转机；交通线；人际关系，人脉；亲戚，旁系亲属；<美，非正式>毒品贩子"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "connections"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I felt a strong connection between us.",
+      "zh": "我感觉到了我们之间的强烈关系。"
+    },
+    {
+      "en": "I'm having problems with my Internet connection.",
+      "zh": "我的互联网连接有问题。"
+    },
+    {
+      "en": "My flight was late and I missed the connection.",
+      "zh": "我乘坐的航班晚点了，因此我错过了联运航班。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "连接；关系；连接件",
+      "words": [
+        "relationship",
+        "bearing",
+        "link",
+        "concern",
+        "junction"
+      ]
+    }
+  ]
+}

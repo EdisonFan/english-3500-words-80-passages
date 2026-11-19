@@ -1,0 +1,39 @@
+{
+  "word": "servants",
+  "found": true,
+  "phonetic_uk": "ˈsɜːvənts",
+  "phonetic_us": "ˈsɜːrvənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=servants&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=servants&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "仆人；服务员（servant 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Dozens of servants had catered to his every whim.",
+      "zh": "几十个仆人曾迎合他所有离奇的想法。"
+    },
+    {
+      "en": "Like any other public servants, police must respond to public demand.",
+      "zh": "像任何其他公务员一样，警察必须对公众要求作出反应。"
+    },
+    {
+      "en": "You might expect politicians to smooth things out when civil servants are being dilatory.",
+      "zh": "当公务员办事拖拉时，你可能期望政治家们能够把事情顺利解决。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "仆人；服务员（servant的复数）",
+      "words": [
+        "attendants",
+        "yeomen"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "skills",
+  "found": true,
+  "phonetic_uk": "ˈskɪlz",
+  "phonetic_us": "skɪlz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=skills&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=skills&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（特定的）技术，技能（skill 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We often underplay the skills we have.",
+      "zh": "我们常对自己拥有的技能轻描淡写。"
+    },
+    {
+      "en": "She honed her debating skills at college.",
+      "zh": "她在大学时便练就了辩论技巧。"
+    },
+    {
+      "en": "Her old professional skills shone through.",
+      "zh": "她在行的专业技巧顿时显现无遗。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "技能；技巧（skill的复数形式）；技术",
+      "words": [
+        "techniques",
+        "tricks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "functioning",
+  "found": true,
+  "phonetic_uk": "ˈfʌŋkʃənɪŋ",
+  "phonetic_us": "ˈfʌŋkʃnɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=functioning&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=functioning&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "运行，运作；[计]功能；机能；起酌（function 的动名词）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "运行，起作用（function 的现在分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We now have a functioning shower.",
+      "zh": "现在我们有一个功能正常的淋浴器。"
+    },
+    {
+      "en": "The authorities say the prison is now functioning normally.",
+      "zh": "当局称该监狱现在在正常运转。"
+    },
+    {
+      "en": "Nicotine adversely affects the functioning of the heart and arteries.",
+      "zh": "尼古丁对心脏和动脉功能有负面影响。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "运行，运作；功能；机能；起酌（function的动名词）",
+      "words": [
+        "revolution",
+        "action"
+      ]
+    }
+  ]
+}

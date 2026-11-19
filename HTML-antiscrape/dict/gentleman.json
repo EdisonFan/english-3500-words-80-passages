@@ -1,0 +1,46 @@
+{
+  "word": "gentleman",
+  "found": true,
+  "phonetic_uk": "ˈdʒentlmən",
+  "phonetic_us": "ˈdʒent(ə)lmən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=gentleman&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=gentleman&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（称呼或指男子，尤其是不认识的）先生；彬彬有礼的人，有教养的人；<旧>有身份的人，富绅；（古时用语）出身高贵的男子；<美，非正式>（对立法机构男性议员的称呼）先生，阁下"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "gentlemen"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He behaved like a true gentleman.",
+      "zh": "他的行为像个真正的绅士。"
+    },
+    {
+      "en": "He is anxious to appear a gentleman.",
+      "zh": "他急于表现得像一位绅士。"
+    },
+    {
+      "en": "He's a true gentleman.",
+      "zh": "他是个正人君子。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "先生；绅士；有身分的人",
+      "words": [
+        "sir",
+        "don",
+        "Mister",
+        "Monsieur"
+      ]
+    }
+  ]
+}

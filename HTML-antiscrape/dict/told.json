@@ -1,0 +1,34 @@
+{
+  "word": "told",
+  "found": true,
+  "phonetic_uk": "təʊld",
+  "phonetic_us": "toʊld",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=told&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=told&type=2",
+  "defs": [
+    {
+      "pos": "vt.",
+      "meaning": "告诉，说；辨别；吩咐；断定（tell的过去式和过去分词）"
+    },
+    {
+      "pos": "vi.",
+      "meaning": "讲述；告发，泄密；识别（tell的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Somebody should have told me.",
+      "zh": "应该有人告诉我才是。"
+    },
+    {
+      "en": "I told him flat out 'No'.",
+      "zh": "我斩钉截铁地告诉他“不”。"
+    },
+    {
+      "en": "I thought she told you.",
+      "zh": "我以为她告诉你了。"
+    }
+  ],
+  "synonyms": []
+}

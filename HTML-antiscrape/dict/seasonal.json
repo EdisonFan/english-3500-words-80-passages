@@ -1,0 +1,38 @@
+{
+  "word": "seasonal",
+  "found": true,
+  "phonetic_uk": "ˈsiːzən(ə)l",
+  "phonetic_us": "ˈsiːzən(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=seasonal&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=seasonal&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "季节性的，随季节变化的；节令性的，适应节日需要的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Most seasonal hiring is done in early October.",
+      "zh": "多数季节性招聘是在10月初进行。"
+    },
+    {
+      "en": "The figures aren't adjusted for seasonal variations.",
+      "zh": "这些数字未作季节性变化调整。"
+    },
+    {
+      "en": "Many plants are seasonal.",
+      "zh": "许多植物是季节性生长的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[天]季节的；周期性的；依照季节的",
+      "words": [
+        "recurrent"
+      ]
+    }
+  ]
+}

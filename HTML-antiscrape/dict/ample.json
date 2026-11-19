@@ -1,0 +1,55 @@
+{
+  "word": "ample",
+  "found": true,
+  "phonetic_uk": "ˈæmpl",
+  "phonetic_us": "ˈæmp(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ample&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ample&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "充足的，充裕的；丰满的；宽敞的，巨大的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Ample）（西）安普尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "ampler或more ample"
+    },
+    {
+      "name": "最高级",
+      "value": "amplest或most ample"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Ample free parking is available.",
+      "zh": "有宽敞的免费停车场。"
+    },
+    {
+      "en": "There was ample time to get to the airport.",
+      "zh": "有足够的时间到达机场。"
+    },
+    {
+      "en": "The driver had ample time to brake or swerve and avoid the woman.",
+      "zh": "该司机有足够的时间刹车或急转来避让那女子。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "丰富的；足够的；宽敞的",
+      "words": [
+        "abundant",
+        "sufficient",
+        "competent",
+        "full",
+        "plenty"
+      ]
+    }
+  ]
+}

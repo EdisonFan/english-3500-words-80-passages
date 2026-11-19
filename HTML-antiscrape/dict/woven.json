@@ -1,0 +1,47 @@
+{
+  "word": "woven",
+  "found": true,
+  "phonetic_uk": "ˈwəʊv(ə)n",
+  "phonetic_us": "ˈwoʊv(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=woven&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=woven&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "编织；交织（weave 的过去分词）；编造"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "织物的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "机织织物"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The floors are covered with woven straw mats.",
+      "zh": "地板上铺着用草编织的垫子。"
+    },
+    {
+      "en": "Our lives are woven together.",
+      "zh": "我们的生活是交织在一起的。"
+    },
+    {
+      "en": "It is woven of [from] silk.",
+      "zh": "这是用丝织成的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "编织；交织（weave的过去分词）；编造",
+      "words": [
+        "knitted",
+        "redacted"
+      ]
+    }
+  ]
+}

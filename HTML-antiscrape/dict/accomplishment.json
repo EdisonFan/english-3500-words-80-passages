@@ -1,0 +1,47 @@
+{
+  "word": "accomplishment",
+  "found": true,
+  "phonetic_uk": "əˈkʌmplɪʃmənt",
+  "phonetic_us": "əˈkɑːmplɪʃmənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=accomplishment&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=accomplishment&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "成就，成绩；技能，才艺；完成，实现"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "accomplishments"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It's an amazing accomplishment and one we cannot achieve without generous support.",
+      "zh": "这是一项了不起的成就，如果没有大家慷慨的支持，我们是无法取得这一成就的。"
+    },
+    {
+      "en": "The key in the successful accomplishment of this process is accurate list tracking.",
+      "zh": "成功完成这一过程的关键是对列表的准确追踪。"
+    },
+    {
+      "en": "Your diligence is worthy of encouragement, but effort does not equal accomplishment.",
+      "zh": "你的勤奋值得鼓励，但努力不等于成就。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "成就；完成；技艺，技能",
+      "words": [
+        "achievement",
+        "effort",
+        "completion",
+        "success",
+        "execution"
+      ]
+    }
+  ]
+}

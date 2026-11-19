@@ -1,0 +1,44 @@
+{
+  "word": "freshman",
+  "found": true,
+  "phonetic_uk": "ˈfreʃmən",
+  "phonetic_us": "ˈfreʃmən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=freshman&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=freshman&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "<美>（中学或大学的）一年级学生；<美> 新手；新手"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "freshmen"
+    }
+  ],
+  "examples": [
+    {
+      "en": "A freshman adviser lives in each residence hall.",
+      "zh": "每栋学生宿舍楼里住着一位新生指导老师。"
+    },
+    {
+      "en": "The average SAT score among 2004's freshman class was 1,200.",
+      "zh": "2004级新生入学考试平均分为1200。"
+    },
+    {
+      "en": "He's also a teaching assistant for a freshman urban-studies class.",
+      "zh": "他也担任大学新生城市学班的助教。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "新手，生手；大学一年级学生",
+      "words": [
+        "rookie",
+        "tyro"
+      ]
+    }
+  ]
+}

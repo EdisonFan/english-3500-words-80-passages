@@ -1,0 +1,81 @@
+{
+  "word": "leather",
+  "found": true,
+  "phonetic_uk": "ˈleðə(r)",
+  "phonetic_us": "ˈleðər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=leather&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=leather&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "皮，皮革；（骑摩托车穿的）皮衣，皮夹克"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<英，非正式>抽打"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Leather）（英）莱瑟（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "leathers"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "leathers"
+    },
+    {
+      "name": "现在分词",
+      "value": "leathering"
+    },
+    {
+      "name": "过去式",
+      "value": "leathered"
+    },
+    {
+      "name": "过去分词",
+      "value": "leathered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The jacket had leather fringes.",
+      "zh": "这件上衣饰有皮流苏。"
+    },
+    {
+      "en": "He wore patent leather shoes.",
+      "zh": "他穿着漆革鞋。"
+    },
+    {
+      "en": "This wallet feels like leather.",
+      "zh": "这个钱包摸上去像是皮的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[皮革]皮革；皮革制品",
+      "words": [
+        "leder"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "用皮革包盖；抽打",
+      "words": [
+        "whip"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "皮的；皮革制的",
+      "words": [
+        "skinny"
+      ]
+    }
+  ]
+}

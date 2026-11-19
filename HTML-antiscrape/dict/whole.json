@@ -1,0 +1,63 @@
+{
+  "word": "whole",
+  "found": true,
+  "phonetic_uk": "həʊl",
+  "phonetic_us": "hoʊl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=whole&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=whole&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "全部的，整个的；完整的，完好无损的；(强调大小或重要性）整个的，全部的；要点，主旨；健全的，健康的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "整体，全部"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "完全地；整个"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "wholes"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The whole idea was preposterous.",
+      "zh": "整个想法都是荒谬的。"
+    },
+    {
+      "en": "Four quarters make a whole.",
+      "zh": "四个四分之一构成一个整体。"
+    },
+    {
+      "en": "Her whole body tautened violently.",
+      "zh": "她全身剧烈地紧绷起来。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "完整的；纯粹的",
+      "words": [
+        "complete",
+        "pure",
+        "integrated",
+        "full",
+        "intact"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "整体；全部",
+      "words": [
+        "full",
+        "integer"
+      ]
+    }
+  ]
+}

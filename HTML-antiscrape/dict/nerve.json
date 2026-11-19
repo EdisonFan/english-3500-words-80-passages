@@ -1,0 +1,72 @@
+{
+  "word": "nerve",
+  "found": true,
+  "phonetic_uk": "nɜːv",
+  "phonetic_us": "nɜːrv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=nerve&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=nerve&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "神经；勇气，胆量；神经紧张，情绪不安；鲁莽，冒失；（叶）脉"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使鼓起勇气，使振作精神"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "nerves"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "nerves"
+    },
+    {
+      "name": "现在分词",
+      "value": "nerving"
+    },
+    {
+      "name": "过去式",
+      "value": "nerved"
+    },
+    {
+      "name": "过去分词",
+      "value": "nerved"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Every nerve in her body was tense.",
+      "zh": "她的每一根神经都绷得紧紧的。"
+    },
+    {
+      "en": "He lost his nerve at the last minute.",
+      "zh": "他在最后一刻失去了勇气。"
+    },
+    {
+      "en": "The optic nerve is a part of the brain.",
+      "zh": "视觉神经是大脑的一部分。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[解剖]神经；勇气；[植]叶脉",
+      "words": [
+        "courage",
+        "heart"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "鼓起勇气",
+      "words": [
+        "take courage",
+        "get up the courage"
+      ]
+    }
+  ]
+}

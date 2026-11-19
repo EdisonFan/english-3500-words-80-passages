@@ -1,0 +1,109 @@
+{
+  "word": "round",
+  "found": true,
+  "phonetic_uk": "raʊnd",
+  "phonetic_us": "raʊnd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=round&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=round&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "圆形的，球形的；弧形的；微胖的，丰满的；<喻>（声音）圆润的；整数的；<古>（钱）大量的；耿直的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "旋转，环绕；周长；在周围，围绕；到处，四处；朝反方向，转过来；绕弯，向另一侧；逐一，挨个；到某地，在某地；大约；闲着；从头至尾"
+    },
+    {
+      "pos": "prep.",
+      "meaning": "环绕，围绕；绕过，在另一侧；解决（问题）；在……周围，包围；在……各处；在……整个期间；适应，以……为中心"
+    },
+    {
+      "pos": "n.",
+      "meaning": "轮次；（比赛的）局，场；一系列常规活动；（固定的）递送路线；巡防，巡诊；一巡（饮料）；一阵（掌声）；轮唱曲；一次射击，一发子弹；圆形物；<英> 一片（面包），一个（三明治）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "环绕，绕过；（使）成圆形，变圆；取整，四舍五入；圆满结束，圆满完成"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Round）（美、英、加、澳、印、德）朗德（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "rounds"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "rounds"
+    },
+    {
+      "name": "现在分词",
+      "value": "rounding"
+    },
+    {
+      "name": "过去式",
+      "value": "rounded"
+    },
+    {
+      "name": "过去分词",
+      "value": "rounded"
+    },
+    {
+      "name": "比较级",
+      "value": "rounder或more round"
+    },
+    {
+      "name": "最高级",
+      "value": "roundest或most round"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The earth moves round the sun.",
+      "zh": "地球围绕太阳旋转。"
+    },
+    {
+      "en": "We're leaving round about ten.",
+      "zh": "我们十点钟左右出发。"
+    },
+    {
+      "en": "Has anyone shown you round yet?",
+      "zh": "有没有人带你四处走走？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "圆；循环；一回合；[数]圆形物",
+      "words": [
+        "circulation",
+        "revolution",
+        "rotation",
+        "cycle"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "圆的；完全的；大概的；肥胖的",
+      "words": [
+        "complete",
+        "absolute",
+        "full",
+        "total",
+        "broad"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "在周围；迂回地；朝反方向；挨个",
+      "words": [
+        "indirectly",
+        "circuitously"
+      ]
+    }
+  ]
+}

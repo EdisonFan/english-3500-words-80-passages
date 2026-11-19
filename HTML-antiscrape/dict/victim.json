@@ -1,0 +1,43 @@
+{
+  "word": "victim",
+  "found": true,
+  "phonetic_uk": "ˈvɪktɪm",
+  "phonetic_us": "ˈvɪktɪm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=victim&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=victim&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "受害者，罹难者；（面对不幸事件或虐待时的）无助者，患病者；牺牲品，祭品；受骗者"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "victims"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He was the victim of calumny.",
+      "zh": "他曾是诽谤的受害者。"
+    },
+    {
+      "en": "The victim has not yet been named.",
+      "zh": "受害人的姓名仍未得知。"
+    },
+    {
+      "en": "The \"victim\" revealed he was only playacting.",
+      "zh": "该“受害者”透露他只是在装腔作势。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "受害人；牺牲品；牺牲者",
+      "words": [
+        "sacrificial lamb"
+      ]
+    }
+  ]
+}

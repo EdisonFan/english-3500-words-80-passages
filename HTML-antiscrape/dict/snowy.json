@@ -1,0 +1,47 @@
+{
+  "word": "snowy",
+  "found": true,
+  "phonetic_uk": "ˈsnəʊi",
+  "phonetic_us": "ˈsnoʊi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=snowy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=snowy&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "多雪的，下雪的；雪白的；白雪覆盖的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "snowier或more snowy"
+    },
+    {
+      "name": "最高级",
+      "value": "snowiest或most snowy"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We strode across the snowy fields.",
+      "zh": "我们大步流星地穿过雪封的旷野。"
+    },
+    {
+      "en": "The weather is snowy here.",
+      "zh": "这里是下雪天。"
+    },
+    {
+      "en": "I hate the snowy winters.",
+      "zh": "我讨厌下雪的冬日。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "下雪的，多雪的；被雪覆盖的；洁白无瑕的",
+      "words": [
+        "nival"
+      ]
+    }
+  ]
+}

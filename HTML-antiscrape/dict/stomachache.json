@@ -1,0 +1,44 @@
+{
+  "word": "stomachache",
+  "found": true,
+  "phonetic_uk": "ˈstʌməkeɪk",
+  "phonetic_us": "ˈstʌməkˌeɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=stomachache&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=stomachache&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "胃痛，肚子痛"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "stomachaches"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I can't stand this stomachache.",
+      "zh": "我受不了我的胃痛。"
+    },
+    {
+      "en": "His stomachache was soon better.",
+      "zh": "他的胃痛很快就好了。"
+    },
+    {
+      "en": "My child has a stomachache.",
+      "zh": "我的孩子胃痛。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[内科]腹痛，肚子痛；胃痛",
+      "words": [
+        "abdominal pain",
+        "celialgia"
+      ]
+    }
+  ]
+}

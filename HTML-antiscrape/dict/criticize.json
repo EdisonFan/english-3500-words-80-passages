@@ -1,0 +1,64 @@
+{
+  "word": "criticize",
+  "found": true,
+  "phonetic_uk": "ˈkrɪtɪsaɪz",
+  "phonetic_us": "ˈkrɪtɪsaɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=criticize&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=criticize&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "批评，指责；评论"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "criticizes"
+    },
+    {
+      "name": "现在分词",
+      "value": "criticizing"
+    },
+    {
+      "name": "过去式",
+      "value": "criticized"
+    },
+    {
+      "name": "过去分词",
+      "value": "criticized"
+    }
+  ],
+  "examples": [
+    {
+      "en": "All you ever do is criticize!",
+      "zh": "你就知道批评！"
+    },
+    {
+      "en": "We were taught how to criticize poems.",
+      "zh": "我们学习了怎样评论诗歌。"
+    },
+    {
+      "en": "You were quite right to criticize him.",
+      "zh": "你批评他批评得很对。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "批评；评论；非难",
+      "words": [
+        "observe on",
+        "to comment on"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "批评；评论；苛求",
+      "words": [
+        "observe on",
+        "to comment on"
+      ]
+    }
+  ]
+}

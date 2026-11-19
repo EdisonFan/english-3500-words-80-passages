@@ -1,0 +1,43 @@
+{
+  "word": "perfectionist",
+  "found": true,
+  "phonetic_uk": "pəˈfekʃənɪst",
+  "phonetic_us": "pərˈfekʃənɪst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=perfectionist&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=perfectionist&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "完美主义者，追求完美的人；至善论者"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "perfectionists"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He was such a perfectionist that he published only those results that satisfied him completely.",
+      "zh": "他是个完美主义者，只发表那些令他完全满意的成果。"
+    },
+    {
+      "en": "She's a perfectionist to her fingertips.",
+      "zh": "她是个道道地地的完美主义者。"
+    },
+    {
+      "en": "Virginia was a perfectionist. She was just not prepared to settle for anything mediocre.",
+      "zh": "弗吉尼娅是个完美主义者。她就是无法勉强接受任何平庸的东西。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "完美主义者，追求完美的人；至善论者",
+      "words": [
+        "completist"
+      ]
+    }
+  ]
+}

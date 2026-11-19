@@ -1,0 +1,85 @@
+{
+  "word": "smell",
+  "found": true,
+  "phonetic_uk": "smel",
+  "phonetic_us": "smel",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=smell&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=smell&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "气味；臭味；嗅觉；嗅，闻"
+    },
+    {
+      "pos": "v.",
+      "meaning": "有……气味，发出......的气味；闻出，闻到；（用鼻子凑过去）闻，嗅；有嗅觉，能闻出（smell sth. out）；散发异味，有难闻的气味；觉察出，感觉到；看起来像，有……意味"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】  （Smell）（美、俄、英、印、新）史默乐（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "smells"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "smells"
+    },
+    {
+      "name": "现在分词",
+      "value": "smelling"
+    },
+    {
+      "name": "过去式",
+      "value": "smelled或smelt"
+    },
+    {
+      "name": "过去分词",
+      "value": "smelled或smelt"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Where's that smell coming from?",
+      "zh": "那种气味是哪里来的？"
+    },
+    {
+      "en": "Can you smell something burning?",
+      "zh": "你有没有闻到什么东西烧焦了？"
+    },
+    {
+      "en": "There was barely any smell.",
+      "zh": "几乎没有什么气味。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "[生理]嗅，闻；有…气味",
+      "words": [
+        "snuff at",
+        "sniff at"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[生理]嗅，闻；察觉到；发出…的气味",
+      "words": [
+        "nose",
+        "snuff at"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "气味，[生理]嗅觉；臭味",
+      "words": [
+        "nose",
+        "wind",
+        "odor"
+      ]
+    }
+  ]
+}

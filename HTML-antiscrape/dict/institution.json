@@ -1,0 +1,44 @@
+{
+  "word": "institution",
+  "found": true,
+  "phonetic_uk": "ˌɪnstɪˈtjuːʃ(ə)n",
+  "phonetic_us": "ˌɪnstɪˈtuːʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=institution&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=institution&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "机构，团体；社会收容机构；制度，习俗；建立，制定；知名的人（或事物）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "institutions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I believe in the institution of marriage.",
+      "zh": "我相信婚姻制度。"
+    },
+    {
+      "en": "Bernard works at the same institution as Arlette.",
+      "zh": "伯纳德与阿莱特在同一个机构工作。"
+    },
+    {
+      "en": "The European Parliament is not an institution which excites interest in voters.",
+      "zh": "欧洲议会是个激不起选民兴趣的机构。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[管理]制度；建立；（社会或宗教等）公共机构；习俗",
+      "words": [
+        "system",
+        "convention"
+      ]
+    }
+  ]
+}

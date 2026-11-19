@@ -1,0 +1,86 @@
+{
+  "word": "sing",
+  "found": true,
+  "phonetic_uk": "sɪŋ",
+  "phonetic_us": "sɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sing&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "唱（歌），演唱；鸣，啼；呜呜作响，发出嗖嗖声；<非正式>（向警方）告密；（尤指用诗歌等文学作品）歌颂，赞颂"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<非正式> 唱歌，演唱；<美，非正式> 业余演唱会；鸣声，呼啸声"
+    },
+    {
+      "pos": "abbr.",
+      "meaning": "单数（singular 的缩写形式）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Sing）（老、德、泰）辛（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "sings"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "sings"
+    },
+    {
+      "name": "现在分词",
+      "value": "singing"
+    },
+    {
+      "name": "过去式",
+      "value": "sang或sung"
+    },
+    {
+      "name": "过去分词",
+      "value": "sung"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Can white girls sing the blues?",
+      "zh": "白人女孩会唱蓝调吗？"
+    },
+    {
+      "en": "She had a tendency to sing flat.",
+      "zh": "她的唱音倾向于偏低。"
+    },
+    {
+      "en": "Will you sing a song to us?",
+      "zh": "你给我们唱支歌好吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "唱歌；歌颂；鸣叫；呼号",
+      "words": [
+        "pay a tribute to",
+        "descant"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "唱；用诗赞颂；唱着使",
+      "words": [
+        "chant"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "演唱；鸣声；呼啸声",
+      "words": [
+        "stridulation"
+      ]
+    }
+  ]
+}

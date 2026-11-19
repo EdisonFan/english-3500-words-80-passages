@@ -1,0 +1,71 @@
+{
+  "word": "male",
+  "found": true,
+  "phonetic_uk": "meɪl",
+  "phonetic_us": "meɪl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=male&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=male&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "男性的；（动物）公的，雄性的；只有雄蕊的；全由男性组成的；（工具部件等）凸形的，阳的；男性特有的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "男子，男孩；雄性动物；雄性植物"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Male）（英）梅尔，（柬）马尔，（意、西、塞）马莱（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "males"
+    },
+    {
+      "name": "比较级",
+      "value": "more male"
+    },
+    {
+      "name": "最高级",
+      "value": "most male"
+    }
+  ],
+  "examples": [
+    {
+      "en": "God is often conceived of as male.",
+      "zh": "上帝常常被想象为男性。"
+    },
+    {
+      "en": "The handwriting belongs to a male.",
+      "zh": "这笔迹出自一名男子之手。"
+    },
+    {
+      "en": "I'm not a male chauvinist.",
+      "zh": "我不是大男子主义者。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[生物]男性的；雄性的；有力的",
+      "words": [
+        "vigorous",
+        "energetic"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "男人；[植][动]雄性动物",
+      "words": [
+        "boy",
+        "tom",
+        "guy",
+        "he",
+        "man"
+      ]
+    }
+  ]
+}

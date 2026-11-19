@@ -1,0 +1,42 @@
+{
+  "word": "stairs",
+  "found": true,
+  "phonetic_uk": "steəz",
+  "phonetic_us": "sterz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=stairs&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=stairs&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "楼梯；梯级（stair 的复数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Stairs）斯泰尔斯（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Have you vacuumed the stairs?",
+      "zh": "你用吸尘器清扫楼梯了吗？"
+    },
+    {
+      "en": "She descended the stairs slowly.",
+      "zh": "她缓慢地走下楼梯。"
+    },
+    {
+      "en": "Nancy began to climb the stairs.",
+      "zh": "南希开始爬楼梯。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "楼梯；梯级（stair的复数）",
+      "words": [
+        "rungs"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "word": "integrity",
+  "found": true,
+  "phonetic_uk": "ɪnˈteɡrəti",
+  "phonetic_us": "ɪnˈteɡrəti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=integrity&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=integrity&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "正直，诚实；完整，完全；职业操守；（电子数据的）集成度"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "integrities"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His integrity was unchallenged.",
+      "zh": "他的诚实正直未受到过质疑。"
+    },
+    {
+      "en": "Mayhew is a man of rock-solid integrity.",
+      "zh": "梅休是一个正直可靠的男人。"
+    },
+    {
+      "en": "I have always regarded him as a man of integrity.",
+      "zh": "我一直把他看作个正直的男人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[数]完整；正直；诚实；廉正",
+      "words": [
+        "truth",
+        "honesty",
+        "full",
+        "righteousness",
+        "completeness"
+      ]
+    }
+  ]
+}

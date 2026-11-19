@@ -1,0 +1,76 @@
+{
+  "word": "parcel",
+  "found": true,
+  "phonetic_uk": "ˈpɑːs(ə)l",
+  "phonetic_us": "ˈpɑːrs(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=parcel&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=parcel&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "<英>包裹，邮包；一批，一群；一块土地（尤指地产的一部分）；<英>有馅料的食品（通常指油酥点心）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<英>把……包起来（parcel sth. up）；分配（parcel sth. out）；（航海）用涂油帆布条缠包（绳索）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Parcel）（英）帕斯尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "parcels"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "parcels"
+    },
+    {
+      "name": "现在分词",
+      "value": "parcelling或parceling"
+    },
+    {
+      "name": "过去式",
+      "value": "parcelled或parceled"
+    },
+    {
+      "name": "过去分词",
+      "value": "parcelled或parceled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The parcel came in this morning's post.",
+      "zh": "这个包裹是今天上午邮送来的。"
+    },
+    {
+      "en": "There's a parcel and some letters for you.",
+      "zh": "有你的一个包裹和几封信。"
+    },
+    {
+      "en": "I managed secretly to undo a corner of the parcel.",
+      "zh": "我设法偷偷地打开包裹的一角。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[邮]包裹，小包",
+      "words": [
+        "package",
+        "bindle"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "打包；捆扎",
+      "words": [
+        "package",
+        "enlace"
+      ]
+    }
+  ]
+}

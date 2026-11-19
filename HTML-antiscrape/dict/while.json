@@ -1,0 +1,96 @@
+{
+  "word": "while",
+  "found": true,
+  "phonetic_uk": "waɪl",
+  "phonetic_us": "waɪl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=while&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=while&type=2",
+  "defs": [
+    {
+      "pos": "conj.",
+      "meaning": "当……的时候；与……同时；而，然而（表示对比）；尽管，虽然；直到……为止"
+    },
+    {
+      "pos": "n.",
+      "meaning": "一段时间；同时；<文>在此期间"
+    },
+    {
+      "pos": "v.",
+      "meaning": "消磨时间"
+    },
+    {
+      "pos": "prep.",
+      "meaning": "（北英格兰）直到"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "在……的时候"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "whiles"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "whiles"
+    },
+    {
+      "name": "现在分词",
+      "value": "whiling"
+    },
+    {
+      "name": "过去式",
+      "value": "whiled"
+    },
+    {
+      "name": "过去分词",
+      "value": "whiled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She fell while toddling around.",
+      "zh": "她在蹒跚学步时摔倒了。"
+    },
+    {
+      "en": "Cover me while I move forward.",
+      "zh": "掩护我前进。"
+    },
+    {
+      "en": "He nicked himself while shaving.",
+      "zh": "他刮胡子刮了个口子。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "conj.",
+      "meaning": "虽然；然而；当……的时候",
+      "words": [
+        "although",
+        "whereas",
+        "though",
+        "as",
+        "but"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "一会儿；一段时间",
+      "words": [
+        "minute",
+        "cycle",
+        "period of time"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "消磨；轻松地度过",
+      "words": [
+        "spend",
+        "weary out"
+      ]
+    }
+  ]
+}

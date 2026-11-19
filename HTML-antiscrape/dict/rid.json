@@ -1,0 +1,64 @@
+{
+  "word": "rid",
+  "found": true,
+  "phonetic_uk": "rɪd",
+  "phonetic_us": "rɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=rid&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=rid&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "使……去掉，使……去除；摆脱，消除"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "得到解脱的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Rid）（俄、德、英、美）里德（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "rids"
+    },
+    {
+      "name": "现在分词",
+      "value": "ridding"
+    },
+    {
+      "name": "过去式",
+      "value": "rid或ridded"
+    },
+    {
+      "name": "过去分词",
+      "value": "rid或ridded"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I can't get rid of this headache.",
+      "zh": "我这头疼老也不好。"
+    },
+    {
+      "en": "We got rid of all the old furniture.",
+      "zh": "我们扔掉了所有的旧家具。"
+    },
+    {
+      "en": "Are you trying to say you want rid of me?",
+      "zh": "你是在说要甩掉我吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "使摆脱；使去掉",
+      "words": [
+        "free from",
+        "debarrass"
+      ]
+    }
+  ]
+}

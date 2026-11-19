@@ -1,0 +1,50 @@
+{
+  "word": "inserting",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=inserting&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=inserting&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "插入，嵌进"
+    },
+    {
+      "pos": "v.",
+      "meaning": "插入；添写；登载（insert 的 ing 形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "If you don't put a point but just put a number, this specifies the width of space that will be used by the number you're inserting there.",
+      "zh": "如果你不用一个点，而只是放一个数字，这指定了你插入的数字所使用的空间宽度。"
+    },
+    {
+      "en": "Anti-theft screw, screwhead inserting material and anti-theft screw seat are provided.",
+      "zh": "提供防盗螺钉，螺钉头的嵌入材料和防盗螺钉座。"
+    },
+    {
+      "en": "After inserting the disc into the player.",
+      "zh": "在把碟片放入播放机之后。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "插入，嵌进",
+      "words": [
+        "interpolation",
+        "intromission"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "插入；添写；登载（insert的ing形式）",
+      "words": [
+        "interleaving"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "photography",
+  "found": true,
+  "phonetic_uk": "fəˈtɒɡrəfi",
+  "phonetic_us": "fəˈtɑːɡrəfi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=photography&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=photography&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "摄影，摄影术；摄影影像，摄影图片"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Photography is one of her hobbies.",
+      "zh": "摄影是她的爱好之一。"
+    },
+    {
+      "en": "Her hobbies include hiking and photography.",
+      "zh": "她的业余爱好包括徒步旅行和摄影。"
+    },
+    {
+      "en": "They share a common interest in photography.",
+      "zh": "他们在摄影方面兴趣相投。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[摄]摄影；摄影术",
+      "words": [
+        "photo shoot",
+        "camerawork"
+      ]
+    }
+  ]
+}

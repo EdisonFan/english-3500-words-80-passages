@@ -1,0 +1,67 @@
+{
+  "word": "believe",
+  "found": true,
+  "phonetic_uk": "bɪˈliːv",
+  "phonetic_us": "bɪˈliːv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=believe&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=believe&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "相信；认为，猜想；信教"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "believes"
+    },
+    {
+      "name": "现在分词",
+      "value": "believing"
+    },
+    {
+      "name": "过去式",
+      "value": "believed"
+    },
+    {
+      "name": "过去分词",
+      "value": "believed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They don't believe in marriage.",
+      "zh": "他们不相信婚姻。"
+    },
+    {
+      "en": "I don't believe in ghosts.",
+      "zh": "我不相信有鬼。"
+    },
+    {
+      "en": "I can scarcely believe it.",
+      "zh": "我几乎不敢相信。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "信任；料想；笃信宗教",
+      "words": [
+        "trust on",
+        "suppose"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "相信；认为；信任",
+      "words": [
+        "expect",
+        "count",
+        "guess",
+        "find",
+        "feel"
+      ]
+    }
+  ]
+}

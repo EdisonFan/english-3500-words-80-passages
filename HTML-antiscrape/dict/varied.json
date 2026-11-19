@@ -1,0 +1,50 @@
+{
+  "word": "varied",
+  "found": true,
+  "phonetic_uk": "ˈveərid",
+  "phonetic_us": "ˈverid",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=varied&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=varied&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "各种各样的，形形色色的；多变的；杂色的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）不同，（使）呈现差异；（根据情况而）变化，改变；改变，使……变化（vary 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He led a full and varied life.",
+      "zh": "他过着丰富多彩的生活。"
+    },
+    {
+      "en": "She leads a rich and varied life.",
+      "zh": "她过着丰富多彩的生活。"
+    },
+    {
+      "en": "This is a fabulous album. It's fresh, varied, fun.",
+      "zh": "这是个极好的专辑。它是新颖的、多样的、有趣的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "多变的；各式各样的；杂色的",
+      "words": [
+        "shot",
+        "polytropical"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "改变；使多样化（vary的过去式和过去分词形式）",
+      "words": [
+        "changed"
+      ]
+    }
+  ]
+}

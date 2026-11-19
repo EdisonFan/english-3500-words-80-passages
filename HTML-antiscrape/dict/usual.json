@@ -1,0 +1,46 @@
+{
+  "word": "usual",
+  "found": true,
+  "phonetic_uk": "ˈjuːʒuəl",
+  "phonetic_us": "ˈjuːʒuəl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=usual&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=usual&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "通常的，惯常的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "常事（the usual）；<非正式>常喝的饮料（尤指酒）（the usual）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He came home later than usual.",
+      "zh": "他回家比平时晚了些。"
+    },
+    {
+      "en": "You're bang on time, as usual.",
+      "zh": "你像往常一样，非常准时。"
+    },
+    {
+      "en": "The vintage was later than usual.",
+      "zh": "这次葡萄的收获季节比往常晚。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "通常的，惯例的；平常的",
+      "words": [
+        "traditional",
+        "conventional",
+        "common",
+        "ordinary",
+        "regulation"
+      ]
+    }
+  ]
+}

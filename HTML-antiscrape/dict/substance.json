@@ -1,0 +1,47 @@
+{
+  "word": "substance",
+  "found": true,
+  "phonetic_uk": "ˈsʌbstəns",
+  "phonetic_us": "ˈsʌbstəns",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=substance&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=substance&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "物质，材料；主旨，主要内容；重要性；真实性，可信性；毒品；财富，财产；实质，（实在的）东西；<哲> 实体；可靠，稳定；（哲）实体"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "substances"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Petrol is a volatile substance.",
+      "zh": "汽油是挥发性物质。"
+    },
+    {
+      "en": "Clay is a plastic substance.",
+      "zh": "黏土是可塑物质。"
+    },
+    {
+      "en": "There is some substance in what he says.",
+      "zh": "他的话是有一定根据的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[物]物质；实质；资产；主旨",
+      "words": [
+        "matter",
+        "asset",
+        "essence",
+        "truth",
+        "texture"
+      ]
+    }
+  ]
+}

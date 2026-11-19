@@ -1,0 +1,72 @@
+{
+  "word": "steal",
+  "found": true,
+  "phonetic_uk": "stiːl",
+  "phonetic_us": "stiːl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=steal&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=steal&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "偷窃，盗窃；剽窃，窃取（观点）；悄悄地移动；（在棒球比赛中）偷（垒）；（在篮球或冰球比赛中）断（球），截（球）；偷偷做；偷拿，私自拿；抢（镜头、戏等）；（体育运动中）意外赢得；骗走"
+    },
+    {
+      "pos": "n.",
+      "meaning": "极廉价的物品，低价；（尤指篮球比赛中的）断球；（棒球比赛中的）偷垒；<美>偷窃，行窃；剽窃"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "steals"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "steals"
+    },
+    {
+      "name": "现在分词",
+      "value": "stealing"
+    },
+    {
+      "name": "过去式",
+      "value": "stole"
+    },
+    {
+      "name": "过去分词",
+      "value": "stolen"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Hunger drove her to steal.",
+      "zh": "饥饿迫使她去偷窃。"
+    },
+    {
+      "en": "It's immoral to steal.",
+      "zh": "偷盗是不道德的。"
+    },
+    {
+      "en": "He tried to steal second base but was out.",
+      "zh": "他试图偷二垒但被判出局。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "[法]偷窃；剽窃；偷偷地做",
+      "words": [
+        "scrump",
+        "pick pocket"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[法]偷窃；便宜货；偷垒",
+      "words": [
+        "rip-off",
+        "cheapie"
+      ]
+    }
+  ]
+}

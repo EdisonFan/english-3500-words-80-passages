@@ -1,0 +1,42 @@
+{
+  "word": "exactly",
+  "found": true,
+  "phonetic_uk": "ɪɡˈzæktli",
+  "phonetic_us": "ɪɡˈzæktli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=exactly&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=exactly&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "精确地，确切地；（用于强调）恰好，完全；（要求得到更多信息）究竟，到底；<非正式>正是如此，一点不错"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Your answer is exactly right.",
+      "zh": "你的回答完全正确。"
+    },
+    {
+      "en": "That's exactly what I think.",
+      "zh": "我正是那么想的。"
+    },
+    {
+      "en": "What exactly do you mean?",
+      "zh": "你到底什么意思？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "恰好地；正是；精确地；正确地",
+      "words": [
+        "accurately",
+        "correctly",
+        "properly",
+        "precisely",
+        "right"
+      ]
+    }
+  ]
+}

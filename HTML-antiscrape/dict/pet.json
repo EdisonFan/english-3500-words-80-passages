@@ -1,0 +1,88 @@
+{
+  "word": "pet",
+  "found": true,
+  "phonetic_uk": "pet",
+  "phonetic_us": "pet",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pet&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pet&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "宠物；宠��，得宠的人；<英，非正式>宝贝，亲爱的；生气"
+    },
+    {
+      "pos": "v.",
+      "meaning": "抚摸；（男女间）亲吻，爱抚；宠爱；生气"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "很喜欢的，钟爱的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Pet）（俄）佩特，（柬）贝（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "pets"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "pets"
+    },
+    {
+      "name": "现在分词",
+      "value": "petting"
+    },
+    {
+      "name": "过去式",
+      "value": "petted"
+    },
+    {
+      "name": "过去分词",
+      "value": "petted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They had had their pet dog stuffed.",
+      "zh": "他们请人把他们的宠物狗制成了标本。"
+    },
+    {
+      "en": "I sell my surplus birds to a local pet shop.",
+      "zh": "我把我多余的鸟卖给一家当地的宠物店。"
+    },
+    {
+      "en": "The family pet was left in the trust of a neighbour.",
+      "zh": "这家的宠物委托邻居代管。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "宠物；生气；受宠爱的人",
+      "words": [
+        "vitality",
+        "animation"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "宠爱",
+      "words": [
+        "dote on",
+        "cosset"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "生气；爱抚",
+      "words": [
+        "take offense",
+        "take offence"
+      ]
+    }
+  ]
+}

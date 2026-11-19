@@ -1,0 +1,83 @@
+{
+  "word": "think",
+  "found": true,
+  "phonetic_uk": "θɪŋk",
+  "phonetic_us": "θɪŋk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=think&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=think&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "认为，以为；明白（用于问句表气愤、吃惊）；觉得；考虑，思考；想出，想象；料想，预料；想要，打算；想起，记得；琢磨，寻思；对……评价（很高）；为……着想；想来，想想看；所指的是；具有某种思维方式；只想，对……着迷；边想边说出声来，自言自语"
+    },
+    {
+      "pos": "n.",
+      "meaning": "想，思索，思考"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "思想的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "thinks"
+    },
+    {
+      "name": "现在分词",
+      "value": "thinking"
+    },
+    {
+      "name": "过去式",
+      "value": "thought"
+    },
+    {
+      "name": "过去分词",
+      "value": "thought"
+    }
+  ],
+  "examples": [
+    {
+      "en": "That's exactly what I think.",
+      "zh": "我正是那么想的。"
+    },
+    {
+      "en": "I think she fancies me.",
+      "zh": "我认为她爱我。"
+    },
+    {
+      "en": "Let's think positive.",
+      "zh": "咱们往好的方面想吧。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "想；认为；想起；想像；打算",
+      "words": [
+        "like",
+        "imagine",
+        "expect",
+        "count",
+        "guess"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "想；认为",
+      "words": [
+        "consider",
+        "ween"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "想；想法",
+      "words": [
+        "idea",
+        "idee"
+      ]
+    }
+  ]
+}

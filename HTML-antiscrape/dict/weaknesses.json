@@ -1,0 +1,38 @@
+{
+  "word": "weaknesses",
+  "found": true,
+  "phonetic_uk": "ˈwi:knəsɪz",
+  "phonetic_us": "ˈwiknəsɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=weaknesses&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=weaknesses&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "劣势，弱点；[审计]薄弱环节（weakness 的复数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "George Fodor points to other weaknesses in the campaign.",
+      "zh": "乔治·福多尔着重指出了这场活动的其他缺点。"
+    },
+    {
+      "en": "They have the usual quota of human weaknesses, no doubt.",
+      "zh": "他们毫无疑问也有人类通常的弱点。"
+    },
+    {
+      "en": "It's important to know your own strengths and weaknesses.",
+      "zh": "了解自己的优缺点很重要。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "劣势，弱点；薄弱环节（weakness的复数形式）",
+      "words": [
+        "disadvantages"
+      ]
+    }
+  ]
+}

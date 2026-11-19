@@ -1,0 +1,50 @@
+{
+  "word": "designer",
+  "found": true,
+  "phonetic_uk": "dɪˈzaɪnə(r)",
+  "phonetic_us": "dɪˈzaɪnər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=designer&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=designer&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "设计师，设计者；谋划者"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "由著名设计师设计的，标有设计师姓名的；时尚的，时髦的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Carolyne is a fashion designer.",
+      "zh": "卡罗琳是位时装设计师。"
+    },
+    {
+      "en": "The designer was given free rein.",
+      "zh": "设计者可以自由发挥。"
+    },
+    {
+      "en": "She's the fashion designer of the moment.",
+      "zh": "她是当前最红的时装设计师。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[建]设计师；谋划者",
+      "words": [
+        "stylist"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "由设计师专门设计的；享有盛名的；赶时髦的",
+      "words": [
+        "fashion-conscious",
+        "turned-on"
+      ]
+    }
+  ]
+}

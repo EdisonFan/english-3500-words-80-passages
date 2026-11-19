@@ -1,0 +1,64 @@
+{
+  "word": "professional",
+  "found": true,
+  "phonetic_uk": "prəˈfeʃən(ə)l",
+  "phonetic_us": "prəˈfeʃən(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=professional&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=professional&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "职业的，专业的；非常内行的，极为称职的；（人）职业性的，非业余的；由职业人员参加的；<非正式，贬>（人）坚持某种活动特征（或特点）的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "专业人员，专业人士；内行，专家；职业选手；（受雇于高尔夫或网球协会的）职业教练"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "professionals"
+    },
+    {
+      "name": "比较级",
+      "value": "more professional"
+    },
+    {
+      "name": "最高级",
+      "value": "most professional"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He decided to turn professional.",
+      "zh": "他决定转为职业人员。"
+    },
+    {
+      "en": "She became a professional mezzo-soprano.",
+      "zh": "她成为一名专业的女中音歌手。"
+    },
+    {
+      "en": "His professional career spanned 16 years.",
+      "zh": "他的职业生涯持续了16年。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "专业的；职业的；职业性的",
+      "words": [
+        "vocational",
+        "specialized",
+        "occupational"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[管理]专业人员；职业运动员",
+      "words": [
+        "career man"
+      ]
+    }
+  ]
+}

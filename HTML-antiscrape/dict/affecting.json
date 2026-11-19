@@ -1,0 +1,53 @@
+{
+  "word": "affecting",
+  "found": true,
+  "phonetic_uk": "əˈfektɪŋ",
+  "phonetic_us": "əˈfektɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=affecting&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=affecting&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "动人的，感人的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "影响；（疾病）侵袭，感染；使感动，打动；假装；炫耀，做作地使用（affect 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "A mysterious illness is affecting all the animals.",
+      "zh": "一种奇怪的疾病正在侵袭所有的动物。"
+    },
+    {
+      "en": "They'll make allowances for the fact it's affecting our performance.",
+      "zh": "他们会将影响我们表现的因素考虑进去的。"
+    },
+    {
+      "en": "The medicines you are currently taking could be affecting your balance.",
+      "zh": "你现在吃的药可能会影响你的平衡能力。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "动人的；感人的",
+      "words": [
+        "moving",
+        "impressive",
+        "melting",
+        "touching"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "影响（affect的ing形式）；感动",
+      "words": [
+        "influencing",
+        "working"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "word": "advise",
+  "found": true,
+  "phonetic_uk": "ədˈvaɪz",
+  "phonetic_us": "ədˈvaɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=advise&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=advise&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "通知，告知；劝告，建议"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "advises"
+    },
+    {
+      "name": "现在分词",
+      "value": "advising"
+    },
+    {
+      "name": "过去式",
+      "value": "advised"
+    },
+    {
+      "name": "过去分词",
+      "value": "advised"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I'd advise you not to tell him.",
+      "zh": "我劝你别告诉他。"
+    },
+    {
+      "en": "I'd advise extreme caution.",
+      "zh": "我建议要慎之又慎。"
+    },
+    {
+      "en": "I'd advise you against doing that.",
+      "zh": "我劝你别做那事。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "建议；劝告，忠告；通知；警告",
+      "words": [
+        "alarm",
+        "message"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "建议；与…商量",
+      "words": [
+        "agree to sb",
+        "make suggestions"
+      ]
+    }
+  ]
+}

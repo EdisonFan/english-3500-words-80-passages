@@ -1,0 +1,46 @@
+{
+  "word": "tried",
+  "found": true,
+  "phonetic_uk": "traɪd",
+  "phonetic_us": "traɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tried&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tried&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "经过验证的，可靠的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "试图，努力；试用，试做，试验；品尝（try 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He tried to analyse his feelings.",
+      "zh": "他试图分析自己的感情。"
+    },
+    {
+      "en": "Lee tried to hide his excitement.",
+      "zh": "李努力掩饰内心的激动。"
+    },
+    {
+      "en": "He tried to hide his nervousness.",
+      "zh": "他试图掩饰他的惶恐不安。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "可靠的；试验过的",
+      "words": [
+        "responsible",
+        "reliable",
+        "honest",
+        "safe",
+        "sure"
+      ]
+    }
+  ]
+}

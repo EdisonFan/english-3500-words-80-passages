@@ -1,0 +1,40 @@
+{
+  "word": "health",
+  "found": true,
+  "phonetic_uk": "helθ",
+  "phonetic_us": "helθ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=health&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=health&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "身体状况；健康；医疗，卫生；（组织或系统的）运行状况，运作状况；发达，兴旺"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Her health degenerated quickly.",
+      "zh": "她的健康状况迅速恶化。"
+    },
+    {
+      "en": "He's always enjoyed good health.",
+      "zh": "他一直都很健康。"
+    },
+    {
+      "en": "She was radiant with health.",
+      "zh": "她身体健康，容光焕发。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[医]健康；卫生；保健；兴旺",
+      "words": [
+        "fitness",
+        "hygiene",
+        "wellness"
+      ]
+    }
+  ]
+}

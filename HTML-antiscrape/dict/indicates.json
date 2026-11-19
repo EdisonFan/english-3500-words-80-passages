@@ -1,0 +1,40 @@
+{
+  "word": "indicates",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˈɪndɪkeɪts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=indicates&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=indicates&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "表明，标示；象征，暗示；间接提及，示意（indicate 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Research indicates that eating habits are changing fast.",
+      "zh": "研究显示，饮食习惯正迅速改变。"
+    },
+    {
+      "en": "Our vote today indicates a change in United States policy.",
+      "zh": "我们今天的投票表明了美国政策的变化。"
+    },
+    {
+      "en": "Her plump figure indicates that she is among North Korea's privileged elite.",
+      "zh": "她丰满的身材表明她是朝鲜享有特权的精英之一。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "表明（indicate的第三人称单数形式）；指示，显示",
+      "words": [
+        "indexes",
+        "presents",
+        "displays"
+      ]
+    }
+  ]
+}

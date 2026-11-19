@@ -1,0 +1,42 @@
+{
+  "word": "wherever",
+  "found": true,
+  "phonetic_uk": "weərˈevə(r)",
+  "phonetic_us": "werˈevər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=wherever&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=wherever&type=2",
+  "defs": [
+    {
+      "pos": "conj.",
+      "meaning": "无论在哪里，在任何地方；在任何情况下；不知在哪里，不知在什么地方"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "究竟在哪儿（用在疑问句句首，表示惊讶）；无论在哪里，无论去哪里；随便什么地方，无所谓"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Wherever can he have gone to?",
+      "zh": "他究竟会到哪儿去了呢？"
+    },
+    {
+      "en": "We have sworn to fight cruelty wherever we find it.",
+      "zh": "我们已郑重许诺，无论在哪儿发现暴行我们都要与其斗争。"
+    },
+    {
+      "en": "Wherever he goes, a carload of soldiers goes with him.",
+      "zh": "他无论到哪里都有一满车士兵跟着。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "conj.",
+      "meaning": "无论在哪里；无论什么情况下",
+      "words": [
+        "ubi"
+      ]
+    }
+  ]
+}

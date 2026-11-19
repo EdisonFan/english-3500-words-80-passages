@@ -1,0 +1,48 @@
+{
+  "word": "winner",
+  "found": true,
+  "phonetic_uk": "ˈwɪnə(r)",
+  "phonetic_us": "ˈwɪnər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=winner&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=winner&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "获胜的人（或队、动物等），优胜者；（体育比赛中）致胜的一分，制胜的进球；<非正式>可能成功的人（或事物），极好的人（或事物），成功的人（或事物）；获益者，赢家；（桥牌）能赢的牌"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Winner）（美、德、英）温纳（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "winners"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The winner scored 10 pts.",
+      "zh": "获胜者得了10分。"
+    },
+    {
+      "en": "The winner was timed at 20.4 seconds.",
+      "zh": "获胜者用的时间为20.4秒。"
+    },
+    {
+      "en": "The winner gets first pick of the prizes.",
+      "zh": "获胜者可先挑奖品。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "胜利者",
+      "words": [
+        "victor",
+        "conqueror"
+      ]
+    }
+  ]
+}

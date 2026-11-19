@@ -1,0 +1,40 @@
+{
+  "word": "happiness",
+  "found": true,
+  "phonetic_uk": "ˈhæpinəs",
+  "phonetic_us": "ˈhæpinəs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=happiness&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=happiness&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "快乐，幸福"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Money can't buy you happiness.",
+      "zh": "金钱不能为你买到幸福。"
+    },
+    {
+      "en": "He found happiness in later life.",
+      "zh": "他在晚年找到了幸福。"
+    },
+    {
+      "en": "She radiates happiness and health.",
+      "zh": "她浑身洋溢着快乐与健康。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "幸福",
+      "words": [
+        "welfare",
+        "xingfu",
+        "eudemonia"
+      ]
+    }
+  ]
+}

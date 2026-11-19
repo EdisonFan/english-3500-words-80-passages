@@ -1,0 +1,68 @@
+{
+  "word": "canal",
+  "found": true,
+  "phonetic_uk": "kəˈnæl",
+  "phonetic_us": "kəˈnæl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=canal&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=canal&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "运河，灌溉渠，水道；（体内的）管，道"
+    },
+    {
+      "pos": "v.",
+      "meaning": "在……开凿运河"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Canal）（英、法、西、意、葡）卡纳尔，（土）贾纳尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "canals"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "canals"
+    },
+    {
+      "name": "现在分词",
+      "value": "canalling或canaling"
+    },
+    {
+      "name": "过去式",
+      "value": "canalled或canaled"
+    },
+    {
+      "name": "过去分词",
+      "value": "canalled或canaled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The canal is open to shipping.",
+      "zh": "运河可以通航了。"
+    },
+    {
+      "en": "They took soundings along the canal.",
+      "zh": "他们沿运河测量了水深。"
+    },
+    {
+      "en": "The canal was built between 1793 and 1797.",
+      "zh": "该运河建于1793至1797年之间。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[水运]运河；[地理]水道；[建]管道；灌溉水渠",
+      "words": [
+        "pipeline",
+        "klong"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "word": "platform",
+  "found": true,
+  "phonetic_uk": "ˈplætfɔːm",
+  "phonetic_us": "ˈplætfɔːrm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=platform&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=platform&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "平台；讲台，舞台；讲台上的人（the platform）；（火车站的）月台；<英>（公共汽车上供乘客上下车的）踏脚台；发言机会，论坛；契机；（政党的）纲领；厚底鞋；计算机平台；（海上）钻井平台；（供人上下小船的）水上平台；（火箭或导弹的）卫星发射平台"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "platforms"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The platform began to produce oil in 1994.",
+      "zh": "1994年，这个钻井平台开始产油。"
+    },
+    {
+      "en": "On the platform, the guard blew his whistle.",
+      "zh": "站台上，警卫吹响了他的哨子。"
+    },
+    {
+      "en": "The Edinburgh train is waiting at platform 4.",
+      "zh": "去爱丁堡的火车在4号站台等候。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计][矿业]平台；月台，[铁路]站台；坛；[家具]讲台",
+      "words": [
+        "flatform",
+        "hathpace"
+      ]
+    }
+  ]
+}

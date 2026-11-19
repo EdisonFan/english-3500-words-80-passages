@@ -1,0 +1,64 @@
+{
+  "word": "compensate",
+  "found": true,
+  "phonetic_uk": "ˈkɒmpenseɪt",
+  "phonetic_us": "ˈkɑːmpenseɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=compensate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=compensate&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "赔偿，偿付；弥补，补偿；抵消；酬报（某人）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "compensates"
+    },
+    {
+      "name": "现在分词",
+      "value": "compensating"
+    },
+    {
+      "name": "过去式",
+      "value": "compensated"
+    },
+    {
+      "name": "过去分词",
+      "value": "compensated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Nothing can compensate for the loss of a loved one.",
+      "zh": "失去心爱的人是无法补偿的。"
+    },
+    {
+      "en": "The damages are designed to compensate victims for their direct losses.",
+      "zh": "该赔偿金是用来补偿受害人的直接损失的。"
+    },
+    {
+      "en": "A surge in domestic sales helped compensate for a fall-off in export sales.",
+      "zh": "国内销售的增长帮助补偿了出口销售的减少。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "补偿，赔偿；抵消",
+      "words": [
+        "make good",
+        "to make up for"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "补偿，赔偿；付报酬",
+      "words": [
+        "make good",
+        "to make up for"
+      ]
+    }
+  ]
+}

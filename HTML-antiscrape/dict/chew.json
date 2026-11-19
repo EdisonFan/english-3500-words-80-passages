@@ -1,0 +1,84 @@
+{
+  "word": "chew",
+  "found": true,
+  "phonetic_uk": "tʃuː",
+  "phonetic_us": "tʃuː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=chew&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=chew&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "咀嚼，嚼碎；（为了品尝或因紧张而）不停地嚼，咬；（人或动物）咬，啃"
+    },
+    {
+      "pos": "n.",
+      "meaning": "咀嚼；口香糖；供嚼用的烟草；咀嚼物"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Chew）（美、新、马、英、加）丘（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "chews"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "chews"
+    },
+    {
+      "name": "现在分词",
+      "value": "chewing"
+    },
+    {
+      "name": "过去式",
+      "value": "chewed"
+    },
+    {
+      "name": "过去分词",
+      "value": "chewed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I do not chew gum in public.",
+      "zh": "我不在公共场合嚼口香糖。"
+    },
+    {
+      "en": "After the operation you may find it difficult to chew and swallow.",
+      "zh": "手术后你咀嚼和吞咽都会感到困难。"
+    },
+    {
+      "en": "Don't chew, break, or crush the tablet.",
+      "zh": "不要咀嚼、咬破或压碎药片。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "咀嚼；咀嚼物",
+      "words": [
+        "mastication",
+        "quid"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "嚼碎，咀嚼",
+      "words": [
+        "masticate"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "细想，深思",
+      "words": [
+        "consider",
+        "pore",
+        "reflect"
+      ]
+    }
+  ]
+}

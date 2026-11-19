@@ -1,0 +1,60 @@
+{
+  "word": "above",
+  "found": true,
+  "phonetic_uk": "əˈbʌv",
+  "phonetic_us": "əˈbʌv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=above&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=above&type=2",
+  "defs": [
+    {
+      "pos": "prep.",
+      "meaning": "（数量或度量）在……以上，超过；在（或向）……上面；（级别或地位上）高于； （重要性、质量）超过，胜过；（因善良或诚实正直而）不至于，不屑于（做某事）；（声音）比……更响亮，盖过；不受……影响，免于；（重要性、质量）超过，胜过"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "（级别或地位上）高于；在（或向）上面，在（或向）较高处；高于，超出（特定数量、比率或标准）；上文，前文"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "前文述及的，上述的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "上文提及之事，前文所提之事（the above）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Inflation is above 6%.",
+      "zh": "通货膨胀超过6%。"
+    },
+    {
+      "en": "The cliffs towered above them.",
+      "zh": "悬崖峭壁高耸于他们上方。"
+    },
+    {
+      "en": "The building soared above us.",
+      "zh": "在我们眼前，那座大楼巍然高耸。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "prep.",
+      "meaning": "超过；在……上面；在……之上",
+      "words": [
+        "beyond",
+        "without",
+        "than"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "在上面；在上文",
+      "words": [
+        "hereinabove",
+        "thereinbefore"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "word": "rainbow",
+  "found": true,
+  "phonetic_uk": "ˈreɪnbəʊ",
+  "phonetic_us": "ˈreɪnboʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=rainbow&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=rainbow&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "彩虹；众多花色品种，五颜六色的组合，五花八门的聚合；五彩缤纷的展示；多种颜色，五彩缤纷"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "不同种族（或文化等）人群的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Rainbow）（英）雷恩博（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "rainbows"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The second rainbow will be bigger than the first, and directly above it.",
+      "zh": "第二道彩虹将比第一道更大，并位于第一道的正上方。"
+    },
+    {
+      "en": "New Zealand's quarrel with France over the Rainbow Warrior incident was formally ended.",
+      "zh": "新西兰和法国之间关于“彩虹勇士号”事件的争端已经正式了结。"
+    },
+    {
+      "en": "Finally the rainbow disappeared.",
+      "zh": "最后，彩虹消失了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[气象]彩虹；五彩缤纷的排列；幻想",
+      "words": [
+        "fancy",
+        "fantasy"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "五彩缤纷的；彩虹状的",
+      "words": [
+        "multicolour",
+        "pavonine"
+      ]
+    }
+  ]
+}

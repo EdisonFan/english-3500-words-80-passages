@@ -1,0 +1,64 @@
+{
+  "word": "perfume",
+  "found": true,
+  "phonetic_uk": "ˈpɜːfjuːm",
+  "phonetic_us": "pərˈfjuːm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=perfume&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=perfume&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "香水；芳香，香味，馨香；香精，香料"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使香气弥漫；在……上撒香水，抹香水"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "perfumes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "perfumes"
+    },
+    {
+      "name": "现在分词",
+      "value": "perfuming"
+    },
+    {
+      "name": "过去式",
+      "value": "perfumed"
+    },
+    {
+      "name": "过去分词",
+      "value": "perfumed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She drenched herself in perfume.",
+      "zh": "她浑身洒满香水。"
+    },
+    {
+      "en": "What does the perfume smell like?",
+      "zh": "这种香水闻起来什么味道？"
+    },
+    {
+      "en": "He caught a whiff of her perfume.",
+      "zh": "他闻到一股她身上的香水味。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "香水；香味",
+      "words": [
+        "fragrance",
+        "parfum"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "political",
+  "found": true,
+  "phonetic_uk": "pəˈlɪtɪk(ə)l",
+  "phonetic_us": "pəˈlɪtɪk(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=political&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=political&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "政治（上）的，政府的；政党的，党派的；对政治感兴趣的，参与政治的；反政府的；（组织内部人际间）牵涉权力关系的，争权夺利的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "What is his political creed?",
+      "zh": "他的政治信仰是什么？"
+    },
+    {
+      "en": "He claimed political asylum.",
+      "zh": "他要求政治避难。"
+    },
+    {
+      "en": "She enjoyed political life.",
+      "zh": "她喜爱政治生活。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "政治的；党派的",
+      "words": [
+        "governmental",
+        "clannish"
+      ]
+    }
+  ]
+}

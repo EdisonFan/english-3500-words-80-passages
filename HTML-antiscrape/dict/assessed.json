@@ -1,0 +1,30 @@
+{
+  "word": "assessed",
+  "found": true,
+  "phonetic_uk": "əˈsest",
+  "phonetic_us": "əˈsest",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=assessed&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=assessed&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "对……进行评估（assess 过去时形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Those things that can be assessed by external tests are being given unduly high status.",
+      "zh": "那些能通过外部测试进行评估的东西受到过高重视。"
+    },
+    {
+      "en": "The total amount of damage to Notre Dame Cathedral can be assessed only when its structure is considered safe.",
+      "zh": "只有在巴黎圣母院结构安全的情况下才能评估其损失总额。"
+    },
+    {
+      "en": "We then assessed their beliefs about other aspects of learning and looked to see what happened to their grades.",
+      "zh": "然后，我们评估了他们对学习的其他方面的看法，并观察了他们的成绩。"
+    }
+  ],
+  "synonyms": []
+}

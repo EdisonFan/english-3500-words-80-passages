@@ -1,0 +1,46 @@
+{
+  "word": "stuck",
+  "found": true,
+  "phonetic_uk": "stʌk",
+  "phonetic_us": "stʌk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=stuck&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=stuck&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "卡住的，动不了的；被困住，陷入困境；难以继续的，被难倒的；被迫保留，不得不应付；停滞不前的，无所变化的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "粘，贴；把……放（某处）；刺，戳，插（stick 的过去式和过去分词形式）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Stuck）斯塔克（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "This drawer keeps getting stuck.",
+      "zh": "这个抽屉动不动就卡住。"
+    },
+    {
+      "en": "I can't get out—I'm stuck.",
+      "zh": "我出不去—我被卡住了。"
+    },
+    {
+      "en": "Help, I'm stuck!",
+      "zh": "救命，我被卡住了！"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "刺（stick的过去式）",
+      "words": [
+        "stung"
+      ]
+    }
+  ]
+}

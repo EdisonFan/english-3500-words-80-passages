@@ -1,0 +1,66 @@
+{
+  "word": "list",
+  "found": true,
+  "phonetic_uk": "lɪst",
+  "phonetic_us": "lɪst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=list&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=list&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "列表，清单；（船）倾侧；围栏；（织物的）镶边；<旧>渴望，喜好；（尤指按重要程度排列的）事物清单；赛场，战场"
+    },
+    {
+      "pos": "v.",
+      "meaning": "列清单，拟订清单；把……列入名单；（使）（公司）上市；标价；（船）倾斜；<旧>征召（士兵）；<旧>想要，喜好"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "lists"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "lists"
+    },
+    {
+      "name": "现在分词",
+      "value": "listing"
+    },
+    {
+      "name": "过去式",
+      "value": "listed"
+    },
+    {
+      "name": "过去分词",
+      "value": "listed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Double-space the entire list.",
+      "zh": "隔行写整个清单。"
+    },
+    {
+      "en": "I am already on your mailing list.",
+      "zh": "我已经列在你的邮寄名单上了。"
+    },
+    {
+      "en": "Princess Anne topped the guest list.",
+      "zh": "安妮公主的名字位于来宾名单之首。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计]列表；清单；[图情]目录",
+      "words": [
+        "statement",
+        "directory",
+        "bill",
+        "content"
+      ]
+    }
+  ]
+}

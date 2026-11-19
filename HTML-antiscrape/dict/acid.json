@@ -1,0 +1,63 @@
+{
+  "word": "acid",
+  "found": true,
+  "phonetic_uk": "ˈæsɪd",
+  "phonetic_us": "ˈæsɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=acid&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=acid&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "酸；<非正式>迷幻药；尖刻（或尖酸）的言语（或语调）；质子供体，电子对受体"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "酸的；酸性的；尖酸的，刻薄的；（颜色）刺目的，鲜亮的；（岩石，尤指熔岩）含相当量硅石的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "acids"
+    },
+    {
+      "name": "比较级",
+      "value": "more acid"
+    },
+    {
+      "name": "最高级",
+      "value": "most acid"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Rye is tolerant of poor, acid soils.",
+      "zh": "黑麦耐贫瘠的酸性土壤。"
+    },
+    {
+      "en": "Acid corrodes metal.",
+      "zh": "酸腐蚀金属。"
+    },
+    {
+      "en": "Carbolic acid is usually used for cleaning.",
+      "zh": "石炭酸常用于清洁。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[化学]酸；<俚>迷幻药",
+      "words": [
+        "acerbity"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "[食品]酸的；讽刺的；刻薄的",
+      "words": [
+        "sour",
+        "vinegary"
+      ]
+    }
+  ]
+}

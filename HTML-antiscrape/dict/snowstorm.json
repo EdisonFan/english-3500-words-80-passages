@@ -1,0 +1,44 @@
+{
+  "word": "snowstorm",
+  "found": true,
+  "phonetic_uk": "ˈsnəʊstɔːm",
+  "phonetic_us": "ˈsnoʊstɔːrm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=snowstorm&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=snowstorm&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "暴风雪；一阵，大量的事物"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "snowstorms"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Unfortunately they ran into a snowstorm along the way.",
+      "zh": "他们不幸在途中遇上了暴风雪。"
+    },
+    {
+      "en": "A snowstorm hit the West today, bringing with it frigid temperatures.",
+      "zh": "一场暴风雪今天袭击西部地区，带来了严寒低温。"
+    },
+    {
+      "en": "\"That was a dreadful snowstorm\"; and he sighed again, and was silent.",
+      "zh": "“真是一场可怕的暴风雪。”他又叹了口气，陷入沉默。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "暴风雪；[气象]雪暴",
+      "words": [
+        "blizzard",
+        "stormy weather"
+      ]
+    }
+  ]
+}

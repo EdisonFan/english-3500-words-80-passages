@@ -1,0 +1,47 @@
+{
+  "word": "attitude",
+  "found": true,
+  "phonetic_uk": "ˈætɪtjuːd",
+  "phonetic_us": "ˈætɪtuːd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=attitude&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=attitude&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "态度，看法；姿势；个人风格；<非正式>敌视的态度；（飞机或宇宙飞船飞行时的）姿态；（芭蕾）鹤立式"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "attitudes"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Their attitude irritates me.",
+      "zh": "他们的态度激怒了我。"
+    },
+    {
+      "en": "Their attitude is so very English.",
+      "zh": "他们的态度是十足的英格兰人的态度。"
+    },
+    {
+      "en": "Where does her attitude come from?",
+      "zh": "她的态度因何而起？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "态度；看法；意见；姿势",
+      "words": [
+        "opinion",
+        "viewpoint",
+        "behavior",
+        "comment",
+        "mind"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "word": "renewed",
+  "found": true,
+  "phonetic_uk": "rɪˈnjuːd",
+  "phonetic_us": "rɪˈnuːd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=renewed&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=renewed&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（中断之后）重新开始；恢复；重申；（使）获得新生；给……展期；更换（renew 的过去式和过去分词）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "再次发生的，再次兴起的；体力恢复的，重新振作的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Existing timbers are replaced or renewed.",
+      "zh": "现有的木材在被替换或更新。"
+    },
+    {
+      "en": "He has approached his job with renewed vigour.",
+      "zh": "他已带着重新焕发的活力投入了工作。"
+    },
+    {
+      "en": "Schools are riding a wave of renewed public interest.",
+      "zh": "各校重新受益于公众的关注。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "更新的；复兴的；重建的",
+      "words": [
+        "new",
+        "updated",
+        "newer"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "更新；恢复（renew的过去分词）",
+      "words": [
+        "recovered",
+        "retrieved"
+      ]
+    }
+  ]
+}

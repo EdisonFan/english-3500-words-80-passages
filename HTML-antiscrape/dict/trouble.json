@@ -1,0 +1,82 @@
+{
+  "word": "trouble",
+  "found": true,
+  "phonetic_uk": "ˈtrʌb(ə)l",
+  "phonetic_us": "ˈtrʌb(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=trouble&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=trouble&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "困难，难题，苦恼；险境，困境；费事，不便；问题，麻烦，缺陷；（机器、车辆或系统的）故障，毛病；动荡，骚乱；疾病，疼痛；需劳神费力的人（或动物）；内战，动乱时期（the Troubles）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使忧虑，苦恼；费神，费力；劳驾，麻烦；给……造成麻烦（困难）；折磨，使疼痛"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "troubles"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "troubles"
+    },
+    {
+      "name": "现在分词",
+      "value": "troubling"
+    },
+    {
+      "name": "过去式",
+      "value": "troubled"
+    },
+    {
+      "name": "过去分词",
+      "value": "troubled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Are you causing trouble again?",
+      "zh": "你又在惹麻烦吗？"
+    },
+    {
+      "en": "I had trouble parking.",
+      "zh": "我停车有困难。"
+    },
+    {
+      "en": "Such comments are just inviting trouble.",
+      "zh": "这种评论简直是在自找麻烦。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "麻烦；烦恼；故障；动乱",
+      "words": [
+        "worry",
+        "fault",
+        "headache"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "麻烦；使烦恼；折磨",
+      "words": [
+        "harry",
+        "worry",
+        "tear"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "费心，烦恼",
+      "words": [
+        "worry",
+        "bother about"
+      ]
+    }
+  ]
+}

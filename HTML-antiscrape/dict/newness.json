@@ -1,0 +1,39 @@
+{
+  "word": "newness",
+  "found": true,
+  "phonetic_uk": "ˈnjuːnəs",
+  "phonetic_us": "ˈnuːnəs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=newness&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=newness&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "新奇；崭新"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "A child's day is filled with fascination, newness and wonder.",
+      "zh": "孩子的一天充满了魅力、新奇和惊奇。"
+    },
+    {
+      "en": "This newness just left me wanting more.",
+      "zh": "这种新鲜感让我想要更多。"
+    },
+    {
+      "en": "He simply doesn't discriminate when it comes to the newness of tools.",
+      "zh": "当谈到工具的新奇性时，他就是不加区别。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "新奇；崭新",
+      "words": [
+        "novelty",
+        "originality"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "word": "peony",
+  "found": true,
+  "phonetic_uk": "ˈpiːəni",
+  "phonetic_us": "ˈpiːəni",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=peony&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=peony&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "牡丹，芍药"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "peonies"
+    }
+  ],
+  "examples": [
+    {
+      "en": "In the center of the shell are tiny round green stars that burst as a teal peony at the firework's nucleus.",
+      "zh": "位于壳中部的是小型球形绿色星体，绽放时，在烟花核心形成凫蓝色牡丹图案。"
+    },
+    {
+      "en": "\"I can give my customers a promise: if you eat at Peony Restaurant, I guarantee that everything you get will be the safest and the best,\" Yang said.",
+      "zh": "杨说：“我可以向我的顾客承诺：如果你们在牡丹餐厅吃饭，我保证你们所吃到的一切都是最安全、最好的。”"
+    },
+    {
+      "en": "I'd like to thank you for your invitation to Heze Peony Garden.",
+      "zh": "感谢您邀请我到菏泽牡丹园参观。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "牡丹；芍药",
+      "words": [
+        "paeony",
+        "moutan"
+      ]
+    }
+  ]
+}

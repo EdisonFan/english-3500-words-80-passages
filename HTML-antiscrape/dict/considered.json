@@ -1,0 +1,34 @@
+{
+  "word": "considered",
+  "found": true,
+  "phonetic_uk": "kənˈsɪdəd",
+  "phonetic_us": "kənˈsɪdərd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=considered&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=considered&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "深思熟虑的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "考虑，斟酌；认为，视为；体贴，顾及（consider 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She considered her options.",
+      "zh": "她仔细考虑了自己的各种选择。"
+    },
+    {
+      "en": "She had often considered moving to Seattle.",
+      "zh": "她那时常常考虑搬到西雅图去。"
+    },
+    {
+      "en": "Thirteen is often considered an unlucky number.",
+      "zh": "十三常被认为是不吉利的数字。"
+    }
+  ],
+  "synonyms": []
+}

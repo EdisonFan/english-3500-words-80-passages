@@ -1,0 +1,64 @@
+{
+  "word": "soften",
+  "found": true,
+  "phonetic_uk": "ˈsɒfn",
+  "phonetic_us": "ˈsɔːfn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=soften&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=soften&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（使）变软，软化；（使）态度缓和，变宽厚；减轻，削弱；（使）（表情或声音）变轻柔；（使）柔和，和缓；（市场、货币或商品）贬值；软化（水），从（水）中除去无机盐"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "softens"
+    },
+    {
+      "name": "现在分词",
+      "value": "softening"
+    },
+    {
+      "name": "过去式",
+      "value": "softened"
+    },
+    {
+      "name": "过去分词",
+      "value": "softened"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Airbags are designed to soften the impact of a car crash.",
+      "zh": "气囊用来减轻汽车碰撞的冲击力。"
+    },
+    {
+      "en": "There were also pledges to soften the impact of the subsidy cuts on the poorer regions.",
+      "zh": "也有保证要减轻消减给较贫困地区补贴所造成的冲击。"
+    },
+    {
+      "en": "Fry the onions until they soften.",
+      "zh": "把洋葱炒软。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "使温和；使缓和；使变柔软",
+      "words": [
+        "comfort",
+        "gentle"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "减轻；变柔和；变柔软",
+      "words": [
+        "tender",
+        "to alleviate"
+      ]
+    }
+  ]
+}

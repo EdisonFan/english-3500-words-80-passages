@@ -1,0 +1,35 @@
+{
+  "word": "sketchbook",
+  "found": true,
+  "phonetic_uk": "ˈsketʃbʊk",
+  "phonetic_us": "ˈsketʃbʊk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sketchbook&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sketchbook&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "小品集；写生簿；随笔集"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "sketchbooks"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Garrison reached into the bag and found a sketchbook.",
+      "zh": "加里森把手伸进包里，找到了一本速写本。"
+    },
+    {
+      "en": "We're going to draw an apple in your sketchbook.",
+      "zh": "我们要在速写本上画一个苹果。"
+    },
+    {
+      "en": "The stage is your workspace. It can be a studio, a desk, or a sketchbook.",
+      "zh": "舞台就是你工作的场所，可以是工作室、书桌或写生簿。"
+    }
+  ],
+  "synonyms": []
+}

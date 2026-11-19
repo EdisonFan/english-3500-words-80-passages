@@ -1,0 +1,60 @@
+{
+  "word": "coming",
+  "found": true,
+  "phonetic_uk": "ˈkʌmɪŋ",
+  "phonetic_us": "ˈkʌmɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=coming&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=coming&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "即将发生的，下一个的；有希望成功的，有前途的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "到来，来临"
+    },
+    {
+      "pos": "v.",
+      "meaning": "来；到达；延伸到（come的现在分词形式）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "comings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You're coming? I'm so pleased.",
+      "zh": "你要来呀？我太高兴了。"
+    },
+    {
+      "en": "You're both coming? Splendid!",
+      "zh": "你们俩都要来？太好了！"
+    },
+    {
+      "en": "They're obviously not coming.",
+      "zh": "他们显然不会来了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "即将到来的；接着的；前途有望的",
+      "words": [
+        "following",
+        "oncoming"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "来到；到达",
+      "words": [
+        "arrival",
+        "arrived at"
+      ]
+    }
+  ]
+}

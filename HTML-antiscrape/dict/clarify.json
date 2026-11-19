@@ -1,0 +1,56 @@
+{
+  "word": "clarify",
+  "found": true,
+  "phonetic_uk": "ˈklærəfaɪ",
+  "phonetic_us": "ˈklærəfaɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=clarify&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=clarify&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "澄清，阐明；（通过加热）使净化，使纯净"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "clarifies"
+    },
+    {
+      "name": "现在分词",
+      "value": "clarifying"
+    },
+    {
+      "name": "过去式",
+      "value": "clarified"
+    },
+    {
+      "name": "过去分词",
+      "value": "clarified"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Thank you for writing and allowing me to clarify the present position.",
+      "zh": "谢谢你来信并允许我澄清目前的状况。"
+    },
+    {
+      "en": "I hope you could clarify a few things for me.",
+      "zh": "我希望你能帮我澄清几件事。"
+    },
+    {
+      "en": "Mr. Wang wondered about her response, and just to clarify, he asked her another question.",
+      "zh": "王先生想知道她的回答，只是想澄清一下，他又问了她一个问题。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "澄清；阐明",
+      "words": [
+        "illustrate",
+        "elucidate"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "word": "matters",
+  "found": true,
+  "phonetic_uk": "ˈmætəz",
+  "phonetic_us": "ˈmætərz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=matters&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=matters&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "事项；事件；事态；情事（matter 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "有重大影响；事关紧要（matter 的第三人称单数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Matters）马特斯（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Let's get on to more important matters.",
+      "zh": "咱们谈些更重要的事吧。"
+    },
+    {
+      "en": "Business matters drew him to Louisville.",
+      "zh": "生意上的事情吸引他去路易斯维尔。"
+    },
+    {
+      "en": "They offer free counselling on legal matters.",
+      "zh": "他们提供有关法律事务的免费咨询。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "事项；事件；事态；情事（matter的复数）",
+      "words": [
+        "events",
+        "happenings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "word": "again",
+  "found": true,
+  "phonetic_uk": "əˈɡen",
+  "phonetic_us": "əˈɡen",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=again&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=again&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "再一次；复原；<非正式>请再说一遍；不过，然而（then again）；增加，多"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Again）（英、保）阿盖恩（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She smiled again, prettily.",
+      "zh": "她又笑了，很美。"
+    },
+    {
+      "en": "The computer's down again.",
+      "zh": "那台电脑又死机了。"
+    },
+    {
+      "en": "She's late again—typical!",
+      "zh": "她又迟到了，一贯如此！"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "又，此外；再一次",
+      "words": [
+        "moreover",
+        "besides",
+        "additionally",
+        "then",
+        "both"
+      ]
+    }
+  ]
+}

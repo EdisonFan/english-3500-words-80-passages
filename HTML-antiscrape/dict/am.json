@@ -1,0 +1,55 @@
+{
+  "word": "am",
+  "found": true,
+  "phonetic_uk": "æm; əm",
+  "phonetic_us": "æm; əm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=am&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=am&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "是（be 的第一人称单数现在时）"
+    },
+    {
+      "pos": "abbr.",
+      "meaning": "上午（同 a.m.）"
+    },
+    {
+      "pos": "abbr.",
+      "meaning": "（AM）调幅（Amplitude Modulation）；威尔士国民议会（assembly member）"
+    },
+    {
+      "pos": "abbr.",
+      "meaning": "（Am.）<书面>美国人（American）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（AM）（中、英）安（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I am a seeker after truth.",
+      "zh": "我是一名真理的追求者。"
+    },
+    {
+      "en": "I'm not boring you, am I?",
+      "zh": "我没有让你厌烦吧，是不是？"
+    },
+    {
+      "en": "I am studying Chinese.",
+      "zh": "我正在学中文。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "是",
+      "words": [
+        "are",
+        "art"
+      ]
+    }
+  ]
+}

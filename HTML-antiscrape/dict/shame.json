@@ -1,0 +1,79 @@
+{
+  "word": "shame",
+  "found": true,
+  "phonetic_uk": "ʃeɪm",
+  "phonetic_us": "ʃeɪm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=shame&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=shame&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "羞耻，羞愧；羞耻心，羞耻感；令人惋惜的事，让人遗憾的事；耻辱，丢脸；带来耻辱的人（或行为、局面）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使感到羞耻（或羞愧）；使蒙羞，使丢脸；使黯然失色，使相形见绌"
+    },
+    {
+      "pos": "int.",
+      "meaning": "<南非>（表示赞叹或喜爱）真可惜，好极了；（用于表示不赞同演讲者所说的话）可耻"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Shame）（科特）沙梅（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "shames"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "shames"
+    },
+    {
+      "name": "现在分词",
+      "value": "shaming"
+    },
+    {
+      "name": "过去式",
+      "value": "shamed"
+    },
+    {
+      "name": "过去分词",
+      "value": "shamed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She bowed her head in shame.",
+      "zh": "她羞愧地低下了头。"
+    },
+    {
+      "en": "His face burned with shame.",
+      "zh": "他的脸因羞愧而发烫。"
+    },
+    {
+      "en": "She hung her head in shame.",
+      "zh": "她羞愧得垂下了头。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "羞耻，羞愧；憾事，带来耻辱的人",
+      "words": [
+        "abashment"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使丢脸，使羞愧",
+      "words": [
+        "discountenance",
+        "abash"
+      ]
+    }
+  ]
+}

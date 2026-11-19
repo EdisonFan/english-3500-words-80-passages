@@ -1,0 +1,44 @@
+{
+  "word": "visitor",
+  "found": true,
+  "phonetic_uk": "ˈvɪzɪtə(r)",
+  "phonetic_us": "ˈvɪzɪtər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=visitor&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=visitor&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "访问者，参观者；（网站的）浏览者；客队队员（visitors）；候鸟；<英>（大学或其他学术机构的）督察员"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "visitors"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I wasn't expecting a visitor.",
+      "zh": "我没有预期会有访客。"
+    },
+    {
+      "en": "\"You must be Emma,\" said the visitor.",
+      "zh": "“你一定是埃玛,”来访者说道。"
+    },
+    {
+      "en": "Reception just rang through to say my visitor has arrived.",
+      "zh": "服务台刚刚打电话来说我的客人到了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "访问者，参观者；视察者；候鸟",
+      "words": [
+        "transient",
+        "fetcher"
+      ]
+    }
+  ]
+}

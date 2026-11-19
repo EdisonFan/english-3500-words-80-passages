@@ -1,0 +1,68 @@
+{
+  "word": "panel",
+  "found": true,
+  "phonetic_uk": "ˈpæn(ə)l",
+  "phonetic_us": "ˈpæn(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=panel&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=panel&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "专家咨询组，专题讨论小组；（门等的）镶板，嵌板；控制板，仪表盘；（车身的）金属板；（衣服上的）镶条，饰片；画板；<美>陪审团；<英>国民保健制度（原国民健康保险）医师名单；<苏格兰，法律>被告"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用（木板、金属板等）覆盖，镶"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Panel）帕内尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "panels"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "panels"
+    },
+    {
+      "name": "现在分词",
+      "value": "panelling或paneling"
+    },
+    {
+      "name": "过去式",
+      "value": "panelled或paneled"
+    },
+    {
+      "name": "过去分词",
+      "value": "panelled或paneled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He assembled a panel of scholars to advise him.",
+      "zh": "他集结了一个学者小组为他出谋划策。"
+    },
+    {
+      "en": "The last question foxed even our panel of experts.",
+      "zh": "最后这个问题甚至把我们的专家小组都难倒了。"
+    },
+    {
+      "en": "Frances decided to conceal the machine behind a hinged panel.",
+      "zh": "弗朗西丝决定把那台机器藏到一块可开合的镶板后面。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "仪表板；[建]嵌板；座谈小组，全体陪审员",
+      "words": [
+        "fascia board",
+        "instrument board"
+      ]
+    }
+  ]
+}

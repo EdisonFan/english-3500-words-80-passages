@@ -1,0 +1,71 @@
+{
+  "word": "essential",
+  "found": true,
+  "phonetic_uk": "ɪˈsenʃ(ə)l",
+  "phonetic_us": "ɪˈsenʃ(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=essential&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=essential&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "必不可少的，非常重要的；基本的，精髓的；（氨基酸、脂肪酸）必需的；（疾病）自发的，原发的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "必不可少的东西，必需品；要素，本质；（某学科的）基础，基本知识"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "essentials"
+    },
+    {
+      "name": "比较级",
+      "value": "more essential"
+    },
+    {
+      "name": "最高级",
+      "value": "most essential"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Money is not essential to happiness.",
+      "zh": "金钱对于幸福并非必不可少。"
+    },
+    {
+      "en": "Experience is essential for this job.",
+      "zh": "对于这个工作，经验是非常重要的。"
+    },
+    {
+      "en": "Let's just recapitulate the essential points.",
+      "zh": "让我们只概述一下基本要点吧。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "基本的；必要的；本质的；精华的",
+      "words": [
+        "elementary",
+        "fundamental",
+        "basic",
+        "necessary",
+        "primary"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "本质；要素；要点；必需品",
+      "words": [
+        "element",
+        "principle",
+        "entity",
+        "necessity",
+        "requirement",
+        "texture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "word": "resulting",
+  "found": true,
+  "phonetic_uk": "rɪˈzʌltɪŋ",
+  "phonetic_us": "rɪˈzʌltɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=resulting&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=resulting&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "发生，产生；导致，致使（result 的现在分词）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "因而发生的，作为结果的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The resulting salty water will be discharged at sea.",
+      "zh": "产生的咸水将被排放到海里。"
+    },
+    {
+      "en": "It was a large explosion and the resulting damage was extensive.",
+      "zh": "爆炸相当剧烈，造成的破坏范围很大。"
+    },
+    {
+      "en": "The media have been filled with tales of horror and loss resulting from Monday's earthquake.",
+      "zh": "媒体上已充斥着对星期一地震造成的恐怖和损失的种种描述。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "作为结果的",
+      "words": [
+        "consequent"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "致使（result的ing形式）；产生",
+      "words": [
+        "giving"
+      ]
+    }
+  ]
+}

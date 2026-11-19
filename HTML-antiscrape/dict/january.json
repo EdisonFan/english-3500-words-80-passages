@@ -1,0 +1,43 @@
+{
+  "word": "January",
+  "found": true,
+  "phonetic_uk": "ˈdʒænjuəri",
+  "phonetic_us": "ˈdʒænjueri",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=January&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=January&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "一月"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "Januaries或Januarys"
+    }
+  ],
+  "examples": [
+    {
+      "en": "January is my least favourite month.",
+      "zh": "一月是我最不喜欢的月份。"
+    },
+    {
+      "en": "Rose is due to start school in January.",
+      "zh": "罗斯一月份就要开始上学了。"
+    },
+    {
+      "en": "The new President takes office in January.",
+      "zh": "新总统将于一月份就职。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "一月",
+      "words": [
+        "Janeiro"
+      ]
+    }
+  ]
+}

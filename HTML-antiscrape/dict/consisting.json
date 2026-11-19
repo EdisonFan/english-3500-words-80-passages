@@ -1,0 +1,39 @@
+{
+  "word": "consisting",
+  "found": true,
+  "phonetic_uk": "kənˈsɪstɪŋ",
+  "phonetic_us": "kənˈsɪstɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=consisting&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=consisting&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "组成；存在；一致（consist 的 ing 形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Mars has an insubstantial atmosphere, consisting almost entirely of carbon dioxide.",
+      "zh": "火星周围有一个薄薄的大气层，几乎全由二氧化碳构成。"
+    },
+    {
+      "en": "He paints from a palette consisting almost exclusively of grey and mud brown.",
+      "zh": "他画画几乎只用包含灰色和土褐色的色调。"
+    },
+    {
+      "en": "Hilversum is actually in a hilly area with the soil mostly consisting of sand.",
+      "zh": "希尔福瑟姆实际上处于丘陵地带，那儿的土壤主要含沙。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "组成；存在；一致（consist的ing形式）",
+      "words": [
+        "existing",
+        "composing"
+      ]
+    }
+  ]
+}

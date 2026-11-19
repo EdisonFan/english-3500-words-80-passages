@@ -1,0 +1,58 @@
+{
+  "word": "family",
+  "found": true,
+  "phonetic_uk": "ˈfæməli",
+  "phonetic_us": "ˈfæməli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=family&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=family&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "家，家庭；家属，亲属；家族；子女，孩子；（动植物的）科；语族；祖先； 一窝（动物）； 有组织的犯罪团伙；（具有明显共同特征的）一类东西；（在某些方面）像家人一样的一群人；（数）族；派别；氏族"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "家庭的；一家所有的；老少咸宜的；全家用的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "families"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His family expostulated with him.",
+      "zh": "他的家人反驳他。"
+    },
+    {
+      "en": "All my family enjoy skiing.",
+      "zh": "我们全家都喜欢滑雪。"
+    },
+    {
+      "en": "He asked about her family.",
+      "zh": "他询问了她的家庭情况。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "家庭；家族；家属；子女；亲属；僚属",
+      "words": [
+        "household",
+        "folk",
+        "race"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "家庭的，家族的",
+      "words": [
+        "household",
+        "domestic",
+        "home"
+      ]
+    }
+  ]
+}

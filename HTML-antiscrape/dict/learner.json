@@ -1,0 +1,48 @@
+{
+  "word": "learner",
+  "found": true,
+  "phonetic_uk": "ˈlɜːnə(r)",
+  "phonetic_us": "ˈlɜːrnər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=learner&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=learner&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "初学者，学习者"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Learner）人名；（英）勒纳"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "learners"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He was not so quick a learner as his brother.",
+      "zh": "他学东西不像他哥哥那么快。"
+    },
+    {
+      "en": "I am not a learner as such – I used to ride a bike years ago.",
+      "zh": "我不是个准确意义上的初学者–我多年前常常骑自行车。"
+    },
+    {
+      "en": "The star refers to items which are intended for the advanced learner.",
+      "zh": "标有星号的项目是给高阶学习者的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "初学者，学习者",
+      "words": [
+        "novice",
+        "beginner"
+      ]
+    }
+  ]
+}

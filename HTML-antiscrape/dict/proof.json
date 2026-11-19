@@ -1,0 +1,79 @@
+{
+  "word": "proof",
+  "found": true,
+  "phonetic_uk": "pruːf",
+  "phonetic_us": "pruːf",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=proof&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=proof&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "证明，证据；检验，证实；（数学）验算，验证；校样，样张；（酒的）标准酒精度；<苏格兰>法官单独听证"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "防……的，耐……的；试印的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "保护……免受影响（或损害）；印……的校样；校对；<美>加水使（酵母）活化；<美>揉（面团）；<美>（面团）发酵"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "proofs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "proofs"
+    },
+    {
+      "name": "现在分词",
+      "value": "proofing"
+    },
+    {
+      "name": "过去式",
+      "value": "proofed"
+    },
+    {
+      "name": "过去分词",
+      "value": "proofed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "There was no absolute proof.",
+      "zh": "没有确凿的证据。"
+    },
+    {
+      "en": "We didn't have any definite proof.",
+      "zh": "我们没有任何确凿的证据。"
+    },
+    {
+      "en": "Do you have any proof of identity?",
+      "zh": "你有身份证明吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "证明；证据；校样；考验；验证；试验",
+      "words": [
+        "authentication",
+        "certification",
+        "demonstration",
+        "confirmation",
+        "witness"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "试验；校对；使不被穿透",
+      "words": [
+        "try out",
+        "put to test"
+      ]
+    }
+  ]
+}

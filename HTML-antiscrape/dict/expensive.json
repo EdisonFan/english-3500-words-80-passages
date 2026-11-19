@@ -1,0 +1,49 @@
+{
+  "word": "expensive",
+  "found": true,
+  "phonetic_uk": "ɪkˈspensɪv",
+  "phonetic_us": "ɪkˈspensɪv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=expensive&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=expensive&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "花钱多的，昂贵的；（错误或决定）代价高的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more expensive"
+    },
+    {
+      "name": "最高级",
+      "value": "most expensive"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Food was scarce and expensive.",
+      "zh": "食物匮乏而且昂贵。"
+    },
+    {
+      "en": "Skiing gear can be expensive.",
+      "zh": "滑雪用具有时会很昂贵。"
+    },
+    {
+      "en": "They are very expensive, I presume?",
+      "zh": "我想这些东西很贵吧？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "昂贵的；花钱的",
+      "words": [
+        "rich",
+        "dear",
+        "costly"
+      ]
+    }
+  ]
+}

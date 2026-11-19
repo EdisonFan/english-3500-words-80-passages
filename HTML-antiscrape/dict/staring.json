@@ -1,0 +1,54 @@
+{
+  "word": "staring",
+  "found": true,
+  "phonetic_uk": "ˈsteərɪŋ",
+  "phonetic_us": "ˈsterɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=staring&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=staring&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "凝视的，目不转睛的；瞪着眼的；显眼的；怪俗气的；（头发）倒竖的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "主演，使主演；给……加上星号；表现杰出；用星形物装饰（或覆盖）（star 的现在分词）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Staring）（美、荷、瑞典、加）斯塔林（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He was staring at her with cold eyes.",
+      "zh": "他用冷漠的眼光盯着她。"
+    },
+    {
+      "en": "Alice stood staring into the distance.",
+      "zh": "艾丽斯站着凝视远方。"
+    },
+    {
+      "en": "He sipped his drink, staring intensely at me.",
+      "zh": "他一边小口喝着饮料，一边热切地盯着我。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "凝视的，目不转睛的；瞪着眼的；显眼的",
+      "words": [
+        "agaze",
+        "showy"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "凝视；盯着看；显眼（stare的ing形式）",
+      "words": [
+        "poring"
+      ]
+    }
+  ]
+}

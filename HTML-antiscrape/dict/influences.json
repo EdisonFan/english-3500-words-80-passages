@@ -1,0 +1,44 @@
+{
+  "word": "influences",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˈɪnfluənsɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=influences&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=influences&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "影响，作用；有影响的人（或事物）（influence 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "影响，对……起作用（influence 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He wonders if the different influences might not cancel each other out.",
+      "zh": "他想知道不同的影响是否不会相互抵消。"
+    },
+    {
+      "en": "Yet we can reverse such influences.",
+      "zh": "然而，我们可以扭转这种影响。"
+    },
+    {
+      "en": "Scientists want to know what influences our personality.",
+      "zh": "科学家想知道是什么影响了我们的性格。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "影响，影响力；作用（influence的复数形式）",
+      "words": [
+        "consequences",
+        "roles",
+        "impacts"
+      ]
+    }
+  ]
+}

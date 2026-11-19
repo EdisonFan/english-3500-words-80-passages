@@ -1,0 +1,61 @@
+{
+  "word": "becoming",
+  "found": true,
+  "phonetic_uk": "bɪˈkʌmɪŋ",
+  "phonetic_us": "bɪˈkʌmɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=becoming&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=becoming&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "相配的；合适的；得体的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（变化过程的）形成，发生"
+    },
+    {
+      "pos": "v.",
+      "meaning": "开始变得；成长为；取得资格；适合（某人）；使（人）显得漂亮（become 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The heat was becoming unbearable.",
+      "zh": "炎热开始变得难以忍受。"
+    },
+    {
+      "en": "Jobs are becoming increasingly scarce.",
+      "zh": "工作职位变得越来越少。"
+    },
+    {
+      "en": "She was becoming confused.",
+      "zh": "她开始糊涂了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "合适的，适当的",
+      "words": [
+        "suitable",
+        "shaped",
+        "applicable",
+        "adequate",
+        "appropriate"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "（变化过程的）形成，发生",
+      "words": [
+        "formation",
+        "occurrence",
+        "going on",
+        "emergence",
+        "making"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "word": "abandon",
+  "found": true,
+  "phonetic_uk": "əˈbændən",
+  "phonetic_us": "əˈbændən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=abandon&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=abandon&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "抛弃，遗弃；（因危险）离开，舍弃；中止，不再有；放弃（信念、信仰或看法）；陷入，沉湎于（某种情感）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "放任，放纵"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The captain gave the order to abandon ship.",
+      "zh": "船长下令弃船。"
+    },
+    {
+      "en": "Snow forced many drivers to abandon their vehicles.",
+      "zh": "大雪迫使许多驾驶者弃车步行。"
+    },
+    {
+      "en": "Many want to abandon the multilateral trade talks in Geneva.",
+      "zh": "许多国家想要放弃在日内瓦的多边贸易会谈。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "狂热；放任",
+      "words": [
+        "loose",
+        "mania"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "遗弃；放弃",
+      "words": [
+        "desert",
+        "yield",
+        "quit"
+      ]
+    }
+  ]
+}

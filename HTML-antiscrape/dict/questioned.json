@@ -1,0 +1,50 @@
+{
+  "word": "questioned",
+  "found": true,
+  "phonetic_uk": "ˈkwestʃənd",
+  "phonetic_us": "ˈkwestʃənd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=questioned&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=questioned&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "怀疑；询问（question 的过去分词）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "怀疑的；有问题的；有争议的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "No one ever questioned her capability.",
+      "zh": "从来没有人质疑过她的能力。"
+    },
+    {
+      "en": "They questioned the veracity of her story.",
+      "zh": "他们质疑她所述事情的真实性。"
+    },
+    {
+      "en": "They questioned the constitutionality of the law.",
+      "zh": "他们质疑这项法律是否符合宪法。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "怀疑；询问（question的过去分词）",
+      "words": [
+        "suspected"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "怀疑的；有问题的；有争议的",
+      "words": [
+        "controversial",
+        "skeptical"
+      ]
+    }
+  ]
+}

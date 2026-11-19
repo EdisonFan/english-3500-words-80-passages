@@ -1,0 +1,51 @@
+{
+  "word": "encouraging",
+  "found": true,
+  "phonetic_uk": "ɪnˈkʌrɪdʒɪŋ",
+  "phonetic_us": "ɪnˈkɜːrɪdʒɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=encouraging&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=encouraging&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "鼓舞人心的，鼓励的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "鼓励，激励；鼓动，怂恿，支持；刺激，促进（encourage 的现在分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The results have been encouraging.",
+      "zh": "这些结果是鼓舞人心的。"
+    },
+    {
+      "en": "The early indications look encouraging.",
+      "zh": "初期的迹象看起来鼓舞人心。"
+    },
+    {
+      "en": "You could try being a little more encouraging!",
+      "zh": "你可以试着多给人一些鼓励嘛！"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "令人鼓舞的；鼓励的，奖励的",
+      "words": [
+        "promotional",
+        "animative"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "鼓励，支持（encourage的ing形式）",
+      "words": [
+        "supporting",
+        "backing"
+      ]
+    }
+  ]
+}

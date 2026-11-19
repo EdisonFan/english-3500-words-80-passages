@@ -1,0 +1,44 @@
+{
+  "word": "studio",
+  "found": true,
+  "phonetic_uk": "ˈstjuːdiəʊ",
+  "phonetic_us": "ˈstuːdioʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=studio&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=studio&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "录音室，播音室，演播室；（电影）摄影棚，电影公司，电影制片厂；（画家、摄影师、雕塑家等的）工作室；（舞蹈）练习室；单室公寓房；（公司新产品的）设计室，工作室"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "studios"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The studio isn't soundproof.",
+      "zh": "该录音室不隔音。"
+    },
+    {
+      "en": "Hemingway's studio is to the right.",
+      "zh": "海明威的工作室在右边。"
+    },
+    {
+      "en": "The film studio is transferring to Hollywood.",
+      "zh": "这家电影制片厂正迁往好莱坞。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "工作室；[电视][广播]演播室；画室；电影制片厂",
+      "words": [
+        "atelier",
+        "workroom"
+      ]
+    }
+  ]
+}

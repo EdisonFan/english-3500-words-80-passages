@@ -1,0 +1,39 @@
+{
+  "word": "Japan",
+  "found": true,
+  "phonetic_uk": "dʒəˈpæn",
+  "phonetic_us": "dʒəˈpæn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=Japan&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=Japan&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "日本（东亚国家名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The band's very big in Japan.",
+      "zh": "这个乐队在日本很走红。"
+    },
+    {
+      "en": "How do you find life in Japan?",
+      "zh": "你觉得日本的生活如何？"
+    },
+    {
+      "en": "We went to Japan last April.",
+      "zh": "去年四月我们去了日本。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "日本（东亚国家名）",
+      "words": [
+        "Nippon",
+        "Nihon"
+      ]
+    }
+  ]
+}

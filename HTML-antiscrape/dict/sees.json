@@ -1,0 +1,34 @@
+{
+  "word": "sees",
+  "found": true,
+  "phonetic_uk": "siːz",
+  "phonetic_us": "siːz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sees&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sees&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "看见；理解；领会（see 的第三人称单数形式）"
+    },
+    {
+      "pos": "abbr.",
+      "meaning": "扩展企业应用套件（Sage Extended Enterprise Suite）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "But supposing he sees us?",
+      "zh": "可他要是看见我们呢？"
+    },
+    {
+      "en": "He'll go mad when he sees the damage.",
+      "zh": "他看到这样的破坏准会气疯的。"
+    },
+    {
+      "en": "Dad'll go mad when he sees what you've done.",
+      "zh": "父亲看到你的所作所为会非常气愤。"
+    }
+  ],
+  "synonyms": []
+}

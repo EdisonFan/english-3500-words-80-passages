@@ -1,0 +1,43 @@
+{
+  "word": "brothers",
+  "found": true,
+  "phonetic_uk": "ˈbrʌðəz",
+  "phonetic_us": "ˈbrʌðərz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=brothers&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=brothers&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "哥们儿，兄弟"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Brothers）人名；（英）布拉泽斯"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The brothers look very similar.",
+      "zh": "弟兄几个长得很像。"
+    },
+    {
+      "en": "Do you have any brothers or sisters ?",
+      "zh": "你有兄弟姐妹吗？"
+    },
+    {
+      "en": "Do you have any brothers and sisters?",
+      "zh": "你有兄弟姐妹吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "哥们儿，兄弟",
+      "words": [
+        "buddie",
+        "brer"
+      ]
+    }
+  ]
+}

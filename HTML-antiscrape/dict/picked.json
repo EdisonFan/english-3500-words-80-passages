@@ -1,0 +1,44 @@
+{
+  "word": "picked",
+  "found": true,
+  "phonetic_uk": "pɪkt",
+  "phonetic_us": "pɪkt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=picked&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=picked&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "采摘的；精选的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "挑选；采摘（pick 的过去式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He picked up the scattered toys.",
+      "zh": "他把散落的玩具捡了起来。"
+    },
+    {
+      "en": "A lifeboat picked up survivors.",
+      "zh": "救生艇把幸存者救起来。"
+    },
+    {
+      "en": "He picked his words carefully.",
+      "zh": "他用词细心谨慎。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "采摘的；精选的",
+      "words": [
+        "choice",
+        "select",
+        "chosen"
+      ]
+    }
+  ]
+}

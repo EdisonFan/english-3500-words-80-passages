@@ -1,0 +1,84 @@
+{
+  "word": "guard",
+  "found": true,
+  "phonetic_uk": "ɡɑːd",
+  "phonetic_us": "ɡɑːrd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=guard&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=guard&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "卫兵，警卫；看守，保卫，警戒；列车长；保护装置；（英国的）禁卫军；（篮球）后卫；（拳击运动员的）防御姿势"
+    },
+    {
+      "pos": "v.",
+      "meaning": "守卫，保卫；看守，监视；警惕，防范；保护，维护"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Guard）（英）格尔德（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "guards"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "guards"
+    },
+    {
+      "name": "现在分词",
+      "value": "guarding"
+    },
+    {
+      "name": "过去式",
+      "value": "guarded"
+    },
+    {
+      "name": "过去分词",
+      "value": "guarded"
+    }
+  ],
+  "examples": [
+    {
+      "en": "A guard was posted outside the building.",
+      "zh": "建筑物外设了一名警卫。"
+    },
+    {
+      "en": "You can't let your guard down.",
+      "zh": "你不能掉以轻心。"
+    },
+    {
+      "en": "He was upgraded to security guard.",
+      "zh": "他被提升为保安。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "守卫；警戒；护卫队；[安全]防护装置",
+      "words": [
+        "vigilance",
+        "alertness"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "警惕",
+      "words": [
+        "keep one's eye on the ball",
+        "keep one's eyes peeled"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "保卫；监视",
+      "words": [
+        "watching",
+        "shield"
+      ]
+    }
+  ]
+}

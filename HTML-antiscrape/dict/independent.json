@@ -1,0 +1,59 @@
+{
+  "word": "independent",
+  "found": true,
+  "phonetic_uk": "ˌɪndɪˈpendənt",
+  "phonetic_us": "ˌɪndɪˈpendənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=independent&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=independent&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "自治的，独立的；自立的，自力更生的；公正的，不受他人影响的；分离的，单独的；私营的；无党派的；有主见的，有独立见解的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "独立自主者，独立团体；无党派政治家；公理会教友"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "independents"
+    },
+    {
+      "name": "比较级",
+      "value": "more independent"
+    },
+    {
+      "name": "最高级",
+      "value": "most independent"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Mozambique became independent in 1975.",
+      "zh": "莫桑比克于1975年获得独立。"
+    },
+    {
+      "en": "He was very independent and self-willed.",
+      "zh": "他非常独立而且倔强。"
+    },
+    {
+      "en": "They were a proud and independent people.",
+      "zh": "他们是一个独立而自尊的民族。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "独立的；单独的；无党派的；不受约束的",
+      "words": [
+        "alone",
+        "free",
+        "isolated",
+        "separate",
+        "specialty"
+      ]
+    }
+  ]
+}

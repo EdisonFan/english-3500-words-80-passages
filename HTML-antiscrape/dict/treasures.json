@@ -1,0 +1,34 @@
+{
+  "word": "treasures",
+  "found": true,
+  "phonetic_uk": "ˈtreʒəz",
+  "phonetic_us": "ˈtreʒərz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=treasures&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=treasures&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "宝物（treasure 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "珍爱（treasure 的第三人称单数）；储藏"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The tomb had been robbed of its treasures.",
+      "zh": "这座坟墓里的财宝早已被盗。"
+    },
+    {
+      "en": "The house was large and full of art treasures.",
+      "zh": "那栋房子很大，里面满是艺术珍品。"
+    },
+    {
+      "en": "She treasures her memories of those joyous days.",
+      "zh": "她珍惜那些快乐时光的记忆。"
+    }
+  ],
+  "synonyms": []
+}

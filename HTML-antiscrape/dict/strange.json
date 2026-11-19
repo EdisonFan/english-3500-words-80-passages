@@ -1,0 +1,64 @@
+{
+  "word": "strange",
+  "found": true,
+  "phonetic_uk": "streɪndʒ",
+  "phonetic_us": "streɪndʒ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=strange&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=strange&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "奇怪的，不寻常的；陌生的，不熟悉的；令人局促不安的，令人不自在的，令人难受的；（亚原子粒子）有奇异性非零值的，奇异性的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "奇怪地，不寻常地"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Strange）（英）斯特兰奇，（瑞典、塞）斯特朗格（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "stranger或more strange"
+    },
+    {
+      "name": "最高级",
+      "value": "strangest或most strange"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Then a strange thing happened.",
+      "zh": "接着一件怪事发生了。"
+    },
+    {
+      "en": "There was a strange inhuman sound.",
+      "zh": "有一种不像人发出的奇怪声音。"
+    },
+    {
+      "en": "There's something strange about him.",
+      "zh": "他有点怪。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "奇怪的；陌生的；外行的",
+      "words": [
+        "unknown",
+        "lay"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "奇怪地；陌生地，冷淡地",
+      "words": [
+        "queerly",
+        "anticly"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "angrily",
+  "found": true,
+  "phonetic_uk": "ˈæŋɡrəli",
+  "phonetic_us": "ˈæŋɡrəli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=angrily&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=angrily&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "愤怒地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He thumped the table angrily.",
+      "zh": "他愤怒地用拳捶击桌子。"
+    },
+    {
+      "en": "She shrugged him away angrily.",
+      "zh": "她生气地甩开他。"
+    },
+    {
+      "en": "Officials reacted angrily to those charges.",
+      "zh": "官员们愤怒地回应了那些指控。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "愤怒地",
+      "words": [
+        "wrathfully",
+        "angerly"
+      ]
+    }
+  ]
+}

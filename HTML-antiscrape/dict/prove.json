@@ -1,0 +1,58 @@
+{
+  "word": "prove",
+  "found": true,
+  "phonetic_uk": "pruːv",
+  "phonetic_us": "pruːv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=prove&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=prove&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "证实，证明；证明是，结果是；显示（自己的）才干（或勇气）（prove oneself）；<法律> 检验，认证（遗嘱）；（用数学或科学原理）证明，验算；试（枪），查验；（面团）发酵"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "proves"
+    },
+    {
+      "name": "现在分词",
+      "value": "proving"
+    },
+    {
+      "name": "过去式",
+      "value": "proved"
+    },
+    {
+      "name": "过去分词",
+      "value": "proved或proven"
+    }
+  ],
+  "examples": [
+    {
+      "en": "What are you trying to prove ?",
+      "zh": "你想证明什么？"
+    },
+    {
+      "en": "This advice was to prove valuable.",
+      "zh": "这忠告证明是有益的。"
+    },
+    {
+      "en": "It's impossible to prove.",
+      "zh": "这件事无法证实。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "证明；检验；显示",
+      "words": [
+        "demonstrate",
+        "reveal",
+        "make clear",
+        "argue"
+      ]
+    }
+  ]
+}

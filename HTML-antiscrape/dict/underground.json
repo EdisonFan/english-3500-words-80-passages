@@ -1,0 +1,71 @@
+{
+  "word": "underground",
+  "found": true,
+  "phonetic_uk": "ˌʌndəˈɡraʊnd",
+  "phonetic_us": "ˌʌndərˈɡraʊnd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=underground&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=underground&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "在地（面）下；；隐蔽地，隐匿地；在地（面）下"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "地（面）下的；秘密的，地下的；标新立异的，小众的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "铺（电缆）于地下；；铺（电缆）于地下"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<英> 地铁；（反政府的）地下组织；先锋派团体"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I always travel by underground.",
+      "zh": "我总是乘地铁。"
+    },
+    {
+      "en": "The miners were trapped deep underground.",
+      "zh": "矿工被困在地下深处。"
+    },
+    {
+      "en": "The train was trapped underground by a fire.",
+      "zh": "列车被一场大火困在了地下。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "在地下；秘密地",
+      "words": [
+        "quietly",
+        "privately",
+        "secretly"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "地下的；秘密的；先锋派的",
+      "words": [
+        "secret",
+        "chamber",
+        "inside",
+        "cabinet"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "地下；地铁；地道；地下组织；秘密活动；先锋派团体",
+      "words": [
+        "sub",
+        "metro",
+        "subway"
+      ]
+    }
+  ]
+}

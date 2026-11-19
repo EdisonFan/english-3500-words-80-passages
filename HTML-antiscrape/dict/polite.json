@@ -1,0 +1,42 @@
+{
+  "word": "polite",
+  "found": true,
+  "phonetic_uk": "pəˈlaɪt",
+  "phonetic_us": "pəˈlaɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=polite&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=polite&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "有礼貌的，客气的；礼节性的，客套的；上流的，有教养的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We were all too polite to object.",
+      "zh": "我们都太客气了，没有反对。"
+    },
+    {
+      "en": "We made polite, stilted conversation.",
+      "zh": "我们说了些客气呆板的套话。"
+    },
+    {
+      "en": "She forced herself to be polite to them.",
+      "zh": "她对他们强装客气。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "有礼貌的，客气的；文雅的；上流的；优雅的",
+      "words": [
+        "civil",
+        "elegant",
+        "gentle",
+        "mild",
+        "courteous"
+      ]
+    }
+  ]
+}

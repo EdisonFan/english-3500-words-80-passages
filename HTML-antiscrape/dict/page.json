@@ -1,0 +1,79 @@
+{
+  "word": "page",
+  "found": true,
+  "phonetic_uk": "peɪdʒ",
+  "phonetic_us": "peɪdʒ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=page&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=page&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（书、报纸、文件等的）页，面；网页；历史重要事件（或时期），历史篇章；<英>伴童，（新娘的）小男傧相；（旅馆或俱乐部中通常身穿制服的）男侍从，听差；（中世纪作为接受骑士训练服侍某个骑士的）学习骑士；（旧时高层人员的）男侍从；<美>（美国议员的）青年助理（本身为学生）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（在公共场所）用扩音器呼叫（某人或发布信息）；用寻呼机呼叫（某人）；随意翻阅，浏览（page through）；（软件、数据的）分页（存储）；为……编页码，为……标注页码"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Page）（西）帕赫，（英）佩奇，（意）帕杰，（法）帕日（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "pages"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "pages"
+    },
+    {
+      "name": "现在分词",
+      "value": "paging"
+    },
+    {
+      "name": "过去式",
+      "value": "paged"
+    },
+    {
+      "name": "过去分词",
+      "value": "paged"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I drew a line across the page.",
+      "zh": "我在这一页上画了一条横线。"
+    },
+    {
+      "en": "All right class, turn to page 20.",
+      "zh": "好啦，同学们，翻到第20页。"
+    },
+    {
+      "en": "The page refreshes automatically.",
+      "zh": "页面会自动更新。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计]页；记录；大事件，时期；男侍者",
+      "words": [
+        "period",
+        "season",
+        "day",
+        "register",
+        "log"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "翻书页，浏览",
+      "words": [
+        "leaf",
+        "glance through"
+      ]
+    }
+  ]
+}

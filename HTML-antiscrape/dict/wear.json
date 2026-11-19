@@ -1,0 +1,79 @@
+{
+  "word": "wear",
+  "found": true,
+  "phonetic_uk": "weə(r)",
+  "phonetic_us": "wer",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=wear&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=wear&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "穿（衣服），戴（首饰等）；蓄（须），留（发）；销蚀，磨损，踩出（路），磨出（洞）；流露，面带（某种表情）；使疲乏，使虚弱，使厌倦；经久耐用；不显老；<英，非正式>允许，接受；（船）升，挂（旗）；<文>消磨（时间）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（特定人群、场合或用途穿的）服装；穿，戴；（因长期使用而造成的）磨损，损坏；耐用性，经久性"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "wears"
+    },
+    {
+      "name": "现在分词",
+      "value": "wearing"
+    },
+    {
+      "name": "过去式",
+      "value": "wore"
+    },
+    {
+      "name": "过去分词",
+      "value": "worn"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She doesn't often wear heels.",
+      "zh": "她不常穿高跟鞋。"
+    },
+    {
+      "en": "Do you have to wear uniform ?",
+      "zh": "你非得穿制服不可吗？"
+    },
+    {
+      "en": "Nurses have to wear a uniform.",
+      "zh": "护士必须穿制服。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "穿着，戴；[机]磨损",
+      "words": [
+        "have on",
+        "keep sth on"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "[机]磨损，变旧",
+      "words": [
+        "grind down",
+        "frazzle"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[服装]服装，穿着；耐用性，耐久性；损耗",
+      "words": [
+        "clothing",
+        "waste",
+        "garment",
+        "apparel",
+        "durability"
+      ]
+    }
+  ]
+}

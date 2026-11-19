@@ -1,0 +1,71 @@
+{
+  "word": "boat",
+  "found": true,
+  "phonetic_uk": "bəʊt",
+  "phonetic_us": "boʊt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=boat&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=boat&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "小船；轮船"
+    },
+    {
+      "pos": "vi.",
+      "meaning": "划船"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "boats"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "boats"
+    },
+    {
+      "name": "现在分词",
+      "value": "boating"
+    },
+    {
+      "name": "过去式",
+      "value": "boated"
+    },
+    {
+      "name": "过去分词",
+      "value": "boated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The boat heaved beneath them.",
+      "zh": "小船在他们脚下颠簸着。"
+    },
+    {
+      "en": "The boat chugged slowly along.",
+      "zh": "船突突地缓慢前进。"
+    },
+    {
+      "en": "The boat disappeared from sight.",
+      "zh": "那艘船从视野中消失了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "小船；轮船",
+      "words": [
+        "tender",
+        "barca"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "划船",
+      "words": [
+        "to row"
+      ]
+    }
+  ]
+}

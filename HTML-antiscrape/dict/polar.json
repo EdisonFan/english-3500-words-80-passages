@@ -1,0 +1,47 @@
+{
+  "word": "polar",
+  "found": true,
+  "phonetic_uk": "ˈpəʊlə(r)",
+  "phonetic_us": "ˈpoʊlər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=polar&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=polar&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "极地的，来自极地的；截然不同的；磁极的；（天体）极性的，极地的；（细胞，器官，身体部分）极的；（液体，尤指溶剂）由偶极矩分子组成的；（固体）离子的；（几何）（球体）轴极的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（几何）极线；极光双子星"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Polar）（德、西）波拉尔（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The polar vortex is a system of wintertime winds.",
+      "zh": "极地涡旋是冬季风形成的一个风系。"
+    },
+    {
+      "en": "There was a period of excessive warmth which melted some of the polar ice.",
+      "zh": "有段时期温度过高，融化了极地的部分冰层。"
+    },
+    {
+      "en": "Polar bears live in the Arctic.",
+      "zh": "北极熊生活在北极。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[数]极地的；两极的；正好相反的",
+      "words": [
+        "dipolar",
+        "diametrical"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "word": "blend",
+  "found": true,
+  "phonetic_uk": "blend",
+  "phonetic_us": "blend",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=blend&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=blend&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（使）混合，调和；（使）协调，融合；调制，配制"
+    },
+    {
+      "pos": "n.",
+      "meaning": "混合物；交融，融合；混合词"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "blends"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "blends"
+    },
+    {
+      "name": "现在分词",
+      "value": "blending"
+    },
+    {
+      "name": "过去式",
+      "value": "blended"
+    },
+    {
+      "name": "过去分词",
+      "value": "blended"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It's a class move, allowing new and old to blend seamlessly.",
+      "zh": "这是一次班级活动，让新老同学亲密无间地融合在一起。"
+    },
+    {
+      "en": "Oil does not blend with water.",
+      "zh": "油不融于水。"
+    },
+    {
+      "en": "Oil and water do not blend.",
+      "zh": "油与水不相融。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "[天]混合",
+      "words": [
+        "compound",
+        "mix together",
+        "intermingle with",
+        "to mix"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "[天]混合；协调",
+      "words": [
+        "sort",
+        "concert"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[天]混合；[油气]掺合物",
+      "words": [
+        "mixture",
+        "mix"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "word": "navigate",
+  "found": true,
+  "phonetic_uk": "ˈnævɪɡeɪt",
+  "phonetic_us": "ˈnævɪɡeɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=navigate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=navigate&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "导航，引路；航行于，横渡；穿过，穿越；驾驶，操纵；浏览；（有效地）处理；(鱼、动物或昆虫)找到正确的行动方向；绕过"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "navigates"
+    },
+    {
+      "name": "现在分词",
+      "value": "navigating"
+    },
+    {
+      "name": "过去式",
+      "value": "navigated"
+    },
+    {
+      "name": "过去分词",
+      "value": "navigated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I'll drive, and you can navigate.",
+      "zh": "我开车，你引路。"
+    },
+    {
+      "en": "Most bats navigate by echolocation.",
+      "zh": "大多数蝙蝠通过回声定位飞行。"
+    },
+    {
+      "en": "Such boats can navigate on the Hudson.",
+      "zh": "这样的船能在哈得孙河上航行。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "驾驶，操纵；使通过；航行于",
+      "words": [
+        "man",
+        "drive",
+        "guide"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "航行，航空",
+      "words": [
+        "put",
+        "sail"
+      ]
+    }
+  ]
+}

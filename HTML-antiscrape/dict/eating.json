@@ -1,0 +1,56 @@
+{
+  "word": "eating",
+  "found": true,
+  "phonetic_uk": "ˈiːtɪŋ",
+  "phonetic_us": "ˈiːtɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=eating&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=eating&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "吃；食物"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "可生食的；进餐用的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "吃；去餐馆吃饭；在家吃饭；使用；饮食；烦扰；对（某人）行口淫（eat 的现在分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "That comes of eating too much!",
+      "zh": "那是吃得太多的结果！"
+    },
+    {
+      "en": "What's wrong with eating meat?",
+      "zh": "吃肉有什么不对？"
+    },
+    {
+      "en": "He started eating an apple.",
+      "zh": "他开始吃苹果。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "侵蚀的；可生食的；进餐用的",
+      "words": [
+        "corroded",
+        "eroding"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "吃；食物",
+      "words": [
+        "food",
+        "feeding",
+        "diet"
+      ]
+    }
+  ]
+}

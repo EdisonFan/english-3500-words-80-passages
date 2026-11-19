@@ -1,0 +1,30 @@
+{
+  "word": "occurs",
+  "found": true,
+  "phonetic_uk": "əˈkɜːz",
+  "phonetic_us": "əˈkɜːrz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=occurs&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=occurs&type=2",
+  "defs": [
+    {
+      "pos": "vi.",
+      "meaning": "发生；存在；出现；（想法、主意）突然出现（occur 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "A burglary occurs every three minutes in London.",
+      "zh": "入室盗窃案在伦敦每3分钟就发生一起。"
+    },
+    {
+      "en": "At least one supernova occurs per decade in our galaxy.",
+      "zh": "每十年至少有一颗超新星在我们的银河系中出现。"
+    },
+    {
+      "en": "Conception occurs when a single sperm fuses with an egg.",
+      "zh": "当一个精子和一个卵子结合时受孕就发生了。"
+    }
+  ],
+  "synonyms": []
+}

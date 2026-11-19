@@ -1,0 +1,30 @@
+{
+  "word": "encountered",
+  "found": true,
+  "phonetic_uk": "ɪnˈkaʊntəd",
+  "phonetic_us": "ɪnˈkaʊntər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=encountered&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=encountered&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "遇到；曾遭遇（encounter 的过去式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I had never encountered such resistance before.",
+      "zh": "我以前从未遇到过这么大的阻力。"
+    },
+    {
+      "en": "This is a problem not infrequently encountered by postdocs.",
+      "zh": "这是一个博士后学生经常遇到的问题。"
+    },
+    {
+      "en": "The plane encountered severe turbulence and winds of nearly two-hundred miles an hour.",
+      "zh": "那架飞机遇到了强湍流和时速近二百英里的强风。"
+    }
+  ],
+  "synonyms": []
+}

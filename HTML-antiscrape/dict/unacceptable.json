@@ -1,0 +1,39 @@
+{
+  "word": "unacceptable",
+  "found": true,
+  "phonetic_uk": "ˌʌnəkˈseptəbl",
+  "phonetic_us": "ˌʌnəkˈseptəbl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=unacceptable&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=unacceptable&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "不能接受的；不受欢迎的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "This behaviour is totally unacceptable.",
+      "zh": "这种行为是完全不能接受的。"
+    },
+    {
+      "en": "It is totally unacceptable for children to swear.",
+      "zh": "小孩子骂人是完全不能接受的。"
+    },
+    {
+      "en": "Racism is wholly unacceptable under any circumstances.",
+      "zh": "在任何情况下种族主义都是完全不能被接受的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "不能接受的；不受欢迎的",
+      "words": [
+        "unpopular",
+        "undesired"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "word": "trait",
+  "found": true,
+  "phonetic_uk": "treɪt",
+  "phonetic_us": "treɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=trait&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=trait&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（人的个性的）特征，特点；遗传特征；一点，少许"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Trait）（美、法）特雷（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "traits"
+    }
+  ],
+  "examples": [
+    {
+      "en": "How often do you show this trait?",
+      "zh": "你多久会展现出这种特质一次？"
+    },
+    {
+      "en": "We call this trait sensation-seeking.",
+      "zh": "我们把这种特质称为寻求刺激。"
+    },
+    {
+      "en": "That was her trait.",
+      "zh": "那曾是她的特点。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "特性，特点；[心理]品质；少许",
+      "words": [
+        "quality",
+        "tang",
+        "identity",
+        "sort",
+        "distinction"
+      ]
+    }
+  ]
+}

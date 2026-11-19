@@ -1,0 +1,76 @@
+{
+  "word": "mainstream",
+  "found": true,
+  "phonetic_uk": "ˈmeɪnstriːm",
+  "phonetic_us": "ˈmeɪnstriːm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mainstream&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mainstream&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "主流"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "主流的；（学校，班级）为无特殊需求学生开设的，普通的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使主流化，使成为主流；（把有特殊教育需求的孩子）编入普通班级"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "mainstreams"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "mainstreams"
+    },
+    {
+      "name": "现在分词",
+      "value": "mainstreaming"
+    },
+    {
+      "name": "过去式",
+      "value": "mainstreamed"
+    },
+    {
+      "name": "过去分词",
+      "value": "mainstreamed"
+    },
+    {
+      "name": "比较级",
+      "value": "more mainstream"
+    },
+    {
+      "name": "最高级",
+      "value": "most mainstream"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Arran became increasingly estranged from the mainstream of Hollywood.",
+      "zh": "阿伦变得越来越脱离好莱坞主流了。"
+    },
+    {
+      "en": "His radical views place him outside the mainstream of American politics.",
+      "zh": "他的激进观点使他脱离了美国政治的主流。"
+    },
+    {
+      "en": "Black dance music has been central to mainstream pop since the early '60s.",
+      "zh": "黑人舞蹈音乐自20世纪60年代初以来对主流流行音乐一直都是最重要的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "主流",
+      "words": [
+        "artery",
+        "main river"
+      ]
+    }
+  ]
+}

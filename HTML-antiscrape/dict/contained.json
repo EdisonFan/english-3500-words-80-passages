@@ -1,0 +1,51 @@
+{
+  "word": "contained",
+  "found": true,
+  "phonetic_uk": "kənˈteɪnd",
+  "phonetic_us": "kənˈteɪnd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=contained&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=contained&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "泰然自若的，从容的；被控制的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "包含，容纳；遏制，防止……蔓延；抑制（感情）（contain 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Samples of the water contained pesticide.",
+      "zh": "水样中含有杀虫剂。"
+    },
+    {
+      "en": "The ultimatum contained the threat of military force.",
+      "zh": "这份最后通牒含有武力威胁。"
+    },
+    {
+      "en": "He discovered, on closer inspection, that the rocks contained gold.",
+      "zh": "通过更周密的探查，他发现那些岩石中含有黄金。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "泰然自若的，从容的；被控制的",
+      "words": [
+        "directed",
+        "poised"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "包含；遏制（contain的过去分词）；容纳",
+      "words": [
+        "stored",
+        "comprised"
+      ]
+    }
+  ]
+}

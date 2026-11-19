@@ -1,0 +1,43 @@
+{
+  "word": "balanced",
+  "found": true,
+  "phonetic_uk": "ˈbælənst",
+  "phonetic_us": "ˈbælənst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=balanced&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=balanced&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "平衡的；和谐的；安定的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用天平称；保持稳定；使……相称（balance 的过去���词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The team was not well balanced.",
+      "zh": "这个队的队员配备得不是很均衡。"
+    },
+    {
+      "en": "It is essential that your diet is varied and balanced.",
+      "zh": "重要的是你的饮食应当是多样而平衡的。"
+    },
+    {
+      "en": "He balanced his budgets by rigid control over public expenditure.",
+      "zh": "他通过严格控制公共开支来平衡预算。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "平衡的；和谐的；安定的",
+      "words": [
+        "harmonious",
+        "quiet"
+      ]
+    }
+  ]
+}

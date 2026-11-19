@@ -1,0 +1,38 @@
+{
+  "word": "functions",
+  "found": true,
+  "phonetic_uk": "ˈfʌnkʃ(ə)nz",
+  "phonetic_us": "ˈfʌŋkʃnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=functions&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=functions&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "功能，职责；宴会，典礼；函数，应变量（function 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "My camera has manual and automatic functions.",
+      "zh": "我的照相机有手调和自动两种功能。"
+    },
+    {
+      "en": "Both motor and sensory functions are affected.",
+      "zh": "运动功能和感觉功能都受到影响。"
+    },
+    {
+      "en": "The shell surrounding the egg has many important functions.",
+      "zh": "包着蛋的外壳有很多重要功能。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "功能；函数（function的复数形式）",
+      "words": [
+        "capabilities"
+      ]
+    }
+  ]
+}

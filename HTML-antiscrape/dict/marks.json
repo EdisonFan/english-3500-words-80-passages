@@ -1,0 +1,43 @@
+{
+  "word": "marks",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "mɑːrks",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=marks&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=marks&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "标记，记号；唛头，分数；台面标志"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Marks）人名；（英、德、意、瑞典、西、捷）马克斯；（俄）马克思"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He made marks with a pencil.",
+      "zh": "他用铅笔作了记号。"
+    },
+    {
+      "en": "The film marks her directorial debut.",
+      "zh": "这部电影是她作为导演初露头角的标志。"
+    },
+    {
+      "en": "Detectives found no marks on the body.",
+      "zh": "侦探没有在尸体上发现任何痕迹。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "标记，记号；唛头，分数；台面标志",
+      "words": [
+        "score",
+        "sign"
+      ]
+    }
+  ]
+}

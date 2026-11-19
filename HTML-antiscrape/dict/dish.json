@@ -1,0 +1,72 @@
+{
+  "word": "dish",
+  "found": true,
+  "phonetic_uk": "dɪʃ",
+  "phonetic_us": "dɪʃ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dish&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dish&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "碟，盘；一盘食物；全部餐具（the dishes）；菜肴；碟状物，盘状物；性感的人；轮盘；抛物面天线；凹形容器"
+    },
+    {
+      "pos": "v.",
+      "meaning": "说……的闲话；把（食物）装盘；<英，非正式>使（希望等）破灭；<美，非正式>闲谈；成盘形"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "dishes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "dishes"
+    },
+    {
+      "name": "现在分词",
+      "value": "dishing"
+    },
+    {
+      "name": "过去式",
+      "value": "dished"
+    },
+    {
+      "name": "过去分词",
+      "value": "dished"
+    }
+  ],
+  "examples": [
+    {
+      "en": "How did this dish get broken ?",
+      "zh": "这个盘子是怎么打破的？"
+    },
+    {
+      "en": "It lapped milk from a dish.",
+      "zh": "它从一个盘子里舐食牛奶。"
+    },
+    {
+      "en": "Every dish was served heavily spiced.",
+      "zh": "每道菜端上来都是加过很多香料的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[轻]碟，盘；一道菜",
+      "words": [
+        "plate",
+        "course"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "成碟状；闲谈",
+      "words": [
+        "visit",
+        "chin music"
+      ]
+    }
+  ]
+}

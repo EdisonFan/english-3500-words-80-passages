@@ -1,0 +1,42 @@
+{
+  "word": "absorb",
+  "found": true,
+  "phonetic_uk": "əbˈzɔːb",
+  "phonetic_us": "əbˈzɔːrb",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=absorb&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=absorb&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "吸收；使并入，纳入；同化，汲取；消减，缓冲（外力、震动等）；理解，掌握（信息）；使全神贯注，使专心；承受（变革、影响等），承担（费用等）；花掉（大量金钱），耗费"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Plants absorb oxygen.",
+      "zh": "植物吸收氧气。"
+    },
+    {
+      "en": "Steel barriers can bend and absorb the shock.",
+      "zh": "铁栅栏会弯曲并吸收冲击力。"
+    },
+    {
+      "en": "Black walls absorb a lot of heat during the day.",
+      "zh": "黑色墙壁在白天吸收大量的热。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "吸收；吸引；承受；理解；使…全神贯注",
+      "words": [
+        "attract",
+        "engage",
+        "see",
+        "read",
+        "seize"
+      ]
+    }
+  ]
+}

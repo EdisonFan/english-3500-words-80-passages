@@ -1,0 +1,76 @@
+{
+  "word": "summer",
+  "found": true,
+  "phonetic_uk": "ˈsʌmə(r)",
+  "phonetic_us": "ˈsʌmər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=summer&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=summer&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "夏天，夏季；<文>年，岁；（建筑）大梁；（天文）从夏至到秋分这段时期；全盛期"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（在某地）避暑，过夏；夏天放牧（牛）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Summer）（德）祖默，（英）萨默（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "summers"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "summers"
+    },
+    {
+      "name": "现在分词",
+      "value": "summering"
+    },
+    {
+      "name": "过去式",
+      "value": "summered"
+    },
+    {
+      "name": "过去分词",
+      "value": "summered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I really love summer evenings.",
+      "zh": "我非常喜欢夏天的夜晚。"
+    },
+    {
+      "en": "I saw him sometime last summer.",
+      "zh": "我去年夏天什么时候见过他。"
+    },
+    {
+      "en": "We're going away in the summer.",
+      "zh": "夏天我们要外出。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[天]夏季；全盛时期",
+      "words": [
+        "prime",
+        "floruit"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "[天]夏季的",
+      "words": [
+        "aestival",
+        "estival"
+      ]
+    }
+  ]
+}

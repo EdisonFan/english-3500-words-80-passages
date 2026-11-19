@@ -1,0 +1,47 @@
+{
+  "word": "purchasing",
+  "found": true,
+  "phonetic_uk": "ˈpɜːtʃəsɪŋ",
+  "phonetic_us": "ˈpɜːrtʃəsɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=purchasing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=purchasing&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "购买，采购"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "购买的，采购的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<正式>购买，采购；<古>（努力或艰难地）获得，得到；（航海）（用滑轮或杠杆）升起，举起（绳，索，锚）（purchase 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The real purchasing power of the rouble has plummeted.",
+      "zh": "卢布的实际购买力已直线下降。"
+    },
+    {
+      "en": "Wage rates must be maintained in order to maintain the purchasing power of the consumer.",
+      "zh": "必须维持工资率以保持消费者的购买力。"
+    },
+    {
+      "en": "This requires purchasing desks, chairs and office equipment.",
+      "zh": "这就需要购买桌椅和办公设备。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "采购（purchase的ing形式）；购买",
+      "words": [
+        "procurement",
+        "buy"
+      ]
+    }
+  ]
+}

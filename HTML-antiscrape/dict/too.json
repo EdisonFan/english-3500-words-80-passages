@@ -1,0 +1,42 @@
+{
+  "word": "too",
+  "found": true,
+  "phonetic_uk": "tuː",
+  "phonetic_us": "tuː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=too&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=too&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "太，过于，过度；也，亦，还；而且，再者（用于补充进一步的观点）；很，十分，非常（用于否定句）；确实地，无可否认地；（表示感谢，较为正式）极其，非常"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He likes his tea neither too hot nor too cold.",
+      "zh": "他喜欢茶不太烫也不太凉。"
+    },
+    {
+      "en": "Critics derided the move as too little, too late.",
+      "zh": "批评家们嘲笑这一行动规模太小，来得太迟。"
+    },
+    {
+      "en": "They're working me too hard. I'm too old for this.",
+      "zh": "他们让我干得太苦。我干这个年纪太大了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "太；也；很；还；非常；过度",
+      "words": [
+        "greatly",
+        "quite",
+        "badly",
+        "extremely",
+        "highly"
+      ]
+    }
+  ]
+}

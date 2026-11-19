@@ -1,0 +1,64 @@
+{
+  "word": "towel",
+  "found": true,
+  "phonetic_uk": "ˈtaʊəl",
+  "phonetic_us": "ˈtaʊəl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=towel&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=towel&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "毛巾，抹布，纸巾；<英，旧>卫生巾"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用毛巾擦，用毛巾擦干；<非正式，澳新>鞭打"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "towels"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "towels"
+    },
+    {
+      "name": "现在分词",
+      "value": "towelling或toweling"
+    },
+    {
+      "name": "过去式",
+      "value": "towelled或toweled"
+    },
+    {
+      "name": "过去分词",
+      "value": "towelled或toweled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He flicked a wet towel at me.",
+      "zh": "他用湿毛巾轻打我。"
+    },
+    {
+      "en": "He flicked me with a wet towel.",
+      "zh": "他用湿毛巾轻打我。"
+    },
+    {
+      "en": "Pat it dry with a soft towel.",
+      "zh": "用柔软的毛巾将它轻轻拍干。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[纺]毛巾，手巾；[纸]纸巾",
+      "words": [
+        "tissue",
+        "washcloth"
+      ]
+    }
+  ]
+}

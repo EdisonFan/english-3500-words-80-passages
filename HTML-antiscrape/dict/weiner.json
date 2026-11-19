@@ -1,0 +1,43 @@
+{
+  "word": "weiner",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=weiner&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=weiner&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（美）法兰克福香肠（等于 wiener）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Weiner）人名；（英）韦纳；（德、法、匈、罗、葡、捷、瑞典）魏纳"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Mr Weiner says he never met any of the women in person.",
+      "zh": "维特说自己从未亲眼见过其中任何一名女子。"
+    },
+    {
+      "en": "Mr. Weiner was the youngest person ever elected to the New York City Council.",
+      "zh": "到目前为止，韦纳是当选纽约市议员时最为年轻的一位。"
+    },
+    {
+      "en": "Certain phrases in the Icelandic language, Weiner writes, are even more telling.",
+      "zh": "韦纳写道，冰岛语中的一些用语其实更能说明问题。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "（美）法兰克福香肠（等于wiener）",
+      "words": [
+        "Wieners",
+        "frankfurter"
+      ]
+    }
+  ]
+}

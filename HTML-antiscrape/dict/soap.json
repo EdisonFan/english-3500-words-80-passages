@@ -1,0 +1,63 @@
+{
+  "word": "soap",
+  "found": true,
+  "phonetic_uk": "səʊp",
+  "phonetic_us": "soʊp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=soap&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=soap&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "肥皂；<非正式>肥皂剧"
+    },
+    {
+      "pos": "v.",
+      "meaning": "擦肥皂；<俚>对……拍马屁"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "soaps"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "soaps"
+    },
+    {
+      "name": "现在分词",
+      "value": "soaping"
+    },
+    {
+      "name": "过去式",
+      "value": "soaped"
+    },
+    {
+      "name": "过去分词",
+      "value": "soaped"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He had soap suds in his ears.",
+      "zh": "...他两个耳朵里有肥皂泡沫。"
+    },
+    {
+      "en": "Use a soap that is mild on the skin.",
+      "zh": "使用对皮肤刺激性不强的肥皂。"
+    },
+    {
+      "en": "Make sure you rinse all the soap out.",
+      "zh": "一定要把皂液冲洗干净。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[油脂]肥皂",
+      "words": [
+        "savon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "word": "documents",
+  "found": true,
+  "phonetic_uk": "ˈdɒkjumənts",
+  "phonetic_us": "ˈdɑːkjuments",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=documents&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=documents&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "文件，公文，文献；证件，单据（document 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "记录，记载（详情）（document 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I'll email her the documents.",
+      "zh": "我将用电邮把这些文件发送给她。"
+    },
+    {
+      "en": "They may be shredding documents.",
+      "zh": "他们也许正在粉碎那些文件。"
+    },
+    {
+      "en": "I'll email the documents to her.",
+      "zh": "我将用电邮把这些文件发送给她。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "文档（document的复数形式）",
+      "words": [
+        "files"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "记载（document的第三人称单数形式）",
+      "words": [
+        "records"
+      ]
+    }
+  ]
+}

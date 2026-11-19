@@ -1,0 +1,44 @@
+{
+  "word": "population",
+  "found": true,
+  "phonetic_uk": "ˌpɒpjuˈleɪʃ(ə)n",
+  "phonetic_us": "ˌpɑːpjuˈleɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=population&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=population&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（地区、国家等的）人口，人口数量；（某领域的）生物，族群，人口；（统计）总体，母体；（天文）星族；（物理）布居数"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "populations"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The population continues to increase.",
+      "zh": "人口持续增长。"
+    },
+    {
+      "en": "Muslims make up 55% of the population.",
+      "zh": "穆斯林占人口的55%。"
+    },
+    {
+      "en": "Iraq's population is roughly half Shi'ite.",
+      "zh": "伊拉克人口大约半数是什叶派教徒。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "人口；种群，[生物]群体；全体居民",
+      "words": [
+        "syngen",
+        "species group"
+      ]
+    }
+  ]
+}

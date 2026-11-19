@@ -1,0 +1,30 @@
+{
+  "word": "who",
+  "found": true,
+  "phonetic_uk": "huː",
+  "phonetic_us": "huː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=who&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=who&type=2",
+  "defs": [
+    {
+      "pos": "pron.",
+      "meaning": "谁；什么人"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Who did the timekeeping?",
+      "zh": "谁做了计时工作？"
+    },
+    {
+      "en": "Who refereed the final?",
+      "zh": "那场决赛谁是裁判？"
+    },
+    {
+      "en": "Who played that heart?",
+      "zh": "谁打出的那张红桃？"
+    }
+  ],
+  "synonyms": []
+}

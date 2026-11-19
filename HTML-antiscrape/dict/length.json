@@ -1,0 +1,44 @@
+{
+  "word": "length",
+  "found": true,
+  "phonetic_uk": "leŋkθ; leŋθ",
+  "phonetic_us": "leŋkθ; leŋθ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=length&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=length&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "长，长度；（持续）时间的长短；（书或文件等的）篇幅，（电影的）片长；（游泳池的）池长；（马或船的）自身长度；（行动的）程度；细长的一段（根，条）；（头发、衣服等）到身体某部位的长度；手中牌长（多指五张以上某同花牌）；（板球）球距；（元音或音节的）节奏音长"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "lengths"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It is about a metre in length.",
+      "zh": "它大约有一米长。"
+    },
+    {
+      "en": "The river is 300 miles in length.",
+      "zh": "这条河长300英里。"
+    },
+    {
+      "en": "The sleeves are unequal in length.",
+      "zh": "这两只衣袖不一般长。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计量]长度，长；时间的长短；（语）音长",
+      "words": [
+        "extent",
+        "longness"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "word": "view",
+  "found": true,
+  "phonetic_uk": "vjuː",
+  "phonetic_us": "vjuː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=view&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=view&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "观点，看法；（理解或思维的）方法，方式；景象，视野；风景，景色；风景画，风景照；图像，视图；（一次）观看，一睹，一览；（文本或图表在计算机屏幕上的）显示方式"
+    },
+    {
+      "pos": "v.",
+      "meaning": "看待，考虑；观看；查看，观察；（在计算机屏幕上）阅读，看；看见（狐狸）离开隐藏处"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "views"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "views"
+    },
+    {
+      "name": "现在分词",
+      "value": "viewing"
+    },
+    {
+      "name": "过去式",
+      "value": "viewed"
+    },
+    {
+      "name": "过去分词",
+      "value": "viewed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Such a view is pleasing.",
+      "zh": "这样一种风景令人愉快。"
+    },
+    {
+      "en": "The view was obscured by fog.",
+      "zh": "雾中景色朦胧。"
+    },
+    {
+      "en": "The lake soon came into view.",
+      "zh": "那湖很快映入眼帘。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "观察；视野；意见；风景",
+      "words": [
+        "observation",
+        "opinion",
+        "scenery",
+        "scope",
+        "comment"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "观察；考虑；查看",
+      "words": [
+        "watch",
+        "study",
+        "regard",
+        "think of",
+        "think about"
+      ]
+    }
+  ]
+}

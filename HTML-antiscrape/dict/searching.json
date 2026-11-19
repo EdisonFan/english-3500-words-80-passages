@@ -1,0 +1,58 @@
+{
+  "word": "searching",
+  "found": true,
+  "phonetic_uk": "ˈsɜːtʃɪŋ",
+  "phonetic_us": "ˈsɜːrtʃɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=searching&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=searching&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "搜索的，彻查的；透彻的；探寻性的（问题等）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "搜寻，查找；搜身，搜查；思索，细想（问题）；（在计算机或网络上）搜索（search 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Fifty officers, including dog handlers, are searching for her.",
+      "zh": "50名警官，包括警犬训导员，正在寻找她。"
+    },
+    {
+      "en": "Relief workers are still searching through collapsed buildings.",
+      "zh": "救援人员仍在塌了的建筑物里搜寻。"
+    },
+    {
+      "en": "Detectives are still searching for those who violated the graveyard.",
+      "zh": "侦探们还在查找那些亵渎了墓地的家伙。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[计][航][水运]搜索的；透彻的",
+      "words": [
+        "intensive",
+        "scanning"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[计][航][水运]搜索",
+      "words": [
+        "scanning",
+        "hunting"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "[计][航][水运]搜索（search的ing形式）",
+      "words": [
+        "rifling"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "word": "vision",
+  "found": true,
+  "phonetic_uk": "ˈvɪʒ(ə)n",
+  "phonetic_us": "ˈvɪʒ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=vision&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=vision&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "幻想，想象；幻觉，幻象；构想，展望；眼力，远见卓识；视力，视觉；视野；美好的人（或事物）；（电视或电影的）图像"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<罕>想像"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "visions"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "visions"
+    },
+    {
+      "name": "现在分词",
+      "value": "visioning"
+    },
+    {
+      "name": "过去式",
+      "value": "visioned"
+    },
+    {
+      "name": "过去分词",
+      "value": "visioned"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Cats have good night vision.",
+      "zh": "猫在夜间视力好。"
+    },
+    {
+      "en": "My vision has grown so hazy.",
+      "zh": "我的视力已经变得非常模糊。"
+    },
+    {
+      "en": "Our field of vision is surprisingly wide.",
+      "zh": "我们的视野令人惊奇地广阔。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[生理][眼科]视力；美景；眼力；幻象；想象力",
+      "words": [
+        "sight",
+        "imagination",
+        "eye",
+        "seeing",
+        "eyesight"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "想象；显现；梦见",
+      "words": [
+        "image",
+        "envision"
+      ]
+    }
+  ]
+}

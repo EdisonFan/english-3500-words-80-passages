@@ -1,0 +1,92 @@
+{
+  "word": "green",
+  "found": true,
+  "phonetic_uk": "ɡriːn",
+  "phonetic_us": "ɡriːn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=green&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=green&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "绿色的；青春的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "绿色；青春"
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使……变绿色"
+    },
+    {
+      "pos": "vi.",
+      "meaning": "变绿色"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Green）人名；（英、意）格林；（瑞典、芬）格伦"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "greens"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "greens"
+    },
+    {
+      "name": "现在分词",
+      "value": "greening"
+    },
+    {
+      "name": "过去式",
+      "value": "greened"
+    },
+    {
+      "name": "过去分词",
+      "value": "greened"
+    },
+    {
+      "name": "比较级",
+      "value": "greener"
+    },
+    {
+      "name": "最高级",
+      "value": "greenest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He wore green-tinted glasses.",
+      "zh": "他戴着染成绿色的眼镜。"
+    },
+    {
+      "en": "She was dressed all in green.",
+      "zh": "她全身绿装。"
+    },
+    {
+      "en": "She works for Bond & Green.",
+      "zh": "她在邦德—格林公司工作。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "绿色的；青春的",
+      "words": [
+        "herbaceous",
+        "vernal"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "绿色；青春",
+      "words": [
+        "youth",
+        "bice"
+      ]
+    }
+  ]
+}

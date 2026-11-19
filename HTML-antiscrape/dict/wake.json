@@ -1,0 +1,84 @@
+{
+  "word": "wake",
+  "found": true,
+  "phonetic_uk": "weɪk",
+  "phonetic_us": "weɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=wake&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=wake&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "唤醒，醒来；唤起，激起；<爱尔兰，美>（方）为（死者）守夜，为……守灵；警觉"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（葬礼前后的）守夜，守灵；（航行中的船等留下的）尾流，航迹"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Wake）（英）韦克（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "wakes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "wakes"
+    },
+    {
+      "name": "现在分词",
+      "value": "waking"
+    },
+    {
+      "name": "过去式",
+      "value": "woke或waked"
+    },
+    {
+      "name": "过去分词",
+      "value": "woken或waked或woke"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You have to wake up now, baby.",
+      "zh": "你现在得醒了，宝贝儿。"
+    },
+    {
+      "en": "She went upstairs to wake Milton.",
+      "zh": "她上楼去叫醒米尔顿。"
+    },
+    {
+      "en": "I always wake early in the summer.",
+      "zh": "我夏天总是醒得早。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "醒来；唤醒；警觉",
+      "words": [
+        "awake",
+        "arouse"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "叫醒；激发",
+      "words": [
+        "inspire",
+        "make someone tick"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "尾迹；守夜；守丧",
+      "words": [
+        "vigil",
+        "night watch"
+      ]
+    }
+  ]
+}

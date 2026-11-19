@@ -1,0 +1,55 @@
+{
+  "word": "percent",
+  "found": true,
+  "phonetic_uk": "pəˈsent",
+  "phonetic_us": "pərˈsent",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=percent&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=percent&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "百分之……；部分"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "百分之……的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "以百分之……地，每一百中有……地"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "percent或percents"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Crime has gone down 70 percent.",
+      "zh": "犯罪率已下降了70%。"
+    },
+    {
+      "en": "57 percent complained of work overload.",
+      "zh": "57%的人抱怨工作负担过重。"
+    },
+    {
+      "en": "Sixty percent of people answered negatively.",
+      "zh": "60%的人做出了否定回答。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[数]百分比，百分率；部分；百分数",
+      "words": [
+        "proportion",
+        "part",
+        "portion",
+        "integral",
+        "fraction"
+      ]
+    }
+  ]
+}

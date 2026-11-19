@@ -1,0 +1,44 @@
+{
+  "word": "hunter",
+  "found": true,
+  "phonetic_uk": "ˈhʌntə(r)",
+  "phonetic_us": "ˈhʌntər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=hunter&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=hunter&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "猎人，捕猎者；搜寻者，寻找者；猎狐马；猎犬；有护盖的手表"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "hunters"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Hunter is at fullback.",
+      "zh": "亨特担任后卫。"
+    },
+    {
+      "en": "Hunter knew nearly all of this already.",
+      "zh": "亨特几乎知道这事的全部了。"
+    },
+    {
+      "en": "He's always bragging about his prowess as a hunter.",
+      "zh": "他老是吹嘘自己作为猎手的高超技能。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[林]猎人；猎犬；搜寻者",
+      "words": [
+        "shekarry",
+        "venerer"
+      ]
+    }
+  ]
+}

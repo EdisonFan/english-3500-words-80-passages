@@ -1,0 +1,39 @@
+{
+  "word": "choices",
+  "found": true,
+  "phonetic_uk": "ˈtʃɔɪsɪs",
+  "phonetic_us": "ˈtʃɔɪsɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=choices&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=choices&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "选择（choice 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Basically you've got two choices.",
+      "zh": "大致说来，你有两个选择。"
+    },
+    {
+      "en": "There is a wide range of choices open to you.",
+      "zh": "你有很大的选择余地。"
+    },
+    {
+      "en": "As I see it, Steve has three choices open to him.",
+      "zh": "我认为，史蒂夫有3种选择。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "选择（choice的复数）",
+      "words": [
+        "options",
+        "selections"
+      ]
+    }
+  ]
+}

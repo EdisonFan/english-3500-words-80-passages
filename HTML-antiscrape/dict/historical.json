@@ -1,0 +1,30 @@
+{
+  "word": "historical",
+  "found": true,
+  "phonetic_uk": "hɪˈstɒrɪk(ə)l",
+  "phonetic_us": "hɪˈstɔːrɪk(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=historical&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=historical&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "（有关）历史的；历史学的；（书籍、电影或图片）描述历史的，基于史实的；按历史顺序排列的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Was Robin Hood a historical figure?",
+      "zh": "罗宾汉是历史人物吗？"
+    },
+    {
+      "en": "The building is of historical importance.",
+      "zh": "这栋建筑有重要的历史研究价值。"
+    },
+    {
+      "en": "I don't believe in historical determinism.",
+      "zh": "我不相信历史决定论。"
+    }
+  ],
+  "synonyms": []
+}

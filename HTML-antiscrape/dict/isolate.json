@@ -1,0 +1,84 @@
+{
+  "word": "isolate",
+  "found": true,
+  "phonetic_uk": "ˈaɪsəleɪt",
+  "phonetic_us": "ˈaɪsəleɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=isolate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=isolate&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "孤立，分离；隔离；单独考虑，区别看待；使（某物质、细胞等）分离"
+    },
+    {
+      "pos": "n.",
+      "meaning": "被隔离的人（或物）；（用于研究的）分离菌，隔离群"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "孤独的，孤立的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "isolates"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "isolates"
+    },
+    {
+      "name": "现在分词",
+      "value": "isolating"
+    },
+    {
+      "name": "过去式",
+      "value": "isolated"
+    },
+    {
+      "name": "过去分词",
+      "value": "isolated"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Researchers are still trying to isolate the gene that causes this abnormality.",
+      "zh": "研究人员仍然在试图分离导致这种畸形的基因。"
+    },
+    {
+      "en": "This policy could isolate the country from the other permanent members of the United Nations Security Council.",
+      "zh": "这项政策可能会将这个国家从联合国安理会的其他常任理事国中孤立出来。"
+    },
+    {
+      "en": "Element 43's radioactivity makes it easy to isolate and measure.",
+      "zh": "43号元素的放射性使其易于分离和测量。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "[生物]使隔离；使孤立；使绝缘",
+      "words": [
+        "segregate",
+        "seclude"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "[生物]隔离；孤立",
+      "words": [
+        "cordon off",
+        "to stand alone"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "[生物]隔离的；孤立的",
+      "words": [
+        "shielded",
+        "insular"
+      ]
+    }
+  ]
+}

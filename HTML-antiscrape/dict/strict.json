@@ -1,0 +1,51 @@
+{
+  "word": "strict",
+  "found": true,
+  "phonetic_uk": "strɪkt",
+  "phonetic_us": "strɪkt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=strict&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=strict&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "要求严格的，严厉的；（命令或规则）必须严格遵守的；严谨的，精确的，严密的；恪守教规的，严格的；完全的，彻底的，绝对的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "stricter或more strict"
+    },
+    {
+      "name": "最高级",
+      "value": "strictest或most strict"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She's on a very strict diet.",
+      "zh": "她正严格节食。"
+    },
+    {
+      "en": "She's a very strict disciplinarian.",
+      "zh": "她执行纪律非常严格。"
+    },
+    {
+      "en": "French privacy laws are very strict.",
+      "zh": "法国的隐私法非常严格。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "严格的；绝对的；精确的；详细的",
+      "words": [
+        "rigid",
+        "precise",
+        "accurate",
+        "mathematical",
+        "absolute"
+      ]
+    }
+  ]
+}

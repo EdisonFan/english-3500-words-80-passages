@@ -1,0 +1,42 @@
+{
+  "word": "diverse",
+  "found": true,
+  "phonetic_uk": "daɪˈvɜːs",
+  "phonetic_us": "daɪˈvɜːrs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=diverse&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=diverse&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "不同的，各式各样的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Cuba is a composite of diverse traditions and people.",
+      "zh": "古巴是一个不同传统和民族的融合体。"
+    },
+    {
+      "en": "The company owns a very diverse library of Arabic music.",
+      "zh": "公司收藏有多种多样的阿拉伯音乐。"
+    },
+    {
+      "en": "It is geographically more diverse than any other continent.",
+      "zh": "它在地理上比其他任何大陆都更具多样性。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "不同的；多种多样的；变化多的",
+      "words": [
+        "different",
+        "unlike",
+        "varying",
+        "another",
+        "dissimilar"
+      ]
+    }
+  ]
+}

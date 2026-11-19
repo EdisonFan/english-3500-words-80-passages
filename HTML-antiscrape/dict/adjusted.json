@@ -1,0 +1,43 @@
+{
+  "word": "adjusted",
+  "found": true,
+  "phonetic_uk": "əˈdʒʌstɪd",
+  "phonetic_us": "əˈdʒʌstɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=adjusted&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=adjusted&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "调整过的，调节了的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "调整；校正（adjust 的过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The straps can be adjusted to suit the wearer.",
+      "zh": "这些背带可进行调整以适合使用者。"
+    },
+    {
+      "en": "To attract investors, Panama has adjusted its tax and labour laws.",
+      "zh": "为了吸引投资者，巴拿马已经调整了其税务及劳动法规。"
+    },
+    {
+      "en": "A crew of assistants oiled and adjusted the release mechanism until it worked perfectly.",
+      "zh": "助手们给排放装置加了润滑油并做了调节，直到其运转良好。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "调整；校正（adjust的过去分词）",
+      "words": [
+        "oriented",
+        "restructured"
+      ]
+    }
+  ]
+}

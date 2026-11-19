@@ -1,0 +1,53 @@
+{
+  "word": "planned",
+  "found": true,
+  "phonetic_uk": "plænd",
+  "phonetic_us": "plænd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=planned&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=planned&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "有计划的；根据计划的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "计划，筹划；打算；设计；期望，预料（plan 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Everything went exactly as planned.",
+      "zh": "一切都严格地按计划进行。"
+    },
+    {
+      "en": "This is a centrally planned economy.",
+      "zh": "这是一种中央计划经济。"
+    },
+    {
+      "en": "Few members planned to vote for him.",
+      "zh": "很少有成员计划投他的票。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "有计划的；根据计划的",
+      "words": [
+        "studied",
+        "designed",
+        "shaped",
+        "calculated"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "打算（plan的过去分词）；设计",
+      "words": [
+        "intended",
+        "designed"
+      ]
+    }
+  ]
+}

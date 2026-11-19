@@ -1,0 +1,43 @@
+{
+  "word": "cafeteria",
+  "found": true,
+  "phonetic_uk": "ˌkæfəˈtɪəriə",
+  "phonetic_us": "ˌkæfəˈtɪriə",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cafeteria&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cafeteria&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "自助食堂，自助餐馆"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "cafeterias"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Does the college cafeteria provide a healthful diet?",
+      "zh": "此大学餐厅是否供应有益健康的膳食？"
+    },
+    {
+      "en": "People are sprawled on makeshift beds in the cafeteria.",
+      "zh": "人们四仰八叉地躺在食堂里搭起的临时床铺上。"
+    },
+    {
+      "en": "I went and had an overpriced cup of coffee in the hotel cafeteria.",
+      "zh": "我到宾馆的自助餐厅里喝了杯过于昂贵的咖啡。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "自助餐厅",
+      "words": [
+        "self-service restaurant"
+      ]
+    }
+  ]
+}

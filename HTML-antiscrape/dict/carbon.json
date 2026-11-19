@@ -1,0 +1,51 @@
+{
+  "word": "carbon",
+  "found": true,
+  "phonetic_uk": "ˈkɑːbən",
+  "phonetic_us": "ˈkɑːrbən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=carbon&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=carbon&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "碳；复写纸；炭精棒；碳纤维"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "碳的，碳处理的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Carbon）（英）卡本，（西）卡尔翁，（法）卡尔邦（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "carbons"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Carbon has a valency of 4.",
+      "zh": "碳的化合价是4价。"
+    },
+    {
+      "en": "CO is the formula for carbon monoxide.",
+      "zh": "CO是一氧化碳的分子式。"
+    },
+    {
+      "en": "Organic compounds contain carbon in their molecules.",
+      "zh": "有机化合物的分子里含碳。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[化学]碳；碳棒；复写纸",
+      "words": [
+        "kryptol"
+      ]
+    }
+  ]
+}

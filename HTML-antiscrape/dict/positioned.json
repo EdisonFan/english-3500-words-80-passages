@@ -1,0 +1,43 @@
+{
+  "word": "positioned",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "pəˈzɪʃnd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=positioned&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=positioned&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "放置的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "放置；确定……的位置（position 的过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She quickly positioned herself behind the desk.",
+      "zh": "她迅速在桌子后面就位。"
+    },
+    {
+      "en": "Flaming torches were positioned at intervals along the terrace.",
+      "zh": "走廊上间隔地插着燃烧着的火炬。"
+    },
+    {
+      "en": "The company is now well positioned to compete in foreign markets.",
+      "zh": "现在这家公司已准备好在国外市场竞争。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "放置；确定…的位置（position的过去分词）",
+      "words": [
+        "placed",
+        "deposited"
+      ]
+    }
+  ]
+}

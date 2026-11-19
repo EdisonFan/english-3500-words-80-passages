@@ -1,0 +1,64 @@
+{
+  "word": "option",
+  "found": true,
+  "phonetic_uk": "ˈɒpʃ(ə)n",
+  "phonetic_us": "ˈɑːpʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=option&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=option&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "可选择的事物；选择，选择权；（将来的）买卖选择权利，期权；（计算机程序中的）选项；<英>选修课；（购买新设备，尤其是汽车时提供的）附件，配件"
+    },
+    {
+      "pos": "v.",
+      "meaning": "买卖（某物的）期权"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "options"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "options"
+    },
+    {
+      "name": "现在分词",
+      "value": "optioning"
+    },
+    {
+      "name": "过去式",
+      "value": "optioned"
+    },
+    {
+      "name": "过去分词",
+      "value": "optioned"
+    }
+  ],
+  "examples": [
+    {
+      "en": "A luggage rack is a sensible option.",
+      "zh": "行李架是个明智的选择。"
+    },
+    {
+      "en": "Personally, I prefer the second option.",
+      "zh": "就我个人而言，我倾向第二种选择。"
+    },
+    {
+      "en": "This option is preferable to any other.",
+      "zh": "这个选择比其他任何一个都好。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计]选项；选择权；买卖的特权",
+      "words": [
+        "election",
+        "choice"
+      ]
+    }
+  ]
+}

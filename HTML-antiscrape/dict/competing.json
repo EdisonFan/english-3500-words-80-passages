@@ -1,0 +1,42 @@
+{
+  "word": "competing",
+  "found": true,
+  "phonetic_uk": "kəmˈpiːtɪŋ",
+  "phonetic_us": "kəmˈpiːtɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=competing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=competing&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（企业）竞争；（人）争夺；能匹敌；参赛（compete 的现在分词）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "相互矛盾的；相互竞争的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Several companies are competing for the contract.",
+      "zh": "为得到那项合同，几家公司正在竞争。"
+    },
+    {
+      "en": "Hardware shops are competing fiercely for business.",
+      "zh": "各五金店正在为抢生意而激烈竞争。"
+    },
+    {
+      "en": "The market for which they are competing is still unformed.",
+      "zh": "他们竞争的市场尚未成型。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "相互矛盾的；抵触的",
+      "words": [
+        "contradictive"
+      ]
+    }
+  ]
+}

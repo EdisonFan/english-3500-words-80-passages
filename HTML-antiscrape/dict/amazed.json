@@ -1,0 +1,43 @@
+{
+  "word": "amazed",
+  "found": true,
+  "phonetic_uk": "əˈmeɪzd",
+  "phonetic_us": "əˈmeɪzd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=amazed&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=amazed&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "惊奇的，惊讶的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使惊奇，使惊愕（amaze 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We were amazed by the play's success.",
+      "zh": "我们惊叹该剧的成功。"
+    },
+    {
+      "en": "Just the size of the place amazed her.",
+      "zh": "仅仅地方之大就使她十分惊奇。"
+    },
+    {
+      "en": "Just the huge size of the place amazed her.",
+      "zh": "仅仅地方之大就使她十分惊奇。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "惊奇的，吃惊的",
+      "words": [
+        "astonished",
+        "aghast"
+      ]
+    }
+  ]
+}

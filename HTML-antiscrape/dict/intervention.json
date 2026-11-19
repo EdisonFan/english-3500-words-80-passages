@@ -1,0 +1,44 @@
+{
+  "word": "intervention",
+  "found": true,
+  "phonetic_uk": "ˌɪntəˈvenʃ(ə)n",
+  "phonetic_us": "ˌɪntərˈvenʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=intervention&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=intervention&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "干预，介入；调停，斡旋；（为改善情况尤指病痛采取的）措施，做法"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "interventions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Military intervention will only aggravate the conflict even further.",
+      "zh": "军事介入只会使冲突加剧。"
+    },
+    {
+      "en": "Many people felt he would be hostile to the idea of foreign intervention.",
+      "zh": "许多人觉得他会反对外来干预。"
+    },
+    {
+      "en": "Schools are inadequately equipped to implement any intervention.",
+      "zh": "学校没有足够的能力来实施任何干预措施。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "介入；调停；妨碍",
+      "words": [
+        "prevention",
+        "violation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "word": "american",
+  "found": true,
+  "phonetic_uk": "əˈmerɪkən",
+  "phonetic_us": "əˈmerɪkən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=american&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=american&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（American）美国人；美国英语"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "（American）美国的；美国人的；美洲的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（American）（巴、俄、印、墨、美）艾默力看（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I'm not American, I'm Canadian.",
+      "zh": "我不是美国人，我是加拿大人。"
+    },
+    {
+      "en": "He put on an American accent.",
+      "zh": "他假操着一口美国腔。"
+    },
+    {
+      "en": "The American flag was flying.",
+      "zh": "美国国旗飘扬。"
+    }
+  ],
+  "synonyms": []
+}

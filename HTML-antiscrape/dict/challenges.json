@@ -1,0 +1,43 @@
+{
+  "word": "challenges",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˈtʃælɪndʒɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=challenges&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=challenges&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "挑战（challenge 复数形式）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "向……挑战（challenge 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The future is going to be one that presents many challenges.",
+      "zh": "未来将会带来许多挑战。"
+    },
+    {
+      "en": "The government performed competently in the face of multiple challenges.",
+      "zh": "政府在面临多重挑战时表现得很出色。"
+    },
+    {
+      "en": "The company faces major challenges over the course of the next few years.",
+      "zh": "这家公司今后几年将面临重大的挑战。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "挑战（challenge复数形式）",
+      "words": [
+        "dare",
+        "defi"
+      ]
+    }
+  ]
+}

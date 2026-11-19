@@ -1,0 +1,65 @@
+{
+  "word": "phase",
+  "found": true,
+  "phonetic_uk": "feɪz",
+  "phonetic_us": "feɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=phase&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=phase&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（发展或变化的）阶段，时期；做出某种行为的短时期；（动物生活周期或年周期的）阶段，期；（月亮的）位相，盈亏；同步，协调；（化）相；（动）（由遗传或季节引起的）动物颜色变化（期）；（物理）相位，相角；（线圈的）匝，（多相电机或电路的）连接；（语言学）（系统语法用语）相（指链接动词与后续动词的关系）；相结构（含有链接动词和后续动词的结构）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "分阶段进行；（物理）使相位同步，使定相"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "phases"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "phases"
+    },
+    {
+      "name": "现在分词",
+      "value": "phasing"
+    },
+    {
+      "name": "过去式",
+      "value": "phased"
+    },
+    {
+      "name": "过去分词",
+      "value": "phased"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The investigation has entered a new phase.",
+      "zh": "调查已进入新阶段。"
+    },
+    {
+      "en": "The crisis is entering a crucial, critical phase.",
+      "zh": "危机正进入一个至关重要的决定性阶段。"
+    },
+    {
+      "en": "Today we enter the hottest phase of the election campaign.",
+      "zh": "今天我们进入了竞选活动最激烈的阶段。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[物]相；阶��；[天]位相",
+      "words": [
+        "stage",
+        "age",
+        "grade"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "word": "embarrassed",
+  "found": true,
+  "phonetic_uk": "ɪmˈbærəst",
+  "phonetic_us": "ɪmˈbærəst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=embarrassed&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=embarrassed&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "尴尬的，窘迫的；拮据的，陷入经济困境的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）尴尬，窘迫；使难堪，使为难（embarrass 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "His clumsiness embarrassed him.",
+      "zh": "他的笨拙令他尴尬。"
+    },
+    {
+      "en": "He looked faintly embarrassed.",
+      "zh": "他显得有点难堪。"
+    },
+    {
+      "en": "He looked a bit embarrassed.",
+      "zh": "他看上去有点尴尬。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "尴尬的；窘迫的",
+      "words": [
+        "awkward",
+        "abashed"
+      ]
+    }
+  ]
+}

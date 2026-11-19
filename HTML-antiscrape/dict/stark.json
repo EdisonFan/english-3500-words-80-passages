@@ -1,0 +1,69 @@
+{
+  "word": "stark",
+  "found": true,
+  "phonetic_uk": "stɑːk",
+  "phonetic_us": "stɑːrk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=stark&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=stark&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "荒凉的；严酷的；明显的，鲜明的；完全的，十足的；健壮的，结实的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "完全地；彻底地"
+    },
+    {
+      "pos": "n.",
+      "meaning": "【名】（Stark）（俄、罗）斯塔尔克，（德）施塔克，（英、芬、法、瑞典）斯塔克（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "starker"
+    },
+    {
+      "name": "最高级",
+      "value": "starkest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Stark took two whiskeys from a tray.",
+      "zh": "斯塔克从托盘里拿了两杯威士忌。"
+    },
+    {
+      "en": "Social divisions in the city are stark.",
+      "zh": "城市里各社会阶层有明确的分野。"
+    },
+    {
+      "en": "She seemed to have gone stark raving mad.",
+      "zh": "她好像是完全疯了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "完全的；荒凉的；刻板的；光秃秃的；朴实的",
+      "words": [
+        "full",
+        "complete",
+        "absolute",
+        "total",
+        "wild"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "完全；明显地；突出地；质朴地",
+      "words": [
+        "obviously",
+        "clearly",
+        "very",
+        "broadly"
+      ]
+    }
+  ]
+}

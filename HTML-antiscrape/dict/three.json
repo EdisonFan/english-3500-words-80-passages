@@ -1,0 +1,59 @@
+{
+  "word": "three",
+  "found": true,
+  "phonetic_uk": "θriː",
+  "phonetic_us": "θriː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=three&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=three&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "三，三个"
+    },
+    {
+      "pos": "num.",
+      "meaning": "三"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "三的，三个的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "threes"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They have three small children.",
+      "zh": "他们有三个年幼的孩子。"
+    },
+    {
+      "en": "Three runners sprinted past.",
+      "zh": "三名运动员飞跑了过去。"
+    },
+    {
+      "en": "He's got three children.",
+      "zh": "他有三个孩子。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "三，三个",
+      "words": [
+        "trois"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "三的，三个的",
+      "words": [
+        "trinal",
+        "ternate"
+      ]
+    }
+  ]
+}

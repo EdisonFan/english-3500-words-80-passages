@@ -1,0 +1,67 @@
+{
+  "word": "tool",
+  "found": true,
+  "phonetic_uk": "tuːl",
+  "phonetic_us": "tuːl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=tool&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=tool&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（尤指手用）工具；（完成工作或达到目标的）工具，手段；受人利用的人，工具；<忌，俚>阴茎；容易被利用（或欺骗）的人，蠢人；（计算机）工具；（书籍装订时的）压印图案"
+    },
+    {
+      "pos": "v.",
+      "meaning": "驱车兜风，驾车到处跑；（用工具）制作，在（皮革，尤指书籍的皮革封面）上压印图案；（为生产而）配置设备；凿刻（石头）；<英，非正式>（尤指为犯罪活动而）武装"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "tools"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "tools"
+    },
+    {
+      "name": "现在分词",
+      "value": "tooling"
+    },
+    {
+      "name": "过去式",
+      "value": "tooled"
+    },
+    {
+      "name": "过去分词",
+      "value": "tooled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This tool is used for shaping wood.",
+      "zh": "这个工具是用来加工木料的。"
+    },
+    {
+      "en": "What is this tool for?",
+      "zh": "这个工具是干什么用的？"
+    },
+    {
+      "en": "This tool can be used in a variety of ways.",
+      "zh": "这一工具有多种用途。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[机]工具，用具；器械，机床；手段",
+      "words": [
+        "instrument",
+        "facilities",
+        "vehicle",
+        "engine",
+        "implement"
+      ]
+    }
+  ]
+}

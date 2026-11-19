@@ -1,0 +1,77 @@
+{
+  "word": "retire",
+  "found": true,
+  "phonetic_uk": "rɪˈtaɪə(r)",
+  "phonetic_us": "rɪˈtaɪər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=retire&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=retire&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（令）退职，（使）退休；（专业运动员）退役；（因受伤、生病而）退出比赛；使（击球手）出局；<正式> 退出，离开（去安静的地方）；<文> 睡觉，就寝；（陪审团）退庭表决；<正式>（军队）撤退；命令（部队）撤退；停止使用，使报废；收回（票据，纸币），使停止流通；清偿，付清（债务）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "退休，退隐"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "retires"
+    },
+    {
+      "name": "现在分词",
+      "value": "retiring"
+    },
+    {
+      "name": "过去式",
+      "value": "retired"
+    },
+    {
+      "name": "过去分词",
+      "value": "retired"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He has announced his intention to retire.",
+      "zh": "他已经宣布他打算退休。"
+    },
+    {
+      "en": "He is to retire on his sixtieth birthday.",
+      "zh": "他将在60岁生日时退休。"
+    },
+    {
+      "en": "Employees can retire at 60 if they choose.",
+      "zh": "如果雇员愿意的话，可在60岁退休。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "退休；撤退；退却",
+      "words": [
+        "withdraw",
+        "beat a retreat"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "退休；离开；收回",
+      "words": [
+        "leave",
+        "split",
+        "quit"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "退休；退隐；退兵信号",
+      "words": [
+        "superannuation",
+        "sequestration"
+      ]
+    }
+  ]
+}

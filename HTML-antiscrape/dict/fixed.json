@@ -1,0 +1,55 @@
+{
+  "word": "fixed",
+  "found": true,
+  "phonetic_uk": "fɪkst",
+  "phonetic_us": "fɪkst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fixed&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fixed&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "固定的；（神情）僵硬的；确定的，不变的；顽固的，固执的；（比赛、选举等）被操纵的；<美，非正式>（经济上）处境……的；不易挥发的，形成化合物的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "修理（fix 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more fixed"
+    },
+    {
+      "name": "最高级",
+      "value": "most fixed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It is fixed on the wall.",
+      "zh": "它是固定在墙上的。"
+    },
+    {
+      "en": "Many restaurants offer fixed-price menus.",
+      "zh": "很多餐馆提供固定价格的菜单。"
+    },
+    {
+      "en": "Sarah fixed some food for us.",
+      "zh": "萨拉为我们准备了一些食物。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "固执的；<美口>处境...的；准备好的；确定的",
+      "words": [
+        "established",
+        "persistent",
+        "prepared",
+        "defined",
+        "positive"
+      ]
+    }
+  ]
+}

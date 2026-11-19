@@ -1,0 +1,62 @@
+{
+  "word": "surrounding",
+  "found": true,
+  "phonetic_uk": "səˈraʊndɪŋ",
+  "phonetic_us": "səˈraʊndɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=surrounding&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=surrounding&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "周围的，附近的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "周围环境（surroundings）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "围绕，环绕；包围，围住；与……紧密相连（或相关）（surround 的现在分词形式）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "surroundings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The farm and surrounding area was flooded.",
+      "zh": "农场和周围地区遭洪水淹没。"
+    },
+    {
+      "en": "The surrounding countryside is windswept and rocky.",
+      "zh": "这周围的乡村风多石头多。"
+    },
+    {
+      "en": "We searched the surrounding neighbourhood for the missing boy.",
+      "zh": "我们在附近寻找失踪的男孩儿。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "周围的，附近的",
+      "words": [
+        "environmental",
+        "ambient"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "环境，周围的事物",
+      "words": [
+        "context",
+        "circumstance",
+        "setting",
+        "condition"
+      ]
+    }
+  ]
+}

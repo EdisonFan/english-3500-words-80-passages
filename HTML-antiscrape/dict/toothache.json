@@ -1,0 +1,44 @@
+{
+  "word": "toothache",
+  "found": true,
+  "phonetic_uk": "ˈtuːθeɪk",
+  "phonetic_us": "ˈtuːθeɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=toothache&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=toothache&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[口腔] 牙痛"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "toothaches"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I've got a toothache.",
+      "zh": "我牙疼。"
+    },
+    {
+      "en": "I've got toothache.",
+      "zh": "我牙疼。"
+    },
+    {
+      "en": "He's got a toothache.",
+      "zh": "他牙痛。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[口腔]牙痛",
+      "words": [
+        "odontalgia",
+        "dentagra"
+      ]
+    }
+  ]
+}

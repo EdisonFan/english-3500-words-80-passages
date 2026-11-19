@@ -1,0 +1,58 @@
+{
+  "word": "means",
+  "found": true,
+  "phonetic_uk": "miːnz",
+  "phonetic_us": "miːnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=means&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=means&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "手段，方法；金钱"
+    },
+    {
+      "pos": "v.",
+      "meaning": "意味着；表示……的意思，作……的解释；打算，意欲（mean 的第三人称单数）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "means"
+    }
+  ],
+  "examples": [
+    {
+      "en": "My family means everything to me.",
+      "zh": "对我来说家庭意味着一切。"
+    },
+    {
+      "en": "In practical terms , it means spending less.",
+      "zh": "具体点说，那意味着少花些钱。"
+    },
+    {
+      "en": "Money means nothing to him.",
+      "zh": "金钱对于他来说毫无价值。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "手段；方法；财产（mean的复数）",
+      "words": [
+        "ways",
+        "methods",
+        "techniques",
+        "modes",
+        "assets"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "意思是；打算（mean的第三人称单数）",
+      "words": [
+        "purposes"
+      ]
+    }
+  ]
+}

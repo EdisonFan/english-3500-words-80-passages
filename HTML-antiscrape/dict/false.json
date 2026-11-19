@@ -1,0 +1,62 @@
+{
+  "word": "false",
+  "found": true,
+  "phonetic_uk": "fɔːls",
+  "phonetic_us": "fɔːls",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=false&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=false&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "错误的，不真实的；伪造的；人造的；站不住脚的，全无根据的；不真诚的；不忠诚的；外表上与……相似的；非法的；妄动的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "欺诈地"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "falser"
+    },
+    {
+      "name": "最高级",
+      "value": "falsest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The thief used a false identity.",
+      "zh": "窃贼使用的是假身份。"
+    },
+    {
+      "en": "The whole argument rests on a false assumption.",
+      "zh": "整个论证都是基于一个错误的假设。"
+    },
+    {
+      "en": "He hid behind a false identity.",
+      "zh": "他隐姓埋名。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "错误的；虚伪的；伪造的",
+      "words": [
+        "artificial",
+        "wrong",
+        "incorrect",
+        "improper",
+        "inaccurate"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "欺诈地",
+      "words": [
+        "trickily"
+      ]
+    }
+  ]
+}

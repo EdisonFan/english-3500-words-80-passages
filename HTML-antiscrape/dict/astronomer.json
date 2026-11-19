@@ -1,0 +1,43 @@
+{
+  "word": "astronomer",
+  "found": true,
+  "phonetic_uk": "əˈstrɒnəmə(r)",
+  "phonetic_us": "əˈstrɑːnəmər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=astronomer&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=astronomer&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "天文学家"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "astronomers"
+    }
+  ],
+  "examples": [
+    {
+      "en": "My ideal is to be an astronomer.",
+      "zh": "我的理想是当一个天文学家。"
+    },
+    {
+      "en": "One day, an astronomer came to the village.",
+      "zh": "一天，村子里来了一个天文学家。"
+    },
+    {
+      "en": "She was an astronomer to help work on the project.",
+      "zh": "她是来协助帮助完成这个项目的天文学家。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[天]天文学家",
+      "words": [
+        "stargazer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "barriers",
+  "found": true,
+  "phonetic_uk": "ˈbæriəz",
+  "phonetic_us": "ˈbæriərz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=barriers&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=barriers&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "障碍；栅栏；篱笆墙（barrier 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The barriers kept the crowd back.",
+      "zh": "障碍物拦住了人群。"
+    },
+    {
+      "en": "The crowd had to stand behind barriers.",
+      "zh": "人群只好站在障碍物后面。"
+    },
+    {
+      "en": "He hurdled two barriers to avoid reporters.",
+      "zh": "他跳过了两个障碍物以躲避记者。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "障碍；栅栏；篱笆墙（barrier的复数形式）",
+      "words": [
+        "obstacles",
+        "bars",
+        "hurdles"
+      ]
+    }
+  ]
+}

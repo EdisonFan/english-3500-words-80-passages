@@ -1,0 +1,51 @@
+{
+  "word": "ice-cream",
+  "found": true,
+  "phonetic_uk": "ˈaɪs kriːm",
+  "phonetic_us": "ˈaɪs kriːm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ice-cream&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ice-cream&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "冰淇淋的；乳白色的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "冰淇淋"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He had an ice-cream soda.",
+      "zh": "他喝了一杯冰激凌果味汽水。"
+    },
+    {
+      "en": "She had homemade ice cream for dessert.",
+      "zh": "她吃了些自制冰淇淋当餐后甜点。"
+    },
+    {
+      "en": "I'll bet they have yummy ice cream.",
+      "zh": "我打赌他们有好吃的冰激淋。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "冰淇淋的；乳白色的",
+      "words": [
+        "milky",
+        "opalescent"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "冰淇淋",
+      "words": [
+        "ice",
+        "gelato"
+      ]
+    }
+  ]
+}

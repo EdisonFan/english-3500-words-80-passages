@@ -1,0 +1,85 @@
+{
+  "word": "crop",
+  "found": true,
+  "phonetic_uk": "krɒp",
+  "phonetic_us": "krɑːp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=crop&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=crop&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "庄稼；（谷物或水果的）收成，产量；（同时涌现的）一批，一帮；平头，短发；（尤指头发）大量，丰富；短马鞭；（鸟的）嗉囊；（农场一年的）牲口总数；鞣制的整张兽皮"
+    },
+    {
+      "pos": "v.",
+      "meaning": "剪短；剪裁（照片）；（牲畜）啃吃（草）；种植（庄稼）；收获"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "crops"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "crops"
+    },
+    {
+      "name": "现在分词",
+      "value": "cropping"
+    },
+    {
+      "name": "过去式",
+      "value": "cropped"
+    },
+    {
+      "name": "过去分词",
+      "value": "cropped"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The staple crop is rice.",
+      "zh": "主要农作物为水稻。"
+    },
+    {
+      "en": "Sugar is an important crop on the island.",
+      "zh": "糖料作物是这个岛上的一种重要作物。"
+    },
+    {
+      "en": "Cranberries are a major cash crop in New Jersey.",
+      "zh": "蔓越橘是新泽西州的一种主要经济作物。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "产量；农作物；[作物]庄稼；平头",
+      "words": [
+        "output",
+        "yield",
+        "plant",
+        "harvest"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "种植；收割；修剪；剪短",
+      "words": [
+        "plant",
+        "shear",
+        "grow",
+        "gather",
+        "harvest"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "[农学]收获",
+      "words": [
+        "to harvest",
+        "get in"
+      ]
+    }
+  ]
+}

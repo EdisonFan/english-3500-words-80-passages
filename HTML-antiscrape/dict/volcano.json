@@ -1,0 +1,35 @@
+{
+  "word": "volcano",
+  "found": true,
+  "phonetic_uk": "vɒlˈkeɪnəʊ",
+  "phonetic_us": "vɑːlˈkeɪnoʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=volcano&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=volcano&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "火山"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "volcanoes或volcanos"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He is painting a huge volcano.",
+      "zh": "他正在画一座巨型火山。"
+    },
+    {
+      "en": "An active volcano may erupt at any time.",
+      "zh": "活火山会随时喷发。"
+    },
+    {
+      "en": "Sulphur gases were emitted by the volcano.",
+      "zh": "硫磺气体由火山喷发出来。"
+    }
+  ],
+  "synonyms": []
+}

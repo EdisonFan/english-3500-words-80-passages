@@ -1,0 +1,40 @@
+{
+  "word": "findings",
+  "found": true,
+  "phonetic_uk": "ˈfaɪndɪŋz",
+  "phonetic_us": "ˈfaɪndɪŋz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=findings&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=findings&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "发现，调查结果；检验发现的情况（finding 复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "These results conflict with earlier findings.",
+      "zh": "这些结果与早期的发现相矛盾。"
+    },
+    {
+      "en": "Their findings have been widely disseminated.",
+      "zh": "他们的研究成果已经广为传播。"
+    },
+    {
+      "en": "It behoves us to study these findings carefully.",
+      "zh": "我们理应认真研究这些发现。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "发现，调查结果；检验发现的情况（finding复数）",
+      "words": [
+        "discovery",
+        "occurrence",
+        "detection"
+      ]
+    }
+  ]
+}

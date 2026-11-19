@@ -1,0 +1,47 @@
+{
+  "word": "arguing",
+  "found": true,
+  "phonetic_uk": "ˈɑːɡjuːɪŋ",
+  "phonetic_us": "ˈɑːrɡjuːɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=arguing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=arguing&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "争吵；争辩（argue 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "My brothers are always arguing.",
+      "zh": "我的兄弟们总是争论不休。"
+    },
+    {
+      "en": "I've had enough of their endless arguing.",
+      "zh": "我听够了他们无休止的争吵。"
+    },
+    {
+      "en": "Constant arguing doesn't make for a happy marriage.",
+      "zh": "不断争吵不可能使婚姻幸福。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "争吵（argue的ing形式）；争辩",
+      "words": [
+        "wrangling",
+        "disputing"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "争吵",
+      "words": [
+        "brush",
+        "dispute"
+      ]
+    }
+  ]
+}

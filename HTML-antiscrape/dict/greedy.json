@@ -1,0 +1,51 @@
+{
+  "word": "greedy",
+  "found": true,
+  "phonetic_uk": "ˈɡriːdi",
+  "phonetic_us": "ˈɡriːdi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=greedy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=greedy&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "贪婪的，贪心的；贪吃的，嘴馋的；渴望的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "greedier"
+    },
+    {
+      "name": "最高级",
+      "value": "greediest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He attacked greedy bosses for awarding themselves big raises.",
+      "zh": "他攻击那些给自己大幅涨工资的贪婪的老板们。"
+    },
+    {
+      "en": "Genesis recorded a song which took a swipe at greedy property developers who bought up and demolished people's homes.",
+      "zh": "吉尼西丝录制了一首歌曲，对买下并拆毁他人家园的贪婪房地产开发商进行抨击。"
+    },
+    {
+      "en": "Mary became an honest girl and was never greedy again.",
+      "zh": "玛丽成了一个诚实的女孩，再也不贪心了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "贪婪的；贪吃的；渴望的",
+      "words": [
+        "eager",
+        "hungry",
+        "anxious",
+        "desired",
+        "sick"
+      ]
+    }
+  ]
+}

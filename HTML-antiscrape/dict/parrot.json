@@ -1,0 +1,68 @@
+{
+  "word": "parrot",
+  "found": true,
+  "phonetic_uk": "ˈpærət",
+  "phonetic_us": "ˈpærət",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=parrot&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=parrot&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "鹦鹉；学舌者，机械模仿别人的人"
+    },
+    {
+      "pos": "v.",
+      "meaning": "机械地模仿，鹦鹉学舌般重复"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Parrot）（英、俄、葡）帕罗特，（法）帕罗（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "parrots"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "parrots"
+    },
+    {
+      "name": "现在分词",
+      "value": "parroting"
+    },
+    {
+      "name": "过去式",
+      "value": "parroted"
+    },
+    {
+      "name": "过去分词",
+      "value": "parroted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Generations of students have learned to parrot the standard explanations.",
+      "zh": "一届又一届的学生学会了鹦鹉学舌般地重复标准的解释。"
+    },
+    {
+      "en": "Does your parrot have a swing?",
+      "zh": "你的鹦鹉有秋千吗？"
+    },
+    {
+      "en": "Which colored parrot do you like?",
+      "zh": "你喜欢哪个颜色的鹦鹉？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[鸟]鹦鹉；学舌者，应声虫；机械模仿别人的人",
+      "words": [
+        "Nuri",
+        "popinjay"
+      ]
+    }
+  ]
+}

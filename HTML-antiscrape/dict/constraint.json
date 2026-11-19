@@ -1,0 +1,44 @@
+{
+  "word": "constraint",
+  "found": true,
+  "phonetic_uk": "kənˈstreɪnt",
+  "phonetic_us": "kənˈstreɪnt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=constraint&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=constraint&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "限制，束缚；克制，拘束"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "constraints"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Journalists were given the freedom to visit, investigate, and report without constraint.",
+      "zh": "新闻记者被赋予在没有约束下参观、调查和报道的自由。"
+    },
+    {
+      "en": "The boy felt constraint in her presence.",
+      "zh": "那男孩在她面前感到局促不安。"
+    },
+    {
+      "en": "The terrible constraint on organ transplantation is that every life extended depends on the death of someone young enough and healthy enough to have organs worth transplanting.",
+      "zh": "器官移植的可怕约束是，一个人生命的延长要依赖于另一个足够年轻、健康的人的死亡，因为只有这些人身上才有值得移植的器官。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[数]约束；局促，态度不自然；强制",
+      "words": [
+        "enforcement",
+        "restriction"
+      ]
+    }
+  ]
+}

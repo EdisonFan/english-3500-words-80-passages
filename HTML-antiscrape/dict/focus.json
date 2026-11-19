@@ -1,0 +1,84 @@
+{
+  "word": "focus",
+  "found": true,
+  "phonetic_uk": "ˈfəʊkəs",
+  "phonetic_us": "ˈfoʊkəs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=focus&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=focus&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "重点，中心点；关注，注意；震源；目的，意图；焦距；病灶；调焦装置；目的明确，专注；（椭圆、抛物线等曲线的）焦点"
+    },
+    {
+      "pos": "v.",
+      "meaning": "集中，关注；聚焦，调焦；<语言学>以（句子的一部分）为焦点（或重心）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Focus）（瑞典）福库斯 (人名)"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "focuses或foci"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "focuses或focusses"
+    },
+    {
+      "name": "现在分词",
+      "value": "focusing或focussing"
+    },
+    {
+      "name": "过去式",
+      "value": "focused或focussed"
+    },
+    {
+      "name": "过去分词",
+      "value": "focused或focussed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He prefers to focus on the positive.",
+      "zh": "他更愿意关注积极面。"
+    },
+    {
+      "en": "Now the focus is on draining the water.",
+      "zh": "现在的焦点是排水。"
+    },
+    {
+      "en": "His comments provided a focus for debate.",
+      "zh": "他的评论提供了辩论的重点。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[光][数]焦点；中心；清晰；焦距",
+      "words": [
+        "center",
+        "hub",
+        "fairness"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使集中；[光][摄]使聚焦",
+      "words": [
+        "centralize"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "集中；[光][摄]聚焦；调节焦距",
+      "words": [
+        "concentrate",
+        "band"
+      ]
+    }
+  ]
+}

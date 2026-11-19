@@ -1,0 +1,38 @@
+{
+  "word": "songs",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "sɔːŋz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=songs&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=songs&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "歌曲，歌集（song 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We sang songs to pass the time.",
+      "zh": "我们借唱歌消磨时间。"
+    },
+    {
+      "en": "He just rehashes songs from the 60s.",
+      "zh": "他只是把60年代的歌曲稍加改编而已。"
+    },
+    {
+      "en": "He whistled and sang snatches of songs.",
+      "zh": "他边用口哨吹边唱了几个歌曲的片段。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "歌曲，歌集（song的复数）",
+      "words": [
+        "melodies"
+      ]
+    }
+  ]
+}

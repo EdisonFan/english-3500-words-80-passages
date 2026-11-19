@@ -1,0 +1,38 @@
+{
+  "word": "traveling",
+  "found": true,
+  "phonetic_uk": "ˈtræv(ə)lɪŋ",
+  "phonetic_us": "ˈtrævlɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=traveling&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=traveling&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "旅行（用）的；移动的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "旅行（travel 的现在分词）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "走步（等于 walking）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Traveling abroad is exciting.",
+      "zh": "出国旅行令人兴奋。"
+    },
+    {
+      "en": "Be careful while traveling.",
+      "zh": "旅行时要小心。"
+    },
+    {
+      "en": "Traveling can be expensive.",
+      "zh": "旅行可能会很贵。"
+    }
+  ],
+  "synonyms": []
+}

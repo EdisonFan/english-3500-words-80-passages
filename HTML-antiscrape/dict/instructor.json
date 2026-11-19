@@ -1,0 +1,44 @@
+{
+  "word": "instructor",
+  "found": true,
+  "phonetic_uk": "ɪnˈstrʌktə(r)",
+  "phonetic_us": "ɪnˈstrʌktər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=instructor&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=instructor&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "教练，导师；<美>大学讲师"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "instructors"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The plane was piloted by the instructor.",
+      "zh": "飞机由教练员驾驶。"
+    },
+    {
+      "en": "His sailing instructor fell overboard and nearly drowned during a lesson.",
+      "zh": "他的帆船教练在一次课上落水，差点溺死。"
+    },
+    {
+      "en": "She has had a number of different jobs, ranging from chef to swimming instructor.",
+      "zh": "她做过许多不同的工作，从厨师到游泳教练。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "指导书；教员；指导者",
+      "words": [
+        "mentor",
+        "guider"
+      ]
+    }
+  ]
+}

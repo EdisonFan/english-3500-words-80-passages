@@ -1,0 +1,42 @@
+{
+  "word": "improper",
+  "found": true,
+  "phonetic_uk": "ɪmˈprɒpə(r)",
+  "phonetic_us": "ɪmˈprɑːpər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=improper&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=improper&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "不正确的，错误的；不适当的；不合礼仪的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "It would be improper to comment at this stage.",
+      "zh": "在这个阶段发表评论并不恰当。"
+    },
+    {
+      "en": "Its image has been sullied by $9 billion in improper accounting.",
+      "zh": "其形象被90亿的假账所毁。"
+    },
+    {
+      "en": "The improper use of medicine could lead to severe adverse reactions.",
+      "zh": "用药不当会引起严重的不良反应。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "不正确的，错误的；不适当的；不合礼仪的",
+      "words": [
+        "false",
+        "wrong",
+        "incorrect",
+        "unhappy",
+        "inadequate"
+      ]
+    }
+  ]
+}

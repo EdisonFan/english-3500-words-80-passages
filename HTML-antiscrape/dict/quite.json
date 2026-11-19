@@ -1,0 +1,42 @@
+{
+  "word": "quite",
+  "found": true,
+  "phonetic_uk": "kwaɪt",
+  "phonetic_us": "kwaɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=quite&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=quite&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "相当，很；非常，十分；完全地，彻底地；（用于否定词后面表示某事不完全正确或清楚）不大确切地，差不多；<英>（表示赞同或理解）对，正是；（用于名词词组前，表示强调）出众的，了不起的；<西印度>自始至终，一路上"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I worked quite irregular hours.",
+      "zh": "我的工作时间很不固定。"
+    },
+    {
+      "en": "My position is quite different.",
+      "zh": "我的立场完全不同。"
+    },
+    {
+      "en": "He's quite a serious person.",
+      "zh": "他是一个相当严肃的人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "很；相当；完全",
+      "words": [
+        "greatly",
+        "badly",
+        "too",
+        "far",
+        "powerful"
+      ]
+    }
+  ]
+}

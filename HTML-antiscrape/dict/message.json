@@ -1,0 +1,82 @@
+{
+  "word": "message",
+  "found": true,
+  "phonetic_uk": "ˈmesɪdʒ",
+  "phonetic_us": "ˈmesɪdʒ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=message&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=message&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "口信，消息；（书籍、演讲等的）要旨，主题思想；（从大脑发给身体某部位或身体某部位向大脑发送的）信息；购物；<美>电视广告；<英>差使；启示，教训；（先知的）预言"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（尤指以电子形式）传送（信息）；通报"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "messages"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "messages"
+    },
+    {
+      "name": "现在分词",
+      "value": "messaging"
+    },
+    {
+      "name": "过去式",
+      "value": "messaged"
+    },
+    {
+      "name": "过去分词",
+      "value": "messaged"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I'll send you a text message.",
+      "zh": "我会给你发一条短信。"
+    },
+    {
+      "en": "Message understood. Over and out.",
+      "zh": "消息听懂了。通话完毕。"
+    },
+    {
+      "en": "A message is just coming through.",
+      "zh": "刚有消息传来。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "消息；差使；启示；预言；广告词",
+      "words": [
+        "news",
+        "prediction",
+        "word"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "报信，报告；[通信]报文",
+      "words": [
+        "inform of",
+        "report to"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "通知",
+      "words": [
+        "give notice",
+        "instruct",
+        "advise of"
+      ]
+    }
+  ]
+}

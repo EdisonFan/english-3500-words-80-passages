@@ -1,0 +1,84 @@
+{
+  "word": "drill",
+  "found": true,
+  "phonetic_uk": "drɪl",
+  "phonetic_us": "drɪl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=drill&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=drill&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "钻，钻机；训练，演习；粗斜纹布；条播沟；条播机；条播作物；<非正式>常规，正确步骤；尾角螺"
+    },
+    {
+      "pos": "v.",
+      "meaning": "钻孔；训练，演习；条播"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Drill）（德、英）德里尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "drills"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "drills"
+    },
+    {
+      "name": "现在分词",
+      "value": "drilling"
+    },
+    {
+      "name": "过去式",
+      "value": "drilled"
+    },
+    {
+      "name": "过去分词",
+      "value": "drilled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The drill has variable speed control.",
+      "zh": "这钻机有变速控制。"
+    },
+    {
+      "en": "This is not a fire drill—it's for real.",
+      "zh": "这不是救火演习—是真失火了。"
+    },
+    {
+      "en": "A plug had been inserted in the drill hole.",
+      "zh": "那个钻孔里已经塞上了塞子。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "训练；[矿业]钻孔机；钻子；[农机]播种机",
+      "words": [
+        "training",
+        "discipline"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "钻孔；训练",
+      "words": [
+        "bore a hole",
+        "counter sunk"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "钻孔；训练；[农机]条播",
+      "words": [
+        "discipline",
+        "coach"
+      ]
+    }
+  ]
+}

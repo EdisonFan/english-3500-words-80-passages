@@ -1,0 +1,44 @@
+{
+  "word": "kilometer",
+  "found": true,
+  "phonetic_uk": "kɪˈlɒmɪtə(r)；ˈkɪləmiːtə(r)",
+  "phonetic_us": "kɪˈlɑːmɪtər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=kilometer&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=kilometer&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "千米，公里（同 kilometre）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "kilometers"
+    }
+  ],
+  "examples": [
+    {
+      "en": "What's the area of Canada in square kilometer?",
+      "zh": "加拿大的面积有多少平方公里？"
+    },
+    {
+      "en": "She watched the train drag her car almost a kilometer down the railway tracks.",
+      "zh": "她看着火车把她的车沿着铁轨拖了将近一公里。"
+    },
+    {
+      "en": "The game included three events: full marathon, half marathon and 5 kilometer mini marathon.",
+      "zh": "比赛包括全程马拉松、半程马拉松和5公里迷你马拉松三个项目。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计量]公里；千米（等于kilometre）",
+      "words": [
+        "klick",
+        "klik"
+      ]
+    }
+  ]
+}

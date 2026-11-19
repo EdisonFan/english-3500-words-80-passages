@@ -1,0 +1,75 @@
+{
+  "word": "paper",
+  "found": true,
+  "phonetic_uk": "ˈpeɪpə(r)",
+  "phonetic_us": "ˈpeɪpər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=paper&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=paper&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "纸；报纸；（工作、学习或个人的）资料，文件（papers）；证明，证件（如护照、身份证等）（papers）；政府报告，官方政策文件；<英>考试，答卷；（研究）论文，（学术）讲话；<美>（学校课程的）学期论文；墙纸，壁纸；有价证券；手纸，卫生纸；<俚>（剧院等娱乐场所的）免费入场券"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用墙纸裱糊（墙壁）；用墙纸覆盖（洞，污点）（paper sth. over）；掩盖（尴尬问题）（paper sth. over）；<俚>发免费入场券使（剧院）满座"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "纸做的，纸质的；书面的，印刷的；纸上的，有名无实的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Paper）（俄）帕佩尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "papers"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "papers"
+    },
+    {
+      "name": "现在分词",
+      "value": "papering"
+    },
+    {
+      "name": "过去式",
+      "value": "papered"
+    },
+    {
+      "name": "过去分词",
+      "value": "papered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He folded the paper carefully.",
+      "zh": "他小心地把那张纸折起来。"
+    },
+    {
+      "en": "The review is in today's paper.",
+      "zh": "这篇评论刊登在今天的报纸上。"
+    },
+    {
+      "en": "Have you seen today's paper?",
+      "zh": "你看到今天的报纸没有？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[纸]纸；论文；文件；报纸",
+      "words": [
+        "thesis",
+        "dissertation",
+        "newspaper",
+        "document",
+        "file"
+      ]
+    }
+  ]
+}

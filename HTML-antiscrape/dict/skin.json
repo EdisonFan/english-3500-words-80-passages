@@ -1,0 +1,67 @@
+{
+  "word": "skin",
+  "found": true,
+  "phonetic_uk": "skɪn",
+  "phonetic_us": "skɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=skin&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=skin&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "皮，皮肤；兽皮，皮毛；（水果或蔬菜的）外皮；香肠衣；（液体表面凝结的）薄皮，薄层；（建筑物、飞机等的）外壳；<非正式>卷烟纸；（软件、网站等的）界面，皮肤；<英，非正式>光头；（盛液体的）皮囊；雪橇外皮，防滑底层（用海豹皮或其他材料做成，系于雪橇下侧以防攀登时向后滑动）；<非正式>（尤作爵士乐用语）鼓，鼓面；<非正式>色情文学作品（或影片）；<美>斯金牌戏（每一位玩牌者有一张牌，各自打赌这张牌不会是第一张与发出的牌配对）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "剥皮，削皮；擦破（身体某部位）；（伤口）长出新皮；<古>皮肤愈合；<非正式>（选手）轻松过球；<非正式>彻底击败，轻易击败（对手）；<非正式>骗取（某人的）钱财；<英，非正式>制作大麻香烟（skin up）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "skins"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "skins"
+    },
+    {
+      "name": "现在分词",
+      "value": "skinning"
+    },
+    {
+      "name": "过去式",
+      "value": "skinned"
+    },
+    {
+      "name": "过去分词",
+      "value": "skinned"
+    }
+  ],
+  "examples": [],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[解剖]皮肤；外皮",
+      "words": [
+        "dermis",
+        "cutis"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "剥皮",
+      "words": [
+        "shell",
+        "decorticate"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "愈合；长皮",
+      "words": [
+        "heal over",
+        "close up"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "word": "accuse",
+  "found": true,
+  "phonetic_uk": "əˈkjuːz",
+  "phonetic_us": "əˈkjuːz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=accuse&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=accuse&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "控告，指控；指责，谴责，归咎于"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "accuses"
+    },
+    {
+      "name": "现在分词",
+      "value": "accusing"
+    },
+    {
+      "name": "过去式",
+      "value": "accused"
+    },
+    {
+      "name": "过去分词",
+      "value": "accused"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He laughs loudly when I accuse him of fibbing.",
+      "zh": "我指控他撒谎时，他笑得很大声。"
+    },
+    {
+      "en": "His father would accuse him of neglecting his filial duties.",
+      "zh": "他父亲会指控他没有尽孝。"
+    },
+    {
+      "en": "Politicians accuse the media of talking up the possibility of a riot.",
+      "zh": "政客们谴责媒体夸大骚乱的可能性。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "控告，指控；谴责；归咎于",
+      "words": [
+        "blame",
+        "law"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "指责；控告",
+      "words": [
+        "law",
+        "come in for blame"
+      ]
+    }
+  ]
+}

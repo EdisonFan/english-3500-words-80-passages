@@ -1,0 +1,51 @@
+{
+  "word": "manner",
+  "found": true,
+  "phonetic_uk": "ˈmænə(r)",
+  "phonetic_us": "ˈmænər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=manner&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=manner&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "态度，举止；礼貌；方式；（文学或艺术的）风格；习俗；<正式>种类；（语法）方式状语，方式副词"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Manner）曼纳（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "manners"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She responded in like manner.",
+      "zh": "她以类似的方式作出了反应。"
+    },
+    {
+      "en": "Her manner was cold and distant.",
+      "zh": "她的态度冷漠而疏远。"
+    },
+    {
+      "en": "His manner was cold and unwelcoming.",
+      "zh": "他的态度很冰冷也不友好。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "方式；习惯；种类；规矩；风俗",
+      "words": [
+        "way of",
+        "mode",
+        "category",
+        "variety",
+        "nature"
+      ]
+    }
+  ]
+}

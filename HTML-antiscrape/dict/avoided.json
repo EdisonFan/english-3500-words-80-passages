@@ -1,0 +1,38 @@
+{
+  "word": "avoided",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "əˈvɔɪdɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=avoided&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=avoided&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "避免，防止；回避，避开；撤销，使无效（avoid 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He avoided giving a direct answer.",
+      "zh": "他回避作出直截了当的回答。"
+    },
+    {
+      "en": "The accident could have been avoided.",
+      "zh": "这个事故本来是可以避免的。"
+    },
+    {
+      "en": "Mr. Olsen has always avoided anointing any successor.",
+      "zh": "奥尔森先生总是避免指定任何继任者。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "避免；避免了；回避；使无效（avoid的过去式）",
+      "words": [
+        "prevented"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "teens",
+  "found": true,
+  "phonetic_uk": "tiːnz",
+  "phonetic_us": "tiːnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=teens&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=teens&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "十多岁，十几岁；青少年"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She began writing poetry in her teens.",
+      "zh": "她从十几岁开始写诗。"
+    },
+    {
+      "en": "Are mothers and teens inevitably at loggerheads?",
+      "zh": "母亲与青少年不可避免地会发生争执吗？"
+    },
+    {
+      "en": "I have never lost the weight I put on in my teens.",
+      "zh": "我在十几岁时增加的体重从没减下去过。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "十多岁，十几岁；青少年",
+      "words": [
+        "youths",
+        "callan"
+      ]
+    }
+  ]
+}

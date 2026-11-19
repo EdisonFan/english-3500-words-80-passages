@@ -1,0 +1,50 @@
+{
+  "word": "terms",
+  "found": true,
+  "phonetic_uk": "tɜːmz",
+  "phonetic_us": "tɜːrmz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=terms&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=terms&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "地位，关系；[法]条款；术语；措辞；价钱（term 的复数形式）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "把……称为（term 的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I'm not doing it on your terms.",
+      "zh": "我不会按你的条件办的。"
+    },
+    {
+      "en": "Madeleine is on good terms with Sarah.",
+      "zh": "马德琳和萨拉关系很好。"
+    },
+    {
+      "en": "The terms of employment are negotiable.",
+      "zh": "雇用的条件可以协商。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "地位，关系；[法]条款；术语；措辞；价钱（term的复数形式）",
+      "words": [
+        "connections",
+        "articles"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "把…称为（term的三单形式）",
+      "words": [
+        "labels"
+      ]
+    }
+  ]
+}

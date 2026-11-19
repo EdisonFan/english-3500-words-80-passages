@@ -1,0 +1,70 @@
+{
+  "word": "label",
+  "found": true,
+  "phonetic_uk": "ˈleɪb(ə)l",
+  "phonetic_us": "ˈleɪb(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=label&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=label&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "标签，标牌；称号，绰号；商标，品牌；唱片公司；（计算机）标记；示踪剂；带垂饰的横带"
+    },
+    {
+      "pos": "v.",
+      "meaning": "贴标签；把……不公正地称为；用示踪剂使（物质等）示踪"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Label）（美、法、巴）拉贝尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "labels"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "labels"
+    },
+    {
+      "name": "现在分词",
+      "value": "labelling或labeling"
+    },
+    {
+      "name": "过去式",
+      "value": "labelled或labeled"
+    },
+    {
+      "name": "过去分词",
+      "value": "labelled或labeled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She glued the label onto the box.",
+      "zh": "她把标签贴在箱子上。"
+    },
+    {
+      "en": "He peered at the label on the bottle.",
+      "zh": "他注视着瓶子上的标签。"
+    },
+    {
+      "en": "It's his first release for a major label.",
+      "zh": "这是他在大唱片公司发行的第一张唱片。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "标签；商标；签条",
+      "words": [
+        "ticket",
+        "brand",
+        "logo",
+        "tag"
+      ]
+    }
+  ]
+}

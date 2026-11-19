@@ -1,0 +1,64 @@
+{
+  "word": "woman",
+  "found": true,
+  "phonetic_uk": "ˈwʊmən",
+  "phonetic_us": "ˈwʊmən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=woman&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=woman&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "成年女子，妇女；（泛指）女性；来自……（或做……、喜欢……等）的女子；女工，女仆；妻子，情人；（盛气凌人的称呼）女人"
+    },
+    {
+      "pos": "v.",
+      "meaning": "让某人与女性交往；配备女性员工；<古>使女性化"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "women"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "womans"
+    },
+    {
+      "name": "现在分词",
+      "value": "womaning"
+    },
+    {
+      "name": "过去式",
+      "value": "womaned"
+    },
+    {
+      "name": "过去分词",
+      "value": "womaned"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She's a very attractive woman.",
+      "zh": "她是个非常迷人的女子。"
+    },
+    {
+      "en": "She was a very beautiful woman.",
+      "zh": "她是个非常美丽的女人。"
+    },
+    {
+      "en": "She's ever such a nice woman.",
+      "zh": "她是个非常好的女人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "妇女；女性；成年女子",
+      "words": [
+        "gentle sex",
+        "weaker sex"
+      ]
+    }
+  ]
+}

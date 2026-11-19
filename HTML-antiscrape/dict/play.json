@@ -1,0 +1,87 @@
+{
+  "word": "play",
+  "found": true,
+  "phonetic_uk": "pleɪ",
+  "phonetic_us": "pleɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=play&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=play&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "玩，玩耍；捉弄，戏弄；摆弄，玩弄；耍弄，愚弄；不认真地干，闹（play at）；参加（游戏、比赛等）；与……比赛；击，踢（球）；出（牌），走（棋子）；派（某人）上场；（在球队中）打（某位置）；扮演，演出；佯装，假装；假扮……玩；（戏剧或电影）上演，上映；演奏，弹奏；（使）播放；闪烁，浮现；（以某方式）行事，做事；（使）发射（或喷射、照射）；赌，投机；<美>被接受，被认可；（喻）合作，买某人的账；寄于；让（上钩的鱼）挣扎得筋疲力尽；（板球场状况对比赛）产生影响"
+    },
+    {
+      "pos": "n.",
+      "meaning": "剧本，戏剧；游戏，玩乐；比赛；比赛中的动作；（运动或游戏中的）打法，走法；活动空间，间隙；影响，作用；闪烁，变幻；玩笑；（音频或图像的）播放次数，播放时长；播放（功能）；<美>（报纸或电视的）关注；（对文字的）巧用，妙用"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Play）（法、瑞典）普莱（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "plays"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "plays"
+    },
+    {
+      "name": "现在分词",
+      "value": "playing"
+    },
+    {
+      "name": "过去式",
+      "value": "played"
+    },
+    {
+      "name": "过去分词",
+      "value": "played"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Let's play charades.",
+      "zh": "咱们来玩打哑谜猜字游戏吧。"
+    },
+    {
+      "en": "I also play squash.",
+      "zh": "我也玩壁球。"
+    },
+    {
+      "en": "How did they play?",
+      "zh": "他们的比赛表现怎样？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "[动]游戏；扮演；演奏；播放；同…比赛",
+      "words": [
+        "sport",
+        "broadcast"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "演奏；玩耍；上演；参加比赛",
+      "words": [
+        "put on",
+        "perform on"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[动]游戏；比赛；剧本",
+      "words": [
+        "game",
+        "competition",
+        "drama",
+        "sport",
+        "tournament"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "word": "motivation",
+  "found": true,
+  "phonetic_uk": "ˌməʊtɪˈveɪʃ(ə)n",
+  "phonetic_us": "ˌmoʊtɪˈveɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=motivation&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=motivation&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "动力，诱因；积极性，干劲；<南非>（支持请求或倡议的）事实与理由"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "motivations"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He's intelligent enough but he lacks motivation.",
+      "zh": "他很聪明，但缺乏积极性。"
+    },
+    {
+      "en": "What is the motivation behind this sudden change?",
+      "zh": "这种突然转变背后的动机是什么？"
+    },
+    {
+      "en": "He admitted a lack of motivation and a feeling of sloth.",
+      "zh": "他承认自己缺乏动力，感觉懒散。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "动机；积极性；推动",
+      "words": [
+        "incentive",
+        "reason",
+        "boost"
+      ]
+    }
+  ]
+}

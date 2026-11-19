@@ -1,0 +1,76 @@
+{
+  "word": "coin",
+  "found": true,
+  "phonetic_uk": "kɔɪn",
+  "phonetic_us": "kɔɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=coin&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=coin&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "硬币，金属货币；塔罗牌中的一种花色（coins）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "创造新词，首次使用；铸币，造币；<英，非正式>迅速而轻松地发财"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Coin）（西、意）科因，（法）库安（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "coins"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "coins"
+    },
+    {
+      "name": "现在分词",
+      "value": "coining"
+    },
+    {
+      "name": "过去式",
+      "value": "coined"
+    },
+    {
+      "name": "过去分词",
+      "value": "coined"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The coin rolled underneath the piano.",
+      "zh": "硬币滚到了钢琴底下。"
+    },
+    {
+      "en": "Let's toss a coin.",
+      "zh": "咱们掷硬币猜边儿决定吧。"
+    },
+    {
+      "en": "The inscription on the coin had worn away.",
+      "zh": "铸在这枚硬币上的文字已磨平了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "铸造（货币）；杜撰，创造",
+      "words": [
+        "invent",
+        "to create"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "硬币，钱币",
+      "words": [
+        "piece",
+        "specie"
+      ]
+    }
+  ]
+}

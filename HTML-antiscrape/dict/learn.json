@@ -1,0 +1,63 @@
+{
+  "word": "learn",
+  "found": true,
+  "phonetic_uk": "lɜːn",
+  "phonetic_us": "lɜːrn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=learn&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=learn&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "学习，学会；得知，获悉；背熟，熟记；认识到，（从……）吸取教训；<旧>教导（某人）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "learns"
+    },
+    {
+      "name": "现在分词",
+      "value": "learning"
+    },
+    {
+      "name": "过去式",
+      "value": "learnt或learned"
+    },
+    {
+      "name": "过去分词",
+      "value": "learnt或learned"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The kids were quick to learn.",
+      "zh": "那些孩子学东西很快。"
+    },
+    {
+      "en": "Where did you learn to weld?",
+      "zh": "你在哪里学会的焊接技术？"
+    },
+    {
+      "en": "Where did you learn to cook?",
+      "zh": "你在哪里学的烹调？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "学习；得知；认识到",
+      "words": [
+        "to study",
+        "linken"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "学习；获悉",
+      "words": [
+        "to study"
+      ]
+    }
+  ]
+}

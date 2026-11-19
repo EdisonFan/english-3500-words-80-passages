@@ -1,0 +1,80 @@
+{
+  "word": "fence",
+  "found": true,
+  "phonetic_uk": "fens",
+  "phonetic_us": "fens",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fence&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fence&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "篱笆，栅栏，围栏；（赛马中的）障碍物；<非正式>买卖赃物者，销赃犯；剑术；（刨子、锯子或其他工具的）防护装置，导向装置"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（用栅栏、篱笆或围栏）围住，隔开；击剑；巧妙回答，搪塞；出售（赃物）；防护，保卫"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "fences"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "fences"
+    },
+    {
+      "name": "现在分词",
+      "value": "fencing"
+    },
+    {
+      "name": "过去式",
+      "value": "fenced"
+    },
+    {
+      "name": "过去分词",
+      "value": "fenced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I tore my jeans on the fence.",
+      "zh": "我的牛仔裤被篱笆挂破了。"
+    },
+    {
+      "en": "Two birds settled on the fence.",
+      "zh": "两只鸟落在篱笆上。"
+    },
+    {
+      "en": "I ripped my jeans on the fence.",
+      "zh": "我的牛仔裤在栅栏上划破了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "栅栏；围墙；剑术",
+      "words": [
+        "bounding wall",
+        "perimeter wall"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "防护；用篱笆围住；练习剑术",
+      "words": [
+        "defend",
+        "forefend"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "击剑；搪塞；围以栅栏；跳过栅栏",
+      "words": [
+        "prevaricate",
+        "tergiversate"
+      ]
+    }
+  ]
+}

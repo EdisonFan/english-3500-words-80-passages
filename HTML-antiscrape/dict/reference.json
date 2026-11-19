@@ -1,0 +1,82 @@
+{
+  "word": "reference",
+  "found": true,
+  "phonetic_uk": "ˈrefrəns",
+  "phonetic_us": "ˈrefrəns",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=reference&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=reference&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "提及，谈到；参考，查阅；（引自书或诗歌的）引言，引文；引文的作者，参考书目；（帮助或意见的）征求，征询； (为方便查询所用的）标记，编号；推荐信，介绍信；介绍人，推荐人"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "参考的，用于查阅的；文献索引的，参照的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "列出……的参考书目；提及，提到；引用，参照（某书或某作者）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "references"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "references"
+    },
+    {
+      "name": "现在分词",
+      "value": "referencing"
+    },
+    {
+      "name": "过去式",
+      "value": "referenced"
+    },
+    {
+      "name": "过去分词",
+      "value": "referenced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They publish reference books.",
+      "zh": "他们出版参考书。"
+    },
+    {
+      "en": "The grid reference is C8.",
+      "zh": "地图上的坐标方格数字为C8。"
+    },
+    {
+      "en": "The map reference is Y4.",
+      "zh": "地图编号为Y4。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "参考，参照；涉及，提及；参考书目；介绍信；证明书",
+      "words": [
+        "involved in",
+        "mention"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "引用",
+      "words": [
+        "quote"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "引用",
+      "words": [
+        "cite"
+      ]
+    }
+  ]
+}

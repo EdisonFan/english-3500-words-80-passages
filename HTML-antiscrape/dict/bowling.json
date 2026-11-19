@@ -1,0 +1,38 @@
+{
+  "word": "bowling",
+  "found": true,
+  "phonetic_uk": "ˈbəʊlɪŋ",
+  "phonetic_us": "ˈboʊlɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=bowling&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=bowling&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "保龄球运动；（板球）投球"
+    },
+    {
+      "pos": "v.",
+      "meaning": "打保龄球（bowl 的现在分词形式）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Bowling）（英）鲍林（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They go in for tennis and bowling.",
+      "zh": "他们爱好打网球和保龄球。"
+    },
+    {
+      "en": "I went bowling this evening.",
+      "zh": "今天晚上我去打保龄球了。"
+    },
+    {
+      "en": "Let's go bowling tomorrow.",
+      "zh": "明天一起去打保龄球吧。"
+    }
+  ],
+  "synonyms": []
+}

@@ -1,0 +1,64 @@
+{
+  "word": "photo",
+  "found": true,
+  "phonetic_uk": "ˈfəʊtəʊ",
+  "phonetic_us": "ˈfoʊtoʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=photo&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=photo&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "照片"
+    },
+    {
+      "pos": "v.",
+      "meaning": "拍照"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "photos"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "photos"
+    },
+    {
+      "name": "现在分词",
+      "value": "photoing"
+    },
+    {
+      "name": "过去式",
+      "value": "photoed"
+    },
+    {
+      "name": "过去分词",
+      "value": "photoed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The photo wasn't very clear.",
+      "zh": "这张照片不太清晰。"
+    },
+    {
+      "en": "That photo doesn't do you justice.",
+      "zh": "那张照片不如你本人好看。"
+    },
+    {
+      "en": "She clasped the photo to her heart.",
+      "zh": "她把相片紧紧地抱在怀里。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "照片",
+      "words": [
+        "picture",
+        "pix"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "word": "indicated",
+  "found": true,
+  "phonetic_uk": "ˈɪndəˌkeɪtɪd",
+  "phonetic_us": "ˈɪndɪkeɪtɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=indicated&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=indicated&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "表明的；指示的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "表明（indicate 的过去分词）；指出；显示"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He indicated where the furniture was to go.",
+      "zh": "他指示家具要如何摆放。"
+    },
+    {
+      "en": "He indicated a chair. \"Sit down.\"",
+      "zh": "他指着一把椅子说，“坐下。”"
+    },
+    {
+      "en": "The results are indicated in Table 2.",
+      "zh": "结果列在表2中。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "表明的；指示的",
+      "words": [
+        "enunciative",
+        "referential"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "表明（indicate的过去分词）；指出；显示",
+      "words": [
+        "bespoken"
+      ]
+    }
+  ]
+}

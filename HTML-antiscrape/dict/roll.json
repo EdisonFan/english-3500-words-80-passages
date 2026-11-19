@@ -1,0 +1,86 @@
+{
+  "word": "roll",
+  "found": true,
+  "phonetic_uk": "rəʊl",
+  "phonetic_us": "roʊl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=roll&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=roll&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（使）翻滚，滚动；（使）翻身，翻转；行驶，开动；（机器）转动，运转；（液体）滚落，滑落；使……成球状（或管状）；使平坦，压平；把（衣服的边）卷起来；（使）摇摆，摇晃；（使）原地转圈，翻白眼；摇（车窗），卷（窗帘等）；发出持续的声音；（时间）流逝；（产品）从（流水线，机器）产出；<非正式>盗窃；连获成功"
+    },
+    {
+      "pos": "n.",
+      "meaning": "卷，卷轴；卷状食品；赘肉，肥肉；名单，花名册；一管；滚动，翻滚；左右摇晃，振荡；隆隆声，轰轰响；掷骰子；压路机，辊轧机；（地形的）延绵起伏"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Roll）（美、挪、加）罗尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "rolls"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "rolls"
+    },
+    {
+      "name": "现在分词",
+      "value": "rolling"
+    },
+    {
+      "name": "过去式",
+      "value": "rolled"
+    },
+    {
+      "name": "过去分词",
+      "value": "rolled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Comedy is the new rock and roll.",
+      "zh": "说笑表演风头直追摇滚乐。"
+    },
+    {
+      "en": "Rhythm and blues mutated into rock and roll.",
+      "zh": "节奏布鲁斯演变成为摇滚乐。"
+    },
+    {
+      "en": "They have simply misunderstood what rock and roll is.",
+      "zh": "他们完全误解了摇滚乐是什么。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "卷；滚动，转动；辗",
+      "words": [
+        "turn",
+        "wheel"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "卷；滚动；转动；起伏，摇晃",
+      "words": [
+        "wave",
+        "turn",
+        "screw",
+        "rock"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "卷，卷形物；名单；摇晃",
+      "words": [
+        "book",
+        "volume"
+      ]
+    }
+  ]
+}

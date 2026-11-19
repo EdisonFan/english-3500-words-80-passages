@@ -1,0 +1,39 @@
+{
+  "word": "efficiently",
+  "found": true,
+  "phonetic_uk": "ɪˈfɪʃ(ə)ntli",
+  "phonetic_us": "ɪˈfɪʃ(ə)ntli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=efficiently&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=efficiently&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "高效地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "How do you motivate people to work hard and efficiently?",
+      "zh": "你是如何激励人们努力而高效地工作的？"
+    },
+    {
+      "en": "Services could be operated more efficiently and economically.",
+      "zh": "可以更有效、更经济地提供服务。"
+    },
+    {
+      "en": "The plan is designed to motivate employees to work more efficiently.",
+      "zh": "这个计划旨在促使员工更加卓有成效地工作。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "有效地；效率高地（efficient的副词形式）",
+      "words": [
+        "effectively",
+        "usefully"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "word": "overwhelming",
+  "found": true,
+  "phonetic_uk": "ˌəʊvəˈwelmɪŋ",
+  "phonetic_us": "ˌoʊvərˈwelmɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=overwhelming&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=overwhelming&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "难以抗拒的，令人不知所措的；巨大的，压倒性的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（感情上）使受不了，使不知所措；压垮，使应接不暇；打败，击垮（overwhelm 的现在分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He felt an overwhelming sense of loss.",
+      "zh": "他感到非常失落。"
+    },
+    {
+      "en": "The sense of déjà vu was overwhelming.",
+      "zh": "似曾经历过的感觉非常强烈。"
+    },
+    {
+      "en": "The evidence against him was overwhelming.",
+      "zh": "对他不利的证据确凿，无法抵赖。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "压倒性的；势不可挡的",
+      "words": [
+        "inundatory",
+        "preponderant"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "压倒；淹没（overwhelm的ing形式）；制服",
+      "words": [
+        "drowning"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "word": "suspend",
+  "found": true,
+  "phonetic_uk": "səˈspend",
+  "phonetic_us": "səˈspend",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=suspend&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=suspend&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "暂停，中止；使暂停使用（或生效）；使暂时停职（或停学等）；延缓，推迟；悬，挂；悬浮，漂浮；<法律> （法官或法庭作出的）暂缓执行（判决）；延留（和弦），延长（和音）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "suspends"
+    },
+    {
+      "name": "现在分词",
+      "value": "suspending"
+    },
+    {
+      "name": "过去式",
+      "value": "suspended"
+    },
+    {
+      "name": "过去分词",
+      "value": "suspended"
+    }
+  ],
+  "examples": [
+    {
+      "en": "If you exceed your credit limit, we have the right to suspend or cancel your account.",
+      "zh": "如果你超过了信贷限额，我们有权暂停或取消你的账户。"
+    },
+    {
+      "en": "The groundswell forced Arroyo to suspend the contracts in September.",
+      "zh": "这一风波迫使阿罗约在9月份暂停了这些合同。"
+    },
+    {
+      "en": "The groundswell forced Arroyo to suspend the contracts in September.",
+      "zh": "这一风波迫使阿罗约在9月份暂停了这些合同。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "使暂停；延缓，推迟；使悬浮",
+      "words": [
+        "wait",
+        "phase back"
+      ]
+    }
+  ]
+}

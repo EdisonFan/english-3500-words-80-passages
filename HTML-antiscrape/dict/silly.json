@@ -1,0 +1,78 @@
+{
+  "word": "silly",
+  "found": true,
+  "phonetic_uk": "ˈsɪli",
+  "phonetic_us": "ˈsɪli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=silly&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=silly&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "愚蠢的，傻的；嬉笑滑稽的；失去理智的；微不足道的，不实用的；（板球）（防守位置）靠近击球手的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<非正式>傻瓜，笨蛋（尤指儿童）"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "极度地"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Silly）（匈、法）西利（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "sillies"
+    },
+    {
+      "name": "比较级",
+      "value": "sillier或more silly"
+    },
+    {
+      "name": "最高级",
+      "value": "silliest或most silly"
+    }
+  ],
+  "examples": [
+    {
+      "en": "No, silly, those aren't your shoes!",
+      "zh": "不对，傻孩子，那不是你的鞋！"
+    },
+    {
+      "en": "We had to wear these silly little hats.",
+      "zh": "我们不得不戴这些傻里傻气的小帽子。"
+    },
+    {
+      "en": "Let's have done with this silly argument.",
+      "zh": "我们结束这场无聊的争辩吧。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "愚蠢的",
+      "words": [
+        "foolish",
+        "stupid",
+        "mad",
+        "doltish",
+        "insipient"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "傻瓜",
+      "words": [
+        "stupid",
+        "fool",
+        "donkey",
+        "gump",
+        "aleck"
+      ]
+    }
+  ]
+}

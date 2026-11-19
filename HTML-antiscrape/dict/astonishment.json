@@ -1,0 +1,39 @@
+{
+  "word": "astonishment",
+  "found": true,
+  "phonetic_uk": "əˈstɒnɪʃmənt",
+  "phonetic_us": "əˈstɑːnɪʃmənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=astonishment&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=astonishment&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "惊讶，惊愕"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "To her astonishment, he smiled.",
+      "zh": "使她惊讶的是，他笑了。"
+    },
+    {
+      "en": "They gasped in astonishment at the news.",
+      "zh": "他们听到这消息惊讶得倒抽了一口气。"
+    },
+    {
+      "en": "I spotted a shooting star which, to my astonishment, was bright green in colour.",
+      "zh": "我看见了一颗划过长空的流星，让我惊讶的是，它是鲜绿色的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "惊讶；令人惊讶的事物",
+      "words": [
+        "miration",
+        "stound"
+      ]
+    }
+  ]
+}

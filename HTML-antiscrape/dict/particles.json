@@ -1,0 +1,39 @@
+{
+  "word": "particles",
+  "found": true,
+  "phonetic_uk": "ˈpɑːtɪk(ə)lz",
+  "phonetic_us": "ˈpɑːrtɪk(ə)lz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=particles&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=particles&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "微粒；粒子；极小量；质点；小品词；碎木料（particle 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Small particles adhere to the seed.",
+      "zh": "微小的粒子紧贴着种子。"
+    },
+    {
+      "en": "The fabrics are coated with nano-sized particles that repel stains.",
+      "zh": "这种织物表面覆有一层抗着色污染的纳米粒子。"
+    },
+    {
+      "en": "These small particles agglomerate together to form larger clusters.",
+      "zh": "这些颗粒聚结形成较大的团。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "微粒，粒子；粒子系统；碎木料（particle的复数形式）",
+      "words": [
+        "molecules",
+        "motes"
+      ]
+    }
+  ]
+}

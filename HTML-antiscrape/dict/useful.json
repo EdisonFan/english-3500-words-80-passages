@@ -1,0 +1,51 @@
+{
+  "word": "useful",
+  "found": true,
+  "phonetic_uk": "ˈjuːsf(ə)l",
+  "phonetic_us": "ˈjuːsf(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=useful&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=useful&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "有用的，有益的；<英，非正式>好的，熟练的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more useful"
+    },
+    {
+      "name": "最高级",
+      "value": "most useful"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He offered some useful advice.",
+      "zh": "他提出了一些有益的建议。"
+    },
+    {
+      "en": "Photos make useful teaching aids.",
+      "zh": "照片可以成为有用的教具。"
+    },
+    {
+      "en": "My mobile phone is extremely useful.",
+      "zh": "我的手机极为有用。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "有用的，有益的；有帮助的",
+      "words": [
+        "helpful",
+        "beneficial",
+        "advantageous",
+        "conducive",
+        "assistant"
+      ]
+    }
+  ]
+}

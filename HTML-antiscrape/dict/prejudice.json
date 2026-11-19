@@ -1,0 +1,72 @@
+{
+  "word": "prejudice",
+  "found": true,
+  "phonetic_uk": "ˈpredʒədɪs",
+  "phonetic_us": "ˈpredʒədɪs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=prejudice&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=prejudice&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "偏见，成见，歧视；<法律>损害，侵害"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使有偏见，使有成见； 损害，不利于"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "prejudices"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "prejudices"
+    },
+    {
+      "name": "现在分词",
+      "value": "prejudicing"
+    },
+    {
+      "name": "过去式",
+      "value": "prejudiced"
+    },
+    {
+      "name": "过去分词",
+      "value": "prejudiced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I try to rise above prejudice.",
+      "zh": "我尽力摆脱偏见。"
+    },
+    {
+      "en": "His judgement was warped by prejudice.",
+      "zh": "他因偏见而判断有误。"
+    },
+    {
+      "en": "Racial prejudice is (an) anathema to me.",
+      "zh": "对我来说，种族歧视非常可恶。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "偏见；侵害",
+      "words": [
+        "violation",
+        "bias"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "损害；使有偏见",
+      "words": [
+        "hurt",
+        "blast"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "word": "cut",
+  "found": true,
+  "phonetic_uk": "kʌt",
+  "phonetic_us": "kʌt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cut&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cut&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "切，割，剪；削减，缩减；删节，删减；停止，切断；抄近路，穿过；切（牌），倒（牌）；灌制（唱片），录制（讲话）；划伤，割伤；剪裁；开始长（新牙）；<美>逃学，逃课；停止做不好的事情；切下；切开，把……切碎；凿，挖，刻；剪短，修剪；（割断束缚物）使脱身，使松开；可用于切割；能被切割；剪切（计算机文档）； 剪辑，剪接；停止拍片（或录音、录像）；切换画面；（从感情上）伤害；（与另一条线）相交；冲淡，稀释；划分（区域）；砍（植物）；开除，除名；快速行进；突然转向；插队；（直截了当地）处理；去除（污垢、油污等）；削��球）；<美，非正式>符合要求（cut it）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "切下的肉块；份额，一份利润；（开出的）通道；伤口，划口；开口，破口；（数量或尺寸上的）削减；理发，发型；款式，式样；删剪，删节；剪辑；（录制的）乐曲；精简，淘汰（如参赛人员）；切，割，削；不理睬，伤人的话（或举动）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "缩减的；割下的；雕过的；阉割过的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "cuts"
+    },
+    {
+      "name": "现在分词",
+      "value": "cutting"
+    },
+    {
+      "name": "过去式",
+      "value": "cut"
+    },
+    {
+      "name": "过去分词",
+      "value": "cut"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The cut needed eight stitches.",
+      "zh": "这道伤口需要缝八针。"
+    },
+    {
+      "en": "Johnson cut himself shaving.",
+      "zh": "约翰逊刮胡子时割伤了自己。"
+    },
+    {
+      "en": "Let's cut for dealer.",
+      "zh": "咱们切牌决定由谁发牌吧。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "削减；[机]切割；缩短；刺痛",
+      "words": [
+        "shorten",
+        "bite"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "[机]切割；相交；切牌；停拍；不出席",
+      "words": [
+        "intersect"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "削减；伤口；切口；（服装等的）式样；削球",
+      "words": [
+        "wound",
+        "incision"
+      ]
+    }
+  ]
+}

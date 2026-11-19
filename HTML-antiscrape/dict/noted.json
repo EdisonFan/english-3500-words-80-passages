@@ -1,0 +1,46 @@
+{
+  "word": "noted",
+  "found": true,
+  "phonetic_uk": "ˈnəʊtɪd",
+  "phonetic_us": "ˈnoʊtɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=noted&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=noted&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "著名的，有名的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "注意，留意；指出，特别提到；记录（note 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Suddenly, I noted that the rain had stopped.",
+      "zh": "突然，我注意到雨已经停了。"
+    },
+    {
+      "en": "They never noted the building's history of problems.",
+      "zh": "他们从未记录过那座建筑的问题的历史。"
+    },
+    {
+      "en": "They noted the comings and goings of the journalists.",
+      "zh": "他们注意到了记者们的进进出出。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "著名的；显著的；附有乐谱的",
+      "words": [
+        "famous",
+        "obvious",
+        "prominent",
+        "marked",
+        "outstanding"
+      ]
+    }
+  ]
+}

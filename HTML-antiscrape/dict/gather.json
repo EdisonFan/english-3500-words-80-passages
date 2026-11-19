@@ -1,0 +1,82 @@
+{
+  "word": "gather",
+  "found": true,
+  "phonetic_uk": "ˈɡæðə(r)",
+  "phonetic_us": "ˈɡæðər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=gather&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=gather&type=2",
+  "defs": [
+    {
+      "pos": "vt.",
+      "meaning": "&vi. 聚集，召集；收集，采集；认为，推断；增加（速度、力量等）；给……打褶；收紧，拉近"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Gather）（德）加特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "gathers"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "gathers"
+    },
+    {
+      "name": "现在分词",
+      "value": "gathering"
+    },
+    {
+      "name": "过去式",
+      "value": "gathered"
+    },
+    {
+      "name": "过去分词",
+      "value": "gathered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "People would gather from near and far.",
+      "zh": "人们会从四面八方聚起来。"
+    },
+    {
+      "en": "Weeks after his death, mourners still gather outside the house.",
+      "zh": "他死后几个星期，哀悼者仍然聚集在屋外。"
+    },
+    {
+      "en": "You're self-employed, I gather.",
+      "zh": "我想你是个体经营吧。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "收集；收割；使…聚集；使…皱起",
+      "words": [
+        "crop",
+        "harvest"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "聚集；化脓；皱起",
+      "words": [
+        "concentrate",
+        "collect",
+        "mass",
+        "crowd"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "聚集；衣褶；收获量",
+      "words": [
+        "collection",
+        "clustering"
+      ]
+    }
+  ]
+}

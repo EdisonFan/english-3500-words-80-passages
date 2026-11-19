@@ -1,0 +1,47 @@
+{
+  "word": "Mr.",
+  "found": true,
+  "phonetic_uk": "ˈmɪstə(r)",
+  "phonetic_us": "ˈmɪstər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=Mr.&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=Mr.&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "先生（用作男子姓氏或姓名前的称呼）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "Messrs."
+    }
+  ],
+  "examples": [
+    {
+      "en": "Mr. Ryan is confident of success.",
+      "zh": "瑞安先生对成功有信心。"
+    },
+    {
+      "en": "Good God, it's Mr. Harper!",
+      "zh": "天哪，是哈珀先生！"
+    },
+    {
+      "en": "Mr. Penn sounds quite businesslike.",
+      "zh": "佩恩先生听起来效率蛮高的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "先生",
+      "words": [
+        "sir",
+        "don",
+        "gentleman",
+        "Mister",
+        "babu"
+      ]
+    }
+  ]
+}

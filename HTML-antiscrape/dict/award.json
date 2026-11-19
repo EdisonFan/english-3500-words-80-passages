@@ -1,0 +1,76 @@
+{
+  "word": "award",
+  "found": true,
+  "phonetic_uk": "əˈwɔːd",
+  "phonetic_us": "əˈwɔːrd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=award&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=award&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "奖，奖品；（收入的）增加；（赔偿）裁定额；（毕业证书等的）授予；奖学金"
+    },
+    {
+      "pos": "v.",
+      "meaning": "授予，颁发；判给，裁定"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Award）（美）艾华尔德（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "awards"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "awards"
+    },
+    {
+      "name": "现在分词",
+      "value": "awarding"
+    },
+    {
+      "name": "过去式",
+      "value": "awarded"
+    },
+    {
+      "name": "过去分词",
+      "value": "awarded"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He got an award for bravery.",
+      "zh": "他因英勇受奖。"
+    },
+    {
+      "en": "He was nominated for the best actor award.",
+      "zh": "他获得最佳演员奖提名。"
+    },
+    {
+      "en": "He deservedly won the player of the year award.",
+      "zh": "他理所应当地赢得了年度最佳球员奖。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "授予；判定",
+      "words": [
+        "grant",
+        "give"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "奖品；判决",
+      "words": [
+        "prize",
+        "sentence"
+      ]
+    }
+  ]
+}

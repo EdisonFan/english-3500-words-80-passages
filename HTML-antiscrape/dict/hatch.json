@@ -1,0 +1,82 @@
+{
+  "word": "hatch",
+  "found": true,
+  "phonetic_uk": "hætʃ",
+  "phonetic_us": "hætʃ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=hatch&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=hatch&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "孵化，孵出；密谋，策划"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（船甲板或飞机底部装货物的）舱口；（尤指厨房和餐厅之间供传递食物的）两室之间的小窗口；（飞机或宇宙飞船的）舱门；（地面或天花板的）开口"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Hatch）（英）哈奇，（西）阿奇（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "hatches"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "hatches"
+    },
+    {
+      "name": "现在分词",
+      "value": "hatching"
+    },
+    {
+      "name": "过去式",
+      "value": "hatched"
+    },
+    {
+      "name": "过去分词",
+      "value": "hatched"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The eggs quickly hatch into larvae.",
+      "zh": "这些卵很快孵化成幼虫。"
+    },
+    {
+      "en": "He stuck his head up through the hatch.",
+      "zh": "他把脑袋伸出舱口。"
+    },
+    {
+      "en": "The female must find a warm place to hatch her eggs.",
+      "zh": "母的必须找个温暖的地方孵蛋。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "孵化；[船][航]舱口",
+      "words": [
+        "incubation"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[动]孵；策划",
+      "words": [
+        "engineer",
+        "scheme"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "孵化",
+      "words": [
+        "incubate"
+      ]
+    }
+  ]
+}

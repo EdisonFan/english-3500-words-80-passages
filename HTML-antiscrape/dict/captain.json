@@ -1,0 +1,75 @@
+{
+  "word": "captain",
+  "found": true,
+  "phonetic_uk": "ˈkæptɪn",
+  "phonetic_us": "ˈkæptɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=captain&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=captain&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "队长，首领；上尉，上校；船长，机长；<美>警局副官，消防署中队长"
+    },
+    {
+      "pos": "v.",
+      "meaning": "率队，指挥"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "captains"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "captains"
+    },
+    {
+      "name": "现在分词",
+      "value": "captaining"
+    },
+    {
+      "name": "过去式",
+      "value": "captained"
+    },
+    {
+      "name": "过去分词",
+      "value": "captained"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This is the captain speaking.",
+      "zh": "我是船长。"
+    },
+    {
+      "en": "He served as a captain in the army.",
+      "zh": "他曾是一名陆军上尉。"
+    },
+    {
+      "en": "The captain keeps a log.",
+      "zh": "船长记航海日志。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "队长，首领；[水运]船长；上尉；海军上校",
+      "words": [
+        "leader",
+        "chief",
+        "boss",
+        "officer"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "指挥；率领",
+      "words": [
+        "officer",
+        "boss",
+        "lead"
+      ]
+    }
+  ]
+}

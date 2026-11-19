@@ -1,0 +1,39 @@
+{
+  "word": "reduced",
+  "found": true,
+  "phonetic_uk": "rɪˈdjuːst",
+  "phonetic_us": "rɪˈdjʊst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=reduced&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=reduced&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "减少的；[数] 简化的；缩减的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "As a result, services have been drastically reduced.",
+      "zh": "结果，服务被大大减少了。"
+    },
+    {
+      "en": "Output has been drastically reduced.",
+      "zh": "产量已急剧下降。"
+    },
+    {
+      "en": "They were reduced to extreme poverty.",
+      "zh": "他们沦落到极度贫困的地步。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[经]减少的；[语][数]简化的；缩减的",
+      "words": [
+        "cut",
+        "lessened"
+      ]
+    }
+  ]
+}

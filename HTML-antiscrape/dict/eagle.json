@@ -1,0 +1,67 @@
+{
+  "word": "eagle",
+  "found": true,
+  "phonetic_uk": "ˈiːɡ(ə)l",
+  "phonetic_us": "ˈiːɡ(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=eagle&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=eagle&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "鹰，雕；鹰击（比标准杆少打两杆）；（尤指作为美国标志的，或曾作罗马和法国军旗的）鹰状图形；<美>（曾在美国通行的价值10美元的）鹰徽金币"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（高尔夫）在（某洞）上打出老鹰球"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Eagle）伊格尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "eagles"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "eagles"
+    },
+    {
+      "name": "现在分词",
+      "value": "eagling"
+    },
+    {
+      "name": "过去式",
+      "value": "eagled"
+    },
+    {
+      "name": "过去分词",
+      "value": "eagled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "An eagle circled high overhead.",
+      "zh": "一只鹰在头顶上空盘旋。"
+    },
+    {
+      "en": "An eagle was gliding high overhead.",
+      "zh": "一只鹰在头顶上翱翔。"
+    },
+    {
+      "en": "The eagle was an emblem of strength and courage.",
+      "zh": "鹰是力量和勇气的象征。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "鹰；鹰状标饰",
+      "words": [
+        "hawk"
+      ]
+    }
+  ]
+}

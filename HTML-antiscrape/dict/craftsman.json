@@ -1,0 +1,44 @@
+{
+  "word": "craftsman",
+  "found": true,
+  "phonetic_uk": "ˈkrɑːftsmən",
+  "phonetic_us": "ˈkræftsmən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=craftsman&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=craftsman&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "工匠，手艺人；技艺能人（尤指男性）；（英国）皇家电气和机械工程兵部队技工"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "craftsmen"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He was a craftsman in metalwork from Dresden.",
+      "zh": "他是来自德累斯顿的金工工匠。"
+    },
+    {
+      "en": "The table in the kitchen was made by a local craftsman.",
+      "zh": "厨房里的桌子是当地一名工匠做的。"
+    },
+    {
+      "en": "The cut of a diamond depends on the skill of its craftsman.",
+      "zh": "切割钻石的好坏取决于工匠的技艺。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[劳经]工匠；手艺人；技工",
+      "words": [
+        "workman",
+        "artisan"
+      ]
+    }
+  ]
+}

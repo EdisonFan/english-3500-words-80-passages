@@ -1,0 +1,92 @@
+{
+  "word": "joint",
+  "found": true,
+  "phonetic_uk": "dʒɔɪnt",
+  "phonetic_us": "dʒɔɪnt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=joint&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=joint&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "联合的，共同的，共有的；连带的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "关节；（一般带有骨头的）一大块肉；（两个物体或部分的）接合处，接缝；<美，非正式>廉价娱乐场所，下等娱乐场所；<美，非正式>大麻烟卷"
+    },
+    {
+      "pos": "v.",
+      "meaning": "把……切成带骨的大块肉；接合，联合；使有接头"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Joint）（美）茹安（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "joints"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "joints"
+    },
+    {
+      "name": "现在分词",
+      "value": "jointing"
+    },
+    {
+      "name": "过去式",
+      "value": "jointed"
+    },
+    {
+      "name": "过去分词",
+      "value": "jointed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They issued a joint statement denying the charges.",
+      "zh": "他们发表联合声明否认指控。"
+    },
+    {
+      "en": "It would have to grow by acquisitions or joint ventures to achieve global reach.",
+      "zh": "它得通过收购或合资来成长壮大以便触及全球。"
+    },
+    {
+      "en": "They finished in joint first place.",
+      "zh": "他们获得并列第一。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[解剖]关节；[建]接缝；接合处，接合点；（牛，羊等的腿）大块肉",
+      "words": [
+        "seam",
+        "junction"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "共同的；连接的；联合的，合办的",
+      "words": [
+        "mutual",
+        "corporate",
+        "common",
+        "linked",
+        "connected"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "连接，贴合；[建]接合；使有接头",
+      "words": [
+        "cement",
+        "piece",
+        "couple"
+      ]
+    }
+  ]
+}

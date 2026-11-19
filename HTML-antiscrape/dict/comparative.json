@@ -1,0 +1,58 @@
+{
+  "word": "comparative",
+  "found": true,
+  "phonetic_uk": "kəmˈpærətɪv",
+  "phonetic_us": "kəmˈpærətɪv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=comparative&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=comparative&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（形容词或副词的）比较级；对手"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "比较的，相比的；相对的，比较而言的；（形容词或副词）比较级的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "comparatives"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The task was accomplished with comparative ease.",
+      "zh": "这项任务完成得比较容易。"
+    },
+    {
+      "en": "A Washington newspaper published comparative profiles of the candidates' wives.",
+      "zh": "一家华盛顿的报纸刊登了候选人妻子们的对比简介。"
+    },
+    {
+      "en": "MIT Comparative Media Studies offers both undergraduate degree opportunities and a two-year course of study leading to an SM degree.",
+      "zh": "麻省理工学院比较媒介研究提供了获得本科学位的机会，同时经过两年学习可以得到理科硕士的学位。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "比较的；相当的",
+      "words": [
+        "corresponding",
+        "condign"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "比较级；对手",
+      "words": [
+        "equal",
+        "opponent",
+        "match",
+        "rival"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "word": "gesture",
+  "found": true,
+  "phonetic_uk": "ˈdʒestʃə(r)",
+  "phonetic_us": "ˈdʒestʃər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=gesture&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=gesture&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "手势，姿势；姿态，表示"
+    },
+    {
+      "pos": "",
+      "meaning": "V. 打手势，用动作示意"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "gestures"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "gestures"
+    },
+    {
+      "name": "现在分词",
+      "value": "gesturing"
+    },
+    {
+      "name": "过去式",
+      "value": "gestured"
+    },
+    {
+      "name": "过去分词",
+      "value": "gestured"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Mr. Griffin made a jerky gesture.",
+      "zh": "格里芬先生打了个急促而不连贯的手势。"
+    },
+    {
+      "en": "They communicated entirely by gesture.",
+      "zh": "他们完全用手势交流。"
+    },
+    {
+      "en": "He struck his breast in a dramatic gesture.",
+      "zh": "他以戏剧性的姿态捶他的胸。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "姿态；手势",
+      "words": [
+        "motion",
+        "sign",
+        "stance"
+      ]
+    }
+  ]
+}

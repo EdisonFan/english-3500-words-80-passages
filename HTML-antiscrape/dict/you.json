@@ -1,0 +1,39 @@
+{
+  "word": "you",
+  "found": true,
+  "phonetic_uk": "juː; jʊ",
+  "phonetic_us": "juː; jʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=you&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=you&type=2",
+  "defs": [
+    {
+      "pos": "pron.",
+      "meaning": "你；你们"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（You）人名；（柬）尤；（东南亚国家华语）猷"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "yous或you"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You know about Andy, don't you?",
+      "zh": "你了解安迪，不是吗？"
+    },
+    {
+      "en": "You know Molly's pissed at you.",
+      "zh": "你知道莫莉对你很恼火。"
+    },
+    {
+      "en": "You said you knew the way.",
+      "zh": "你说过你知道路的。"
+    }
+  ],
+  "synonyms": []
+}

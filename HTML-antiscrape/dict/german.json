@@ -1,0 +1,55 @@
+{
+  "word": "German",
+  "found": true,
+  "phonetic_uk": "ˈdʒɜːmən",
+  "phonetic_us": "ˈdʒɜːrmən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=German&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=German&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "德国的；德语的，德国人的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "德语；德国人；德裔，有德国血统的人"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "Germans"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Bands played German marches.",
+      "zh": "管乐队演奏了德国的进行曲。"
+    },
+    {
+      "en": "We started German in year seven.",
+      "zh": "我们在七年级开始学习德语。"
+    },
+    {
+      "en": "He's doing German at GCSE.",
+      "zh": "他在学习普通中等教育证书的德语课程。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "德国的；德语的，德国人的",
+      "words": [
+        "deutsch"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "德语；德国人",
+      "words": [
+        "Fritz",
+        "Kraut"
+      ]
+    }
+  ]
+}

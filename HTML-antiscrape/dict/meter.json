@@ -1,0 +1,68 @@
+{
+  "word": "meter",
+  "found": true,
+  "phonetic_uk": "ˈmiːtə(r)",
+  "phonetic_us": "ˈmiːtər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=meter&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=meter&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "计量器，仪，表；停车收费器；<美>米；<美>（诗歌的）韵律，格律"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用仪表计量（测量），通过计量器计（价）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Meter）（英）米特，（塞）梅特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "meters"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "meters"
+    },
+    {
+      "name": "现在分词",
+      "value": "metering"
+    },
+    {
+      "name": "过去式",
+      "value": "metered"
+    },
+    {
+      "name": "过去分词",
+      "value": "metered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "A man came to read the gas meter.",
+      "zh": "有位男子来查过煤气表。"
+    },
+    {
+      "en": "He was there to read the electricity meter.",
+      "zh": "他在那儿读电表。"
+    },
+    {
+      "en": "While we waited the taxi's meter kept ticking away.",
+      "zh": "我们等候时，出租汽车的计程器一直在滴答滴答地走着。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "米；仪表；[计量]公尺；韵律",
+      "words": [
+        "rhythm",
+        "metre"
+      ]
+    }
+  ]
+}

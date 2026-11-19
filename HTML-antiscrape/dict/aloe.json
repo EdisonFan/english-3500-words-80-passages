@@ -1,0 +1,35 @@
+{
+  "word": "aloe",
+  "found": true,
+  "phonetic_uk": "ˈæləʊ",
+  "phonetic_us": "ˈæloʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=aloe&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=aloe&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "芦荟；龙舌兰"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "aloes"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Smear some aloe vera gel on the blister and cover it with a bandage to help it heal.",
+      "zh": "在水泡上涂上芦荟凝胶，用绷带包扎，帮助愈合。"
+    },
+    {
+      "en": "Assess the effect of aloe glue on relieving pain and after laser treatment of nevus of Ota and nevus flammeus.",
+      "zh": "观察芦荟对减轻太田痣和鲜红斑痣激光术后疼痛的疗效。"
+    },
+    {
+      "en": "Agave soicta or aloe brevifolia",
+      "zh": "Soicta龙舌兰、短叶芦荟"
+    }
+  ],
+  "synonyms": []
+}

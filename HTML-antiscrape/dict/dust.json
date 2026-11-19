@@ -1,0 +1,71 @@
+{
+  "word": "dust",
+  "found": true,
+  "phonetic_uk": "dʌst",
+  "phonetic_us": "dʌst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dust&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dust&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "沙尘；灰尘；粉末；尘雾；除尘，掸灰；<文>尸骨，遗骸；<文>凡身，肉体"
+    },
+    {
+      "pos": "v.",
+      "meaning": "擦去……的灰尘；把粉末撒于；<美，非正式>狠揍，杀死（某人）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Dust）（德、俄）杜斯特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "dusts"
+    },
+    {
+      "name": "现在分词",
+      "value": "dusting"
+    },
+    {
+      "name": "过去式",
+      "value": "dusted"
+    },
+    {
+      "name": "过去分词",
+      "value": "dusted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She blew the dust off the book.",
+      "zh": "她吹掉了书上的灰尘。"
+    },
+    {
+      "en": "Chickens pecked in the dust.",
+      "zh": "小鸡们在尘土中啄食。"
+    },
+    {
+      "en": "The air was thick with dust.",
+      "zh": "空气由于灰尘弥漫而闷塞。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "灰尘；[环境]尘埃；尘土",
+      "words": [
+        "powder",
+        "dirt"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "撒；拂去灰尘",
+      "words": [
+        "sift"
+      ]
+    }
+  ]
+}

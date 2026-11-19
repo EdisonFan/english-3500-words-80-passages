@@ -1,0 +1,57 @@
+{
+  "word": "aboriginal",
+  "found": true,
+  "phonetic_uk": "ˌæbəˈrɪdʒən(ə)l",
+  "phonetic_us": "ˌæbəˈrɪdʒən(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=aboriginal&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=aboriginal&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "原始的，土著的；（与）澳大利亚土著人（有关）的，（与）澳大利亚土著语（有关）的（Aboriginal）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "土著居民，土生生物；澳大利亚土著居民（Aboriginal）；（任何一种）澳大利亚土著语（Aboriginal）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "aboriginals"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They will campaign for respect for aboriginal rights and customs.",
+      "zh": "他们将开展尊重土著居民权利和风俗的活动。"
+    },
+    {
+      "en": "Uluru?is?the?center?of?aboriginal?culture.",
+      "zh": "乌鲁鲁是土著文化的中心。"
+    },
+    {
+      "en": "Motifs of seeming simplicity can encode complex meanings in Aboriginal Australia.",
+      "zh": "在澳洲土著中，看似简单的图案可能包含着复杂的含义。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "土著的；[生物]原始的",
+      "words": [
+        "native",
+        "original",
+        "primitive",
+        "indigenous"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "土著居民；[动]土生生物",
+      "words": [
+        "indigenous population"
+      ]
+    }
+  ]
+}

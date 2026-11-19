@@ -1,0 +1,74 @@
+{
+  "word": "output",
+  "found": true,
+  "phonetic_uk": "ˈaʊtpʊt",
+  "phonetic_us": "ˈaʊtpʊt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=output&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=output&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "产量，作品；产生，生产过程；输出功率；（计算机的）输出信息；输出端"
+    },
+    {
+      "pos": "v.",
+      "meaning": "输出"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "outputs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "outputs"
+    },
+    {
+      "name": "现在分词",
+      "value": "outputting"
+    },
+    {
+      "name": "过去式",
+      "value": "outputted或output"
+    },
+    {
+      "name": "过去分词",
+      "value": "outputted或output"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Output should triple by next year.",
+      "zh": "到明年产量应增至三倍。"
+    },
+    {
+      "en": "Output has been drastically reduced.",
+      "zh": "产量已急剧下降。"
+    },
+    {
+      "en": "Output will fall by 6%.",
+      "zh": "产量将下降6%。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计]输出，输出量；[经]产量；出产",
+      "words": [
+        "export",
+        "crop",
+        "harvest",
+        "yield"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[计]输出",
+      "words": [
+        "export",
+        "bulk out"
+      ]
+    }
+  ]
+}

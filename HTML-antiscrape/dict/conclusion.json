@@ -1,0 +1,46 @@
+{
+  "word": "conclusion",
+  "found": true,
+  "phonetic_uk": "kənˈkluːʒn",
+  "phonetic_us": "kənˈkluːʒ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=conclusion&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=conclusion&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "结论，推论；结局，结尾；缔结，商定；（根据所给前提得出的）命题"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "conclusions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "What led you to this conclusion?",
+      "zh": "你是如何得出这个结论的？"
+    },
+    {
+      "en": "Few will argue with this conclusion.",
+      "zh": "很少有人会不同意这个结论。"
+    },
+    {
+      "en": "The judge's conclusion was plainly wrong.",
+      "zh": "法官的结论显然是错误的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "结论；结局；推论",
+      "words": [
+        "outcome",
+        "ending",
+        "consequence",
+        "verdict"
+      ]
+    }
+  ]
+}

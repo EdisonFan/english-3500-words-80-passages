@@ -1,0 +1,87 @@
+{
+  "word": "lead",
+  "found": true,
+  "phonetic_uk": "liːd",
+  "phonetic_us": "liːd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=lead&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=lead&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "引领，带路；通向，通往；（与……）相连，相通；领导，指挥；导致，造成；促使，使得；过（某种生活）；领先，居于首位；开牌；对（证人）进行诱询；用水砣测深"
+    },
+    {
+      "pos": "n.",
+      "meaning": "领先地位；超前量，领先的距离；范例，榜样；线索；主角，扮演主角的演员；铅；铅笔芯；狗绳，牵狗带；（报纸或电台的）要闻，头条；子弹；电线，导线；导语；（投球前跑垒员的）离垒；螺距，牙距；水渠，水道；行间距"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Lead）（英）利德（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "leads"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "leads"
+    },
+    {
+      "name": "现在分词",
+      "value": "leading"
+    },
+    {
+      "name": "过去式",
+      "value": "led或leaded"
+    },
+    {
+      "name": "过去分词",
+      "value": "led或leaded"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He has gone into the lead.",
+      "zh": "他已处于领先地位。"
+    },
+    {
+      "en": "Lead is more solvent in acidic water.",
+      "zh": "铅在酸性水中更易溶解。"
+    },
+    {
+      "en": "The United States held a slender lead.",
+      "zh": "美国稍微领先。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "领导；[化学]铅；导线；石墨；榜样",
+      "words": [
+        "guidance",
+        "mirror",
+        "example"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "领导；致使；引导；指挥",
+      "words": [
+        "aim",
+        "officer",
+        "captain",
+        "boss"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "领导；导致；用水砣测深",
+      "words": [
+        "account",
+        "result in"
+      ]
+    }
+  ]
+}

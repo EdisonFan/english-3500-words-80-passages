@@ -1,0 +1,38 @@
+{
+  "word": "clenched",
+  "found": true,
+  "phonetic_uk": "klentʃt",
+  "phonetic_us": "klentʃt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=clenched&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=clenched&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "紧握的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "His fists were clenched tight.",
+      "zh": "他紧握双拳。"
+    },
+    {
+      "en": "I clenched the arms of my chair.",
+      "zh": "我紧紧握住我的椅子扶手。"
+    },
+    {
+      "en": "Alex clenched her fists and gritted her teeth.",
+      "zh": "亚丽克斯握紧拳头，咬紧牙。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "紧握的",
+      "words": [
+        "tenacious"
+      ]
+    }
+  ]
+}

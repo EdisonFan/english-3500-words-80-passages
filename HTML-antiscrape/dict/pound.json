@@ -1,0 +1,80 @@
+{
+  "word": "pound",
+  "found": true,
+  "phonetic_uk": "paʊnd",
+  "phonetic_us": "paʊnd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pound&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pound&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "磅（重量单位）；英镑（英国货币单位）；一英镑纸币（或硬币），一镑纸币（或硬币）；英镑与外币的比值（the pound）；（流浪猫狗的）收留所，待领场；（违规停放车辆的）临时扣押场；镑（英国以外某些国家的货币单位）；井号键；<古> 拘留所，监禁所；重击，重击声"
+    },
+    {
+      "pos": "v.",
+      "meaning": "连续重击，猛打；（心脏）剧烈地跳动；（头）剧痛；脚步声沉重地走（跑）；连续轰炸，猛烈袭击；捣碎，击碎；长时间苦干；<美，非正式> 快速地喝；<非正式> 彻底打败（对手）；大声播放；监禁，拘留"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "pounds或pound"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "pounds"
+    },
+    {
+      "name": "现在分词",
+      "value": "pounding"
+    },
+    {
+      "name": "过去式",
+      "value": "pounded"
+    },
+    {
+      "name": "过去分词",
+      "value": "pounded"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They cost two dollars a pound.",
+      "zh": "这些东西每磅两元。"
+    },
+    {
+      "en": "The pound rallied against the dollar.",
+      "zh": "英镑对美元的比值回升了。"
+    },
+    {
+      "en": "The pound steadied against the dollar.",
+      "zh": "英镑对美元的汇率稳定下来。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "英镑；重击，重击声；兽栏；拘留所",
+      "words": [
+        "prison",
+        "devel"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "捣烂；敲打；监禁，拘留",
+      "words": [
+        "hold",
+        "prison"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "连续重击，猛击",
+      "words": [
+        "drive",
+        "belt"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "word": "opponent",
+  "found": true,
+  "phonetic_uk": "əˈpəʊnənt",
+  "phonetic_us": "əˈpoʊnənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=opponent&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=opponent&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "对手，竞争者；反对者，阻止者"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "对立的，敌对的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The boxer jabbed at his opponent.",
+      "zh": "拳击手向对手猛击。"
+    },
+    {
+      "en": "In debate he was a formidable opponent.",
+      "zh": "在辩论中他是位难应付的对手。"
+    },
+    {
+      "en": "He felled his opponent with a single blow.",
+      "zh": "他一拳击倒了对手。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "对手；反对者；敌手",
+      "words": [
+        "equal",
+        "anti",
+        "comparative",
+        "rival",
+        "match"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "对立的；敌对的",
+      "words": [
+        "contrary",
+        "adverse",
+        "against"
+      ]
+    }
+  ]
+}

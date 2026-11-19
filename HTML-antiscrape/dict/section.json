@@ -1,0 +1,67 @@
+{
+  "word": "section",
+  "found": true,
+  "phonetic_uk": "ˈsekʃ(ə)n",
+  "phonetic_us": "ˈsekʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=section&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=section&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "部分；散件，部件；（书、报等的）节，栏；一部分人；（乐队的）组；断面图，剖面图；（手术中的）开刀，切开；（供显微镜下观察的）切片；<美>（柑橘类水果的）一瓣；（法律文件的）款，项；地段，区域；部门，科；<新西> 建房用地；（生物）组（尤指亚属）；<美> 一平方英里的土地"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<英>  强制（精神病人）入院；将……制成切片；切开，切断；分开，给……分区"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "sections"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "sections"
+    },
+    {
+      "name": "现在分词",
+      "value": "sectioning"
+    },
+    {
+      "name": "过去式",
+      "value": "sectioned"
+    },
+    {
+      "name": "过去分词",
+      "value": "sectioned"
+    }
+  ],
+  "examples": [
+    {
+      "en": "That section of the road is still closed.",
+      "zh": "那段公路依旧封闭。"
+    },
+    {
+      "en": "A section of the Bay Bridge had collapsed.",
+      "zh": "海湾大桥有一部分坍塌了。"
+    },
+    {
+      "en": "The school has a special education section.",
+      "zh": "该校有一个特殊教育部门。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "截面；部门；地区；章节",
+      "words": [
+        "ministry",
+        "region",
+        "division",
+        "department",
+        "area"
+      ]
+    }
+  ]
+}

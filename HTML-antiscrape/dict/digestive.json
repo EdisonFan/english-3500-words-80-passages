@@ -1,0 +1,43 @@
+{
+  "word": "digestive",
+  "found": true,
+  "phonetic_uk": "daɪˈdʒestɪv",
+  "phonetic_us": "daɪˈdʒestɪv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=digestive&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=digestive&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "消化的，与消化有关的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "助消化的食物（或药物）；<英>（全麦）消化饼干"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Foods are broken down in the digestive tract.",
+      "zh": "食物在消化道内被分解。"
+    },
+    {
+      "en": "Exercise stimulates the digestive and excretory systems.",
+      "zh": "运动刺激消化和排泄系统。"
+    },
+    {
+      "en": "It may impair the digestive system.",
+      "zh": "它可能会损害消化系统。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "助消化药",
+      "words": [
+        "pepsine",
+        "bromo"
+      ]
+    }
+  ]
+}

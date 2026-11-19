@@ -1,0 +1,43 @@
+{
+  "word": "nations",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˈneɪʃnz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=nations&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=nations&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "国家（nation 的复数）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Nations）人名；（英）内申斯"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The Kurds are spread out across five nations.",
+      "zh": "库尔德人分散在5个国家。"
+    },
+    {
+      "en": "Both nations are seeking closer links with the West.",
+      "zh": "这两个国家都正在寻求与西方国家更紧密的联系。"
+    },
+    {
+      "en": "Investors ranked South Korea high among Asian nations.",
+      "zh": "投资者在亚洲国家中更看重韩国。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "国家（nation的复数）",
+      "words": [
+        "pays",
+        "states"
+      ]
+    }
+  ]
+}

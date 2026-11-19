@@ -1,0 +1,44 @@
+{
+  "word": "artwork",
+  "found": true,
+  "phonetic_uk": "ˈɑːtwɜːk",
+  "phonetic_us": "ˈɑːrtwɜːrk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=artwork&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=artwork&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "艺术品；插图；美术品"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "artworks"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This is evident in the artwork from the period.",
+      "zh": "这在那个时期的艺术作品中很明显。"
+    },
+    {
+      "en": "The artwork for the poster was done by my sister.",
+      "zh": "该海报的图片是我妹妹制作的。"
+    },
+    {
+      "en": "Sophia described the work as the first digital artwork cooperated between an AI and an artwork collector.",
+      "zh": "索菲亚表示，这是人工智能和艺术品收藏家合作的第一个数字作品。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "艺术品；插图；美术品",
+      "words": [
+        "works of art",
+        "illustration"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "word": "mouth",
+  "found": true,
+  "phonetic_uk": "maʊθ",
+  "phonetic_us": "maʊθ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=mouth&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=mouth&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "嘴，口腔；需要供养的人，食客；入口，开口；入海口，河口；讲话方式，言谈；<非正式>饶舌，出言不逊；（受嚼子控制的）马口；（葡萄酒的不同于气味的）口感"
+    },
+    {
+      "pos": "v.",
+      "meaning": "不出声地说，用口型默示；言不由衷地说，（自己并不明白却）信口开河；（清晰明确地）说，发……的音；吃，用嘴触碰；训练（马）使之习惯于服从嚼子"
+    },
+    {
+      "pos": "",
+      "meaning": "comb. 有……嘴的，……口的(-mouthed)；言谈……的，口齿……的(-mouthed)"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "mouths"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "mouths"
+    },
+    {
+      "name": "现在分词",
+      "value": "mouthing"
+    },
+    {
+      "name": "过去式",
+      "value": "mouthed"
+    },
+    {
+      "name": "过去分词",
+      "value": "mouthed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "My mouth felt completely dry.",
+      "zh": "我感到口干舌燥。"
+    },
+    {
+      "en": "The news spread by word of mouth.",
+      "zh": "这消息是口头传开的。"
+    },
+    {
+      "en": "She popped a mint into her mouth.",
+      "zh": "她往嘴里丢了块儿薄荷糖。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[解剖]口，嘴；河口",
+      "words": [
+        "jaws",
+        "ostium"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "做作地说，装腔作势地说；喃喃地说出",
+      "words": [
+        "grumble"
+      ]
+    }
+  ]
+}

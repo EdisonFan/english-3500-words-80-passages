@@ -1,0 +1,43 @@
+{
+  "word": "reasons",
+  "found": true,
+  "phonetic_uk": "ˈriːz(ə)nz",
+  "phonetic_us": "ˈriːz(ə)nz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=reasons&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=reasons&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "原因（reason 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "推理；劝说（reason 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She resigned for personal reasons.",
+      "zh": "她出于个人原因而辞职。"
+    },
+    {
+      "en": "He resigned for a variety of reasons.",
+      "zh": "他由于种种原因辞职了。"
+    },
+    {
+      "en": "The reasons for closure are multifarious.",
+      "zh": "关闭的原因多种多样。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "原因（reason的复数）；理由；理智",
+      "words": [
+        "grounds",
+        "occasions"
+      ]
+    }
+  ]
+}

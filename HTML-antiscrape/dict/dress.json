@@ -1,0 +1,76 @@
+{
+  "word": "dress",
+  "found": true,
+  "phonetic_uk": "dres",
+  "phonetic_us": "dres",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dress&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dress&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "连衣裙，套裙；（特定种类的）服装，衣服；（统指）服装；（上下连身的）女装，童装"
+    },
+    {
+      "pos": "v.",
+      "meaning": "穿衣；给……穿衣服；穿正式服装；清洗包扎（伤口）；调制；加工，处理（食材、材料等）；整队；布置，装饰；为……制作或挑选衣服；做头发"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Dress）（美、巴）德雷斯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "dresses"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "dresses"
+    },
+    {
+      "name": "现在分词",
+      "value": "dressing"
+    },
+    {
+      "name": "过去式",
+      "value": "dressed"
+    },
+    {
+      "name": "过去分词",
+      "value": "dressed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "For lunch, dress is informal.",
+      "zh": "吃午餐可以穿着休闲装。"
+    },
+    {
+      "en": "Everyone was in evening dress.",
+      "zh": "人人都身着晚礼服。"
+    },
+    {
+      "en": "Don't get your dress dirty!",
+      "zh": "别把你的连衣裙弄脏了！"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "给…穿衣",
+      "words": [
+        "apparel",
+        "clothe"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[服装]连衣裙；女装",
+      "words": [
+        "frock",
+        "suit-dress"
+      ]
+    }
+  ]
+}

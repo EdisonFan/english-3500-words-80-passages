@@ -1,0 +1,66 @@
+{
+  "word": "vast",
+  "found": true,
+  "phonetic_uk": "vɑːst",
+  "phonetic_us": "væst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=vast&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=vast&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "巨大的，广大的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<古>广阔空间"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Vast）（法）瓦斯特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "vaster或more vast"
+    },
+    {
+      "name": "最高级",
+      "value": "vastest或most vast"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She once ruled over a vast empire.",
+      "zh": "她曾统治过一个幅员辽阔的帝国。"
+    },
+    {
+      "en": "Development has affected vast swathes of our countryside.",
+      "zh": "开发建设影响了乡村广大地区。"
+    },
+    {
+      "en": "His business empire was vast.",
+      "zh": "他的企业规模庞大。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "广阔的；巨大的；大量的；巨额的",
+      "words": [
+        "huge",
+        "massive",
+        "extensive",
+        "tremendous",
+        "enormous"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "浩瀚；广阔无垠的空间",
+      "words": [
+        "voluminousness"
+      ]
+    }
+  ]
+}

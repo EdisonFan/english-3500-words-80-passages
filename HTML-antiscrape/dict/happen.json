@@ -1,0 +1,61 @@
+{
+  "word": "happen",
+  "found": true,
+  "phonetic_uk": "ˈhæpən",
+  "phonetic_us": "ˈhæpən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=happen&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=happen&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "发生；使遭遇；碰巧"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "<北英格兰>或许，大概"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "happens"
+    },
+    {
+      "name": "现在分词",
+      "value": "happening"
+    },
+    {
+      "name": "过去式",
+      "value": "happened"
+    },
+    {
+      "name": "过去分词",
+      "value": "happened"
+    }
+  ],
+  "examples": [
+    {
+      "en": "That doesn't happen very often.",
+      "zh": "那不常发生。"
+    },
+    {
+      "en": "This must never happen again.",
+      "zh": "这种事再也不能发生了。"
+    },
+    {
+      "en": "How on earth did that happen?",
+      "zh": "那到底是怎么发生的？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "发生；碰巧；偶然遇到",
+      "words": [
+        "occur",
+        "proceed",
+        "chance"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "word": "novelty",
+  "found": true,
+  "phonetic_uk": "ˈnɒv(ə)lti",
+  "phonetic_us": "ˈnɑːv(ə)lti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=novelty&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=novelty&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "新颖，新奇性；新奇的事物（或人、环境）；廉价小饰物，小玩意儿"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "新奇的，风格独特的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "novelties"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Stores really like orange cauliflower because it's a novelty, it's something different.",
+      "zh": "商店真地喜欢橘黄色花椰菜，因为它是一种新奇的东西，与众不同。"
+    },
+    {
+      "en": "Second, novelty itself frequently provokes disbelief.",
+      "zh": "其次，新奇的事物本身经常引起怀疑。"
+    },
+    {
+      "en": "The novelty of the situation intrigued him.",
+      "zh": "那种新奇的情景激起了他的好奇心。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "新奇；新奇的事物；新颖小巧而廉价的物品",
+      "words": [
+        "newness",
+        "originality"
+      ]
+    }
+  ]
+}

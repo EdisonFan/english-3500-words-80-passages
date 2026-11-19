@@ -1,0 +1,34 @@
+{
+  "word": "published",
+  "found": true,
+  "phonetic_uk": "ˈpʌblɪʃt",
+  "phonetic_us": "ˈpʌblɪʃt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=published&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=published&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "已发布的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "出版，发行（书、杂志等）；（作家、 音乐家等）发表（自己的作品），使（作品）出版；（在互联网上）发表（publish 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "It was published in hardback last year.",
+      "zh": "这书去年以精装本出版。"
+    },
+    {
+      "en": "In retirement he published his memoirs.",
+      "zh": "退休后他出版了他的回忆录。"
+    },
+    {
+      "en": "The newspaper is published twice weekly.",
+      "zh": "这份报纸每周出版两次。"
+    }
+  ],
+  "synonyms": []
+}

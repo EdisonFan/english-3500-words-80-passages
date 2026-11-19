@@ -1,0 +1,67 @@
+{
+  "word": "zero",
+  "found": true,
+  "phonetic_uk": "ˈzɪərəʊ",
+  "phonetic_us": "ˈzɪroʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=zero&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=zero&type=2",
+  "defs": [
+    {
+      "pos": "num.",
+      "meaning": "零"
+    },
+    {
+      "pos": "n.",
+      "meaning": "零点，零度"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Zero）（意）泽罗（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "zeros或zeroes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "zeroes或zeros"
+    },
+    {
+      "name": "现在分词",
+      "value": "zeroing"
+    },
+    {
+      "name": "过去式",
+      "value": "zeroed"
+    },
+    {
+      "name": "过去分词",
+      "value": "zeroed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The thermometer had fallen to zero.",
+      "zh": "温度计显示温度降到了零度。"
+    },
+    {
+      "en": "You've left off a zero.",
+      "zh": "你漏掉了一个零。"
+    },
+    {
+      "en": "Temperatures will not rise above zero tonight.",
+      "zh": "今天夜间的温度不会高于零度。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "零点，[物]零度",
+      "words": [
+        "nullity"
+      ]
+    }
+  ]
+}

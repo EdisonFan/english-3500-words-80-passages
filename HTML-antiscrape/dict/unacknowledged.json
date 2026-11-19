@@ -1,0 +1,38 @@
+{
+  "word": "unacknowledged",
+  "found": true,
+  "phonetic_uk": "ˌʌnəkˈnɒlɪdʒd",
+  "phonetic_us": "ˌʌnəkˈnɑːlɪdʒd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=unacknowledged&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=unacknowledged&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "不被承认的，未公开承认的；未答复的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Unresolved or unacknowledged fears can trigger sleepwalking.",
+      "zh": "未解决或未被注意的恐惧感会引发梦游。"
+    },
+    {
+      "en": "Her contribution to the research went largely unacknowledged.",
+      "zh": "她对这项研究的贡献大都被忽略了。"
+    },
+    {
+      "en": "This tradition goes totally unacknowledged in official guidebooks.",
+      "zh": "这个传统在官方旅游指南中完全未受到关注。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "不被承认的，未公开承认的；未答复的",
+      "words": [
+        "unanswered"
+      ]
+    }
+  ]
+}

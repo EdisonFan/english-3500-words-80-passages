@@ -1,0 +1,39 @@
+{
+  "word": "students",
+  "found": true,
+  "phonetic_uk": "ˈstjʊdnts",
+  "phonetic_us": "ˈstjʊdnts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=students&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=students&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "学生（student 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Most students live in college.",
+      "zh": "大多数学生住在学院里。"
+    },
+    {
+      "en": "Failure can demotivate students.",
+      "zh": "失败会挫伤学生的积极性。"
+    },
+    {
+      "en": "He tutors students in mathematics.",
+      "zh": "他教学生数学。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "（尤指大专院校的）学生（student的复数）",
+      "words": [
+        "pupils",
+        "schoolmen"
+      ]
+    }
+  ]
+}

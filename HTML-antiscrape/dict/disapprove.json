@@ -1,0 +1,64 @@
+{
+  "word": "disapprove",
+  "found": true,
+  "phonetic_uk": "ˌdɪsəˈpruːv",
+  "phonetic_us": "ˌdɪsəˈpruːv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=disapprove&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=disapprove&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "不赞成，反对；不批准，否决"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "disapproves"
+    },
+    {
+      "name": "现在分词",
+      "value": "disapproving"
+    },
+    {
+      "name": "过去式",
+      "value": "disapproved"
+    },
+    {
+      "name": "过去分词",
+      "value": "disapproved"
+    }
+  ],
+  "examples": [
+    {
+      "en": "One gets the impression that they disapprove.",
+      "zh": "本人的印象是，他们不赞成。"
+    },
+    {
+      "en": "She wants to be an actress, but her parents disapprove.",
+      "zh": "她想当演员，可是她父母不同意。"
+    },
+    {
+      "en": "\"Do you disapprove, nanna?\" Justine growled, ready to do battle.",
+      "zh": "“外婆，你不赞成吗？”贾斯丁咆哮着，准备要斗争。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "不赞成；不同意",
+      "words": [
+        "take a dim view of",
+        "disagree with"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "不赞成；不喜欢",
+      "words": [
+        "take a dim view of",
+        "have a dislike of"
+      ]
+    }
+  ]
+}

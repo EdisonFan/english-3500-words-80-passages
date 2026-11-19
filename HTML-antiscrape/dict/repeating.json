@@ -1,0 +1,43 @@
+{
+  "word": "repeating",
+  "found": true,
+  "phonetic_uk": "rɪˈpiːtɪŋ",
+  "phonetic_us": "rɪˈpiːtɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=repeating&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=repeating&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "（图案）重复出现的；（武器）可连发的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "重复，重说；重做；重复发生（repeat 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Life has a nasty habit of repeating itself.",
+      "zh": "生活总是令人厌烦地重复着。"
+    },
+    {
+      "en": "She kept repeating his name softly over and over again.",
+      "zh": "她轻轻地一遍又一遍地重复着他的名字。"
+    },
+    {
+      "en": "35% of staff time was being spent on repeating work, about the average for a service industry.",
+      "zh": "员工35%的时间花费在重复劳动上，大约是服务业的一般水平。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "重复的；反复的；循环的",
+      "words": [
+        "circular",
+        "reduplicative"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "word": "soldier",
+  "found": true,
+  "phonetic_uk": "ˈsəʊldʒə(r)",
+  "phonetic_us": "ˈsoʊldʒər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=soldier&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=soldier&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "士兵，军人；（昆） 兵蚁；垂直的砖（或木头等建筑材料）；<英，非正式>面包条，土司条；懒汉"
+    },
+    {
+      "pos": "v.",
+      "meaning": "当兵；坚持不懈，迎难而上（~ on）；假称害病；磨洋工"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "soldiers"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "soldiers"
+    },
+    {
+      "name": "现在分词",
+      "value": "soldiering"
+    },
+    {
+      "name": "过去式",
+      "value": "soldiered"
+    },
+    {
+      "name": "过去分词",
+      "value": "soldiered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The soldier acted qua soldier, not as a human being.",
+      "zh": "那名士兵当时以军人的身份行事，而不是以一般人的身份。"
+    },
+    {
+      "en": "The officers died faithful to the honour of a soldier.",
+      "zh": "军官们怀着对军人气节的忠诚而捐躯。"
+    },
+    {
+      "en": "One boy did an imitation of a soldier with a loudspeaker.",
+      "zh": "一个男孩拿着扬声器学着士兵的样子。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "军人；[昆]兵蚁；懒汉；一片烤面包",
+      "words": [
+        "army man",
+        "serviceman"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "当兵；磨洋工；坚持干；假称害病",
+      "words": [
+        "serve with the colours",
+        "go to war"
+      ]
+    }
+  ]
+}

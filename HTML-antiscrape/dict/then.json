@@ -1,0 +1,60 @@
+{
+  "word": "then",
+  "found": true,
+  "phonetic_uk": "ðen",
+  "phonetic_us": "ðen",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=then&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=then&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "（指过去）当时，（指将来）到那时；接下来，然后；因此，既然如此；另外，还有；总之；（表示交谈、陈述等的开始或结束）那么；这么说（用于表示对已知情况的判断或询问）；毕竟，话说回来"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "当时（任职等）的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The seagulls soared then dived.",
+      "zh": "海鸥翱翔着，然后俯冲下来。"
+    },
+    {
+      "en": "That's definite then, is it?",
+      "zh": "那么，那是确切的了，是吗？"
+    },
+    {
+      "en": "The liquid is then diluted.",
+      "zh": "然后液体就变稀了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "然后；那么；于是；当时；此外",
+      "words": [
+        "accordingly",
+        "next",
+        "moreover",
+        "again",
+        "besides"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "那时",
+      "words": [
+        "lors"
+      ]
+    },
+    {
+      "pos": "conj.",
+      "meaning": "然后，当时",
+      "words": [
+        "and"
+      ]
+    }
+  ]
+}

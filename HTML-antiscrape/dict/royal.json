@@ -1,0 +1,55 @@
+{
+  "word": "royal",
+  "found": true,
+  "phonetic_uk": "ˈrɔɪəl",
+  "phonetic_us": "ˈrɔɪəl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=royal&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=royal&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "国王的，女王的，王室的；（用于机构或组织名称）皇家的 ；盛大的，隆重的；<非正式>（用于强调某人或某物极度糟糕）极其的，极度的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "<非正式>王室成员；（鸣钟术）敲奉十口钟的变换响"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "royals"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We were given a royal welcome.",
+      "zh": "我们受到了盛大的欢迎。"
+    },
+    {
+      "en": "He's a dancer with the Royal Ballet.",
+      "zh": "他是皇家芭蕾舞团的舞蹈演员。"
+    },
+    {
+      "en": "She reports on royal stories for the BBC.",
+      "zh": "她为英国广播公司做有关王室活动的报道。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "皇家的；盛大的；女王的；高贵的；第一流的",
+      "words": [
+        "classical",
+        "distinguished"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "王室；王室成员",
+      "words": [
+        "house-hold"
+      ]
+    }
+  ]
+}

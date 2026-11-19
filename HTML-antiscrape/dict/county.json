@@ -1,0 +1,48 @@
+{
+  "word": "county",
+  "found": true,
+  "phonetic_uk": "ˈkaʊnti",
+  "phonetic_us": "ˈkaʊnti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=county&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=county&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（英国、爱尔兰的）郡，（美国的）县；<英>郡运动队，县运动队"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "<英>有世家地位（或特点）的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "counties"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Every autumn I go to the county fair.",
+      "zh": "每个秋季我都去县里的集市。"
+    },
+    {
+      "en": "We crossed the county boundary into Devon.",
+      "zh": "我们越过郡界进入了德文。"
+    },
+    {
+      "en": "Up to five million people a year visit the county.",
+      "zh": "每年多达500万人到这个县游览。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "郡，县",
+      "words": [
+        "prefecture",
+        "shire"
+      ]
+    }
+  ]
+}

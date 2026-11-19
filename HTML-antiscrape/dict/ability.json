@@ -1,0 +1,47 @@
+{
+  "word": "ability",
+  "found": true,
+  "phonetic_uk": "əˈbɪləti",
+  "phonetic_us": "əˈbɪləti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ability&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ability&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "能力，能够；才能，技能，本领"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "abilities"
+    }
+  ],
+  "examples": [
+    {
+      "en": "No one doubted his ability.",
+      "zh": "没有人怀疑他的能力。"
+    },
+    {
+      "en": "Her drama teacher spotted her ability.",
+      "zh": "她的戏剧老师发现了她的才能。"
+    },
+    {
+      "en": "Almost everyone has some musical ability.",
+      "zh": "几乎人人都有一些音乐才能。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "能力，能耐；才能",
+      "words": [
+        "capacity",
+        "competence",
+        "talent",
+        "quality",
+        "power"
+      ]
+    }
+  ]
+}

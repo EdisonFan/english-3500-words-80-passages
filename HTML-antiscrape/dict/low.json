@@ -1,0 +1,99 @@
+{
+  "word": "low",
+  "found": true,
+  "phonetic_uk": "ləʊ",
+  "phonetic_us": "loʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=low&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=low&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "低的，矮的；在底部的；领口开得低的；（纬度）低的，近赤道的；低于通常（或平均）数量（或水平、价值）的；（声、热或光）低的，暗的；（地位、阶层上）低微的，低等的；消沉的，精神不振的；（质量或标准）低的；（艺术，文化）低俗的；不诚实的，下流的；（观点）贬低的，轻蔑的； （供应品）将耗尽的，短缺的；（元音）舌位低的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "在（或向）低位置；低于通常（或期望）的水平；低声地，小声地"
+    },
+    {
+      "pos": "n.",
+      "meaning": "低点；（人生的）低谷；低气压区"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（牛）哞哞叫"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Low）（英、德）洛（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "lows"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "lows"
+    },
+    {
+      "name": "现在分词",
+      "value": "lowing"
+    },
+    {
+      "name": "过去式",
+      "value": "lowed"
+    },
+    {
+      "name": "过去分词",
+      "value": "lowed"
+    },
+    {
+      "name": "比较级",
+      "value": "lower"
+    },
+    {
+      "name": "最高级",
+      "value": "lowest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The humidity is relatively low.",
+      "zh": "湿度相对较低。"
+    },
+    {
+      "en": "A plane passed low overhead.",
+      "zh": "一架飞机从头上低空飞过。"
+    },
+    {
+      "en": "Jackson gave a low whistle.",
+      "zh": "杰克逊低声地吹了一下口哨。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "低的，浅的；卑贱的；粗俗的；消沉的",
+      "words": [
+        "flat",
+        "shallow"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "低声地；谦卑地，低下地",
+      "words": [
+        "sotto voce",
+        "shamefacedly"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "低；低价；低点；牛叫声",
+      "words": [
+        "keen price"
+      ]
+    }
+  ]
+}

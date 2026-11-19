@@ -1,0 +1,39 @@
+{
+  "word": "accidentally",
+  "found": true,
+  "phonetic_uk": "ˌæksɪˈdentəli",
+  "phonetic_us": "ˌæksɪˈdentəli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=accidentally&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=accidentally&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "意外地，偶然地； 意外失误地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He accidentally sawed through a cable.",
+      "zh": "他不小心锯断了电缆。"
+    },
+    {
+      "en": "He accidentally sliced through his finger.",
+      "zh": "他不小心把指头割破了。"
+    },
+    {
+      "en": "His hand accidentally brushed against hers.",
+      "zh": "他的手无意之中碰了一下她的手。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "意外地；偶然地",
+      "words": [
+        "unexpectedly",
+        "fortuitously"
+      ]
+    }
+  ]
+}

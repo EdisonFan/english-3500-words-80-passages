@@ -1,0 +1,72 @@
+{
+  "word": "soup",
+  "found": true,
+  "phonetic_uk": "suːp",
+  "phonetic_us": "suːp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=soup&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=soup&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "汤，羹；马力"
+    },
+    {
+      "pos": "vt.",
+      "meaning": "加速；增加马力"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "soups"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "soups"
+    },
+    {
+      "name": "现在分词",
+      "value": "souping"
+    },
+    {
+      "name": "过去式",
+      "value": "souped"
+    },
+    {
+      "name": "过去分词",
+      "value": "souped"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The soup has very little taste.",
+      "zh": "这汤没什么味道。"
+    },
+    {
+      "en": "He was stirring a pot of soup.",
+      "zh": "他当时在搅一锅汤。"
+    },
+    {
+      "en": "There's a hair in my soup.",
+      "zh": "我的汤里有根毛。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "汤，羹；马力",
+      "words": [
+        "horsepower",
+        "gippo"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "加速；增加马力",
+      "words": [
+        "increase speed",
+        "quicken up"
+      ]
+    }
+  ]
+}

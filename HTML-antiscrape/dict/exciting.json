@@ -1,0 +1,51 @@
+{
+  "word": "exciting",
+  "found": true,
+  "phonetic_uk": "ɪkˈsaɪtɪŋ",
+  "phonetic_us": "ɪkˈsaɪtɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=exciting&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=exciting&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "令人兴奋的，令人激动的；惊险刺激的（尤指无法预知下一步将发生什么）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使兴奋，使激动；激发，引起（excite 的现在分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "\"Golly,\" he says, \"Isn't it exciting!\"",
+      "zh": "他说，“天哪！这真是太令人兴奋了！”"
+    },
+    {
+      "en": "It promises to be an exciting few days.",
+      "zh": "那可望是兴奋刺激的几天。"
+    },
+    {
+      "en": "Every day was exciting and adventuresome.",
+      "zh": "过去的每一天都令人兴奋充满惊险和刺激。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "令人兴奋的；使人激动的",
+      "words": [
+        "infusive",
+        "thrilling"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "激动；刺激（excite的ing形式）；唤起",
+      "words": [
+        "motivating",
+        "stimulating"
+      ]
+    }
+  ]
+}

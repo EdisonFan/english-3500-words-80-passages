@@ -1,0 +1,39 @@
+{
+  "word": "piano",
+  "found": true,
+  "phonetic_uk": "piˈænəʊ",
+  "phonetic_us": "piˈænoʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=piano&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=piano&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "钢琴"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Piano）人名；（法、意、葡）皮亚诺"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "pianos"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The piano was in good condition.",
+      "zh": "这台钢琴状况良好。"
+    },
+    {
+      "en": "Nina had been playing the piano.",
+      "zh": "尼娜一直在弹钢琴。"
+    },
+    {
+      "en": "I've got a piano lesson later today.",
+      "zh": "今天晚些时候我有一堂钢琴课。"
+    }
+  ],
+  "synonyms": []
+}

@@ -1,0 +1,39 @@
+{
+  "word": "rooms",
+  "found": true,
+  "phonetic_uk": "rʊmz; ruːmz",
+  "phonetic_us": "ruːmz; rʊmz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=rooms&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=rooms&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[建]房间（room 的复数）；空间"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They stayed in adjoining rooms.",
+      "zh": "他们住的房间紧挨着。"
+    },
+    {
+      "en": "Our rooms were in the annexe.",
+      "zh": "我们的房间在附属建筑物里。"
+    },
+    {
+      "en": "The rooms are simply furnished.",
+      "zh": "房间陈设简朴。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "房间（room的复数）；空间",
+      "words": [
+        "spaces",
+        "vacua"
+      ]
+    }
+  ]
+}

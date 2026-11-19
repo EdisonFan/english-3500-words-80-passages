@@ -1,0 +1,63 @@
+{
+  "word": "valuable",
+  "found": true,
+  "phonetic_uk": "ˈvæljuəb(ə)l",
+  "phonetic_us": "ˈvæljuəb(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=valuable&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=valuable&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "值钱的，贵重的；有益的，宝贵的；重要的，珍贵的；可估价的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "贵重品"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "valuables"
+    },
+    {
+      "name": "比较级",
+      "value": "more valuable"
+    },
+    {
+      "name": "最高级",
+      "value": "most valuable"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Luckily, nothing valuable was stolen.",
+      "zh": "幸运的是，没有贵重物品失窃。"
+    },
+    {
+      "en": "Did the burglars take anything valuable?",
+      "zh": "入室窃贼偷走了贵重的东西没有？"
+    },
+    {
+      "en": "We're wasting valuable time, time we can ill afford.",
+      "zh": "我们是在浪费宝贵的时间，我们浪费不起的时间。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[经]有价值的；贵重的；可估价的",
+      "words": [
+        "worthy",
+        "of value"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "贵重物品",
+      "words": [
+        "preciosity"
+      ]
+    }
+  ]
+}

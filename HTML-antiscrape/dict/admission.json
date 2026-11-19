@@ -1,0 +1,44 @@
+{
+  "word": "admission",
+  "found": true,
+  "phonetic_uk": "ədˈmɪʃ(ə)n",
+  "phonetic_us": "ədˈmɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=admission&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=admission&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "承认，供认；允许进入（加入），进入权；录取，录取人数；入场费；入院治疗（检查）；入场人数；入院病人"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "admissions"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Admission is by invitation only.",
+      "zh": "凭请柬入场。"
+    },
+    {
+      "en": "The admission price is $8 for adults.",
+      "zh": "入场费成人是$8。"
+    },
+    {
+      "en": "We have knocked 10% off admission prices.",
+      "zh": "我们已将入场票的价格降低了10%。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "承认；入场费；进入许可；坦白；录用",
+      "words": [
+        "recognition",
+        "acknowledgement"
+      ]
+    }
+  ]
+}

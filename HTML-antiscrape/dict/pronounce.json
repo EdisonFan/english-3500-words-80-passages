@@ -1,0 +1,63 @@
+{
+  "word": "pronounce",
+  "found": true,
+  "phonetic_uk": "prəˈnaʊns",
+  "phonetic_us": "prəˈnaʊns",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pronounce&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pronounce&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "发（音），读（音）；正式宣布（或公布、授予等）；发表意见，表态"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "pronounces"
+    },
+    {
+      "name": "现在分词",
+      "value": "pronouncing"
+    },
+    {
+      "name": "过去式",
+      "value": "pronounced"
+    },
+    {
+      "name": "过去分词",
+      "value": "pronounced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The judge will pronounce sentence today.",
+      "zh": "法官将于今天宣判。"
+    },
+    {
+      "en": "I don't know how to pronounce this word.",
+      "zh": "我不知道这个单词怎么发音。"
+    },
+    {
+      "en": "Did I pronounce your name correctly?",
+      "zh": "我把你的名字读对了吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "发音；宣判；断言",
+      "words": [
+        "declare",
+        "pass sentence"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "发音；作出判断",
+      "words": [
+        "articulate"
+      ]
+    }
+  ]
+}

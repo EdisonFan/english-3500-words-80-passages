@@ -1,0 +1,51 @@
+{
+  "word": "battles",
+  "found": true,
+  "phonetic_uk": "ˈbæt(ə)lz",
+  "phonetic_us": "ˈbætlz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=battles&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=battles&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "战争；竞争（battle 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "战斗；竞争；搏斗（battle 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Guerrillas avoid fighting set-piece battles.",
+      "zh": "游击队避免打严密策划的战役。"
+    },
+    {
+      "en": "I'm bored by history—dates and battles and all that stuff.",
+      "zh": "我厌烦历史—尽是些年代啦战争啦什么的。"
+    },
+    {
+      "en": "The government insisted that troops would not become embroiled in battles in Bosnia.",
+      "zh": "政府坚持主张军队将不会卷入到波斯尼亚的战争中去。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "战争；竞争（battle的复数）",
+      "words": [
+        "wars",
+        "competitions"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "战斗；竞争；搏斗（battle的第三人称单数）",
+      "words": [
+        "conflicts",
+        "rivals"
+      ]
+    }
+  ]
+}

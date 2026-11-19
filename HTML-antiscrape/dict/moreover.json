@@ -1,0 +1,42 @@
+{
+  "word": "moreover",
+  "found": true,
+  "phonetic_uk": "mɔːrˈəʊvə(r)",
+  "phonetic_us": "mɔːrˈoʊvər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=moreover&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=moreover&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "此外，而且"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She saw that there was indeed a man immediately behind her. Moreover, he was observing her strangely.",
+      "zh": "她看到的确有个男人紧跟在她身后。而且，他还在怪异地观察着她。"
+    },
+    {
+      "en": "Moreover, you're a social being.",
+      "zh": "而且，你是个社会人。"
+    },
+    {
+      "en": "Moreover, there was no evidence of adaptability to the noise.",
+      "zh": "此外，没有证据表明我们对这种噪音有适应性。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "而且；此外",
+      "words": [
+        "besides",
+        "again",
+        "also",
+        "then",
+        "additionally"
+      ]
+    }
+  ]
+}

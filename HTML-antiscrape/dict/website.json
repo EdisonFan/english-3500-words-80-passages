@@ -1,0 +1,35 @@
+{
+  "word": "website",
+  "found": true,
+  "phonetic_uk": "ˈwebsaɪt",
+  "phonetic_us": "ˈwebsaɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=website&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=website&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "网站（全球资讯网的主机站）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "websites"
+    }
+  ],
+  "examples": [
+    {
+      "en": "There's jazz a gogo on our website.",
+      "zh": "我们的网站上有大量的爵士音乐。"
+    },
+    {
+      "en": "Check out the new website. It's the bomb!",
+      "zh": "看一看这新网站。简直是太棒了！"
+    },
+    {
+      "en": "I found this information on their website.",
+      "zh": "我在他们的网站上发现了这一信息。"
+    }
+  ],
+  "synonyms": []
+}

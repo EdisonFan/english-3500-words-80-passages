@@ -1,0 +1,88 @@
+{
+  "word": "time",
+  "found": true,
+  "phonetic_uk": "taɪm",
+  "phonetic_us": "taɪm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=time&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=time&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（以分钟、小时、天等计量的）时间；（钟表上的）时刻；（世界各地不同的）计时体系；（某事发生或应该发生的）时候；一段时间，某段日子；规定时间，可用时间；时代，时期；时光，岁月；生命（期），期限；次，回；倍（times）；完成（竞赛等）的时间；（棒球，美橄）暂停；拍子，节奏；（用于报刊名）时报（the Times）；<英>（酒吧）打烊时间；刑期；服役期；计时工资率；分娩时间；学徒期"
+    },
+    {
+      "pos": "v.",
+      "meaning": "为……安排时间；把握（击球、射门等）的时机；为……计时，测定……所需的时间"
+    },
+    {
+      "pos": "conj.",
+      "meaning": "乘以（times）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "定时的，定期的，分期的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Time）（俄）季梅，（罗）蒂梅，（英）泰姆（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "times"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "times"
+    },
+    {
+      "name": "现在分词",
+      "value": "timing"
+    },
+    {
+      "name": "过去式",
+      "value": "timed"
+    },
+    {
+      "name": "过去分词",
+      "value": "timed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This time they've messed up big time!",
+      "zh": "这一次他们把事情搞得糟透了！"
+    },
+    {
+      "en": "Time dragged terribly.",
+      "zh": "时间过得真慢。"
+    },
+    {
+      "en": "We're wasting valuable time, time we can ill afford.",
+      "zh": "我们是在浪费宝贵的时间，我们浪费不起的时间。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[物]时间；时代；次数；节拍；倍数",
+      "words": [
+        "era",
+        "age",
+        "when",
+        "multiple"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "定时的；定期的；分期的",
+      "words": [
+        "regular",
+        "stated",
+        "periodic",
+        "delayed"
+      ]
+    }
+  ]
+}

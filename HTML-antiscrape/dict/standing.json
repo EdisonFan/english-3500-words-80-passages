@@ -1,0 +1,76 @@
+{
+  "word": "standing",
+  "found": true,
+  "phonetic_uk": "ˈstændɪŋ",
+  "phonetic_us": "ˈstændɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=standing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=standing&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "永久的，长期的，常设的；站着进行的，站立的；（水等）不流动的，静止的；维持不变的；（印刷）（金属字）排好后保留的；尚未收割的；（由法律或习俗）建立的；不能移动的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "地位，身份，声望；（党派或个人的）受欢迎程度，支持率；（球队或球员的）名次表（standings）；持续时间；马厩，牛棚；站立处"
+    },
+    {
+      "pos": "v.",
+      "meaning": "站立，直立；起立，站起来；使直立，竖放（stand 的现在分词）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Standing）（美）施坦丁（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "standings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Lee was standing right behind her.",
+      "zh": "李就站在她身后。"
+    },
+    {
+      "en": "Who's the girl standing behind Jan?",
+      "zh": "站在简身后的女孩是谁？"
+    },
+    {
+      "en": "We waited, standing up, for an hour.",
+      "zh": "我们站着等了一个小时。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "长期的；直立的；固定的",
+      "words": [
+        "long time",
+        "chronic",
+        "extended",
+        "vertical",
+        "settled"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "站立；持续；身分",
+      "words": [
+        "duration",
+        "condition",
+        "station",
+        "persistence"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "站立；坚持不变；坐落于（stand的ing形式）",
+      "words": [
+        "squatting"
+      ]
+    }
+  ]
+}

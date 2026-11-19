@@ -1,0 +1,48 @@
+{
+  "word": "beautiful",
+  "found": true,
+  "phonetic_uk": "ˈbjuːtɪf(ə)l",
+  "phonetic_us": "ˈbjuːtɪf(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=beautiful&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=beautiful&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "美丽的，漂亮的；令人愉悦的，美妙的；（完成得）出色的，极好的；<美>仁慈的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more beautiful"
+    },
+    {
+      "name": "最高级",
+      "value": "most beautiful"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It was a beautiful morning.",
+      "zh": "那是个迷人的早晨。"
+    },
+    {
+      "en": "Yessir, she was beautiful.",
+      "zh": "的确，她很漂亮。"
+    },
+    {
+      "en": "The view was dazzlingly beautiful.",
+      "zh": "景色美得令人目眩神迷。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "美丽的",
+      "words": [
+        "fair",
+        "seraphic"
+      ]
+    }
+  ]
+}

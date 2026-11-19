@@ -1,0 +1,44 @@
+{
+  "word": "philosopher",
+  "found": true,
+  "phonetic_uk": "fəˈlɒsəfə(r)",
+  "phonetic_us": "fəˈlɑːsəfər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=philosopher&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=philosopher&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "哲学家，哲人；思想深刻的人"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "philosophers"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Carlos was something of a philosopher.",
+      "zh": "卡洛斯有几分哲人气质。"
+    },
+    {
+      "en": "\"While we teach, we learn,\" said Roman philosopher Seneca.",
+      "zh": "“我们在教书的同时也在学习。”罗马哲学家塞内加说。"
+    },
+    {
+      "en": "The individual who promoted this idea was a Stoic philosopher.",
+      "zh": "提出这一观点的人是一位斯多葛派哲学家。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "哲学家；哲人",
+      "words": [
+        "wise man",
+        "rishi"
+      ]
+    }
+  ]
+}

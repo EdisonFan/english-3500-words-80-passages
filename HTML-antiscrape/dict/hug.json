@@ -1,0 +1,86 @@
+{
+  "word": "hug",
+  "found": true,
+  "phonetic_uk": "hʌɡ",
+  "phonetic_us": "hʌɡ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=hug&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=hug&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "拥抱；抱住，抱在胸前；紧靠，紧挨；（衣服）缠紧，缚紧；暗自庆幸，沾沾自喜；抱有，持有（信念等）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "拥抱，紧抱；（摔跤中的）抓握"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Hug）（美、墨、西）雨歌（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "hugs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "hugs"
+    },
+    {
+      "name": "现在分词",
+      "value": "hugging"
+    },
+    {
+      "name": "过去式",
+      "value": "hugged"
+    },
+    {
+      "name": "过去分词",
+      "value": "hugged"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She gave her mother a big hug.",
+      "zh": "她热烈地拥抱了她的母亲。"
+    },
+    {
+      "en": "She opened her arms and gave me a big hug.",
+      "zh": "她张开双臂，紧紧地拥抱了我。"
+    },
+    {
+      "en": "She leapt out of the back seat, and gave him a hug.",
+      "zh": "她从后座上跳了出来，给了他一个拥抱。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "拥抱；紧抱；抱有，坚持",
+      "words": [
+        "press",
+        "stay",
+        "embrace",
+        "tough"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "拥抱；紧抱在一起；挤在一起",
+      "words": [
+        "embrace",
+        "cuddle"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "拥抱；紧抱；固执",
+      "words": [
+        "embrace",
+        "persistence"
+      ]
+    }
+  ]
+}

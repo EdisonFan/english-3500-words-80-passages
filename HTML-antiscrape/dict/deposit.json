@@ -1,0 +1,83 @@
+{
+  "word": "deposit",
+  "found": true,
+  "phonetic_uk": "dɪˈpɒzɪt",
+  "phonetic_us": "dɪˈpɑːzɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=deposit&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=deposit&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "放下，放置；储蓄；存放，寄存；沉积，沉淀；支付（押金、订金或预缴费用）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "沉积物，沉积层；订金；押金；存款；竞选保证金"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "deposits"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "deposits"
+    },
+    {
+      "name": "现在分词",
+      "value": "depositing"
+    },
+    {
+      "name": "过去式",
+      "value": "deposited"
+    },
+    {
+      "name": "过去分词",
+      "value": "deposited"
+    }
+  ],
+  "examples": [
+    {
+      "en": "A 10% deposit is payable in advance.",
+      "zh": "须预付10%的押金。"
+    },
+    {
+      "en": "Landlords can charge a returnable deposit.",
+      "zh": "房东可以收取一笔可退还的押金。"
+    },
+    {
+      "en": "A returnable deposit is payable on arrival.",
+      "zh": "抵达时应支付可退还押金。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "存款；[金融]保证金；[地质][电]沉淀物",
+      "words": [
+        "fund",
+        "saving",
+        "covers",
+        "sludge",
+        "precipitation"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[地质]使沉积；存放",
+      "words": [
+        "trust in",
+        "trust with"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "[电]沉淀",
+      "words": [
+        "settle",
+        "to precipitate"
+      ]
+    }
+  ]
+}

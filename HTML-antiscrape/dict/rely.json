@@ -1,0 +1,56 @@
+{
+  "word": "rely",
+  "found": true,
+  "phonetic_uk": "rɪˈlaɪ",
+  "phonetic_us": "rɪˈlaɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=rely&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=rely&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "相信，信赖；依靠，依赖"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "relies"
+    },
+    {
+      "name": "现在分词",
+      "value": "relying"
+    },
+    {
+      "name": "过去式",
+      "value": "relied"
+    },
+    {
+      "name": "过去分词",
+      "value": "relied"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It would be rash to rely on such evidence.",
+      "zh": "依靠这样的证据太轻率了。"
+    },
+    {
+      "en": "We rely entirely on voluntary contribution.",
+      "zh": "我们全靠自愿捐赠。"
+    },
+    {
+      "en": "Many animals rely on concealment for protection.",
+      "zh": "许多动物靠藏匿自己来避害。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "依靠；信赖",
+      "words": [
+        "trust",
+        "hope"
+      ]
+    }
+  ]
+}

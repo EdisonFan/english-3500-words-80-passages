@@ -1,0 +1,44 @@
+{
+  "word": "fishery",
+  "found": true,
+  "phonetic_uk": "ˈfɪʃəri",
+  "phonetic_us": "ˈfɪʃəri",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=fishery&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=fishery&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "渔业；渔场；水产业"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "fisheries"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They have a huge effect on fishery.",
+      "zh": "它们对渔业有着巨大的影响。"
+    },
+    {
+      "en": "Perhaps the best example of boom growth and bust decline is the Grand Banks fishery.",
+      "zh": "或许繁荣增长和萧条衰退最好的例子就是大浅滩的渔业。"
+    },
+    {
+      "en": "Certification is for an initial period of five years, with an annual review to ensure that the fishery is continuing to meet the required standards.",
+      "zh": "证明的最初期限为五年，每年进行一次审查，以确保渔业继续达到所要求的标准。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "渔业；[水产]渔场；水产业",
+      "words": [
+        "aquaculture",
+        "fishing ground"
+      ]
+    }
+  ]
+}

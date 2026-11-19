@@ -1,0 +1,42 @@
+{
+  "word": "paints",
+  "found": true,
+  "phonetic_uk": "peɪnts",
+  "phonetic_us": "peɪnts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=paints&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=paints&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "绘画颜料；绘画作品（paint 的复数形式）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "绘画（paint 的第三人称单数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The report paints a grim picture of life there.",
+      "zh": "该报道把那里的生活描绘成一副阴森的画面。"
+    },
+    {
+      "en": "These paints can be used individually or in combination.",
+      "zh": "这些涂料可单独或混合使用。"
+    },
+    {
+      "en": "My mother paints well.",
+      "zh": "我母亲很会画画。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "绘画颜料；绘画作品（paint的复数形式）",
+      "words": [
+        "pictures"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "word": "sponsors",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˈspɑːnsərz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sponsors&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sponsors&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "赞助商；主办单位（sponsor 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "赞助（sponsor 的三单形式）；主办；倡议"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Their sponsors pulled back at the last minute.",
+      "zh": "他们的赞助人在最后时刻打了退堂鼓。"
+    },
+    {
+      "en": "The organization broke loose from its sponsors.",
+      "zh": "那家机构摆脱了赞助商。"
+    },
+    {
+      "en": "The race organizers are trying to attract sponsors.",
+      "zh": "比赛的组织者在想方设法吸引赞助者。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "赞助商；主办单位（sponsor的复数）",
+      "words": [
+        "organizers"
+      ]
+    }
+  ]
+}

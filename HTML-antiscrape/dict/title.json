@@ -1,0 +1,85 @@
+{
+  "word": "title",
+  "found": true,
+  "phonetic_uk": "ˈtaɪt(ə)l",
+  "phonetic_us": "ˈtaɪt(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=title&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=title&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（书籍、诗歌、图画、乐曲等的）名称，标题；（书刊的）一种，一本；（人名前表示地位、职业或婚姻状况的）头衔，称谓；职位名称；称号；（竞赛、体育比赛的）冠军；（尤指土地或财产的）所有权；（财产的）所有权凭证；（电影、电视的）字幕；（教会用语）就任圣职需具备的资格；（罗马红衣主教下辖的）教区，教堂"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（给书籍、乐曲等）加标题，定题目；赋予头衔，把……称为"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "与（电影、戏剧等）同名的；冠军的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "titles"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "titles"
+    },
+    {
+      "name": "现在分词",
+      "value": "titling"
+    },
+    {
+      "name": "过去式",
+      "value": "titled"
+    },
+    {
+      "name": "过去分词",
+      "value": "titled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The title is printed in italics.",
+      "zh": "标题被印成斜体。"
+    },
+    {
+      "en": "The title \"colonel\" was an honorific.",
+      "zh": "\"上校\"头衔是尊称。"
+    },
+    {
+      "en": "He was disgraced and stripped of his title.",
+      "zh": "他名誉扫地，被取消了头衔。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "冠军；[计][图情]标题；头衔；权利；字幕",
+      "words": [
+        "rights",
+        "champion",
+        "honor",
+        "first",
+        "heading"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "加标题于；赋予头衔；把…称为",
+      "words": [
+        "repute"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "冠军的；[计][图情]标题的；头衔的",
+      "words": [
+        "titular"
+      ]
+    }
+  ]
+}

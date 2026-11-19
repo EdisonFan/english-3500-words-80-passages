@@ -1,0 +1,51 @@
+{
+  "word": "risky",
+  "found": true,
+  "phonetic_uk": "ˈrɪski",
+  "phonetic_us": "ˈrɪski",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=risky&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=risky&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "有危险的，有风险的；有伤风化的，近乎淫秽的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "riskier或more risky"
+    },
+    {
+      "name": "最高级",
+      "value": "riskiest或most risky"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Horse breeding is indeed a risky enterprise.",
+      "zh": "养马的确是一项有风险的事业。"
+    },
+    {
+      "en": "Investing in airlines is a very risky business.",
+      "zh": "投资航空公司是非常冒险的生意。"
+    },
+    {
+      "en": "\"Don't do anything yet,\" he warned. \"Too risky.\"",
+      "zh": "“先别行动，”他警告道，“太冒险了。”"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "危险的；冒险的；（作品等）有伤风化的",
+      "words": [
+        "dangerous",
+        "critical",
+        "threatening",
+        "perilous",
+        "hazardous"
+      ]
+    }
+  ]
+}

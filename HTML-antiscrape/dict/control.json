@@ -1,0 +1,78 @@
+{
+  "word": "control",
+  "found": true,
+  "phonetic_uk": "kənˈtrəʊl",
+  "phonetic_us": "kənˈtroʊl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=control&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=control&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（对国家、地区、机构等的）控制权，支配权；控制能力；操纵装置；管理，管制；指挥（或检查、控制）站，指挥（或检查、控制）人员；（键盘上的）控制键"
+    },
+    {
+      "pos": "v.",
+      "meaning": "控制，掌管；限制，限定；阻止蔓延（或恶化）；操纵，控制（机器或系统等）；抑制，克制"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "controls"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "controls"
+    },
+    {
+      "name": "现在分词",
+      "value": "controlling"
+    },
+    {
+      "name": "过去式",
+      "value": "controlled"
+    },
+    {
+      "name": "过去分词",
+      "value": "controlled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The situation is under control.",
+      "zh": "局面得到了控制。"
+    },
+    {
+      "en": "He lost control of his emotions.",
+      "zh": "他情绪失去了控制。"
+    },
+    {
+      "en": "The government remained in control.",
+      "zh": "政府继续控制着局势。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[自]控制；[管理]管理；抑制；操纵装置",
+      "words": [
+        "governance",
+        "administration",
+        "management",
+        "supervision",
+        "checking"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[自]控制；[管理]管理；抑制",
+      "words": [
+        "possess",
+        "manage",
+        "regulate",
+        "bottle",
+        "conduct"
+      ]
+    }
+  ]
+}

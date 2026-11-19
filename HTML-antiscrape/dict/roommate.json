@@ -1,0 +1,43 @@
+{
+  "word": "roommate",
+  "found": true,
+  "phonetic_uk": "ˈruːmmeɪt",
+  "phonetic_us": "ˈruːmmeɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=roommate&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=roommate&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "室友"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "roommates"
+    }
+  ],
+  "examples": [
+    {
+      "en": "My roommate was in at the time.",
+      "zh": "我的室友当时在房间里。"
+    },
+    {
+      "en": "My roommate Kate was extremely organized。",
+      "zh": "我室友凯特是个很有条理的人。"
+    },
+    {
+      "en": "My other roommate is named Christine Kwon.",
+      "zh": "我的另外一个室友叫克里斯汀·权。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "室友",
+      "words": [
+        "chum"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "word": "formal",
+  "found": true,
+  "phonetic_uk": "ˈfɔːm(ə)l",
+  "phonetic_us": "ˈfɔːrm(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=formal&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=formal&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "庄重的，合乎礼仪的；（语言）正式的，规范的；合法的；整齐的，布置井然的；正统的，拘谨的；（教育或培训）正规的；形式上的，表面的；官方的，公开的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "正式的社交聚会；（女子的）正式礼服"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Formal）（法）福马尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "formals"
+    },
+    {
+      "name": "比较级",
+      "value": "more formal"
+    },
+    {
+      "name": "最高级",
+      "value": "most formal"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He wore formal evening dress.",
+      "zh": "他穿了正式的晚礼服。"
+    },
+    {
+      "en": "The dinner was a formal affair.",
+      "zh": "这是正式宴会。"
+    },
+    {
+      "en": "She completed her formal education in 1995.",
+      "zh": "她在1995年完成正规学业。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "正式的；拘谨的；有条理的",
+      "words": [
+        "official",
+        "state"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "正式的社交活动；夜礼服",
+      "words": [
+        "evening dress"
+      ]
+    }
+  ]
+}

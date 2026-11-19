@@ -1,0 +1,41 @@
+{
+  "word": "complementing",
+  "found": true,
+  "phonetic_uk": "ˈkɒmplɪmentɪŋ",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=complementing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=complementing&type=2",
+  "defs": [
+    {
+      "pos": "vt.",
+      "meaning": "补充，补足（complement 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "It's a team of people, each complementing each other.",
+      "zh": "这是一个团队，每个人都互相补充。"
+    },
+    {
+      "en": "Complementing the business knowledge with USBD concepts.",
+      "zh": "根据USBD(基于统一场景的设计)概念补足业务知识。"
+    },
+    {
+      "en": "Are there any other projects that you see as competing with or complementing MVC Contrib?",
+      "zh": "有没有你们认为是与MVC Contrib竞争或是可以作为补充的项目？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "补充",
+      "words": [
+        "recruitment",
+        "supplement",
+        "renewal",
+        "replenishment"
+      ]
+    }
+  ]
+}

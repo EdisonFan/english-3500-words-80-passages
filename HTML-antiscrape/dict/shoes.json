@@ -1,0 +1,42 @@
+{
+  "word": "shoes",
+  "found": true,
+  "phonetic_uk": "ˈʃu:z",
+  "phonetic_us": "ʃuːz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=shoes&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=shoes&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "鞋子（shoe 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "穿鞋（shoe 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He wore patent leather shoes.",
+      "zh": "他穿着漆革鞋。"
+    },
+    {
+      "en": "My shoes caught his attention.",
+      "zh": "我的鞋子引起了他的注意。"
+    },
+    {
+      "en": "You can't beat Italian shoes.",
+      "zh": "意大利鞋是无与伦比的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "鞋子（shoe的复数）",
+      "words": [
+        "pinchers"
+      ]
+    }
+  ]
+}

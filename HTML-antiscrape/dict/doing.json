@@ -1,0 +1,45 @@
+{
+  "word": "doing",
+  "found": true,
+  "phonetic_uk": "ˈduːɪŋ",
+  "phonetic_us": "ˈduːɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=doing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=doing&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "做；干（do 的 ing 形式）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "活动；所作所为"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "What're you doing tonight, babe?",
+      "zh": "你今晚做什么，宝贝儿？"
+    },
+    {
+      "en": "She's doing a terrific job.",
+      "zh": "她活儿干得真棒。"
+    },
+    {
+      "en": "Anyone could be doing what I'm doing.",
+      "zh": "任何一个人都可以做我在做的事。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "活动；所作所为",
+      "words": [
+        "activity",
+        "movement",
+        "campaign",
+        "working"
+      ]
+    }
+  ]
+}

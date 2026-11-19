@@ -1,0 +1,47 @@
+{
+  "word": "infection",
+  "found": true,
+  "phonetic_uk": "ɪnˈfekʃ(ə)n",
+  "phonetic_us": "ɪnˈfekʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=infection&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=infection&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "传染病；感染；玷污，污染"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "infections"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Cholera is a bacterial infection.",
+      "zh": "霍乱是一种由细菌引起的感染。"
+    },
+    {
+      "en": "Athlete's foot is a fungal infection.",
+      "zh": "脚癣是由真菌感染引起的。"
+    },
+    {
+      "en": "The likelihood of infection is minimal.",
+      "zh": "传染的可能性微乎其微。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[医]感染；[内科]传染；影响；传染病",
+      "words": [
+        "impression",
+        "affection",
+        "effect",
+        "influence",
+        "incidence"
+      ]
+    }
+  ]
+}

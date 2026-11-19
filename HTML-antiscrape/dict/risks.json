@@ -1,0 +1,43 @@
+{
+  "word": "risks",
+  "found": true,
+  "phonetic_uk": "rɪsks",
+  "phonetic_us": "rɪsks",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=risks&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=risks&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "风险，危险（risk 复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "冒……危险（risk 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We are starkly aware of the risks.",
+      "zh": "我们完全清楚所面临的种种风险。"
+    },
+    {
+      "en": "They were not insensible of the risks.",
+      "zh": "他们对这些危险并非没有意识。"
+    },
+    {
+      "en": "It reduces the risks of heart disease.",
+      "zh": "它减小了犯心脏病的危险。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "风险，危险（risk复数）",
+      "words": [
+        "venture",
+        "hazard"
+      ]
+    }
+  ]
+}

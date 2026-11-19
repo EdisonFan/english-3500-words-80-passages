@@ -1,0 +1,43 @@
+{
+  "word": "ties",
+  "found": true,
+  "phonetic_uk": "taɪz",
+  "phonetic_us": "taɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ties&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ties&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "结"
+    },
+    {
+      "pos": "v.",
+      "meaning": "绑；连结"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They agreed to forge closer economic ties.",
+      "zh": "他们同意建立更密切的经济联系。"
+    },
+    {
+      "en": "He reopened ties with Moscow earlier this year.",
+      "zh": "今年早些时候他重新建立了和莫斯科的联系。"
+    },
+    {
+      "en": "The firm has close ties with an American corporation.",
+      "zh": "这家商行与一家美国公司关系密切。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "结",
+      "words": [
+        "knot",
+        "nodus"
+      ]
+    }
+  ]
+}

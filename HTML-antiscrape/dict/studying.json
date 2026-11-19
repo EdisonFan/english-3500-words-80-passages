@@ -1,0 +1,38 @@
+{
+  "word": "studying",
+  "found": true,
+  "phonetic_uk": "ˈstʌdiɪŋ",
+  "phonetic_us": "ˈstʌdiɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=studying&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=studying&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "研究；学习（study的ing形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He spent four years studying pharmacy.",
+      "zh": "他花了4年时间学习药剂学。"
+    },
+    {
+      "en": "Fran was studying the menu.",
+      "zh": "弗兰在仔细地看菜单。"
+    },
+    {
+      "en": "What's it like studying in Spain?",
+      "zh": "在西班牙念书怎么样？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "研究（study的ing形式）；[心理]学习",
+      "words": [
+        "learning"
+      ]
+    }
+  ]
+}

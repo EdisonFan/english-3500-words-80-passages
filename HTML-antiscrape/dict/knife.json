@@ -1,0 +1,79 @@
+{
+  "word": "knife",
+  "found": true,
+  "phonetic_uk": "naɪf",
+  "phonetic_us": "naɪf",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=knife&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=knife&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "餐刀；刀子，刀具，匕首；手术刀"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用刀伤害（或杀害）；如刀般划过"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "knives"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "knifes"
+    },
+    {
+      "name": "现在分词",
+      "value": "knifing"
+    },
+    {
+      "name": "过去式",
+      "value": "knifed"
+    },
+    {
+      "name": "过去分词",
+      "value": "knifed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He held the knife by its blade.",
+      "zh": "他握住了刀刃。"
+    },
+    {
+      "en": "This knife needs sharpening.",
+      "zh": "这把刀需要磨了。"
+    },
+    {
+      "en": "The knife sliced his jacket.",
+      "zh": "那把刀划破了他的上衣。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[机]刀；匕首",
+      "words": [
+        "sword",
+        "chiv"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "用刀切；（口）伤害",
+      "words": [
+        "injure",
+        "scar"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "劈开；划过",
+      "words": [
+        "to break open"
+      ]
+    }
+  ]
+}

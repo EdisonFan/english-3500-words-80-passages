@@ -1,0 +1,45 @@
+{
+  "word": "appointment",
+  "found": true,
+  "phonetic_uk": "əˈpɔɪntmənt",
+  "phonetic_us": "əˈpɔɪntmənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=appointment&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=appointment&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "约会，约定；任命，委派；职务，职位；家具，陈设"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "appointments"
+    }
+  ],
+  "examples": [
+    {
+      "en": "When is your next appointment?",
+      "zh": "你下一次预约时间是什么时候？"
+    },
+    {
+      "en": "The appointment is at 3 p.m.",
+      "zh": "约会定于下午3点。"
+    },
+    {
+      "en": "He failed to keep the appointment.",
+      "zh": "他未履约。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[管理]任命；约定；任命的职位",
+      "words": [
+        "convention",
+        "bond",
+        "nomination"
+      ]
+    }
+  ]
+}

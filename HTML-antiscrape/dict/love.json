@@ -1,0 +1,76 @@
+{
+  "word": "love",
+  "found": true,
+  "phonetic_uk": "lʌv",
+  "phonetic_us": "lʌv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=love&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=love&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（对家庭成员或挚友的）喜爱，关爱；爱情，恋爱；喜好，喜爱；<英，非正式>（昵称）亲爱的；（用于信尾署名前）爱你的；心爱之人，心爱之物；（网球、软式墙网球和其他运动）零分；<非正式>（用于表示对某人的亲切好感）宝贝（a love）；仁慈的人，乐于助人的人；爱神（Love）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "爱恋（某人）；关爱（尤指家庭成员或密友）；喜欢（某物或某事）；热爱（国家、组织等）；很愿意；<非正式>感到好笑；适于（某些特定的条件）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Love）（英、菲、瑞、美）洛夫（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "loves"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "loves"
+    },
+    {
+      "name": "现在分词",
+      "value": "loving"
+    },
+    {
+      "name": "过去式",
+      "value": "loved"
+    },
+    {
+      "name": "过去分词",
+      "value": "loved"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I love my country as you love yours.",
+      "zh": "我热爱我的国家，就像你热爱你的国家一样。"
+    },
+    {
+      "en": "Kids love dressing up.",
+      "zh": "孩子们都喜欢装扮成别人玩儿。"
+    },
+    {
+      "en": "I'll love you forever!",
+      "zh": "我永远爱你！"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "恋爱；亲爱的；酷爱；喜爱的事物",
+      "words": [
+        "passion",
+        "amativeness"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "喜欢；热爱；爱慕",
+      "words": [
+        "worship",
+        "take a fancy to"
+      ]
+    }
+  ]
+}

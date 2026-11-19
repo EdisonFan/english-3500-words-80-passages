@@ -1,0 +1,44 @@
+{
+  "word": "eraser",
+  "found": true,
+  "phonetic_uk": "ɪˈreɪzə(r)",
+  "phonetic_us": "ɪˈreɪsər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=eraser&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=eraser&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "橡皮擦，黑板擦"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "erasers"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I hide the eraser in her boot.",
+      "zh": "我把橡皮擦藏进了她的靴子里。"
+    },
+    {
+      "en": "My eraser is missing.",
+      "zh": "我的橡皮不见了。"
+    },
+    {
+      "en": "On the teacher's desk there's an eraser.",
+      "zh": "在老师的桌上有一块橡皮擦。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计]擦除器；清除器",
+      "words": [
+        "cleaning machine",
+        "disposer"
+      ]
+    }
+  ]
+}

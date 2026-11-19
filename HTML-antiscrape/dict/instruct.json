@@ -1,0 +1,59 @@
+{
+  "word": "instruct",
+  "found": true,
+  "phonetic_uk": "ɪnˈstrʌkt",
+  "phonetic_us": "ɪnˈstrʌkt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=instruct&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=instruct&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "指示，吩咐；教授，指导；聘请（律师），托办；通知；（法官向陪审团）建议，作说明"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "instructs"
+    },
+    {
+      "name": "现在分词",
+      "value": "instructing"
+    },
+    {
+      "name": "过去式",
+      "value": "instructed"
+    },
+    {
+      "name": "过去分词",
+      "value": "instructed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You can instruct your bank to allow a third party to remove money from your account.",
+      "zh": "你可以通知银行，允许第三方从你的账户取款。"
+    },
+    {
+      "en": "Does it corrupt or instruct our children?",
+      "zh": "那它会使我们的孩子堕落，还是会教导他们呢？"
+    },
+    {
+      "en": "Greater effort is needed to instruct children in road safety.",
+      "zh": "在指导儿童注意道路安全方面需要付出更大的努力。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "指导；通知；命令；教授",
+      "words": [
+        "require",
+        "teach",
+        "coach",
+        "message",
+        "order"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "creativity",
+  "found": true,
+  "phonetic_uk": "ˌkriːeɪˈtɪvəti",
+  "phonetic_us": "ˌkriːeɪˈtɪvəti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=creativity&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=creativity&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "创造力，独创性"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Regulations on children stifled creativity.",
+      "zh": "对孩子们制定的各种规定压制了创造力。"
+    },
+    {
+      "en": "His illness had not stunted his creativity.",
+      "zh": "疾病没有扼杀他的创造力。"
+    },
+    {
+      "en": "Becoming your own person releases your creativity.",
+      "zh": "保持你自己的本色可以释放出你的创造力。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "创造力；创造性",
+      "words": [
+        "creative power",
+        "originality"
+      ]
+    }
+  ]
+}

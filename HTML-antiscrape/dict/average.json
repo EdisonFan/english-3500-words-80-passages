@@ -1,0 +1,77 @@
+{
+  "word": "average",
+  "found": true,
+  "phonetic_uk": "ˈævərɪdʒ",
+  "phonetic_us": "ˈævərɪdʒ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=average&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=average&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "平均水平，一般标准；平均数，平均值；（海损的）平均分担；（按保单规定应付赔偿额的）降减，均减"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "普通的，平常的；不好不坏的；平均（数）的；中等的，适中的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "平均为，平均达到；计算平均值；将……平均分配；（行情下跌时）买进更多的证券（或商品）以降低平均进价"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "averages"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "averages"
+    },
+    {
+      "name": "现在分词",
+      "value": "averaging"
+    },
+    {
+      "name": "过去式",
+      "value": "averaged"
+    },
+    {
+      "name": "过去分词",
+      "value": "averaged"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Import duties still average 30%.",
+      "zh": "进口关税平均仍为30%。"
+    },
+    {
+      "en": "$2.20 for a beer is average.",
+      "zh": "一瓶啤酒$2.20是一般价位。"
+    },
+    {
+      "en": "Shares rose, on average, by 38%.",
+      "zh": "股值平均上涨了38%。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "平均；[数]平均数；[保险]海损",
+      "words": [
+        "evenness",
+        "typical value"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "[数]平均的；普通的",
+      "words": [
+        "mean",
+        "ordinary",
+        "general"
+      ]
+    }
+  ]
+}

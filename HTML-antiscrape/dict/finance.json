@@ -1,0 +1,75 @@
+{
+  "word": "finance",
+  "found": true,
+  "phonetic_uk": "ˈfaɪnæns",
+  "phonetic_us": "ˈfaɪnæns",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=finance&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=finance&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "财政，金融；资金，财源；财务事务，经济情况"
+    },
+    {
+      "pos": "v.",
+      "meaning": "提供资金；贷款购买，赊购"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Finance）（法）菲南斯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "finances"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "finances"
+    },
+    {
+      "name": "现在分词",
+      "value": "financing"
+    },
+    {
+      "name": "过去式",
+      "value": "financed"
+    },
+    {
+      "name": "过去分词",
+      "value": "financed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Finance is Mark's area.",
+      "zh": "财务是马克负责的范围。"
+    },
+    {
+      "en": "There remains the problem of finance.",
+      "zh": "财政问题仍然存在。"
+    },
+    {
+      "en": "He's the director of the finance section.",
+      "zh": "他是财务处处长。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[财政]财政，财政学；[金融]金融",
+      "words": [
+        "policy of tightening control over expenditure and credit",
+        "cameralistics"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "筹措资金",
+      "words": [
+        "fund raising"
+      ]
+    }
+  ]
+}

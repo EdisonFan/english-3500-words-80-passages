@@ -1,0 +1,50 @@
+{
+  "word": "soothing",
+  "found": true,
+  "phonetic_uk": "ˈsuːðɪŋ",
+  "phonetic_us": "ˈsuːðɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=soothing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=soothing&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "安慰的，使人平静的；舒缓的，镇痛的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "安慰，使平静；减轻，缓和（疼痛）；使（身体部位）舒缓（soothe 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The soothing voice announced the arrival of an e-mail on the computer.",
+      "zh": "舒缓的声音通知我电脑收到一封邮件。"
+    },
+    {
+      "en": "Tom tried again, with soothing words in his mouth, and was repulsed again.",
+      "zh": "汤姆又试了一次，嘴里还含着安慰的话，可还是被拒绝了。"
+    },
+    {
+      "en": "Cold tea is very soothing for burns.",
+      "zh": "冷茶对灼伤有镇痛作用。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "抚慰的；使人宽心的",
+      "words": [
+        "placatory",
+        "mollifying"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "安慰；减轻痛苦（soothe的现在分词）",
+      "words": [
+        "comforting"
+      ]
+    }
+  ]
+}

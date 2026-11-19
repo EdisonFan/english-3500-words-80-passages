@@ -1,0 +1,72 @@
+{
+  "word": "dislike",
+  "found": true,
+  "phonetic_uk": "dɪsˈlaɪk",
+  "phonetic_us": "dɪsˈlaɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dislike&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dislike&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "不喜欢，厌恶"
+    },
+    {
+      "pos": "n.",
+      "meaning": "不喜欢，反感；不喜欢的事物"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "dislikes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "dislikes"
+    },
+    {
+      "name": "现在分词",
+      "value": "disliking"
+    },
+    {
+      "name": "过去式",
+      "value": "disliked"
+    },
+    {
+      "name": "过去分词",
+      "value": "disliked"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Why do you dislike him so much?",
+      "zh": "你为什么那么讨厌他呢？"
+    },
+    {
+      "en": "I took a violent dislike to him.",
+      "zh": "我很讨厌他。"
+    },
+    {
+      "en": "She took an instant dislike to me.",
+      "zh": "她立刻就讨厌我。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "不喜欢，厌恶",
+      "words": [
+        "hate",
+        "have no relish for"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "嫌恶，反感，不喜爱",
+      "words": [
+        "hate",
+        "detestation"
+      ]
+    }
+  ]
+}

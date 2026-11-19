@@ -1,0 +1,83 @@
+{
+  "word": "aim",
+  "found": true,
+  "phonetic_uk": "eɪm",
+  "phonetic_us": "eɪm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=aim&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=aim&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "目标，目的；瞄准，对准；枪法，击中目标的能力"
+    },
+    {
+      "pos": "v.",
+      "meaning": "瞄准，对准；旨在，致力于；针对，指向"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "aims"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "aims"
+    },
+    {
+      "name": "现在分词",
+      "value": "aiming"
+    },
+    {
+      "name": "过去式",
+      "value": "aimed"
+    },
+    {
+      "name": "过去分词",
+      "value": "aimed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His aim was to become president.",
+      "zh": "他的目的是当总统。"
+    },
+    {
+      "en": "His aim was to unite Italy.",
+      "zh": "他的目标是统一意大利。"
+    },
+    {
+      "en": "We aim to help the poorest families.",
+      "zh": "我们的目标是接济最贫困的家庭。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "目的在于；引导；把…对准",
+      "words": [
+        "be calculated to",
+        "boot"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "打算；对准目标",
+      "words": [
+        "propose",
+        "to intend"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "目的；目标；对准",
+      "words": [
+        "intention",
+        "purpose",
+        "sake",
+        "objective",
+        "target"
+      ]
+    }
+  ]
+}

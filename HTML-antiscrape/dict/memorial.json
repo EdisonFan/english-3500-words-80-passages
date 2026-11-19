@@ -1,0 +1,56 @@
+{
+  "word": "memorial",
+  "found": true,
+  "phonetic_uk": "məˈmɔːriəl",
+  "phonetic_us": "məˈmɔːriəl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=memorial&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=memorial&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "纪念的，追悼的；记忆的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "纪念碑，纪念馆；纪念品，纪念物；纪念仪式；请愿书；记录，年代记"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "memorials"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The town raised a memorial to those killed in the war.",
+      "zh": "这座小镇为战争中牺牲的人树立了一座纪念碑。"
+    },
+    {
+      "en": "Building a memorial to Columbus has been his lifelong dream.",
+      "zh": "建一座哥伦布纪念碑一直是他一生的梦想。"
+    },
+    {
+      "en": "The painting will be a lasting memorial to a remarkable woman.",
+      "zh": "这幅油画将成为对一位杰出女性的永久纪念。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[建]纪念碑，纪念馆；纪念仪式；纪念物",
+      "words": [
+        "monument",
+        "cenotaph"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "记忆的；[建]纪念的，追悼的",
+      "words": [
+        "recordative",
+        "mnemonic"
+      ]
+    }
+  ]
+}

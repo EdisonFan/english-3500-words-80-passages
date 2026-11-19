@@ -1,0 +1,67 @@
+{
+  "word": "shoe",
+  "found": true,
+  "phonetic_uk": "ʃuː",
+  "phonetic_us": "ʃuː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=shoe&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=shoe&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "鞋；马蹄铁；刹车蹄片；（尤指照相机上的）插口；（尤指雪橇滑板的）金属箍；柱脚，桩靴；（巴卡拉纸牌或其他纸牌戏的）发牌盒；他人的处境（shoes）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "给（马）钉蹄铁；穿鞋（或靴）（be shod）；用金属片包覆；为（轮子）装轮胎"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】  （Shoe）休（姓氏）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "shoes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "shoes"
+    },
+    {
+      "name": "现在分词",
+      "value": "shoeing"
+    },
+    {
+      "name": "过去式",
+      "value": "shod或shoed"
+    },
+    {
+      "name": "过去分词",
+      "value": "shod或shoed或shodden"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The shoes go on the shoe shelf.",
+      "zh": "鞋子应该放在鞋架上。"
+    },
+    {
+      "en": "The back of my shoe is rubbing.",
+      "zh": "我的鞋后跟磨脚。"
+    },
+    {
+      "en": "He removed a stone from his shoe.",
+      "zh": "他清除了鞋中的一粒石子。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "鞋；蹄铁；外胎",
+      "words": [
+        "outer tube"
+      ]
+    }
+  ]
+}

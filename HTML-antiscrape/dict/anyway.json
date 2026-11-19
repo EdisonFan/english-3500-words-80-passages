@@ -1,0 +1,39 @@
+{
+  "word": "anyway",
+  "found": true,
+  "phonetic_uk": "ˈeniweɪ",
+  "phonetic_us": "ˈeniweɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=anyway&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=anyway&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "不管怎样，无论如何；而且，加之；尽管，即使这样；对了，好吧（用于转换话题或回到前一个话题）；（用于表明某事不重要）反正；至少；总之；（表示有意结束谈话）那么；究竟，到底；噢，啊（用于结束谈话或离开）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "It's too late now, anyway.",
+      "zh": "反正现在已经太迟了。"
+    },
+    {
+      "en": "What does he know about football, anyway?",
+      "zh": "不管怎么说，他懂什么足球？"
+    },
+    {
+      "en": "'Anyway, she should be back soon,' he concluded.",
+      "zh": "“不管怎样，她很快会回来。”他最后说道。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "无论如何，不管怎样；总之",
+      "words": [
+        "however",
+        "anyhow"
+      ]
+    }
+  ]
+}

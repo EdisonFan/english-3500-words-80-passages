@@ -1,0 +1,58 @@
+{
+  "word": "announce",
+  "found": true,
+  "phonetic_uk": "əˈnaʊns",
+  "phonetic_us": "əˈnaʊns",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=announce&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=announce&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "宣布，公布；声称，郑重地说；（尤指通过广播）通知；播报，讲解（体育赛事）；通报……的到来；显示；告知；宣布竞选公职"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "announces"
+    },
+    {
+      "name": "现在分词",
+      "value": "announcing"
+    },
+    {
+      "name": "过去式",
+      "value": "announced"
+    },
+    {
+      "name": "过去分词",
+      "value": "announced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They will announce the result of the vote tonight.",
+      "zh": "今晚他们将宣布投票结果。"
+    },
+    {
+      "en": "He used the occasion to announce further tax cuts.",
+      "zh": "他利用这个机会宣布再次减税。"
+    },
+    {
+      "en": "She was planning to announce her engagement to Peter.",
+      "zh": "她在计划宣布她与彼得的婚约。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "宣布；述说；预示；播报",
+      "words": [
+        "indicate",
+        "bill",
+        "forecast",
+        "shadow"
+      ]
+    }
+  ]
+}

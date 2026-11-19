@@ -1,0 +1,84 @@
+{
+  "word": "enter",
+  "found": true,
+  "phonetic_uk": "ˈentə(r)",
+  "phonetic_us": "ˈentər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=enter&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=enter&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "进入；开始从事，开始做；参加，报名；登记，输入；正式提出；登场"
+    },
+    {
+      "pos": "n.",
+      "meaning": "回车键"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Enter）（英）恩特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "enters"
+    },
+    {
+      "name": "现在分词",
+      "value": "entering"
+    },
+    {
+      "name": "过去式",
+      "value": "entered"
+    },
+    {
+      "name": "过去分词",
+      "value": "entered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The sentry would not let her enter.",
+      "zh": "警卫不会让她进来。"
+    },
+    {
+      "en": "Knock before you enter.",
+      "zh": "进来前先敲门。"
+    },
+    {
+      "en": "The police observed a man enter the bank.",
+      "zh": "警察注意到一个男人走进了银行。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "进入；开始；参加",
+      "words": [
+        "institute",
+        "come into",
+        "participate in",
+        "go into",
+        "get into"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "参加，登场；进去",
+      "words": [
+        "participate in",
+        "take part in",
+        "go through"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[计]输入；回车",
+      "words": [
+        "import",
+        "inputting"
+      ]
+    }
+  ]
+}

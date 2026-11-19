@@ -1,0 +1,46 @@
+{
+  "word": "enthusiasm",
+  "found": true,
+  "phonetic_uk": "ɪnˈθjuːziæzəm",
+  "phonetic_us": "ɪnˈθuːziæzəm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=enthusiasm&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=enthusiasm&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "热情，热忱；热衷的活动，热爱的事物"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "enthusiasms"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Enthusiasm is very catching.",
+      "zh": "热情是非常具有感染力的。"
+    },
+    {
+      "en": "I really admire your enthusiasm.",
+      "zh": "我确实钦佩你的热情。"
+    },
+    {
+      "en": "He spoke with typical enthusiasm.",
+      "zh": "他以其特有的热情讲话。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "热心，热忱，热情",
+      "words": [
+        "passion",
+        "flame",
+        "fire",
+        "warmth"
+      ]
+    }
+  ]
+}

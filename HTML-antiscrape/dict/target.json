@@ -1,0 +1,63 @@
+{
+  "word": "target",
+  "found": true,
+  "phonetic_uk": "ˈtɑːɡɪt",
+  "phonetic_us": "ˈtɑːrɡɪt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=target&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=target&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "目标，指标；（攻击的）目标；（批评、嘲笑等的）对象；靶子；目标受众，受影响的人（或群体）；<史> 圆形小盾；（语音）目标"
+    },
+    {
+      "pos": "v.",
+      "meaning": "把……作为攻击目标，把……作为批评的对象；面向，把……对准（某群体）；将（钱款或援助）用于"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "targets"
+    },
+    {
+      "name": "过去式",
+      "value": "targeted或targetted"
+    },
+    {
+      "name": "过去分词",
+      "value": "targeted或targetted"
+    },
+    {
+      "name": "现在分词",
+      "value": "targeting或targetting"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She fired an arrow at the target.",
+      "zh": "她瞄准靶子射箭。"
+    },
+    {
+      "en": "I hit the target fair and square.",
+      "zh": "我不偏不斜正中靶子。"
+    },
+    {
+      "en": "The missile homed in on the target.",
+      "zh": "导弹正向目标飞去。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "目标；靶子",
+      "words": [
+        "goal",
+        "object",
+        "end",
+        "cause",
+        "aim"
+      ]
+    }
+  ]
+}

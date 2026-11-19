@@ -1,0 +1,40 @@
+{
+  "word": "smallest",
+  "found": true,
+  "phonetic_uk": "smɔ:lɪst",
+  "phonetic_us": "smɔːlɪst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=smallest&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=smallest&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "最小的（small 的最高级）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Subaru is one of the smallest Japanese car makers.",
+      "zh": "斯巴鲁是最小的日本汽车制造商之一。"
+    },
+    {
+      "en": "When launched, the Macintosh was the smallest desktop computer ever produced.",
+      "zh": "麦金塔电脑在投放市场时，是当时最小的台式电脑。"
+    },
+    {
+      "en": "Even the smallest metallic object, whether a nail file or cigarette lighter, is immediately confiscated.",
+      "zh": "即便是最小的金属物品，不论是指甲锉刀还是打火机，都会立刻被没收。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "最小的（small的最高级）",
+      "words": [
+        "lowest",
+        "least",
+        "minimum"
+      ]
+    }
+  ]
+}

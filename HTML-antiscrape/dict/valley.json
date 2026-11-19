@@ -1,0 +1,48 @@
+{
+  "word": "valley",
+  "found": true,
+  "phonetic_uk": "ˈvæli",
+  "phonetic_us": "ˈvæli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=valley&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=valley&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "山谷；流域；溪谷"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Valley）人名；（英）瓦利；（法）瓦莱"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "valleys"
+    }
+  ],
+  "examples": [
+    {
+      "en": "A milky mist filled the valley.",
+      "zh": "乳白色的薄雾弥漫了山谷。"
+    },
+    {
+      "en": "Mist ascended from the valley.",
+      "zh": "薄雾从山谷升起。"
+    },
+    {
+      "en": "We drove up a steep-sided valley.",
+      "zh": "我们把车开上了陡峭的峡谷。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[地理]山谷；流域；溪谷",
+      "words": [
+        "hollow",
+        "hill and dale"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "word": "smog",
+  "found": true,
+  "phonetic_uk": "smɒɡ",
+  "phonetic_us": "smɑːɡ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=smog&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=smog&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（通常指城市中汽车、工厂等排出的）烟雾，雾霾"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "smogs"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Cars cause pollution, both smog and acid rain.",
+      "zh": "汽车引起污染，既有烟雾又有酸雨。"
+    },
+    {
+      "en": "The sky over the city was overspread with heavy smog.",
+      "zh": "城市上空罩上了一层浓重的烟雾。"
+    },
+    {
+      "en": "Under the cover of the smog, He snatched the pot on the sly.",
+      "zh": "在烟雾的掩护下，他偷偷地拿走了那只壶。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[环境]烟雾",
+      "words": [
+        "vapor",
+        "smoke shell"
+      ]
+    }
+  ]
+}

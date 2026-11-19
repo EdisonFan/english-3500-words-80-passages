@@ -1,0 +1,53 @@
+{
+  "word": "uncommon",
+  "found": true,
+  "phonetic_uk": "ʌnˈkɒmən",
+  "phonetic_us": "ʌnˈkɑːmən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=uncommon&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=uncommon&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "不寻常的，罕有的；程度深的，特别大的"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "异乎寻常地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "A 15-year lifespan is not uncommon for a dog.",
+      "zh": "15年的寿命对狗来说并非罕见。"
+    },
+    {
+      "en": "Both are blessed with an uncommon ability to fix things.",
+      "zh": "俩人都有幸具有不寻常的修理东西的能力。"
+    },
+    {
+      "en": "It is not uncommon for college students to live at home.",
+      "zh": "大学生住在家里并不少见。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "不寻常的；罕有的",
+      "words": [
+        "unusual",
+        "unwonted"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "非常地",
+      "words": [
+        "considerably",
+        "remarkably",
+        "finely",
+        "tremendously"
+      ]
+    }
+  ]
+}

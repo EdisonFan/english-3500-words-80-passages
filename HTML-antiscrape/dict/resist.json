@@ -1,0 +1,79 @@
+{
+  "word": "resist",
+  "found": true,
+  "phonetic_uk": "rɪˈzɪst",
+  "phonetic_us": "rɪˈzɪst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=resist&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=resist&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "阻挡，抵制；抵抗，回击；耐得住，抵挡；使不受……的伤害，抗（伤害）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "保护涂层（防染色、着釉等），防染材料"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "resists"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "resists"
+    },
+    {
+      "name": "现在分词",
+      "value": "resisting"
+    },
+    {
+      "name": "过去式",
+      "value": "resisted"
+    },
+    {
+      "name": "过去分词",
+      "value": "resisted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Few can resist the lure of adventure.",
+      "zh": "很少有人能抵御历险的诱惑力。"
+    },
+    {
+      "en": "They were too spiritless even to resist.",
+      "zh": "他们无精打采的，甚至都没抵抗。"
+    },
+    {
+      "en": "Few males can resist a self-confident seductress.",
+      "zh": "很少有男人能抵挡住自信女人的诱惑。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "抵抗，[法]抗拒；忍耐",
+      "words": [
+        "hit back",
+        "stick up to"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "抵抗；忍耐，忍住",
+      "words": [
+        "tough",
+        "hit back"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[助剂]抗蚀剂；防染剂",
+      "words": [
+        "reserving agent"
+      ]
+    }
+  ]
+}

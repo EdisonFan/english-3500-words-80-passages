@@ -1,0 +1,83 @@
+{
+  "word": "lamp",
+  "found": true,
+  "phonetic_uk": "læmp",
+  "phonetic_us": "læmp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=lamp&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=lamp&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "灯，光源；（用于医疗和科研的）发热灯，照射器；灵感的源泉"
+    },
+    {
+      "pos": "v.",
+      "meaning": "照明，照亮；<文>发光；灯下捕猎（尤指捕兔）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Lamp）（英、德、匈、瑞典）兰普（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "lamps"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "lamps"
+    },
+    {
+      "name": "现在分词",
+      "value": "lamping"
+    },
+    {
+      "name": "过去式",
+      "value": "lamped"
+    },
+    {
+      "name": "过去分词",
+      "value": "lamped"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She switched on the bedside lamp.",
+      "zh": "她打开了床头灯。"
+    },
+    {
+      "en": "The lamp has a heavy base.",
+      "zh": "这盏灯的底座很沉。"
+    },
+    {
+      "en": "I bought a new shade for the lamp.",
+      "zh": "我给那盏灯买了一个新罩子。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[电]灯；照射器",
+      "words": [
+        "light"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "照亮",
+      "words": [
+        "light up",
+        "lumine"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "发亮",
+      "words": [
+        "brighten up",
+        "resplend"
+      ]
+    }
+  ]
+}

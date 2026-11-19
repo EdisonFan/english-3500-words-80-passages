@@ -1,0 +1,42 @@
+{
+  "word": "spoiled",
+  "found": true,
+  "phonetic_uk": "spɔɪld",
+  "phonetic_us": "spɔɪld",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=spoiled&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=spoiled&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "（尤指小孩）惯坏的，宠坏的；（食物）不可食用的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "破坏，糟蹋；溺爱，宠坏；善待，格外关照（spoil 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He spoiled my enjoyment of the game by talking all through it.",
+      "zh": "他一直在讲话，破坏了我看比赛的兴致。"
+    },
+    {
+      "en": "He's a spoiled brat and it's about time he learned to behave properly.",
+      "zh": "他是个被宠坏的顽劣孩子，该是他学着行为得当的时候了。"
+    },
+    {
+      "en": "He really spoiled me on my birthday.",
+      "zh": "我过生日那天他真让我受宠若惊。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "被宠坏的",
+      "words": [
+        "spoon-fed"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "word": "switch",
+  "found": true,
+  "phonetic_uk": "swɪtʃ",
+  "phonetic_us": "swɪtʃ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=switch&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=switch&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "开关，电闸；骤变，突变；交换机；（计算机）切换；<美> （铁路的）转辙器，道岔；（细软的）枝条，鞭子；假发；（在英国使用借记卡付账的一种）转换系统（Switch）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（用开关）打开，关闭；（使）改变，转变；交换，调换；转移（注意力）；（与某人）交换工作，调班；<古> 用枝条击打，轻拂"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "switches"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "switches"
+    },
+    {
+      "name": "现在分词",
+      "value": "switching"
+    },
+    {
+      "name": "过去式",
+      "value": "switched"
+    },
+    {
+      "name": "过去分词",
+      "value": "switched"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The heating is on a time switch.",
+      "zh": "暖气靠定时开关自动供热。"
+    },
+    {
+      "en": "When did you switch jobs?",
+      "zh": "你们什么时候调动工作的？"
+    },
+    {
+      "en": "Which switch do I press to turn it off?",
+      "zh": "我按哪个开关就能把它关了？"
+    }
+  ],
+  "synonyms": []
+}

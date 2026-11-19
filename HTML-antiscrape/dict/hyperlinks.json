@@ -1,0 +1,30 @@
+{
+  "word": "hyperlinks",
+  "found": true,
+  "phonetic_uk": "ˈhaɪpəlɪnks",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=hyperlinks&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=hyperlinks&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "超链接；超级链接（hyperlink 复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "It has a very interesting feature: hyperlinks!",
+      "zh": "它具备一个十分有趣的特点：超文本链接！"
+    },
+    {
+      "en": "There are no distracting hyperlinks on a typewriter.",
+      "zh": "打字机上不会出现令人分心的超链接。"
+    },
+    {
+      "en": "You an also define hyperlinks as depicted in Figure 9.",
+      "zh": "您也可以定义超链接，如图9所示。"
+    }
+  ],
+  "synonyms": []
+}

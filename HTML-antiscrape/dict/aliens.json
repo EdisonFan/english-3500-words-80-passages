@@ -1,0 +1,42 @@
+{
+  "word": "aliens",
+  "found": true,
+  "phonetic_uk": "ˈeɪliənz",
+  "phonetic_us": "ˈeɪliənz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=aliens&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=aliens&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "外星人；外侨，外国人（alien 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使疏远（alien 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "They are aliens on other planets.",
+      "zh": "它们是其他星球上的外星人。"
+    },
+    {
+      "en": "The Boov are aliens.",
+      "zh": "啵啵星人是外星人。"
+    },
+    {
+      "en": "If aliens landed here right now, what would you do?",
+      "zh": "如果此刻有外星人在此登陆，你会怎么做？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "外星人（alien的复数）；外国人",
+      "words": [
+        "foreigners"
+      ]
+    }
+  ]
+}

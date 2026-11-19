@@ -1,0 +1,46 @@
+{
+  "word": "disaster",
+  "found": true,
+  "phonetic_uk": "dɪˈzɑːstə(r)",
+  "phonetic_us": "dɪˈzæstər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=disaster&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=disaster&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "灾难，灾害；祸患，灾难性事物；彻底的失败"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "disasters"
+    }
+  ],
+  "examples": [
+    {
+      "en": "A disaster was narrowly averted.",
+      "zh": "及时防止了一场灾难。"
+    },
+    {
+      "en": "Warnings of disaster may be overblown.",
+      "zh": "灾难的警告可能是夸张的。"
+    },
+    {
+      "en": "Tragic literature dignifies sorrow and disaster.",
+      "zh": "悲剧性文学使悲伤和灾难显得尊贵。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "灾难，灾祸；不幸",
+      "words": [
+        "tragedy",
+        "evil",
+        "calamity",
+        "grief"
+      ]
+    }
+  ]
+}

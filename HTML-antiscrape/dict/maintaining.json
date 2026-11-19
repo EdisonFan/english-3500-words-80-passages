@@ -1,0 +1,51 @@
+{
+  "word": "maintaining",
+  "found": true,
+  "phonetic_uk": "meɪnˈteɪnɪŋ",
+  "phonetic_us": "meɪnˈteɪnɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=maintaining&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=maintaining&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "维护；保养"
+    },
+    {
+      "pos": "v.",
+      "meaning": "维持；保养（maintain 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Physical activity is an important factor in maintaining fitness.",
+      "zh": "体育活动是保持健康的一个重要因素。"
+    },
+    {
+      "en": "Maintaining relationships over the long term takes effort.",
+      "zh": "长期维持关系需要努力。"
+    },
+    {
+      "en": "Maintaining world peace is our unshirkable internationalist duty.",
+      "zh": "维护世界和平是我们义不容辞的国际主义义务。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "维护；保养",
+      "words": [
+        "operation activity",
+        "handling operation"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "维持；保养（maintain的ing形式）",
+      "words": [
+        "lasting",
+        "sustaining"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "word": "worn",
+  "found": true,
+  "phonetic_uk": "wɔːn",
+  "phonetic_us": "wɔːrn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=worn&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=worn&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "用坏的，用旧的；疲惫的，筋疲力尽的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "穿，戴；蓄，留（发、须等）；磨损，用旧（wear 的过去分词）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Worn）沃恩（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She was looking very haggard and worn.",
+      "zh": "她看上去非常憔悴而疲倦。"
+    },
+    {
+      "en": "Worn rugs increase the danger of tripping.",
+      "zh": "用旧的地毯增加了绊跌的危险。"
+    },
+    {
+      "en": "Can we sit down? I'm worn out.",
+      "zh": "我们能坐下吗？我都累坏了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "疲倦的；用旧的",
+      "words": [
+        "tired",
+        "harassed"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "穿；磨损（wear的过去分词）；佩戴",
+      "words": [
+        "frayed"
+      ]
+    }
+  ]
+}

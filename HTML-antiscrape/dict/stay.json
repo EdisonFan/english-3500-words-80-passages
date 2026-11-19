@@ -1,0 +1,84 @@
+{
+  "word": "stay",
+  "found": true,
+  "phonetic_uk": "steɪ",
+  "phonetic_us": "steɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=stay&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=stay&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "停留，逗留；保持原状，维持；坚持；（到访或作客时）留宿，暂住；不去，远离某地；避开，不参与（麻烦或不利局面）；停止，延期，延缓；<文>控制，中止，抑制；<苏格兰>定居；暂时解除（饥饿）；用支索支撑（桅杆），用牵索固定；<文>支持，支撑"
+    },
+    {
+      "pos": "n.",
+      "meaning": "暂住，逗留；<法律>（审判的）推迟，延缓；（船桅的）支索，（杆子等的）牵索，撑条；（衬衫衣领的）撑条；<文>控制，中止，抑制；<史>胸衣，紧身褡，紧身背心；支撑物，稳固物；（飞机的）拉杆，拉索"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "stays"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "stays"
+    },
+    {
+      "name": "现在分词",
+      "value": "staying"
+    },
+    {
+      "name": "过去式",
+      "value": "stayed或staid"
+    },
+    {
+      "name": "过去分词",
+      "value": "stayed或staid"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I don't have anywhere to stay.",
+      "zh": "我没有可以待的地方。"
+    },
+    {
+      "en": "Will you stay for supper?",
+      "zh": "你留下来吃晚饭好吗？"
+    },
+    {
+      "en": "Until when can you stay?",
+      "zh": "你可以待到什么时候？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "停留；坚持；暂住；停下",
+      "words": [
+        "visit",
+        "abide"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "坚持；暂住；抑制",
+      "words": [
+        "tough",
+        "control",
+        "restrain"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "逗留；停止；[建]支柱",
+      "words": [
+        "leg",
+        "visit",
+        "stop",
+        "backbone",
+        "stand"
+      ]
+    }
+  ]
+}

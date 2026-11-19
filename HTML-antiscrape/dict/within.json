@@ -1,0 +1,62 @@
+{
+  "word": "within",
+  "found": true,
+  "phonetic_uk": "wɪˈðɪn",
+  "phonetic_us": "wɪˈðɪn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=within&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=within&type=2",
+  "defs": [
+    {
+      "pos": "prep.",
+      "meaning": "在（某段时间）之内；在……限度内；在（某段距离）内；在（某区域或空间）里；在（群体或组织）内部；在自己内心，在心灵深处；接近，误差不到……"
+    },
+    {
+      "pos": "adv.",
+      "meaning": "在里面，在内部；在内心深处，在思想上；在（某段时间）之内；（距离）在……之内；（某个地方）之内；在（群体或组织）内部；在……范围内，在……限度内；误差不到……"
+    },
+    {
+      "pos": "n.",
+      "meaning": "里面，内部"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The rift within the party deepened.",
+      "zh": "党内的分歧加深了。"
+    },
+    {
+      "en": "Suspicion kindled within her.",
+      "zh": "她渐渐产生了怀疑。"
+    },
+    {
+      "en": "Is it within walking distance ?",
+      "zh": "那里步行走得到吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "prep.",
+      "meaning": "在…之内",
+      "words": [
+        "in",
+        "inside"
+      ]
+    },
+    {
+      "pos": "adv.",
+      "meaning": "在内部",
+      "words": [
+        "interiorly",
+        "inwardly"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "里面",
+      "words": [
+        "inside"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "word": "gas",
+  "found": true,
+  "phonetic_uk": "ɡæs",
+  "phonetic_us": "ɡæs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=gas&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=gas&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "气体；气体燃料；（手术）麻醉气；毒气，瓦斯；汽油；有趣的人（或事）；胀气，胃气"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用毒气杀死；闲聊，空谈"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Gas）（法、德、西）加斯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "gases或gasses"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "gases或gasses"
+    },
+    {
+      "name": "现在分词",
+      "value": "gassing"
+    },
+    {
+      "name": "过去式",
+      "value": "gassed"
+    },
+    {
+      "name": "过去分词",
+      "value": "gassed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "This gas is highly poisonous.",
+      "zh": "这种气体有剧毒。"
+    },
+    {
+      "en": "Gas is coming down in price.",
+      "zh": "煤气价格在下跌。"
+    },
+    {
+      "en": "The house is heated by gas.",
+      "zh": "这房子是煤气供暖的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "气体；[矿业]瓦斯；汽油；毒气",
+      "words": [
+        "gasoline",
+        "wase"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "加油；毒（死）",
+      "words": [
+        "oil",
+        "to fill the tank"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "加油；放出气体；空谈",
+      "words": [
+        "to fill the tank",
+        "Pump It"
+      ]
+    }
+  ]
+}

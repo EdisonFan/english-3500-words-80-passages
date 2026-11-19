@@ -1,0 +1,40 @@
+{
+  "word": "grateful",
+  "found": true,
+  "phonetic_uk": "ˈɡreɪtf(ə)l",
+  "phonetic_us": "ˈɡreɪtf(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=grateful&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=grateful&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "感谢的，感激的；（尤用于书信或正式场合提出请求）感激不尽，请；<古>令人获得快意的，受欢迎的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Kate gave him a grateful smile.",
+      "zh": "凯特感激地对他笑了笑。"
+    },
+    {
+      "en": "We're grateful for your business.",
+      "zh": "感谢您的光顾。"
+    },
+    {
+      "en": "I am deeply grateful to my parents.",
+      "zh": "我对父母是感恩戴德。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "感谢的；令人愉快的，宜人的",
+      "words": [
+        "pleasant",
+        "lovely",
+        "thankful"
+      ]
+    }
+  ]
+}

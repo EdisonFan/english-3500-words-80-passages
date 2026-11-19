@@ -1,0 +1,87 @@
+{
+  "word": "busy",
+  "found": true,
+  "phonetic_uk": "ˈbɪzi",
+  "phonetic_us": "ˈbɪzi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=busy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=busy&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "繁忙的，忙碌的；热闹的；全神贯注的；占线的；繁琐的，杂乱的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使自己忙于"
+    },
+    {
+      "pos": "n.",
+      "meaning": "警官，警察"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Busy）（匈）布希，（法）比西（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "busies"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "busies"
+    },
+    {
+      "name": "现在分词",
+      "value": "busying"
+    },
+    {
+      "name": "过去式",
+      "value": "busied"
+    },
+    {
+      "name": "过去分词",
+      "value": "busied"
+    },
+    {
+      "name": "比较级",
+      "value": "busier"
+    },
+    {
+      "name": "最高级",
+      "value": "busiest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "My goodness, you have been busy!",
+      "zh": "天哪，你一直在忙！"
+    },
+    {
+      "en": "We're not always this busy!",
+      "zh": "我们并不总是这么忙！"
+    },
+    {
+      "en": "He'll be busy for ages yet.",
+      "zh": "他还要忙很长一段时间。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "忙碌的；热闹的；正被占用的",
+      "words": [
+        "engaged",
+        "abustle"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使忙于",
+      "words": [
+        "employ"
+      ]
+    }
+  ]
+}

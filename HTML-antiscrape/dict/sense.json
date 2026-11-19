@@ -1,0 +1,75 @@
+{
+  "word": "sense",
+  "found": true,
+  "phonetic_uk": "sens",
+  "phonetic_us": "sens",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sense&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sense&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "感觉官能（即视、听、嗅、味、触五觉）；（对某物的）感觉；道理，合理性；见识，良好的判断；理智，理性；理解力，判断力；意义，含义；（数，物理）指向，方向"
+    },
+    {
+      "pos": "v.",
+      "meaning": "感觉到，觉察到；（机器）检测出"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "（遗传）有意义的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】  (Sense) （美）森斯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "senses"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "senses"
+    },
+    {
+      "name": "现在分词",
+      "value": "sensing"
+    },
+    {
+      "name": "过去式",
+      "value": "sensed"
+    },
+    {
+      "name": "过去分词",
+      "value": "sensed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The sense of community is lost.",
+      "zh": "团体意识没有了。"
+    },
+    {
+      "en": "Fortunately, common sense prevailed.",
+      "zh": "幸而理智占了上风。"
+    },
+    {
+      "en": "Her dress sense is appalling.",
+      "zh": "她的着装品位让人汗颜。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[生理]感觉，官能；观念；道理；理智",
+      "words": [
+        "concept",
+        "consciousness",
+        "perception",
+        "feel",
+        "mind"
+      ]
+    }
+  ]
+}

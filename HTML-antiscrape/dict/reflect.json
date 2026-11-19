@@ -1,0 +1,64 @@
+{
+  "word": "reflect",
+  "found": true,
+  "phonetic_uk": "rɪˈflekt",
+  "phonetic_us": "rɪˈflekt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=reflect&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=reflect&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "反射（光、热或声音）；反映，照出（影像）；显示，表明；深思，反省；深思后认为，深思后说；引起（某种）看法，带来影响"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "reflects"
+    },
+    {
+      "name": "现在分词",
+      "value": "reflecting"
+    },
+    {
+      "name": "过去式",
+      "value": "reflected"
+    },
+    {
+      "name": "过去分词",
+      "value": "reflected"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We should all give ourselves time to reflect.",
+      "zh": "我们都应该给自己时间来深思。"
+    },
+    {
+      "en": "The third-quarter results reflect continued improvements in productivity.",
+      "zh": "第三季度的结果反映了生产率的持续提高。"
+    },
+    {
+      "en": "Such attitudes are valueless unless they reflect inner cognition and certainty.",
+      "zh": "这种态度如果不能反映内心的认知和确定性就毫无价值。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "反映；反射，照出；反省",
+      "words": [
+        "glass",
+        "image"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "反射，映现；深思",
+      "words": [
+        "give back",
+        "flash back"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "word": "arise",
+  "found": true,
+  "phonetic_uk": "əˈraɪz",
+  "phonetic_us": "əˈraɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=arise&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=arise&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "产生，出现；起源（于），由……引出；起床，起立；上升"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Arise）（英、美、德、印）阿里塞"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "arises"
+    },
+    {
+      "name": "现在分词",
+      "value": "arising"
+    },
+    {
+      "name": "过去式",
+      "value": "arose"
+    },
+    {
+      "name": "过去分词",
+      "value": "arisen"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Only a finite number of situations can arise.",
+      "zh": "只有有限的几种情况可能会出现。"
+    },
+    {
+      "en": "When children enter the equation , further tensions may arise within a marriage.",
+      "zh": "有了孩子以后，婚姻中可能出现新的矛盾。"
+    },
+    {
+      "en": "In a good marriage, both husband and wife work hard to solve any problems that arise.",
+      "zh": "在一桩美满的婚姻中，夫妻双方共同致力于解决出现的任何问题。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "出现；上升；起立",
+      "words": [
+        "occur",
+        "raise",
+        "figure",
+        "offer",
+        "come out"
+      ]
+    }
+  ]
+}

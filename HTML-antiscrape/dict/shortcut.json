@@ -1,0 +1,64 @@
+{
+  "word": "shortcut",
+  "found": true,
+  "phonetic_uk": "ˈʃɔːtkʌt",
+  "phonetic_us": "ˈʃɔːrtkʌt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=shortcut&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=shortcut&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "近路；捷径，快捷方法；（电脑操作中的）快捷方式；（计算机）快捷键"
+    },
+    {
+      "pos": "v.",
+      "meaning": "通过使用捷径缩短（路线、程序等）；抄近道"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "shortcuts"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "shortcuts"
+    },
+    {
+      "name": "现在分词",
+      "value": "shortcutting"
+    },
+    {
+      "name": "过去式",
+      "value": "shortcut"
+    },
+    {
+      "name": "过去分词",
+      "value": "shortcut"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Fame can be a shortcut to love and money.",
+      "zh": "名望可以是得到爱情和金钱的捷径。"
+    },
+    {
+      "en": "There is a handy keyboard shortcut to save you having to scroll up to the top of the screen.",
+      "zh": "有一个方便的键盘快捷键可用，不必滚动到屏幕的顶端。"
+    },
+    {
+      "en": "Follow the instructions on the page for your phone to add the bookmark as a shortcut on your app launcher.",
+      "zh": "按照页面上的指示在你手机上添加书签作为你的应用启动栏中的快捷方式。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "捷径；被切短的东西",
+      "words": [
+        "highway",
+        "cut-short"
+      ]
+    }
+  ]
+}

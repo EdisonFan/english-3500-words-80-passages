@@ -1,0 +1,42 @@
+{
+  "word": "dropped",
+  "found": true,
+  "phonetic_uk": "drɒpt",
+  "phonetic_us": "drɑːpt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dropped&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dropped&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "（衣服式样）低腰的，靠下的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "投，丢；停止，放弃；（使）掉落；减少，降低（drop 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "His pulse rate dropped suddenly.",
+      "zh": "他的脉搏速率突然下降。"
+    },
+    {
+      "en": "The temperature has dropped considerably.",
+      "zh": "温度已大大降低。"
+    },
+    {
+      "en": "His voice dropped to a whisper.",
+      "zh": "他的声音已放低到轻声细语了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "下降，减少；掉下，滴下（drop的过去式和过去分词形式）",
+      "words": [
+        "fell"
+      ]
+    }
+  ]
+}

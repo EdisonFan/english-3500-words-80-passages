@@ -1,0 +1,44 @@
+{
+  "word": "canteen",
+  "found": true,
+  "phonetic_uk": "kænˈtiːn",
+  "phonetic_us": "kænˈtiːn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=canteen&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=canteen&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "食堂，餐厅；水壶；餐具盒"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "canteens"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Rennie had eaten his supper in the canteen.",
+      "zh": "伦尼已在食堂吃过晚饭。"
+    },
+    {
+      "en": "I don't like canteen food.",
+      "zh": "我不喜欢食堂的食物。"
+    },
+    {
+      "en": "Welcome to our canteen.",
+      "zh": "欢迎来到我们的食堂。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "食堂，小卖部；水壶",
+      "words": [
+        "mess",
+        "refectory"
+      ]
+    }
+  ]
+}

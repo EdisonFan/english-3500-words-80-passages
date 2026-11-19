@@ -1,0 +1,45 @@
+{
+  "word": "examination",
+  "found": true,
+  "phonetic_uk": "ɪɡˌzæmɪˈneɪʃ(ə)n",
+  "phonetic_us": "ɪɡˌzæmɪˈneɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=examination&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=examination&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "考试；审查，调查；医学检查；<法律>讯问，查问"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "examinations"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Your proposals are still under examination.",
+      "zh": "你的提议仍在审查之中。"
+    },
+    {
+      "en": "You will need to have a routine biannual examination.",
+      "zh": "你需要做一年两次的常规检查。"
+    },
+    {
+      "en": "All students without exception must take the English examination.",
+      "zh": "所有学生都必须参加英语考试，无一例外。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "考试；检查；查问",
+      "words": [
+        "inspection",
+        "checking",
+        "monitoring"
+      ]
+    }
+  ]
+}

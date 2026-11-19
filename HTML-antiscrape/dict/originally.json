@@ -1,0 +1,39 @@
+{
+  "word": "originally",
+  "found": true,
+  "phonetic_uk": "əˈrɪdʒənəli",
+  "phonetic_us": "əˈrɪdʒənəli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=originally&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=originally&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "起初，原来；独创地，新颖地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She comes originally from York.",
+      "zh": "她原本来自约克郡。"
+    },
+    {
+      "en": "It originally retailed at $23.50.",
+      "zh": "它起初按$23.50的价格零售。"
+    },
+    {
+      "en": "The island was originally circular in shape.",
+      "zh": "这个岛原先为圆形。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "最初，起初；本来",
+      "words": [
+        "initially",
+        "essentially"
+      ]
+    }
+  ]
+}

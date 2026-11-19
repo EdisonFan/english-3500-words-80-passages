@@ -1,0 +1,70 @@
+{
+  "word": "costume",
+  "found": true,
+  "phonetic_uk": "ˈkɒstjuːm",
+  "phonetic_us": "ˈkɑːstuːm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=costume&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=costume&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "服装，装束；戏服，表演服装；泳衣，泳装"
+    },
+    {
+      "pos": "v.",
+      "meaning": "给（某人）穿上特定服装"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "（戏剧）古装的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "costumes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "costumes"
+    },
+    {
+      "name": "现在分词",
+      "value": "costuming"
+    },
+    {
+      "name": "过去式",
+      "value": "costumed"
+    },
+    {
+      "name": "过去分词",
+      "value": "costumed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Carol boasted about her costume.",
+      "zh": "卡罗尔吹嘘着她的戏装。"
+    },
+    {
+      "en": "The costume designs are too fussy.",
+      "zh": "这些服装设计过于花哨。"
+    },
+    {
+      "en": "She has four costume changes during the play.",
+      "zh": "她在这出戏里要换四次服装。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[服装]服装，装束；戏装，剧装",
+      "words": [
+        "clothing",
+        "wear",
+        "garment",
+        "apparel"
+      ]
+    }
+  ]
+}

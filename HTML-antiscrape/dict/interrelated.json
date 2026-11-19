@@ -1,0 +1,44 @@
+{
+  "word": "interrelated",
+  "found": true,
+  "phonetic_uk": "ˌɪntərɪˈleɪtɪd",
+  "phonetic_us": "ˌɪntərɪˈleɪtɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=interrelated&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=interrelated&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "相关的；互相联系的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使相互联系（interrelate 的过去式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "All things are interrelated.",
+      "zh": "一切都是互相关联的。"
+    },
+    {
+      "en": "The concept of Gigal—transmigration of the soul and Zivugim are not so easily interrelated.",
+      "zh": "吉甲的概念——灵魂的轮回和兹武其姆的联系并不那么容易。"
+    },
+    {
+      "en": "Note that these objects are interrelated.",
+      "zh": "要注意这些对象是互相联系的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "相关的；互相联系的",
+      "words": [
+        "relational",
+        "correlative",
+        "pertinent"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "word": "classroom",
+  "found": true,
+  "phonetic_uk": "ˈklɑːsruːm",
+  "phonetic_us": "ˈklæsruːm",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=classroom&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=classroom&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "教室"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "classrooms"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She'd sent him outside the classroom.",
+      "zh": "她叫他到教室外面去。"
+    },
+    {
+      "en": "The classroom teacher must be sensitive to a child's needs.",
+      "zh": "课堂教师必须理解孩子的需求。"
+    },
+    {
+      "en": "The corner of the classroom was damp where the roof had leaked.",
+      "zh": "教室漏雨的一角是湿的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "教室",
+      "words": [
+        "schoolroom",
+        "teaching room"
+      ]
+    }
+  ]
+}

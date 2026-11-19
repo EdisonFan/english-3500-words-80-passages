@@ -1,0 +1,42 @@
+{
+  "word": "replaced",
+  "found": true,
+  "phonetic_uk": "rɪˈpleɪsd",
+  "phonetic_us": "rɪˈpleɪst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=replaced&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=replaced&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "取代；替换；放回（replace 的过去分词）"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "被替换的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He was replaced by Lt. Frank Fraser.",
+      "zh": "他由弗兰克•弗雷泽少尉来取代。"
+    },
+    {
+      "en": "Democratic government has now replaced military rule.",
+      "zh": "民主政体现已取代军事统治。"
+    },
+    {
+      "en": "I replaced the taps and reconnected the water supply.",
+      "zh": "我更换了水龙头再次接通了自来水。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "取代；替换；放回（replace的过去分词）",
+      "words": [
+        "displaced"
+      ]
+    }
+  ]
+}

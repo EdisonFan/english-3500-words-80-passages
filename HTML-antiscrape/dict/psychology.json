@@ -1,0 +1,44 @@
+{
+  "word": "psychology",
+  "found": true,
+  "phonetic_uk": "saɪˈkɒlədʒi",
+  "phonetic_us": "saɪˈkɑːlədʒi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=psychology&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=psychology&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "心理学；心理特点，心理状态；心理影响；心计，善解人意"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "psychologies"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He studied philosophy and psychology at Yale.",
+      "zh": "他在耶鲁大学学习哲学和心理学。"
+    },
+    {
+      "en": "He graduated from York with a degree in Psychology.",
+      "zh": "他毕业于约克大学，获心理学学士学位。"
+    },
+    {
+      "en": "Abraham Maslow described psychology as \"the science of being.\"",
+      "zh": "亚伯拉罕•马斯洛将心理学描述为“存在科学”。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[心理]心理学；心理状态",
+      "words": [
+        "mentation",
+        "psychological science"
+      ]
+    }
+  ]
+}

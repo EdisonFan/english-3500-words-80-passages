@@ -1,0 +1,65 @@
+{
+  "word": "decide",
+  "found": true,
+  "phonetic_uk": "dɪˈsaɪd",
+  "phonetic_us": "dɪˈsaɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=decide&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=decide&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "影响（或决定）……的结果；断定，判定；使下决心；决定，选定；裁决，判决"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "decides"
+    },
+    {
+      "name": "现在分词",
+      "value": "deciding"
+    },
+    {
+      "name": "过去式",
+      "value": "decided"
+    },
+    {
+      "name": "过去分词",
+      "value": "decided"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It's up to you to decide.",
+      "zh": "这事由你来决定吧。"
+    },
+    {
+      "en": "Whatever you decide, it's okay by me.",
+      "zh": "无论你怎么决定对我来说都行。"
+    },
+    {
+      "en": "You have our support, whatever you decide.",
+      "zh": "不管你作何决定，都会得到我们的支持。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "决定；解决；判决",
+      "words": [
+        "settle",
+        "condition",
+        "conclude"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "决定，下决心",
+      "words": [
+        "will",
+        "determine to"
+      ]
+    }
+  ]
+}

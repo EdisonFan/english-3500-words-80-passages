@@ -1,0 +1,50 @@
+{
+  "word": "repeated",
+  "found": true,
+  "phonetic_uk": "rɪˈpiːtɪd",
+  "phonetic_us": "rɪˈpiːtɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=repeated&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=repeated&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "重复的，反复发生的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "重说，重写；重做；重演（repeat 的过去式及过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "'Are you really sure?' she repeated.",
+      "zh": "“你真的很肯定吗？”她重复问道。"
+    },
+    {
+      "en": "The next day I repeated the procedure.",
+      "zh": "第二天我重复了这个程序。"
+    },
+    {
+      "en": "He repeated that he had been misquoted.",
+      "zh": "他反复地说他的话被错误地引用了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "再三的，反复的",
+      "words": [
+        "reiterant",
+        "iterative"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "重复；复述（repeat的过去分词）",
+      "words": [
+        "reduplicated"
+      ]
+    }
+  ]
+}

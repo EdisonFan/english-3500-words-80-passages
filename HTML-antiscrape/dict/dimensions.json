@@ -1,0 +1,44 @@
+{
+  "word": "dimensions",
+  "found": true,
+  "phonetic_uk": "daɪˈmenʃ(ə)nz",
+  "phonetic_us": "daɪˈmenʃ(ə)nz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dimensions&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dimensions&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "方面；空间，大小；维度，层面（dimension 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "将……做成特定尺寸；（在图表上）标出尺寸（dimension 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "We measured the dimensions of the kitchen.",
+      "zh": "我们测量了厨房的大小。"
+    },
+    {
+      "en": "Drilling will continue on the site to assess the dimensions of the new oilfield.",
+      "zh": "钻探还将继续在现场进行以估测新油田的大小。"
+    },
+    {
+      "en": "The dimensions of the market collapse, in terms of turnover and price, were certainly not anticipated.",
+      "zh": "股市崩盘的规模，无论从成交量还是价格来看，都是出乎意料的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "规模，大小",
+      "words": [
+        "scale",
+        "size",
+        "magnitude"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "word": "faith",
+  "found": true,
+  "phonetic_uk": "feɪθ",
+  "phonetic_us": "feɪθ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=faith&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=faith&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "信任，信心，信念；宗教；宗教信仰；忠诚"
+    },
+    {
+      "pos": "int.",
+      "meaning": "<爱尔兰>用以表示惊讶或强调千真万确"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Faith）（英）费思，费丝，（匈）福伊特，（瑞典）法伊特（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "faiths"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Faith is stronger than reason.",
+      "zh": "信仰比理智更有力。"
+    },
+    {
+      "en": "He retains a faith in human goodness.",
+      "zh": "他依然相信人性的善。"
+    },
+    {
+      "en": "I have great faith in you—I know you'll do well.",
+      "zh": "我对你有信心—我知道你会干好的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "信仰；信念；信任；忠实",
+      "words": [
+        "belief",
+        "confidence",
+        "trust",
+        "credit",
+        "loyalty"
+      ]
+    }
+  ]
+}

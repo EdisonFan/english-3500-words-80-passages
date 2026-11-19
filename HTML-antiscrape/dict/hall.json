@@ -1,0 +1,48 @@
+{
+  "word": "hall",
+  "found": true,
+  "phonetic_uk": "hɔːl",
+  "phonetic_us": "hɔːl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=hall&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=hall&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "礼堂，大厅；门厅；走廊，过道；（大学的）学生宿舍；府邸，庄园"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Hall）（英）霍尔，（法）阿尔，（土）哈勒，（德、波、丹、芬、瑞典）哈尔（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "halls"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Applause rang through the hall.",
+      "zh": "掌声响彻整个大厅。"
+    },
+    {
+      "en": "The hall was full to bursting.",
+      "zh": "大厅里挤满了人。"
+    },
+    {
+      "en": "The hall was carpeted in blue.",
+      "zh": "大厅铺上了蓝色的地毯。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "门厅，走廊；[建]会堂；食堂；学生宿舍",
+      "words": [
+        "passage",
+        "corridor"
+      ]
+    }
+  ]
+}

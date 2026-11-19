@@ -1,0 +1,64 @@
+{
+  "word": "envelop",
+  "found": true,
+  "phonetic_uk": "ɪnˈveləp",
+  "phonetic_us": "ɪnˈveləp",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=envelop&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=envelop&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "覆盖，包住"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "envelops"
+    },
+    {
+      "name": "现在分词",
+      "value": "enveloping"
+    },
+    {
+      "name": "过去式",
+      "value": "enveloped"
+    },
+    {
+      "name": "过去分词",
+      "value": "enveloped"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His energy, warmth, and curiosity envelop you like a blanket.",
+      "zh": "他的精力、热诚和好奇心如毯子一般将你包围。"
+    },
+    {
+      "en": "Such storms can sometimes envelop the entire planet and change the characteristics of the atmosphere, making EDL far trickier.",
+      "zh": "这样的风暴有时会包围整个地球，并改变大气层的特性，使得 EDL 更加棘手。"
+    },
+    {
+      "en": "Further up, the weather changes—low clouds envelop the mountainsides, which are covered with thick grass.",
+      "zh": "再往上走，天气就变了——低云笼罩着被厚厚的草覆盖的山腰。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "包围；包封；遮盖",
+      "words": [
+        "case",
+        "invest"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "信封；包裹",
+      "words": [
+        "package",
+        "parcel"
+      ]
+    }
+  ]
+}

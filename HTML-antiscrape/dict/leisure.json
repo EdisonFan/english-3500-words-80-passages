@@ -1,0 +1,55 @@
+{
+  "word": "leisure",
+  "found": true,
+  "phonetic_uk": "ˈleʒə(r)",
+  "phonetic_us": "ˈliːʒər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=leisure&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=leisure&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "闲暇，业余时间；休闲活动"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "空闲的，有闲的；业余的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Leisure）（英）莱热（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Leisure is often defined in opposition to work.",
+      "zh": "休闲常被定义为工作的反面。"
+    },
+    {
+      "en": "Whale-watching has become a growth leisure industry.",
+      "zh": "观鲸业已成为一个快速发展的休闲产业。"
+    },
+    {
+      "en": "These days we have more money and more leisure to enjoy it.",
+      "zh": "如今我们有更多的钱和空闲时间来享受了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[劳经]闲暇；空闲；安逸",
+      "words": [
+        "ease",
+        "idlesse"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "空闲的；有闲的；业余的",
+      "words": [
+        "available",
+        "off"
+      ]
+    }
+  ]
+}

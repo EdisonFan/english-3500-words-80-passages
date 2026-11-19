@@ -1,0 +1,42 @@
+{
+  "word": "highest",
+  "found": true,
+  "phonetic_uk": "haɪɪst",
+  "phonetic_us": "haɪɪst; ˈhaɪəst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=highest&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=highest&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "最高的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The tide was at its highest.",
+      "zh": "潮水那时正处于最高位。"
+    },
+    {
+      "en": "What's the highest mountain in the US?",
+      "zh": "美国哪座山最高？"
+    },
+    {
+      "en": "He's the world's highest paid entertainer.",
+      "zh": "他是世界上薪金最高的演艺人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "最高的",
+      "words": [
+        "supreme",
+        "maximum",
+        "peak",
+        "top",
+        "tallest"
+      ]
+    }
+  ]
+}

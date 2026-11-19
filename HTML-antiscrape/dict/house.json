@@ -1,0 +1,85 @@
+{
+  "word": "house",
+  "found": true,
+  "phonetic_uk": "haʊs",
+  "phonetic_us": "haʊs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=house&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=house&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "房子，住宅；一家人，同住一幢房子的人们；（有特定用途的）大楼，大厦；公司，商业机构；观众席，观众；演出场次；餐馆，餐厅；豪斯音乐；王室，皇族（House）；（某些英国学校学生为进行比赛而分的）组；动物的笼舍；议院，议会；（占星）黄道十二宫之一，黄道宫"
+    },
+    {
+      "pos": "v.",
+      "meaning": "让……居住，给……提供住房；给……提供场地，收藏存放；包裹，覆盖；住"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "家养的，常在室内的；公司的，机构的；（乐队，组合）（在俱乐部或别的场所）常驻的，定期表演的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （House）（英）豪斯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "houses"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "houses"
+    },
+    {
+      "name": "现在分词",
+      "value": "housing"
+    },
+    {
+      "name": "过去式",
+      "value": "housed"
+    },
+    {
+      "name": "过去分词",
+      "value": "housed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The whole house echoed.",
+      "zh": "整个房子充满回声。"
+    },
+    {
+      "en": "Their house is massive.",
+      "zh": "他们的房子大极了。"
+    },
+    {
+      "en": "The house faces north.",
+      "zh": "这房子朝北。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[建]住宅；家庭；机构；议会；某种用途的建筑物",
+      "words": [
+        "residence",
+        "organization",
+        "machinery",
+        "family",
+        "home"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "覆盖；给…房子住；把…储藏在房内",
+      "words": [
+        "invest",
+        "sheet",
+        "roof",
+        "cap"
+      ]
+    }
+  ]
+}

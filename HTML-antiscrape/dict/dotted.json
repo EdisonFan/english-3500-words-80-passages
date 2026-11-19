@@ -1,0 +1,42 @@
+{
+  "word": "dotted",
+  "found": true,
+  "phonetic_uk": "ˈdɒtɪd",
+  "phonetic_us": "ˈdɑːtɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dotted&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dotted&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "有斑点的，有点的；星罗棋布的；加附点的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "打点于；星罗棋布于，遍布；点缀，布满；给（音符）加附点；（非正式）击打（某人）（dot 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Country boundaries are shown on this map as dotted lines.",
+      "zh": "这张地图上国界以虚线标出。"
+    },
+    {
+      "en": "The text is dotted with digressions.",
+      "zh": "文本中到处是离题话。"
+    },
+    {
+      "en": "The countryside was dotted with small villages.",
+      "zh": "乡间有星罗棋布的小村庄。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "星罗棋布的；有点的",
+      "words": [
+        "star-studded"
+      ]
+    }
+  ]
+}

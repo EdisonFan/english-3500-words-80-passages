@@ -1,0 +1,52 @@
+{
+  "word": "area",
+  "found": true,
+  "phonetic_uk": "ˈeəriə",
+  "phonetic_us": "ˈeriə",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=area&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=area&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "地区，区域；场地，地方；领域；面积；部位；罚球区"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Area）（西）阿雷亚（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "areas"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The area is rich in wildlife.",
+      "zh": "这个地区的野生动植物很多。"
+    },
+    {
+      "en": "The area is largely uninhabited.",
+      "zh": "这个地区大部分是无人居住的。"
+    },
+    {
+      "en": "John is the London area manager.",
+      "zh": "约翰是伦敦地区经理。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "区域，[地理]地区；面积；范围",
+      "words": [
+        "district",
+        "region",
+        "extent",
+        "boundary",
+        "spectrum",
+        "territory"
+      ]
+    }
+  ]
+}

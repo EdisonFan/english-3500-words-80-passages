@@ -1,0 +1,51 @@
+{
+  "word": "reducing",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "rɪˈdʊsɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=reducing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=reducing&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "减低；减轻体重法，减肥法（如节食）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "减少，降低；使（液体）变稠（reduce 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He talked about the importance of reducing the national debt.",
+      "zh": "他谈了减少国债的重要性。"
+    },
+    {
+      "en": "The government is committed to reducing the country's external debt.",
+      "zh": "政府决心减少本国的外债。"
+    },
+    {
+      "en": "Data recorders also pinpoint mechanical faults rapidly, reducing repair times.",
+      "zh": "数据记录仪器也能很快查明机械故障，减少维修时间。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "减低；减轻体重法，减肥法",
+      "words": [
+        "shrinkage",
+        "letdown"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "减少（reduce的ing形式）",
+      "words": [
+        "decreasing",
+        "diminishing"
+      ]
+    }
+  ]
+}

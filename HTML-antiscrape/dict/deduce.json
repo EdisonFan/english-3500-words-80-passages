@@ -1,0 +1,57 @@
+{
+  "word": "deduce",
+  "found": true,
+  "phonetic_uk": "dɪˈdjuːs",
+  "phonetic_us": "dɪˈduːs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=deduce&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=deduce&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "推断，演绎；<古>对……追本溯源"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "deduces"
+    },
+    {
+      "name": "现在分词",
+      "value": "deducing"
+    },
+    {
+      "name": "过去式",
+      "value": "deduced"
+    },
+    {
+      "name": "过去分词",
+      "value": "deduced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Usually it is left to employers to deduce the potential from a list of extracurricular adventures on a graduate's resume.",
+      "zh": "通常情况下，由雇主从毕业生简历上的课外活动清单中来推断他们的潜力。"
+    },
+    {
+      "en": "The authors want to deduce a brief formulation, and use all-purpose program to get exact result for echelon, rectangle and rotundity cross section.",
+      "zh": "作者想推导简短的公式，对梯形、矩形和圆形断面采用通用的程序，以得到准确的结果。"
+    },
+    {
+      "en": "IQ tests ask you to complete verbal and visual analogies, to envision paper after it has been folded and cut, and to deduce numerical sequences, among other similar tasks.",
+      "zh": "智商测试要求你完成语言和视觉上的类比，想象纸张折叠和剪切之后的样子，推断数字序列，以及其他类似的任务。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "推论，推断；[数][计]演绎出",
+      "words": [
+        "understand",
+        "reason",
+        "conclude"
+      ]
+    }
+  ]
+}

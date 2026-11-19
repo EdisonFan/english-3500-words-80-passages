@@ -1,0 +1,78 @@
+{
+  "word": "trigger",
+  "found": true,
+  "phonetic_uk": "ˈtrɪɡə(r)",
+  "phonetic_us": "ˈtrɪɡər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=trigger&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=trigger&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（枪械等的）扳机；（尤指引发不良反应或发展的）起因，诱因；（炸弹的）引爆器，触发器"
+    },
+    {
+      "pos": "v.",
+      "meaning": "引发，激发；起动，触发；引爆（炸弹）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Trigger）特里杰（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "triggers"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "triggers"
+    },
+    {
+      "name": "现在分词",
+      "value": "triggering"
+    },
+    {
+      "name": "过去式",
+      "value": "triggered"
+    },
+    {
+      "name": "过去分词",
+      "value": "triggered"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Stress may act as a trigger for these illnesses.",
+      "zh": "压力也许是引发这些疾病的一个原因。"
+    },
+    {
+      "en": "Nuts can trigger off a violent allergic reaction.",
+      "zh": "坚果可以引起严重的过敏反应。"
+    },
+    {
+      "en": "Unresolved or unacknowledged fears can trigger sleepwalking.",
+      "zh": "未解决或未被注意的恐惧感会引发梦游。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "[物化]引发，引起；[电子]触发",
+      "words": [
+        "attract",
+        "produce",
+        "cause",
+        "operate",
+        "occasion"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "[军]扳机；[电子]触发器；制滑机",
+      "words": [
+        "flip-flopper"
+      ]
+    }
+  ]
+}

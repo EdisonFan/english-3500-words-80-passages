@@ -1,0 +1,44 @@
+{
+  "word": "forehead",
+  "found": true,
+  "phonetic_uk": "ˈfɔːhed; ˈfɒrɪd",
+  "phonetic_us": "ˈfɔːrhed",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=forehead&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=forehead&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "前额"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "foreheads"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He had a scar on his forehead.",
+      "zh": "他前额上有个伤疤。"
+    },
+    {
+      "en": "A frown creased her forehead.",
+      "zh": "她一皱眉，额头显出了皱纹。"
+    },
+    {
+      "en": "Sweat glistened on his forehead.",
+      "zh": "他额头上的汗珠晶莹发亮。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[解剖]额，前额",
+      "words": [
+        "quantum",
+        "frons"
+      ]
+    }
+  ]
+}

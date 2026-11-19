@@ -1,0 +1,43 @@
+{
+  "word": "dozen",
+  "found": true,
+  "phonetic_uk": "ˈdʌz(ə)n",
+  "phonetic_us": "ˈdʌz(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=dozen&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=dozen&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "一打，十二个；大量，许多；十多个"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "dozen或dozens"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Packages arrived by the dozen from America.",
+      "zh": "成打的包裹从美国寄来。"
+    },
+    {
+      "en": "A few dozen employees picketed the company's headquarters.",
+      "zh": "几十名雇员聚集在公司总部的外面示威抗议。"
+    },
+    {
+      "en": "Half a dozen sailors jumped him.",
+      "zh": "6名水手突袭了他。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[计量]十二个，一打",
+      "words": [
+        "twelve"
+      ]
+    }
+  ]
+}

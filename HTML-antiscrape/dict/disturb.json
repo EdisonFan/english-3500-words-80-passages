@@ -1,0 +1,64 @@
+{
+  "word": "disturb",
+  "found": true,
+  "phonetic_uk": "dɪˈstɜːb",
+  "phonetic_us": "dɪˈstɜːrb",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=disturb&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=disturb&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "打扰，妨碍；使焦虑，使烦恼；移动，弄乱"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "disturbs"
+    },
+    {
+      "name": "现在分词",
+      "value": "disturbing"
+    },
+    {
+      "name": "过去式",
+      "value": "disturbed"
+    },
+    {
+      "name": "过去分词",
+      "value": "disturbed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I didn't like to disturb you.",
+      "zh": "我本不愿打搅你。"
+    },
+    {
+      "en": "Don't disturb Jane, she's studying for her exams.",
+      "zh": "不要打扰简，她正在温习功课，准备考试呢。"
+    },
+    {
+      "en": "If you get up early, try not to disturb everyone else.",
+      "zh": "如果你起得早，尽量不要打扰别人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "打扰；妨碍；使不安；弄乱；使恼怒",
+      "words": [
+        "let",
+        "violate"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "打扰；妨碍",
+      "words": [
+        "intrude upon",
+        "hinder from"
+      ]
+    }
+  ]
+}

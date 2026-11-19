@@ -1,0 +1,42 @@
+{
+  "word": "recent",
+  "found": true,
+  "phonetic_uk": "ˈriːs(ə)nt",
+  "phonetic_us": "ˈriːs(ə)nt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=recent&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=recent&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "最近的，最新的；（地质）全新世的 （Recent）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He seems unabashed by his recent defeat.",
+      "zh": "他似乎不为近期的失败感到羞耻。"
+    },
+    {
+      "en": "These bushes are fairly recent plantings.",
+      "zh": "这些灌木丛是最近栽植的。"
+    },
+    {
+      "en": "A recent book has demolished this theory.",
+      "zh": "最近出版的一本书推翻了这种理论。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[地质]最近的；近代的",
+      "words": [
+        "latest",
+        "modern",
+        "current",
+        "nearest",
+        "last"
+      ]
+    }
+  ]
+}

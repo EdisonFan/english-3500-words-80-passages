@@ -1,0 +1,40 @@
+{
+  "word": "intentional",
+  "found": true,
+  "phonetic_uk": "ɪnˈtenʃən(ə)l",
+  "phonetic_us": "ɪnˈtenʃən(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=intentional&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=intentional&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "故意的，蓄意的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I'm sorry I left you off the list—it wasn't intentional.",
+      "zh": "很抱歉没把你列在名单里—我不是有意的。"
+    },
+    {
+      "en": "Women who are the victims of intentional discrimination will be able to get compensation.",
+      "zh": "遭受故意歧视的妇女们将能得到赔偿。"
+    },
+    {
+      "en": "Changing fashions are nothing more than the intentional creation of waste.",
+      "zh": "时尚的变化只不过是故意制造的浪费。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "故意的；蓄意的；策划的",
+      "words": [
+        "studied",
+        "designed",
+        "conscious"
+      ]
+    }
+  ]
+}

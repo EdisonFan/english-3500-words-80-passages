@@ -1,0 +1,47 @@
+{
+  "word": "identity",
+  "found": true,
+  "phonetic_uk": "aɪˈdentəti",
+  "phonetic_us": "aɪˈdentəti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=identity&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=identity&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "身份，本体；个性，特性；同一性，一致；恒等运算，恒等式"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "identities"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He closely guarded her identity.",
+      "zh": "他严密地保守她的身份。"
+    },
+    {
+      "en": "The thief used a false identity.",
+      "zh": "窃贼使用的是假身份。"
+    },
+    {
+      "en": "Do you have any proof of identity?",
+      "zh": "你有身份证明吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "身份；同一性，一致；特性；恒等式",
+      "words": [
+        "accordance",
+        "estate",
+        "unity",
+        "agreement",
+        "quality"
+      ]
+    }
+  ]
+}

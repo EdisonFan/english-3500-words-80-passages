@@ -1,0 +1,46 @@
+{
+  "word": "chasing",
+  "found": true,
+  "phonetic_uk": "ˈtʃeɪsɪŋ",
+  "phonetic_us": "ˈtʃeɪsɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=chasing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=chasing&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[建] 雕镂术；车螺丝雕镂；铸件最后抛光"
+    },
+    {
+      "pos": "v.",
+      "meaning": "追赶（chase 的现在分词形式）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Chasing）（英）蔡辛（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Girls are always chasing him.",
+      "zh": "姑娘们总是在追求他。"
+    },
+    {
+      "en": "My dog likes chasing rabbits.",
+      "zh": "我的狗喜欢追捕兔子。"
+    },
+    {
+      "en": "Kevin's been chasing after Jan for months.",
+      "zh": "凯文几个月来一直在追求简。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "追赶（chase的ing形式）",
+      "words": [
+        "pursuing"
+      ]
+    }
+  ]
+}

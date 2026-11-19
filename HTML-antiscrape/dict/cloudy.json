@@ -1,0 +1,48 @@
+{
+  "word": "cloudy",
+  "found": true,
+  "phonetic_uk": "ˈklaʊdi",
+  "phonetic_us": "ˈklaʊdi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cloudy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cloudy&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "多云的，阴天的；浑浊的，不清澈的；含糊的，困惑的；（眼睛）泪眼蒙眬的；愁容满面的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "cloudier或more cloudy"
+    },
+    {
+      "name": "最高级",
+      "value": "cloudiest或most cloudy"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Tonight will be cloudy.",
+      "zh": "今天夜间多云。"
+    },
+    {
+      "en": "It's cloudy this afternoon.",
+      "zh": "今天下午多云。"
+    },
+    {
+      "en": "It's cloudy in Singapore.",
+      "zh": "新加坡多云。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[气象]多云的；阴天的；愁容满面的",
+      "words": [
+        "nubilous",
+        "somber"
+      ]
+    }
+  ]
+}

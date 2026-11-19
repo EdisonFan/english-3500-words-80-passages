@@ -1,0 +1,35 @@
+{
+  "word": "Thursday",
+  "found": true,
+  "phonetic_uk": "ˈθɜːzdeɪ",
+  "phonetic_us": "ˈθɜːrzdeɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=Thursday&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=Thursday&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "星期四"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "Thursdays"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We agreed to meet on Thursday.",
+      "zh": "我们约定在星期四见面。"
+    },
+    {
+      "en": "Thursday is market day.",
+      "zh": "星期四是赶集日。"
+    },
+    {
+      "en": "On Thursday Barrett invited me for a drink.",
+      "zh": "星期四巴雷特请我喝了一杯。"
+    }
+  ],
+  "synonyms": []
+}

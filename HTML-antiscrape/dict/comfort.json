@@ -1,0 +1,73 @@
+{
+  "word": "comfort",
+  "found": true,
+  "phonetic_uk": "ˈkʌmfət",
+  "phonetic_us": "ˈkʌmfərt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=comfort&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=comfort&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "舒服，舒适；安慰，慰藉；令人感到安慰的人（或事物）；舒适的设施（或条件）；生活富足"
+    },
+    {
+      "pos": "v.",
+      "meaning": "安慰，抚慰"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "comforts"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "comforts"
+    },
+    {
+      "name": "现在分词",
+      "value": "comforting"
+    },
+    {
+      "name": "过去式",
+      "value": "comforted"
+    },
+    {
+      "name": "过去分词",
+      "value": "comforted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It's a comfort talking to you.",
+      "zh": "与你谈谈是一种安慰。"
+    },
+    {
+      "en": "I tried to offer a few words of comfort.",
+      "zh": "我试图说上几句安慰的话。"
+    },
+    {
+      "en": "The hotel combines comfort with convenience.",
+      "zh": "这家旅馆既舒适又方便。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "安慰；舒适；安慰者",
+      "words": [
+        "relief",
+        "ease",
+        "consolation"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "安慰；使（痛苦等）缓和",
+      "words": [
+        "quiet",
+        "soothe"
+      ]
+    }
+  ]
+}

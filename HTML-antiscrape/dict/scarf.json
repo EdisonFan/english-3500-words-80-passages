@@ -1,0 +1,68 @@
+{
+  "word": "scarf",
+  "found": true,
+  "phonetic_uk": "skɑːf",
+  "phonetic_us": "skɑːrf",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=scarf&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=scarf&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "围巾，披巾，头巾；（嵌接的）斜面，斜嵌槽；鲸脂的切口"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<美，非正式>狼吞虎咽地吃；嵌接，斜接（木材，金属）；切割（鲸）脂"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Scarf）（英）斯卡夫（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "scarves或scarfs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "scarfs"
+    },
+    {
+      "name": "现在分词",
+      "value": "scarfing"
+    },
+    {
+      "name": "过去式",
+      "value": "scarfed"
+    },
+    {
+      "name": "过去分词",
+      "value": "scarfed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Her scarf streamed behind her.",
+      "zh": "她的围巾在身后飘动。"
+    },
+    {
+      "en": "Someone has taken my scarf.",
+      "zh": "有人把我的围巾拿走了。"
+    },
+    {
+      "en": "She tied her scarf over her head.",
+      "zh": "她把围巾围在头上。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[服装]围巾；嵌接，嵌接处；头巾领巾",
+      "words": [
+        "muffler",
+        "neckcloth"
+      ]
+    }
+  ]
+}

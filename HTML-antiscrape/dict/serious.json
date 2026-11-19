@@ -1,0 +1,41 @@
+{
+  "word": "serious",
+  "found": true,
+  "phonetic_uk": "ˈsɪəriəs",
+  "phonetic_us": "ˈsɪriəs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=serious&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=serious&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "严重的，危急的；认真的，严肃的；重要的，须重视的；（音乐、文学等艺术）严肃的；（人）庄重的，严肃的；<非正式>大量的，极多的；（恋爱中）态度认真的；极感兴趣的，热衷的；<非正式>很好的，质优价高的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "You're joking. Are you serious?",
+      "zh": "你在开玩笑吧。你是认真的吗？"
+    },
+    {
+      "en": "He's quite a serious person.",
+      "zh": "他是一个相当严肃的人。"
+    },
+    {
+      "en": "The consequences could be serious.",
+      "zh": "后果可能是严重的。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "严肃的，严重的；认真的；庄重的；危急的",
+      "words": [
+        "acute",
+        "bad",
+        "grave",
+        "solemn"
+      ]
+    }
+  ]
+}

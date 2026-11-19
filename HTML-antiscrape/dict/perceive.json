@@ -1,0 +1,67 @@
+{
+  "word": "perceive",
+  "found": true,
+  "phonetic_uk": "pəˈsiːv",
+  "phonetic_us": "pərˈsiːv",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=perceive&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=perceive&type=2",
+  "defs": [
+    {
+      "pos": "vt.",
+      "meaning": "认为，理解；察觉，注意到；意识到"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "perceives"
+    },
+    {
+      "name": "现在分词",
+      "value": "perceiving"
+    },
+    {
+      "name": "过去式",
+      "value": "perceived"
+    },
+    {
+      "name": "过去分词",
+      "value": "perceived"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Voters perceive him as a decisive and resolute international leader.",
+      "zh": "选民认识到他是一位果断、坚定的国际领袖。"
+    },
+    {
+      "en": "Look for cues about how others perceive you.",
+      "zh": "寻找关于别人如何看待你的线索。"
+    },
+    {
+      "en": "How do the people of Argentina perceive this problem?",
+      "zh": "阿根廷人民如何看待这个问题？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "察觉，感觉；理解；认知",
+      "words": [
+        "detect",
+        "feel",
+        "absorb",
+        "see",
+        "read"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "感到，感知；认识到",
+      "words": [
+        "to feel",
+        "come to realize"
+      ]
+    }
+  ]
+}

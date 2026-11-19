@@ -1,0 +1,73 @@
+{
+  "word": "transport",
+  "found": true,
+  "phonetic_uk": "ˈtrænspɔːt",
+  "phonetic_us": "ˈtrænspɔːrt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=transport&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=transport&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "运输，运送；交通工具，运输方式；交通运输系统；（运送部队、给养等的）运输船，运输机；强烈的感情，狂喜；<史>流放犯"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（用交通工具）运输，运送；（以自然方式）运输，传播；使产生身临其境的感觉；流放，放逐（犯人）；使狂喜，使（某人）充满强烈情感（尤指快乐）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "transports"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "transports"
+    },
+    {
+      "name": "现在分词",
+      "value": "transporting"
+    },
+    {
+      "name": "过去式",
+      "value": "transported"
+    },
+    {
+      "name": "过去分词",
+      "value": "transported"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The goods were damaged during transport.",
+      "zh": "货物在运输期间受损。"
+    },
+    {
+      "en": "Transport not incl.",
+      "zh": "不包括运输"
+    },
+    {
+      "en": "Applicants must have their own transport.",
+      "zh": "申请人必须有自己的交通工具。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[植]运输；[航]运输机；狂喜；流放犯",
+      "words": [
+        "carriage",
+        "traffic",
+        "conveyance"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[植]运输；流放；使狂喜",
+      "words": [
+        "convey",
+        "to freight"
+      ]
+    }
+  ]
+}

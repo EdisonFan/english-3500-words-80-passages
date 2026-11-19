@@ -1,0 +1,56 @@
+{
+  "word": "willing",
+  "found": true,
+  "phonetic_uk": "ˈwɪlɪŋ",
+  "phonetic_us": "ˈwɪlɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=willing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=willing&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "愿意的，乐意的；乐于相助的，积极肯干的；出于自愿的，志愿的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "希望，想要（某事发生）；凭意志促使……做某事；立遗嘱遗赠（will 的现在分词形式）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Willing）（德、芬、瑞典）维林，（英）威林（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more willing"
+    },
+    {
+      "name": "最高级",
+      "value": "most willing"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I'm willing to give it a shot.",
+      "zh": "我愿意试试。"
+    },
+    {
+      "en": "Are you willing to vouch for him?",
+      "zh": "你愿意为他担保吗？"
+    },
+    {
+      "en": "I'm willing to help, within limits.",
+      "zh": "我愿意帮忙，可有一定的限度。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "乐意的；自愿的；心甘情愿的",
+      "words": [
+        "glad",
+        "voluntary"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "word": "engaged",
+  "found": true,
+  "phonetic_uk": "ɪnˈɡeɪdʒd",
+  "phonetic_us": "ɪnˈɡeɪdʒd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=engaged&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=engaged&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "已订婚的；从事……的，忙于……的；电话占线的；（公用卫生间）被占用的；（圆柱）附墙的，部分砌在墙内的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "雇用，聘请；参加，从事；吸引，引起；与……交战，开战（engage 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I have never engaged in drug trafficking.",
+      "zh": "我从来没有从事过贩毒。"
+    },
+    {
+      "en": "When did you get engaged ?",
+      "zh": "你们什么时候订的婚？"
+    },
+    {
+      "en": "They were engaged in conversation.",
+      "zh": "他们正谈得来劲。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "使用中的，忙碌的",
+      "words": [
+        "busy",
+        "occupied"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "保证；约定；同…订婚（engage的过去分词）",
+      "words": [
+        "assured",
+        "stipulated"
+      ]
+    }
+  ]
+}

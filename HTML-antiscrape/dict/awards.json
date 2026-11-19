@@ -1,0 +1,50 @@
+{
+  "word": "awards",
+  "found": true,
+  "phonetic_uk": "əˈwɔːdz",
+  "phonetic_us": "əˈwɔːrdz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=awards&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=awards&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "奖，奖品；（收入的）增加；（赔偿）裁定额（award 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "授予，颁发；判给，裁定（award 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He's won a whole clutch of awards.",
+      "zh": "他获得一大堆奖。"
+    },
+    {
+      "en": "The Academy Awards appear to validate his career.",
+      "zh": "这些奥斯卡金像奖看来证实了他的职业生涯的价值。"
+    },
+    {
+      "en": "Even the stars get tired of gussying up for the awards.",
+      "zh": "连明星们也厌烦了把自己打扮起来去领奖。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "奖项；判决；奖赏（award的复数）",
+      "words": [
+        "sentences",
+        "prizes"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "授予（award的三单形式）；判给",
+      "words": [
+        "grants"
+      ]
+    }
+  ]
+}

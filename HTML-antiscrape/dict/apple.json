@@ -1,0 +1,47 @@
+{
+  "word": "apple",
+  "found": true,
+  "phonetic_uk": "ˈæp(ə)l",
+  "phonetic_us": "ˈæp(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=apple&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=apple&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "苹果"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "apples"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She crunched her apple noisily.",
+      "zh": "她吃苹果发出嘎嚓嘎嚓的声音。"
+    },
+    {
+      "en": "Someone threw an apple core.",
+      "zh": "有人扔了一个苹果核。"
+    },
+    {
+      "en": "Sling me an apple, will you?",
+      "zh": "扔个苹果给我，好吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[园艺]苹果；家伙",
+      "words": [
+        "customer",
+        "fellow",
+        "egg",
+        "guy",
+        "bird"
+      ]
+    }
+  ]
+}

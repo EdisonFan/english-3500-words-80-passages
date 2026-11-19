@@ -1,0 +1,51 @@
+{
+  "word": "widespread",
+  "found": true,
+  "phonetic_uk": "ˈwaɪdspred",
+  "phonetic_us": "ˌwaɪdˈspred",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=widespread&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=widespread&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "普遍的，广泛的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more widespread"
+    },
+    {
+      "name": "最高级",
+      "value": "most widespread"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Price gouging is widespread.",
+      "zh": "漫天要价的情况普遍存在。"
+    },
+    {
+      "en": "The new laws have gained widespread acceptance.",
+      "zh": "新法律获得广泛赞同。"
+    },
+    {
+      "en": "There is widespread apathy among the electorate.",
+      "zh": "选民普遍态度冷淡。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "普遍的，广泛的；分布广的",
+      "words": [
+        "extensive",
+        "universal",
+        "comprehensive",
+        "ruling",
+        "generalized"
+      ]
+    }
+  ]
+}

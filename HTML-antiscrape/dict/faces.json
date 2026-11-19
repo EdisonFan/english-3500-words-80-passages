@@ -1,0 +1,51 @@
+{
+  "word": "faces",
+  "found": true,
+  "phonetic_uk": "ˈfeɪsɪz",
+  "phonetic_us": "ˈfeɪsɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=faces&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=faces&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "表面（face 的复数）；脸色；脸面"
+    },
+    {
+      "pos": "v.",
+      "meaning": "向；面对；转向（face 的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Most people's faces are asymmetric.",
+      "zh": "大多数人的脸不对称。"
+    },
+    {
+      "en": "The economy still faces intractable problems.",
+      "zh": "经济依然面临一些棘手的问题。"
+    },
+    {
+      "en": "Tears streamed down their faces.",
+      "zh": "泪水顺着他们的脸颊流下来。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "表面（face的复数）；脸色；脸面",
+      "words": [
+        "surfaces",
+        "colors",
+        "facies"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "向；面对；转向（face的三单形式）",
+      "words": [
+        "veers"
+      ]
+    }
+  ]
+}

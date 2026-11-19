@@ -1,0 +1,91 @@
+{
+  "word": "boss",
+  "found": true,
+  "phonetic_uk": "bɒs",
+  "phonetic_us": "bɔːs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=boss&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=boss&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "上司，领导，领班；圆形装饰物，浮雕装饰；牛犊，奶牛"
+    },
+    {
+      "pos": "v.",
+      "meaning": "发号施令，对……颐指气使；当首领"
+    },
+    {
+      "pos": "adj.",
+      "meaning": "很好的，出色的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Boss）（英、法、德、西、瑞典）博斯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "bosses"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "bosses"
+    },
+    {
+      "name": "现在分词",
+      "value": "bossing"
+    },
+    {
+      "name": "过去式",
+      "value": "bossed"
+    },
+    {
+      "name": "过去分词",
+      "value": "bossed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I'll hand you over to my boss.",
+      "zh": "请跟我的老板讲。"
+    },
+    {
+      "en": "His boss has a foul temper.",
+      "zh": "他的老板脾气很坏。"
+    },
+    {
+      "en": "She's always crawling to the boss.",
+      "zh": "她对老板总是谄媚奉承。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[劳经]老板；首领；工头",
+      "words": [
+        "leader",
+        "employer",
+        "chief",
+        "captain",
+        "landlord"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "指挥，调遣；当…的领导",
+      "words": [
+        "officer",
+        "captain",
+        "lead"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "当首领，发号施令",
+      "words": [
+        "call the shots"
+      ]
+    }
+  ]
+}

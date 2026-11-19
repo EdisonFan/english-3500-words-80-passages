@@ -1,0 +1,39 @@
+{
+  "word": "cans",
+  "found": true,
+  "phonetic_uk": "kænz",
+  "phonetic_us": "kænz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=cans&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=cans&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "金属罐，罐（can 的复数）；易拉罐；耳机；头戴受话器"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Steel cans were introduced sometime during the forties.",
+      "zh": "钢罐是在四十年代的某个时候开始使用的。"
+    },
+    {
+      "en": "When nuclear fuel is manufactured it is encased in metal cans.",
+      "zh": "核燃料生产出来时被装在金属罐中。"
+    },
+    {
+      "en": "On scavenger hunts I would always ask Mrs. Martin for empty coffee cans.",
+      "zh": "寻物游戏中，我总会找马丁夫人要空咖啡罐。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "金属罐，罐（can的复数）；易拉罐；耳机；头戴受话器",
+      "words": [
+        "headphones",
+        "earphones"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "committee",
+  "found": true,
+  "phonetic_uk": "kəˈmɪti",
+  "phonetic_us": "kəˈmɪti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=committee&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=committee&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "委员会；<英>受托人，监护人；<美>精神病者监护人"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The committee meets on Fridays.",
+      "zh": "委员会每周五开会。"
+    },
+    {
+      "en": "The committee meets fortnightly.",
+      "zh": "委员会两星期开一次会。"
+    },
+    {
+      "en": "The committee has been dissolved.",
+      "zh": "委员会被解散了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "委员会",
+      "words": [
+        "council",
+        "soviet"
+      ]
+    }
+  ]
+}

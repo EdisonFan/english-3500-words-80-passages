@@ -1,0 +1,47 @@
+{
+  "word": "deaf",
+  "found": true,
+  "phonetic_uk": "def",
+  "phonetic_us": "def",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=deaf&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=deaf&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "聋的；置若罔闻的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "deafer或more deaf"
+    },
+    {
+      "name": "最高级",
+      "value": "deafest或most deaf"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She was born deaf.",
+      "zh": "她天生耳聋。"
+    },
+    {
+      "en": "She learnt to sign to help her deaf child.",
+      "zh": "为帮助她耳聋的孩子，她学会了手语。"
+    },
+    {
+      "en": "The two deaf actors converse solely in signing.",
+      "zh": "两位聋哑演员只靠打手势语交谈。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "聋的",
+      "words": [
+        "dunny"
+      ]
+    }
+  ]
+}

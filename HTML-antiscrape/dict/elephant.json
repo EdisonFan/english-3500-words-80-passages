@@ -1,0 +1,35 @@
+{
+  "word": "elephant",
+  "found": true,
+  "phonetic_uk": "ˈelɪfənt; ˈeləfənt",
+  "phonetic_us": "ˈelɪfənt; ˈeləfənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=elephant&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=elephant&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "象；大号图画纸"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "elephants或elephant"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The elephant flapped its ears.",
+      "zh": "大象拍打着双耳。"
+    },
+    {
+      "en": "The kids had a ride on an elephant at the zoo.",
+      "zh": "在动物园里，孩子们骑着大象走了一圈。"
+    },
+    {
+      "en": "The elephant is the largest living land animal.",
+      "zh": "象是现今陆地上最大的动物。"
+    }
+  ],
+  "synonyms": []
+}

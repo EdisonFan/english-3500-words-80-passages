@@ -1,0 +1,76 @@
+{
+  "word": "book",
+  "found": true,
+  "phonetic_uk": "bʊk",
+  "phonetic_us": "bʊk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=book&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=book&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "书，书籍；本子，簿册；（长篇作品的）篇，卷，部；装订成册之物；赌局，打赌；账册，账簿"
+    },
+    {
+      "pos": "v.",
+      "meaning": "预订，预约；（警方）将……记录在案；（裁判）记名警告"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Book）（英）布克，（瑞典）博克，（朝）北（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "books"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "books"
+    },
+    {
+      "name": "现在分词",
+      "value": "booking"
+    },
+    {
+      "name": "过去式",
+      "value": "booked"
+    },
+    {
+      "name": "过去分词",
+      "value": "booked"
+    }
+  ],
+  "examples": [
+    {
+      "en": "That looks an interesting book.",
+      "zh": "那好像是本有趣的书。"
+    },
+    {
+      "en": "Slowly he closed the book.",
+      "zh": "慢慢地他把书合上了。"
+    },
+    {
+      "en": "This is a fine book.",
+      "zh": "这是一本好书。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "书籍；卷；帐簿；名册；工作簿",
+      "words": [
+        "volume",
+        "roll"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "预订；登记",
+      "words": [
+        "register",
+        "make reservation"
+      ]
+    }
+  ]
+}

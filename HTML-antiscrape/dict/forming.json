@@ -1,0 +1,50 @@
+{
+  "word": "forming",
+  "found": true,
+  "phonetic_uk": "ˈfɔːmɪŋ",
+  "phonetic_us": "",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=forming&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=forming&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（使）出现；（使）形成；组成，制作；排成；有……功能；是，成为；组织，建立；对……的发展有影响；成为……的一部分（form的现在分词）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Forming）（美、德、埃）佛明（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The band is re-forming after 23 years.",
+      "zh": "23年后，这个乐队又在重新组建。"
+    },
+    {
+      "en": "Storm clouds are forming on the horizon.",
+      "zh": "天边出现了暴雨云。"
+    },
+    {
+      "en": "Queues were already forming outside the theatre.",
+      "zh": "剧院外已经在排队了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "形成",
+      "words": [
+        "becoming",
+        "making"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "形成（form的ing形式）",
+      "words": [
+        "emerging"
+      ]
+    }
+  ]
+}

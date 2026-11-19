@@ -1,0 +1,56 @@
+{
+  "word": "than",
+  "found": true,
+  "phonetic_uk": "ðæn; ðən",
+  "phonetic_us": "ðæn; ðən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=than&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=than&type=2",
+  "defs": [
+    {
+      "pos": "conj.",
+      "meaning": "（用以引出比较的第二部分）比；（比较数量、距离等）多于；（表示一事紧跟另一事发生）就；除……（外）"
+    },
+    {
+      "pos": "prep.",
+      "meaning": "（用以引出比较的第二部分）比；（比较数量、距离等）多于；（表示一事紧跟另一事发生）就；除……（外）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（Than）（越）丹（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Faith is stronger than reason.",
+      "zh": "信仰比理智更有力。"
+    },
+    {
+      "en": "Those look riper than these.",
+      "zh": "那些看上去比这些熟一些。"
+    },
+    {
+      "en": "Progress was slower than expected.",
+      "zh": "进展比预计的缓慢。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "conj.",
+      "meaning": "比（用于形容词、副词的比较级之后）；除…外（用于other等之后）；与其…（用于 rather等之后）；一…就（用于 no sooner等之后）",
+      "words": [
+        "immediately",
+        "directly"
+      ]
+    },
+    {
+      "pos": "prep.",
+      "meaning": "比；超过",
+      "words": [
+        "beyond",
+        "above",
+        "without"
+      ]
+    }
+  ]
+}

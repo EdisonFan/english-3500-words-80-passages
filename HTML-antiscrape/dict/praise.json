@@ -1,0 +1,81 @@
+{
+  "word": "praise",
+  "found": true,
+  "phonetic_uk": "preɪz",
+  "phonetic_us": "preɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=praise&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=praise&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "（尤指公开地）赞美，表扬；（用语言或音乐）赞美（上帝）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "表扬，赞美；（对上帝的）感谢，崇拜"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "praises"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "praises"
+    },
+    {
+      "name": "现在分词",
+      "value": "praising"
+    },
+    {
+      "name": "过去式",
+      "value": "praised"
+    },
+    {
+      "name": "过去分词",
+      "value": "praised"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He heaped praise on his team.",
+      "zh": "他高度赞扬了他的队。"
+    },
+    {
+      "en": "Even his praise is double-edged.",
+      "zh": "即使他的赞扬也是可以有两种解释的。"
+    },
+    {
+      "en": "Praise is a great confidence booster.",
+      "zh": "表扬是一个很好的自信提升剂。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "赞扬；称赞；荣耀；崇拜",
+      "words": [
+        "worship",
+        "favoring and praising"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "赞美，歌颂；表扬",
+      "words": [
+        "celebrate",
+        "bless",
+        "admire"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "赞美；赞扬",
+      "words": [
+        "speak highly of",
+        "talk up"
+      ]
+    }
+  ]
+}

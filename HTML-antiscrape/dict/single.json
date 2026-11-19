@@ -1,0 +1,76 @@
+{
+  "word": "single",
+  "found": true,
+  "phonetic_uk": "ˈsɪŋɡ(ə)l",
+  "phonetic_us": "ˈsɪŋɡ(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=single&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=single&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "单一的，单个的；单身的，未婚的；各自的，分别的；单人的，单人用的；<英>（票）单程的；统一的；由一个部分构成的；（花）单瓣的；唯一的；（酒的）一份"
+    },
+    {
+      "pos": "n.",
+      "meaning": "单曲唱片；（板球中的）一分打，（棒球中的）一垒打；单身者，未婚者；<英> 单程票；（旅馆等的）单人房间；单打（比赛）；<美，非正式> 一元纸币；（鸣钟术）不同次序鸣钟法；<美>（影剧院的）一张票，一个座位；一份酒"
+    },
+    {
+      "pos": "v.",
+      "meaning": "挑选，选出；（棒球）击出一垒打；对（幼苗，幼树）进行间苗；将（铁轨）变成单线；以一垒打使（跑垒）得分"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "singles"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "singles"
+    },
+    {
+      "name": "现在分词",
+      "value": "singling"
+    },
+    {
+      "name": "过去式",
+      "value": "singled"
+    },
+    {
+      "name": "过去分词",
+      "value": "singled"
+    }
+  ],
+  "examples": [
+    {
+      "en": "How much is a single to York?",
+      "zh": "去约克的单程票多少钱？"
+    },
+    {
+      "en": "The single is titled \"White Love.\"",
+      "zh": "这支单曲名为《白色之恋》。"
+    },
+    {
+      "en": "Are you still single?",
+      "zh": "你还是单身吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "单一的；单身的；单程的",
+      "words": [
+        "unitary",
+        "onefold"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "一个；单打；单程票",
+      "words": [
+        "yin",
+        "one-way ticket"
+      ]
+    }
+  ]
+}

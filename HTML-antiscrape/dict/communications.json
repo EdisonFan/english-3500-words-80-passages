@@ -1,0 +1,30 @@
+{
+  "word": "communications",
+  "found": true,
+  "phonetic_uk": "kəˌmjuːnɪˈkeɪʃ(ə)nz",
+  "phonetic_us": "kəˌmjuːnɪˈkeɪʃ(ə)nz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=communications&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=communications&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "传播学；通讯，交通联系；信息，书信，电话（communication 的复数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The rocket launched two communications satellites.",
+      "zh": "火箭发射了两颗通信卫星。"
+    },
+    {
+      "en": "Our first task is to set up a communications system.",
+      "zh": "我们的首项任务是架设通信系统。"
+    },
+    {
+      "en": "Our first task will be to set up a communications system.",
+      "zh": "我们的首项任务是架设通信系统。"
+    }
+  ],
+  "synonyms": []
+}

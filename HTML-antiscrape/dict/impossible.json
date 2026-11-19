@@ -1,0 +1,59 @@
+{
+  "word": "impossible",
+  "found": true,
+  "phonetic_uk": "ɪmˈpɒsəb(ə)l",
+  "phonetic_us": "ɪmˈpɑːsəb(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=impossible&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=impossible&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "不可能的，办不到的；（境况）极其艰难的；（人）难以对付的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "不可能的事（the impossible）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more impossible"
+    },
+    {
+      "name": "最高级",
+      "value": "most impossible"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It's mathematically impossible.",
+      "zh": "这在数学上是不可能的。"
+    },
+    {
+      "en": "Thick mist made flying impossible.",
+      "zh": "浓雾使得无法飞行。"
+    },
+    {
+      "en": "His accent was impossible to place.",
+      "zh": "他的口音无法辨认。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "不可能的；不可能存在的；难以忍受的；不真实的",
+      "words": [
+        "incorrect",
+        "unbearable"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "不可能；不可能的事",
+      "words": [
+        "a blue moon"
+      ]
+    }
+  ]
+}

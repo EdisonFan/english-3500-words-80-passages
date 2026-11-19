@@ -1,0 +1,50 @@
+{
+  "word": "essays",
+  "found": true,
+  "phonetic_uk": "",
+  "phonetic_us": "ˈeseɪz; eˈseɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=essays&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=essays&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "随笔（essay 的复数形式）；短文；试图"
+    },
+    {
+      "pos": "v.",
+      "meaning": "作……尝试；企图（essay 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He's editing a book of essays by Isaiah Berlin.",
+      "zh": "他正在编辑一本艾赛亚•伯林的散文集。"
+    },
+    {
+      "en": "This collection of essays is edited by Ellen Knight.",
+      "zh": "这本散文集是由埃伦·奈特编选的。"
+    },
+    {
+      "en": "I can type your essays for you.",
+      "zh": "我可以为你打文章。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "随笔（essay的复数形式）；短文；试图",
+      "words": [
+        "attempts",
+        "offers"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "作…尝试；企图（essay的第三人称单数）",
+      "words": [
+        "purposes"
+      ]
+    }
+  ]
+}

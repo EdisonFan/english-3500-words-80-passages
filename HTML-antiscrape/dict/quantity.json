@@ -1,0 +1,47 @@
+{
+  "word": "quantity",
+  "found": true,
+  "phonetic_uk": "ˈkwɒntəti",
+  "phonetic_us": "ˈkwɑːntəti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=quantity&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=quantity&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "量，数目；大量，大批；（尤指和质量相对的）数量；（语音）音量；值，参量；代表数量（或参量）的数（或符号）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "quantities"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Is it available in sufficient quantity?",
+      "zh": "这东西能不能足量供应？"
+    },
+    {
+      "en": "Prices vary according to the quantity ordered.",
+      "zh": "价格根据所订数量而变化。"
+    },
+    {
+      "en": "The police found a quantity of drugs at his home.",
+      "zh": "警察在他家发现了大量毒品。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "量，数量；大量；总量",
+      "words": [
+        "lots of",
+        "wealth",
+        "ocean",
+        "volume",
+        "sea"
+      ]
+    }
+  ]
+}

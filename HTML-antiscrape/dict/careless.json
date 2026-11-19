@@ -1,0 +1,52 @@
+{
+  "word": "careless",
+  "found": true,
+  "phonetic_uk": "ˈkeələs",
+  "phonetic_us": "ˈkerləs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=careless&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=careless&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "粗心大意的，疏忽的；自然的，随便的；淡漠的，不关心的"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Careless）（英）凯尔利斯（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more careless"
+    },
+    {
+      "name": "最高级",
+      "value": "most careless"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She had been inexcusably careless.",
+      "zh": "她曾粗心大意得不可原谅。"
+    },
+    {
+      "en": "It's your own fault for being careless.",
+      "zh": "你粗心大意是你自己的过失。"
+    },
+    {
+      "en": "It was careless of me to leave the door open.",
+      "zh": "怪我粗心忘了关门。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "粗心的；无忧无虑的；淡漠的",
+      "words": [
+        "unwary",
+        "sloppy"
+      ]
+    }
+  ]
+}

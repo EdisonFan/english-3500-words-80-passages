@@ -1,0 +1,43 @@
+{
+  "word": "praying",
+  "found": true,
+  "phonetic_uk": "preŋ",
+  "phonetic_us": "preɪɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=praying&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=praying&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "祈祷"
+    },
+    {
+      "pos": "v.",
+      "meaning": "祈祷（pray 的 ing 形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He spent his time in prison praying and studying.",
+      "zh": "他把在狱中的时间花在了祈祷和学习上。"
+    },
+    {
+      "en": "He heard your prayers and said to Himself, 'Yes, Heidi shall get what she is praying for in time.'",
+      "zh": "他听到了你的祈祷，对自己说：‘是的，海蒂会适时得到她祈祷的东西的。’"
+    },
+    {
+      "en": "In Indonesia, she finds yet another piece of herself: the balance between the pleasures of eating and praying.",
+      "zh": "在印度尼西亚，她又找到了另一份自我：在吃的乐趣与祈祷的乐趣之间的平衡。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "祈祷",
+      "words": [
+        "orison",
+        "invocation"
+      ]
+    }
+  ]
+}

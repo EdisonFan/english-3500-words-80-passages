@@ -1,0 +1,34 @@
+{
+  "word": "e-mail",
+  "found": true,
+  "phonetic_uk": "ˈiː meɪl",
+  "phonetic_us": "ˈiː meɪl",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=e-mail&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=e-mail&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "电子邮件，电子邮件系统；电子邮件信息；一封电子邮件"
+    },
+    {
+      "pos": "v.",
+      "meaning": "给……发电子邮件；用电子邮件发送"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "You can contact us by e-mail.",
+      "zh": "你可以通过电子邮件跟我们联系。"
+    },
+    {
+      "en": "Do you want to send an E-mail?",
+      "zh": "你想发一封电子邮件吗？"
+    },
+    {
+      "en": "An e-mail from Uncle Fred arrived.",
+      "zh": "来自弗雷德叔叔的电子邮件到了。"
+    }
+  ],
+  "synonyms": []
+}

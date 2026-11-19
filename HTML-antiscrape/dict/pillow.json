@@ -1,0 +1,67 @@
+{
+  "word": "pillow",
+  "found": true,
+  "phonetic_uk": "ˈpɪləʊ",
+  "phonetic_us": "ˈpɪloʊ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pillow&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pillow&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "枕头；蕾丝枕头（lace pillow的简称）；<美>坐垫，靠垫"
+    },
+    {
+      "pos": "v.",
+      "meaning": "将（头）枕在……上，枕着（某物）；<文>为……当枕头"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Pillow）（英）皮洛（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "pillows"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "pillows"
+    },
+    {
+      "name": "现在分词",
+      "value": "pillowing"
+    },
+    {
+      "name": "过去式",
+      "value": "pillowed"
+    },
+    {
+      "name": "过去分词",
+      "value": "pillowed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He pummelled the pillow with his fists.",
+      "zh": "他用双拳不停地捶打枕头。"
+    },
+    {
+      "en": "The pillow cover can match up with the sheets.",
+      "zh": "这个枕巾可以和这些被单相配。"
+    },
+    {
+      "en": "I have a pillow with my name embroidered on it.",
+      "zh": "我有一个绣着我名字的枕头。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "枕头",
+      "words": [
+        "weeping willow"
+      ]
+    }
+  ]
+}

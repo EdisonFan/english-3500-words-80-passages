@@ -1,0 +1,44 @@
+{
+  "word": "authority",
+  "found": true,
+  "phonetic_uk": "ɔːˈθɒrəti",
+  "phonetic_us": "əˈθɔːrəti",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=authority&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=authority&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "专家，权威人士；行政管理机构；权力，权限；权威，威信；许可，授权；当局，官方"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "authorities"
+    }
+  ],
+  "examples": [
+    {
+      "en": "She had an aura of authority.",
+      "zh": "她有一种权威气质。"
+    },
+    {
+      "en": "His authority is steadily weakening.",
+      "zh": "他的权威日趋减弱。"
+    },
+    {
+      "en": "Her speech carried the ring of authority.",
+      "zh": "她的讲话带着权威的口吻。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "权威；[法]权力；当局",
+      "words": [
+        "rod",
+        "jurisdiction"
+      ]
+    }
+  ]
+}

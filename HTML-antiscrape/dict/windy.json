@@ -1,0 +1,48 @@
+{
+  "word": "windy",
+  "found": true,
+  "phonetic_uk": "ˈwɪndi",
+  "phonetic_us": "ˈwɪndi",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=windy&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=windy&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "多风的，风大的；夸夸其谈的，空话连篇的；<英>胃内气胀的；（道路，河流）蜿蜒的，弯弯曲曲的；<英，非正式>（人）紧张的，忧虑的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "windier"
+    },
+    {
+      "name": "最高级",
+      "value": "windiest"
+    }
+  ],
+  "examples": [
+    {
+      "en": "It was windy and Jake felt cold.",
+      "zh": "风很大，杰克觉得很冷。"
+    },
+    {
+      "en": "It was very wet and windy the day I drove over the hill to Del Norte.",
+      "zh": "我开车越过小山去德尔诺特的那天下大雨又刮大风。"
+    },
+    {
+      "en": "It is windy, but it is sunny.",
+      "zh": "有风，但是还是很阳光明媚。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "多风的，有风的；腹胀的；吹牛的",
+      "words": [
+        "blowy",
+        "thrasonical"
+      ]
+    }
+  ]
+}

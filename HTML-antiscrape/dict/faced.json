@@ -1,0 +1,42 @@
+{
+  "word": "faced",
+  "found": true,
+  "phonetic_uk": "feɪst",
+  "phonetic_us": "feɪst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=faced&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=faced&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "有某种面孔或表情的；有……表面的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "面对（face 的过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He faced a battery of questions.",
+      "zh": "他面临一连串的问题。"
+    },
+    {
+      "en": "I stiffened my back and faced him.",
+      "zh": "我挺直了腰杆面对着他。"
+    },
+    {
+      "en": "She turned and faced him.",
+      "zh": "她转过身来面对着他。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "面对（face的过去分词）",
+      "words": [
+        "envisaged"
+      ]
+    }
+  ]
+}

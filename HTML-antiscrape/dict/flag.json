@@ -1,0 +1,79 @@
+{
+  "word": "flag",
+  "found": true,
+  "phonetic_uk": "flæɡ",
+  "phonetic_us": "flæɡ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=flag&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=flag&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "旗帜；国旗；信号旗，标志旗；菖蒲，鸢尾；铺路用的厚石板（多为矩形或正方形）；（在街上慈善捐赠后获得的）小纸徽；（用作标志的）旗状装置（或符号、图画）；出租车空车显示器；特征位；旗舰"
+    },
+    {
+      "pos": "v.",
+      "meaning": "给……做标记；示意……停下来，挥手示停；（裁判向场内）丢旗判罚；疲乏，热情衰减；引起对……的注意"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "flags"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "flags"
+    },
+    {
+      "name": "现在分词",
+      "value": "flagging"
+    },
+    {
+      "name": "过去式",
+      "value": "flagged"
+    },
+    {
+      "name": "过去分词",
+      "value": "flagged"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The American flag was flying.",
+      "zh": "美国国旗飘扬。"
+    },
+    {
+      "en": "The flag waved in the breeze.",
+      "zh": "旗子在微风中飘扬。"
+    },
+    {
+      "en": "The hotel flies the European Union flag.",
+      "zh": "这家饭店悬挂着欧盟的旗帜。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vi.",
+      "meaning": "标记；衰退；枯萎",
+      "words": [
+        "fail",
+        "decay"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "标记；插旗",
+      "words": [
+        "emblemize"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "标志；旗子",
+      "words": [
+        "symbol",
+        "seal"
+      ]
+    }
+  ]
+}

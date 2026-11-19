@@ -1,0 +1,51 @@
+{
+  "word": "improved",
+  "found": true,
+  "phonetic_uk": "ɪmˈpruːvd",
+  "phonetic_us": "ɪmˈpruːvd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=improved&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=improved&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "改良的；改进过的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "改进；增加（improve 的过去式和过去分词）；变得更好"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The drug improved mental alertness.",
+      "zh": "这种药物提高了大脑的灵敏度。"
+    },
+    {
+      "en": "How might the plans be improved upon?",
+      "zh": "这些计划还能怎么改进呢？"
+    },
+    {
+      "en": "Housing standards improved immeasurably after the war.",
+      "zh": "战后住房水平大大提高。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "改良的；改进过的",
+      "words": [
+        "modified",
+        "reformative"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "改进；增加（improve的过去式和过去分词）；变得更好",
+      "words": [
+        "rose",
+        "advanced"
+      ]
+    }
+  ]
+}

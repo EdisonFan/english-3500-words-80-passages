@@ -1,0 +1,50 @@
+{
+  "word": "discouraged",
+  "found": true,
+  "phonetic_uk": "dɪsˈkʌrɪdʒd",
+  "phonetic_us": "dɪsˈkɜːrɪdʒd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=discouraged&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=discouraged&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "泄气的，心灰意冷的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使泄气，使灰心；阻碍，制止（discourage 的过去式和过去分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She was determined not to be too discouraged.",
+      "zh": "她下了决心不要太气馁。"
+    },
+    {
+      "en": "She was totally discouraged.",
+      "zh": "她完全泄气了。"
+    },
+    {
+      "en": "The weather discouraged people from attending.",
+      "zh": "这天气使得人们不愿意出席。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "气馁的",
+      "words": [
+        "crestfallen",
+        "unnerved"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "劝阻（discourage的过去分词）；使失去勇气",
+      "words": [
+        "paralyzed"
+      ]
+    }
+  ]
+}

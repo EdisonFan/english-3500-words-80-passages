@@ -1,0 +1,38 @@
+{
+  "word": "literally",
+  "found": true,
+  "phonetic_uk": "ˈlɪtərəli",
+  "phonetic_us": "ˈlɪtərəli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=literally&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=literally&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "按照字面意义地，逐字地；真正地，确实地；（用于夸张地强调）简直"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "I literally jumped out of my skin.",
+      "zh": "我简直给吓了一大跳。"
+    },
+    {
+      "en": "Greenfly can literally suck a plant dry.",
+      "zh": "蚜虫的确能把一株植物吸干。"
+    },
+    {
+      "en": "There are literally hundreds of prizes to win.",
+      "zh": "真的有好几百份奖品可以领呀。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "照字面地；逐字地",
+      "words": [
+        "verbatim"
+      ]
+    }
+  ]
+}

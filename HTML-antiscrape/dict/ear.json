@@ -1,0 +1,50 @@
+{
+  "word": "ear",
+  "found": true,
+  "phonetic_uk": "ɪə(r)",
+  "phonetic_us": "ɪr",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=ear&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=ear&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "耳朵；灵敏的听力；倾听；穗；耳状物"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Ear）（柬）伊（人名）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She tweaked his ear playfully.",
+      "zh": "她拧他的耳朵逗着玩儿。"
+    },
+    {
+      "en": "He tweaked Guy's ear roughly.",
+      "zh": "他粗暴地扯盖伊的耳朵。"
+    },
+    {
+      "en": "She was murmuring in his ear.",
+      "zh": "她在他耳边悄声说话。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "耳朵；穗；听觉；倾听",
+      "words": [
+        "listen",
+        "auditory sensation"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "（美俚）听见；抽穗",
+      "words": [
+        "hear"
+      ]
+    }
+  ]
+}

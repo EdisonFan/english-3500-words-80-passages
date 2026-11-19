@@ -1,0 +1,39 @@
+{
+  "word": "nuclear",
+  "found": true,
+  "phonetic_uk": "ˈnjuːkliə(r)",
+  "phonetic_us": "ˈnuːkliər",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=nuclear&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=nuclear&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "核子的，原子核的；核武器的；原子能的，核能的；核心的，中心的；细胞核的，构成细胞核的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Nuclear power is cleaner than coal.",
+      "zh": "核能比煤更清洁。"
+    },
+    {
+      "en": "Uranium is used to fuel nuclear plants.",
+      "zh": "铀用作核电厂的燃料。"
+    },
+    {
+      "en": "The threat of nuclear escalation remains.",
+      "zh": "核升级的威胁依然存在。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "原子能的；[细胞]细胞核的；中心的；原子核的",
+      "words": [
+        "central",
+        "atomic"
+      ]
+    }
+  ]
+}

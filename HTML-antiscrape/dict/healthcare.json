@@ -1,0 +1,38 @@
+{
+  "word": "healthcare",
+  "found": true,
+  "phonetic_uk": "ˈhelθkeə(r)",
+  "phonetic_us": "ˈhelθˌker",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=healthcare&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=healthcare&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "医疗保健服务"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "However we adopt healthcare reform, it isn't going to save major amounts of money.",
+      "zh": "不管我们采取什么样的医疗改革措施，它都不会节省太多的钱。"
+    },
+    {
+      "en": "One is teaching, and the other, healthcare.",
+      "zh": "一个是教学，另一个是医疗。"
+    },
+    {
+      "en": "The solution to queues in the fields of healthcare, education, transportation, and employment is very complicated.",
+      "zh": "医疗、教育、交通运输和就业等领域排队问题的解决方案很复杂。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "医疗保健；健康护理，健康服务；卫生保健",
+      "words": [
+        "health services"
+      ]
+    }
+  ]
+}

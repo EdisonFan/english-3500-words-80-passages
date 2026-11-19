@@ -1,0 +1,39 @@
+{
+  "word": "closely",
+  "found": true,
+  "phonetic_uk": "ˈkləʊsli",
+  "phonetic_us": "ˈkloʊsli",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=closely&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=closely&type=2",
+  "defs": [
+    {
+      "pos": "adv.",
+      "meaning": "仔细地，严密地；（联系）紧密地；秘密地，暗中地；（时间或位置上）接近地，不远地；相似地，不相上下地"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He closely guarded her identity.",
+      "zh": "他严密地保守她的身份。"
+    },
+    {
+      "en": "These problems are closely related.",
+      "zh": "这些问题都是密切相关的。"
+    },
+    {
+      "en": "Our defence had him closely marked.",
+      "zh": "我方后卫已经紧紧地盯住了他。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adv.",
+      "meaning": "紧密地；接近地；严密地；亲近地",
+      "words": [
+        "hard",
+        "cheek by jowl"
+      ]
+    }
+  ]
+}

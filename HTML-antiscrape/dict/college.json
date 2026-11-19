@@ -1,0 +1,46 @@
+{
+  "word": "college",
+  "found": true,
+  "phonetic_uk": "ˈkɒlɪdʒ",
+  "phonetic_us": "ˈkɑːlɪdʒ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=college&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=college&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "大学，专科学校；学院，分院；公学；学会，社团；学院的全体师生"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "colleges"
+    }
+  ],
+  "examples": [
+    {
+      "en": "They're prepping for college.",
+      "zh": "他们正为上大学做准备。"
+    },
+    {
+      "en": "He studied maths at college.",
+      "zh": "他在大学里学过数学。"
+    },
+    {
+      "en": "Our youngest girl is at college.",
+      "zh": "我们的小女儿在大学读书。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "大学；学院；学会",
+      "words": [
+        "university",
+        "academy",
+        "campus",
+        "school"
+      ]
+    }
+  ]
+}

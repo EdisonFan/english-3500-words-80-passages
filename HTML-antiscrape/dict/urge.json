@@ -1,0 +1,79 @@
+{
+  "word": "urge",
+  "found": true,
+  "phonetic_uk": "ɜːdʒ",
+  "phonetic_us": "ɜːrdʒ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=urge&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=urge&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "敦促，催促，力劝；竭力主张，强烈要求；驱赶，鞭策；鼓励，激励（~ sb. on）"
+    },
+    {
+      "pos": "n.",
+      "meaning": "强烈的欲望，冲动；推动力"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "urges"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "urges"
+    },
+    {
+      "name": "现在分词",
+      "value": "urging"
+    },
+    {
+      "name": "过去式",
+      "value": "urged"
+    },
+    {
+      "name": "过去分词",
+      "value": "urged"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He denounces people who urge him to alter his ways.",
+      "zh": "他指责那些敦促他改变习惯的人们。"
+    },
+    {
+      "en": "He continued to urge the Republican Party to tilt rightward.",
+      "zh": "他继续力劝共和党右倾。"
+    },
+    {
+      "en": "The urge to survive drove them on.",
+      "zh": "求生的欲望驱使他们继续下去。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "力劝，催促；驱策，推进",
+      "words": [
+        "crowd",
+        "rush up"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "强烈的欲望，迫切要求；推动力",
+      "words": [
+        "impulse",
+        "driving force"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "强烈要求",
+      "words": [
+        "scream for"
+      ]
+    }
+  ]
+}

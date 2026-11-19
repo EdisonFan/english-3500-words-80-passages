@@ -1,0 +1,38 @@
+{
+  "word": "Olympics",
+  "found": true,
+  "phonetic_uk": "əˈlɪmpɪks",
+  "phonetic_us": "əˌlɪmpɪks",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=Olympics&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=Olympics&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "奥林匹克运动会"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "For him it's the Olympics or bust.",
+      "zh": "他将竭尽全力参加奥运会。"
+    },
+    {
+      "en": "She won (a) bronze at the Olympics.",
+      "zh": "她在奥林匹克运动会上赢得了一枚铜牌。"
+    },
+    {
+      "en": "Have you been watching the Olympics?",
+      "zh": "你一直在看奥运会吗？"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "奥林匹克运动会",
+      "words": [
+        "Olympic Games"
+      ]
+    }
+  ]
+}

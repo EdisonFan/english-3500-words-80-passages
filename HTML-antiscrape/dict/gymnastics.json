@@ -1,0 +1,39 @@
+{
+  "word": "gymnastics",
+  "found": true,
+  "phonetic_uk": "dʒɪmˈnæstɪks",
+  "phonetic_us": "dʒɪmˈnæstɪks",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=gymnastics&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=gymnastics&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "体操，体操训练；技巧，技能训练"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "China made a clean sweep of the medals in the gymnastics events.",
+      "zh": "中国队在体操比赛中包揽了所有的奖牌。"
+    },
+    {
+      "en": "She competes in gymnastics, with hopes of making it to the Olympics.",
+      "zh": "她参加体操比赛，希望能进军奥运会。"
+    },
+    {
+      "en": "I also like basketball and gymnastics.",
+      "zh": "我也喜欢篮球和体操。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "体操；体育；体操运动",
+      "words": [
+        "gym",
+        "physical culture"
+      ]
+    }
+  ]
+}

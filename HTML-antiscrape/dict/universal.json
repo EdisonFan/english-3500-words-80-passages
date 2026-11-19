@@ -1,0 +1,66 @@
+{
+  "word": "universal",
+  "found": true,
+  "phonetic_uk": "ˌjuːnɪˈvɜːs(ə)l",
+  "phonetic_us": "ˌjuːnɪˈvɜːrs(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=universal&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=universal&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "普遍的，全体的，全世界的；通用的，万能的；（逻）全称的，总称的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "普遍原则，通用原理；普遍看法，普遍特征；（逻）全称命题；（哲）普遍，一般概念；（哲）共相；（语言学）普遍现象，通用规则"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "universals"
+    },
+    {
+      "name": "比较级",
+      "value": "more universal"
+    },
+    {
+      "name": "最高级",
+      "value": "most universal"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Agreement on this issue is almost universal.",
+      "zh": "这个问题几乎取得全体一致的意见。"
+    },
+    {
+      "en": "Several writers have posited the idea of a universal consciousness.",
+      "zh": "几个作者都假设一种普遍意识的思想。"
+    },
+    {
+      "en": "The dove is a universal symbol of peace.",
+      "zh": "鸽子是和平的共同象征。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "普遍的；通用的；[天]宇宙的；全世界的；全体的",
+      "words": [
+        "widespread",
+        "entire",
+        "corporate",
+        "worldwide",
+        "current"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "一般概念；普通性",
+      "words": [
+        "general concept"
+      ]
+    }
+  ]
+}

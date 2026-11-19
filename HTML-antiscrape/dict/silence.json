@@ -1,0 +1,76 @@
+{
+  "word": "silence",
+  "found": true,
+  "phonetic_uk": "ˈsaɪləns",
+  "phonetic_us": "ˈsaɪləns",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=silence&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=silence&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "寂静，无声；沉默，默不作声；保持沉默，拒绝回答；无音信，失去联系；默哀，静默"
+    },
+    {
+      "pos": "v.",
+      "meaning": "使安静，使不说话；压制，使不再发表（反对意见）；杀……灭口；给（枪，排气系统）装消音器"
+    },
+    {
+      "pos": "int.",
+      "meaning": "<正式>（用以让人们安静）安静，静下来"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "silences"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "silences"
+    },
+    {
+      "name": "现在分词",
+      "value": "silencing"
+    },
+    {
+      "name": "过去式",
+      "value": "silenced"
+    },
+    {
+      "name": "过去分词",
+      "value": "silenced"
+    }
+  ],
+  "examples": [
+    {
+      "en": "There was an awkward silence.",
+      "zh": "一阵令人尴尬的沉默。"
+    },
+    {
+      "en": "There was a fraught silence.",
+      "zh": "有一阵令人焦虑的沉默。"
+    },
+    {
+      "en": "His silence unnerved us.",
+      "zh": "他的沉默令我们心里发慌。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "沉默；寂静；缄默；不谈；无声状态",
+      "words": [
+        "still",
+        "quiescence"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使沉默；使安静；压制；消除噪音",
+      "words": [
+        "becalm",
+        "extinguish"
+      ]
+    }
+  ]
+}

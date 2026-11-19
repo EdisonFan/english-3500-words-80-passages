@@ -1,0 +1,44 @@
+{
+  "word": "appreciation",
+  "found": true,
+  "phonetic_uk": "əˌpriːʃiˈeɪʃn",
+  "phonetic_us": "əˌpriːʃiˈeɪʃ(ə)n",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=appreciation&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=appreciation&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "欣赏，鉴赏；感激，感谢；理解，领会；升值，增值；（赞赏性的）演讲，文字"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "appreciations"
+    }
+  ],
+  "examples": [
+    {
+      "en": "You have to take capital appreciation of the property into account.",
+      "zh": "你得将那个房产的资本增值考虑进来。"
+    },
+    {
+      "en": "The aim is to inculcate businesspeople with an appreciation of different cultures.",
+      "zh": "其目的是教导商界人员学会欣赏不同的文化。"
+    },
+    {
+      "en": "She shows little appreciation of good music.",
+      "zh": "她感受不到美好音乐的妙处。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "欣赏，鉴别；[经]增值；感谢",
+      "words": [
+        "thank",
+        "acknowledgement"
+      ]
+    }
+  ]
+}

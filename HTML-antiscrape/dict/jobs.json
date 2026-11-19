@@ -1,0 +1,38 @@
+{
+  "word": "jobs",
+  "found": true,
+  "phonetic_uk": "dˈʒɒbz",
+  "phonetic_us": "dʒɑːbz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=jobs&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=jobs&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "工作（job 的复数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Thousands have lost their jobs.",
+      "zh": "数千人都丢了工作。"
+    },
+    {
+      "en": "The outlook for jobs is bleak.",
+      "zh": "就业市场前景暗淡。"
+    },
+    {
+      "en": "In those days jobs were plentiful.",
+      "zh": "那时期工作岗位多得很。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "工作（job的复数形式）",
+      "words": [
+        "tasks"
+      ]
+    }
+  ]
+}

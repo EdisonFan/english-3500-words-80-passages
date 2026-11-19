@@ -1,0 +1,34 @@
+{
+  "word": "meals",
+  "found": true,
+  "phonetic_uk": "miːlz",
+  "phonetic_us": "miːlz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=meals&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=meals&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "膳食；谷类（meal 的复数）"
+    },
+    {
+      "pos": "v.",
+      "meaning": "进餐（meal 的三单形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He has to cook his own meals.",
+      "zh": "他必须自己做饭。"
+    },
+    {
+      "en": "It is important not to skip meals.",
+      "zh": "重要的是，不能不吃饭。"
+    },
+    {
+      "en": "These meals are ideal for home freezing.",
+      "zh": "这些饭食很适合家庭冷藏。"
+    }
+  ],
+  "synonyms": []
+}

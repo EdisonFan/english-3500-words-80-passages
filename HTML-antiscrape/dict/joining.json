@@ -1,0 +1,46 @@
+{
+  "word": "joining",
+  "found": true,
+  "phonetic_uk": "ˈdʒɔɪnɪŋ",
+  "phonetic_us": "ˈdʒɔɪnɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=joining&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=joining&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "连接，接缝；连接物"
+    },
+    {
+      "pos": "v.",
+      "meaning": "连接，接合；联合，汇合；参加，加入；入伍，参军；到……之中，与……一道去；支持（某人）做；上（飞机、火车）；上（路），加入（行列）（join 的现在分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Anyone interested in joining the club should contact us at the address below.",
+      "zh": "有意加入俱乐部者请按下面的地址和我们联系。"
+    },
+    {
+      "en": "Mrs Smith, who has a lot of teaching experience at junior level, will be joining the school in September.",
+      "zh": "史密斯太太将在九月份加盟这所学校，她在初级教育方面颇有经验。"
+    },
+    {
+      "en": "Thank you for joining us.",
+      "zh": "谢谢你加入我们。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "连接；接缝；连接物",
+      "words": [
+        "connection",
+        "junction",
+        "linking",
+        "attachment",
+        "seam"
+      ]
+    }
+  ]
+}

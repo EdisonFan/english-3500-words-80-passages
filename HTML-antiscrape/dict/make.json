@@ -1,0 +1,91 @@
+{
+  "word": "make",
+  "found": true,
+  "phonetic_uk": "meɪk",
+  "phonetic_us": "meɪk",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=make&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=make&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "制造；制定，拟定；使变得，使处于；造成，引起；整理（床铺）；做，作出；强迫；挑选，任命；成为，适合；合计，等于；计算，估算；安排，组织；表现，描绘；挣钱，赚钱；（体育比赛）得分；（尽力）赶往，到达；排成 （某图案）；使形成，留下（印记、洞等）；使成功，使圆满；在……占一席之地；似乎要做；朝（特定方向）走去；<美，非正式>求欢；（桥牌等）赢一墩牌；（潮）涨，（潮）退"
+    },
+    {
+      "pos": "n.",
+      "meaning": "（机器、设备等的）品牌，型号；结构，构造；通电，接电"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Make）（塞、南非）马克（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "makes"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "makes"
+    },
+    {
+      "name": "现在分词",
+      "value": "making"
+    },
+    {
+      "name": "过去式",
+      "value": "made"
+    },
+    {
+      "name": "过去分词",
+      "value": "made"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Photos make useful teaching aids.",
+      "zh": "照片可以成为有用的教具。"
+    },
+    {
+      "en": "This sentence doesn't make sense.",
+      "zh": "这个句子不通。"
+    },
+    {
+      "en": "I'll just make the coffee.",
+      "zh": "我就来煮咖啡。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "使得；进行；布置，准备，整理；制造；认为；获得；形成；安排；引起；构成",
+      "words": [
+        "earn",
+        "acquire",
+        "prepare",
+        "provide",
+        "expect"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "开始；前进；增大；被制造",
+      "words": [
+        "proceed",
+        "progress",
+        "increase"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "制造；构造；[心理]性情",
+      "words": [
+        "formation",
+        "manufacture",
+        "constitution",
+        "fabric",
+        "machining"
+      ]
+    }
+  ]
+}

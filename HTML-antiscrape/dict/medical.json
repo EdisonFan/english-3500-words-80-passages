@@ -1,0 +1,55 @@
+{
+  "word": "medical",
+  "found": true,
+  "phonetic_uk": "ˈmedɪk(ə)l",
+  "phonetic_us": "ˈmedɪk(ə)l",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=medical&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=medical&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "医学的，医疗的；内科的"
+    },
+    {
+      "pos": "n.",
+      "meaning": "体格检查，健康检查"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "medicals"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Her medical bills mounted up.",
+      "zh": "她的医疗账单越来越多。"
+    },
+    {
+      "en": "The medical prognosis was bleak.",
+      "zh": "医疗预后不良。"
+    },
+    {
+      "en": "Medical insurance is very pricey.",
+      "zh": "医疗保险很昂贵。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "医学的；药的；内科的",
+      "words": [
+        "iatrical"
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "医生；体格检查",
+      "words": [
+        "doctor",
+        "hakeem"
+      ]
+    }
+  ]
+}

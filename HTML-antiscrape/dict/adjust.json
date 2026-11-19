@@ -1,0 +1,66 @@
+{
+  "word": "adjust",
+  "found": true,
+  "phonetic_uk": "əˈdʒʌst",
+  "phonetic_us": "əˈdʒʌst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=adjust&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=adjust&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "调整，调节；整理（衣服）；适应，习惯；（保险理赔时）理算，评估（损失，损害）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "adjusts"
+    },
+    {
+      "name": "现在分词",
+      "value": "adjusting"
+    },
+    {
+      "name": "过去式",
+      "value": "adjusted"
+    },
+    {
+      "name": "过去分词",
+      "value": "adjusted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "How did you adjust to college life?",
+      "zh": "你是怎么适应大学生活的？"
+    },
+    {
+      "en": "You can adjust the height of the chair.",
+      "zh": "你可以调节椅子的高度。"
+    },
+    {
+      "en": "He has been forced to adjust his schedule.",
+      "zh": "他已被迫调整了日程安排。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "调整，使…适合；校准",
+      "words": [
+        "regulate",
+        "coordinate",
+        "frame",
+        "restructure"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "调整，校准；适应",
+      "words": [
+        "correct",
+        "adapt to something"
+      ]
+    }
+  ]
+}

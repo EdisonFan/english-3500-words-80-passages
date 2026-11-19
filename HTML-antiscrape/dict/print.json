@@ -1,0 +1,79 @@
+{
+  "word": "print",
+  "found": true,
+  "phonetic_uk": "prɪnt",
+  "phonetic_us": "prɪnt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=print&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=print&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "打印；印刷，出版；（在报纸或杂志上）刊登，刊载；用印刷体书写；冲印（照片）；印花样于（尤指织物或衣服上）；印上（印痕）；（用模子）印；铭记，铭刻"
+    },
+    {
+      "pos": "n.",
+      "meaning": "印刷；印刷字体；印刷出的文字；印刷行业，出版界；印刷品，出版物；印迹，痕迹；印章；印花布，印花布服装；印花，印制图案；（冲印出的）照片； 版画，(用照相制版法制作的）绘画复制品；电影拷贝"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "prints"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "prints"
+    },
+    {
+      "name": "现在分词",
+      "value": "printing"
+    },
+    {
+      "name": "过去式",
+      "value": "printed"
+    },
+    {
+      "name": "过去分词",
+      "value": "printed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Click on the icon when you want to print.",
+      "zh": "你想打印时就点击一下这个图标。"
+    },
+    {
+      "en": "I got a kick out of seeing my name in print.",
+      "zh": "看到我的名字被印成铅字，我感到非常兴奋。"
+    },
+    {
+      "en": "Wayne plans to increase the print run to 1,000.",
+      "zh": "韦恩计划将印量增加到1千册。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[印刷]印刷业；印花布；印刷字体；印章；印记",
+      "words": [
+        "impression",
+        "seal"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[印刷]印刷；[计]打印；刊载；用印刷体写；在…印花样",
+      "words": [
+        "strike off"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "[印刷]印刷；出版；用印刷体写",
+      "words": [
+        "bring out",
+        "get out"
+      ]
+    }
+  ]
+}

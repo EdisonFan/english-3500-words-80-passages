@@ -1,0 +1,67 @@
+{
+  "word": "crayon",
+  "found": true,
+  "phonetic_uk": "ˈkreɪən; ˈkreɪɒn",
+  "phonetic_us": "ˈkreɪən; ˈkreɪɑːn",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=crayon&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=crayon&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "彩色粉笔（或炭笔、蜡笔）；彩色粉笔（或炭笔、蜡笔）画"
+    },
+    {
+      "pos": "v.",
+      "meaning": "用彩色蜡笔画"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Crayon）（英）克雷恩（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "crayons"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "crayons"
+    },
+    {
+      "name": "现在分词",
+      "value": "crayoning"
+    },
+    {
+      "name": "过去式",
+      "value": "crayoned"
+    },
+    {
+      "name": "过去分词",
+      "value": "crayoned"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Someone had scribbled all over the table in crayon.",
+      "zh": "不知谁用蜡笔胡写乱画，桌面上都涂满了。"
+    },
+    {
+      "en": "He colored the picture with crayon.",
+      "zh": "他用蜡笔给画上色。"
+    },
+    {
+      "en": "He coloured the picture with crayon.",
+      "zh": "他用蜡笔给画上色。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[轻]蜡笔，有色粉笔",
+      "words": [
+        "pastels"
+      ]
+    }
+  ]
+}

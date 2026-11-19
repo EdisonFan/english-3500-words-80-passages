@@ -1,0 +1,72 @@
+{
+  "word": "pavilion",
+  "found": true,
+  "phonetic_uk": "pəˈvɪliən",
+  "phonetic_us": "pəˈvɪliən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=pavilion&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=pavilion&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "<英>（运动场边的）运动员席，看台，更衣室；（临时的）大帐篷，临时建筑；大型文体馆；凉亭，阁；分馆式病房，分馆"
+    },
+    {
+      "pos": "v.",
+      "meaning": "搭帐篷；置……于亭中；笼罩"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "pavilions"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "pavilions"
+    },
+    {
+      "name": "现在分词",
+      "value": "pavilioning"
+    },
+    {
+      "name": "过去式",
+      "value": "pavilioned"
+    },
+    {
+      "name": "过去分词",
+      "value": "pavilioned"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We entered the pavilion.",
+      "zh": "我们进入了展馆。"
+    },
+    {
+      "en": "At the centre of the lake, there is a pavilion.",
+      "zh": "湖心有一座亭子。"
+    },
+    {
+      "en": "The Cat Léon, the mascot of France Pavilion, will interact with every visitor.",
+      "zh": "猫莱昂，法国馆的吉祥物，将与每一位游客互动。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[建]阁；亭子；大帐篷；展示馆",
+      "words": [
+        "summerhouse",
+        "gloriette"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "搭帐篷；置…于亭中；笼罩",
+      "words": [
+        "fold",
+        "hang over"
+      ]
+    }
+  ]
+}

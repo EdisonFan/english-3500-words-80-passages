@@ -1,0 +1,45 @@
+{
+  "word": "debt",
+  "found": true,
+  "phonetic_uk": "det",
+  "phonetic_us": "det",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=debt&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=debt&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "欠款，债务；负债情况；人情债"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "debts"
+    }
+  ],
+  "examples": [
+    {
+      "en": "We are finally clear of debt.",
+      "zh": "我们终于偿清了债务。"
+    },
+    {
+      "en": "We're up to our neck in debt.",
+      "zh": "我们债务累累。"
+    },
+    {
+      "en": "The firm ended up deep in debt.",
+      "zh": "这家公司最后债台高筑。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "债务；借款；罪过",
+      "words": [
+        "liability",
+        "loan",
+        "borrowing"
+      ]
+    }
+  ]
+}

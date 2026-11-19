@@ -1,0 +1,81 @@
+{
+  "word": "beef",
+  "found": true,
+  "phonetic_uk": "biːf",
+  "phonetic_us": "biːf",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=beef&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=beef&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "牛肉；肌肉，力量，力气；<非正式>抱怨，牢骚；<非正式>要点，关键；<美，非正式>犯罪指控，罪名"
+    },
+    {
+      "pos": "v.",
+      "meaning": "<非正式>抱怨，发牢骚"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "beefs或beeves"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "beefs"
+    },
+    {
+      "name": "现在分词",
+      "value": "beefing"
+    },
+    {
+      "name": "过去式",
+      "value": "beefed"
+    },
+    {
+      "name": "过去分词",
+      "value": "beefed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The nation also exports beef.",
+      "zh": "该国也出口牛肉。"
+    },
+    {
+      "en": "Pete gobbled all the beef stew.",
+      "zh": "皮特狼吞虎咽地吃完了所有的炖牛肉。"
+    },
+    {
+      "en": "She served him a bowl of beef stew.",
+      "zh": "她给他端了一碗炖牛肉。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[食品]牛肉；肌肉；食用牛；牢骚",
+      "words": [
+        "muscle",
+        "hotpot"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "抱怨，告发；发牢骚",
+      "words": [
+        "repine",
+        "rail against"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "养；加强",
+      "words": [
+        "enhance",
+        "cement",
+        "muscle"
+      ]
+    }
+  ]
+}

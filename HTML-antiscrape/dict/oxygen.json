@@ -1,0 +1,38 @@
+{
+  "word": "oxygen",
+  "found": true,
+  "phonetic_uk": "ˈɒksɪdʒən",
+  "phonetic_us": "ˈɑːksɪdʒən",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=oxygen&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=oxygen&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "氧，氧气"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Oxygen has high reactivity.",
+      "zh": "氧的反应性很高。"
+    },
+    {
+      "en": "All life depends ultimately on oxygen.",
+      "zh": "一切生命归根到底都要依赖氧气。"
+    },
+    {
+      "en": "Plants absorb oxygen.",
+      "zh": "植物吸收氧气。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "氧气，[化学]氧",
+      "words": [
+        "O2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "word": "display",
+  "found": true,
+  "phonetic_uk": "dɪˈspleɪ",
+  "phonetic_us": "dɪˈspleɪ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=display&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=display&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "展示，陈列；显露，表现；（计算机）显示；（为求偶）作炫耀行为"
+    },
+    {
+      "pos": "n.",
+      "meaning": "展览，陈列；表演；（计算机屏幕上的）显示，显示器；流露，表现；炫耀行为"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "displays"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "displays"
+    },
+    {
+      "name": "现在分词",
+      "value": "displaying"
+    },
+    {
+      "name": "过去式",
+      "value": "displayed"
+    },
+    {
+      "name": "过去分词",
+      "value": "displayed"
+    }
+  ],
+  "examples": [
+    {
+      "en": "These statistics display a definite trend.",
+      "zh": "这些统计数据表现出一种明显的趋势。"
+    },
+    {
+      "en": "They made a bar graph to display the results.",
+      "zh": "他们用条形图来显示结果。"
+    },
+    {
+      "en": "Many companies are choosing to display their wares online.",
+      "zh": "许多公司正选择在网上展示其产品。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[电子]显示；炫耀",
+      "words": [
+        "exhibition",
+        "manifestation"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "[电子]显示；表现；陈列",
+      "words": [
+        "reveal",
+        "make clear",
+        "conduct oneself",
+        "prove",
+        "represent"
+      ]
+    }
+  ]
+}

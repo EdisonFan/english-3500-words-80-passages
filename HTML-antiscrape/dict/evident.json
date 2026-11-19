@@ -1,0 +1,40 @@
+{
+  "word": "evident",
+  "found": true,
+  "phonetic_uk": "ˈevɪdənt",
+  "phonetic_us": "ˈevɪdənt",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=evident&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=evident&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "清楚的，显然的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The threat of inflation is already evident in bond prices.",
+      "zh": "通货膨胀的威胁在证券价格上已经是明显可见的。"
+    },
+    {
+      "en": "It was evident that someone had gone through my possessions.",
+      "zh": "显然有人翻过我的物品。"
+    },
+    {
+      "en": "The privations of monastery life were evident in his appearance.",
+      "zh": "修道院生活的清苦从他的穿着外表明显地表露出来。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "明显的；明白的",
+      "words": [
+        "obvious",
+        "distinct",
+        "visible"
+      ]
+    }
+  ]
+}

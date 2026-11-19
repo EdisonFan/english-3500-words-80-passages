@@ -1,0 +1,67 @@
+{
+  "word": "insist",
+  "found": true,
+  "phonetic_uk": "ɪnˈsɪst",
+  "phonetic_us": "ɪnˈsɪst",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=insist&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=insist&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "坚决要求，执意坚持；坚称"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "insists"
+    },
+    {
+      "name": "现在分词",
+      "value": "insisting"
+    },
+    {
+      "name": "过去式",
+      "value": "insisted"
+    },
+    {
+      "name": "过去分词",
+      "value": "insisted"
+    }
+  ],
+  "examples": [
+    {
+      "en": "I insist on paying for the damage.",
+      "zh": "我坚持要赔偿损失。"
+    },
+    {
+      "en": "Oh, very well , then, if you insist.",
+      "zh": "啊，那好吧，如果你坚持的话。"
+    },
+    {
+      "en": "We insist on the highest standards at all times.",
+      "zh": "我们始终坚持最高标准。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "坚持，强调",
+      "words": [
+        "emphasize",
+        "stay",
+        "tough",
+        "stress",
+        "highlight"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "坚持，强调",
+      "words": [
+        "stay",
+        "stand on"
+      ]
+    }
+  ]
+}

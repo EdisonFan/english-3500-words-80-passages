@@ -1,0 +1,43 @@
+{
+  "word": "reviews",
+  "found": true,
+  "phonetic_uk": "rɪˈvjuːz",
+  "phonetic_us": "rɪˈvjuːz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=reviews&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=reviews&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "综述；评论；复习（review 的复数）；复核"
+    },
+    {
+      "pos": "v.",
+      "meaning": "回顾；复习（review 的三单形式）；检验"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Richard Coles reviews all the latest video releases.",
+      "zh": "理查德•科尔斯对最近发行的所有录像做了评论。"
+    },
+    {
+      "en": "The bad reviews of her new book were very hurtful to her.",
+      "zh": "对她的新书的负面评论使她很难过。"
+    },
+    {
+      "en": "I clicked on a link and recent reviews of the production came up.",
+      "zh": "我点击了一个链接，最近的演出评论就出来了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "综述；评论；复习（review的复数）；复核",
+      "words": [
+        "comments",
+        "remarks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "word": "outstanding",
+  "found": true,
+  "phonetic_uk": "aʊtˈstændɪŋ",
+  "phonetic_us": "aʊtˈstændɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=outstanding&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=outstanding&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "杰出的，优秀的；显著的，突出的；未解决的，未完成的；（款项）未支付的，未结清的"
+    }
+  ],
+  "forms": [
+    {
+      "name": "比较级",
+      "value": "more outstanding"
+    },
+    {
+      "name": "最高级",
+      "value": "most outstanding"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He is unarguably an outstanding man.",
+      "zh": "毋庸置疑，他是一个出色的人。"
+    },
+    {
+      "en": "There are still some outstanding problems.",
+      "zh": "还有一些突出的问题。"
+    },
+    {
+      "en": "He's known to be an outstanding physicist.",
+      "zh": "他被公认为杰出的物理学家。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "杰出的；显著的；未解决的；[会计][经]未偿付的",
+      "words": [
+        "prominent",
+        "excellent",
+        "obvious",
+        "brilliant",
+        "marked"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "word": "realize",
+  "found": true,
+  "phonetic_uk": "ˈriːəlaɪz",
+  "phonetic_us": "ˈriːəlaɪz",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=realize&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=realize&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "了解，意识到；（所担心的事）发生，产生（be realized）；实现（目标、梦想等）；（充分）发挥出自己的潜力； 把（概念等）具体表现出来；用（语言特征）表达；对（记谱不全的乐曲）做完整兑谱改编；获得（金钱，利润）；变现，变卖（资产）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "realizes"
+    },
+    {
+      "name": "现在分词",
+      "value": "realizing"
+    },
+    {
+      "name": "过去式",
+      "value": "realized"
+    },
+    {
+      "name": "过去分词",
+      "value": "realized"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Only later did she realize her mistake.",
+      "zh": "只是到了后来她才意识到自己的错误。"
+    },
+    {
+      "en": "I hope people realize I'm not a dingbat.",
+      "zh": "我希望人们意识到我不是个疯子。"
+    },
+    {
+      "en": "You don't realize how aggravating you can be.",
+      "zh": "你没意识到你有多烦人。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "实现；认识到；了解；将某物卖得",
+      "words": [
+        "come true",
+        "accomplish",
+        "carry out",
+        "fulfill",
+        "implement"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "word": "deserts",
+  "found": true,
+  "phonetic_uk": "dɪˈzɜːts",
+  "phonetic_us": "dɪˈzɜːrts",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=deserts&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=deserts&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "[地理]沙漠；[农]荒原（desert 的复数）；应得到的报应"
+    },
+    {
+      "pos": "v.",
+      "meaning": "放弃；遗弃（desert 的第三人称单数）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The sun shone down on deserts.",
+      "zh": "太阳照射在沙漠上。"
+    },
+    {
+      "en": "I live in dry areas like deserts.",
+      "zh": "我住在像沙漠一样干燥的地方。"
+    },
+    {
+      "en": "Deserts in sub-Saharan Africa will diminish gradually.",
+      "zh": "撒哈拉以南非洲的沙漠将逐渐减少。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "放弃；遗弃（desert的第三人称单数）",
+      "words": [
+        "renders"
+      ]
+    }
+  ]
+}

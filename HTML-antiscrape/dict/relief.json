@@ -1,0 +1,44 @@
+{
+  "word": "relief",
+  "found": true,
+  "phonetic_uk": "rɪˈliːf",
+  "phonetic_us": "rɪˈliːf",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=relief&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=relief&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（因恐惧、忧虑或痛苦的消除而感到的）宽慰，轻松；（疼痛或不快的）减轻，缓解；救济品（如食品、衣物、金钱等）；换班的人，替换者；浮雕，浮雕品；军事援助，解围；税款减免（权）；（暂时的）缓解（物），（短时间的）调剂；（对困苦、不公正遭遇等的）依法补偿；<英>（高峰时或紧急需要时的）临时加班公交车，机动车；凸现（用线条、颜色或明暗表现的立体效果）；（地形的）凹凸，高低；轮廓分明，对比鲜明；突出的品质，令人注目的特征"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "reliefs"
+    }
+  ],
+  "examples": [
+    {
+      "en": "Relief supplies were rushed in.",
+      "zh": "救援物资很快就运来了。"
+    },
+    {
+      "en": "I breathed a sigh of relief.",
+      "zh": "我安心地松了一口气。"
+    },
+    {
+      "en": "I sighed with inward relief.",
+      "zh": "我内心释然地长出了一口气。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "救济；减轻，解除；安慰",
+      "words": [
+        "comfort",
+        "almsgiving"
+      ]
+    }
+  ]
+}

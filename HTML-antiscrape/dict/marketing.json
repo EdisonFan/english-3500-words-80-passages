@@ -1,0 +1,50 @@
+{
+  "word": "marketing",
+  "found": true,
+  "phonetic_uk": "ˈmɑːkɪtɪŋ",
+  "phonetic_us": "ˈmɑːrkɪtɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=marketing&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=marketing&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "促销，营销"
+    },
+    {
+      "pos": "v.",
+      "meaning": "推销，促销；出售；做买卖（market 的现在分词形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "She works in sales and marketing.",
+      "zh": "她在市场营销部工作。"
+    },
+    {
+      "en": "The company has overspent on marketing.",
+      "zh": "这个公司在市场推广方面开支过多。"
+    },
+    {
+      "en": "I was headhunted by a marketing agency.",
+      "zh": "我被一家销售代理公司物色上了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "行销，[贸易]销售",
+      "words": [
+        "sale",
+        "sell"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "出售；在市场上进行交易；使…上市（market的ing形式）",
+      "words": [
+        "selling"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "word": "sweats",
+  "found": true,
+  "phonetic_uk": "swets",
+  "phonetic_us": "swets",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=sweats&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=sweats&type=2",
+  "defs": [
+    {
+      "pos": "vt.",
+      "meaning": "夜间盗汗（sweat 的三单形式）；[医]发汗"
+    },
+    {
+      "pos": "n.",
+      "meaning": "汗水，水珠；汗油（指石蜡发汗所得的油）（sweat 的复数形式）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He started having night sweats.",
+      "zh": "他开始夜间盗汗。"
+    },
+    {
+      "en": "I hung around the house all day in my sweats.",
+      "zh": "我穿着运动服在家里晃荡了一整天。"
+    },
+    {
+      "en": "I lost weight and had night sweats.",
+      "zh": "我的体重一直在降，夜里常常盗汗。"
+    }
+  ],
+  "synonyms": []
+}

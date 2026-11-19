@@ -1,0 +1,38 @@
+{
+  "word": "threw",
+  "found": true,
+  "phonetic_uk": "θruː",
+  "phonetic_us": "θruː",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=threw&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=threw&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "抛（throw 的过去式）；丢弃"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "Someone threw an apple core.",
+      "zh": "有人扔了一个苹果核。"
+    },
+    {
+      "en": "I threw it in the trash.",
+      "zh": "我把它扔进了垃圾桶。"
+    },
+    {
+      "en": "She threw herself into a modelling career.",
+      "zh": "她投身于模特职业。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "v.",
+      "meaning": "抛（throw的过去式）；丢弃",
+      "words": [
+        "hove"
+      ]
+    }
+  ]
+}

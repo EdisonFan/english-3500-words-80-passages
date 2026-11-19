@@ -1,0 +1,42 @@
+{
+  "word": "delayed",
+  "found": true,
+  "phonetic_uk": "dɪˈleɪd",
+  "phonetic_us": "dɪˈleɪd",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=delayed&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=delayed&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "延误的，延迟的"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（使）延误，（使）延期；使耽搁，使迟到；（故意）拖延（delay 的过去式和过去分词）"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "The plane was unexpectedly delayed.",
+      "zh": "飞机意外地延误了。"
+    },
+    {
+      "en": "The lift-off was delayed about seven minutes.",
+      "zh": "发射时间推迟了7分钟左右。"
+    },
+    {
+      "en": "The return flight of the aircraft was delayed.",
+      "zh": "飞机的返回航程被推迟了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "[电子]延时的；定时的",
+      "words": [
+        "time"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "word": "leg",
+  "found": true,
+  "phonetic_uk": "leɡ",
+  "phonetic_us": "leɡ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=leg&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=leg&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "腿；动物腿，腿肉；裤腿；家具的腿，支撑柱条；（旅程或赛程的）一段，一程；<非正式>（球，尤指高尔夫球）力度不够；<非正式>（产品或想法的）持久流行或成功；（板球）腿侧区；叉状物的一分支；<古>屈膝礼"
+    },
+    {
+      "pos": "",
+      "meaning": "comb. 有……腿的(-legged)"
+    },
+    {
+      "pos": "v.",
+      "meaning": "（撑船者）用腿蹬洞顶或洞壁使（船）通过运河隧洞"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "legs"
+    },
+    {
+      "name": "第三人称单数",
+      "value": "legs"
+    },
+    {
+      "name": "现在分词",
+      "value": "legging"
+    },
+    {
+      "name": "过去式",
+      "value": "legged"
+    },
+    {
+      "name": "过去分词",
+      "value": "legged"
+    }
+  ],
+  "examples": [
+    {
+      "en": "His leg was getting better.",
+      "zh": "他的腿在渐渐恢复。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "[解剖]腿；支柱",
+      "words": [
+        "backbone",
+        "stay"
+      ]
+    }
+  ]
+}

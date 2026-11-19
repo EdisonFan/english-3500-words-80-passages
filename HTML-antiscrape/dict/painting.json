@@ -1,0 +1,59 @@
+{
+  "word": "painting",
+  "found": true,
+  "phonetic_uk": "ˈpeɪntɪŋ",
+  "phonetic_us": "ˈpeɪntɪŋ",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=painting&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=painting&type=2",
+  "defs": [
+    {
+      "pos": "n.",
+      "meaning": "（一幅）画，绘画作品；绘画创作，绘画；粉刷，上油漆"
+    },
+    {
+      "pos": "v.",
+      "meaning": "给……上油漆（或涂料）；（用颜料）绘，画；往（指甲、嘴唇等上）施化妆品（paint 的现在分词形式）"
+    },
+    {
+      "pos": "",
+      "meaning": "【名】 （Painting）（英）佩因廷（人名）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "复数",
+      "value": "paintings"
+    }
+  ],
+  "examples": [
+    {
+      "en": "He is painting a huge volcano.",
+      "zh": "他正在画一座巨型火山。"
+    },
+    {
+      "en": "Painting can be very therapeutic.",
+      "zh": "绘画可以使人很放松。"
+    },
+    {
+      "en": "The painting was hung upside down.",
+      "zh": "这幅画挂颠倒了。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "n.",
+      "meaning": "绘画；油画；着色",
+      "words": [
+        "brushwork",
+        "coloration"
+      ]
+    },
+    {
+      "pos": "v.",
+      "meaning": "绘画（paint的ing形式）；涂色于",
+      "words": [
+        "drawing"
+      ]
+    }
+  ]
+}

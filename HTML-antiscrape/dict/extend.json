@@ -1,0 +1,70 @@
+{
+  "word": "extend",
+  "found": true,
+  "phonetic_uk": "ɪkˈstend",
+  "phonetic_us": "ɪkˈstend",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=extend&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=extend&type=2",
+  "defs": [
+    {
+      "pos": "v.",
+      "meaning": "延伸；扩大，延长；持续；包括，波及；提供，表示；伸出；使竭尽全力；对……估价；继承（面向对象语言中的一种概念）"
+    }
+  ],
+  "forms": [
+    {
+      "name": "第三人称单数",
+      "value": "extends"
+    },
+    {
+      "name": "现在分词",
+      "value": "extending"
+    },
+    {
+      "name": "过去式",
+      "value": "extended"
+    },
+    {
+      "name": "过去分词",
+      "value": "extended"
+    }
+  ],
+  "examples": [
+    {
+      "en": "The caves extend for some 12 miles.",
+      "zh": "这些洞穴延伸约12英里。"
+    },
+    {
+      "en": "There are plans to extend the no-smoking area.",
+      "zh": "现已有扩大无烟区的计划。"
+    },
+    {
+      "en": "Careful maintenance can extend the life of your car.",
+      "zh": "精心保养可延长汽车寿命。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "vt.",
+      "meaning": "延伸；扩大；推广；伸出；给予；使竭尽全力；对…估价",
+      "words": [
+        "afford",
+        "allow",
+        "deal",
+        "deliver",
+        "finger"
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "延伸；扩大；伸展；使疏开",
+      "words": [
+        "reach",
+        "spread",
+        "range",
+        "enlarge",
+        "push"
+      ]
+    }
+  ]
+}

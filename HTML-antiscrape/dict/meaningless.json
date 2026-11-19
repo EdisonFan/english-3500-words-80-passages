@@ -1,0 +1,39 @@
+{
+  "word": "meaningless",
+  "found": true,
+  "phonetic_uk": "ˈmiːnɪŋləs",
+  "phonetic_us": "ˈmiːnɪŋləs",
+  "audio_uk": "https://dict.youdao.com/dictvoice?audio=meaningless&type=1",
+  "audio_us": "https://dict.youdao.com/dictvoice?audio=meaningless&type=2",
+  "defs": [
+    {
+      "pos": "adj.",
+      "meaning": "无意义的；无目的的"
+    }
+  ],
+  "forms": [],
+  "examples": [
+    {
+      "en": "He is a master at name-dropping and meaningless Hollywood doubletalk.",
+      "zh": "他善于靠名人名字来抬高自己的身价，并爱讲一些毫无意义的好莱坞式模棱两可的话。"
+    },
+    {
+      "en": "These tests were so seriously flawed as to render the results meaningless.",
+      "zh": "这些测试存在着如此严重的缺陷，以至于使得结果毫无意义。"
+    },
+    {
+      "en": "The essay was a meaningless jumble of ideas.",
+      "zh": "这篇散文思想混乱，使人不知所云。"
+    }
+  ],
+  "synonyms": [
+    {
+      "pos": "adj.",
+      "meaning": "无意义的；无目的的",
+      "words": [
+        "empty",
+        "purportless"
+      ]
+    }
+  ]
+}
